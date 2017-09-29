@@ -1,0 +1,26 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+build_index	/Users/HankWang/Documents/Research_Project/Code/LDA/process_index.py	/^def build_index(database, folder_name, index_name):$/;"	f	language:Python
+convert_number	/Users/HankWang/Documents/Research_Project/Code/LDA/token2matrix.py	/^def convert_number(word):$/;"	f	language:Python
+database	/Users/HankWang/Documents/Research_Project/Code/LDA/search.py	/^database = "simple"$/;"	v	language:Python
+database	/Users/HankWang/Documents/Research_Project/Code/LDA/token2matrix.py	/^    database = "simple"$/;"	v	language:Python
+display_docs	/Users/HankWang/Documents/Research_Project/Code/LDA/matrix2LDA.py	/^def display_docs(model, file_names, no_top_words, tf):$/;"	f	language:Python
+display_topic	/Users/HankWang/Documents/Research_Project/Code/LDA/matrix2LDA.py	/^def display_topic(model, feature_names, no_top_words):$/;"	f	language:Python
+doc2array	doc2token.py	/^def doc2array(database):$/;"	f
+extract_matrix	/Users/HankWang/Documents/Research_Project/Code/LDA/token2matrix.py	/^def extract_matrix(database='NSWSC_txt'):$/;"	f	language:Python
+fetch_index	/Users/HankWang/Documents/Research_Project/Code/LDA/process_index.py	/^def fetch_index(folder_name, index_name):$/;"	f	language:Python
+fit_model	/Users/HankWang/Documents/Research_Project/Code/LDA/matrix2LDA.py	/^def fit_model(database, no_topics=2):$/;"	f	language:Python
+fitted_lda	/Users/HankWang/Documents/Research_Project/Code/LDA/process_index.py	/^fitted_lda = None$/;"	v	language:Python
+folder_name	/Users/HankWang/Documents/Research_Project/Code/LDA/search.py	/^folder_name = "index_folder"$/;"	v	language:Python
+index_flag	/Users/HankWang/Documents/Research_Project/Code/LDA/process_index.py	/^index_flag = False$/;"	v	language:Python
+index_name	/Users/HankWang/Documents/Research_Project/Code/LDA/search.py	/^index_name = "index_file"$/;"	v	language:Python
+lda	/Users/HankWang/Documents/Research_Project/Code/LDA/search.py	/^    lda = process_index.fetch_index(folder_name, index_name)$/;"	v	language:Python
+lda_tokenizer	/Users/HankWang/Documents/Research_Project/Code/LDA/token2matrix.py	/^def lda_tokenizer(raw):$/;"	f	language:Python
+project_opened	.ropeproject/config.py	/^def project_opened(project):$/;"	f
+que_tf	/Users/HankWang/Documents/Research_Project/Code/LDA/search.py	/^que_tf = tf_vectorizer.transform(["query", query])$/;"	v	language:Python
+query	/Users/HankWang/Documents/Research_Project/Code/LDA/search.py	/^query = input("Type the query: ")$/;"	v	language:Python
+set_prefs	.ropeproject/config.py	/^def set_prefs(prefs):$/;"	f
