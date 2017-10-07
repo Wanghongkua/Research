@@ -100,7 +100,7 @@ def fetch_index():
         #  Fetch Reversed Index
         reversed_path = os.path.join(setting.folder_name, setting.reversed_file)
         with open(reversed_path, "rb") as index_file:
-            reversed_index = pickle.loda(index_file)
+            reversed_index = pickle.load(index_file)
 
         #  Fetch vocabulary vectorizer
         vcb_path = os.path.join(setting.folder_name, setting.vcb_file)
