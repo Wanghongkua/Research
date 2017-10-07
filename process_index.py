@@ -1,46 +1,85 @@
 import os
 import pickle
 
-from matrix2LDA import fit_model
+import setting
 
+from wordToVec import train_word2vec
+from matrix2LDA import fit_model
+from inverse_index import build_inverse
 
 #  global lda model
-fitted_lda = None
 index_flag = False
+fitted_lda = None
 
 
-def build_index(database, folder_name, index_name):
+def build_index():
     """ Fit the model and build the index
 
-    :database: database
     :returns: index
 
     """
-    #  TODO: Change number of topics #
-    no_topics = 2
 
-    index_path = os.path.join(folder_name, index_name)
-    lda, tf, tf_vectorizer, tf_feature_names, file_names = fit_model(
-        database, no_topics)
+    #  Train lda model
+    lda, tf, tf_vectorizer, doc_names = fit_model()
 
-    #  find the top k document
+    #  Get vocabulary set
+    setting.vcb = set(tf_vectorizer.get_feature_names())
 
-    with open(index_path, "wb") as index_file:
+    #  Build inverse index
+    reversed_index = build_inverse(tf)
+
+    # Train word2vec model
+    wordToVec = train_word2vec()
+
+    #  Save trained LDA model
+    lda_model_index = os.path.join(setting.folder_name, setting.lda_model)
+    with open(lda_model_index, "wb") as index_file:
 
         #  save lda model as index file
         pickle.dump(lda, index_file)
 
-        #  make it global
-        global fitted_lda
-        fitted_lda = lda
+        #  make it global TODO
+        #  global fitted_lda
+        #  fitted_lda = lda
 
+    #  Save Reversed Index
+    reversed_path = os.path.join(setting.folder_name, setting.reversed_file)
+    with open(reversed_path, "wb") as index_file:
+        pickle.dump(reversed_index, index_file)
+
+    #  Save Doc-Topic index
+    doc_topic_path = os.path.join(setting.folder_name, setting.doc_topic_index)
+    with open(doc_topic_path, "wb") as index_file:
+        pickle.dump(lda.transform(tf), index_file)
+
+    #  Save vocabulary vectorizer
+    vcb_path = os.path.join(setting.folder_name, setting.vcb_file)
+    with open(vcb_path, "wb") as index_file:
+        pickle.dump(tf_vectorizer, index_file)
+
+    #  Save vocabulary set
+    vcb_set_path = os.path.join(setting.folder_name, setting.vcb_set)
+    with open(vcb_set_path, "wb") as index_file:
+        pickle.dump(setting.vcb, index_file)
+
+    #  Save document' names
+    doc_path = os.path.join(setting.folder_name, setting.doc_names)
+    with open(doc_path, "wb") as index_file:
+        pickle.dump(doc_names, index_file)
+
+    #  Save Doc-Topic index
+    word2vec_path = os.path.join(setting.folder_name, setting.word2vec_file)
+    with open(word2vec_path, "wb") as index_file:
+        pickle.dump(wordToVec, index_file)
+
+    #  Now we have the index files we need
     global index_flag
     index_flag = True
 
-    return lda, file_names, tf_vectorizer
+    return lda, doc_names, tf_vectorizer, reversed_index
 
 
-def fetch_index(folder_name, index_name):
+def fetch_index():
     """fetch already built index
     :returns: index
 
@@ -51,9 +90,31 @@ def fetch_index(folder_name, index_name):
         #  already have the data
         lda = fitted_lda
     else:
-        #  need to fetch from file
-        index_path = os.path.join(folder_name, index_name)
-        with open(index_path, "w") as index_file:
-            lda = pickle.load(index_file)
-        fitted_lda = lda
-    return lda
+        #  Fetch trained lda model
+        lda_model_index = os.path.join(setting.folder_name, setting.lda_model)
+        with open(lda_model_index, "rb") as index_file:
+            unpickler = pickle.Unpickler(index_file)
+            lda = unpickler.load()
+        #  fitted_lda = lda
+
+        #  Fetch Reversed Index
+        reversed_path = os.path.join(setting.folder_name, setting.reversed_file)
+        with open(reversed_path, "rb") as index_file:
+            reversed_index = pickle.loda(index_file)
+
+        #  Fetch vocabulary vectorizer
+        vcb_path = os.path.join(setting.folder_name, setting.vcb_file)
+        with open(vcb_path, "rb") as index_file:
+            tf_vectorizer = pickle.load(index_file)
+
+        #  Fetch vocabulary set
+        vcb_set_path = os.path.join(setting.folder_name, setting.vcb_set)
+        with open(vcb_set_path, "rb") as index_file:
+            setting.vcb = pickle.load(index_file)
+
+        #  Fetch document' names
+        doc_path = os.path.join(setting.folder_name, setting.doc_names)
+        with open(doc_path, "rb") as index_file:
+            doc_names = pickle.load(index_file)
+
+    return lda, doc_names, tf_vectorizer, reversed_index

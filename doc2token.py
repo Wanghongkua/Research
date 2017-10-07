@@ -1,20 +1,21 @@
 import os
+import setting
 
 
-def doc2array(database):
+def doc2array():
     """Extract content from database
     returns array of string
             array of files name
     """
     f_num = 0
-    filenames = []
+    doc_names = []
     texts = []
 
-    cwd = os.path.join(os.getcwd(), database)
+    cwd = os.path.join(os.getcwd(), setting.database)
     for filename in os.listdir(cwd):
 
         #  add to file list
-        filenames.append(filename)
+        doc_names.append(filename)
 
         f_num += 1
 
@@ -24,4 +25,4 @@ def doc2array(database):
             content = content_file.read()
 
             texts.append(content)
-    return texts, filenames
+    return texts, doc_names

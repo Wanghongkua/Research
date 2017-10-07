@@ -6,15 +6,14 @@ from nltk.stem.porter import PorterStemmer
 from doc2token import doc2array
 
 
-def extract_matrix(database='NSWSC_txt'):
+def extract_matrix():
     """Using CountVectorizer to turn strings into word frequency matrix
 
-    :database: name of the database
     :returns: the matrix LDA gona use
 
     """
     #  Get the data from database
-    texts, file_names = doc2array(database)
+    texts, doc_names = doc2array()
 
     #  Need to be deleted
     #  n_features = 2000
@@ -31,10 +30,14 @@ def extract_matrix(database='NSWSC_txt'):
         analyzer='word',
         tokenizer=lda_tokenizer)
     tf = tf_vectorizer.fit(texts)
-    tf = tf_vectorizer.transform(texts)
-    tf_feature_names = tf_vectorizer.get_feature_names()
 
-    return tf, tf_vectorizer, tf_feature_names, file_names
+    tf = tf_vectorizer.transform(texts)
+    #  tf_feature_names = tf_vectorizer.get_feature_names()
+
+    #  Vocabulary set
+    #  setting.vcb = set(tf_feature_names)
+
+    return tf, tf_vectorizer, doc_names
 
 
 def lda_tokenizer(raw):
@@ -81,7 +84,11 @@ def convert_number(word):
 
 
 if __name__ == "__main__":
-    database = "simple"
-    tf, tf_feature_names, _ = extract_matrix(database)
-    print(tf[0][0])
+    import setting
+    setting.init()
+    tf, tf_feature_names, _ = extract_matrix()
+    print("-------------------")
+    print(tf)
     #  print(tf_feature_names[-1])
+    #  debug
+    #  print(tf.inverse_transform(texts))
