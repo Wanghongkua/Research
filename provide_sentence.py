@@ -28,7 +28,7 @@ class GetSentence(object):
 
     def __iter__(self):
         """provide one sentence at each iteration
-        :returns: TODO
+        :returns:
 
         """
         #  yield os.listdir(self.dirName)

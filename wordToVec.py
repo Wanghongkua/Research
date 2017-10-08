@@ -6,7 +6,7 @@ import setting
 
 def train_word2vec():
     """train word2vec model
-    :returns: TODO
+    :returns:
 
     """
     sentences = GetSentence(setting.database)

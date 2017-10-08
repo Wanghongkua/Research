@@ -50,7 +50,8 @@ def build_index():
     #  Save Doc-Topic index
     doc_topic_path = os.path.join(setting.folder_name, setting.doc_topic_index)
     with open(doc_topic_path, "wb") as index_file:
-        pickle.dump(lda.transform(tf), index_file)
+        doc_topic_index = lda.transform(tf)
+        pickle.dump(doc_topic_index, index_file)
 
     #  Save vocabulary vectorizer
     vcb_path = os.path.join(setting.folder_name, setting.vcb_file)
@@ -76,7 +77,7 @@ def build_index():
     global index_flag
     index_flag = True
 
-    return lda, doc_names, tf_vectorizer, reversed_index
+    return lda, doc_names, tf_vectorizer, reversed_index, doc_topic_index
 
 
 def fetch_index():
@@ -90,6 +91,12 @@ def fetch_index():
         #  already have the data
         lda = fitted_lda
     else:
+        #  Fetch Doc-Topic index
+        doc_topic_path = os.path.join(
+            setting.folder_name, setting.doc_topic_index)
+        with open(doc_topic_path, "rb") as index_file:
+            doc_topic_index = pickle.load(index_file)
+
         #  Fetch trained lda model
         lda_model_index = os.path.join(setting.folder_name, setting.lda_model)
         with open(lda_model_index, "rb") as index_file:
@@ -117,4 +124,4 @@ def fetch_index():
         with open(doc_path, "rb") as index_file:
             doc_names = pickle.load(index_file)
 
-    return lda, doc_names, tf_vectorizer, reversed_index
+    return lda, doc_names, tf_vectorizer, reversed_index, doc_topic_index

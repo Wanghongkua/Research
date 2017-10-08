@@ -1,11 +1,9 @@
 import os
 
 import setting
-
-import sys
 import process_index
 
-#  from token2matrix import lda_tokenizer
+from sorting_docs import sorting_docs
 
 
 def search():
@@ -27,37 +25,36 @@ def search():
     #  Init global variables
     setting.init()
 
-    _, _, tf_vectorizer, reversed_index = get_index()
+    lda, _, tf_vectorizer, reversed_index, doc_topic_index = get_index()
 
     que_tf = tf_vectorizer.transform(["query", query])
 
     #  Using reversed index to find docs
     final_docs = regular_search(reversed_index, que_tf)
-    final_docs = sorted(final_docs, key=lambda doc: doc[1], reverse=True)
 
-    sys.exit()
+    #  Sorting docs by frequency
+    #  final_docs = sorted(final_docs, key=lambda doc: doc[1], reverse=True)
+
     if len(final_docs) < num_doc:
         #  TODO: needed to be done #
         final_docs = concept_search(final_docs)
         pass
-
-    #  sorting final docs using LDA
-    sorting_docs()
 
     #  print(que_tf)
     #  print("------------------")
     #  for doc_idx, topic in enumerate(lda.transform(que_tf)):
     #  print(doc_idx, topic)
 
+    #  TODO: find out why it have 2 distribution#
+    que_dis = lda.transform(que_tf)[1]
 
-def sorting_docs(final_docs):
-    """sorting final docs using LDA
+    #  print(que_dis)
+    #  sys.exit()
+    #  sorting final docs using LDA
+    final_docs = sorting_docs(final_docs, doc_topic_index, que_dis)
 
-    :final_docs:
-    :returns: sorted final_docs
-
-    """
-    pass
+    print(final_docs)
+    return
 
 
 def concept_search(final_docs):
@@ -113,7 +110,7 @@ def find_same_ele(list1, list2):
 
 def get_index():
     """get index
-    :returns: TODO
+    :returns:
 
     """
     if not os.path.isdir(setting.folder_name):
