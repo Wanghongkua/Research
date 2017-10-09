@@ -61,7 +61,7 @@ class GetSentence(object):
         tokens = [self.p_stemmer.stem(i) for i in tokens]
 
         # Delete unuseful word
-        tokens = [i for i in tokens if i in setting.vcb_set]
+        tokens = [i for i in tokens if i in setting.vcb]
 
         return tokens
 

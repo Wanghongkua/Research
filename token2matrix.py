@@ -1,7 +1,10 @@
 from stop_words import get_stop_words
+
 from sklearn.feature_extraction.text import CountVectorizer
 from nltk.tokenize import RegexpTokenizer
 from nltk.stem.porter import PorterStemmer
+
+import setting
 
 from doc2token import doc2array
 
@@ -32,10 +35,10 @@ def extract_matrix():
     tf = tf_vectorizer.fit(texts)
 
     tf = tf_vectorizer.transform(texts)
-    #  tf_feature_names = tf_vectorizer.get_feature_names()
+    tf_feature_names = tf_vectorizer.get_feature_names()
 
     #  Vocabulary set
-    #  setting.vcb = set(tf_feature_names)
+    setting.vcb = set(tf_feature_names)
 
     return tf, tf_vectorizer, doc_names
 
@@ -84,7 +87,7 @@ def convert_number(word):
 
 
 if __name__ == "__main__":
-    import setting
+
     setting.init()
     tf, tf_feature_names, _ = extract_matrix()
     print("-------------------")

@@ -1,4 +1,5 @@
 import os
+#  import sys
 
 import setting
 import doc_search
@@ -26,9 +27,9 @@ def search():
     #  Init global variables
     setting.init()
 
-    lda, doc_names, tf_vectorizer, reversed_index, doc_topic_index = get_index()
+    lda, doc_names, tf_vectorizer, reversed_index, doc_topic_index, wordToVec = get_index()
 
-    que_tf = tf_vectorizer.transform(["query", query])
+    que_tf = tf_vectorizer.transform([query])
 
     #  Using reversed index to find docs
     final_docs = doc_search.regular_search(reversed_index, que_tf)
@@ -36,15 +37,18 @@ def search():
     #  Sorting docs by frequency
     #  final_docs = sorted(final_docs, key=lambda doc: doc[1], reverse=True)
 
-    replace_num = 1
-    while len(final_docs) < num_doc:
-        #  TODO: needed to be done #
-        final_docs = doc_search.concept_search(
-            final_docs, len(final_docs), replace_num)
-        replace_num += 1
+    #  que_terms = que_tf.nonzero()[1]
+    #  replace_num = 1
+    #  while len(final_docs) < num_doc:
+    #  #  TODO: needed to be done #
+    #  final_docs = doc_search.concept_search(
+    #  final_docs, len(final_docs),
+    #  replace_num, que_terms, wordToVec,
+    #  tf_vectorizer.get_feature_names())
+    #  replace_num += 1
 
     #  TODO: find out why it have 2 distribution#
-    que_dis = lda.transform(que_tf)[1]
+    que_dis = lda.transform(que_tf)[0]
 
     #  Sorting final docs using LDA
     final_docs = sorting_docs(final_docs, doc_topic_index, que_dis)

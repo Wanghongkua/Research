@@ -77,7 +77,7 @@ def build_index():
     global index_flag
     index_flag = True
 
-    return lda, doc_names, tf_vectorizer, reversed_index, doc_topic_index
+    return lda, doc_names, tf_vectorizer, reversed_index, doc_topic_index, wordToVec
 
 
 def fetch_index():
@@ -124,4 +124,8 @@ def fetch_index():
         with open(doc_path, "rb") as index_file:
             doc_names = pickle.load(index_file)
 
-    return lda, doc_names, tf_vectorizer, reversed_index, doc_topic_index
+        word2vec_path = os.path.join(setting.folder_name, setting.word2vec_file)
+        with open(word2vec_path, "rb") as index_file:
+            wordToVec = pickle.load(index_file)
+
+    return lda, doc_names, tf_vectorizer, reversed_index, doc_topic_index, wordToVec

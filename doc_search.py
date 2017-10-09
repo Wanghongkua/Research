@@ -1,3 +1,4 @@
+import sys
 
 
 def regular_search(reversed_index, que_tf):
@@ -43,10 +44,30 @@ def find_same_ele(list1, list2):
     return final_list
 
 
-def concept_search(final_docs, doc_num, replace_num):
+index_flag = False
+query_replace = None
+
+
+def concept_search(
+        final_docs,
+        doc_num,
+        replace_num,
+        que_terms,
+        model,
+        word_name):
     """Searching for additional docs by concept
     :returns: new final docs
 
     """
+    if not index_flag:
+        global query_replace
+        query_replace = [None] * len(que_terms)
+        for i in range(len(que_terms)):
+            query_replace[i] = model.wv.most_similar(
+                positive=[word_name[que_terms[i]]], topn=10)
 
+    new_que = list(que_terms)
+
+
+    sys.exit()
     return final_docs
