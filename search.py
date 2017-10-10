@@ -2,15 +2,55 @@ import os
 #  import sys
 
 import setting
-import doc_search
+#  import doc_search
 import process_index
 
 from sorting_docs import sorting_docs
+from doc_search import find_docs
 
 
 def search():
     """Search for query using LDA and Word2Vec
     :returns: Doc names
+
+    """
+
+    #  Get user query request
+    query, num_doc = get_input()
+
+    #  Init global variables
+    setting.init()
+
+    #  Get index needed to do search
+    lda, doc_names, tf_vectorizer, reversed_index,\
+        doc_topic_index, wordToVec = get_index()
+
+    #  Pre-process query terms
+    que_tf = tf_vectorizer.transform([query])
+
+    #  Find Matched Documents ID
+    final_docs = find_docs(
+        reversed_index,
+        que_tf,
+        num_doc,
+        tf_vectorizer,
+        wordToVec)
+
+    #  Ranking docs
+    que_dis = lda.transform(que_tf)[0]
+
+    #  Sorting final docs using LDA
+    final_docs = sorting_docs(final_docs, doc_topic_index, que_dis)
+
+    #  Print document names of final result
+    print_docNames(final_docs, doc_names)
+
+    return
+
+
+def get_input():
+    """get query and number of docs needed
+    :returns: TODO
 
     """
     query = input("Type the query: ")
@@ -24,38 +64,7 @@ def search():
         except Exception:
             print("Please only type integer!")
 
-    #  Init global variables
-    setting.init()
-
-    lda, doc_names, tf_vectorizer, reversed_index, doc_topic_index, wordToVec = get_index()
-
-    que_tf = tf_vectorizer.transform([query])
-
-    #  Using reversed index to find docs
-    final_docs = doc_search.regular_search(reversed_index, que_tf)
-
-    #  Sorting docs by frequency
-    #  final_docs = sorted(final_docs, key=lambda doc: doc[1], reverse=True)
-
-    #  que_terms = que_tf.nonzero()[1]
-    #  replace_num = 1
-    #  while len(final_docs) < num_doc:
-    #  #  TODO: needed to be done #
-    #  final_docs = doc_search.concept_search(
-    #  final_docs, len(final_docs),
-    #  replace_num, que_terms, wordToVec,
-    #  tf_vectorizer.get_feature_names())
-    #  replace_num += 1
-
-    #  TODO: find out why it have 2 distribution#
-    que_dis = lda.transform(que_tf)[0]
-
-    #  Sorting final docs using LDA
-    final_docs = sorting_docs(final_docs, doc_topic_index, que_dis)
-
-    #  Print document names of final result
-    print_docNames(final_docs, doc_names)
-    return
+    return query, num_doc
 
 
 def print_docNames(final_docs, doc_names):

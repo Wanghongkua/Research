@@ -9,6 +9,7 @@ def train_word2vec():
     :returns:
 
     """
+    print("Training word2vec")
     sentences = GetSentence(setting.database)
     model = gensim.models.Word2Vec(
         sentences,
@@ -18,4 +19,5 @@ def train_word2vec():
         workers=8,
         iter=20)
 
+    print("Finish word2vec trainning")
     return model

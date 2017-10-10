@@ -12,13 +12,19 @@ def sorting_docs(final_docs, doc_topic_index, que_dis):
     :returns: sorted final_docs
 
     """
-    for i in range(len(final_docs)):
-        index = final_docs[i][0]
+    doc_num = len(final_docs)
+    doc_list = [None] * doc_num
 
-        final_docs[i] = (
-            final_docs[i][0],
-            stats.entropy(pk=doc_topic_index[index], qk=que_dis))
+    i = 0
+    for index in final_docs:
+        #  Build docID-entropy list
+        doc_list[i] = (
+            index,
+            stats.entropy(
+                pk=doc_topic_index[index],
+                qk=que_dis))
+        i += 1
 
-    final_docs = sorted(final_docs, key=lambda doc: doc[1])
+    doc_list = sorted(doc_list, key=lambda doc: doc[1])
 
-    return final_docs
+    return doc_list
