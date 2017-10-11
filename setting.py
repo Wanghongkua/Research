@@ -41,4 +41,4 @@ def init():
     no_topics = 70
 
     global topn
-    topn = 10
+    topn = 5
