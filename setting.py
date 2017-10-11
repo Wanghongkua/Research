@@ -4,8 +4,8 @@ def init():
 
     """
     global database
-    database = "NSWSC_txt"
-    # database = "simple"
+    # database = "NSWSC_txt"
+    database = "simple"
 
     global folder_name
     folder_name = "index_folder"
@@ -41,4 +41,4 @@ def init():
     no_topics = 70
 
     global topn
-    topn = 10
+    topn = 5
