@@ -1,5 +1,5 @@
 import os
-#  import sys
+import sys
 
 import setting
 #  import doc_search
@@ -53,12 +53,14 @@ def get_input():
     :returns: TODO
 
     """
-    query = input("Type the query: ")
+    query = sys.argv[1]
+    #  query = input("Type the query: ")
 
     #  Find the number of docs needed
     while True:
         try:
-            num_doc = input("Type how many docs do you need: ")
+            #  num_doc = input("Type how many docs do you need: ")
+            num_doc = sys.argv[2]
             num_doc = int(num_doc)
             break
         except Exception:
