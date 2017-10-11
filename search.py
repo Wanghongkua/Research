@@ -1,4 +1,5 @@
 import os
+import time
 import sys
 
 import setting
@@ -87,6 +88,7 @@ def get_index():
     :returns:
 
     """
+    time1 = time.time()
     if not os.path.isdir(setting.folder_name):
         print("Building index")
         os.makedirs(setting.folder_name)
@@ -94,6 +96,9 @@ def get_index():
     else:
         print("Fetching index")
         return process_index.fetch_index()
+
+    print("Time for get_index(): ", end='')
+    print(time.time()-time1)
 
 
 if __name__ == "__main__":

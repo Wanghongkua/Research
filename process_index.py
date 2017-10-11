@@ -1,5 +1,6 @@
 import os
 import pickle
+import time
 
 import setting
 
@@ -18,6 +19,7 @@ def build_index():
     :returns: index
 
     """
+    time1 = time.time()
 
     #  Train lda model
     lda, tf, tf_vectorizer, doc_names = fit_model()
@@ -76,6 +78,9 @@ def build_index():
     #  Now we have the index files we need
     global index_flag
     index_flag = True
+
+    print("Time for build_index(): ", end='')
+    print(time.time() - time1)
 
     return lda, doc_names, tf_vectorizer, reversed_index, doc_topic_index, wordToVec
 

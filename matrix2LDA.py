@@ -1,4 +1,5 @@
 from sklearn.decomposition import LatentDirichletAllocation
+import time
 #  from sklearn.feature_extraction.text import CountVectorizer
 
 from token2matrix import extract_matrix
@@ -11,6 +12,7 @@ def fit_model():
     :returns:
 
     """
+    time1 = time.time()
 
     #  Pre-processing
     tf, tf_vectorizer, doc_names = extract_matrix()
@@ -23,7 +25,10 @@ def fit_model():
         learning_offset=50.,
         random_state=0).fit(tf)
 
-    print("Finish LDA training")
+    print("Time for fit_model(): ", end='')
+    print(time.time() - time1)
+
+    #  print("Finish LDA training")
 
     return lda, tf, tf_vectorizer, doc_names
 

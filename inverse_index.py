@@ -1,4 +1,5 @@
 import setting
+import time
 
 
 def build_inverse(tf):
@@ -9,6 +10,8 @@ def build_inverse(tf):
         indexex: 2d array of term, doc frequency
 
     """
+    time1 = time.time()
+
     i = 0
     vcb_size = len(setting.vcb)
     print("vcb_size:", vcb_size)
@@ -27,4 +30,8 @@ def build_inverse(tf):
             i += 1
         except IndexError:
             break
+
+    print("Time for build_inverse(): ", end='')
+    print(time.time() - time1)
+
     return indexes

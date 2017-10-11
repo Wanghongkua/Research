@@ -2,6 +2,7 @@
 import gensim
 from provide_sentence import GetSentence
 import setting
+import time
 
 
 def train_word2vec():
@@ -9,7 +10,10 @@ def train_word2vec():
     :returns:
 
     """
-    print("Training word2vec")
+    #  print("Training word2vec")
+
+    time1 = time.time()
+
     sentences = GetSentence(setting.database)
     model = gensim.models.Word2Vec(
         sentences,
@@ -19,5 +23,8 @@ def train_word2vec():
         workers=8,
         iter=20)
 
-    print("Finish word2vec trainning")
+    print("Time for train_word2vec(): ", end='')
+    print(time.time() - time1)
+
+    #  print("Finish word2vec trainning")
     return model

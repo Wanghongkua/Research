@@ -1,4 +1,5 @@
 #  import sys
+import time
 import setting
 
 
@@ -8,6 +9,7 @@ def find_docs(reversed_index, que_tf, num_doc, tf_vectorizer, wordToVec):
     :returns: TODO
 
     """
+    time1 = time.time()
 
     #  Using reversed index to find docs
     final_docs = regular_search(reversed_index, que_tf)
@@ -30,6 +32,10 @@ def find_docs(reversed_index, que_tf, num_doc, tf_vectorizer, wordToVec):
 
     if len(final_docs) >= num_doc:
         return final_docs
+
+    print("Time for find_docs(): ", end='')
+    print(time.time() - time1)
+
 
     #  TODO Use wide range to search result
     return final_docs

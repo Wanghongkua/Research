@@ -5,6 +5,7 @@ from nltk.tokenize import RegexpTokenizer
 from nltk.stem.porter import PorterStemmer
 
 import setting
+import time
 
 from doc2token import doc2array
 
@@ -15,6 +16,8 @@ def extract_matrix():
     :returns: the matrix LDA gona use
 
     """
+    time1 = time.time()
+
     #  Get the data from database
     texts, doc_names = doc2array()
 
@@ -24,7 +27,7 @@ def extract_matrix():
     # Use tf (raw term count) features for LDA. Common English words, words
     # occurring in only one document or in at least 50% of the documents are
     # removed
-    print("Extracting tf features for LDA...")
+    #  print("Extracting tf features for LDA...")
     tf_vectorizer = CountVectorizer(
         max_df=0.5,
         min_df=2,
@@ -39,6 +42,9 @@ def extract_matrix():
 
     #  Vocabulary set
     setting.vcb = set(tf_feature_names)
+
+    print("Time for extract_matrix(): ", end='')
+    print(time.time() - time1)
 
     return tf, tf_vectorizer, doc_names
 

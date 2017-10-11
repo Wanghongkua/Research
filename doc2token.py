@@ -1,4 +1,5 @@
 import os
+import time
 import setting
 
 
@@ -7,6 +8,8 @@ def doc2array():
     returns array of string
             array of files name
     """
+    time1 = time.time()
+
     f_num = 0
     doc_names = []
     texts = []
@@ -25,4 +28,8 @@ def doc2array():
             content = content_file.read()
 
             texts.append(content)
+
+    print("Time for build_index(): ", end='')
+    print(time.time() - time1)
+
     return texts, doc_names
