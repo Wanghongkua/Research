@@ -1,6 +1,6 @@
 NSWSC_txt
 __pycache__
-simple
 index_folder
 *.pyc
 result.log
+test

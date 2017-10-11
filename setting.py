@@ -4,7 +4,8 @@ def init():
 
     """
     global database
-    database = "NSWSC_txt"
+    # database = "NSWSC_txt"
+    database = "test"
 
     global folder_name
     folder_name = "index_folder"
