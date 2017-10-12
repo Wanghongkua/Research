@@ -21,8 +21,7 @@ def extract_matrix():
     #  Get the data from database
     texts, doc_names = doc2array()
 
-    #  Need to be deleted
-    #  n_features = 2000
+    init_stemmer()
 
     # Use tf (raw term count) features for LDA. Common English words, words
     # occurring in only one document or in at least 50% of the documents are
@@ -49,6 +48,25 @@ def extract_matrix():
     return tf, tf_vectorizer, doc_names
 
 
+def init_stemmer():
+    """init p_stemmer
+
+    """
+    #  create tokenizer
+    global tokenizer
+    tokenizer = RegexpTokenizer(r'\w+')
+
+    # create English stop words list
+    global en_stop
+    en_stop = set(get_stop_words('en'))
+
+    # Create p_stemmer of class PorterStemmer
+    global p_stemmer
+    p_stemmer = PorterStemmer()
+
+    return
+
+
 def lda_tokenizer(raw):
     """self defined tokenizer
 
@@ -56,26 +74,32 @@ def lda_tokenizer(raw):
     :returns: array of tokens
 
     """
-    #  create tokenizer
-    tokenizer = RegexpTokenizer(r'\w+')
-
-    # create English stop words list
-    en_stop = get_stop_words('en')
-
-    # Create p_stemmer of class PorterStemmer
-    p_stemmer = PorterStemmer()
 
     #  make tokens
+    global tokenizer
     tokens = tokenizer.tokenize(raw)
 
-    # remove numbers
-    tokens = [convert_number(i) for i in tokens]
-
-    # remove stop words from tokens
+    global en_stop
     tokens = [i for i in tokens if i not in en_stop]
 
+    for i in range(len(tokens)):
+        token = tokens[i]
+
+        if token.isdigit():
+            tokens[i] = '#' * (len(token))
+        else:
+            tokens[i] = p_stemmer.stem(token)
+
+    # remove numbers
+    #  tokens = [convert_number(i) for i in tokens]
+
+    # remove stop words from tokens
+    #  global en_stop
+    #  tokens = [i for i in tokens if i not in en_stop]
+
     # stem tokens
-    tokens = [p_stemmer.stem(i) for i in tokens]
+    #  global p_stemmer
+    #  tokens = [p_stemmer.stem(i) for i in tokens]
 
     return tokens
 
