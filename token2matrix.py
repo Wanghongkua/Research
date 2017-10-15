@@ -5,6 +5,7 @@ from nltk.tokenize import RegexpTokenizer
 from nltk.stem.porter import PorterStemmer
 
 import setting
+import sys
 import time
 
 from doc2token import doc2array
@@ -82,6 +83,8 @@ def lda_tokenizer(raw):
 
     global en_stop
     tokens = [i for i in tokens if i not in en_stop]
+    ID = hex(id(tokens))
+    print("This is the original address:", ID)
 
     for i in range(len(tokens)):
         token = tokens[i]
@@ -101,6 +104,9 @@ def lda_tokenizer(raw):
     # stem tokens
     #  global p_stemmer
     #  tokens = [p_stemmer.stem(i) for i in tokens]
+    if hex(id(tokens)) != ID:
+        print("hshs")
+        sys.exit()
 
     return tokens
 
