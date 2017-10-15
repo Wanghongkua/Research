@@ -35,6 +35,7 @@ def extract_matrix():
         analyzer='word',
         tokenizer=lda_tokenizer)
     tf = tf_vectorizer.fit(texts)
+    print("finished tokenizing")
 
     tf = tf_vectorizer.transform(texts)
     tf_feature_names = tf_vectorizer.get_feature_names()
