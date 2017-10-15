@@ -69,6 +69,9 @@ def init_stemmer():
     return
 
 
+ID = 0
+
+
 def lda_tokenizer(raw):
     """self defined tokenizer
 
@@ -76,6 +79,9 @@ def lda_tokenizer(raw):
     :returns: array of tokens
 
     """
+    global ID
+    print("tokenizing doc: ", ID)
+    ID += 1
 
     #  make tokens
     global tokenizer
@@ -83,8 +89,6 @@ def lda_tokenizer(raw):
 
     global en_stop
     tokens = [i for i in tokens if i not in en_stop]
-    ID = hex(id(tokens))
-    print("This is the original address:", ID)
 
     for i in range(len(tokens)):
         token = tokens[i]
@@ -104,9 +108,6 @@ def lda_tokenizer(raw):
     # stem tokens
     #  global p_stemmer
     #  tokens = [p_stemmer.stem(i) for i in tokens]
-    if hex(id(tokens)) != ID:
-        print("hshs")
-        sys.exit()
 
     return tokens
 
