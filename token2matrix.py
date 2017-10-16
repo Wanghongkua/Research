@@ -5,7 +5,7 @@ from nltk.tokenize import RegexpTokenizer
 from nltk.stem.porter import PorterStemmer
 
 import setting
-import sys
+#  import sys
 import time
 
 from doc2token import doc2array
@@ -83,31 +83,37 @@ def lda_tokenizer(raw):
     print("tokenizing doc: ", ID)
     ID += 1
 
+    time1 = time.time()
+
     #  make tokens
     global tokenizer
     tokens = tokenizer.tokenize(raw)
 
-    global en_stop
-    tokens = [i for i in tokens if i not in en_stop]
-
-    for i in range(len(tokens)):
-        token = tokens[i]
-
-        if token.isdigit():
-            tokens[i] = '#' * (len(token))
-        else:
-            tokens[i] = p_stemmer.stem(token)
-
-    # remove numbers
-    #  tokens = [convert_number(i) for i in tokens]
-
-    # remove stop words from tokens
     #  global en_stop
     #  tokens = [i for i in tokens if i not in en_stop]
 
+    #  for i in range(len(tokens)):
+    #  token = tokens[i]
+
+    #  if token.isdigit():
+    #  tokens[i] = '#' * (len(token))
+    #  else:
+    #  tokens[i] = p_stemmer.stem(token)
+
+    # remove numbers
+    tokens = [convert_number(i) for i in tokens]
+
+    # remove stop words from tokens
+    global en_stop
+    tokens = [i for i in tokens if i not in en_stop]
+
+    print("Stop word time: ", time.time() - time1)
+
     # stem tokens
-    #  global p_stemmer
-    #  tokens = [p_stemmer.stem(i) for i in tokens]
+    global p_stemmer
+    tokens = [p_stemmer.stem(i) for i in tokens]
+
+    print("Change Ele time: ", time.time() - time1)
 
     return tokens
 
