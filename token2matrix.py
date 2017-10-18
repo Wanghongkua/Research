@@ -89,31 +89,31 @@ def lda_tokenizer(raw):
     global tokenizer
     tokens = tokenizer.tokenize(raw)
 
-    #  global en_stop
-    #  tokens = [i for i in tokens if i not in en_stop]
-
-    #  for i in range(len(tokens)):
-    #  token = tokens[i]
-
-    #  if token.isdigit():
-    #  tokens[i] = '#' * (len(token))
-    #  else:
-    #  tokens[i] = p_stemmer.stem(token)
-
-    # remove numbers
-    tokens = [convert_number(i) for i in tokens]
-
-    # remove stop words from tokens
     global en_stop
     tokens = [i for i in tokens if i not in en_stop]
 
     print("Stop word time: ", time.time() - time1)
 
-    # stem tokens
-    global p_stemmer
-    tokens = [p_stemmer.stem(i) for i in tokens]
+    for i in range(len(tokens)):
+        token = tokens[i]
+
+        if token.isdigit():
+            tokens[i] = '#' * (len(token))
+        else:
+            tokens[i] = p_stemmer.stem(token)
 
     print("Change Ele time: ", time.time() - time1)
+
+    # remove numbers
+    #  tokens = [convert_number(i) for i in tokens]
+
+    # remove stop words from tokens
+    #  global en_stop
+    #  tokens = [i for i in tokens if i not in en_stop]
+
+    # stem tokens
+    #  global p_stemmer
+    #  tokens = [p_stemmer.stem(i) for i in tokens]
 
     return tokens
 
