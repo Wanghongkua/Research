@@ -22,8 +22,6 @@ def extract_matrix():
     #  Get the data from database
     texts, doc_names = doc2array()
 
-    init_stemmer()
-
     # Use tf (raw term count) features for LDA. Common English words, words
     # occurring in only one document or in at least 50% of the documents are
     # removed
@@ -80,10 +78,10 @@ def lda_tokenizer(raw):
 
     """
     global ID
-    print("tokenizing doc: ", ID)
+    #  print("tokenizing doc: ", ID)
     ID += 1
 
-    time1 = time.time()
+    #  time1 = time.time()
 
     #  make tokens
     global tokenizer
@@ -92,7 +90,7 @@ def lda_tokenizer(raw):
     global en_stop
     tokens = [i for i in tokens if i not in en_stop]
 
-    print("Stop word time: ", time.time() - time1)
+    #  print("Stop word time: ", time.time() - time1)
 
     for i in range(len(tokens)):
         token = tokens[i]
@@ -102,7 +100,7 @@ def lda_tokenizer(raw):
         else:
             tokens[i] = p_stemmer.stem(token)
 
-    print("Change Ele time: ", time.time() - time1)
+    #  print("Change Ele time: ", time.time() - time1)
 
     # remove numbers
     #  tokens = [convert_number(i) for i in tokens]
@@ -129,6 +127,8 @@ def convert_number(word):
         word = '#'*(len(word))
     return word
 
+
+init_stemmer()
 
 if __name__ == "__main__":
 
