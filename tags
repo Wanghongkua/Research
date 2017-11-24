@@ -28,7 +28,7 @@ index_flag	/Users/HankWang/Documents/Research_Project/Code/LDA/process_index.py	
 init	/Users/HankWang/Documents/Research_Project/Code/LDA/setting.py	/^def init():$/;"	f	language:Python
 init_stemmer	/Users/HankWang/Documents/Research_Project/Code/LDA/token2matrix.py	/^def init_stemmer():$/;"	f	language:Python
 lda_tokenizer	/Users/HankWang/Documents/Research_Project/Code/LDA/token2matrix.py	/^def lda_tokenizer(raw):$/;"	f	language:Python
-print_docNames	/Users/HankWang/Documents/Research_Project/Code/LDA/search.py	/^def print_docNames(final_docs, doc_names):$/;"	f	language:Python
+print_docNames	/Users/HankWang/Documents/Research_Project/Code/LDA/search.py	/^def print_docNames(final_docs, doc_names, num_doc):$/;"	f	language:Python
 project_opened	.ropeproject/config.py	/^def project_opened(project):$/;"	f
 regular_search	/Users/HankWang/Documents/Research_Project/Code/LDA/doc_search.py	/^def regular_search(reversed_index, que_tf):$/;"	f	language:Python
 search	/Users/HankWang/Documents/Research_Project/Code/LDA/search.py	/^def search():$/;"	f	language:Python

@@ -78,7 +78,7 @@ def lda_tokenizer(raw):
 
     """
     global ID
-    #  print("tokenizing doc: ", ID)
+    print("tokenizing doc: ", ID)
     ID += 1
 
     #  time1 = time.time()

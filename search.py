@@ -44,7 +44,7 @@ def search():
     final_docs = sorting_docs(final_docs, doc_topic_index, que_dis)
 
     #  Print document names of final result
-    print_docNames(final_docs, doc_names)
+    print_docNames(final_docs, doc_names, num_doc)
 
     return
 
@@ -70,15 +70,23 @@ def get_input():
     return query, num_doc
 
 
-def print_docNames(final_docs, doc_names):
+def print_docNames(final_docs, doc_names, num_doc):
     """print document names of search result
+
+    if results have enough documents, print desired results, else print what
+    we have
 
     :final_docs:
     :doc_names:
     :returns: None
 
     """
-    for i in range(len(final_docs)):
+    print_count = len(final_docs)
+    #  for i in range(len(final_docs)):
+    if len(final_docs) >= num_doc:
+        print_count = num_doc
+
+    for i in range(print_count):
         index = final_docs[i][0]
         print(doc_names[index])
 
