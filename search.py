@@ -1,13 +1,12 @@
 import os
-import time
 import sys
+import time
 
 import setting
-#  import doc_search
 import process_index
 
-from sorting_docs import sorting_docs
 from doc_search import find_docs
+from sorting_docs import sorting_docs
 
 
 def search():
@@ -28,6 +27,11 @@ def search():
 
     #  Pre-process query terms
     que_tf = tf_vectorizer.transform([query])
+
+    #  If no result, then print nothing
+    if que_tf.getnnz == 0:
+        print("There is no search result for the query")
+        sys.exit()
 
     #  Find Matched Documents ID
     final_docs = find_docs(
