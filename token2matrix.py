@@ -32,7 +32,9 @@ def extract_matrix():
         #  max_features=n_features,
         #  preprocessor=lambda x: x,
         analyzer='word',
-        tokenizer=lda_tokenizer)
+        stop_words='english'
+        #  tokenizer=lda_tokenizer
+    )
     tf = tf_vectorizer.fit(texts)
     print("finished tokenizing")
 
@@ -84,6 +86,11 @@ def lda_tokenizer(raw):
     #  time1 = time.time()
 
     #  make tokens
+
+    #  TODO: delete #
+    print(raw)
+    raw = raw.lower()
+
     global tokenizer
     tokens = tokenizer.tokenize(raw)
 

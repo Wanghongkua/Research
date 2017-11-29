@@ -32,4 +32,6 @@ def doc2array():
     print("Time for build_index(): ", end='')
     print(time.time() - time1)
 
+    print(len(texts))
+
     return texts, doc_names
