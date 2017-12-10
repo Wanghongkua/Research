@@ -10,8 +10,6 @@ def train_word2vec():
     :returns:
 
     """
-    #  print("Training word2vec")
-
     time1 = time.time()
 
     sentences = GetSentence(setting.database)
@@ -21,11 +19,10 @@ def train_word2vec():
         window=2,
         min_count=1,
         size=80,
-        workers=4,
+        workers=8,
         iter=20)
 
     print("Time for train_word2vec(): ", end='')
     print(time.time() - time1)
 
-    #  print("Finish word2vec trainning")
     return model

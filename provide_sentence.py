@@ -1,14 +1,14 @@
 import os
+from random import sample
 
 import nltk.data
 
-from stop_words import get_stop_words
 from nltk.tokenize import RegexpTokenizer
 from nltk.stem.porter import PorterStemmer
 
 import setting
 
-from token2matrix import convert_number
+#  from token2matrix import convert_number
 
 
 class GetSentence(object):
@@ -21,7 +21,7 @@ class GetSentence(object):
         self.tokenizer = RegexpTokenizer(r'\w+')
 
         # create English stop words list
-        self.en_stop = get_stop_words('en')
+        self.en_stop = setting.stop_words
 
         # Create p_stemmer of class PorterStemmer
         self.p_stemmer = PorterStemmer()
@@ -32,7 +32,18 @@ class GetSentence(object):
 
         """
         #  yield os.listdir(self.dirName)
-        for fName in os.listdir(self.dirName):
+
+        file_list = os.listdir(self.dirName)
+        corpus_size = os.path.getsize(self.dirName)
+
+        if corpus_size > setting.train_size:
+            k = len(file_list) * setting.train_size / corpus_size
+            indicies = sample(range(len(file_list)), int(k))
+        else:
+            indicies = range(len(file_list))
+        #  for fName in os.listdir(self.dirName):
+        for i in indicies:
+            fName = file_list[i]
             file_path = os.path.join(self.dirName, fName)
             tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
             fp = open(file_path)
@@ -52,13 +63,13 @@ class GetSentence(object):
         tokens = self.tokenizer.tokenize(sentence)
 
         # remove numbers
-        tokens = [convert_number(i) for i in tokens]
+        #  tokens = [convert_number(i) for i in tokens]
 
         # remove stop words from tokens
         tokens = [i for i in tokens if i not in self.en_stop]
 
         # stem tokens
-        tokens = [self.p_stemmer.stem(i) for i in tokens]
+        #  tokens = [self.p_stemmer.stem(i) for i in tokens]
 
         # Delete unuseful word
         tokens = [i for i in tokens if i in setting.vcb]

@@ -36,7 +36,6 @@ def find_docs(reversed_index, que_tf, num_doc, tf_vectorizer, wordToVec):
     print("Time for find_docs(): ", end='')
     print(time.time() - time1)
 
-
     #  TODO Use wide range to search result
     return final_docs
 
@@ -111,18 +110,25 @@ def concept_search(
     query_SimTerms = [None] * len(que_terms)
 
     for i in range(len(que_terms)):
-        new_terms = model.wv.most_similar(
-            positive=[word_name[que_terms[i]]], topn=setting.topn)
+        if word_name[que_terms[i]] in model.wv.vocab:
+            new_terms = model.wv.most_similar(
+                positive=[word_name[que_terms[i]]], topn=setting.topn)
 
-        #  TODO:  <10-10-17 add one smoothing for distance measurement> #
-        query_SimTerms[i] = [(vocabulary[term[0]], term[1])
-                             for term in new_terms]
+            #  print(word_name[que_terms[i]], new_terms)
+
+            #  TODO:  <10-10-17 add one smoothing for distance measurement> #
+            query_SimTerms[i] = [(vocabulary[term[0]], term[1])
+                                 for term in new_terms]
+        else:
+            print("The word rules out:", word_name[que_terms[i]])
 
     final_set = set([])
     final_set_flag = False
     for i in range(len(que_terms)):
         #  Union all similar term docs
-        tmp_set = union_lists(reversed_index, query_SimTerms[i], setting.topn)
+        tmp_set = union_lists(
+            reversed_index, query_SimTerms[i],
+            que_terms[i])
 
         #  Intersect between different set of terms
         if not final_set_flag:
@@ -134,7 +140,7 @@ def concept_search(
     return final_set | final_docs
 
 
-def union_lists(reversed_index, terms, term_count):
+def union_lists(reversed_index, terms, query_term):
     """ Compute the union of docs for similar terms
 
     : reversed_index : reversed index
@@ -144,7 +150,13 @@ def union_lists(reversed_index, terms, term_count):
     :returns: Union list
 
     """
-    union_set = set([])
+    term_count = setting.topn
+    #  union_set = set([])
+    union_set = set([doc[0] for doc in reversed_index[query_term]])
+
+    if terms is None:
+        return union_set
+
     for i in range(term_count):
         union_set |= set([doc[0] for doc in reversed_index[terms[i][0]]])
 

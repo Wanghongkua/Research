@@ -33,6 +33,7 @@ def extract_matrix():
         #  preprocessor=lambda x: x,
         analyzer='word',
         stop_words='english'
+        #  stop_words=get_stop_words('en')
         #  tokenizer=lda_tokenizer
     )
     tf = tf_vectorizer.fit(texts)
@@ -43,6 +44,7 @@ def extract_matrix():
 
     #  Vocabulary set
     setting.vcb = set(tf_feature_names)
+    setting.stop_words = tf_vectorizer.get_stop_words()
 
     print("Time for extract_matrix(): ", end='')
     print(time.time() - time1)
