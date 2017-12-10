@@ -6,8 +6,8 @@ def init():
     #  The folder name of the corpus
     global database
     #  database = "NSWSC_txt"
-    #  database = "simple"
-    database = "dataset"
+    database = "simple"
+    #  database = "dataset"
 
     #  The folder that contains the indexes
     global folder_name
@@ -60,8 +60,8 @@ def init():
     #  The number of topics needed to clutter
     global no_topics
     #  TODO: Change number of topics #
-    #  no_topics = 70
-    no_topics = 5
+    no_topics = 70
+    #  no_topics = 5
 
     #  Tops number of similar words needed when finding similar search query
     global topn
