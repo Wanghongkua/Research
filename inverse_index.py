@@ -14,7 +14,10 @@ def build_inverse(tf):
 
     i = 0
     vcb_size = len(setting.vcb)
-    print("vcb_size:", vcb_size)
+
+    if not __debug__:
+        print("vcb_size:", vcb_size)
+
     indexes = [None] * vcb_size
     while True:
         try:
@@ -31,7 +34,8 @@ def build_inverse(tf):
         except IndexError:
             break
 
-    print("Time for build_inverse(): ", end='')
-    print(time.time() - time1)
+    if not __debug__:
+        print("Time for build_inverse(): ", end='')
+        print(time.time() - time1)
 
     return indexes

@@ -29,7 +29,8 @@ def sorting_docs(final_docs, doc_topic_index, que_dis):
 
     doc_list = sorted(doc_list, key=lambda doc: doc[1])
 
-    print("Time for sort docs(): ", end='')
-    print(time.time() - time1)
+    if not __debug__:
+        print("Time for sort docs(): ", end='')
+        print(time.time() - time1)
 
     return doc_list

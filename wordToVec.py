@@ -13,7 +13,10 @@ def train_word2vec():
     time1 = time.time()
 
     sentences = GetSentence(setting.database)
-    print("Time for GetSentence(): ", time.time() - time1)
+
+    if not __debug__:
+        print("Time for GetSentence(): ", time.time() - time1)
+
     model = gensim.models.Word2Vec(
         sentences,
         window=2,
@@ -22,7 +25,8 @@ def train_word2vec():
         workers=8,
         iter=20)
 
-    print("Time for train_word2vec(): ", end='')
-    print(time.time() - time1)
+    if not __debug__:
+        print("Time for train_word2vec(): ", end='')
+        print(time.time() - time1)
 
     return model

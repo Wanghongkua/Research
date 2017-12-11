@@ -29,9 +29,9 @@ def doc2array():
 
             texts.append(content)
 
-    print("Time for build_index(): ", end='')
-    print(time.time() - time1)
-
-    print(len(texts))
+    if not __debug__:
+        print("Time for build_index(): ", end='')
+        print(time.time() - time1)
+        print(len(texts))
 
     return texts, doc_names

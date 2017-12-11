@@ -25,8 +25,9 @@ def fit_model():
         learning_offset=50.,
         random_state=0).fit(tf)
 
-    print("Time for fit_model(): ", end='')
-    print(time.time() - time1)
+    if not __debug__:
+        print("Time for fit_model(): ", end='')
+        print(time.time() - time1)
 
     #  print("Finish LDA training")
 

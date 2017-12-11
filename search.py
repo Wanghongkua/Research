@@ -102,15 +102,18 @@ def get_index():
     """
     time1 = time.time()
     if not os.path.isdir(setting.folder_name):
-        print("Building index")
+        if not __debug__:
+            print("Building index")
         os.makedirs(setting.folder_name)
         return process_index.build_index()
     else:
-        print("Fetching index")
+        if not __debug__:
+            print("Fetching index")
         return process_index.fetch_index()
 
-    print("Time for get_index(): ", end='')
-    print(time.time()-time1)
+    if not __debug__:
+        print("Time for get_index(): ", end='')
+        print(time.time()-time1)
 
 
 if __name__ == "__main__":

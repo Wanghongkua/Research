@@ -37,7 +37,9 @@ def extract_matrix():
         #  tokenizer=lda_tokenizer
     )
     tf = tf_vectorizer.fit(texts)
-    print("finished tokenizing")
+
+    if not __debug__:
+        print("finished tokenizing")
 
     tf = tf_vectorizer.transform(texts)
     tf_feature_names = tf_vectorizer.get_feature_names()
@@ -46,8 +48,9 @@ def extract_matrix():
     setting.vcb = set(tf_feature_names)
     setting.stop_words = tf_vectorizer.get_stop_words()
 
-    print("Time for extract_matrix(): ", end='')
-    print(time.time() - time1)
+    if not __debug__:
+        print("Time for extract_matrix(): ", end='')
+        print(time.time() - time1)
 
     return tf, tf_vectorizer, doc_names
 

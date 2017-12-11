@@ -79,8 +79,9 @@ def build_index():
     global index_flag
     index_flag = True
 
-    print("Time for build_index(): ", end='')
-    print(time.time() - time1)
+    if not __debug__:
+        print("Time for build_index(): ", end='')
+        print(time.time() - time1)
 
     return lda, doc_names, tf_vectorizer, reversed_index, doc_topic_index, wordToVec
 
