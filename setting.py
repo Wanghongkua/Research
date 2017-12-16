@@ -13,7 +13,7 @@ def init():
     global folder_name
     #  folder_name = "index_folder"
     #  folder_name = "200index_folder"
-    folder_name = "400index_folder"
+    folder_name = "800index_folder"
 
     #  The vocabulery set for mutual exclusive
     global vcb
@@ -27,7 +27,7 @@ def init():
 
     #  The LDA corpus size
     global corp_size
-    corp_size = 1024*400
+    corp_size = 1024*800
 
     '''
     Index File Names {{{

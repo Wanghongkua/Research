@@ -21,7 +21,7 @@ def doc2array():
     corpus_size = os.path.getsize(cwd)
 
     if corpus_size > setting.corp_size:
-        k = len(file_list) * setting.train_size / corpus_size
+        k = len(file_list) * setting.corp_size / corpus_size
         indicies = sample(range(len(file_list)), int(k))
     else:
         indicies = range(len(file_list))
