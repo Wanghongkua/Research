@@ -1,6 +1,7 @@
 import os
 import time
 import setting
+from random import sample
 
 
 def doc2array():
@@ -15,8 +16,20 @@ def doc2array():
     texts = []
 
     cwd = os.path.join(os.getcwd(), setting.database)
-    for filename in os.listdir(cwd):
 
+    file_list = os.listdir(cwd)
+    corpus_size = os.path.getsize(cwd)
+
+    if corpus_size > setting.corp_size:
+        k = len(file_list) * setting.train_size / corpus_size
+        indicies = sample(range(len(file_list)), int(k))
+    else:
+        indicies = range(len(file_list))
+
+    #  for filename in os.listdir(cwd):
+    for i in indicies:
+
+        filename = file_list[i]
         #  add to file list
         doc_names.append(filename)
 

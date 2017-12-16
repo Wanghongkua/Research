@@ -23,7 +23,6 @@ def build_inverse(tf):
         try:
             doc = tf[i].toarray()
 
-            #  TODO: save memory #
             for term_id in range(vcb_size):
                 if doc[0][term_id] != 0:
                     if indexes[term_id] is None:

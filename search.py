@@ -59,7 +59,7 @@ def search():
 
 def get_input():
     """get query and number of docs needed
-    :returns: TODO
+    :returns: query
 
     """
     query = sys.argv[1]

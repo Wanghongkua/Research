@@ -6,7 +6,7 @@ import setting
 def find_docs(reversed_index, que_tf, num_doc, tf_vectorizer, wordToVec):
     """Find Matched Documents
 
-    :returns: TODO
+    :returns: final_docs the docs needed to be ranked
 
     """
     time1 = time.time()
@@ -15,6 +15,7 @@ def find_docs(reversed_index, que_tf, num_doc, tf_vectorizer, wordToVec):
     final_docs = regular_search(reversed_index, que_tf)
 
     # TODO  inverted index can get enough result, but may not accurate
+    #  TODO Use wide range to search result
     if len(final_docs) >= num_doc:
         if not __debug__:
             print("Time for find_docs(): ", end='')
@@ -40,7 +41,6 @@ def find_docs(reversed_index, que_tf, num_doc, tf_vectorizer, wordToVec):
         print("Time for find_docs(): ", end='')
         print(time.time() - time1)
 
-    #  TODO Use wide range to search result
     return final_docs
 
 
@@ -120,11 +120,11 @@ def concept_search(
 
             #  print(word_name[que_terms[i]], new_terms)
 
-            #  TODO:  <10-10-17 add one smoothing for distance measurement> #
             query_SimTerms[i] = [(vocabulary[term[0]], term[1])
                                  for term in new_terms]
         else:
-            print("The word rules out:", word_name[que_terms[i]])
+            if not __debug__:
+                print("The word rules out:", word_name[que_terms[i]])
 
     final_set = set([])
     final_set_flag = False

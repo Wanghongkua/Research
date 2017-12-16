@@ -40,10 +40,6 @@ def build_index():
         #  save lda model as index file
         pickle.dump(lda, index_file)
 
-        #  make it global TODO
-        #  global fitted_lda
-        #  fitted_lda = lda
-
     #  Save Reversed Index
     reversed_path = os.path.join(setting.folder_name, setting.reversed_file)
     with open(reversed_path, "wb") as index_file:

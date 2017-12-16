@@ -23,6 +23,10 @@ def init():
     global train_size
     train_size = 1024*70
 
+    #  The LDA corpus size
+    global corp_size
+    corp_size = 1024*200
+
     '''
     Index File Names {{{
     '''
