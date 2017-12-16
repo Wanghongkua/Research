@@ -5,9 +5,9 @@ def init():
     """
     #  The folder name of the corpus
     global database
-    #  database = "NSWSC_txt"
+    database = "NSWSC_txt"
     # database = "simple"
-    database = "dataset"
+    #  database = "dataset"
 
     #  The folder that contains the indexes
     global folder_name
