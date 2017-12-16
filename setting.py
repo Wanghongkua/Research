@@ -11,7 +11,8 @@ def init():
 
     #  The folder that contains the indexes
     global folder_name
-    folder_name = "index_folder"
+    #  folder_name = "index_folder"
+    folder_name = "200index_folder"
 
     #  The vocabulery set for mutual exclusive
     global vcb
