@@ -33,6 +33,7 @@ def search():
         print("There is no search result for the query")
         sys.exit()
 
+    time1 = time.time()
     #  Find Matched Documents ID
     final_docs = find_docs(
         reversed_index,
@@ -47,6 +48,9 @@ def search():
     #  Sorting final docs using LDA
     final_docs = sorting_docs(final_docs, doc_topic_index, que_dis)
 
+    if not __debug__:
+        print("Time for searching is: ", end="")
+        print(time.time() - time1)
     #  Print document names of final result
     print_docNames(final_docs, doc_names, num_doc)
 

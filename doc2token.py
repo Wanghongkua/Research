@@ -30,7 +30,7 @@ def doc2array():
             texts.append(content)
 
     if not __debug__:
-        print("Time for build_index(): ", end='')
+        print("Time for doc2array(): ", end='')
         print(time.time() - time1)
         print(len(texts))
 
