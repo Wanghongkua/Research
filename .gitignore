@@ -7,3 +7,11 @@ test
 dataset
 simple
 nohup.out
+200index_folder
+400index_folder
+600index_folder
+800index_folder
+200m.out
+400m.out
+600m.out
+800m.out
