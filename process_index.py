@@ -91,6 +91,8 @@ def fetch_index():
     :returns: index
 
     """
+    time1 = time.time()
+
     global fitted_lda
     global index_flag
     if index_flag:
@@ -133,5 +135,9 @@ def fetch_index():
         word2vec_path = os.path.join(setting.folder_name, setting.word2vec_file)
         with open(word2vec_path, "rb") as index_file:
             wordToVec = pickle.load(index_file)
+
+    if not __debug__:
+        print("Time for fetch_index(): ", end='')
+        print(time.time() - time1)
 
     return lda, doc_names, tf_vectorizer, reversed_index, doc_topic_index, wordToVec
