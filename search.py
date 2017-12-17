@@ -96,7 +96,8 @@ def print_docNames(final_docs, doc_names, num_doc):
 
     for i in range(print_count):
         index = final_docs[i][0]
-        print(doc_names[index])
+        #  print(doc_names[index])
+        print(doc_names[index], final_docs[i][1])
 
 
 def get_index():
