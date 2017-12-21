@@ -16,11 +16,12 @@ def find_docs(reversed_index, que_tf, num_doc, tf_vectorizer, wordToVec):
 
     # TODO  inverted index can get enough result, but may not accurate
     #  TODO Use wide range to search result
-    if len(final_docs) >= num_doc:
-        if not __debug__:
-            print("Time for find_docs(): ", end='')
-            print(time.time() - time1)
-        return final_docs
+
+    #  if len(final_docs) >= num_doc:
+    #  if not __debug__:
+    #  print("Time for find_docs(): ", end='')
+    #  print(time.time() - time1)
+    #  return final_docs
 
     que_terms = que_tf.nonzero()[1]
 
