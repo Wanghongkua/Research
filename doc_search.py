@@ -25,14 +25,16 @@ def find_docs(reversed_index, que_tf, num_doc, tf_vectorizer, wordToVec):
     que_terms = que_tf.nonzero()[1]
 
     #  Get all docs of full permutation similar query
-    final_docs = concept_search(
-        final_docs,
-        len(final_docs),
-        tf_vectorizer.vocabulary_,
-        que_terms,
-        wordToVec,
-        tf_vectorizer.get_feature_names(),
-        reversed_index)
+    while len(final_docs) < num_doc:
+        setting.topn += 5
+        final_docs = concept_search(
+            final_docs,
+            len(final_docs),
+            tf_vectorizer.vocabulary_,
+            que_terms,
+            wordToVec,
+            tf_vectorizer.get_feature_names(),
+            reversed_index)
 
     if len(final_docs) >= num_doc:
         return final_docs
