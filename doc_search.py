@@ -27,6 +27,7 @@ def find_docs(reversed_index, que_tf, num_doc, tf_vectorizer, wordToVec):
     #  Get all docs of full permutation similar query
     while len(final_docs) < num_doc:
         setting.topn += 5
+        print(setting.topn)
         final_docs = concept_search(
             final_docs,
             len(final_docs),
