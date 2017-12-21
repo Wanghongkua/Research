@@ -29,7 +29,8 @@ def find_docs(reversed_index, que_tf, num_doc, tf_vectorizer, wordToVec):
         if setting.topn >= 30:
             break
         setting.topn += 5
-        print(setting.topn)
+        if not __debug__:
+            print("Number of similar words:", setting.topn)
         final_docs = concept_search(
             final_docs,
             len(final_docs),
