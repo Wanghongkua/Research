@@ -19,6 +19,7 @@ def sorting_docs(final_docs, doc_topic_index, que_dis):
 
     i = 0
     if __debug__:
+        print("haha")
         print(que_dis)
     for index in final_docs:
         #  Build docID-entropy list
