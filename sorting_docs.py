@@ -33,7 +33,7 @@ def sorting_docs(final_docs, doc_topic_index, que_dis):
 
     if not __debug__:
         for index in doc_list:
-            print(doc_topic_index[index])
+            print(doc_topic_index[index[0]])
 
     if not __debug__:
         print("Time for sort docs(): ", end='')
