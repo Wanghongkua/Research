@@ -18,12 +18,11 @@ def sorting_docs(final_docs, doc_topic_index, que_dis):
     doc_list = [None] * doc_num
 
     i = 0
-    if __debug__:
-        print("haha")
+    if not __debug__:
         print(que_dis)
     for index in final_docs:
         #  Build docID-entropy list
-        if __debug__:
+        if not __debug__:
             print(doc_topic_index[index])
         doc_list[i] = (
             index,
