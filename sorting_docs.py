@@ -22,8 +22,6 @@ def sorting_docs(final_docs, doc_topic_index, que_dis):
         print(que_dis)
     for index in final_docs:
         #  Build docID-entropy list
-        if not __debug__:
-            print(doc_topic_index[index])
         doc_list[i] = (
             index,
             stats.entropy(
@@ -32,6 +30,10 @@ def sorting_docs(final_docs, doc_topic_index, que_dis):
         i += 1
 
     doc_list = sorted(doc_list, key=lambda doc: doc[1])
+
+    if not __debug__:
+        for index in doc_list:
+            print(doc_topic_index[index])
 
     if not __debug__:
         print("Time for sort docs(): ", end='')
