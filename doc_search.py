@@ -133,7 +133,7 @@ def concept_search(
             new_terms = model.wv.most_similar(
                 positive=[word_name[que_terms[i]]], topn=setting.topn)
 
-            print(word_name[que_terms[i]], new_terms)
+            #  print(word_name[que_terms[i]], new_terms)
 
             query_SimTerms[i] = [(vocabulary[term[0]], term[1])
                                  for term in new_terms]
