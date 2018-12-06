@@ -1,0 +1,224 @@
+
+
+McGrath versus McGrath [2012] NSWSC 578 (1 June 2012) 
+Last Updated: 4 June 2012 
+Supreme Court 
+New South Wales  
+Case Title: 
+McGrath versus McGrath  
+Medium Neutral Citation: <case>  
+Hearing Date(s): and 22 May 2012  
+Decision Date: June 2012  
+Jurisdiction: 
+Equity Division  
+Before: 
+Pembroke J  
+Decision: 
+See paragraph [50]  
+Catchwords: 
+CONTRACT - expert determination clause - general principles - expert's discretion regarding process of valuation 
+BIAS - expert determination clause - actual bias - heavy onus on party alleging bias - communications prior to formal appointment 
+BIAS - expert determination clause - apprehended bias - necessity for connection between relevant conduct and likelihood that decision-maker might not decide question on merits 
+BIAS - expert determination clause - apprehended bias - principle of apprehended bias will rarely apply to experts - policy and principle 
+PRACTICE & PROCEDURE - advisory opinion - theoretical issue - dispute not yet crystallised - not appropriate to determine  
+JUDGMENT 
+Introduction
+This is a dispute between two brothers who are the parties to a Shareholders Agreement. It relates to the process by which they agreed that the defendant's shares in the holding company of a group of companies known as the McGrath Group should be bought out. That process requires a valuer to be appointed and instructed to determine the fair market value of the McGrath Group. The Shareholders Agreement is dated 1 December 2006. It was varied by a Heads of Agreement entered into on 3 November 2010 following a mediation.
+The contractual process for the buy-out of the defendant's shares has been thwarted because the defendant refuses to agree to the terms of engagement of Sean P Collins of KPMG Corporate Finance (Aust) Pty Ltd as the "Valuer" pursuant to Clauses 4.1(b) and 4.2(a) of the Heads of Agreement. 
+Clauses 4.1(b) and 4.2(a) provide as follows: .1Valuer ...
+
+If, following their meeting, John and Robert decide not to appoint Brendan
+Halligan as the Valuer, they must promptly take steps to appoint another valuer as the Valuer. If they are unable to agree clause 8.1 of the
+Shareholder Agreement will apply.
+ .2Valuation 
+The Valuer will be instructed to determine the fair market value the
+McGrath Group by reference to the accounts of the McGrath Group prepared by
+RSM Bird Cameron. For the purposes of clause 8.2 of the Shareholder Agreement, the Parties acknowledge and agree that only the accounts for Leasewise
+Australia Pty Ltd will be audited.
+ ...
+The parties did not agree on the appointment of Brendan Halligan, the person nominated in Clause 4.1(b). They were therefore required to "promptly take steps to appoint another valuer as the Valuer": Clause 4.1(b). In February 2011, they both indicated through their solicitors that they agreed to the appointment of Mr Collins as the Valuer. They were then required to take steps to formally appoint and engage him in accordance with Clause 4.1(b) and to instruct him in accordance with Clause 4.2(a). Despite the fact that on 25 March 2011, Mr Collins issued his engagement letter, the defendant has been unwilling to sign it. The contemplated contractual process has stalled.
+The appointment, engagement and instruction of Mr Collins should have been a simple process. The defendant in particular appears to have misunderstood that process. His misconceptions have been a factor in the delay to date. Clause 4.1(b) only requires that the parties agree on the identity of the Valuer and, having done so, appoint him. If they do not agree, Clause 8.1 of the Shareholder Agreement will apply. Clause 8.1 is a default mechanism for the appointment of the Valuer. In the contemplated process for the appointment of the Valuer pursuant to the Heads of Agreement, there is no contractual justification for detailed wrangling over the appointment. Either the parties identify and appoint the Valuer on mutually acceptable terms or the President of the Property Institute of Australia does so on the terms that he or she thinks are appropriate.
+The position in relation to the instruction of the Valuer is even more straightforward. The contract permits only limited instructions to the Valuer. They are set out in Clause 4.2(a). The parties must instruct the Valuer "to determine the fair market value [of] the McGrath Group". To that bare requirement, there are only two qualifications. First, the determination of fair market value must be undertaken "by reference to the accounts of the McGrath Group prepared by RSM Bird Cameron". Second, the parties acknowledge and agree that only the accounts for one of the companies in the group, Leasewise Australia Pty Ltd, will be audited.
+The clear object of stating with such stark simplicity the instructions that must be given to the Valuer is to preserve for the Valuer's discretion his preferred valuation methodology and all other matters that relate to the process by which he chooses to arrive at the fair market value of the McGrath Group. In particular, the procedure for gathering information, permitting submissions from the parties, imposing time limits and regulating the process by which he arrives at his decision, is for the Valuer's judgment, his experience and his discretion alone. Unless the contract demands it, the parties have no contractual entitlement to require the Valuer to adopt any particular procedure. And the Valuer has no obligation to seek their approval: TXU Electricity Ltd versus Commonwealth Custodial Services Ltd  <case> at <case> - [8] (Byrne J); Lahoud versus Lahoud  <case> at <case> (Ward J). The position was put squarely by the English Court of Appeal in Barclays Bank versus Nylon Capital [2011] EWCA Vic 826; [2012] Bus LR 542 at [37]: 
+As I have said, there is no procedural code for expert determination, in contradistinction to arbitration. The activities of an expert are subject to little control by the court, save as to jurisdiction or departure from the mandate given. Unless the parties specify the procedure, the expert determines how he will proceed; it is rare for what might be perceived as procedural unfairness in an arbitration to give rise to a ground for challenge to the procedure adopted by an expert: see Kendall, Freedman & Farrell, Expert Determination, 4th ed (2008), ch 16.
+
+The Allegation of Bias
+The principal relief sought by the plaintiff is an order for specific performance of the Heads of Agreement requiring the defendant to sign Mr Collins' letters of engagement and instruction. Prior to the hearing, the defendant had put forward various reasons for resisting the engagement of Mr Collins. At the hearing however, his defence to specific performance came down to one matter. He relied solely on an allegation of bias against Mr Collins. I will deal first with this threadbare argument before turning to the second and third issues.
+The bias allegation appears to stem from the defendant's mistrust of the plaintiff and his solicitors. Given the acrimonious relationship between the parties, that mistrust is explicable but it does not readily translate to bias by Mr Collins. The two matters are conceptually distinct. For the reasons that follow, I am not satisfied at a factual level that there is likely to be any bias whatsoever by Mr Collins when he commences his appointment as Valuer and carries out his instructions pursuant to Clause 4.2(a) of the Heads of Agreement. Nor am I satisfied, if it matters, that there has been any bias by Mr Collins in connection with the negotiation of his terms of engagement.
+The fact that the defendant's complaint concerns conduct during the process of negotiation of Mr Collins' terms of engagement is a complicating factor. Further, for reasons that will become clear, counsel for the defendant deliberately framed his submissions by reference to "actual bias" as opposed to "apprehended bias". He contended that there was a failure to act impartially during the preliminary stage, before Mr Collins' formal engagement. On the other hand, counsel for the plaintiff assumed, quite reasonably, that the defendant's case, whatever its slender factual foundation may be, was based on "apprehended bias". I will shortly return to this distinction and its significance to the facts of this case. However before doing so, I should re-state the well-known principles applicable to independent experts.
+
+Independent Experts
+When the parties identified and agreed on Mr Collins as the proposed Valuer, they did so because they relied on his skill and judgment. They implicitly agreed to accept his honest and impartial decision as to the value of the McGrath Group. So long as Mr Collins, when appointed and instructed, carries out his engagement in accordance with the terms of the Shareholders Agreement and the Heads of Agreement, and arrives at his decision honestly and in good faith, the parties will not be able to re-open it and will be bound by the result. Mistake or error by Mr Collins in the process of valuation will not invalidate his decision: Legal & General Life of Australia versus A Hudson Pty Ltd [(1985) 1 NSWLR 314] at 595. Within that constraint however, the expert may act as he likes and may give such opportunities to the parties to make submissions, and on what terms, as he alone considers necessary or appropriate. He may even choose not to do so - so long as he acts honestly and impartially. 
+An expert in the position of Mr Collins is simply not obliged to afford to the parties the full range of procedural fairness that would accompany a court hearing or even an arbitration: Lahoud versus Lahoud at [59]; Barclays Bank versus Nylon at [37]. The parties' submissions to Mr Collins concerning his terms of engagement do not seem to have always recognised that fact. There are many reasons why parties provide for the determination of an issue by an independent expert. They usually come down to a desire to achieve speed, informality and privacy. Sometimes the appointment of an expert is thought desirable in order to have the benefit of expertise not necessarily available in a judge, at least without the time and expense of introducing the full panoply of competing expert evidence, cross-examination and submissions in open court: Shoalhaven City Council versus Firedam Civil Engineering Pty Ltd  <case> at <case>; Straits Exploration (Australia) Pty Ltd versus Murchison United NL  <case> at <case>; Zeke Services Pty Ltd versus Traffic Technologies Ltd <case>;  <case>. 
+The commercial utility of expert determination would be nullified if the parties sought to impose, or a timorous expert succumbed too readily to, a regime that fetters his discretion or replicates the procedure of a court hearing or an arbitration. Nor does it assist the efficacious determination of the relevant issue if the expert seeks the approval of the parties to matters which are within his own discretion. To do so may well be counter-productive, as it has been in this case. In every case however, whatever way the expert chooses to implement his instructions, he must act honestly, impartially and in good faith.
+
+Actual or Apprehended Bias
+I should make clear at the outset that this is not an application by the defendant to disqualify Mr Collins. Nor is it an application to set aside a valuation arrived at by him because he has failed to act impartially. The issue in this case arises only as a defence to the discretionary remedy of specific performance by which the plaintiff seeks to have Mr Collins appointed, engaged and instructed. And as I have mentioned, the conduct that gives rise to the issue is conduct occurring during the process of negotiating Mr Collins' terms of engagement, before his appointment has even commenced.
+The defendant relies on actual bias. He contended that the same facts amount to a failure to act impartially. The latter requires no explanation but I should state what actual bias amounts to. It involves proof of a proposition of fact, namely that the decision-maker is so disposed towards one party that he does not, or is not able to, bring an impartial mind to the resolution of the question that he is required to decide: Stanislawa Bahonko versus Moorfields Community  <case> at <case>, citing SCII versus Minister for Immigration  <case> at <case>. Cases of actual bias are understandably rare. Even rarer must be a finding of actual bias against a person who is either not a party to the proceedings, or is not given the opportunity to be heard and defend himself. Rarer still would be a finding of actual bias before a valuation has even begun. In Minister for Immigration versus Jia Legeng [[2001] HCA 17], Gleeson CJ and Gummow J stressed at [69] that a party asserting actual bias by a decision-maker carries a heavy onus. In the circumstances of this case, without having heard from Mr Collins, and given the slender evidence relied on against him, I would not for a moment be prepared to find actual bias. Whether Mr Collins has failed to act impartially is a slightly different issue but for reasons that I will explain, it has not been established at a factual level. In any event, I doubt whether a failure by Mr Collins to act impartially in his dealings with the parties prior to the commencement of his appointment as their expert, even if established, could ever ground a claim.
+Apprehended bias is altogether different. In truth, it constitutes the real juridical basis for the defendant's resistance to the remedy of specific performance. The defendant said that he was concerned about "whether any valuation by Mr Collins would be carried out in a truly independent way." His counsel submitted that the engagement of Mr Collins would be "in breach of an implied term ... that the valuation be made honestly and impartially". These are statements of apprehension. The fulcrum of the defendant's concern is the unilateral contact that Mr Collins had with the plaintiff and his solicitor in February 2011, contact which I will shortly explain. As I said, it occurred in connection with Mr Collins' attempt to negotiate his terms of engagement. Stretching the defendant's case to its limit, there is an apprehension that Mr Collins' valuation, if and when he is appointed, and if and when it is completed, will not have been made impartially and will be affected by a bias towards the plaintiff. The practical apprehension must be that Mr Collins will not decide the question of valuation on its merits and that the result might favour the plaintiff.
+Not only does this contention have no factual foundation (to which I will come) but it confronts several legal difficulties. The first is that the test for apprehension of bias requires articulation of the supposed rational connection between the relevant conduct and the possibility in the mind of a reasonable observer that the decision-maker might be diverted from deciding the question on its merits: Ebner versus Official Trustee in Bankruptcy <case>; [(2001) 205 CLR 337], Hollingworth J also appears to have approved this reasoning, observing at [95]: 
+The plaintiffs cannot point to any case in which an injunction has been granted to prevent a valuation by a person acting as expert, or even where an actual valuation has been set aside, on the basis of apparent bias. All of the cases to which the parties referred deal with the setting aside of a valuation after it has been performed, on the basis of actual bias.
+ (emphasis added)
+The reasoning of Dodds-Streeton J in Beevers versus Port Phillip Sea Pilots Pty Ltd  <case> is a little more difficult to discern on this issue. Her Honour referred to the orthodox position in paragraphs [263] - [272] but then introduced the concept of "a credible appearance or soundly based apprehension of partiality" in paragraph [300]. However she did not consider it necessary to determine the question on the facts of the case before her. Three more recent decisions support the orthodox position: Lahoud versus Lahoud at [42]; Andrews versus Queensland Racing Ltd  <case> at <case> - [25]; Bernhard Schulte GmbH & Co KG versus Nile Holdings Ltd <case>; [[2004] 2 Lloyd's Rep 352] at 372. 
+When it comes to the principle of apprehended bias in relation to independent experts, I prefer the orthodox approach. To my mind, that approach accords with sound principle and persuasive authority. Too high an insistence on independent experts being required to avoid even an impression of partiality would not be in the interests of justice. It might, as it has in this case, encourage unwarranted challenges and unnecessary litigation by those too readily prone to suspicion and paranoia. The better course would be to allow the independent expert to complete his determination.
+
+No Support in the Facts
+In any event, as I have foreshadowed, the defendant's bias case, whatever its juridical basis, does not have any realistic factual foundation. I have endeavoured to summarise the material facts in what follows. The sequence of events started on 14 February 2011 when Mr Collins sent an email to the plaintiff's solicitor and copied it to the defendant's solicitor. It referred to an earlier discussion with the plaintiff and his solicitor and "John's subsequent email in relation to the above matter". The "matter" was Mr Collins' information request list and fee estimate. 
+On the following day, the defendant's solicitor sent an email to the plaintiff's solicitor. He said, among other things: 
+It is critical that the valuation process is transparent. I'm surprised and concerned that your client and your firm are communicating with KPMG on these matters without first consulting us. The list of processes that Sean refers to in his fee estimate has never been presented to me or my client. I note also from Sean's e-mail that your firm sent an e-mail to KPMG without copying me.
+I should interpolate to observe that Mr Collins had not commenced to undertake the valuation; and that the stated subject matter of the communications was his request list and fee estimate, which also included a "list of processes". These amounted to a series of procedural steps that he proposed to adopt in carrying out his valuation in due course. 
+The plaintiff's solicitor responded immediately by letter dated 15 February 2011, explaining the communications that had taken place with Mr Collins as follows: 
+On this basis our client held a short meeting with Sean Collins and Shaun
+Bettman yesterday morning. KPMG is not on the panel of St George Bank and the property valuations will need to be acceptable to St George Bank if our client needs to raise finance ....
+
+Subject to the undermentioned conditions, our client will agree to the appointment of Sean Collins of KPMG to be the valuer for the purpose of clause of the Head of Agreement.
+ ,At that meeting, Sean Collins mentioned that he had a "Standard Request for
+Information" and that it included his usual request for copies of any recent valuations of assets of the business or of the business itself. The email communication from John Kell to KPMG following that meeting was to simply ask for a copy of that document. Our client requires that the valuation by Vella of Leasewise and the previous valuations by BEM should be provided to KPMG with the consent of both Robert and John on the abovementioned understanding expressed by Sean Collins.
+ .KPMG has agreed to appoint its nominee, Landmark White, for the purpose of the real estate valuation in lieu of KPMG carrying out those valuations internally. Landmark White has never been used or approached by our client or by anyone on his behalf and, so far as he is aware, neither has your client.
+On 16 February the defendant's solicitor said that he would provide a response when "we have our own discussions with Sean Collins". On 17 February he set out his considered response. He stated that he and the defendant had met with Mr Collins and that he had clear instructions to agree to the appointment of Mr Collins in accordance with Clause 4.1(b) of the Heads of Agreement. He concluded his letter by adding: 
+Based on the very little information and limited time that we've had to consider the matter, in principle my client has no objection to KPMG appointing Landmark White as the valuer of real estate assets, subject to supervision of KPMG. We would however need to assure ourselves of the competence and independence of Landmark White and the person appointed to undertake the valuation. We have not been given a contact name at Landmark
+White. Accordingly, we propose to make contact with Landmark White to organize a time for John McGrath to come to Sydney to meet with the valuer. I will send you the contact details once I have them.
+To this letter, the plaintiff's solicitor responded on the same day, noting that: ... your client does not object to the appointment of Landmark White as the valuer of the real estate assets subject to the supervision of KPMG and your client satisfying himself as to the competence and independence of the person appointed by Landmark White to undertake the valuation.
+There then followed communications about the necessity or desirability of the defendant interviewing someone from Landmark White or otherwise taking steps to satisfy himself about the proposed appointment of Landmark White by KPMG. This was of course quite inappropriate. The selection of Landmark White was a matter for Mr Collins' discretion. 
+Permeating the communications was the defendant's suspicion and mistrust of the fact that it was the plaintiff who had originally suggested that KPMG retain Landmark White. When the plaintiff's solicitor complained of the delay that would result from the defendant's desire to meet with Landmark White, he received the following response on 21 February: 
+We know nothing about Landmark White. ... The position, as we understand it, is that Landmark White was nominated by your client; KPMG did not come up with the nomination of Landmark White.
+
+As we have had nothing at all to do with the nomination or selection of
+Landmark White; as KPMG had not approved Landmark White, and as real estate constitutes the overwhelming portion of the assets of the group, we considered that, at the very least, we would be obliged to meet with Landmark White, especially to satisfy ourselves as to the valuer's independence and competence. In good faith we considered that this would be the prudent and sensible course of action.
+
+Pending KPMG carrying out its assessment of Landmark White, we will hold of [sic] contacting Landmark White. We will assess our position in relation to
+Landmark White based on KPMG's advice and assessment of Landmark White.
+
+As per my letter of 17 February 2011 and prior communications I confirm, yet again, that my client approves the appointment of KPMG.
+ (emphasis added) 
+Waiver by Defendant
+It is clear therefore that by 21 February, the defendant and his solicitor were fully aware of the fact and purpose of the communications that had taken place between Mr Collins on the one hand and the plaintiff and his solicitor on the other. Despite the initial complaint about unilateral communications on 15 February, which in truth was more in the nature of an enquiry, there was no continuing objection. And the defendant knew that Landmark White had been suggested by the plaintiff. This was not seen at the time as a reason for alleging bias by Mr Collins or any breach of a duty of impartiality. In fact the defendant was agreeable in principle to KPMG using Landmark White for the real property valuations, but was purporting to reserve his right to carry out his own assessment, after KPMG had done so. The initial contact on 14 February between Mr Collins and the plaintiff and his solicitor had long since ceased to be ground of complaint. 
+Thus on 28 February, Mr Collins submitted a draft engagement letter to both parties and their solicitors. It contained the following paragraph dealing with Landmark White: 
+Timing 
+The completion of the Valuation is highly dependant (sic) upon the timing provided by the external property valuer. KPMG is yet to receive a written proposal from Landmark White but initial discussions indicated that the property valuations are likely to be completed by the second week of April
+Once these property valuations are complete, KPMG will require an additional five business days to review the property valuation reports and complete the drafting of our report. Should we anticipate any material delay during the course of the engagement, we will endeavour to notify you immediately.
+By 1 March, a proposal from Landmark White had arrived. Mr Collins' partner, Mr Bettman, circulated it to the parties. He requested them to review it and asked them for confirmation that "we may proceed to provide the valuer with a letter of instruction". This was quite unnecessary. The appointment of consultants to assist the expert is a matter for the expert not the parties. Mr Bettman's invitation to the parties only opened the way for more disagreement. The defendant's solicitor for example, complained that he had not agreed that Landmark White should value each of the properties "on a first mortgage security basis using an assessment of fair market value".
+
+Events in August & September
+Between March and August the parties descended into further disagreement on the minutiae of things with which they should not have been concerned. Mr Collins' terms of engagement had still not been finalised. New solicitors for the defendant became involved. The defendant's suspicions and his mistrust of his brother appeared to escalate. His new solicitors undoubtedly made the situation worse. 
+On 18 August they wrote to Mr Collins requesting all sorts of information. They said it was in the interests of "transparency". They wanted copies of all written communications and details of all oral communications, "with or on behalf of Robert McGrath or any of the companies in the McGrath Group". This was wholly unjustified and oppressive. After apologising for the inconvenience that they were causing and asserting the need for the defendant "to be confident in the process which the parties intend to undertake", they went on to request the following further information: 
+Landmark White 
+We note that it is proposed to engage Landmark White to undertake real property valuations in respect of the properties in this matter.
+
+So that we may advise our client and understand the situation would you please provide the following: 
+The reasons why you believe that Landmark White are the appropriate choice for the real property valuers to be engaged in this matter; 
+Copies of all written communications between KPMG and any person from or on behalf of Landmark White; 
+Details of all oral communications between or on behalf of KPMG and any person from or on behalf of Landmark White.
+Mr Collins' response on 21 September is the high point of the defendant's case but it provides no support for his claim of bias or partiality. It must be borne in mind that it was now almost six months since Mr Collins had submitted his engagement letter. Nothing had been agreed. The defendant's new solicitors were adopting a heavy-handed approach. Their 18 August letter was, as I have said, unjustified and oppressive. Its tone was accusatory. It failed to respect Mr Collins' honesty, experience and judgment. Suspicion and accusation overlay its requests for information and the questions to which it demanded answers from Mr Collins.
+In the circumstances, Mr Collins' email response showed commendable restraint. He said that KPMG continued to be available to provide valuation services. If those services were still required, a new engagement letter would be issued and confirmation would be sought from Landmark White that it continued to be in a position to assist with property valuations. In relation to the 18 August letter, Mr Collins specifically responded as follows: 
+Stephen, referring to your letter dated 18 August 2011, we are not in a position to provide the information requested in relation to discussions which have taken place to-date with Robert McGrath. Robert McGrath was afforded the same opportunity as your client to meet with KPMG Corporate Finance to determine our suitability to act in this matter. There was no intention for the content of those discussions to be made known to the other party. Outside of those discussions and a call/email on purely administration matters, no other correspondence or contact has been made.
+The defendant particularly complains about Mr Collins' use of the phrase "a call/email on purely administration matters". His counsel seriously submitted that this indicated subterfuge; that Mr Collins was seeking to conceal something; that his language was misleading. Worst of all, he submitted that this was proof of actual bias or partiality. On the contrary, in my view, Mr Collins' language was innocuous. Nor was it even obviously inaccurate. In one sense the subject matter was indeed "purely administration matters". It started off under the subject heading "information request list and fee estimate". The communications were concerned with setting up the valuation process of the McGrath Group rather than undertaking the valuation. The defendant was kept fully informed. He was aware that the use of Landmark White for property valuation services was the plaintiff's suggestion. He did not, and could not, object on that score. He had waived his right to do so. 
+In my view, Mr Collins' response was reasonable. The defendant's solicitor's letter dated 18 August was not. In its context, no inference of bias, actual or apprehended, or any breach of a duty of impartiality, emerges rationally from Mr Collins' 21 September email. In the circumstances, given that Mr Collins and the parties were still in the process of negotiating the terms of engagement and resolving how Mr Collins should undertake the valuation process, it was not unreasonable to characterise the communications as administrative. The subject matter did not concern the exercise of skill and judgment in the process of valuing the McGrath Group, an exercise that Mr Collins has not yet been called upon to undertake. The communications were concerned with setting up the process. And the defendant had long since lost his right to complain about the plaintiff's unilateral communications or his suggestion to Mr Collins that the services of Landmark White be utilised for the property valuations. 
+For those reasons, the bias defence to specific performance has not been established. It matters not whether it is put as actual bias, apprehended bias or a breach of a duty of impartiality. There was no actual bias in fact. Apprehended bias is not available, in my view, as a matter of legal principle. And there has been no breach in fact of any implied duty of impartiality. In any event, I doubt that there could be any applicable duty before the expert is formally appointed and engaged.
+There should be an order that the defendant sign a letter of engagement generally to the effect of the draft submitted by Mr Collins on 25 March 2011. I say "generally to the effect" because the parties have both identified some obvious infelicities and inaccuracies in Mr Collins' draft. I also have in mind that, in the light of these reasons, Mr Collins might wish to consider reducing the detail of his draft letter of engagement, recognising that he should maximise his discretion and preserve his flexibility rather than seek to be too prescriptive. I will give Mr Collins the opportunity to do so. He should recognise that, as an independent expert, he is a decision-maker not a negotiator. He does not need to seek the parties' concurrence to the detailed procedures which he contemplates adopting in the valuation process. When Mr Collins' letter of engagement has been finalised and signed, I will also order the defendant to sign a letter of instructions to Mr Collins in accordance with Clause 4.2(a) of the Heads of Agreement. 
+Access to Records & Properties
+The second issue involves the defendant's access to the documents and properties of the companies in the McGrath Group. There is now mutual agreement on this issue. But it was not always so. Until a certain time before the hearing commenced, the plaintiff failed to act reasonably, fairly and responsibly in relation to the requests by the defendant for access to the books and records of the McGrath Group. His counsel put the position with masterful understatement when he conceded: "Yes ... we haven't been very good in the past and Robert probably should have been more forthcoming to John in the period leading up to Christmas".
+There is also little doubt that until the hearing commenced, the plaintiff was unco-operative in relation to the defendant's requests for access by his own valuer to the numerous real estate properties owned by companies in the McGrath Group. But by the same token, the defendant's requests were excessive. By the time of addresses, the position was regularised. The defendant accepted that reasonable access to the properties by valuers on his behalf would only be appropriate once the valuation process had commenced. The plaintiff also acknowledged that there was no legitimate basis for denying the defendant access to the books, records and documents of the companies in the McGrath Group.
+Given the poisonous and suspicion-laden relationship between the plaintiff and the defendant, and the history of lack of co-operation between them, the interests of justice will be served if I make orders for access to the documents and properties. The plaintiff says that orders are not necessary but his submissions on this issue are driven more by a desire to avoid a costs order than by a recognition of the reality of conflict and the utility that the orders will serve. However it is certainly not appropriate to make detailed orders in the form that the defendant proposes, at least at this stage. Reasonable access - to the books and records and to the properties - is all that should be necessary.
+
+Interest - An Hypothetical Issue
+A third issue relates to Clause 6.2 of the Heads of Agreement. It provides as follows: .2Interest 
+For the purposes of clause 10.3 of the Shareholder Agreement, if the buy back does not complete by 31 March 2011 not due to the fault of John, interest will accrue on a quarterly basis from 1 April 2011 until the day after the date on which the buy back completes at the Lower Rate and after that date in accordance with clause 10.3 of the Shareholder Agreement. Interest must be paid quarterly in arrears by the Company from the date after the date on which the buy back completes.
+
+For the purposes of clause 10.3 of the Shareholder Agreement, if the buy- back does not complete by 31 March 2011 due to the fault of John, interest will accrue on a quarterly basis and must be paid quarterly in arrears by the
+Company from the day after the date on which the buy back completes.
+
+In all other respects interest will accrue and be paid in accordance with clause 10.3 of the Shareholder Agreement.
+The meaning of the phrase "not due to the fault of John" in clause 6.2(a) and "due to the fault of John" in Clause 6.2(b) is ambiguous. The defendant's fault may have been a factor, but not the only factor, in the failure of the buy-back to complete by 31 March 2011. Whether the defendant is at fault after 31 March 2011, and if so to what extent, cannot be addressed until the buy-back completes. I do not know what will transpire in the future, in the period up until the valuation is undertaken and the buy-back is completed. It may be in any event that Clause 6.2 only requires focus on the period leading up to 31 March 2011 and not afterwards. If the words "due to the fault of John" are read literally, it may follow that any fault by John is sufficient to trigger the operation of Clause 6.2(b) and to deny him the benefit of Clause 6.2(a). Prima facie, this seems harsh. On the other hand, any other construction would require the implication of a qualification in relation to John's fault such as "wholly" or "substantially". None of these questions was satisfactorily addressed in submissions. Nor was there any cross-examination of the plaintiff and the defendant relating to their respective "fault". 
+More importantly, any dispute arising out of the operation of Clause 6.2 has not yet crystallised. The buy-back has not yet completed and cannot occur until after Mr Collins' valuation has been undertaken. If following the completion of the buy-back, the defendant makes a claim for accrued interest from 1 April 2011, the plaintiff may accept it. If a claim is made and rejected, a dispute will then ensue. The resolution of that dispute may involve competing contentions as to the proper construction of Clause 6.2. Or it may involve competing contentions of fact as to whether the delay was caused by the fault of the plaintiff or the defendant, wholly or in part. Or it may involve both. And I have no idea what sum of money is involved. 
+In effect, the parties wish to have the benefit of an advisory opinion on the meaning of Clause 6.2 before a claim for accrued interest is made or rejected. And they wish to have a factual determination of the issue of the respective fault of the plaintiff and the defendant in the abstract, before any dispute crystallises. I am unwilling to undertake this exercise. Courts have traditionally refused to provide answers to hypothetical questions or to give advisory opinions and I should not do so in this case: Bass versus Permanent Trustee Co Ltd  <case>; <case>. 
+There is a further overriding discretionary consideration. These proceedings were listed before me in the Expedition List because of the urgent necessity to resolve the dead-lock which had occurred over the appointment and engagement of the Valuer pursuant to Clause 4 of the Heads of Agreement. In contrast, the claim for accrued interest, if it arises, and if it is disputed, is just a money claim. Even when there is a dispute that is ripe for resolution, the interest claim will not by itself carry any entitlement to an urgent hearing and will not deserve priority treatment.
+
+Costs
+Both parties have achieved some success. However their conduct reflects poorly on both of them. To a greater or lesser extent, there has been an absence of reasonableness and moderation in their behaviour towards each other and in the legal positioning that they have adopted. In my view, neither party is, or deserves to be, a clear winner. My discretion in relation to costs is broad. I have reached the view that each party should pay his own costs. 
+Orders
+I make the following orders: 
+I order the defendant to sign: a letter of engagement generally to the effect of Annexure A to the
+Amended Summons appointing Sean P Collins of KPMG as the Valuer pursuant to
+Clause 4.1(b) of the Heads of Agreement.
+ a letter of instructions in the terms set out in paragraph 5(b) of the
+Amended Summons.
+
+I stay the operation of Order 1 for a period of 14 days in order to provide Mr Collins with the opportunity to consider these reasons including those matters that may be relevant to the form of the letter of engagement to which I referred in paragraphs [7], [12] - [14], [31] - [32] and [40] above.
+
+I order that the cross defendants forthwith provide to the defendant reasonable access to the books, records and documents of each of the following: 
+Tahuvo Pty Limited 
+Suveli Pty Limited 
+A C McGrath & Co Pty Limited 
+A C McGrath Holdings Pty Limited 
+A C McGrath Management Pty Limited 
+A C McGrath & Co (Wholesale) Pty Limited 
+Leasewise Australia Pty Limited 
+Kackell Pty Limited 
+Ravira Pty Limited 
+Farfront Pty Limited 
+Liverpool Investment Property Trust including in its capacity as trustee of the Liverpool Investment Property Trust.
+
+I order that upon signing by the defendant of the letters of engagement and instruction referred to in Order 1, and until completion by Mr Collins of his valuation pursuant to Clause 4.2(b) of the Heads of Agreement, the defendant including Knight Frank on his behalf, be entitled to reasonable access during ordinary business hours, and upon reasonable notice to the plaintiff, to each of the properties listed in the following schedule: 
+SCHEDULE ---  
+Current Owner 
+Folio Identifier 
+Street Address  
+A C McGrath & Co Pty Limited /192890 -23 Burwood Rd Burwood 2134  
+A C McGrath & Co Pty Limited /1159151 -537 Princes Hwy Kirrawee 2232  
+A C McGrath & Co Pty Limited /430224 PARRAMATTA RD STRATHFIELD 2135  
+A C McGrath & Co Pty Limited 
+A/409622 PARRAMATTA RD STRATHFIELD 2135  
+A C McGrath & Co Pty Limited 
+B/402365 PARRAMATTA RD STRATHFIELD 2135  
+A C McGrath & Co Pty Limited 
+B/409622 PARRAMATTA RD STRATHFIELD 2135  
+A C McGrath & Co Pty Limited /868300 BESSEMER ST BLACKTOWN 2148  
+A C McGrath & Co Pty Limited /870558 BLAXLAND SWY CAMPBELLTOWN 2560  
+A C McGrath & Co Pty Limited /870558 BLAXLAND SWY CAMPBELLTOWN 2560  
+A C McGrath & Co Pty Limited /786197 HUME HWY LIVERPOOL 2170  
+A C McGrath & Co Pty Limited /833690 HUME HWY LIVERPOOL 2170  
+A C McGrath & Co Pty Limited /833690 HUME HWY LIVERPOOL 2170  
+A C McGrath Management Pty Limited /786480 -505 PRINCES HWY KIRRAWEE 2232  
+A C McGrath Management Pty Limited 
+Z/409013 -511 PRINCES HWY KIRRAWEE 2232  
+A C McGrath Management Pty Limited 
+X/409013 -511 PRINCES HWY KIRRAWEE 2232  
+A C McGrath Management Pty Limited 
+Y/409013 -511 PRINCES HWY KIRRAWEE 2232  
+A C McGrath Management Pty Limited /752064 -511 PRINCES HWY KIRRWEE 2232  
+A C McGrath & Co (Wholesale) Pty Limited /247485 SHEPARD STREET LIVERPOOL 2170  
+Farfront Pty Limited /626253 HELLES AVE MOOREBANK 2170  
+Farfront Pty Limited /626253 
+MOOREBANK AVE MOOREBANK NSW 2170 HOUSE NO: LOT 3  
+Farfront Pty Limited /4404 CHRISTIE STREET LIVERPOOL 2170  
+Farfront Pty Limited /1020829 HUME HWY LIVERPOOL 2170  
+Farfront Pty Limited /4404 CHRISTIE STREET LIVERPOOL 2170  
+Ravira Pty Limited /4404 HUME HWY LIVERPOOL 2170  
+Ravira Pty Limited /4404 HUME HWY LIVERPOOL 2170  
+Ravira Pty Limited /4404 HUME HWY LIVERPOOL 2170  
+Ravira Pty Limited /4404 HUME HWY LIVERPOOL 2170  
+Ravira Pty Limited /657026 HUME HWY LIVERPOOL 2170  
+Ravira Pty Limited 
+A/417722 HUME HWY LIVERPOOL 2170  
+Ravira Pty Limited 
+B/417722 HUME HWY LIVERPOOL 2170  
+Ravira Pty Limited /4404 ROSE STREET LIVERPOOL 2170  
+Ravira Pty Limited /4404 ROSE STREET LIVERPOOL 2170  
+Ravira Pty Limited /710267 ROWOOD RD PROSPECT 2148  
+Ravira Pty Limited 
+K/414710 -130 BATH RD KIRRAWEE 2232  
+Ravira Pty Limited 
+L/414710 -130 BATH RD KIRRAWEE 2232  
+Ravira Pty Limited /1152187 BLACKTOWN RD BLACKTOWN 2148  
+Suveli Pty Limited & Tahuvo Pty Limited as Tenants in Common /8813 MAIN ST BLACKTOWN 2148  
+Suveli Pty Limited & Tahuvo Pty Limited as Tenants in Common /8813 MAIN ST BLACKTOWN 2148  
+Suveli Pty Limited & Tahuvo Pty Limited as Tenants in Common -179 JANE ST BLACKTOWN 2148  
+Suveli Pty Limited & Tahuvo Pty Limited as Tenants in Common /635063 JANE ST BLACKTOWN 2148  
+Suveli Pty Limited & Tahuvo Pty Limited as Tenants in Common /119510 JANE ST BLACKTOWN 2148  
+I order each party to pay his own costs.
+
+Liberty to apply on 3 day's notice.
+
+I direct the plaintiff's solicitors to forthwith provide a copy of these reasons to Mr Collins.
+ * * * 

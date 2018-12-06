@@ -1,0 +1,192 @@
+
+
+Liu versus Fairfax Media Publications Pty Ltd [2012] NSWSC 900 (9 August 2012) 
+Last Updated: 14 December 2012 
+This decision has been amended. Please see the end of the decision for a list of the amendments.
+ 
+Supreme Court 
+New South Wales  
+Case Title: 
+Liu versus Fairfax Media Publications Pty Ltd  
+Medium Neutral Citation: <case>  
+Hearing Date(s): /07/2012  
+Decision Date: August 2012  
+Jurisdiction: 
+Before: 
+Harrison AsJ  
+Decision: 
+The documents in Group A and Group B are to be produced by the plaintiff to the defendant within 21 days; and  
+The plaintiff is to pay the defendant's costs as agreed or assessed.  
+Catchwords: 
+PRACTICE AND PROCEDURE - claim of "without prejudice" privilege by plaintiff in relation to two distinct groups of documents - substantive action for defamation - UCPR r 21.5 - [Evidence Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) [ss ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s131.html) and [131A](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s131a.html) - defendants dispute claim of privilege - reference to an attempt to negotiate the settlement of a criminal proceeding or an anticipated criminal proceeding - claim of public interest immunity - order to produce  
+JUDGMENT
+HER HONOUR: The issue that is before this Court for determination is whether certain documents referred to in the plaintiff's notice of discovery are the subject of "without prejudice" privilege. The defendants seek inspection of these documents.
+The plaintiff is Eugene Liu (Mr Liu). The defendant is Fairfax Media Publications Pty Ltd (Fairfax Media). The plaintiff relies on the affidavits of Rebekah Giles sworn 18 June 2012 (Giles 1) and 18 July 2012 (Giles 2). The defendant relies on the affidavit of Samuel Johnson sworn 17 July 2012. 
+In the substantive proceedings the plaintiff complains about two articles which appeared in the Sydney Morning Herald on 21 October 2009. He claims that they are defamatory.
+
+Background
+The background that gives rise to these proceedings is set out in an affidavit of Anthony Phillip Wright (Ex 1 - paras [1]-[29]) in earlier equity proceedings ASIC versus Shaw Darrell Richard & Eugene Liu 290970/2009. It is helpful if an extract from that affidavit is reproduced here.
+
+The ARP Growth Fund (ARP)
+On 16 March 2010, the Australian Securities and Investments Commission (ASIC) commenced an investigation into ARP (the ARP Investigation) for alleged contraventions of [ss 184(1)(b)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s184.html),(c), [184](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s184.html)(2)(a), [601FC](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601fc.html), [1041E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1041e.html)(1) 10411F and 1041(G)(1) of the [Corporations Act 2001](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) in relation to the conduct of the affairs of Professional Pensions, Professional Pensions ARP Growth Limited, Empyreal SPC Limited, the directors and officer of those entities, as well as Paul Gresham, Philip York and Matthew Thomas Ling, during the period 1 December 2004 and 31 January 2010.
+
+The Astarra Strategic Fund (ASF)
+On 2 October 2009, ASIC commenced an investigation into ASF (the ASF Investigation) for alleged contraventions of [ss 601FC](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601fc.html), [601FD](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601fd.html), [1041G](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1041g.html), [1041E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1041e.html), [180](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s180.html), [181](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s181.html), [182](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s182.html) and [184](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s184.html) of the [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) Act, [s 249B](http://www.austlii.edu.au/au/legis/nsw/consolact/ca190082/s249b.html) of the [Crimes Act 1900](http://www.austlii.edu.au/au/legis/nsw/consolact/ca190082/) and [s 66](http://www.austlii.edu.au/au/legis/cth/consolact/asaica2001529/s66.html) of the [Australian Securities and Investments Commission Act 2001](http://www.austlii.edu.au/au/legis/cth/consolact/asaica2001529/) (Cth) (the ASIC Act), arising from the affairs of Trio Capital Limited and a number of managed investment schemes, including ASF and superannuation funds for which Trio Capital Limited (Trio) was the responsible entity and trustee.
+
+Background to ASIC's Investigation
+Trio was responsible for a number of managed investment schemes and trustee for a number of superannuation funds.
+On 15 February 2006, a Product Disclosure Statement (PDS) was issued for a new managed investment scheme that had been established, the ASF. Trio was the responsible entity for ASF. The issue of the PDS enabled interest in the ASF to be offered to Australian retail investors. 
+Trio appointed Astarra Asset Management Pty Limited (AAM). In providing financial services to ASF and Trio, AAM was doing so as an authorised representative of Wright Global Investments Pty Limited (WGI). WGI held an Australian Financial Services License issued by ASIC. 
+Mr Lui was a director of AAM along with Mr Richard. Mr Lui was also AAM's Chief Investment Strategist. He and Mr Richard were members of AAM's Investment Committee. 
+ASF was a managed investment scheme, which purported to invest in offshore hedge funds, via a Deferred Purchase Agreement (DPA). Under the terms of the DPA, ASF moneys would be invested with a special purpose vehicle, EMA International Limited (EMA). EMA would then place ASF monies in the underlying hedge funds. The DPA did not give ASF any proprietary interest in the investments made with the underlying hedge funds. The DPA merely gave ASF a contractual right as against EMA.
+As the investment manager for ASF, AAM was responsible for selecting underlying hedge funds into which ASF monies would be invested by EMA. The PDS provided that AAM was to make investments in underlying hedge funds managed by best performing managers. These managers were to be selected using quantitative and qualitative analysis and after extensive due diligence.
+On 16 December 2009, the Trio Liquidators were appointed as joint administrators of Trio. On 22 December 2009, the AAM Liquidator was appointed as liquidator of AAM.
+On 19 March 2010, the Court ordered that ASF be wound up. On 22 June 2010, the Trio Liquidators were appointed as joint liquidators of Trio. On 20 August 2010, the WGI Liquidator was appointed as administrator of WGI, and subsequently as liquidator on 23 September 2010.
+
+ASIC's Ongoing Investigation
+ASIC's investigation into the affairs of Trio which commenced on 2 October 2009 is ongoing. The investigation has primarily been focusing on the possible misconduct of Mr Richard and Mr Liu. 
+ASIC's interest in Mr Richard has come to an end. In December 2010, Mr Richard entered into an Enforceable Undertaking with ASIC. He undertook not to provide financial services in Australia permanently. 
+On 4 February 2011, Mr Richard appeared in this Court and pleaded guilty to two offences arising from a breach of [s 1041G](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1041g.html) of the [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) (dishonest conduct in the course of carrying on a financial services business). Mr Richard also admitted a third offence listed on a schedule arising from a breach of [s 1041E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1041e.html) of the [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) (making false statements in relation financial products).
+The circumstances giving rise to each of these offences and the Enforceable Undertaking involving Mr Richard are summarised as follows. Mr Richard knowingly put into effect instructions of Mr Flader from July 2004 onwards relating to the operation of a scheme ("the Scheme") whereby Mr Richard used his positions in respect of AAM, Trio, WGI and Astarra Funds Management Pty Ltd (AFM), to arrange the transfer of Australian investors' monies from managed investment schemes and superannuation funds for which Trio was the responsible entity or trustee, respectively, to overseas funds controlled by Mr Flader, namely, the Exploration Fund, Pacific Fund, SBS Fund, and Sierra Fund, in order to purchase shares in US companies from foreign companies controlled by Mr Flader at prices which realised significant profits for the companies controlled by Mr Flader.
+In order to facilitate the Scheme Mr Richard represented himself to investors as being the controller of Trio, WGI and AAM in circumstances where he was aware that these representations were false in that Mr Flader was the ultimate controller of these entities.
+In furtherance of the Scheme, AAM received over $5.3 million from the operation of the Scheme and Mr Richard received over $1.3 million in payments for participating in the Scheme. The payments to Mr Richard were in addition to his disclosed net annual salary of $113,426 paid to him by AFM.
+Mr Richard, in the course of carrying on a financial services business as a director of AAM, made materially misleading statements in the PDS for the ASF and in questionnaire responses relating to the ASF (to the effect that AAM applied qualitative and quantitative analysis to allocate assets to ASF's investment portfolio, selected the underlying investment managers of funds invested in by ASF by applying qualitative and quantitative analysis and carried out due diligence and monitoring in respect to the investment managers of the underlying funds invested in by ASF in circumstances where Mr Richard was aware that these statements were materially misleading in that the processes outlined were not carried out by AAM or if they were performed were deliberately manipulated to confirm a pre-determined selection or decision). At the time Mr Richard made these statements Mr Richard knew that these statements were likely to induce Australians to apply for financial products, namely units in ASF.
+
+Investigation concerning Mr Liu
+In the course of the ASF Investigation, ASIC has pursued lines of inquiry pertaining to Mr Liu's involvement with the ASF and his possible misconduct. In particular, ASIC has been focusing on possible criminal offences arising from the following circumstances: 
+Undisclosed payments (approximately $120,000) that Liu received directly from Global Consultants and Services Ltd (GCSL), another company involved in the Scheme, which benefited financially from the investment of ASF monies into underlying hedge funds that its principal controlled; 
+Undisclosed payments (approximately $240,000) that Liu received from AAM that were funded by GCSL; and 
+Statements that Liu included in the PDS for ASF and in a response to a questionnaire that formed the basis of an Aegis research report, about the process used to select managers of underlying hedge funds into which ASF monies were invested in circumstances where those processes were not carried out or were deliberately manipulated.
+In January 2011, ASIC entered into discussions with Mr Liu's solicitors about a possible guilty plea to charges of contraventions of the [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth). To date ASIC has been unable to reach an agreement with Mr Liu in this respect and is therefore focusing on finalising its investigations. The negotiations stalled in July 2011 and recommenced in May 2012. It is important to note that the settlement negotiations have not been finalised as yet. To date no similar proceedings to those involving Mr Richard have been commenced in relation to Mr Liu.
+
+The pleadings
+The FASC pleads at [3] to [4(c)], [5] to[6(b)]: "3. On 21 October 2009 the Defendant published of and concerning the Plaintiff in NSW and the other states and territories of Australia, in The Sydney
+Morning Herald newspaper an article entitled "Grinning all the way to the bank - until watchdog started sniffing" which is set out in Schedule "A" hereto (the First Matter Complained Of).
+
+Particulars of Publication 
+The Defendant published the First Matter Complained Of in "The Sydney Morning
+Herald" on the front page of the newspaper on 21 October 2009. Further particulars of publication will be supplied following discovery and interrogatories.
+The First Matter Complained Of was defamatory of the Plaintiff.
+
+Particulars of imputations 
+The First Matter Complained Of conveyed the following defamatory imputations of and concerning the Plaintiff: 
+The plaintiff was the subject of criminal charges, filed against him by
+ASIC, in October 2009; 
+The plaintiff behaved in such a way as to warrant ASIC filing charges against him in the equities division of the NSW Supreme Court in October 2009: and 
+The plaintiff was suspected by ASIC of running a Ponzi Scheme.
+ ...
+On 21 October 2009 the Defendant published of and concerning the Plaintiff in NSW and the other states and territories of Australia, in the Sydney
+Morning Herald newspaper an article entitled "ASIC silent on order against
+Trio" which is set out in Schedule "B" hereto (the Second Matter Complained
+Of).
+
+Particulars of Publication 
+The Defendant published the Second Matter Complained Of in "The Sydney Morning
+Herald" in the "Business Day" section of the newspaper on 21 October 2009.
+Further particulars of publication will be supplied following discovery and interrogatories.
+The Second Matter Complained Of was defamatory of the Plaintiff.
+
+Particulars of imputations 
+The Second Matter Complained Of conveyed the following defamatory imputations of and concerning the Plaintiff: 
+The plaintiff was the subject of criminal charges, filed against him by
+ASIC, in October 2009; 
+The plaintiff behaved in such a way as to warrant ASIC filing charges against him in the equities division of the NSW Supreme Court in October ."
+In response, the defence to the FASC at [12] to [13] pleads: "12. In further and alternative answer to paragraphs 3 and 4 of the Further
+Amended Statement of Claim, the Defendant says as follows: the First Matter Complained Of in paragraph 3 thereof carried the following imputations: 
+There were reasonable grounds to suspect that the Plaintiff acted illegally as a manager of an investment fund; 
+There were reasonable grounds to suspect that the investment fund managed by the Plaintiff was a Ponzi scheme; 
+The Plaintiff was a manager of Astarra Managed Funds against which ASIC issued an urgent interim order forcing the immediate removal of its product disclosure statement from its website; 
+The Plaintiff as manager of Astarra Managed Funds placed investors funds at risk by investing those funds in investments of dubious integrity.
+ (the first contextual imputations) each of the first contextual imputations was substantially true.
+ by reason of the substantial truth of the first contextual imputations, publication of so many of the Plaintiff's first imputations as are found to have been carried did not further harm the reputation of the Plaintiff.
+ In further and alternative answer to paragraphs 5 and 6 of the Further
+Amended Statement of Claim, the Defendant says as follows: the Second Matter Complained Of in paragraph 5 thereof carried the following imputations: 
+There were reasonable grounds to suspect that the Plaintiff acted illegally as a manager of an investment fund; 
+The Plaintiff was a manager of Trio Capital funds against which ASIC issued an urgent interim order forcing the immediate removal of its product disclosure statement from its website; 
+The Plaintiff as manager of Astarra Managed Funds placed investors funds at risk by investing those funds in investments of dubious integrity.
+ (the second contextual imputations) each of the second contextual imputations was substantially true; by reason of the substantial truth of the second contextual imputations, publication of so many of the Plaintiff's second imputations as are found to have been carried did not further harm the reputation of the Plaintiff.
+And [15(tt)] reads: "(tt) At all material times, the Plaintiff had the following legal obligations: as a director and in his capacity as a manager of an investment fund, not to make, or to be involved in the making of, misleading statements to investors and/or potential investors; as a director a duty to act in good faith and not to act: 
+A recklessly; or 
+B intentionally dishonest and not to fail to exercise his powers and discharge his duties: 
+A in good faith in the best interests of the corporation; or 
+B for a proper purpose.
+ and in the premises there was a reasonable basis to suspect that the Plaintiff breached those legal obligations in contravention of [s184(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s184.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/)."
+The plaintiff has not been charged with any criminal offences to date. However, the defendant is alleging that there was a reasonable basis to suspect that the plaintiff breached his legal obligations in contravention of [s 184(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s184.html) of the [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth).
+
+The documents the subject of the "without prejudice" privilege claim
+The plaintiff claims privilege for the documents numbered 1-22 as listed in Confidential Exhibit RRG 4 to Giles 2, as well as the document RRG 5 (Group A documents). The plaintiff asserts that each of those items are documents passing between ASIC and the plaintiff's legal representatives which refer to or comprise negotiations between them. With the parties' permission I have examined the Group A documents.
+The documents numbered 5-34 as listed in Confidential Annexure A to Giles 1 (Group B documents) are documents supplied by ASIC to the plaintiff during the course of the negotiations but they are not documents which comprise or refer to negotiations. They comprise evidence gathered by ASIC. 
+The law
+The starting point is [Part 21](http://www.austlii.edu.au/au/legis/nsw/consolreg/ucpr2005305/index.html#p21) of the [Uniform Civil Procedure Rules 2005](http://www.austlii.edu.au/au/legis/nsw/consolreg/ucpr2005305/) (UCPR) which deals with discovery. Relevantly, UCPR 21.5(2)(a) reads: "21.5 Documents to be made available ...
+
+Within 21 days after service of the list of documents, or within such other period or at such other times as the court may specify, party B must, on request by party A: produce for party A's inspection the documents described in [Part ](http://www.austlii.edu.au/au/legis/nsw/consolreg/ucpr2005305/index.html#p1) of the list of documents (other than privileged documents)..."
+The Dictionary to the UCPR defines "privileged documents" as a document that contains privileged information, which in turn is defined to included information to which [s 131](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s131.html) of the [Evidence Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) applies.
+[Section 131(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s131.html) and [5](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s5.html)(b) and (c) of the [Evidence Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) read: "Exclusion of evidence of settlement negotiations 
+Evidence is not to be adduced of: a communication that is made between persons in dispute, or between one or more persons in dispute and a third party, in connection with an attempt to negotiate a settlement of the dispute, or a document (whether delivered or not) that has been prepared in connection with an attempt to negotiate a settlement of a dispute.
+ ...
+
+In this section: ...
+ a reference to an attempt to negotiate the settlement of a dispute does not include a reference to an attempt to negotiate the settlement of a criminal proceeding or an anticipated criminal proceeding, and a reference to a communication made by a person in dispute includes a reference to a communication made by an employee or agent of such a person..." [Section 131(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s131.html) sets out a list of instances in which [s 131(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s131.html) will not apply. The defendants only rely on ss (2)(i), which reads: "(2) Subsection (1) does not apply if: ...
+ making the communication, or preparing the document, affects a right of a person..." [Section 131A](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s131a.html) of the [Evidence Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) reads: "131A Application of Part to preliminary proceedings of courts 
+If: a person is required by a disclosure requirement to give information, or to produce a document, which would result in the disclosure of a communication, a document or its contents or other information of a kind referred to in Division 1, 1A, 1C or 3, and the person objects to giving that information or providing that document, the court must determine the objection by applying the provisions of this Part (other than [sections ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s123.html) and [128](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s128.html)) with any necessary modifications as if the objection to giving information or producing the document were an objection to the giving or adducing of evidence.
+
+In this section, disclosure requirement means a process or order of a court that requires the disclosure of information or a document and includes the following: ...
+ pre-trial discovery..."
+The reference to "with any necessary modifications" calls for adjustment to be made to [s 131](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s131.html) so as to ensure, as far as possible, the disclosure required at the discovery stage is the same as that required at the trial stage: TransGrid versus Members of Lloyds Syndicate 3210 <case>](http://www.lexisnexis.com/au/legal/search/runRemoteLink.do?langcountry=AU&linkInfo=F#AU#urj#ref%BC201102533%&risb=21T15256933917&bct=A&service=citation&A=0.5366668983905403) at <case>.
+
+Are the documents privileged under [s 131?](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s131.html)
+The issues for consideration are, first, whether the documents are privileged for the purpose of [s 131(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s131.html) because they contain "an attempt to negotiate a settlement of the dispute", and, second, if so, whether the documents lose the protection of [s 131(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s131.html) by reason of the exception in [s 131(2)(i).](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s131.html)
+There is no general discretion so that, if the material is caught by the prohibition in [s 131(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s131.html), and does not fall within the exceptions in [s 131(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s131.html), it may not be adduced (or in this case, produced): Moran versus Moran (No 3) <case> at <case>.
+The party claiming privilege, in this case the plaintiff, bears the onus of establishing the basis of their claim, while the party seeking disclosure does not bear any onus of excluding privilege: ASIC versus Rich <case> at <case>.
+
+Do the documents contain "an attempt to negotiate a settlement of the dispute"? 
+Each of the Group A discovered documents over which the "without prejudice" privilege is claimed is a document that comprises or refers to settlement negotiations between the plaintiff and ASIC. Nearly all of them are marked "Without Prejudice". However I accept the proposition that just because a communication is headed "without prejudice" that is not conclusive of whether or not that communication is privileged: see GPI Leisure Corp Ltd versus Yuill [(1997) 42 NSWLR 225.]
+The Group B documents are in a different category. They do not comprise or refer to settlement negotiations. They are documents that were copied and brought into existence into the form in which they are exhibited to Giles 1 for the purpose of settlement negotiations: see Confidential Exhibit RRG 5 at Giles 2. Some of these documents have been produced on subpoena by ASIC and are already in the possession of the defendant. They were attachments to Group A documents in the main and/or provided as part of the negotiation process (T9-10).
+The defendant submitted that the parties were not "in dispute", nor were the communications or documents made or prepared in connection with an attempt to negotiate a settlement of any dispute. The defendant further submitted that in order for the communication document to be protected by [s 131(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s131.html), the "dispute" must be "a dispute of a kind in respect of which relief may be given in an Australian or overseas proceeding" (ss (5)(a)), but does not include a criminal proceeding or an anticipated criminal proceedings (ss (5)(b)). In my view there is a dispute between ASIC and Mr Liu. The dispute is the propriety of his conduct in relation to the entities referred to earlier in this judgment.
+Next the defendant submitted that a communication that asserted breaches by the plaintiff of the [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth), by reference to detailed evidence and inviting the plaintiff to make admissions, to consider pleading guilty to the commission of offences, or to consider entering into enforceable undertakings and assisting the Commonwealth to identify other offences or to track down lost funds, would not fall within [s 131(1).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s131.html) The defendant says that the plaintiff seeks to shoehorn these communications into the protection of [s 131](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s131.html) by suggesting that some or all of the offences which ASIC asserts the plaintiff has committed could be the subject of civil penalties. As far as the defendant can discern from the submissions, the possibility of ASIC taking civil penalty proceedings against the plaintiff is an inference that the Court is invited to draw. 
+The defendant correctly identified that the documents in Group A contain settlement negotiations between persons acting on behalf of ASIC and the plaintiff's legal practitioners. However, the defendant submitted that ASIC has said that their investigation involves possible criminal offences. While that is so, the settlement negotiations have canvassed alternative types of action, namely criminal charges and enforceable undertakings. Therefore the documents where the "without prejudice" privilege is claimed cover a number of remedies.
+Enforceable undertakings are covered by ASIC's Regulatory Guide 100, Enforceable undertakings, issued in February 2012. Regulation 100.4 defines enforceable undertakings as: "one of a number of remedies available to ASIC for breaches of the legislation
+ASIC is responsible for enforcing. It is an administrative settlement we may accept as an alternative to civil court action or certain other administrative actions."
+Regulation 100.21 relevantly reads: "We will not accept an enforceable undertaking: instead of commencing criminal proceedings against a party..."
+Regulation 100.21 is referred to by a representative of ASIC in the Group A documents. It is apparent that the discussion of an enforceable undertaking does not necessarily remove a threat of criminal proceedings against Mr Liu. 
+In determining whether the documents fall within the protection of [s 131(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s131.html) I must consider the public policy behind the privilege. In the second reading speech for the Evidence Bill (Legislative Council, Hansard, 24 May 1994 at 116), the then Attorney-General, the Honourable Jeffrey Shaw, said that: "In the public interest, evidence of reasons for judicial decisions - matters of State and settlement negotiations - is not to be adduced." (emphasis added).
+In Hong Kong Bank of Australia Ltd versus Murphy (1992) 28 NSWLR 512 Gleeson CJ discussed the without prejudice privilege at 522: "The policy of the law which underlies the 'without prejudice' privilege was
+Stated by Oliver LJ in Cutts versus Head [1984] Ch 290 at 306, as follows: 'That the rule rests, at least in part, upon public policy is clear from many authorities, and the convenient starting point of the inquiry is the nature of the underlying policy. It is that parties should be encouraged so far as possible to settle their disputes without resort to litigation and should not be discouraged by the knowledge that anything that is said in the course of such negotiations (and that includes, of course, as much the failure to reply to an offer as an actual reply) may be used to their prejudice in the course of the proceedings. They should ... be encouraged fully and frankly to put their cards on the table ... The public policy justification, in truth, essentially rests on the desirability of preventing statements or offers made in the course of negotiations for settlement being brought before the court of trial as admissions on the question of liability.'"
+Section 131 is designed to encourage full and frank settlement discussions between parties and it has long been accepted that resolution of disputes by compromise is in the public interest. It would conflict with this policy to confine confidentiality protections within narrow bounds: Jireh International Pty Ltd (t/as Gloria Jean's Coffees) versus Western Export Services Inc (No 2) <case> at <case>.
+Despite this Court's determination not to unduly confine the protection of <case> to give effect to the underlying policy of encouraging settlements, <case>(b) is worded in no uncertain terms. The subsection expressly excludes attempts to negotiate the settlement of a criminal proceeding or an anticipated criminal proceeding from the operation of <case> (b).
+The Dictionary to the [Evidence Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) defines "criminal proceeding" as "a prosecution for an offence" that includes (a) "a proceeding for the committal of a person for trial or sentence for an offence". "Anticipated" is not defined in the Dictionary. However in Roberts versus Burns Philp Trustee Co Ltd [(1985) 5 NSWLR 72] it was held that the proper test to determine whether proceedings are "pending or anticipated" (in that case, within the meaning of the [Evidence Act 1898](http://www.austlii.edu.au/au/legis/vic/histact/ea189880/), now repealed) is "the reasonable probability or likelihood" of the proceedings. 
+Having reviewed the documents upon which the plaintiff claims privilege, I am of the view that the documents are properly characterised as an attempt to negotiate the settlement of an anticipated criminal proceeding and are therefore not "privileged documents" by reason of <case>. Section 131(1) is inapplicable by reason of subsection 5(b).
+In case I am wrong on this aspect, I will consider the question whether ss 131(2)(i) precludes the plaintiff from claiming privilege over the documents.
+
+Does the making the communication, or the preparing the documents, "affect a right of a person"?
+I have discussed above the policy behind the protection afforded by <case>. However, a countervailing policy consideration is enshrined <case>(i), whereby the privilege cannot be claimed where a communication affects a right of a person. The Australian Law Reform Commission (Evidence (Interim), ALRC 26 at [891]) has discussed this issue in relation to the [Evidence Act](http://www.austlii.edu.au/au/legis/vic/histact/ea189880/) as follows: "The rationale requires non-disclosure by the parties to the negotiations unless all of them consent. The embargo will not apply to communications which are of a criminal or tortious nature, or are capable of affecting rights and liabilities (such as - acts of bankruptcy, defamatory statements, illegal threats, the election of alternative courses of action); and open offers of settlement."
+In Ryder versus Frohlich [[2006] NSWSC 1324] Brereton J stated that the exception was direction at communications that, "of themselves, have legal consequences for the rights of the parties".
+The defendant submitted, and I agree, that there is no distinction between the principle that a defamatory statement is excluded from the protection of <case> by virtue of <case>(i), and the principle that the plaintiff cannot bring proceedings in defamation against the defendant, and then seek to invoke the protection of <case> to prevent the production of material which directly affects the defendant's right to defend that claim. The defendant has sought to defend the claim by pleading truth. 
+I am satisfied that <case>(i) precludes the plaintiff from claiming privilege over the documents. 
+The public interest argument 
+Alternatively, the plaintiff asserted that there is a strong public interest in upholding the confidentiality of negotiations to resolve criminal proceedings. The plaintiff relied on UCPR 1.9.
+
+UCPR 1.9 relevantly reads: "1.9 Objections to production of documents and answering of questions founded on privilege 
+This rule applies in the following circumstances: if the court orders a person, by subpoena or otherwise, to produce a document to the court or to an authorised officer, if a party requires another party, by notice under rule 34.1, to produce a document to the court or to an authorised officer, if a question is put to a person in the course of an examination before the court or an authorised officer.
+
+In subrule (1), authorised officer means: any officer of the court, or any examiner, referee, arbitrator or other person who is authorised by law to receive evidence.
+ ...
+
+This rule does not affect any law that authorises or requires a person to withhold a document, or to refuse to answer a question, on the ground that producing the document, or answering the question, would be injurious to the public interest."
+It is my view that UCPR 1.9 does not apply in this case. Even if the reference to "otherwise" in UCPR 1.9(1)(a) could be construed to include discovery, the documents are to be produced to the opposing party, not to the Court or authorised officer. The same is true of 1.9(1)(b) and (c). Hence UCPR 1.9(1) and in particular UCPR 1.9(6) do not apply. 
+However, as the defendant pointed out, UCPR 1.9(6) does no more than confirm that the common law public interest immunity remains applicable in cases to which that rule applies: Ryan versus Watkins <case> at <case> and <case> have made reference to the practice of the NSW Director of Public Prosecutions to treat settlement negotiations in relation to criminal matters as "without prejudice". While there is a strong public interest in the non-disclosure of settlement discussions before a jury in a criminal trial (as was discussed in Ahmad at [20]), that principle has no relevance in this case. It does not follow that disclosure of negotiations to settle a criminal proceedings in the context of this case would lead to disclosure of the same material in any criminal proceedings against the plaintiff.
+The plaintiff's claim that producing the documents would be injurious to the public interest fails.
+
+Conclusion
+The documents in Groups A are not subject to "without prejudice" privilege and they are to be produced in accordance with UCPR 21.5. Counsel for the plaintiff conceded that if I found that there was no proper claim for privilege over the Group A documents, it would follow that the Group B documents would also have to be produced (T12). Accordingly, both the Group A and the Group B documents must be produced to the defendant.
+Costs are discretionary. Costs usually follow the event. The plaintiff is to pay the defendant's costs as agreed or assessed.
+
+The Court orders that: 
+The documents in Group A and Group B are to be produced by the plaintiff to the defendant within 21 days; and 
+The plaintiff is to pay the defendant's costs as agreed or assessed.
+ 
+Amendments Sep 2012 
+Removed hyperlink from case cited 
+Paragraphs: Coversheet  ---  Sep 2012 corrected decision date 
+Paragraphs: coversheet  * * * 

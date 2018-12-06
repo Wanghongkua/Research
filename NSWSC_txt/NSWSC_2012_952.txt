@@ -1,0 +1,159 @@
+
+
+Australian Rail Track Corporation Limited versus QBE Insurance (Europe) Limited [2012] NSWSC 952 (21 August 2012) 
+Last Updated: 17 September 2012 
+Supreme Court 
+New South Wales  
+Case Title: 
+Australian Rail Track Corporation Limited versus QBE Insurance (Europe) Limited  
+Medium Neutral Citation: <case>  
+Hearing Date(s): August 2012  
+Decision Date: August 2012  
+Jurisdiction: 
+Equity Division - Commercial List  
+Before: 
+Stevenson J  
+Decision: 
+Declaration sought refused  
+Catchwords: 
+INSURANCE - construction of policy - applicability of excess provision  
+JUDGMENT 
+Introduction
+These proceedings concern the proper construction of a contract of insurance ("the Policy").
+The plaintiff, Australian Rail Track Corporation ("ARTC") is one of the parties named as an insured in the Policy.
+The active defendants to the proceedings are QBE Insurance (Europe) Limited, Brit Syndicate Limited (Lloyds Syndicate 2987), Newline Underwriting Limited (Lloyds Syndicate 1218) and QBE Underwriting Limited (Lloyds Syndicate 386), which are the underwriters of the Policy ("Underwriters").
+The particular issue is whether the excess provision under the Policy ("the Self-Insured Excess Provision") applies in relation to claims that ARTC has made under the Policy for indemnity. Those claims relate to two incidents that the parties have described as the "Asimus Claim" and the "Breeza Claim". If the Self-Insured Excess Provision applies, the effect is that ARTC must pay the first $2.5 million of its liability in relation to each of those claims. I will describe those claims in more detail below.
+ARTC submits that, on the proper construction of the Policy, there is no Self-Insured Excess for any claim made under the Policy by ARTC, and thus no such excess for the claims for indemnity it makes in respect of the Asimus and Breeza Claims.
+
+Background
+The Policy incepted on 30 September 2006.
+The parties named as "Insured" in the Policy included, in addition to ARTC, Rail Corporation New South Wales ("RailCorp"), State Rail Authority of New South Wales ("SRA") and Rail Infrastructure Corporation ("RIC"), now known as Country Rail Infrastructure Authority ("CRIA").
+I will return to the relevant provisions of the Policy below. 
+SRA was established on 1 July 1980 by the Transport Authorities Act 1980 and was responsible for the operation and maintenance of railways in New South Wales. SRA was reconstituted on 1 July 1996 by the Transport Administration Amendment (Rail Corporatisation and Restructuring) Act 1996.
+CRIA (then known as RIC) was established pursuant to the [Transport Administration Amendment (Rail Management) Act 2000](http://www.austlii.edu.au/au/legis/nsw/repealedact/taama2000504/) and assumed some of the responsibilities of the SRA. The evidence before me does not reveal what those responsibilities were.
+Pursuant to an order made under [s 94](http://www.austlii.edu.au/au/legis/nsw/consolact/taa1988305/s94.html) of the [Transport Administration Act 1988](http://www.austlii.edu.au/au/legis/nsw/consolact/taa1988305/) on 27 June 2007, the regional assets, rights and liabilities held or owned by SRA were transferred to CRIA, effective on 30 June 2007.
+CRIA, an insured under the Policy, is a defendant to these proceedings. It has played no active part in the proceedings and has entered a submitting appearance.
+
+The Management Agreement
+ARTC is a party to an agreement called Country Regional Network Management Agreement dated 4 June 2004 ("the Management Agreement"). The other parties to the Management Agreement are SRA and CRIA.
+Pursuant to the Management Agreement, ARTC undertook to manage a portion of SRA's and CRIA's regional land and infrastructure including a rail network defined as the Country Regional Network. The incidents giving rise to the Asimus Claim and the Breeza Claim occurred on that part of the rail network. 
+Under the Management Agreement CRIA, SRA and ARTC gave each other cross indemnities in respect of claims made against them by third parties arising out of the Management Agreement.
+CRIA and SRA agreed to indemnify ARTC in relation to any liability of ARTC to a third party arising out of the Management Agreement unless such liability arose as a result of an act or omission of ARTC or its personnel.
+In turn, ARTC agreed to indemnify CRIA and SRA in relation to any liability to a third party arising out of the Management Agreement unless such liability was caused by ARTC's breach of the Management Agreement or the wilful misconduct or negligent act or omission of ARTC or its personnel.
+The effect of those indemnities was that ARTC would only be liable for such claims if they were caused by the conduct of its personnel, and then only to the extent that SRA and CRIA were not covered by insurance (sub-clauses 15.1 to 15.3).
+The Management Agreement also provided that SRA and CRIA "may" effect, relevantly, third-party liability insurance in respect of any claim arising out of or in connection with the Management Agreement. Any such insurance policy was to contain, amongst other provisions, a waiver of subrogation provision and a cross liability clause to the effect that all ensuring provisions operated separately in relation to each named insured (sub-clause 15.5).
+
+The Asimus Claim
+The Asimus Claim arises out of injuries suffered by Mr Troy Asimus ("Mr Asimus") on 11 January 2008 on a rail corridor between Lithgow and Wallerwang. At the time of his injury, Mr Asimus was undertaking re-sleepering works on a part of that rail corridor.
+The rail corridor is owned by CRIA. ARTC was undertaking the works pursuant to its obligations under the Management Agreement, and had engaged Mr Asimus's employer to do the work.
+Mr Asimus has commenced proceedings against ARTC (and his employer) in the Common Law division of this Court in respect of injuries he suffered. He alleges that ARTC was the "occupier" with the "care, control, management and supervision" of the rail corridor. The proceedings are yet to be allocated a hearing date.
+In those proceedings, ARTC has brought a cross-claim against CRIA seeking contribution or indemnity in relation to the claim brought against it by Mr Asimus pursuant to the cross indemnity provisions in the Management Agreement, and also pursuant to [s 5](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/s5.html) of the [Law Reform (Miscellaneous Provisions) Act 1946](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/).
+As I have mentioned, ARTC has made a claim under the Policy for indemnity in relation to this claim. Underwriters have granted indemnity, subject to the argument concerning the Self-Insured Excess Provision with which these proceedings are concerned.
+
+The Breeza Claim
+The Breeza claim arises out of an entirely separate incident, a train derailment, which occurred on 29 January 2008 at Breeza on the Country Regional Network.
+The derailment involved a Pacific National coal train travelling between the Boggari Colliery and Port Waratah. Damage resulted to the track, the rolling stock and the cargo of coal. Pacific National owned the rolling stock. Idemutsi Australia Resources ("Idemutsi") owned the coal.
+The track on which the train was travelling at the time of its derailment was owned by CRIA and managed by ARTC pursuant to the Management Agreement. 
+Two days after the derailment, on 1 February 2008, CRIA notified Underwriters under the Policy that CRIA may make a claim under the Policy in respect of the derailment. 
+Thereafter, CRIA notified ARTC that Pacific National and, possibly, Idemutsi and CRIA itself (pursuant to the cross indemnities in the Management Agreement) would claim any losses arising from the derailment from ARTC.
+ARTC sought indemnity from Underwriters under the Policy in respect of the claim. Underwriters have granted indemnity under the Policy to ARTC in respect of this claim, again subject to the argument concerning the Self-Insured Excess Provision with which these proceedings are concerned.
+
+The Policy
+The period of insurance of the Policy is 30 September 2006 to 30 September 2008.
+The parties named as "Insured" under the Policy include RailCorp, SRA, CRIA and ARTC.
+ARTC is expressed to be an insured only in connection with and arising from the Country Regional Network and the Management Agreement.
+[Section 1](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/s1.html) of the Policy provides cover for a number of risks, including public liability. The operative clause provides indemnity for an insured's liability to pay damages for liability for, amongst other things, personal injury and property damage during the period of insurance.
+In addition to the indemnity extended to ARTC as a consequence of it being named as an insured, clause 2 of [Section 1](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/s1.html) of the Policy extends such indemnity by providing: - "The indemnity granted extends to .1 Australian Rail Track Corporation in connection with and arising from the
+Country Regional Network and the Country Regional Network Management
+Agreement, but only to the extent required by such agreement to grant such indemnity and subject always to Clauses 7.3.3 and 12.2".
+That clause extends public liability indemnity to certain other parties (for example directors, officers and certain employees of ARTC). I shall consider those provisions further below.
+Clause 3 of [Section 1](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/s1.html) of the Policy contains a cross liabilities provision (as called for by the Management Agreement - see [19] above). That provision provides that each insured is: - "separately indemnified in respect of claims made against any of them by any other."
+The provision thus provides cover for each of ARTC and CRIA for any cross-claims one might bring against the other pursuant to the cross liability provisions in the Management Agreement.
+The Policy contains general conditions applicable to all sections.
+One is a subrogation provision which provides, in conformity with the Management Agreement (see [19] above), that Underwriters were to have no right of subrogation in respect of, relevantly, any claims made between CRIA and ARTC pursuant to the cross indemnities in the Management Agreement.
+Of central importance to the present dispute is General Condition 1 of the Policy which provides: - "1. Self-Insured Excess 
+Insurers shall only be liable for that part of any one Occurrence/claim or series of such Occurrences/claims arising out of any one originating cause under this Policy, including Defence Costs, which exceeds the amount of the
+Self-Insured Excess (including Defence Costs) stated in Item 6 of the
+Schedule. The Insured shall retain the Self-Insured Excess (including Defence
+Costs) for its own account."
+It is common ground between the parties that the reference to "claim" in the expression "Occurrence/claim" in this clause is relevant only to any claim made under the professional indemnity cover offered by the Policy (not relevant to this case). It is agreed that only the word "Occurrence" in the expression "Occurrence/claim" is relevant to claims made under the public liability cover of the policy (that being relevant to this case).
+Item 6 of the Schedule to the Policy is in the following terms: - "6. SELF-INSURED EXCESS: (Inclusive of Defence Costs) 
+In respect of Rail Corporation New South Wales [(Sections 1](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/s1.html) and [2](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/s2.html)) 
+AUD 10,000,000 each and every occurrence/claim and in the annual aggregate, but the first AUD 250,000 of any claim will not erode the aggregate amount. In the event that the aggregate is eroded an excess of AUD 1,000,000 each and every claim will apply 
+In respect of Rail Infrastructure Corporation [(Sections 1](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/s1.html) and [2](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/s2.html)) 
+AUD 2,500,000 each and every occurrence/claim but AUD 5,000,000 each and every occurrence/claim in respect of selected Restricted Lines as outlined on page of 2004-2005 Regional Network Management Plan outlined in 2004-2005 renewal submission 
+In respect of State Authority of New South Wales [(Section 1)](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/s1.html) 
+AUD 50,000 each and every occurrence but AUD 500,000 each and every occurrence in respect of worker to worker claims 
+In respect of State Rail Authority of New South Wales [(Section 2)](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/s2.html) [Section ](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/s2.html)
+Professional Indemnity 
+In respect of claims first made against the Insured prior to 30th
+September 2005 at 4.00 pm Australian Easter Standard Time 
+AUD 10,000,000 each and every claim and in the annual aggregate 
+In respect of claims first made against the Insured subsequent to 30th
+September 2005 at 4.00 pm Australian Eastern Standard Time 
+AUD 2,500,000 each and every claim 
+In respect of Constructions (Clearways) activities 
+AUD 10,000,000 any one occurrence and in the aggregate in respect of Completed
+Operations".
+
+The Construction Issue
+The matter for consideration in these proceedings is the proper construction of General Condition 1 when read in conjunction with Item 6 of the Schedule.
+ARTC submits that, on the proper construction of the Policy, the Self-Insured Excess Provision in General Condition 1 and Item 6 of the Schedule do not apply to ATRC's claim for indemnity in relation to either the Asimus Claim or the Breeza Claim. Indeed, ARTC submits that the Self-Insured Excess Provision does not apply to any claim for indemnity made by ARTC. 
+The principal basis for this submission is the absence of any reference to ARTC in Item 6 of the Schedule. ARTC submits that Item 6 of the Schedule identifies which of the parties insured under the Policy is to bear an excess, and the amount of that excess, and that as ARTC is not named in the Schedule, no excess applies to it.
+I do not accept this submission, for the reasons set out below.
+
+Relevant principals of construction
+The Policy is to be construed in accordance with the ordinary rules of interpretation of written contracts. Thus in The Southern Cross Assurance Co Limited versus Australian Provincial Assurance Association Limited <case>; [(1935) 53 CLR 618], Rich, Dixon, Evatt and McTiernan JJ said at p 636: - "The contract must be interpreted like any other contract, and the natural meaning of the language used must receive its effect unless, upon a proper application of the rules of interpretation, a contrary intention is found to be contained within the instrument".
+See also Australian Casualty Co Ltd versus Federico <case>; [(1986) 160 CLR 513] at p 109: - "If the words used are unambiguous the court must give effect to them, notwithstanding that the result may appear capricious or unreasonable, and notwithstanding that it may be guessed or suspected that the parties intended something different. The court has no power to remake or amend a contract for the purpose of avoiding a result which is considered to be inconvenient or unjust. On the other hand, if the language is open to two constructions, that will be preferred which will avoid consequences which appear to be capricious, unreasonable, inconvenient or unjust, 'even though the construction adopted is not the most obvious, or the most grammatically accurate', to use the words from earlier authorities cited in Locke versus Dunlop...'."
+Recently, in Cordon Investments Pty Ltd versus Lesdor Properties Pty Ltd  <case>, Bathurst CJ (with whom Macfarlan and Meagher JJA agreed) said (at [52]): - "The principles underlying the construction of written contracts are well established and it is not necessary to deal with them at length. A contract is to be construed by reference to what a reasonable person would understand by the language in which the parties have expressed their agreement having regard to the context in which the words appear and the purpose and object of the transaction: Pacific Carriers Ltd versus BNP Paribas <case>; <case>; Toll
+Pty Limited versus Alphafarm Pty Limited  <case>; CLR 165 at <case>;
+International Air Transport Association versus Ansett Australia Holdings Ltd  <case>;  <case>. At least in the case of ambiguity, resort can be had to the surrounding circumstances known to the parties in interpreting the particular provision:
+Codelfa Construction Pty Limited versus State Rail Authority of NSW  <case>; [(1982) 149 CLR 337] at 352; Western Export Services Inc versus Jireh International
+Pty Limited  <case>; [(2011) 282 ALR 604."]
+Neither party asserts that resort should be had to surrounding circumstances known to the parties, apart from the terms of the Management Agreement itself.
+
+General Condition 1
+In my opinion, the key to the proper construction of Item 6 of the Schedule to the Policy lies in the wording of General Condition 1.
+General Condition 1 is somewhat tersely drafted. Nonetheless, its meaning is, in my opinion, clear.
+It states that Underwriters are "only liable for that part of any one Occurrence", as described in General Condition 1.
+As this is a contract of public liability insurance, these words must mean that Underwriters are only liable to indemnify the insured for "that part" (as described in the clause) of the insured's liability to pay damages in respect of "any one Occurrence".
+The use of the words "that part" (rather than "any part" or "such part, if any") reveal that the parties intended that Underwriters would, in all cases, only be liable for "part" (and not the whole) of the insured's liability to pay damages in respect of "any one Occurrence".
+The "part" of the insured's liability to pay damages for which Underwriters are liable to indemnify is described in General Condition 1 as being the part that exceeds "the" (not "any" or "such") amount of the Self-Insured Excess that is "stated" in Item 6 of the Schedule. Those words show that the parties intended that there must be an amount "stated" in Item 6 of the Schedule above which the Insurer "shall only be liable".
+Thus, in my opinion, the effect of General Condition 1 is that there must be an amount: - which is "stated" in Item 6 of the Schedule; by reference to which the "part" of the insured's liability to pay damages is to be determined; below which Underwriters are not liable to indemnify; above which Underwriters' liability to indemnify can only arise.
+If follows, in my opinion, on the proper construction of General Condition 1, that an excess will apply to any claim made by any insured under the Policy. What that excess is, is to be determined by reference to the wording in Item 6 of the Schedule, to which I shall return to shortly.
+This is the effect of the Underwriters' submissions, and I accept them.
+The last sentence of General Condition 1 reads: - "The Insured shall retain the Self-Insured Excess...for its own account."
+ARTC submitted that this sentence had the effect of imposing on the Insured an obligation to bear the Self-Insured Excess "for its own account" in the sense of from its own resources (and not from insurance cover).
+It was submitted on behalf of ARTC that the object of the provision was to ensure that the Insured "has skin in the game" with a view to encouraging conduct not likely to give rise to a claim.
+I do not read the sentence this way. It seems to me that it does no more than emphasise that Underwriters are not liable for the "Self-Insured Excess". I would expect that, if it were the intention of the parties that the Insured accept an obligation of the kind referred to in ARTC's submission, more specific wording would have been used.
+In any event, if ARTC's construction of this sentence is correct, it points to the conclusion, consistently with what I have set out above, that each Insured, including ARTC would bear a Self-Insured Excess in respect of each claim for indemnity made. If, as ARTC submits, the object of this sentence is to ensure that the Insured has "skin in the game" there is no reason to suppose that ARTC would be exempted from that requirement. 
+Item 6 of the Schedule
+The various excess amounts in Item 6 of the Schedule are expressed to be "in respect of" (not "against" or "by") the three named entities (RailCorp, CRIA and SRA). Further, an excess (that related to "Completed Operations") is expressed to be "in respect of" particular activities (Construction (Clearways) activities).
+ATRC is not named in Item 6 of the Schedule. 
+As I have mentioned, ARTC relies on this omission in support of its submission that ARTC is entitled to indemnity under the Policy without deduction of the Self-Insured Excess.
+However, in my opinion, for the reasons I have outlined, the wording of General Condition 1 shows that the parties intended that an excess would apply to any claim made under the Policy by any one of the insured.
+It follows from that conclusion that the parties did not intend the words "in respect of" in Item 6 of the Schedule to identify the parties that are to bear the excess; that is, Item 6 of the Schedule is not stipulating the excess "for" the named entities.
+Rather, the parties intended that the relevant excess be determined by reference to whether the relevant Occurrence (or the liability of the insurers in respect of such Occurrence) was "in respect of" the named entities, or, in the case of Completed Operations, "in respect of" a named activity.
+Thus, in relation to each claim for indemnity by an insured, it is necessary to identify the entity or activity "in respect of" which the Occurrence giving rise to the claim (or the liability of the insurers in respect of that Occurrence) is.
+The words "in respect of" have a very wide meaning. They must be construed in the context in which they appear but require that there be some "discernable and rational link" between the matters in question: Technical Products Pty Ltd versus State Government Insurance Office (Queensland) <case>; [(1989) 167 CLR 45] at 47.
+The cover afforded to ARTC under the Policy is confined to liabilities in connection with the Country Regional Network and the Management Agreement. Thus any claim made by ARTC under the Policy was bound to be "in respect of" either SRA or CRIA (the other parties to the Management Agreement). Now that CRIA has assumed the regional assets and liabilities of SRA, it is inevitable that any claim made by ARTC under the Policy will be "in respect of" CRIA.
+Certainly, the Asimus Claim and the Breeza Claim could only be "in respect of" CRIA. So far as the evidence reveals, they have nothing at all to do with RailCorp, or the Completed Operations activities. SRA no longer plays any role in relation to the rail network, so neither claim is "in respect of" SRA. I shall return to the position concerning SRA below.
+Both the Asimus Claim and the Breeza Claim are "in respect of" CRIA in that each of them arises from an incident which occurred on a rail corridor owned by CRIA. 
+In the case of the Breeza Claim, the primary claim arising out of the derailment has been made by Pacific National against CRIA. Although Mr Asimus brought proceedings against ARTC, he could just as easily have brought them against CRIA. In any event, ARTC now seeks indemnity from CRIA in respect of that claim.
+It follows, in my opinion, that there is an excess applicable to each of the Asimus and Breeza Claims, namely that specified in Item 6 of the Schedule as being "in respect of" CRIA.
+It is agreed between the parties that, in this event, the excess is $2.5 million for each claim. As these incidents did not occur on a "restricted line", it is common ground that the higher excess of $5 million does not apply.
+
+Commercially Anomalous Result?
+ARTC submits that this construction of the Policy leads to a commercially anomalous result.
+I do not find the terms of the Policy to be ambiguous. In those circumstances, effect must be given to the words used in the Policy, even if the result may appear "capricious or unreasonable" (see [50] above).
+However, I cannot see any commercially anomalous result. The parties to the Management Agreement have agreed to allocate risk between them in accordance with the cross indemnities to which I have referred. They have then provided, in the Management Agreement, that such allocated risk is to be the subject of public liability insurance. They have done so, and the cross liabilities provision in the Policy (see [37] above) ensures that each party to the Management Agreement is "separately indemnified in respect of claims made against any of them by any other".
+ARTC submits that its construction of the Policy would "remove any conflict" between the parties to the Management Agreement. But I see no reason to suppose that that is what the parties intended. On the contrary, the words used by the parties to the Management Agreement show that they intended that conflict between them would be resolved by the allocation of risk found in the provision for cross indemnity in the Management Agreement.
+ARTC also submits that the construction that I have found would encourage "cut throat defenses" between the parties to the Management Agreement whereby each party to the Management Agreement would try to shift responsibility for claims made against them to the other. But that is what the Management Agreement provides.
+ARTC submits that the virtue of its construction of the Policy is that, if ARTC was held liable for an incident, it would be indemnified "from the ground up" and would not have to pursue the other parties to the Management Agreement under the cross indemnities. But I see no reason to suppose why this would be the intention of the parties.
+ARTC also points to the extension of cover, given in clauses 2.4 to 2.9 of [Section 1](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/s1.html) of the Policy to various other parties, including directors, officers and employees of any of the insured. ARTC submits that it would "defy common sense" to suppose that such individuals would themselves have to bear an excess as set out in Item 6 of the Schedule.
+In my opinion there are a number of answers to this submission. First, as the Underwriters point out, there is a proviso to that part of the Policy which makes clear that the persons to whom cover is extended are subject to the "terms, conditions and exclusions of this Policy as though they were Insured". 
+Further, there is no reason to suppose that the parties intended that ARTC, or its employees, would have superior cover under the Policy to any of the other insured. Yet this would be the effect of ARTC's construction of the Policy. On ARTC's construction of the Policy, if ARTC (or its employees) made a claim for indemnity under the Policy it (or they) would have indemnity not subject to any excess ("from the ground up") whereas if any other insured made a claim for indemnity (even if it arose out of the same circumstances), an excess would apply. 
+Thus, to take the Asimus Claim as an example, on ARTC's construction of the Policy, ARTC would be indemnified in relation to Mr Asimus's claim under the Policy without any excess. Yet any claim for indemnity under the Policy made by CRIA (for example arising out of the cross-claim brought by ARTC against CRIA in the Asimus proceedings) would be the subject of an excess. It seems improbable that this was the intention of the parties.
+
+Conclusion
+I will hear the parties as to the declarations (if any) and the orders that should be made to give effect to these reasons. * * * 

@@ -1,0 +1,139 @@
+
+
+Ozton Pty Ltd versus Cromwell Seven Hills Pty Ltd as trustee for the Cromwell
+Northpoint Trust [2016] NSWSC 1339 (15 September 2016) 
+Last Updated: 21 September 2016 
+Supreme Court 
+New South Wales  
+Decision: 
+Application for interlocutory injunctive relief dismissed with costs.  
+Catchwords: 
+EQUITY - interlocutory injunction - serious question to be tried - whether contract excludes right to set-off in equity - whether defendant is entitled to call upon the guarantee for non-payment of rent by payment - where plaintiff claims that there is a right to set-off for breach of the covenant of quiet enjoyment  
+EQUITY - interlocutory injunction - balance of convenience - whether damages are an adequate remedy - whether there is a real risk that defendant cannot meet a claim for damages  
+Cases Cited: 
+Australian Broadcasting Corporation versus O'Neill <case>; <case>; <case> 
+Telvent Australia Pty Ltd versus Acciona Infrastructure Australia Pty Ltd <case> 
+Saipem Australia Pty Ltd versus GLNG Operations Pty Ltd (No 2) [[2016] 1 Qd R ]  
+Texts Cited: 
+Derham, S R, The Law of Set-Off, (3rd edition, 2003, Oxford University Press) 
+Derham, S R, Derham on the law of set-off (4th edition, 2010, Oxford
+University Press)  
+Category: 
+Procedural and other rulings  
+Parties: 
+Ozton Pty Ltd (Plaintiff) 
+Cromwell Seven Hills Pty Ltd as trustee for the Cromwell Northpoint Trust (First Defendant) 
+St George Bank (a division of Westpac Banking Corporation) (Second Defendant)  
+Representation: 
+Counsel: 
+A J Sullivan QC / J S Emmett (Plaintiff) 
+M K Condon SC / P G Sharp (First Defendant) 
+Submitting Appearance (Second Defendant)  
+Solicitors: 
+Esplins Solicitors (Plaintiff) 
+Holman Webb Lawyers (First Defendant) 
+Westpac Banking Corporation (Second Defendant)  
+File Number(s): /228846  
+JUDGMENT (EX TEMPORE - REVISED 15 SEPTEMBER 2016)
+HIS HONOUR: The plaintiff (Ozton) is the lessee of five sets of commercial premises in a building known as Northpoint Tower at North Sydney. Ozton has subleased four of those premises to other entities. The first defendant (Northpoint), in its capacity as trustee of the Cromwell Northpoint Trust, is the owner of that building.
+At the beginning of this year, Northpoint started a major redevelopment and renovation of the building. Ozton says that the scale, nature and impact of those works are so great as to constitute a breach of the express covenant for quiet enjoyment in its leases, and to amount to a derogation from grant.
+In consequence, Ozton stopped paying rent from April 2016. Northpoint denies that Ozton has any right to withhold rent. It has threatened to call on guarantees given by the second defendant (St George; not surprisingly, St George has taken no part in the hearing to date). Ozton seeks an interlocutory injunction to restrain Northpoint from doing so.
+
+The issues
+I start by stating matters that were not in issue in the interlocutory hearing.
+Northpoint accepts, but only for the purposes of the interlocutory application, that there is a serious question to be tried as to whether its works do amount to a breach of covenant, or to a derogation from a grant. There will be in due course a question as to whether, if Ozton is in breach of its obligation to pay rent, it is entitled to the benefit of the covenant for quiet enjoyment. That is not an issue for present decision.
+Northpoint accepts, further, that at the level of basic principle, a breach of the covenant for quiet enjoyment (I add, a fortiori a serious derogation from grant) could impeach, in the relevant sense, its right to receive rental, for the purposes of set-off in equity.
+Against that background, the real questions for decision are: * (1) is the right of equitable set-off available in this case, having regard to the relevant provisions (in particular, cl 5.1 (b)) of each lease? * (2) Is Ozton entitled to relief in equity bearing in mind relevant provisions of each lease (in particular, cl 21.1(d))? * (3) Are damages an adequate remedy for any breach by Northpoint? * (4) Is Northpoint likely to be able to meet any amount of damages reasonably likely to be awarded? 
+General observations
+I start by referring to some general propositions. The first is the point made by Gummow and Hayne JJ in Australian Broadcasting Corporation versus O'Neill <case>; <case>. The questions generally referred to as whether there is a serious question to be tried, and where does the balance of convenience lie, are connected. As their Honours said: ...the requisite strength of the probability of ultimate success depends upon the nature of the rights asserted and the practical consequences likely to flow from the interlocutory order sought.
+I add that there should be considered also the practical consequences likely to flow from withholding the interlocutory order sought.
+The second general matter is that where assessment of the question, is there a serious question to be tried, involves a point of construction, the Court may decide the point but is not bound to do so. Whether the Court should do so depends on a number of factors. They include the obscurity (or clarity) of the point; the time available to consider it; and the likelihood that more detailed consideration, placing the disputed provisions in their full contractual and factual setting, will aid the resolution of the point.
+
+Availability in fact of the right of set-off in equity 
+Relevant terms of the lease et cetera
+I start by setting out cls 5.1 and 21.1 of each lease (although, I should make it clear, as the leases were identical, I will set those provisions out once only): .1 Payments 
+The Lessee must make payments due under this Lease:  without demand unless this lease says demand must be made;  without set-off, counter claim, withholding or deduction;  to the Lessor or as the Lessor directs; and  by automatic direct debit to the Lessee's bank account and corresponding automatic credit to the bank account nominated in writing by the
+Lessor, unless the Lessor otherwise directs. 
+The Lessee shall deliver the duly signed forms and authorities required by the Lessor to allow the Lessor to receive payment of the Rent and other moneys payable under this Lease by electronic transfer.  ...  .1 Bank Guarantee 
+On or before the Commencement Date, the Lessee must give the Bank
+Guarantee to the Lessor. 
+The Bank Guarantee must:  be in the form the Lessor reasonably requires; and  not have an expiry date. 
+If the Lessee is in default under this Lease (whether or not this Lease is registered), the Lessor may call on the Bank Guarantee to the extent of that default without notice to the Lessee. 
+The Lessee must not do anything which could prevent or delay payment by the bank to the Lessor under the Bank Guarantee. 
+If the Rent, the Lessee's Contribution or the Cleaning Charge increases, or the Lessor receives a payment under the Bank Guarantee under clause 21.1(c), the Lessee must give the Lessor on demand an additional or replacement Bank Guarantee so that the amount of the Bank Guarantee is for the amount in Item 14. 
+The Lessor may assign the Bank Guarantee, if it is assignable, to any person to whom it transfers the Land or assigns this Lease. The Lessee must give a replacement Bank Guarantee promptly to any person to whom the Lessor transfers the Land or assigns this Lease if the Bank Guarantee is not assignable or if the Lessor, acting reasonably, requires a replacement Bank
+Guarantee for that person's benefit.
+Next, I note that the leases were given and taken pursuant to a contract for sale made between Ozton as vendor and Northpoint as purchaser in November 2013. Clauses 5.1 (excluding its table) and 5.2 of that contract provided: .1 Vacant Space Leases to Ozton  
+On Completion Ozton shall enter into separate leases of the five (5) separate premises set out in the table below ("the Vacant Premises") for a
+Terms and for the Rents set out below and otherwise on the terms and conditions set out in Annexures "H1" to "H5" ("the Vacant Space Leases").  ...  .2 Documents to be delivered by Ozton on Completion  
+On Completion Ozton shall deliver to the Purchaser:-  duly executed leases in registrable form for each of the Vacant
+Premises on the terms and conditions set out in Special Condition 5.1;  separate bank guarantees in favour of the Purchaser for an amount equal to the Rent payable under each of the Vacant Space Leases for a period of six months which bank guarantees shall otherwise be on the terms and conditions set out in Clause 21.1 of the Vacant Space Leases; and  insurance policies in favour of the Purchaser which comply with Clause of the Vacant Space Leases.
+It may be assumed that the leases granted were in the form of the stipulated "Vacant Space Leases".
+
+The parties' submissions
+Mr Sullivan of Queens Counsel, who appeared with Mr Emmett of Counsel for Ozton, submitted that: * (1) cl 5.1 had no operation, because (by reason of the asserted right to set-off in equity) no rent was "due" to which cl 5.1(b) could apply; and * (2) in any event, the words of cl 5.1(b) were not apt to exclude equitable set-off.
+Mr Sullivan relied on observations in Derham, The Law of Set-Off (3rd edition, 2003) at [5.60], [5.86]. I note that ch 5 of Derham has been substantially rewritten in the current (4th) edition (2010). In particular, the statement in the 3rd edition at [5.86] that a requirement to pay in full "without deduction or set-off" would not exclude equitable set-off has been changed significantly.
+Mr Sullivan relied also on the decision of the Full Court of the Federal Court of Australia in Norman versus FEA Plantations Ltd <case>; [(2011) 195 FCR 97] at, in particular, [54].
+Mr Condon of Senior Counsel, who appeared with Mr Sharp of Counsel for Northpoint, submitted that in context, the words of cl 5.1(b) of each lease did operate to exclude any right of equitable set-off.
+Having said that, I should note that the starting point of Mr Condon's submissions was in fact that the Court should consider first the moving party's promise not to seek injunctive relief. He relied on what Jackson J said, in a not dissimilar context (a performance guarantee in a construction contract) in Telvent Australia Pty Ltd versus Acciona Infrastructure Australia Pty Ltd <case> at <case>. I acknowledge that in dealing with the issues in the order I have stated them, I am doing some violence to the structure of Mr Condon's submissions.
+Mr Condon submitted that cl 5.1 of each lease was part of a clear scheme of risk allocation which included also cl 21.1. The purpose of that scheme, made evident by cl 5 of the contract for sale, was that Ozton should in effect ensure that Northpoint had an uninterrupted income stream from the five premises that Ozton took on lease. I shall return to this point.
+In that context, Mr Condon submitted, the words "without deduction or set-off" meant exactly what they said, and extended to all forms of set-off.
+
+Decision
+I do not propose to decide the question of construction. In view of the necessity for a swift decision, I do not feel that I have had sufficient time to read in full the authorities and texts (going well beyond those to which I have referred) on which the parties relied. Nor am I certain that the full factual matrix has been disclosed by the necessarily limited evidentiary material that the parties (very properly, on an interlocutory application) put before the Court.
+I accept of course that the parties to a contract may exclude any right of set-off (including in equity) that one may have against the other in certain circumstances. I accept, further, that clear words are necessary to exclude a right to set-off in equity. Those points are made clear by the decision in Norman at [184].
+The authorities indicate a general trend of decisions to the effect that an obligation to pay "without deduction" will not be construed to exclude a right of equitable set-off. See Norman at [185], [186]. The latter paragraph makes clear that the words must be considered in their full context. I note that Derham expresses a similar view on the words "without deduction" at [5.101] of the 4th edition.
+However, the decision of Pullin JA (with whom Newnes JA agreed) in Oswal at [54] indicates that the words "without set-off" will operate to exclude all kinds of set-off, at law and in equity. To give content to what Pullin JA said, I set out [7] of the dissenting judgment of McLure P (where her Honour gives the words of the relevant clause) and then [54] of the reasons of the Pullin JA: [7] Clause 6.1 of the Loan Agreement concerns payments to the Bank. It nominates the date and time for making "all payments under this Agreement" (cl .1(a)) and what is to happen if the due date is not a business day (cl .1(b)). Clause 6.1(c) provides: 
+All payments to be made by the Borrower under this Agreement will be made without set-off or counter-claim and free and clear of any withholding or deduction for any Tax, unless prohibited by law. If the Borrower is required to make any deduction or withholding from any payment made to the Bank, the
+Borrower must [pay] such additional amounts as are required to ensure that the
+Bank receives a net amount which is equal to the amount the Borrower was obliged to pay.  ...  [54] The expression "without set-off" excludes all form of set-off, no matter what jurisprudential basis might exist for the set-off. Thus it excludes statutory set-off and equitable set-off. It excludes all of the four kinds of equitable set-off that the authors of Meagher, Gummow and Lehane's
+Equity: Doctrines and Remedies (4th ed, 2002) have detected: see [37-035].
+Therefore, the divergence of authority relied upon by the appellant does not affect the outcome of the appeal.
+The "divergence of authority" to which Pullin JA referred concerned the effects of the words "without deduction" standing by themselves. It can be put to one side for present purposes.
+In my tentative opinion, when one considers the scheme of risk allocation that the leases display, and the rationale for that scheme as it appears from the contract documents, the better view of cl 5.1(b) is that it does operate to exclude the right of equitable set-off. It is very difficult to see what other meaning the words could have. It is equally difficult to see why the clear and unvarnished words should be construed so as to exclude some forms of set-off but not others.
+Thus, I regard Ozton's position based on cl 5.1(b) as only weakly arguable. That is to say, I think that the opposing position of Northpoint, that cl 5.1(b) does exclude the availability of equitable set-off, is strong. But for the reasons I have given, I decline to decide the application by expressing those tentative opinions as concluded views on the proper construction of cl 5.1(b) 
+The impact of clause 21.1(d) 
+The parties' submissions
+Mr Condon relied on the decision of Jackson J in Telvent and on the decision of Philip McMurdo J in Saipem Australia Pty Ltd versus GLNG Operations Pty Ltd (No 2) [[2016] 1 Qd R 254.] Those cases showed, Mr Condon submitted, that the Court should give effect to a carefully worked out scheme of contractual risk allocation.
+Mr Sullivan submitted that cl 21.1(d) should not be construed so as to extend to situations where there was no default. It could not be entirely unlimited, he submitted, as otherwise there would be no right to injunct even a fraudulent attempt to call on the guarantees. Thus, he submitted, there was a proper basis for limiting the apparently unqualified operation of the clause. Mr Sullivan submitted, also, that on its proper construction the clause did not extend to applications for injunctive relief. I have to say that I do not understand the latter submission.
+
+Decision
+I start by saying that Mr Sullivan's primary submission necessarily assumes the existence of a right of equitable set-off. For the reasons I have given, I think that Ozton's claimed entitlement to that right is weak.
+But even if I were wrong in that view, I think that cl 21.1(d) should be given effect. I accept, as Mr Sullivan submitted, that there must be some circumstances in which the Court should ignore cl 21.1(d); as I indicated, fraud is an obvious example. Putting aside those limiting cases, however, I think that the contractual scheme evinces a clear intention that Northpoint should have the benefit of the income stream that the leases were intended to ensure, even though there might be disputes along the way.
+In the analogous context of a performance guarantee under a building or engineering contract, there is clear authority that where the (or a) purpose of a guarantee is risk allocation, that purpose is fundamental to a consideration of the justice of an application to restrain a call on the guarantee. Philip McMurdo J reviewed some of the authorities in Saipem at [49], [50]. Jackson J expressed the point very clearly in Telvent at [75] to [78]: [75] In the particular circumstances of an injunction to restrain a demand upon an unconditional guarantee, there is an added factor to be taken into account in considering the balance of convenience. It is that, in one sense, the grant of an interlocutory injunction is, at least, akin to the grant of final relief.  [76] The point of an unconditional guarantee, upon which demand may be made at any time, is that the parties have prima facie agreed that it is the beneficiary's right to make that demand. Even if an interlocutory injunction only delays the beneficiary's right to make the demand, that interferes with the very contractual right that was agreed if the injunction turns out to have been wrongly granted.  [77] The discussion of this point is framed in different terms and with varying degrees of emphasis in the cases to which I was referred. Some refer to the allocation of risk. Others refer to a general principle that an injunction will not be granted, subject to exceptions. Others emphasise the purposes of an unconditional guarantee, including the risk of insolvency and the benefit of agreed cash flows that are thereby created, pending the final determination of any dispute.  [78] In the end, however the point is put, in my view, a consideration of the nature of a contractual agreement for the provision of an unconditional guarantee must be a significant factor in determining where the balance of convenience lies.
+I respectfully agree with their Honours. Further, in my view, what Jackson J said at [76] is of particular relevance in this case.
+It will be noted that their Honours discussed the matter in terms of the balance of convenience. In my view, cl 21.1(d) bears directly upon that analysis in this case. Its effect must be that, absent evidence of real and substantial harm to Ozton that is unlikely to be recouped if Ozton succeeds, the parties' contractual risk allocation should be given effect.
+The questions of balance of convenience revolved around the last two issues. Accordingly, I now turn to them.
+
+Adequacy of damages as a remedy
+I shall address both the third and fourth issues under this heading.
+
+The parties' submissions
+Mr Sullivan submitted that damages would not be an adequate remedy. First, he submitted, those damages might be substantial, because the impact of Northpoint's works was so oppressive that Ozton's subtenants might stop paying rent, or might even abandon their subleases.
+In support of that submission, Mr Sullivan referred to the voluminous (mainly e-mail) correspondence from subtenants. Some was directed to Ozton. Some was directed to Northpoint. One (only) of the many subtenants who has complained, a company known as Data Solutions, has in fact stopped paying rent from August 2016. Mr Sullivan submitted that, bearing in mind the prior complaint, I could infer that Data Solutions stopped paying rent because of a disruption to its business arising from Northpoint's works. That does seem to me to be a reasonable inference, despite Mr Condon's submission to the contrary.
+Next, Mr Sullivan submitted, Ozton was at risk of damages claims from its subtenants. He submitted, I think correctly at the level of principle, that if Ozton succeeded against Northpoint (in showing breach of the covenant for quiet enjoyment, and consequent derogation from grant), the inevitable consequence would be that Ozton's subtenants would have the like claims against it.
+Mr Sullivan submitted that there was a real risk that Northpoint might not be able to meet any claim for damages by Ozton. Indeed, Mr Sullivan submitted, there was a real risk that Northpoint might not be able even to meet the amount of the guarantees (a little under $800,000 in total) if it called upon them and was found to have been not entitled to do so. Mr Sullivan supported those submissions by an analysis of Northpoint's latest financial statements.
+Mr Condon submitted that damages would be an adequate remedy. He started by pointing to the fact that despite all the complaints, only one subtenant had stopped paying, and that only recently. In those circumstances, Mr Condon submitted, the suggested exposure to damages was "speculative".
+In this context, Mr Condon referred to an e-mail from Mr Williams of Tower Holdings (a related corporation of Ozton) to Mr Maureira of Northpoint, dated 17 May 2016. In that e-mail, Mr Williams sought an extension of time to pay arrears of rent (for April). The e-mail made no reference to Northpoint's works as having caused or contributed to the non-payment. It asserted no right of set-off. It said (Mr Condon submitted, inconsistently with the present claim relating to equitable set-off) that Ozton was awaiting funds from settlement of a sale, and would pay the arrears from those proceeds.
+Mr Condon submitted that, if any claims for damages were made and proved, then by definition the quantification of any damages claim that Ozton might have against Northpoint would be simple.
+Turning to Northpoint's financial position, Mr Condon submitted that it was sound, and that there was no risk that Northpoint would be unable to refund the amount of the guarantees if called upon to do so, or to meet any greater claim for damages.
+
+Decision
+I start by noting that Mr Sullivan did not submit that, if Northpoint were to call upon the guarantees, Ozton would suffer harm over and above the risk that Northpoint might not be able to pay. He did not submit that there would be commercial or reputational harm, or that Ozton would be embarrassed vis-a-vis its bank, St George. Mr Sullivan did not submit that Ozton would be unable to fulfil its obligation under cl 5.1(e) of each lease to provide replacement guarantees if the existing ones were called upon.
+I accept that there is a serious question to be tried as to damages. That is to say, I accept at the level of principle that the matters of which Ozton complains are capable of sounding in damages and that those damages could include both loss of rent from, and further damages claims by, Ozton's subtenants.
+The real question, it seems to me, is whether Northpoint is likely to be able to meet those claims (and of course the amount of the guarantees, should it be found necessary for Northpoint to refund that amount).
+The principal asset of Northpoint, as at 30 June 2016, was the building itself. That was valued in Northpoint's accounts at (in round figures) $269.3 million. Northpoint also had cash at hand of $10.2 million. I should state that although these figures (and others to which I will refer) come from a draft document extracted from the consolidated audited accounts, there was no challenge to the accuracy of the draft. I add further that the Chief Financial Officer of the group of which Northpoint forms part said that there had been no material change to Northpoint's circumstances since 30 June 2016.
+Northpoint is shown to have had non-current liabilities of $139.2 million and current liabilities of $6.2 million. It thus had positive current assets (cash) of $4 million. Overall it had net assets of $146 million.
+I accept, as Mr Sullivan submitted, that the building has been based upon a discounted cash flow (DCF) basis. Mr Sullivan submitted, correctly, that a valuation on the DCF basis could be adversely affected by a drop in rental income. It may be noted that between the 2015 and 2016 financial years, the relevant integers of a DCF valuation - rent, capitalisation rate and discount rate - had all moved adversely.
+More importantly, Mr Sullivan submitted: * (1) the building was in effect a construction site, and its full value could only be recovered if the works were completed; and * (2) on the limited evidence available, there was at least $90 million still to be spent to bring the works to practical completion.
+Those two points may be conceded. Thus, in a practical sense, the net asset figure could be regarded as reduced, notionally to reflect the future cost of the works, to a figure of $56 million. And that figure could be seen as somewhat hypothetical, given the well-known risks inherent in major construction projects (including delays and costs over-runs) and the ongoing impact of the works on rental returns.
+Nonetheless, it seems to me, a conservative analysis shows that Northpoint has assets sufficient to meet all its future commitments for construction funding and to leave a notional figure of about $56 million in surplus assets. (The figure is notional because the crude accounting exercise that I have undertaken is not one that comes within a mile of generally accepted accounting principles.)
+In those circumstances, it seems to me, the risk that Northpoint might not be able to meet any realistic estimate of damages that Ozton might suffer is, at its highest, minimal. I add that although I have focused on Northpoint's asset position, the draft financial statements as at 30 June 2016 show that it is operating profitably and returning cash to investors by way of trust distributions.
+Finally, in dealing with these issues, I should note that Mr Condon did not submit that Northpoint would suffer irreparable harm if kept out of its money by being prevented from calling on the guarantees. He did however submit that to grant Ozton the relief sought would deprive Northpoint of the contractual protection for which it had bargained.
+
+Conclusion and orders
+I have concluded, in effect, that: * (1) Ozton's case, that cl 5.1(d) does not exclude any right of equitable set-off is weak; * (2) accordingly, Ozton's case that cl 21.1(d) does not apply is weak; and * (3) in any event, damages would be an adequate remedy for any loss that Ozton might sustain.
+On those conclusions, there is no good reason for the Court to interfere with Northpoint's exercise of what, at least prima facie, are its contractual rights. There is no basis on which the Court should interfere with what I accept is the risk allocation scheme that the parties devised and implemented.
+Accordingly, the interlocutory injunction granted up until 5pm today should be allowed to lapse according to its terms.
+I make the following orders: * (1) dismiss the plaintiff's claim for interlocutory injunctive relief; * (2) order the plaintiff to pay the defendant's costs of that application; * (3) direct that the exhibits be handed out after these reasons are revised; * (4) list the matter before the Registrar for directions on 22 September 2016; and * (5) reserve general liberty to apply.
+ * * * 

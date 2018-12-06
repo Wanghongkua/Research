@@ -1,0 +1,326 @@
+
+
+MacarthurCook Fund Management Limited -v- Zhaofeng Funds Limited [2012]
+NSWSC 911 (10 August 2012) 
+Last Updated: 28 August 2012 
+Supreme Court 
+New South Wales  
+Case Title: 
+MacarthurCook Fund Management Limited -v- Zhaofeng Funds Limited  
+Medium Neutral Citation: <case>  
+Hearing Date(s): , 10 & 11 July 2012  
+Decision Date: August 2012  
+Jurisdiction: 
+Equity Division - Commercial List  
+Before: 
+Hammerschlag J  
+Decision: 
+Judgment for the plaintiffs  
+Catchwords: 
+CORPORATIONS - [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) ("the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/)") Ch
+C, [Part
+C.3](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5c.3) and [Part
+C.6](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5c.6) - managed investment schemes - CONTRACT - where member subscribes for units in a managed investment scheme on terms that the units will be redeemed by the responsible entity at a specific time - whether [Pt
+C.6](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5c.6) of the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) applies to require the responsible entity to make a written withdrawal offer - if [Pt
+C.6](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5c.6) applies, whether subscription contract was sufficient compliance with any such requirement - whether, in any event, the responsible entity was contractually bound to make such an offer - CORPORATIONS - [Pt
+C.2](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5c.2) - where entity which is the responsible entity of a managed investment scheme purports to contract in its capacity as responsible entity and separately in its personal capacity and undertakes the obligation to purchase units which are not redeemed by it in its capacity as responsible entity - where change in responsible entity occurs - whether the obligation to purchase was in relation to the scheme and became the obligation of the new responsible entity -
+DAMAGES - claim for damages for failure to redeem or purchase units in breach of contract  
+JUDGMENT 
+INTRODUCTION
+HIS HONOUR: The first plaintiff (or MacarthurCook) is the responsible entity of a registered managed investment scheme under the [Corporations Act 2001](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) ("the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/)"), known as the MacarthurCook Property Securities Fund. 
+Under a written custodian agreement dated 5 November 2004, the second plaintiff holds, as custodian for MacarthurCook, all income, rights or property of the MacarthurCook Property Securities Fund.
+By its custodian, MacarthurCook sues for damages which it claims it suffered as a consequence of the breach by the first defendant of three written agreements under which MacarthurCook subscribed for a total of 15 million units at an issue price of $1 per unit in a registered managed investment scheme under the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/), previously known as Reed Property Trust and now known as P-REIT. In some relevant instruments the scheme is referred to as the Trust. The descriptions scheme and Trust are used interchangeably in this judgment. 
+The first defendant (which recently changed its name to Zhaofeng Funds Management Limited) was, until 8 May 2012, the responsible entity of the Trust. From 9 May 2012, the second defendant took over as responsible entity. 
+In relevant instruments, the second defendant is referred to variously as the responsible entity, the Trustee and the Manager. Those descriptions are used interchangeably in this judgment.
+Each agreement under which MacarthurCook subscribed for units contains a provision for the redemption of the units by the first defendant by a specified deadline. The first defendant did not redeem any units by the applicable deadlines. The units remain unredeemed and MacarthurCook continues to hold them. 
+Each agreement contains a provision requiring the first defendant to buy from MacarthurCook those units which were not redeemed by the applicable deadline. The first defendant did not purchase any units by the applicable deadline.
+On the face of each agreement, the first defendant undertook the obligation to redeem in its capacity as responsible entity of the scheme, but undertook the obligation to purchase in its personal capacity. 
+MacarthurCook says that as the new responsible entity, the second defendant became liable to perform the first defendant's obligations both to redeem and to buy.
+It sues the second defendant for damages for breach of the obligation to redeem. I shall call this the redemption claim.
+It is common cause that the second defendant became liable to perform the first defendant's obligations, if any, to redeem. The second defendant says that on the proper construction of the agreements and in the events that occurred, no such obligation arose. 
+MacarthurCook sues the second defendant, and in the alternative the first defendant, for damages for the breach of the obligation to purchase. I shall call this the guarantee claim.
+The only issue in the guarantee claim is whether the second defendant became liable to perform the first defendant's obligations to buy those units which had not been redeemed. This turns on whether the first defendant's obligation to buy became the obligation of the second defendant when it assumed the role as responsible entity for the scheme. 
+Additionally, MacarthurCook sues to recover from the second defendant, and in the alternative the first defendant, a fee payable under a Unit Conversion Agreement, dated 1 April 2007, pursuant to which the special class units held by it were converted into ordinary units in the Trust. I shall call this the conversion fee claim. 
+The only issue in the conversion fee claim is whether the first defendant or the second defendant is liable to pay the fee.
+
+BACKGROUND 
+The PDS
+By Product Disclosure Statement dated 6 October 2006 ("the PDS"), the first defendant, then responsible entity of the Trust, offered members of the public the opportunity to invest in the Trust at a unit price of $1 per unit. At the time, the Trust was unlisted. The PDS described the Trust as investing primarily in a range of income-earning, property-based assets. The PDS had been preceded by two earlier offerings. 
+The PDS disclosed that for so long as proceeds raised under it could be invested in accordance with the Trust's investment criteria, the Trust would remain open for new investment. The PDS disclosed that it was intended that the first $28.11 M raised would be initially applied to reduce the Trust's borrowings and that further equity raised under the offer would be used to acquire new investments. The PDS included detailed information about the Trust's borrowings. 
+The PDS disclosed further that the Trust was "not liquid". Under the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) a managed investment scheme is liquid if at least 80 percent of scheme property (by value) is in liquid assets, such as cash and listed securities. Otherwise it is termed "not liquid". 
+The PDS recorded that the Manager intended to make withdrawal offers to investors every six months, with up to three percent of the net asset value of the Trust being made available to fund such withdrawals each year. 
+Under the heading "Risks", the PDS stated that "It is not expected that the Trust will be liquid, which means Investors' ability to withdraw from the Trust will be entirely limited to any withdrawal opportunities offered by the Manager". Under the heading, "Important documents and additional information", the PDS recorded that: 
+The Manager may issue additional classes of Units with rights and obligations determined by the Manager. For example, a unit class may be issued having rights of redemption in priority to ordinary Units and/or ranking in preference to ordinary Units upon winding up of the Trust.
+
+FAT 1, FAT 2 and the Unit Conversion Agreement
+MacarthurCook first invested in the Trust on 1 November 2006. It did so pursuant to two written agreements with the first defendant, each dated 27 October 2006 and described respectively as Facility Agreement Tranche 1 ("FAT 1") and Facility Agreement Tranche 2 ("FAT 2"). Under each, MacarthurCook was to subscribe for five million units at an issue price of $1 per unit on specific terms and conditions.
+On 1 April 2007, MacarthurCook and the first defendant entered into the Unit Conversion Agreement under which the units acquired by MacarthurCook under FAT 1 were converted into ordinary units. 
+Clause 2.4 of the Unit Conversion Agreement provided for the first defendant to pay MacarthurCook a yearly fee calculated on a fixed percentage basis provided MacarthurCook held the units converted at particular dates. The parties are agreed that the conversion fee payable is $131,250. 
+FAT 3, FAT 4 and FAT 5
+By written agreement, described as Facility Agreement Tranche 3 ("FAT 3") and entered into on 1 November 2007, MacarthurCook and the first defendant agreed that FAT 2 would cease on 31 October 2007 and that MacarthurCook would subscribe for a further five million units on the basis that the first defendant would retain the subscription price under FAT 2 in exchange for MacarthurCook's subscription for five million units under FAT 3. 
+MacarthurCook went on to subscribe for a further 10 million units under two further written agreements, both entered into on 3 December 2007 and designated respectively as Facility Agreement Tranche 4 ("FAT 4") and Facility Agreement Tranche 5 ("FAT 5"). 
+MacarthurCook still holds the 15 million units subscribed for under FAT 3, FAT 4 and FAT 5.
+
+The relevant provisions of fat 3, fat 4 and fat 5
+Save as otherwise indicated below, the terms of FAT 3, FAT 4 and FAT 5 relevant to the present dispute are identical. Unless otherwise indicated, a reference to a clause is a reference to the same clause in each. I will refer to the instruments collectively as the agreements. 
+The agreements commence with the following description of the parties: 
+Parties MacarthurCook Fund Management Limited (ABN 79 004 956 558)of Level 4, 30 Collins Street, Melbourne VIC, in its capacity as responsible entity for the MacarthurCook Property Securities Fund ("MacarthurCook"); 
+Reed Funds Management Limited (ABN 33 107 352 821) of 17 Duporth Ave, Maroochydore QLD in its capacity as responsible entity for the Reed Property Trust (ARSN 109 684 773) ("Reed RE"); and 
+Reed Funds Management Limited (ABN 33 107 352 821) of 17 Duporth Ave, Maroochydore QLD (in its personal capacity) ("RFML")
+MacarthurCook executed the agreements beneath the designation "as responsible entity for the MacarthurCook Property Securities Fund in accordance with its constitution". The first defendant executed the agreements twice, once beneath the designation "as responsible entity for the Reed Property Trust in accordance with its constitution" and a second time beneath the designation "in accordance with its constitution". 
+The agreements recite that at the request of the first defendant, as responsible entity, MacarthurCook has agreed to subscribe for five million units, subject to the terms and conditions set out in the agreements. 
+Clause 1.1 contains the following definitions: [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/) means the constitution made by deed poll by Reed RE establishing the Trust and any subsequent amending deeds.
+
+Issue Price means $1.00 per unit.
+
+Offer Documents means the documents issued or published by or on behalf of Reed RE in respect of the Offer, including the PDS, any Application Forms and any document that supplements or replaces any of them or the disclosure in any of them.
+
+PDS means the Reed Property Trust Product Disclosure Statement dated 6 October 2006 in relation to the Offer, including any supplementary or replacement product disclosure statements.
+
+Trust means the Reed Property Trust (ARSN 109 684 773).
+
+Subscription Unit means a unit in the class of that name, issued to MacarthurCook under this Agreement.
+
+Subscription Period means the period of 12 months from the Subscription Date.
+
+Units means units in the Trust validly issued under the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/).
+Clause 1.1 of FAT 3 defines Subscription Date to mean 1 November 2007. Clause 1.1 of FAT 4 and FAT 5 defines Subscription Date to mean 3 December 2007. 
+Clause 2.1 of FAT 3 is as follows: .1 Subscription 
+On the Subscription Date, despite anything in the Tranche 2 agreement, Reed RE will retain the $5,000,000 transferred to Reed RE by MacarthurCook under the
+Tranche 2 agreement, in exchange for MacarthurCook's subscription of $5,000,000 Subscription Units under this agreement.
+
+The subscription under this agreement will then be known between the parties as 'Tranche 3'.
+Clause 2.1 of FAT 4 is as follows: .1 Subscription 
+On the Subscription Date, MacarthurCook will transfer the Subscription Amount to Reed RE in cleared funds, in consideration for MacarthurCook's subscription for the Subscription Units. This subscription will then be known between the parties as Tranche 4.
+Clause 2.1 of FAT 5 is as follows: .1 Subscription 
+On the Subscription Date, MacarthurCook will transfer the Subscription Amount to Reed RE in cleared funds, in consideration for MacarthurCook's subscription for the Subscription Units. This subscription will then be known between the parties as Tranche 5.
+Clause 2.4 is as follows: .4 Redemption 
+Subject to compliance with any requirements under the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) and the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/), during the Subscription Period, Subscription Units held by MacarthurCook must be redeemed by Reed RE for their Issue Price, using funds received by the
+Trust as a result of accepted applications under the Offer Documents, such redemptions commencing a minimum six months from the Subscription Date.
+Clause 2.6 provides as follows: .6 RFML's guarantee 
+RFML guarantees to MacarthurCook to purchase all Subscription Units still held by MacarthurCook at the end of the Subscription Period, at their Issue Price.
+Reed RE will also at the same time pay to MacarthurCook any accrued but unpaid distributions on the Subscription Units for the period ending on the date the
+Subscription Units are purchased.
+Clause 9 is as follows: . Limited liability of Reed RE .1 Capacity 
+The parties agree this Agreement binds Reed RE solely in its capacity as responsible entity of the Trust. The parties acknowledge the obligations incurred by Reed RE under this Agreement are incurred by Reed RE in its capacity as responsible entity of the Trust and not in any other capacity.
+ .2 Circumstances where Reed RE is personally liable 
+Reed RE will be liable, in its personal capacity under this Agreement for any loss or damage which MacarthurCook may suffer as a result of a breach of this Agreement by Reed RE where such breach is caused by - fraud of Reed RE; 
+Reed RE having committed a breach of trust, or 
+Reed RE having been negligent in the performance of its duties as responsible entity of the Trust.
+
+However, Reed RE is only liable under this clause to the extent that such fraud, breach of trust or negligence causes a loss or reduction of Reed RE's right of indemnity out of the assets of the Trust in respect of that loss or damage.
+ .3 Enforcement by parties 
+Subject to clause 9.2, MacarthurCook may only enforce its rights against Reed
+RE arising from any breach of non-performance by Reed RE of its obligations under this Agreement - in Reed RE's capacity as responsible entity of the Trust and not in Reed
+RE's personal capacity, and only to the extent that Reed RE is actually indemnified out of the assets of the Trust.
+
+THE [CONSTITUTION](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/)
+The following are the relevant provisions of the Trust's [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/). . Creation and sale of Units .1 Units - division of beneficial interest 
+The beneficial interest in the Trust is divided into Units. Subject to the terms of issue, every Unit confers an equal and undivided interest in the
+Assets as a whole, subject to the Liabilities. but not an interest in any particular Asset.
+ .2 Further issues of Units 
+Subject to the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/), the
+Trustee may determine to create and issue further Units of the same class or of a different class to those already on issue.
+
+The Trustee may make the issue of further Units in different classes subject to rights, obligations and restrictions the Trustee determines.
+
+The rights of Unitholders are subject to the rights, obligations and restrictions attaching to a Unit of a class which they hold.
+ . Withdrawal Price for Units .3 Withdrawal Price for other classes of Units 
+Founder Units may be redeemed at a Withdrawal Price of $1.00 each.
+ . Withdrawal procedures .1 Right to withdraw 
+A Unitholder has no right to withdraw from the Trust other than - where the Trust is not a registered managed investment scheme under the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/), as determined by the Trustee in its absolute discretion, or on and from such registration, in accordance with remainder of this clause , the terms of which have effect on and from such registration.
+ .2 Application of withdrawal provisions 
+Clause 7.3 to 7.6 apply whether or not the Trust is Liquid.
+
+Clause 7.7 applies while the Trust is Liquid.
+
+Clause 7.8 applies while the Trust is not Liquid.
+ .3 Requests for withdrawal 
+A Unitholder may make a request for the withdrawal of some or all of their
+Units - if the Trust is Liquid, in a manner approved by the trustee and the
+Trustee must give effect to that request (subject to clauses 7.6 and 7.7), or if the Trust is not Liquid, in accordance with a withdrawal offer made by the Trustee and the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/).
+ .4 Compulsory withdrawal 
+The Trustee may redeem the Units of any Unitholder without the need for a withdrawal request.
+ .6 Suspension of withdrawals 
+The Trustee need not give effect to a withdrawal request received between the date the Trust is terminated and the date the Trust is wound up. The Trustee may suspend withdrawals for a period of time if it is not in the best interests of Unitholders for withdrawals to be made.
+ .8 Provisions which apply when the trust is not Liquid 
+When the Trust is not Liquid, a Unitholder has no right to withdraw from the trust unless there is a withdrawal offer currently open for acceptance by
+Unitholders.
+
+The Trustee is not at any time obliged to make a withdrawal offer.
+
+If the Trustee receives a withdrawal request before it makes a withdrawal offer, then it may treat the request as an acceptance of the offer effective as at the time the offer is made.
+ . Trustee's powers and duties .1 General powers 
+Subject to this [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/), the Trustee has all the powers in respect of the Trust that it is possible under the law to confer on a trustee and as though it were the absolute owner of the Assets acting in its personal capacity.
+ .4 Exercise of discretion 
+The Trustee may, in its absolute discretion, decide how and when to exercise its powers.
+ .5 Holding Units 
+The Trustee or its Associates may hold Units in the Trust in any capacity.
+ . Indemnity and liability .2 Indemnity from the Trust 
+The Trustee has a right of indemnity out of the Assets in respect of - any liability incurred by the Trustee in the performance of its duties in respect of the Trust, and all fees payable to and costs recoverable by the Trustee under this [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/).
+
+However, this indemnity does not apply where there has been any negligence, deceit, breach of duty, fraud or breach of trust on the part of the Trustee.
+
+Schedule 1 - Dictionary 
+Founder Units The separate class of Units of that name; created and issued by the Trustee.
+
+RELEVANT PROVISIONS OF THE [ACT](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/)
+The following are the relevant provisions of the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/). [S 601FB](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601fb.html) Responsible entity to operate scheme 
+The responsible entity of a registered scheme is to operate the scheme and perform the functions conferred on it by the scheme's constitution and this [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/).
+ [S 601FG](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601fg.html) Acquisition of interest in scheme by responsible entity 
+The responsible entity of a registered scheme may acquire and hold an interest in the scheme, but it must only do so: for not less than the consideration that would be payable if the interest were acquired by another person; and subject to terms and conditions that would not disadvantage other members.
+
+Note: If the responsible entity holds an interest in the scheme, it does so subject to [section
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) (certain members cannot vote or be counted).
+ [S 601FS](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601fs.html) Rights, obligations and liabilities of former responsible entity 
+If the responsible entity of a registered scheme changes, the rights, obligations and liabilities of the former responsible entity in relation to the scheme become rights, obligations and liabilities of the new responsible entity.
+
+Despite subsection (1), the following rights and liabilities re main rights and liabilities of the former responsible entity: any liability for which the former responsible entity could not have been indemnified out of the scheme property if it had remained the scheme's responsible entity.
+ [S 601GA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ga.html) Contents of the constitution 
+If the responsible entity is to have any rights to be paid fees out of scheme property, or to be indemnified out of scheme property for liabilities or expenses incurred in relation to the performance of its duties, those rights: must be specified in the scheme's constitution; and must be available only in relation to the proper performance of those duties; and any other agreement or arrangement has no effect to the extent that it purports to confer such a right.
+
+If members are to have a right to withdraw from the scheme, the scheme's constitution must: specify the right; and if the right may be exercised while the scheme is liquid (as defined in [section
+KA)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ka.html)--set out adequate procedures for making and dealing with withdrawal requests; and if the right may be exercised while the scheme is not liquid (as defined in [section
+KA)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ka.html)--provide for the right to be exercised in accordance with [Part
+C.6](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5c.6) and set out any other adequate procedures (consistent with that Part) that are to apply to making and dealing with withdrawal requests.
+
+The right to withdraw, and any provisions in the constitution setting out procedures for making and dealing with withdrawal requests, must be fair to all members.
+ [S 601KA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ka.html) Members' rights to withdraw from a scheme 
+Withdrawal from schemes that are not liquid 
+The constitution of a registered scheme may make provision for members to withdraw from the scheme, wholly or partly, in accordance with this Part while the scheme is not liquid (see [subsection
+GA(4)).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ga.html) 
+Restrictions on withdrawal from schemes 
+The responsible entity must not allow a member to withdraw from the scheme: if the scheme is liquid--otherwise than in accordance with the scheme's constitution; or if the scheme is not liquid--otherwise than in accordance with the scheme's constitution and [sections
+KB](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601kb.html) to [601KE](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ke.html).
+
+An offence based on subsection (3) is an offence of strict liability.
+
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+Liquid schemes 
+A registered scheme is liquid if liquid assets account for at least 80% of the value of scheme property.
+
+KB Non-liquid schemes - offers 
+The responsible entity of a registered scheme that is not liquid may offer members an opportunity to withdraw, wholly or partly, from the scheme to the extent that particular assets are available and able to be converted to money in time to satisfy withdrawal requests that members may make in response to the offer.
+
+The withdrawal offer must be in writing and be made: if the constitution specifies procedures for making the offer - in accordance with those procedures; or otherwise-by giving a copy of the offer to all members of the scheme or to all members of a particular class.
+
+The withdrawal offer must specify: the period during which the offer will remain open (this period must last for at least 21 days after the offer is made); and the assets that will be used to satisfy withdrawal requests; and the amount of money that is expected to be available when those assets are converted to money; and the method for dealing with withdrawal requests if the money available is insufficient to satisfy all requests.
+
+The method specified under paragraph (d) must comply with section 601KD.
+
+For joint members, a copy of the withdrawal offer need only be given to the joint member named first in the register of members.
+
+As soon as practicable after making the withdrawal offer, the responsible entity must lodge a copy of the offer with ASIC.
+
+KE Non-liquid schemes - responsible entity may cancel withdrawal offer 
+The responsible entity of a registered scheme that is not liquid: must cancel a withdrawal offer before it closes if it is in the best interests of members to do so.
+
+EVENTS LEADING UP TO THE PRESENT DISPUTE
+From 1 November 2007 to 5 September 2008 the Trust received $12,347,079 as a result of accepted applications under the Offer Documents. Of that amount, $665,416 was received on and from 6 May 2008. 
+On Monday 29 September 2008, the directors of the first defendant issued a circular informing investors that the first defendant had closed the Trust to new applications and had suspended all withdrawals (including the payment of withdrawal requests which remained unpaid), effective from that date until further notice. The circular stated that "These strong measures have been taken in the best interests of investors, having regard to the uncertainty in the credit and global real estate markets". 
+The Subscription Date under FAT 3 was 1 November 2007 and 3 December 2007 under both FAT 4 and FAT 5. The Subscription Period under FAT 3 was from 1 November 2007 to 31 October 2008 and under FAT 4 and FAT 5 from 3 December 2007 to 2 December 2008. 
+Accordingly, under cl 2.4, "Subject to compliance with any requirements under the [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) and the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/)", the units held by MacarthurCook had to be redeemed by the Trustee for their Issue Price using funds received by the Trust as a result of accepted applications under the Offer Documents, in the case of FAT 3, during the period 1 May 2008 to 31 October 2008, and, in the case of FAT 4 and FAT 5, during the period 3 June 2008 to 2 December 2008. 
+As has earlier been said, none of MacarthurCook's units were redeemed under cl 2.4, nor were any purchased pursuant to cl 2.6. 
+The first defendant used most of the funds received as a result of accepted applications under the Offer Documents to reduce bank borrowings of the Trust. It used none of the funds to redeem MacarthurCook's units.
+
+THE HEARING
+The hearing occupied three days. Mr A Leopold SC together with Ms V Thomas of counsel appeared for the plaintiffs and Mr J C Kelly SC appeared for the defendants. 
+Over 1,300 pages of material was tendered. However, in the end only some ten documents transpired to be relevant. 
+The parties provided outlines of submissions in advance of the hearing in accordance with the Usual Order as to Hearing. Both sides abandoned various untenable propositions which they had earlier motivated. 
+During the hearing both sides produced documents setting out the key propositions upon which they relied. Positions were refined and limited during argument.
+I have had regard to all the arguments made in relation to the issues that remain, but do not propose to restate them. 
+THE REDEMPTION CLAIM 
+MacarthurCook's Position
+MacarthurCook contends that under cl 2.4, the second defendant was obliged to use the funds it received as a result of accepted applications under the Offer Documents (totalling $12,347,079) to redeem at issue price: million units subscribed for under FAT 3 by 31 October 2008; and ,347,079 units subscribed for under FAT 4 and FAT 5 by 2 December 2008; and that in breach of this contractual obligation, it failed to do so.
+MacarthurCook claims as damages $10,809,868, which is the amount it would have received on redemption ($12,347,079) less $1,537,211, being the value of the units it still holds. It is not in dispute that each unit is now worth $0.1245. 
+The second defendant proffers two answers to the redemption claim.
+Its primary answer is that there has been no breach of cl 2.4 because: redemption pursuant to cl 2.4 would constitute the second defendant (as responsible entity) allowing MacarthurCook (as a member) to withdraw from the scheme; under [Pt
+C.6](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5c.6) of the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/), the second defendant must not allow MacarthurCook to withdraw from the scheme otherwise than in accordance with [ss
+KB](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601kb.html)-[601KE](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ke.html) and the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/); the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/) and those sections (in particular <case>) require the responsible entity to make a withdrawal offer and the member to accept it; the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) and the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/) require the responsible entity to have an unfettered discretion whether to redeem or not; it has chosen not to exercise its discretion to make a withdrawal offer; the obligation to redeem under cl 2.4 is expressly subject to compliance with any requirements under the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) and the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/); the requirements under those instruments for redemption (being a withdrawal offer and acceptance) have not been met; and it follows there has been no breach of cl 2.4.
+Its secondary and fallback position (which is a partial answer only) is that on the proper construction of cl 2.4, it is only obliged to redeem MacarthurCook's units using funds received during the period commencing six months from the Subscription Date, the total of which was $665,416.
+I will deal with each in turn. 
+The second defendant puts that under [s 601KA(3)(b)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ka.html) of the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/), a responsible entity may not allow a member to withdraw from the scheme otherwise than in accordance with the scheme's constitution and [ss 601KB](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601kb.html)-[601KE](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ke.html). It puts that, [s 601KB(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601kb.html) permits a member to withdraw only if the responsible entity makes a written withdrawal offer to members and that under cl 7.8(a) of the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/), a unit holder has no right to withdraw unless there is a withdrawal offer currently open for acceptance. 
+It puts that by cl 7.8(b) of the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/), the Trustee is not at any time obliged to make a withdrawal offer and that <case> gives the Trustee the option, in its absolute discretion, whether or not to make one. Hence, it puts, whether the Trustee wishes to make a withdrawal offer is, under both the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) and the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/), a matter entirely for it and that it cannot be obliged to make one. Put another way, it says that this is a statutory discretion which is incapable of being fettered.
+It follows, it puts, that if it were to redeem MacarthurCook's units without having made a written withdrawal offer, it would, as responsible entity, be allowing MacarthurCook, as a member, to withdraw from the scheme otherwise than in compliance with the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) and the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/) and that cl 2.4 does not and cannot require it to do so.
+In response, MacarthurCook puts three matters. 
+First, it submits that [Pt 5C.6](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5c.6) of the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (which comprises [ss 601KA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ka.html)-[601KE](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ke.html)) has no application to redemption under cl 2.4. It puts that the procedures contemplated in the Part and the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/) for withdrawal offers and acceptances, have no role to play. It puts that [Pt 5C.6](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/index.html#p5c.6) contemplates the situation only where the responsible entity offers a member the "opportunity" to withdraw and the member, at its option, accepts, whereas cl 2.4 entails compulsory redemption by the responsible entity, which is effected by unilateral redemption, as contemplated by cl 7.4 of the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/). Thus, it puts, MacarthurCook is not being given, nor is it required to be given, any opportunity as contemplated by <case>. 
+Second, it submits that if a withdrawal offer and a withdrawal request were required, cl 2.4 itself sufficiently meets those requirements. 
+Third, it submits that if cl 2.4 is not itself sufficient, the responsible entity bound itself to make a withdrawal offer, which obligation it breached, and that MacarthurCook would inevitably have accepted such an offer. 
+MacarthurCook's first submission is unsustainable. 
+Clause 4.2 of the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/) gives the Trustee the power to issue units in different classes subject to rights, obligations and restrictions the Trustee determines and provides that the rights of unit holders are subject to the rights, obligations and restrictions attaching to a unit of a class which they hold.
+Section 601KA(3)(b) applies if a responsible entity allows a member to withdraw from a scheme which is not liquid. 
+Clause 7 of the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/) contains provisions of the type contemplated by ss 601GA(4) and 601KB, giving members a right to withdraw. This right depends on the responsible entity making a withdrawal offer which the member may, at its option, accept by way of a withdrawal request.
+Albeit that the terms of issue of MacarthurCook's units contemplate redemption as an inevitability in the event of, and to the extent of, receipt of funds as a result of accepted applications under the Offer Documents, the responsible entity's agreement to those provisions is no less to allow a member to withdraw from the scheme than would be to make a binding withdrawal offer. Receipt of funds via the Offer Documents is not a certainty. Moreover, the responsible entity may be obliged to give MacarthurCook an opportunity to withdraw by making an offer which MacarthurCook may be obliged to accept, but this remains an opportunity to withdraw. The words of cl 2.4 themselves acknowledge the possibility that redemption must be subject to the applicable requirements of the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) and the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/). 
+The submission that cl 7.4 of the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/) provides for a member to withdraw by compulsory redemption in the absence of a withdrawal offer cannot be accepted. Clause 7.4 of the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/) allows the Trustee to redeem units without the need for a withdrawal request, that is, without the need for acceptance of a withdrawal offer. It clearly contemplates the making of a withdrawal offer. It merely dispenses with the requirement for acceptance if the Trustee so determines.
+Accordingly, in my view [Pt 5C.6](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5c.6) of the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) applies. 
+MacarthurCook's second submission has more substance. [Section 601GA(4)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ga.html) provides that if members are to have a right to withdraw from the scheme, the scheme's constitution must specify the right and if the right may be exercised while the scheme is not liquid, provide for the right to be exercised in accordance with [Pt 5C.6](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5c.6) and set out any other adequate procedures that are to apply to making and dealing with withdrawal requests. [Section 601KD](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601kd.html) provides that the responsible entity must satisfy withdrawal requests within 21 days after the offer closes and that if an insufficient amount of money is available, requests are to be satisfied proportionately. [Section 601KB(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601kb.html) permits a responsible entity to offer members an opportunity to withdraw to the extent that particular assets are available and able to be converted to money in time to satisfy withdrawal requirements that members may make in response to the offer. 
+The requirements for such an offer are specified in [ss 601KB(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601kb.html) and (3). [Section 601KB(2)(b)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601kb.html) requires the withdrawal offer to be in writing and be made, relevantly, to all members of a particular class. [Section 601KB(3)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601kb.html) provides that the withdrawal offer must specify the period during which the offer will remain open, it must specify the assets that will be used to satisfy withdrawal requests, it must specify the amount of money that is expected to be available when those assets are converted to money, and it must specify the method for dealing with withdrawal requests if the money available is insufficient to satisfy all requests.
+The Recitals in FAT 3, FAT 4 and FAT 5 record that the responsible entity has requested MacarthurCook to subscribe and that MacarthurCook has agreed to do so, subject to the terms and conditions set out in the agreements. This satisfies the requirement for writing and, on conventional contractual principles, undoubtedly suffices as a written offer and acceptance of redemption on the terms of cl 2.4.
+The offer, and for that matter the acceptance, identifies the particular assets available to satisfy the withdrawal. Redemption is to occur using only funds received by the Trust as a result of accepted applications under the Offer Documents. The requirement to specify the amount of money expected to be available when specified assets are converted to money cannot apply here because the asset concerned is itself money. The requirement to specify the method for dealing with withdrawal requests if the money available is insufficient to satisfy all requests also does not apply or is satisfied given that cl 2.4 specifies that redemption is to be made exclusively out of funds received pursuant to the Offer Documents. 
+MacarthurCook plainly had copies of the agreements and it is not suggested that any other person held Subscription Units. 
+Whilst cl 2.4 does not literally comply with the requirement to specify the period the offer would remain open (which must be for at least 21 days as required by [s 601KB(3))](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601kb.html), it was to operate for well in excess of that period. Non-compliance with this requirement, such as it is, is not sufficient to render the contract effected by the making of the withdrawal offer void. The non-compliance is immaterial. The provision requiring the offer to remain open is in the interests of the offeree. The responsible entity commits an offence under [s 601KA(3A)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ka.html) if it allows a member to withdraw from the scheme otherwise than in accordance with the Part. This is an important indication that the statute does not intend to visit invalidity on the transaction. 
+I consider it unlikely that the legislature intended to visit invalidity of the contract as the consequence of a non-compliance such as this: see Yango Pastoral Company Pty Ltd versus First Chicago Australia Limited <case>; [(1978) 139 CLR 410]
+In my view, if a withdrawal offer and acceptance was required, that requirement was met by the execution of cl 2.4 itself.
+MacarthurCook's third submission also has force. If, contrary to what I have said above, cl 2.4 was itself not sufficient compliance with the requirements of the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) and the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/), the responsible entity undertook the obligation to comply with whatever requirements were required, including the making of any necessary withdrawal offer.
+The words of cl 2.4 are clear and not susceptible to more than one meaning. Subject to complying with the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) and the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/), the obligation on the responsible entity to redeem is conditional only upon receipt of funds by the Trust as a result of accepted applications under the Offer Documents and the passage of time. 
+The inclusion of the words "Subject to compliance with any requirements under the [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) and the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/)" reflects an express obligation on the part of the responsible entity to comply with any applicable requirement under those instruments to facilitate redemption. To the extent that a withdrawal offer was needed, the responsible entity expressly undertook the obligation to make it. 
+However, if I am wrong, and the responsible entity did not undertake that obligation expressly, it undertook it by implication. 
+It is a general rule applicable to every contract that each party agrees by implication to do all such things as are necessary on its part to enable the other party to have the benefit of the contract. This is particularly so where the thing to be done is fundamental to the contract and is essential to the performance of that party's obligations under the contract: Secured Income Real Estate Australia (Ltd) versus St Martins Investments Pty Ltd <case>; [(1979) 144 CLR 596] at 147.
+The obligation to redeem is a fundamental one. If the making of a withdrawal offer was necessary to enable the responsible entity to redeem, whether under the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) or the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/), it was essential to its performance. Making a withdrawal offer was entirely within its power. 
+Moreover, to allow the responsible entity to escape the obligation to redeem because it failed to make a withdrawal offer would allow it, contrary to principle, to take advantage of its own wrong. 
+It may be observed that both under the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) and the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/) the responsible entity is given the discretion to make a withdrawal offer. Clause 7.8 of the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/) provides that the Trustee is not at any time obliged to make a withdrawal offer. 
+The second defendant put that these were discretions which the responsible entity could not, even by its own agreement, bind itself to exercise. 
+It is well established that persons or public bodies entrusted by the legislature with powers and duties for public purposes cannot divest themselves of those powers and duties and cannot contract to take any action incompatible with the due exercise of their powers: see Upper Hunter Timbers Pty Ltd versus Forestry Commission of New South Wales [[1999] NSWCA 125] at 77, Mason J said: 
+Where statutory approval for the making of the contract exists and the contract contains an undertaking that the statutory power will be exercised in a particular way, there is no room for the notion that the undertaking is invalid on the ground that it is an anticipatory fetter on the exercise of a statutory discretion. The contract, assuming it to be within constitutional power, is valid and the undertaking is free from attack. There is in such a case the initial question: does the statute which approves the making of the contract expressly or impliedly amend, for the purposes of the contract, the pre-existing law providing for the exercise of the discretion? The statute may impose on the repository of the discretion a duty to exercise it in conformity with the undertaking or it may leave him with a discretion to arrive at some other result. If it be the former, then the contracting party may be able to compel the government and the person in whom the discretion is vested, though it has been relevantly converted into a duty, to comply with the undertaking.
+If it be the latter, then the undertaking if it is enforceable, will be enforceable by an action for damages only.
+In City of Camberwell versus Camberwell Shopping Centre Pty Ltd <case>; [[1994] 1 VR 163], said: 
+The judgments in Ansett make it clear that a self imposed contractual fetter on the exercise of discretionary power is only unlawful where it is alone without power. Where the contract, which is said to have the effect of fettering the exercise of the statutory power or discretion in the future, is itself authorised by a power, it is lawful.
+Nothing suggests that a responsible entity cannot give a binding undertaking to make a withdrawal offer, and in my opinion, it can. Under cl 11.4 of the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/), the Trustee may, in its absolute discretion, decide how and when to exercise its powers. This includes the power to enter into an agreement binding itself to make a withdrawal offer. 
+I observe that under <case>(b), the responsible entity of a registered scheme that is not liquid must cancel a withdrawal offer before it closes if it is in the best interests of members to do so. It may be accepted that notwithstanding any contractual obligations which a responsible entity may have undertaken to make a withdrawal offer, if, before it closes, it is in the best interests of members to cancel it, the responsible entity is nevertheless under a statutory duty to cancel it, and that this duty cannot be fettered by contract. It may also be accepted that if a responsible entity has contracted to make a withdrawal offer, but before making it circumstances are such that to make it would not be in the best interests of members, it could not be contractually obliged to go ahead and make the offer. It is not necessary to deal with these hypotheses because neither occurred. The last of the subscription moneys came in on 5 September 2008. Assuming an offer had been made then, and was open for 21 days for acceptance in accordance with <case>(a), the offer would have closed on 27 September 2008, which was before the 29 September 2008 circular. 
+It was not suggested that redemption was not, or that the responsible entity had come to the view that redemption was not, in the interests of members. It was not put that the responsible entity was incapable of, or prohibited from, redeeming under cl 2.4. During the hearing, the defendants formally admitted that the scheme had other particular assets available and able to be converted to use to satisfy any obligation to redeem MacarthurCook's units. These assets could no doubt have been used to do what the responsible entity did with the funds received under the Offer Documents. 
+In my view, MacarthurCook could force the responsible entity to comply with its undertaking to make a withdrawal offer, its pre-existing discretion to make an offer having been converted into a duty by its agreement under cl 2.4. But even if it be the case that MacarthurCook could not compel it to exercise its discretion, the responsible entity's covenant is enforceable by an action for damages. That is all MacarthurCook seeks. 
+It was not suggested that if the responsible entity had made a withdrawal offer to MacarthurCook, MacarthurCook would not have accepted it (which obviously it would have). It was also not suggested that the damages sustained by MacarthurCook as a consequence of the responsible entity's breach of cl 2.4 would be any different if redemption was to have been preceded by a withdrawal offer. If the failure to obtain a withdrawal offer was a loss of opportunity, MacarthurCook is entitled to its full value. 
+I now turn to the second defendant's secondary answer to the redemption claim. 
+The meaning of the words used in cl 2.4 is to be determined by what a reasonable person would have understood them to mean. This requires consideration of the language used, the surrounding circumstances known to the parties, the purpose of the transaction and the objects which it was intended to secure. If the words used are unambiguous, the Court must give effect to them. If the language is open to two constructions, that will be preferred which will avoid consequences which appear to be capricious, unreasonable, inconvenient or unjust: Australian Broadcasting Commission versus Australasian Performing Right Association Ltd <case>; [(1973) 129 CLR 99]
+The plain meaning of the words in cl 2.4 conveys no requirement that only funds received after the six month period are to be used to redeem MacarthurCook's units. The only restriction with respect to the funds to be used are that they must have been received by the Trust as a result of accepted applications under the Offer Documents. 
+Redemptions are to commence six months from the Subscription Date and funds received by the Trust as a result of accepted applications under the Offer Documents must be used to effect them. No time limit is specified with respect to when the funds are received. Indeed, they could have been received prior to the execution of FAT 3 and still qualify under the clause. 
+It may be observed that the PDS contemplated the first $28.11 M raised being applied to reduce the Trust's borrowings. It might be thought that there is some commercial tension between that expectation and using the funds to redeem MacarthurCook's units under cl 2.4. It must be remembered, however, that FAT 3, FAT 4 and FAT 5 were all entered into some two years after the PDS. Anyway, there is no scope for the Court to attribute a meaning to words other than their plain meaning, even if this would give the contract a more commercial and business like operation: Jireh International Pty Ltd versus Western Export Services Inc  <case> at <case>; Western Export Services Inc versus Jireh International Pty Ltd <case>; [(2011) 86 ALJR 1.]
+It follows that the redemption claim succeeds.
+
+THE GUARANTEE CLAIM
+Under <case> read with [s 601FS(2)(d)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601fs.html) of the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/), if the responsible entity of a registered scheme changes, the rights, obligations and liabilities of the former responsible entity in relation to the scheme become rights, obligations and liabilities of the new responsible entity, provided the former responsible entity could have been indemnified out of the scheme property if it had remained the scheme's responsible entity. 
+Under cl 2.6, the first defendant guaranteed to purchase from MacarthurCook all Subscription Units still held by it at the end of the Subscription Period. As at that time, no units had been redeemed and, as earlier stated, they are all still held by MacarthurCook. As also earlier stated, the second defendant took over as responsible entity on 9 May 2012. 
+MacarthurCook sues the second defendant, and alternatively the first defendant, for damages for breach of the obligation to purchase.
+The first defendant puts up no defence to this claim. However, if the second defendant is liable, the first defendant is not. 
+The second defendant's sole defence is that it did not, by becoming the responsible entity of the Trust, become liable for the obligations and liabilities of the first defendant under cl 2.6 because those obligations and liabilities were not obligations and liabilities of the former responsible entity in relation to the scheme within the meaning of [s 601FS](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601fs.html) of the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/). In support of this submission, it puts that the obligation to purchase and any liability arising under cl 2.6: were undertaken by the first defendant in its personal capacity and not on behalf of the scheme; were not undertaken by the first defendant in relation to the proper performance of its duties as responsible entity (with the consequence that it is not entitled to be indemnified in respect of them under cl 21.2(a) of the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/) or cl 9.1 of FAT 3, FAT 4 or FAT 5); and do not bind the scheme in any way.
+In Huntley Management Ltd versus Timbercorp Securities Ltd <case>; [(2010) 79 ACSR 143] at 153, <case>, Rares J said: ... The expression "in relation to" is of wide and general import and should not be read down in the absence of some compelling reason to do so: Fountain v Alexander <case>; [(1982) 150 CLR 615] at 629; <case>; [40
+ALR 441] at 450 per
+Mason J. In Syncap Management (Rural) Australia Ltd versus Lyford [(2004) 51 ACSR ]; <case> at <case>
+RD Nicholson J held that "in relation to" as used in <case> was an expression of wide import and signified no more than some relationship or connection. As Lindgren J noted, however, the rights, obligations and liabilities of the former responsible entity to which each of ss 601FS(1) and
+FT(1) apply, are impliedly limited to those capable of having an ongoing operation after the change in responsible entity: Re Huntley Management Ltd;
+Australian Olive Holdings Pty Ltd versus Huntley Management Ltd [(2009) 76 ACSR ]; [2009] FCA 1479 at [85].
+At [53], [57] and [58], his Honour further observed that: [53] The capacity in which a party contracts, or is given rights or assumes or becomes subject to obligations or liabilities under a contract, must be determined objectively in the same manner as the contract itself is construed.
+That requires the court to consider what a reasonable person in the position of the parties would have understood as the meaning conveyed by the words in which they expressed their bargain. Normally that process requires consideration not only of the text but also of the surrounding circumstances known to the parties, and the purpose and object of the transaction.
+ [57] In addition, the parties to a contract can seek to identify the nature of their relationship or the capacity in which a party contracts. However, those characterisations are not determinative themselves, of the true nature of that relationship or capacity. The parties cannot deem their relationship, or the capacity in which a party contracts, to be something that it is not.
+ [58] The substance and effect of the documents, construed in their context, is the critical determinant of the true nature of the parties' relationship and the rights, obligations and liabilities it creates.
+The true inquiry is whether, in all the circumstances, there was sufficient relationship or connection between the obligation and the scheme. It was, for obvious reasons, not put that if the first defendant undertook the obligation in cl 2.6 as responsible entity, that the relevant nexus would not be present. 
+On the face of the agreements the first defendant purported to contract in two different capacities: as responsible entity where it is defined as Reed RE and personally where it is defined as RFML. 
+The critical question is, however, what is the true substance and effect of the agreements so far as they concern the relevant obligations and liabilities which the first defendant undertook?
+An insuperable difficulty lying in the way of the second defendant's submission that the first defendant contracted as two separate personalities in relation to those obligations is the well-established precept that a trustee, in its personal capacity, and in its trustee capacity, remains the same person. The first defendant could have contracted with MacarthurCook in two different capacities, but it cannot contract with itself. The assumption that a trustee in its personal capacity and in its trustee capacity are different persons is a false one: Minister Administering [National Parks and Wildlife Act 1974](http://www.austlii.edu.au/au/legis/nsw/consolact/npawa1974247/) versus Halloran <case>; [(2004) 12 BPR 22,391] at 22,409. 
+If it were possible for the first defendant to have contracted (as it purported to do) in two different capacities with respect to clauses 2.4 and 2.6, the obligation to redeem would be as much an obligation owed by it as responsible entity to MacarthurCook, as it would be owed by it as responsible entity to itself in its personal capacity. This it could not do. It was not jurisprudentially possible to make a bi-party agreement with tripartite effect. To demonstrate this, one need go no further than to hypothesise that, at some point, the first defendant considered it necessary to protect its position as guarantor (in its personal capacity) from being sued on the guarantee in the face of a failure to redeem, by quia timet injunctive relief requiring itself as responsible entity to redeem under cl 2.4.
+The true substance of the effect of the agreements is that the first defendant undertook the obligation in cl 2.6 in the same capacity as it did the obligation in cl 2.4. The true substance of that capacity was responsible entity. 
+Although the capacity in which the first defendant contracted with respect to cl 2.6 is undoubtedly a relevant (even highly relevant) consideration in determining whether the obligation it undertook was in relation to the scheme, it does not necessarily follow that if it contracted in its personal capacity, the obligation it undertook is not in relation to the scheme. 
+If I am wrong and the obligation under cl 2.6 was personal, there are nevertheless more than ample factors to constitute sufficient nexus between the obligation and the scheme so as to be in relation to it. These include that: the subject matter of the obligation is to purchase units in the scheme; clause 2.6 only applies to the balance of units not redeemed under cl .4; clause 2.6 is clearly a significant commercial element of the transaction as a whole; and the transaction, including cl 2.6, facilitated the provision of a significant amount of equity for the scheme.
+There is no reason why the first defendant could not have incurred this obligation under cl 2.6 properly in the performance of its duties in respect of the Trust. Indeed, it may be inferred that it was necessary for it to do so to enable the Trust to obtain the benefit of significant transactions which effectively underwrote its equity raising. 
+It follows that the obligations and liabilities of the first defendant under cl 2.6 became the obligations and liabilities of the second defendant.
+The guarantee claim accordingly succeeds. 
+THE CONVERSION FEE CLAIM
+It was not suggested that if the second defendant was liable under the guarantee claim, it would also not be liable for the conversion fee claim. Accordingly, the conversion fee claim also succeeds. 
+CONCLUSION
+The second defendant is liable to MacarthurCook for damages in respect of the breach of its obligations both under cl 2.4 and cl 2.6, as well as for the conversion fee. It cannot, however, recover twice. 
+Accordingly, MacarthurCook is entitled, before taking into account any interest, to judgment against the second defendant for: $13,462,789 (being $15 M less $1,537,211, being the value of the units presently held); plus $131,250 (being the conversion fee).
+I will stand the matter over for a short time to allow the parties to bring in short minutes to reflect this outcome and to deal with any further matters that are required to be dealt with, including any matters of calculation, and costs.
+The exhibits are to be returned.
+ * * * 

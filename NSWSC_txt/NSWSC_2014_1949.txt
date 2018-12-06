@@ -1,0 +1,90 @@
+
+
+Rodriguez & Sons Pty Ltd versus Queensland Bulk Water Supply Authority t/as
+Seqwater (No.2) [2014] NSWSC 1949 (16 December 2014) 
+Last Updated: 23 March 2015 
+Supreme Court 
+New South Wales  
+Decision: 
+Pursuant to order 15 of the Court's Orders dated 7 November 2014, the proposed Document Management Protocol for the electronic exchange of discovered documents set out in schedule A to the Notice of Motion be adopted subject to the following amendment, namely, that page 10 of the protocol be replaced with schedule B to the notice of motion of 12 December 2014 and subject further for the substitution of the word "relative" for "original" where it occurs in that schedule.  
+Order the costs of the Motion be costs in the cause.  
+Catchwords: 
+PRACTICE AND PROCEDURE - interlocutory issue - electronic discovery - proposed
+Document Management Protocol - whether the field of metadata should include relative file path data - whether making order consistent with the overriding objective of the [Civil Procedure Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/) of the just, quick and cheap resolution of issues in proceedings - little or no significant additional cost in context of discovery - relative file path data will have a functional utility - likely to benefit all parties - appropriate for the relative file path data to be included  
+Legislation Cited: [Civil Procedure Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/)  [Uniform Civil Procedure Rules ](http://www.austlii.edu.au/au/legis/nsw/consolreg/ucpr2005305/)  
+Cases Cited: 
+Not Applicable  
+Texts Cited: 
+Not Applicable  
+Category: 
+Procedural and other rulings  
+Parties: 
+Rodriguez & Sons Pty Ltd (P) 
+Queensland Bulk Water Supply Authority t/as Seqwater (D1) 
+SunWater Ltd (D2) 
+State of Queensland (D3)  
+Representation: 
+Counsel: 
+N Owens / R Yezerski (P) 
+D Klineberg (D1) 
+D Williams QC (D2) 
+E Morzone (D3)  
+Solicitors: 
+Maurice Blackburn (P) 
+King Wood Mallesons (D1) 
+Norton Rose Fulbright Australia (D2) 
+Crown Solicitor's Office (D3)  
+File Number(s): /200854  
+Publication Restriction: 
+Not Applicable  
+EX TEMPORE JUDGMENT 
+The Application
+On 12 December 2014, the plaintiff Rodriguez & Sons Pty Ltd sought an order, by Notice of Motion with respect to the proposed Document Management Protocol for the electronic exchange of discovered documents.
+All four parties have, with one exception, agreed upon a protocol for the electronic exchange of information which would be sufficient to encompass documents provided by way of discovery, and also documents which ultimately are to be made available to the Court by way of a Court Book.
+
+Electronic Discovery to Date
+It seems clear that the parties have approached this task generally in a commendably sensible and pragmatic fashion. Their dispute is reduced to one issue.
+The electronic discovery process has the effect that documents in electronic form which are first captured on their original device, whether it be a computer, hard disk or some other device capable of storing information, are then identified as being appropriate to be produced for discovery.
+Inevitably, because the particular computer or device upon which the original documents are located will contain more than the documents which are relevant, it is necessary for the purpose of electronic discovery to copy those documents from their original storage devices, on to a hard disk or another intermediate form of data storage.
+At that point in time, some, but not all, of the metadata which attaches to the original document has been captured and transferred. Some, but not all, of the metadata attached to the original document is lost in the sense that it is not captured on the intermediate storage device. It remains on the original storage device.
+
+File Path Data
+One of the fields which is not transferred from the original source to the intermediate storage device is the file path data. It will be convenient to refer to that as "the original file path data", namely, the original file path of a document as it resided on the original source storage facility.
+However, the electronic document on the intermediate storage facility, which is then uploaded to the discovery platform, does capture some file path data. In the affidavit of Mr Justin Anthony McDonnell of 15 December 2014, that later file path data has been referred to as the "relative file path data". That is a convenient expression which can be used for the purposes of this judgment.
+The dispute between the parties is whether, with respect to all documents discovered on the electronic discovery platform, the field of metadata which it is agreed should be supplied should include the relative file path data.
+The current agreement is that the field provided by way of discovery for each electronic document will include whether a document is confidential or not, whether a document is privileged or not, and if it is privileged, the basis of that privilege. As well, it is agreed that the field should include the last modified date extracted from the document metadata and the original file notation extracted from the document metadata.
+The plaintiff seeks the addition of the relative file path data to those fields as a further identified field of metadata, by way of discovery.
+
+Plaintiff's Submissions
+The plaintiff submits that there are two principal reasons why that data ought be included. First, the data may, in respect of any document, have substantive relevance because it may show from whose file, folder or directory, the document was produced leading to a rational conclusion as to who looked at the document and when. The second reason why the plaintiff submits that that field ought be included in the metadata is that it has functional utility, namely, it makes for efficient electronic searching of the discovered database.
+The plaintiff submits that on the evidence, and in light of the submissions of the defendants, the cost and inconvenience of including the additional field is insignificant, and that the inclusion of the additional field is justified by the overriding purpose of the [Civil Procedure Act 2005](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/).
+
+Defendants' Submissions
+The first defendant submits, first, that it would be inappropriate to require the inclusion of the field at this stage, and in respect of every document, because the plaintiff has not demonstrated any appropriate need for, or utility in such an order; second, that the electronic discovery platform, which is called Ringtail, has a very sophisticated and comprehensive searching capacity which will enable existing documents to be comprehensively searched for, and identified, without the need to resort to relative file path data; third, that the agreed component of the Document Management Protocol (which enables the party discovering documents to remove any duplicate copies of the documents and discover only one version of a document rather than every copy of it) means that the relative file path data is unlikely to demonstrate who saw the document and when.
+The second defendant opposed the order sought on the basis that the Court should, as a matter of principle, approach the revelation of metadata for the documents which are to be discovered by considering them to be, in effect, the same as a document which gives information about the underlying document, and therefore such "document" would not ordinarily be regarded as relevant. The second defendant submitted that it would be open to the plaintiff to later apply with respect to one or other specific document for that material, providing the plaintiff could demonstrate that the metadata was relevant to a fact in issue. As well, the second defendant submitted that there was necessarily some additional cost which could not readily be identified until the overall number of documents was known.
+The third defendant adopted the submissions of the first and second defendant and drew the Court's attention to the necessity before discovery was ordered, to the proposition that all of the documents and data to be discovered, ought be found to be relevant to a fact in issue in accordance with the [Uniform Civil Procedure Rules 2005](http://www.austlii.edu.au/au/legis/nsw/consolreg/ucpr2005305/) ("UCPR").
+As well, both the second and third defendants submitted that in substance what the Court was being asked to order by the plaintiffs, was something that was over and above the usual order for discovery, and something not typically ordered by way of electronic discovery.
+Lastly, all three defendants relied upon evidence from Mr McDonnell that original or relative file path data is not commonly part of any electronic discovery protocol in any court in Australia and that if this Court were to make such an order with respect to this metadata, it would be an entirely novel order.
+This judgment is being given in the course of a busy Duty List, in the circumstances where it is obviously necessary for the benefit of the parties that a judgment be given promptly, and in order that the Court's directions as to timing for discovery can be readily complied with. Accordingly, the Court does not have time for lengthy deliberation, and the preparation of elaborate reasons.
+
+Discernment
+The first principle to which the Court is obliged to have regard in making any interlocutory order, and in particular an order for discovery, is that such order being an interlocutory or case management order, must give effect to the overriding purpose of the [Civil Procedure Act](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/). [Section 56(1)](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/s56.html) of the [Civil Procedure Act](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/) provides that the overriding purpose of the Act and of the UCPR in their application in civil proceedings is to facilitate the just, quick and cheap resolution of the real issues in the proceedings. The section further obliges the Court to seek to give effect to that overriding purpose whenever it exercises any power given to it under the Act. That is the task upon which I am presently engaged.
+When the Court considers whether to make any order or direction for the management of the proceedings, it is obliged by [s 58](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/s58.html) of the [Civil Procedure Act](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/) to act in accordance with the dictates of justice. The dictates of justice include the overriding purpose, the just determination of the proceedings, the efficient disposal of the business of the Court, the efficient use of available judicial and administrative resources, the timely disposal of proceedings and all other proceedings in the Court where costs are borne by the respective parties.
+I have carefully considered all of the statutory requirements for the exercise of this power. The following matters appear to me to be relevant and significant.
+First, the order sought by the plaintiff no longer seeks the original file path data but only the relative file path data which is material which is captured on the intermediate storage device and which can be uploaded on to the electronic discovery platform.
+Second, there is little or no significant additional cost viewed in the context of the costs of providing discovery, which would be occasioned by the need to identify that electronic material which already exists within one of the fields which is to be captured in accordance with the agreed Document Management Protocol.
+Third, I accept the submission by Mr Owens, counsel for the plaintiff, that it is wrong to categorise the metadata in the particular way the second and third defendants did - namely, as a separate document, the particular relevance of which has to be demonstrated as a free-standing document.
+I accept Mr Owens' characterisation of what is occurring, namely, that in circumstances where the parties have agreed to provide particular metadata about the electronic document which is to be found on the Ringtail electronic discovery platform, what the plaintiff is, in substance and effect seeking, is the identification of one further searchable field which is obtained from that metadata.
+Fourth, I am satisfied that the relative file path data will have functional utility. It will enable efficient searching. I accept the evidence that in this case, that the Ringtail electronic platform does have comprehensive search capacity and allows for comprehensive searches to be made. However, that fact does not tell against the proposition that the inclusion of the relative file path data has a functional utility, and in another way to efficiently search documents.
+Given what I understand to be the very large number of documents which are likely to be discovered electronically, it seems to me that any field which can be inserted without significant cost and which provides an additional method of efficient search, is a field likely to be of benefit to all parties. I have also formed the view that there is sufficient relevance to be had from the relative file path data to order its inclusion in the protocol.
+It may not in the case of every document be obvious who looked at the document and when, or indeed where, it came from, but in my view there is a significant prospect that such material will be available from the inclusion of the relative file path.
+The defendants have also pointed to the fact that the parties have agreed to remove duplicate documents as affecting relevance. In my view, it may be that has some effect but it is speculative at the moment for the Court to conclude for that reason that the relative file path data ought not be included as a field.
+I accept that the inclusion of the relative file path data field ought not of itself, and without more, emasculate the parties' agreement to remove duplicate documents from the discovered documents. In other words, the parties' agreement in clause 8 of the proposed Document Management Protocol ought not be affected adversely by the inclusion of this relative file path data.
+I am also influenced by the fact that it seems to me that it would be quicker and more convenient for this additional field to be included at the start of, and for the whole of, the electronic discovery process rather than attempting at a later point in time to go back and retrieve the data on a document-by-document basis or a folder-by-folder basis.
+
+Conclusion
+Accordingly, I have concluded that it is appropriate for the relative file path data to be included in a field with respect to the electronic management of documents under clause 6.2 of the electronic Document Management Protocol. The field which ought to be included should have a field name called "Relative File Path". The Ringtail Data Type is text, and Example Values would include these words "other electronic materials including email attachments, the relative file path extracted from the document metadata".
+Accordingly, subject to the amendment of the words "original" to "relative" where they appear, I would make the orders sought in Order 1 of the Notice of Motion of the 12 December 2014.
+Accordingly, I make the following order: * (1) Pursuant to order 15 of the Court's Orders dated 7 November 2014, the proposed Document Management Protocol for the electronic exchange of discovered documents set out in Schedule A to the Notice of Motion be adopted subject to the following amendment, namely, that page 10 of the Protocol be replaced with Schedule B to the Notice of Motion of 12 December 2014, and subject further for the substitution of the word "relative" for "original" where it occurs in that schedule.
+* (2) Order the costs of the Motion be costs in the cause.
+ * * * 

@@ -1,0 +1,168 @@
+
+
+Sutton versus BE Australia WD Pty Ltd (admin apptd) [2010] NSWSC 772 (15 July )
+
+Last Updated: 28 September 2010 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Sutton versus BE Australia WD Pty Ltd (admin apptd) <case> 
+This decision has been amended. Please see the end of the judgment for a list of the amendments.  
+JURISDICTION: 
+Equity Division 
+Corporations List  
+FILE NUMBER(S):  /291532  
+HEARING DATE(S):  March 2010  
+JUDGMENT DATE:  July 2010  
+PARTIES: 
+Mary Sutton (Plaintiff) 
+BE Australia WD Pty Ltd (admin apptd) (First Defendant) 
+Alan John Hayes (Second Defendant) 
+Anthony Milton Sims (Third Defendant)  
+JUDGMENT OF: 
+Palmer J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+A. Moses SC, Y. Shariff (Plaintiff) 
+D. Sulan (Defendants)  
+SOLICITORS: 
+Holding Redlich (Plaintiff) 
+Clayton Utz (Defendants)  
+CATCHWORDS: 
+CORPORATIONS - DEED OF COMPANY ARRANGEMENT - "CREDITOR" - Whether person having unadjudicated claim under <case> Industrial Relations Act is a "creditor" bound by a DOCA - whether Court has power under <case>
+Corporations Act to vary operation of Pt 5.3A to allow admission of such claim.  
+LEGISLATION CITED:  - [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) - [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s439a.html), [s
+D(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s440d.html), [s
+A(4)(i)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s444a.html), [s
+D(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s444d.html), [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html), [s (1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s553.html), [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1321.html)  - [Industrial Relations Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ira1996242/) - [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/ira1996242/s106.html)  
+CATEGORY: 
+Principal judgment  
+CASES CITED:  - Australasian Memory Pty Ltd versus Brien [(2000) 200 CLR 270]  - Brash Holdings Ltd versus Katile Pty Ltd <case>; [[1996] 1 VR 24]  - Buckingham versus Pan Laboratories (Aust) Pty Ltd (in liq) [(2004) 136 FCR ]  - Expile Pty Ltd versus Jabb's Excavations Pty Ltd <case>; [(2004) 22 ACLC 667]  - Fisher versus Madden <case>; [(2001) 54 NSWLR 179]  - Honest Remark Pty Ltd versus Allstate Explorations NL <case>; [(2006) 234 ALR 765]  - Huxtable, in the matter of Timeshare Resort Club Ltd (in liq) <case>  - Majik Markets Pty Ltd versus Brake & Service Centre Drummoyne Pty Ltd [(1991) 28 NSWLR 443]  - Motor Group Australia Pty Ltd, Re <case>; [(2005) 54 ACSR 389]  - New Tel Ltd (in liq), Re <case>; [(2004) 210 ALR 270]  - Selim versus McGrath <case>; [(2003) 47 ACSR 537]  - Silbermann versus One.Tel Ltd (in liq) [(2002) 167 FLR 274]  
+TEXTS CITED:  
+DECISION: 
+Order pursuant to <case> [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) allowing admission of claim.  
+JUDGMENT:  /291532 Sutton versus BE Australia WD Pty Ltd (admin appt)  
+JUDGMENT  July, 2010  
+Introduction  The Plaintiff, Ms Sutton, commenced proceedings against the Defendant, BE
+Australia WD Pty Ltd ("BEA") in the Industrial Relations Commission claiming an order under [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s106.html) [Industrial Relations Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ira1996242/) ("IRA") varying ab initio a contract or arrangement by which she performed work for BEA. She sought to have the contract varied so that her employment could not be terminated except upon reasonable notice and she sought a consequential order for the payment of damages for breach of the contract or arrangement, so varied.
+ Before Ms Sutton's claim could be heard in the Commission, BEA was placed in voluntary administration and a Deed of Company Arrangement ("DOCA") was subsequently approved by the company's creditors. Ms Sutton lodged a Proof of
+Debt in respect of her claim under [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/ira1996242/s106.html)
+IRA. The Deed Administrators rejected the proof on the ground that a claim under [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/ira1996242/s106.html)
+IRA could not be admitted to proof under any DOCA unless it had been decided by the Commission in favour of the claimant before the date specified in the
+DOCA pursuant to <case>(i) [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth).
+ In this application, Ms Sutton seeks: - an order under [s 447A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) the effect of which would justify the Deed Administrators in admitting Ms Sutton's proof under the DOCA; - alternatively, an order under [s 1321](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1321.html) [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) reversing the Deed Administrators' decision to reject the proof which she has lodged.
+ The issues are: - did the Deed Administrators correctly reject Ms Sutton's Proof of Debt; - if so, does the Court have power to make the order under [s 447A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) which Ms Sutton seeks; - if so, should the Court, in its discretion, make such an order; - if Ms Sutton's claim is to be admitted to proof, by one means or another, how should it be quantified.
+
+The facts  The facts are not in dispute and may be briefly recounted.
+ Between 3 August 2004 and 7 October 2005, Ms Sutton performed work as a taxation consultant for the benefit of BEA. The work was carried out pursuant to a number of arrangements, the details of which are of no present relevance.
+The arrangements were terminated on 7 October without prior notice or payment in lieu of notice.
+ On 1 November 2005, Ms Sutton commenced proceedings in the Commission, alleging that the arrangements with BEA were unfair within the meaning of [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s106.html)
+IRA because they failed to provide for fair and reasonable notice of termination to be given by BEA, or to provide for payment in lieu of notice and, further, they failed to provide that BEA would not conduct itself in a manner which would cause Ms Sutton distress, humiliation and damage to her reputation.
+ The proceedings were listed for hearing in the Commission for five days commencing on 23 November 2009.
+ On 1 October 2009, BEA was placed in voluntary administration. On 8 October , the Commission vacated the trial date and adjourned the proceedings generally.
+ On 3 November 2009, the Administrators advised the Commission that they did not consent to the continuation of Ms Sutton's proceedings, so that those proceedings are now stayed pursuant to [s
+D(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s440d.html) [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/).
+ It is of some significance that after BEA went into administration the
+Administrators and BEA gave active consideration to Ms Sutton's claim in the
+Commission. On 6 October 2009, Ms Sutton was invited by the Administrators to submit a Proof of Debt. She did so on 13 October. In the Administrators'
+Report to Creditors under [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s439a.html) [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) Ms Sutton is shown as a contingent creditor for an amount of $330,000.
+ Ms Sutton was invited to attend creditors' meetings in October, November and December 2009 and in January 2010. She was admitted to vote at those meetings as a contingent creditor, the value of her claim being assessed at $330,000. Her vote counted for nothing, however, as the primary creditors of
+BEA are related entities of the company whose debts amount to $122M. At the creditors' meeting on 13 January 2010, a DOCA was approved on the vote of
+BEA's related party creditors.
+ From communications between the Deed Administrators and Ms Sutton and her advisers it appears that the Administrator thought that Ms Sutton's claim was admissible to proof in the administration and under the DOCA until they actually came to give consideration to the proof which she lodged on 9
+February 2010. On 17 February they rejected the proof on the ground that no part of the claim was provable under DOCA as a matter of law because, as at the Appointment Date under the Deed, 1 October 2009, Ms Sutton had no more than a bare right to make an application invoking the jurisdiction of the
+Commission under [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s106.html)
+IRA.
+ The Deed Administrators further say that even if the Court now exercises power under [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) to permit them to admit Ms Sutton's proof, the proof should be admitted for only a very small amount as her claim is demonstrably excessive and unsupportable.
+
+Was the proof wrongly rejected  As Mr Sulan of Counsel, who appears for the Deed Administrators, correctly submits, it is now well established that: - whatever the definition of "creditor" might be in any particular DOCA, a DOCA has binding force only by virtue of [s 444D(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s444d.html) [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/), which provides: "A deed of company arrangement binds all creditors of the company, so far as concerns claims arising on or before the day specified in the deed under paragraph 444A(4)(i)." - the claims bound by a DOCA under [s 444D(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s444d.html) are of the same nature and extent as debts that would have been provable in the winding up of the company under [s 553(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s553.html) [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) if the "relevant date" referred to in that section had been the date specified in the DOCA as the appointment date, in accordance with [s 444A(4)(i)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s444a.html); - a claim under [s 106](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s106.html) IRA which is unadjudicated as at the "relevant date" under [s 553(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s553.html) is not a claim or debt provable in a winding up because at the relevant date the claim does not seek to enforce an existing right, obligation or liability but merely seeks to invoke the Commission's jurisdiction under [s 106](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s106.html) IRA to create a new contractual right as from the date of the Commission's order and to give a remedy for breach of that new, created right; - likewise, a claim under [s 106](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s106.html) IRA which is unadjudicated as at the appointment date specified in a DOCA under [s 444A(4)(i)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s444a.html) is not bound by, and admissible to proof under, a DOCA.
+
+See: Brash Holdings Ltd versus Katile Pty Ltd <case>; [[1996] 1 VR 24]; Selim versus McGrath <case>; [(2003) 47 ACSR 537], at 555; Expile Pty Ltd versus Jabb's Excavations Pty Ltd <case>; [(2004) 22 ACLC 667], at [22];
+Majik Markets Pty Ltd versus Brake & Service Centre Drummoyne Pty Ltd [(1991) NSWLR 443], at 461; Fisher versus Madden <case>; [(2001) 54 NSWLR 179], at 192, 194; Silbermann versus One.Tel Ltd (in liq) [(2002) 167
+FLR 274], at 279; Buckingham versus Pan Laboratories (Aust) Pty Ltd (in liq) [(2004) 136 FCR 102] at [85]-[86].
+ Mr Moses SC, who appears with Mr Y. Shariff of Counsel for Ms Sutton, seeks to distinguish Fisher and Silbermann on the ground that they concern receivership and liquidation, not a DOCA. I do not think that the distinction is available. The reasoning of the Court of Appeal in Fisher explains the nature of an unadjudicated claim under [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s106.html)
+IRA. That explanation precludes such a claim from being categorised as one which would be admissible to proof in a liquidation and, consequently, a person making such a claim is not a "creditor" in the sense contemplated in [s
+D(1):](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s444d.html) see Brash Holdings (supra).
+ Mr Moses submits that the decision in Brash Holdings as to the meaning of "creditor" in [s
+D(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s444d.html) is obiter and should not be followed. Whether the decision on that point is obiter or not, it has been followed so consistently by subsequent authority that I could not, and do not wish to, depart from it.
+ I conclude that no part of Ms Sutton's Proof of Debt lodged on 9 February was admissible under the DOCA.
+
+Power to vary DOCA  The Court's power to make an order under [s
+A(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) is not unlimited. The Court's order must affect, usually by way of alteration, the operation of a particular provision, or of particular provisions, within [Part .3A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a) on the affairs of a particular company: see e.g. Re New Tel Ltd (in liq) <case>; <case> and <case>; <case>- <case> per
+Brereton J.
+ The section is an integral part of the legislative scheme contained in [Pt .3A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a); it is not subordinate to other provisions of the Part and should not be read down so as to inhibit variation of any other provision within the Part, if the
+Court sees that that variation promotes the overall objects of the Part: see
+Australasian Memory Pty Ltd versus Brien [(2000) 200 CLR 270], at -282; Huxtable, in the matter of Timeshare Resort Club Ltd (in liq) <case>, at [82] per Barker J.
+ [Section
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) has been used in many different circumstances - most pertinently in Re Motor
+Group Australia Pty Ltd <case>; [(2005) 54 ACSR 389], a decision of Hely J upon which Mr Moses strongly relies. In that case a company, in administration and proposing a DOCA, had sold cars under warranty. Some purchasers had made claims under the warranties prior to the company going into administration - clearly, they were creditors who would be bound by the DOCA. However, other purchasers had made no warranty claims by the administration date. It was possible that some of them (called the "warranty creditors") might wish to make claims in the future but no one could know if and when such claims would be made. The question was whether the "warranty creditors" were, in law, "creditors" who could be bound by the DOCA.
+ Hely J held that there was a real doubt whether the "warranty creditors" could be bound. On one view, they could be "contingent creditors" because the warranties were already in existence. On another view, they had nothing more than speculative claims or mere expectancies which could not be the subject of proof in a liquidation and, therefore, under a DOCA.
+ Hely J decided that the power under [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) should be exercised in favour of including in the DOCA the "warranty creditors". His Honour said: "[14] Even if it be correct to characterise the claims of warranty creditors as 'mere expectancies', [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) empowers the court to make an order that [Pt .3A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a) is to operate in relation to MGA so as to include the warranty creditors as creditors whose claims arose no later than [the administration date]." 
+His Honour then made the following order: "(1) Pursuant to [s
+A(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/), [Pt .3A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a) of the Act is to operate in relation to the second applicant so that a 'creditor' is deemed to include those purchasers (and their successors in title) of new motor vehicles imported by the second applicant who had a vehicle warranty on [the administration date], as creditors of the second applicant for the purposes of [Pt .3A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a) of the Act, whose claims are deemed to have arisen no later than [the administration date]." Re Motor Group Australia was referred to with approval by Barker J in
+Huxtable (supra) at [83].
+ Mr Sulan seeks to distinguish Re Motor Group Australia on the ground that the "warranty creditors" already had existing enforceable rights as at the date of the administration and the case was concerned only with persons who were creditors before the administration began. I do not think this distinction can be made. Hely J did not attempt to decide whether the "warranty creditors" had existing rights: his Honour was prepared to vary the meaning of "creditor" in [s
+D(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s444d.html) so that, whether or not the "warranty creditors" had a right to prove before the variation, they would unarguably have that right as a result of the variation.
+ In my view, Re Motor Group Australia provides authoritative support for the proposition that the definition of "creditor" for the purposes of the DOCA in this case can be extended under [s
+A(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) to incorporate Ms Sutton's claim even though, at this stage, that claim might more properly be described as a "mere expectancy". In this regard, it is of significance that at the time of commencement of the administration of BEA, at least two of the factors comprising Ms Sutton's "claim" were in existence: there had been a contract or arrangement for the performance of work and it had been terminated by BEA without notice or payment in lieu of notice. It is true that no wrong had been committed at that stage by BEA because there was no contractual provision then preventing it from doing what it did - just as in Re Motor Group Australia the company had committed no wrong giving rise to an actual claim as at the administration date by breaching any of the warranties held by the "warranty creditors".
+ For these reasons, I conclude that the Court has power under [s
+A(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) to vary the operation of [s
+D(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s444d.html) and [s
+A(4)(i)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s444a.html) so that the Deed Administrators are able to admit to proof under the DOCA Ms
+Sutton's claim under [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s106.html)
+IRA, notwithstanding that that claim was not, as at the Appointment Date specified in the DOCA, a claim or debt of the nature which could have been proved in the winding up of the company.
+ The manner by which the power under [s
+A(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) may be exercised is suggested by the terms of the order made by Hely J in Re
+Motor Group Australia. The order would be to the following effect: "Pursuant to [s
+A(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/), [Part .3A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a) of the Act is to operate in relation to BE Australia so that a 'creditor' is deemed to include Ms Sutton for the purposes of [Part .3A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a) and Ms Sutton's claim is deemed to have arisen no later than 1 October 2009." The questions then arise: - should the discretionary power under [s 447A(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) to make this order be exercised in Ms Sutton's favour; - if so, how should the quantum of her claim be determined.
+
+Discretion  Mr Sulan submits that an order under [s
+A(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) should be refused because: - allowing Ms Sutton to prove under the DOCA may prejudice other creditors and she has not given notice to other creditors of this application; - Ms Sutton will not suffer any detriment if the order is refused; - Ms Sutton's claim is excessive.
+ I am unable to accept these submissions for the following reasons.
+ It is clear from the Administrators' [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s439a.html)
+Reports to creditors that creditors have been kept informed of Ms Sutton's claim. In a letter dated 25 March 2010 to Ms Sutton's solicitors, the
+Administrators' solicitors helpfully set out the effect on other creditors, as presently known, if Ms Sutton's claim were admitted. In summary: - the Administrators are still collecting information and adjudicating on claims, so that no final dividend to creditors can yet be calculated; - if Ms Sutton's claim is admitted for $330,000, it is possible, according to different outcomes in realisations or adjudications on proofs, that all creditors may receive 100¢ in the dollar, or 96¢ in the dollar or 94¢ in the dollar; - if Ms Sutton's claim is admitted for $535,000.48, creditors may receive between 70¢ and 79¢ in the dollar; - as any surplus in the Deed Fund after distribution to creditors is to be returned to the proponent of the Deed, BEA's parent company, admission of Ms Sutton's claim in any amount would adversely affect the amount of surplus which would otherwise be returned to the Deed proponent.
+ The amount for which Ms Sutton's claim should be admitted by the Deed
+Administrators, if any, is not to be determined in these proceedings, as will appear shortly. It may be that the claim is admitted for less than $330,000.
+It is therefore possible that, even if Ms Sutton's claim is admitted in whole or in part, all creditors of BEA will receive 100¢ in the dollar.
+ On the other hand, if the discretion under [s
+A(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) is not exercised in favour of Ms Sutton, she would suffer substantial prejudice. As is clear from the [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s439a.html)
+Reports, when the DOCA fund is fully distributed and the surplus, if any, returned to BEA's parent, BEA will not continue in existence. It has ceased trading and it is manifestly insolvent. After administration of the DOCA is completed, the company will in all probability be de-registered. If Ms Sutton is not able to prove under the DOCA there is no point in her endeavouring to pursue her claim against BEA in the IRC as there will be no means of satisfying any judgment against the company. In the result, Ms Sutton will have been denied any opportunity of proving and recovering her claim.
+ As to the third submission, as I have noted, the order which I propose, while requiring the Deed Administrators to admit Ms Sutton's proof under the
+DOCA as an admissible claim, will not require them to admit that claim in any amount, or at all. The Administrators will have to adjudicate on the proof. If they reject it as bound to fail or as excessive, a suitable means of determining any resulting dispute is available.
+
+Assessment of Ms Sutton's claim  While the Administrators say that Ms Sutton's Proof of Debt lodged on 9
+February 2010 claimed an excessive amount, the parties have not, in this application, sought the Court's determination of the proper amount to be admitted, if any.
+ If the order under [s
+A(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) which I propose is made, the Deed Administrators reject Ms Sutton's claim in the Proof of Debt, in whole or in part, then Ms Sutton can appeal to this
+Court under [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1321.html) [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) for determination of the amount of the claim which should be admitted, if any.
+That would not, however, be a satisfactory course. This Court would have to stand in place of the Industrial Relations Commission in deciding whether Ms
+Sutton has made out a claim for relief under [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s106.html)
+IRA and, if so, what compensation she should receive. It is far more appropriate that the Industrial Relations Commission, rather than this Court, exercise that specialised jurisdiction.
+ Accordingly, if it becomes necessary to adjudicate further upon the Deed
+Administrators' rejection of Ms Sutton's Proof of Debt in whole or in part, leave should be granted to Ms Sutton under [s
+D(1)(b)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s440d.html) to continue with the IRC proceedings.
+
+Order  I will stand the matter over for a short time to enable the parties to bring in Short Minutes of Order reflecting these reasons. I will then hear argument as to costs.
+ - oOo - 
+AMENDMENTS:  /09/2010 - Judgment date inserted: 15 July 2010 - Paragraph(s) Cover sheet: date of judgment field.  
+LAST UPDATED:  September 2010 * * * 

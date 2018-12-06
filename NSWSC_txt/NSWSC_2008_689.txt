@@ -1,0 +1,303 @@
+
+
+Zhang versus Minox Securities Pty Ltd; Liu versus Minox Securities Pty Ltd [2008]
+NSWSC 689 (9 July 2008) 
+Last Updated: 10 July 2008 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Zhang versus Minox Securities Pty Ltd; Liu versus Minox Securities Pty Ltd <case>  
+JURISDICTION: 
+Equity Division 
+Corporations List  
+FILE NUMBER(S):  /07  /07  
+HEARING DATE(S):  /04/08 
+Written submissions: 28/04/08, 05/05/08, 16/05/08  
+JUDGMENT DATE:  July 2008  
+PARTIES: 
+Ding Yang Zhang and persons in Schedule A - Plaintiffs 
+Minox Securities (formerly Quantum Securities) Pty Ltd - Defendant 
+Jun Liu and Lan Liu and persons in Schedule A - Plaintiffs 
+Minox Securities (formerly Quantum Securities) Pty Ltd - Defendant  
+JUDGMENT OF: 
+Barrett J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+Mr A J Abadee - Plaintiffs 
+Mr S A Wells - Defendant 
+Mr F Gleeson SC/Mr P Rooney - QBE  
+SOLICITORS: 
+Slater & Gordon - Plaintiffs 
+TressCox Lawyers - Defendant 
+Wotton & Kearney - QBE  
+CATCHWORDS: 
+CORPORATIONS AND SECURITIES INDUSTRY - principal sued for activities of authorised representative - various alleged contraventions - INSURANCE - indemnity insurance - policy exclusions - whether applicable to any liability of principal  
+LEGISLATION CITED:  [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth), [Part .3A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a),
+Division 6 [Part .6](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p7.6), [ss (2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s500.html), [761A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s761a.html), [764A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s764a.html)(1)(a), [766B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s766b.html)(1) and (3), [766C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s766c.html), [912A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s912a.html), [917A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s917a.html)(1), [917B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s917b.html).
+[917D](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s917d.html), [917E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s917e.html), [941B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s941b.html), [945A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s945a.html), [946A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s946a.html), [1011B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1011b.html), [1012A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1012a.html)  [Law Reform (Miscellaneous Provisions) Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/), [ss (1)](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/s6.html), [6](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/s6.html)(4)  
+CATEGORY: 
+Procedural and other rulings  
+CASES CITED: 
+Codelfa Construction Pty Ltd versus State Rail Authority of New South Wales <case>; <case>; <case>; [(2007) 162 FCR 358]  
+TEXTS CITED:  
+DECISION: 
+Order joining and granting leave to proceed against insurer refused  
+JUDGMENT:  
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+CORPORATIONS LIST  
+BARRETT J  
+WEDNESDAY, 9 JULY 2008  /07 DING YANG ZHAN & ANOR versus MINOX SECURITIES PTY LTD /07 JUN LIU & ANOR versus MINOX SECURITIES PTY LTD 
+JUDGMENT  
+The applications I am dealing with applications made by the respective plaintiffs in each of two Corporations List proceedings. Because the applications, the claims and the circumstances are, in relevant respects, the same in each case, there is no need to distinguish between the two proceedings.
+ One of the applications before me is an application under [s (2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s500.html) of the [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) for leave to proceed against the defendant, Minox Securities Pty Ltd (formerly
+Quantum Securities Pty Ltd) which has become subject to creditors voluntary winding up as a sequel to voluntary administration under [Part .3A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a) since the proceedings were commenced. It will be convenient to refer to the defendant as "Quantum".
+ The other application is based on a combination of [s (4)](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/s6.html) of the [Law Reform (Miscellaneous Provisions) Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/) and the rules of court. The relief sought is directed towards adding QBE Insurance
+Ltd ("QBE") as a defendant to each proceeding.
+ 
+The substantive claims in the proceedings I begin with a brief description of the substantive claims to be pursued by the plaintiffs, noting that they sue for themselves and as the representatives of other persons who invested in promissory notes issued by companies associated with the Westpoint Group. The companies are Mount Street Mezzanine
+Pty Ltd and Bayshore Mezzanine Pty Ltd. I shall refer to them as "the
+Mezzanine Companies". Each became subject to [Part .3A](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/index.html#p5.3a) administration on or about 6 December 2005 and is now in creditors voluntary winding up.
+ The proceedings concern activities of Mr Andy Chen, an authorised representative of Quantum, in and about solicitation of persons to invest in promissory notes of the Mezzanine Companies. Pleadings have not been settled.
+The process of development of pleadings was interrupted by voluntary administration and subsequent winding up of the defendant Quantum, followed by a realisation that there would very likely be no dividend to creditors.
+ The nature and scope of the claims to be pursued by the plaintiffs sufficiently appear, for present purposes, from a proposed amended originating process (Exhibit F) and a proposed statement of claim (Exhibit B). I shall return to these matters in more detail.
+ 
+Relevance of the Law Reform (Miscellanous Provisions) Act 1946 In the course of the external administration, the plaintiffs became aware of the existence of insurances written by QBE and held by Quantum in respect of apparently relevant risks. It is that awareness that has prompted the plaintiffs' wish to see QBE joined as a defendant in each proceeding.
+ The applications in respect of QBE are based in part on <case> of the Law
+Reform Miscellaneous Provisions) Act 1946. It is relevant to quote subsections (1) to (4) of <case>: "(1) If any person (hereinafter in this Part referred to as the insured) has, whether before or after the commencement of this Act, entered into a contract of insurance by which the person is indemnified against liability to pay any damages or compensation, the amount of the person's liability shall on the happening of the event giving rise to the claim for damages or compensation, and notwithstanding that the amount of such liability may not then have been determined, be a charge on all insurance moneys that are or may become payable in respect of that liability.
+
+If, on the happening of the event giving rise to any claim for damages or compensation as aforesaid, the insured (being a corporation) is being wound up, or if any subsequent winding-up of the insured (being a corporation) is deemed to have commenced not later than the happening of that event, the provisions of subsection (1) shall apply notwithstanding the winding-up.
+
+Every charge created by this section shall have priority over all other charges affecting the said insurance moneys, and where the same insurance moneys are subject to two or more charges by virtue of this Part those charges shall have priority between themselves in the order of the dates of the events out of which the liability arose, or, if such charges arise out of events happening on the same date, they shall rank equally between themselves.
+
+Every such charge as aforesaid shall be enforceable by way of an action against the insurer in the same way and in the same court as if the action were an action to recover damages or compensation from the insured; and in respect of any such action and of the judgment given therein the parties shall, to the extent of the charge, have the same rights and liabilities, and the court shall have the same powers, as if the action were against the insured: 
+Provided that, except where the provisions of subsection (2) apply, no such action shall be commenced in any court except with the leave of that court. Leave shall not be granted in any case where the court is satisfied that the insurer is entitled under the terms of the contract of insurance to disclaim liability, and that any proceedings, including arbitration proceedings, necessary to establish that the insurer is so entitled to disclaim, have been taken." In advancing their joinder application and application for leave under s (4) in respect of QBE, the plaintiffs contend that, by operation of <case>, a charge attaches to insurance moneys that are or may become payable in respect of any liability that Quantum is found to have to the plaintiffs and the other persons for whom they sue. The charge is said to arise because the defendant
+Quantum is indemnified by a QBE contract of insurance against that liability.
+That being so, it is said, <case> enables the plaintiffs on behalf of the class to maintain an action against QBE to enforce the charge.
+ The plaintiffs wish to pursue the statutory claim against QBE and therefore to obtain the joinder of it as a defendant.
+ 
+Approach to the claim for leave under <case> of that Act It is, I think, uncontroversial that the question of leave under <case> must be approached in the way described by Priestley JA in Oswald versus Bailey [(1987) 11 NSWLR 715], and that the plaintiffs must show: that there is an arguable case: as to the liability of the defendant; and that the QBE policy responds; and that there is a real possibility that the defendant will not be able to meet the judgment if obtained.
+ QBE contends that, having regard to the way in which the plaintiffs claims are framed, there is no arguable case that the relevant policy responds to any liability for damages of Quantum to the plaintiffs and the class for whom they sue. It is on that ground alone that QBE seeks to resist the application involving it. It is therefore necessary to decide whether there is an arguable case on that matter. The other elements referred to in Priestley JA's formulation need not be considered.
+ 
+The liability sought to be established against Quantum The plaintiffs' case, as currently formulated, appears from the proposed amended originating process to which I have referred. The claims for relief are as follows: "1. On the facts which are stated in the supporting affidavit, which are to be stated in subsequent affidavits to be filed and which are to be alleged in a statement of claim (substantially in the form annexed to the supporting affidavit) to be filed, the Plaintiffs claim in their own right and on behalf of each of the Group members: 
+A declaration that by failing to give the Plaintiffs and Group members a
+Financial Services Guide, the Defendant's authorised representative, Andy
+Chen, contravened [s
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s941b.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/); 
+A declaration that by failing to give to the Plaintiffs and Group members a Statement of Advice, the Defendant's authorised representative, Andy Chen, contravened [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s946a.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/); 
+A declaration that by failing to give to the Plaintiffs and Group members a Product Disclosure Statement, the Defendant's authorised representative,
+Andy Chen, contravened [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1012a.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/); 
+A declaration that in the events that have happened, a charge has crystallised to secure all insurance moneys that are payable in respect to the first defendant's liability against which the first defendant was indemnified by the second defendant and/or such insurance moneys that may become payable in respect to that liability and secures the first defendant's obligation to pay compensation to the plaintiffs and group members in discharge of its liability to the first defendant.
+
+An order that the second defendant pay compensation to the plaintiffs and group members pursuant to [s (4)](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/s6.html) of the [Law Reform (Miscellaneous Provisions) Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/) .
+
+An order for damages pursuant to [s
+B(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s953b.html) and [1022B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1022b.html)(2) of the [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth).
+ 
+Interest.
+ 
+Costs.  
+Such further or other declarations or orders as the Court thinks fit.
+ . The Plaintiffs also claim on their own behalf: 
+A declaration that by reason of [s
+B(3)(b)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s953b.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/), the
+Defendant is liable to the Plaintiffs for loss or damage sustained as a result of conduct by its authorised representative, Andy Chen that contravened [ss
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s941b.html), [945A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s945a.html) and [946A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s946a.html) of that Act.
+
+A declaration that by reason of [s
+B(4)(a)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1022b.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/), the
+Defendant is liable to the Plaintiffs for loss or damage sustained as a result of conduct by its authorised representative, Andy Chen that contravened [s
+A(3)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1012a.html) of that Act.
+
+An order for damages pursuant to [ss
+B(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s953b.html) and [1022B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1022b.html)(2) of the [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth); 
+Interest; 
+Costs; and  
+Such further other declarations and orders as the Court thinks fit." The proposed amended originating process contains a statement of relevant questions of law or fact as follows: "(a) whether by reason of investment by the Plaintiff and Group members in the form of advancing loan monies to Mount Street Mezzanine Pty Ltd (in liq) (the 'Mezzanine Company') and receiving promissory notes issued by those companies or otherwise, the Plaintiff and Group members acquired interests in managed investment schemes for the purposes of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/); if investment by the Plaintiff and Group members in the Mezzanine
+Company constituted a managed investment scheme, was the scheme required to be registered under [s
+ED](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ed.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/); whether the promissory notes issued by the Mezzanine Company were products for the purpose of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/); whether the advice supplied by the authorised representative of the defendant to the Plaintiff and Group members was financial product advice and/or personal advice within the meaning of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/); whether the authorised representative of the Defendant carried out any investigation into the subject matter of the advice they supplied to the
+Plaintiff and Group members, being investment in the Mezzanine Company, and if so, whether such investigation was reasonable in the circumstances; whether the advice supplied by the authorised representative of the
+Defendant to the Plaintiff and Group members was reasonable, taking into account, inter alia, the investigations that were (or reasonably should have been) conducted by the authorised representative; whether in supplying financial product advice to the Plaintiff and
+Group members the Defendant and/or its agents were required to give the
+Plaintiff and Group members a Financial Services Guide, Statement of Advice and/or Product Disclosure Statement." The plaintiffs contemplate adding a further claim (appearing in paragraphs
+A and following of a draft statement of claim) based on direct breach by
+Quantum of a statutory duty under [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s912a.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) and a duty of care in negligence to supervise and monitor the activities of Mr Chen. The particulars to this paragraph 26A refer specifically to the provision of "financial services" by Mr Chen to clients in the form of "financial product advice".
+ It will be seen immediately that the claims against Quantum are based on alleged contraventions of [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) provisions by Mr Chen. It will also be seen that the proposition that Mr Chen was, for the purposes of those provisions, an authorised representative of Quantum is advanced by the plaintiffs and is central to their case. The question whether an arguable case has been shown must accordingly be approached on the basis that that relationship existed.
+ 
+The policies of insurance Two policies of insurance issued by QBE and covering the period 31 May 2005 to 31 May 2006 are accepted as relevant to the claim for leave under [s (4)](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/s6.html) of the [Law Reform (Miscellaneous Provisions) Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/). One is a professional indemnity policy, the other a financial institutions policy.  
+The professional indemnity policy  Relevant features of the professional indemnity policy (which consists of policy wording and a policy schedule, including endorsements) are as follows: . Insuring Clause A provides: "QBE agrees to indemnify the Insured against civil liability for compensation arising from any Claim first made against the Insured during the Period of Cover and notified to QBE during the Period of Cover as a result of a breach of professional duty in the conduct of the Insured's
+Profession." . The expression 'Insured's Profession' is defined in clause 7.13 as follows: "Insured's Profession shall mean the profession, as specified in the schedule, which is conducted by the Named Insured. If the Named
+Insured should change its name and there is no other change which materially alters the risk, the Insured's Profession will continue to be covered by this Policy." . The professional indemnity policy schedule identifies the "Insured's
+Profession" as "Financial Planning, and Insurance Broking".
+ . The expression "Insured" is defined in clause 7.12 of the policy as follows: "Insured shall mean: the Named Insured; any person who is, during the Period of Cover, a principal, partner or director of the Named Insured but only in respect of work performed while a principal, partner or director of the Named Insured; any person who is, during the Period of Cover, an Employee of the Named Insured but only in respect of work performed while an
+Employee of the Named Insured; or any former principal, partner, director or Employee of the Named
+Insured, but only in respect of work performed while a principal, partner, director of Employee of the Named Insured." . The professional indemnity policy schedule identifies the "Corporation" being the "Named Insured" as: "Quantum Securities Pty Ltd Quantum Insurances Pty Ltd".
+ . The Financial Planners Authorised Representative Endorsement contained in the professional indemnity policy schedule extends the definition of Insured to include authorised representatives of Quantum in the following terms: "Definition 7.12 Insured shall also include the following: any person who is, during the Period of Cover, an Authorised
+Representative of the Named Insurer but only in respect of work performed while an Authorised Representative of the Named Insurer; any former Authorised Representative of the Named Insured, but only in respect of work performed while an Authorised Representative of the
+Named Insured.
+ ...
+ 
+For the purposes of this endorsement Authorised Representative shall mean representatives of licensed dealers or investment advisers holding a 'proper authority' to advise and/or deal in financial products on behalf of that securities dealer, futures dealer or investment adviser who holds an
+Australian financial services (AFS) licence and who's name has been advised to
+ASIC for inclusion on ASIC Authorised Representative registers".
+ . "Claim" is defined in clause 7.3 of the professional indemnity policy as follows: "Claim shall mean: 
+The receipt by the Insured of any written notice of demand for compensation made by a third party against the Insured.
+
+Any writ, statement of claim, summons, application or other originating legal or arbitral process, cross-claim, counterclaim or third or similar party notice served upon the Insured which contains a demand for compensation made by a third party against the Insured." . The endorsement in the professional indemnity policy schedule contains an exclusion in the following terms ("the product list exclusion"): "Financial Planners Endorsement (QBE PLD Fin 04.04) 
+QBE shall not be liable under this Policy to provide indemnity in respect of any Claim against the Insured arising directly or indirectly based upon, attributable to, or in consequence of an actual or alleged act, error or omission in respect of any financial or investment product that at the time the actual or alleged act error or omission occurred is not listed on the approved product list of the entity which has issued the Insured with a proper authority to deal in financial products, or (approved product list shall mean written document outlining the financial products that have been investigated assessed and approved for dealing by a Financial Services Licensee) ..." 
+The financial institutions policy The financial institutions policy also consists of policy wording and a policy schedule, including endorsements. Relevant provisions are as follows: . Insuring clause A (cl 1.1) provides: "QBE agrees to indemnify the Insured against civil liability for compensation arising out of any Claim first made against the Insured during the Period of Cover and notified to QBE during the Period of Cover as a result of a breach of professional duty in the conduct of the
+Financial Service".
+ . The expression "Insured" is defined in clause 7.26 as follows: "Insured shall mean: the incorporated body stated in item 4.1 of the schedule; any Subsidiary specified in item 4.2 of the schedule and declared in the Proposal form as constituting the Proponent, engaged in the provision of the Financial Service in part or in whole; any person who is or was: a Director, Officer or Employee; or a Representative, Authorised 
+Representative or Proper Authority Holder who is, or was, also a Director, Officer or Employee of the incorporated bodies referred to in sub-clauses 7.26(a) and 7.26(b) of this definition but only in respect of work performed while a Director, Officer or Employee of the incorporated bodies referred to in sub-clauses 7.26(a) and 7.26(b) of this definition." . The expression "Claim" is defined in clause 7.8 as follows: "Claim" shall mean: the receipt by the Insured of any written notice of demand for compensation made by a third party against the Insured.
+ any writ, statement of claim, summons, application or other originating legal or arbitral process, cross-claim, counter claim or third or similar party notice served upon the Insured which contains a demand for compensation made by a third party against the Insured".
+ . The expression "Financial Service" is defined in clause 7.22 as follows: "Financial Service shall mean the financial service provided by the Insured, as specified in item 6 of the schedule. If the Insured should change its name and there is no other change which materially alters the risk, the Financial Service will continue to be indemnified by this
+Policy".
+ . Item 4.2 of the financial institutions policy schedule identifies the "Named Insured" as including Quantum.
+ . Item 6 of the Fl policy schedule provides the following "Description of Financial Service": "Funds Management, Finance Broking, Securities Dealing" . Adopting the relevant definitions, therefore, the insuring clause of the financial institutions policy provides the following cover: "QBE agrees to indemnify [Quantum] against civil liability for compensation arising out of any [written notice of demand for compensation made by a third party against Quantum] first made against Quantum during the period of cover and notified to QBE during the period of cover as a result of breach of professional duty in the conduct of [funds management, finance broking, securities dealings]." . The financial institutions policy schedule contains an endorsement creating an exception in relation to financial planning ("the financial planning exclusion"). The endorsement is referred to in item 11 of the financial institutions policy schedule and the "full text" is provided at item which reads in part as follows: "QBE shall not be liable under this Policy and provide indemnity in respect of any Claim against the Insured: ...
+ 
+Financial Planning 
+FinPlaX-150304 
+Directly or indirectly based upon, attributable to, or in consequence of the provision by or on behalf of the Insured of any advice usually provided by a Financial Planner". ("Financial Planners Endorsement") The central question arising upon the current application must be addressed separately in relation to each policy. I shall begin with the professional indemnity policy.
+ 
+Assessment of the position under the professional indemnity policy QBE's central contentions in relation to the professional indemnity policy are that: the policy does not cover any claim against Quantum arising directly or indirectly based upon, attributable to, or in consequence of an actual or alleged act, error or omission in respect of any financial or investment product not listed on the approved product list of Quantum; the Mezzanine Company promissory notes were not included on
+Quantum's approved product list; and the plaintiffs' pleaded claims against Quantum (including the proposed amendments), are all within the product list exclusion.
+ This raises two questions: first, the construction of the product list exclusion (contained in the Financial Planners Endorsement) in the professional indemnity policy schedule, which states that there is no cover in respect of claims in specified circumstances; and second, the factual question whether the Mezzanine Company promissory notes were included on the approved product list of Quantum.
+ As to the second of these matters, a list said to be the relevant approved product list of Quantum has been put into evidence. There is no suggestion that it is not what it purports to be. The list does not contain reference to promissory notes of the Mezzanine Companies. The court should therefore proceed on the basis that the second question is answered in the negative.
+Attention must therefore be given to the first question and the construction of the product list exclusion.
+ The plaintiffs say that the product list exclusion might not operate to exclude the plaintiffs' claims against Quantum because Mr Chen was arguably not an "Insured" (it is accepted that Quantum itself was an "Insured - indeed, that it was a "Named Insured").
+ The argument that Mr Chen was not an "Insured" centres upon the clause .12(a) definition of that term. Under that definition, a person who was an "Authorised Representative" of Quantum (the "Named Insured") was included in the "Insured" designation, "but only in respect of work performed while an
+Authorised Representative of the Named Insured". It follows, the plaintiffs say, that if Mr Chen (an admitted Authorised Representative of Quantum) was, at the time of his activities the subject of the proceedings, not performing work as Quantum's Authorised Representative (because the activities - or "work" - lay beyond the scope of his authority), he was not brought by clause .12(a) within the "Insured" definition. That being so, the plaintiffs say, there is an arguable case that the product list exclusion in the professional indemnity policy does not apply to liability of Quantum on account of the relevant activities of Mr Chen.
+ I accept that there is, at the factual level, a question whether the activities of Mr Chen in relation to promissory notes of the Mezzanine
+Companies were within the scope of his authority as an Authorised
+Representative of Quantum. The answer to that question will be relevant to whether he was an "Insured" under clause 7.12(a).
+ If, as the plaintiffs contend in arguing that Mr Chen was not an "Insured", all relevant acts, errors and omissions were acts, errors and omissions of Mr
+Chen but, in terms of clause 7.12(a), did not form part of or relevantly relate to "work performed while an Authorised Representative of" Quantum, liability of Quantum may not be established. If that is so, there will be nothing to which the policy is responsive.
+ This analysis might hold good according to general principles of agency and vicarious responsibility. But it breaks down when one has regard to the statutory scheme. In the draft statement of claim, the following appears: "In the premises, during the AR Periods [i.e, particular periods specified in the document], Quantum was responsible, as between itself and the
+Plaintiffs and Group members who: received financial product advice from Mr Chen; could reasonably be expected to rely upon such services; and on which they in fact relied in good faith, for Mr Chen's conduct, pursuant to [s
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s917b.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/)." [Section
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s917b.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) is in these terms: "If the representative is the representative of only one financial services licensee, the licensee is responsible, as between the licensee and the client, for the conduct of the representative, whether or not the representative's conduct is within authority." [emphasis added] This section appears in Division 6 of [Part .6](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p7.6) the scope of which is stated in [s
+A(1):](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s917a.html) "This Division applies to any conduct of a representative of a financial services licensee: that relates to the provision of a financial service; and on which a third person (the client) could reasonably be expected to rely; and on which the client in fact relied in good faith." [Section
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s917e.html) is in these terms: "The responsibility of a financial services licensee under this Division extends so as to make the licensee liable to the client in respect of any loss or damage suffered by the client as a result of the representative's conduct." [Section
+D](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s917d.html) excepts from [s
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s917b.html) responsibility for conduct of a representative that was beyond the scope of the representative's authority if there was clear disclosure to the client of that fact.
+ The concluding words of [s
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s917b.html) make it clear that, subject to the possibility raised by [s
+D](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s917d.html),
+Quantum will, for the purposes of relevant statutory provisions, be responsible for relevant conduct of Mr Chen even if Mr Chen was, at the time, on a "frolic of his own".
+ The liability in respect of which indemnity would be sought under the professional indemnity policy - being the liability established in the proceedings - would be a liability of Quantum. It is Quantum that is, by the proceedings, subjected to a claim concerning "an actual or alleged act, error or omission in respect of" the Mezzanine Company promissory notes. On that basis, there is no apparent reason why the product list exclusion cannot be invoked, whether or not Mr Chen was himself an "Insured". The focus of the product list exclusion is not upon the person who performed or committed the "actual or alleged act, error or omission". It is upon the person against whom the "Claim" is brought. That, in the present context, is Quantum, not Mr Chen.
+ The matter just mentioned is, in my opinion, fatal to any contention that the product list exclusion does not apply. Once it is accepted that, whether or not Mr Chen was an Insured, Quantum was clearly an Insured and that the plaintiffs are proceeding against Quantum alone, the situation is one in which there is a "Claim" (in the clause 7.3 sense: see item 7 at paragraph [18] above) against the "Insured" (Quantum) "arising directly or indirectly based on, attributable to, or in consequence of an actual or alleged act, error or omission" (being an act, error or omission of Mr Chen for which, as between
+Quantum and its relevant client, Quantum is, by [s
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s917b.html), responsible even if Mr Chen was not acting within authority) "in respect of a financial or investment product" (Mezzanine Company promissory notes) which, at the time of the act, error or omission, was not on Quantum's approved product list.
+ In relation to the professional indemnity policy, I accept the submissions of Mr F Gleeson SC on behalf of QBE that there is no arguable basis for contending that the product list exclusion is inoperative or inapplicable.
+That being so, the conclusion must be that there is no arguable basis for contending that the professional indemnity policy provides indemnity for
+Quantum in respect of the matters alleged against it in these proceedings.
+ 
+Assessment of the position under the financial institutions policy I turn now to the financial institutions policy. The two questions relevant to whether that policy arguably responds in the present case are, first, whether the claims of the plaintiffs and other members of the class against
+Quantum are within the description "as a result of a breach of professional duty in the conduct of the Financial Service" (with the "Financial Service" being understood as "Funds Management, Finance Broking, Securities Dealing"); and, second, if so, whether the financial planning endorsement applies to those claims.
+ As to the first of these matters, the plaintiffs say that the financial institutions policy should be presumed to have been concluded in the context of a mutual acknowledgment of the scheme of Chapter 7 of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) under which financial services may be provided either by a licensee itself or by it authorised representatives. On that footing, it is said, it is arguable, in the sense relevant to the present application, that "Financial Services", for the purposes of the financial institutions policy, extend to services of the relevant kind provided by an authorised representative. I accept that that is an arguable proposition.
+ Of the three components of "Financial Services" specified in the definition, only "Securities Dealing" (an expression not defined by the financial institutions policy) is potentially applicable to the present circumstances. If resort is again had to [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) concepts, the expression "Securities Dealing" might be understood to be "dealing", in the sense emerging from [s
+C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s766c.html), in or with that species of "financial products" which is within [s
+A(1)(a)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s764a.html), being "a security" as defined by [s
+A.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s761a.html)
+Again, this may be accepted as arguable.
+ An issue then arises as to whether promissory notes issued or made by the
+Mezzanine Companies are "securities" within the [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s761a.html) definition. The plaintiffs acknowledge that promissory notes created and made by other Westpoint Group companies in circumstances similar to those involving the Mezzanine Companies have been held not to be "securities" within the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) definition: Emu Brewery Mezzanine Ltd versus Australian Securities and Investments
+Commission <case>; [(2006) 32 WAR 204]; Re York Street Mezzanine Pty Ltd <case>; [(2007) 162 FCR 358.] It may well be that the promissory notes involved in this case are likewise not within the statutory definition. But that would not be determinative, given that the expression "securities" is used in a contract of insurance in relation to which the statutory scheme may provide no more than guidance. In addition, much will depend on the form and content of the particular notes. The proposition that the present circumstances involve "Securities Dealing" in a more general sense remains arguable.
+ QBE contends, however, that the financial institutions policy must be read together with the professional indemnity policy and that, when this is done, "Financial Planning" can be seen to be within the province of the professional indemnity policy and beyond the province of the financial institutions policy.
+Both policies provide cover in respect of the same period (31 May 2005 to 31
+May 2006). The financial institutions policy, having regard to item 6 of its schedule (see item 6 at paragraph [19] above), extends to "Funds
+Management, Finance Broking, Securities Dealing"; and by force of the financial planning exclusion (see item 8 at paragraph [19] above), it does not provide cover relevantly related to "the provision ... of any advice usually provided by a Financial Planner". The professional indemnity policy, on the other hand, expressly covers "Financial Planning" (see item 3 at paragraph [18] above). That being so, it is argued, the two policies taken together show an intention on the part of Quantum and QBE (being the only parties to each policy) that insurance cover for "the provision ... of any advice usually provided by a Financial Planner" in the relevant period is to be provided by the professional indemnity policy above.
+ I do not think that any conclusion to this effect can be drawn from the terms of the policy documents alone. To the extent that questions of construction of the commercial contracts arise, it may well be necessary to have regard to extrinsic evidence showing "the facts which the negotiating parties had in their mind" and "the objective framework of facts within which the contract came into existence; and the parties presumed intentions in this setting": Codelfa Construction Pty Ltd versus State Rail Authority of New South
+Wales <case>; [(1982) 149 CLR 337] at CLR 350 and CLR 352 per Mason J. Questions of that kind are not suitable to be determined upon an inquiry such as the present.
+ I proceed therefore to consider the independent operation of the financial planning exclusion, read simply as part of the financial institutions policy.
+The first step is to look at the claims the plaintiffs make in the proceedings: see paragraphs [13] to [16] above. The several alleged statutory contraventions of Mr Chen should be considered separately, remembering that the plaintiffs seek to sheet home to Quantum, as Mr Chen's principal, responsibility for those alleged contraventions.
+ The plaintiffs claim that Mr Chen contravened [s
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s941b.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/). That section (omitting its footnotes) is as follows: "(1) An authorised representative (the providing entity) of a financial services licensee (the authorising licensee), or of 2 or more financial services licensees (the authorising licensees), must give a person a Financial Services Guide in accordance with this Division if the providing entity, as a representative of the authorising licensee, or one or more of the authorising licensees, provides a financial service to the person (the client) as a retail client.
+
+A Financial Services Guide must not be given to the person by the providing entity unless the authorising licensee, or each of the authorising licensees, has authorised its distribution by the providing entity.
+
+This section has effect subject to [section
+C.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s941c.html)" Mr Chen is alleged to have provided a "financial service" by giving "financial product advice". It is alleged that he did not give, in relation to this "financial service", the "Financial Services Guide" required by [s
+B.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s941b.html)
+The complaint is not that Mr Chen provided the "financial product advice". It is that he did not, in connection therewith, give a "Financial Services
+Guide".
+ It is next alleged that Mr Chen contravened [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s945a.html) and [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s946a.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/). The first of these sections is concerned with "personal advice", as defined by [s
+B(3)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s766b.html), that is, "financial product advice" (as defined by [s
+B(1))](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s766b.html) given or directed to a person in circumstances where the giver of the advice has considered (or would reasonably be expected to have considered) specified matters peculiar to the person. [Section
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s945a.html) says, in effect, that "personal advice" must not be given by an authorised representative of a financial services licensee unless that representative has a reasonable basis for the advice. [Section
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s946a.html) requires that a "Statement of Advice" complying with statutory specifications be the means by which such advice is given.
+ The substance of the claims against Quantum based on [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s945a.html) and [946A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s946a.html) is thus that, in and about the giving of advice actually given by him in relation to the Mezzanine Company promissory notes, Mr Chen contravened statutory requirements with respect to the quality of advice given and the procedures to be observed in giving that advice.
+ The third contravention alleged against Mr Chen is a contravention of [s
+A.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1012a.html)
+That section is concerned with a situation in which the giving of certain "financial product advice" (an expression defined by [s
+B(1))](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s766b.html) gives rise to an obligation on a "regulated person" (which, by [s
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1011b.html), includes an authorised representative of a financial services licensee) to give a "Product Disclosure Statement" for a financial product. In broad terms, a regulated person must give a "client" a "Product Disclosure Statement" in relation to a "financial product" if "personal advice" to the client consists of or includes a recommendation that the client acquire the financial product and certain other circumstances exist.
+ The allegation against Mr Chen under [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1012a.html) is, in essence, that he gave "financial product advice" of the relevant kind without following the statutory procedures.
+ The proposed additional claim (see paragraph [15] above) is concerned with the alleged failure of Quantum to perform its statutory obligation to supervise and monitor the activities of Mr Chen as its authorised representative in and about the subject matter of the other claims.
+ The plaintiffs argue that some of these claims, at least, are beyond the scope of the financial planning exclusion. In relation to the [s
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s941b.html) aspect, the plaintiffs emphasise that the allegation is that Mr Chen failed to provide a document ("Financial Services Guide") that he should have provided - not that he actively gave advice. In the case of the proposed additional claim, the allegation is merely that Quantum failed to supervise and monitor
+Mr Chen's activities. Thus, it is argued, even if other claims (notably those based on [ss
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s945a.html) and [946A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s946a.html) and [s
+A)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1012a.html) do concern the provision of advice by Mr Chen, there is a part of the totality of claims that does not.
+ QBE challenges the plaintiffs' contention that there are, in this way, aspects of their claims that are not caught by the financial planning exclusion. The submission of QBE emphasises that the financial planning exclusion has regard to the source or underlying cause of the claim against
+Quantum in respect of which it seeks indemnity under the financial institutions policy. The exclusion operates upon a claim against Quantum "directly or indirectly based on, attributable to, or in consequence of the provision ... on behalf of [Quantum] of any advice usually provided by a
+Financial Planner". It follows, according to QBE, that, if Quantum is sued by persons who took up a particular investment opportunity in circumstances where
+Mr Chen gave "advice" of the relevant kind and the claim those persons advance is a claim that Mr Chen failed to give the persons some document required by statute or that Quantum failed, in relation to those activities of Mr Chen, to perform its statutory duty to supervise and monitor, then the claim against
+Quantum is, at least, "indirectly based on" or "attributable to" or "in consequence of" the activities of Mr Chen, including such "advice" as he gave.
+ I accept that submission. Each of the allegations against Mr Chen goes ultimately to "advice" given by him. The allegation based on [s
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s941b.html) is that Mr Chen, having provided a "financial service" consisting of "financial product advice", did not furnish to the recipient the document required by the section. The allegations based on [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s945a.html) and [946A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s946a.html) are, in essence, that Mr Chen gave "personal advice" in a way that entailed non-compliance with statutory requirements. The allegation related to [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1012a.html) again centres on "personal advice" and failure to comply with the statute. The claim made directly against Quantum for breach of statutory duty and breach of a duty of care in negligence goes to alleged failure to supervise and monitor the activities of Mr Chen in relation to the provision of "financial services" consisting of "financial product advice".
+ In every case, the claim against Quantum - whether direct (as in the fourth case) or by way of secondary or derivative responsibility for acts or defaults of Mr Chen - is concerned with "advice" given by Mr Chen. More precisely, and to employ the concepts in the financial planning exclusion, each claim against
+Quantum is based at least indirectly upon, or is attributable to, or is a consequence of "advice" provided by Mr Chen. Were it not for the alleged giving of the advice by Mr Chen, none of the claims would be viable. The alleged giving of the advice by Mr Chen is essential to the viability of each of the claims.
+ That leaves for consideration the question whether the "advice" was "advice usually provided by a Financial Planner". The financial institutions policy does not contain any definitions relevant to the interpretation of this phrase. As a matter of common knowledge, however, it can be said that a "financial planner", in designing, suggesting and perhaps recommending a financial plan, will "usually" give advice as to the forms and avenues of investment that a client might consider or should avoid. I do not think that there can be any real doubt that such advice as Mr Chen may have given to invest in, or to consider investing in, Mezzanine Company promissory notes (being advice of the kind on which the plaintiffs rely in their claims against
+Quantum) was advice of the kind that would "usually" be provided by a financial planner.
+ My conclusion is that all the claims sought to be advanced by the plaintiffs are, in terms of the financial institutions policy, "Claims" that are within the financial planning exclusion so that there is no arguable basis for contending that that policy provides indemnity for Quantum in respect of those claims.
+ 
+Conclusion on [s 6(4)](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/s6.html) of the [Law Reform (Miscellaneous Provisions) Act 1946](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/) Because of my conclusion that there is no arguable basis for contending that either the professional indemnity policy or the financial institutions policy is responsive to the plaintiffs' claims against Quantum in these proceedings, there will be no grant of leave under [s (4)](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/s6.html) of the [Law Reform (Miscellaneous Provisions) Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/). Nor, therefore, will there be any order joining QBE as a defendant.
+ 
+The claim under [s 500(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s500.html) of the [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) Counsel for the liquidator of Quantum made it clear to the court that, while his client made no submissions on the questions concerning QBE, the liquidator's attitude to the question of leave to proceed under [s (2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s500.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) would be shaped by the outcome in relation to those questions.
+ If, as I have now decided, QBE is not to be a party and the proceedings will not provide potential access to either of the two QBE insurance policies, the liquidator opposes the grant of leave to proceed.
+ Since the question of leave to proceed was not fully argued and can be more economically addressed in the light of the outcome concerning QBE, I shall make a direction for further consideration of that question.  
+Disposition The orders and direction of the court in each of proceedings 1815/07 and /07 are as follows: . Order that the plaintiffs' interlocutory process filed on 29
+February 2008 be dismissed.
+ . Order that the plaintiffs pay the costs of QBE Insurance (Australia)
+Limited of and incidental to the plaintiffs' interlocutory process filed on 29
+February 2008.
+ . Direct, in respect of the plaintiffs' claim in paragraph 1A of the amended interlocutory process filed on 21 April 2008, that the plaintiffs inform the defendant's liquidator in writing (with a copy to my Associate) within fourteen days whether the claim is pressed or whether the plaintiffs consent to its dismissal.
+ If, pursuant to item 3, it appears that the claim under [s (3)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s500.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) is pressed, I shall arrange for the amended interlocutory process to be listed for further argument before me.
+ 
+LAST UPDATED:  July 2008 * * * 

@@ -1,0 +1,184 @@
+
+
+The State of NSW versus UXC Limited [2011] NSWSC 530 (15 June 2011) 
+Last Updated: 17 June 2011 
+Supreme Court 
+New South Wales  
+Case Title: 
+The State of NSW versus UXC Limited  
+Medium Neutral Citation: <case>  
+Hearing Date(s): May 2011 to 1 June 2011  
+Decision Date: June 2011  
+Jurisdiction: 
+Equity Division - Commercial List  
+Before: 
+Ball J  
+Decision: 
+Judgment for the plaintiff in the sum of $2,594,063 together with interest of $126,185.14. 
+The court declares that the defendant is not entitled to commence court proceedings pursuant to cl 9 of Schedule 5 of the agreement described as "NSW
+Registry of Births Deaths and Marriages Core System Replacement (LifeLink) RFT
+No 0701265 Client-Specific Procure IT Agreement" entered into on 23 October between the Plaintiff and the Defendant in respect of the issues determined by Mr T F Bathurst QC in his determination dated 26 October 2010. 
+The defendant pay the plaintiff's costs of the proceedings (including the costs of the Cross Summons).  
+Catchwords: 
+CONTRACT - construction - dispute resolution clause - expert determination - whether the defendant can still commence court proceedings after expert has made determination - where contract provides that determination over certain amount can be litigated but amount left blank - where multiple contractual documents given order of precedence by contract - held that determination final and binding - whether clause unenforceable as being against public policy on the ground that it ousts jurisdiction of the court - held clause provides not unenforceable  
+Legislation Cited: [Arbitration Act ](http://www.austlii.edu.au/au/legis/vic/histact/aa1928137/) (Vic)  [Commercial Arbitration Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/caa2010219/)  
+Cases Cited: 
+Badgin Nominees Pty Ltd versus Oneida Ltd <case> 
+Channel Tunnel Group Ltd versus Balfour Beatty Construction Ltd <case>; [(1935) 53 CLR 643] 
+Doleman & Sons versus Ossett Corporation <case>; <case>; [(2008) 234 CLR 151] 
+Legal & General Life of Australia Ltd versus A Hudson Pty Ltd <case>; <case> 
+Scott versus Avery <case>; [(1856) 5 HLC 811]; <case> 
+The Heart Research Institute Ltd versus Psiron Ltd <case> 
+Toll (FGCT) Pty Ltd versus Alphapharm Pty Ltd <case>; CLR 165 
+Zeke Services Pty Ltd versus Traffic Technologies Ltd <case>; <case>; [(2004) 218 CLR 530]  
+Texts Cited: 
+Category: 
+Principal judgment  
+Parties: 
+The State of New South Wales (Plaintiff) 
+UXC Limited (Defendant)  
+Representation  - Counsel: 
+Counsel: 
+E A Collins SC (Plaintiff) 
+R M Higgins (Plaintiff) 
+J R Clarke (Defendant) 
+V A Thomas (Defendant)  - Solicitors: 
+Solicitors: 
+Clayton Utz (Plaintiff) 
+Blake Dawson Waldron (Defendant)  
+File number(s): /394648  
+Publication Restriction: 
+Judgment 
+Introduction 
+These proceedings concern the dispute resolution clause in a contract entered into between the Crown in right of the State of New South Wales, represented by the NSW Registry of Births, Deaths and Marriages unit of the Attorney-General's Department ( BDM ) and UXC Limited for the replacement of BDM's core computing system (the LifeLink contract ). Under the terms of the dispute resolution clause, all disputes arising under the contract that cannot be resolved by negotiation are to be referred for determination by an expert chosen by the parties. A dispute arose between the parties concerning BDM's right to terminate the contract for breach by UXC and the damages to which BDM was entitled in the event that its termination was lawful. The parties agreed to refer those disputes to Mr Bathurst QC (as he then was) for determination. Mr Bathurst determined that BDM was entitled to terminate the contract and to recover damages totalling $2,594,063. UXC maintains that, on the proper construction of the dispute resolution clause, it remained free (within a time limit specified in the contract) to commence court proceedings challenging BDM's right to terminate the contract. It has commenced those proceedings. Alternatively, UXC says that, if its interpretation of the dispute resolution clause is not the correct one, then the clause is unenforceable as being contrary to public policy because it purports to oust the jurisdiction of the court. Originally, UXC also claimed that, if the dispute resolution clause did not have the meaning for which it contends, then it should be rectified. That claim was abandoned on the second day of the hearing.  
+In these proceedings BDM seeks to recover the sum of $2,594,063 and a declaration that UXC has no right to commence the proceedings it has in relation to the dispute. I should add that, in the proceedings commenced by UXC, UXC does not challenge Mr Bathurst's determination. It accepts that the determination was made in accordance with the LifeLink contract.  
+Before dealing with the dispute resolution clause itself, it is necessary to say something about the history of the LifeLink contract.  
+Background 
+The LifeLink contract was put out for tender by NSW Procurement - Contracting Services (a business unit of the NSW Department of Commerce) on 13 September 2007. The request for tender ( RFT ) consisted of five parts. Part A set out a description of what was required from tenderers and information concerning the tender. Part B sets out the tender conditions. [Part C](http://www.austlii.edu.au/au/legis/nsw/consolact/caa2010219/index.html#p100) was divided into two parts, C1 and C2. [Part C1](http://www.austlii.edu.au/au/legis/nsw/consolact/caa2010219/index.html#p1001) was the general tender response and [Part C2](http://www.austlii.edu.au/au/legis/nsw/consolact/caa2010219/index.html#p1002) was the response to the specifications. Both parts were to be completed by the tenderer and together formed the tender. The parts were to be completed electronically using specialised software.  [Section 12](http://www.austlii.edu.au/au/legis/nsw/consolact/caa2010219/s12.html) of [Part C1](http://www.austlii.edu.au/au/legis/nsw/consolact/caa2010219/index.html#p1001) related to the conditions of contract with the successful tenderer. Clause 12.1 stated:  
+Click link below and find text to Procure IT Client-Specific Version 2.1.2 which will form [part
+D](http://www.austlii.edu.au/au/legis/nsw/consolact/caa2010219/index.html#p500) - conditions of contract with the successful tenderer: 
+The relevant link was then inserted.
+Clause 12.2 then asked the following question:  
+Do you agree to be bound by all the conditions, Procure IT, contained in "[part
+D"](http://www.austlii.edu.au/au/legis/nsw/consolact/caa2010219/index.html#p500) of this RFT? 
+The clause went on to state that if the answer to that question was "No" the tenderer should provide details of each amendment sought.
+[Part D](http://www.austlii.edu.au/au/legis/nsw/consolact/caa2010219/index.html#p500) was intended to contain the conditions of contract. However, as published, the RFT only contained the first page of the conditions of contract, which identified the contract as the "Client-Specific Procure IT Agreement Version 2.1.2".  
+The link that was included in [Section 12](http://www.austlii.edu.au/au/legis/nsw/consolact/caa2010219/s12.html) of [Part C1](http://www.austlii.edu.au/au/legis/nsw/consolact/caa2010219/index.html#p1001) took the user to a NSW Department of Commerce webpage. That webpage described "Procure IT" as "a set of standard terms and conditions developed in 2003 for Information Technology contracting by the NSW Government ...". The webpage went on to explain:  
+There are two sets of Procure IT, namely: 
+Procure IT used for whole-of-government (panel or period contracts), and 
+Procure IT Client-Specific 
+Version 2.1.2 in both sets of Procure IT is the current version.
+
+For Procure IT used for whole of government (panel or period contrcts [sic]) refer to documentation found below: 
+Procure IT Framework 
+The Procure IT documentation framework is made up of the following parts: ...
+ [Part ](http://www.austlii.edu.au/au/legis/nsw/consolact/caa2010219/index.html#p7) - User Guide 
+For Procure IT Client Specific refer to documentation found below: 
+The Procure IT Client Specific document . 
+On the left hand side of the webpage were various links including a link to the standard terms and conditions of each form of Procure IT.
+Part E of the RFT contained the technical specification for the proposed system. Clause 4.12 of Part E was headed "Agreement" and relevantly provided:  
+The agreement governing the project is the NSW Department of Commerce Contract
+ProcureIT (Part D of this RFT).
+
+Upon conclusion of the tender process the Principal will sign a contract with the Successful Tenderer, which may include the following terms: ...
+
+Otherwise the terms listed in the Official Order included in the ITS2036 panel contract user guide applies. The official order template is attached to the document for Respondents to confirm its terms or advise of any issues.
+
+The references to the "panel contract user guide" in this clause and to the "User Guide" in the webpage referred to above assumed a great deal of significance in UXC's case, and I will say more about them shortly. It is sufficient at present to make two points. First, the User Guide on its face is an instruction manual to government employees on how to complete the Procure
+IT Whole of Government contract. Second, Mr Cashion, who was one of the employees of UXC responsible for replying to the request for tender, gave evidence that it was his invariable practice to obtain access to all information relevant to a proposed tender and, on the basis of that practice, he believes that he downloaded a copy of the User Guide and read it.
+On 15 October 2007, Mr Jerzy Kortynski, on behalf of the NSW Department of Commerce, issued addendum no 1 to the RFT. The addendum was in the form of questions and answers. Question 8 and the corresponding answer were in the following terms:  . Clarification Question 
+Part D - Conditions of Contract consist of a PDF file with only one page in it (the title page). Could you confirm that this is correct, that the general
+Procure IT contract would apply without additional conditions / specific additions? 
+A. In 12.1 of Part C1 you can find link to Procure IT Client Specific Version 2.1.2 which will form Part D - Conditions of Contract with the successful Tenderer. 
+Please refer to the Clause 10 of Part A&B. 
+On 24 October 2007, UXC submitted its tender response. The tender response included what were intended to be comments on the proposed terms of the agreement. In fact, however, the comments were directed to the Procure IT Whole of Government standard terms, not the Procure IT Client Specific standard terms.  
+In late October 2007, BDM provided UXC with a document seeking clarification of a number of points of UXC's tender. UXC replied to that document. Nothing in that reply, however, is relevant to the current dispute.  
+On 18 April 2008, Mr Kortynski advised UXC by letter that the State Contracts Control Board had accepted UXC's tender. The letter went on to say:  
+Acceptance of your tender is however conditional upon execution of the following matters:
+Contract finalisation;
+Execution of contract (documentation based on RFT Part D - Deed of
+Agreement).  ...
+
+Please note that an Agreement with the Attorney-General's Department will not be in force unless the contract is duly signed and executed by the parties to the Agreement.
+Between late April 2008 and October 2008, there were negotiations between BDM and UXC in relation to the terms of the contract. The original draft was prepared by Ms Wee from the Crown Solicitor's Office and was based on a contract known as the "SmartPath Contract", which in turn was based on the Client-Specific Procure IT standard terms.  
+The LifeLink Contract 
+The final contract was executed by the parties on 23 October 2008. It consisted of a number of parts. It is not necessary to refer to all of them. Part 1 was headed "Execution of Agreement". Apart from the execution page itself, Part 1 included the following term:  
+The terms and conditions of this Agreement are those appearing in: the Agreement Details; the Standard Terms and Conditions; the Dictionary; the Modules of this Agreement referenced in item 5 of the Agreement
+Details, and the Schedules referred to in Item 6 of the Agreement Details, and any inconsistency between the above documents shall be determined in accordance with Item 54 of Schedule 1.
+
+The Agreement Details, in fact, comprise Schedule 1. Somewhat curiously, Part itself is not expressed to form part of the terms and conditions of the agreement.
+The Standard Terms and Conditions are set out in Part 2. They follow closely the Procure IT Client Specific standard terms.  
+Clause 3.5 of the Standard Terms and Conditions as amended by Item 8 of the Agreement Details set out what is described as an "issue resolution process".  
+Clause 3.5.1 provides:  
+The Parties agree to resolve any conflicts or issues between them in relation to this Agreement in accordance with the provisions of clauses 3.5 to 3.7 inclusive and Schedule 5.
+
+Clause 3.5, as amended, then sets out a three stage process. Clause 3.6 describes the first two stages. The first stage involves notification of a dispute or difference "about the meaning or effect of this agreement or any other matter arising under or out of this agreement" and senior executives nominated by the parties conferring in an attempt to resolve the issue. The second stage involves referring the issue to the "Dispute Committee". Clause .6.3 provides: 
+The Parties must follow the issue resolution process in this clause 3.6 and
+Schedule 5, before either commencing proceedings or takes similar action except to seek an urgent injunction or declaration.
+The third stage involves expert determination. Clause 3.7.1 provides:  
+If the issue has not been settled by the Dispute Committee in the timeframe specified in clause 3.6.6 [that is, 28 days], a Party may refer the issue for expert determination in accordance with Schedule 5.
+Schedule 5 sets out how the expert determination is to proceed. It provides that the expert is to be agreed between the parties or, in the absence of agreement, is to be chosen by the Chief Executive Officer of Australian Commercial Disputes Centre. The procedure described in the schedule is not important. As I have said, it is accepted that it was followed in this case.  
+Clauses 9 and 10 of Schedule 5 are in the following terms:  
+If the expert determines that one Party must pay the other an amount exceeding the amount specified in Agreement Details (calculating the amount without including interest on it and after allowing for set-offs), then either
+Party may commence litigation, but only within 56 days after receiving the determination.
+Unless a Party has a right to commence litigation under clause 9 of this
+Schedule: the Parties must treat each determination of the expert as final and binding and give effect to it; and  if the expert determines that one Party owes the other money, that
+Party must pay the money within 28 days.  
+Clause 11.1(a) of Schedule 5 provides that the expert is to act as an expert and not as an arbitrator.
+Schedule 1 (the Agreement Details) is divided into items which cover a broad range of matters ranging from identification of the parties to terms which amend the Standard Terms and Conditions. Item 8 is headed "Issue Resolution (Clauses 3.5, 3.6 & 3.7)". As I have said, under that heading are a number of amendments to the identified clauses of the Standard Terms and Conditions. Critically, however, Item 8 does not specify any amount for the purpose of cl 9 of Schedule 5. Moreover, no other items of the Agreement Details refer to the issue resolution clause of the Standard Terms and Conditions. However, Item 12, which is headed "Liability (Clauses 4.5 and 4.6)" limits the liability of each party relevantly to $5 million.  
+Item 54 of the Agreement Details, which is headed "Precedence" provides:  
+The documents comprising this Agreement will be read in the following order of precedence: 
+Schedule 1 (aside from the Annexures to Schedule 1);  
+Modules 4 & 8 of Schedule 3;  
+Project Implementation and Payment Plan being Annexure "A of Schedule 1 [sic];  
+Annexures "B", "C", "D" & "E" of Schedule 1.  
+Standard Terms and Conditions [Part Two], Dictionary [Part Three],
+Module 4 Development Services [Part Five], and Module 8 Data Management Plan [Part Five] of the Client-Specific Procure IT Agreement;  
+The remaining Schedules;  
+Contractor's Response documents referred to in Part 2 of Schedule 2 -
+Agreement Documents  
+Request for Tender documents referred to in Part 1 of Schedule 2 -
+Agreement Documents.  
+Where any conflict occurs between the provisions contained in two or more of the documents forming this Agreement, the document lower in the order of precedence shall where possible be read down to resolve such conflict. If the conflict remains incapable of resolution by reading down, the conflicting provisions will be severed from the document lower in the order of precedence without otherwise diminishing the enforceability of the remaining provisions of that document.
+Part 1 of Schedule 2 sets out each part of the RFT and various addendums issued by NSW Procurement - Contracting Services. Part 2 of Schedule 2 sets out all the documents that comprise UXC's response. At the beginning of the schedule is a statement in these terms:  
+Unless the context requires otherwise, documents dated later in time shall prevail to the extent of any inconsistency over any earlier dated documents.
+
+Do the issue resolution provisions of the contract prevent UXC from commencing court proceedings? 
+There is no dispute about the relevant legal principles. Several of them are encapsulated in the following statement of Gleeson CJ, Gummow, Hayne, Callinan and Heydon JJ in Toll (FGCT) Pty Ltd versus Alphapharm Pty Ltd  <case>; (2004) 219 CLR 165 at <case>, quoted with approval by Gummow, Hayne, Heydon, Crennan and Kiefel JJ in International Air Transport Association versus Ansett Australian Holding Limited  <case>; <case>:  
+This Court, in Pacific Carriers Ltd versus BNP Paribas , has recently reaffirmed the principle of objectivity by which the rights and liabilities of the parties to a contract are determined. It is not the subjective beliefs or understandings of the parties about their rights and liabilities that govern their contractual relations. What matters is what each party by words and conduct would have led a reasonable person in the position of the other party to believe. References to the common intention of the parties to a contract are to be understood as referring to what a reasonable person would understand by the language in which the parties have expressed their agreement. The meaning of the terms of a contractual document is to be determined by what a reasonable person would have understood them to mean. That, normally, requires consideration not only of the text, but also of the surrounding circumstances known to the parties, and the purpose and object of the transaction.
+(footnotes omitted) 
+Another relevant principle is that the court should give a commercial contract a businesslike interpretation and should avoid an interpretation which produces a commercial nonsense or works a commercial inconvenience: McCann v
+Switzerland Insurance Australia Ltd  <case>; <case> per
+Gleeson CJ; Phoenix Commercial Enterprises Pty Ltd versus City of Canada Bay
+Council  <case> at <case>;
+Zhu versus The Treasurer of the State of New South Wales  <case>; <case> per
+Gleeson CJ, Gummow, Kirby, Callinan and Heydon JJ.
+BDM's answer to the question whether the issue resolution provisions of the contract prevent UXC from commencing court proceedings is simple. It says that cl 10 of Schedule 5 provides that a party must treat the determination of the expert as final and binding unless the party has a right to commence litigation under cl 9. However, no right to commence litigation is given by cl 9 since that clause only gives a right to commence litigation where the expert makes a determination which exceeds the amount specified in the Agreement Details and no amount for that purpose is specified in the Agreement Details.  
+Mr Clarke, who appeared for UXC, advanced various reasons for why the court should reject BDM's position. His primary argument had the following steps:  * (a) It is apparent that the parties intended to specify in Item 8 of Schedule 1 an amount for the purposes of cl 9 of Schedule 5 but overlooked doing so;  * (b) In those circumstances, the parties must have intended that their agreement recorded in the RFT and the tender response applies;  * (c) Clause 4.12 of Part E of the RFT stated that, apart from some specific terms referred to, the terms included in the User Guide apply;  * (d) Part B13 of the User Guide provides:  
+Expert Determination amount (Schedule 5) 
+Insert compensation amount: 
+Amounts are: $250,000 for contracts valued at less than $50m and $1m for contracts valued at more than $50m.
+
+If the expert determines a compensation amount which exceeds the expert determination amount specified in the Order, then the Parties may commence proceedings in an appropriate court to obtain a judicial determination of the issue in dispute.
+ 
+UXC did not raise any objection in its tender response to the incorporation of this provision of the User Guide;  
+It follows that the parties agreed to specify $250,000 as the threshold amount for the purposes of Item 8 of Schedule 1.  
+In opening submissions, Mr Clarke advanced an alternative argument to the effect that, by not specifying an amount in Item 8, the parties intended the amount to be zero. In addition, Mr Clarke submitted that the construction contended for by BDM was uncommercial because it meant that neither party could commence court proceedings in relation to any matter arising under the contract (except in the limited circumstances where one party or the other sought an urgent injunction or declaratory relief). Given the complexity of the contract and the broad range of issues that could arise under it, the parties could not have intended that result. Furthermore, BDM's interpretation means that cl 9 of Schedule 5 had no work to do. The court should not readily adopt an interpretation that made cl 9 otiose.  
+In my opinion, there is no merit in Mr Clarke's alternative argument. I do not see how it can be said that, by failing to specify an amount, the parties must be taken to have specified an amount of zero. The structure of cl 9 is clear. It provides that the parties may commence proceedings but only if the amount awarded by the expert exceeds the amount specified in the Agreement Details. If no amount is specified, the natural conclusion is that there is no amount, not that the amount is zero. To take the parties as having agreed an amount of zero by not specifying an amount is to produce the opposite effect to the effect that the clause has on its face. It would mean that the parties could commence court proceedings whatever amount was determined by the expert. The only effect of cls 9 and 10 would be to require those proceedings to be commenced within 56 days. If that is what the parties intended, they surely would have said so. That is particularly so given the complexity of the dispute resolution procedure provided for by the parties and the likely expense that that procedure would entail. It is hard to believe that the parties intended that procedure simply to operate as a pre-condition to court proceedings whatever amount was in dispute.  
+In my opinion, there are two difficulties with Mr Clarke's primary argument. The first is that I do not think (b) follows from (a). The second is that I do not think that (f) follows from (c) to (e). It is convenient to deal with these points in reverse order.  
+I do not accept that the RFT should be read as picking up the User Guide. The only provision of the RFT that refers to the User Guide is cl 4.12 of Part E. That clause is contradictory. It asserts that the terms of the contract will be those identified in Part D of the RFT. However, it then goes on to say that the terms may include several terms that are specifically identified and would otherwise be those listed in the Official Order included in the panel contract user guide. As the webpage to which I have referred explains, the panel or whole of government contract is different from the client specific contract, which was the contract intended to be included in Part D. Mr Clarke submitted that the User Guide was equally relevant to the client specific contract. I do not accept that submission. On its face, the User Guide refers to a different set of contractual terms to those included in the client specific contract. To take just one example, Part B12 of the User Guide refers to cl 18.4.2 (termination for convenience). But termination for convenience is dealt with in cl 14.1 of the client specific contract. The client specific contract does not include a cl 18.4.2 at all. Addendum no 1 to the RFT makes it clear that the client specific contract is the relevant contract. In accordance with Schedule 2, that addendum, being later in time, takes priority over cl 4.12 of Part E. It identifies the proposed terms and conditions as being the client specific contract. For the reasons I have given, that cannot include the User Guide.  
+In my opinion, the assertion that (b) follows from (a) overlooks the order of precedence given to the documents that comprise the LifeLink contract. Schedule 2 of the LifeLink contract makes it clear that the contract includes the RFT and UXC's response. Item 54 of Schedule 1 (the Agreement Details) make it clear that Schedule 1 and then the Standard Terms and Conditions take precedence over either of those documents so that, to the extent of any inconsistency, the Agreement Details and the Standard Terms and Conditions prevail. Assuming, contrary to the conclusion of the previous paragraph, that the terms of the RFT imposed a threshold of $250,000, the question is whether the Agreement Details and Standard Terms and Conditions are inconsistent with that threshold. In my opinion, they are. By providing an order of precedence, the agreement contemplates some assessment of the effect of documents higher up in the order of precedence and consideration of the question whether that effect is inconsistent with the effect of documents lower in the order of precedence. In carrying out that exercise, it may be necessary to read some documents together because one does not make sense without the other. So, for example, in many cases, it is necessary to read the Contract Details and Standard Terms and Conditions together because the former makes no sense without the latter. But if, when read together, the documents have a particular effect then it is that effect that must prevail. That effect cannot be altered to avoid an inconsistency with documents lower down the order of precedence. To do that would be to fail to give precedence to the documents on which precedence is conferred.  
+It does not matter whether the parties overlooked specifying an amount in Item 8 of Schedule 1 or made a deliberate decision not to do so. The result is the same. Under the Standard Terms and Conditions and Schedule 1, as properly construed, the parties are not free to commence court proceedings whatever the determination of the expert. That is inconsistent with the position provided for by the RFT (on the current assumption) that the parties were entitled to commence court proceedings if the determination exceeded $250,000. Consequently, the latter provision must be severed.  
+There are two other points that I should mention.  
+First, the conclusion I have reached does not strike me as obviously absurd or uncommercial. The limit of each party's liability under the contract is $5 million. It is against that background that the parties did not specify a threshold above which they were entitled to commence court proceedings once the expert had made a determination. The effect is that the expert's decision is binding in relation to any amount up to $5 million. Having regard to the costs that the parties are likely to have incurred in the issue resolution process and the likely costs of any court proceedings, it does not strike me as uncommercial or absurd that the parties should have agreed that they would not be free to commence court proceedings in relation to determination by the expert of amounts less than $5 million.  
+Second, it is true that the interpretation of the issue resolution clauses that I have accepted gives no work to cl 9 of Schedule 5 to do. But it needs to be remembered that that clause is part of a complicated set of standard terms on to which have been grafted a number of other documents. In those circumstances, there is no reason for the court to strive to give that clause an effect when the parties have not specified a threshold that triggers its operation.  
+Is cl 10 of Schedule 5 unenforceable? 
+As a general proposition, a clause which ousts the jurisdiction of the court is unenforceable: see Dobbs versus The National Bank of Australasia <case>; [(1935) 53 CLR 643] This principle has been extended to cover cases where the parties appoint a third party - usually, in the past, an arbitrator - to determine a dispute in relation to their existing rights and liabilities under the contract and agree that that determination, once made, is final and binding. Once the arbitrator makes a determination, it is that determination which defines their rights and liabilities under the contract - provided, of course, that the determination is in accordance with the contract. It does not matter that the determination was in relation to rights and liabilities that had accrued under the contract. Once the determination is made, the parties' rights and liabilities are defined by it. Such a clause was never regarded as ousting the jurisdiction of the court since, before the determination was made, the parties remained free to commence court proceedings in relation to their existing dispute and, after the determination was made, they remained free to commence court proceedings to enforce it or to challenge it on the basis that it was not made in accordance with the contract. As Rich, Dixon, Evatt and McTiernan JJ explained in Dobbs versus The National Bank of Australasia :  
+A clear distinction has always been maintained between negative restrictions upon the right to invoke the jurisdiction of the Courts and positive provisions giving efficacy to the award of an arbitrator when made or to some analogous definition or ascertainment of private rights upon which otherwise the Courts might have been required to adjudicate. It has never been the policy of the law to discourage the latter. The former have always been invalid.
+The second general principle is that the parties to a contract are free to specify conditions precedent to the accrual of rights and liabilities under it. In Scott versus Avery <case>; [(1856) 5 HLC 811] it was held that one condition precedent the parties could impose was a condition that they submit their dispute to arbitration. Until that condition was satisfied, there was no right that could be the subject of court proceedings. But that did not involve ousting the jurisdiction of the court. Again, as Rich, Dixon, Evatt and McTiernan JJ explained in Dobbs versus The National Bank of Australia :  
+Parties may contract with the intention of affecting their legal relations, but yet make the acquisition of rights under the contract dependent upon the arbitrament or discretionary judgment of an ascertained or ascertainable person. Then no cause of action can arise before the exercise by that person of the functions committed to him. There is nothing to enforce; no cause of action accrues. But the contract does not attempt to oust the jurisdiction ...
+At common law, these principles did not necessarily prevent a party who agreed to refer a dispute to arbitration from commencing court proceedings where arbitration was not itself a condition precedent to the accrual of the cause of action on which the proceedings were based. If a party did so, the other party's only remedy was one in damages. The position, however, was changed with the passing of Arbitration Acts which gave the court a discretion to stay proceedings where the parties had agreed to submit their dispute to arbitration: see Doleman & Sons versus Ossett Corporation [[1912] 3 KB 257]  
+In the present case, the only clause to which UXC takes objection is cl 10 of Schedule 5. That clause requires the parties to treat the expert determination as final and binding once made and to give effect to it. The clause is a clear example of a clause falling within the first principle I have identified. It does not oust the jurisdiction of the court. It simply provides that, once the expert has made a determination, that determination (assuming it was made in accordance with the contract) is the source of the parties' contractual rights and obligations. For that reason, the determination is not unenforceable.  
+Orders 
+It follows that BDM is entitled to an order that UXB pay it the sum of $2,594,063 together with interest calculated from 28 days after Mr Bathurst delivered his determination (that is, from and including 24 November 2010) to the date of judgment at the rates referred to in Practice Note SC Gen 16 of 8.5 percent to 31 December 2010 and 8.75 percent from 1 January 2011. BDM is also entitled to a declaration in the terms it seeks.  
+The orders of the court are:  * (1) Judgment for the plaintiff in the sum of $2,594,063 together with interest of $126,185.14;  * (2) The court declares that the defendant is not entitled to commence court proceedings pursuant to cl 9 of Schedule 5 of the agreement described as "NSW Registry of Births Deaths and Marriages Core System Replacement (LifeLink) RFT No 0701265 Client-Specific Procure IT Agreement" entered into on 23 October 2008 between the Plaintiff and the Defendant in respect of the issues determined by Mr T F Bathurst QC in his determination dated 26 October 2010.  * (3) The defendant pay the plaintiff's costs of the proceedings (including the costs of the Cross Summons).  * * * 

@@ -1,0 +1,182 @@
+
+
+Trustees of the Roman Catholic Church for the Diocese of Parramatta v
+Doepel [2016] NSWSC 1566 (3 November 2016) 
+Last Updated: 9 November 2016 
+Supreme Court 
+New South Wales  
+Decision: 
+The plaintiffs prepare calculations of a judgment sum in accordance with these reasons.  
+The proceedings stand over to 10am on 4 November 2016 for the entry of judgment.  
+Catchwords: 
+FIDUCIARY - bribes allegedly paid to senior IT manager - nature of bribe and remedies available at common law - ex parte hearing - payment of bribe established - demonstration of loss caused by receipt of bribe - overcharging by supplier - fiduciary deliberately failed to scrutinise accounts - overcharging established - interest - set off of settlement funds.  
+JUDGMENT
+HIS HONOUR: The plaintiff, the Trustees of the Roman Catholic Church for the Diocese of Parramatta ("the Trustees"), is a body corporate created by [s 4](http://www.austlii.edu.au/au/legis/nsw/consolact/rcctpa1936413/s4.html) of the [Roman Catholic Church Trust Property Act 1936](http://www.austlii.edu.au/au/legis/nsw/consolact/rcctpa1936413/) . It is the legal entity responsible for the operation of catholic schools in the Diocese of Parramatta. The third defendant, Matthew Gill Doepel, was employed by the Trustees as its Chief Technology Officer between 2008 and 2013. As such, he was responsible for procuring information technology goods and services on its behalf.
+The Trustees sue Mr Doepel, claiming that in that period he received secret payments, which it seeks to characterise as bribes, from two suppliers, Efficient Data Communications Pty Limited ("EDC") and InTouch Information Technology Pty Limited ("InTouch"). In respect of the payments made by EDC to Mr Doepel, the Trustees seek to recover the loss it claims was occasioned by Mr Doepel's conduct in receiving the bribes. In respect of the payments made by InTouch, the Trustees seek Mr Doepel account for the moneys he received.
+The first and second defendants to the proceedings are EDC and its principal, Andrew Lowy, respectively. The claim against them has been resolved. Further, Mr Doepel became a bankrupt on 23 December 2014. However, on 2 March 2015 leave was granted to the Trustees to proceed against him pursuant to subs 58(3) of the [Bankruptcy Act 1966](http://www.austlii.edu.au/au/legis/cth/consolact/ba1966142/) (Cth). Although it has lodged a proof of debt in Mr Doepel's bankruptcy, the Trustees contend that their claim against him stands outside his bankruptcy on account of his fraud.
+Neither Mr Doepel nor his Trustee in Bankruptcy appeared at the hearing. Nevertheless, the matter proceeded on its merits. That said, in considering the following findings it should be noted that none of EDC, Mr Lowy, InTouch or its principal, John Tannous, were parties to the proceedings by the time of the hearing and thus they were not afforded an opportunity to be heard.
+For the reasons that follow, the Trustees' claim against Mr Doepel will be upheld.
+
+Civil Actions Concerning Bribes
+In his careful submissions, Counsel for the Trustees, Mr Lawrance, referred the Court to various authorities concerning the elements of the causes of action, principally breach of fiduciary duty, that are available where it can be shown that a bribe has been paid.
+In Hovenden & Sons versus Millhoff [[1900] 83 LT 41] at 43 Romer LJ described a bribe as follows: "If a gift be made to a confidential agent with a view of inducing the agent to act in favour of the donor in relation to transactions between the donor and the agent's principal and that gift is secret as between the donor and the agent - that is to say, without the knowledge and consent of the principal - then the gift is a bribe in the view of the law."
+In Attorney General for Hong Kong versus Reid <case>; [[1994] 1 AC 324] at 330 the Privy Council explained the concept of a bribe as follows: "A bribe is a gift accepted by a fiduciary as an inducement to him to betray his trust. A secret benefit, which may or may not constitute a bribe, is a benefit which the fiduciary derives from trust property or obtains from knowledge which he acquires in the course of acting as a fiduciary. A fiduciary is not always accountable for a secret benefit but is undoubtedly accountable for a secret benefit which consists of a bribe."
+In Aequitas versus AEFC <case> ("Aequitas") at [370], Austin J identified the "ingredients" of a bribe as follows: "(a) a donor makes a gift to a fiduciary;  the gift relates to the fiduciary's position, in the sense that it is an inducement to the fiduciary to use his or her position in a particular way; and  the gift is secret between the donor and the fiduciary, in the sense that the principal is not aware of it."
+Later in Aequitas at [380], Austin J identified the remedies available, at least at common law, against the recipient of a bribe as including the recovery of the amount of the bribe in an action for money had and received and, in the alternative and at the election of the plaintiff, "damages for fraud to recover the amount of the actual loss sustained in consequence of entering into the transaction in respect of which the bribe was given." The election between these remedies need not be made until the time at which judgment is to be entered (see T Mahesan s/o Thambiah versus The Malaysia Government Officers' Co-operative Housing Society Ltd (Malaysia) [[1979] AC 374] which perhaps suggested (at [190]) a less restrictive approach should be adopted in determining what constitutes a bribe compared to that stated by Austin J in Aequitas. In light of the compelling nature of the evidence relied upon by the Trustees in this case it is not necessary to address whether there is any difference in the authorities as to what is meant by a bribe. On any view, the ingredients of a bribe have been established in this case.
+
+Mr Doepel's Employment
+The Trustees read an affidavit of Mr Gregory Whitby, the Executive Director of Schools of the Catholic Education Office for the Diocese of Parramatta. Mr Whitby explained that the Catholic Education Office is a "department" of the plaintiff, that is, the Trustees. It seems that the Catholic Education Office effectively administers the schools within the Diocese on behalf of the Trustees. Accordingly, I will refer to the plaintiff as the Trustees or the "CEOP" interchangeably.
+Mr Whitby explained that the CEOP runs 56 primary and 22 secondary schools in western Sydney as well as four early learning centres. It employs over 6,000 staff.
+Mr Whitby stated that Mr Doepel commenced employment on 1 May 2008 as the Chief Technology Officer. He described Mr Doepel as the "leading technology expert within the Catholic Education Office" and that he was "responsible for all technology infrastructures for Catholic schools in the Diocese of Parramatta." Mr Whitby explained that this included managing the purchasing of computing and communications hardware and software and associated services from third party suppliers. He had his own authority to approve expenditure for such matters up to a limit of $200,000 from July 2008 to February 2010 and a limit of $20,000 from March 2010 to 2013. As will become clear, even though that was the limit of his authority to approve expenditure, he had the capacity to exercise influence over the outlay of a far greater amount of expenditure than that.
+Mr Whitby noted that between 2008 and 2013 the CEOP acquired services from EDC and InTouch and that Mr Doepel made decisions about acquisitions from those suppliers and approved invoices from those suppliers. Mr Whitby said that Mr Doepel resigned in February 2014. He emphatically states that at no time before late November 2013 was he aware that Mr Doepel received payments or benefits from any of EDC, InTouch, Mr Lowy or Mr Tannous.
+
+EDC
+Although the period of time during which payments were received by Mr Doepel from EDC and InTouch overlap, I will deal with each separately. The Trustees read an affidavit from Henry Benjamin sworn 19 December 2013. Mr Benjamin worked as an IT networking engineer for EDC between 2007 and 2013. He stated that when he commenced the CEOP was already a substantial client of EDC. Mr Benjamin said that he first met Mr Doepel in 2009. He said after he met him there were weekly project meetings between EDC staff and CEOP staff. After one of those meetings Mr Doepel called him aside and said to him words to the effect, "I'm about to spend a lot of money with Andrew. Do you think Andrew would give me $300,000 in cash?" The reference to "Andrew" in this statement is to Mr Lowy. Mr Benjamin said he was shocked by this statement but eventually said he would pass on Mr Doepel's request to Mr Lowy. Mr Benjamin said that he spoke to Mr Lowy that evening. He described the conversation that ensued as follows: "[BENJAMIN]: Matthew pulled me aside today and said he wants you to give him $300,000 in cash. 
+LOWY: What does he want that for?  [BENJAMIN]: He's about to spend a bundle with us. 
+LOWY: Thanks, don't tell anyone. I'll look after it."
+The Trustees obtained and tendered seven invoices in the name of the business, MGD Strategic Business Solutions ("MGD"). MGD was registered as a business name by Mr Doepel on 24 March 1997. These invoices bore dates between 3 December 2008 and 21 December 2009 and totalled $750,200, including GST. In his Commercial List response Mr Doepel admitted that he rendered the invoices "and received certain moneys" for those invoices.
+In his affidavit Mr Benjamin stated he obtained two of these invoices and a corresponding purchase order which he copied from EDC's records. Mr Benjamin stated that to the best of his knowledge, "MGD did not provide any services to EDC." He also identified one entry in an invoice from MGD which referred to EDC using backup servers. Mr Benjamin stated that EDC did not use any external backup servers. There are a number of other indications that these invoices were a ruse for payments to be made to Mr Doepel. For example, one of the invoices bears the same number as a false invoice that was sent by MGD to InTouch.
+In his affidavit Mr Benjamin also described instances of false charging by EDC to the CEOP. He described one occasion when EDC invoiced the CEOP for three "Cisco Nexus 7000 Series switches" but only delivered two and retained one for itself which it later sold. Mr Benjamin also recalled Mr Lowy telling him that he had arranged for the equipment purchased by the CEOP to be installed at Mr Doepel's home. Mr Benjamin recounted attending meetings with staff engaged by the CEOP during which they complained about the prices charged by the EDC. He recalled Mr Doepel intervened to state that it was he who was responsible for commercial decisions and directing the staff to confine themselves to technical matters.
+As I will explain, the analysis of a forensic accountant retained by the Trustees, Mr Fehon, demonstrates that coinciding with the appointment of Mr Doepel EDC embarked upon large scale overcharging of CEOP.
+In his affidavit Mr Benjamin recounted a conversation with Mr Lowy in 2012 in which Mr Lowy said, "I'm not doing him any more favours", referring to Mr Doepel. Finally, Mr Benjamin also recounted overhearing a conversation between Mr Doepel and Mr Lowy around 2012 in which Mr Doepel complained about Mr Benjamin advising another member of staff of the CEOP that Mr Doepel had demanded moneys from EDC. There is no suggestion that during that conversation Mr Doepel denied having done so.
+I accept Mr Benjamin's evidence. In making findings as to what that evidence established I am mindful of the seriousness of the allegations that have been raised against Mr Doepel by the Trustees (see Briginshaw versus Briginshaw (1938) 60 CLR 396; [Evidence Act 1995](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/); [s 140).](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s140.html) Nevertheless, based on Mr Benjamin's evidence, the admissions in the pleadings, the documents that have been tendered and the report of Mr Fehon which I will describe, I am satisfied that Mr Doepel solicited and received payments totalling not less than $750,200 from EDC and that he did so with the intention of using his position with the CEOP to the advantage of EDC.
+In relation to the elements of a bribe set out by Austin J in Aequitas, I am firstly satisfied that the payments to Mr Doepel by EDC were "a gift" in the relevant sense, in that Mr Doepel did not provide any goods or services for those payments. Second, I am also satisfied that, given the seniority of his position, especially the extent of his capacity to affect purchasing decisions made by the CEOP, that Mr Doepel was a fiduciary. Third, based on Mr Benjamin's evidence and the surrounding circumstances, including the manner in which payments to Mr Doepel were disguised, I am satisfied that the payments made to Mr Doepel were to use his position in a manner favourable to EDC. In particular, I am satisfied that it was an inducement to have Mr Doepel prefer EDC as a supplier and to do so on preferable terms, especially as to price. Fourth, having regard to Mr Whitby's evidence and the manner in which the payments were disguised, I am satisfied that Mr Doepel's principal, that is, the Trustees, including the other staff of the CEOP, were not aware of the payments.
+It follows that the Trustees succeed against Mr Doepel in respect of the payments made to him by EDC. It also follows that the Trustees can elect between seeking recovery of the amounts paid to or on behalf of Mr Doepel as moneys had and received and recovery of the amounts sustained "in consequence of entering into the transaction in respect of which the bribe was given" (see [10]). The former amount is $750,200 with interest. Nevertheless, the Trustees set upon the difficult task of proving their loss consequent upon the payment of bribes to Mr Doepel and, in particular, that that amount was in excess of $750,200. They succeeded.
+To achieve that end the Trustees tendered Mr Fehon's report. Mr Fehon identified three components of the alleged loss suffered by the Trustees on account of Mr Doepel's actions in receiving bribes, namely, overcharging by EDC to the CEOP, the charging by EDC for goods and services that were not provided and EDC reselling equipment to the CEOP that it had already purchased. I will deal with these in turn.
+In assessing whether there was overcharging and, if so, the level, Mr Fehon was given access to the records of the CEOP's purchase of goods and services from EDC over a ten year period from 1 July 2003 to 30 June 2013. He was also given access to the MYOB records of EDC for that period. Fortuitously, those MYOB records include records concerning EDC's sales of goods and services to four other catholic dioceses. Not surprisingly, Mr Fehon utilised those other dioceses as comparable customers to the CEOP. Mr Fehon then performed two analyses designed to establish whether there was overcharging and, if so, what that level of overcharging was. One of the analyses compared the profit margin achieved by EDC from its sales each financial year from sales to CEOP and compared them to the average profit margin achieved by EDC in each financial year to the other diocese (a "Margin Analysis").
+The second method involved a comparison of the average price paid to EDC by the CEOP for products from the supplier Cisco as a percentage of Cisco's recommended retail price compared with the average such percentage paid by the other dioceses during the same period (the "RRP analysis").
+The starting point in describing the outcome of this analysis is to note the percentage of IT expenditure of CEOP that was allocated to EDC in the period 2008 to 2013. This was set out in table 1 of Mr Fehon's report.
+  ---|---|---|---|---|---  
+Total ICT Expenditure ,580,560 ,966,099 ,131,368 ,079,883 ,859,629 ,937,033 ,554,572  
+EDC ,854,376 ,359,856 ,376,197 ,366,392 ,120,423 ,953 ,107,197  (as % total ICT expenditure) 19.4% .8% .9% .3% .1% .2% .2% 
+The outcome of the margin analysis is illustrated by the following table taken from Mr Fehon's report: 
+FY04 
+FY05 
+FY06 
+FY07 
+FY08 
+FY09 
+FY10 
+FY11 
+FY12 
+FY13  ---|---|---|---|---|---|---|---|---  
+CEOP %
+ %
+ %
+ %
+ %
+ %
+ %
+ %
+ %
+ %  
+Other Dioceses %
+ %
+ %
+ %
+ %
+ %
+ %
+ %
+ %
+ %  
+Other Dioceses five year average %
+ %
+ %
+ %
+ %  
+Difference (CEOP less other Other Dioceses) %
+ %
+ %
+ %
+ % 
+It is evident that there was a dramatic change in the average profit margin achieved by EDC on its sales to the CEOP between financial year 2008 and 2009. Until financial year 2009 the margin that EDC derived from its sales to the CEOP was generally less than the other dioceses. However, from financial year 2009 it was dramatically more. Of course Mr Doepel only commenced work on 1 May 2008, being just two months prior to the end of financial year 2008. He commenced receiving bribes around December 2008, which was halfway through the financial year 2009.
+In this respect the results of the RRP analysis was not relevantly different. To describe them it is best to set out the following table from Mr Fehon's report: 
+FY04 
+FY05 
+FY06 
+FY07 
+FY08 
+FY09 
+FY10 
+FY11 
+FY12 
+FY13  ---|---|---|---|---|---|---|---|---  
+CEOP %
+ %
+ %
+ %
+ %
+ %
+ %
+ %
+ %
+ %  
+Other Dioceses %
+ %
+ %
+ %
+ %
+ %
+ %
+ %
+ %
+ %  
+Other Dioceses five year average %
+ %
+ %
+ %
+ %  
+Difference (CEOP) less other Other Dioceses) %
+ %
+ %
+ %
+ (17%) 
+The results of this analysis are completely consistent with the margin analysis, except for financial year 2013. However, any significance of the figures for that year dissipate when regard is had to the very small level of expenditure outlaid by the CEOP on EDC during that period and the evidence that by that time Mr Doepel was directing more work to InTouch, as he apparently had a falling out with Mr Lowy.
+When this material is considered with the other evidence and the finding that bribes were paid, in my view the inference is overwhelming that, having bribed Mr Doepel, EDC embarked upon a program of systematically overcharging the CEOP. Further, the inference is open that having been bribed, Mr Doepel knew of the overcharging and deliberately refrained from calling EDC to account for having done so. I draw both inferences. It follows that I am satisfied that Mr Doepel's receipt of bribes caused loss or damage to the Trustees in the form of overcharging.
+In his report, Mr Fehon uses each method to quantify an amount of the overcharging for the financial years 2009 to 2013. He did so by adopting a comparison based on the five year average of the margin and the mark-up on recommended retail price that EDC charged to the other four dioceses. I accept the reasonableness of that approach. It is in some respects conservative, in that only one of the other four dioceses appears to be as large or perhaps larger than the Parramatta diocese. Generally the larger the diocese, the lower the margin that one would expect the supplier to make.
+Using the margin analysis, Mr Fehon calculated the Trustees' loss as $7,688,036. Using the RRP analysis, Mr Fehon calculated the loss as $5,073,936. I will adopt a figure slightly below the midpoint of those two amounts, being $6,250,000. In relation to interest, it follows from the tables extracted above that over half of this loss was occasioned by the end of the financial year 2010. Subject to the matter discussed below concerning the [Bankruptcy Act](http://www.austlii.edu.au/au/legis/cth/consolact/ba1966142/), interest should be calculated on the sum of $6,250,000 from 1 July 2010.
+In his report, Mr Fehon also addressed three instances where EDC charged the Trustees for goods and services that were never provided. The first of these was the Cisco device referred to by Mr Benjamin in his affidavit, which was said not to have been delivered in 2009, although paid for. Based upon Mr Benjamin's affidavit and an email exchange between Mr Lowy and Mr Benjamin on 27 September 2011, it appears that Mr Doepel was not aware that the third Cisco device had not been provided, although it had been paid for. Nevertheless, Mr Doepel approved the purchase order relating to the three devices and later received an email on 2 March 2010 indicating that only two such devices were located within buildings owned or controlled by the diocese. Mr Lawrance contended that the Court could infer that Mr Doepel's receipt of bribes caused him to not scrutinise EDC's conduct and that, absent any such bribe, an experienced IT professional such as him would have determined that EDC had not delivered the third Cisco device. I accept that inferences to that effect are reasonably open. I draw them. The amount that was overcharged to the CEOP was $85,133, which was significant. Absent any bribe, I expect Mr Doepel would have made a basic check to verify that a device costing that amount had been delivered and would have certainly been alert to the number of such Cisco devices that were within the diocese.
+The second instance of overcharging of items that were not delivered occurred in November 2009. The emails and invoices indicate that Mr Doepel caused CEOP to order and pay for two devices totalling $18,229.96 and then arranged for them to be provided to Mr Tannous. I am satisfied that he did so and that this was a result of Mr Doepel being bribed.
+The third instance occurred in 2011 when EDC invoiced the CEOP $11,250 for effecting a data migration when the service was in fact provided by another supplier who was also paid. This appears to have come about through EDC adopting the practice of invoicing for the work before it was undertaken. For some reason, perhaps due to quality of service, they were not able to complete the work and it was performed by another supplier. It does not appear from Mr Fehon's report that Mr Doepel approved the payment of EDC's invoice. Nevertheless, he sets out material demonstrating that Mr Doepel was aware that EDC's invoice had been issued. It was sent and resent to him in August 2012. Further, Mr Doepel later approved payment of the invoice from the other supplier. The inference is open, and I draw it, that if Mr Doepel was performing his duties honestly he would have intervened at that point to ensure that EDC was not paid. I infer that he did so because he was bribed and he felt obligated towards the EDC not to scrutinise their conduct.
+The third area of loss identified by Mr Fehon concerned an instance when EDC resold to the CEOP equipment that it had bought previously. In his report, Mr Fehon extracts a series of emails between Mr Benjamin and Mr Lowy in December 2010 in which they were discussing removing certain "switches" from a CEOP data centre and then reselling them back to the CEOP for use in various schools in the diocese. This occurred around the time that the CEOP was changing the site of its data centre. The material extracted in support of the allegation does not reveal that Mr Doepel was a party to those email exchanges. Further, Mr Fehon identifies the persons involved in the process of approving payment for the EDC invoices that were rendered when the switches were resold back to the CEOP. Mr Doepel is not one of the persons listed.
+Although I accept that EDC was involved in the bribery of Mr Doepel, I am not able to infer that, but for those bribes, this particular loss would not have been occasioned. It follows that I reject this particular aspect of the Trustees' claim.
+The result is that the Trustees have established an amount of loss and damage caused by Mr Doepel's receipt of bribes that well exceeds the amount received byhim. The recovery of that loss and damage is by far the superior remedy, and I understand the Trustees elect to take that amount. It follows from the earlier finding that to the amount of $6,250,000 there will be added a further amount of $114,883 in respect of equipment and services that were invoiced by EDC but never paid. As stated, interest should be calculated on that amount from 1 July 2010.
+At this point four further matters should be noted.
+First, it was accepted by Mr Lawrance that there should be a deduction from this amount of $75,000 on account of a settlement reached with Mr Lowy.
+Second, it was also accepted that there should be a reduction from this amount of $43,712.23 received from Mr Doepel's bankrupt estate.
+Third, on the request of Mr Doepel's Trustee in Bankruptcy, Mr Lawrance drew my attention to [s 82(3B)](http://www.austlii.edu.au/au/legis/cth/consolact/ba1966142/s82.html) of the [Bankruptcy Act](http://www.austlii.edu.au/au/legis/cth/consolact/ba1966142/), which provides: "A debt is not provable in a bankruptcy in so far as the debt consists of interest accruing, in respect of a period commencing on or after the date of the bankruptcy, on a debt that is provable in the bankruptcy."
+This provision does not require that the calculation of interest on the judgment sum cease on the date of Mr Doepel's bankruptcy, namely 23 December 2014. Instead, its effect is that the Trustees will not be able to prove in the bankruptcy so much of any judgment sum that represents interest that accrues after that date. Whether the Trustees will seek to do so or maintain that the judgment debt stands outside the bankruptcy is a matter for them and Mr Doepel's Trustee in Bankruptcy.
+Fourth, in paragraph 62 of his Commercial List Response, Mr Doepel pleaded that any damages awarded against him should be reduced on account of the Trustees' contributory negligence pursuant to <case> of the [Law Reform (Miscellaneous Provisions) Act 1946](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/). Just because Mr Doepel has not appeared at the hearing does not mean that any of the defences which are raised by his pleading should not be addressed (see Banque Commerciale SA versus Akhill Holdings Ltd <case>; [(1990) 169 CLR 271).] Nevertheless, this aspect of his defence has no substance. The Trustees' cause of action does not answer the definition of a "wrong" in <case> of the [Law Reform (Miscellaneous Provisions) Act](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/) with the result that <case> has no operation.
+Further, in paragraph 63 of his Commercial List response, Mr Doepel contended that the Trustees' claim is an "apportionable claim" within the meaning of [s 34(1)](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/s34.html) of the [Civil Liability Act 2002](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/) . Consequently, he alleges the damages awarded against him should be reduced, having regard to the role played by the supposedly concurrent wrongdoers, namely Mr Lowy and EDC.
+This contention also has no substance. Irrespective of whether one adopts the approach stated by Macfarlan JA in Perpetual Trustee Company Ltd versus CTC Group Pty Ltd (No 2) <case> at <case> or the approach stated by Barrett JA in the same case at [42], the Trustees' claim does not arise from any failure to take reasonable care, such that [Pt 4](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/index.html#p4) of the [Civil Liability Act](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/) which contains the proportionate liability provisions is not engaged [(s 34(1)(b)).](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/s34.html) Further, in any event, none of the proportionate liability provisions apply, given the findings which are to the effect that Mr Doepel fraudulently caused the economic loss which the Trustees seek to recover [(s 34A(1)(b)).](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/s34a.html) Accordingly, this aspect of Mr Doepel's defence must be rejected.
+
+InTouch
+As noted, InTouch was also a supplier of information technology goods and services to the CEOP. In its Commercial List statement the Trustees pleaded that between April 2009 and March 2010 MGD invoiced InTouch for an amount totalling $276,200 spread across five invoices and that thereafter InTouch made 36 monthly cash payments to Mr Doepel of $10,000 each. In his Commercial List response Mr Doepel agreed that the five invoices were rendered and paid but he did not admit the balance of the pleading. In the end result, Mr Lawrance accepted that his client could only demonstrate that 29 cash payments were made, such that the total amount of bribes alleged by the Trustees that had been received by Mr Doepel from InTouch was $566,200.
+To prove its case in respect of the InTouch payments the Trustees subpoenaed the principal of InTouch, Mr Tannous. After the Court determined that Mr Tannous would be issued with a certificate under [s 128(5)](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s128.html) of the [Evidence Act 1995](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) , Mr Tannous was directed to answer questions, notwithstanding his objection that his answers might incriminate himself. After he was so directed, Mr Tannous adopted an outline of evidence, the effect of which I will now summarise.
+Mr Tannous said he first met Mr Doepel in or around 2008. By March 2009 InTouch was a supplier to the CEOP. Mr Tannous said he attended a meeting with Mr Doepel around that time at which they discussed the cost of purchasing new servers. During that meeting Mr Doepel said words including, "I've got a budget of [dollar figure mentioned] and I want to make sure I spend it. You charge that and we'll go half/half on the difference." Mr Tannous said he agreed. Mr Tannous said that he also recalled Mr Doepel stating he wanted to buy a new jet ski. Mr Doepel told Mr Tannous to communicate with him on this topic at his private "MGD email address" and not at his email address at the CEOP.
+After this, Mr Doepel issued five invoices to InTouch in the name of MGD between April 2009 and March 2010. With the first two invoices Mr Tannous himself issued an invoice to MGD representing his "share" of the proceeds. This did not occur with the latter three invoices. Instead, with those Mr Tannous said that at Mr Doepel's suggestion he, that is, Mr Tannous, simply caused InTouch to issue an invoice to CEOP for an inflated amount.
+Throughout his outline Mr Tannous repeatedly stated that no services were in fact provided by Mr Doepel or MGD. He accepted that the invoices were simply a ruse by which a bribe was passed to Mr Doepel. The invoices issued by MGD contained entries describing services purportedly provided. Mr Tannous confirmed that those entries were fictitious. His evidence in this regard is corroborated by a number of email exchanges between himself and Mr Doepel sent to Mr Doepel at his MGD email address.
+Mr Tannous stated that by around late or early 2011 he protested to Mr Doepel about paying invoices. Mr Tannous recounted a conversation with Mr Doepel as follows (CB 85 at [68]): "[TANNOUS]: I'm not comfortable in paying invoices. 
+DOEPEL: Why?  [TANNOUS]: Whatever we've done, there's a record of it 
+DOEPEL: Well, I need to get my money. I want $100,000 a year. You can pay me in cash.  [TANNOUS]: I can't pay you $100,000 cash. 
+DOEPEL: Then you can pay me $10,000 a month."
+Mr Tannous said that thereafter he paid Mr Doepel $10,000 a month cash at face-to-face meetings. He said that he made the payments between April 2011 and November 2013, with the exception of January 2012, December 2012 and January 2013. All up this amounts to 29 payments.
+I accept Mr Tannous' evidence. It was given against his interests and was supported by emails and other documents.
+Notwithstanding the admonition in Briginshaw, I am satisfied that the elements of the bribe stated by Austin J in Aequitas are made out in respect of these payments. As I have already found, Mr Doepel was a fiduciary. The payments to him via MGD were clearly a gift, in that no services were provided in exchange for the payments. The inference is overwhelming that the payments were made as an inducement to Mr Doepel to use his position in a manner favourable to InTouch. Based on Mr Whitby's evidence and the method of disguising the payments, I am satisfied the payments were not known to the Trustees.
+The only remedy that the Trustees seek in respect of these payments is that Mr Doepel account for them on a moneys had and received basis. Interest is also sought, but only from the date of the last payment. It follows from what I have already found that these remedies will be granted. The observation I have made in respect of [s 82(3B)](http://www.austlii.edu.au/au/legis/cth/consolact/ba1966142/s82.html) of the [Bankruptcy Act](http://www.austlii.edu.au/au/legis/cth/consolact/ba1966142/) in respect of the EDC payments apply with equal force to this aspect of the Trustees' claim. Further, for the reasons given earlier, the pleaded defences that rely on contributory negligence and proportionate liability have no foundation.
+Quite properly, Mr Lawrance drew the Court's attention to a settlement that had been reached with InTouch pursuant to which InTouch and Mr Tannous agreed to pay the Trustees $200,000. Mr Lawrance nevertheless submitted that this amount should not be set off from the amount awarded against Mr Doepel. Mr Lawrance submitted that it could not be concluded that the $200,000 payment was in some way referable to an accounting for the bribes that were paid but was at least equally referable to such claim that the Trustees may have had against InTouch and Mr Tannous for the loss they suffered as a result of the bribes paid to Mr Doepel.
+Attached to the relevant Deed of Settlement was a draft amended Commercial List statement which was never filed. It made various claims against Mr Tannous and InTouch which included both the seeking of an account for bribes that were received by Mr Tannous and paid to MGD, as well as the recovery of the loss suffered by reason of the bribes that were paid. Nevertheless, in circumstances where Mr Tannous agreed that following the payment of the second invoice he inflated the prices that were charged to the CEOP, in my view it is clear that there is a basis for concluding that the settlement sum was referable to the losses that might have been suffered by the Trustees as a result of the bribes being paid. In those circumstances I am not satisfied that the settlement sum paid by InTouch and Mr Tannous is sufficiently connected to the basis upon which Mr Doepel has been required to account that set-off should occur.
+
+Conclusion
+It follows that there will be judgment entered in favour of the Trustees against Mr Doepel. At this point I will simply order the Trustees to prepare calculations of the relevant judgment sum. For the sake of clarity, I will set out the components of that judgment sum that need to be calculated.
+The first component is the sum of $6,364,883 with interest thereon from 1 July 2010, which represents the loss occasioned by Mr Doepel receiving bribes from EDC.
+The second component is the sum of $566,200 with interest thereon from 30 November 2013 representing the amount of bribes received by Mr Doepel from or via InTouch.
+The third component is a deduction of the amount of $75,000 being the amount realised from the settlement with Mr Lowy and EDC.
+The fourth component is a deduction of a sum of $43,712.23 which was received from Mr Doepel's bankrupt estate.
+I have not accounted for interest on the deductions because that is already addressed in the first two components which adopt an approach to interest favourable to Mr Doepel.
+The Court orders that: 
+The plaintiffs prepare calculations of a judgment sum in accordance with these reasons.
+
+The proceedings stand over to 10am on 4 November 2016 for the entry of judgment.
+ * * * 

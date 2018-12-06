@@ -1,0 +1,487 @@
+
+
+R versus De Silva [2011] NSWSC 243 (31 March 2011) # [![\[AustLII\]](243.1.gif)](http://www.austlii.edu.au/) Supreme Court of New
+South Wales Decisions [[Index](index.html)] [[Search](/cgi-bin/sinoform.pl)] [[Download](243.rtf)] [[Help](/help/cases-help.html)] * * * 
+R versus De Silva [2011] NSWSC 243 (31 March 2011) 
+Last Updated: 14 June 2011 
+Supreme Court 
+New South Wales  
+Case Title: 
+R versus De Silva  
+Medium Neutral Citation: <case>  
+Hearing Date(s): February 2011, 16 March 2011  
+Decision Date: March 2011  
+Jurisdiction: 
+Before: 
+Buddin J  
+Decision: 
+Sentenced to a term of imprisonment of 2 years 6 months to commence on 16
+January 2011 and to expire on 15 July 2013. Direct that the offender be released on 15 July 2012 at the expiration of 18 months of that sentence on a recognisance that he be of good behaviour during the balance of the term upon giving security in the sum of $1000 without surety.  
+Catchwords: 
+CRIMINAL LAW - sentencing - insider trading - "true insider" - plea of guilty - other favourable subjective features  
+Legislation Cited: [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth)  [Crimes Act 1914](http://www.austlii.edu.au/au/legis/cth/consolact/ca191482/) 
+Cases Cited: 
+Cameron versus The Queen [(2002) 209 CLR 339] 
+DPP versus O'Reilly <case> 
+Hili and Jones versus R <case>; <case> 
+R versus Doff [(2005) 54 ACSR 200]; <case> 
+DPP versus El Karhani [(1990) 21 NSWLR 370] 
+R versus El Rashid, NSWCCA unreported, 7 April 1995 
+R versus Ferrer-Esis <case>; <case> 
+R versus Hannes (2002) 173 FLR 
+R versus Hartman <case> 
+R versus McQuoid <case>; [[2009] 4 All ER 388] 
+R versus Morgan [(1993) 70 A Crim R 368] 
+R versus Penalosa-Munoz <case>; <case>; <case>; <case>; [(1991) 173 CLR 48]  
+Texts Cited: 
+Category: 
+Sentence  
+Parties: 
+Regina (Crown) 
+Oswyn Indra De Silva (Offender)  
+Representation  - Counsel: 
+Counsel: 
+P McGuire/ B Hatfield (Crown) 
+G Bellew S/C (Offender)  - Solicitors: 
+Solicitors: 
+Commonwealth Director of Public Prosecutions (Crown) 
+Armstrong Legal (Offender)  
+File number(s): /313774  
+Publication Restriction: 
+Judgment 
+Oswyn Indra De Silva (the offender) pleaded guilty to an indictment which alleged that:  
+Between about 20 December 2006 and about 26 April 2007 at Sydney in the State of New South Wales, [he] acquired relevant Division 3 financial products namely securities, or contracts for difference ("CFDs") in respect of securities ("the financial products") whilst in possession of inside information concerning those financial products that was not generally available, being information which if it were generally available a reasonable person would expect it to have a material effect on the price or value of the financial products, and being information which [he] knew or ought reasonably to have known: was not generally available, and if it were generally available, a reasonable person would expect it to have a material effect on the price or value of the financial products.
+The offence to which the offender pleaded guilty is commonly referred to as "insider trading". At the relevant time the maximum penalty for the offence was imprisonment for 5 years and/or a fine of $220,000. [The maximum penalty has now been increased, with effect from 13 December 2010, to imprisonment for 10 years and/or a fine of $495,000 (or three times the value of the benefits obtained from the offence)].  
+Facts relating to the offence 
+An Agreed Statement of Facts was admitted into evidence. I have relied heavily upon its contents in describing the factual background to the offence. On 21 March 2005 the offender commenced employment as a Portfolio Manager with the Macquarie Funds Management Group ("FMG") of the Macquarie Group of Companies ("Macquarie Group"). His position was at the level of Associate Director and was based in Sydney. He held this position until August 2007 at which time he commenced employment in the Macquarie Group's London office where he worked until 30 September 2008.  
+FMG was Macquarie Group's principal funds management business. This business was conducted predominantly through Macquarie Investments Management Limited ("MIML"), a corporation formed in Australia which held an Australian Financial Services Licence that was issued pursuant to the [Corporations Act 2001](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) . It acted as:  the responsible entity for a number of Australian managed investment schemes which had predominantly Australian investors ("Australian Funds"); and the investment manager of a number of foreign funds which had predominantly foreign investors ("Foreign Funds")  (together "the Funds").
+FMG's business was structured into divisions based around asset classes. One of the divisions was the Real Estate Securities Division ("RES"). The RES was responsible for investment decisions for any investments in real estate related securities made by any of the Funds. The RES, in turn, structured its business into four different geographical locations: namely the United States, Europe, Asia and Australia.  
+The offender worked within RES as the Portfolio Manager responsible for Asia. In that capacity the offender had sole responsibility for:  determining which real estate related securities in the Asia region were appropriate for MIML to invest in on behalf of the Funds; determining the model portfolio which involved setting the relative amounts of each Fund's investment that should be invested in each of the securities; and determining the actual trade orders that should be placed, including the quantity and price at which securities should be traded; and  monitoring and reviewing the investments and cash holdings of funds invested in the Asian real estate securities sector.
+RES maintained an electronic spreadsheet, referred to as the "Trade Calculator", into which the following information was entered on a daily basis:  any changes to the securities included in the model portfolio as determined by the offender; any changes to the relative weightings between the securities in the model portfolio as determined by the offender; details of any trades in the securities by MIML on behalf of the Funds; any changes to the price of the securities; and any additional money received from the Funds for investment in Asian real estate securities.
+The Trade Calculator showed the difference between the Funds' actual holdings and the model portfolio, and generated the trade orders that needed to be placed by MIML on the Funds' behalf in order to align the Funds' holdings to the model portfolio. The offender had regular access throughout his working day to the Trade Calculator in his capacity as Portfolio Manager. The offender was also primarily responsible for issuing instructions to MIML's two main brokers who were located in Hong Kong in relation to the trade orders which were required in order to align each of the Fund's investments with the model portfolio. Execution of the trade orders resulted in securities being bought and sold by MIML as the responsible entity and investment manager on behalf of the Funds.  
+Aligning the Funds' investments to the model portfolio often involved acquiring large volumes of particular securities. That was particularly the case in the period between December 2006 and April 2007. During that period MIML was the investment manager for two Korean funds, the Korean Global Property Securities Fund and the Korean Asian Real Estate Securities Fund (which in combination constituted "the Korean Funds"), which were growing rapidly. The result was that the RES received very large inflows of cash for investment every couple of days. The amounts involved were regularly in the order of hundreds of millions of US dollars per week.  
+During this period most of the trading by MIML for which the offender was responsible, was undertaken on behalf of Foreign Funds. By virtue of his position with FMG, the offender routinely gained advance knowledge of proposed trades by MIML on the Funds' behalf in Asia. This included information concerning the proposed acquisitions of large volumes of particular securities on the Singapore Stock Exchange ("SGX") during the relevant period. From his knowledge and experience in relation to financial markets, the offender was aware, at all relevant times, that acquisitions of large volumes of particular securities could have the effect of increasing the market price of those securities within a short time frame.  
+The offender was aware of the laws prohibiting insider trading and of Macquarie Group's policies which were designed to prevent insider trading. That awareness extended to the type of insider trading commonly known as "front running". On 11 February 2005 the offender signed an employment agreement with the Macquarie Group in which he stated that "I hereby acknowledge, understand and accept the terms of employment as outlined in this Agreement and related documents which have been provided to me". The agreement included the following paragraphs:  
+Your personal interests must not act in conflict with Employer's best interests (for example, an employee's dealing on personal account in equities and equity derivatives or trading in securities may place them in a position of conflict of interest). This provision is more fully outlined in the
+Employer's policy known as Personal Dealing ...
+ 
+You must observe the provisions of the relevant legislation relating to securities trading, including insider trading, and will not disclose or use non-public price sensitive information obtained in the course of, or arising out of, your employment to your own personal advantage or that of friends, relatives or other associates. This provision is more fully outlined in the
+Employer's policy known as Chinese Walls.
+The employment agreement also required the offender to "comply with all employer policies, procedures and guidelines". The offender also signed a separate one-page document entitled "Acknowledgment and Declaration of Secrecy" in which he declared that: 
+I will observe the provisions of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) and will not use any non public price sensitive information obtained through my employment with the [Macquarie] Group to personal advantage.
+ 
+I have received a copy of the following documents and policies: 
+Personal Dealing Policy; ...
+
+Macquarie Group Chinese Wall Procedures Policy Statement ...
+ 
+I certify that I have read the above documents and I understand the contents.
+I agree to adhere to the requirements of the documents ...
+ 
+I acknowledge that I have had an opportunity to discuss the content of these documents and any other documents referred to herein with a representative of the [Macquarie] Group.
+The Personal Dealing policy set out the following four principles:  
+An employee must conduct his or her personal investment activity lawfully and in a manner that avoids a conflict of interest; 
+All personal dealing must be conducted through an approved "Employee
+Related Account"; 
+All personal dealing in certain financial products (including listed equities) must be precleared with RMD [Risk Management Division] Compliance, and may only occur if clearance is given; and 
+All personal dealing positions in a financial product must be held for a minimum of 14 calendar days after the most recent acquisition.
+It also stated that:  
+Employees may be subject to additional divisional and/or regional personal dealing policies.
+The Personal Dealing policy also stated that it applied to "all types of financial product", including "ordinary securities" (also known as "equities") and "all types of derivative". It specifically identified "contracts for differences" (CFDs) as an example of the latter. CFDs are "derivatives" within the meaning of [sections 761D](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s761d.html) and [1042A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1042a.html) of the [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/). A CFD is an agreement between an investor and a CFD trader which allows the investor to speculate on future price movements in an underlying security without acquiring ownership of the security. The value of a CFD is determined by the price of the underlying security. Accordingly, rational investors will "buy" a CFD when they expect the price of the underlying security to increase in the future and "sell" a CFD if they expect the price to decrease. CFD trading can multiply gains or losses arising from share price movements in comparison to trading in the underlying security, because CFD investors are required to pay only a fraction of the value of the underlying security but they obtain the full benefit or detriment of changes in the price of the security. Accordingly, for the same amount of money, CFD investors can purchase a larger number of CFDs than underlying securities and can make relatively large profits or losses from relatively small changes in price.  
+The Personal Dealing policy also specified that:  [I]f an employee possesses non-public price-sensitive information about or affecting a financial product, or the issuer of any financial product, that employee is prohibited from buying or selling such financial product ...
+ 
+Employees are prohibited from engaging in "front running", which means that employees may not buy or sell financial products so as to benefit from their knowledge of the trading positions, plans or strategies of Macquarie, an associated entity or fund  
+The policy set out the following restrictions in relation to investment accounts, including trading accounts, held by employees:  
+All personal dealing conducted by employees and their associates must be through an "Employee Related Account".
+ 
+For financial products traded in Australia and New Zealand, transactions are only to be conducted through Employee Related Accounts held with Macquarie.
+ 
+For financial products traded in other locations, transactions are to be conducted through Employee Related Accounts held with brokers approved by RMD
+Compliance. Such non-Macquarie accounts are to be opened (or maintained) only with the written approval of RMD Compliance, and employees are responsible for ensuring that copies of all contract notes or confirmations are sent to RMD
+Compliance ...
+ 
+All non-Macquarie investment accounts must be disclosed to RMD Compliance, with the exception of cash deposit accounts (including CMT accounts) and managed fund accounts .
+The Chinese Walls policy, to which I referred earlier, included a detailed summary of the prohibitions and penalties relating to insider trading that are contained in the [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/).  
+In addition to those policies, the offender was also subject to the FMG Staff Trading Policy , the covering page of which contained the following information:  
+In addition to [the Macquarie Group Policy on Personal Dealing], FMG has additional staff trading restrictions because its staff are either trading client funds in financial markets or have access to this trading information ...
+ 
+The underlying principle for the FMG policy is to avoid "front-running". This refers to a situation where a staff member takes advantage of information about FMG's planned trading activities to gain financial advantage. Where staff trading situations arise that are not specifically covered by the groupwide or FMG specific policies, the staff member should seek approval from the head of their division and from FMG's Risk Management team.
+The FMG Staff Trading Policy provided, amongst other things, that all trading in securities or derivatives by FMG staff required the prior written approval of the Risk Management Division. Such trading had to be conducted through Macquarie Group entities or those approved by the Risk Management Division.  
+On about 25 November 2005, the offender opened a personal trading account in his own name in Singapore with Phillip Securities Pte Limited ("PSPL"). PSPL is a Singapore-based stockbroking firm and a member of the SGX. PSPL has, since November 1996, operated a web-based trading platform called the Phillip's Online Electronic Mart System ("POEMS"). POEMS is an in-house online trading platform which is only available to PSPL's clients. POEMS allows clients to place orders for the acquisition or disposal of securities on the SGX over the internet from anywhere in the world. It also allows clients to access other financial products offered by PSPL, including CFDs, over the internet.  
+Notwithstanding the policies to which I have just referred, the offender did not: * seek the approval of Macquarie Group or any of its divisions or officers before opening his trading account with PSPL;  * subsequently disclose the existence of the account to Macquarie Group or any of its divisions or officers; or  * seek the approval of Macquarie Group or any of its divisions or officers to trade any financial products through this account.  
+By virtue of his position with FMG, the offender, on numerous occasions between about 20 December 2006 and about 26 April 2007, gained advance knowledge of MIML's intention to acquire on behalf of the Funds, predominantly Foreign Funds, large volumes of particular securities on the SGX. In particular, the offender gained advance knowledge of MIML's intentions to subsequently acquire large volumes of particular securities [the inside information]. During the period in question the offender made a series of acquisitions of securities on the SGX, and CFDs relating to such securities, through his PSPL account.  
+The inside information acquired by the offender was obtained by him in the course of his employment with the Macquarie Group. It was not generally available and the offender knew that it was not generally available. In particular, the offender knew at the time that he possessed the inside information that it:  * was not readily observable and did not consist of deductions, conclusions or inferences made or drawn from information that was readily observable; and * had not been made known in a manner that would, or would be likely to, bring it to the attention of persons who commonly invested in financial products of a kind whose price might be affected by the information and it did not consist of deductions, conclusions or inferences made or drawn from information so made known.  
+Furthermore, the offender knew that because the volumes of the particular securities intended to be acquired by MIML were so large, the inside information was material or price-sensitive in relation to those securities, and CFDs in respect of those securities. In particular, the offender knew at the time that he possessed it, that if the inside information was generally available, a reasonable person would expect it to have a material effect on the price or value of the particular securities and CFDs in respect of those securities.  
+While knowingly possessing the inside information in relation to MIML's intended large volume acquisitions of the respective securities, the offender, through his PSPL trading account, personally acquired such securities and/or CFDs relating to such securities. Shortly afterwards, once MIML had commenced or completed its large volume acquisitions and the prices of the particular securities had increased, the offender disposed of his personally acquired securities and/or CFDs for significant profits.  
+At the time of each acquisition the offender was knowingly in possession of inside information relating to the financial product acquired that was not generally available, namely MIML's intention to acquire volumes of the respective securities that were so large that a reasonable person would expect MIML's acquisitions to increase the price of the securities.  
+The offender acquired the financial products (securities and CFDs) in question by placing orders through his PSPL trading account over the internet when he was in Sydney, usually from a computer terminal at a cafe located within the Macquarie Group's premises. All of the financial products were disposed of shortly thereafter (usually within one or two trading days). The timing of their disposal was determined by the offender after he had monitored the price of the securities. Most of the securities that the offender acquired were subsequently sold by him to MIML at prices higher than those for which he had acquired them.  
+Some understanding of the nature and extent of the offender's criminal conduct can be gleaned by examining the table which appears as an attachment to these remarks. It reveals the profits which he received as well as the timing of the orders which he placed when compared with the timing of the orders for MIML's large volume acquisitions.  
+The acquisitions of financial products (securities and CFDs) by the offender constituted a form of insider trading commonly known as "front running". Furthermore, all of his trades (both acquisitions and disposals) were contrary to the Macquarie Group and FMG policies referred to earlier. In particular:  * none of the trades were conducted through an approved trading account; * none of the trades were precleared or preapproved; and * all of the financial products were held for much less than 14 calendar days.  
+On 3 July 2007 the offender was subjected to an audit as a member of the FMG. In the course of that audit the offender provided, via email, a false declaration in the following terms:   I have read and understood the FMG Staff Trading Policy dated December 2006 and I have not (unless authorised under the policy) conducted personal trading using a non MBL group company.
+The gross profit made by the offender on disposal of the financial products (securities and CFDs) was $1,715,400 Singapore dollars. Applying the average Singapore dollar/Australian dollar exchange rate between 20 December 2006 (the day of the first trade) and 27 April 2007 (the day of the last trade) of 0.8237, this figure equates to $1,412,975 Australian dollars (rounded to the nearest dollar). It is common ground that the net profit made by the offender would have been marginally less on account of brokers' fees and interest costs. None of that money has been recovered.  
+The evidence for the offender 
+The offender did not give, nor call evidence at the sentence hearing. Most of the background information with which I have been provided about the offender, comes in the form of a very extensive psychological report which was prepared on the offender's behalf by Mr Sam Borenstein. I have also had the benefit of a pre-sentence report. The offender was born in Malaysia in June 1973 and is now aged 37. His father died when he was 2 and his mother remarried when he was 7. He has a brother who is 2 years older and a younger sister from his mother's second marriage. He has never enjoyed a good relationship with his stepfather although it seems that in recent times his stepfather has been supportive of him. As a child, the offender felt isolated and was very unhappy. Nevertheless he excelled at school both academically and at sport. After leaving school, the offender obtained a Bachelor of Commerce degree from McGill University in Montreal, Canada. Following graduation the offender returned to Malaysia where he worked as an analyst with Credit Lyonnais for a couple of years. From there he went to Amsterdam where he spent 3 or 4 years working for a funds management company. When the firm began a restructuring process, the offender decided to leave. It appears that he was also in a state of turmoil following the disappearance of one close friend and the suicide of another. By then the offender had acquired a significant degree of experience and knowledge concerning the operation of financial markets, and in particular, expertise in respect of real estate securities in the Asia-Pacific region.  
+The offender came to Australia in September 2004 in order that he could be re-united with his sister, who was living here at the time. He was also in a relationship with a man whom he had met in Dubai. That man, who was on a student visa, accompanied him to Australia. They first settled in Melbourne, but in due course, the offender says that he was "head-hunted" to work for Macquarie Bank. He said that the work was very stressful, involving as it did, long hours and constant international travel. He described the work environment as being "toxic". He told Mr Borenstein that he had a very poor relationship with his superior whom he felt discriminated against him because of his sexuality. According to what he told Mr Borenstein, the offender appeared to have particularly resented the fact that he had taken a 20% pay cut to join Macquarie Bank but had not received, as he maintained he had been promised, the bonuses which had been offered to him.  
+The offender was diagnosed in September 2005 with HIV as a result of having engaged in a casual sexual encounter. In December that year his relationship ended when he informed his partner that he had the HIV virus. The offender told Mr Borenstein that "all my dreams [were] crushed" when he received that diagnosis. As a result, the offender consulted a psychiatrist, Dr Sternhill at St Vincent's Hospital. I have been provided with his report which is dated 31 January 2006. Dr Sternhill diagnosed the offender as suffering from "a prolonged Adjustment Disorder with anxious and depressed mood". He expressed the opinion that the offender had both narcissistic and obsessional personality traits and observed that the offender's panic symptoms related to the HIV diagnosis. The offender chose not to inform his employer for fear that his HIV status would lead to his services being terminated which in turn would mean that, as a person who did not have permanent residency, he would have to leave the country immediately. The offender did not seek therapy at the time because, so he maintained, his employer's health plan did not make provision for his condition and nor could he afford the cost of it which was estimated to be $2000 per month.  
+As I have said, the offender moved to the bank's London office in August 2007. In May 2008 he became physically unwell as a result of the virus. When he informed his employer he was told that his services were no longer required. He was, however, given $900,000 in severance pay which caused him to feel guilty about his previously held antipathy towards his employer. The offender then became suicidal and began to abuse cocaine and cannabis. He reported having traded away the profits that he had made when he realised that the monies that he had acquired "would not compensate for his deteriorating health and depression." By the end of December 2009 all his trading profits had been dissipated. The offender then began to physically harm himself. In early 2010 he spent 3 weeks in a rehabilitation centre in California in an endeavour to address his addiction to cocaine. He derived some assistance from that program. He told the author of the pre-sentence report that he subsequently spent three weeks in Malaysia during which time he was able to withdraw from his dependency upon illicit drugs.  
+In order to address some of the matters raised by the offender, the Crown tendered a statement which had been prepared by Ms Yvette Gray, a senior executive with Macquarie Bank. It revealed that the offender started out on an annual remuneration package of $175,000. Following annual performance appraisals from his superior, his remuneration package increased to $180,000 in July 2006 and to $220,000 in July 2007. According to Ms Gray the offender also received a "profit share allocation" of $100,000 in July 2006 and $585,000 in July 2007 in recognition of his contribution to the bank. Furthermore, a review of the bank's records revealed that no complaint had been made by the offender, or indeed by anyone else, about the conduct of the offender's superior.  
+In June 2008 the offender purchased a Porsche 911 for AUD$198,000. In April 2010 approximately AUD$100,000 was received into a bank account controlled by the offender and his brother. That sum represented the balance of funds from the sale of the car. In October 2008 the offender purchased an apartment in Malaysia for approximately AUD$800,000. In July 2010 the offender agreed to sell it for AUD$1.3 million. Most of the proceeds of that sale, as well as the proceeds from the sale of the car, were transferred to the offender's mother.  
+It is now necessary to refer to the circumstances which led to the offender serving a term of imprisonment during 2010. The Australian Securities and Investments Commission ("ASIC") first became aware that the offender may have engaged in insider trading in June 2008 as a result of information which was received from the Monetary Authority of Singapore ("MAS"). ASIC made preliminary inquiries about the matter but decided not to proceed with any further investigation after it was discovered that the offender was not an Australian citizen and that he was no longer residing in Australia. Indeed, it became apparent that he had not resided in Australia since having moved to the bank's London office.  
+On 20 February 2010 the offender returned to Australia for recreational purposes intending to remain for a period of approximately nine days. On 23 February ASIC became aware of his return and on 26 February commenced an investigation into his activities. That same day ASIC obtained ex parte orders from this Court restraining him from leaving or attempting to leave Australia and requiring him to appear in Court on 2 March. The order was served on the offender later that day. On 1 March the offender was detained by the Australian Federal Police at Perth airport as he was attempting to board a flight to Malaysia. The offender was charged with contempt of court for having breached the restraining order. On 8 March the offender pleaded guilty to that charge and on 24 March Palmer J sentenced the offender to a term of imprisonment of nine months with a requirement that he serve six months in custody. The offender was released from custody on 30 September 2010. He has no other criminal convictions.  
+The offender described as frightening and stressful, his experience of prison. He was constantly concerned that he would be targeted because of his sexuality and his HIV status. On the positive side, he commenced taking HIV medication whilst incarcerated. Following his release he participated in classes offering meditation, yoga and pilates and also received weekly counselling. I have received a report from Ms Marni Low, who is employed by ACON, the organisation which has been providing the offender with counselling since 7 October 2010. Ms Low reported that:  [t]hrough the counselling process [the offender] spoke of the psychological distress, which appears to be directly related to significant life events, identifying unresolved childhood trauma and relationship issues. From the information provided by [the offender] it appears his psychological distress became most prevalent in 2005 immediately following becoming aware that he was
+HIV positive. [The offender] reports following becoming aware of his HIV status he went into a state of shock and says that since this time 'life has been surreal'. [The offender] reports he did not know how to cope with this information and states the realisation that he could not pay for medical treatment through his place of employment lead to his criminal behaviours.
+Based on [the offender's] reports it appears his psychological distress was further impacted by the significant stress experienced at work, most significantly homophobic vilification by his boss and the impact his HIV status may have on his ability to become an Australian Permanent Resident. ...
+Ms Low concluded that the offender "appears to have made significant therapeutic progress" but did express concern "that there may be a regression of his overall emotional and physical health in the event of a custodial order". Tests recently administered by Mr Borenstein confirm the fact that the offender still suffers from severe depression and anxiety as well as experiencing sleep disturbance.  
+I was also provided with a report from Dr Dick Quan who has been managing the offender's HIV condition since March 2006. Dr Quan observed that:  [h]is HIV has been complicated by a K103N mutation which confers drug resistance to drugs in the NNRTI class of HIV Antiretroviral agents. This equates to a more complex regimen of medications and more follow ups necessary to monitor his HIV status.
+ 
+He was incarcerated in 2010 and I was co-managing his condition via the prison health service which proved difficult and time consuming as there were few doctors with HIV experience visiting him regularly and nurses did not appreciate his condition where he was sent.
+ 
+Currently he is on Truvada [Tenofovir Emtricitabine fixed dose combination] and Atazanavir boosted by Ritonavir. Truvada requires regular monitoring of renal function and bone mineralization.
+
+Atazanavir requires regular monitoring for liver toxicities and jaundice as [the offender] has also had previous exposure antibodies to Hepatitis B.
+
+Ritonavair is a potent inhibitor of hepatic enzymes and could result in side effects such as diarrhea and needs to be monitored and treated.
+ [The offender] has also been diagnosed with Depression and had been under the care of St Vincent's hospital's H2M programme for HIV patients and Dr Peter
+Sternhell [consultant psychiatrist].
+ 
+He completed the Genesis HIV awareness and self esteem programme at ACON in
+November 2010. He is due for a regular monitoring of all his bloods for HIV viral load PCR, Tcells, STI check, full blood count, biochemistry, liver functions, urinalysis and bone density this month. This is standard of care for all HIV patients with his drug combination.
+ 
+His last CD4 [T-cell count] was low at 220 [normal is &gt;500]
+A report from Dr Stephen Hampton, who is employed by Justice Health, provides the following information concerning the management of inmates who have the HIV virus:  
+At any one time there are about 30-40 people in custody that are affected by
+HIV.
+ 
+The Population Health team (PH) are notified immediately when someone is identified in police cells with HIV and management is commenced.
+ 
+This includes obtaining verification of their status and treatment from their prescribing clinician and accessing their medications (this may be from home via family or friend, a local clinic or hospital, or sent from the Justice
+Health Pharmacy.) 
+The patient is entered into our database so we know where they are, and follow up can be arranged.
+ 
+A specialist Clinical Nurse Consultant maintains the HIV database and personally case manages all cases, making regular calls to the patient's gaol of classification to ensure the taking of all prescribed medications, regular reviews and appointments with Specialist Immunologists are being observed.
+ 
+Initially the patient is placed on a "medical hold" which ensures they stay at either Silverwater (MRCC / SWCC) or Long Bay. Then they see a Population
+Sexual Health Nurse (PSHN) for work-up prior to seeing the specialist. Bloods are taken according to Justice Health protocols and patients are managed according to our policy and HIV clinical management guidelines, which were developed in consultation with Sydney Sexual Health Centre specialists and specifically for our environment.
+ 
+It should be noted that all patients must be seen initially by an HIV specialist in Sydney. Following this they moved into other centres. Visiting specialist services are provided by Sydney Sexual Health Centre. The doctors are experts in the field of sexual health and HIV care, management and treatment. HIV specialists visit both LBH and Silverwater (MRCC / SWCC) monthly and run clinics assisted by a PSHN.
+ 
+Ongoing management is conducted by 3-monthly appointments which can be done by telephone if the patient is transferred to another centre. Every patient can have 3-monthly investigations, medication review and specialist consultation.
+ 
+There are PSHN's at all our adult correctional centres except Brewarrina,
+Ivanhoe and Oberon. Some staff are part time and some are full time. All
+PSHN's receive training in the care and management of patients with HIV and are supported by a CNC Sexual Health/Hepatitis.
+ 
+PSHN facilitate rural clinics by doing a work-up then calling the patient to clinic and doing a telephone link to either Silverwater or Long Bay. If there are any problems the patient returns to Sydney - this is rare as we mostly manage remotely with the PSHN.
+ 
+All patients, irrespective of their blood borne virus status, are provided with harm minimisation information and education by the reception nurse upon admission. This includes information on safer sex, safer injecting practices, tattooing, razors, clipper hair cuts, piercings, blood exposures from fights, etc. HIV positive patients also receive this information and an assessment is made on their capacity to protect themselves and others. Based on this, cell placement is determined.
+ 
+There is also a medical facility within Justice Health available for inpatient care for patients who are at advanced or critical stages of their illness.
+ 
+Should the need arise, referrals to external health services are made, co- ordinated and managed by Justice Health Population Health staff.
+Following his release from custody, the offender remained in this country pursuant to a Criminal Justice visa. The terms of that visa prevented him from obtaining employment. As part of his bail conditions the offender was required to observe a curfew and to report daily to police. There is nothing to suggest that he did not abide by those conditions.  
+Tendered on the offender's behalf was a testimonial from his mother who spoke warmly of his generosity towards her and her other children. It enabled them to be properly educated. She says that the offender retains the support of his family and it appears that they have been currently providing for him financially. One of the offender's friends, Jappe Wouters, who is the financial controller for a leading Sydney hotel, attests to the offender's personal qualities and describes his offending conduct as being "out of character". He describes the offender as being "dedicated and hardworking".  
+The author of the pre-sentence report observed that the offender  gave the impression that he was trying to minimise and justify his offending behaviour stating that he saw his actions as "co-participation" and as a "win- win" situation for him and his employer, rather than as criminal behaviour. He suggested that his behaviour was part of his "coping mechanism" after he felt unfairly treated and unsupported by his employer. He also claimed that he needed the extra finances in order to pay for his medical treatment.
+On the other hand, Mr Wouters expressed the opinion that the offender is extremely regretful about his conduct. Moreover, Ms Low indicated her view that with the benefit of counselling the offender has now come to demonstrate "appropriate levels of remorse" for his conduct.  
+The relevant sentencing principles 
+In determining the appropriate sentence to be imposed, I must proceed in accordance with <case> of the [Crimes Act 1914](http://www.austlii.edu.au/au/legis/cth/consolact/ca191482/) (Cth) (the Act). In DPP versus El Karhani [(1990) 21 NSWLR 370], the Court of Criminal Appeal said:  
+The language of the Act gives no support for the proposition that general deterrence has been removed from the list of criteria to be considered by a court sentencing a person for a Federal offence. On the contrary, [s
+A(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca191482/s16a.html) imposes on the Court the duty, which is its primary obligation, to ensure that the sentence or order "is of severity appropriate in all the circumstances of the offence". It is by this duty that the general principles of sentencing law are imported into the function of a court imposing a sentence on a Federal offender convicted of the offence. What will be "appropriate" will depend, in part, upon a consideration of fundamental notions, such as that of general deterrence.
+ 
+The list of particular considerations in [s
+A(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca191482/s16a.html) must be read as subject to the primary obligation of the court stated in [s
+A(1).](http://www.austlii.edu.au/au/legis/cth/consolact/ca191482/s16a.html)
+All that [s
+A(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca191482/s16a.html) requires is that the court should "take into account" the listed matters. They provide a catalogue of matters to be considered in determining the "severity appropriate in all the circumstances of the offence". [at 378]
+Furthermore, I must not impose a sentence of imprisonment unless, having regard to all other available sentences, no other sentence is appropriate: [s 17A](http://www.austlii.edu.au/au/legis/cth/consolact/ca191482/s17a.html) of the Act. That said, senior counsel who appeared on behalf of the offender realistically conceded that a full-time custodial sentence must be imposed. That concession was entirely appropriate. It was for that reason that I revoked the offender's bail at the end of the sentence hearing on 16 March 2011.  
+The principles which are applicable to sentencing for offences of insider trading were conveniently stated in R versus Rivkin <case>; [(2003) 198 ALR 400] in which Whealy J, as his Honour then was, said that:  [t]he element of general deterrence is important in white collar crimes. It is of course, an important part of the sentencing process in all crimes. It is however, an especially important matter in crimes such as the present because of the need to mark out plainly to others who might be minded to breach their professional or related obligations that such conduct will generally merit, in appropriate cases, condign punishment.
+ 
+An important reason why this is so relates to the often remarked difficulty in detecting and investigating white collar crime. Insider trading is particularly hard to detect. It may often go unnoticed but where it occurs it has the capacity to undermine to a serious degree the integrity of the market in public securities. It has the additional capacity to diminish public confidence not only so far as investors are concerned but the general public as well. Moreover, this diminution in confidence may occur subtly and is not confined to the circumstances where a substantial insider trading transaction has taken place. There is a capacity to undermine and diminish public confidence in the market even where the offence may be shown as one which in some respects occupies a lower level of seriousness. This is likely to be particularly so in the case of an offender who occupies a substantial position as a trader and advisor in the market.
+ 
+It is especially important that the sentencing process provide a firm disincentive to the carrying out of illegal activities especially by those who are engaged in the securities industry. There is a need to sound, in effect, a clarion call to discourage illegal and unethical behaviour among company directors, company officers, brokers, traders, advisors and those who have a close connection through, for example merchant banking, to the stock market: (See Regina versus Pantano (1990) A Crim R 328 at 330; Regina versus Andrew Peter White (NSWCCA unreported, 20 August 1998); Regina versus Riccord (NSWCCA unreported 9 May ); Regina versus El-Rashid (NSWCCA unreported 7 April 1995); Regina versus Hawker <case> at para23 and para24; Regina versus Pont <case>; Regina versus Hannes [(2000) 158 FLR 389] at para394 (per Spigelman CJ); Regina versus Hannes (James J) 13 December 2002 at para90; see also The Griffiths Report (1989) [1.2.1; 3.3.4 - 3.3.6; 4.3.4] Second Reading
+Speech to the [Corporations Legislation Amendment Bill ](http://www.austlii.edu.au/au/legis/cth/bill/clab1991374/), p4215). <case>; [(2004) 184 FLR 365] in the following terms: 
+Nor is it correct to describe the offence ... as "victimless". The victim of any such offence is the investing community at large, the injury being that related to the loss of confidence in the efficacy and integrity of the market in public securities. <case>; [(2001) 51 NSWLR 548] , the Court of Criminal Appeal, in the context of dismissing a Crown appeal, observed that:  [w]e do not, in this respect, suggest that anything other than a stern approach should be taken to offences of insider trading for the reasons earlier identified. It remains a serious offence, and there needs to be a considerable deterrent aspect reflected in order to protect the integrity and efficacy of the market. Those in a position of trust who receive price sensitive information in relation to securities are expected to conform to exacting standards of honesty, and transgression can normally be expected to lead to custodial sentences as well as to pecuniary penalties. [at para 56]
+In DPP versus O'Reilly  <case> T Forrest J said that:  [i]n insider trading cases I consider there are at least two victims; the seller or sellers of the stock at the lower price and the public, whose confidence in the integrity of the market must be diminished. The impact upon public confidence in the market is an important factor. The securities markets could not survive and flourish without the confidence of those who elect to invest in it. <case> McClellan CJ at CL said that : [i]t must be remembered that his crimes were not victimless. Each illegal transaction was likely to have a cost to someone, who either traded or held their position, without the benefit of the knowledge available to the offender. The offender set about systematically trading in breach of the law for the sole purpose of enhancing his personal wealth at the expense of others. [at para 45]
+It is clear from those pronouncements just how seriously the courts treat offences of this kind. Moreover, as I said earlier, the legislature has recently seen fit to dramatically increase the maximum penalty which is available to be imposed upon such offenders. That, in turn, is likely to produce more severe penalties, everything else being equal, than those which have hitherto been imposed. Be that as it may, it is also timely to recall the remarks of the Lord Chief Justice of England and Wales in R versus McQuoid  <case>; [[2009] 4 All ER 388], in which His Lordship observed that:  [t]hose who involve themselves in insider dealing are criminals: no more and no less. The principles of confidentiality and trust, which are essential to the operations of the commercial world, are betrayed by insider dealing and public confidence in the integrity of the system which is essential to its proper function is undermined by market abuse. ... the message must be clear:
+When it is done deliberately, insider dealing is a species of fraud; it is cheating. [at paras 8-9] 
+The objective gravity of the offence 
+The offence in which the offender engaged included 12 separate sets of transactions involving "insider trading" of a type commonly known as "front running". Seven sets of transactions involved trading solely in securities (shares or units in a trust), four sets of transactions involved trading in both securities and contracts for difference (CFDs) in respect of securities and one set of transactions involved trading solely in CFDs.  
+On each occasion the offender made a conscious decision to acquire the financial product in question with a view to maximizing his own personal wealth, with the knowledge that such conduct was in breach of the law and contrary to his obligations both to his employer and other market investors.  
+The Crown highlighted the following features of the case as bearing upon the objective seriousness of the offender's conduct:  the offender was to be regarded as a true insider and not just a share trader acting on inside information. The position in which he was employed was a position of trust which he breached. He had sole responsibility for deciding the price at which and the quantity in which securities were to be traded; the offender created and controlled the price sensitive inside information and used it to his own financial advantage, as opposed to passing the information to someone else; ( c) in five instances the offender knowingly multiplied his profit by using the inside information to trade in CFDs in respect of securities. Such trades potentially yield greater profits than does trading in the underlying shares; the offender also profited at the expense of his employer. Most of the securities which were illegally acquired by the offender were subsequently sold by him to MIML for higher prices. If the offender had initially made those acquisitions for MIML (as he ought to have done), then MIML rather than the offender would have obtained the benefit of those lower prices; by conducting the trades on the SGX it was not possible for the Australian regulatory authorities to detect the unlawful trades. The offence was only detected by reason of international cooperation and assistance, which demonstrates the degree of planning involved in the offender's conduct and the difficulty of detecting it; the offender was aware of the prohibitions against insider trading contained in his employment agreement with the Macquarie Group and the other documents which he signed. In acting as he did, the offender knowingly breached numerous employment policies and other obligations which were designed to prevent insider trading, including the practice of "front running"; and the offender's offending conduct lasted for a period of some four months and as such constituted a course of conduct: s16A(2)(c) of the Act.
+I accept the general thrust of those submissions. I accept that although the offender's conduct revealed no great measure of sophistication or subterfuge, it was nonetheless difficult to detect for the reasons advanced by the Crown. Although I accept the submission on behalf of the offender that it is important to focus on what the offender actually did as distinct from simply putting a label on it, it remains the case that this was conduct of a "true insider". Such a person is placed in a position of trust and because he or she has greater access to inside information than would otherwise be the case, there exists a correspondingly greater capacity to cause damage to the securities market and those who invest in it.  
+The offender's subjective features 
+There are a number of features of the case upon which the offender is entitled to rely in order to ameliorate the otherwise appropriate penalty. At the forefront of those considerations is the fact that he has pleaded guilty and that he did so in the Local Court. Moreover, his plea of guilty was entered a mere six days after he was first served with court attendance notices in September 2010. Although, as the Crown points out, the offender initially endeavoured to flee the jurisdiction, he subsequently assisted ASIC in its investigation of this matter by adopting the accuracy of the Statement of Facts in the Local Court. Nor, of course, is he to be punished for a second time for his actions in attempting to leave Australia. Not only was his plea of guilty a timely one, but it has saved what would inevitably have been a trial of some length and complexity. In the circumstances which I have outlined, the Crown accepts that the plea may be taken to demonstrate a "willingness to facilitate the course of justice": Cameron versus The Queen [(2002) 209 CLR 339.] In my view, the offender is entitled to a discount of 25% for his plea of guilty. I am also prepared to accept that there is some evidence that the offender, albeit belatedly, has shown contrition for his actions. However, since he did not give evidence before me, and in light of the matters which emerge from the pre-sentence report to which I referred earlier, it is a little difficult to determine the extent of his contrition: <case>(f) of the Act.  
+Also to be weighed in the offender's favour is the evidence concerning his prior good character at the time he committed the present offence. Until then, as I have said, he had no prior convictions and had proved himself to be a hard working and productive member of the community. That is not a matter which should be overlooked or given only cursory consideration. Nevertheless, the authorities have recognised that it is often an offender's prior good character and standing within the community that enables him or her to be placed in the position of trust from which he or she is then able to commit the offence in question.  
+In R versus El Rashid , NSWCCA unreported, 7 April 1995, Gleeson CJ said that : "[i]t may be observed that, what is sometimes called white collar crime is rarely committed by people who do have a criminal history. Such people do not usually find themselves with the opportunity to commit offences of that character."
+I have also taken into account the fact that the offender has received adverse publicity as a result of his offending behaviour and that he has had a significant fall from grace. Nonetheless, his prior good character, his plea of guilty and the fact that he retains the support of his family in Malaysia, all indicate that he has good prospects for rehabilitation. I was informed that it is anticipated that he will be deported at the expiration of his custodial sentence although it is common ground that that is not a matter to which I need to give consideration. See The Queen versus Shrestha <case>; [(1991) 173 CLR 48.] [at paras 16-17].  
+A further factor to be taken into account in the offender's favour is the fact that he is HIV positive. In that context, counsel for the offender relied upon the following statements as being apposite to the present case. In R versus Smith [(1987) 27 A Crim R 315], King CJ said:  
+How far should the new information about the appellant's health affect the matter? The state of health of an offender is always relevant to the consideration of the appropriate sentence for the offender. The courts, however, must be cautious as to the influence which they allow this factor to have upon the sentencing process. Ill health cannot be allowed to become a licence to commit crime, nor can offenders generally expect to escape punishment because of the condition of their health. It is the responsibility of the Correctional Services authorities to provide appropriate care and treatment for sick prisoners. Generally speaking ill health will be a factor tending to mitigate punishment only when it appears that imprisonment will be a greater burden on the offender by reason of his state of health or when there is a serious risk of imprisonment having a gravely adverse effect on the offender's health.[at p 317]
+In R versus Penalosa-Munoz <case>; [(2004) 143 A Crim R 594], with the concurrence of Levine and Barr JJ, I said:  
+During the course of being screened for immigration purposes, the respondent returned a test result which revealed that he was HIV positive. By and large he has remained asymptomatic but he did spend two days in Royal North Shore
+Hospital in December 2002 for a lung infection which he had contracted. There was evidence which the sentencing judge accepted concerning the impact that imprisonment can have upon a person who has the HIV virus. The evidence revealed that a prisoner's status as an HIV sufferer is impossible to keep confidential within the prison system. Once such a person's status is known, he or she is likely to be subjected to harassment from other prisoners.
+Furthermore imprisonment inevitably creates considerable stress for inmates.
+Stress in turn can significantly compromise the body's immune system and its capacity to resist the spread of the illness. It is these and related considerations which have led the courts to recognise that imprisonment for a person who has the HIV virus will often be more burdensome than would otherwise be the case. See R versus Smith [(1987) 27 A Crim R 315] and the cases which have followed it. [at para 14]
+It is apparent from Dr Hampton's report that Justice Health is able to attend to most of the offender's requirements in this respect whilst he is in custody. It is nonetheless appropriate to have regard to the fact that the offender's health is compromised by his illness and that both that factor, and his understandable concerns about how he will be treated by other inmates whilst in custody, are likely to increase his sense of anxiety about his condition. Such a state of anxiety is clearly not going to be conducive to his overall health. The Crown pointed to that part of Dr Quan's report which revealed that the offender's T-cell count was now 220 whereas, according to Justice Health records, it had been 200 at some stage last year. That was said to provide an evidentiary basis for the conclusion that there had been some improvement in the offender's condition. I would need considerably more material before accepting that submission.  
+The fact that the offender had the HIV virus was canvassed at length by Palmer J and it has been necessary for me to do so as well. It seems inevitable that the offender's status will become known within a short period of time after his return to custody. The evidence demonstrates that the offender was indeed subjected to harassment from other inmates during his earlier sentence. He is unlikely to be treated any differently this time. For those reasons it is appropriate to give some weight in the sentencing process to the fact that the offender will find the circumstances in which he will serve his sentence more burdensome than would otherwise be the case: see also Leighton versus R  <case> and <case>(m) of the Act. Further, in that context, I have not overlooked the fact that he will be serving his sentence in a foreign country away from the support of his family: Although, see generally R versus Ferrer-Esis [(1991) 55 A Crim R 231] at 239.  
+I am also prepared to accept that the objective gravity of the offence is to be evaluated in the setting in which it occurred. It commenced relatively shortly after the offender discovered that he had the HIV virus, a matter that, as I have said, caused him a very high degree of stress. That context certainly goes some way towards explaining his behaviour, although it does not for one moment excuse it. The fact remains that the offender sought to act as he did in order to enrich himself. Any other consideration in the circumstances pales into insignificance.  
+As I have already said, the offender served a sentence of imprisonment for contempt of court. It is clear that the conduct which gave rise to that offence is closely related to the present matter. In the normal course of events it could have been anticipated that he would have stood for sentence in respect of both matters at the same time. It is fairly apparent from the chronology of events to which I referred that that did not occur. It is nevertheless common ground that it is necessary for me to have regard to the principles of totality. In my view, the most appropriate manner in which to accommodate that consideration is to order that the sentence for the present offence commence on 16 January 2011, which is 2 months prior to the date upon which the offender's bail was revoked, which as I have said, was 16 March 2011.  
+I was provided by the Crown with a schedule of a large number of cases in which sentences have been imposed in insider trading cases. In Hili and Jones versus R <case>; [(2010) 272 ALR 465]; Doff (supra) [at para 58]; Rivkin (supra) [at para 415].  
+In any event, the Crown submitted that none of the cases on the schedule are directly comparable to this case, particularly as there is no previous case other than Hartman (supra) which has involved "front running" and no previous case in which the offender has created and controlled the price sensitive inside information which he has then used to his own financial advantage.  
+I accept the Crown's submission that the most useful of the comparative cases is Hartman itself and I have given it due consideration. By the same token, I accept the contention advanced on behalf of the offender that there are some important differences between the present case and Hartman . Of some significance is the fact that whereas the present offender only faces charges of insider trading, Hartman also faced charges in respect of a number of so-called "tipping offences". The consequence is that that offender was exposed to an aggregate maximum penalty that was twice that to which this offender is exposed. Hartman also passed on information to a third party and his offending conduct continued for a longer period of time. Hartman received a head sentence of 3 years imprisonment in respect of the insider trading offences.  
+Although I have derived some assistance from a consideration of the schedule of cases, which includes the decision in R versus Hannes ( 2002) 173 FLR I, I am nonetheless bound to exercise my own discretion based upon all the features which are relevant to the present case.  
+On any view of the matter, the present case represents a very serious instance of insider trading. Notwithstanding the offender's favourable subjective case, nothing but a full-time sentence can be countenanced. In determining the length of the pre-release period under the recognisance release order I have fixed the minimum period that justice requires that the offender must spend in custody. See Hili & Jones (supra) at [paras 40-41].  
+Sentence 
+Oswyn Indra De Silva I sentence you to a term of imprisonment of 2 years 6 months to commence on 16 January 2011 and to expire on 15 July 2013. I direct that you be released on 15 July 2012 at the expiration of 18 months of that sentence on a recognisance that you be of good behaviour during the balance of the term upon your giving security in the sum of $1000 without surety.  
+Annexure - Trading Comparison 
+Offence Particular Number 
+Earliest Date 
+Latest Date 
+Order Time Range 
+Party 
+Acquisition or Disposal 
+Volume 
+Product 
+Security 
+Price Low 
+Price High 
+Profit (SGD)  ---|---|---|---|---|---|---|---|---|---  /12/2006 :47 - 16:48 
+ODS 
+A ,000 
+CFDs 
+Ascendas Real Estate Investment Trust $2.40 $2.43 /12/2006 :48 - 11:45 
+MIML 
+A ,000 
+SEC 
+Ascendas Real Estate Investment Trust $2.41 $2.42 /12/2006 :25 - 14:24 
+ODS 
+A ,000 
+SEC 
+Ascendas Real Estate Investment Trust $2.40 $2.41 /12/2006 /12/2006 :29 - 16:50 
+MIML 
+A ,823,000 
+SEC 
+Ascendas Real Estate Investment Trust $2.40 $2.55 /12/2006 /12/2006 :06 -9:05 
+ODS 
+D(to MIML) ,000 
+SEC 
+Ascendas Real Estate Investment Trust $2.50 $2.55 $51,060  /12/2006 :07 - 10:11 
+ODS 
+D ,000 
+CFDs 
+Ascendas Real Estate Investment Trust $2.54 $2.55 $65,400  /12/2006 :38 
+ODS 
+A ,070,000 
+CFDs 
+The Ascott Group Limited $1.40 $1.40 /12/2006 :54 
+ODS 
+A ,000 
+SEC 
+The Ascott Group Limited $1.41 $1.41 /12/2006 :00 - 14:28 
+MIML 
+A ,198,000 
+SEC 
+The Ascott Group Limited $1.41 $1.62 /12/2006 :13 - 10:16 
+ODS 
+D(565k to MIML) ,000 
+SEC 
+The Ascott Group Limited $1.58 $1.61 $146,000  /12/2006 :19 - 10:38 
+ODS 
+D ,070,000 
+CFDs 
+The Ascott Group Limited $1.59 $1.62 $213,400  /12/2006 :47 - 16:48 
+ODS 
+A ,000 
+CFDs 
+Ascendas Real Estate Investment Trust $2.40 $2.43 /12/2006 :48 - 11:45 
+MIML 
+A ,000 
+SEC 
+Ascendas Real Estate Investment Trust $2.41 $2.42 /12/2006 :25 - 14:24 
+ODS 
+A ,000 
+SEC 
+Ascendas Real Estate Investment Trust $2.40 $2.41 /12/2006 /12/2006 :29 - 16:50 
+MIML 
+A ,823,000 
+SEC 
+Ascendas Real Estate Investment Trust $2.40 $2.55 /12/2006 /12/2006 :06 -9:05 
+ODS 
+D(to MIML) ,000 
+SEC 
+Ascendas Real Estate Investment Trust $2.50 $2.55 $51,060  /12/2006 :07 - 10:11 
+ODS 
+D ,000 
+CFDs 
+Ascendas Real Estate Investment Trust $2.54 $2.55 $65,400  /12/2006 :38 
+ODS 
+A ,070,000 
+CFDs 
+The Ascott Group Limited $1.40 $1.40 /12/2006 :54 
+ODS 
+A ,000 
+SEC 
+The Ascott Group Limited $1.41 $1.41 /12/2006 :00 - 14:28 
+MIML 
+A ,198,000 
+SEC 
+The Ascott Group Limited $1.41 $1.62 /12/2006 :13 - 10:16 
+ODS 
+D(565k to MIML) ,000 
+SEC 
+The Ascott Group Limited $1.58 $1.61 $146,000  /12/2006 :19 - 10:38 
+ODS 
+D ,070,000 
+CFDs 
+The Ascott Group Limited $1.59 $1.62 $213,400  /01/2007 :43 
+ODS 
+A ,000 
+CFDs 
+Hong Kong Land Holdings Limited $4.00 $4.00 /01/2007 :44 - 12:02 
+ODS 
+A ,000 
+SEC 
+Hong Kong Land Holdings Limited $4.00 $4.02 /01/2007 :19 - 17:03 
+MIML 
+A ,761,000 
+SEC 
+Hong Kong Land Holdings Limited $4.02 $4.18 /01/2007 :00 - 14:11 
+ODS 
+D(to MIML) ,000 
+SEC 
+Hong Kong Land Holdings Limited $4.14 $4.18 $27,060  /01/2007 :06 - 14:08 
+ODS 
+D ,000 
+CFDs 
+Hong Kong Land Holdings Limited $4.12 $4.14 $31,200  /01/2007 /01/2007 :09 - 10:26 
+ODS 
+A ,000 
+SEC 
+Yanlord Land Group Limited $2.20 $2.27 /01/2007 /02/2007 :31 - 12:07 
+MIML 
+A ,566,000 
+SEC 
+Yanlord Land Group Limited $2.25 $2.35 /02/2007 :15 -10:16 
+ODS 
+D(to MIML) ,000 
+SEC 
+Yanlord Land Group Limited $2.34 $2.35 $90,460  /02/2007 :25 - 10:27 
+ODS 
+A ,700,000 
+SEC 
+Gallant Venture Ltd.
+ $1.37 $1.39 /02/2007 /02/2007 :37 - 16:59 
+MIML 
+A ,163,000 
+SEC 
+Gallant Venture Ltd.
+ $1.40 $1.55 /02/2007 /02/2007 :40 - 9:13 
+ODS 
+D(all but 2k to MIML) ,700,000 
+SEC 
+Gallant Venture Ltd.
+ $1.44 $1.55 $254,640  /02/2007 :17 - 14:34 
+ODS 
+A ,000 
+CFDs 
+CDL Hospitality Trusts $1.86 $1.93 /02/2007 /02/2007 :52 - 14:43 
+MIML 
+A ,560,000 
+SEC 
+CDL Hospitality Trusts $1.94 $2.00 /02/2007 :36 
+ODS 
+D ,000 
+CFDs 
+CDL Hospitality Trusts $2.00 $2.00 $36,020  /02/2007 :25 - 14:28 
+ODS 
+A ,300,000 
+SEC 
+CDL Hospitality Trusts $1.80 $1.83 /02/2007 :59 - 15:00 
+ODS 
+A ,000 
+CFDs 
+CDL Hospitality Trusts $1.81 $1.82 /02/2007 :25 
+MIML 
+A ,000 
+SEC 
+CDL Hospitality Trusts $1.80 $1.80 /02/2007 :13 - 9:15 
+ODS 
+A ,000 
+SEC 
+CDL Hospitality Trusts $1.90 $1.92 /02/2007 :15 - 16:50 
+MIML 
+A ,330,000 
+SEC 
+CDL Hospitality Trusts $1.90 $1.95 /02/2007 :19 - 14:43 
+ODS 
+D ,000 
+CFDs 
+CDL Hospitality Trusts $1.95 $1.95 $95,000  /02/2007 :44 - 15:32 
+ODS 
+D(702K to MIML) ,000 
+SEC 
+CDL Hospitality Trusts $1.94 $1.95 /02/2007 :26 
+ODS 
+D(524K to MIML) ,000 
+SEC 
+CDL Hospitality Trusts $1.97 $1.97 $194,360  /03/2007 :08 - 14:16 
+ODS 
+A ,250,000 
+SEC 
+The Ascott Group Limited $1.52 $1.58 /03/2007 :33 - 17:01 
+MIML 
+A ,519,000 
+SEC 
+The Ascott Group Limited $1.55 $1.70 /03/2007 :23 - 16:40 
+ODS 
+D(1,248k to MIML) ,250,000 
+SEC 
+The Ascott Group Limited $1.65 $1.70 $147,040  /03/2007 :13 - 11:20 
+ODS 
+A ,000 
+SEC 
+Hotel Properties Ltd $4.24 $4.26 /03/2007 /03/2007 :52 - 10:46 
+MIML 
+A ,518,000 
+SEC 
+Hotel Properties Ltd $4.38 $4.50 /03/2007 :00 - 9:04 
+ODS 
+D(to MIML) ,000 
+SEC 
+Hotel Properties Ltd $4.48 $4.50 $73,600  /03/2007 :14 
+ODS 
+A ,000 
+SEC 
+Mapletree Logistics Trust $1.25 $1.27 /03/2007 :23 -17:02 
+MIML 
+A ,000,000 
+SEC 
+Mapletree Logistics Trust $1.28 $1.31 /03/2007 :36 
+ODS 
+D(710K to MIML) ,000 
+SEC 
+Mapletree Logistics Trust $1.31 $1.31 $34,640  /04/2007 :21 - 12:22 
+ODS 
+A ,802,000 
+SEC 
+Yanlord Land Group Limited $2.32 $2.40 /04/2007 /04/2007 :00 - 11:55 
+MIML 
+A ,932,000 
+SEC 
+Yanlord Land Group Limited $2.41 $2.50 /04/2007 :32 - 10:01 
+ODS 
+D(442K to MIML) ,802,000 
+SEC 
+Yanlord Land Group Limited $2.48 $2.51 $234,020  /04/2007 :44 - 14:00 
+ODS 
+A ,000 
+SEC 
+Hotel Properties Ltd $5.80 $6.00 /04/2007 /04/2007 :54 - 16:56 
+MIML 
+A ,738,000 
+SEC 
+Hotel Properties Ltd $5.95 $6.15 /04/2007 :22 
+ODS 
+D(to MIML) ,000 
+SEC 
+Hotel Properties Ltd $6.15 $6.15 $21,500  $1,715,400 (SGD)  
+The columns in the table signify: * Offence Particular No. - The number nominally assigned by the Crown to the specific 'particular' of the offence, as set out in the Court Attendance Notice, for which the trades by the offender and MIML are relevant. Only those trades considered relevant to the offence are identified. * Earliest Date - The earliest date on which the trade(s) occurred. * Latest Date - The latest date on which the trade(s) occurred. * Order Time Range - The time(s) in Singapore at which the trades occurred. Where trades occurred over more than one day, the first time is the time of the earliest trade on the first day and the second time is the time of the last trade on the last day. * Party - The person or entity on whose behalf the trade was conducted, with "ODS" referring to the offender and "MIML" referring to MIML. * Acquisition or Disposal - Whether the trade(s) involved acquisitions (A) or disposals (D). In addition, the wording in brackets after some disposals by the offender identifies securities that were sold by the offender to MIML. * Volume - The quantity of securities or Contracts for Difference (CFDs) relating to those securities that were acquired or disposed of. * Product - Whether the financial products traded were CFDs or securities (SEC). * Security - The name of the entry which issued the securities that were traded or which formed the basis of the CFDs that were traded. * Price Low - The lowest price in Singapore dollars at which the trade(s) occurred. * Price High - The highest price in Singapore dollars at which the trade(s) occurred. * Profit (SGD) - The gross profit in Singapore dollars, rounded to the nearest dollar, derived on disposal of the offender's securities or CFDs (with profits derived from securities and CFDs identified separately).  * * * 

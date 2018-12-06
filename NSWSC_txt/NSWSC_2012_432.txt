@@ -1,0 +1,62 @@
+
+
+Simson versus Wotif.com Holdings Ltd [2012] NSWSC 432 (13 April 2012) 
+Last Updated: 23 May 2012 
+Supreme Court 
+New South Wales  
+Case Title: 
+Simson versus Wotif.com Holdings Ltd  
+Medium Neutral Citation: <case>  
+Hearing Date(s): April 2012  
+Decision Date: April 2012  
+Jurisdiction: 
+Before: 
+Gzell J  
+Decision: 
+Pleading of implied term struck out with liberty to replead.  
+Catchwords: 
+PROCEDURE - Striking out Portions of Pleadings - agreement for sale of shares - upfront payment and "earn out" based on how well business performed after sale - high and low limits for adjusted sale price - whether implied term that business would not be operated to achieve low adjusted sale price  
+Legislation Cited: 
+Cases Cited: 
+Butt versus M'Donald (1896) 7 QLJ 68 
+RDJ International Pty Ltd versus Preformed Line Products (Australia) Pty Ltd <case>; <case>; <case>; <case>; [(1964) 112 CLR 125] 
+Penthouse Publications Ltd versus McWilliam [[1991] NSWCA 222] 
+Mutual Life & Citizens Assurance Co Ltd versus Evatt <case>; <case>; [(1949) 78 CLR 62]  
+Texts Cited: 
+Category: 
+Procedural and other rulings  
+Parties: 
+Peter Simson (First Plaintiff) 
+Naomi Simson (Second Plaintiff) 
+Wotif.com Holdings Ltd (Defendant)  
+Representation  - Counsel: 
+Counsel: 
+P Nugent (Plaintiffs) 
+T Pincus (Defendant)  - Solicitors: 
+Solicitors: 
+Fitzpatrick Legal (Plaintiffs) 
+Wotif Group (Defendant)  
+File number(s): 
+SC 2011/325502  
+Publication Restriction: 
+EX TEMPORE JUDGMENT
+The application before the court is for summary termination of the Plaintiffs' proceedings and for summary judgment on the cross-claim. In the alternative, application is made to strike out the whole or part of the relevant pleadings. 
+The plaintiffs, Peter Simson and Naomi Simson, were the vendors of all the shares in GoDo Pty Ltd to the defendant, Wotif.com Holdings Ltd, under a share sale agreement. Central to the arguments on both sides is a provision in the pleadings that there was an implied term of the agreement in these terms: "Wotif would not, within 12 months after the Completion Date, cause GoDo to operate the Business in a manner such as to make it materially more likely that GoDo would achieve a Post-completion EBITDA lower than the expected or anticipated figure of $632,000."
+Wotif claims that there is no place for an implied term in those words. 
+The share sale agreement provided for an up-front payment and what is termed an "earn out" or a payment based on how well the business performed after the sale within a given time frame. 
+That formula was set out in the share sale agreement in cl 3.4. It involved calculating the EBITDA (earnings before interest, taxes, depreciation and amortisation) for the 12 month period following completion of the share sale agreement and utilising those figures to determine an adjusted price. 
+The variation to the purchase price created by the formula was subject to a cap and to a minimum figure. The minimum figure was $1,888,000. The maximum figure was $8,000,000. 
+Clearly, in a commercial contract, it is a general rule that each party agrees by implication to do all things necessary to enable the other party to have the benefit of the contract (Butt versus M'Donald (1896) 7 QLJ 68 at 70-71).
+Mr and Mrs Simson submitted that the situation in this case was little different from that which arose in RDJ International Pty Ltd versus Preformed Line Products (Australia) Pty Ltd [(1996) 39 NSWLR 417.] His Honour said at 422: "If one can see from the contract, including its factual matrix, that the parties have made a common assumption that a certain state of affairs needs to continue in order for the contractual purposes to be achieved, one does not merely act on the strict literal construction of the contract. Rather one looks to see what other provision should be implied which, had the parties turn their minds to it (or had an impartial bystander turned his or her mind to it), they (or he or she) would have said 'yes, of course, that is necessary as a provision in this contract in order to make it work'."
+His Honour referred to BP Refinery (Westernport) Pty Ltd versus Shire of Hastings (1977) 180 CLR 266 at 283 where the Privy Council said that for a term to be implied: "(1) it must be reasonable and equitable; (2) it must be necessary to give business efficacy to the contract, so that no term will be implied if the contract is effective without it; (3) it must be so obvious that 'it goes without saying'; (4) it must be capable of clear expression; (5) it must not contradict any express term of the contract."
+At 423 Young J went on to say: "Both parties had in mind the forecast of sales. Neither turned its mind to the question of this business ceasing. It seems to me that both parties, or an innocent but alert bystander, if asked at the time would have said that there was an obligation on the defendant not voluntarily to do anything which would make it materially more difficult for the royalty stream to flow."
+The pleadings allege oral terms of the contract. It is alleged that there was a conversation that included a statement on behalf of Wotif that it would be business as usual after Mr Simson said that Wotif might change the operating model after the sale and that could effect how the business performed. 
+It was submitted that the phrase "business as usual" must mean that after the sale of the shares, Wotif would not within the 12 month period during which the earn out figure was to be calculated, cause GoDo to operate its business in a manner so as to make it materially more likely that GoDo would achieve a lower EBITDA than would be likely to be the case if the existing model were continued.
+In my view, however, there was an obvious need to imply a term in the RDJ International case that does not exist here because here a maximum and a minimum adjusted price for the shares was specified. 
+In the absence of that specification the usual clause that the parties take all necessary steps to enable the other party to have the benefit of the contract might be implied. Or that form of the implication might be expressed by reference to the actual terms of the agreement. In either event, a basis for implication would exist.
+Here, it seems to me that the parties did take into account that there might be, as a result of the determination of the EBITDA of the business during the 12 month period after sale, either an increase or a decrease in the purchase price. Each party was prepared to bear the risk of what might happen within the range from the minimum to the maximum adjusted price for the shares specified in the agreement for sale: the plaintiffs that it might be at the lower end of the scale, the defendant that it might be at the upper end of the scale. 
+That seems to me to be a significant point of distinction between the general position and the position in RDJ International. The oral conversation in relation to "business as usual" in this case does not seem to me to justify a departure from the view that I hold that it was inappropriate to plead an implied term in par 6(b) of the statement of claim and a similar provision in the defence to cross-claim. 
+The question is what should I do? 
+The termination of the proceedings is subject to principles that are well understood. The case must be very clear to justify summary intervention to prevent a plaintiff submitting a case for determination in the appointed manner (Dey versus Victorian Railways Commissioners <case>; [(1949) 78 CLR 62] at 631). 
+It may not be beyond the realm of ingenuity to construct a different implied term that does not suffer the same problems with respect to the specified limits within which the adjusted purchase price for the shares in GoDo may be set. 
+For that reason I propose to make orders that the paragraphs in the pleadings depending upon par 6(b) of the statement of claim should be struck out with liberty to re-plead by no later than 4.00 pm on Friday 20 April 2012. The parties are to draw up short minutes of order. The order for costs will be on the ordinary basis. The plaintiffs are to pay the defendant's costs. * * * 

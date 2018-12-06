@@ -1,0 +1,355 @@
+
+
+Baan Australia Pty Ltd versus George Weston Foods Ltd [2000] NSWSC 504 (8 June )
+
+Last Updated: 16 October 2000 
+NEW SOUTH WALES SUPREME COURT 
+CITATION: Baan Australia Pty Ltd versus George Weston Foods Ltd <case> 
+CURRENT JURISDICTION: Equity Division 
+Commercial List 
+FILE NUMBER(S): 50217/97 
+HEARING DATE{S): 15, 16, 17 and 18 May 2000 
+JUDGMENT DATE: 08/06/2000 
+PARTIES: 
+Baan Australia Pty Limited (Plaintiff/Cross Defendant) 
+George Weston Foods Limited (Defendant/Cross Claimant) 
+JUDGMENT OF: Bergin J 
+LOWER COURT JURISDICTION: Not Applicable 
+LOWER COURT FILE NUMBER(S): Not Applicable 
+LOWER COURT JUDICIAL OFFICER: Not Applicable 
+COUNSEL: 
+AJL Bannon SC/AJ Payne (Plaintiff/Cross Defendant) 
+S Finch SC/D Studdy (Defendant/Cross Claimant) 
+SOLICITORS: 
+Clayton Utz (Plaintiff/Cross Defendant) 
+Gilbert & Tobin (Defendant/Cross Claimant) 
+CATCHWORDS: 
+Separate determination of questions pursuant to Part 31 Rule 2 of the Supreme
+Court Rules - Whether terms to be implied into Agreements for licence and support of Software.
+
+ACTS CITED: 
+DECISION: 
+Terms not Implied. All questions answered No.
+
+JUDGMENT: 
+THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+COMMERCIAL LIST 
+BERGIN J 
+THURSDAY 8 JUNE 2000 /97 - BAAN AUSTRALIA PTY LIMITED versus GEORGE WESTON FOODS LIMITED 
+JUDGMENT 
+Background This matter involves the determination of a number of separate questions pursuant to Part 31 Rule 2 of the Supreme Court Rules. The questions relate to matters arising from a dispute between the parties in respect of the termination of Agreements into which they entered in December 1996.
+ George Weston Foods Ltd (GWF) owns and operates a number of subsidiaries and divisions through which it manufactures and distributes a variety of food products.
+ Prior to 1996 GWF operated a computer network linking each of its divisions which was not capable of processing a large volume of transactions in and between those divisions. The divisions operated individual and discrete computer and software systems.
+ GWF made a decision in late 1995 to replace and upgrade its computer system with a new wide area computer network (WAN) which has been referred to in the proceedings as an Enterprise Resource Planning System comprising software and hardware (ERP) Baan Australia Limited (Baan) is a wholly owned subsidiary of BaanNV, a company incorporated under the laws of the Netherlands. Baan supplies and distributes software including a software known as Baan IV(b) (the Baan software).
+ On 10 May 1996 GWF issued a request for proposal document (RFP) to a number of software suppliers including Baan. On 29 May 1996 Baan responded to the RFP (the RFP response). On 1 July 1996 Baan provided GWF with notes of explanation relating to what it described as its "proposal for your organisation" (the RFP
+Explanation).
+ During the period July 1996 to September 1996 the representatives of GWF and
+Baan met at what has become known between the parties as the functionality presentations. It is claimed that during the course of those presentations certain representations were made about the Baan software.
+ In the course of its business Baan published Sizing Guides. The particular guide relevant in this case was issued in December 1996. (Ex B7) During late October and early November 1996 representatives of GWF travelled overseas on site visits. From the report in relation to those visits (Ex 15) it is apparent that none of the sites visited were operating the Baan software. One of the sites visited was operating a version of the Baan software at a Beta site which was in situ to test for any operational difficulties in a "live environment" (Tr.64).
+ On 3 January 1997, the parties executed two agreements dated 31 December , the Software Licence and Support Agreement (the SLSA) and the
+Professional Services Agreement (the PSA). Schedule A to the PSA refers to a
+Statement of Work as a mutually agreed document that outlines a set of services to complete a defined scope of work. Schedule A provided that a
+Statement of Work would be "annexed and will be part of" the PSA. The
+Statement of Work was signed on 22 August 1997 (Ex B4).
+ In October 1997 Baan was refused access to GWF's premises and on 12
+November 1997 GWF, by letter from its solicitors Gilbert & Tobin to Baan's solicitors Clayton Utz, terminated the SLSA and PSA immediately.
+ Pursuant to the SLSA GWF was required to pay a licence fee of $6,101 million. This fee was to be paid in two instalments, the first $3,505,500, which has been paid, and the second on 31 December 1997, $2,595,500 which has not been paid. A maintenance fee of $610,100 was paid by GWF for 1997 but the maintenance fee of $915,150 has not been paid.
+ Pursuant to the PSA, GWF agreed to pay a fee of $5,191 million. Without descending into the particular detail of the instalments by which such fee was to be paid, the amount not paid is $2,933,270 together with an amount of $250,000 in respect of some modifications.
+ Baan commenced proceedings on 1 December 1997 in what was then known as the
+Commercial Division of this Court seeking damages for GWF's alleged wrongful repudiation of the SLSA and the PSA. GWF, by way of cross claim, sought damages for breach of contract (the contract case), contravention of ss 52 and of the [Trade Practices Act ](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) (Cth) (the representations case), and negligence.
+
+Order for Determination of Separate Questions On 20 November 1998 Rolfe J made an order that the separate questions be determined as preliminary legal questions. The separate questions are in two
+Lists - List "A" and List "B. List "A" contains 24 separate questions and List "B" contains 22 separate questions.
+ In List "A" questions 3 to 8 inclusive relate to GWF's contract case and questions 1, 2 and 9 to 24 inclusive relate to the representations case.
+Questions 3 to 7 are based upon matters pleaded by GWF in its Amended Cross
+Claim. Question 8 is based upon par. 34(d)(ii) of Baan's defence to the
+Amended Cross Claim In List "B" questions 3 to 16 inclusive relate to the contract case and questions 1, 2 and 17 to 22 inclusive relate to the representations case. The
+List "B" questions are based on Baan's defence to GWF's Amended Cross Claim.
+ Question 24 in List "A" is as follows: If any of the representations referred to in this list of questions was made, in relation to each such representation, did GWF rely on the representation? The parties agree that question 24 must be answered no. Mr Finch SC made the concession in respect to the answer to that question on the morning of the fourth day of the trial. The reason for that concession is found in the evidence of Mr Guest, a former employee of GWF, who gave evidence that: * he had authority to negotiate and enter into the contract on behalf of GWF; * in negotiating the contract, with the assistance of GWF's lawyers, he attempted to include protections for GWF which he regarded as important; * he was satisfied both by his own assessment and with the assistance of the advice of GWF's lawyers, that GWF was protected in respect of all matters which he regarded as of critical importance; * the contract was entered into in reliance on his assessment, with the assistance and advice of GWF's lawyers, that the contract adequately dealt with and covered all matters which he regarded as important for the purposes of GWF in deciding to proceed with Baan; and * there was no matter outside of the contract which he was relying upon when he entered into the contract on behalf of GWF. (Tr. 86)  Mr Guest also gave evidence that any representations and promises that he thought were important had been dealt with in Schedule D to the SLSA (Tr 86).
+ In the circumstances it has been agreed that the Amended Cross Claim relating to the representations case is to be dismissed and the parties will bring in short minutes to reflect that position in due course. It has also been agreed that there should be a revocation of the order for determination of questions 1, 2 and 9 to 24 inclusive in List "A". The short minutes will also reflect that order.
+ GWF concedes that Baan is entitled to its costs in respect of that portion of the Amended Cross Claim and the hearing in relation to those separate questions, but opposes the application for indemnity costs made by Mr Bannon
+SC. This is a matter to which I will return later.
+
+The Parties approach to the Questions In the light of this development the parties were in agreement that questions 3 to 8 inclusive in List "A" in the contract case are the only questions requiring decision. Neither party addressed the questions in List "B" and the Short Minutes of order will also contain an order revoking the order made for the determination of those questions.
+ Mr Finch SC has carefully analysed each of the terms GWF claims can be implied from the SLSA and the PSA and in some minor respects with the assistance of some "commercial matrix type" documents.
+ Mr Bannon SC submitted that the terms of the contract are to be discerned by reference to the SLSA and the PSA which are distinct contracts and should be read separately except where expressly provided.
+ It is submitted that none of the questions for determination raises an issue of construction of an accepted term of the contract. Each of the terms for which GWF contends is said to be an implied term. The implication in each case is said to arise from the express terms of the SLSA and/or the PSA and from other documents to which I shall refer in due course.
+ Although the Amended Cross Claim relied upon statements made during the functionality presentations and the course of conduct between the parties recorded both in documents and constituted by statements, there was no reliance by GWF on such oral statements for the purpose of the determination of these questions.
+ Mr Bannon SC submitted that the onus is on GWF to establish that the agreements are ineffective without the implied terms and that it has not discharged that onus. In this regard he reminded the Court of the potentially overlapping conditions for the implication of a term as follows: it must be reasonable and equitable; it must be necessary to give business efficacy to the contract; it must be so obvious that it goes without saying; it must be capable of clear expression; it must not contradict an express term of the contract.
+
+BP Refinery (Westernport Pty Ltd) versus Hastings (1977) 180 CLR 266 at 282-283; Byrne versus Australian Airlines Ltd [(1995) 185 CLR 410] at 322-324.  GWF contends that the language of the Agreements will compel or necessarily drive the Court to the conclusion that the parties must have intended the terms stipulated in each of the alleged implied terms the subject of each of the questions: Hamlyn & Co versus Wood & Co [(1891) 2 QB 488] at 494;
+Peters American Delicacy Co Ltd versus Champion <case>; [(1928) 41 CLR 316] at 322.
+
+The GWF/Baan Agreement The Amended Cross Claim defines the GWF/Baan Agreement as the SLSA and PSA "collectively" (par. 17). GWF also pleads that the PSA was collateral to and interdependent upon the SLSA (par. 18). Baan admits par. 17 but denies par. 18 of the Amended Cross Claim.
+
+The Software Licence and Support Agreement (the SLSA) The SLSA "describes the terms and conditions pursuant to which" Baan agreed to licence and support certain defined software to GWF.
+ The software is defined as the computer software known as Baan IV software and all modules including Baan Tools together with Informix data base software and all tools (cl. 1.13 and Sch A).
+ Pursuant to various conditions and restrictions, Baan granted GWF a licence to use the software on "the Equipment" at each of GWF's locations in Australia and New Zealand and at one third party disaster recovery location (cl. 2.1 and .12).
+ "Equipment" is defined as "the computer system including peripheral equipment and operating system software specified in Schedule B". Schedule B provides: "B1. The following is the Equipment on which Customer may Use the Software: 
+IBM or HP UNIX Servers and associated clients and peripheral devices.
+
+B2. The following is the Operating System on which Customer may use the
+Software.
+
+HP UNIX, IBM UNIX, Windows NT.  GWF agreed to pay a licence fee of $6,101 million and a fee for maintenance and support which was to be calculated pursuant to a formula (cl. 4 and Sch.
+A).
+ The SLSA provides a regime for maintenance and support of the software by
+Baan to GWF (cl 5). This regime was to commence on the date of the physical delivery of a tape containing "(a part of) the software" (cl. 5.1 and 1.4).
+The initial period of maintenance and support was from the date of delivery until the end of the calendar year in which delivery occurred with yearly renewals, unless GWF terminated such regime by written notice 90 days prior to the end of the then current period (cl. 5.1).
+ Baan gave written warranties in respect of the software (cl. 6.1) and Baan and GWF acknowledged that they had each relied upon the RFP and Baan's response purportedly contained in Schedule F to the SLSA.
+ Baan warranted that the software and its adaptations had been designed to be used "prior to, on and after 1 January 2000" and would "operate without error in the processing of date and date related data (including without limitation calculating, comparing, indexing and sequencing) prior to, on and after, 1 January 2000" (cl. 6.1.(a)).
+ Clause 6.2 provides: .2 Except as set forth, Baan makes no warranties, whether express, implied, or statutory regarding or relating to the Software or the Documentation, or any materials or services furnished or provided to Customer under this
+Agreement, including maintenance and support. Baan specifically disclaims all implied warranties of merchantability and fitness for a particular purpose with respect to the software, documentation and said other materials and services, and with respect to the use of any of the foregoing. In addition,
+Baan disclaims any warranty with respect to, and will not be liable or otherwise responsible for, any error in the operation of the Software to the extent such error was caused by any modification, alteration or addition to the source code of the Software undertaken by Customer.
+
+Request For Information. Each party acknowledges that the other party has relied upon the Customer's request for proposal (RFP for George Weston Foods dated 05/10/96) and Baan's response thereto which is attached hereto as
+Schedule F. 
+The parties agreed that any representation or warranty not expressly contained in the SLSA would not be enforceable (cl. 6.7).
+ Although cl. 6.2 states that Baan's response to the RFP was attached as
+Annexure F it is clear from the evidence that Schedule F was a document probably compiled by GWF from part of Baan's response. Schedule F is certainly not the whole of the RFP response.
+ The performance of the software (cl.14) was subject to a Performance
+Guarantee contained in Schedule D of the SLSA. The stated objective of the
+Performance Guarantee was to "nominate expected response times and outline the criteria for these response times". It states that different types of sessions would have different response times and that such times could be provided for interactive sessions, where inter-transactions were performed, and query sessions which involved display information. It was not possible to give response times for batch sessions in which transactions and information were processed and printed. These were excluded because of the "great differences in the batch environment defined by the user".
+ There are four categories of response time definitions. The first is menu exchange, the response time for which is the expiration time between entering the confirmation key and the appearance of the screen prompt in the chosen
+Menu. The factors which determine the response time in respect of this category are the degree of machine utilisation or the number of concurrent
+Baan IV users and the type of processes that are being executed.
+ The second category is starting a session, the response time for which is the expiration time between entering the confirmation key and the appearance of the screen prompt in the chosen session. The factors determining the response time in this category are once again the number of concurrent users and the type of processes being executed and also the availability of internal memory and the CPU capacity.
+ The third category has two parts. The first is entering a command in an interactive processing session the response time for which is the expiration time between entering the confirmation key and the appearance of the screen prompt. The factors determining the response time are once again the degree of machine utilisation and also the relation between the active part of the data base (the files which were used at a certain moment by concurrent users) and the internal memory.
+ The second part of the third category is entering fields in a session, the response time for which is the expiration time between entering the confirmation key and the appearance of the screen prompt. The factors affecting the response time for this part are the same as those affecting the first part of this category.
+ The fourth category is the query session processing, the response time for which is the expiration time between entering the confirmation key and the appearance of the required data on the screen. The factors affecting the response time for this category are the type of query and the number and size of consulted files.
+ The Performance Guarantee for response times "Starting Points" section provides: 
+Once GWF has nominated its hardware partner Baan will determine with the hardware supplier the relevant configuration as determined by the Baan published sizing and configuration guide.
+ The "Prior Conditions" section of the Performance Guarantee are as follows: - the Software is used in an appropriate manner to meet business requirements as mutually agreed by all parties - the System is optimally tuned and the discs are optimally divided - System management takes care of System reorganisation regularly.
+Historical files have to be saved on external media as much as possible; - delay/overhead as a result of local network communication fall outside the scope of this document - delay/overhead as a result of other System software or application software.
+ - when considering the required response times, batch sessions are not taken into account. In case of a test of response times, no batch sessions can be executed at that moment. It is assumed that execution of batch sessions take place before or after peak hours. Examples of batch session are: - posting programs (e.g. logistic-financial), project requirements calculations (MRP per project), variant computation (product configurator); - Total number of Concurrent Users logged in shall be no more than stipulated in the Agreement; - The active part of the database which is directly approached, should not exceed a third part of the internal memory; - The utilisation degree of the external memory may amount to 80% of the total external memory.  The Performance Guarantee then provides that on every day during the term of the agreement between 0830 hours and 1730 hours: in 99% of the cases (measured as an average over the duration of that nine hour period) the following categories will have the following respective response times: - category 1. Menu exchange: 2 seconds - category 2. Starting a session: 4 seconds - category 3(a). Command interactive session processing: 4 seconds.
+ - category 3(b) Entering the fields in a session. 1 second
+In 90% of the cases (measured as an average over the duration of that 9 hour period) the following category will have the following response time: - category 4. Query session processing:  seconds (*) (*) this applies to simple queries. In case of more complex queries, response time depends on the formulation of the queries.
+ Clause 12.4 of the SLSA provides as follows: .4 Entire Agreement. This Agreement (including the Schedules and any addenda hereto signed by both parties) contains the entire agreement of the parties with respect to the subject matter of this Agreement and supersedes all previous communications, representations, understandings and agreements, either oral or written, between the parties with respect to said subject matter, except as provided in [Section .3](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/s1.3.html) with respect to the definition of "confidential information".
+ The Professional Services Agreement (the PSA) is defined in the SLSA and is referred to in a number of the clauses of the SLSA. One of the restrictions to the licence granted to GWF is a prohibition on the writing or developing of any derivative software except pursuant to authorised use of the Baan tools or pursuant to the PSA (cl. 3(d)). The parties also agreed that the costs of the installation and conversion would be invoiced pursuant to Sch. B of the PSA (cl. 5.6).
+ The SLSA took effect from the date on which GWF and Baan signed the agreement (cl. 9.1 and 1.6). It could be terminated by GWF upon 30 days prior written notice to Baan, "with or without cause", provided that no such termination would entitle GWF to a refund of any portion of the licence fee or the maintenance fee (cl. 9.2). If Baan was in breach of the SLSA, GWF was "entitled" to fix a reasonable period for the cure of Baan's breach preceding any termination of the SLSA (cl. 9.2).
+ Baan could terminate the SLSA by written notice to GWF if GWF failed to pay the licence fee; or if GWF was in material breach of any non-monetary term, condition or provision of the SLSA which if capable of cure had not been cured within 30 days after written notice from Baan; or if GWF terminated or suspended its business activities, became insolvent or subject to bankruptcy or insolvency proceedings (cl. 9.3(a)(b)(c)). Baan could also terminate the
+SLSA by written notice if it elected to refund GWF's fees in accordance with the provisions of the SLSA. Such termination would have effect immediately upon the giving of written notice (cl. 9.3).
+
+The Professional Services Agreement (the PSA) The PSA "describes the terms and conditions" pursuant to which Baan was to provide professional services with respect to the Software licence granted by
+Baan to GWF pursuant to the SLSA. Baan agreed to provide the services in the
+Statement of Work (cl. 1.1; Ex 4B) including services that were to be provided by Baan's subcontractor, The Implementors.
+ Baan and GWF agreed that they would together be responsible for the formation of the GWF customer competency centre (GWFCC). The Statement of Work set out a matrix showing a list of responsibilities.
+ From that matrix Baan was responsible for bug fixes in the software; modifications of software; and quality assurance. GWF was responsible for enhancements of the software. Baan and GWFCC were together responsible for the formation of the GWFCC, Help Desk Support, Personalisation of Screens and
+Reports. GWFCC was responsible for Interface Development, Management of
+Change, and Technical Infrastructure Layout Planning. Baan and GWFCC and the hardware vendors were responsible for the Technical Infrastructure installation and configuration (Ex 4B p 3).
+ Clauses 4.4 (No offset), 7 (Indemnification for Infringement), 8 (Confidential Information), 9 (Term and Termination), 11 (Notices) and 12 of the SLSA were incorporated into the PSA (cl. 9).
+ Baan warranted that the software and its adaptations had been designed to be used "prior to, on and after 1 January 2000" and would "operate without error in the processing of date and date related data (including without limitation, calculating, comparing, indexing and sequencing) prior to, on and after, 1 January 2000" (cl. 7.1(a)).
+ A similar clause to 12.4 of the SLSA was contained in the PSA (cl. 7.2).
+ The PSA was able to be terminated, "with or without cause", by GWF upon 30 days prior written notice to Baan provided that GWF was not entitled to a refund of any portion of the service fee. A similar provision to that in the
+SLSA was contained in the PSA entitling GWF to fix a reasonable period for cure of any breach of the agreement by Baan preceding termination. Similar provisions to those contained in the SLSA were contained within the PSA entitling Baan to terminate the agreement (cl 8.2).
+
+Other Documents The parties each relied upon the PSA and the SLSA as the contractual documents to which the Court should have regard in determining the answers to the questions. However there are other documents to which reference has been made during the course of submissions which need some explanation. They are the RFP (Ex B1) and the Sizing Guide (Ex B7).
+
+The RFP (Ex B1) Baan and GWF acknowledged in clause 6.2 of the SLSA that they had each "relied upon" the RFP (Ex. B1).
+ The Preface to the RFP states that its purpose is to provide information to enable the recipient to "propose a total software solution" to GWF. In referring to the Introduction section of the RFP the Preface states that such "provides an overview of GWF objectives and outlines general conditions and restrictions that apply to the proposal process" The Introduction consists of three major sections, (1) General Conditions and Restrictions, (2) Business Objectives and (3) Assumptions and Constraints.
+ The General Conditions and Restrictions section details the requirements of confidentiality (cl. 1.1.1), the process for responses and evaluation (cls.
+.1.2, 1.1.3 and 1.1.5) and the criteria used to evaluate and select the vendor (cl 1.1.4).
+ The Business Objectives section details the two major areas of GWF's objectives for "the replacement applications" (cl. 1.2). They are divided into the General Business Requirements (cl. 1.2.1) and the Unique Business
+Requirements (cl. 1.2.2) with the aim of providing an expanded understanding of the relationship of "process to function" within GWF.
+ The Assumptions and Constraints section of the Introduction advises the recipients that they "should be aware of a number of assumptions that have been agreed with GWF executives (cl. 1.3.1).
+ Those Assumptions are divided into Key Assumptions (cl.1.3.1) and Other
+Assumptions (cl.1.3.2). The Constraint section (cl. 1.3.3) refers to the timing for the Evaluation Process and the Implementation of the general software in certain areas within GWF.
+ The RFP includes a questionnaire, together with instructions, to be completed by the recipient (cl. 2-2.7 inclusive and cl. 3-3.5 inclusive). It also includes a vendor profile (cl. 4) and a section dealing with technology requirements (cl. 5) and capacity requirements (cl. 6).
+ The capacity requirements set out the current number of users (903) and the potential future number of users (1210). The cost evaluation summary of the
+RFP (cl. 9) required the recipient to provide estimates of cost of various items including hardware and software, maintenance and support, education and training.
+
+The Baan IV Sizing Guide (Ex B7) GWF's Amended Cross Claim alleges that Baan published the Baan IV Sizing
+Guide (the Sizing Guide) in December 1996 and claimed that it specified the "anticipated network load resulting from the operation of the software" (par.
+(d)(ii)). Baan denied this allegation and claimed that its use was as a guide only and was subject to certain conditions and qualifications (par. 12).
+ The Sizing Guide states that it is to be used as a "guide during the selection of a suitable hardware configuration for BaanIV" and that it provided "guidelines for the size of the CPU, the amount of internal memory, network usage and network load" (Ex. B7 par. 1.1). Baan stated that it assumed no liability for any damages or extra costs resulting from recommendations based on the Sizing Guide (par. 1.1).
+ The Sizing Guide compares ASCII, which is a character based user interface, and GUI, which is the graphical user interface. The Baan software is compared to an earlier Baan software product, known as Triton 3.1, in which the Baan software is described as "Baan (IV) GUI" (par. 1.3.3). The Sizing Guide states that although Baan has performed "thorough and reliable benchmarks on the products" referred to in the Sizing Guide, computer systems "configured using the guide cannot be guaranteed in a customer contract". This was said to be due to the many number of variables in the sizing procedure which are often not available in a "pre-sale situation" (Ex. 7B par. 1.1.).
+ The Sizing Guide highlights the importance of an awareness of the difference between a user who is only connected to the system but not actually using it and a user who is connected and doing active work, such as data entry or waiting for a response. The following terms are defined: * "Named users" and "Licensed users" as users that can potentially log on to the system; * "Connected users" and "Logged on users" as users that are simultaneously accessed in the system; and * "Active users" and "Concurrent users" as those among the connected users that are all doing active work. (par. 1.2.5) The Sizing Guide advises that the number of "connected" or "logged-on" users is important for planning memory and disk capacity, but not for selecting the CPU. Only "active" users are of interest in the selection of the
+CPU as "non-active", "logged-on" or "connected" users do not increase the load on the CPU.
+ The Sizing Guide describes the Baan Software architecture in detail. It consists of three layers, the Presentation layer, the Application layer and the Database layer. Each is implemented as a different server, the
+Presentation server, the Application server and the Database Server (cl.
+.4.1).
+ The several configurations available are: * the host mode: in which components of the three layers are on one single system; * 2-tier/client server I: in which the user interface is on one system and the application and database are on another system; * 2-tier/client server II: in which the user interface and application are on one system and the database is on another system; * 3-tier/client server: in which all components of the three layers are on different systems (cl. 1.4.1).  The Sizing Guide reports that Baan had tested "network traffic" between the different servers in both a Local Area Network (LAN) and a Wide Area Network environment. Baan remarked that for those tests it had used "machines" from "different hardware vendors" and named HP, IBM, DEC and Sun. It also remarked that it had used ACC Routers with modem emulators to emulate a WAN environment, without compression.
+ Although tests had been conducted in both LAN and WAN environments the results of the tests on the client server configurations in the WAN environment were apparently not available. The Sizing Guide reported that such would be published in a future Sizing Guide.
+ It was also noted that the increased functionality of the Baan Software made more demands upon user interface "equipment" and required more bandwidth.
+It offered a possible solution in "situations where these higher demands are problematic". It recommended a Citrix product known as WinFrame and described its attributes (par. 1.4.7).
+ The Sizing Guide advised that in a presentation server-application server connection with the use of a 64Kbps bandwidth line in a WAN environment a maximum of 10 concurrent users could be configured (par. 1.4.4).
+ The Guide referred to specific drivers and servers. It warned the reader to be "careful" in the choice of a level I or level II driver because changing between the two would need a conversion of the whole database (par. 1.7.1). It also advised that it was then "not advisable" to use certain products and recommended other products (par. 1.7.2).
+ It further set out the PC-configuration needed for the Presentation server on a PC and advised that Windows 95 or Windows NT version 3.51 or higher should be used. It advised that MS-Windows 3.1 and 3.11 were not supported (par. 1.7.3).
+ The Appendix to the Sizing Guide details results of tests on "hardware platforms" in particular configurations. The platforms that are listed are those of the "hardware vendors" referred to earlier: HP, IBM, DEC and Sun.
+
+The Questions for Determination During final submissions there was some debate as to whether GWF is propounding a case for implied terms in each of the questions for determination. Mr Finch SC submitted that GWF is simply pulling in the various definitions from various places in the SLSA and PSA to make sense of what would otherwise be a series of very small, but conjunctively linked, terms. Mr
+Bannon SC submitted that the questions posed do require the Court to imply or decline to imply a term in the contract.
+ I am satisfied that each of the questions involves a decision as to whether a particular term should be implied. This is apparent both from the Amended
+Cross Claim from which they are drawn which claims in each case that the terms are partly express and partly implied and from the terms of question 6 which refers to the "implied term" in questions 3 and 4.
+
+Question 3 The first question for determination is question 3 which is: 
+Was it a term of the GWF/Baan agreement, or the SLSA, that the Enterprise
+Resource Planning Software known as Baan IV(b) when used in conjunction with equipment selected by reference by the Baan IV Sizing Guide, would be capable of enabling at least 1000 users in and between the GWF divisions with GUI to simultaneously process transactions? (the GUI term) Having regard to the admission made in the pleadings I intend to treat the reference to the GWF/Baan Agreement as the SLSA and/or the PSA including the
+Statement of Work (the PSA).
+ The GUI term differs slightly from par. 26 of the Amended Cross Claim upon which it is said to be based. The pleading refers only to "the Baan Software" and makes no reference to the "Enterprise Resource Planning Software".
+ There is no contest between the parties as to the identification of the relevant software described as the "Enterprise Resource Planning Software known as BaanIV(b)". This identification is pleaded by GWF in paragraph 7(b) of the Amended Cross Claim and is admitted by Baan in paragraph 4 (a) of its
+Defence. I shall refer to it as the Baan Software.
+ Mr Finch SC has carefully traced the source of each of the concepts or elements contained in the GUI term to the SLSA and the PSA. He has also referred to the RFP, the Sizing Guide and two letters from Baan to GWF in
+October 1996.
+ These concepts or elements of the GUI term are that the Baan Software: * when used in conjunction with equipment selected by reference to the BaanIV sizing guide; * will be capable of enabling at least 1,000 users; * in and between GWF divisions; * with GUI; * to simultaneously process transactions.  A number of these concepts are found in the later questions for determination and in particular the first of them is found in all but one of the questions. To the extent that it is dependent upon the view that I take in respect of the first concept the determination of this question will impact upon the determination of the later questions.
+ When used in conjunction with equipment selected by reference to the BaanIV sizing guide: GWF relied upon cl. 14 of the SLSA "Performance of the Software" which refers to Schedule D, the Performance Guarantee. It is submitted that the terms of the "Starting Points" section in the Performance Guarantee is a source for this part of the GUI term. It provides that "once GWF has nominated its hardware partner Baan will determine with the hardware supplier the relevant configuration as determined by the Baan published sizing and configuration guide". It is submitted that the irresistible conclusion from these words is that the software will be used "in conjunction with equipment selected by reference to the BaanIV Sizing Guide".
+ Mr Bannon SC submitted that the use of the term "equipment" is quite unclear. It was submitted this lack of clarity was exposed by asking whether equipment is limited only to computer equipment or whether it also includes network equipment.
+ A further problem arises from the use of the word "equipment" in the GUI term because the Sizing Guide from which it is said the "selection" is to be determined uses a number of different terms. Those terms include "equipment" in "user interface equipment" (par. 1.4.7) and in "modem and multiplexer equipment" (par. 1.4.2); "hardware" in "hardware figures", "hardware tables", "hardware configuration" (par. 1.1 and 1.7) and "hardware platform" (App.A); and "machines" in "machines of different hardware vendors" and "DEM machines" (par. 1.4.1 and 1.5).
+ "Equipment" is defined in the SLSA as "the computer system, including peripheral equipment and operating system software, specified in Schedule B".
+Thus "equipment" as defined in the SLSA includes both hardware and software.
+ The licence granted by Baan to GWF to use the Baan software is conditional upon it being used on the equipment as defined (cl. 1.7; 2.1 and Sch. D). If
+GWF wished to use "substitute, upgraded or additional" equipment to that specified it was required to give Baan prior written notice (cl. 2.1).
+Additionally if the "specified equipment" was inoperable or under repair GWF was entitled to transfer the Baan software to "substitute" equipment using an operating system that was supported by Baan (cl. 2.3).
+ However if the Baan software was transferred to an operating system that was not supported by Baan, GWF was to be responsible for any required services (cl. 2.3). This clause accomodated GWF's freedom to use an operating system not supported by Baan on the understanding that GWF had to be responsible for any required services.
+ Baan was required to inform GWF of the "specifications of the modem equipment and associated software needed". The SLSA also provided that GWF was to be responsible for the costs and use of that equipment(cl.5.8(a)).
+ "Documentation" is defined as any "on line help files or written instructions manuals regarding the Use of the software" (cl. 1.5). "Use" is defined as "loading, utilisation, storage or display of the software" by GWF by no more than the number of concurrent users (cl. 1.20). There is no reference to any documentation for selection of equipment.
+ There is no statement in the Sizing Guide that it is to be used for determining the "selection of equipment". There is a statement in the
+Introduction that it is to be used as a "guide during the selection of suitable hardware configuration". It also states that it provides guidelines for the "size of the CPU, the amount of internal memory, network usage and network load".
+ I am of the view that in the GUI term the problem of whether "equipment" is hardware and software, or simply hardware of the computer and/or network, is compounded by what seems to me to be a confusion of two quite separate concepts. These two concepts are firstly, the selection of equipment which is the decision to use or select particular hardware or hardware and software, and secondly, the configuration of that hardware or hardware and software which is the manner in which it or they are arranged.
+ The selection of the hardware and/or software may depend upon the configuration that is proposed which itself may depend upon particular needs including the number and location of users and the required memory.
+Alternatively the configuration may depend upon the hardware and/or software that has been selected. However, although there may be some dependency of one upon the other, they are, in my view, two different concepts.
+ The SLSA states that the equipment that is to be used with the Baan software, or selected for use, is the equipment in Schedule B. That includes both software and hardware. The Starting Points section of the performance guarantee provides that the configuration is that which is to be determined or selected by reference to the Sizing guide. It is the configuration of the equipment rather than the selection of the "equipment" to which this section refers.
+ I am not persuaded that there is a necessary implication that the "equipment" is to be selected in the same manner. However that is not to say that some reference might not be made to the Sizing guide when choosing or selecting the hardware and/or software required to be used with the Baan software as stipulated in Schedule B.
+ Would be capable of enabling at least 1,000 users: Once again Mr Finch
+SC traced the source of this concept of the GUI term to the SLSA. Schedule A refers specifically to the number of "concurrent user licenses" as 1000. It also refers to some "future purchase options" with prices provided for various categories "for each additional concurrent user". "Concurrent users" are defined as "all log-ons into the Baan Shell of the Software at any one time" (cl. 1.2).
+ Reliance was placed on cl. 1.20 which defines "use" as "the loading, utilisation, storage or display of the software, by customer by no more than the number of Concurrent Users set forth on Schedule B". However Schedule B makes no reference to concurrent users and Schedule A refers to "concurrent user licenses".
+ Mr Finch SC also placed reliance upon one of the "Prior Conditions" in the
+Performance Guarantee which provides that the "total number of concurrent users logged in should be no more than stipulated in the agreement". There is also reference in Schedule B of the PSA that the price of $5,191 million is for the implementation of "software for 1,000 users".
+ In and between GWF divisions: This element of the GUI term is not controversial. The SLSA licensed the Baan Software to GWF for it to be used within and between its various divisions. Mr Bannon SC made such a concession during final submissions and it is not necessary for me to deal further with it.
+ With GUI: This reference is also uncontroversial insofar as the parties agree that the Baan software includes the graphic user interface (GUI) feature.
+ To simultaneously process transactions: GWF submits that this element is contemplated by the use of the term "concurrent users". The reference to that latter term is traced to the SLSA and the PSA to which I have already referred.
+ Mr Finch SC submitted that the term "concurrent" means people on the machines and using them which, he submitted, means they are simultaneously processing transactions. Some support for this construction is found in the
+Sizing Guide which defines "concurrent users" as those among the connected users that are all doing active work (Ex. B7 par. 1.2.5).
+ However somewhat inconsistently with that definition is the definition of "concurrent users' in the SLSA which gives its meaning as all "log-ons" into the Baan Shell of the software at any one time (cl. 1.2.). "Log-ons" are not defined in the SLSA however the Sizing Guide refers to "logged on" users and includes non-active users as part of that group (par. 1.2.5).
+ The guaranteed response times in the Performance Guarantee are between 1 and 5 seconds for specific categories of transactions. The actual response times will depend upon a number of factors set out in detail in the
+Performance Guarantee. The term "simultaneous" means at the same time and does not accommodate the range of response times to which the parties have agreed.
+Additionally the Performance Guarantee limited the guarantee of those times to either 90% or 99% of transactions and even then subject to various qualifications. A further matter of importance is the exclusion of batch sessions from any guarantee of times for responses in the performance guarantee.
+ Baan makes a number of submissions in respect of this question which will be applicable to each of the other questions for determination. Mr Bannon SC emphasised the importance of the distinction between an inquiry as to the construction of an express term and an inquiry as to what are the terms of a contract. This is an inquiry of the latter kind.
+ The SLSA and the PSA are detailed commercial agreements and from their content it can be concluded that the parties intended them to contain all the terms of their bargain. Such a conclusion is supported by Mr Guest's evidence outlined in par. 19 above. In such circumstances the onus of justifying the
+GUI term, and the other terms, is most difficult to discharge: Codelfa
+Construction Pty Ltd versus State Rail Authority of New South Wales  <case>; [(1982) 149 CLR 337.] 
+Reasonable and equitable/ Contradiction of express term? It is submitted that the GUI term is expressed in the form of a warranty as to a performance capability of the software, that is, that it is capable of enabling 1,000 users to simultaneously process transactions and that such warranty is inconsistent with cl. 6.2 of the SLSA and 7.2 of the PSA. Each of those clauses states that Baan makes no warranties "except as set forth above". It is submitted that such a warranty is not "set forth' in the SLSA.
+ The Performance Guarantee constitutes a very detailed promise on Baan's part that the response time of the software in processing various defined categories of request would be of specified duration subject to certain "Prior
+Conditions" expressly stated in the Performance Guarantee. In those circumstances it is submitted there is no occasion to imply a term which purports to deal with that same subject matter without qualification.
+ It is submitted that the GUI term is inconsistent with the Performance
+Guarantee in a number of respects. For instance, the Prior Condition in the
+Performance Guarantee that any delay/overhead as a result of local network communication falls outside the scope of the guarantee is not excluded in the
+GUI term.
+ The GUI term would impose responsibility upon Baan in circumstances where ,000 of the GWF employees were unable to simultaneously process transactions by reason of a failure in the network service provider's capacity to provide the network line or connection. It would also impose responsibility upon Baan for the failure to be able to simultaneously perform transactions in a batch session. This would be so notwithstanding the parties express agreement that such were not covered by the guarantee. The GUI term therefore contradicts the express terms of the SLSA.
+ In all the circumstances I am also of the view that such a term is both unreasonable and inequitable.
+
+Obvious/Capable of clear expression? Mr Bannon SC returned to his submission in respect of the looseness of the term "equipment". The problems identified in relation to the use of the term "equipment" and the equating of the term "concurrent users" to simultaneous processing of transactions leads me to the conclusion that the GUI term is not so obvious that it goes without saying.
+ The earlier analysis in relation to the confusion of the two concepts regarding the selection of the equipment and the determination of the configuration also leads me to the conclusion that it is not capable of clear expression.
+
+Business Efficacy It is submitted that if there is a guarantee of the performance of the software within the Performance Guarantee and there are specific express warranties in cl. 6 of the SLSA, it is not essential that there be a warranty as to the capacity of the software to achieve the performance referred to in the GUI term.
+ The SLSA and the PSA have express detailed qualifications and conditions of certain of its terms. The GUI term has no such qualifications or conditions and would effectively destroy the integrity of the agreements the parties have reached. In that regard business efficacy would be far from well served.
+ The GUI term does not fit within any of the conditions for the implication of a term. I am not satisfied that the language of the SLSA and/or the PSA necessarily drives the Court to the conclusion that the parties must have intended the GUI term to be part of their agreement.
+ I am of the view that Question 3 should be answered no.
+
+Question 4 Question 4 is as follows: 
+Was it a term of the GWF/Baan Agreement, or the SLSA, that the enterprise resource planning software known as BaanIV(b) when used in conjunction with equipment selected by reference to the Baan IV Sizing Guide, would enable users in and between the GWF divisions to carry out certain processes within the following response times: 
+In 99% of cases during the period 0830 hours to 1730 hours: seconds for menu selections: seconds for starting a session; seconds for command interactive session processing; second for entering fields in a session; and in 90% of cases during the period 0830 hours 1730 hours the time for query session processing would be 5 seconds? (the Response term) Mr Finch SC relied upon his tracing of the concepts contained in the GUI term which are found in this term. The new concept in the Response term in place of the concept of simultaneous processing of transactions in the GUI term is that the software would enable users, without specification as to how many, to carry out certain processes within certain response times.
+ Mr Finch SC conceded that the Performance Guarantee does qualify the matters referred to in the Response term. In consequence he submitted that GWF would not oppose an affirmative answer to this question with the condition that it is subject to the Starting Points section and Prior Conditions contained in the Performance Guarantee.
+ He submitted that the matters referred to under the heading "Factors which
+Determine the Response Time" in the Performance Guarantee are really matters of explanation of the circumstances in which the response times are applicable and do not derogate from the nature of the guarantee. However he submitted that GWF would be quite happy for the determining factors to be stated by way of qualification.
+ Mr Bannon SC repeated the submissions he made in respect of the GUI term.
+ The Response term has all of the problems exposed in the GUI term with the additional problems which flow from the unqualified statement about the response times.
+ The Performance Guarantee sets out the Prior Conditions which are not included in this term and additionally states that the 99% of cases is "measured as an average over the duration of the 9 hour period between 0830 to ". No such qualification of the method of measurement is contained within the Response term.
+ It is important to analyse Mr Finch SC's concessions to understand whether it is merely a matter of an addition to the term to make it one that falls within the criteria for implying such a term in the agreement between the parties.
+ It is submitted that the Court could add the words "subject to the
+Starting Points and Prior Conditions of the Performance Guarantee" at the end of the Response term to accommodate the concessions. However that seems to create more problems for the implication of this term.
+ This problem is exposed by an analysis of the terms of one of the Prior
+Conditions to which GWF concedes the Response term should be subjected. It provides: "delay/overhead as a result of other System software or application software". The immediately previous condition provides: "delay/overhead as a result of local network communication fall outside the scope of this document". There is no such exclusion of the delay in relation to system software. What then does it mean for the Response term if it is to subjected to it? Did the parties really intend to exclude such delay and simply forget to include the exclusion? Or did they intend to make such delay the responsibility of Baan? These are matters of construction of an express term which have not been addressed and which in my view, until addressed would not be amenable to inclusion in an implied term such as the Response term. It is certainly not so obvious that it goes without saying and at the moment is not capable of clear expression.
+ In addition to this problem the Response term has all the problems identified in the GUI term in relation to the "equipment" and the confusion of the two separate concepts of selection and configuration of hardware and/or software.
+ In all these circumstances I am of the view that this question must also be answered no.
+
+Question 5 Question 5 is as follows: 
+Was it a term of the GWF/Baan Agreement, or the SLSA, that in accordance with the Baan IV Sizing Guide, Baan would determine with the supplier of the hardware component of the ERP the relevant configuration of hardware to be used in conjunction with the Baan software for the ERP? (the Configuration term) Mr Finch SC submitted that if there was any suggestion of ambiguity in the
+Configuration term I could have regard to the "commercial matrix" document which is exhibit B8. That is a letter of 30 December 1996 from Baan to GWF in which reliance was placed upon the section headed "Key Commercial Terms" which states that the "hardware will be acquired by GWF at Baan specifications".
+ This refers to acquisition as opposed to configuration. Just as the difference between selection and configuration of "equipment" in the GUI term was in my view important, the difference between acquisition and configuration in this term is important.
+ Mr Bannon SC relied on the express term of the Performance Guarantee to which reference has already been made a number of times. It provides: 
+Once GWF has nominated its hardware partner Baan will determine with the hardware supplier the relevant configuration as determined by the Baan published sizing and configuration Guide.
+ The Configuration term omits any reference to GWF's nomination of a hardware partner and introduces the concept of "configuration of hardware" in place of the term in the Performance Guarantee of "relevant configuration".
+ Mr Bannon SC submitted that configuration of hardware and/or software includes making an assessment of the positioning of the various servers (presentation, application and database) and making a decision as to which arrangement (host mode, 2-tier/client server I, 2-tier/client server II or -tier/client server) will be suitable for the particular circumstances of the intended use of the Baan software. (Ex B7 cl 1.4.1) It is submitted that the expression "relevant configuration" in the
+Performance Guarantee is not qualified to configuration of hardware. It is submitted it is inconsistent with the express terms of the Performance
+Guarantee.
+ The "several possible" configurations referred to in the Sizing Guide (par. 1.4.1) are not limited to hardware. That explanation refers to components in three layers or in different configurations of host, two tier or three tier arrangements. It is apparent the configuration also contemplates the manner in which the network is to be accessed via the network services providers cable or lines (Ex B7; Fig. 1-2).
+ The Starting Points Section of the Performance Guarantee requires a step to be taken by GWF prior to Baan doing anything about the relevant configuration. GWF has to nominate is hardware partner. Once that is done it seems clear enough that Baan is to "determine with the hardware supplier" the relevant configuration.
+ To limit the responsibility of Baan in the circumstances to a configuration of hardware is, it seems to me, inconsistent with the express term of the Performance Guarantee which requires Baan to determine the relevant configuration of more than simply the hardware.
+ The parties obviously agreed to the terms of the Starting Points section of the Performance Guarantee. It may be suggested then that by removal of the words "of hardware" from the Configuration term the Court could and would be satisfied that such was a term of the contract.
+ However there are problems with that approach. These are once again found in the detailed Prior Conditions and other terms of the Performance Guarantee.
+The "relevant configuration" may well have to be subject to the Prior
+Conditions that "the total number of Concurrent Users logged in shall be no more that stipulated in the Agreement" and that "the active part of the database which is directly approached, should not exceed a third part of the internal memory".
+ I agree with Mr Bannon SC's submission that "relevant configuration" will have a meaning in the context of the agreements entered into and will have to be construed in due course. It is not appropriate for the Court to amend the
+Cross Claimant's questions to see if such an amendment will fit within the tests for the implication of a term.
+ In all these circumstances I am of the view that Question 5 should be answered no.
+
+Question 6 Question 6 is as follows: 
+Was it a term of the GWF/Baan Agreement, or the SLSA that the relevant configuration of hardware determined in accordance with the Baan IV Sizing
+Guide would, when used in conjunction with the Baan IV software, enable the
+ERP to perform in accordance with the implied term in question 3 the implied term in question 4? (the Sizing term) This question is intrinsically intertwined with Questions 3 to 5 inclusive. By reason of the negative answers to those questions the answer to this question must also be no.
+
+Question 7 Question 7 is in the following terms: 
+Was it a term of the GWF/Baan Agreement, or the SLSA, that the Baan software, when used in conjunction with equipment selected by reference to the Baan IV
+Sizing Guide, would be capable of being installed and operated by GWF within the time frame contemplated by the ERP and the RFP, and in any event before 1
+January 2000? (the Roll Out term) Mr Finch SC conceded that one of the concepts in this question is unsustainable. He submitted that the ERP and the RFP make no reference to and could not be found to have "contemplated" the capability of the installation and operation by a particular date. In consequence he submitted that the answer to the question should be yes but qualified by the rejection that there was any such contemplation in the ERP and the RFP.
+ In propounding a case for a positive answer to this question Mr Finch SC relied upon his previous submissions in respect of the concept relating to the use in conjunction with selected equipment. As to the capability of installation and operation by 1 January 2000 he relied upon cl. 6.1(a) of the
+SLSA. It provides a warranty by Baan that the Baan software "has been designed to be used prior to, on and after 1 January 2000 and will operate without error in the processing of date and date related data (including without limitation calculating, comparing, indexing and sequencing) prior to, on and after 1 January 2000".
+ Mr Bannon SC submitted that this term is once again a warranty and is inconsistent with clause 6.2 of the SLSA and 7.2 of the PSA. It is submitted that it is not necessary to give business efficacy to the contract.
+ It is submitted that the Roll Out term is not so obvious that it goes without saying. One would not expect the parties to agree to a term in such unqualified terms and indeed would expect a large number of protections for
+Baan related to the performance of necessary steps on the part of GWF and any other vendors or providers nominated by GWF.
+ It is also submitted that the term "operated" is uncertain and no level of performance is identified.
+ This term suffers from the difficulties identified in Question 3 as to the use of the term "equipment" and the confusion of the concepts of "selection" and "configuration".
+ The installation and operation of the software was the subject of specific warranties and subject to certain conditions which are inconsistent with this term. Once again a review of the Performance Guarantee demonstrates an inconsistency with an express term of the agreement. One of the prerequisites to the installation, and no doubt the capability of it occurring by a particular date, was the nomination by GWF of its hardware partner. Once that occurred Baan, with the hardware supplier, was to determine the relevant configuration, about which I have already made a number of observations (Ex B7
+Sch.D.Starting Points).
+ At the very least, putting to one side the problems associated with the "selection of equipment" concept, the capability concept in the Roll Out term must be subject to these steps being taken. No such qualification is built in to this term and to this extent I am of the view that it is inconsistent with the SLSA.
+ The Prior Conditions (Ex B7. Sch.D) also require the System, that is the computer software programs in Schedule A "implemented" on the Equipment as specified in Schedule B (cl. 1.26), to be optimally tuned and the "discs" optimally divided. This condition impacts upon the capability of the operation of the software generally and in particular by a specified date. No such qualification is contained in the Roll Out term. Once again I am of the view that it is inconsistent with the SLSA.
+ For these reasons and the reasons set out in the determinations of previous questions the answer to this question must also be no.
+
+Question 8 Question 8 is in the following terms: 
+To the extent that any of the terms referred to in questions 3, 4, 5, 6, and 7 above were terms of the SLSA, PSA and GWF/Baan Agreement or either of them were the terms subject to and did the terms incorporate a term that GWF would within a reasonable time: provide a Network.
+ select and use appropriate technology options for the Baan IV software the Baan IV Platform, the Network and any other associated software and hardware and technology and technical infrastructure (including but not limited to all necessary terminal devices, peripherals and other equipment attached to and relating to the Baan IV Platform and Network or either of them).
+ select and use technical infrastructure for the Baan IV software, the
+Baan IV Platform, the Network and any other associated software and hardware (including not limited to all necessary terminal devices, peripherals and other equipment attached to or relating to the Baan IV Platform and the
+Network and either of them) based on agreed international and industry standards.
+ design the infrastructure needed for the Baan IV software, the Baan IV Platform, the Network and any other associated software and hardware (including but not limited to all necessary terminal devices, peripherals and other equipment attached to or relating to the Baan IV
+Platform and the Network or either of them and ensure system management requirements were met.
+ select and use architecture that would meet the service level targets agreed with all system users and defined in Service Level
+Agreements.
+ select and implement infrastructure (including but not limited to the
+Network and all related technology, technical and other infrastructure and architecture with sufficient capacity to allow the software the subject of the
+RFP Response to provide the functionality described in that Response.
+ maintain adequate and continuous management of the implementation of the
+Baan IV Software, the Baan IV Platform, the Network and any other associated software and hardware and technology and technical infrastructure (including but no limited to all necessary terminal devices, peripherals and other equipment attached to or relating to the Baan IV Platform and the Network or either of them).
+ have adequate numbers of appropriately qualified and experienced staff to implement the Baan IV software, the Baan IV Platform, the Network and other associated software and hardware and technology and technical infrastructure (including but not limited to all necessary terminal devices, peripherals and other equipment attached to or relating to the Baan IV Platform and the
+Network or either of them) decide whether to manage its group systems on a centralised, regional or divisional basis.
+ ensure that Key Management and adequate numbers of appropriately qualified and experienced staff made a full time commitment to the implementation of the
+Baan IV software, the Baan IV Platform, the Network and any other associated software and hardware and technology and technical infrastructure (including but not limited to all necessary terminal devices, peripherals and other equipment attached to or relating to the Baan IV Platform and the Network or either of them).
+ properly manage the implementation of the Baan IV software, the Baan IV
+Platform, the Network and any other associate software and hardware and technology and technical infrastructure including but not limited to all necessary terminal devices, peripherals and other equipment attached to or relating to the Baan IV Platform and the Network or either of them).
+ perform all tasks necessary for the implementation of the Baan IV
+Software, the Baan IV Platform, the Network and any other associate software and hardware and technology and technical infrastructure (including but not limited to all necessary terminal devices, peripherals and other equipment attached to or relating to the Baan IV Platform and the Network or either of them) apart from the implementation referred to in the PSA.
+ decide as to how to manage its computer system.
+ provide all necessary data and other information to Baan and ensure that data and information was adequate and accurate.
+ provide a specific topology to Baan.
+ By reason of the negative answers to questions 3 to 7 inclusive the answer to this question is not required.
+
+Answers to Questions 3 to 8 inclusive Question 3 NO 
+Question 4 NO 
+Question 5 NO 
+Question 6 NO 
+Question 7 NO 
+Question 8 ANSWER NOT REQUIRED If no agreement can be reached I will hear the parties in relation to the costs of the separate hearing.
+
+Costs in relation to Representations Case Mr Bannon SC submitted that Baan should have an indemnity costs order in its favour in respect of the representations case which was abandoned by GWF after the evidence of Mr Guest to which I have referred in pars 18 to 22 above.
+ The basis of such a claim is that Mr Guest's answers which precipitated the abandonment of the case could have been obtained by GWF rather than through Mr Bannon SC's cross examination on the third day of the separate hearing. This has been characterised by Mr Bannon SC as a reasonably straightforward inquiry that should have been made.
+ However it seems the matter is a little more complex. On reflection, I agree with Mr Finch SC's submissions that an opportunity should be afforded to
+GWF to marshal evidence to resist such an application.
+ GWF has conceded that it should pay Baan's costs in respect of the representations case on a party/party basis. If Baan wishes to pursue an order for indemnity costs I will list that application for hearing with directions for the filing of evidence prior to that hearing.
+ The parties are to file Short Minutes in respect of the revocation of the order made for the determination of the other questions in List "A" and all the questions in List "B". Such Minute should also reflect the Answers given in this judgment together with any agreed costs order.
+ The matter is listed before me at 9.30 on 9 June 2000 for the filing of those Short Minutes and for further directions in respect of any outstanding costs application.
+ *
+
+LAST UPDATED: 14/06/2000 * * * 

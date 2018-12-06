@@ -1,0 +1,229 @@
+
+
+SAB Closed 1 Pty Ltd versus Bees & Honey Pty Ltd; Bees & Honey Pty Ltd v SAB Closed 1 Pty Ltd [2015] NSWSC 1019 (28 July 2015) 
+Last Updated: 28 July 2015 
+Supreme Court 
+New South Wales  
+Decision: 
+Purchaser entitled to terminate Asset Sale Agreement but not entitled to return of deposit  
+Catchwords: 
+CONTRACT - sale of assets of two businesses - whether completion date extended - whether conditions precedent to completion satisfied or waived by completion date - whether purchaser entitled to terminate - whether purchaser entitled to return of deposit  
+Cases Cited: 
+Codelfa Construction Pty Ltd versus State Rail Authority of New South Wales <case>; <case>; [95
+CLR 420]  
+Category: 
+Principal judgment  
+Parties: 
+SAB Closed 1 Pty Ltd as trustee for The Sabbaba Newtown Unit Trust (Plaintiff/Cross-Defendant) 
+Bees & Honey Pty Ltd as trustee for Bees and Honey Unit Trust (Defendant/Cross-Claimant)  
+Representation: 
+Counsel: 
+E A J Hyde (Plaintiff/Cross-Defendant) 
+A Blank (Defendant/Cross-Claimant)  
+Solicitors: 
+Norton Rose Fulbright (Plaintiff/Cross-Defendant) 
+SLG Lawyers (Defendant/Cross-Claimant)  
+File Number(s): 
+SC 2015/140430  
+JUDGMENT 
+Introduction
+These proceedings concern an Asset Sale Agreement ("the Agreement") dated 3 February 2015 made between the plaintiff (then known as Sabbaba Corporate Stores Pty Ltd) as vendor and the defendant as purchaser. By the Agreement, the defendant agreed to purchase certain "Assets" associated with two food stores branded "Sabbaba". Those stores were in the MLC Centre at 19-29 Martin Place, Sydney and in the Met Centre at 273 George Street, Sydney.
+The "Assets" the subject of the Agreement comprised "the plant and equipment, fixtures and fittings" of the two stores as described in a schedule to the Agreement, together with "the Stock" at the stores. The "Purchase Price" was defined as "$100,000 (plus GST) plus the Stock Valuation". The Agreement provided for a deposit of $15,000, which the defendant paid on or about 3 February 2015.
+The plaintiff was the operator of the stores. However, it was not the lessee of either store. At the time of the Agreement, the lessee of the MLC Centre store was Sabbaba Leasing Pty Ltd and the lessee of the Met Centre store was Sumo & Sabbaba Leasing Pty Ltd. Each of the plaintiff, Sabbaba Leasing Pty Ltd and Sumo & Sabbaba Leasing Pty Ltd is a wholly owned subsidiary of Sumo Group Australia Pty Ltd.
+The defendant purported to terminate the Agreement on 17 April 2015. The plaintiff contends that the defendant was not so entitled and that its purported termination was a repudiation by the defendant of its obligations under the Agreement.
+Originally, the plaintiff did not accept that repudiation and called on the defendant to perform. Thus, when the plaintiff commenced these proceedings on 11 May 2015, it sought specific performance of the Agreement. However, by an amended summons filed in Court at the outset of the hearing, the plaintiff abandoned that claim and confined its claim to damages. Its damages claim is, in my opinion, confined to the balance of the purchase price: that is, $85,000. The plaintiff made no claim in respect of the stock. It claimed damages for losses associated with the ongoing leases at each store. But, as I have said, it was not the lessee of those stores and has not proved that it, as opposed to those lessees, suffered any loss. By cross-claim, the defendant seeks the return of the $15,000 deposit.
+
+The Agreement
+The operative part of the Agreement was cl 2.2, which was in the following terms: "The Vendor must sell to the Purchaser, and the Purchaser must buy from the
+Vendor, the Assets on an 'as is' basis, but free from any encumbrance, security or third party interest for the Purchase Price (subject to any adjustments to be made in accordance with this Agreement) and otherwise on the terms and conditions of this agreement."
+Clause 3 was headed "Completion" and provided, so far is relevant: "3.1 Time and place of completion 
+Completion is to occur on the Completion Date at 10.00 am at the Vendor's address or at any other time or place agreed in writing by the parties.
+ .2 Obligations of Vendor at completion 
+At completion the Vendor must give the Purchaser unencumbered title to, and ownership of the Assets, and place the Purchaser in effective possession and control of the Assets.
+ .3 Obligations of Purchaser at completion 
+At completion the Purchaser must pay the balance of the Purchase Price (less the Deposit) to the Vendor or as the Vendor may direct by notice to the
+Purchaser."
+The Agreement defined the "Completion Date" as "2 April 2015 or such earlier date as may be agreed by the parties".
+Clause 6 of the Agreement was headed "Leases" and was in the following terms: "6.1 Completion is subject to each of the following conditions precedent ('Conditions Precedent') being satisfied or waived prior to the Completion
+Date: the Vendor receives the Lessors, and the Lessors' mortgagees, consents to the assignment (or sublease) of each of the Leases from Sumo & Sabbaba
+Leasing Pty Ltd and Sabbaba Leasing Pty Ltd to the Purchaser;  the Lessors under the Leases release the Vendor and Sumo & Sabbaba
+Leasing Pty Ltd and Sabbaba Leasing Pty Ltd, from all obligations as tenant of the Leases;  the Lessor for the MLC Centre premises confirming in writing that it will be liable for the cost of the Lessors Works; and  the Lessor for the MLC Centre premises confirming in writing that from the completion of the Lessor's Works the: i. rental will be reduced to $10,416.67 per month subject to any rent review clause in the lease; and  ii. marketing levy payable under the lease will be reduced to 4% of the new base rent.
+ .2 The Vendor and the Purchaser must do all things required by each Lessor to facilitate obtaining their consent to the assignment (or sublease) of the
+Leases. This includes an obligation on the Purchaser to replace the existing bank guarantee/s provided by the Vendor under the terms of the Leases with new
+Bank Guarantees on or before 6 months following the Completion Date.  .3 From the Completion Date and subject to each Lessor's consent, the
+Vendor will procure the assignment (or sublease as the case may be) to the
+Purchaser: 
+Sumo & Sabbaba Leasing Pty Ltd and Sabbaba Leasing Pty Ltd's interest in each Lease;  the benefit of all covenants in favour of Sumo & Sabbaba Leasing
+Pty Ltd and Sabbaba Leasing Pty Ltd in each Lease; and  [t]he Vendor's title or interest in any tenant's fixture.
+ .4 If any of the Conditions Precedent are not waived or satisfied to the reasonable satisfaction of the parties then either party may terminate this
+Agreement at any time before Completion by express written notice to the other party and provided that the Purchaser has complied with its obligations under this Agreement the Vendor will refund the Deposit in full to the Purchaser."
+Clause 2.5 was headed "Approval Condition Precedent" and was in the following terms: "(a) The obligations of the parties at Completion are subject to the Vendor obtaining the consent from all interested parties to the sale of the Assets ('Approval; Condition Precedent'). 
+The Vendor must at its own cost use its reasonable endeavours to procure satisfaction of the Approval Condition Precedent as quickly as possible. 
+If the Approval Condition Precedent is not satisfied or waived by the
+Vendor [sic] by 1 May 2015, then this Agreement is at an end. 
+If [sic] the event that this Agreement ends pursuant to clause 2.5(3) [sic: 2.5(c)] then: i. each party is released from its obligations and liabilities under or in connection with this Agreement and this Agreement has no further effect;  ii. each party retains the rights, remedies and powers it has in connection with any past breach or any claim that has arisen before termination; and  iii. the Vendor must return the Deposit to the Purchaser."
+So far as concerns the deposit, cl 2.1(d) provided: "If this Agreement is terminated because a Condition Precedent is not satisfied as a result of a failure by the Vendor to perform its obligations under clause 6.1 or in the event of clause 2.5, then the Vendor must refund the Deposit to the Purchaser. The Vendor is entitled to retain the Deposit, which is forfeited by the Purchaser, if this Agreement is terminated for any other reason."
+Clause 10.4 of the Agreement was an "entire agreement" clause and provided, relevantly: "This agreement is the entire agreement of the parties on the subject matter. The only enforceable obligations and liabilities of the parties in relation to the subject matter are those that arise out of the provisions contained in this agreement." 
+Issues and decision
+The dispute between the parties can, in my opinion, be resolved by reference to four issues.
+First, did the parties agree to extend the Completion Date. In my opinion, the answer to this question is no. Second, were the "Conditions Precedent" referred to in cl 6.1 of the Agreement satisfied prior to the Completion Date. In my opinion, the answer to this question is also no so far as concerns the question of the consent of the lessors of the Met Centre to the assignment of the lease. Third, in those circumstances, was the defendant entitled to terminate under cl 6.4 of the Agreement. In my opinion, the answer to this question is yes. Fourth, was the plaintiff obliged to return the deposit to the defendant. In my opinion, the answer to this question is no.
+Thus, in my opinion, the defendant was entitled to terminate the Agreement, but is not entitled to a return of the deposit.
+During the four day hearing before me, the parties raised many other issues concerning the Agreement. In my opinion, in view of the conclusions to which I have come, it is not necessary to deal with those issues, although I will identify them briefly at the conclusion of these reasons.
+
+Was the Completion Date extended?
+As I have stated, the Completion Date was defined to mean 2 April 2015 or such earlier date as might be agreed between the parties.
+Clause 10.1 of the Agreement provided that the Agreement could only be amended "in writing, signed by the parties". The parties regularly communicated by email and I proceed on the basis that such emails constitute writing "signed by the parties" for the purpose of cl 10.1.
+On 31 March 2015, Mr Luke Baylis, the sole director of the plaintiff, sent an email to Mr Eilon Bar, the sole director of the defendant.
+Mr Baylis's email was in the following terms: "As per our discussion I confirm the following:  ) The parties agree by mutual consent to amend the completion date to the th of April.  ) Sumo are endeavouring to have the necessary consents from the landlords confirming the assignment of the lease keeping Sumo's bank guarantee in place.  ) [S]umo have agreed on the scope and to cover the cost of the lessor works at Met centre and will conduct the works upon receiving the lessors [sic] consent.  ) [The defendant] will use best commercial efforts to complete the necessary works by this timeframe.  ) Should it not be possible to complete the works by this date due to unforeseen delays then the parties will sit down in good faith and mutually agree on a revised date.  ) Any requested date change will not be unreasonably withheld. 
+Please immediately confirm your agreement with this so I can ensure there is no breach of the current sale agreement as it is in both parties best interest for this not to occur."
+Three hours later Mr Bar replied: "Attached is our formal proposal regarding the new completion dates. 
+We would like to continue working in the best manner as we were working until now. 
+We still are working on the MLC shop from our end to try and complete it as soon as possible. 
+Please review our proposal and reply to it as soon as you can. Might be a good idea to try and arrange a face to face meeting for tomorrow."
+Mr Bar attached to his email the "proposal", which was in the following terms: "After reviewing your email and taking in[to] account today's current situation of both sites: - Up to this date and time (31.03.2015 19:00 pm) we have not received any formal approval from the 'MLC Centre Management' or from 'MET Centre
+Management'.  - Works at the MET [C]entre shop regarding the separation of the two shops didn't take place yet.  - Completion of works at the MLC [C]entre shop - scheduled to be completed by the 11th of April 2015.
+
+We have decided to reply with the following: 
+According to the initial agreement signed on the 3rd of February 2015 - all of the above conditions were to be done as soon as possible right after signing the initial agreement. As for [sic: at] today, none of the above has been completed; therefore, we believe that there was a breach of our initial agreement from the vendor's side. In spite of this, [the defendant] will agree on continuing the agreement of sale under the following conditions: 
+A. Regarding the MLC Centre- [the defendant] will agree to postpone the date of completion from it's [sic] initial date (2nd of April 2015) to the 1st of [M]ay 2015 [u]nder the following conditions:  ) [The defendant] will receive a formal approval letter from the MLC
+Centre [M]anagement by the 2nd of April 2015.
+ [The defendant] agrees to do all necessary actions to take over the MLC shop as quick as possible.
+
+B. Regarding the MET [C]entre shop- [the defendant] will continue working towards a takeover as soon as possible, this takeover will probably be later than the new agreed completion date due to delays that occurred until now. [The defendant] will agree to a new takeover date agreed by both parties under the following conditions:  ) [The defendant] will receive a formal approval letter from the MET
+Centre [M]anagement by the 10th of April 2015.  ) The works (regarding separation of the two shops) at the MET Centre site will be completed by the 17th of April 2015." [Emphasis in original]
+In cross-examination, Mr Baylis said, referring to Mr Bar's email of 31 March 2015, that Mr Bar "came back with a counter response different to our discussion". The cross-examination continued: "Q. That's really what this is, isn't it, you were putting a proposal forward and Mr Bar was putting a counter proposal? 
+A. Well we had the discussion and at the time Mr Bar agreed to the discussion. Then subsequently it appears that he's come back and changed the points as per that discussion. 
+Q. That's very difficult for Mr Bar to deal with because you haven't given any evidence about that discussion have you? 
+A. No, I haven't. I've missed it out. 
+Q. I want to put to you that whatever discussions you may have had on 31
+March they certainly didn't achieve an agreed position? 
+A. Off the back of my email it appears that I felt they did. 
+Q. If you look at Mr Bar's email it seems like they didn't? 
+A. I believe Mr Bar was trying [to] renegotiate the deal and push it back to suit his timeframe."
+Mr Baylis's comment "off the back of my email it appears that I felt they did" suggests to me that Mr Baylis did not have an independent recollection of the terms of his 31 March 2015 discussion with Mr Bar. He did not refer to the conversation in his affidavit, although he referred to a number of other conversations with Mr Bar.
+Although the defendant served a number of affidavits sworn by Mr Bar, Mr Bar did not give evidence. I must therefore assume that his evidence on this (or any other) point would not have assisted the defendant.
+Nonetheless, I cannot conclude from the exchange of emails that any agreement was reached between Mr Baylis and Mr Bar that either party thought was conclusive or binding.
+Later communications between the parties make clear that neither thought any agreement was reached by reason of the events of 31 March 2015. On that date, the matter rested with Mr Bar's conditional proposals for an extension of the Completion Date to 1 May 2015 in relation to the MLC Centre and an unspecified later date in relation to the Met Centre.
+During the morning of 2 April 2015 Mr Baylis sent an email to Mr Bar stating that he wished to work with Mr Bar to ensure a "smooth and timely transition for both stores" and that the plaintiff was "prepared to discuss amending the dates should a mutually agreeable date be determined".
+Some 20 minutes later, the plaintiff's solicitors sent an email to Mr Bar asserting that the cl 6.1 conditions precedent had been satisfied (I return to this below), that the Agreement was now "unconditional" and that the plaintiff was "in a position to settle today". The email continued: "However, due to the landlord[s'] delay in providing their consent and thus delaying the satisfaction of the lease conditions precedent, our client proposes that the parties agree to push back the Completion Date to 18 April to facilitate a smooth transition of the sale."
+The plaintiff's solicitors' statement that the plaintiff proposed that the Completion Date be "push[ed] back" to 18 April 2015 makes clear that Mr Baylis did not contend that any agreement had been reached on 31 March 2015.
+Around 10 minutes later, Mr Bar and Mr Baylis agreed to meet "this morning to discuss revised dates of the settlement".
+A short time later, Mr Baylis and Mr Bar met. Mr Baylis's account of their conversation makes perfectly clear that no agreement as to the Completion Date had yet been made, or was made as a result of that conversation.
+Mr Baylis's account of the conversation was as follows: "We had a conversation about revising the dates of certain matters to occur pursuant to the Asset Sale Agreement, including an exchange to the following effect:  [Mr Baylis]: 'I'm still confident we can meet the dates provided in the contract.' 
+Mr Bar: 'There's no way, it's not possible.'  [Mr Baylis]: 'The only way we can agree otherwise is if you consent to a formal change of dates, otherwise I'll still proceed on the agreed schedule.' 
+Mr Bar: 'It's not possible.'  [Mr Baylis]: 'We'll see. What is a realistic date you can have the stores refurbished by? Let's go through what you need to do and the scope of work to determine a set date'. 
+A conversation then took place between Mr Bar, his son Guy and myself over the specific scope of works and timeframes to complete this in order to set definitive dates (the exact words of which I don't recall). We then had an exchange to the following effect:  [Mr Baylis]: 'We can move the MLC date back a week or so, and the Met
+Centre one can be pushed back until mid-May.' 
+Mr Bar: 'That's probably ok, I'll come back to you. It seems possible.'  [Mr Bar's son]: 'I agree.'  [Mr Baylis]: 'It's my intention to complete the sale agreement within the original dates specified. However, I am prepared to revise the dates in order to assist you with making the necessary changes without incurring any dead rent. There's no other outstanding issue other than addressing the dates, once that's done then we're ready to proceed. I'[d] be prepared to help you out and work out a fair arrangement on how we deal with the clawback as well after the dates are sorted out.' 
+Mr Bar: 'I agree. It all sounds fine, just give me the weekend to think about it.' 
+Mr Bar then gave me a hug at the end of the meeting." [Emphasis in original] April 2015 was the Thursday before Easter. Thus, "the weekend" to which Mr Bar referred was the Easter long weekend.
+Several days later, on 8 April 2015, the plaintiff's solicitors wrote to the defendant's solicitors asserting that the cl 6.1 conditions precedent had been satisfied, and that the plaintiff had been "ready to complete on 2 April 2015, as required by the Agreement", but was "prepared to assist" the defendant with completion by proposing a new completion date of 8 May 2015.
+On 14 April 2015, the defendant's solicitors replied to the plaintiff's solicitors' letter of 8 April 2015 stating that the defendant did not accept there had been any amendment to the Completion Date.
+On 15 April 2015, the plaintiff's solicitors sent an email to the defendant's solicitors to which I shall refer further below. In that letter, the solicitors made a "without prejudice" proposal (which was included in the Court Book without objection by either party) which included extension of the Completion Date to mid May 2015. Although the email referred to the "communications" of 2 April 2015, it contained no suggestion of any earlier agreement as to extension of the Completion Date.
+In these circumstances, my conclusion is that no agreement was reached between the parties to extend the Completion Date. It remained as 2 April 2015.
+
+The condition precedent that the lessors consent to assignment or sublease of the MCL Centre and Met Centre leases
+Clause 6.1(a) of the Agreement provided that it was a condition precedent to completion that the plaintiff receive the consent of the lessors of each of the MLC Centre and Met Centre stores, and their mortgagees, to the assignment or sublease of the leases of those stores to the defendant.
+So far as concerns the lessors' consent, I shall deal separately with the MLC Centre and the Met Centre. It was common ground that satisfaction of this condition precedent required that any conditions imposed by the lessors to their consent would have to be either satisfied or waived prior to the Completion Date.
+
+The MLC Centre
+On 24 March 2015, Ms Leigh Dunn, the project general manager from MLC Centre Management, sent an email to Mr Bar attaching the MLC Centre's "conditional consent" to the assignment of lease. The conditions were that the defendant: * (1) execute and return Ms Dunn's letter; * (2) take out public liability insurance cover to a minimum value of $20 million; * (3) establish a "replacement bank guarantee" for $42,900; and * (4) execute a direct debit authority in the form attached by Ms Dunn to her email.
+By 1 April 2015, Mr Bar had agreed to a compromise proposal concerning the bank guarantee and had otherwise agreed to the MLC Centre's conditions. Ms Dunn gave unchallenged evidence to that effect.
+On 1 April 2015, Ms Dunn sent an email to Mr Baylis's executive assistant confirming this arrangement. Ms Dunn's email was in the following terms: "Further to our conversation this morning. I spoke with [Mr Bar], he will hand amend the letter we issued on the 24th of March to reflect the retention of the existing bank guarantee for a period of 6 months at which time a replacement must be provided before 15 October. 
+I have also explained to him that he can return the DDR [direct debit] form but we will not commence debiting this account without the invoice being amended into his name. 
+He seems comfortable with that and is going to sign and return the letter to me today so I can arrange for the solicitors to prepare the deed of assignment and variation."
+Thus, this aspect of the cl 6.1(a) condition precedent was satisfied or waived prior to the Completion Date of 2 April 2015.
+Mr Bar did not, however, "sign and return" Ms Dunn's 24 March 2015 letter of approval, nor did he execute the direct debit form that Ms Dunn sent him the same day. I will return to this below.
+
+The Met Centre
+I have reached a different conclusion concerning the Met Centre.
+There was a complication in relation to the Met Centre store which Mr Hyde, who appeared for the plaintiff, summarised in his submissions in the following terms: "In relation to the Met Centre Store, it was not, in fact, possible for there to be an assignment of the lease for the Met Centre premises or the grant of a sub-lease. That this was so was due to the fact that: premises the subject of the Met Centre Lease had been at all relevant times operated as two separate retail premises (a 'Sabbaba' branded outlet and a 'Sumo' branded outlet); and  under the Asset Sale Agreement, [the defendant] was only to acquire the assets of the 'Sabbaba' branded outlet and the Lessors' consent to lease that part of the premises the subject of the Met Centre Lease occupied by the 'Sabbaba' branded outlet.
+
+By reason of [these] matters...there needed to be a surrender of the Met
+Centre Lease and two new leases to be issued on the same terms (together with associated works to be undertaken at [the plaintiff's] expense to split the premises). This was a matter which was known to Mr Bar." [Citations omitted]
+I accept Mr Hyde's submission that Mr Baylis's evidence makes clear that Mr Bar knew there could be no assignment or sublease of the Met Centre store, that there would have to be a "split" tenancy and that he was content to proceed upon that basis.
+On 2 April 2015, Ms Diane Rowley, the centre manager for the Met Centre, sent an email to Mr Baylis confirming conditional agreement to a split tenancy. The conditions were: * (1) a deposit of $40,000; and * (2) "confirmation of $142K clawback to be shared 70% to [the defendant] and 30% to Sumo as per the lease requirements."
+The first condition was satisfied. The deposit of $40,000 was made (albeit on 2 April 2015, and thus on, rather than "prior to", the Completion Date).
+The second condition, concerning the "$142K clawback", was not.
+The Met Centre lease contained a provision entitling the lessor to recover ("clawback") from the lessee funds earlier provided by the lessor for the fit out of the premises (the "$142K" referred to).
+Thus, what Ms Rowley was conveying was that the Met Centre's lessors' consent to the new leasing arrangements was conditional upon the defendant agreeing to accept an obligation to pay 70 per cent of that amount.
+Notwithstanding the failure by Mr Bar to give evidence on this subject, I am satisfied that he, and thus the defendant, did not agree to this.
+The plaintiff's case was that it, through Mr Baylis, agreed to be responsible for 100 per cent of the clawback, that there was thus no need for the defendant to assume any liability for it and that the Met Centre's condition was thereby satisfied.
+In cross-examination, Mr Baylis said that he had a conversation with Mr Bar "where we agreed that we would take on 100 per cent".
+The cross-examination continued: "Q. I put to you, Mr Baylis, there was never an agreement by Mr Bar? 
+A. For us to take on 100% of the clawback, he was insisting on it. 
+Q. No, for the distribution to be 70/30 as indicated in this email? 
+A. That was on the same basis by which the tenancy was split. That was always - and it was irrelevant because we ended up agreeing to take 100%. 
+Q. When was that agreement reached? 
+A. I don't know the exact date. 
+Q. After this email? 
+A. I believe so, yes."
+Later in the cross-examination, Mr Baylis gave this evidence: "Q. There was still an unresolved issue in relation to the Met Centre clawback? 
+A. No, that would've been agreed that we would take 100% of the liability on the clawback. 
+Q. I put to you that that hadn't been communicated to Mr Bar? 
+A. That had been."
+However, I find Mr Baylis's written communications with Ms Rowley a more reliable guide to what occurred.
+Thus, on 13 April 2015, Mr Baylis sent an email to Ms Rowley as follows: "The purchaser is currently trying to rescind on the asset sale agreement and is getting advice from his barrister in relation to [the plaintiff] not meeting the conditions precedent of this agreement based on the following: ● There are conditions associated with the issuing of the new lease that he disagrees with (being the clawback on the capital incentive) He wont [sic] take on this liability." [Emphasis in original]
+Mr Baylis's email makes clear, in my opinion, that as at 13 April 2015 there had been no agreement concerning the "clawback". As Mr Baylis said in his email, Mr Bar's position as at this date was that the defendant would not "take on" any liability for the "clawback".
+The matter was taken further in the plaintiff's solicitors' email of 15 April 2015 to which I have referred. That email included, under a heading "Concessions offered by my client", the following: "I understand that [Mr Bar] is concerned by the clawback of the fit-out incentive that may come into operation in certain circumstances. To address this concern, my client is prepared to vary the Agreement as set out immediately below. This concession is offered by my client in good faith and despite the leases (copies of which were provided to your client prior to signing the Asset Sale Agreement) clearly stating this obligation and your client expressly agreeing to the assignment of the leases to it. The below concessions are offered on a without prejudice basis. 
+My client is prepared to agree that: . The relevant Sumo entity that is being assigned the lease for its portion of the MLC Store will take on 100% of the liability for the fit-out clawback should it be called on by the lessor for the MLC Store. Likewise it will accept liability for the Met Centre fit-out clawback should it be called on by the lessor for Met Centre.  . The completion date for the Agreement be extended to mid-May to allow orderly sale and my client will be responsible for rent until that occurs.  . On completion, my client will pay your client an amount to cover your reasonable legal fees (up to $10,000).  . In return, on or prior to completion you will arrange for the replacement of the Bank Guarantees provided by Sumo with respect to both MLC
+Store and the Met Centre such that the Sumo Bank Guarantees for these premises can be released to my client."
+That email contains no suggestion of an earlier agreement concerning the clawback. The offer in that email that the plaintiff "will take on 100% of the liability for the fit-out clawback" was, in my opinion, conditional on the defendant agreeing to the other three elements of the "concessions offered" by the plaintiff; in particular, extension of the Completion Date to mid May and the defendant agreeing to replace the bank guarantees provided by the lessees of both the MLC Centre and Met Centre stores forthwith.
+I do not read the plaintiff's solicitors' email of 15 April 2015 as being an unconditional offer to assume all liability under the clawback provision.
+The defendant did not accept the proposal in the plaintiff's solicitors' email of 15 April 2015. Rather, as I have mentioned, two days later, on 17 April 2015, the defendant purported to terminate the Agreement.
+In those circumstances, my opinion is that the condition precedent referred to in cl 6.1(a) of the Agreement was not satisfied prior to the Completion Date in relation to the Met Centre.
+
+The remaining conditions precedent
+As cl 6.1 called for satisfaction or waiver of "each" of the conditions precedent, it is not necessary for me to consider whether the remaining condition precedent referred to in cl 6.1(a) (consent of the lessors' mortgagees) or those referred to in cll 6.1(b), (c) and (d) of the Agreement were satisfied.
+However, I will do so, albeit briefly.
+So far as concerns the consent of the lessors' mortgagees, it is common ground that the lessors of the MLC Centre had no mortgage and that this question did not arise concerning that lease.
+So far as concerns the lessors of the Met Centre shop, that lessor did have a mortgagee. However, Ms Lan Leung, the centre manager of the Met Centre, and Ms Rowley's superior, gave unchallenged evidence that: "I did not need to obtain the consent of the [mortgagee] to the above arrangements [those necessary to ensure that the defendant became the lessee of the Met Centre] as the [mortgagee] has given us a blanket consent to manage the leasing arrangements for tenancies within the Met Centre".
+I accept Mr Hyde's submission that this evidence shows that there was no need separately to obtain the Met Centre's lessor's mortgagee's consent. There was, to adopt Mr Hyde's language, a blanket consent in place.
+The condition precedent referred to in cl 6.1(b) (that the lessors release the plaintiff and the existing lessees of the two stores from their obligations as tenants under the leases) was satisfied, although that was only confirmed to the defendant by the plaintiff's solicitors' email of 15 April 2015 to which I have referred.
+Compliance with the condition precedent referred to at cl 6.1(c) (confirmation from the MLC Centre lessor that it would be liable for the cost of the "Lessors Works") did not arise. The Agreement defined "Lessors Works" as such works as the lessor of the MLC Centre required "as part of any assignment of the lease for the MLC Centre to the [defendant]". On the evidence, there were no such works.
+As to the condition precedent referred to in cl 6.1(d) (confirmation from the MLC Centre lessor of a reduction in the rent and marketing levy payable), this was confirmed by Ms Dunn on behalf of the MLC Centre lessor as early as 24 March 2015.
+
+The proviso to cl 6.4
+As I have mentioned, although Mr Bar, on behalf of the defendant, agreed to each of the MLC Centre's conditions of consent to the assignment of the MLC Centre store lease, Mr Bar did not sign and return to Ms Dunn her letter of 24 March 2015 or the direct deposit form.
+In those circumstances, Mr Hyde submitted that the defendant was in breach of its obligations under cl 6.2 of the Agreement to "do all things required by each Lessor to facilitate obtaining their consent to the assignment (or sublease) of the Leases". It followed, Mr Hyde submitted, that the defendant had not "complied with its obligations under this Agreement" for the purpose of the proviso to cl 6.4 and was therefore not entitled to exercise a right of termination under that clause.
+I do not accept the second part of that submission.
+Clause 6.4 provides that a party may terminate the Agreement if "any" of the conditions precedent is not satisfied or waived. That wording is consistent with cl 6.1, which provides that completion is subject to satisfaction or waiver of "each" of the conditions precedent specified.
+The defendant was thus entitled to terminate the Agreement by reason of the want of satisfaction or waiver of any one of the conditions precedent; even if all other conditions precedent had been satisfied or waived.
+Having stated the circumstances in which either party could terminate the Agreement, cl 6.4 continued: "provided that the Purchaser has complied with its obligations under this Agreement the Vendor will refund the Deposit in full to the Purchaser".
+As Mr Blank, who appeared for the defendant, pointed out, the proviso is not directed to termination but to a different question, namely the return of the deposit. The proviso thus addresses the possibility that it is the purchaser (that is, the defendant) that terminates the Agreement, and provides that, in that event, the vendor (the plaintiff) must refund the deposit "provided that the Purchaser has complied with its obligations under this Agreement".
+Read literally, the proviso requires compliance by the terminating purchaser with all of its obligations under the Agreement, whether or not those obligations are referable to the condition precedent providing the basis for termination.
+I see no reason not to give the proviso that meaning.
+That reading does not produce an unreasonable or commercially irrational result. It attributes to the parties an intention that if the defendant, as purchaser, was entitled to terminate for want of satisfaction or waiver of one of the cl 6.1 conditions precedent, but was itself in breach of any of its obligations under the Agreement, then the losses should lie where they fall; namely, the plaintiff vendor would lose its entitlement to recover the balance of the purchase price, and the defendant purchaser would forfeit its deposit.
+I accept Mr Hyde's submission that the defendant was in breach of its obligations under cl 6.2 in the respect set out at [76].
+It follows that the proviso is enlivened and that, although the defendant was entitled to terminate the Agreement, the plaintiff is not obliged to refund the deposit.
+
+Other issues raised by the defendant
+Mr Blank submitted that, quite apart from the question of the conditions precedent, on the proper construction of the Agreement, time was of the essence and, accordingly, the defendant was entitled to terminate by reason of the plaintiff's failure to complete by the Completion Date.
+I do not accept that submission. It is true that the parties defined the Completion Date with specificity to refer to "2 April 2015 or such earlier date as may be agreed by the parties", and provided in cl 3.1 for completion to occur at 10am on the Completion Date. However, cl 3.1 also provides that completion might occur "at any other time or place agreed in writing by the parties".
+Further, the parties made specific and detailed provision in cl 6 for when and how the Agreement might be terminated. I see no room for the conclusion that they intended there to be some other, unstated, basis for termination, especially in light of the "entire agreement" clause to which I have referred (see [12] above).
+Mr Blank also submitted that the Approval Condition Precedent referred to in cl 2.5 of the Agreement (see [10] above) had not been satisfied, as the plaintiff had not obtained the consent of "all interested parties" to the sale of the "Assets". That matter does not need to be considered because the Approval Condition Precedent did not have to be satisfied until 1 May 2015, and if it was not, the Agreement simply came to an end (see cl 2.5(c)).
+I have concluded that the defendant rightly terminated the Agreement on 17 April 2015. Thus the question of whether the Agreement would have been "at an end" on 1 May 2015 for want of satisfaction of the Approval Condition Precedent does not arise. Nor would it have arisen had I concluded that the defendant was not entitled to terminate the Agreement as, in that event, the defendant would have repudiated its obligations under the Agreement.
+Nor do I need to consider Mr Blank's submission that the plaintiff was not "ready, willing and able" to complete the Agreement for the reason that it was not able to give the defendant "unencumbered title to" or "effective possession and control of" the "Assets" (for the purpose of cl 3.2 of the Agreement). That obligation would only have arisen "at completion". "Completion" did not take place because the defendant terminated the Agreement.
+Mr Blank also submitted that it was an implied term of the Agreement that, on completion, the plaintiff would place the defendant in the position of lessee of both the MLC Centre and Met Centre stores. In light of the detailed provisions made in cl 6.1 of the Agreement concerning the conditions precedent, I very much doubt that it would be necessary to "give business efficacy" to the Agreement to imply any such term (for example see Codelfa Construction Pty Ltd versus State Rail Authority of New South Wales  <case>; [149 CLR 337] to commence "by" rather than "from" the Completion Date. That question does not arise.
+In final written submissions, Mr Blank also contended that the plaintiff was "estopped from relying on the terms of the Agreement, having promised and represented that it would ensure the Defendant obtained occupation by 2 April, 2015". Quite what was meant by that submission was not developed. However, as I have said, Mr Bar did not give evidence. There is thus no evidence of the representation alleged or of the defendant's reliance on it.
+
+Damages
+In view of the conclusion to which I have come, it is also not necessary for me to consider the damages to which the plaintiff would have been entitled, were it to have been successful.
+However, as I have mentioned, had I concluded that the plaintiff was entitled to damages, I would have awarded it only $85,000, being the difference between the purchase price of $100,000 and the $15,000 deposit paid by the defendant.
+That is for two reasons.
+The first is that although the "Purchase Price" under the Agreement was $100,000 "plus the Stock Valuation", the plaintiff adduced no evidence before me to justify an award of damages in respect of stock.
+The second is that the plaintiff has not proved any other loss.
+The plaintiff's claim for damages was, apart from the balance of the purchase price, for the following amounts: 
+MLC Centre Store 
+Met Centre Store  ---  
+Surrender costs $83,333.33 -  
+Costs of de-fit for make good requirement $25,134.40 -  
+Equipment and refurbishment works to convert the 'Sabbaba' branded outlet at the Met Centre to a Sumo shop to mitigate the loss and damage -
+ $131,404.00  
+TOTAL $239,871.73 
+The difficulty with this claim is that these losses, if they were incurred, were not incurred by the plaintiff but rather by the lessees of the MLC Centre and Met Centre stores. The plaintiff adduced no evidence to show that it had any obligation to reimburse those lessees for such costs or that those costs otherwise represented a loss that it had suffered.
+
+Conclusion
+I invite the parties to bring in short minutes of order to give effect to these reasons.
+I will hear the parties as to costs.
+ * * * 

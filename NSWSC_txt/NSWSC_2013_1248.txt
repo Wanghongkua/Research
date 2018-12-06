@@ -1,0 +1,590 @@
+
+
+BigTinCan Pty Ltd versus Ramsay [2013] NSWSC 1248 (4 September 2013) 
+Last Updated: 11 September 2013 
+Supreme Court 
+New South Wales  
+Case Title: 
+BigTinCan Pty Ltd versus Ramsay  
+Medium Neutral Citation: <case>  
+Hearing Date(s): to 15 August 2013  
+Decision Date: September 2013  
+Jurisdiction: 
+Equity Division  
+Before: 
+Ball J  
+Decision: 
+See paragraph 107 of this judgment.  
+Catchwords: 
+EQUITY - breach of fiduciary duties owed to a company by a director - knowing assistance in a dishonest and fraudulent breach of fiduciary duty - test of causation for breach of fiduciary duty - equitable compensation for a lost opportunity 
+CORPORATE LAW - breach of [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s181.html)  
+JUDGMENT 
+Introduction
+The plaintiff, BigTinCan Ltd (BTC), was incorporated on 28 October 2008 by Mr David Keane, who had substantial experience in the information technology and telecommunications industries. BTC was established to develop and to exploit a smart phone application (app) and associated services which permitted subscribers to obtain access from their smart phones to telephony services offered by BTC at reduced rates using wholesale capacity acquired by BTC from a telecommunications carrier. The app in effect automated the functions of a traditional telephone calling card. The service, which was originally known as BigTinCan and which became known as BigTinCan Connect, required considerable capital investment not only to develop its functionality but also to acquire sufficient wholesale capacity from a telecommunications carrier at a price which would permit BTC both to offer a discount to its subscribers and to earn a profit on the services it provided.
+The shareholding in BTC changed over time. However, throughout the period BTC traded, Mr Keane held a controlling interest in it. He and Mr David Ward, who was a personal friend of Mr Keane, were the original directors of the company.
+On 9 January 2009, the second defendant, Mr David Ramsay, was appointed a director of BTC and he and his wife were issued with 1,225,000 shares each in the company which, at the time of the events giving rise to this proceeding, together constituted approximately 20.4 per cent of the company's shares. Mr Ramsay had extensive experience in raising capital for start up information technology companies and his principal task as a director of BTC was to assist the company to raise additional capital so that it could continue to develop the BigTinCan Connect service.
+The first version of BigTinCan Connect was developed by BTC using several contractors. The technology it developed was known as Webcan 1. By the middle of 2009, BTC had a small number of subscribers to its BigTinCan Connect service. 
+Mr Keane was not entirely happy with the contractors who worked on Webcan 1. He was introduced to the third defendant, Mr Roel Pollers, as a technical person who could assist in developing an enhanced version of Webcan 1. Mr Pollers, who worked full time for Telstra, agreed to do work for BTC. By December 2009, Webcan 2 was largely complete and was made available to subscribers at about that time. On 8 February 2010, Mr Pollers entered into a consulting agreement with BTC. In addition, he was issued with 1,550,000 shares in the company which, at the time they were issued, constituted approximately 12.9 per cent of the capital of the company.
+BTC claims that Mr Ramsay, in breach of his fiduciary duties as a director of BTC and the duties he owed under [ss 181](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s181.html)-[3](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s3.html) of the [Corporations Act 2001](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth), formulated a plan to set up a new company, referred to as "NewCo", to acquire all or some of the business of BTC or to compete with BTC and for that purpose sought to raise capital for NewCo instead of raising capital for BTC. BTC also alleges that Mr Pollers was a party to that plan and that he also owed fiduciary duties to BTC which he breached. Alternatively, it is alleged that Mr Pollers was knowingly concerned in Mr Ramsay's breaches of duty.
+Originally, BTC commenced this proceeding seeking urgent interlocutory relief against Mr Ramsay and Mr Pollers together with others who were said to have been involved in the conduct about which it complains. BTC no longer presses its claims for equitable relief and it has settled its claims against the defendants other than Mr Ramsay and Mr Pollers. As against them, it seeks equitable compensation. It also seeks compensation from Mr Ramsay under [s 1317H](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1317h.html) of the [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) .
+Mr Ramsay and Mr Pollers represented themselves. Although they were both clearly intelligent people, neither had legal training. Both sought to defend the claim on the basis that BTC had failed to prove the essential facts which formed the basis of its claim. Both filed cross-claims in the proceeding. Those cross-claims raised a number of issues. However, the only one that was mentioned during the course of the hearing (and then only during final submissions) was a claim that BTC acted oppressively by making a rights issue of its shares to existing shareholders which had the effect of diluting Mr Ramsay and his wife's interest in the company to 2.6 per cent and Mr Pollers' interest in the company to 1.6 per cent.
+
+Factual background
+Mr Keane had known Mr Ramsay since the mid 1990s when they worked together for a company called Xylan. In September 2008, Mr Keane discussed with Mr Ramsay the development of BigTinCan Connect. Mr Ramsay suggested that Mr Keane meet with Mr Glenn Tetley, the then chairman of ETT Ltd (later known as Farmworks Australia Ltd and now known as Conquest Agri Ltd), a publicly listed company, which had capital to invest. Mr Tetley and Mr Ramsay had been friends for about 10 years. They continue to work together.
+Mr Keane offered to give Mr Ramsay shares in BTC if Mr Ramsay was successful in securing capital funding for BTC.
+There were further discussions between Messrs Keane, Ramsay and Tetley, and Mr David Williams who worked for Carling Capital Partners Pty Ltd, ETT's corporate advisors at the time, among others. Those discussions culminated in a heads of agreement entered into on, or about, 8 December 2008 between BTC and ETT. Under the terms of the heads of agreement, BTC and ETT were to negotiate in good faith for a subscription agreement by which ETT would invest in BTC. Subsequently, BTC and ETT executed a loan agreement by which ETT agreed to lend BTC the sum of $150,000 secured by way of a fixed and floating equitable charge over the assets of BTC. In February 2009, ETT advanced a further sum of $75,000 pursuant to the terms of the loan agreement and charge.
+On 9 January 2009, Mr Ramsay became a director of BTC. It is not entirely clear when, but at some stage he and his wife were issued their shares in BTC.
+In or about March 2009, Mr Keane approached Mr Pollers and asked him whether he would work on developing a new version of BigTinCan Connect. Mr Keane told Mr Pollers that BTC could not afford to pay him for his services immediately but proposed to grant him shares instead. Mr Pollers agreed and commenced working on BigTinCan Connect. He continued to do so for a number of months. In June and July 2009 BTC issued a total of 2,800,000 options to Mr Pollers.
+In the meantime, Mr Ramsay started working on raising capital for the company. According to Mr Keane, Mr Ramsay regularly reported to board meetings that he was confident he could secure up to $1,200,000 in capital for BTC.
+In early 2009, one of BTC's contractors created a stand alone app which came to be called "BuzzMe". That app was originally designed for BlackBerry devices and permitted users to change ring tones, LED colours and alert patterns. The app was launched on the BlackBerry and Apple websites. It enjoyed considerable popularity and began to generate some income through sales. From that time, BTC also conducted some custom application development work on the BlackBerry platform for specific users, including Harpers Bazaar, Universal Music and MiRoamer. Mr Keane gave evidence that that was never a core part or focus of the business, but that it continued on a sporadic basis. BTC was paid for that work on a contract by contract basis. 
+In about July 2009, ETT notified BTC that it did not intend to proceed with the heads of agreement. As a result, the loans from ETT became repayable on two weeks' notice. ETT did not, however, call on those loans. Mr Keane says that Mr Ramsay told him that Mr Tetley knew that BTC had no assets and Mr Tetley appears to have accepted that ETT's best chance of being repaid was if BTC could raise capital from other sources.
+At about that time, ETT had a falling out with Carling Capital. Also at about the same time, Mr Ward resigned as a director of BTC. Subsequently, on 20 November 2009, Mr Ohlsson joined the board of BTC. He had provided bookkeeping and taxation advice services to BTC since its incorporation.
+During the second half of 2009, Mr Pollers continued to work on the BigTinCan Connect service. The work was almost complete by the end of 2009 and Mr Pollers was paid approximately $11,000 between October 2009 and February 2010 for the work that he did.
+The factual allegations that form the basis of BTC's case are largely based on emails to or from Mr Ramsay and Mr Pollers to which BTC obtained access in circumstances described below and on inferences which it is said can be drawn from those emails. The first is an email dated 25 December 2009 which Mr Ramsay sent to Mr Tom Sharp, a broker who had experience in raising capital and who was assisting Mr Ramsay to raise capital for BTC. In that email, Mr Ramsay said: 
+I am mtg Glenn Wheatley and niki from blackberry & Michael Milne on Jan 2,
+I may be forced into a deal with them because of the time pressure, & to repay the ett loan.
+
+The other option is the shell in Brisbane, would be a 90:10 deal in our favour, 3% share issue to the broker, 0.5% trailing fee fir capital raised by others, 6% if they raise it.
+
+Them [sic] we would finish a prospectus, issue it in fe/march, & be relisted as btc by June.
+
+I can take that deal if we (you) choose that path, what do you think? 
+My 2 options seem to be that deal or the Michael Milne deal, which will involve ripping the assets into a newco under arturis capital & we would end up with options & a mgt contract
+BTC submits that this email is the first available evidence of a plan by Mr Ramsay and Mr Pollers to cause ETT to call on its loan, and to appoint a receiver to its assets when it failed to repay the loan, and to form a new company in which they had an interest to acquire from ETT or the receiver the BTC assets with funds raised from investors who were also potential investors in BTC. Mr Ramsay, on the other hand, says that he was simply discussing two options available to BTC to raise capital. The first involved a reverse takeover of a listed entity in which the existing shareholders of that entity would end up with 10 per cent of the shares and the shareholders in BTC would end up with 90 per cent of the shares. The second, which was a deal with Mr Milne, involved a company associated with Mr Milne acquiring the assets of BTC and issuing some form of equity to BTC shareholders. Mr Ramsay says neither deal got off the ground.
+Mr Ramsay also says that from as early as late 2009 he had raised with Mr Keane that it may be necessary to set up a new company to simplify the due diligence as part of any capital raising. He says that that possibility was first suggested to him by Mr Walsh. Mr Walsh was a friend of Mr Ramsay and Mr Tetley. On occasions, he acted as the solicitor for ETT and also as the solicitor for BTC. Later, Mr Ramsay says that Mr Sharp also told him that potential investors had said that it would be difficult to invest unless BTC set up a new company. Mr Ramsay says, however, that Mr Keane was not in favour of the idea. Mr Ramsay did not put directly to Mr Keane in cross-examination that Mr Ramsay had raised the issue of establishing a new entity into which investors could invest as early as late 2009. He did, however, put to Mr Keane that they had discussed the need for a new company in April 2010. Mr Keane gave evidence that he could not recall that issue being mentioned then, although he did not deny that it had been.
+On 3 January 2010, Mr Ramsay sent Mr Pollers an email which said in part: 
+I am thinking of a way to get us some more shares & reduce dk's holding & control.
+
+We may form a new company, take in the investment to the newco, then vend in that company with ip transfer and cash for x% of btc.
+
+I'll send my idea thru when I go thru the pros & cons & the numbers.
+On the same day, Mr Ramsay sent the following email to Mr Pollers: well right now there is 12m shares, +2.6m for the $1.2m investment = 14.6m & then we work out how the approach is made, & by who & to who - I mean it may be best for an approach to the board as a whole (me, dk & mark o).
+ we also have plan b completely ready to go the same day if he kicks up a stink anyway.
+
+I'll have tetley ready.
+
+Mr Ramsay says that the reference to having Mr Tetley "ready" was a reference to having Mr Tetley ready to convince Mr Keane that it was necessary to set up a new company to attract investors if Mr Keane did not agree to that course.
+On 11 January 2010, Mr Ramsay sent the following email to Mr Walsh: 
+Btc to do 
+New company set up 
+Bank account 
+Ip assignment agreements 
+Business cards 
+Web site 
+Paypal account 
+Rim discussion 
+Bb appworld sign-up 
+Ett call in loan offer 250k for all assets, we pay ett 250k for all assets from newco including name 
+Get new Dara centre 
+Dr resign as director of btc 
+Get investment completed
+There was a directors meeting of BTC held on 28 January 2010. Present at the meeting were Mr Keane, Mr Ramsay and Mr Ohlsson. The minutes relevantly record the following: 
+Fund raising 
+The meeting discussed the progress of fund raising efforts. Mr Ramsay reported that the first deposit of $200,000 was now in a trust account and a further $200,000 from a second investor was expected within a day. Subject to certain information being provided to them a third group was also expected to invest within the coming week or two. By 12 February it was hoped that between $800,000 and $1,200,000 would be in trust.
+
+It was agreed that no funds should be drawn from the trust account until the fund raising process was complete. The first order of business at that point would be to settle the ETT debt. The meeting discussed the terms of the fund raising and Mr Ramsay tabled the form of agreement with the investors. The meeting authorised Mr Ramsay to sign agreements with the prospective investors in the form tabled.
+
+The reference to a deposit of $200,000 was a reference to a deposit made by
+Station Capital. It appears that Station Capital was one of three groups of investors who had been located by Mr Sharp. It had indicated that it was prepared to invest $400,000, but on condition that the other investors invested as well. Mr Ramsay provided a copy of the board minutes to Mr Tetley.
+He says he did so to demonstrate to Mr Tetley that things were progressing.
+On 31 January 2010, Mr Ramsay sent Mr Tetley a description of the BigTinCan Connect product. Mr Ramsay says that he sent the product description to Mr Tetley to give Mr Tetley comfort that BTC would be able to raise capital to repay the debt it owed ETT.
+On or about 1 February 2010, Mr Keane told Mr Pollers that BTC wanted to offer him a more formal role with the company. He said that the cashflow had improved and subscriptions were rising and that he wanted Mr Pollers to take on the role of chief technology officer and to pay him a regular salary. He also wanted Mr Pollers to confirm that BTC owned all of the intellectual property in the code and technology that Mr Pollers had been working on.
+On or about 8 February 2010, BTC and Mr Pollers entered into a consultancy contract. Under the terms of the contract, BTC was to pay Mr Pollers $4,000 per month. Clause 6 of the contract provided that it could be terminated by either party giving the other one month's notice in writing. It stated that Mr Pollers was not eligible for annual leave, paid sick leave, paid bereavement leave or paternity leave. Clause 10 provided: 
+Both parties agree that the contractor has no employment relationship with the
+Company and has no claim for the payment of Superannuation.
+Clause 16 described Mr Pollers' role as including, but not limited to: - CTO [Chief Technical Officer] of BigTinCan - includes responsibility for co-ordinating all development project work and hitting project delivery deadlines. Reporting to the CEO. Full CTO duties to be set out by the Board of
+Directors of BigTinCan.
+Mr Pollers received his first and only payment under the contract of $4,000 on 19 February 2010. According to Mr Pollers, Mr Keane subsequently told him that the money had not come in and consequently BTC would not be able to pay its contractors. Later, on 25 March 2010, BTC issued Mr Pollers with 1,000,000 shares in the company. As I have said, it appears that Mr Pollers was issued with 1,550,000 shares in all, although when the other shares were issued is not clear from the evidence.
+Mr Ramsay's mother died in February 2010 and, as a result, he had little to do with BTC during much of that month.
+On 10 March 2010, Mr Ramsay sent Mr Keane an email with the subject "Funding update" which relevantly said: 
+Charles gibbons company called superwoman (fund for women) $600 
+Mtg next wed 
+Tech invest want more info looks very promising for $500, wouldn't come in for less.
+
+The enfinium guys are the ones with the "400 club" for spread, really keen & put personal money in (hopefully tomorrow)
+Mr Keane sent a further funding update on 11 March 2010 which said: 
+Station capital $400  
+Clodene.
+ $100  
+George Khalil.
+ $ 50  
+Nz guys.
+ $. 30  
+Enfinium $ 50-100 will know today  
+Trying to get that released tomorrow 
+Next week technical investing $500
+On 18 March 2010, Mr Tetley sent Mr Ramsay an email asking whether Mr Ramsay had "Anything to report?" Mr Ramsay sent what appears to be a reply to that email (although the reply is dated 17 March 2010), setting out the progress Mr Ramsay had made with the capital raising. Mr Ramsay concluded: 
+Anyway, not time to give up or get desperate yet, when I hear anything more
+I'll let you know ...
+
+Mr Keane gave evidence that the possible sources of funding referred to in Mr
+Ramsay's email were not discussed with the BTC board.
+In late March 2010, Mr Pollers and Mr Ramsay had discussions with Mr Jon Peters concerning the development of an app for Global Entertainment Management. They did some work in developing a prototype. Mr Ramsay concedes that that work was not done on behalf of BTC. His version of events is that Global Entertainment Management originally had an agreement for BTC to do the work, that Mr Keane was not interested in doing the work and consequently Mr Peters approached him and Mr Pollers. Mr Keane gives a different account of events. According to him, he became aware that Mr Ramsay and Mr Pollers had done a deal with Global Entertainment Management. He approached Mr Peters who agreed to give the work to BTC and he confronted Mr Ramsay about what had happened. Mr Ramsay effectively conceded that he was in the wrong. Mr Keane's version of events seems more plausible. It is difficult to see why Mr Keane would have done a deal with Mr Peters after he found out what had happened if the true position was that he was not interested in the contract.
+During the period Mr Ramsay was dealing with Mr Sharp, he also kept in contact with Mr Williams and gave him regular updates on the progress Mr Ramsay was making. According to Mr Williams, in late March or early April 2010, Mr Ramsay contacted him and told him that it was most unlikely that the capital raising organised by Mr Sharp would continue because one of the investors, Cadence Capital, had pulled out and Mr Ramsay had been unable to secure a replacement investor. According to Mr Williams, Mr Ramsay also said that Mr Keane had told him that he would look to put BTC into mothballs and to run it as a hobby business in the hope that some day someone would buy its assets. Mr Ramsay asked if Carling Capital would be prepared to assist him and Mr Pollers to set up a business if BTC could not continue. Mr Williams says he agreed to provide assistance in raising initial seed capital of up to $300,000 for a new company with no ties to BTC or Mr Keane. He apparently took a dim view of Mr Keane's abilities. In separate evidence, Mr Ramsay described Mr Pollers as his "partner" in the venture and said that over the past 18 months they had become "very close" and that they "would talk about every BigTinCan issue on a daily basis".
+Mr Ramsay said that, in late March or early April 2010, he came to the realisation that it was unlikely that BTC would obtain funding. He said that he raised that issue with Mr Keane on a number of occasions. During a conversation he said they had on 7 April 2010, Mr Ramsay says that he told Mr Keane that he would either need to get a job or start something that would give him some income. According to Mr Ramsay, Mr Keane said that he had reached the same conclusion and that he had himself been looking around for other jobs during the past few weeks. A further conversation occurred on 11 April 2010. During that conversation, Mr Ramsay says that Mr Keane said that he did not think that BTC was going to work, that he was not prepared to support it anymore and that he was booked to go to the BlackBerry conference in Florida but he did not want to go anymore, although he still would. According to Mr Ramsay, the conversation continued: 
+I said: "What if we could get a smaller amount of money and did some sort of deal with ETT over time to pay it back, would you want to have another go?" 
+Keane said: "No way, it's just too hard, we really don't have anything of value, lots of companies have products like Connect and everybody is doing apps now." 
+I said: "So what we do if ETT calls in their loan?" 
+Keane said: "Nothing. They can have it if they want, it's not worth anything without the people to run it and money to market it anyway, and we have no money to pay anything, let alone their loan."
+On 11 April 2010, Mr Ramsay sent Mr Sharp an email headed "spreadsheet for newco". The email said: note advisers shares can be distributed to investors at yr discretion (or not) shows $300k for 30% 
+Allows $50k to ett, balance after next round (whatever the balance is, I don't think we have to offer 100c in the dollar 
+The attached spreadsheet was clearly a spreadsheet describing the BTC business. It included components for "BTC voice" and "BTC applications".
+On 13 April 2010, Mr Ramsay sent Mr Sharp a spreadsheet, which is not in evidence, setting out the "latest forecasts for Newco". The covering email said relevantly: 
+Note the initial capital now is $300k, $50k of which goes to ETT.
+
+It is possible to not pay this until down the track a few more months if $300k is too difficult to raise at this point (out of 2nd round perhaps); in that case we could get by on $250k for 25% instead of $300k for 30%.
+On 13 April 2010, there was correspondence between Mr Sharp and Mr Ramsay concerning a presentation to Superwoman. It is clear from that email that Mr Ramsay was still seeking to raise money from that organisation.
+On 14 April 2010, Mr Williams sent Mr Ramsay an email which listed a number of action items. Items 4 and 5 are particularly relevant. They read: One final work session (this morning?) then time to act ETT then Arve, Sharpe
+On 15 April 2010, Mr Williams sent a term sheet to Mr Ramsay entitled "BigTinCan Mark 2". In cross-examination, Mr Williams said that he prepared the term sheet two or three weeks after he started talking to Mr Ramsay about setting up a new business. The term sheet provided: 
+A.
+
+Background 
+Background 
+Background 
+Background 
+Background  .
+
+David Ramsay ("DR") and Roel Pollers ("RP") have been working on the Big Tin
+Can ("BTC") business model.
+
+David Ramsay ("DR") and Roel Pollers ("RP") have been working on the Big Tin
+Can ("BTC") business model.
+
+David Ramsay ("DR") and Roel Pollers ("RP") have been working on the Big Tin
+Can ("BTC") business model.
+
+David Ramsay ("DR") and Roel Pollers ("RP") have been working on the Big Tin
+Can ("BTC") business model.
+
+David Ramsay ("DR") and Roel Pollers ("RP") have been working on the Big Tin
+Can ("BTC") business model.  .
+
+Carling Capital Partners ("CCP") has been involved in advising parties in relation to BTC.
+
+Carling Capital Partners ("CCP") has been involved in advising parties in relation to BTC.
+
+Carling Capital Partners ("CCP") has been involved in advising parties in relation to BTC.
+
+Carling Capital Partners ("CCP") has been involved in advising parties in relation to BTC.
+
+Carling Capital Partners ("CCP") has been involved in advising parties in relation to BTC.  .
+
+ETT Limited ("ETT", now named Farmworks Australia Limited) is due a debt from
+ETT amounting to $225,000. ETT is understood to be in the process of calling its debt.
+
+ETT Limited ("ETT", now named Farmworks Australia Limited) is due a debt from
+ETT amounting to $225,000. ETT is understood to be in the process of calling its debt.
+
+ETT Limited ("ETT", now named Farmworks Australia Limited) is due a debt from
+ETT amounting to $225,000. ETT is understood to be in the process of calling its debt.
+
+ETT Limited ("ETT", now named Farmworks Australia Limited) is due a debt from
+ETT amounting to $225,000. ETT is understood to be in the process of calling its debt.
+
+ETT Limited ("ETT", now named Farmworks Australia Limited) is due a debt from
+ETT amounting to $225,000. ETT is understood to be in the process of calling its debt.  
+B.
+
+NewCo (BTC Mark 2 or "BTC2") 
+NewCo (BTC Mark 2 or "BTC2") 
+NewCo (BTC Mark 2 or "BTC2") 
+NewCo (BTC Mark 2 or "BTC2") 
+NewCo (BTC Mark 2 or "BTC2")  .
+
+DR, RP and CCP propose to incorporate BTC2 to undertake the business opportunity previously undertaken by BTC.
+
+DR, RP and CCP propose to incorporate BTC2 to undertake the business opportunity previously undertaken by BTC.
+
+DR, RP and CCP propose to incorporate BTC2 to undertake the business opportunity previously undertaken by BTC.
+
+DR, RP and CCP propose to incorporate BTC2 to undertake the business opportunity previously undertaken by BTC.
+
+DR, RP and CCP propose to incorporate BTC2 to undertake the business opportunity previously undertaken by BTC.  .
+
+Ideally this will involve acquiring the BTC assets from ETT or its agent.
+
+Ideally this will involve acquiring the BTC assets from ETT or its agent.
+
+Ideally this will involve acquiring the BTC assets from ETT or its agent.
+
+Ideally this will involve acquiring the BTC assets from ETT or its agent.
+
+Ideally this will involve acquiring the BTC assets from ETT or its agent.  .
+
+BTC2 will be an unlisted public company.
+
+BTC2 will be an unlisted public company.
+
+BTC2 will be an unlisted public company.
+
+BTC2 will be an unlisted public company.
+
+BTC2 will be an unlisted public company.  
+C.
+
+Fund Raising 
+Fund Raising 
+Fund Raising 
+Fund Raising 
+Fund Raising  .
+
+BTC2 will raise $300,000 of funds from new investors.
+
+BTC2 will raise $300,000 of funds from new investors.
+
+BTC2 will raise $300,000 of funds from new investors.
+
+BTC2 will raise $300,000 of funds from new investors.
+
+BTC2 will raise $300,000 of funds from new investors.  .
+
+These funds will be used to settle the ETT debt for no more than $50,000 and to provide the initial working capital of $250,000 for BTC2.
+
+These funds will be used to settle the ETT debt for no more than $50,000 and to provide the initial working capital of $250,000 for BTC2.
+
+These funds will be used to settle the ETT debt for no more than $50,000 and to provide the initial working capital of $250,000 for BTC2.
+
+These funds will be used to settle the ETT debt for no more than $50,000 and to provide the initial working capital of $250,000 for BTC2.
+
+These funds will be used to settle the ETT debt for no more than $50,000 and to provide the initial working capital of $250,000 for BTC2.  .
+
+It is intended to sell 300,000 new shares of nominal $1.00 each in BTC2 equating to 15% for $300,000 of the expanded capital (ie total shares on issue post 15% placement is 2,000,000).
+
+It is intended to sell 300,000 new shares of nominal $1.00 each in BTC2 equating to 15% for $300,000 of the expanded capital (ie total shares on issue post 15% placement is 2,000,000).
+
+It is intended to sell 300,000 new shares of nominal $1.00 each in BTC2 equating to 15% for $300,000 of the expanded capital (ie total shares on issue post 15% placement is 2,000,000).
+
+It is intended to sell 300,000 new shares of nominal $1.00 each in BTC2 equating to 15% for $300,000 of the expanded capital (ie total shares on issue post 15% placement is 2,000,000).
+
+It is intended to sell 300,000 new shares of nominal $1.00 each in BTC2 equating to 15% for $300,000 of the expanded capital (ie total shares on issue post 15% placement is 2,000,000).  .
+
+The funds will be raised by CCP and DR agreeing to a fund raising program.
+
+The funds will be raised by CCP and DR agreeing to a fund raising program.
+
+The funds will be raised by CCP and DR agreeing to a fund raising program.
+
+The funds will be raised by CCP and DR agreeing to a fund raising program.
+
+The funds will be raised by CCP and DR agreeing to a fund raising program.  
+D.
+
+Corporate Strategy 
+Corporate Strategy 
+Corporate Strategy 
+Corporate Strategy 
+Corporate Strategy  .
+
+It is intended to raise further funds and list BTC2 as soon as practicable and to then use the BTC2 scrip in an aggregation strategy regarding "apps" developers.
+
+It is intended to raise further funds and list BTC2 as soon as practicable and to then use the BTC2 scrip in an aggregation strategy regarding "apps" developers.
+
+It is intended to raise further funds and list BTC2 as soon as practicable and to then use the BTC2 scrip in an aggregation strategy regarding "apps" developers.
+
+It is intended to raise further funds and list BTC2 as soon as practicable and to then use the BTC2 scrip in an aggregation strategy regarding "apps" developers.
+
+It is intended to raise further funds and list BTC2 as soon as practicable and to then use the BTC2 scrip in an aggregation strategy regarding "apps" developers.  
+E.
+
+BTC2 Business Model 
+BTC2 Business Model 
+BTC2 Business Model 
+BTC2 Business Model 
+BTC2 Business Model  .
+
+Attached to this term sheet is the initial capital raising PPT for BTC2 together with summary, forecast income statements and cashflows.
+
+Attached to this term sheet is the initial capital raising PPT for BTC2 together with summary, forecast income statements and cashflows.
+
+Attached to this term sheet is the initial capital raising PPT for BTC2 together with summary, forecast income statements and cashflows.
+
+Attached to this term sheet is the initial capital raising PPT for BTC2 together with summary, forecast income statements and cashflows.
+
+Attached to this term sheet is the initial capital raising PPT for BTC2 together with summary, forecast income statements and cashflows.  .
+
+Together these documents reflect the initial business model as agreed by the
+Board.
+
+Together these documents reflect the initial business model as agreed by the
+Board.
+
+Together these documents reflect the initial business model as agreed by the
+Board.
+
+Together these documents reflect the initial business model as agreed by the
+Board.
+
+Together these documents reflect the initial business model as agreed by the
+Board.  
+F.
+
+BTC2 Initial Shareholding 
+BTC2 Initial Shareholding 
+BTC2 Initial Shareholding 
+BTC2 Initial Shareholding 
+BTC2 Initial Shareholding  %  
+DR 
+DR 
+DR 
+DR .5  
+RP 
+RP 
+RP 
+RP .5  
+CCP* 
+CCP* 
+CCP* 
+CCP*  
+Consultants 
+Consultants 
+Consultants 
+Consultants  
+New Investors 
+New Investors 
+New Investors 
+New Investors  *CCP to be granted sufficient options if when exercised would give CCP a shareholding equal to that of each of DR and RP individually. The options will be exercisable at the same price as the new investors entry price, be for a term of five years and be adjusted for the anti dilution effect of all subsequent equity issues.
+ *CCP to be granted sufficient options if when exercised would give CCP a shareholding equal to that of each of DR and RP individually. The options will be exercisable at the same price as the new investors entry price, be for a term of five years and be adjusted for the anti dilution effect of all subsequent equity issues.
+ *CCP to be granted sufficient options if when exercised would give CCP a shareholding equal to that of each of DR and RP individually. The options will be exercisable at the same price as the new investors entry price, be for a term of five years and be adjusted for the anti dilution effect of all subsequent equity issues.
+ *CCP to be granted sufficient options if when exercised would give CCP a shareholding equal to that of each of DR and RP individually. The options will be exercisable at the same price as the new investors entry price, be for a term of five years and be adjusted for the anti dilution effect of all subsequent equity issues.
+ *CCP to be granted sufficient options if when exercised would give CCP a shareholding equal to that of each of DR and RP individually. The options will be exercisable at the same price as the new investors entry price, be for a term of five years and be adjusted for the anti dilution effect of all subsequent equity issues.  *The CCP shares and options can be held by any nominee of CCP *The CCP shares and options can be held by any nominee of CCP *The CCP shares and options can be held by any nominee of CCP *The CCP shares and options can be held by any nominee of CCP *The CCP shares and options can be held by any nominee of CCP  
+G.
+
+Board of Directors 
+Board of Directors 
+Board of Directors 
+Board of Directors 
+Board of Directors  ●
+
+The initial Board of BTC2 will be - 
+The initial Board of BTC2 will be - 
+The initial Board of BTC2 will be - 
+The initial Board of BTC2 will be -  ○
+
+David xxx Ramsay 
+David xxx Ramsay 
+David xxx Ramsay  ○
+
+Roel xxx Pollers 
+Roel xxx Pollers 
+Roel xxx Pollers  ○
+
+David Lewis Williams (CCP) 
+David Lewis Williams (CCP) 
+David Lewis Williams (CCP)  ●
+
+The Board agrees to act in accordance with this term sheet and all attachments thereto.
+
+The Board agrees to act in accordance with this term sheet and all attachments thereto.
+
+The Board agrees to act in accordance with this term sheet and all attachments thereto.
+
+The Board agrees to act in accordance with this term sheet and all attachments thereto.  ●
+
+The Board to be adjusted as deemed necessary to satisfy the appropriate levels of corporate governance at the time of listing.
+
+The Board to be adjusted as deemed necessary to satisfy the appropriate levels of corporate governance at the time of listing.
+
+The Board to be adjusted as deemed necessary to satisfy the appropriate levels of corporate governance at the time of listing.
+
+The Board to be adjusted as deemed necessary to satisfy the appropriate levels of corporate governance at the time of listing.  
+H.
+
+Roles 
+Roles 
+Roles 
+Roles 
+Roles  ●
+
+DR 
+DR 
+Managing Director, sales, strategic planning 
+Managing Director, sales, strategic planning  ●
+
+RP 
+RP 
+Developer Apps, strategic planning 
+Developer Apps, strategic planning  ●
+
+CCP 
+CCP 
+Stock market strategy, CFO, accounting 
+Stock market strategy, CFO, accounting  ●
+
+DR and RP to be compensated for time at less than market rates until BTC2 is cash-flow positive for a period of 3 months 
+DR and RP to be compensated for time at less than market rates until BTC2 is cash-flow positive for a period of 3 months 
+DR and RP to be compensated for time at less than market rates until BTC2 is cash-flow positive for a period of 3 months 
+DR and RP to be compensated for time at less than market rates until BTC2 is cash-flow positive for a period of 3 months  ●
+
+CCP to provide services for no cash consideration until such time as BTC2 is cash-flow positive for a period of 3 months.
+
+CCP to provide services for no cash consideration until such time as BTC2 is cash-flow positive for a period of 3 months.
+
+CCP to provide services for no cash consideration until such time as BTC2 is cash-flow positive for a period of 3 months.
+
+CCP to provide services for no cash consideration until such time as BTC2 is cash-flow positive for a period of 3 months.  
+I.
+
+Company Secretarial 
+Company Secretarial 
+Company Secretarial 
+Company Secretarial 
+Company Secretarial  ●
+
+JW Meehan ("JM") to provide basic company secretarial services for $1,000 per month accrued until BTC2 is cash-flow positive.
+
+JW Meehan ("JM") to provide basic company secretarial services for $1,000 per month accrued until BTC2 is cash-flow positive.
+
+JW Meehan ("JM") to provide basic company secretarial services for $1,000 per month accrued until BTC2 is cash-flow positive.
+
+JW Meehan ("JM") to provide basic company secretarial services for $1,000 per month accrued until BTC2 is cash-flow positive.  ●
+
+Additional work and monthly charge after listing to be negotiated on an arms length basis between DR and JM.
+
+Additional work and monthly charge after listing to be negotiated on an arms length basis between DR and JM.
+
+Additional work and monthly charge after listing to be negotiated on an arms length basis between DR and JM.
+
+Additional work and monthly charge after listing to be negotiated on an arms length basis between DR and JM.  
+The term sheet was to be signed by Mr Ramsay and Mr Williams.
+The covering email said: 
+Out of the blue (ie while drafting) I have thrown in Jim Meehan as coy sec.
+
+You should be ok with him. However, I have not spoken to him yet, so if he is a problem speak up and we can amend it.
+Mr Ramsay replied to that email on 15 April 2010 in which he said: 
+Notwithstanding the Jim decision, after a quick chat with Roel I think we have a deal.
+
+I would also like Roel to meet max asap.....
+
+Mr Williams responded to that email by reporting that "Roel has met Max" (which was presumably a reference to Mr Max Carling).
+The term sheet contemplates that a presentation would be attached to it. That presentation was prepared by Mr Ramsay. The presentation was in a PowerPoint format. It set out the proposed capital structure of the company. It described the business model as "app development & sales, Telco products & services". It described the growth strategy as including: -
+
+Expand relationship with RIM (BlackBerry), grow relationship with Apple &
+Google, ramp up Custom App development & revenue sharing contracts  -
+
+Accelerate Telco growth in consumer & target business/corporate market  
+It stated that the "Company operates in one of the fastest growth sectors in the Telecommunications market" and that its products are "approved globally by
+Apple, Blackberry & Google". Under the heading "Competitive Advantage" it said that the company "entered the market early, was a launch partner for
+Blackberry Appworld in April 2009" and had "acquired more than 2.5m users to date". It also stated that "More than $500k spent to date". It is clear that much of the presentation describes BTC's business. Mr Ramsay said he prepared the document "to give [Mr] Williams an overview of what a business would look like operating in that space".
+On 15 April 2010 (shortly after the email in which Mr Ramsay said he would like Mr Pollers to meet "max"), Mr Williams sent Mr Ramsay an email asking whether he had had any feedback from Mr Sharp. Mr Ramsay replied to that email on the same day in which he said: 
+Tom still wants his team to do this, but wants to b involved regardless, certainly for next round & likely $50k - $100k in this round.
+
+When we sign up (tomorrow I hope) I will meet him & tell him.
+Mr Ramsay says that he had no interest in acquiring the assets of BTC and that he told Mr Williams that. Mr Williams gave evidence to the same effect. As a result, Mr Williams prepared a new term sheet which deleted any reference to the business of BTC. The new company was referred to as "NewCo" rather than "BigTinCan Mark 2".
+On 19 April 2010, Mr Ramsay sent Mr Williams an email asking how long funding would be from signing of the term sheet. He explained the question by saying "I need to tell blackberry, harpers bazaar & universal music soon". Mr Ramsay also said that he was "mtg Roel in 30 mins to review".
+On 20 April 2010, Mr Ramsay says that he had a further conversation with Mr Keane concerning the future of BTC while Mr Ramsay was on the Manly ferry. Mr Ramsay suggested that there was a recording of that conversation. However, no recording was tendered. According to Mr Ramsay, he began the conversation by saying that: 
+I pitched to the Superwoman guy, but he had the same issue as the others, not interested unless the investment is in a Newco. Same thing with CPP (Carling
+Capital Partners), they think ETT will be either impossible or difficult to deal with and would rather invest into a Newco.
+
+According to Mr Ramsay, they discussed other ways of raising capital. During the course of the conversation, Mr Ramsay says Mr Keane said: 
+If the funding is into a Newco, ok. We just tell them, whatever you want, if you want a Newco, sure, if you want 80% of the shares, sure. If we get an offer for anything, for almost anything we would take. Viv (Viv Stewart) can raise $200,000, but that only gets us a hobby business plus a little bit.
+Mr Keane gives a different account of this conversation and the earlier ones he had with Mr Ramsay concerning BTC's future. He agrees that he had a number of conversations with Mr Ramsay concerning the difficulty of raising funds. He also says that he made one job application on line just to see what response he would get. However, he denies that he said anything to suggest that he had given up on BTC or that anything was said that suggested that it would be impossible to raise capital. 
+On 20 April 2010, Mr Williams sent an email to Mr Ramsay suggesting some statements that Mr Ramsay should make in a meeting he was having with Mr Sharp.
+On 20 April 2010, Mr Holden from Station Capital sent an email to Mr Sharp saying: 
+I would like to recall my $200,000 from the Trust Fund holding this cash. I am happy to look at BTC fresh when you have a structure and investors lined up.
+
+Mr Ramsay concedes that he did not tell Mr Keane about this email.
+On the same day, Mr Ramsay sent to Mr Williams, Mr Tetley, Mr Walsh and Mr Pollers an email setting out the text of his proposed resignation as a director of BTC. The email gave as Mr Ramsay's reasons the fact that the company was "unable to get funding, at least in the short term", it had insufficient revenues and no D&O insurance. Mr Ramsay says he sent the draft to them because they were friends from whom he sought advice.
+On 22 April 2010, SpringTel IT Limited was registered. Mr Williams gave evidence that he had given a direction to Mr Knox to register the company about a week earlier. The directors of the company were Mr Carling, Mr Knox and Mr Williams, all of Carling Capital. Mr Williams was its sole shareholder. Mr Williams gave evidence that it was the new company that was intended to be operated by Mr Ramsay and Mr Pollers. 
+Some time in April 2010, Mr Ramsay also prepared an information memorandum for capital raising for "SpringTel IT Limited". Mr Ramsay gave evidence that he prepared the document at Mr Williams' request. He said that Mr Williams had asked him to prepare the information in the PowerPoint presentation in a different format. He denied that it was a draft of a document prepared for potential investors. Much of the document was prepared from a similar document prepared for BTC. The capital structure of SpringTel was described as follows: 
+Shareholders ●
+
+David Ramsay and associated interests ,000  ---|---  ●
+
+Roel Pollers and associated interests ,000  ●
+
+Carling Capital Partners and associated interests ,000  ●
+
+New investors ,000  ●
+
+External consultants ,000  
+The Board was said to consist of Mr Williams, Mr Ramsay and Mr Pollers. The description of the business is very similar to the business carried on by BTC.
+Under the heading "Competitive Analysis" the information memorandum states: 
+SpringTel has taken advantage of a prior investment estimated at $500,000 
+Under the heading "SWOT Analysis" the document lists as a strength the following: 
+SpringTel's products are robust and reliable and reasonably well known.
+Later, on 22 April 2010, ETT sent a demand for the repayment of its loan.
+Mr Keane says that he was caught totally by surprise by the demand. He asked ETT to delay calling the loan while he attempted to raise capital at the BlackBerry conference he was to attend in Florida. Mr Keane was due to leave for that conference the following day or the day after that. ETT refused an extension.
+Notwithstanding what had happened, Mr Keane left for Florida. While waiting in the Los Angeles airport transit lounge, he obtained access to emails sent to or from Mr Ramsay and Mr Pollers held on BTC's servers. After reading those, he rang Mr Geoffrey Cohen, who also has extensive experience in the information technology industry and start up businesses and who appears was a friend, and asked him for assistance. Subsequently, Mr Keane gave instructions for the commencement of this proceeding.
+On 29 April 2010, Mr Ramsay sent an email to Mr Sharp in which he said relevantly: 
+Anyway, btc update.
+ETT called in their loan last Thursday night - 14 days runs out next
+Thursday
+Look like BTC will hand over assets without the need for a receiver - leaving the way open to do a deal immediately with them & acquire the assets & inject into newco straight after the initial investment..
+
+This will underpin the valuation uplift in readiness for the next round of fundraising to get the required shareholder spread.
+I have attached an IM for a newco which Carling Capital Partners incorporated a few days ago, Carling were the initial advisers to ETT when the invested in BTC December '08 
+They have committed to raising $100k out of the $300k but have still put nothing in yet...
+
+We are prepared to give away 15% to investors & 20% to advisers for the $300k - note this can be split up however it best makes sense.
+
+Do you still have interest to participate in this opportunity?
+It is not clear precisely when, but at some stage Mr Pollers removed the code from Webcan 2 that he created in the second half of 2009, which caused difficulties for BTC's customers. Mr Pollers claimed at the time that he owned the intellectual property in respect of that code.
+BTC commenced this proceeding on 3 May 2010, originally seeking urgent interlocutory relief to restrain ETT from enforcing its charge. Subsequently, it also sought interlocutory relief requiring Mr Pollers to restore the code that he had removed. Windeyer AJ refused to grant an injunction restraining ETT from enforcing its charge and ultimately a receiver was appointed to BTC's assets.
+Mr Cohen gave evidence that there were a limited number of potential investors in BTC, that a number of those had already been approached by Mr Ramsay and, given what had happened, he formed the view that there was no real prospect of raising capital from them in the same manner. The only industry contact he had who had not already been approached was Mr Michael Leahy. At Mr Cohen's suggestion, Mr Keane approached him. On 8 May 2010, Mr Cohen executed a loan agreement on behalf of BTC with Mr Leahy and two other investors for the sum of $225,000. The same investors agreed to lend a further amount of $50,000 in mid-May 2010. That money was used to repay the ETT debt, with the result that the receivership came to an end. Subsequently, those investors declined to make further investments in BTC and Mr Cohen acquired the debt owed to them by BTC for $53,000. Following that, Mr Cohen says he concluded that there was no realistic prospect of finding further investors in BTC's existing business.
+In June 2010, BTC made a rights issue that closed on 29 June 2010. The purpose of the rights issue was to raise $120,000 by issuing a maximum of 120,000,000 new shares to fund the costs of this proceeding. The only shareholders to take up their rights were Mr Keane and an entity associated with him. As I have said, the effect of the rights issue was to dilute Mr Ramsay's and his wife's interest in BTC to 2.6 per cent and Mr Pollers' interest to 1.6 per cent.
+Mr Cohen was appointed to the board of BTC on 16 July 2010 in place of Mr Ramsay. BTC, however, has ceased to trade. Mr Keane has established another company through which he appears to have established a successful product known as BTC Dashboard and has been successful in raising capital for the development of that product. 
+Following the commencement of this proceeding, no further steps were taken to raise capital for SpringTel. The company was deregistered on 6 July 2011.
+
+The liability of Mr Ramsay [Section 181](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s181.html) of the [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) requires a director or other officer of a corporation to exercise their powers and discharge their duties in good faith in the best interests of the corporation and for a proper purpose. [Section 182](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s182.html) of the Act requires a director, secretary or other officer of a corporation not to use their position improperly to gain an advantage for themselves or someone else or to cause detriment to the corporation. [Section 183](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s183.html) of the Act requires a director or other officer or employee or a corporation who has gained information in that capacity not to use that information improperly to gain an advantage for themselves or someone else or cause detriment to the corporation. In addition, the relationship between director and company is a recognised category of fiduciary relationship: see, eg, Consul Developments Pty Ltd versus DPC Estates Pty Ltd  <case>; [(1975) 132 CLR 373] at 96 per Mason J. Consequently, a director owes fiduciary duties to the company at common law. However, it was not suggested in this case, nor could it have been, that the duties of a director at common law were relevantly different from the duties imposed by [ss 181](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s181.html)-[183](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s183.html) of the [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/). Nor was it suggested that, if BTC makes out its allegations at a factual level, Mr Ramsay nonetheless did not breach his duties as a director. The question in the case is whether the facts are as BTC alleges them to be.
+Mr Ramsay submitted that the evidence does not establish that he was seeking to raise capital in competition with BTC for the purpose of obtaining control of BTC. His case is that in the earlier part of 2010 he was looking at setting up a new company as a means of providing the best mechanism for raising capital. The advice he had received from both Mr Walsh and Mr Sharp was that that was what potential investors were likely to or would want. From about April 2010, it became apparent that the capital raising would not be successful. He told Mr Keane that he had reached the point where he would need to look for an alternative source of income. Mr Keane acknowledged that he was in the same position. As a result, Mr Ramsay and Mr Pollers sought assistance to establish their own company and to acquire seed capital for that company. The new company would have a different focus from BTC. It intended to target work that BTC was not interested in. It sought a modest amount of capital and consequently the investment was likely to appeal to different investors to those who might be interested in investing in BTC.
+I do not accept Mr Ramsay's submission. I accept that a number of proposals for capital raising for BTC may have contemplated that the existing business of BTC would be transferred to a new company and that that company would issue shares to the existing shareholders of BTC. The proposals discussed in the email dated 25 December 2009 fall into that category. However, it is clear from the email dated 3 January 2010 that Mr Ramsay was considering a plan to obtain more shares for him and Mr Pollers and to reduce Mr Keane's shareholding and control. The plan involved forming a new company, issuing shares in that new company to the investors and selling that company (presumably with its cash) to BTC for shares in BTC. In my opinion, the email dated 3 January 2010 cannot be interpreted in any other way.
+It is unclear whether by that stage part of the plan involved ETT calling on its loan. The reference to "I'll have tetley ready" in the second email on 3 January 2010 suggests that it was. However, the reference is too obscure to infer anything with confidence from it. The same cannot be said of the email dated 11 January 2010 to Mr Walsh. That email plainly sets out a list of things to do in relation to BTC. One was to form a new company. Another was for ETT to call in the loan, for it to offer to forgive the loan in exchange for all of BTC's assets and for "we", meaning the new company, to pay ETT for those assets including BTC's name. A third was for Mr Ramsay then to resign as a director of BTC. In cross-examination, Mr Ramsay maintained that the proposal set out in the email was simply a continuation of the proposal to raise capital through a new entity. I do not accept that evidence. The proposal was clearly a proposal to get rid of Mr Keane. It involved a new company raising capital rather than a company controlled by BTC raising that capital. The only inference available is that that new company was to be controlled by Mr Ramsay and possibly Mr Pollers. There would be no reason to use the mechanism of ETT calling on its loan and for Mr Ramsay to resign as a director of BTC if what was proposed was simply a mechanism for BTC to raise capital through a new entity.
+There is no evidence that Mr Ramsay took steps to implement his proposal prior to late March 2010. The evidence does not disclose that he did anything of significance in relation to BTC during February 2010. He took steps to raise capital in March 2010. However, what evidence there is concerning those activities is equally consistent with raising capital for BTC and raising capital for a new company in which he had an interest. Mr Ramsay was in contact with Mr Tetley concerning his capital raising activities. But that was understandable given that ETT was BTC's largest creditor and was dependent on BTC raising capital in order to get paid.
+The same cannot be said of the period from late March to the end of April 2010. The arrangement that Mr Ramsay and Mr Pollers sought to reach with Global Entertainment Management involved Mr Ramsay preferring his own interests to those of BTC. More significant are the events that occurred in April 2010 and Mr Ramsay's account of them. In my opinion, those events can only be explained as the implementation of the plan that Mr Ramsay devised in January 2010.
+Mr Ramsay says that Mr Keane told him in early April 2010 that he had effectively given up on BTC. I do not accept that evidence. Mr Keane denies that he said anything which gave that impression. He struck me as an impressive and honest witness who gave frank answers to the questions that he was asked. The evidence he gave was entirely consistent with his conduct. When ETT demanded repayment of its loan, Mr Keane went to great lengths to protect BTC's interests. That is hardly the conduct of someone who had given up on the company.
+Mr Ramsay says that the attempts to raise capital for BTC had failed and that the persons who may have been willing to provide capital to the new company would not have invested in BTC having regard to the amount of capital that was being sought for BTC. I do not accept that evidence. According to Mr Ramsay, the sticking point with investors was their desire to invest in a new company and Mr Keane's refusal to agree to that proposal. However, that evidence makes no sense. It is implausible that Mr Keane would have insisted that the investment be in BTC itself if that was the only issue. It would have been a straight forward task to get one or more of the investors to explain to Mr Keane that they required their investment to be in a new company if that is really what they wanted; and it seems inconceivable that Mr Keane would not have agreed to that course if he had received an explanation along those lines, particularly since, according to Mr Ramsay, Mr Keane did say in the conversation on 20 April 2010 that if investors wanted a newco, he would agree to it.
+Mr Ramsay suggests in his evidence of the conversation on 20 April 2010 that he told Mr Ramsay that Carling Capital also took the view that it would be preferable to invest in a new company. The implication is that Carling Capital was one of the entities he approached to raise capital for BTC. It seems clear, however, from the evidence given by Mr Williams that Mr Ramsay approached him to assist in raising capital for a new company controlled by Mr Ramsay and Mr Pollers. 
+It is also implausible that the persons who were willing to invest in the new company were not also potential investors in BTC. Despite what Mr Ramsay says, the two businesses were very similar. The new company intended to raise an initial amount of $300,000. However, it was plainly contemplated that it would raise additional amounts of capital. The intention appears ultimately to have been to list it on the stock exchange. It is very difficult to understand why the same approach could not have been taken to capital raising for BTC. In cross-examination, Mr Ramsay was forced to concede that Mr Arve was a potential investor in both companies.
+In cross-examination, Mr Ramsay gave the following evidence: 
+My evidence is in late April, when it became more apparent that BigTin was unable to raise the level of funding required and had no money to pay anybody, let alone me - I had not been paid for 12 months by then, that I needed to get a job otherwise I risked losing everything I had. I had not been paid for 18 months.
+
+However, it is very difficult to reconcile this evidence with what actually happened. Mr Williams says that Mr Ramsay approached him about two or three weeks before he prepared his term sheet. That means that Mr Ramsay must have approached him in late March 2010 or at the beginning of April 2010 at the latest. By that stage, it seems clear that Mr Ramsay had decided to set up a new company with Mr Pollers. It was not the failure to raise capital for BTC that drove Mr Ramsay to pursue his alternative plans. Even on Mr Ramsay's case, it was not clear at the beginning of April 2010 whether it would be possible to find investors in BTC. Mr Sharp, for example, still held $200,000 on trust for Station Capital. Mr Ramsay had another meeting with Superwoman on April 2010. According to Mr Ramsay, the purpose of that meeting was to discuss a potential investment in BTC.
+The upshot is that, although Mr Ramsay says that he did not pursue the alternative course of setting up a new company with Mr Pollers until it became apparent that capital could not be raised for BTC, the reality is that he embarked on that course before even on his own case he had exhausted the possible sources of capital. Moreover, the only reason Mr Ramsay gave for the failure to raise any capital for BTC - Mr Keane's refusal to agree to set of a new company - makes no sense.
+Mr Ramsay gave evidence that the business of his new company would be different from the business of BTC. That evidence is completely inconsistent with the documents prepared by him and by Mr Williams. Apart from the revised term sheet, all the documents that were prepared are written on the assumption that the new company would take over the business of BTC. Mr Ramsay's attempts to explain those documents away on the basis that they were illustrative of the type of business he proposed to establish and that they were prepared for Mr Williams' assistance and at his request is fanciful. The only inference available from the documents is that SpringTel was established to acquire the business of BTC.
+Mr Tetley denied vehemently that ETT called on its loan to provide a mechanism by which SpringTel could acquire the assets of BTC. Mr Ramsay gave evidence to the same effect. I do not accept that evidence. Mr Ramsay's original proposal was that ETT would demand repayment of the loan, would acquire BTC's assets for the value of the loan and then sell those assets to the company to be established by Mr Ramsay. Mr Tetley and Mr Ramsay had at the time, and still have, a close relationship. In Mr Ramsay's emails to Mr Sharp dated 11 April and 13 April 2010, Mr Ramsay contemplates that the new company would pay an initial amount of $50,000 to ETT. That could only be for BTC's assets; and ETT could only acquire BTC's assets by making a demand on its loan. The last action item on Mr Williams' list in his email dated 14 April 2010 was "5 ETT then Arve, Sharp". That action item must mean that Mr Ramsay was to approach ETT and then Mr Arve and Mr Sharp. In the context, the only reason to approach ETT was to ask it to call on its loan or to tell ETT that, if it called on its loan and appointed a receiver to BTC's assets, the company that became SpringTel was a willing buyer of those assets. ETT demanded repayment of its loan on the day that SpringTel was incorporated and one or two days before Mr Keane was due to leave for Florida. Mr Tetley did not give any compelling reason for why ETT did so on that particular day. Mr Keane asked for an extension. Despite the fact that ETT had waited months to demand repayment of the loan, it was not prepared to give even a short extension to see whether Mr Keane could raise additional capital. In his email to Mr Sharp dated 29 April 2010, Mr Ramsay reported that it looked as if "BTC will hand over assets without the need for a receiver - leaving the way open to do a deal immediately with them & acquire the assets". It is difficult to see how Mr Ramsay could have said that unless he had been talking to Mr Tetley and had the expectation that ETT would sell BTC's assets to SpringTel.
+It follows from what I have said that Mr Ramsay breached his duties as a director of BTC. He had an obligation to do what he could to assist BTC to raise capital. Instead of discharging that obligation to the exclusion of his own interests, he formulated a plan to set up a new company to acquire BTC's assets using capital raised by that company and took steps to implement that plan. There is no direct evidence that Mr Ramsay sought to raise capital for that company to the exclusion of BTC. However, having formulated the plan he did, he had an interest in seeing BTC's attempts at raising capital fail and he had an interest in diverting whatever capital he could raise from BTC to the new company to the extent that that was possible. He took no steps to draw that conflict of interest to the attention of the board of BTC. Moreover, he gave an explanation for the failure to raise capital for BTC (Mr Keane's refusal to agree to establish a new company) that is not plausible. That false explanation suggests that the real reason for the failure was that he was pursuing his own interests rather than those of BTC. In my opinion, in acting in that way Mr Ramsay at least breached [s 181](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s181.html) of the [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) and his fiduciary duties as a director.
+
+The Liability of Mr Pollers
+In closing submissions, BTC put its claim against Mr Pollers on two bases. First, it was alleged that Mr Pollers himself owed fiduciary duties to BTC and that he breached those fiduciary duties by engaging in the conduct he did. Second, it was alleged that Mr Pollers conduct fell within what is commonly referred to as the second limb of Barnes versus Addy - that is, Mr Pollers is alleged to have knowingly assisted Mr Ramsay in his dishonest and fraudulent breach of duty.
+In its statement of claim filed on 9 July 2010, BTC pleads that Mr Pollers owed fiduciary duties to BTC. Those duties are pleaded to arise from the senior position occupied by Mr Pollers from February 2010 (as Chief Technical Officer), the significance of that position to BTC's business and the fact that Mr Pollers was given exclusive access to BTC's servers. However, it is only alleged in the statement of claim that Mr Pollers breached his fiduciary duties by removing the source code that he had written that formed part of Webcan 2 and by diverting emails sent to Mr Keane, Mr Ward and BTC's login email account for the RIM App World (that is, BTC's email account for the BlackBerry app store) to an email account to which Mr Pollers had access. Neither of those claims were pursued at the final hearing. The case that was pursued was not pleaded. No application was made to amend the statement of claim. In those circumstances, BTC should not be permitted to pursue that claim now.
+The claim based on knowing assistance in a dishonest and fraudulent breach of fiduciary duty has three elements: (a) a dishonest and fraudulent breach of duty by Mr Ramsay; (b) knowledge of the dishonest and fraudulent breach on the part of Mr Pollers; (c) assistance in that breach by Mr Pollers: see Farah Constructions Pty Limited versus Say-Dee Pty Limited  <case>; [(2007) 230 CLR 89] at 398. In my opinion, Mr Ramsay's conduct was dishonest and fraudulent in the required sense. The plan he formulated was a deliberate plan to obtain the assets of BTC for the benefit of a company in which he was to have a substantial interest. In pursuing that plan, he put his own interests ahead of those of BTC.
+Mr Pollers knew that Mr Ramsay was a director of BTC and, in my opinion, he must have had actual knowledge of Mr Ramsay's plan. In his email of 3 January 2010, Mr Ramsay told Mr Pollers that he was working on a plan to get more shares for both himself and Mr Pollers and to reduce the control of Mr Keane. Mr Ramsay says that he and Mr Pollers were partners in the proposal and that they spoke daily about all aspects of BTC. Mr Ramsay prepared various documents showing that Mr Pollers and he would have an equal number of shares in the new company that was to be formed to acquire BTC's assets. It is inconceivable that Mr Ramsay would have done that without Mr Pollers' knowledge. The emails between Mr Ramsay and Mr Williams also show that Mr Ramsay was in close contact with Mr Pollers and that Mr Pollers was being consulted in relation to the term sheet drafted by Mr Williams and the structure of the new company.
+In addition, in my opinion, Mr Pollers provided assistance to Mr Ramsay by agreeing to become a director and shareholder of the new company. It is clear that Mr Pollers was to be responsible for providing technical expertise to the new company and to carry on the work that he had previously performed for BTC. His role was essential to the new venture.
+It follows that Mr Pollers knowingly assisted Mr Ramsay in his dishonest and fraudulent breach of duty.
+
+Causation and compensation
+BTC puts its claim for compensation in two ways. First, it says that, as a result of Mr Ramsay's and Mr Pollers' conduct, it lost the opportunity to raise capital and it should be compensated for that lost opportunity. Alternatively, it says that it spent a net amount of $418,781.04 on the development of the BigTinCan Connect and BuzzMe, that as a result of what has happened that money was wasted and it should be compensated for that wasted expense. In making that submission, Mr Cheshire, who appeared for BTC, sought to draw an analogy between the present case and cases in contract where courts have on occasion been prepared to award damages for breach of contract calculated by reference to money thrown away by the innocent party in performing the contract on the basis that, at a minimum, the innocent party could have expected to recover its investment if the contract had been performed: see, for example, CCC Films (London) Ltd versus Impact Quadrant Films Ltd [[1985] QB 16]
+In my opinion, the former approach is preferable in this case. That approach draws a direct connection between Mr Ramsay's breach of duty and the loss that BTC is alleged to have suffered. I have characterised Mr Ramsay's breach of duty as the formulation of a plan to raise capital for another company which necessarily put Mr Ramsay in a position where he had an interest in seeing the task that it was his duty to pursue - that is, to assist BTC itself to raise capital - fail. There is a direct link between that conduct and compensation which seeks to compensate BTC for the lost opportunity to raise capital. The alternative way in which BTC puts its claim for compensation is one way of measuring the expectation loss that BTC has suffered because it has been unable to develop the BigTinCan Connect service. There is no direct connection between Mr Ramsay's breach of duty and that loss; and that way of putting the claim raises questions about whether, for example, the service would have been successful even assuming the additional capital had been raised.
+Three points should be made about the first way in which BTC puts its claim for compensation.
+First, there is a question concerning the requirement of causation in a claim for compensation for breach of fiduciary duty. The role causation plays in claims for breach of fiduciary duty was discussed by Spiegelman CJ (with whom Priestley and Meagher JJA agreed) in O'Halloran versus T R Thomas & Family Pty Ltd <case>; [(1998) 45 NSWLR 262] at 273ff. At 276-7 his Honour explained the test of causation in these terms: 
+To adopt the words of the High Court in Maguire versus Makaronis [[1997] HCA 23; <case>; [(1997) 188 CLR 449]] (at 473), the court must identify "the criteria which supply an adequate or sufficient connection between the equitable compensation claimed and the breach of fiduciary duty". In the case of a trustee dealing with trust property, the law has proceeded beyond the invocation of the formulaic "common sense" approach to causation, by adopting a stringent test to the selection of those events preceding loss which are to be taken as causing the loss. There is sufficient connection, irrespective of the identification of a separate and concurrent cause, when the loss would not have occurred if there had been no breach of duty.
+
+Spiegelman CJ concluded that policy required the same strict approach with respect to the exercise of the fiduciary power of directors to dispose of company property. However, his Honour left open whether the same test should be applied for breach by a director of other fiduciary duties.
+Like the High Court in Maguire versus Makaronis, Spiegelman CJ also left open the question whether, in accordance with the principles stated by the Privy Council in London Loan & Savings Co versus Brickenden [[1934] 3 DLR 465], there was a class of case in which the court does not enquire into aspects of causality at all. In that case, the solicitor of a finance company stood to benefit from loans to a customer because the customer intended to use part of the amount lent to repay amounts the customer owed to the solicitor. The solicitor, in breach of his fiduciary duties, did not disclose that fact to the finance company. When the customer failed to repay the loans, the finance company sought to recover the amount of the loans together with interest less certain deductions from the solicitor. The Privy Council, upholding the decision of the Canadian Supreme Court, expressed the opinion that it was entitled to do so. It was not necessary for the finance company to prove that it would not have advanced the money if the solicitor had disclosed his interest in the transaction: 
+Once the Court has determined that the non-disclosed facts were material, speculation as to what course the [finance company], on disclosure would have taken is not relevant. ([1934] 3 DLR 465 at 469) 
+As both Spiegelman CJ and the High Court observed, Brickenden has been followed, or not disapproved, by a number of courts in Australia, including intermediate appellate courts, although the suggestion that there may be a class of case in which proof of causation is not necessary has been rejected in some cases: see Adler versus Australian Securities and Investments Commission <case>; <case> per Giles JA.
+The "strict" test of causation referred to by Spiegelman CJ has, as one of its elements, a generous view of what is to count as a preceding cause. The causal event need only be one event but for which the consequence would not have occurred. But causation for breach of an equitable duty differs from causation in the case of breach of contract or in the case of a tort in other respects. In particular, the test of causation is normally stated in terms of whether the loss would have occurred but for the breach. Consequently, questions of foreseeability and remoteness "do not readily enter the matter": Re Dawson (dec'd) (1966) 84 WN [(Pt 1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1.html) 399 at 404.
+Second, the principles applicable to the recovery of damages for loss of a chance or opportunity apply to a claim for equitable compensation for breach of fiduciary duty: Spotless Group Ltd versus Blanco Catering Pty Ltd  <case>; [(2011) 212 IR 396] at 355. Precisely how that principle applies in cases involving equitable compensation for the loss of a chance remains unresolved, since, as I have explained, the role of causation itself remains uncertain in claims of equitable compensation for breach of fiduciary duties.
+Third, it is no bar to recovery that it is difficult to assess the value of the lost opportunity. Where it is not possible to assess the loss that the plaintiff has suffered because the assessment involves speculation about what might have happened, the court must do the best that it can using common sense: see McCrohon versus Harith  <case> at <case> ff per McColl JA with whom Campbell JA and Handley AJA agreed; see also Barescape Pty Ltd versus Bacchus Holdings Pty Ltd (No 9)  <case> at <case> per Black J; Sydney Attractions Group Pty Ltd versus Frederick Schulman (No 2)  <case> at <case> ff per Sackar J.
+In applying these principles to the present case, it is important to bear in mind that, on the findings I have made, it was Mr Ramsay's duty to assist BTC to raise capital. Notwithstanding that, he put himself in a position where he had a personal interest in seeing any attempt by BTC to raise capital fail, although he also had a personal interest in seeing another company in which he would hold shares raise capital to acquire BTC's business and carry on that business itself. BTC certainly had a real prospect of raising capital. ETT had initially been prepared to lend BTC $225,000, although ultimately it decided against investing in the company. Mr Ramsay told Mr Keane that he was confident he could secure up to $1,200,000 in capital for BTC and the second email Mr Ramsay sent to Mr Pollers on 3 January 2010 contemplated that he would be able to raise that amount. By the time of the board meeting on 28 January 2010, Station Capital had placed an initial amount of $200,000 in a trust account operated by Mr Sharp in anticipation that the capital raising would proceed. However, it is unclear from the evidence whether Mr Ramsay's breach of duty had any effect on the capital raising because it is unknown what he said to potential investors and what effect that may have had on them. 
+Two things, however, may be said about this last point. First, although it is unclear whether Mr Ramsay's conduct contributed to BTC's failure to raise capital before mid-April 2010, Mr Cohen's evidence, which was not challenged and which I accept, was that Mr Ramsay's conduct meant that, by the beginning of May 2010, it was no longer possible to seek to raise capital from investors who had previously expressed an interest and there were few other investors who could be approached. Moreover, it may be inferred that, once BTC had commenced court proceedings, what prospect there was of finding investors was lost. Any investment in BTC was speculative; and the risks associated with it would be substantially increased once the company became embroiled in significant litigation. Looked at in this way, the opportunity that was lost was an opportunity to approach investors who had previously indicated an interest in investing in BTC to see whether they could be persuaded to invest unaffected by the attempt of two of its shareholders to obtain control of the company or its assets and the uncertainty that that attempt would be likely to cause in the minds of investors. Viewed in that way, there is a clear causal connection between Mr Ramsay's conduct and the opportunity that BTC is said to have lost. 
+Second, in my opinion, it is not open in the circumstances of this case for Mr Ramsay to say that his conduct did not cause BTC to lose the opportunity to raise capital. He was the director responsible for the capital raising. He put himself in a position where in breach of his duties he had an interest in seeing that capital raising fail. BTC failed to raise any capital. The likelihood is that BTC's prospects of raising capital would have been better if Mr Ramsay had not put himself in the position he did. BTC is entitled to be compensated for that fact. There are two possible ways of reaching that conclusion. One way is to treat this case as falling into that category of special cases where the strict requirement of causation is not necessary, applying the approach taken by the Privy Council in Brickenden. There is a sufficient connection between Mr Ramsay's breach of duty and the lost opportunity to hold Mr Ramsay responsible for that lost opportunity because Mr Ramsay's breach involved him putting himself in a position where he had an interest in failing in the very task that it was his duty to perform. 
+But even if the approach in Brickenden is no longer good law, in my opinion, this is a case where it is appropriate to infer that BTC lost the opportunity to raise capital as a consequence of Mr Ramsay's conduct. In various branches of the law, courts are prepared to draw inferences against wrongdoers in the absence of evidence to the contrary. So for example, if a defendant makes a fraudulent representation that is calculated to induce the plaintiff to enter a contract and the plaintiff enters the contract, the court will infer in the absence of other evidence that the contract was induced by the fraudulent representation: Gould versus Vaggelas  <case>- <case> per Basten JA with whom Allsop P and Handley AJA agreed. In my opinion, for the reasons I have given in the absence of any other evidence it is appropriate to infer that Mr Ramsay's conduct caused BTC to lose an opportunity to raise finance.
+It is difficult to place a value on that lost opportunity. Mr Ramsay told Mr Keane that he was confident he could raise up to $1,200,000 and at the board meeting on 28 January 2010 he reported that it was hoped that between $800,000 and $1,200,000 would be in trust by 12 February 2010. However, that did not happen. It is difficult to draw any conclusions from what actually happened because of the effect that Mr Ramsay's desire to raise capital for a new entity would have had on his efforts to raise capital generally. On the other hand, notwithstanding Mr Ramsay's confidence in January 2010, the likelihood is that it would have been difficult to raise capital in any event because of the risks associated with the venture. Taking these matters into account, I have concluded that an appropriate way to value BTC's lost opportunity is to assume that it had a 25 per cent chance of raising $1,200,000. On that basis, the value of the lost opportunity is $300,000.
+Mr Ramsay is liable to pay BTC equitable compensation in that amount. As a person knowingly involved in Mr Ramsay's breach, Mr Pollers is also liable to pay BTC equitable compensation in that amount.
+In view of the conclusions I have reached, it is not necessary to consider whether Mr Ramsay is also liable to pay compensation under <case> of the [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/). That section raises different issues of causation: see Adler versus Australian Securities and Investments Commission at [707]ff per Giles JA. However, it was not suggested that BTC could succeed under the [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) if it failed at common law; and it was not suggested that BTC could recover more under <case> than it could recover for breach of the equitable duties owed by Mr Ramsay. 
+The cross claim
+There is no merit in Mr Ramsay's and Mr Pollers' cross-claim. There is no evidence to suggest that the rights issue was made for an improper purpose. The raising of funds to enable BTC to pursue this proceeding was a proper purpose. The rights issue was offered to all shareholders. Mr Ramsay and Mr Pollers cannot complain that their interests in BTC were diluted because they chose not to subscribe to the rights issue.
+
+Orders
+BTC is entitled to judgment against Mr Ramsay and Mr Pollers in the sum of $300,000.
+BTC also claims interest pursuant to [s 100](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/s100.html) of the [Civil Procedure Act 2005](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/) . It is reasonable to conclude that any capital raising would have been complete by 30 June 2010. There is no reason why BTC should not have interest on the compensation to which it is entitled from that time to the date of judgment calculated in accordance with Supreme Court Practice Note SC Gen 16 Prejudgment Interest Rates. The interest on $300,000 calculated from 1 July 2010 to 4 September 2013 at those rates is $64,467.12.
+It follows that the orders of the court are: 
+Judgment for the plaintiff against the second and third defendants for the sum of $364,467.12.
+
+The second and third defendants pay the plaintiff's costs of the proceedings other than the costs of the application for an interlocutory injunction heard by Windeyer AJ on 5 May 2010.
+
+The first and second amended cross-claims be dismissed with costs.
+
+The moneys paid into court for security for costs, including any interest, be released to the plaintiff's solicitor.
+ * * * 

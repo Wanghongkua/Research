@@ -1,0 +1,281 @@
+
+
+Rubicon Asset Management Limited [2009] NSWSC 1068 (8 October 2009) 
+Last Updated: 12 October 2009 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Rubicon Asset Management Limited <case>  
+JURISDICTION: 
+Equity Division  
+FILE NUMBER(S):  /09  
+HEARING DATE(S):  September 2009  
+JUDGMENT DATE:  October 2009  
+PARTIES: 
+Rubicon Asset Management Limited (Administrators appointed) (First Plaintiff) 
+Michael Andrew Owen (Second Plaintiff) 
+Paul Andrew Billingham (Third Plaintiff)  
+JUDGMENT OF: 
+McDougall J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+C R C Newlinds SC / R C A Higgins (Plaintiffs) 
+A G Bell SC / J Hynes (National Australia Bank) 
+M P Cleary (Shinsei Bank)  
+SOLICITORS: 
+Clayton Utz (Plaintiffs) 
+Minter Ellison (National Australia Bank) 
+Corrs Chambers Westgarth (Shinsei Bank)  
+CATCHWORDS: 
+COMPANIES - managed investment schemes - winding up - whether just and equitable - where responsible entity insolvent - whether to order winding up be paid for from funds held by responsible entity - scope of power to make directions about winding up - whether discretionary reasons not to make order sought.  
+LEGISLATION CITED:  [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/)  
+CATEGORY: 
+Principal judgment  
+CASES CITED: 
+Australian Securities and Investments Commission versus ABC Fund Managers Ltd (No.3) <case> 
+Australian Securities and Investments Commission versus Atlantic 3 Financial (Aust)
+Pty Ltd (No.3) <case>; <case>; <case> 
+Australian Securities and Investment Commission versus Takaran Pty Ltd (No.2) <case>; [43 ACSR 334] 
+Barclays Bank Ltd versus Quistclose Investments Ltd [1970] AC 567  
+TEXTS CITED:  
+DECISION: 
+See paragraphs [72] to [77] of the judgment.  
+JUDGMENT:  
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION  
+McDOUGALL J   October 2009  /09 RUBICON ASSET MANAGEMENT LIMITED (ADMINISTRATORS APPOINTED) HIS HONOUR: The first plaintiff (RAML) is the responsible entity of the following managed investment schemes: 
+Rubicon America Trust (RAT); 
+Rubicon Europe Trust I (RET I); 
+Rubicon Europe Trust II (RET II); 
+Rubicon Japan Trust (RJT); and 
+Rubicon International Leaders Fund (Protected Series 1) (RILF).
+ RAML is in administration. It, and its administrators Messrs Michael Andrew
+Owen and Paul Andrew Billingham, seek orders for the winding up of each of those schemes, and ancillary orders. There is no doubt that in each case that a ground has been made out for the winding up of the scheme. However, RAML cannot do so, and Messrs Owen and Billingham will not be involved, unless RAML can use its own assets, to the extent necessary, to meet the costs and expenses of the windings up. There is a question as to whether the Court can make such an order, in circumstances where RAML is insolvent and its liabilities appear substantially to exceed its assets.
+ Although notice of the application was given to the Australian Securities and Investments Commission (ASIC), to investors in the schemes and to creditors, only two (secured) creditors have appeared. They are National
+Australia Bank Limited (NAB), which holds charges over the assets of RET I and
+RET II, and Shinsei Bank Limited (Shinsei), which holds a charge over the assets of RJT.
+ Neither NAB nor Shinsei opposes the orders sought. There is thus no effective contradictor to the orders sought by the plaintiffs. ASIC was invited to intervene. It declined to do so, although it has stated that, in the particular circumstances of this case, it "would ... not... object to Mr
+Owen and Mr Billingham being ordered to wind up the registered schemes the subject of the proceedings".
+ 
+Service and notification  The application came before the Court on 28 August 2009. Orders were made for notification, in a particular way, to investors in the scheme, and for service of notice of the application on creditors. I am satisfied, on the affidavit evidence, that the plaintiffs have complied with those orders.
+ 
+The statutory framework  Managed investment schemes are regulated by Chapter 5C of the [Corporations
+Act 2001](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/).
+Registration is dealt with by [Part
+C.1.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5c.1)
+It is not necessary to consider the provisions of that part except for [s
+EE](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ee.html), which deals with the winding up of unregistered schemes: 
+EE Unregistered schemes may be wound up 
+If a person operates a managed investment scheme in contravention of [subsection
+ED(5)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ed.html), the following may apply to the Court to have the scheme wound up: 
+ASIC; the person operating the scheme; a member of the scheme.
+
+The Court may make any orders it considers appropriate for the winding up of the scheme.
+ [Part
+C.2](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5c.2) deals with the responsible entity. By [s
+FA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601fa.html), the responsible entity of a registered scheme is to be a public company that holds an Australian financial services licence authorising it to operate managed investment schemes. By [s
+FB](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601fb.html), the responsible entity of a registered scheme is to operate the scheme and to perform its functions under the Act and the scheme's constitution.
+ [Section
+FC(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601fc.html) sets out the duties of a responsible entity. They include, by para (m), a duty to "carry out or comply with any other duty, not inconsistent with this Act, that is conferred on the responsible entity by the scheme's constitution".
+ [Section
+FH](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601fh.html) appears to suggest that the appointment of a responsible entity will not cease simply because it is under external administration: 
+FH Liquidator etc. of responsible entity entitled to exercise indemnity rights 
+If the company that is a registered scheme's responsible entity is being wound up, is under administration or has executed a deed of company arrangement that has not terminated: a provision of the scheme's constitution, or of another instrument, is void against the liquidator, or the administrator of the company or the deed, if it purports to deny the company a right to be indemnified out of the scheme property that the company would have had if it were not being wound up, were not under administration, or had not executed a deed of company arrangement; and a right of the company to be indemnified out of the scheme property may only be exercised by the liquidator or the administrator of the company or the deed.
+ Division 2 of [Part
+C.2](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5c.2) deals with changing the responsible entity. By [s
+FJ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601fj.html), a change to the responsible entity takes effect only when ASIC's records are altered to record another company as the responsible entity. There has been no such recording in this case.
+ Further, although [s
+FN](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601fn.html) authorises ASIC and scheme members to apply to the Court for the appointment of a temporary responsible entity, no such application has been made in this case.
+ [Part
+C.9](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5c.9) deals with winding up. By [s
+NA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601na.html), the constitution of a registered scheme may provide for its winding up: 
+NA Winding up required by scheme's constitution 
+The constitution of a registered scheme may provide that the scheme is to be wound up: at a specified time; or in specified circumstances or on the happening of a specified event; but a provision of the constitution that purports to provide that the scheme is to be wound up if a particular company ceases to be its responsible entity is of no effect (including for the purposes of paragraph 601NE(1)(a)).
+ By [s
+ND(1)(a)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nd.html), the Court may direct the responsible entity of registered scheme to wind up the scheme if the Court thinks that it is just and equitable to make that order. An application for such an order may be made by the responsible entity, its directors, members of the scheme or ASIC. In this case, the application is made by the responsible entity, RAML.
+ [Section
+NF](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nf.html) empowers the Court to make other orders about winding up. Subsection (1) authorises the Court to appoint a person to take responsibility for the winding up. In this case, the plaintiffs seek an order that Messrs Owen and
+Billingham take responsibility for the winding up. [Section
+NF](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nf.html) authorises the Court to give directions about the manner of winding up. I set out those subsections: 
+NF Other orders about winding up 
+The Court may, by order, appoint a person to take responsibility for ensuring a registered scheme is wound up in accordance with its constitution and any orders under subsection (2) if the Court thinks it necessary to do so (including for the reason that the responsible entity has ceased to exist or is not properly discharging its obligations in relation to the winding up).
+
+The Court may, by order, give directions about how a registered scheme is to be wound up if the Court thinks it necessary to do so (including for the reason that the provisions in the scheme's constitution are inadequate or impracticable).
+ 
+The constitutions of the schemes  Each of the schemes is governed by a constitution.
+ Clause 29.1 of the constitution of RAT provides that the trust is to terminate on the earliest of "the Date of Delisting" and two other specified, but presently irrelevant, events. The "Date of Delisting" is defined to mean the earlier of the date on which the responsible entity receives notification from the Australian Stock Exchange (ASX) of the removal of the trust from the official list of the ASX or the day following the expiration of a continuous period of 60 days during which units in the trust have been suspended from quotation on the official list of the ASX. Units in RAT, RET I, RET II and RJT have been suspended from quotation for more than 60 days. Units in RILF are not, nor have they been, listed on the ASX.
+ When the trust terminates, the responsible entity is to get in the assets and distribute them in accordance with cl 30 of the constitution.
+ RET I and RET II have provisions in their constitutions (in each case, cll and 30) to the same effect. So too, in each case, the definition of "Date of Delisting" is to the same effect.
+ Again, cll 29 and 30 of the constitution of RJT are to the same effect.
+However, the definition of "Date of Delisting" has been varied. The first alternative (notification from ASX of removal from the official list) is the same. The second alternative (suspension from quotation) applies only "provided the [responsible entity] has not requested the suspension". In this case, although units in RJT have been suspended from quotation for more than days, that was not at the request of RAML. Thus, since RJT has not been removed from the official list of the ASX, and since on the evidence no other terminating event has occurred, RJT has not terminated.
+ Nor, it appears, has RILF. In the case of that scheme, the constitutional provisions are somewhat different. The scheme terminates on the earliest of the 80th anniversary of the day before its commencement; the date specified by the responsible entity as the date of termination; the date of winding up (either pursuant to an extraordinary resolution of members or pursuant to an order of the Court); or the date that the members resolve to remove the responsible entity but do not appoint a replacement responsible entity. None of those events has occurred.
+ 
+Winding up on the just and equitable ground  There is a number of decisions that make it clear that the Court may order a managed investment scheme to be wound up on the just and equitable ground because the scheme is insolvent. Fryberg J said as much in Re Orchard
+Aginvest Ltd (as responsible entity for the Primary Agribusiness Fund) [[2008] QSC 002.] So did EM Heenan J in Re PWL; ex parte PWL Ltd (formerly
+Palandri Wines Ltd) (administrators appointed) <case> In the present case, it is clear that each of the schemes is insolvent. Mr
+Owen has analysed the position of each scheme, and in each case the conclusion of insolvency is irresistible; and this is so whether insolvency is assessed on a net asset basis or on a cash flow basis.
+ In addition, the Court may wind up a managed investment scheme on the just and equitable ground if it is in the public interest to do so. See Australian
+Securities and Investments Commission versus Knightsbridge Managed Funds Ltd  <case> As Pullin J pointed out in that case, the public interest may justify the winding up of a managed investment scheme if the scheme has broken down or if the protection of investors requires that the scheme be wound up. In this case, Mr Owen's evidence, as summarised at [28] below, makes it clear that the schemes have broken down.
+ In addition, a scheme may be wound up on the just and equitable ground if the responsible entity is insolvent, so that it cannot to continue to perform its functions, and (I think) if no responsible entity can be found to replace it. That is so, for each scheme, in this case. Mr Owen's evidence makes it clear that RAML is insolvent. Again, I refer to what I say at [28] below.
+ 
+Grounds for winding up are established So far as RAT, RET I and RET II are concerned, it is sufficient to note that in each case winding up is required by the scheme's constitution. In each case, the scheme has terminated according to its terms. In each case, that having happened, the constitution requires the scheme to be wound up.
+ In addition, as I have said, it is clear that each of those schemes, and of
+RJT and RILF as well, is insolvent, and that RAML is insolvent.
+ The following conclusions may be drawn from Mr Owen's evidence: despite extensive efforts on the part of him and Mr Billingham, there has been no acceptable offer to take over responsibility as responsible entity of the schemes. Conditional offers were received, but Mr Owen said that they were unacceptable for various reasons (including the solvency of the funds in question), and I accept those reasons.
+
+RAML has breached a condition of its Australian Financial Services license (which, of course, it is required to hold if it is to function as responsible entity). That is because it has become insolvent. It is thus at risk of termination of the licence.
+
+Directors' and officers' insurance for companies in the Rubicon Group has expired, and has not been replaced; 
+Units in RAT, RET I, RET II and RJT have been suspended from trading for some months. There is no reasonable likelihood that the suspensions will be lifted. Given the insolvency of the schemes, there is no reasonable likelihood that investors will recover anything of their investments.
+
+The continued management of the schemes is an ongoing burden, financially and otherwise, for RAML.
+ In the circumstances, I am satisfied that it is appropriate that the schemes be wound up: in the case of RAT, RET I and RET II, pursuant to [ss
+NA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601na.html) and [601ND](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nd.html)(1)(a); and in the case of RJT and RILF, pursuant to [s
+ND(1)(a).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nd.html) 
+Appointment of Messrs Owen and Billingham to take responsibility  I am satisfied that, if an order for winding up is to be made, it is appropriate that Messrs Owen and Billingham should be appointed, pursuant to [s
+NF(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nf.html), to take responsibility for ensuring that the schemes are wound up in accordance with their constitutions. They have built up a very substantial body of knowledge as to the affairs of each of the schemes. It would be extremely expensive if their services, and that body of knowledge, were not to be utilised in the winding up process. In this context, ASIC has stated in correspondence that notwithstanding the possibility of "the potential for a conflict between" the duties of Messrs Owen Billingham to RAML, and RAML's duty to act in the best interests of members of the schemes, it is appropriate that they be "ordered to wind up the registered schemes". Presumably, by this,
+ASIC meant to convey that it was appropriate for them to be appointed pursuant to [s
+NF(1).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nf.html)  ASIC did not say why it did not propose to appear. It did, however, say, and Messrs Owen and Billingham accept, that if any conflict of interest arises, Messrs Owen and Billingham should take appropriate action.
+ So far as one can foretell, the only potential for a conflict of interest to arise would be if recourse is to be had to the assets of RAML for the costs and expenses of the winding up of the schemes. If that recourse is authorised by the Court, there would be no conflict of interest in Messrs Owen's and
+Billingham's acting accordingly.
+ 
+How should the windings up be funded?  I now move to the point of real difficulty. Obviously, the winding up of the schemes will be a protracted and expensive exercise. Each of the schemes has a deficiency of assets; and at least in the case of the four listed schemes (RAT, RET I, RET II and RJT) it is likely that the secured creditors will take all the assets.  As I have indicated, RAML was required to hold, and does hold, an appropriate Australian Financial Services license. One of the conditions "on" that license (see [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s914a.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/)) was that
+RAML should, except in certain specified but presently irrelevant circumstances, hold at least $5 million in net tangible assets (NTA). Over time, RAML accumulated, from management fees paid to it, about $5 million.
+That amount is recorded as an asset of RAML in its financial statements. It is held in a separate term deposit account.
+ Mr Newlinds of Senior Counsel, who appeared with Ms Higgins of counsel for the plaintiffs, submitted that one of the purposes underlying the requirement to hold a specified amount of NTA was to ensure that the responsible entity, in this case, RAML could meet its obligations, including to manage the schemes in an orderly way and in accordance with their constitutions. I accept this: at least, at the level of principle.
+ Mr Newlinds did not submit that the money in the term deposit account was held on trust for the schemes, including on a "Quistclose" basis (Barclays
+Bank Ltd versus Quistclose Investments Ltd [1970] AC 567). Mr Newlinds did submit, although not with his customary vigour, that if the directors of RAML sought to deal with the fund in question "fraudulently", someone representing the scheme "could come up and get a declaration of a remedial type trust" (T21.40). That may be so. But if it were so, it would be a remedial constructive trust imposed because of a breach of fiduciary duty on the part of the directors. It does not follow that, as between RAML and the schemes,
+RAML holds the money on trust for the schemes, or as an asset of the schemes.
+ If RAML were solvent, it would be obliged to use its own money to wind up the schemes should that be required. Such an order would reflect both its duty under the constitutions and its ability to fulfil that duty. But in the present case, RAML is insolvent. There are few assets and many claimants. An order that it be at liberty to use a specified part of its assets for the purpose of winding up the schemes would have the effect of postponing, to the costs and expenses of winding up those schemes, the claims of other creditors.
+ Mr Newlinds submitted that there were two, alternative, reasons justifying the order sought: 
+The first reason is that, on the proper construction of the relevant provisions of Chapter 5C and taking into account certain extrinsic materials, there is a legislative intention that even an insolvent responsible entity may devote such assets as it has to the performance of its duties in that behalf, although the effect of its so doing would be to remove those assets from the general pool of assets available to creditors on a winding up; or the Court's power to give directions under [s
+NF(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nf.html) authorises the making of the order sought.
+ On reflection, I think, the two processes are not alternative (as Mr
+Newlinds submitted, and as I have just recorded) but complementary. In other words, I think, if on a proper construction of the relevant provisions of
+Chapter 5C it appears that the legislature intended that insolvent responsible entities should continue to perform their functions so far as they could, then, when the performance of those functions involves or requires the winding up of a scheme, the Court's powers to give directions under [s
+NF(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nf.html) are enlivened.
+ Before I move to the more general question, I note that the power under [s
+NF(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nf.html) arises if the Court thinks its exercise is "necessary". The subsection includes, by way of example only, necessity "for the reason that the provisions in the scheme's constitution are inadequate or impracticable". In this case, the relevant provisions of the constitutions in substance provide for, or authorise, the payment of the costs and expenses of termination out of the proceeds of realisation of assets. In this case, it is at least arguable that those provisions "are inadequate or impracticable" because, putting the matter at its lowest, it is unlikely that there will be sufficient available assets, at least in the listed schemes, to meet the costs and expenses of winding up. But whether or not this is so, it seems to me to be clear that, for the purposes of [s
+NF(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nf.html), the concept of necessity is not to be limited by reference to the examples given.
+ I return to the relevant provisions of [Parts
+C.2](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5c.2) and [5C.9](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5c.9).
+Adapted to the circumstances of this case, and taking into account relevant provisions of the constitutions of the schemes, the following matters emerge: 
+RAML is required to operate the schemes and to perform the functions conferred on it by their constitutions and the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) [(s
+FB(1)).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601fb.html) 
+For each scheme RAML holds scheme property on trust for the members of that scheme [(s
+FC(2)).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601fc.html) 
+The trusts on which property is held are in each case set out in the constitution of the scheme.
+
+In three cases - RAT, RET I and RET II - the scheme has terminated according to its terms, and must be wound up.
+
+Further, in those three cases, the requirement to wind up under the constitution is reinforced by [s
+NA.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601na.html) 
+Thus, RAML as responsible entity is required to wind up those schemes in accordance with the terms of their respective constitutions.
+ 
+RAML is still the responsible entity for each scheme, because there has been no alteration of the record of registration [(s
+FJ(1)).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601fj.html) 
+A responsible entity does not, it appears, cease to be a responsible entity simply because it is under external administration [(s
+FH).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601fh.html) 
+If a responsible entity is under external administration, it does not thereby lose its "right to be indemnified out of the scheme property" (again, [s
+FH).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601fh.html) 
+The right to be indemnified out of scheme property extends to the costs and expenses of winding up the scheme (cl 30 of the constitutions of
+RAT, RET I, RET II and RJT; cl 26 of the constitution of RILF).
+
+The Court may order RAML to wind up any of the schemes, if sufficient grounds be shown [(s
+ND(1)).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nd.html) 
+There appears to be nothing in [Parts
+C.2](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5c.2) and [5C.9](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5c.9) to suggest that the Court cannot order an insolvent responsible entity to wind up a scheme, and on the contrary (see at [25] above), insolvency of the responsible entity may justify winding up on the just and equitable ground.
+
+Because (see at [21] above) winding up on the just and equitable ground may be ordered if a scheme is insolvent, it follows that the Court can order winding up even if the responsible entity's right of indemnity for the costs and expenses of winding up is likely to have no practical value.
+ In short, I think, the Court has power to order a responsible entity to wind up an insolvent scheme even though, in the particular circumstances, it will be at the responsible entity's own expense because its right of recoupment will be of no value. Why should that apply to a solvent responsible entity, but not to one that is insolvent? No doubt, as a matter of discretion, the Court might decline to order an insolvent responsible entity to wind up a scheme: because the order would be futile where the entity could not afford to perform it, and in general courts will not make futile orders. But where there are funds available to enable the responsible entity to comply with the order, it does not seem to me that the Court must, nonetheless, decline to make it because the effect of making it would be to diminish the funds available to creditors generally. At most, it seems to me, that would be a matter to be taken into account in deciding whether to exercise the discretion to make the order, assuming that the grounds for making it have been shown.
+ In this context, it is necessary to look in a little more detail at the financial position of RAML. As at 19 June 2009, it was said to have net assets of $10.3 million and contingent liabilities of about $20 million. Of the net assets, some $5.2 million have been assessed to be irrecoverable. It follows that the available assets are of the order of $5 million. Presumably, that includes the term deposit account to which I have referred at [34] above.
+ The liabilities are "contingent" because they are in fact liabilities of the schemes. RAML will only be liable to pay them to the extent that they cannot be met out of the schemes' assets. To the extent that RAML expends its assets on the costs and expenses of winding up the schemes, the practical effect will be to diminish the extent to which it is able to meet those contingent or secondary liabilities if called upon to do so.
+ As I have said at [3] and [5] above, notice of the application was given to all creditors. Specifically, it was given to the Australian Taxation Office . The ATO has not appeared, either to seek an extension of time so that it can formulate its position or to oppose the orders sought. Nor, for that matter, has any other creditor whose interests would be affected, in the same way, to the extent that RAML uses its available assets to meet the costs and expenses of winding up the schemes.
+ To summarise: a responsible entity does not cease to be a responsible entity because it is under external administration; to the extent that it is able to do so, a responsible entity remains liable to perform its duties in that capacity notwithstanding that it is under external administration; a responsible entity remains amenable to the power of the Court under [s
+ND](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nd.html) notwithstanding that it is under external administration; and the fact that a responsible entity is insolvent goes not to the availability of the power under [s
+ND(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nd.html) but, assuming that a ground for exercise of the power has been demonstrated, to the Court's enlivened discretion to make an order.
+ If the Court makes an order under [s
+ND(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nd.html), then it may make other orders under [s
+NF:](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nf.html) including, by subs (2), "directions about how [the] registered scheme is to be wound up".
+ White J considered the extent of the power under [s
+NF(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nf.html) in Re application of Stacks Managed Investments Ltd (as responsible entity of
+Premium Mortgage Income Fund) <case>; [(2005) 219 ALR 532.] His Honour contrasted the confined nature of the power under [s
+NF(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nf.html) with the broader, and in terms unconfined, power under [s
+EE(2).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ee.html) The power under [s
+EE(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ee.html) has been said to be: one that is very broad and without restriction (see Mullins J in
+Australian Securities and Investments Commission versus Atlantic 3 Financial
+Pty Ltd (No.3) <case>; <case>; White
+J said in Re Stacks at 539 [30] that her Honour's formulation might be "controversial"); very wide and unqualified (see Warren J in Australian Securities and
+Investments Commission versus ABC Fund Managers Ltd (No.3)  <case> at <case>); one that authorises the imposition of an appropriate winding-up regime at inception and such further orders as may be needed thereafter (see Barrett
+J in Australian Securities and Investment Commission versus Takaran Pty Ltd (No.2) <case>; <case>; and one that authorises the Court to settle or prescribe any aspect or element of the basis of winding up, where that element cannot be derived elsewhere (see Barrett J in Australian Securities and Investments Commissions v Commercial Nominees of Australia Ltd <case>; [(2002) 42 ACSR 240] at 243-244 <case>).
+ The power under [s
+EE(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ee.html) is one to make "any orders" that the Court "considers appropriate for the winding up of the scheme". By contrast, the power under [s
+NF(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nf.html) is one to "give directions about how a registered scheme is to be wound up".
+There are two notable points of contrast: first, between a power to make orders and a power to give directions; and secondly, between a power to make orders for winding up and a power to give directions about how a winding up is to take place.
+ It follows that the power to give directions under [s
+NF(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nf.html) is narrower than the power to make orders under [s
+EE(2).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ee.html)
+No doubt, that reflects the fact that the power under [s
+NF(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nf.html) is one to be exercised in the context of a registered scheme, where the scheme's constitution will provide for winding up; whereas the power under [s
+EE](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ee.html) is given in respect of unregistered schemes, where there may be no such constitutional requirement. Power under [s
+EE(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ee.html) is power to order winding up. Power under [s
+NF(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nf.html) is ancillary to an established process of (or order for) winding up. In this context, I note that the power under [s
+NF(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nf.html) is available either where the winding up is ordered by the Court under [s
+ND](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nd.html) or where the winding up is conducted by the responsible entity pursuant to
+NA because the scheme's constitution so requires.
+ However, to say that one power is narrower than another does not state the limits, or incidents, of the narrower power. The question that remains is whether a power to give directions about how a registered scheme is to be wound up can authorise the giving of a direction that those conducting the winding up may recover their costs and expenses out of the assets of the responsible entity, to the extent that the assets of the scheme are insufficient.
+ To put the question more bluntly: is an order that the expenses of winding up a scheme be borne out of the assets of the responsible entity, to the extent that the scheme's assets are insufficient, an order "about how" that scheme "is to be wound up"? As a matter of language, I think, a direction about payment of costs and expenses of winding up is capable of being a direction about how that winding up is to be conducted. That is because, in the real world, the process of winding up will necessarily be attended by, or productive of, costs and expenses. Whether or not that linguistic conclusion should be adopted as the proper construction of [s
+NF(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nf.html) must depend, to a large degree, on a consideration of the subsection in its context. That context includes, as I have said, recognition that a responsible entity may continue to hold that position, and therefore in principle be required to perform its duties, notwithstanding that it is insolvent or under external administration.
+ There is a practical consideration. Where a scheme's assets are charged, and the amount owing to the secured creditor is likely to exceed or equal the value of the assets, it is unlikely that a third party could be persuaded to take over the task of winding up the scheme. That is because, although the third party would have a theoretical right to recover those costs and expenses out of the assets, in practice that right would be of no value. Yet, as Pullin
+J pointed out in Knightsbridge, there are important reasons of public policy why, in some circumstances, insolvent schemes should be wound up. If the Court cannot give directions about how the costs and expense of winding up an insolvent registered scheme are to be paid, then it is likely that there will be no orderly winding up, and the important public interest to which I have referred will remain unsatisfied.
+ In those circumstances, it seems to me, the power to give directions under [ss
+NF(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nf.html) includes a power, the full extent of which I do not propose to canvas, to give directions about how the costs and expenses of winding up a scheme should be paid.
+ In particular, where the responsible entity is willing to wind up a scheme and (although insolvent and under external administration) has sufficient assets to enable it to do so, I think that the power to give directions under [s
+NF(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nf.html) extends to authorising a direction that, to the extent that the assets of the scheme are insufficient, the responsible entity may expend its own assets on the winding up. That is, really, no more than ordering the responsible entity to perform its contractual and statutory obligations.
+ In my view, it follows, on the proper construction of the relevant provisions of Chapter 5C of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) and of the constitutions of the schemes, that the Court does have power to give the direction sought.
+ However, Mr Newlinds drew the Court's attention to an aspect of the decision of White J in Re Stacks. His Honour there said at 544 [52] that the power given by [s
+NF(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nf.html) "authorises the making of directions of a kind which would be made in an administration suit for the purpose of settling the entitlements of members" but "does not authorise the court to confer additional powers upon a responsible entity to which third parties would be made subject, or to interfere with the rights which third parties would otherwise enjoy".
+ Mr Newlinds submitted that his Honour's decision was incorrect, but did not submit that it was plainly wrong.
+ What White J said at 544 [52] should not be read in isolation. The powers sought by the plaintiff in that case were very wide indeed. As his Honour said at 536 [18], the plaintiff sought to have, in respect of the winding up of a registered scheme, all the powers that the liquidator of a company would have in respect of the winding up of the company. The powers sought included, by way of example only, power to require officers and employees to prepare reports as to affairs, to deliver up books and records, and to attend to be examined. As White J said at 537 [19]: 
+In other words, the plaintiff has adapted the provisions in the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) dealing with the winding up of companies to the circumstances of the scheme, and contends that powers can be conferred on the responsible persons, obligations imposed on third parties, and rights of creditors restricted, to bring the winding-up of the scheme into line with the winding-up of companies. ...
+ His Honour said that [s
+NF(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nf.html) did not authorise the grant of such wide powers. I agree. But it does not follow that the power to give directions cannot extend to the direction now in question.
+ To some extent, because RAML is under external administration, the rights of third parties have been affected: for the example, by the provisions of
+Division 6 of [Part .3A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/). (I turn to one of the provisions of Division 6 - [s
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s440b.html) - at [69] below.) However, to the extent that third parties' rights remain unaffected by statute, the direction sought (if made) will not take away any right that a third party has, or subject a third party to any form of compulsory process for production of documents or examination. It may be accepted that the effect of the directions sought (if made) would be to divert some of the assets of RAML to the winding up of the schemes, and thus to reduce the assets available to satisfy the claims of its creditors. At most, that affects the ultimate value of the rights of those creditors. To that extent, it may "interfere" with those rights. But whether that is an impermissible interference depends on the statutory scheme. For the reasons that I have given, the statutory scheme envisages, among other things, that insolvent responsible entities continue to have obligations that they are required to perform. Of necessity, the performance of those obligations will involve the expenditure of its resources, to the detriment of creditors. To the extent that this is an interference with the rights of creditors, it is one inherent in the statutory scheme. In those circumstances, to say that it is an impermissible interference with the rights of creditors seems to me to be inconsistent with the statutory scheme.
+ I should add also that in my view, when White J gave as an example of what was authorised by [s
+NF(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nf.html) "the making of directions of a kind which would be made in an administration suit for the purpose of settling the entitlements of members", his Honour was not intending to give an exhaustive account of the width of the statutory power.
+ Accordingly, I do not think that the conclusion to which I have come is inconsistent with the views of White J in Re Stacks. If I thought that it was, then, in the interests of comity and certainty, I would defer to his
+Honour's views; but that is not necessary.
+ Thus, I conclude: the Court has power to make an order for winding up the schemes; the grounds for making that order have been made out; and if the order is made, the Court would have power, under [s
+NF(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601nf.html), to give the direction sought.
+ The only discretionary factor tending against either the making of an order for winding up or the giving of the directions sought is that the funds available to creditors will be diminished. However, in circumstances where the great bulk of those creditors' claim are in truth for liabilities of the schemes which the schemes' assets are insufficient to satisfy, that does not seem to me to be a good discretionary reason not to make the orders sought. I take into account also that (subject to what I say at [71] below) no creditor has appeared to oppose the making of the order.
+ 
+Other issues canvassed at the hearing  NAB submitted that, if I decided that I would give a direction as sought in respect of the payment of the costs and expenses of winding up the schemes, the direction should be qualified by a statement to the effect that the indemnity was without prejudice to the rights of secured creditors. Mr
+Newlinds accepted this qualification.  NAB had filed interlocutory process seeking leave to enforce its charges (see [s
+B(b)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s440b.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/)). Since that interlocutory process was filed, Messrs Owens and Billingham have given written consent, pursuant to [s
+B(a)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s440b.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/), to NAB's enforcing its charges. That having been done, leave is not needed and the interlocutory process should be dismissed.
+ Shinsei raised a concern about the extent to which the winding up of RJT might interfere with its rights in respect of the principal investment of RJT: being, as I understand it, an investment in another trust. The plaintiffs, through Mr Newlinds, gave "interim" undertakings to Shinsei and the Court to satisfy, for the moment, Shinsei's concerns. (The undertakings were "interim" in the sense that they were formulated in some haste, and may well be capable of refinement.) The effect of those undertakings is that, so long as they persist, the plaintiffs will take no action which might jeopardize Shinsei's interests in the underlying trust assets. It is necessary to do no more than reserve liberty to apply.
+ Allco Finance Group Ltd (Receivers and Managers Appointed) (In Liquidation) was served with the interlocutory process. It did not appear at the hearing but, by its solicitors, objected to the orders sought, insofar as they sought that the costs of winding up, and the costs of the application to the Court, be paid out of the assets of RAML, to the extent that the assets to the schemes were insufficient. The objection was based on the proposition that "the orders... would potentially lead to the assets available to meet the claims of the creditors of RAML being decreased". The letter referred to the decision of White J in Re Stacks, in particular at 544 [52]. It stated that the relevant orders "would interfere with the rights of creditors or RAML, including our client, by potentially reducing the assets of RAML available to meet their claims". For the reasons that I have given at [59] to [65] above, I do not accept that proposition.
+ 
+Conclusion and orders The plaintiffs are entitled to the relief sought, varied, in the case of prayer 3 of the interlocutory process, in the manner agreed between the plaintiffs and NAB.
+ I make orders in accordance with prayers 1, 2 and 4 of the plaintiff's interlocutory process filed on 28 August 2009, and an order in accordance with prayer 3 thereof with the insertion, after the word "Schemes" where it last appears, of the words "with such indemnity to be without prejudice to the rights of any secured creditors in relation to the said assets".
+ I order that the interlocutory process filed in court for National
+Australia Bank Limited on 17 September 2009 be dismissed.
+ I make no order as to the costs of that interlocutory process.
+ I reserve liberty to apply in respect of the undertakings given by the plaintiffs to Shinsei and the Court, and generally.
+ I order that the exhibits on the application be retained.  
+LAST UPDATED:  October 2009 * * * 

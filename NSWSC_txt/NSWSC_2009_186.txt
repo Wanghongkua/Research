@@ -1,0 +1,296 @@
+
+
+Parkview Constructions Pty Ltd versus Tayeh & Ors [2009] NSWSC 186 (24
+March 2009) 
+Last Updated: 25 March 2009 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Parkview Constructions Pty Ltd versus Tayeh & Ors <case>  
+JURISDICTION: 
+Equity Division 
+Corporations List  
+FILE NUMBER(S):  /09  
+HEARING DATE(S):  /03/09  
+JUDGMENT DATE:  March 2009  
+PARTIES: 
+Parkview Constructions Pty Limited - Plaintiff 
+Riad Tayeh and Antony de Vries - First Defendants 
+Sydney Civil Excavation Pty Limited - Second Defendant  
+JUDGMENT OF: 
+Barrett J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+Mr W G Muddle SC/Mr A R R Vincent - Plaintiff 
+Mr G P George - Defendants  
+SOLICITORS: 
+Farrar Lawyers - Plaintiff 
+Pateman Legal - Defendants  
+CATCHWORDS: 
+CORPORATIONS - voluntary administration - deed of company arrangement - deed provides for creation of creditors' trust and execution of related implementation deed and charge - all such steps taken immediately after deed became binding - creditor applies for order under <case> terminating deed of company arrangement - but deed already terminated by <case>(c) upon completion of specified steps - no capacity to terminate again - reliance by plaintiff on <case> in submissions in reply - claim for order terminating deed ab initio - whether new case can be mounted in submissions in reply - whether, in any event, <case> order could have effect of terminating deed of company arrangement ab initio - where independently created rights and obligations have arisen from creditors' trust and related implementation deed and charge - comment on use of Part 5.3A to create scheme of administration outside Part .3A  
+LEGISLATION CITED:  [Building and Construction Industry Security of Payment Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/), [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s25.html)  [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth), [Part .3A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a), [ss
+A(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s436a.html), [440D](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s440d.html), [444G](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s444g.html), [445C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445c.html).
+[445D](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445d.html), [445H](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445h.html), [447A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html), [459G](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s459g.html), [459J](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s459j.html)(1)(b), [553C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s553c.html)  [Supreme Court (Corporations) Rules ](http://www.austlii.edu.au/au/legis/nsw/consolreg/scr1999383/), [rule .2](http://www.austlii.edu.au/au/legis/nsw/consolreg/scr1999383/s2.2.html)  
+CATEGORY: 
+Principal judgment  
+CASES CITED: 
+Australasian Memory Pty Ltd versus Brien <case>; <case>; [(2006) 229 ALR 566] 
+Hughes; Re Croesus Mining NL <case> 
+Kyle House Pty Ltd versus ACN 000 016 213 Pty Ltd <case> 
+MYT Engineering Pty Ltd versus Mulcon Pty Ltd <case>; <case> 
+Reed Constructions Australia Ltd versus DM Fabrications Pty Ltd [[2007] NSWSC ]; [(2005) 25 ACLC 1463] 
+Veolia Water Solutions & Technologies (Australia) Pty Ltd versus Kruger
+Engineering Australia Pty Ltd (No 3) <case> 
+Wellnora Pty Ltd versus Fiorentino <case>; [(2008) 66 ACSR 229]  
+TEXTS CITED: 
+Australian Securities and Investments Commission Regulatory Guide 82  
+DECISION: 
+Leave to proceed granted under <case>. Proceedings otherwise dismissed.  
+JUDGMENT:  - 26 - 
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+CORPORATIONS LIST  
+BARRETT J  
+TUESDAY, 24 MARCH 2009  /09 PARKVIEW CONSTRUCTIONS PTY LTD versus RIAD TAYEH & ORS 
+JUDGMENT  
+The principal claim in the proceedings The principal claim of the plaintiff, Parkview Constructions Pty Ltd ("Parkview"), is a claim for an order terminating a deed of company arrangement executed by the second defendant, Sydney Civil Excavation Pty Ltd ("Sydney Civil"). That claim is expressed to be advanced by reference to [s
+D](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445d.html) of the [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth).
+ The amended originating process filed on 4 March 2009 claims: "An order that the Deed of Company Arrangement entered into by the
+Defendants pursuant to a resolution of creditors of the Second defendant on 3
+February 2009 be terminated pursuant to [Section
+D(c)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445d.html), , (f) or (g) of the Act." I take this to be a reference to [s
+D(1)(c)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445d.html), , (f) or (g). There was no suggestion that Parkview lacks standing under [s
+D(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445d.html) to make an application under [s
+D(1).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445d.html) 
+Background Parkview is a project manager which is currently engaged on two relevant building projects, one at Killara and the other at Mosman. Sydney Civil was retained by Parkview to carry out excavation and related works at these sites.
+Disputes arose. The provisions of the [Building and Construction Industry
+Security of Payment Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/) were invoked. Two adjudication determinations have been made under that Act in favour of Sydney Civil and against Parkview, one in relation to the Killara project and the other in relation to the Mosman project. It was determined that Parkview should make payments of $572,633.56 and $204,776.69 respectively to Sydney Civil.
+ The first of these adjudication determinations (that in relation to Killara) was made on 11 November 2008. On 18 November 2008, orders were made in proceedings 55103/08 in the Technology and Construction List restraining enforcement of the adjudication on an interlocutory basis and requiring that
+Parkview pay $200,000 into court. The substantive relief sought in those proceedings was a declaration of invalidity in respect of the adjudication determination. The proceedings went to a final hearing and were dismissed on February 2008; the interlocutory injunction was dissolved: see Parkview
+Constructions Pty Ltd versus Sydney Civil Excavation Pty Ltd <case> Sydney Civil moved promptly to the next step. On 23 February 2009, it caused judgment for $444,781.68 to be entered in this court by way of filing of the adjudication certificate pursuant to [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s25.html) of the [Building and Construction Industry Security of Payment
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/) (that this sum is less than the amount of the adjudication is apparently explained by the fact that part payment was made by Parkview).
+ The second adjudication determination in favour of Sydney Civil and against
+Parkview related the Mosman project. It required the payment of $204,776.69 by
+Parkview to Sydney Civil. Judgment in that sum was entered in the District
+Court against Parkview on 19 January 2009 by way of filing of the adjudication certificate.
+ Parkview, for its part, considers itself to have substantial claims against
+Sydney Civil for breach of contract. On 15 January 2009, it filed a summons in the Technology and Construction List claiming damages for defective work done by Sydney Civil on the Mosman and Killara projects. Restitution of the amounts
+Parkview is liable to pay to Sydney Civil under the adjudications is also sought. These proceedings 55003/09 are separate from the Technology and
+Construction List proceedings finally determined on 19 February 2008 (see paragraph [5] above).
+ 
+The deed of company arrangement and these proceedings The deed of company arrangement executed by Sydney Civil and now attacked by
+Parkview is dated 20 February 2009. The decision that Sydney Civil should execute it was made at the second meeting of creditors held in the [Part .3A](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/index.html#p5.3a) administration of Sydney Civil on 3 February 2009. The administration had commenced on 24 December 2008 when Sydney Civil appointed administrators following a determination by its sole director, Mr Sarkis, in terms of paragraphs (a) and (b) of <case>.
+ Parkview commenced these proceedings on 23 February 2009. On the first return date, 25 February 2009, interlocutory injunctions were ordered against
+Sydney Civil up to and including 6 March 2009 and directions for a final hearing on that day were made.
+ Upon the final hearing, Mr W G Muddle SC and Mr A R R Vincent of counsel appeared for Parkview. Mr G P George of counsel appeared for all defendants and announced that the first defendants (Mr Tayeh and Mr de Vries who were originally appointed voluntary administrators and afterwards became deed administrators) neither consented to nor opposed the grant of the relief sought by Parkview. Parkview's application is, however, opposed by Sydney
+Civil (the second defendant).
+ At the conclusion of the final hearing on 6 March 2009, I made directions for closing submissions to be completed in writing and continued the interlocutory orders until further order. The submissions were received on 11 and 13 March 2009.
+ 
+The central provisions of the deed and associated documents I should, at this point, outline briefly the deed of company arrangement and the effects produced by it and associated documents.
+ The deed of company arrangement is expressed to have as its parties Sydney
+Civil, Mr Sarkis (its sole director) and Mr Tayeh and Mr de Vries (the administrators). By virtue of <case>, the deed became binding on those persons. By virtue of <case>, it also bound Sydney Civil's creditors in respect of claims arising on or before the day specified in the deed under s
+A(a)(4)(i) (the day so specified was 24 December 2008). The binding force of a deed of company arrangement is wholly statutory: MYT Engineering Pty Ltd v Mulcon Pty Ltd <case>; [(1999) 195 CLR 636.] Clause 4.1(a) of the deed required Mr Sarkis to provide a sum of $1,000 ("Settlement Sum") to the deed administrators within 20 business days after the "Commencement Date" (the earliest date on which the deed was executed by its parties). Clause 4.1(b) required four things to happen simultaneously and immediately, subject to payment of the Settlement Sum in accordance with clause 4.1(a). First, Mr Sarkis and Mr Tayeh and Mr de Vries were required to "execute the Trust Deed and do all things within their respective powers to bring the Trust Deed into full force and effect" (clause 4.1(b)(i)). Second,
+Mr Tayeh and Mr de Vries were obliged to "commence holding all of the
+Administration Fund in existence at the date of the events set out in this clause 4.1 taking place, as trustees on the trusts, and as part of the Trust
+Fund, under the Trust Deed" (clause 4.1(b)(ii)). Third, Mr Sarkis, Mr Tayeh and Mr de Vries and Sydney Civil were required to "execute the Implementation
+Deed and do all things within their power to bring the Implementation Deed into full force and effect" (clause 4.1(b)(iii)). Fourth, Sydney Civil was required to "execute the Charge" and bring it into full force and effect.
+ The central provisions of the deed of company arrangement were clause 13 and clause 12(c).
+ Clause 13 said that, immediately the clause 4.1 requirements had been satisfied, every person with an unsecured claim against Sydney Civil having origins predating 24 December 2008 accepted that that claim was, by the deed, released, discharged and extinguished and agreed to accept instead the benefits of the creditors' trust.
+ Clause 12(c) was in these terms: "Each Creditor: shall not be entitled to assert; and releases, discharges and forever holds the Company harmless from, any claim to set-off that it may otherwise be entitled to assert in the manner set out in section 553C of the Act which would otherwise be imputed as a term of this Deed by operation of clause 12(b) or otherwise, in respect to any debts or claims as at the Fixed Date out of any mutual debts, mutual creditors or other mutual dealings between the relevant Creditor and the
+Company and all such entitlements are extinguished immediately as and from the
+Commencement Date." It is not disputed that the several steps envisaged by clause 4.1 were duly taken - indeed, that they were taken on 20 February 2009 immediately after the deed of company arrangement was executed. Nor is it disputed that, from that time, the deed of company arrangement had no further work to do, in the sense that no positive steps remained to be taken under it.
+ The sum of $1,000 that Mr Sarkis was obliged by the deed of company arrangement to pay to Mr Tayeh and Mr de Vries as deed administrators became part of the trust fund under the creditors' trust constituted by the trust deed referred to in clause 4.1(b)(i) of the deed of company arrangement. Other elements of the trust fund - which, by the trust deed, the trustees (Mr Tayeh and Mr de Vries) declared was held by them for the "Beneficiaries" (essentially, the creditors of Sydney Civil bound by the deed of company arrangement to accept the benefits under the trust upon extinguishment of their claims against Sydney Civil) - were any balance of funds held by the deed administrators at the time of termination of the deed of company arrangement (zero, in the events that happened) and sums paid by Sydney Civil to the trustees pursuant to the implementation deed.
+ The trust deed made provision for a system of establishing entitlements of former creditors of Sydney Civil in essentially the same way as debts are proved in a winding up. There were also provisions for distribution of the trust fund among the beneficiaries according to the entitlements so established. Among the provisions for determining beneficiaries' entitlements was clause 8.1(b): "Each Participating Creditor: shall not be entitled to assert; and releases, discharges and forever holds the Company harmless from, any claim to set-off that it may otherwise be entitled to assert in the manner set out in section 553C of the Act which would otherwise be imputed as a term of this Deed by operation of this clause 8 or otherwise, in respect to any Fixed Date Claims out of any mutual debts, mutual credits or other mutual dealings between the relevant Participating Creditor and the Company." The third element of the trust fund (sums paid by Sydney Civil to the trustees pursuant to the implementation deed) focuses attention on clause 3(a) of the implementation deed executed pursuant to clause 4.1(b)(iii) of the deed of company arrangement: "In consideration for the Settlor and the Trustee entering into the Trust
+Deed, the Company will pay and the Director will use his best endeavours to procure the Company to pay, the Instalments on or before the relevant corresponding Payment Dates, to the Trustee, by way of unendorsed bank cheques (in respect of which time is of the essence)." The "Instalments", as defined by the implementation deed, are payments to be made by Sydney Civil as follows: "The Company must, within 10 business days of recovery and receipt of any moneys in respect to any Claim, pay to the Trustee 25% of the amount being the
+Net Recovery in respect to such recovery or receipts [sic]." The reference here to "any Claim" takes its meaning from the definition of "Claims" in the implementation deed: "'Claims' means the claims or potential claims that the Company has in its favour as at the Fixed Date [24 December 2008] against any person for payment of, or recovery of, money, whether pursuant to the [Building and Construction
+Industry Security of Payment Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/) or otherwise, including for work performed by or on behalf of the
+Company and including the claims relating to the projects set out in Schedule ." Schedule 2 to the implementation deed refers to seven projects involving six counter-parties, including Parkview. The particular projects, however, are relevant only to one element included in "Claims". The defined term extends to all claims of all kinds that Sydney Civil had at 24 December 2008 for the payment of money by any person or the receipt of money from any person, regardless of the source of the claim, the nature of the activity that generated it and the identity of the person against whom it lies.
+ The term "Net Recovery" used in the description of the "Instalments" is: "'Net Recovery' means the amount recovered and receipted by the Company in respect to any Claim (or part thereof), net of any counterclaim payable by the
+Company (regardless of whenever such counterclaim is due and payable by the
+Company), and net of the costs incurred by the Company directly related to recovery of the sum received in respect to the claim (or any part thereof)." The charge is a fixed and floating charge granted by Sydney Civil to Mr
+Tayeh and Mr de Vries over its assets and undertaking generally. The charge stands as security for all moneys of every description from time to time owing by Sydney Civil to Mr Tayeh and Mr de Vries.
+ 
+Summary of the scheme Taken together, the deed of company arrangement, the trust deed and the implementation deed are agreed by the parties to have produced a situation where debts and claims of creditors of Sydney Civil having origins before December 2008 have been extinguished and are incapable of being asserted or relied on; b) the persons who had those debts and claims against Sydney Civil immediately before their extinction are, as beneficiaries, entitled to participate in the trust fund held under the trust deed; that participation is, as among those persons, in proportion to their extinguished debts and claims, with the debt or claim of a particular person being calculated without any set-off that would have applied in a winding up of Sydney Civil (so that it is the gross and undiminished amount of the person's debt or claim that is taken into account); the trust fund in which the rights of participation subsist will consist virtually exclusively of 25% of the "Net Recovery" amounts received by
+Sydney Civil in respect of claims it had at 24 December 2008 to receive or recover money on any account; the "Net Recovery", in respect of a claim Sydney Civil had at 24
+December 2008 against a particular person who also had a claim against Sydney
+Civil at 24 December 2008, will be (leaving to one side the impact of recovery costs) the amount of Sydney Civil's claim against that person less the amount of that person's claim against Sydney Civil; and in determining "Net Recovery", however, any claim against Sydney Civil that was extinguished by the deed of company arrangement will necessarily be disregarded.
+ The charge secures payment by Sydney Civil of the moneys it is to pay to Mr
+Tayeh and Mr de Vries.
+ 
+The scheme in operation The working of the scheme created by the various provisions may be illustrated by examples. Let it be assumed that, at 24 December 2008, Sydney
+Civil was indebted to XCo in the sum of $A and XCo was indebted to Sydney
+Civil in the sum of $B. By operation of the scheme, XCo's claim against Sydney
+Civil in the sum of $A is extinguished and XCo is entitled to participate under the trust on the footing of an entitlement measured by the extinguished debt of $A. If and when Sydney Civil recovers the $B owing to it by XCo,
+Sydney Civil will be required by the implementation deed to pay a sum to the trustees of the creditors' trust. Leaving aside recovery costs, that sum will be will be 25% of $B, undiminished by any set-off of the $A owing by Sydney
+Civil to XCo.
+ The impact may be appreciated by giving values to $A and $B. In the first instance, let $A be $100 and $B be $150. The result in that case is that the debt of $100 owed by Sydney Civil to XCo is extinguished; Sydney Civil can recover the full $150 from XCo; Sydney Civil will pay 25% of the recovered $150 (that is, $37.50) into the creditors' trust; and XCo will share proportionately to its extinguished debt with other extinguished creditors in the $37.50 and whatever else is in the creditors' trust.
+ If the scheme had not been implemented and Sydney Civil had been wound up on 24 December 2008, [s
+C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s553c.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) would have applied to the circumstances of this first example in such a way that XCo was required to pay to Sydney Civil the $50 by which the debt of $150 owed by it to Sydney Civil exceeded the debt of $100 owed by Sydney Civil to it, thus deriving the full benefit of the debt owing by Sydney Civil.
+ Let it next be assumed that $A is $150 and $B is $100. The result produced by the scheme in that case is that the debt of $150 owed by Sydney Civil to
+XCo is extinguished; Sydney Civil can recover the full $100 from XCo; Sydney
+Civil will pay 25% of the recovered $100 (that is, $25) into the creditors' trust; and XCo will share proportionately to its extinguished debt with other extinguished creditors in the $25 and whatever else is in the creditors' trust.
+ In a winding up of Sydney Civil on 24 December 2008 on the basis assumed in this second example, [s
+C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s553c.html) would have operated so that XCo was entitled to prove in the winding up in respect of the net $50 owing to it after the benefit of set off of the $100 against the $150.
+ Next, let it be assumed that $A and $B are both $100. Under the scheme, the debt of $100 owed by Sydney Civil to XCo is extinguished; Sydney Civil can recover $100 from XCo; Sydney Civil will pay $25 of the recovered $100 (that is, $25) into the creditors' trust; and XCo will share proportionately to its extinguished debt with other extinguished creditors in the $25 and whatever else is in the creditors' trust.
+ In a winding up of Sydney Civil on 24 December 2008 on the basis assumed in the third, [s
+C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s553c.html) would have operated so that XCo was neither entitled to prove in the winding up nor required to make a payment to Sydney Civil. The debt of $100 owed by
+XCo and the debt of $100 owed to it would have been set off against one another so that each was eliminated.
+ Finally, let it be assumed that, at 24 December 2008, XCo owed Sydney Civil $150 and Sydney Civil owed XCo $100. In accordance with paragraph [31] above,
+Sydney Civil can recover $150 from XCo and XCo's claim for $100 is extinguished. Assume further, however, that by the time that sum is "recovered and receipted" within the meaning of the definition of "Net Recovery", Sydney
+Civil is indebted to XCo for $150 in respect of defects in post-24 December works or, indeed, for anything else post-dating 24 December 2008, whether or not presently payable. In calculating the instalment payable by Sydney
+Civil to the trustees of the creditors' trust under clause 3(a) of the implementation deed, that post-24 December 2008 debt is deducted from the $150 recovered on the claim, so that Sydney Civil is not obliged to pay any part of that claim to the creditors' trust and no contribution to the trust results from the claim. This is the effect of element (e) at paragraph [28] above.
+ 
+Parkview's complaints  Parkview contends that the deed of company arrangement is unjust, oppressive, discriminatory and unfair; also that it was procured by a report to creditors that was misleading by virtue of material omission. While these submissions are, in terms, made about the deed of company arrangement, they are, I think, submissions that relate to the whole of the scheme created by the combined effect of the deed of company arrangement, the creditors' trust, the implementation deed and the charge.
+ The submissions go on to say that the attack under [s
+D(1)(e)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445d.html), and (g) can be summarised under two broad heads. The first is that the avowed purpose of the scheme is to avoid the "substantive justice" principles underlying [s
+C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s553c.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/). [Section
+C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s553c.html) is the counterpart, in the case of an insolvent winding up, of [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ba1966142/s86.html) of the [Bankruptcy Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ba1966142/). The automatic set-off it effects was said by the High Court in Gye versus McIntyre <case>; [(1991) 171 CLR 609] to be an instrument of "substantial justice" between the parties.
+ Second, Parkview attacks the scheme on the basis that its express purpose is not to pursue litigation of substantive rights but to enforce the species of provisional determination that comes from adjudication under the [Building and Construction Industry Security of Payment
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/). The scheme is said to be a "contrivance" to extinguish Parkview's counter-claims for breach of contract, faulty work and the like. Mr Muddle referred in this connection to Veolia Water Solutions & Technologies (Australia) Pty Ltd v
+Kruger Engineering Australia Pty Ltd (No 3) <case> and Reed Constructions Australia Ltd versus DM Fabrications Pty Ltd [[2007]
+NSWSC 1190]; [(2005) 25 ACLC 1463.] In both those cases, it was recognised that, had a deed of company arrangement not intervened, subsisting adjudications in favour of the company that became subject to the deed would have been reduced or eliminated by set-off in the event that claims against the company for faulty work had been established; and this would have happened with effect from the commencement of the voluntary administration had the administration culminated in winding up.
+ Parkview submits that since, as a result of the scheme, Sydney Civil has no other assets, the purpose and effect of the scheme are that adjudications under the [Building and Construction Industry Security of Payment
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/) become de facto final judgments. This, it is said, is at odds with what
+Parkview describes as existing authority that the adjudication procedures the
+Act makes available may not be used by insolvent companies because unjust adjudications on progress claims become de facto final determinations of substantive rights.
+ Dealing particularly with <case>(c), counsel for Parkview said in written submissions ("DOCA" referring to the deed of company arrangement, "CT" referring to the creditors' trust and "RTC" referring to the administrators' report to creditors for the purposes of the second meeting of creditors): "The attack under <case>(c) may be summarised as follows: a. The RTC recommended a DOCA/CT with a projected return of 0.2 to 6 cents in the dollar.
+ b. It did so without any reasonable basis and without taking into account legal costs.
+ c. Further it did so without adequately reflecting the position of the secured creditor - namely that all proceeds would first go in satisfaction of that charge before ever reaching the CT.
+ d. The RTC did not clearly tell creditors that: i. an important disadvantage of the scheme was that they lost the 'substantial justice' provision in <case>; ii. the Director had no obligation to fund - so the result would be zero (for same reasons as in liquidation) unless director chose to, and was able to fund; notwithstanding that director secured a release of all rights against him, such as insolvent trading. This was one of the basis [sic] upon which another of Mr Tayeh's recommended DOCAs was terminated in Vatera Pty Ltd v
+Meribal Interiors NSW Pty Ltd  <case> at <case>, [13].
+ iii. All or any of them could fund pursuit of the Claims via a liquidator (indeed there is no evidence that the Administrator spoke to any creditor about this before making his RTC); and iv. that they lost valuable statutory rights such as appeal from rejection of proof.
+ e. The whole analysis and recommendation was flawed because the accounts on which the Administrator based his recommendation were systemically flawed.
+The accounts did not include a substantial part of the Company's assets being receivables from other jobs which had not yet been paid or a payment schedule received: Affidavit of Steven Sarkis, paragraph 9. The RTC did not reflect this situation." The submissions go on to refer to a number of other ways in which the report to creditors prepared by the administrators for the purpose of the meeting at which creditors approved the deed of company arrangement proposal was misleading or deceptive.
+ 
+Parkview's claim As I have said, Parkview's principal claim is a claim for an order under s 445D(1) terminating the deed of company arrangement. The form of order sought is set out at paragraph [2] above.
+ In written submissions, however, counsel for Parkview said: "Ultimately the Plaintiff contends that the Court should terminate ab initio the subject Deed of Company Arrangement ('DOCA') pursuant to s
+D(1)(c), (e), (f) and/or (g) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/)." It is convenient to set out [s
+D(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445d.html) in full: "The Court may make an order terminating a deed of company arrangement if satisfied that: information about the company's business, property, affairs or financial circumstances that: was false or misleading; and can reasonably be expected to have been material to creditors of the company in deciding whether to vote in favour of the resolution that the company execute the deed; was given to the administrator of the company or to such creditors; or such information was contained in a report or statement under [subsection
+A(4)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s439a.html) that accompanied a notice of the meeting at which the resolution was passed; or there was an omission from such a report or statement and the omission can reasonably be expected to have been material to such creditors in so deciding; or there has been a material contravention of the deed by a person bound by the deed; or effect cannot be given to the deed without injustice or undue delay; or the deed or a provision of it is, an act or omission done or made under the deed was, or an act or omission proposed to be so done or made would be: oppressive or unfairly prejudicial to, or unfairly discriminatory against, one or more such creditors; or contrary to the interests of the creditors of the company as a whole; or the deed should be terminated for some other reason." 
+Sydney Civil's response As might be expected, Sydney Civil conducted its case on the ground mapped out by Parkview's expressed reliance on [s
+D(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445d.html) and its invocation of the particularly nominated paragraphs of that section.
+Sydney Civil's leading submission was that the court cannot meaningfully make an order under [s
+D(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445d.html) terminating the deed of company arrangement for the simple reason that the deed has already terminated.
+ This contention of Sydney Civil makes it necessary to refer to [s
+C:](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445c.html) "A deed of company arrangement terminates when: the Court makes under [section
+D](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445d.html) an order terminating the deed; or the company's creditors pass a resolution terminating the deed at a meeting that was convened under [section
+F](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445f.html) by a notice setting out the proposed resolution; or if the deed specifies circumstances in which it is to terminate--those circumstances exist; or the administrator of the deed executes a notice of termination of the deed in accordance with [section
+FA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445fa.html); whichever happens first." Having regard to [s
+C(c)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445c.html), it is relevant to quote clause 21(a) of the deed of company arrangement: "Subject to clause 21(b) this Deed shall terminate immediately upon all parties having complied with all of the obligations imposed upon them pursuant to clause 4.1 and provided such compliance on the part of all parties has occurred within the time period set out in clause 4.2." The opening qualification relating to clause 21(b) may be left to one side as irrelevant. That being so and given that it is accepted that all the clause .1 steps were taken (see paragraph [19] above) - and that this happened on 20
+February 2009 within the specified compliance period - the situation is one in which: the deed of company arrangement, in clause 21(a), specified "circumstances in which it is to terminate" (being completion of the clause .1 steps); those circumstances came to "exist" on 20 February 2009; accordingly and by force of [s
+C(c)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445c.html), the deed of company arrangement "terminated" on 20 February 2009 when the clause 4.1 steps were completed.
+ Sydney Civil's submission that the deed of company arrangement has already terminated must be accepted.
+ Having regard to 445C as a whole, I accept that termination by reason of the existence of specified circumstances (that is, termination as envisaged by [s
+C(c))](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445c.html) is termination of precisely the same kind and quality as that which can be achieved through an order of the court under [s
+D](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445d.html) (that is, termination as envisaged by [s
+C(a)).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445c.html)
+A [s
+D](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445d.html) order does not itself terminate a deed of company arrangement. Termination occurs by force of [s
+C(a)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445c.html) "when" the order is made.
+ Since termination, in the [s
+C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445c.html) sense, has already occurred by operation of [s
+C(c)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445c.html), it is not meaningful now to consider some subsequent and separate termination by operation of [s
+C(a).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445c.html) In the circumstances now existing, an order under [s
+D](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445d.html) could have no force or effect such as to bring [s
+C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445c.html) into operation. Such an order would therefore be of no utility and, for that reason, will not be made.
+ 
+The termination "ab initio" concept and [s 447A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) Parkview's claim, as ultimately articulated, is, however, a claim for an order terminating the deed of company arrangement ab initio, that is, in such a way that it must be regarded as never having had effect.
+ The termination concept embodied in Division 11 of [Part .3A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a) in relation to deeds of company arrangement is not a concept of termination ab initio. This is made clear by [s
+H:](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445h.html) "The termination or avoidance, in whole or in part, of a deed of company arrangement does not affect the previous operation of the deed." There are unanswered questions about the meaning and operation of this provision: see Wellnora Pty Ltd versus Fiorentino <case>; <case>. It is not necessary to consider those questions here since the result Parkview ultimately sought is not termination in the statutory sense. It is the species of termination ab initio to which I have referred.
+ Parkview said, in submissions in reply, that [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) provides a basis for avoidance ab initio of a deed of company arrangement.
+That may be so. I referred to that (or a like) possibility in Kyle House Pty
+Ltd versus ACN 000 016 213 Pty Ltd <case> at <case>.
+Termination ab initio probably stands in the same light as variation, something that can undoubtedly be achieved through [s
+A:](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) see, most recently, Hughes; Re Croesus Mining NL <case>
+The problem for Parkview is that it did not present its case on the basis of [s
+A.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) Mr George, in his closing submissions on behalf of Sydney Civil, drew particular attention to Parkview's reliance on [s
+D(1).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445d.html)
+He did so in the context of a comparison of the narrow and particular operation of that section, when compared with [s
+A.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html)
+I quote from the transcript: "Going forward to 445D, 445D(1) is in very deliberate terms, (read). It then sets out the criteria at (a) to (g). That phraseology, I submit, has to be intended by the draftsman to operate while a deed is still in effect. Not as here where the deed has been effectuated. If it was intended to do so otherwise, it would say so. It would give the Court a very broad power. It doesn't.
+ 
+You would compare that with 447A, subsection (1), (read). That is, in my respectful submission, broad language, flowery language perhaps on one view of it, but the power is unquestionable. It is not you compare that with 445D and the words are entirely different, the power is curtailed. And hence my submission to your Honour that 445D is not available to the plaintiff here.
+Because as I said, the race is run." Mr George was here responding to Parkview's case based squarely and exclusively on [s
+D(1).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445d.html)
+He referred to [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) to emphasise the limitations of the particular statutory jurisdiction under [s
+D(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445d.html) that Parkview had chosen to invoke.
+ As I have said, Parkview sought to rely on [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) in submissions in reply. Mr Muddle said: "The Defendants drew the Court's attention to [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) in oral submissions. The Plaintiff submits that the section confirms the power of the Court to make a termination order nunc pro tunc. [Section
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) is to be given widest possible interpretation: Winterton Constructions Pty
+Ltd versus MA Coleman Joinery Co Pty Ltd (1996) 20 ACSR 671 at 676.4 and the authorities there cited." 
+Can Parkview rely on [s 447A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html)? Parkview cannot advance a new and different case through submissions in reply. It is clear that the order actually sought (see paragraph [2] above) could not be made under [s
+A.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html)
+An order under that section must be an order "about how this Part is to operate in relation to a particular company". These are the words of [s
+A(1).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html)
+Parkview has not articulated the terms of any order specifying how [Part .3A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a) is to operate in relation to Sydney Civil.
+ The [Supreme Court (Corporations) Rules ](http://www.austlii.edu.au/au/legis/nsw/consolreg/scr1999383/) provide for the commencement of proceedings by originating process: see [rule .2.](http://www.austlii.edu.au/au/legis/nsw/consolreg/scr1999383/s2.2.html) [Rule .2(3)](http://www.austlii.edu.au/au/legis/nsw/consolreg/scr1999383/s2.2.html) provides: "An originating process must: be in accordance with Form 2, and state: each section of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) or the ASIC
+Act, or each regulation of the Corporations Regulations, under which the proceeding is brought, and the relief sought." There is thus a clear requirement that a plaintiff seeking relief under a particular provision of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) identify that provision at the outset. In the absence of a pleaded case, a defendant is then put on notice of the nature and scope of the case that will be advanced against it. The defendant is also given an indication of the issue or issues which, if decided in favour of the plaintiff, will give a right to the relief for which nominated statutory provision provides.
+ In conformity with rule 2.2(3)(b)(i), Parkview's amended originating process commences: "This application is made under [Sections
+D(c)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445d.html), , (f) or (g) and [sections
+G](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s459g.html) and [459J](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s459j.html)(1)(b) of the [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) and under the general law." The references to [s
+G](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s459g.html) and [459J](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s459j.html)(1)(b) are concerned with aspects of the relief sought which may be regarded as subsidiary to the main claim based on the specified paragraphs of [s
+D(1).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445d.html) The only case Parkview ever foreshadowed, regarding termination of the deed of company arrangement, was a case based squarely on [s
+D(1).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445d.html)
+It was to the meeting of that case that Sydney Civil's submissions were directed. It was not open to Parkview to shift in submissions in reply to some new case based on [s
+A.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) 
+What could an order under [s 447A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) do? Let it be assumed, contrary to the view I have just expressed, that
+Parkview is entitled to press for and now seeks an order under [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) that [Part .3A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a) is to operate in relation to Sydney Civil as if the provisions of the deed of company arrangement had never become binding in the ways referred to at paragraph [14] above (that being, I suppose, the import of the concept of termination ab initio). What would be the effect and consequences of that order? If the deed of company arrangement had never come into force, its clause .1 would never have become the source of any obligation. There would not have arisen any requirement that Mr Sarkis and the administrators execute the trust deed and cause the creditors' trust to be constituted. There would never have been any requirement that the administrators commence to hold the administration fund on the trusts set out in the trust deed or that Mr Sarkis, the administrators and Sydney Civil execute the implementation deed and Sydney
+Civil execute the charge.
+ But, of course, all those things were in fact done - and they were done in such a way as to create independent sources of rights and obligations quite distinct from the rights and obligations created by the deed of company arrangement. An order that [Part .3A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a) is to operate in relation to Sydney Civil as if the deed of company arrangement had never come into force would not change any of this. The independently existing rights and obligations are not incidents of the operation of [Part .3A.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a)
+No provision of [Part .3A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a) sustains or regulates them. They are the product of the separate acts which, although having their genesis in the deed of company arrangement, were actually performed by relevant persons so as to produce results independently recognised by the law of contract, the law of trusts and the general law more widely. No modified operation of [Part .3A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a) decreed in relation to Sydney Civil pursuant to [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) could abolish or neutralise those results.
+ In Australasian Memory Pty Ltd versus Brien [[2000] HCA 30], the High Court emphasised both the breadth and the limitations of [s
+A.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html)
+At paragraphs [30] to [32] of their joint judgment, Gleeson CJ, McHugh J,
+Gummow J, Hayne J and Callinan J discussed the possible effects of an order under [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) varying the operation of [Part .3A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a) in a way that would, in effect, reinstate a terminated voluntary administration. Their Honours referred to two different kinds of cases. The case relevant for present purposes is that where, following actual termination of the administration (which did not entail either winding up or a deed of company arrangement), shares in the company were traded and the directors resumed management of the company and dealt with assets. The distinct possibility that, in such a case, reinstatement of the administration might be beyond the power given by [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) (or, at least, face "an insuperable discretionary obstacle") was recognised at paragraph [32]. The possibility was seen to arise because reinstatement "may well be inconsistent with the rights which were created in the intervening period".
+ The same difficulty presents itself here. Rights and obligations quite separate from those created by the deed of company arrangement arose on 20
+February 2009 from the trust deed, the implementation deed and the charge.
+Those rights and obligations continue. Further new rights and obligations arise on an ongoing basis because of the existence and operation of those instruments. An order under [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) that purported to abolish or neutralise them, even if it could somehow be effective, would encounter the same substantial doubt about either lack of power or insuperable discretionary obstacle.
+ 
+A comment on creditors' trusts Mr George referred to Regulatory Guide 82 published by Australian
+Securities and Investments Commission entitled "External administration: Deeds of company arrangement involving a creditors' trust". He did so for the purpose of suggesting that creditors' trusts are a recognised mechanism available in cases of the present kind. The basic message in Regulatory Guide is, however, one of caution. The description of a typical creditors' trust reads in part as follows: "1.2 Typically, under the terms of the DCA and one or more interconnected deeds, a trust entity is created and the company's obligations to some or all of the creditors bound by the DCA are compromised and transferred to the trust. Those creditors become beneficiaries of the trust ...
+ .3 The company and/or third parties promise to make one or more payments (or transfer other property) to the trustee in satisfaction of the creditors' claims against the company. In return, the creditors' rights against the company are extinguished.
+ .4 The trustee of the new trust becomes solely responsible to the former creditors (now beneficiaries) for: ensuring that the company and/or other third parties perform their payment and other obligations to the trustee; determining how much each of the former creditors is entitled to receive from the trust; and in due course, making any distribution to those former creditors.
+ .5 Usually, the DCA is 'effectuated' (and terminates) after the creditors' claims against the company have been removed in this way. In most cases the DCA terminates immediately upon creation of the trust, which usually occurs when or shortly after the DCA is executed.
+ .6 When the DCA terminates, the company ceases to be externally administered, the directors regain full control of the company and the company is no longer required to use the notification 'subject to deed of company arrangement' on its public documents as otherwise would be required by [s
+E(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s450e.html) of the Act." Paragraphs 1.5 and 1.6 of this summary refers to the matter brought into stark relief by the circumstances in the present case: once the creditors' trust has been constituted and the deed of company arrangement pursuant to which it was established as an independent source of rights and obligations has terminated, the protective mechanisms created by [Part .3A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a) cease to apply. The trust and the covenants associated with it are not governed by [Part .3A.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a)
+The various aspects of the court's statutory jurisdiction intended to underwrite the integrity of the [Part .3A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a) processes are no longer operative.
+ A scheme such as the present could have been implemented wholly within a deed of company arrangement. Had that approach been taken so that a deed of company arrangement remained the governing instrument throughout, the supervisory and remedial jurisdiction of the court under [s
+D](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445d.html), [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) and other applicable provisions of [Part .3A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a) would have been preserved. In the events that happened, the scheme is being implemented outside [Part .3A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a) and creditors are denied those safeguards.
+ Administrators recommending to creditors the adoption of a deed of company arrangement that will give birth immediately to a creditors' trust and then itself promptly die bear a heavy burden of explaining to creditors the implications of the shift from a regime incorporating a court administered scheme of creditor protection to one in which creditors become passive trust beneficiaries.  
+Conclusions  Because of my conclusions that the order Parkview actually seeks by reference to [s
+D(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445d.html) (see paragraph [2] above) would be of no utility and therefore will not be made (see paragraph [54] above); 
+Parkview presented its case in such a way that it is not open to it to press for any order under [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) having the effect of terminating the deed of company arrangement ab initio (see paragraph [67] above); an order under [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s447a.html) stating that [Part .3A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a) is to have effect in relation to Sydney Civic as if the deed of company arrangement provisions had never become binding in the way stated at paragraph [14] above could, in any event, do nothing to abolish or neutralise the rights and obligations flowing from the trust deed, the implementation deed and the charge (see paragraphs [68] to [72] above); no other order that the court might make in these proceedings could abolish or neutralise those rights and obligations there is no alternative but to dismiss these proceedings. In saying that, I proceed on the footing that the subsidiary relief Parkview seeks (that is, relief beyond the [s
+D(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s445d.html) order) could only sensibly be granted if the primary claim were successful.
+(An exception to what I have just said is that there will be a grant of leave nunc pro tunc under [s
+D](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s440d.html) in respect of proceedings 55003/09 which were commenced after the commencement of the voluntary administration of Sydney Civil on 24 December 2008 and before the advent on 20 February 2009 of the deed of company arrangement which also terminated on that day; if the scheme is said by Sydney Civil somehow to have barred those proceedings, that can be pleaded there: see Hoath versus Connect
+Internet Services Pty Ltd <case>; <case>).
+ This outcome causes me considerable disquiet. There are two reasons for this. First, I have the general impression that there is merit in the criticisms Parkview makes of the overall scheme and the processes by which it was brought to fruition; but since, for the reasons stated, the court is unable in these proceedings to take any remedial action, I refrain from making any findings in relation to those criticisms. Second, it is a matter for concern, at a public policy level, that the protective aspects of [Part .3A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.3a) in relation to deeds of company arrangement, including the role of the court, can be and have been avoided by the creation through a deed of company arrangement of a parallel but essentially unregulated regime of administration.
+ 
+Disposition  The orders of the court are as follows: . Order pursuant to [s
+D(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s440d.html) of the [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) that the plaintiff have leave nunc pro tunc to begin and to proceed with proceedings 55003/09 in the Technology and Construction List of this Division.
+ . Order that the amended originating process be otherwise dismissed.
+ . Order that the restraining orders made on 25 February 2009 and continued on 6 March 2009 until further order be and are hereby dissolved.
+ I shall hear the parties on costs at a time to be fixed.
+ 
+LAST UPDATED:  March 2009 * * * 

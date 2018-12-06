@@ -1,0 +1,169 @@
+
+
+Macmahon Mining Services versus Cobar Management [2014] NSWSC 502 (25 March )
+
+Last Updated: 2 May 2014 
+Supreme Court 
+New South Wales  
+Case Title: 
+Macmahon Mining Services versus Cobar Management  
+Medium Neutral Citation: <case>  
+Hearing Date(s): /03/2014  
+Decision Date: March 2014  
+Jurisdiction: 
+Equity Division - Technology and Construction List  
+Before: 
+McDougall J  
+Decision: 
+Order that claim at [39] to [41] of List Statement be dismissed pursuant to r .4.  
+Catchwords: 
+CONTRACT - terms and conditions - limiting liability clause - interpretation of clause excluding or limiting liability for consequential loss - whether contract should be construed so as not to deprive one party of its benefit  
+PROCEDURE - summary dismissal - general principles - summary dismissal of part of claim 
+PROCEDURE - Application for order that question of construction to be dealt with as a separate question - whether court should proceed on hypothetical basis - [Uniform Civil Procedure Rules ](http://www.austlii.edu.au/au/legis/nsw/consolreg/ucpr2005305/) , r .2  
+JUDGMENT (EX TEMPORE - REVISED 25 MARCH 2014) 
+HIS HONOUR: On 14 October 2011, the plaintiff (Macmahon) as contractor and the defendant (Cobar) as principal made a written agreement under which Macmahon undertook to design and construct certain works for the development of Cobar's copper mine at Cobar in this State. 
+On 4 June 2013, Cobar wrote to Macmahon giving what it said was notice of termination of the contract. Cobar relied on a contractual provision, cl 22.3(a), which entitled it to terminate forthwith for breach if, in its opinion, the breach was material and incapable of remedy. Cobar relied also on the two following paragraphs of cl 22.3. One of those grounds related to asserted breach of Occupation Health and Safety obligations. The other related to other asserted material breaches which, in Cobar's opinion (said to have been reasonably formed), could not be rectified without themselves causing further material breaches.
+Macmahon says that the termination was invalid, however, and that the letter of termination constituted a repudiation of the contract. On 19 June 2013 (presumably, having had an opportunity to consider its position), Macmahon notified Cobar that it accepted the repudiation as discharging the contract.
+Macmahon sues for damages. One of the heads of damage claimed is described in the list statement as "loss of opportunity to earn profit". Macmahon says that, had the contract continued to completion, it would have made very substantial profits, and that the termination of the contract has denied it the opportunity to earn those profits.
+Cobar moves for summary dismissal of the claim for loss of opportunity to earn profit. It relies on a particular clause, cl 18.5, of the contract.
+
+Relevant provisions of the contract 
+Before I turn to cl 18.5, I should note that the contract was somewhat unusual in its structure. The contract mechanism provided that the price payable by Cobar to Macmahon would be developed as work progressed, the work itself being done according to a schedule of rates. The intention was, in effect, that Macmahon's design and construct obligations would be done on a basis which, with some exceptions, guaranteed it a profitable outcome. All that appears from cl 2.2. Clause 2.1 describes the purpose of the clause itself, and cl 2.3 summarises the respective liabilities that the parties understood themselves to be undertaking. Although cl 2 was not intended to have legal effect, it is nonetheless of some importance, and I set it out: 
+Summary of Liability Principles .1 Purpose 
+The purpose of this clause 2 is to summarise the agreed principles of liability for the Principal and the Contractor.
+
+The clause is not intended to have legal effect. The rights and obligations of the parties are as fully described in the other provisions of the Contract.
+ .2 Background and intent 
+In view of the uncertainty of the design and construction requirements as at the date of the Contract it is not feasible for the Contractor to provide a fixed lump sum price as the basis for payment.
+
+Accordingly the parties have agreed: to build up the Contract Sum: over the period up to Final Completion; and by utilising a cost reimbursement mechanism which provides an incentive for cost control; and that the prices in the Schedule of Rates will contain lower margins than is commercially usual to reflect the lower risk profile to the Contractor.
+ .3 Liability summary 
+Irrespective of whether a Defect is caused by the negligence of the
+Contractor, the cost of rectification will form part of the Actual Approved
+Cost.
+
+Notwithstanding clause 2.3(a), where a Defect is caused by the negligence of the Contractor and the cost of rectifying the Defect exceeds $150,000, the cost of rectifying that Defect will form part of the Actual Approved Cost but will not form part of the Agreed Maximum Project Cost. For the avoidance of doubt, in all other cases the cost of rectifying a Defect will form part of both the Actual Approved Cost and the Agreed Maximum Project Cost.
+
+The Contractor will use its best endeavours to procure warranties from suppliers in relation to Purchased Equipment, thereby giving the Principal a direct claim (based on the terms of the warranty) against the supplier.
+
+The Contractor will indemnify the Principal for losses arising out of: damage to property; injury; and infringement of intellectual property of third parties in circumstances, to the extent that such loss is caused by the Contractor's breach of this
+Contract.
+
+No damage, liquidated or otherwise, are payable in respect of delay.
+Rather, if delay causes the Actual Approved Cost to exceed the Agreed Maximum
+Project Cost, the 50:50 share of cost overruns as provided for in clause 4 will apply.
+
+Neither party is liable for indirect or consequential loss.
+
+With certain exceptions, each party's total aggregate liability to the other party is limited to the Contract Sum.
+There were provisions of the contract dealing with the work to be undertaken by Macmahon, the way in which the contract sum would be built up and the way in which payment would be claimed and made. For present purposes those provisions need not be set out.
+Clause 18 is of key importance. The "Consequential Loss" exclusion, on which Cobar relies, is found therein. I set out cl 18:  Liability and indemnities .1 Indemnity 
+The Contractor must indemnify the Principal against all costs, damage, expense, loss or liability of any nature suffered or incurred by the Principal as a result of the negligent performance of the Contractor's Activities or default under the Contract arising out of: physical loss of damage to property of the Principal; damage, expense, loss or liability in respect of loss of or damage to any other property (including any adjoining property); damage, expense, loss or liability in respect of personal injury, disease, illness or death; infringement of the Intellectual Property Rights of a third party; and damage, expense, loss or liability of any nature that may be suffered or incurred by the Principal by reason of the failure of the Contractor to fulfil its obligations under this Contract, including claims made or brought under or in relation to this Contract, except to the extent that liability, loss or damage arises out of the negligent acts or omissions of the Principal, its employees, agents or other contractors.
+ .2 Indemnities continuing 
+Each indemnity in this Contract is a continuing obligation separate and independent from the Contractor's other obligations and survives termination of this Contract.
+ .3 Payment 
+All sums due pursuant to any indemnity given under this Contract must be paid without deduction on demand.
+ .4 Overall limit of liability 
+To the extent permissible at Law, each party's total aggregate liability to the other party (other than the Principal's liability to pay the Contract Sum, including in respect of any Change) under, arising out of or in connection with this contract, whether in contract (for breach, indemnity or otherwise), in restitution, in equity, under statute or in tort (for negligence or otherwise) is limited to an amount equivalent to the Contract Sum, except for liabilities: for infringement of Intellectual Property Rights; caused by wilful misconduct or fraudulent or criminal actions of either party; and in respect of which either party is entitled to be indemnified and receives full payment under a contract of insurance (in which case, that party's liability is limited to the amount of that payment).
+ .5 Consequential Loss 
+Despite anything else in this contract, neither party will be liable to the other for any Consequential Loss.
+ .6 Proportionate liability 
+The parties agree that to the maximum extent permitted by the [Civil
+Liability Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/) , this Contract operates to the exclusion of all provisions contained in [Part ](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/index.html#p4) of the [Civil Liability Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/) .
+Clause 22 is also of importance. It describes the situations in which the contract may be terminated. One of those situations, designated "Termination for convenience", entitled Cobar to bring the contract to an end at any time and in its sole discretion by giving written notice. If it were to do so, it would be liable, amongst other things, to compensate Macmahon, by an agreed formula, for loss of profits. I set out cl 22:  Termination .1 Termination for convenience 
+The Principal may terminate this Contract at any time and in the Principal's sole discretion by giving the Contractor fourteen (14) Business Days' prior written notice.
+ .2 Termination for breach capable of being remedied 
+The Principal may, by notice to the Contractor, immediately terminate this
+Contract if: the Contractor is in breach of its obligations under this Contract; and such breach is not commenced to be remedied to the Principal's satisfaction within five (5) Business Days of the receipt by the Contractor of a notice from the Principal, setting out the breach and stating that it is a notice delivered under this clause.
+ .3 Termination for breach incapable of being remedied 
+The principal may, by notice to the Contractor, immediately terminate this
+Contract if: the Contractor is in breach of its obligations under this Contract and such breach is a material breach and not capable of being remedied by the
+Contractor; the Contractor is in breach of its occupational health and safety obligations and such breach is, in the unfettered discretion of the
+Principal's Representative, considered to have caused a serious risk to occupational health and safety; and the Contractor commits a series of material breaches of Contract that indicate to the Principal's Representative, acting reasonably, that the
+Contractor is unable to undertake the Contractor's Activities without further material breaches of Contract.
+ .4 Insolvency 
+Either party may terminate this Contract at any time by notice to the other, without prejudice to any rights at Law or otherwise, if an Insolvency
+Event occurs in respect of the second party.
+
+If a party (Terminating Party) terminates this Contract pursuant to this clause 22.4, the rights of the parties will be as they would have been had the
+Terminating Party terminated this Contract on the basis of the other party's repudiation.
+ .5 Contractor termination 
+The Contractor may only terminate this Contract if: the Principal has failed to make a payment in breach of this Contract; the Contractor has given the Principal written notice of the breach and indicated that it will terminate this Contract if the breach is not remedied within twenty (20) Business Days of the notice; the breach is not remedied within the twenty (20) Business Day period; and the Principal has not, at the date of the notice referred to in clause .5(b), raised a bona fide dispute in relation to its obligation to make the payment.
+ .6 Contractor action 
+If the Contract is terminated by either party, the Contractor must: stop work (except to the extent specified in the notice from the
+Principal); take such action as necessary or as the Principal directs, for the transfer, protection and preservation of the Principal's property; minimise the costs of termination to the Principal; deliver to the Principal all Design Documents, as built drawings and other documents (including the Documentation) prepared by or on behalf of the
+Contractor in connection with the Contractor's Activities under this Contract as at the date of termination; and on the direction of the Principal's Representative: effect the step-in rights contemplated under clause 24.4; and assign to the Principal the benefit of any agreement: for the supply of materials or goods; for the execution of the whole or part of the Contractor's Activities remaining; and with any subcontractor or service engineer, on the basis that the Principal will thereafter be entitled to the benefits of the Contractor and be responsible to perform the obligations of the
+Contractor.
+ .7 Principal liability - termination for convenience or Principal's breach 
+If this Contract is terminated in accordance with clause 22.1 or clause 22.5, the Principal will only be liable for: the payment for the Contractor's Activities properly carried out to the date of termination; extra costs necessarily and reasonably incurred by the Contractor as a result of termination subject to the Principal's rights of set off at the rates specified in schedule 3; and a percentage of the value of the Contractor's Activities that are no longer required to be performed by the Contractor from the date of termination, calculated in accordance with the formulae below, representing the Contractor's loss of profits: 
+Agreed Maximum Project Cost as at the date of termination - (the amount calculated in accordance with clause 22.7(a) + the amount calculated in accordance with clause 22.7(b)) x 0.15; plus any share of savings calculated in accordance with the following formula: (A-B) x 50% 
+Where: 
+A is the proportion of the Agreed Maximum Project Cost that would have been payable based on the rates and lump sums set out in the schedules (subject to adjustment in accordance with the Contract) at the date the termination is effective, before taking into account the items at clauses 22.7(b) and (c) above; and 
+B is the Approved Actual Costs at the date the termination is effective, before taking into account the items at clauses 22.7(b) and (c) above. .8 Liability - termination for breach or insolvency 
+If this Contract is terminated by the Principal under clause 22.2 or clause .4: the Principal will only be liable for payment for the Contractor's
+Activities properly carried out in accordance with this Contract; the Principal may employ other persons to complete or perform the
+Contractor's Activities; without limiting the rights of either party, if the amount which the
+Contractor is entitled to be paid under clause 22.8(a) plus the reasonable costs incurred by the Principal in completing the Contractor's Activities, exceeds the Agreed Maximum Project Cost, then the Contractor must pay the difference between that sum and the Agreed Maximum Project Cost to the
+Principal within thirty (30) Business Days of the Principal invoicing the
+Contractor for that amount; and if the Contract is terminated by the Principal under clause 22.2 or clause .4, the Contractor's liability to the Principal for the difference between the amount payable by the Principal in completing the Contractor's Activities and the Agreed Maximum Project Cost is limited to the Contractor's Share of
+Cost Overrun as set out in clause 4.5(b); the Contractor shall deliver all goods currently being manufactured in relation to the project, or pass on all rights thereto, to the Principle [sic] where specified by the Principle [sic]. The Principle [sic] shall reimburse the Contractor where appropriate; and no payment will be due from the Principal to the Contractor pursuant to clause 22.8(a) until the amount, if any, due from the Contractor to the
+Principal pursuant to clause 22.8(c) is ascertained.
+ .9 Accrued rights 
+The termination of this Contract does not affect any rights of the parties which accrued before the date of expiry or termination.
+ .10 Rights additional 
+The rights given by this clause 22 are in addition to any other rights of the
+Principal under this Contract or at Law.
+The expression "Consequential Loss", in cl 18.5, is a defined term (the use of initial capital letters signifies this). The definition is contained in cl 1.1, which, as usual, assigns meanings to defined terms "unless the contrary intention appears". The definition of Consequential Loss is: 
+Consequential Loss means: any special or indirect loss or damage; and any loss or profits, loss or production, loss or revenue, loss of use, loss of contract, loss of goodwill, loss of opportunity or wasted overheads, whatsoever, whether direct or indirect.
+In relation to the definition of Consequential Loss, it may be observed that where the word "or" appears first, secondly and thirdly in paragraph (b), it should be read as "of". To the extent that it is relevant, I would note that this does not appear to be the only example of minimally inadequate proof-reading in the document overall. I am not sure that the process of construction which involves reading the first three occurrences of "or" as "of" was contentious.
+
+The claim is one for consequential loss 
+Cobar said that, on any view, the claim for loss of opportunity to earn profit, as it is pleaded, is a claim for consequential loss as defined. I think that Macmahon accepted that point. In any event, to show that the submission is correct and the concession (if made) was properly made, I set out the relevant paragraphs, 39 to 41, of the list statement: 
+Had the Contract continued to completion, the Plaintiff would have made a profit of $92,359,675.32 because the total amounts of $307,865,584.40 payable to the Plaintiff was greater than the total cost of $215,505,909.08 to the
+Plaintiff of completing the Contract.
+
+Particulars 
+Particulars of loss of profit are set out in the Scott Schedule served with this statement and marked "B".
+The termination of the Contract had the effect of denying the Plaintiff the opportunity to earn the profit pleaded to in paragraph 39 above.
+Accordingly, the Plaintiff has suffered loss and damage and is entitled to damages of: $67,358,438.85 ex GST, being the lost value of the opportunity earn profit; and a further amount representing the loss of the use of this money.
+It is not necessary to set out the detail of the calculation (such detail as there is might have been a better way of putting it) contained in the Scott Schedule.
+
+UCPR r 28.2 not appropriate 
+I should note that Cobar's notice of motion, which was filed on 3 February 2014, sought either that the relevant claim be summarily dismissed or that the question of construction that was raised be dealt with as a separate question under UCPR r 28.2. The reason why, in Cobar's submission, that approach should be taken is probably obvious, but it is in substance that the preparation of the claim for loss of profit would be time consuming and extremely expensive. However, the impediment to dealing with the matter under r 28.2 (as Mr Inatey of Senior Counsel, who appeared with Mr Breakspear of counsel for Cobar, urged me to do) is that the facts upon which the question could be considered have not been agreed. 
+Mr Inatey submitted that I could proceed upon the assumed basis that the contract had been terminated for repudiation, as Macmahon alleged. I do not think that this is correct. It seems to me that to proceed on a hypothetical rather than an agreed or proved basis (and any agreement would need to be for all purposes in the proceedings, not merely conditional) might run foul of the warnings expressed by the High Court in Bass versus Permanent Trustee Co Ltd <case>; [(1999) 198 CLR 334], and in subsequent cases.
+
+The parties' submissions 
+Mr Inatey submitted that cl 18.5 was clear and all-embracing. He submitted that the parties had constructed a bargain under which they had agreed, among other things, that neither of them would be liable to the other for any Consequential Loss as defined. He submitted that there was no need to read cl 18.5 down so that it did not apply (for example) in the case of termination by acceptance of repudiation.
+In the context of termination for accepted repudiation, Mr Inatey noted that repudiation of itself does not bring a contract to an end. He submitted (correctly) that it is the acceptance of that repudiation, by the innocent party, as discharging the contract (more accurately, as discharging both parties from future performance of the contract) that brings the contract to an end. Thus, Mr Inatey submitted, Macmahon, having had a fortnight or so to reflect on its position, must have known what it was letting itself in for when it acted as it did, in accepting the repudiation as discharging the parties from further performance.
+Mr Corsaro of Senior Counsel, for Macmahon, submitted that the construction ascribed to cl 18.5 by Mr Inatey would have the effect of defeating the main object of the contract. That main object, he submitted, was that the project would be designed and constructed, Cobar would receive the benefit of the works, and Macmahon would receive the benefit of payment.
+Mr Corsaro submitted that, if Mr Inatey's construction were correct, it would be open to Cobar, by relying on an asserted but non-existent breach, to bring to an end further performance of the contract without exposing itself to liability for compensation as it would if it relied (as undoubtedly it was able to do) on the termination for convenience provision in cl 22.1.
+Mr Corsaro submitted that this was a construction that led to obvious absurdity, and, thus, one that should be avoided.
+Mr Inatey submitted, in response, that it was not for the Court to consider whether a particular construction led to consequences that were reasonable or unreasonable. He submitted that it was open to the parties to make whatever they wished (subject to presently irrelevant limitations) terms of their bargain. The consequences of that bargain (on a proper construction of the contract) are consequences that, objectively, they must have intended to ensue. The Court is not empowered to remake their bargain according to its own notion about what might be reasonable. 
+Decision 
+The question of construction is one of considerable difficulty. On the one hand there is, as Mr Inatey submitted, the clear wording of cl 18.5. On the other hand there is, as Mr Corsaro submitted, a possibility that the right given to Macmahon, to be compensated for loss of profit in the event of a termination for convenience, might be circumvented by a wilful and knowingly unfounded termination (or purported termination) for breach in reliance on cl 22.3. That possibility could only be realised, as Mr Inatey submitted, if Macmahon relied on an asserted termination to bring the contract to an end. 
+It is necessary to pay close attention to the language of cl 18 and, in that connection, to the language of the definition of Consequential Loss. It is also necessary to observe that cl 2.3, although not having contractual effect, nonetheless sets out clearly in para (f) the intention that no party has any liability to the other for indirect or consequential loss. 
+When one looks at cl 18.4 one sees an overall limit of liability - to the equivalent value of the contract sum - with three stated exceptions. One of those stated exceptions (para (b)) includes wilful misconduct. 
+Clause 18.5 adds another limit of liability, by excluding any liability for consequential loss. Clause 18.5 applies, unlike cl 18.4, "[d]espite anything else in this contract," and cl 18.5, again unlike cl 18.4, does not include any exception for liabilities such as those arising from wilful misconduct. That could be seen to embody a deliberate drafting choice. 
+When one turns to the definition of Consequential Loss, para (b) makes it plain that any form of loss, whether direct or indirect, of the various kinds that are described, falls within the defined term. One of those categories of loss is "loss of contract". Although those words might appear to be somewhat obscure, it was common ground that they were intended to catch loss of the benefit both of the particular contract in which they appear - that is to say the contract between Cobar and Macmahon - and other, or third party, contracts, the benefit of which might be lost to one party as a result of some breach by the other of the parties' own contract. 
+I think that the concession, if that is what it is, was properly made. The expression "contract" seems to me to be a shorthand way of saying "benefit of a contract". Although it does not have an initial capital letter (and, thus, is not "this Contract", which is defined to be the agreement with which I am concerned), nonetheless, on the basis that the general includes the particular, I think that the expression "loss of [the benefit of a] contract" encompasses losses both under the particular contract and, as I have said, under other contracts that in some way may be affected by breach of the particular contract. 
+On that approach, the parties naturally must have taken into their consideration, when they made their contract, that the excluded Consequential Loss would include loss of the benefit of the very contract in which the provision excluding liability for consequential loss appears. Loss of the benefit of that contract would be, ordinarily, a consequence of accepted repudiation. That construction of the words "loss of contract" lends powerful support to the proposition, for which Mr Inatey contended, that cl 18.5 extended, in this case, to exempt his client from the consequences of (assumed but not proved) accepted repudiation. 
+To my mind, notwithstanding the consequences to which Mr Corsaro adverted, the view for which Cobar contends is correct. The parties constructed a careful bargain in which they provided for the way in which liabilities each might have to the other would be limited or regulated. No doubt they did so because of (among other things) the unusual nature of the contract and the potential for consequential loss claims (in the ordinary meaning of that expression) to be both substantial and incapable of any precise estimation at the time the contract was made. If they chose to exclude such loss in the case of breach not amounting to repudiation (and in my view this is clear), it is understandable that they would select no different course in relation to breach capable of amounting to repudiation. 
+In that context, it is appropriate to observe that it is not always easy to answer the question of what conduct may be, in a particular factual and contractual situation, repudiatory. In some cases, of course, there can be no doubt; but in other cases, difficult questions of characterisation may be involved. 
+I accept, as Mr Corsaro submitted, that the construction for which Cobar contended would give either party the ability to act in a way that might deprive the other of the future benefit of the contract without having any liability for loss of that benefit. In Cobar's case, it would give it the ability to act thus to Macmahon without being liable to pay compensation for loss of profit under cl 22.7. But it does not follow that Cobar would escape without any liability at all. 
+It is clear that accrued rights and liabilities would remain unaffected. In this case, it is not without significance that Macmahon's estimate of its damages claims, apart from the claim for loss of the opportunity to earn profit, is assessed in very large sums indeed. Whether or not those claims are valid is a different matter; but it must be assumed that those who prepared the summons and the list statement believed that there was a reasonable basis for pleading the damages case in the way it did. 
+Further, and as I think is notorious in the field of human endeavour, termination for repudiation is not without risk, even for the innocent party who terminates, where that party is the principal under a complex construction or infrastructure contract. The consequences of accepted repudiation, including the need to find another contractor to complete the work, may be expensive and time consuming and of themselves a cause of very significant loss. Although some of such losses may be recoverable in an action for damages, recovery of a judgment is one thing, but recovery of money is another. 
+That is perhaps a long-winded way of saying that, although the view to which I have come may indicate that Cobar could seek to sidestep its obligations, the practical likelihood is that it would be unlikely to do so. Whether or not that is an accurate summary of the situation, I am concerned in any event not so much with speculation as to commercial matters and costs but with the language that the parties have used. And as I have said, repudiation of itself does not bring a contract to an end. 
+For the reasons I have given, I do not think that the clear words of cl 18.5 should be read down. 
+I should note that Mr Corsaro referred to a number of authorities, including the decision of the High Court in Darlington Futures Ltd versus Delco Australia Pty Ltd <case>; [(1986) 161 CLR 500] and two decisions of my own in which I reviewed those and other cases. I accept, as Mr Corsaro submitted, that the approach to the interpretation of clauses excluding or limiting liability was laid down authoritatively by the High Court in Darlington at 510. 
+I accept further, as Mr Corsaro submitted, that the decision in Kamil is authority for the proposition that in some circumstances an exclusion clause should not be construed in a way that would excuse or limit the consequences of breach by actions undertaken outside the operation or authority of the contract. 
+I accept, finally, that in two decisions of mine to which Mr Corsaro referred (Lime Telecom Pty Ltd versus Powertel Ltd (No 1), (No 2) <case>, 362), I construed the clause there in issue in such a way as to avoid what I saw was the consequence of depriving one party of the benefit of the agreement. 
+It is not necessary to do more than say that I have sought to apply the approach to construction set out in Darlington and have taken into account the authorities, including Kamil and other cases to which Mr Corsaro referred, dealing with a construction which should avoid possibly depriving one party of the benefit of the contract. 
+In relation to my own decisions, I need say no more than that they related to particular terms of the particular contract. Thus, it is not necessary to deal with the submission reluctantly put by Mr Inatey, that those decisions were erroneous. 
+Conclusion and orders 
+As I have said, I am of the view that cl 18.5 is an answer to the claim that is advanced in paras 39 to 41 of the list statement and accordingly it is appropriate to make the order sought in para 1 of Cobar's notice of motion filed on 3 February 2014. 
+That leaves the question of costs, as to which I assume there will be no dispute, and two notices of motion filed by Macmahon. One of those seeks further particulars of Cobar's cross-claim. The other seeks to have various paragraphs of the cross-claim struck out. 
+In circumstances where neither motion appears to be ready to be dealt with, I will hear the parties as to the directions that should be given. [Counsel addressed.]
+I grant leave to the cross-defendant to file and serve by 5 pm tomorrow an amended list response to the cross-claim list statement. 
+I reserve leave to the cross-claimant to move to discharge or vary that grant of leave. 
+I stand the matter over to the Directions List on 28 March 2014 for allocation of a hearing date of the outstanding notices of motion. The cross-claimant is to inform the list judge on that occasion if it proposes to seek to tamper with the grant of leave to amend the response to the cross-claim. The parties are at liberty to inform the list judge that the motions may be listed for hearing before me. 
+I order the respondent to pay the applicant's costs of the notice of motion of 3 February 2014. * * * 

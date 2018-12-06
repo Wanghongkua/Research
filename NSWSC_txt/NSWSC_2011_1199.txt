@@ -1,0 +1,112 @@
+
+
+William Co-Buchong & Anor versus Citigroup Pty Limited & Anor [2011]
+NSWSC 1199 (12 October 2011) 
+Last Updated: 22 December 2011 
+Supreme Court 
+New South Wales  
+Case Title: 
+William Co-Buchong & Anor versus Citigroup Pty Limited & Anor  
+Medium Neutral Citation: <case>  
+Hearing Date(s): September 2011  
+Decision Date: October 2011  
+Jurisdiction: 
+Equity Division - Commercial List  
+Before: 
+Hammerschlag J  
+Decision: 
+First defendant's Cross-Claim for restitution from second defendant dismissed  
+Catchwords: 
+BANKING AND FINANCIAL INSTITUTIONS - where one bank transfers money from its customers' accounts on a fraudulent instruction to another bank who pays it out also on a fraudulent instruction - both banks accept that customers must be compensated - first bank claims repayment of the money - second bank pleads change of position - EQUITY - unjust enrichment - restitution - defence of change of position - held that defence of change of position succeeds  
+JUDGMENT 
+HIS HONOUR: The first plaintiff William Co-Buchong and the second plaintiff Rosa Li Co, were customers of both the first defendant bank (Citibank) and the second defendant bank (NAB) (collectively "the banks"). 
+They held: account no. [suppressed] with Citibank; and  account no. [suppressed] with NAB.
+Both banks are parties to the SWIFT international clearing house system of international funds transfers which facilitates electronic bank to bank funds transfers. 
+On 15 November 2010, Citibank received the following faxed instruction: 
+NOVEMBER 15, 2010 
+ATTENTION MR. ALAN T. LEE 
+CITIGOLD - CITIBANK, N.A.
+
+SYDNEY BRANCH 
+CITIBANK CENTRE PARK STREET, SYDNEY NSW 2000 AUSTRALIA 
+RE: MR. WILLIAM CO BUCHONG ? ROSA LI CO 
+MA: [Address suppressed] 
+SUBJECT: REQUEST FOR FUNDS TRANSFER 
+ACCOUNT NO. MULTI CURRENCY AT CALL [Suppressed] 
+DEAREST MR. LEE, 
+THIS IS TO REQUEST YOU TO TRANSFER FROM THE MULTI CURRENCY AT CALL ACCT [Suppressed] THE AMOUNT OF FIVE HUNDRED THOUSAND U.S. DOLLARS /?- $500,000 US
+DOLLARS. KINDLY SEND THE FUNDS TO MY ACCOUNT AT NATIONAL - AUSTRALIA BANK. THE
+DETAILS ARE AS FOLLOWS. I WILL BE EXPECTING THAT YOU WILL IMMEDIATELY PROCESS
+THE REQUEST UPON YOUR RECEIPT OF IT.
+
+NAME OF THE RECEIVING BANK: NATIONAL AUSTRALIA BANK 
+WORLD SQUARE BRANCH 10 - 13 UPPER 
+GROUND LEVEL 686 GEORGE STREET, 
+SYDNEY, NEW SOUTH WALES, 2000 AUSTRALIA 
+BENEFICIARY'S NAME: MR. WILLIAM BUCHONG CO 
+MRS. ROSA LI CO 
+BENEFICIARY'S ACCOUNT NO.: BSB NUMBER 082-001 
+ACCOUNT NUMBER [Suppressed] 
+ALL THE NECESSARY INFORMATIONS ARE HEREWITH INDICATED, FOR YOUR REFERENCE, IF
+YOU MAY NEED TO ASK ON ANYTHING, YOU MAY CALL ME AT [Suppressed].
+
+VERY RESPECTFULLY YOURS, 
+MR. WILLIAM CO BUCHONG
+The following day, Citibank transferred the sum of US$500,000 (A$500,590.72) via the SWIFT system to NAB. 
+The transaction record communicated to NAB was as follows: 
+CN APSWT .SYDIYCB 
+TEST NR [1:F01CITIAU2XAXXX0000000000][2:I103NATAAU33X033N][3:[108:10B160447460FB00][1 :STP]][4: :20:3110320805 :23B:CRED :32A:101116USD500000, :33B:USD500000, :[Account No. Suppressed] 
+WILLIAM COBUCHONG [Address Suppressed] :52A:CITIAU2XXXX :53A:CITIUS33XXX :[Account No. Suppressed] 
+MR WILLIAM BUCHONG CO 
+MRS ROSA LI CO :71A:BEN :71F:USD0,00 :72:/ACC/BSB NO 082 001 WORLD SQUARE BR //ANCH 10 3 UPPER GROUND LEVEL 686 //GEORG ST SYDNEY NEW SOUTH WALES A //USTRALIA -] (emphasis added)
+The information included the amount being transferred, the name of the account holders, the account from which the funds were coming and the account to which they were going. 
+On 19 November 2010, Ms Kar Wing Leung, a banking advisor employed by NAB at its branch at World Square, Sydney, presented to the Assistant Branch Manager, Mr Kevin R L Alvares, three International Telegraphic Transfer Application Forms, apparently faxed to the NAB, addressed to Ms Kar Wing Leung, each showing the applicant as follows: 
+MR WILLIAM BUCHONG CO [Address Suppressed]
+Each was ostensibly signed by the applicant (that is, the first plaintiff). 
+The first form, dated 17 October 2010, requested transfer of A$15,000 to an account at HSBC Hong Kong Ltd for the benefit of Ma. Susana Velarde Palon at a stated address in the Philippines. 
+The second form, dated 16 November 2010, requested transfer of A$225,000 to an account at HSBC Hong Kong Ltd for the benefit of Rosy Teresa Mendoza at a stated address in the Philippines. 
+The third form, dated 16 November 2010, requested transfer of A$225,000 to an account at HSBC Hong Kong Ltd for the benefit of Mr Molina Rommel Tuazon at a stated address in the Philippines. 
+Mr Alvares' unchallenged evidence was that he checked the signature on the forms against a specimen signature (of the first plaintiff) appearing on NAB's Signature Verification System and then checked for cleared funds in the relevant account. Having done so, he proceeded to approve the transactions which in turn were effected by a teller using the NAB's system. The result was that A$465,090 was transferred to HSBC and the account of the plaintiffs' with the NAB debited accordingly. 
+Both the faxed instruction to Citibank which resulted in the transfer to NAB and the three International Telegraphic Transfer Application Forms which brought about the transfer of funds to the three accounts at HSBC were false and fraudulent. Neither emanated from the plaintiffs. Both Citibank and the NAB were the victims of fraud, perhaps (although the evidence does not establish it) by the same impostor. 
+On 25 May 2011, the plaintiffs sued out of the Court a Summons and Commercial List Statement claiming damages against both banks on the basis that moneys were paid out of their accounts without their knowledge or authority. As between the plaintiffs and the banks, those proceedings have been settled, with the plaintiffs being made whole. On foot remain Cross-Claims between the banks in which each claims relief against the other on the basis that the other should bear the loss. All that remains for determination is which of them should bear it. This involves the question whether Citibank is entitled to be paid back the money it paid over to NAB. 
+Citibank's claim is put exclusively as one for restitution. It puts that it paid over the money to NAB on the fundamentally mistaken belief that the plaintiffs had instructed it to make the payment. It is not in dispute that Citibank acted mistakenly. It puts that absent restitution, NAB will be unjustly enriched. 
+NAB's defence is that it changed its position by paying away the funds on the faith of the receipt. 
+Neither party asserts that, in acting on a fraudulent instruction, the other acted negligently or failed to meet any relevant standard of banking practice. As appears below, this is of some significance. 
+The so-called "change of position" defence was considered by the Court of Appeal in State Bank of New South Wales Ltd versus Swiss Bank Corporation [(1995) 39 NSWLR 350] ( Heperu ). 
+In State Bank , the Swiss Bank Zurich was induced by the fraud of its own employee (Mr Singh) to pay over some $20M to State Bank of New South Wales. Mr Singh had falsified Swiss Bank's internal records to show that it had received a deposit from the State Bank. He was acting in concert with an intermediary (Mr Sothirasan) who had promised Essington Ltd, a customer of the State Bank, that he could arrange a loan. 
+State Bank had previously approved a loan to Essington incorporating an equity investment in it of $20M. Mr West, a senior officer at State Bank, was responsible for supervising the loan and was in regular contact with Mr Edwards of Essington. As at 13 June 1989, Essington was in default of payment of interest under the loan. 
+Mr Edwards kept Mr West informed of the negotiations with Mr Sothirasan (for the loan to Essington). On 21 November 1989, Mr Edwards told Mr West that the first drawdown of $30M was coming through. On the same day, an assistant of Mr West notified the State Bank's New York office by fax to expect $30,013,750 in favour of State Bank account no. 137-327 held by Essington. The fax went on to say, "Would you please ensure the funds are correctly transferred to the Sydney account and confirm the transaction when complete". 
+State Bank thought that the funds were proceeds of a loan to Essington and paid out practically all the money on Essington's instructions. It submitted that it had paid away the funds believing in good faith that Essington was entitled to them. 
+At 355, the Court of Appeal, relying on David Securities Pty Ltd versus Commonwealth Bank of Australia <case>; [(1992) 175 CLR 353] at 385, held that to succeed in its defence, State Bank needed to show that it paid away the money "on the faith of the receipt". 
+At 356 the Court said: 
+A bank which receives a mistaken payment and disburses it can only bring itself within the change of position defence if it shows that at the time of the disbursement it knew or thought it knew more than the fact of receipt standing alone. This must be information which, if true, would entitle the payee to deal with the receipt as it did and that information must have come from the payer.
+The Court held that State Bank's conclusion that Essington was the customer was not for reasons which had come from Swiss Bank, but for reasons which were extraneous to the SWIFT message and that its mistake was brought about by the fraud of Mr Singh and Mr Sothirasan. It held that the disbursement of the money was not on the faith of the receipt of the money from Swiss Bank but on the faith of what Mr Edwards had told Mr West. 
+The quoted passage identifies three requirements which NAB must establish for the payment away to have been on the faith of the receipt, namely: it must have known or thought it knew more than the fact of the receipt standing alone; the information must have come from Citibank; and the information must be information which, if true, would have entitled
+NAB to deal with the receipt as it did.
+Were I to follow State Bank , Citibank would succeed because the NAB meets only two of the three requirements. 
+It meets the requirements that it knew or thought it knew more than the fact of the receipt standing alone and that the information came from Citibank. 
+In State Bank the SWIFT message did not contain any reference to Essington, its account number, or anything else to indicate that the money was Essington's. The SWIFT message in this case included information that the transaction was at the behest of its customers, the plaintiffs, and involved a transfer from their account at Citibank to their account at NAB. In other words, NAB had information from Citibank that it could treat the funds received as being available for disbursement at the behest of the plaintiffs. 
+However, NAB does not meet the requirement that the information, if true, would have entitled it to deal with the receipt as it did. The information it received from Citibank did not entitle it to deal with the receipt by paying it over not in accordance with the customers' instructions, but to an imposter. 
+In Heperu, a dishonest accountant, Mr Cincotta, took money in the form of six cheques drawn or bought by a Dr Landa on the false pretext that he would invest it on behalf of the respondents (Dr Landa or his companies) with Perpetual Trustees Australia Ltd (Perpetual) in a certain type of cash management account. Mr Cincotta took the cheques to Perpetual as instructed. However, he controlled an account with that institution which was in his wife's name. He had apparently forged his wife's signature in opening the account as to the authority to operate it. The proceeds of the cheques were received into a bank account held by Perpetual with ANZ bank and Perpetual allocated units (one unit for each dollar) to the account of Mrs Cincotta. Mr Cincotta used the funds in the account for his own purposes and not for the benefit of the respondents. 
+One cause of action relied upon by the respondents (although not addressed by the trial judge) was that payment to Perpetual was made under the fundamental mistake of fact that the relevant respondent would receive an investment for his or its benefit in Perpetual's cash management fund. 
+Perpetual relied on the change of position defence on the basis that it had paid out the funds in the account. 
+At [137] the Court said: 
+Before leaving the topic of moneys had and received and change of position, it is necessary to deal with State Bank of New South Wales versus Swiss Bank
+Corporation [(1995) 39 NSWLR 350.] It was submitted that the defence of change of position requires more than a belief in the fact of receipt. It was submitted that there was also required to be information from the payer, which, if true, would have entitled the payee to deal with the receipt as it did. The respondents submitted that the payer was the party seeking recovery for the unjust enrichment, here, the respondents.
+At [139], the Court said: 
+Care should be taken not to overextend the application of what was said by the
+Court beyond the facts. On the facts, the State Bank simply did not act on the faith of the legitimacy of the receipt, but on what Essington (not the payer) told it. True it is that a payee must know more than the fact of mere receipt.
+It must have information that entitles it (on the basis of the information) to deal with the receipt. The requirement that the information came from the "payer" can be seen as no more than a requirement that the change of position be on the faith of the receipt and its attendant circumstances. The point in the case was that the change of position arose from reliance upon the statements of Essington, not upon the faith of the receipt and its validity.
+We do not view what was said by the Court as narrowly constraining the notion of acting on the faith of the receipt. There needs to be a foundation of information obtained in connection with the receipt to justify acting on the basis of the receipt. That was absent in State Bank of New South Wales v
+Swiss Bank Corporation .
+At [133] the Court said: 
+This, with respect, is far too narrow an analysis. Of course, communication with Mr Cincotta and his dishonesty was the occasion for withdrawal; but, the payments are to be taken as on the faith of the receipts because they would not have been made unless the receipts had been recognised as valid. These were not loans to him; they were withdrawals or redemption of units credited by reference to the value of receipts. The payments would not otherwise have been made, the change of position being thereby causally linked to the receipt. (emphasis added)
+In the present case, although the occasion for the withdrawal was the fraud of the impostor, NAB nevertheless undoubtedly recognised the receipt as valid. It did so because the receipt was credited to the plaintiffs' account as a consequence of the information in the SWIFT communication. Had it not recognised this validity, it would have not paid away the money. Significantly, as referred to above, there is no assertion of any negligence or failure by NAB to meet banking practice. 
+Accordingly, the necessary causal link as articulated in Heperu is met, although the requirement as articulated in State Bank that the information conveyed to NAB must, if true, have entitled NAB to deal with the receipt as it did, is not. 
+This demonstrates that at the level of principle and as applied to the facts of this case, Heperu is irreconcilable with State Bank . To use terminology apt to the present case, the later decision is a change of position. In these circumstances, I am bound to follow the later decision. 
+Applying Heperu , Citibank must fail and NAB must succeed. 
+In his article entitled Moses versus Macferlan: 250 years on [(2010) 84 ALJ 756], the Hon Justice W M C Gummow considers various aspects of the change of position defence. At p 762 he expresses the view that "Over-definition and dissection of the phrase 'change of position' may only serve to divert attention from which is the central question, whether it would be an inequitable result for the claimant to require repayment". 
+I consider that on this approach the result would be the same. Both parties were duped. However, Citibank paid out first without the customers' authority as a result of which NAB credited the customers' account rendering it vulnerable to the fraud to which it succumbed. 
+In these circumstances and where neither party criticises the other for falling for the fraud, it would lead to an inequitable result were Citibank to be made whole at the expense of NAB. 
+The result is that NAB succeeds. 
+The parties are to bring in short minutes. * * * 

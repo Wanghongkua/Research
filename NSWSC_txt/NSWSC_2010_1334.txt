@@ -1,0 +1,538 @@
+
+
+Trust Company Limited versus Noosa Venture 1 Pty Limited [2010] NSWSC 1334 (19
+November 2010) 
+Last Updated: 22 November 2010 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Trust Company Limited versus Noosa Venture 1 Pty Limited <case>  
+JURISDICTION: 
+Equity Division  
+FILE NUMBER(S):  of 2010  
+HEARING DATE(S):  , 19, 25, 26, 27, 28 and 29 October 2010  
+JUDGMENT DATE:  November 2010  
+PARTIES: 
+Trust Company Limited (First Plaintiff/First Cross-Defendant) 
+Ashington Capital Pty Limited (Second Plaintiff/Second Cross-Defendant) 
+Noosa Venture 1 Pty Limited (First Defendant) 
+Valad Commercial Management Limited (Second Defendant/First Cross-Claimant) 
+Valad Funds Management Limited (Third Defendant/Second Cross-Claimant) 
+Gareth Price (Fourth Defendant) 
+Peter Edmund Hurley (Fifth Defendant)  
+JUDGMENT OF: 
+Windeyer AJ  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+D J Fagan SC with him Mr A A Cheshire (Plaintiffs/Cross-Defendants) 
+No Appearance (First Defendant) 
+A J Sullivan QC with him Ms E A Cheeseman & Mr S Free (Second to Fifth
+Defendants and Cross-Claimants)  
+SOLICITORS: 
+McLachlan Thorpe Partners (Plaintiffs/Cross Defendants) 
+No Appearance (First Defendant) 
+Blake Dawson (Second to Fifth Defendants and Cross-Claimants)  
+CATCHWORDS: 
+CONTRACTS - Breach of contract - claim of repudiation but no acceptance or termination - claim for damages for loss of bargain - whether maintainable without termination 
+CONTRACTS - Readiness, willingness and ability to perform put into issue - whether precondition to cause of action 
+CONTRACTS - Damages - whether damages for loss of bargain recoverable if contract not terminated 
+CORPORATIONS - Two shareholders in deadlock - a joint venture contract included provisions to resolve deadlock - whether defendants wrongly activated deadlock procedure - whether defendant shareholders guilty of oppressive conduct 
+CORPORATIONS - Corporations Act <case> and <case> - whether order can be made under <case> in case of company trustee of unit trust requiring one unit holder to purchase share of other unit holder. 
+CORPORATIONS - Corporations Act <case> and <case> - whether breach of duties of directors can give rise to claim for damages under <case>(10) where no injunction sought  
+LEGISLATION CITED: 
+Companies Code  [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) 
+Lord Cairns' Act [(s ](http://www.austlii.edu.au/au/legis/nt/consolact/sca183/s68.html) of the [Supreme Court Act](http://www.austlii.edu.au/au/legis/nt/consolact/sca183/))  
+CATEGORY: 
+Principal judgment  
+CASES CITED: 
+Application of Valad Commercial Management Limited & Ors <case> 
+Campbell versus Back Office Investments Pty Limited <case>; <case>; <case>; <case> 
+McEwen versus Combined Coast Cranes Pty Limited <case>; [(2002) 44 ACSR 244] 
+Permanent Trustee Australia Limited versus Perpetual Trustee Company Limited [(1994) 15 ACSR 722] 
+Peter Turnbull & Co versus Mundus Trading Co Australasia <case>; <case>; <case>; [(1950) 81 CLR 418] 
+Vigliaroni versus CPS Investment [(2009) 74 ACSR 281]  
+TEXTS CITED:  
+DECISION: 
+The amended originating process be dismissed. 
+The plaintiffs pay the costs of the defendants. 
+The cross-claim be dismissed. 
+The cross-claimants pay the costs of the cross-defendants. 
+The exhibits may be returned to be retained by the solicitors in their present form for 28 days and returned to the court in the event an appeal is lodged.  
+JUDGMENT:  - 39 - 
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION  
+WINDEYER AJ  
+FRIDAY 19 NOVEMBER 2010  /136187 TRUST COMPANY LIMITED V NOOSA VENTURE 1 PTY LIMITED & ORS 
+JUDGMENT  
+Outline  This is an action in which damages are sought for breach of contract on the basis of loss of a bargain and in the alternative relief against oppression through compulsory share buy out order or the winding up of NV1 a sole purpose joint venture vehicle formed the purpose of redevelopment of the Starwood
+Hotel at Noosa, Queensland. The hotel is probably more generally known as the
+Sheraton Hotel. The relief is stated in that order to correspond with the preferred relief the plaintiff seeks, although one might have been excused for thinking that it was the [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) claims which were the significant ones.
+ An order was made on 26 July 2010 that: a. the quantification of the plaintiff's loss (if any) for the purposes of the relief claimed in paragraphs 14, 15 and 16 of the originating process dated 1 June 2010 and paragraphs 14, 15 and 16 of the statement of claim dated April 2010; and b. the assessment of the price for the purposes of the relief claimed in paragraph 2(e) of the originating process dated 1 June 2010, be determined separately from and after all other issues in the proceedings.
+ This meant that the claims as to amount of damages, equitable compensation, interest and buy out price were not before me. The claim for equitable compensation was abandoned; the claim for damages for breach of contract is the plaintiff's preferred claim. The claim for relief against oppression by means of an order requiring the second defendant to purchase the share of the plaintiff in NV1 would require not only determination of price but determination of a valuation date, which would be a matter for me to decide under the terms of an order for separate hearing.
+ 
+Facts White J gave judgment on an interlocutory process in this action on 15 June
+See application of Valad Commercial Management Limited & Ors <case> The following factual matters in paragraphs 5 to 9 are for the most part are taken direct from or repeat paragraphs 9 to 21 and 24 and 25 of that judgment, but for the purposes of this decision it has been necessary to set out additional parts of the contract documents:  ... The shares in NV1 Noosa Venture 1 Pty Ltd (NV1) are held equally by the first plaintiff, Trust Company Limited ("TCL"), and the second defendant,
+Valad Commercial Management Limited ("VCML"). NV1 is the trustee of the Noosa
+Venture Trust ("the Trust"). It was established as a vehicle for the operation of a joint venture for the acquisition and development of a property known as the Sheraton Hotel in Hastings Street, Noosa.  The Noosa Venture Trust is a unit trust. The units are held equally by TCL and VCML. TCL holds its shares in NV1 and its units in the trust as custodian for the second plaintiff, Ashington Capital Pty Ltd or ACPL. Both ACPL and
+VCML hold their interest in the shares in NV1 and the units in the Trust on subtrusts, but that is not of present relevance. ACPL was previously known as
+Ashington Capital Limited and appears as such in most of the transaction documents but throughout this judgment I will refer to it by its present name.  There are four directors of NV1 being two nominees of VCML, namely, Messrs
+Price and Hurley, the fourth and fifth defendants, and two nominees of ACPL,
+Messrs Anderson and Minahan, I will refer to the individuals by their surnames. Pursuant to clause 5.7(c) of the Unitholders' Agreement all decisions of the Board of the NV1 must be unanimous.  The most important document for this case is the Unitholders Agreement (the
+UHA) dated 5 May 2008. The parties to the Unitholders' Agreement are NV1,
+VCML; ACPL, then called Ashington Capital Ltd; TCL; and the fourth defendant,
+Valad Funds Management Ltd ("VFML"). VFML's role is to act as funds manager.
+It controls payments and expenditure in respect of the project and keeps the books. It also is responsible for the affairs of the hotel. From time to time
+I will refer to "Valad" and "Ashington" if this makes things clearer or if general group interests are involved.  Clause 2.2 of the UHA describes the objectives of the Project. NV1, in the agreement called "the Trustee", was to acquire the Development Site being the hotel site on the exercise of put and call options held by VFML. NV1 purchased the Sheraton Noosa for about $93 million. The purchase was funded by equity contributions from VCML and ACPL, and by a loan from Suncorp. Clause 2.2(a) and (b) of the Unitholders' Agreement describe the objectives of the project and the obligations of the unitholders as follows:  "2.2 Carrying out the Project - Objectives 
+The Unitholders shall procure that the Trustee shall cause the Project to be carried out upon the exercise of the put option or the call option under the Put and Call Option Agreement, which shall principally involve: the purchase of the Development Site by the Trustee; the obtaining of all necessary approvals to enable the development of the
+Development Site by the construction of the Works thereon; the construction of the Works on the Development Site; the carrying on of Operations; the sale of the Development Site as and when the Works have been completed; and such other acts or activities as are incidental to effect the carrying out of the foregoing activities or as are agreed upon by the Unitholders." 
+From the date of this Agreement the First Unitholder and Second Unitholder must (and must use all reasonable endeavours to procure its employees, consultants and contractors (except Cornerstone Noosa Pty Limited) to): co-operate with the other Parties in relation to the performance of its and the other Parties', and the exercise of its and the other Parties' rights, under this Agreement; and act in good faith towards each other in relation to all matters under this Agreement and unless the contrary intention appears, this obligation to act in good faith does not require the First Unitholder or the Second
+Unitholder to act materially contrary to its commercial objectives or in any way waives diminishes or prejudices any rights a non-defaulting Unitholder would otherwise have but for this clause under this Agreement as a result of a
+Unitholder Default: and promptly disclose to the other, any material information regarding the Project which comes into the possession of one but not both of them; and take all reasonable steps (including execution of documents) and do everything reasonably required to give effect to the transactions contemplated by this Agreement.
+ The Unitholders' Agreement defined many terms. Those significant for the purposes of this judgment are the following:- "Compulsory Transfer Event" in relation to any Unitholder, means that: (i) that a Default Notice has been duly served by a Complying Party under clause 18; and the grace or cure period for rectification of a default specified in that Default Notice has expired; and the default specified in that Default Notice has not been rectified or if the default is not capable of rectification but the notice specifies reasonable compensation which is payable in respect of that default, that compensation has not been paid on or before the date of expiry of that grace or cure period; or (i) a Control Change Event in connection with a Unitholder which is not permitted under this Agreement has occurred; and the Trustee has received written notice from any non-defaulting
+Unitholder which: 
+A. specifies that Control Change Event; and 
+B. requests an Interest Transfer of all Interest of that Unitholder under clause 14.
+ "Feasibility Study" means the feasibility study prepared on behalf of the Second Unitholder and approved of by the Committee.
+ "Fee Agreement" means the agreement so entitled between VFML and the
+Second Unitholder dated the same date as this Agreement.
+ "Final Sale Date" means 1 July 2014.
+ "Project Plan" means the document so entitled which will outline the strategy and methodology by which the Project will be delivered which is to be prepared by the Services Manager and issued to the Board for approval. Such plan must contain a development program, financial feasibility, marketing plan, construction strategy, approvals strategy, project funding, project structure, sales schedule and project budget and be prepared in accordance with 6.1 "Services Agreement" means the agreement between the Trustee, the
+Services Manager and the First Unitholder for the provision of management services for the Project entered into on the same date as this Agreement, such agreement to be in a form agreed by the Unitholders, and includes any other agreement or contract entered into, in connection with or pursuant to the first mentioned agreement.
+ "Services Manager" means Ashington Management Pty Limited ACN 105 267 or such services manager approved by the Unitholders.
+ "Term" means the period ending on 31 December 2013; and "Works" means the work to be carried out on the Development Site as envisaged by the Concept Plans, the Feasibility Study and the Plans and
+Specifications and as determined by the Board from time to time.
+ The following clauses also appear in the Unitholders' Agreement: .3 Services Agreement 
+All matters to be considered, determined or approved by the Trustee under the Services Agreement will be referred to the Board for consideration, determination or approval; 
+Without limiting clause 2.3(a), the Unitholders acknowledge that the members of the Board (who are appointed by the non-defaulting Unitholder) must if necessary, at the relevant time, consider and determine whether a
+Termination Event has occurred and must procure that the Parties to the
+Services Agreement are notified in writing of any such determination.
+ .6 Completion of Project 
+Subject to the provisions of this Agreement, the Unitholders and the
+Trustee agree to procure completion of the Project in accordance with the
+Project Plan and as soon as is reasonably practicable, and in any event on or before the expiration of the Term. Without limiting the generality of the foregoing 
+VFML agrees to co-operate with the Trustee, and to do all things necessary to, allow the Trustee to exercise the call option under the Put and Call
+Option.
+ the Unitholder, the Trustee and VFML agree that the Trustee will as soon as reasonably practicable and in any event on or before 5pm, 2 July 2008; exercise the call option under the Put and Call Option Agreement; and enter into the Agreement for Purchase of Land for the purchase of the
+Development Site.
+ .7 Implementation 
+Without limiting clause 2.2(b), each Unitholder must at any time during the continuance of this Agreement: (Information): provide accurate information to each other Unitholder in relation to any business activity of the Project; (Voting): perform, or procure the performance of, any action within its power of control necessary or desirable to perform this Agreement, including casting any vote as a shareholder of the Trustee or as a unitholder under the Trust and causing any nominee to the Board to implement this
+Agreement; (Decisions): not unreasonably delay any action, consent or decision required by that Unitholder under this Agreement; and (Trustee): perform any action within its power and control necessary or desirable to procure the performance of this Agreement by the Trustee.
+ Funding & other obligations .1 Project funding 
+The Project shall be funded by equity contributions, such borrowings or the procuring of such other financial accommodation and secured over such of the assets of the Trust as the Unitholders may from time to time determine, subject to the provisions of this Agreement.
+
+The parties acknowledge and agree that, without releasing the First
+Unitholder from its obligations under this Agreement: any funding provided prior to or after the date of this Agreement by VFML for agreed Project Expenses will be deemed to be, and satisfy (to the extent funded by VFML) the funding to be provided by Valad Commercial Management
+Limited (as the First Unitholder) to the Trustee under this Agreement and dealt with accordingly; 
+VFML may fund amounts to the Trustee that are required, or may be, funded to the Trustee by the First Unitholder under this Agreement. In such circumstances, the rights of VFML under this Agreement in respect of such funding will be the same (mutatis mutandis) as the First Unitholder has under this Agreement; and a payment by VFML to the Trustee in respect of a funding obligation of the First Unitholder will discharge the First Unitholder's funding obligation to the extent of such payment.
+ .2 Initial Funding 
+The Trustee and the Unitholders acknowledge and agree that the funding of the Project shall be made by way of equity contributions to the Trustee in equal proportions by each of the Unitholders (or by VFML on behalf of the
+First Unitholder as contemplated by clause 3.1(b)). Subject to clause 3.2(b) the Unitholders must each make contributions for Project Expenses in accordance with the schedule described below as may be amended by the agreement of the Unitholders to ensure that Project Expenses are funded in equal proportions by the Unitholders as they fall due for payment: 
+Date of payment of contributions 
+Amount due from each Unitholder ($)  ---  
+Date of this Agreement ,000,000-00  
+If any additional Project Expenses are required to be funded before the date of completion of the acquisition of the Development site % of such additional Project Expenses as agreed by the Unitholder  
+Date of completion of the acquisition of the Development Site by the Trustee under the Agreement for Purchase of Land ,000,000-00  June 2009 ,500,000-00  June 2010 ,500,000-00  
+If the Facility is not made available to fund the balance of the purchase price under the Agreement for Purchase of Land % of the balance of purchase price under the Agreement for Purchase of Land not funded by clauses 3.2(a)(i),(ii) and (iii)  
+In recognition that VFML and/or the First Unitholder have funded the
+Trustee for 100% of certain Project Expenses, the parties acknowledge and agree that: the Second Unitholder will at such times agreed by the Unitholders pay to the Trustee by way of equity contributions 50% of those Project Expenses funded by VFML or the First Unitholder (including the costs described in clause 3.3(d)) to enable the Trustee to repay that amount to VFML or the First
+Unitholder; and on VFML or the First Unitholder receiving the payment described in clause .2(b)(i) the First Unitholder will be treated as having paid 50% of those
+Project Expenses to the Trustee towards it equity contribution specified in clause 3.2(a) .4 Additional funding by Unitholders 
+Subject to clause 3.6, in the event further equity contributions in excess of the amounts required in clauses 3.2 and 3.3 are required to fund the
+Project, whether in one or several transactions: both Unitholders may elect to provide such further equity contributions in equal proportions; and in the event that a Unitholder elects not to provide such further equity contributions, any shortfall may be provided to the Trustee by the other
+Unitholder (or by VFML in lieu of the First Unitholder) ("Additional
+Funder") who shall have the sole and absolute election to elect either one of the following: that such shortfall be provided by the Additional Funder as a loan to the other to enable the Unitholder to make such further equity contributions to the Trustee; or that such shortfall be provided by the Additional Funder directly to the
+Trustee: provided always that: the Additional Funder shall in each case be entitled to the repayment of such loan (provided that where the Additional Funder is the Second Unitholder, the Second Unitholder has already paid all of the Fee (or such part of the Fee as VFML requires at that time) to VFML) in priority to the repayment of any equity or Project profits payable to the Unitholders; ...
+ if a Unitholder elects not to make such further equity contributions under this clause 3.4 it will not be in default under this Agreement and subject to clause 3.4(b)(iii), its election not to do so does not in any way affect its Interest.
+
+PROJECT CONTROL GROUP .1 Establishment of PCG 
+The parties acknowledge that a project control group ("PCG") will be established by the Trustee and the Services Manager pursuant to the Services
+Agreement.
+
+The PCG will have the carriage of the day to day running of the Project: in accordance with the Project Plan and the Project Budget; to the extent described in the Services Agreement; and subject to the overriding direction and control of the Board.
+
+Clause 5 provides for directors of NV1. Each unitholder has the right to appoint two directors, each director may appoint an alternate, each director has one vote and if only one director of the unitholder is present that director has two votes; the chairman has no casting vote, and decisions must be unanimous.
+ "5.10 Deadlock 
+If there is a deadlock between the Directors of the Board in relation to any decision of the Board that decision shall be immediately referred to the
+Chairman of each Unitholder for resolution.
+
+If the Chairman of each Unitholder are not able to agree on the relevant proposed decision within 10 Business Days of its referral to each of those
+Chairmans, either Unitholder will be entitled: in relation to a dispute where the matter the subject of that dispute is material to the Project, refer the dispute for resolution under the provisions of clause 22; and in relation to any dispute to which clause 5.10(b)(i) does not apply, the
+Unitholders agree that the provision of clause 23.2(e), (f) and (g), 23.3, .4 and 23.5 apply to that dispute." .1 Project Plan (Preparation): The Board must review, and if considered appropriate, approve a Project Plan for the first Financial Year.
+ (Review): The Board must review the Project Plan on an annual basis at the same time as the Project Budget.
+ .2 Project budget (Adoption): The Board must review and adopt a Project Budget for the first financial year following the Commencement Date of this Agreement and a
+Project Budget for each Financial Year under this clause 6.2.
+ (Draft): The Board must submit to the Board a draft Project Budget at least 3 months before the commencement of each Financial Year.
+ (Approval): The Board must review and seek to approve the Project
+Budget, with or without amendment before the commencement of the Financial
+Year.
+ (Existing budget): The Project Budget from the previous Financial Year continues to apply until the Board adopts a new Project Budget, in the event that the Board fails to adopt a Project Budget before the commencement of any
+Financial Year.
+ (Submission to Board): Any draft Project Budget not approved by the
+Board shall be submitted to the Board for its deliberation.
+ Termination .1 Termination events 
+This Agreement terminates immediately upon the occurrence of: (Agreement): any agreement in writing by all Parties to that effect; (Interest transfer): in relation to any Unitholder, the transfer by that Unitholder of its Interest in compliance with this Agreement; and (Liquidation): the winding up or dissolution of the Trustee and the termination of the Trust.
+ .2 Termination effect 
+Termination of this Agreement releases any Party from any further performance of any liability under this Agreement but does not: (Continuing liability): affect any provision of this Agreement expressed to operate or have effect after termination; or (Accrued rights): have any prejudicial effect on any accrued rights of any Party in relation to any breach or default under this Agreement by any other Party occurring before termination.
+ . Dispute Resolution - Deadlock .1 Deadlock 
+If there is a deadlock between the Unitholders (or their representatives) in relation to any matter specified in clause 5.10(b)(i) then the Unitholders (or their representatives) must negotiate to resolve the dispute within 20 Business Days of one of those parties notifying the other of the existence of the dispute.
+ .2 Transfer Notice 
+If a deadlock is not resolved within the period of 20 Business Days referred to in clause 22.1, then either Unitholder may serve on the other of them ('Recipient') a written notice ('Transfer Notice') signed by or on behalf of that Unitholder ('Offeror') containing an offer to, either: purchase the whole, but not part, of the Recipient's Interest in the
+Project; or sell the whole, but not part, of its Interest in the Project to the
+Recipient, in either case for the Transfer Price, and on the same Transfer Terms subject to clause 22.8.
+ .3 Recipient's Notice 
+Within 10 days after the date of service of a Transfer Notice ('Recipient's Period'), the Recipient may serve a written notice ('Recipient's
+Notice') on the Offeror accepting one of the offers contained in the Transfer
+Notice.
+ .4 [Offeror's] Notice 
+If no Recipient's Notice is served during the Recipient's Period, the
+Offeror may by written notice ('Offeror's Notice') served on the Recipient within 5 Business Days after the expiry of the Recipient's Period require that the Recipient accept such of the offers contained in the Transfer Notice as shall be specified in the Offeror's Notice. Upon service of the Offeror's
+Notice, the Recipient shall be conclusively deemed to have accepted the said offer.
+ .5 Acceptance 
+An offer contained in the Transfer Notice shall not be capable of acceptance except by virtue of the operation of clauses 22.3 and 22.4.
+ .6 No withdrawal of notice 
+Except as otherwise stated, once a notice has been given pursuant to this clause 22 it may not be withdrawn except with the written consent of the
+Recipient.
+ .7 Completion 
+Completion of the transfer of the Interest the subject of the accepted offer ('Transfer') will take place 40 Business Days after acceptance of the relevant offer.
+ .8 Fee and additional funding to be paid 
+Notwithstanding anything in this clause 22, if a transfer is implemented pursuant to this clause 22: the Fee and (all interest accrued thereon) must be paid by the Second
+Unitholder to VFML on completion of the Transfer; and all additional funding made available pursuant to clause 3.4 must be repaid on completion of the Transfer.
+ .9 Intentions 
+The Unitholders agree that it is their overriding intention that: only those disputes which are material to the Project are to be referred to resolution under this clause 22; and the Unitholders and their Chairman, officers and representatives act in good faith for the purposes of resolving any disputed matter before it is referred for resolution under clause 22.2 to 22.8 inclusive.
+ .10 Definitions 
+In this clause 22: 'Transfer Notice' means a notice duly served under clause 22.2.
+ 'Transfer Price' means the price specified in the Transfer Notice.
+ 'Transfer Terms' means the relevant parties' Interest in the Project is to be sold or purchased (as the case may be) free from any Encumbrances and together with all rights attaching thereto as at the date of service of the Transfer
+Notice (other than rights to receive distributions which shall have been paid prior thereto) or at any time thereafter and that the consideration for the relevant Unitholders Interest in the Project is to be the Transfer Price." .3 Amendments 
+This Agreement may only be varied by a document signed by or on behalf of each of the parties.
+ 
+Service Agreement AMPL was appointed services manager for the project under an agreement called the Service Agreement dated 5 May 2008 between NV1, VFML and AMPL. The purpose was set out in Annexure A to the agreement but in brief the task was to oversee the project management from beginning to end, to attend project group meetings and prepare the project plan for approval by the board. Clauses and 5.2 of the services agreement are as follows: .1 Term 
+The Term of this Agreement will commence on the Commencement Date and will continue until completion of the Project unless terminated in accordance with clauses 6.1 or 6.3.
+ .2 Services Fee 
+In consideration of the Services Manager performing its obligations under this Agreement, the Owner agrees to pay the Services Manager the Services Fee during the Term. The Services Fee is payable by the Owner to the Services
+Manager in monthly instalments in arrears with the first on the expiry of one month from the Commencement Date and then each subsequent monthly anniversary thereafter during the Term (for amounts approved by the Board). The total
+Services Fee paid or payable to the Services Manager must not be more than 75% of 4.25% of the total Project Costs and the Services Fee may at any time be re-adjusted by the Board to ensure that: the Services Manager is only paid 75% of 4.25% of the total Project Costs over the Term; or and the Services Fee is commensurate with the amount and type of the Services being provided by the Services Manager from time to time.
+
+In respect of a period of less than a month, the instalment of the
+Services Fee for that period payable pursuant to clause 6.2(a) will be a proportionate instalment calculated at a daily rate based on t he number of days in the month in which that period begins.
+ 
+Fee Agreement There is a fee agreement also dated 5 May 2008 between VFML and ACPL. This fee was stated to be a fee of $20 million for the introduction or allowing
+ACPL into the project payable to VFML five years after completion of the acquisition of the property which, as it turns out, would have been in October
+The fee is secured by a deed of mortgage of the same date, namely 5 May over ACPL's interest in the mortgaged property being the property in the
+Noosa Trust.
+ 
+Facility Agreement There are two other transaction documents of some relevance. The first is the facility agreement dated 1 July 2008 between NV1 and Suncorp-Metway
+Limited. It was Suncorp-Metway which sold the hotel to NV1. The loan agreement provides for a loan of up to 70% of the value of the property. In the events which happened the expiry date, being the date for repayment, is 31 October
+It was envisaged that by that date development approval would have been obtained and there would have been some pre-sales of part of the proposed development. The assumption was that it would then be possible to obtain a new loan for construction purposes with a higher valuation on the basis of development consent. For present purposes it is not necessary to set out the provisions of the facility agreement apart from the following: that Suncorp could review the facility if there were any change in the management of the borrower; and that after any drawdown under the facility the loan to value ratio (the LVR) was not greater than 70%; that the lender could require a valuation to be carried not more than annually in respect of the mortgaged property; and that termination of the management agreement with Sheraton would be an event of default.
+ 
+Management Agreement The final document of significance is a management agreement dated 14 June between Suncorp Insurance and Finance and Sheraton Pacific Hotels Limited (now Starwood). This is an agreement under which Sheraton, for a fee, took on the operation management and supervision of the hotel. The original term under the agreement was to 31 December 2005 but the operator, Starwood, had the right to extend the operating term for two successive periods of five years.
+At the time relevant here the first extension had been exercised so that the management agreement was operative up to 31 December 2010 and there was a right to extend it for a further five years provided that notice was given prior to 1 January 2009, which it was. This right of extension was, however, subject to cancellation, if the owner gave to the operator prior to 31
+December 2009 notice that it intended to demolish all buildings comprising the hotel, and stating whether it intended to construct another hotel on the site.
+If it did so intend then the owner was bound to consult with the operator on the question of entering into a new management agreement and more importantly if the owner had not substantially commenced the demolition of all buildings by the end of three months after the start of the new operating term then the operator had the right to renew the yearly agreement for the balance of the term of five years.
+ 
+MORE FACTS The project control group provided by clause 4 of the UHA was established pursuant to clause 13 of the services agreement which, as I have said, was between NV1, VFML and AMPL. Each of VFML and AMPL is entitled to appoint two persons to be members of the project control group. Its task is to make all decisions in relation to the proposal provided they are within the powers of the project control group. The resolutions of the project control group are required to be the unanimous decision of the members present as in the UHA.
+ The Ashington directors of NV1 as from 1 May 2008 were Messrs. Anderson and
+Minahan. The two Valad directors were Messrs Day and Locke. The Ashington members of the project control group were Messrs Minahan and Bailey and the
+Valad members were Messrs. Renauf and Tack.
+ NV1 exercised its call option to purchase the Noosa hotel property on 27
+June 2008 and completed the purchase on 28 October 2008.
+ There were meetings of the project control group (PCG) usually each fortnight. The PCG prepared a number of drafts and then a final version of a project plan for the 2008-2009 financial year. This plan noted that under the unitholders' equity was to be contributed at designated times. It included a number of milestones to be achieved, including the following: 
+Milestone Date 
+Resolve planning strategy August 2008 
+Submit DA December 2009 
+Achieve DA consent December 2009 
+Achieve vacant possession of hotel December 2010 
+Achieve pre-sales December 2010 
+Commence construction February 2011 
+Project completion December 2013 The Plan dealt with what was called "Starwood Strategy Process" discussing options as to how to deal with Starwood rights under the management agreement.
+It recommended a development based on what was called Option 2(b) namely a mixed development comprising a smaller hotel, residential apartments and a retail complex. It seems to have been generally accepted that the greater the number of residential apartments which could be incorporated in the building, the greater the profit would be. On the other hand it was accepted that the local government authorities in Noosa were keen to maintain Noosa as a tourist destination where hotel and short term accommodation was available. The project plan set out the equity requirements under the UHA but in the feasibility study which was attached there were set out monthly equity injections of different figures not in accordance with the UHA timetable. The hearing proceeded on the basis the plan was approved by the board of NV1 although the evidence led does not appear to establish this.
+ There was some progress in accordance with the plan up to 27 February 2009 but even then it is clear the timetable had suffered what was described as slippage. One of the somewhat strange things about this matter is that
+Anderson said that he had never thought that the project plan which he had approved could be met. He said that there was considerable pressure from the
+Valad representatives particularly Mr Renauf to agree to the timetable and milestones and that he had agreed to them as he did not wish to cause problems in the relationship which the Ashington companies had with the Valad companies. Minahan said much the same. Nevertheless in spite of the slippage there was some progress made obtaining some outline draft plans and there were some discussions with council representatives.
+ On 27 February 2009, the Valad group issued to the share market its results for the half year ended 30 December 2008 which showed a very substantial loss.
+The statement which was issued with the results stated that Valad aimed to sell down its position in certain ventures including the Noosa development.
+This gave rise to some concern in the Ashington camp as to whether or not
+Valad was serious about the project. In the meantime contributions had been made to equity, not in strict accordance with the UHA, but generally as required, particularly for the settlement of the purchase by Ashington so as to bring its payments into line with those made by VCML as the latter had paid considerable sums for project expenses before Ashington was admitted to the venture.
+ Hurley is the managing director of the Valad Property Group. He was appointed a director of NV1 on 25 June 2009. He became involved with the project from February 2009 and received briefings on it from senior Valad employees. Price is general manager property of Valad Capital Services of the
+Valad Group. He was appointed a director of NV1 on 21 October 2009 and reports to Hurley. He has been the Valad person responsible for the Noosa development since April 2009 when Mr Renauf left the employment of Valad and moved to the
+Ashington Group. It is the actions of VCFL through Messrs. Hurley and Price that the plaintiffs allege have stultified the joint venture.
+ Both unitholders had been involved in a proposed development at Double Bay for which planning approval was eventually refused. There had been somewhat of a falling out over moneys which were due by Ashington for the final instalment of a fee payable under a facilitation agreement pursuant to which Ashington was introduced to the Double Bay venture. The failure to make a payment for what was a substantial amount resulted in Valad issuing a notice of demand to
+Ashington in June 2009. Hurley had met Minahan to discuss the Double Bay unpaid instalment. He knew that funds from the Noosa Venture came from a fund called the Ashington No 2 Fund of which Ashington was the responsible entity.
+He understood the funds for Noosa were drawn from the same trust as for the
+Double Bay venture and thus was concerned about the ability of Ashington to fund the Noosa venture. He asked Minahan where the money for the equity contribution due on 30 June 2009 was to come from. Minahan said the payment could be made as it was not subject to some particular restriction which applied to funds going to the Double Bay venture.
+ As required by the UHA the PCG produced a project plan update and project budget dated 11 June 2009 for the 2009-2010 financial year. This plan, among other things, put back all the milestones, the most significant changes being: 
+DA consent moved from December 2008 to 10 June 2011 - 2 ½ years 
+Project completion dated moved from December 2013 to January 2016 - 25 months.
+
+This update also showed in the Project Budget a requirement for increased equity from $54,635,837 to $59,962,201 but a funding requirement of equity of only $1,350,000 up to 30 June 2010. In addition this updated plan stated that a later time for pre-selling and construction was recommended because there had been a 20% downturn in prices being obtained for apartments in Noosa and it was thought that this loss of value would be recovered during a two year delay in completion of the project. It assumed each unitholder would contribute $29.97 million to equity, notwithstanding that the UHA stated that there was no obligation on either party to put in more than $25 million.
+Anderson stated in oral evidence that Ashington would not put in more than that.
+ A meeting of the directors of NV1 was held on 25 June 2009. Hurley and Mr
+Wilkinson were elected as Valad directors. Anderson and Minahan were the
+Ashington directors. The project plan update was rejected. There is no doubt it was rejected at least partly by Hurley on the basis that it did not provide for the $2.5 million contribution to equity which was required on 30 June 2009 by the UHA, but in any event Anderson said that he did not approve it because as far as he was concerned the timetable was unacceptable. On that basis really there needs to be a little more attention paid to this as the plan could not approved unless by unanimous resolution of the directors.
+ The meeting referred the matter back to management for the preparation of additional materials on the proposed strategy and to revise the project plans and project budget. The strategy referred to was in part to delay the project in the expectation or hope that values would increase over a two year period.
+ The board of NV1 met again on 21 October 2009. At the commencement of the meeting Price was appointed as a director in place of Mr Wilkinson who had resigned. It considered a PCG report of September 2009 which, among other things, amended the forecast of milestone dates put forward in June to include the following: 
+Submit DA February 2010 
+Obtain DA consent June 2011 
+Commence construction August 2012 
+Complete project April 2015 
+It retained the equity requirement of $59,362,207 but recognised this had not been approved by the board.
+ The updated plan was not approved. There is in evidence a draft of the minutes which it seems has not been approved but which states the following: 
+The board resolved to hold off formally adopting the proposed resolutions until the following key items had been addressed: . A right to terminate Starwood from their hotel management agreement prior to the current expiry of 31 December 2015 had been agreed or otherwise with Starwood.
+ . Confirmation on the amount of equity contributions due and payable by each joint venture partner under the UHA has been determined.
+ The proposed resolutions were for adoption of the updated asset strategy and time for delivery, acceptance of the project financials, approval of the budget for the 2009/2010 and approval of an equity contribution of $2 million to be split evenly between the parties to be payable in April and June 2010 or as agreed by the PCG.
+ For some months after this there was correspondence between the parties and discussions about equity contributions. Hurley sought advice on this from Mr
+Carroll, general counsel for Valad, who had told him that amendment of the funding obligation under clause 3.2 required compliance with clause 27.3 and that the PCG had no power to alter the obligations. Debate continued without resolution, VCML making a formal demand for payment of the two $2.5 million stated to be due on 30 June 2009.
+ There are two other matters of importance which occurred between October and April 2010. The original Suncorp loan was for $65.1 million but was based on a valuation of the Noosa property of $93 million. Suncorp in November had notified its intention to exercise its rights to obtain a new valuation of the property and it was expected that this would result in breach of the loan value ratio requirement of the mortgage facility thereby requiring the introduction of equity or funding from other sources to reduce the amount of the Suncorp loan.
+ The other important event was that VCML proposed that the services fee payable to AMPL should be suspended as from 5 January 2010. The stated basis for this proposal was that as the completion date was being extended and the fee was calculated as a monthly fee based on project costs over the venture period, the monthly fee should be reduced, first to take this into account and second, because a lot of the work envisaged revolved about preparing a development application and obtaining approval to it whereas at that time there had been no agreement on the form of the application. A Board meeting of
+NV1 on 24 February 2010 discussed this without resolution. AMPL then served a default notice on NV1 stated to be pursuant to clause 6.1(b) of the services agreement.
+ VFML was the funds manager and the board of NV1 would not approve further payments. AMPL served a statutory demand for payment on NV1. As the board of
+NV1 was deadlocked on this matter VCML by separate action obtained leave to bring a derivative action on behalf of NV1 to set aside the statutory demand.
+In the result the proceedings were settled on 30 April 2010 and the demand withdrawn, but I was told without objection that action to recover the fees had been commenced.
+ On 13 April 2010, before the statutory demand problem was resolved,
+Katherine Grace, the company secretary of Valad, wrote to the chairmen of both
+Valad and ACPL as follows: 
+UNITHOLDERS AGREEMENT - REFERRAL OF DEADLOCK FOR RESOLUTION 
+We refer to the Unitholders Agreement dated 5 May 2008 between Valad Funds
+Management Limited ACN 102 249 294 (VFML), TCL, NV1, VCML and ACL (Unitholders
+Agreement). Any terms capitalised in this letter and not defined have the same meaning as in the Unitholders Agreement.
+
+We note that there is a deadlock between the Directors of the Board in relation to each of the following three proposed decisions: . confirmation of the amount of equity contributions due and payable by each joint venture partner under the Unitholders Agreement, including each
+Unitholder's contribution of $2.5 million (June 09 Equity Contribution) as set out in clause 3.2(a)(iv) of the Unitholders Agreement; . renegotiation of the Services Fee payable to Ashington Management
+Pty Limited (AMPL) under the Services Agreement between NV1, VFML and AMPL dated 5 May 2008 (Services Agreement) and the Asset Management Fee payable to
+VFML under the Unitholders Agreement; and . approving and adopting an updated Project Plan and FY09/10 Budget that addresses the issues arising from the meetings and discussions held since mid-2009.
+ (together Proposed Decisions).
+
+By this letter, we now refer each Proposed Decision to the Chairman of
+VCML and the Chairman of ACL for resolution in accordance with clauses 5.10 and 22 of the Unitholders Agreement.
+
+VCML reserves all of its rights, including under the Unitholders
+Agreement, in relation to the Proposed Decisions and all matters related to them, including, without limitation, all of its rights in relations to the failure of ACL to make its June 09 Equity Contribution.
+ Anderson, on behalf of Ashington, responded on 20 April stating that
+Ashington did not believe there was a deadlock as the board had not voted on resolutions in relation to any of the three matters set out, but nevertheless
+Ashington, while reserving its rights, was prepared to enter into the dispute resolution deadlock process. He wrote again on 28 April, reiterating that the time for discussion expired that day, and that he sought a meeting. Ms Grace responded that day saying that Hurley was travelling but would be back in
+Sydney and could meet on 5 May 2010.
+ On 29 April 2010, Anderson wrote to Hurley and Price stating that as Hurley was not available for a meeting there had been a non-compliance with clause .10(b)(i) of the UHA and pursuant to that clause Ashington referred the matters in the letter of 13 April 2010 to "dispute resolution - deadlock process in clause 22 of the UHA". He sought a meeting. Valad responded on 3
+May accepting the matter should be dealt with under clause 22.
+ A meeting of unitholders was held on 5 May to discuss the deadlock matters, but there was no resolution although there was some further correspondence about the service fees and the Starwood issues.
+ There followed an action commenced by ACPL on 19 May 2010 for winding up of
+NV1 on the just and equitable ground. It is not necessary to go into this in any detail. There was a challenge to the standing of ACPL; an application to substitute TCL as a plaintiff, which was ultimately dismissed, and the proceedings dismissed as a result of which the present proceedings were commenced on 1 June 2010.
+ Before these proceedings were commenced and as a result of the expiry of 20 days after reference for resolution under clause 22, VCML on 22 May served a transfer notice pursuant to clause 22.2 offering to purchase the interest of
+ACPL in the project for $20 million or to sell ACPL its interest in the project for $20 million. There was a further meeting on that date but no agreement was reached. On 8 June 2010, VCML sent a notice requiring ACPL to transfer its interest to VCPL at the transfer price. Under clause 22.7 completion of the transfer was required within 40 business days. Perhaps more important was the requirement under clause 22.8 that the fee of $20 million be paid on the completion date by ACPL to VCFM.
+ As I have said this action was commenced by originating process on 1 June seeking a winding up order on just and equitable grounds and for winding up or other orders on grounds of oppression. Further orders were sought. On 26
+July 2010, Valad undertook to the court that it would not take steps to bring about completion of the transfer of interest without giving three days' notice of intention to do so.
+ The final event relevant here is that the valuation obtained by Suncorp was for a figure of $85 million. The effect of this was to bring about a breach under the loan facility unless $5.6 million was paid in reduction of the principal sum outstanding. Suncorp demanded that this be done by 3 August
+Price suggested that each unitholder should contribute $2.8 million.
+Ashington did not respond. On either 4 or 6 August 2010, Valad paid $5.6 million to Suncorp direct stating that this was a contribution of $ 5 million to NV1 in accordance with its obligations under the UHA and a further provision of $600,000 as additional equity required. Price wrote to Ashington claiming that the failure to make the payments under clause 3.2 was a default under clause 18 of the UHA and requiring that the default be rectified by
+Ashington making payment NV1 of $2.8 million on the basis that this amount would then be returned by NV1 to Valad.
+ Ashington has disputed the claim under this notice by arguing: 
+A. The Suncorp call was not a project expense; 
+B. There was no need for further equity on 6 August, because Valad had already paid the money required; 
+C. NV1 had funds sufficient to make the payment; 
+D. If the payment was a capital contribution not a project expense, it must have been provided under clause 3.4 of the UHA.
+ The letter from Valad of 6 August was stated to be a unitholders' default notice under clause 18.3. There are provisions in the UHA dealing with such notices and the right of the non-defaulting party to require transfer to it of the share of the defaulting party and for fixing the price. This letter brought about an amendment to the statement of claim to bring forward a claim that the notice was invalid.
+ No attention was given to this during the hearing and the relief was not pursued. Had it been necessary to determine it I would have found that the call was a project expense; that the funds held by NV1 were not free to make the payment required; and whether or not equity was to be paid or required in accordance with clause 3.2 it was required at that time to satisfy project expenses.
+ 
+Pleadings The first document relevant is an amended originating process filed on 5
+October 2010. The claims in this document are repeated in the further amended statement of claim but as it is the paragraphs in the former document which were referred to in submissions it is probably best to deal with that document. Under the amended originating process the plaintiff makes the following claims: . That NV1 be wound up on the just and equitable ground or for oppression.
+ . Other orders for oppression the only one addressed and sought being an order that VCML purchase the shareholding and unitholding of ACPL.
+ . A declaration that Hurley and Price have engaged in conduct which constitutes a contravention of [ss ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s181.html) and [182](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s182.html) of the [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/).
+ . A declaration that VCFL and VFML have engaged and are engaged in conduct that constitutes or constituted aiding, abetting, counselling or procuring Hurley and Price to contravene [ss ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s181.html) and [182](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s182.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/).
+ & 6 Orders that the fourth and fifth defendants take all necessary steps to complete the project.
+ . A declaration that Valad is not entitled to rely on clauses 22.2 and .8 of the Unitholders Agreement.
+
+A. A declaration that the notice of Valad of 6 August 2010 was invalid and of no legal effect.
+ . A declaration that the Valad companies are in breach of the
+Unitholders Agreement.
+Damages.
+Interest.
+
+As I have said 11A was not pursued. See transcript 5 November 2010 page 326
+Line 50. I will return to the other claims which raise considerable difficulties. The numbers which have been omitted in the foregoing paragraph numbers relate to claims which were not pursued.
+ The claim is pleaded now under a further amended statement claim filed in court after the opening of Mr Fagan, Senior Counsel for the plaintiff. The further amendment was occasioned by the need to plead facts giving rise to a claim of dishonest conduct on the part of Valad through Hurley and Price directed towards bringing about a situation in which VCML could take the whole project for itself.
+ Prior to this last amendment the claim of the plaintiff was that from the time Valad reported its half yearly results on 27 February 2009, it had omitted or refused to progress the project by (a) not taking proper steps to advance it (b) by wishing to sell the project without the redevelopment being completed; (c) by refusing to approve the project plan and budget; (d) by not engaging in community consultation; (e) by not taking any or adequate steps to deal with Starwood and in refusing to sign a memorandum of understanding put forward by Ashington to deal with Starwood; and (f) by refusing to approve payment to AFML of the services fee since 5 January 2010. It is claimed that these matters complained of constituted breaches and repudiatory breaches by the Valad parties of clause 2.2(a)(b); clause 2.6 and clause 2.7 and clauses .1 and 6.2 of the Unitholders Agreement.
+ There are further or alternative claims that VCML in seeking to take advantage of the deadlock provisions is seeking to take advantage of its own wrongs; that the matters which it relied on in its dispute notice arose out of its own breaches and further that in breach of clause 22.1 Valad did not negotiate to resolve the dispute and/or did not negotiate to resolve it in good faith thereby precluding it from taking advantage of its own wrong in exercising rights under that clause.
+ The amendment made after the hearing commenced introduced new paragraphs
+A to 24I alleging: 
+Valad, Hurley and Price claimed an equity contribution of $2.5 million was required on 30 June 2009 when there was no need for an equity injection and when the purpose of this contention was to invoke the default provisions or the deadlock provisions of the UHA, so as to take control of the project.
+
+That those parties sought to bring about the cessation of payment of service fees when to their knowledge there was no genuine dispute and this was done to exert financial pressure on Ashington and it was done for the same purpose of obtaining control.
+
+That in contending (i) the project plan and budget could not proceed without resolution of the Starwood arrangements; (ii) that the plan and budget could not proceed without resolution of the equity position; (iii) that the plan and budget as drafted could and should not be approved; and (iv) in serving the deadlock notice with no genuine intention to resolve the deadlock or without undertaking any bona fide negotiation this conduct was carried out for the purpose of obtaining control.
+ The allegations of loss as a result of the breaches which I have set out are that the plaintiffs have lost the profits which would have been generated had the project been pursued either to date or to completion and have suffered loss and diminution in the value of the units held by TCL in the Noosa Venture
+Trust and the shares in NV1.
+ The balance of the claims are those under the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) set out in paragraph 46.
+ 
+Defence As might be expected the defendants deny breach. In particular so far as the new claim introduced by paragraphs 24A to 24I in the further amended statement of claim are concerned the defendants say: 
+A. that Hurley and Price believed and believe there was and is a requirement for the capital contribution of $2.5 million on 30 June 2009 and that irrespective of that requirement there was an obligation to contribute as capital was required.
+
+B. That there were proper and genuine reasons for refusing to adopt the project plan update.
+
+C. That Hurley and Price believe that adoption of the plan would be a breach of the UHA.
+
+D. So far as community consultation was concerned this was the task of
+AMPL.
+ Insofar as the contract claim is concerned the defendants put in issue the question of whether the plaintiffs were ready, willing and able to perform the
+UHA when performance was due. Finally, in answer to the claim for a winding up order, the defendants say that this is an attempt to put commercial pressure on Valad because by making the claim the plaintiffs have triggered an event of default under the Suncorp facility. In addition, and perhaps more importantly, the defendants say that NV1 is solvent and that the UHA has a deadlock mechanism which has been activated.
+ 
+Cross-claim The only relief sought is an interlocutory order restraining TCL and ACPL until further order from taking any further steps in these or other proceedings seeking the winding up of NV1. That claim relies on the provisions of a mortgage between TCL, ACPL and VTML to secure the $20 million fee payable under the fee agreement. The mortgage contains a covenant by TCL and ACPL not to impugn the efficacy of the mortgage. It is claimed by seeking a winding up order the plaintiffs are doing just that.
+ It seems to me that the cross-claim can be disposed of by saying that the interlocutory order is not sought in support of any final relief claimed and on that basis there is no ground upon which the order can be made.
+ 
+Inconsistencies in the plaintiffs' claim I may need to return to this but it is important to deal with this in some measure now. The principal claim of the plaintiffs is for damages for breach of contract being damages for loss of bargain through repudiatory breach of contract by the defendants as a result of which pursuant to the transfer notice the share and the unit of ACPL in the joint venture has been lost to
+Valad. This accepts the share and unit have been lost. There has been no acceptance of the claimed repudiation and no termination for breach. The alternative claim of the plaintiff is that the contract remains on foot, that there have been breaches for which damages may be sought but principally that the alleged breaches amount to oppressive conduct in circumstances where the appropriate order is one that VCML buy out the ACPL interests.
+ Mr Fagan at one stage submitted that a buy out price would be the same figure as for loss of a bargain, but in reality the figure would be the value of the shares and the units at the date determined for fixing the value. Mr
+Fagan did accept that insofar as there might be separate claims for damages involved for breach in bringing the deadlock procedure into play that could and should be dealt with by determining the proper date for valuation which on that basis would be the date of or prior to the deadlock letter of 13 April .
+ It will be seen immediately that there is a problem with this approach. To claim loss of bargain damages it is necessary for the contract to be terminated; the plaintiffs have not accepted the repudiation and terminated but in spite of this wish to proceed on the basis that the transfer notice has taken effect. Although that is the preferred claim the plaintiff as an alternative wants a buy out order which assumes that there is something to buy out.
+ 
+Conduct claimed to result in breaches of contract and equity contributions The first matter for decision is whether there has been an agreement to vary the contributions required by clause 3.2 of the UHA. Mr Sullivan QC,
+Senior Counsel for the defendants, argued that any amendment must be in accordance with clause 27.3 which I set out again: .4 Amendments 
+This Agreement may only be varied by a document signed by or on behalf of each of the parties.
+ There is no such document. That does not in my opinion carry the day although Hurley was advised that it did. Clause 3.2 itself provided a mechanism for variation of the scheduled payments. This could be done "by the agreement of the unitholders". No amendment of the UHA was required to bring about such a variation. The words "to ensure that project expenses are funded in equal proportion by the unitholders as they fall due for payment" relate to scheduled contributions or amended contributions and do not restrict the power to amend.
+ Amendment pursuant to clause 3.2 required agreement of the unitholders, namely ACPL and VCML. The argument of the plaintiffs is that it was agreed that the schedule of payments should be amended so that equity contributions would be made as required. Insofar as this may have been agreed by the PCG there was no authority. Its members were stated to be nominees of the VFML and
+AMFL and not the unitholders. Any agreement made by the PCG members would not amend the UHA.
+ The project plan for 2008/09 included a financial summary with a forecast of financial outcomes based on option 2(b) - the base case. This forecast equity contributions by each of Valad and Ashington of $27.32 million.
+Included in the plan is the statement: 
+The Unitholders Agreement provides for equity to be contributed at designated times (refer to Schedule 9 for more detail).
+
+Schedule 9 is probably a mistake for Schedule 10 which deals with feasibility and funding. This sets out the clause 3.2 contributions and under that states: "the Unitholders Agreement also states that the partners will act commercially and provide equity as agreed from time to time". The feasibility model which is annexure 5 to the project plan shows tables of projected cash flows which include monthly injections of equity usually of around $532,000 but with a larger figure of $13,726,000 in October 2008 which was the date when the purchase was to be settled.
+ The PCG report of 15 December 2008 deals with discussions about requirements to achieve equity parity. Under the financial summary there is a statement that: "A processes and procedure manual has been signed off by both parties for the structure around the monthly financial processes that is to be followed to ensure smooth operation of account payments, etc." It referred to a statement that equity drawdowns/equality issue is still not resolved between the parties" which probably applied to unequal contributions made to that date. The processes and procedure manual introduction states that it has been prepared by the partners to the investment in the Sheraton Noosa to outline the process to be adopted and adhered to with regard to the financial operation of the joint venture. It then sets out the elements for which the process and procedure has been established including "Equity Contributions".
+Under this heading the following appears: 
+Equity Contributions • Equity is to be contributed quarterly into the Noosa Venture 1 P/L account on the first day of the month.
+ • Forecast equity is to be reported to the PCG monthly in the PCG
+Report.
+ • An "Equity Requirement" notice for the payment of equity is to be provided to the PCG members by the Services Manager (Ashington) one month before the equity is due for payment. This notice is to be served on the PCG members at the PCG meeting. It is the responsibility of the PCG members to provide the notice to their respective finance departments for action.
+ • The Asset Manager, through the Project Accountant is to provide the
+Services Manager with documentary evidence that the equity has been contributed by both parties so it can be incorporated into the cost report model.
+ • Equity is to be provided and maintained in equal shares between the parties.
+ This is probably the best evidence as to variation, but the fact is there is no document to show that it was adopted nor was it relied on by the
+Ashington interests when asked to identify any agreement to vary contributions. There are some internal Valad emails querying whether there was a requirement for equity contribution for cash flow reporting in May 2009. Mr
+Tack said that the budgeting cash flow for the 2010 year was being prepared and it would supersede the Unitholders Agreement. In August 2009 Mr Bear a development executive in the Valad Group prepared a model to support an impaired value for Valad equity in the Noosa project. This model does pre- suppose equity injections as being contributions being made monthly.
+ There is no doubt that equity contributions were not made as required by clause 3.2 of the UHA but this is not an estoppel case. Had there been an agreement between the unitholders to vary the contributions this must have been in writing or by words. When the question arose neither party was able to show any agreement for variation. Hurley made it quite clear from at least
+June 2009 that he considered there was a requirement to make the payment of $2.5 million on 30 June 2009. In the conversation he had with Minahan this was not disputed. I have not overlooked the evidence in paragraph 35 of the affidavit of Anderson of 1 June 2010. There he deposes to a conversation during the first board meeting of NV1 as follows: . On 26 September 2008, I attended the first board meeting of NV1 with Craig Minahan and Jeffrey Locke. Sam Renauf, chief operating officers - residential for VCML, Jeremy Stevenson, general counsel of VCML and Joe Tack, development executive of VCML were also in attendance. At this meeting Jeffrey
+Locke spoke of the debt facility which he had negotiated with Suncorp to the following effect: 
+Jeffrey Locke: "The quantum of debt raised means that the joint venture partners will be required to make lesser equity contributions than proposed in the Unitholders Agreement".
+
+Me: "Ashington are agreeable to contributing less equity based on the debt raised from Suncorp".
+
+This conversation could not amount to an agreement to vary clause 3.2 contributions. In fact more not less equity was required.
+ I find that there was no binding agreement for variation. I will return later to consider whether even if there had been an agreement, it was reasonable for Hurley to require the contribution which Valad demanded.
+ 
+Starwood The conduct alleged to be a breach of clause 2.2 in relation to Starwood is that pleaded in paragraphs 24(e) and 24C of the further amended statement of claim as follows: . From about that date, VCML by itself and by its appointees to the
+Project Control Group from time to time and the board of directors of NV1 from time to time, including Price from 1 October 2009 and Hurley from 25 June , have omitted and refused to progress the Project.
+
+Particulars ...
+ e. It has taken no or no adequate steps to pursue negotiations with Starwood and has since about May 2010 omitted or refused to support a memorandum of understanding for an agreement between NV1 and Starwood; 
+C VCML by its directors and appointee directors to NV1 Hurley and
+Price has since about 21 October 2009, and in particular at the board meeting on that date, contended that the 2009/2010 Project Plan and Project Budget as drafted could not proceed without resolution with Starwood of terminating its occupancy of the Site prior to 31 December 2015 when: a. to their knowledge this was not correct; b. this was in furtherance of a purpose of creating a deadlock in relation thereto entitling VCML to invoke the deadlock provisions under the Unitholders
+Agreement in turn entitling to terminate ACPL's involvement and interests in the joint venture and the Project and take control and ownership thereof itself; and c. this was in furtherance of a purpose of justifying a position that AMPL should not be paid service fees under the Services Agreement.
+
+Particulars 
+The resolution of the position with Starwood was consequent upon, rather than dependent on, the 2009/10 Project Plan and Project Budget. Further, resolution by the serving of a demolition notice remained open until 31 December 2009 and resolution by negotiation and agreement with Starwood remained open and indeed was progressed by ACML to the point of a draft memorandum of understanding by May 2010.
+ On 14 July 2009, Starwood had given notice of intention to exercise its option to extend the management agreement for a further period of five years after the expiration of the then current term on 31 December 2010. This meant that NV1 had to decide whether to serve a demolition notice prior to 31
+December 2009.
+ Various options were put forward as to how to deal with Starwood. The reason for this was that income from the hotel was the source of funds to pay interest on the Suncorp mortgage. If a demolition notice were given and
+Starwood vacated immediately that would result in loss of income. On the other hand if the notice were not given it would be necessary to come to some agreement with Starwood to vacate prior to 31 December 2015 if redevelopment were to commence.
+ Various plans were put forward as to how to deal with this. Mr Knight in a memo of 1 September 2009 suggested a way forward which involved negotiating with Starwood prior to 31 December 2009 but probably serving a demolition notice if no agreement was reached. This was considered by Price who responded in a reasonable way. One question he raised was who would deal with Starwood.
+Mr Knight's response was that this should be decided by the PCG but that
+Messrs Renauf and Minahan would be the most appropriate people with a Valad representative if required. This appears to have been accepted by the PCG at the end of October 2009. The PCG report of 20 November 2009 states that meetings had been held without result and recommended the joint venture issue a demolition notice. It was then decided to get advice from Clayton Utz as to whether the issue of a demolition notice would bear upon the rights of Suncorp under the facility agreement. The advice obtained was that the issue of a demolition notice without consent of Suncorp for the vacation by Starwood of the hotel might constitute a "material adverse effect" which would be an event of default. The result of this advice was not no demolition notice was issued which meant for the project to proceed it would be necessary to come to some arrangement with Starwood.
+ The PCG report of 19 January 2010 reported that Starwood negotiations were continuing but unresolved. In February 2010, Mr Bailey sent an email to Price saying that progress was being made, he expected agreement in principal in about six weeks and suggested that community consultation which was on hold pending resolution should commence. Price responded that he thought that an
+NV1 board meeting was necessary to determine the project strategy and later by email said: 
+Matt, do you want to catch up tomorrow? The Board is yet to approve the project strategy as it is dependent on both timing (Starwood break clause) and funding (project equity requirements have increased in latest proposal yet sources of equity may have decreased). Until these issues are resolved it makes no commercial sense to keep incurring costs based on the original strategy which may be unviable.
+
+Talk soon, Gareth At a meeting on 25 February 2010 between Bailey and Minahan for Ashington and three representatives of Starwood there was positive discussion as to two options for the site. On option was for a full residential development with a development approval being obtained in the next few years, development to take place after Starwood vacated at the end of its new term. The other option was for a combined hotel/residential building with Starwood as the hotel operator.
+This was really in line with option 2(b). However, when Mr Bailey wrote to Mr
+Hunt one of the Starwood representatives at the meeting setting out what he thought was being achieved Mr Simpson of Starwood replied saying that nothing had been agreed but Starwood could look at any commercial scheme put before it.
+ The PCG report of 27 April 2010 reported further good discussions with Mr
+Simpson as a result of which a draft memorandum of understanding was prepared and is dated 12 May 2010. By this stage Valad internal correspondence began to indicate a wish to take over the negotiations as an asset management function but this would not necessarily amount to failure to co-operate. It was Mr
+Bailey of Ashington who prepared the memorandum of understanding and who sent it to Price for consideration. Price responded on 17 May 2010. The Valad view was that as no demolition notice had been issued it was premature to negotiate with Starwood as that might give Starwood some strategy benefit. The Valad view was that what should be done was to assess the changed Noosa market, to determine what was then the highest and best use of the site and agree that a development application should be made on that basis and then to negotiate with Starwood. In other words the view expressed by Price was that there needed to be agreement as to what development was now to be carried out before there was any purpose in attempting to negotiate with Starwood. While there might have been different views I do not consider this to be in breach of the contractual obligations of VCML.
+ It was put that VCML adopted different stances before and after 31 December as to the important of dealing with Starwood. That is so because before December a decision needed to be made about the demolition notice whereas, after that date as Hurley said the Starwood problem was just another matter to be resolved once the desired project outcome was determined.
+ 
+AMPL Service Fees This is the claim under paragraph 24(f) of the further amended statement of claim set out in paragraph 48.
+ Leaving aside for the moment the question of whether the stopping of payment was a deliberate action to force Ashington out of the project I consider there was a reasonable basis for Valad to claim that the fees should be readjusted. The monthly fee had been calculated over the original term. It was now proposed by PCG at least that the term be extended and further as no development application had been lodged and it had been envisaged that a lot of the work to be carried out under the service agreement would be attributable to that, the adjustment was reasonable under clause 5.2(a)(ii) of the services agreement. To seek such readjustment would not be a breach. VFML had accepted that its own fee should be adjusted in the same way.
+ 
+Other breaches So far as the other breaches referred to in paragraph 48 of this judgment are concerned, namely refusal to progress the project by not taking proper steps to advance it, by wishing to sell the project without the redevelopment being completed, by refusing to approve the project plan and budget, and by not engaging in community consultation, once again leaving aside the last important matter to which I will come shortly I do not consider that the breaches alleged have been established. It is clear that the parties accepted there has been a serious downturn in the Noosa market. It was for that reason that extended time for the completion of the project had been recommended by the PCG. It was not only Valad which put forward the proposal of obtaining relevant consent and then selling the project: this was something which was considered by the Ashington interests as well. The refusal to approve the project plan and budget which envisaged the same return over a longer period and which required equity contributions of $9 million over those in respect of which there was a contractual obligation under clause 3.2 of the UHA, could not be said to be unreasonable. Community consultation while important was the responsibility of AMPL but there was at least a basis for saying there was little purpose in pursuing this too far until the unitholders agreed on the type of development which they wished to pursue.
+
+The Deadlock notice It follows from the previous paragraph that I do not consider deadlock in respect of the three matters claimed namely, equity contributions, renegotiation of the services agreement fee, and approving and adopting an updated project plan and budget were matters where VCML was seeking to take advantage of its own wrong (see Suttor versus Gundowda Pty Ltd <case>; [(1950) 81 CLR 418] at 441) because I do not consider the breaches claimed have been made out. Nor do I consider the Valad actions to be in breach of the good faith obligation. In any event, although paragraph 26 of the further amended statement of claim pleads that VCML referred those matters for resolution pursuant to clause 22 of the UHA that is not correct. The matters were referred by ACPL in a letter from Anderson. VCML had taken no steps to refer the matter for resolution pursuant to clause 22 of the UHA and the plaintiffs had taken no steps to restrain them from doing so. It was the activating the deadlock provisions of clause 22 which resulted in the transfer notice. ACPL was responsible for this and its referral at the least must indicate acceptance of the validity of the deadlock notice.
+ 
+Claims of dishonest conduct Paragraphs 24A to 24I allege conduct by VCML directed toward taking the project for itself by actions or contentions without foundation for the purpose of enabling the deadlock provisions to be invoked to the advantage of
+VCML.
+ I have already found that Hurley and Price were not aware of any agreement to make equity payments as required. In addition I find there were proper reasons for Hurley to insist on the UHA contributions being made. He had reasons for concern about the ability of ACPL to meet its obligations. It had been necessary to take action to obtain final payment for the Double Bay venture; Ashington had asked for a loan of a modest amount of $90,000 to enable it to make some GST or BAS payments and there was genuine concern about equity contributions which were thought to be required in the near future after the expected Suncorp revaluation took place. Later on in February 2010 an application to wind up ACPL had been made by a creditor. This would have brought about a default under the Suncorp agreement. Finally Hurley had been advised by Mr Carroll, then general counsel for the Valad Group, that the contributions under clause 3.2 were required and he could find no evidence that the agreement was varied.
+ So far as the Starwood and services fee matters are concerned I have already dealt with them. The question is whether the actions of VCML were not as a result of genuine concern or genuine considerations but for a purpose inimical to the obligations of good faith under clause 2.2(6)(ii) of the UHA and the obligation under clause 2.2(6)(iv) of the UHA.
+ The evidence which would support the plaintiffs' claim here comes from internal documents of Valad obtained on discovery. Ashington did have concerns about Valad's statement about selling down Noosa. Hurley said that what he meant by this was that Valad would transfer its interest to a trust managed by it but he did not tell Anderson or Minahan that. Ashington was itself in June considering the possibility of obtaining a new partner to take Valad out.
+ On the Valad side, Price was by July 2009 considering the terms of the UHA as to performance default which would trigger a compulsory event. He was doing this under instructions from Hurley.
+ The following matters are relevant to this issue: 
+A. Mr Timmins, the Queensland manager of Valad, in an email discussed the question of the stalemate over equity contributions and stated that Price should review the dispute resolution processes.
+
+B. There were a number of strategic asset plans prepared by Mr Timmins which dealt with a strategy to take 100% control of the venture. While these look somewhat suspicious they are based on concerns about the financial strength of Ashington and its ability to continue to raise or obtain funds from the Ashington No 2 Trust Fund which was the source of Ashington's funds for the joint venture.
+
+C. In October 2009, the Australian newspaper carried a report that investors in the Ashington No 2 Trust had called in insolvency advisers. This caused Hurley concern and brought about an internal Valad email from Price stating among other things the property team was working on a strategic asset plan to take Ashington out. There are a number of further strategic asset plans which were updated each month and which generally refer to events of default and obtaining 100% control. Hurley suggested in November 2009 that consideration should be given to refusal to pay the project management fees to
+Ashington and a few days later Mr Timmins, in a revised asset plan, spoke of making a demand for the $2.5 million due on 30June 2009 thereby triggering a performance default.
+ This type of internal communication was carried on, particularly after
+Ashington had been removed as the responsible entity of the Ashington No 2
+Trust and a company known as Parissen put in its place. There was some comment about Parissen taking out the position of Ashington as responsible entity in the Noosa Trust. An email dated 25 January 2010 from Price to Dianne Cassidy, who seems to have been a member of a senior leadership team, said: 
+Team. I would also like to discuss the Noosa project as part of the property section. It is the project team's view that we should be contributing our $2.5 million and then calling a default on Ashington - this is the most practicable method for gaining 100% control of the project - our prime objective. The downside is the cash outflow of $2.5 million and the fact this will form part of Suncorp's security pool. The issue needs to be debated in this forum.
+ In February 2010 various emails refer again to the aim to get 100% control and then if possible to get the investors in the ADF No 2 Fund under its new responsible entity to contribute equity to the project. While all this was going on Valad was considering options such as selling the project immediately or obtaining a development approval and then selling. It does seem that by
+March 2010 both sides had come to the conclusion that it was unlikely that the project as envisaged could be completed.
+ Most of the material referred to goes towards the question of an event of default which could trigger a mechanism under clause 18 of the UHA which I have not dealt with as it is not relevant here. It would be relevant under the later demand made in respect of the contribution required for the Suncorp payment.
+ All the material to which I have referred to is documentary and therefore there is no dispute about it. The response of Hurley and Price is that they each had serious concerns at least from the time the Double Bay venture came to an end as to the ability of Ashington to fund its required contributions to the project and I think clear that they had a proper reason for this concern.
+It was they said, in those circumstances, they thought it proper to consider taking control of the whole of the venture to protect Valad's asset and to consider the method by which that would be done. They were very concerned that if ACPL was wound up Suncorp would take control of the whole venture and they were equally concerned about the dispute that ACPL appeared to be having with the investors in the fund from which its funds or equity contributions were to come. In all those circumstances Hurley and Price considered that it was in the best interests of Valad to obtain 100% control although if Ashington did put up the $2.5 million sought in the letter of demand. They said the project could have continued under the joint venture arrangements. Thus the contention is the Valad parties were entitled to bear in mind their fair commercial objectives and when considering the requirement to act in good faith the risk of losing the project was something properly to take into account. I found this evidence, particularly that of Price, to be quite persuasive and acceptable. Price was a member of the PCG and had a closer relationship with
+Anderson and Minahan than did Hurley. Hurley was more interested in Valad than the joint venture: he was running a company with severe problems due to the financial crisis. By the time he became closely involved with the project its successful outcome was to say the least doubtful. It was not wrong of him to seek to protect the Valad interest.
+ This part of the claim is a difficult question. Hurley did instruct Price to move towards 100% control and as I said he was more concerned with the welfare of Valad than with that of the joint venture. Nevertheless I have come to the conclusion that the plaintiffs' claim so far as it relates to claimed improper conduct of VCML directed to taking control of the venture to itself fails. The uncertain economic future and the proper doubts about the ability of ACPL to contribute funds to the project justified the desire to control the project. It follows that I find the deadlock notice claims did not arise through VCML taking advantage of its own wrongdoing so as to make its issue a breach of contract. I also find there was no breach of clause 22.1 of the deadlock provisions. Hurley had a basis to argue that the $2.5 million contribution must be made and a proper basis for refusing to support the project plan placed before the board of NV1.
+ 
+Finding on contract claims For the reasons set out in paragraphs 60 to 90 the claims fail.
+ 
+Claim for damages for breach of contract It is necessary to deal with this in case my decision on breach is wrong.
+The plaintiffs have not accepted what they claim to be the repudiation of the contract by VCFL and have not terminated the contract. On that basis I consider the law to be clear and there can be no damages for loss of the bargain which is the plaintiffs' preferred result: Peter Turnbull & Co v
+Mundus Trading Co Australasia <case>; [(1954) 90 CLR 235]; Sunbird Plaza Pty Limited versus Maloney <case>; [(1988) 166 CLR 245.] Senior Counsel for the plaintiffs was unable to mount any convincing argument against that proposition.
+ There is, in addition, another hurdle in the plaintiffs' path so far as any claim for damages for breach of contract is concerned. That is because while put to proof the plaintiffs have not established that they were ready, willing and able to perform the contract. Evidence of their ability to make the necessary contributions of equity would have been required but there was no such evidence. Whether or not the claim was for loss of a bargain albeit without termination or for some other breach of a contract which remained on foot it would be necessary to prove that "but for the breach the plaintiffs could have done what was required of them to become entitled to benefit under the contract". It is a condition precedent to the cause of action: Hensley v
+Reschke <case>; [(1914) 18 CLR 452] at 460 and 467; Foran versus Wight <case>; [(1989) 168 CLR 385] per Mason CJ at 402 to 403 and per Dawson J at 451;
+Macquarie International Health Clinic Pty Limited versus Sydney South West Area
+Health Service <case> at <case>.
+If it were claimed the failure to pay service fees brought about an inability to perform evidence would be needed of that. In submissions Mr Fagan argued that readiness and ability to perform was something to be decided in assessing damages: this is incorrect. Ability and willingness to perform is a requirement for a cause of action. Foran versus Wight <case>; [(1989) 168 CLR 385.] It follows that for these reasons, namely failure to terminate and failure to prove that willingness and ability to perform the contract the plaintiffs' claim for damages for breach of contract must fail in any event. It would therefore have been easier to determine contract claims on that basis but in view of the detailed and difficult nature of this claim and the existence of the oppression claim I thought it proper to decide the contractual claims on a factual basis in any event.
+ 
+Claim against VFML for inducing breach of contract.
+ As the claims for breach of contract fail this claim under paragraph 39 of the further amended statement of claim must fail.
+ 
+Inconsistent claims Because I consider that the contract claims fail it does not seem to me to be necessary to embark upon the somewhat difficult question of pleading inconsistent claims when each relies on different facts. In other words the case is not one where there are pleaded alternative rights based upon the same facts but alternative rights based upon differing facts the first claim for loss of the bargain relying upon the share having been lost and the second claim for a compulsory buy out order being based on the fact there is something to buy. It is possible the failure to accept the claimed repudiation was to enable the oppression claim to be kept alive but I proceed on the basis the plaintiffs have not elected against their alternative claim nor waived their right to rely on it.
+ [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) claims 
+Claims against Hurley and Price The claim is that Hurley and Price breached their duties as directors under [s (1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s181.html) and [s (1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s182.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/). For the reasons given I find they did not. A declaration is sought that they did but unless this led to anything I would not make such a declaration particularly as no injunction is sought. Further, the claim for damages is made under [s (10)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1324.html) of the Act. In the present case there has been no claim for an injunction. In those circumstances the question is whether the power to award damages is engaged. In Permanent Trustee Australia Limited versus Perpetual Trustee Company
+Limited [(1994) 15 ACSR 722], Cohen J held that under substantially similar provisions of <case> of the Companies
+Code damages could be awarded whether or not injunctive relief was sought. He came to the conclusion that although the wording of <case> was similar to the provisions of Lord Cairns' Act [(s ](http://www.austlii.edu.au/au/legis/nt/consolact/sca183/s68.html) of the [Supreme Court
+Act](http://www.austlii.edu.au/au/legis/nt/consolact/sca183/)) the intention of <case> of the Code was to widen the scope of persons who could seek relief from contraventions of the Companies Code and that the Code should be interpreted unaffected by the principles applied under Lord Cairns' Act and its successors. The question was considered by Perry J in Executors and
+Trustee Australia Limited versus Deloitte Haskins Sells <case>; [(1996) 22 ACSR 270.] In that case, Perry J disagreed with the decision of Cohen J.
+ Without any reference to authority I raised this question during the final submissions and neither counsel referred me to either of these two authorities. My preliminary view at that stage without the benefit of any authority was that there was no general power to award damages unless some injunctive order was sought. After careful consideration of the two decisions
+I consider that of Perry J to be more persuasive for the reasons he gave and intend to follow it. In those circumstances the claims against Hurley and
+Price must be dismissed. For the same reasons the claims against the VCML and
+VFML for aiding and abetting etc must be dismissed.
+ 
+Application for a winding up order It is admitted that the shareholders are deadlocked. In those circumstances, if there were no deadlock provision and no question of oppression justifying other relief it would be proper to make an order for the winding up of NV1. If that were done in an ordinary case the liquidator appointed to wind up the company would probably sell the project for the best price which could be obtained and distribute the proceeds of sale to the shareholders in equal shares. In the present case, however, the deadlocked company is a trustee company holding the project on trust for the two unitholders as beneficiaries under the trust. Any liquidator would be bound to act in conformity with the trust and would be likely to appoint a new trustee who would only continue with the project if properly funded. The appointment of a liquidator would constitute an event of default under the Suncorp facility in which event it is almost certain that Suncorp would exercise its rights as mortgagee and call up the loan. Winding up is the least preferred outcome of the plaintiff companies and would I consider only be ordered if there were no other way of resolving the impasse. It is a last resort for the plaintiffs and in this case for the court. The grounds pleaded in the cross- claim would not prevent an order for winding up in such a case. The property subject to mortgage to secure the Valad entitlements would remain subject to the charge.
+ 
+Relief against oppression [s 233](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s233.html) of the [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (the Act) The court can make an order under [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s233.html) of the Act if the conduct of the affairs of a company is oppressive to, unfairly prejudicial to, or unfairly discriminatory against a member. Pursuant to [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s53.html) of the Act the affairs of a company include transactions and dealings as trustee and property held as trustee.
+ The conduct complained of here is the same as that alleged in respect of the contract claims from a corporate point of view claimed to be wrongful exercise of power to stultify the project as a result of the requirement for board decisions to be unanimous and thereafter for VCML to take the project for itself. For the reasons given on the contract claims I conclude that there are no grounds under [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s232.html) of the Act for an order to be made under [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s233.html) of the Act.
+ To hold otherwise would require me to find that it was oppressive conduct on the part of the VCML to give the deadlock notice and to exercise its rights pursuant to clause 22, the dispute having been referred to the deadlock provisions under that section by ACPL. There can be a deadlock even if a position taken is incorrect although not I think if it is dishonest. The purpose of the deadlock provision is to resolve deadlocks. There is no evidence that the offer figure of $20 million is not and was not a reasonable figure for the value of the interests of TCL and ACPL in NV1 and the unit trust. I accept that the result of the fee agreement is that for ACPL to fund a purchase for $20 million the Ashington companies would have to put up the sum of $40 million which on the evidence they would not be able to do; and of course the fee agreement also means that by selling their interest in the project for $20 million when the liability to pay the $20 million under the fee agreement is taken into account, there would be no return on the sale for the Ashington companies. On the other hand there is nothing to suggest that the interest of Ashington in the project is worth more than $20 million and on that basis itself it seems to me there is no reason to find any oppression in serving the transfer notice or in requiring the transfer notice to take effect. If there was no oppressive conduct in serving the [s .10](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s5.10.html) notice or the transfer notice then the contract terms should be allowed to take their course in preference to a winding up on the just and equitable ground.
+ I should add that what is sought is not only an order that VCML purchase the shares of ACPL in NV1 as could be made under [s (i)(d)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s233.html) of the Act but an order that VCML purchase the units in the trust held by
+ACPL. The shares would of course have no real value as NV1 does not own any assets beneficially. The order sought in respect of the units could only be made if it were permitted under [s (1)(j)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s233.html) of the Act or if some other order were appropriate under [s (1).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s233.html)
+In either case to comply with [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s233.html) any order would have to be an order "in relation to the company", the company being NV1. I hesitate to embark on this enquiry but do so in case I am incorrect about oppressive conduct. I should add that counsel for the defendants has very fairly stated that in light of conflicting authority the better view is that there is power to make the buy out order sought.
+ Until the decision of Davies J in Vigliaroni versus CPS Investment [(2009) 74
+ACSR 281] cases dealing with [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s232.html) and [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s233.html) powers relating to trustee companies have held that the powers are not available or in some cases should not be used to deal with oppression in a company which holds all its assets in trust and in particular are not available to make orders in respect of the assets of the trust or the interests in the trust held by the beneficiaries under the trust. See
+Kizquari Pty Limited versus Prestoo Pty Limited [(1993) 10 ACSR 606]; McEwen v
+Combined Coast Cranes Pty Limited <case>; [(2002) 44 ACSR 244] at para 46; Re Polyresins Pty Limited [[1999] 1 QdR ] at
+In the last decision the discussion was obiter and not necessary to the findings in that case. None of those cases referred to the definition of "affairs of a body corporate" in [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s53.html) of the Act or its predecessor Acts. It was because the earlier cases did not consider [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s53.html) that
+Davies J in Vigliaroni felt at liberty to depart from those decisions as she did not think they gave effect to legislative intention: Vigliaroni para [69]. In doing so Davies J referred to the statement of the Chief Justice of the High Court in Campbell versus Back Office Investments Pty Limited [(2009) 238
+CLR 304] at paragraph 72 when he said in referring to [ss ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s232.html) and [233](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s233.html): "the imposition of judge-made limitations on their scope is to be approached with caution".
+ With respect to the decision of Davies J and accepting the requirement for coherence in corporations law I find it difficult to accept that an order "in relation to the company" includes an order in relation to the affairs of the company because if that were the legislative intention it would have been easy enough to insert the words "or the affairs of the company" after the words "the company" in the commencement part of [s (1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s233.html) of the Act. It is a question of power not scope. It follows that if it were necessary for me to decide this question I would not have felt bound to follow the decision in Vigliaroni in preference to the earlier decisions though accepting so far as those earlier decisions are concerned that at least their judgments do not appear to have given consideration to [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s53.html) of the Act or its predecessors in earlier Acts. Thus I would not consider it within power to make an order requiring one trust beneficiary to buy out the interest of the other trust beneficiary. Such an order would, I think, be an order in relation to the trust not to the company.  
+Orders The result of this is that the following orders should be made.
+The amended originating process be dismissed.
+The plaintiffs pay the costs of the defendants.
+The cross-claim be dismissed.
+The cross-claimants pay the costs of the cross-defendants.
+ . The exhibits may be returned to be retained by the solicitors in their present form for 28 days and returned to the court in the event an appeal is lodged.
+ 
+LAST UPDATED:  November 2010 * * * 

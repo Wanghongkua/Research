@@ -1,0 +1,168 @@
+
+
+Stiearc Systems Pty Limited versus Paywell Australia Pty Limited [2010] NSWSC (1 September 2010) 
+Last Updated: 14 September 2010 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Stiearc Systems Pty Limited versus Paywell Australia Pty Limited <case>  
+JURISDICTION: 
+Equity Division  
+FILE NUMBER(S):  /289632  
+HEARING DATE(S):  , 19 August 2010  
+JUDGMENT DATE:  September 2010  
+PARTIES: 
+Stiearc Systems Pty Limited (plaintiff) 
+Paywell Australia Pty Limited (defendant)  
+JUDGMENT OF: 
+Rein J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+C Champion (plaintiff) 
+E Elbourne (defendant)  
+SOLICITORS: 
+MatthewsFolbigg Lawyers (plaintiff) 
+UBK Lawyers (defendant)  
+CATCHWORDS: 
+CONTRACT - construction - joint venture agreement - agreement to develop and license computer software to third parties - where royalties payable on "sales" of software by either party after termination of agreement - whether "sales" included initial maintenance fees and additional maintenance fees paid by licensees to either party  
+LEGISLATION CITED:  [Copyright Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca1968133/) (Cth)  
+CATEGORY: 
+Principal judgment  
+CASES CITED: 
+Franklins Pty Ltd versus Metcash Trading Ltd <case> 
+The Movie Network Channels Pty Ltd versus Optus Vision Pty Ltd <case>  
+TEXTS CITED:  
+DECISION: 
+Initial maintenance fees and additional maintenance fees are not included in the 15 per cent royalty payable pursuant to cl 3.2 of the Joint Venture
+Agreement.  
+JUDGMENT:  
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION  
+Rein J  
+Date of Hearing: 17, 19 August 2010 
+Date of Judgment: 1 September 2010  /289632 Stiearc Systems Pty Limited versus Paywell Australia Pty
+Limited 
+JUDGMENT 
+REIN J:  
+Background  The plaintiff, Stiearc Systems Pty Limited ("Stiearc"), is a computer software developer. On 25 September 2002, Steiarc entered into a Joint Venture
+Agreement ("JVA"), with the defendant, Paywell Australia Pty Limited ("Paywell"). Paywell is a licensor of software, including Paywell software. The purpose of the JVA was for Stiearc to develop an improved version of Paywell's "Paywell Payroll System" by use of Stiearc's "GENSOL" system. The new payroll system was to be commercially exploited by both parties under the name "Paywell Plus".
+ Stiearc and Paywell undertook the development of Paywell Plus from March to mid-2003, when Paywell granted the first licenses to third parties for the use of Paywell Plus. Stiearc continued its development work on Paywell
+Plus to improve and upgrade it until Stiearc terminated the JVA on 13 May .
+ Both parties jointly own the copyright in Paywell Plus: see cl 7.2 of the
+JVA, which is at page 81 of Exhibit A. Paywell and Stiearc are to pay each other royalties in respect of licences of Paywell Plus sold by either party to third parties during the term of the JVA (see cll 10.1 and 10.2 of the JVA) and after the termination of the JVA (see cl 3.2 of the JVA).
+ Stiearc's claim is, in effect, for an audit of the royalties to which it is entitled. There was a dispute as to how that audit is to be conducted, but agreement has now been reached as to a scheme for that to occur. The only remaining issue is one of construction of cl 3.2 of the JVA, which applies on termination of the JVA.  There is a cross-claim brought by Paywell against Stiearc. The cross-claim has a number of discrete components, one of which is that Paywell claims, as an offset against any amounts found to be due to Stiearc, amounts due from
+Stiearc to it for sales made by Stiearc to third parties. It was agreed that my determination as to how cl 3.2 operates will resolve that aspect of the cross-claim. It was agreed that the balance of the cross-claim will need to be determined in a separate hearing.
+ The parties agreed on the questions which need to be decided in order to deal with the plaintiff's entire claim and the defendant's royalties claim: "Issues 
+What is the 15% royalty payable pursuant to clause 3.2 of the JVA.
+
+Does it include: licence fee payable to the licensee initial maintenance fee paid by the licensee each additional maintenance fee paid by licensee increase in licence fee due to increase in users/employees fees received from users of the software other than licensees.
+
+Document relevant to (1) above are the Joint Venture Agreement and the
+Licence Agreement used by each party.
+
+Orders 
+Royalties payable re clause 10.1, 10.2 and 3.2."  
+The key issue is what is encompassed by the word "sales" in cl 3.2 of the JVA.  
+The terms of the JVA  The terms of the JVA which merit attention are: "PREAMBLE 
+A. Paywell] has been granted the rights for Australia to sell and install
+Computerised Payroll programs known as the Paywell Payroll System. [Paywell] has been granted the rights, for the purposes of The Agreement, to the use of the software resulting from the research into the production and development that has gone into the Paywell Payroll System that is being used by customers on a global basis.
+
+B. [Stiearc] has been responsible for developing computer software to assist in the creation of Application Software for customers in Australia. The
+Product that [Stiearc] has produced is known in the market place as GENSOL 'G'.
+
+C. [Stiearc] and [Paywell] wish to co-operate with one another in an endeavour to convert the current Cobol, VB and ODBC based Paywell system into, initially, a Client/Server application, 'The Product', and thereafter for [Paywell] and [Stiearc] to licence The Product to its existing customers, agents and prospective customers. It is envisaged that further development toward an enhanced Web-enabled, thin-client system will be undertaken once The
+Product is in place. [Stiearc] will use [GENSOL] to develop and constantly improve and upgrade The Product.
+ . AIMS AND OBJECTIVES OF JV .1 The JV shall convert the current Cobol, VB- and ODBC-based Paywell payroll
+System into The Product which conversion shall be constituted by the following phases: 
+Phase 1 Specifications 
+Phase 2 Programming 
+Phase 3 Testing 
+Phase 4 Service and on-going Maintenance.
+ ...
+ .3 The JV will continue to work on these four Phases in the ongoing upgrading of The Product for as long as the JV is not terminated.
+ ...
+ .5 Each party in this JV will bear its own costs in the production, maintenance and further development of The Product.
+ . DURATION .1 The Agreement shall come into operation upon the signature hereof by both parties and shall remain in existence until terminated in writing by mutual agreement by the parties, or by one party giving to the other 1 (one) year's notice of its intention to terminate.
+ .2 If The Agreement is terminated by either party, after the expiration of a year's notice in terms of 3.1 or in terms of clauses 17.3, 17.4 and 17.5, [Paywell] has the right to the use of the Gensol product for which a 15% royalty will be payable to [Stiearc] for sales made by [Paywell], and [Stiearc] has the right to the use of the [Paywell] payroll engine for which a % royalty will be payable to [Paywell] for sales made by [Stiearc]. Both [Stiearc] and [Paywell] undertake to protect the copyright of each other.
+ .3 In the event that [Paywell] is no longer able to maintain and keep current the payroll engine, [Paywell] will make the relevant source code, manuals and documentation available to [Stiearc] who may then maintain it.
+ .4 In the event that [Stiearc] is no longer able to maintain and keep current the Gensol product, [Stiearc] will make the relevant source code available to [Paywell] who may then maintain it.
+ .5 Neither of the events envisaged in 3.3 and 3.4 will give rise to a change in the ownership or copyright of software comprising The Product. 
+OBLIGATIONS OF [STIEARC] .1 [Stiearc] shall be obliged to carry out and attend to the following:- .2 project management on a regular basis; .3 the manufacture, creation and delivery of a viable and sustainable product in accordance with the specifications (Phase 2). It is understood that The
+Product will be customisable at a parameter level to suit a user's requirements. The core system will not be modified to suit a particular user in such a way that more than one version of the core product is thereby created; .4 the provision of trained and competent employees in order to implement and execute its obligations under this JV; .5 technical training of [Paywell] employees as and when requested by [Paywell] on a regular and continuous basis in order to achieve the aims and objectives of this JV; .6 the provision of on-going and regular maintenance function in respect of
+The Product once developed (Phase 4).
+OBLIGATIONS OF [PAYWELL] .1 [Paywell] shall be obliged to carry out and attend to the following:- .2 project management on a regular basis; .3 the identification, determination and recordal of specifications (Phase 1) for The Product, in consultation with [Stiearc]; .4 to provide, as and when requested by [Stiearc], the relevant technical and professional assistance and information necessary to achieve the aims and objectives of The Agreement; .5 to make available to the JV all resources necessary and incidental to the identification, determination and recordal of the specification (Phase 1); .6 to assist in the carrying out of the testing of The Product (Phase 3), in consultation and conjunction with [Stiearc].
+ COPYRIGHT OF THE PRODUCT .1 [Paywell] shall hold the rights of copyright in the 'engine' of The
+Product. This is currently the computer code contained in the Paywell program
+PAY20. If this 'engine' is reprogrammed in the future the copyright will still vest in [Paywell]. To this end [Stiearc] hereby assigns to [Paywell] all the copyright worldwide in the 'engine'.
+ .2 [Paywell] and [Stiearc] will jointly own copyright in The Product. Both [Paywell] and [Stiearc] will assist each other in the protection of their rights.
+ ...
+ .4 [Stiearc] holds the rights of copyright in [GENSOL].
+ .5 [Stiearc] will grant [Paywell] the licence to use the [GENSOL] product in support of The Product. 
+STATEMENT OF INTENT .1 Once the aims and objectives of this JV have been achieved and The Product has complied with the specifications and passed the testing requirements, the
+JV shall continue for an indefinite period and shall have the following aims and objectives:- .2 [Stiearc] and [Paywell] shall continue to provide ongoing maintenance services for The Product and shall continue to use their best endeavours to improve and develop The Product over time.
+ .3 [Stiearc] shall continue to carry out research and development functions generally in respect of The Product.
+ .4 Both [Stiearc] and [Paywell] will encourage new business development by licensing The Product to new and existing customers.  . ROYALTY PAYMENTS .1 In consideration of the development and maintenance of The Product as described in this JV, [Paywell] shall pay to [Stiearc] a royalty in respect of any use of The Product calculated at the rate of 30% (thirty percent) on all licence and maintenance fees of whatever nature received by [Paywell] in respect of such sub-licensed use thereof to third parties. For purposes of this clause licence and maintenance fees shall mean the licence and maintenance and royalty fees payable to [Paywell] by direct customers or agents of [Paywell] by direct customers or agents of [Paywell], in terms of
+Licence or Agency Agreements, excluding all other fees of whatever nature that may be payable by customers or agents to [Paywell] (an example of this is consulting fees), save for any credits and/or adjustments to the licence or royalties agreed between [Stiearc] and [Paywell].
+ .2 In consideration of the development and maintenance of The Product as described in this JV, [Stiearc] shall pay to [Paywell] a royalty in respect of any use of The Product calculated at the rate of 30% (thirty percent) on all licence and maintenance fees of whatever nature received by [Stiearc] in respect of such sub-licensed use thereof to third parties. For purposes of this clause licence and maintenance fees shall mean the licence and maintenance and royalty fees payable to [Paywell] by direct customers or agents of [Stiearc] by direct customers or agents of [Stiearc], in terms of
+Licence or Agency Agreements, excluding all other fees of whatever nature that may be payable by customers or agents to [Stiearc] (an example of this is consulting fees), save for any credits and/or adjustments to the licence or royalties agreed between [Stiearc] and [Paywell]."  "The Product" means Paywell Plus.
+
+Principles relevant to the construction of commercial contracts  In Franklins Pty Ltd versus Metcash Trading Ltd  <case>, the New South Wales Court of Appeal set out the approach which, on the authority of a number of High Court decisions, is to be taken by intermediate appellate courts and trial judges. I set out the sections of the headnote that are relevant to the construction issue here: "Construction of the contract 
+Nature of construction: A written contract should be construed bearing in mind those facts at the time of the execution of the contract that the parties knew, or that it can reasonably be assumed they knew, that could impact upon the meaning of the words of the contract: [14] per Allsop P (Giles
+JA at [63] agreeing); [305], [322] per Campbell JA (Giles JA at [42]-[43] agreeing).
+ 
+Whether ambiguity is required: It is not necessary to find an ambiguity in the words of a written contract before the surrounding circumstances can be examined as an aid to construction: [14]-[18] per Allsop
+P (Giles JA at [63] agreeing); [239]-[305] per Campbell JA (Giles JA at [42]-[43] agreeing).
+ ...
+ 
+A written contract is a legal act with a meaning which may transcend the initial parties or persons through whom they act, which provides a reason for caution in equating the scope of the admissible background with all that in ordinary communication a reasonable person would see as relevant. If there is an ordinary grammatical meaning of the words used in a written contract, that meaning must be given significant force, although read with the admissible evidence of surrounding circumstances. It falls to be determined in each case whether words would be understood otherwise in light of the context and purpose revealed by the admissible evidence: [49]-[53] per Giles JA.
+ ...
+ 
+Construction of commercial contracts: The principle that commercial agreements should be given a businesslike or commercial construction that does not flout business commonsense is closely related to the requirement that contracts be construed in light of the surrounding circumstances at the time of the execution of the contract. The nature and extent of the commercial aims and purposes of the agreement are part of the surrounding circumstances, and are how the court comes to know what business commonsense is. The need for a businesslike construction also directs the approach to be taken when selecting the appropriate construction of the words used by the parties: [19]-[23] per
+Allsop P (Giles JA at [63] agreeing); [361]-[362] per Campbell JA (Giles JA at [42]-[43] agreeing).
+ 
+Recitals as an aid to construction: Recitals can be used as an aid to construction of an operative provision in an agreement without a need to find ambiguity in the words of the operative provisions. The recitals are a means by which the surrounding circumstances and purpose of the transaction can be ascertained: [379]-[390] per Campbell JA (Allsop P at [29] and Giles JA at [42]-[43] agreeing)." Ms Champion, counsel for Stiearc, and Ms Elbourne, counsel for Paywell, accepted that Metcash authoritatively states the law to be applied here.
+Little assistance is gained from anything beyond the JVA in answering the question of how "sales" should be construed from the very limited evidence before the Court. Two licence agreements with third parties were sought to be tendered: one made before the parties entered into the JVA and one made after the parties had entered into the JVA, but at the hearing, counsel agreed that these documents could not be relied upon and they were withdrawn from tender.  
+The construction of cl 3.2 of the JVA  Both Ms Champion and Ms Elbourne conceded that the use of the word "sales" was somewhat inapt to describe what Paywell and Stiearc were deriving income from, since what both parties do is license the use of the Paywell Plus software to third parties, although it appears that Paywell is the more likely of the two parties to be engaged in licensing to third parties.
+ There is no dispute that the JVA has been terminated. There is no dispute that for the period prior to termination, Stiearc (and Paywell) is entitled to a 30 per cent royalty on each of items (1)(a) to (d) in [6] above. So far as (e) is concerned, there is no dispute that if Paywell or Stiearc received money from users of the software other than licensees, the other party is entitled to a 30 per cent royalty.
+ There is no dispute between the parties that after termination of the JVA, each party is entitled to a 15 per cent royalty on each new licence agreement entered into by the other ((1)(a)) and on any increase in user fees received by the other ((1)(d)). What is in dispute is Stiearc's entitlement to 15 per cent of fees paid by licensees as initial maintenance fees ((1)(b)) or additional maintenance fees ((1)(c)).  Stiearc contends that "sales" is a term of broad import and that: the use of the word "sales" in cl 3.2 had to be wide enough to include licence fees, even though technically licensing is not sale of a product; and the word "sales" is wider than "the licence and maintenance and royalty fees payable to [Paywell/Stiearc]" referred to in cll 10.1 and 10.2.
+ Paywell accepts (1) above, but argues that "sales" is more restrictive than "the licence and maintenance and royalty fees payable" and that it could not have been in the contemplation of the parties that the party whose obligation to maintain the software had ceased on termination would still receive 15 per cent of the maintenance fees.  The ascertainment of contractual intention in the present circumstances is not an easy matter, but there being no argument by either side that the clause is void for uncertainty, I must determine which of the competing constructions is to be preferred. In this task, I have regarded it as of considerable importance to focus upon the precise wording of the relevant clause, give close consideration to cll 10.1 and 10.2, and pay regard to other clauses of the JVA, particularly the Preamble and cll 2, 3, 5, 6, 7 and 9.
+ The JVA does not actually deal with the question of the maintenance or upgrading of Paywell Plus after termination of the JVA, nor does it expressly provide that after termination both parties may license Paywell Plus to third parties, but each party accepts that the other can do so and it is implicit in the provision that there will be sales of Paywell Plus that both can do so.  There are a number of matters which point to maintenance fees not being included in the word "sales".
+ "Sale" is defined in the Oxford English Dictionary as: "The action or an act of selling or making over to another for a price; the exchange of a commodity for money or other valuable consideration." Accepting that "sale" is wide enough to include the fees earned on a licence would require the "making over" to be a reference to the grant of a licence to a customer, but a fee for maintenance is in a different category.
+Mr Sullivan, a director of Paywell, gave evidence that "maintenance fee" is a term used in the software industry and normally means a fee for: "- access to corrected, updated or improved versions of the software program, as they become available during the period to which the maintenance fees apply; and - keeping the set up of the software program up to date (e.g. to reflect changes in tax rates)." (see paragraph 9.6.2 of Mr Sullivan's affidavit sworn 11 August 2009) Mr Sullivan also says: "Maintenance of software like the Product is vital to its commercial success. Maintenance is essential: - to correct errors in the software; - to keep the software up to date with legislative and regulatory requirements; - to ensure that the software remains compatible with new and updated computer operating systems; - to address the changing requirements of users; - to ensure that the software remains competitive with alternative products; and - to indicate to users and prospective users that the software is up-to-date and will remain so - and the plaintiff's obligation to maintain the Product was the fundamental ongoing role of the plaintiff under the JVA." (see paragraph 9.9 of Mr Sullivan's affidavit sworn 11 August 2009) I regard it as of considerable significance that the word "sales" is used in cl 3.2, and not the phraseology used in cll 10.1 and 10.2. I do not agree that "sales" is of wider import than the phraseology used in cll 10.1 and .2.
+ The notion that the parties viewed their rights as more constricted after termination of the JVA is reinforced by several matters: 
+Cl 3.2 reduces the level of royalties to 15 per cent from 30 per cent; 
+Cl 3.2 emphasises that in Paywell's case, it is the right to use of the
+GENSOL system which is permitted after termination of the JVA and "for which a % royalty will be payable to [Stiearc]" (there is a similar provision for
+Stiearc's use of the Paywell payroll engine). This is to be contrasted with cl .1, where royalties are framed as being paid "in consideration of the development and maintenance of [Paywell Plus]"; 
+It was accepted by both parties that after termination, Stiearc is not required to carry out development or maintenance of Paywell Plus, as required during the term of the JVA by cl 5; 
+It being agreed that Stiearc, following termination, would have no obligation to carry out work in support of Paywell Plus, I find it difficult to accept that a royalty of 15 per cent would nevertheless be payable to
+Stiearc on fees that would be derived solely by the work of Paywell - this is reinforced by the contrast between the basis for the payment in cl 3.2, on the one hand, and cl 10.1, on the other; 
+The separate role of "maintenance" in respect of Paywell Plus (as opposed to GENSOL or "the engine") is emphasised in cll 2.1, 2.3 and 2.5; 
+The fact that the JVA itself draws a distinction between licence fees and maintenance fees indicates that maintenance fees are something discrete; and 
+Ms Champion drew attention to the use of the word "sell" in Preamble A in the context of the arrangements in place between Paywell and its licensor. The phrase used is "sell and install", but I accept that by the Preamble the parties were acknowledging that Paywell has the right to sub-license the
+Paywell software. I accept too that it must have been contemplated that as between Paywell and its licensor, Paywell had the right to maintain the software, but I do not think that this offers any guidance on the use of the word "sales" in cl 3.2, other than to confirm what is accepted by the defendant - that post-termination licence fees and increase in user fees are subject to a 15 per cent royalty.  Stiearc advanced two more detailed arguments in support of its contentions as to how "sales" is to be construed: 
+Since Stiearc and Paywell jointly own the copyright in Paywell Plus,
+Paywell can only carry out maintenance on Paywell Plus (for which it receives maintenance fees from licensees) with the continuing consent of Stiearc. This is because the maintenance of computer software involves the running of that software, and if this is done without the licence of a copyright owner, there is an infringement of the copyright in the software. If Paywell does not pay
+Stiearc, as royalties, 15 per cent of the maintenance fees it receives, then
+Paywell will have used Paywell Plus for maintenance purposes without paying
+Stiearc for this use. Ms Champion, in this connection, drew attention to the provisions of the [Copyright Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca1968133/) (Cth) which now permit the limited use of computer programs without an infringement of copyright occurring, but this would not include the type of work required for maintenance: see Division 4A of [Part
+III](http://www.austlii.edu.au/au/legis/cth/consolact/ca1968133/index.html#p3) of the [Copyright
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca1968133/); and 
+Maintenance fees cannot be obtained without a licence first being granted, so licence agreements and maintenance fees are inextricably linked and both must attract the 15 per cent royalty. Further, the ongoing operation of licences to use Paywell Plus is dependent on the payment of maintenance fees by licensees. If a licensee fails to pay a maintenance fee as requested, the licence comes to an end and it is no longer able to use Paywell Plus.
+ In relation to the second argument, Ms Elbourne responded by reliance on
+The Movie Network Channels Pty Ltd versus Optus Vision Pty Ltd  <case>, where, she submitted, the New South Wales Court of Appeal rejected a contention which was analogous to the one advanced here by Stiearc.  In Optus Vision, Optus Vision agreed to pay to The Movie Network
+Channels ("TMNC"), a supplier of movie channels, a fee which was based on a formula that included a reference to "the Optus Vision retail price for the
+Movie Channels". Optus Vision did not offer movie channels as a stand alone product, but rather as part of a package which could be obtained for an extra payment in addition to the price of the basic package. TMNC contended that "the Optus Vision retail price for the Movie Channels" meant the price which a subscriber paid for the basic package plus the extra package, an approach rejected by the trial judge and by the Court of Appeal.
+ In my view, Stiearc's second argument is not at all similar to TMNC's argument in Optus Vision. Stiearc is not claiming that it is entitled to a percentage of the underlying licence fees because maintenance fees are payable - there is no dispute that Stiearc is entitled a percentage of the licence fees. Rather, Stiearc asserts that because it is entitled to royalties on the licence fees, it ought also to be entitled to royalties on maintenance fees.  I have considered Ms Champion's further arguments and they are not without substance, but they do not lead me to the view for which the plaintiff contends because: the JVA, as I have noted, does not address at all the use of Paywell Plus by either party after termination; there is no contention by Stiearc that Paywell's use of Paywell Plus for maintenance after termination of the JVA is an infringement of their joint copyright; it follows from (1) and (2) that Paywell is free to run the Paywell Plus program; the evidence as to the nature and importance of maintenance points to the fact that without such work, licence sales are unlikely to be made in the future (to the advantage of both parties), so it is to Stiearc's advantage that Paywell continues to carry out the maintenance work at Paywell's expense; and there is no evidence that it was contemplated that licences for Paywell
+Plus of necessity had to include maintenance fees in addition to a licence fee, but assuming that it should be concluded as a matter of construction of the JVA that this was contemplated, the fact that maintenance fees are inextricably linked to licences for which a licence fee is payable does not undercut the proposition that maintenance fees are, in effect, separate and discrete amounts payable for future work (that is, the correction of errors and the making of improvements, including updates) to be performed by the party earning those fees and ought not be characterised as "sales" for the reasons that I have previously set out.  
+Conclusion  In my view, "sales" of Paywell Plus do not include maintenance fees received by Paywell or Stiearc.
+ 
+Costs  I will hear the parties on the issue of costs.
+ 
+Orders  The matter should be listed for directions at a date after the accountant appointed by the parties has conducted his audit.  
+LAST UPDATED:  September 2010 * * * 

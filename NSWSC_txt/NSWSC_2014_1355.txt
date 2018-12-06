@@ -1,0 +1,561 @@
+
+
+De Gelder versus Rodger (No 2) [2014] NSWSC 1355 (3 October 2014) 
+Last Updated: 8 October 2014 |
+
+Supreme Court 
+New South Wales  
+Case Title: 
+De Gelder versus Rodger (No 2)  
+Medium Neutral Citation: <case>  
+Hearing Date(s): August 2014  
+Decision Date: October 2014  
+Jurisdiction: 
+Common Law  
+Before: 
+Hamill J  
+Decision: 
+The Review Panel Certificate issued on 4 February 2014 by the Third
+Defendant is quashed. 
+Remit the matter to the Second Defendant to be dealt with according to law. 
+The first defendant is to pay the plaintiff's costs. 
+The orders made on 30 June 2014 by Rothman J be extended until 10 October 
+Catchwords: 
+ADMINISTRATIVE LAW - [Motor Accidents Compensation Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/) - assessment of whole person impairment by review panel - judicial review of decision of review panel - jurisdictional error - relevant considerations - relevance of contrary assessment by District court Judge - relevance of evidence of witnesses called in District Court proceedings - failure to take into account relevant considerations - whether proved by failure to refer to such considerations - failure to give reasons  
+JUDGMENT
+It is an understatement to say that this case has an unfortunate history. If the object of the compensation scheme established under the [Motor Accidents Compensation Act 1999](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/) ("the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/)") was to streamline cases in which injured parties claim compensation from the third-party insurers responsible for compensating them, the chronology of this case suggests that this object may not have been achieved. 
+While the delay in having this case determined is not relevant to the decision that I have to make, it is nevertheless appropriate to set it out in short form.
+Before I do so, I observe that this is a relatively simple application for judicial review in respect of a decision made on 4 February 2014 by the third defendant, which is a medical review panel ("the panel") exercising the power of review under [s 63](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s63.html) of the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/). Both the panel and the second defendant (the Motor Accidents Authority of NSW) have filed submitting appearances. The first defendant, the driver of a vehicle involved in the subject car accident, opposes the relief sought. The summons commencing the present application for judicial review was filed on 30 April 2014. An amended summons was filed in court without objection on 20 August 2014. It sets out some six grounds upon which orders in the nature of certiorari and mandamus (as well as declaratory relief) are sought. I will deal with the particular grounds of review in due course. 
+HISTORY OF THE LITIGATION 
+The tortured history of this matter before the Motor Accidents Authority ("the MAA"), this Court and the District Court commenced in 2005. The following chronology is taken from published judgments of this Court and the Court of Appeal and from a chronology provided by the plaintiff. Unless otherwise indicated, references to section numbers are references to provisions in the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/). 
+The plaintiff was injured in a car accident on 24 August 2005. He completed an accident report form the following day. A compulsory third party claim form was completed on 1 March 2006. There arose a "medical dispute" between him and the third-party insurer: [s 57.](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s57.html)
+On 10 October 2007 the plaintiff was assessed by a Dr Graham of the medical assessment service ("MAS"): [ss 57](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s57.html), [59](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s59.html) and [60](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s60.html). For present purposes it is sufficient to note that Dr Graham assessed the plaintiff's whole person impairment ("WPI") as exceeding 10%. The first defendant lodged an application for review of Dr Graham's assessment: [s 63.](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s63.html) There was a review undertaken by a review panel on 2 June 2008. The review panel determined that the plaintiff sustained a thoracic spine injury as a result of the car accident and assessed his WPI at 20%. 
+The first defendant lodged an application for a further medical assessment. That application was accepted by a proper officer: [s 63.](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s63.html) On 28 November 2008 the proper officer referred the plaintiff for a further assessment by a Dr Trevor Best. On 30 January 2009 Dr Best issued a certificate of medical assessment concluding that the thoracic spine injury was not caused by the car accident and assessed the plaintiff's WPI at 0%. 
+On 18 March 2009 the plaintiff lodged an application for a review of Dr Best's assessment. A proper officer refused that application on 24 April 2009. The plaintiff sought a judicial review of the decision made by the proper officer and that matter came before Justice Davies on 25 September 2009 and continued for a number of days. Justice Davies gave judgment on 18 December 2009. He made orders quashing the decision of the proper officer and the further medical assessment of Dr Best and remitting the case to the MAA to be determined according to law: De Gelder versus Motor Accidents Authority of NSW  <case>
+An appeal from that decision was heard by the Court of Appeal on 20 October 2010. On 28 April 2011 the Court of Appeal upheld the appeal and set aside the orders made by Davies J: Rodger versus De Gelder & Anor  <case>; [80 NSWLR 594]
+On 2 September 2011 a claims assessor (see [s 99)](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s99.html) issued a certificate as to the assessment of the plaintiff's damages: [s 94](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s94.html), [95](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s95.html). The plaintiff did not accept that assessment.
+On 7 October 2011 the plaintiff commenced proceedings in the District Court (Chapter 4, [Part 4.5).](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/index.html#p4.5) A hearing before his Honour Judge Levy SC commenced on 21 May 2012 and the proceedings before his Honour continued until 17 August 2012. 
+On 15 October 2012 Judge Levy made interim findings in relation to the matter. Those findings included findings as to causation consistent with the earlier medical assessments but inconsistent with the medical assessment current at the time. His Honour referred the matter back to the MAS for further assessment.
+On 18 December 2012 a medical assessor (Dr Harrington) issued a further certificate concerning the physical injuries sustained by the plaintiff. That assessment determined that the plaintiff's WPI was 20%. On 7 December the first defendant lodged an application for a review of Dr Harrington's assessment. That application was granted. 
+On 21 May 2013 a review panel made an assessment to the effect that the plaintiff's WPI was 25%.
+The first defendant sought judicial review in this Court by summons. On 4 October 2013 the plaintiff consented to the orders sought by the defendant. The review panel certificate was quashed and the matter remitted to the MAS to be determined according to law.
+On 4 February 2014 a differently constituted review panel made a determination that the plaintiff's WPI was 0%. It is with that decision that I am presently concerned. 
+The plaintiff sought two different forms of review of that decision. First an order was sought from Judge Levy whereby the assessment was quashed pursuant to the provisions in [s 61(4).](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s61.html) The plaintiff also sought judicial review in this Court by summons commenced on 30 April 2014.
+By notice of motion filed 7 May 2014, the first defendant sought an order under [s 140(1)](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/s140.html) of the [Civil Procedure Act 2005](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/) transferring the proceedings in the District Court before Judge Levy to this Court. That notice of motion was heard by Rothman J on 28 May 2014. His Honour gave judgment on 30 June 2014: De Gelder versus Rodger <case> Rothman J refused the relief sought by the plaintiff but ordered that the proceedings in the District Court be stayed pending further order or determination of the proceedings that are currently before me.
+The summons with which I am concerned was the subject of helpful written submissions by Senior Counsel on both sides and an oral hearing which took the best part of a day on Wednesday, 20 August 2014. I reserved my decision. 
+By the time this judgment is published a period of nine years will have elapsed since the plaintiff was injured. Mr Semmler QC referred to this fact on at least three occasions during the course of his submissions. He also stressed on more than one occasion that the plaintiff was completely without fault in the collision which gave rise to the medical dispute between him and the first defendant. Those circumstances, whilst obviously unsatisfactory, are not relevant to the determination that I have to make. Mr Semmler acknowledged as much when I pressed him on the purpose of his repeated reference to those matters. 
+THE STATUTORY SCHEME AND THE LIMITED NATURE OF JUDICIAL REVIEW
+Before embarking on an analysis of the plaintiff's grounds for judicial review, it is necessary to consider the relevant provisions of the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/) and delegated legislation. The scheme established by the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/) has been subject to consideration in a large number of cases and it is not necessary to set out the nature of the scheme in great detail. For a helpful analysis of the scheme see the judgment of Johnson J in Allianz Australia Insurance Limited versus Crazzi & Ors <case>; [68 NSWLR 266] [10]-[13]. The decision in Allianz versus Sprod was overturned on appeal but the overview of the legislative scheme remains helpful. 
+A certificate of the kind under review is "conclusive evidence as to the matters certified in any court proceedings or in any assessment by a claims assessor": [s 61(2).](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s61.html) The circumstances in which a court may reject such a certificate are limited to a denial of procedural fairness and substantial injustice: [s 61(4).](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s61.html) If the certificate is rejected under [s 61(4)](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s61.html) the court is to refer the matter again for assessment: [s 61(5).](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s61.html) As I understand it, there is currently an application under [s 61(4)](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s61.html) for Judge Levy to reject the certificate and refer the matter back to the MAS. That application has been stayed pending the outcome of this application for review. Apart from the circumstances detailed in [s 61(6)](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s61.html) "a court may not substitute its own determination as to any medical assessment matter": [s 61(7).](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s61.html) [Section 61(6)](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s61.html) provides: "(6) However, if a certificate as to whether or not the degree of permanent impairment of the injured person is greater than 10% is rejected under subsection (4), the court may, if it considers it appropriate, substitute a determination of the court as to the degree of permanent impairment of the injured person (assessed by the court in accordance with [section )](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s133.html) instead of referring that matter again for assessment under this Part."
+Where a medical assessment is subject to review pursuant to [s 63](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s63.html) the review panel is required to undertake a de novo assessment. [Section 63(3A)](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s63.html) provides: "The review of a medical assessment is not limited to a review only of that aspect of the assessment that is alleged to be incorrect and is to be by way of a new assessment of all the matters with which the medical assessment is concerned."
+Having conducted its review, the review panel "may confirm the certificate of assessment of the single medical assessor, or revoke that certificate and issue a new certificate as to the matters concerned": [s 63(4).](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s63.html) The new certificate has the same status as a certificate under [s 61:](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s61.html) [s 63(6).](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s63.html)
+The panel has a duty to give reasons. [Section 61](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s61.html) requires a medical assessor to provide a certificate. Subsection (9) requires the certificate "to set out the reasons for any finding by the medical assessor or assessor as to any matter certified in the certificate in respect of which the certificate is conclusive evidence". [Section 63](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s63.html), relates to a review panel's power to confirm or revoke the certificate. Subsection (6) of [s 63](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s63.html) provides that [s 61](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s61.html) applies to any new certificate issued under [s 63.](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s63.html) The requirement to give reasons can be compared with other provisions of the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/). For example, a proper officer (in determining whether to order a further medical examination) is required to provide the parties with "brief written reasons" for the decision: cl 14.8 MAA Guidelines. A claims assessor has a duty to give reasons under cl 18.4 of the Claims Assessment Guidelines and must provide a certificate which sets out a number of specified matters but this can be done "as briefly as the circumstances of the assessment permits." [Section 131](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s131.html) provides that no damages may be awarded for non-economic loss (such as pain and suffering) unless the degree of permanent impairment is greater than 10%.
+The Medical Assessment Guidelines and the Permanent Impairment Guidelines (together, "the MAA Guidelines") have the status of delegated legislation: [s 44.](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s44.html) Where the guidelines are silent on an issue, the Guides to the Evaluation of Permanent Impairment (4th Edition) published by the American Medical Association (AMA 4 Guides) are to be followed: cl 1.2 MAA Guidelines. 
+The concept of "causation" in dealt with in cl 1.7 - 1.9 of the Permanent Impairment Guidelines. This involves both a "medical determination" and a "non-medical determination": cl 1.8. I will return to consider the content of these clauses. 
+The combination of the provisions in [s 61](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s61.html) (as to the status of a medical assessment) and [s 131](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s131.html) (as to the non-availability of damages for non-economic loss when the WPI is not greater than 10%) means that the assessment of the plaintiff's WPI has a significant impact on his legal rights. Consequently, there is no controversy over the proposition that such assessments must be conducted in accordance with the law and are amenable to judicial review: cf Rodger versus De Gelder <case>; <case>: "The function of a Medical Panel is to form and to give its own opinion on the medical question referred for its opinion. In performing that function, the
+Medical Panel is doubtless obliged to observe procedural fairness, so as to give an opportunity for parties to the underlying question or matter who will be affected by the opinion to supply the Medical Panel with material which may be relevant to the formation of the opinion and to make submissions to the
+Medical Panel on the basis of that material. The material supplied may include the opinions of other medical practitioners, and submissions to the Medical
+Panel may seek to persuade the Medical Panel to adopt reasoning or conclusions expressed in those opinions. The Medical Panel may choose in a particular case to place weight on a medical opinion supplied to it in forming and giving its own opinion. It goes too far, however, to conceive of the function of the
+Panel as being either to decide a dispute or to make up its mind by reference to competing contentions or competing medical opinions. The function of a
+Medical Panel is neither arbitral nor adjudicative: it is neither to choose between competing arguments, nor to opine on the correctness of other opinions on that medical question. The function is in every case to form and to give its own opinion on the medical question referred to it by applying its own medical experience and its own medical expertise."
+The plaintiff submitted that there are relevant distinctions between the legislation under consideration in Wingfoot versus Kocak and the legislation in the present case. However, the Court of Appeal considered the statutory scheme under consideration in Wingfoot versus Kocak to be substantially similar to the legislation under which the plaintiff's case is to be determined: Frost versus Kourouche  <case> at <case> (Basten JA) and [40] (Leeming JA).
+Mr Robinson submitted that a review panel under the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/) is "a quasi- judicial tribunal" with the power and obligation to determine its own processes and to make decisions based upon its collective experience. He points to the ample and diverse qualifications of the three members of the tribunal and correctly submits that it is far more qualified to come to medical determinations than is the court. 
+Whether or not one accepts the description of the review panel as a "quasi judicial tribunal", the fact is that the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/) casts upon the review panel - and not upon a judge of this Court undertaking a judicial review - the responsibility of determining the question referred to it either by an assessor or by a court. It is no part of my function to second-guess the factual determinations upon which the panel based its decision.
+It is not appropriate to parse the language of the medical assessor in the way that an appellate court might review the judgment of a single Judge. Nor is it appropriate to examine the reasons of the panel with a critical eye attuned to error. See, for example, Minister for Immigration and Ethnic Affairs versus Wu Shan Liang <case>; [185 CLR 259]; 43 FCR 280 at 287.
+In Minister for Immigration and Ethnic Affairs versus Wu Shan Liang (supra) at 271-272: "When the Full Court referred to "beneficial construction", it sought to adopt an approach mandated by a long series of cases, the best exemplar of which is
+Collector of Customs versus Pozzolanic. In that case, a full Court of the Federal
+Court (Neaves, French and Cooper JJ) collected authorities for various propositions as to the practical restraints of judicial review. It was said that a court should not be "concerned with looseness in the language ... nor with unhappy phrasing" of the reasons of an administrative decision-maker. The
+Court continued: "The reasons for the decision under review are not to be construed minutely and finely with an eye keenly attuned to the perception of error".
+
+These propositions are well settled. They recognise the reality that the reasons of an administrative decision-maker are meant to inform and not to be scrutinised upon over-zealous judicial review by seeking to discern whether some inadequacy may be gleaned from the way in which the reasons are expressed . In the present context, any court reviewing a decision upon refugee status must beware of turning a review of the reasons of the decision-maker upon proper principles into a reconsideration of the merits of the decision.
+This has been made clear many times in this Court. For example, it was said by
+Brennan J in Attorney-General versus Quin: 'The duty and jurisdiction of the court to review administrative action do not go beyond the declaration and enforcing of the law which determines the limits and governs the exercise of the repository's power. If, in so doing, the court avoids administrative injustice or error, so be it; but the court has no jurisdiction simply to cure administrative injustice or error. The merits of administrative action, to the extent that they can be distinguished from legality, are for the repository of the relevant power and, subject to political control, for the repository alone.'" [References and citations omitted]
+Many cases make this point in various ways: see, for example, Muralidharan versus Minister for Immigration & Ethnic Affairs <case>; <case> said: "The Minister urged a 'beneficial' construction of the Tribunal's reasons and referred to comments made in Minister for Immigration and Ethnic Affairs versus Wu
+Shan Liang <case>; [(1996) 185 CLR 259], in particular at 271-272. The phrase 'beneficial construction', as used in Wu Shan Liang has a specific meaning, and was certainly not intended to mean that any ambiguity in the Tribunal's reasons be resolved in the Tribunal's favour. Rather, the construction of the Tribunal's reasons should be beneficial in the sense that the Tribunal's reasons would not be over-zealously scrutinised, with an eye attuned to error. In this sense a 'beneficial' approach to the Tribunal's reasons does not require this Court to assume that a vital issue was addressed when there is no evidence of this and, indeed, the general thrust of the Tribunal's comments suggest that the issue was overlooked."
+Further, while to "fulfil a minimum legal standard, the reasons need not be extensive", "where more than one conclusion is open, it will be necessary for the [decision maker] to give some explanation of its preference for one conclusion over another": Campbelltown City Counsel versus Vegan (supra) at [121]-[122] (Basten JA).
+
+THE ISSUE OF CAUSATION AS IT PRESENTED TO THE PANEL 
+The history of the litigation which I have set out, shows that there has been substantial variations (from 0% to 25%) in the various assessments of the plaintiff's whole person impairment. Those variations arise because of the different conclusions reached by the various assessors and review panels as to whether the plaintiff's thoracic spine injury was caused by the subject car accident. 
+As a matter of fact, and generally speaking, the controversy over causation arose because the plaintiff did not immediately consult a doctor about the relevant injury. Several months later, after he had been lifting an air conditioning unit at work, the plaintiff consulted a doctor and a chiropractor. 
+Put simply then, the issue of causation concerned the question of whether the injury to the thoracic spine arose as a result of the car accident or was independent of it and, in particular, whether it was occasioned during the incident at work.
+The Permanent Impairment Guidelines provide: "Causation of injury .7 An assessment of permanent impairment is as prescribed under [section ](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s58.html) (d) of the [Motor Accidents Compensation Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/). The assessment should determine the degree of permanent impairment of the injured person as a result of the injury caused by the motor accident. A determination as to whether the claimant's symptoms and impairment are related to the accident in question is therefore implied in all such assessments.
+Assessors should be aware of the relevant provisions of the AMA 4 Guides, as well as the common law principles that would be applied by a court (or claims assessor) in considering such issues.
+ .8 Causation is defined in the Glossary at page 316 of the AMA 4 Guides as follows: "Causation means that a physical, chemical, or biologic factor contributed to the occurrence of a medical condition. To decide that a factor alleged to have caused or contributed to the occurrence or worsening of a medical condition has, in fact, done so, it is necessary to verify both of the following.
+
+The alleged factor could have caused or contributed to worsening of the impairment, which is a medical determination.
+
+The alleged factor did cause or contribute to worsening of the impairment, which is a non-medical determination".
+
+This therefore involves a medical decision and a non-medical informed judgment.
+ .9 There is no simple common test of causation that is applicable to all cases, but the accepted approach involves determining whether the injury (and the associated impairment) was caused or materially contributed to by the motor accident. The motor accident does not have to be a sole cause as long as it is a contributing cause, which is more than negligible. Considering the question "Would this injury (or impairment) have occurred if not for the accident?" may be useful in some cases, although this is not a definitive test and may be inapplicable in circumstances where there are multiple contributing causes."
+The defendant did not concede that the panel was called upon in this case to make assessments as to both medical questions and legal questions (T 50). In view of the distinction drawn in cl 1.8 between a (a) medical determination and a (b) non-medical determination and the reference to a "non-medical informed judgment", I find this stance difficult to understand or accept. The parties seemed to agree at least that clause 1.9 encapsulates "many decades of the development of the common law with respect to causation."
+It may be that this distinction between a medical determination and a non-medical (or legal) determination is important when assessing the passage from Wingfoot versus Kocak to which I have referred above given that the relevant passage makes clear that the panel in that case was determining a medical question. However that question does not need to be determined in the present case, although it may have some relevance to part of the plaintiff's argument that the review panel ought to have given some or greater consideration to the decision of Judge Levy.
+As I have said, various decision makers came to the view that the plaintiff's thoracic spine injury was caused by the car accident. Others came to a different view. Judge Levy found that causation was established. The panel found that it was not. 
+The panel had before it a vast amount of material. Included in that material was both the evidence that had been adduced in the District Court and the findings of Judge Levy. The parties agreed to place before me only a small portion of that material. This is an instance where less is, most assuredly, more. It is easy to imagine that the panel, while being generally aware of the material was not specifically focussed on relevant aspects of that material. That is not to say that if fell into legal or reviewable error as a result. However, much of the plaintiff's case is based around the suggestion that the panel failed to take into account relevant material. The Mr Robinson submitted that this is simply a submission that the panel "didn't use enough words" and that "even if the review panel's decision was considered to be erroneous in law for failure to provide adequate reasons (which it is not) it does not follow as a matter of statutory construction that such error means that the [decision of the] review panel is invalid". 
+AN OVERVIEW OF THE PARTIES' GROUNDS AND SUBMISSIONS
+The grounds for judicial review are set out in the amended summons in a narrative form. There is no succinct statement of the grounds. In summary form, and doing the best that I can to do no violence to the narrative, those grounds are as follows: "(1) The panel misdirected itself as to the law of causation by focusing on what it considered to be the absence of contemporaneous documentary evidence that the plaintiff had complained of significant localised pain in the immediate aftermath of the car accident.
+
+The panel misdirected itself as to the law governing the issue of causation by taking into account the plaintiff's inability to explain why neither Dr Goodman (a GP) nor Mr Angelopoulos (a chiropractor) had not made contemporaneous notes as to the plaintiff complaining of such pain.
+
+The panel took into account an irrelevant consideration namely the inability of the plaintiff to explain why neither Dr Goodman nor Mr
+Angelopoulos had recorded his complaints of the said pain.
+
+The panel failed to take into account relevant considerations and evidence and in particular: the contemporaneous account given by the plaintiff in his accident report completed the day after the accident in which he referred to his vehicle having been struck from behind while stationary in traffic, at a speed of approximately 90km/hr, resulting in him experiencing pains in the neck, shoulder and in the middle and lower back; the plaintiff's evidence before Judge Levy of experiencing severe and agonising pain in his thoracic spine, and other places, from the time of the accident onwards, unlike anything he had experienced beforehand; the plaintiff's evidence in the proceedings before Judge Levy that at the end of the short journey from the accident site to where he was residing he felt pain in his, inter alia, thoracic spine; the letter dated 23 May 2012 from Mr Angelopoulos portraying the
+Plaintiff's presenting problem as being gradually worsening thoracic, lower back and left-sided leg pain that immediately followed a 90km/hr high speed motor vehicle accident on 24 August 2005; 
+The evidence of the plaintiff's sister and brother-in-law before Levy SC
+DCJ which corroborated the Plaintiff's complaint of experiencing pain shortly after the accident; and the reasons of Judge Levy on the issue of causation of the thoracic spine fractures and other injuries.
+
+The panel denied the plaintiff procedural fairness by failing to draw to his attention the basis of its decision, namely that he had not complained about significant localised pain in the first instance, and then allowing him to be heard as to that matter.
+
+The reasons of the third defendant concerning the issue of causation were "grossly inadequate particularly in circumstances where Judge Levy had determined the issue of causation favourably to the plaintiff."
+The defendant disputes all of these grounds of appeal. In a response filed 30 July 2014 it asserted that the grounds of judicial review are not sufficiently particularised and says that, in truth, the plaintiff is inviting the court to engage in an impermissible merits review. It relies on the substantial body of authority to the effect that administrative decisions such as the present one ought not to be subject to minute examination and analysis.
+In relation to the third ground the defendant denies that an irrelevant consideration was taken into account. As to the fourth ground the defendant submits that the panel did not fail to take into account relevant considerations. It relies on the fact that the panel indicated (on more than one occasion) the material that it had read and considered and that material encompassed each of the sources of information which are said by the plaintiff not to have been taken into account. 
+THE EVIDENCE
+I pause to identify the evidentiary material upon which my decision is based. 
+The plaintiff read an affidavit of Mark Capolupo dated 7 August 2014 along with annexures. Paragraph 11 of that affidavit was objected to and not pressed. The defendant read an affidavit of Robert Jones dated 13 August 2014, along with relevant annexures A-C. The plaintiff also read an affidavit of Mark Capolupo dated 27 May 2014 again with annexures. When that affidavit was sought to be read the defendant objected on the basis that the annexures, comprising three volumes of material, was excessive in view of the limited nature of the review. In essence, the volumes that were annexed to this affidavit formed part of the material that was before the panel. It was obviously relevant. However, only a small amount of the material was actually read and the parties agreed that a more practical approach would be to reach agreement as to the particular parts of that material which should be placed before me. The parties filed a court book of relevant material shortly after the oral submissions were taken. 
+The final document which came into evidence was an accident investigation report completed by the plaintiff on 25 August 2005 (that is, the day after the subject car accident). Initially, there was an objection to that material on the basis that the parties were not sure whether that material was before the panel. However that objection was withdrawn and the parties have confirmed that the report was before the panel. 
+To properly understand the reasons and conclusions that I have reached, it will be helpful to set out the relevant part of the Review Panel Certificate under review. "Examination 
+Mr De Gelder was 184cm tall and weighed 87kgs. He was noted to walk with a normal gait and appeared in no distress.
+
+Cervical Spine 
+Examination of the cervical spine revealed no evidence of localized tenderness, muscle spasm or muscle guarding. Flexion and extension were decreased symmetrically by 25%. Rotation to the left and right was decreased symmetrically by 33% and associated with reports of discomfort at end of range. Lateral tilt to the left and right was also decreased symmetrically by % and associated with discomfort at end of range.
+
+Neurological examination of both upper limbs revealed normal power, tone, sensation and reflexes.
+
+Upper Limbs 
+There was no muscle wasting in either shoulder or either upper limb. Active range of movement in both shoulders was full, flexion and abduction 180, extension 50°, abduction 40°, internal and external rotation 90°.
+
+A normal range of pain free movement was noted in both elbows and both wrists.
+
+Thoracic Spine 
+Examination of the thoracic spine revealed a normal thoracic kyphosis and no evidence of scoliosis. He reported mild tenderness in the mid thoracic spine, mostly over the paravertebral and rhomboid muscles. There was no evidence of muscle spasm or muscle guarding. On questioning he believed that the tenderness was consistent with the tenderness he had initially noted in his mid back in 2005. Rotation to the left and right in the thoracic spine was symmetrical but slightly stiff at 75% of normal. He reported discomfort at end of range to left and right rotation.
+
+Lumbar Spine 
+Examination of the lumbar spine revealed a normal lumbar lordosis without evidence of muscle spasm or muscle guarding. No tenderness was reported.
+Flexion and extension were 75% of normal (symmetrical). Lateral tilt to the left and right was symmetrical and within normal range.
+
+Straight leg raising was 80° bilaterally with a negative sciatic stretch test.
+Neurological examination of both lower limbs revealed normal power, tone, sensation and reflexes. Significant wasting was noted in the left leg above the knee (4cm) and below the knees (2cm) consistent with his fractured patella at the age of 12. At the time he required arthroscopic surgery and recovery greater than 1 year. The wasting was not consistent with any lumbar spinal injury sustained in the motor vehicle accident.
+
+C. Panel Deliberations 
+Injuries - Cervical Spine - Thoracic Spine - Lumbar Spine - Right Upper Limb - Left Upper Limb - Right Shoulder - Right Wrist - Right Elbow - Left Wrist - Left Elbow - Left Lower Limb / Leg / Knee - Right Lower Limb / Leg / Knee 
+Cervical Spine: 
+The panel considered the contemporaneous medical documents within the substantial file supplied (the panel noted though that much of the documentation in the file was not contemporaneous but many years after the accident).
+ - The personal injury claim form dated 1 March 2006 which lists the injuries as including; "dislocate two lower discs, L5/S1 disc joint, muscle pain / spasms.
+ - The medical report of Dr Steven Goodman dated 11 April 2006 (for consultation on 8 December 2005) was primarily dealing with the exacerbation of his low back pain when bending forward on 30 November 2005. Dr Goodman does mention the previous car accident and states 'He told me that three months earlier he had been in an MVA - he had been hit from behind. He had had back, neck and shoulder pain for three weeks but still had pain and stiffness after sleeping for more than 5 hours" and "I think he had muscle / ligament injury to his back, neck, shoulder in MVA".
+ - The hand written clinical notes of Mr Angelo Angelopoulos, Chiropractor whom Mr De Gelder consulted in early December 2005, just over 3 months after the accident. Mr Angelopoulos initially listed the pain at L5 (lower lumbar spine). On 10 subsequent consultations between December 2005 and March 2006 he listed symptoms as being at L5 or T12. In April 2006 he first mentions symptoms at T8 as well as L5. Over 14 subsequent consultations he noted symptoms at variously T8, L4 or L5. The first mention of T5 (or T6) symptoms was in October 2006, more than 12 months after the accident and one month after his thoracic spine x-rays. No mention is made by the chiropractor concerning the cervical spine (neck).
+
+The panel considered the nature of the accident, a rear end collision, the history of immediate neck pain after the accident and the subsequent report of neck pain to Dr Goodman and concluded that there was sufficient evidence to confirm a soft tissue injury to the cervical spine causally related to the motor Accident .
+
+The panel concluded that the symptoms of the neck injury are ongoing and can now be considered as permanent for impairment assessment.
+
+The panel noted at re-examination that there was residual tenderness and stiffness in the cervical spine. The panel found no evidence of muscle spasm or muscle guarding in the cervical spine. The range of movement in the cervical spine was decreased in all 3 planes but remained symmetrical. Thus there was no evidence of non-uniform loss of range of motion. Additionally there was no evidence of non-verifiable radicular complaint.
+
+The panel noted that Assessor Harrington in his report had found DRE II without supporting reasons. Assessor Harrington had found "movements in his neck are restricted in all directions. There is no tenderness on deep palpation." The Assessor has not commented on the criteria for DRE II (muscle guarding, non-uniform loss of range of motion or non-verifiable radicular complaint), ire panel therefore cannot see how Assessor Harrington came to the decision of DRE II for the cervical spine.
+
+The panel concluded that the correct assessment of the cervical spine from
+Table 73 of the 4th Edition of the AMA Guides was DRE I or 0% WPI.
+
+Thoracic Spine 
+The panel carefully considered the medical evidence to support an injury to the thoracic spine causally related to the motor accident.
+
+The panel noted that the earliest medical documentation was that of Mr
+Angelopoulos, the chiropractor from December 2005. In his initial examination findings and chiropractor treatment plan he makes no mention of thoracic spine symptoms or signs. By the end of December 2005 there is mention of T12 but no mention of T5 or T6, the area of the compression fractures. The panel noted that Mr Angelopoulos first mentioned T5, T6 14 months after the accident.
+
+The panel noted that Dr Goodman reports seeing Mr De Gelder in December 2005 for low back pain but makes no mention of either mid back or thoracic spine symptoms or signs.
+
+The panel also notes that the personal injury claim form dated 1 March 2006 also makes no mention of mid back injury. The only injury is 2 lower discs & L5/S1. Mr De Gelder did not list an injury to his mid back or thoracic spine.
+
+The panel considered the history obtained at re-examination from Mr De Gelder when he was adamant that he had mentioned pain between the shoulder blades to both Dr Goodman and Mr Angelopoulos. He was unable to explain why neither practitioner had reported his complaint of pain. A particular difficulty that the Panel had when considering causation was that an acute traumatic fracture of cortical bone (such as vertebral fractures caused by the motor accident) typically causes significant localized pain which then resolves over 6-12 weeks. This history was not obtained from Mr De Gelder nor was there any written documentation of acute pain relating to T5 & T6.
+
+Considering the length of time since the motor accident to the date of re- examination (8.5yrs) the panel considered that more weight should be placed on the notes of Dr Goodman and Mr Angelopouios than the memory of Mr De Gelder.
+
+The panel finally considered the section dealing with causation in the MAA
+Permanent Impairment Guidelines, 1 October 2007 which under paragraph 1.8 states; 
+Causation is defined in the Glossary on page 316 of the AMA4 Guides as follows; "Causation means that a physical, chemical or biological factor contributed to the recurrence of a medical condition." To decide that a factor alleged to have caused or contributed to the occurrence or worsening of a medical condition has, in fact, done so, it is necessary to verify both of the following.
+
+The alleged factor could have caused or contributed to worsening of the impairment, which is a medical determination.
+
+The alleged factor did cause or contribute to worsening of the impairment, which is a non medical determination." 
+In answering part (a) the panel agreed that the rear end collision could have caused compression fractures in the thoracic spine, especially an individual with pre-existing osteoporosis, even though any such injury must be extremely rare, given the lack of such cases in published medical literature. In this the panel is in agreement with the report of Dr Epstein (7 March 2007), his treating Endocrinologist.
+
+When considering part (b) the panel notes that the only evidence supporting a thoracic spine injury at the time of the motor accident is the history given by Mr De Gelder. His memory though is not supported by the clinical notes of either his treating chiropractor or Dr Goodman, the GP he initially consulted.
+The panel considers that two acute spinal compression fractures would firstly have caused significant localized pain and secondly that this would have been reported to his treating practitioners and evident in their examination findings.
+
+The panel notes that compression fractures from osteoporosis can occur slowly over time without reports of pain or discomfort whereas acute traumatic compression fractures are associated with significant pain.
+
+The panel also reviewed the radiological opinion of Dr Korber who noted both the compression fractures at T5 and T6 as well as the demineralization of the bone consistent with osteoporosis. Dr Korber also stated that it was not possible to tell the age of the fractures.
+
+The panel concluded that there was no evidence to support either a soft tissue injury or acute compression fractures in the thoracic spine being causally related to the motor accident.
+
+Lumbar Spine 
+The panel noted that there was evidence of a soft tissue injury to the lumbar spine causally related to the motor accident. Both Dr Goodman and Mr
+Angelopoulos note reports of back pain and an exacerbation of back pain when bending forward on 30 November 2005.
+
+The panel noted that Mr De Gelder's soft tissue injury to the lumbar spine has mostly resolved (noting his report that his lumbar spine feels pretty good at the current time) and his re-examination findings were essentially normal.
+
+Other Areas 
+The panel noted that there was no evidence to support injuries to the right upper limb, left upper limb, right shoulder, right wrist, right elbow, left elbow, left wrist, right lower limb, right leg, right knee , left lower limb, left leg or left knee causally related to the motor accident.
+
+Additionally there were no reported ongoing symptoms in these areas nor any abnormality on physical examination." 
+GROUND 1
+The contention under this ground is that the panel's decision was predicated on, or dependent upon, its stated concern that it could find no evidence of a contemporaneous complaint by the plaintiff of acute pain in the area of the fracture to the thoracic spine at T5 and T6. The argument proceeds on the premise that the failure of the plaintiff to establish a timely or immediate complaint of such pain was determinative of the issue of causation. While I do not accept this premise, I am of the opinion that a fair reading of the certificate shows that the panel was greatly influenced by the absence (as it saw it) of evidence of a timely complaint of relevant pain.
+The weight to be given to such matters was a matter for the panel and not for this Court on judicial review. It was plainly a matter of significance and the panel was correct to consider it and to take it into account. The manner in which it did so appears to comply with the relevant guidelines. Those guidelines required the panel to consider the matter and it did so. Whilst a another decision maker may have been less influenced by the matter, that fact does not transform the question of weight to be given to the factor (or the significance of individual items of evidence) into a legal test. The panel may have been wrong but that is not a determination that I am empowered to make. Provided it applied the correct test for causation it performed its function and did not fall into legal error.
+I am not satisfied that the panel applied the wrong legal test. The way in which it took into account its finding (that there was no contemporaneous complaint) did not result in the decision being vitiated by the kind of legal error asserted in ground one.
+
+GROUND 2
+The plaintiff contends that the panel misdirected itself as to causation by taking into account the plaintiff's inability to explain why neither Dr Goodman nor Mr Angelopoulos had made contemporaneous notes of his complaints of pain in the thoracic spine. It is said that the test for causation does not involve the consideration of such a matter.
+I take a similar approach to ground 2 as I do to ground 1. Even if it is accepted that the tribunal gave too much weight to the plaintiff's inability to explain the absence of notes from the relevant health care professionals (or even if it took into account an irrelevant consideration) it does not follow that the panel applied the wrong legal test to the issue. The weight to be given to relevant matters was a matter for the panel. It is not for this Court to interfere with the fact finding process or to undertake a review of the merit of the panel's decision. As I will explain in ground 3, I do accept that there was error in the panel's approach to the plaintiff's inability to explain the absence of medical notes. However, I do not accept that ground 2 as formulated is made out and I do not accept that the panel applied the wrong legal test for causation. 
+GROUND 3
+The plaintiff's inability to explain the notes of Dr Goodman and Mr Angelopoulos was not a relevant consideration. The absence of notes may have had some relevance if treated with appropriate caution. However, the fact that the plaintiff could not explain that absence was not relevant. 
+The panel said: 
+The panel considered the history obtained at re-examination from Mr De Gelder when he was adamant that he had mentioned pain between the should blades to both Dr Goodman and Mr Angelopoulos. He was unable to explain why neither practioner had reported his complaint of pain.
+The panel went on to state that a relevant history "was not obtained from Mr De Gelder nor was there any written documentation of acute pain relating to T5 and T6". It then concluded: 
+Considering the length of time since the motor accident to the date of re- examination (8.5 years) the panel considered that more weight should be placed on the notes of Dr Goodman and Mr Angelopoulos than the memory of Mr De
+Gelder.
+I put to one side the apparent unfairness of that approach given the history of the litigation and the reasons for the delay in re-examination. 
+In Mason versus Demasi <case> Basten JA said at [2]: "2. First, the trial judge was invited to discount the appellant's oral testimony on the basis of accounts given to various health professionals, which appeared inconsistent either with each other, or with her oral testimony, or both. The difficulties attending this kind of exercise should be well-understood; as explained in the Container Terminals Australia Ltd v
+Huseyin  <case> at <case>, such apparent inconsistencies may, and often should, be approached with caution for the following reasons, amongst others: the health professional who took the history has not been cross-examined about: the circumstances of the consultation;(ii) the manner in which the history was obtained;(iii) the period of time devoted to that exercise, and(iv) the accuracy of the recording; the fact that the history was probably taken in furtherance of a purpose which differed from the forensic exercise in the course of which it was being deployed in the proceedings;(c) the record did not identify any questions which may have elucidated replies;(d) the record is likely to be a summary prepared by the health professional, rather than a verbatim recording, and(e) a range of factors, including fluency in English, the professional's knowledge of the background circumstances of the incident and the patient's understanding of the purpose of the questioning, which will each affect the content of the history."
+In Owen versus Motor Accidents Authority of NSW <case> Campbell J was dealing with a case somewhat similar to the present and said at [52]: "Moreover, the juxtaposition between the statement that the material provided by the parties had not provided any evidence to indicate that the claimed lumbar spine injury was causally related to the subject accident with the following analysis of contemporaneous documentation persuades me that the
+Review Panel identified a wrong issue, namely, did treatment providers in the first month or so following the motor accident make a record of complaints of symptoms in the lumbar spine? Undoubtedly, it was relevant to consider that material in the process of determining the right question, but it was wrong to treat this consideration as decisive, not least because [e]xperience teaches that busy doctors sometimes misunderstand or misrecord histories of accidents, particularly in circumstances where their concern is with the treatment or impact of an indisputable, frank injury: Davis v. Council of the City of
+Wagga Wagga <case> at <case>). The medical histories were taken in furtherance of a purpose which is not identical with the purpose of resolving the medical assessment matter before the Review Panel: Container Terminals Australia v. Huseyin <case> at <case>;
+Mason v. Demasi  <case> at <case> and
+Gulic v. O'Neill <case> at <case>.
+These statements were made in the context of the exercise by the Court of
+Appeal of its powers of rehearing pursuant to s.75A [Supreme Court Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/). But they are apposite to the exercise by the Review Panel of its powers under [s.63](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/s63.html) of the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/), especially subs. (3A). In my judgment the identification of this wrong issue was jurisdictional error."
+As these cases show, significant caution must be taken in considering the absence of contemporaneous medical notes. The plaintiff's inability to explain that absence was not a relevant consideration at all. 
+I would not quash the panel's decision based on this matter alone. The certificate contained a single reference to the fact that "[the plaintiff] was unable to explain why neither practitioner had reported his complaint of pain". 
+However, while I would not accept that the matters raised under grounds 2 or 3 standing alone would lead to the decision being quashed, each ground emphasises the significance that the panel placed on the absence of contemporaneous complaint. This is important when considering the substance of ground 4.
+
+GROUND FOUR
+An analysis of the Review Panel Certificate shows that the panel placed significant emphasis on the fact that it was unable to find contemporaneous records supporting the proposition that the plaintiff had complained of acute pain in the area of the fractures to his thoracic spine. As the defendant submitted, the absence of such evidence was a relevant consideration although, for the reasons stated by Basten JA in Mason versus Demasi (supra), it had to be treated with some circumspection. However, the certificate made it clear that the panel was greatly influenced by the absence of contemporaneous medical records which established a complaint by the plaintiff as to relevant pain.
+Ground 4 complains that the panel failed to take into account a number of relevant considerations and pieces of evidence. Five of the matters enumerated are items which might be said to undermine the panel's finding that there was no contemporaneous complaint and/or the inference that the panel drew from the absence of that complaint. The sixth matter falls into a different category and is the reasons of Judge Levy for his conclusion that the subject injury was caused by the car accident. This raises somewhat different considerations.
+The accident investigation report was the most contemporaneous document available to the panel. It was made the day after the car accident. In that report the plaintiff complained of pain to his middle and lower back. If that document was taken into account and rejected because it did not fit the description of a complaint of "acute pain to the area of T5 and T6", one would have expected the panel to say so and to explain why. 
+It is insufficient for the panel simply to make oblique reference to the fact that the report was before it by reference to the list of material that it had considered. It is significant that at the hearing of the case before me, neither party knew whether that report was before the panel or not. There is an indirect reference to this document when the panel said that it had considered a file numbered 2007/02/1238 and I was eventually told that exhibit A was part of that file. 
+As the plaintiff submitted, the panel's statement that it had received and considered particular documents does not preclude a finding that it failed to take it into account. In Golijan versus Motor Accidents Authority of NSW <case> Beech-Jones J said at [48]: "In this case the review panel stated that it had "considered all of the evidence". A statement to that effect does not preclude a contention such as that made by the plaintiff being accepted."
+The fact that a complaint of pain to the middle back was made the day after the collision was a relevant consideration. This is particularly so given the significance that the panel placed upon the absence of contemporaneous evidence that the plaintiff complained of the kind of pain it would have expected if the injury was caused by the accident. 
+The fourth item articulated under ground 4 is a letter from Mr Angelopoulos dated 23 March 2012. As I have said, the panel studied the notes of Mr Angelopoulos and concluded that there was no evidence in those notes to support the proposition that the plaintiff had complained to him about the kind of pain that the panel would have expected had there been an injury to the area of T5 and T6. However, the letter of Mr Angelopoulos on 23 March 2012 said this "Adam De Gelder first attended this clinic on 02/12/2005 for treatment of his lower back pain and associated left side leg pain. He explained that he had been in a motor vehicle accident on 24/08/2005 whilst working and involved high speed of around 90 km an hour and damaged his vehicle to the extent that it was written off.
+
+As well as the lower back pain, he was experiencing pain in his lower thoracic spine between T8 and T12. The pain in both areas of his spine had started immediately after his car accident and was gradually getting worse."
+Mr Robinson made reference to the fact that there was "evidence that the chiropractor is implicated in actually causing these fractures as well". I assume that the relevance of this was that Mr Angelopoulos may have been motivated to exaggerate the plaintiff's complaints on presentation. That fact, assuming it to be, did not relieve the panel from a consideration of what was clearly relevant material. 
+Again, given the reliance placed upon the absence of complaint in the notes of the chiropractor, the letter dated 23 March 2012 was a significant piece of evidence and the panel was required to take it into account. If it was to reject the evidence (because the chiropractor was possibly responsible for the injury and thus motivated to provide an erroneous account) or if it was to disregard the letter on the basis that the complaint was made many months after the car accident, or related to vertebra slightly lower on the spine, it should have articulated why. 
+Had it done so it would be easy to accept that the document had been taken into account. I do not accept that it was. Again, oblique reference to the fact that the document was before the panel-amongst literally thousands of pages of material-is insufficient to sustain a conclusion that the document was taken into account. Of course the plaintiff bears a heavy onus given the limited nature of the review and the panel's statements that certain documents were considered. I am satisfied that the letter from the chiropractor was not taken into account. 
+I accept that there may have been cogent reasons to reject the contents of the letter but I do not accept that it was open to the panel to disregard it altogether. 
+Another matter not referred to by the panel includes various passages of the plaintiff's evidence before the District Court. Those passages were as follows: 
+Q. When you were hit, you went forward and backwards? 
+A. Yeah. I recall sort of my hand coming off the wheel and either hitting the pillar or the windscreen and then I was driven back all in that same motion.
+Sort of a real quick boom boom.
+
+Q. One motion? 
+A. One motion. It felt like one motion.
+
+Q. Forward, back? 
+A. Yep 
+Q. How would you describe, as best you can remember then, the forces involved in that movement; was it a gentle movement forward and then back or what? 
+A. Severe.
+ ...
+
+Q. Have you got any clear recollection of how easy it was for you to get back to your sister's house or not? 
+A. I -I -I really don't recall those finite details in that - that initial journey.
+
+Q. All right.
+
+A. No.
+
+Q. Well, now, when you got back, this is to your sister's house at Dural, is that right-- 
+A. Yeah, that's correct.
+
+Q. Now, have you got a recollection of how you were at that stage when you finally got out of the vehicle-- 
+A. Yeah.
+
+Q.--came into the house and sat down? 
+A. I was in severe pain.
+
+Q. Where was that pain? 
+A. From - it radiated from my right arm down through my neck all the way down my body all the way down to my left leg.
+
+Q. When you say down your body, any particular part of your torso as it's going down? 
+A. Yeah, down through my thoracic and then it - it come from my lower back across to my left hip and then all the way down into my leg.
+
+Q. All right.
+
+A. It was radiating quite clearly by that stage 
+Q. Had you ever had any pain like that before-- 
+A. Never. Never.
+
+Q. --in any of those parts of your body? 
+A. Never, not like that.
+
+Q. Did you notice anything unusual about your back? 
+A. Once I sat down, yeah, my - it all went into spasm and I could almost feel all the ladders climbing up my back.
+
+Q. What, the muscles of the back?A. The muscles, yeah. That was when I sat in the lounge to sort of- 
+Q. How clear is that recollection? 
+A. Very clear - never experienced that before in my life either.
+
+Q. When you had sat down and you were experiencing these problems and symptoms, do you remember saying anything to either your sister or your brother-in-law about-- 
+A. Yeah. Yeah-- 
+Q.--how you were? 
+A.--I do. Yeah, I do recall talking about how I felt.
+
+Q. So how did the rest of the evening progress? 
+A. Not very good.
+
+Q. What do you mean by that? 
+A. I -I was in a lot of pain. I couldn't sleep so, you know, when I finally sort of took the initiative to go to bed then I couldn't sleep anyway, so it was a restless night.
+
+Q. How used you to sleep before this accident? 
+A. Pretty good.
+
+Q. Did you ever have problems getting off to sleep? 
+A. Not very often ...
+
+Q. All right. How were you feeling when you got up and had some breakfast or whatever you did and then drove to the site? How were you feeling? 
+A. Very sore.
+
+Q. Where? 
+A. Starting from the top, my left wrist was a little bit sore but my right wrist, elbow, shoulder, arm-- 
+Q. Where was the worst pain? 
+A. The worst pain was my thoracic and lower back 
+Q. Was that constant or was it intermittent or-- 
+A. No, that was constant 
+Q. Would it go away or lessen when you sat down and rested or-- 
+A. On that day? 
+Q. Yes.
+
+A. it didn't make any difference on that day. I was in agony no matter what I did.
+ [My emphasis throughout]
+The failure of the panel to make any reference to this evidence is troubling. Of more concern is the fact that there was evidence before Judge Levy from both the plaintiff's sister and brother-in-law which supported a proposition that he complained of pain in his back immediately after the motor vehicle collision. There is no reference to that evidence in the certificate at all. Once again, there is indirect reference to the fact that it was material that was before the panel. However, there is no reference to its content and no explanation as to how it bore upon the issue upon which the panel was focused.
+The evidence of Ms Young, the plaintiff's sister, included: 
+Q. But was his appearance and his behavior and demeanor and what he was saying that evening such that you thought he should see a doctor? 
+A. Yes, it was.
+
+Q. Can you remember precisely what he said to you about his condition that evening? 
+A. He - it was so long ago, to be honest can't remember what he said. I remember him being very agitated and very unsettled.
+
+Q. On subsequent occasions, subsequent to that evening 
+A. Yes.
+
+Q. --do you remember him saying anything to you about his physical condition? 
+A. We saw him the following week when he came down to stay with us and he told us that his back had been - he was - had pain in his back and l then told him, "You should go and see a doctor", and he said to me that he doesn't have time, he's got - he has to work, he can't take the time off.
+
+Q. How persistent was that response with your recollections of him before his accident, when it came to seeing doctors? 
+A. Pretty common.
+
+Q. What do you mean by that? 
+A. He - I - I myself have seen so many doctors that when somebody says or my husband says, you know, "I'm too busy, I'm" - we can be a little bit lax in actually as soon as you cut your finger going to see a doctor. Sometimes it can take quite a bit before we actually get pushed to go and see the doctor.
+
+Q. When you say "we" who are you referring to? 
+A. I'm referring to my brother and my husband and I and my family.
+
+Q. What, all three of you? 
+A. Yes.
+
+Q. You're very slow to seek medical attention? 
+A. I think we pretty much have to be lying on our death bed before we go and see a-- 
+FITZSIMMONS: I object to this, your Honour.
+
+SEMMLER: That's a somewhat colourful perhaps way of expressing her- 
+HIS HONOUR: It's a form of expression which has an inherent hyperbole, which is understandable, Mr Fitzsimmons.
+
+FITZSIMMONS: It's also the collective, your Honour, in terms of~ 
+HIS HONOUR: Mr Semmler, strictly speaking it needs to be put differently. Take the time please.
+ ...
+
+Q. But he continued over the months that followed his accident in August to stay at your house? A. Yes, he did.
+
+Q. Until indeed he was laid off? A. That's correct, yes.
+
+Q. Over that period did he make comments about his state of health? 
+A. Yes.
+
+Q. What would he say? 
+A. I would ask him how his back was doing and he would say, "It's sore" or "It's okay", but you could see that he was in pain.
+
+Q. But did he continue to walk around at night in the way he had before? A.
+Yes, he did.
+
+Q. On the squeaky floor boards? 
+A. Yes.
+
+Q. How would you describe his general demeanor in the months that followed this accident? A. He - he - he just lost his spark, he became very flat and he would - he'd come and stay at our place, he'd be up and down all night. I mean he'd leave very early in the morning to go to work.
+
+Q. In the months that followed did you encourage him to see a doctor as you had on the night of the accident? 
+A. Not so much so. It was so long ago. I know I encouraged him but not every week and not every time I saw him.
+
+Q. Was there any reason for that? 
+A. He just was - he was starting to look very - he looked in a lot of pain. You could see in his back that he was - he was not comfortable. I keep sitting in the position I see him sitting in but I can't describe it.
+
+Q. When you say - could you just do your best, how would his shoulders be in the months that followed this accident? 
+A. He went from being a very fit athlete to being very straight backed and to -he slowly just started hunching over like this.
+
+Q. As you say that you are showing a slump, a pronounced slumping of the shoulders? 
+A. Yes.
+
+Q. From a position where his shoulders would be back and his chest would be out? 
+A. That's correct.
+Mr Young, the plaintiff's brother-in-law, gave the following evidence: 
+Q. Can you remember in that period up until August 2005 he never complaining to you about any physical problems? 
+A. No. No, he never did 
+Q. Did he seem at any stage to be cautious in the way he got around? 
+A. No.
+
+Q. Do you remember the evening of 24 August? 
+A. The night of his accident? 
+Q. Yes.
+
+A. Yes.
+
+Q. Were you at home? 
+A. I arrived home just before Adam arrived home that night.
+
+Q. When he arrived, did he say something to you? 
+A. Yes, he, he explained he had an accident and he showed me his car.
+
+Q. Can you remember how long he spent showing you the car? 
+A. Ten minutes, 20 minutes.
+
+Q. How did he appear that evening when you first saw him, when he arrived and-- 
+A. He was, he was very agitated and upset and he was complaining of back and neck problems. He said he'd been hit pretty solidly from behind.
+
+Q. He had been hit pretty solidly from behind? 
+A. Yes.
+
+Q. Did he tell you what happened to him in the accident? 
+A. Yes, he said he, he got hit from behind and went forward and back, right back, whiplash in his neck.
+
+Q. As you were giving that evidence, you moved your torso forwards and then back.
+
+A. Yes.
+
+Q. Correct? 
+A. That's correct.
+
+Q. How was he that evening after showing you the damage and you went inside?
+How was he, to your recollection? 
+A. He was in a lot of pain. He, he couldn't settle. Found it very difficult to sit down and relax.
+
+Q. What would he be doing? 
+A. Get up, walk around the house, pace, try to adjust himself when he was sitting down, just trying to get comfortable pretty much.
+
+Q. When you say "adjust himself," as you were doing that, you were moving your body-- 
+A. That's correct.
+
+Q. --lifting one shoulder and then the other? 
+A. Yes.
+
+Q. Moving it forwards and back? 
+A. Yes.
+
+Q. I take it at that stage it was not unusual for you to spend a night or two at your house during a week? 
+A. That's correct.
+
+Q. When he was working in Sydney? 
+A. Yes.
+
+Q. On those previous occasions, had you noticed anything unusual about his sleeping? 
+A. No. He, he would sleep pretty solidly, undisturbed.
+
+Q. That evening of 24 August, do you have any recollection as to what happened after you and he went to bed separately? 
+A. Yes, we, we had an old house so you could hear people walking around.
+
+Q. Yes? 
+A. And I could constantly hear Adam getting up throughout the night and walking around the house because he kept-- 
+Q. Was that unusual? 
+A. Yes. Yes, it was.
+
+Q. Did you see him next morning before he left? 
+A. No. He had left well before I got up.
+
+Q. Over then the next several months, he used to continue to come to your house to spend a night or two during the week? 
+A. Yes.
+
+Q. On those occasions in the following months, did he complain of any problems that he was having? 
+A. Yes, he did.
+
+Q. What was that? 
+A. His back and neck problems.
+
+Q. How did he seem on those occasions in the months following this incident? 
+A. He was becoming more irritable and short tempered because he wasn't sleeping and he was in pain.
+
+Q. Did you at any stage suggest that he should see a doctor? 
+A. I did.
+
+Q. Do you remember doing that more than once? 
+A. Yes. Yep.
+
+Q. Can you remember what his response was? 
+A. It was pretty much, "Yeah, yeah, I'll get around to it, I'll do it, I'll do it. It'll be right. I'll sort it out." 
+Q. Right.
+
+A. Sort of just pushing me off, saying, "Yeah, yeah, I'll sort it out in my own time." 
+Q. What was it that caused you to suggest to him that he should see a doctor? 
+A. Just the, the pain he was in. You could see clearly he was in pain.
+
+Q. Based on your recollections of hearing or not hearing noises at night, how did his sleeping appear to be? 
+A. Adam's sleeping? 
+Q. In the months that followed the accident? 
+A. It was, it was the same since then. It was - he was up and disturbed throughout the night and walking around the house.
+
+Q. I think at some later stage, you moved from Kenthurst to a house that you bought at Morisset.
+
+A. Yes.
+
+Q. Correct? 
+A. Correct.
+
+Q. Have you continued to see him since you moved to Morisset from time to time? 
+A. Yes.
+
+Q. How would you describe him today in terms of his physical appearance, his demeanour compared to what he was like before this accident happened? 
+A. He, he's aged a lot. He's lost a lot of weight. He's nowhere near as free with his movements as he used to be.
+
+Q. With his movements? 
+A. Yes. Yep.
+I am persuaded that, in the circumstances of this case - including the inconsistent findings as to causation and WPI that had preceded the panel's consideration, the mountain of material before the panel and the extent to which it was persuaded or concerned by the absence of contemporaneous complaint-the panel's failure to engage with this material and to take it into account constitutes reviewable error. In view of the basis of its findings, and the importance that it gave to the lack of contemporaneous complaint, the evidence of the sister and brother-in-law should have been taken into account.
+I should add that it is not the failure to mention or take into account any particular item of evidence that has persuaded me that the decision is vitiated by error. Rather, it is the failure to take into account a relevant consideration, that is the body of evidence that was directly relevant to the question of whether the plaintiff did in fact make a relevant and contemporaneous complaint. 
+I also consider that the failure of the panel to make any reference to the considered decision of Judge Levy constituted a failure to take into account a relevant consideration. It is unnecessary to set out his Honour's reasons but the incontestable fact is that, having heard the evidence over many days, his Honour provided a reasoned and cogent explanation for his conclusion that causation was established. The panel, apart from noting (indirectly) that the judgment was amongst the material that it had, made no reference to the Judge's reasons. 
+This can be contrasted to the approach taken by the review panel (differently constituted) on 21 May 2013. (I am conscious of the fact this is the certificate which was quashed by consent on 4 October 2013). In that instance the panel made the following observation in its certificate and statement of reasons: "The Review Panel had available to it all of the reports that were available to [Justice] Levy.
+
+It is noted that Justice Levy was asked to make a judgement on whether a further assessment recommended by CARS should proceed and His Honour was not asked specifically to deal with the issues of causation. However, [Justice]
+Levy did make expansive comments regarding issues of causation, specifically with respect to the thoracic spinal injury. In so doing, [Justice] Levy had available to him the medical evidence that the Review Panel had for this review.
+ [Justice] Levy's considerations regarding causation, particularly with respect to the thoracic spinal fractures in the light of the underlying osteoporosis which pre-existed the subject accident is noted but the Review Panel is not bound by the decisions of [Justice] Levy, since they are interim findings.
+From the Panel's perspective, they are persuasive but not binding on Assessor
+Harrington's Certificate or ultimately the Panel's decision.
+
+Nevertheless, the Panel has reviewed the documentation including the medical documentation available and taken into account also the previous certificate of 10 October 2007 in which a Review Panel found there to be thoracic spinal fractures caused by the subject accident and that panel also found lumbar spine soft tissue injury which was rated at 0% whole person impairment.
+
+This Review Panel has taken into consideration the medical evidence that is presented and has also noted with interest the summation of [Justice] Levy in analysing each of the items of medical evidence that were available to him (all of these reports are also found within the substantial documentation sent to the Review Panel).
+
+The Panel agreed that the osteoporotic spine of itself was not caused by the subject accident but it was plausible that the compression fractures of T5 and
+T6 (i.e. 5th and 6th thoracic vertebrae) were caused by the subject accident.
+
+The Panel is mindful of paragraphs 1.7 to 1.9 of the MAA Permanent Impairment
+Guidelines regarding causation of injury, noting that the medical determination is that "The alleged factor could have caused or contributed to worsening of the impairment as opposed to "the alleged factor did cause or contribute to worsening of the impairment which is a non medical determination, i.e. as per a legal determination."
+The certificate from which that passage was taken was quashed (by consent) in an earlier application to this Court for judicial review. By citing it, I do not mean to suggest in any way that the panel (in the present case) was obliged to make a similar statement. In particular, the panel was charged with the statutory duty or command to make its own assessment. It was not bound by Judge Levy's findings and it was open to the panel to be unpersuaded by his Honour's reasons. Plainly, it was lawful for the panel to come to a different conclusion to his Honour. 
+In contending that there was no reviewable error in the failure of the panel to refer to Judge Levy's decision or the reasons behind it, the defendant (appropriately) places great reliance on the observations by the High Court in Wingfoot versus Kocak at [47] that: "It goes too far, however, to conceive of the function of the Panel as being either to decide a dispute or to make up its mind by reference to competing contentions or competing medical opinions. The function of a Medical Panel is neither arbitral nor adjudicative: it is neither to choose between competing arguments, nor to opine on the correctness of other opinions on that medical question. "
+The defendant also relied on the observation at [56] that a: "Medical Panel explaining in a statement of reasons the path of reasoning by which it arrived at the opinion it formed is under no obligation to explain why it did not reach an opinion it did not form, even if that different opinion is shown by material before it to have been formed by someone else".
+So much may be accepted. However, the High Court went on to say at [57]: "The nature of the question referred to a Medical Panel, and the way that question was addressed by other medical practitioners in opinions supplied to a Medical Panel, might allow an inference to be drawn, on the balance of probabilities in a particular case, that the reasoning in fact adopted by a
+Medical Panel in arriving at its own differing opinion is not adequately reflected in its written statement of reasons. An inference might be drawn, for example, that the reasoning involved one or more steps not reflected in the written statement of reasons either at all or in sufficient detail to allow a court to see whether a Medical Panel made an error of law in those steps. That is not this case".
+While the High Court did not consider that the circumstances prevailing in Wingfoot versus Kocak allowed for the inference of error, the circumstances in the present case are quite different. The panel was called upon (by the guidelines) to consider both a "medical decision" and "a non-medical informed judgment". The case had a significant history of contradictory findings. The panel answered the medical question (could the car accident have caused the injury?) favourably to the plaintiff. The non-medical (legal) question (did the car accident cause the injury) had, most recently been considered by Judge Levy who had heard extensive evidence on the the issue and resolved the matter in favour of the plaintiff. 
+I have concluded that, in the circumstances of this case, the failure to engage with the reasoning of Judge Levy and the failure to refer to or consider the considerable body of evidence running counter to the proposition that the plaintiff made no relevant contemporaneous complaint constitutes a failure to take into account a relevant consideration. 
+GROUND 5
+I do not accept the submission that the plaintiff was denied procedural fairness. The panel examined him and asked him about its concern that it could find no evidence of complaint about significant localised pain. 
+I accept the defendant's submission that there was no obligation, having reached its conclusion, to put the plaintiff on notice of it or to give him an opportunity to (further) address its concerns. To accept the plaintiff's submission on this issue is contrary to the purposes and scheme of the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/).
+I would reject ground 5.
+
+GROUND 6
+In the way the case was presented, ground 6 was really couched in the alternative. In other words, if I was not satisfied that the panel erred in failing to take into account Judge Levy's findings and reasons-ground 4(f) -the plaintiff submitted that there was error in the failure to provide reasons for coming to a different conclusion.
+While it is strictly unnecessary to decide the issue, I am satisfied that the panel's reason were inadequate in this regard. It is impossible from the reason to understand the pathway of reasoning which led the panel to its conclusion. By way of example, if it was to proceed on the basis that no complaint was made to the chiropractor, how was that conclusion reached in the face of the chiropractor's letter to the contrary? Similarly, how was the conclusion (that there was no relevant complaint) reached in the face of the accident report (Ex A) and the evidence of the plaintiff, the sister and the brother-in-law that complaint was made shortly after the accident? 
+CONCLUSIONS AND ORDERS
+I am satisfied that ground 4 and, in the alternative, ground 6 have been established. The panel failed to take into account relevant considerations. Further, or alternatively, the panel failed to provide adequate reasons in accordance with its obligations under the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/). The plaintiff sought declaratory relief as well as orders in the nature of certiorari and mandamus. If the latter orders are made, the declaratory relief is unnecessary. I propose simply to quash the Review Panel Certificate and to remit the matter to the Authority to be dealt with according to law. No order was sought in this regard (and I make none), but it may be considered prudent for the review panel to be constituted by different members. 
+The orders I make are as follows: * (1) The Review Panel Certificate issued on 4 February 2014 by the Third Defendant is quashed.
+
+Remit the matter to the Second Defendant to be dealt with according to law.
+
+The First Defendant is to pay the plaintiff's costs.
+
+The orders made on 30 June 2014 by Rothman J be extended until 10
+October 2014.
+ * * * 

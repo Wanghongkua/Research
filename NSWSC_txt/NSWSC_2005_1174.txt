@@ -1,0 +1,127 @@
+
+
+Ingot Capital Investments Pty Ltd and Ors versus Macquarie Equity Capital
+Markets Limited and Ors [2005] NSWSC 1174 (17 November 2005) 
+Last Updated: 21 November 2005 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: Ingot Capital Investments Pty Ltd & Ors versus Macquarie Equity
+Capital Markets Limited & Ors <case>  
+CURRENT JURISDICTION: Equity Division 
+Commercial List  
+FILE NUMBER(S): 50169/01  
+HEARING DATE{S): 17/11/05  
+JUDGMENT DATE: 17/11/2005  
+PARTIES: 
+Ingot Capital Investments Pty Limited ACN 006 538 147 (First Plaintiff) 
+Stocks Convertible Limited (formerly AOIT Limited) Company No. 3241668 (Second
+Plaintiff) 
+ASC Pty Limited ACN 003 573 475 (Third Plaintiff) 
+Stocks Convertible Trust plc (formerly Australian Opportunities Investment
+Trust plc) (Fourth Plaintiff) 
+Eastern States Securities Limited (Fifth Plaintiff) 
+Ingot Capital Management Pty Limited ACN 066 017 712 (Sixth Plaintiff) 
+Macquarie Equity Capital Markets Limited ACN 001 374 572 (First Defendant) 
+Macquarie Equities Limited ACN 002 574 923 (Second Defendant) 
+Macquarie Bank Limited ACN 008 583 542 (Third Defendant) 
+Udayan Daniel Ghose (Fourth Defendant) 
+Jonathan Paul Beach (Fifth Defendant) 
+Azmin Firoz Daya (Sixth Defendant) 
+Craig Deery (Seventh Defendant) 
+Michael J Morrissey (Eighth Defendant) 
+William Peck (Ninth Defendant) 
+Paul Laurence Williams (Tenth Defendant) 
+Peter Aroney (Eleventh Defendant) 
+John Trowbridge Consulting Pty Limited ACN 002 135 471 (Twelfth Defendant) 
+Patrick Murray and the persons listed in Schedule "B" to the summons (Thirteenth Defendant) 
+Andrew Mutton and the persons in NSW listed in Schedule "A" to the summons (Fourteenth Defendant)  
+JUDGMENT OF: Einstein J  
+LOWER COURT JURISDICTION: Not Applicable  
+LOWER COURT FILE NUMBER(S): Not Applicable  
+LOWER COURT JUDICIAL OFFICER: Not Applicable  
+COUNSEL: 
+Ms L McCallum SC (Applicant: New Cap Reinsurance Corporation Limited (In
+Liquidation) 
+Mr L Menzies (Respondent: Guy Carpenter & Company Limited)  
+SOLICITORS: 
+Henry Davis York (Applicant) 
+TressCox Lawyers (Respondent)  
+CATCHWORDS: 
+Practice and Procedure 
+Inspection and forensic examination of electronic back up files said to be damaged 
+Failure to comply with Courts orders 
+Courts power to order defence to be struck out 
+Overriding Purpose of [Civil Procedure Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/) and Rules of Court  
+ACTS CITED:  [Civil Procedure Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/)  
+DECISION: 
+Orders made for filing and service of affidavits to be made by appropriate persons able to answer questions concerning whereabouts of tapes.  
+JUDGMENT:  
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+COMMERCIAL LIST  
+Einstein J  
+Thursday 17 November 2005 ex tempore 
+Revised 18 November 2005  /01 Ingot Capital Investments Pty Limited & Ors versus Macquarie Equity Capital Markets Limited & Ors  
+JUDGMENT  
+The notice of motion  There is before the Court a notice of motion filed on 17 November 2005 under cover of which New Cap Reinsurance Corporation Limited (In Liquidation) ["NCRA"], seeks the following order against Guy Carpenter & Company
+Limited ["Guy Carpenter UK"]:  "that Guy Carpenter UK produce for inspection and forensic examination by
+Forensic Data Services Pty Limited on such terms as to confidentiality as are approved by the Court, the data tape/s on which are held the documents listed as item 292 in an undated List of Documents which has been filed in these proceedings on behalf of Guy Carpenter UK and verified by an affidavit of Ms
+Michele Pullan sworn 17 August 2005."  As will become apparent from what follows the position before the court on the hearing of the motion is that it will become necessary for the application for that order to be deferred.  The data tape/s [which I will describe as a matter of convenience as "the tapes"] are sought for the purpose of inspection and forensic examination as part of NCRA's interlocutory procedures in propounding the 33rd cross-claim brought by it against Guy Carpenter UK as second cross defendant.  
+The background  There is some history to the current motion. This is the second occasion on which the Court has been approached by NCRA for these materials, a notice of motion filed on 23 August 2005 having sought discovery inter alia of documents within the following classes:  "for the period 1 February 1998 to 21 April 1999, all relevant e-mail accounts or archived e-mail records, including any back-up versions of such accounts or records where a version has been irreparably damaged."  Nicholas J heard that motion on 8 September 2005 and in addition to ordering that the cross defendants to the 33rd cross-claim give additional discovery of two classes of documents, ordered that on or before 4 p.m. on 22 September,
+Guy Carpenter UK file and serve an affidavit explaining the steps taken by or at its request to retrieve the documents numbered 292 in its List of
+Documents.  Document 292 was described in the following terms:  "Original archived emails and electronic diaries of Guy Carpenter UK personnel for the period 1 February 1998 to 21 April 1999."  No issue has arisen in terms of the relevance of those materials and as NCRA has contended, the nomination of those materials in the discovery list pre- supposes their relevance. Further the period identified mirrors the period nominated in categories of discovery formulated by NCRA and consented to by the Guy Carpenter parties, being the period from, roughly, the commencement of negotiation of the transaction sued upon, until the appointment of the administrator (who later became the liquidator).  Paragraph 6 of the original List of Documents filed by Guy Carpenter UK asserted that the electronic file on which the documents numbered 292 in
+Schedule 2 were stored had become irreparably damaged over time and was not recoverable.  On 5 October 2005, McDougall J retrospectively extended the time for compliance with the orders of Nicholas J. Relevantly, in respect of Guy
+Carpenter UK, the time for compliance with orders 1, 2 and 3 was extended until 4.00pm on 12 October 2005.  
+The affidavit of Mr Small  On 6 October 2005, the solicitors for Guy Carpenter UK in purported compliance with order 3 of the orders of Nicholas J, sent to the solicitors for NCRA an affidavit of Mr Nathaniel Small sworn on 3 October 2005.  That affidavit relevantly is in the following terms:  "Employment History 
+I have been employed by the Marsh organisation for some 9 years. Guy
+Carpenter U.K. is one of the various companies within the Marsh (MMC) organisation. I will be leaving Marsh to take up new employment on 10 October 
+I began my employment at Marsh working on the client facing business aspects of the organisation. Thereafter I became part of the information services team at Marsh that primarily provided support (including information technology support) for the offices of the various Marsh entities in London. 
+I am not an I.T. technical specialist. At the relevant times my role within the management services function was entitled "Incident Problems and
+Changes Manager". One of my key responsibilities was to essentially identify external technical specialists (and outsource to them for investigation and solution) for I.T. and other support system problems that could not be rectified by the operational personnel within the Marsh organisation.  
+Attempts at restoring Guy Carpenter emails 
+In either late September or early October 2003 I was contacted by Derek
+Cooper who worked on the I.T. side of Guy Carpenter U.K. He had been instructed to conduct a search for emails that should have been stored on back-up tapes that covered the email system for Guy Carpenter U.K. in 1998 and 
+My understanding is that all emails sent to or from an account of a Guy
+Carpenter U.K (or for that matter, a Marsh) employee are saved onto back-up tapes that are kept for an extended period of several years from their creation at an off-site storage facility. The back-up tapes are labelled according to the dates of the material that is stored on them. 
+The file in question was known as "MLANDATA". This denotes that the information stored on the tapes comprised in essence the entire database of
+Guy Carpenter U.K. email messages over the period of the dates by which the tapes were labelled. 
+As Marsh Operations were unable to access the material on the tapes using in-house methods, I was brought in as an intermediary to ascertain if there was an external contractor with a superior level of expertise who would be in a better position to access the material on the tapes if that was at all possible. 
+I was not personally involved in the selection of the tapes subject of the enquiry. To the best of my knowledge, these tapes were selected by Marsh
+Operations at the request of Derek Cooper or one of his team and referred to me for onward reference.  
+Testing undertaken by Computacenter (UK) Ltd 
+I arranged for the tapes to be sent to Miles Rudge at Computacenter (UK)
+Ltd. ("Computacenter"). Mr Rudge and his team were well known to me as experts in data recovery. Marsh had used Computacenter for similar data recovery attempts previously and found them to be one of the best and most reliable resources available for this type of work. 
+As is stated in Mr Rudge's email to me dated 13 October 2003 (which is annexed hereto), Computacenter ran a diagnostic test on the tapes. In my experience this was a standard procedure undertaken to establish if there was any material on the relevant tapes that was not corrupt and that could be further accessed. The results of this test (as also recorded in Mr Rudge's email) was that nothing was recoverable and that there was not realistic prospect that the situation would be improved if further tests were conducted.
+My recollection is that Computacenter concluded that there was simply no structure left on the tapes that would support an attempt at the recovery of any materials. 
+I informed Derek Cooper of the outcome of the Computacenter investigation by my email of 14 October 2003 (which is also found within the email correspondence annexed hereto). My understanding was that a decision was then taken to not pursue the matter further."  
+The affidavit does not comply  It is clear that the affidavit does not comply with the terms of the order made by Nicholas J. That order expressly required that the affidavit be sworn in accordance with the requirements of Rule 35.3 of the UCPR explaining the steps taken to retrieve the documents. Rule 35.3 of the UCPR provides that "subject to any order of the Court, the person by whom an affidavit is made must be a person having knowledge of the facts deposed to in the affidavit".
+The material facts for present purposes concerned the steps taken by or at the request of Guy Carpenter UK to retrieve the tapes.  The shortcomings of the affidavit are as follows:  * Mr Small himself identifies Mr Derek Cooper as the person who had been instructed in September or early October 2003 to conduct a search for e-mails that should have been stored on backup tapes that covered the e-mail system for Guy Carpenter UK in 1998 and 1999. Mr Small was not himself personally involved in the selection of the tapes to be the subject of the examination as to whether or not they were corrupt or could be further accessed.  * Mr Small does not give the source of the information deposed to in paragraphs 8, 9, and 10. Indeed without identifying the source of his knowledge, he specifically deposes [in paragraph 11] to the tapes having been selected by Marsh Operations at the request of Mr Cooper or one of his team. Mr Cooper, identified as a person who "worked on the IT side at Guy Carpenter UK" reported to an unidentified person on 23 October 2003 as to the attempts to recover the data stored on those tapes [Annexure A to Mr Small's affidavit at page 41 of KXB1].  * Mr Small clearly accepts that he is not an IT specialist.  * It seems plain from his affidavit that he does not have direct knowledge of the tests which were undertaken at his request.  These are not minor issues where a party has been ordered to file and serve an affidavit in compliance with the UCPR rules and where the final hearing of the proceedings is presently on foot.  
+The later events  Nor is the position since the serving of Mr Small's affidavit satisfactory.
+The relevant correspondence passing between the solicitors for NCRA, Henry
+Davis and York, and the solicitors for Guy Carpenter UK, TressCox, is before the Court appended to or exhibited to the affidavits mobilised on the hearing of the motion.  On 7 October 2005, Henry Davis York wrote to TressCox expressing the view that the affidavit of Mr Small did not provide enough information for them to conclude that further tests on the archived tape would be futile and seeking urgent instructions as to whether Guy Carpenter UK would consent to produce the tape to a data recovery expert nominated by Henry Davis York upon the giving of appropriate undertakings to protect any confidential information contained on the tape.  By letter dated 17 October 2005, TressCox communicated its client's refusal to accede to that request.  In response to a further letter from Henry Davis York of 18 October 2005 communicating NCRA's intention to approach the Court for orders that the tape be produced to the Court on terms, TressCox responded by stating, for the first time, that Guy Carpenter UK did not know the whereabouts of the "tapes", if they still existed, and could not ascertain where they might be.  Unexplained this revelation coming forward in this context at this stage, gives the Court very considerable grounds for concern.  By letter of 25 October 2005 Henry Davis York wrote to TressCox pointing out that the 18 October 2005 facsimile for the first time advised that Guy
+Carpenter UK was no longer aware of the whereabouts of the tapes "if they still exist" and could not ascertain where they may be. Henry Davis York continued:  "Apart from the fact that we would have expected your client to have informed us of this material fact at the outset, and not to wait to disclose this information only as a result of our client's insistence on inspecting the tapes, the suggestion that the tapes cannot be located is, without further explanation, inconsistent with the evidence given in paragraph 8 of Mr Small's affidavit to the effect that such "backup tapes....are kept for an extended period of several years from their creation at an offsite storage facility."  Mr Little, the solicitor for Guy Carpenter UK, has now deposed that shortly after receipt of Henry Davis York's letter of 7 October 2005, he started making inquiries regarding the present whereabouts of the tapes through Guy
+Carpenter's local solicitor in London. He deposes as follows:  "5. Shortly after receipt of HDY's letter dated 7 October 2005 which contended that the affidavit of Nathaniel Jay Small sworn on 3 October 2005 was insufficient, I started making enquiries regarding the present whereabouts of the tapes through Guy Carpenter's local solicitor in London. He has informed me and I verily believe that he has spoken with the personnel at
+Marsh Operations (Guy Carpenter is part of the Marsh & McLennan Companies group of companies) who are responsible for storage of tapes of this kind for
+Guy Carpenter and that they have informed him that:  they do not know the whereabouts of the tapes;  they are arranging a search of a storage room of miscellaneous tapes which holds 200 boxes with approximately 50 tapes in each box; and  they cannot give an estimate of how long it would take to search this room. 
+Although my client cannot give an estimate of how long it would take to complete its search, it consents to providing the affidavit on the basis of the current status of its search at that time."  Use by Mr Little of the term "started" [making the relevant enquiries] provides further grounds for special concern in the instant environment.  The 'overriding purpose' of the [Civil Procedure Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/) and of the rules of court in their application to civil proceedings is set out namely in [s.56](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/s56.html) "to facilitate the just, quick and cheap resolution of the real issues in the proceedings". Parties to civil proceedings are under a duty to assist the court to further that overriding purpose and to that effect to participate in the processes of the court and to comply with directions and orders of the court. The timely disposal of proceedings at a cost affordable by the respective parties comprises one of the important aspects of case management dealt with in [s.
+.](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/s57.html)
+The court in determining whether to make any order or to give any direction is required to seek to act in accordance with the dictates of justice: [s.58(1).](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/s58.html)
+For the purpose of determining what are the dictates of justice in a particular case, the court may have regard to the degree to which the respective parties have fulfilled their duties under [s.
+(3)](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/s56.html) and to the degree of injustice that would be suffered by the respective parties or either of them as a consequence of any order or direction. [Section (1)](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/s61.html) gives the court power by order to give such directions as it thinks fit for the speedy determination of the real issues between the parties to proceedings. [Section (3)](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/s61.html) gives the court power, if a party to which a direction has been given fails to comply with a direction to strike out a defence and to give judgment accordingly or to make such other order or give such other direction as it considers appropriate.  
+A serious situation  As I have said the Court has power in an appropriate case to order that a defence of a party which has failed to comply with a material interlocutory order be struck out. There should be no doubt of the seriousness of the situation should the orders which the Court now proposes to make not be complied with to the letter. The fact that the continued hearing is anticipated to occupy several months even before the anticipated opening of
+NCRA's case, provides no excuse whatever for the failure of Guy Carpenter UK to comply with orders of the Court in a matter concerning tapes outside of the jurisdiction, if they still exist. It is imperative that the NCRA and the
+Court be placed in a position in which there can be no doubt whatever but that the most urgent and strenuous steps be demonstrated to have been taken by
+Guy Carpenter UK to explain, to the letter, by sworn affidavits made by the persons capable of being located having direct knowledge of the following:  i. Details of the whereabouts of the tapes;  ii. Details of the identity and addresses of persons contacted in order to give the details referred to in I;  iii. Where the persons so contacted have not been able to be located, details of the precise inquiries made to locate such persons;  iv. A precise description of the content of the miscellaneous tapes situate in the storage room referred to in paragraph 5 of the affidavit of Mr Little of November 2005;  v. A precise description on affidavit by persons who have personally searched that storage room, explaining what they did and when and with what result;  vi. A precise description of what other storage rooms or archives if any are believed to possibly hold the tapes now being sought by NCRA;  vii. Detail of what is the source of any information that other storage rooms or archives may or may not hold those tapes.  [this detail to be sworn to by persons best able in the circumstances to answer the question]  Where the answers to these questions are said to be practicably only able to be given by persons with indirect knowledge of the facts, each of those persons with that indirect knowledge will be required to make an affidavit swearing to the indirect knowledge which they have, identifying that knowledge and identifying all the facts matters and circumstances known to them relevant to the acquisition of that indirect knowledge.  
+Time for compliance of orders to be made  Ms McCallum has indicated that NCRA is particularly anxious to ensure  that before the end of this year's court term, the material information be provided by Guy Carpenter UK.  
+Orders  The Court orders as follows: 
+Order that Guy Carpenter & Company Limited on or before 13 December file and serve affidavits disclosing the facts and matters described in sub-paragraphs i - vii of this order, such affidavits to be made by such persons capable of being located who have direct knowledge of those facts and matters:  i. Details of the whereabouts of the data tape/s on which are held the documents listed as item 292 in an undated List of Documents which has been filed in these proceedings on behalf of Guy Carpenter UK and verified by an affidavit of Ms Michele Pullan sworn 17 August 2005;  ii. Details of the identity and addresses of persons contacted in order to give the details referred to in i;  iii. Where the persons so contacted have not been able to be located, details of the precise inquiries made to locate such persons;  iv. A precise description of the content of the miscellaneous data tape/s situate in the storage room referred to in paragraph 5 of the affidavit of Mr
+Little of 16 November 2005;  v. A precise description on affidavit by persons who have personally searched for data tape/s in that storage room, explaining what they did and when and with what result;  vi. A precise description of what other storage rooms or archives if any are believed to possibly hold the data tape/s now being sought by NCRA;  vii. Detail of what is the source of any information that other storage rooms or archives may hold those data tape/s. 
+Order that where the detail of the facts described in Order 1 are said to be practicably only able to be given by persons with indirect knowledge of the facts, Guy Carpenter & Company Limited cause to be filed and served on or before 13 December 2005 affidavits made by those persons with that indirect knowledge deposing to the indirect knowledge which they have, identifying that knowledge and identifying all the facts matters and circumstances known to them relevant to the acquisition of that indirect knowledge. 
+Grant leave to Guy Carpenter & Company Limited to apply for an extension of the times for the filing and service of the affidavits the subject of orders 1 and or 2. 
+Stand over the further hearing of the notice of motion to 3:45 p.m. on 15
+December 2005. 
+Reserve costs  
+I certify that paragraphs 1- 26  are a true copy of the reasons  for judgment herein of  the Hon. Justice Einstein  given on 17 November 2005 and  revised 18 November 2005  
+Susan Piggott 
+Associate  November 2005  
+LAST UPDATED: 18/11/2005 * * * 

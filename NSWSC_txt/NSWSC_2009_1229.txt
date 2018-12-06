@@ -1,0 +1,192 @@
+
+
+Australian Securities and Investments Commission versus Rich [2009] NSWSC 1229 (18 November 2009) 
+Last Updated: 3 May 2012 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Australian Securities and Investments Commission versus Rich <case> 
+This decision has been amended. Please see the end of the judgment for a list of the amendments.  
+JURISDICTION: 
+Equity  
+FILE NUMBER(S):  /01  
+HEARING DATE(S):  - 8, 13 - 17, 20 - 23, 29 - 30 September 2004, 5 - 8, 11 - 15, 18 - 20, 25 - October 2004, 1 - 5, 8 - 10, 12, 15 - 18, 22 - 25, 29 - 30 November 2004, 1 - 2, 7, 14 - 15 December 2004, 31 January 2005, 4, 7, 16, 28 February 2005, 7 - 8, 10 - 11, 21 - 23, 30 March 2005, 5 - 7, 18 April 2005, 2, 5, 11, 16 - ,23 - 24, 27 May 2005, 15 - 16, 20 - 22 June 2005, 4 - 5, 7 - 8, 11 - 15, 25 - 26 July 2005, 8 - 9, 11 August 2005; 26 - 29 September 2005, 4 - 7, 10 - 11, , 17 - 21, 25 - 28, 31 October 2005, 1, 3 - 4, 9 - 10, 14 - 18, 22 - 24, 28, November 2005, 1 -2, 5 - 6, 8 - 9, 12 - 13, 16 December 2005, 30 January , 1 - 2, 6 - 9, 13 February 2006, 5 April 2006, 2, 13 - 16, 19 - 22, 26 - June 2006, 3 - 6, 10 - 13, 17 - 18, 20, 24 - 26, 28 July 2006, 1 - 3, 7 - , 14, 17, 21 - 23, 28 - 31 August 2006, 1, 4 - 7, 11 - 13, 15, 18, 20 - 21, November 2006, 5 - 6, 14 - 15 February 2007, 30 March 2007, 21 May 2007, 6 - 8, 20 - 21 August 2007 
+London hearing 24 - 26, 30 - 31 August 2005, 1 - 2, 5 - 6 September 2005  
+JUDGMENT DATE:  November 2009  
+PARTIES: 
+Australian Securities and Investments Commission (Plaintiff) 
+John David Rich (First Defendant) 
+Mark Alan Silbermann (Fourth Defendant)  
+JUDGMENT OF: 
+Austin J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+R B S Macfarlan QC with J P A Durack (Plaintiff) 
+D L Williams SC with M J Steele and S A Goodman (First and Fourth Defendants)  
+SOLICITORS: 
+Georgina Hayden, Solicitor for Australian Securities and Investments
+Commission (Plaintiff) 
+Thompson Eslick (First and Fourth Defendants)  
+CATCHWORDS: 
+CORPORATIONS  civil penalty proceedings  statutory duty of care and diligence - standard of care  duty of skill  whether res ipsa loquitur applicable  scope of "business judgment rule"  application of statutory standard to financial management of large international corporate group over a period of months 
+PRACTICE AND PROCEDURE  pleadings  principles regarding unpleaded case and lack of particulars  application to complex pleading and long trial 
+EVIDENCE  onus and standard of proof in civil penalty proceedings  rules in Blatch versus Archer, Jones versus Dunkel and Browne versus Dunn in civil penalty proceedings  duty of fairness of regulator as plaintiff in civil penalty proceedings  
+LEGISLATION CITED:  [Civil Procedure Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/) , [ss ](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/s14.html), [56](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/s56.html), [57](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/s57.html), [58](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/s58.html),
+Sch 6  [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth), [ss ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s5.html), [180](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s180.html), [206C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s206c.html), [1305](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1305.html), [1317G](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1317g.html), [1317H](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1317h.html), [1317L](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1317l.html), [1399](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1399.html), [1400](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1400.html) 
+Corporations Law, [ss ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s232.html),
+EA, 1317ED, 1317FA  [Evidence Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ea199580/) , [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/ea199580/s140.html)  [Judiciary Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ja1903112/) (Cth), [ss
+ZF](http://www.austlii.edu.au/au/legis/cth/consolact/ja1903112/s55zf.html), [55ZG](http://www.austlii.edu.au/au/legis/cth/consolact/ja1903112/s55zg.html), [55N](http://www.austlii.edu.au/au/legis/cth/consolact/ja1903112/s55n.html) 
+Uniform Civil Procedure Rules , rr 14.7, 15.1  
+CASES CITED: 
+Abigroup Contractors Pty Ltd versus Sydney Catchment Authority (No 3) [(2006) 67
+NSWLR 341]; <case> 
+Adler versus ASIC [(2003) 46 ACSR 504]; <case> 
+Adler versus Director of Public Prosecutions [(2004) 185 FLR 443]; <case> 
+Allianz Australia Insurance Ltd versus GSF Australia Pty Ltd [(2005) 221 CLR ]; <case> 
+Allied Pastoral Holdings Pty Ltd versus FCT <case> 
+Apollo Shower Screens Pty Ltd versus Building & Construction Industry Long
+Service Payments Corporation <case>; [(1990) 97 ALR 555] 
+ASIC versus Adler [(2002) 41 ACSR 72]; <case> 
+ASIC versus Doyle [(2001) 38 ACSR 606]; <case> 
+ASIC versus Loiterton <case> 
+ASIC versus MacDonald [(2008) 68 ACSR 126]; <case> 
+ASIC versus Macdonald (No 11) [(2009) 71 ACSR 368]; <case> 
+ASIC versus Maxwell [(2006) 59 ACSR 373]; <case> 
+ASIC versus Plymin [(2003) 46 ACSR 126]; <case> 
+ASIC versus Plymin (No 1) [(2003) 21 ACLC 700]; <case> 
+ASIC versus Rich [(2003) 44 ACSR 341]; <case> 
+ASIC versus Rich [(2003) 44 ACSR 682]; <case> 
+ASIC versus Rich [(2005) 188 FLR 416]; <case> 
+ASIC versus Rich [(2005) 53 ACSR 752]; <case> 
+ASIC versus Rich <case> 
+ASIC versus Rich <case> 
+ASIC versus Rich <case> 
+ASIC versus Rich <case> 
+ASIC versus Rich <case> 
+ASIC versus Rich <case> 
+ASIC versus Rich <case> 
+ASIC versus Rich <case> 
+ASIC versus Rich <case> 
+ASIC versus Rich <case> 
+ASIC versus Rich <case> 
+ASIC versus Rich <case> 
+ASIC versus Rich <case> 
+ASIC versus Rich <case> 
+ASIC versus Rich <case> 
+ASIC versus Rich <case> 
+ASIC versus Rich <case> 
+ASIC versus Rich <case> 
+ASIC versus Vines [(2003) 48 ACSR 282]; <case> 
+ASIC versus Vines [(2003) 48 ACSR 322]; <case> 
+ASIC versus Vines [(2005) 55 ACSR 617]; <case> 
+ASIC versus Vines [(2006) 58 ACSR 298]; <case> 
+Australian Competition and Consumer Commission versus Australian Safeway Shores Pty
+Ltd [(2001) 119 FCR 1]; <case> 
+Australian Postal Commission versus Hayes <case>; <case>; <case> 
+CEO of Customs versus Labrador Liquor Wholesale [(2003) 216 CLR 161] 
+Chappel versus Hart (1998) 195 CLR 232; [1998] HCA 55 
+Chief Executive Officer of Customs versus Labrador Liquor Wholesale Pty Ltd [(2004) CLR 161]; <case> 
+Clarkson versus DPP <case>; <case>; [(1993) 118 ALR 248]; <case> 
+Cubillo versus Commonwealth <case>; [[2003] 2 All ER 736] 
+Daniels versus Anderson [(1995) 16 ACSR 607]; [(1995) NSWLR 438] 
+Daniels versus Anderson [(1995) 37 NSWLR 438]; [(1995) ACSR 607] 
+Darbyshire versus Leigh [[1896] 1 QB 554] 
+Davy versus Garrett [(1878) 7 Ch D 473] 
+Deangrove Pty Ltd (recs and mgrs apptd) versus Buckby [(2006) 56 ACSR 630]; <case> 
+Dennis versus Australian Broadcasting Corporation <case> 
+Deputy Commissioner of Taxation versus Clark [(2003) 57 NSWLR 113]; <case> 
+Digi-Tech (Aust) Ltd versus Brand [(2004) 62 IPR 184]; <case> 
+Donoghue versus Stevenson <case>; [[1932]
+AC 562] 
+Downey versus Crawford [(2004) 51 ACSR 182]; <case> 
+Drummoyne Municipal Council versus Australian Broadcasting Corporation [(1990) 21
+NSWLR 135] 
+Dyers versus The Queen [(2002) 210 CLR 285] 
+East-West Airlines (Operations) Ltd versus Commonwealth of Australia <case> 
+Fabre versus Arenales <case>; <case> 
+Gold Ribbon (Accountants) Pty Ltd (in liq) versus Sheers <case> 
+Goldberg versus Ng <case>; <case>; <case> 
+Hksar versus Lee Ming Tee <case>; [[2004] 1 HKLRD 513] 
+Ho versus Powell [(2001) 51 NSWLR 572]; <case> 
+Hughes Aircraft Systems International versus Airservices Australia <case>; <case>; [325 F.3d 795] (7th Circ, 2003) 
+In re WorldCom, Inc Securities Litigation <case> 
+Kingham versus Cole <case> 
+Koheler versus Cerebos (Australia) Ltd [(2005) 222 CLR 44] 
+Liberato versus R [(1985) 159 CLR 507] 
+Macdonald versus ASIC [(2007) 65 ACSR 299]; <case> 
+Manly Council versus Byrne <case> 
+McCall versus Scott 239 F 3d 808 (6th Circ 2001); 
+Melbourne Steamship Co Ltd versus Moorehead [(1912) 15 CLR 333] 
+Minister for Immigration & Multicultural Affairs versus B <case>; [(2000) 105 FCR 304] 
+Mulligan versus Coffs Harbour City Council [(2005) 223 CLR 486] 
+MWJ versus The Queen [(2005) 80 ALJR 329] 
+National Australia Bank Ltd versus Rusu [(1999) 47 NSWLR 309]; <case> 
+National Companies and Securities Commission versus News Corp Ltd [(1984) 156 CLR ]; <case> 
+Neat Holdings Pty Ltd versus Karajan Holdings Pty Ltd [(1992) 67 ALJR 170] 
+Nowlan versus Marson Transport Pty Ltd [(2003) 53 NSWLR 116]; <case> 
+O'Reilly versus State Bank of Victoria Commissioners [(1983) 153 CLR 1] 
+Oshlack versus Richmond River Council [(1998) 193 CLR 72] 
+Overend & Gurney Co versus Gibb & Darby [(1872) LR 5 HL 480] 
+Pacific National (ACT) Ltd versus Queensland Rail [(2005) 215 ALR 544]; <case> 
+Palmer versus Dolman <case> 
+Patrick versus Capital Finance Pty Ltd <case> 
+Payne versus Parker [[1976] 1 NSWLR 191] 
+People's Department Store Inc versus Wise [[2004] 3 SCR ](http://scc.lexum.umontreal.ca/en/2004/2004scc68/2004scc68.html "View
+Case" ) 
+Permanent Building Society (in liq) versus Wheeler [(1994) 11 WAR 187] 
+Permanent Building Society versus Wheeler [(1994) 11 WAR 187] 
+R versus Birks [(1990) 19 NSWLR 677] 
+R versus Chin [(1985) 157 CLR 671] 
+R versus Leyland Justices; ex parte Hawthorn <case>; <case>; <case>; <case> 
+R versus Ward [[1993] 1 WLR 619] 
+Rales versus Blasband [634 A.2d 927 (Del] 1993) 
+Re B (Children) (Sexual Abuse: Standard of Proof) [[2008] 3 WLR 1] 
+Re City Equitable Fire Insurance Company Ltd [[1925] Ch 407] 
+Re Coles & Ravenshear [[1907] 1 KB 1] 
+Re Dawson (dec' d); Union Fidelity Co Ltd versus Perpetual Trustee Co Ltd [[1966] 2
+NSWR 211] 
+Re H (Minors) (Sexual Abuse: Standard of Proof) <case> 
+Reid versus Kerr <case> 
+Rishmawi versus Minister for Immigration and Multicultural Affairs <case> 
+Seneviratne versus R <case> 
+Shalhoub versus Buchanan <case> 
+Shaw versus R [(1952) 85 CLR 365]; <case> 
+Silvia versus Commissioner of Taxation <case> 
+Smith versus Samuels [(1976) 12 SASR 573] 
+Smith versus Van Gorkom [488 A.2d 858 (Sup] Ct Del, 1985) 
+South Australia versus Marcus Clark <case>; [(1996) 19 ACSR 606]; <case> 
+The Duke Group Ltd (in liq) versus Pilmer [(1994) 15 ACSR 255]; (2006)
+SASR 364 
+The Queen versus Apostilides [(1984) 154 CLR 563] 
+Thomas Witter versus TBP Industries Ltd [[1996] 2 All ER 573] 
+Timbs versus Shoalhaven City Council [(2004) 132 LGERA 397]; <case> 
+Trade Practices Commission versus Legion Cabs (Trading) Co-operative Society Ltd <case>; [(1978) 35 FLR 372] 
+Travel Compensation Fund versus Tambree [(2005) 224 CLR 627] 
+Trevitt versus NSW Tafe Commission [[2001] NSWCA 363] 
+Trust Co of Australia versus Perpetual Trustees WA Ltd [(1997) 42 NSWLR 237] 
+Unioil International Pty Ltd versus Deloitte Touche Tomatsu (A Firm) [(1997) 17 WAR ] 
+Vairy versus Wyong Shire Council [(2005) 223 CLR 422] 
+Vines versus ASIC (2007) 62 ACSR 1; <case> 
+Vines versus ASIC [(2007) 63 ACSR 505]; <case> 
+Vines versus ASIC <case> 
+Vrisakis versus Australian Securities Commission [(1993) 11 ACSR 162]; [(1993) 9
+WAR 395](/cgi-bin/LawCite?cit=%281993%29%209%20WAR%20395 "View LawCiteRecord" ) 
+Watson versus Foxman <case> 
+White versus Overland <case> 
+Whitehorn versus The Queen [(1983) 152 CLR 657] 
+Whitlam versus ASIC [(2003) 57 NSWLR 559]; <case> 
+Williams versus Keelty <case>; [(2001) 111 FCR 175]; [184 ALR 411] 
+Wyong Shire Council versus Shirt [(1980) 146 CLR 40] 
+Ziems versus The Prothonotary [(1957) 97 CLR 279] 
+Zoia versus Secretary, Department of Education, Employment and Workplace Relations <case>  
+TEXTS CITED:  
+DECISION: 
+Judgment to be entered for the first and fourth defendants  
+JUDGMENT:  
+TABLE OF CONTENTS  [DETAILED TABLE OF CONTENTS](1229.pdf)  [INTRODUCTION](12292.pdf)  [PLEADINGS](12293.pdf)  [ISSUES ABOUT EVIDENCE](12294.pdf)  [MANAGEMENT, DIRECTORS, FINANCIAL ORGANISATION AND SHARE PRICE](12295.pdf)  [WITNESSES](12296.pdf)  [THE YEARS 1995 TO 1999](12297.pdf)  [THE YEAR 2000](12298.pdf)  [JANUARY 2001](12299.pdf)  [ONE.TEL'S CIRCUMSTANCES AT THE END OF JANUARY 2001](122910.pdf)  [FEBRUARY 2001](122911.pdf)  [ONE.TEL'S FINANCIAL CIRCUMSTANCES AT THE END OF FEBRUARY 2001](122912.pdf)  [MARCH 2001](122913.pdf)  [ONE.TEL'S FINANCIAL CIRCUMSTANCES AT THE END OF MARCH 2001](122914.pdf)  [APRIL 2001](122915.pdf)  [ONE.TEL'S FINANCIAL CIRCUMSTANCES AT THE END OF APRIL 2001](122916.pdf)  [MAY 2001](122917.pdf)  [AFTER MAY 2001](122918.pdf)  [CREDITORS](122919.pdf)  [DEBTORS AND PROVISIONING](122920.pdf)  [EARNINGS AND OTHER FINANCIAL ISSUES](122921.pdf)  [LIQUIDITY](122922.pdf)  [MR CARTER'S EVIDENCE](122923.pdf)  [DUTY OF CARE AND DILIGENCE AND THE BUSINESS JUDGMENT RULE](122924.pdf)  [OTHER MATTERS](122925.pdf)  [CONCLUSIONS](122926.pdf)  [APPENDIX A](122927.pdf)  [APPENDIX B](122928.pdf)  [APPENDIX C](122929.pdf)  [APPENDIX D](122930.pdf)  
+AMENDMENTS:  /11/2009 - Revised to amend incorrect paragraph numbers from Chapter 3 onwards. No other changes. - Paragraph(s) From Chapter 3 onwards  /11/2009 - Coversheet amended to note additional counsel. - Paragraph(s) n/a  
+LAST UPDATED:  November 2009 * * * 

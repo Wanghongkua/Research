@@ -1,0 +1,186 @@
+
+
+Odyssey Re (Bermuda) versus Reinsurance Australia [2001] NSWSC 266 (12 April )
+
+Last Updated: 19 April 2001 
+NEW SOUTH WALES SUPREME COURT 
+CITATION: Odyssey Re (Bermuda) versus Reinsurance Australia <case> 
+CURRENT JURISDICTION: Equity Division 
+FILE NUMBER(S): 3016/00 
+HEARING DATE{S): 26 March 2001 
+JUDGMENT DATE: 12/04/2001 
+PARTIES: 
+Odyssey Re (Bermuda) Ltd (Company No 161930) (Appellant) 
+Reinsurance Australia Corporation Limited (Respondent) 
+JUDGMENT OF: Windeyer J 
+LOWER COURT JURISDICTION: Supreme Court (Master) 
+LOWER COURT FILE NUMBER(S): 
+LOWER COURT JUDICIAL OFFICER: Master Macready 
+COUNSEL: 
+Mr T G R Parker (Appellant) 
+Mr J T Gleeson SC with him Mr R Dick (Respondent) 
+SOLICITORS: 
+Allen Allen & Hemsley (Appellant) 
+Phillips Fox (Respondent) 
+CATCHWORDS: 
+CORPORATIONS LAW - statutory demand - whether claim for indemnity sum under contract of reinsurance a claim for debt 
+CONTRACTS - contract for reinsurance - claim for breach - whether claim for liquidated or unliquidated sum 
+INSURANCE - reinsurance - contract for reinsurance - breach - whether creates debt 
+INSURANCE - reinsurance - whether failure to provide inspection under contract gave rise to genuine dispute 
+ACTS CITED: 
+Alexander versus Ajax Insurance Co Ltd [(1956) 56 VLR 436] 
+Edmunds versus Lloyd Italico e L'Ancora Cia di Assicurazioni e Riassicurazioni SpA [[1986] 2 All ER 249] 
+E Pellas & Co versus Neptune Marine Insurance Co <case>; [(1848) CB 391](/cgi-bin/LawCite?cit=%281848%29%206%20CB%20391 "View LawCiteRecord" )
+
+Larratt versus Bankers and Traders Insurance Company <case>; [(1941) 41 SR NSW 215] 
+Livingston versus Scottish Union and National Insurance Co [(1901) 18 WN NSW ]
+
+Penrith City Council versus GIO [(1991) 24 NSWLR 566] 
+DECISION: 
+See paragraph 22 
+JUDGMENT: 
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+WINDEYER J 
+THURSDAY 12 APRIL 2001 /00 ODYSSEY RE (BERMUDA) LTD (COMPANY NO 161930) versus REINSURANCE AUSTRALIA CORPORATION LIMITED 
+JUDGMENT 
+Outline This is an appeal from a decision of Master Macready, setting aside a statutory demand pursuant to s459G of the Corporations Law. He did so, first because he held there was no debt due by the defendant, and secondly because he held that there was a genuine dispute about the liability of the plaintiff to pay the amount of the demand. The amount claimed in the demand was claimed to be due under a contract of reinsurance. The extraordinary thing about this case is that it is accepted that if certain affidavit evidence sought to be read was admissible on the application to set aside the demand, it would have been sufficient to establish a genuine dispute as to liability and the demand would have been set aside. It would follow that in any winding up proceedings based upon presumed insolvency for failure to pay under the demand, the material in those affidavits would be read, if leave were granted - as one would expect it would be - and the winding up proceedings would be dismissed provided that the re-insurer could establish it was solvent. In fact leave would not be necessary in the case of some of the material as it was not available when the demand was served and where that material established new grounds of dispute it seems on the present state of authority, that it would not be necessary to establish solvency before those grounds could be relied upon. In the proceedings the subject of appeal, the plaintiff did not need to prove solvency as it was the plaintiff seeking to set aside the demand.
+
+Facts Odyssey Re (Bermuda) Limited (Odyssey), the appellant, reinsured with
+Reinsurance Australia Corporation Limited (REAC) part of its liability under policies of reinsurance issued by it to certain primary insurers. Odyssey made a claim on reinsurance in respect of claims made after an earthquake in Turkey in 1999.
+ The insurance documentation consisted only of a signed slip. The full policy terms are not agreed, but for the purpose of these proceedings it is accepted that they include certain terms which I will set out in subsequent paragraphs.
+One of the risks re-insured was a US$10 million reinsurance policy under which the risk on reinsurance was fifty percent. Liability under that policy was only triggered if there were an "original insured market loss from a single natural peril" equal to or greater than US$5 billion in respect of losses occurring within Europe and Japan and US$1 billion in respect of losses occurring elsewhere in the world excluding the United States of America. The epicentre of the earthquake was in that part of Turkey which is situated in
+Asia Minor. If upon the true construction of the policy the natural peril occurred in Europe then there would have been no liability under the reinsurance treaty in question. On the assumption that the loss occurred in
+Asia, the condition for triggering liability based on the insured market loss arising from the natural peril was over the US$1 billion figure.
+ The relevant clauses of the policy, accepted for the purposes of this appeal are set out in paragraph 15 of the decision of the learned Master and are as follows: 
+Article 1 Insuring Clause "The Reinsurers hereby agree to indemnify the Reinsured for that part of their
+Ultimate Nett Loss which exceeds USD250,000 or equivalent in other currencies on account of each and every loss occurrence but not exceeding USD10,000,000 or equivalent in other currencies Ultimate Nett Loss on account of each and every loss occurrence (subject to the provisions of Article 12 .
+
+Article 3 Territorial 
+This Agreement shall apply to losses occurring as follows:- 
+SECTION A - Europe and Japan.
+
+SECTION B - Rest of the World excluding United States of America (50 States).
+
+Article 5 Ultimate Nett Loss 
+The term "Ultimate Nett Loss" shall mean the sum actually paid by the
+Reinsured in settlement of losses or liability after making deductions for all recoveries, all salvages and all claims upon other reinsurances, whether collected or not, and shall include all costs and adjustment expenses arising from the settlement of claims other than the salaries of employees and the office expenses of the Reinsured.
+
+All salvages, recoveries or payments recovered or received subsequent to a loss settlement under this Agreement shall be applied as if recovered or received prior to the aforesaid settlement and all necessary adjustments shall be made by the parties hereto. Provided always that nothing in this clause shall be construed to mean that losses under this Agreement are not recoverable until the Reinsured's Ultimate Nett Loss has been ascertained.
+ ...
+
+Article 9 Warranties 
+It is hereby warranted as follows: 
+No loss shall attach hereunder unless the Reinsured sustain loss from two or more original risks involved in the same loss event. The Reinsured shall be the sole judge as to what constitutes a risk.
+
+It is a condition that this Agreement shall pay only in the event of their being an estimated Original Insured Market Loss resulting froth a Natural
+Peril equal to or greater than USD5,000,000,000 in respect of losses occurring with Section A of the Territorial Scope or equivalent in other currencies using the Rates of Exchange (mean) ruling in London at the date of loss and
+USD1,000,000.000 in respect of losses occurring within Section B of
+Territorial Scope or equivalent in other currencies using the Rates of
+Exchange (mean) ruling in London at the date of loss. If on the aforesaid dates such rates are not obtainable, the rates for the previous day for which such rates are published shall be taken.
+
+In establishing the total amount of the Original Insured Market Loss,
+Reinsurers hereon shall accept the figure as published by SIGMA (a publication of the Swiss REAC Corp). In the event of a market loss which solely affects the US Virgin Islands and/or Puerto Rico, Reinsurers shall accept the figure as published by Property Claims Service.
+
+Provisional settlement hereon when the loss is first estimated by SIGMA and/or
+Property Claims Service.
+
+Final evaluation of the loss shall be the figure published in the 1999, 2000, or 2002 year applicable Handbook/Publication, whichever being relevant, but not later than within 24 months of the expiry of this Agreement. If the estimate for the loss occurrence is subsequently revised to below
+USD5,000,000,000 in respect of losses occurring with Section A of the
+Territorial Scope or USD1,000,000,000 in respect of losses occurring within
+Section B of Territorial Scope then the Reinsurers shall be entitled to a return of funds paid by virtue of the original estimate being in excess of
+USD5,000,000,000 in respect of Section A of Territorial Scope and USD ,000,000,000 in respect of Section B of Territorial Scope 
+Loss date to be commencing date shown in SIGMA and/or Property Claims Service.
+
+In the event that the loss information is not available from SIGMA and/or
+Property Claims Service an alternative source will be used (such alternative to be an Insurance Publication, if available) subject to the agreement of the
+Reinsurers and Reinsured, or in the event of a lack of agreement, will be referred to a court of arbitration, but not before 12 months from the date of
+Original Loss.
+
+Article 16 Loss Settlement 
+All loss settlements made by the Reinsured provided the same are within the terms of the original policies and/or contracts or as provided in Article 7 (Extra Contractual Obligations Clause) and within the terms of the Agreement, shall be binding upon the Reinsurers and amounts falling to the share of the
+Reinsurers shall be payable by them upon reasonable evidence of the amount paid being given by the Reinsured.
+
+Article 18 Access to Records Clause 
+The Reinsurers may by a duly appointed representative inspect, at any reasonable time at the head office of the Reinsured, or at the place where they may be kept, any records or documents which relate to business covered under this Agreement, provided always that the Reinsurers shall have given to the Reinsured not less than forty eight (48) hours prior notice of their intentions so to do.
+
+It is agreed that the Reinsurers' right of inspection shall continue as long as either party remains under any liability arising out of this Agreement.
+
+Article 22 Arias Arbitration Clause 
+All disputes and differences arising under or in connection with this
+Agreement shall be referred to arbitration under Arias Arbitration Rules.
+ ...
+
+The seat of arbitration shall be London.
+
+The proper law of this Agreement shall be the law of England.
+
+Article 23 Proper Law and Jurisdiction 
+This agreement shall be governed by and construed in accordance with English
+Law under the jurisdiction of the English Courts. The Arbitration Tribunal shall also be English Law and Jurisdiction.
+ REAC has not written any new business since early 2000 and is in a state of what is described in the insurance world as "a run off of its liabilities". In the process it had entered into discussions with insured companies seeking to commute its total liabilities to those companies by payment of lump sums. In doing this it had commenced such discussions with Odyssey prior to notification or claim in respect of the Turkish earthquake, which claim was made in March 2000. On a number of occasions after 18 May 2000 REAC had asked to inspect the records of Odyssey pursuant to its rights under Article 18 and this had been refused pending payment of the claim based on the earthquake. It was determined by the Master that such inspection was sought not only for commutation but for verification of the Turkish earthquake claim. That finding was open and must stand.
+ The Master found as a fact that by 18 April Odyssey had provided "reasonable evidence of the amount paid" as required by Article 16. This finding was not challenged.
+ By statutory demand dated 9 June 2000 Odyssey demanded from REAC, the sum of
+US$4,144,628.41 being the fifty percent share of a total loss claim of US$10 million after deduction of a sum of US$1,710,743.17 apparently claimed as due to another company in the Odyssey group of re-insurers.
+
+Arguments before the Master The grounds upon which REAC claimed that the statutory demand should be set aside were as follows:
+That the amount claimed in the demand was not a debt within the meaning of s459E of the Corporations Law;
+That a refusal to allow inspection pursuant to Article 18 of the policy led to an inference that there was a genuine dispute about the debt;
+That the issue of the demand was in breach of contract because this contract provided (i) that jurisdiction was vested in the English courts, and the contract provided that all disputes should be determined by arbitration in London, applying the English law, so the issue of the demand in
+Australia was an abuse of process;
+That the affidavit in support of the demand was defective;
+That the proceedings should be stayed by virtue of the provisions of [s7](http://www.austlii.edu.au/au/legis/cth/consolact/iaa1974276/s7.html) of the [International Arbitration Act ](http://www.austlii.edu.au/au/legis/cth/consolact/iaa1974276/); and
+That affidavits filed after the twenty eight day period from the service of the demand establish a genuine dispute about the claims under the demand.
+ The Master decided questions 1 and 2 in favour of REAC. On questions 3, 4 and 5 he found in favour of Odyssey. He did not decide question 6.
+
+Was there a debt due The first question for decision is whether the demand served by Odyssey on
+REAC was for a debt REAC owed to Odyssey that was due and payable. The learned
+Master decided that it was not. On that basis in accordance with s459H of the
+Corporations Law he stated that there was a genuine dispute in respect of the amount of the debt claimed in the demand or, in accordance with s459J(1)(b) that there was some other reason why the demand should be set aside. It does not matter on which ground he found. If the demand was not for a debt then it was not a valid demand.
+ In coming to his decision the Master dealt first with various arguments as to whether there could be debt without an arbitrator's award, whether a claim for payment under an insurance policy was a claim for a liquidated amount or for unliquidated damages and whether the word "debt" in s459 should have some meaning attributed to it different from the meaning which has generally been ascribed to claims under the heading "debt or liquidated demand". I consider that the Master was correct in his decision, but as the matter was argued in some slightly different order I will treat it somewhat differently. I should add at this stage that I was greatly assisted by the clear, careful and succinct arguments of counsel on both sides, which has made it much easier to come to a decision. That argument of course covered all the questions before the Master, but as I have come to the view that his decision as to whether or not there was a debt is correct it will not be necessary to consider the arguments advanced on the other matters, although I should point out that the respondent filed a notice of contention claiming that there were four additional grounds which would justify the decision of the Master namely: a. That the issue of the statutory demand prior to obtaining a binding London arbitration award was a breach of contract justifying setting aside the demand; b. That the issue of the demand was a threat to bring winding up proceedings and that such proceedings would be stayed under [s7](http://www.austlii.edu.au/au/legis/cth/consolact/iaa1974276/s7.html) of the [International Arbitration Act ](http://www.austlii.edu.au/au/legis/cth/consolact/iaa1974276/) this being a reason to set aside the demand; c. That the affidavits filed outside the statutory period should have been considered; and d. That the purpose of the statutory demand was to progress the interests of
+Odyssey in commutation discussions, and thus as the procedure was used for an improper use the demand should be set aside.
+ The first argument of counsel for the appellant, Odyssey, was based on
+Article 16 of the proffered contract. Counsel argued that the Master had found that by 16 April 2000 reasonable evidence of the amount paid pursuant to loss settlements in respect of the earthquake had been given to REAC and the share of those payments was known and therefore was immediately payable pursuant to that Article. Counsel argued, I think quite correctly, that Article 18 rights were entirely separate from the obligations under Article 16 and it was clear from the second paragraph of Article 18 that any adjustments required as a result of the inspection would be brought to account in determining the ultimate net loss under Article 5 in respect of which indemnity was granted under Article 1. He said that the final sentence of Article 5 made it perfectly clear that there was a liability to make payment and a right to receive payment under Article 16 without the ultimate net loss having been ascertained and that is clearly correct. His argument then was that upon that basis the sum claimed in the demand was a sum certain payable pursuant to
+Article 16 and was thus a debt which could be made the subject of a demand under s459E of the Corporations Law.
+ I do not consider that Article 16 can be considered in total isolation. It is part of a contract of reinsurance which is one type of insurance contract.
+It is what is usually described as a "follow the settlements" clause. The reinsurer cannot dispute settlements which are within the terms of the original policies and within the terms or confines of the reinsurance policy.
+Subject to those matters being ascertained the reinsurer is bound to pay upon receipt of reasonable evidence of the amount paid by the insured. This was clearly explained in the judgment of Lord Mustill in Hill versus Mercantile and
+General Reinsurance Company plc [[1996] 1 WLR 1239] at 1252-4, where a question arose as to whether a reinsured, claiming under a "follow the settlements" clause, was entitled to enter summary judgment upon proof of settlements made.
+ The question is whether a claim under Article 16 is a claim for a debt.
+While the respondent does not accept that claims for debt and claims for liquidated damages are one and the same thing, its principal argument was that actions under policies of insurance, including policies of reinsurance, are claims for unliquidated damages for breach of contract through failure to pay.
+ Apart from one decision to which I will come, every case to which counsel referred on this subject held that a claim under an insurance policy was a claim under a contract of indemnity where the consideration moving from the insured was paid as the price for the indemnity given such a claim was one for unliquidated damages. The only possible exception to this is a claim made for a total loss under a valued policy. The first case that I have found in this
+State is Livingston versus Scottish Union and National Insurance Co [(1901) 18
+WN NSW 275.] Many of the relevant cases were referred to by Giles J in
+Penrith City Council versus GIO [(1991) 24 NSWLR 566], in the following passage, which appears at page 568 and which is quoted in paragraph of the judgment of the learned Master: 
+There is a fundamental flaw in these submissions. It is not in question that the plaintiff was entitled to indemnity when the Mitora claim was made against it, or when it gave notice of the claim to the defendant, in the sense that it was then entitled to the benefit of the defendant's promise to indemnify it against the claim. But the plaintiff's cause of action was for unliquidated damages for breach of contract: see Luckie versus Bushby <case>; [(1853) 13 CB 864]; [138 ER 1443]; E Pellas & Co versus Neptune Marine Insurance Co [(1879) 5
+CPD 34];
+William Pickersgill & Sons Ltd versus London and Provincial Marine and General
+Assurance Co Ltd [[1912] 3 KB 614] at 622;
+Chandris versus Argo Insurance Co Ltd [[1963] 2 Lloyd's Rep 65] at and Reynolds versus Phoenix Assurance Co Ltd [[1978] 2 Lloyd's Rep 440] at
+It had to establish a contract (the policy) by which the defendant promised to do something (indemnify it against Mitora's claim), and breach of that contract (failure to indemnify it against Mitora's claim). It could then recover the loss suffered as a consequence of that breach. The plaintiff's cause of action accrued upon breach. Thus it must be asked what the defendant was required to do in performance of its promise, and when it failed to do what was required of it. Only when the defendant failed to do what was required of it could a cause of action for damages for breach of contract accrue to the plaintiff. There was no cause of action simply because Mitora made its claim or the claim was notified to the defendant - the defendant could have thereafter fully performed its promise.
+ Some of the cases referred to by Giles J, and many others, were considered by Sholl J in Alexander versus Ajax Insurance Co Ltd [(1956) 56 VLR 436] at 445-450 in a judgment dealing with the question of whether an action for indemnity for total loss under a fire insurance policy was a claim for liquidated damages.
+After a careful review of all the authorities, many of which dealt with the availability of set off for unpaid premiums, His Honour found that it was clear upon the authorities to which he had referred, and he thought clear upon principle, that a default judgment entered upon the basis a claim under a policy was for liquidated damages must be set aside. Mr Parker, in his careful argument for the appellant, pointed out that in at least one of those cases, namely E Pellas & Co versus Neptune Marine Insurance Co [(1879) 5 CPD ], it was conceded the claim was for unliquidated damages. Nevertheless the position is that in all of them it was held or conceded that a claim under a policy of insurance granting certain indemnity in consideration of payment of premiums was a claim of unliquidated damages for breach of contract in the event of non-payment. The one exception is a claim for total loss under a valued policy: Alexander versus Ajax Insurance Co Ltd at p445-446; Irving v
+Manning <case>; [(1848) 6 CB 391.] Mr Parker pointed out that the cases relied upon by Giles J and Sholl J were claims under policies of marine or fire or accident insurance. That is, I think, correct but more recently the question was visited by the Court of
+Appeal in England in Edmunds versus Lloyd Italico e L'Ancora Cia di Assicurazioni e Riassicurazioni SpA [[1986] 2 All ER 249.] This was a claim under a policy for reinsurance. There was no dispute about the amount of the claim, the only disputed claim being one for interest because the principal sum under the policy had been paid but not accepted in full settlement. It is not necessary to go into the somewhat complicated facts which depended upon relevant legislation. However, at page 250 the Master of the Rolls Sir John Donaldson said: 
+One might well think that a sum due under an insurance policy constituted a debt. On this assumption, the plaintiff's solicitors were entitled to appropriate the drafts to the principal sums due, since otherwise they would have been deemed to have been appropriated to the payment of interest, the balance only being appropriated to payment of the principal amounts (see
+Chitty on Contracts (25th ed, 1983) paragraph 1424). However, as a matter of law, a claim under a contract of insurance is a claim for damages for breach of contract (see Luckie versus Bushby <case>; [(1853) 13 CB 864], [138 ER 1443] and Chandris versus Argo Insurance Co Ltd [[1963] 2 Lloyd's Rep ).] The purported appropriation accordingly was unnecessary as such. However, it did make it clear that the drafts were not being accepted in full settlement.
+
+It is clear that he drew no distinction between an original policy of insurance and a policy of reinsurance. I consider I should follow these clear decisions which have been accepted for many years. Any decision that the word debt in s459E of the Corporations Law should be interpreted so as to encompass the claim in question here would need to be made by a higher court, particularly as payment by the reinsured does not trigger an automatic obligation on the reinsurer to pay. There is one case which was referred to by counsel for the appellant where there is a passage which appears to be contrary to all the other law. Larratt versus Bankers and Traders Insurance
+Company <case>; [(1941) 41 SR NSW 215] was a decision of the Full Court on appeal from a verdict of jury in District Court proceedings for damages for wrongful repudiation of a policy of insurance. At page 223 the following passage appears in the judgment of Jordan CJ: 
+If the plaintiff is correct in his contentions that the defendant company had refused to regard the policy as a binding document, and that it had no just cause for doing so, he was entitled, at his option, either to ignore the company's invalid refusal, and sue to recover a liquidated sum under the policy, or else to avail himself of the invalid repudiation as a ground for himself putting an end to the contract and suing for unliquidated damages for the breach. If he adopted the former alternative, he had first to establish his right to payment before an arbitrator, because, the provisions for arbitration in Condition 17 of the policy being of the Scott versus Avery type, the existence of an award in his favour was an essential ingredient of any right to payment under the contract. If he adopted the latter, he assumed that he could sue without reference to arbitration, because his action would then be based on a contention that the contract had ceased to exist except for the purpose of founding a claim for unliquidated damages. The plaintiff's legal advisers evidently took the view that it would improve their client's prospects of success if he could avoid an arbitrator and get his case before a jury; and it was no doubt this consideration that led them to frame the action as one claiming damages for an alleged repudiation of the policy.
+
+That passage was not necessary for the decision, and should not be taken as an overruling the many prior decisions on the subject. It may perhaps be explained by the reference to the Scott & Avery clause. Upon application of that clause rights to indemnity would be determined as would be the amount of any claim. In such circumstances an action for the amount found due by the arbitrator would reasonably be equivalent to a claim for total loss under a valued policy, although I would regard it as a claim for a liquidated sum rather than a claim for a debt.
+ While it is true that the indemnity is for the insured's part of the ultimate net loss, determined in accordance with Article 5, it must be borne in mind that under the definition of "ultimate net loss" there is incorporated the words "the sum actually paid by the reinsured in settlement of losses or liability after making deductions or recoveries ...". The words "settlement of losses" are then transposed into the words "all loss settlements" under
+Article 16 and I do not think there can be any doubt that the claim made under
+Article 16 is a claim for interim payment under the indemnity in respect of loss settlements within the terms of the original policies and within the terms of the agreement. The sum is only certain if the preconditions are met.
+I can see no basis upon which it should be thought that the law which has determined that a claim for moneys payable under a contract of insurance is a claim for unliquidated damages for breach of contract does not apply to the instant claim; Hill versus Mercantile and General proceeded on the basis that it did.
+ It follows that the appeal should be dismissed. I will however deal shortly with the other ground upon which the Master determined the demand should be set aside.
+
+Was there a genuine dispute? I agree with the decision of the Master for the reasons he gave. I have wavered a little on this but I consider the decision to which the Master came was open to him and should stand. In view of my decision on the debt question there is no point in setting out the relevant part of the Master's judgment.
+Once he found, as he did, that inspection was sought not only in respect of commutation, but also in respect of the Turkish earthquake claim, that this was understood by those involved, and that inspection was refused until the claim was paid, then I consider that REAC was entitled to conclude that the claim required investigation before payment. It is possible to have a genuine dispute or at least to put forward a plausible contention as to doubt about liability (Eyota versus Hanave Pty Ltd [(1994) 17 ACSR 785)] when inspection of material relevant to liability is denied.
+ As I have upheld the decision of the Master it is not necessary to consider the matters raised in the notice of contention.
+ Orders 
+The appeal be dismissed with costs.
+ 
+LAST UPDATED: 17/04/2001 * * * 

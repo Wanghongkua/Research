@@ -1,0 +1,237 @@
+
+
+Strategic Property Holdings No. 3 Pty Ltd versus Austbrokers RWA Pty Ltd [2012]
+NSWSC 1570 (14 December 2012) 
+Last Updated: 18 January 2013 
+Supreme Court 
+New South Wales  
+Case Title: 
+Strategic Property Holdings No. 3 Pty Ltd versus Austbrokers RWA Pty Ltd  
+Medium Neutral Citation: <case>  
+Hearing Date(s): -29 November 2012  
+Decision Date: December 2012  
+Jurisdiction: 
+Equity Division - Commercial List  
+Before: 
+Stevenson J  
+Decision: 
+Plaintiff entitled to damages  
+Catchwords: 
+PROFESSIONAL NEGLIGENCE - insurance broker - retainer - implied term - duty of care - whether breach of retainer and duty of care - causation - whether insurer could have denied liability to indemnify - whether decision of ACT
+Supreme Court correct - mitigation - whether plaintiff should have joined in action against engineer 
+INSURANCE - Industrial Special Risks policy - accidental damage sub-limit - proper construction of policy  
+JUDGMENT
+This is a professional negligence claim against an insurance broker.
+The first plaintiff, Strategic Property Holdings No. 3 Pty Limited ("Strategic"), is the owner of land and buildings at Weston Creek in the Australian Capital Territory known as the Australian Defence Academy ("the ADA site"). 
+Strategic acquired the ADA site from the Commonwealth of Australia in June 2003 and holds it as trustee for the Weston Creek Joint Venture. Some 50 entities (who, for the most part have less than a two per cent interest) have an interest in the joint venture. Those entities are liable to pay, amongst other costs, insurance premiums relevant to the ADA site in accordance with their interest in the joint venture.
+The second plaintiff, Eclipse Property Group Limited ("Eclipse"), is the property and investment manager for Strategic in respect of the ADA site.
+By a lease made between Strategic and the Commonwealth, Strategic leased the ADA site to the Commonwealth for 20 years commencing 13 June 2003 ("the Lease"). Under the Lease, the only liability of the Commonwealth is to pay to Strategic certain agreed outgoings, including insurance premiums. 
+The first defendant, Austbrokers RWA Pty Limited ("the Broker") was the insurance broker for Strategic and Eclipse. The Broker was acting as the authorised representative of the second defendant, Austbrokers Sydney Pty Limited ("Austbrokers Sydney"). Austbrokers Sydney held an Australian Financial Services Licence and is liable for the conduct of the Broker pursuant to Div 6 of [Part 7.6](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p7.6) of the [Corporations Act 2001](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth).
+In 2005, the Broker recommended that, for the period of insurance 1 July 2005 to 22 May 2006, Strategic and Eclipse obtain a renewed Industrial Special Risks ("ISR") policy of insurance issued by Suncorp Metway Insurance Limited ("Suncorp") ("the Policy"). The Broker procured the issue of the Policy on behalf of Strategic and Eclipse. 
+Under the Policy, the declared value of the ADA site was $22 million. The Policy contained a sub-limit of liability for "accidental damage" of $200,000 ("the Sub-Limit").
+On 30 January 2006, during the currency of the Policy, the roof of the Geddes Building at the ADA site collapsed, causing significant damage to the property. There had been an earlier, less serious, roof collapse in January 2004.
+Strategic made a claim on Suncorp under the Policy. Suncorp admitted liability to indemnify Strategic under the Policy, but invoked the Sub-Limit and only paid $200,000 in respect of the damage caused by the roof collapse. The cost to reinstate the roof was considerably more than $200,000. In circumstances described more fully below, Strategic unsuccessfully challenged that decision in the Supreme Court of the Australian Capital Territory: see Strategic Property Holdings No 3 Pty Limited versus Suncorp Metway Insurance Limited  <case>, per Gray J ("the ACT Proceedings").
+
+The plaintiff's claim
+Strategic and Eclipse claim that the Broker acted in breach of its retainer and duty of care by: - arranging the Policy with an accidental damage sub-limit which was inadequate, having regard to the value of the ADA site; failing to advise Strategic and Eclipse as to coverage limitations so they could obtain appropriate coverage; and failing to follow instructions to obtain the broadest possible coverage.
+Strategic and Eclipse further claim that the Broker engaged in misleading or deceptive conduct contrary to [s 1041H](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1041h.html) of the [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) and [s 12DA](http://www.austlii.edu.au/au/legis/cth/consolact/asaica2001529/s12da.html) of the [Australian Securities and Investments Commission Act 2001](http://www.austlii.edu.au/au/legis/cth/consolact/asaica2001529/) (Cth) by representing that the coverage under the Policy was on the best terms available at the time.
+Strategic claims damages in respect of the uninsured loss it suffered as a result of the roof collapse; that is the cost of reinstatement of the roof over and above the Sub-Limit, together with consequential loss.
+
+Decision
+In my opinion the Broker, by not advising Strategic of the nature and effect of the Sub-Limit acted in breach of its retainer and duty. That breach has caused Strategic loss. It is entitled to damages.
+
+The retainer
+In around 2003, Eclipse and Strategic engaged Robert Williams & Associates Pty Limited ("RWA") to provide insurance broking services. The Broker succeeded to the business of RWA. It is common ground that I should draw no distinction, for the purpose of these proceedings, between the Broker and RWA.
+The individuals involved in the negotiations for the retainer were: - 
+Mr Rowan Wall, the sole director of Strategic; 
+Mr Tom Sheehan, a consultant to, and from 2005 a director of Eclipse; 
+Mr John Hallman, an insurance broker with the Broker; and 
+Mr Doug Withers, an insurance broker with the Broker.
+Mr Withers brokered policies for the years 2003/2004, 2004/2005 and the Policy (which was for the years 2005/2006).
+Prior to 2003 Strategic held various policies through a member of the AMP group. AMP issued separate policies for each property owned by Strategic.
+Mr Withers advised Strategic that the various policies should be consolidated into a single "master" ISR policy. The first such policy was taken out with Suncorp for the period December 2003 to May 2004. That policy recorded the declared value of all property insured to be in the order of $22.6 million and included an accidental sub-limit of $100,000. The ADA site was acquired during the life of this policy.
+Suncorp issued a further ISR policy for the period May 2004 to May 2005. The ADA site was, for the first time, included in the Schedule of Assets under that policy with a declared value of $22 million. The declared value of all properties insured was in the order of $101.3 million. In circumstances discussed further below, the accidental damage sub-limit was increased to $200,000. 
+On 8 July 2005 Suncorp issued the Policy. The declared value of all property insured was in the order of $128.8 million. As I have mentioned, the declared value of the ADA site was $22 million; the accidental damage sub-limit remained at $200,000.
+It is common ground that it was an implied term of the retainer between Strategic and the Broker that the Broker would: - exercise all reasonable skill, care and diligence in and about the provision of insurance broking services; and follow the instructions of Eclipse, and entities owning properties in respect of which Eclipse had property management agreements, in relation to the provision of insurance broking services.
+It follows, in my opinion, that the Broker also owed Strategic a duty of care to the same effect.
+Strategic also alleged that it was an implied term of the retainer that the Broker would give advice to Strategic in relation to the availability of different types of cover, the nature of any exclusions and limitations on the cover, and the material risks associated with the level of cover proposed by the Broker having regard to the declared value of the properties insured.
+The Broker denied, but for the following reasons I find, the existence of such an implied term. I also find that the Broker owed Strategic a duty to give such advice.
+Mr Withers agreed in cross-examination that he regarded it as part of a broker's duty to gain an in-depth knowledge of the client's business and its exposures, to draw to the client's attention areas in which it might be exposed, and to identify the proposed sub-limits in a policy to a client. 
+Further, Mr Paul Ellison, an expert insurance broker, called by Strategic, gave evidence that: - the normal way in which an insurance broker provides services is to get to know the client's business and to understand the risks to which their business is subject; the Insurance Brokers Code of Practice, which is a part of the national self-regulatory scheme for insurance brokers, describes the level of service to be expected from an insurance broker including to "assist the Insured in determining its policy requirements and arranging policies"; and in his opinion, a broker should take steps to "satisfy himself that the client understands the policy being offered" and that good broking practice, whatever the type of insurance being brokered, requires the broker to go through the various offered sub-limits with the client.
+These matters point to the existence of the implied term contended for.
+In my opinion, such an implied term satisfies the five components referred to by the Privy Council in BP Refinery (Westernport) Pty Ltd versus Shire of Hastings (1977) 180 CLR 266 at 283 and repeatedly endorsed by the High Court (for example in Codelfa Construction Pty Ltd versus State Rail Authority  <case>; [(1982) 149 CLR 337] at 347: and see the cases gathered in Seddon, Bigwood and Ellinghaus, Cheshire & Fifoot, Law of Contract, 10th Aust ed (2012) at [10.55]).
+Those five components are that the term: - is reasonable and equitable; is necessary to give business efficacy to the contract; is so obvious that it "goes without saying"; is capable of clear expression; and does not contradict any express term in the contract.
+As Mr Weber SC, who appeared with Mr Edwards for Strategic pointed out, in relation to oral contracts, the BP Refinery criteria are not to be automatically or rigidly applied: Hawkins versus Clayton [1988] HCA 15; (1988) 164 CLR 539 at 571 per Deane J.
+For those reasons I find the implied term contended for.
+Strategic alleges that, in addition, and arising out of conversations between Messrs Wall, Sheehan, Hallman and Withers, particular instructions were given by Strategic to the Broker and certain representations were made by the Broker.
+
+Did Strategic instruct the Broker that it should procure the broadest available coverage in respect to the ADA site and that the cost of insurance premiums was less important than obtaining broad coverage?
+Strategic submitted that it instructed the Broker that it should procure the broadest available coverage in respect of the ADA site, and that the cost of insurance premiums was less important than obtaining broad coverage.
+Strategic relied on two conversations.
+First, Mr Wall gave unchallenged evidence that he said to Mr Hallman, at the time of their first meeting in 2003: - "We represent a number of property syndicates, and are expanding. We are net leasers and premiums are recoverable from the tenants. We are looking to find a good reliable insurance broker who will look after our interests. We want quality insurance. We're more interested in quality and breadth of cover than price."
+I find that this conversation took place.
+Second, Mr Sheehan said that, at around this time, he said to Mr Withers: - "Price is not such an issue Doug because it will be charged to the syndicates.
+We don't want to be skinny on insured values. If there's any doubt we want to be on the upside rather than the downside."
+Mr Sheehan was not required for cross-examination. It was agreed between counsel that no Browne versus Dunn (1893) 6 R 67 submission would be made.
+In his affidavit, Mr Withers denied this conversation and said: - "At no stage did Mr Sheehan or anyone at Eclipse tell me that I should not be concerned with premiums because Eclipse could charge them to the syndicates. I would have interpreted such a statement as an instruction to 'hit the syndicates up' with the premiums, and I would have remembered such a direction if I ever received it from Mr Sheehan or anyone else at Eclipse."
+Mr Withers maintained this denial in cross-examination. But when he was asked what he meant by stating that he would interpret a statement of the kind that Mr Sheehan deposed to as an instruction to "hit the syndicates up" he said "I really don't know". He denied that he was meaning to suggest that he understood that Mr Sheehan was giving him an instruction to "defraud the syndicate". He then withdrew the second sentence of the evidence set out in the preceding paragraph.
+Mr Withers thus abandoned the foundation underpinning his denial of Mr Sheehan's statement.
+In any event, Mr Sheehan did not say that he told Mr Withers that Mr Withers "should not be concerned with premiums". Mr Sheehan's evidence was that he told Mr Withers that "price is not such an issue" because it would be "charged to the syndicates" and because "we don't want to be skinny on insured values". In that regard, Mr Sheehan's evidence was consistent with Mr Wall's unchallenged evidence that he told Mr Hallman that the plaintiffs were "more interested in quality and breadth of coverage than price".
+In those circumstances, I accept Mr Sheehan's evidence and find that the conversation occurred as he deposed.
+However, I do not accept that the effect of these statements was the giving of the alleged instruction.
+The statements dealt with both price and cover. 
+As to price, both certainly conveyed that Strategic was not over sensitive to premium size.
+As to cover, Mr Wall told Mr Hallman that Strategic wanted "quality insurance" and that it was "more interested" in "quality" and "breadth of cover" than price. However, the stated requirement for "quality" insurance is one of such uncertain content that I find it impossible to attach legally binding significance to it. The stated preference for "breadth" of cover falls short, in my opinion, of an instruction to the Broker to effect cover which was the "broadest available". If that is what Mr Wall meant to convey, he could easily have said so.
+Mr Sheehan's statement, so far as it dealt with cover, was focused on "insured values", in respect of which Mr Sheehan expressed preference for "upside" rather than "downside". The "insured values" to which Mr Sheehan was referring must have been the declared value, including in the Policy, of the various properties insured (including the ADA site). There is no suggestion that those values were inadequate.
+In those circumstances, I do not accept that Strategic and Eclipse gave the Broker the instruction contended for.
+
+Did the Broker represent to Strategic that the Policy was secured on the best terms available at the time?
+The plaintiffs allege that, in the course of the retainer, the Broker represented that the Policy was secured on the best terms available at the time. 
+This representation is said to arise implicitly from Mr Wall's conversation with Mr Hallman and Mr Sheehan's conversation with Mr Withers referred to above, a further conversation said to have occurred between Mr Sheehan and Mr Withers and also from the Broker's subsequent recommendations to effect the policies referred to above, including the Policy.
+As to that further conversation, according to Mr Sheehan's affidavit, he and Mr Withers "went through the different sub-limits" in Suncorp's quotation and a conversation took place as follows: - "Mr Sheehan: I'm not sure what that sub-limit is for.
+
+Mr Withers: I'm not sure either. Let's ask Suncorp whether they will double it.
+
+Mr Sheehan: If you say so. I'll leave it with you Doug."
+Mr Withers denied this conversation, both in his affidavit, and in cross-examination. As I have mentioned, as a result of an agreement between counsel, Mr Sheehan was not required for cross-examination on the basis that Mr Weber would make no Browne versus Dunn submission.
+Mr Withers agreed that he increased the sub-limit from $100,000 in the 2003/2004 policy to $200,000 in the 2004/2005 policy. However, he denied this was a result of the conversation deposed to by Mr Sheehan. Rather, he said, he had "decided" that an increase was "appropriate" and that the doubling of the sub-limit was a "value add I was able to achieve my client". In cross-examination he said it "was really a token increase".
+Mr Withers impressed me as a witness who was doing his best to give truthful and responsive answers to the questions put in cross-examination; many of which suggested shortcomings in his performance as a broker. As Mr Darke SC, who appeared with Mr Chiu for the Broker submitted, Mr Withers made concessions where appropriate and did not seek to downplay or explain away anything he had done. In those circumstances, I am not prepared to disbelieve Mr Withers' evidence; and not having seen Mr Sheehan's evidence tested in cross-examination, I am not able to draw any conclusion about whether the conversation to which Mr Sheehan deposed took place.
+In those circumstances, Strategic's claim in respect of the alleged representation can only arise from the other conversations to which I have referred. 
+In my opinion, what was said in those other conversations cannot amount to the representation pleaded. To be actionable, a representation must be clear and unambiguous; for example Legione versus Hateley  <case>; [(1983) 152 CLR 406] at 435-436.
+For the same reasons that I cannot conclude that the conversations amount to an instruction to the Broker that it should procure the "broadest available coverage", I cannot accept the submission that the Broker's placement of insurances following those conversations amounted to a representation that the Policy was secured "on the best terms available".
+Any representation was no more than that the Policy constituted "quality insurance", which had "breadth of cover" and which was not "skinny on insured values". Any such representation was neither misleading nor deceptive.
+
+The Policy
+The insuring clause in the Policy read: - "In the event of any physical loss, destruction or damage...not otherwise excluded happening at the Situation to the Property Insured...[Suncorp] will, subject to the provisions of this Policy including the limitation on [Suncorp's] liability, indemnify the Insured in accordance with the applicable
+Basis of Settlement."
+The limit of liability for material loss or damage under the Policy was $30 million.
+The Policy provided that Suncorp's liability "shall be further limited in respect of any one loss ...arising out of", amongst other things, "accidental damage as defined" to $200,000.
+The relevant definition ("the Accidental Damage Definition") specified what "accidental damage" was not, rather than what it was. It provided: - "The terms Accidental loss, Destruction or Damage shall not include loss, destruction or damage caused by Fire, Lightning, Explosion, Implosion, Smoke,
+Impact, Aircraft or articles dropped therefrom, Riots, Strikes, Civil commotion, Storm, Tempest, Rainwater, Flood, Water or other Liquid Discharge or Leakage, Sprinkler Leakage, Earthquake, Subterranean Fire, Volcanic
+Eruption, Malacious [sic] Acts, Burglary, Theft, Breakage of Glass, Transit or any peril excluded by this policy."
+The Policy contained a perils exclusion ("the Faulty Design Exclusion") in the following terms: - "[Suncorp] shall not be liable...in respect of: physical loss, destruction or damage occasioned by or happening through: ...
+ error or omission in design, plan or specification or failure of design...
+ faulty materials or faulty workmanship.
+
+Provided that this Exclusion 4(a) to 4(e) shall not apply to subsequent loss, destruction of or damage to the Property Insured occasioned by a peril (not otherwise excluded) resulting from any event or peril referred to in this exclusion." ("the Proviso") 
+The roof failure
+The roof collapse was caused by inadequacies in the design and construction of the roof trusses.
+Over a period of time, the trusses failed due to the bending of the bottom chords of the truss adjacent to the heel plate. This resulted in the nail plates on the trusses peeling in some instances and the bottom chord fracturing at or near the internal edge of the nail plate. Once the truss end connection failed, the truss shedded the load to the adjoining trusses, which in turn failed. This resulted in an "unzippering effect" as each truss or group of trusses failed without warning. As the trusses shed their load to adjoining trusses the overload rapidly rose until catastrophic failure occurred. The "unzippering effect" started with about four trusses located in the roof-collapsed area.
+
+Suncorp's response to the claim under the Policy
+On 31 January 2006 Strategic made an insurance claim on the Policy. 
+Suncorp admitted liability to pay under the Policy.
+On 31 March 2006 Suncorp's solicitors wrote to Mr Withers: - "As you are aware Lewis & Associates, Engineers, have investigated the cause of the roof collapse of the Geddes Building. They have concluded that the roof trusses were installed incorrectly and are in failure mode with several trusses having completely failed.
+
+Considering the above, it has been determined that your policy coverage does not extend to cover the cost of replacement of the roof trusses and adjoining supports. The resultant damage to the roof is covered under section 1 of the
+Policy as it comes within the proviso to section 4(c) and 4(e) of the Perils
+Exclusions."
+However, Suncorp's solicitors went on to say: - "As you are aware, the Schedule to the Policy contains Sub Limit(s) of liability...Accidental damage is limited to $200,000.00. Our client considers that the roof's collapse comes within the definition of accidental loss, destruction or damage provided in the Policy."
+Thus, Suncorp's position was that: - 
+Strategic's claim for indemnity in relation to the cost of replacement of the roof trusses and adjoining supports fell within the Faulty Designs
+Exclusion, and was excluded; 
+Stategic's claim for indemnity in relation to the "resultant damage to the roof" fell within the Proviso to the Faulty Designs Exclusion, and was not excluded; but that claim was in respect of accidental damage and was subject to the
+Sub-Limit.
+Suncorp thus determined that the Sub-Limit applied to the claim and only paid $200,000 in respect of the damage to the roof. That left an uninsured loss in the order of $1.9 million.
+Before Gray J in the ACT Proceedings, there was no dispute concerning Suncorp's position as set out at [72 (a) and (b)]. His Honour upheld Suncorp's position as set out at [72 (c)].
+
+Accidental damage sub-limit
+Sub-limits, and accidental sub-limits in particular, were commonly included in ISR polices in 2005. The wording of the Sub-Limit in the Policy was also common in the market place at that time.
+In 2005 it was known in the broking industry that "accidental damage" was capable of causing significant damage. For example, the Australian Insurance Institute published material showing that in the period 1 January 2004 to 31 December 2004 one reinsurer, in one year, had received an accidental damage claim exceeding $1 million.
+
+What advice did Mr Withers give in relation to the Sub-Limit?
+As I have mentioned, Mr Sheehan deposed that he and Mr Withers "went through the different sub-limits" in Suncorp's quotation, and Mr Withers said that he was "not sure" what the Sub-Limit was for. For the reasons outlined above, I cannot draw any conclusion about whether this conversation took place.
+However, both Mr Wall and Mr Sheehan gave unchallenged evidence that Mr Withers gave no explanation about the Sub-Limit.
+That evidence was consistent with that of Mr Withers, who said that it was not his practice to go through sub-limits with the client unless it was "particularly requested I would".
+Mr Withers took the view that the client should read the schedule containing sub-limits and work out for itself the significance of the sub-limits, without any advice from him. Further, Mr Withers was content that because the ISR policies had standard words it was appropriate not to give the client any advice at all about the possibility of variable sub-limits.
+I accept Strategic's submission that Mr Withers did not in fact give the concept of sub-limits any real consideration at all. He said that the only steps he undertook on renewal of a policy, relating to sub-limits, was to consider if the sub-limit in the incoming policy was similar to that of the existing policy.
+Mr Withers gave evidence that, throughout his career as an insurance broker, he always considered "accidental damage" as a category of damage to capture what he described as "bumps and scrapes". In cross-examination he said that he understood that "accidental damage" was concerned with "small and insignificant" damage. 
+Nonetheless he agreed that: - * accidents are not always insignificant; * accidents can be very major; and * accidents can result in very serious loss.
+In those circumstances I have difficulty understanding how Mr Withers could have come to the view that "accidental damage" was confined to "bumps and scrapes".
+Mr Withers said that he had never read the Accidental Damage Definition, although he understood that it was a negative definition; that is, it set forth what was not accidental loss, rather than what was accidental loss.
+The following exchange occurred in cross-examination: - "Q: Didn't you understand that where that term did not carry with it a specialised definition within the policy that one reverted to the ordinary
+English usage of the words accidental loss to determine what they meant? 
+A: No, sometimes that sub-limit was noted as specified damage, not as accidental damage."
+It may be that Mr Withers's understanding that accidental damage was confined to "bumps and scrapes" was derived from his apprehension that, in some policies, sub-limits are expressed by reference to "specified" rather than "accidental" loss or damage.
+Mr Withers admitted that he now understood that he had had a flawed understanding of what "accidental damage" meant and that, at the relevant time, he had failed to appreciate it could cover a wide variety of events and losses, both large and small.
+It was common ground before me that, at the relevant time, accidental damage cover could have been obtained for sub-limits higher than $200,000, albeit at an increased premium as follows: - 
+Accidental damage sub-limit 
+Additional premium  $1 million $9500  $2 million $21,375  $2.5 million $27,312 
+In 2005, Mr Withers did not know of the availability of higher accidental damage cover.
+
+What advice should the Broker have given Strategic in relation to the Sub-Limit?
+I accept the submission of Mr Darke that negligence is not to be established merely by showing that a loss which has been suffered could, in hindsight, have been avoided if something had been done differently. Mr Withers's actions, in particular, are not to be assessed with the benefit of hindsight: Capital Brake Service Pty Ltd versus Meagher  <case> at <case> per Ipp JA.
+I am conscious of the perils of hindsight bias, and must assess Mr Withers's actions by assessing how a reasonable broker in Mr Withers's position, looking forward, would have acted: Vairy versus Wyong Shire Council  <case>; <case> per Hoeben J. 
+Mr Ellison, the expert insurance broker, gave evidence that: - insurance brokers are required to provide assistance to their clients in determining policy requirements and providing advice which is appropriate to their clients' needs; insurance brokers are required to undertake continuous education to maintain their licences; and that the National Insurance Brokers Association handbook demonstrates the expected educational standard of a reasonably careful and skilled broker; and the courses run by the Association place a high emphasis on the advice role of the broker; reasonably careful and skilled insurance brokers would explain the need for insurance cover, explain the areas of exposure and uninsurable exposure, discuss major exclusions and cover restrictions and explain sub-limits; and a reasonably careful and skilled insurance broker would not simply accept the sub-limits contained in a policy they inherited when they took over the account, but would consider those sub-limits personally.
+In my opinion, this evidence is consistent with the implied term referred to at [24].
+In my opinion, the implied terms of the Broker's retainer (and its concomitant duty) required Mr Withers, at the very least, to read the Policy and see what it said about the Sub-Limit.
+Mr Withers's duty did not necessarily extend to "expounding the law to the insured" (cf Kirby P in Provincial Insurance Australia Pty Ltd versus Consolidated Wood Products Pty Ltd [(1991) 25 NSWLR 541] at 556).
+However, in the circumstances, my opinion is that, in order to discharge the obligations under its retainer and duty, the Broker, in the person of Mr Withers, had a duty to advise Strategic that the effect of the Sub-Limit was that if "accidental damage" of the kind defined in the Policy occurred, then, despite the fact that the "declared value" of the ADA Site was $22 million, Suncorp's liability under the Policy would be only $200,000.
+There is no dispute that this was not done.
+In my opinion this failure represented a breach of the implied terms of the retainer and a breach of the Broker's duty of care to Strategic.
+So far as concerns duty of care, I accept that I must apply the "Shirt calculus" (Wyong Shire Council versus Shirt  <case>; [(1980) 146 CLR 40] at 47-48 per Mason J) and consider what a reasonable person in the position of the Broker would do by way of response to a reasonably foreseeable risk of harm, taking into account the magnitude of the risk and the probability of its occurrence along with the expense, difficulty and inconvenience of taking alleviating action, and any other conflicting responsibilities which the Broker may have.
+I accept Strategic's submission that Mr Withers's conduct failed to measure up to that standard. It would have been very simple for Mr Withers to give Mr Sheehan advice to this effect. It would also have been easy for the Broker to have procured, in 2005, a policy with a much higher accidental damage sub-limit.
+Had Mr Withers given Mr Sheehan this advice, Mr Sheehan's unchallenged evidence was that he doubted he would have presented Suncorp's quotation to Mr Wall, and would have requested Mr Withers to obtain alternative quotes with higher sub-limits for accidental damage.
+I allowed that evidence as Mr Sheehan was not "the person...suffering the harm" for the purposes of [s 5D(3)](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/s5d.html) of the [Civil Liability Act 2002](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/).
+As I have mentioned, it is common ground that, at the relevant time, higher accidental sub-limits were available, albeit at a higher premium.
+In argument, Mr Darke accepted that there was "not a lot of evidentiary material for anything between $200,000 and the $2 million" and that "effectively" the choice was between those two figures.
+After the roof collapse, Strategic obtained cover with a $2 million accidental damage sub-limit. It was not suggested in submissions that Mr Wall's decision to approve a higher sub-limit in the following year was based on any increased conservatism on his part following the roof collapse. In any event Mr Wall was not cross-examined to that effect (or at all).
+I am satisfied, and I find, that if Mr Withers had given Mr Sheehan the advice to which I have referred, Mr Withers would have obtained alternative quotes for the higher sub-limits that were in fact available, and that Mr Wall would have instructed Mr Sheehan to obtain a accidental damage sub-limit of $2 million.
+I am also satisfied that Mr Wall would have had no hesitation to pay the (substantially) increased premium that would have thereby been occasioned.
+The conversation between Mr Wall and Mr Hallman, and between Mr Sheehan and Mr Withers referred to above, make clear that Strategic was concerned with the quality of insurance and that price was a secondary (although no doubt not irrelevant) consideration. This was consistent with the business structure under which Strategic operated, the fact that under the Lease, the Commonwealth was obliged to pay all insurance premiums (and, so far as the evidence reveals, had done so without demur) and that, in the unlikely event that the Commonwealth did not pay the premium, it would be shared between the 50 odd members of the syndicate comprising the joint venture.
+
+Defence under [s 50](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/s50.html) of the [Civil Liability Act](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/) 
+The Broker pleaded that it practised as a professional within the meaning of [s 50](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/s50.html) of the [Civil Liability Act](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/) and acted in a manner that was widely accepted in Australia by peer professional opinion as competent professional practice.
+However, the Broker adduced no evidence of the manner of practice acceptable by peer professional opinion. Further, this defence was not agitated in final submissions.
+I take this defence to have been abandoned.
+
+Causation defences
+The Broker submitted that even if the Court was satisfied that Mr Withers, and thus the Broker, was negligent in not obtaining a higher accidental sub-limit, there are two reasons why the Court should not accept that it was "appropriate" for the purposes of [s 5D(1)(b)](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/s5d.html) of the [Civil Liability Act](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/) for the scope of the Broker's liability to extend to the harm suffered by Strategic (i.e. the insurance gap and associated financing costs).
+The first reason was, the Broker submitted, that on the proper construction of the Faulty Design Exclusion (including the Proviso), the damage caused by the roof collapse was not covered by the Policy, and that no question about sub-limits should ever have arisen. That is, the Broker submitted, Suncorp had accepted a liability to indemnify not warranted by the terms of the Policy.
+The second was that, on the proper construction of the Policy, the Sub-Limit did not apply, and that Gray J's decision in the ACT Proceedings was incorrect.
+In my opinion, even if these two contentions are correct, they are not relevant and do not affect the outcome of these proceedings.
+The Broker's breach of the implied terms of its retainer, and breach of duty, placed Strategic in a position where its cover under the Policy, in the event of accidental damage not excluded by the Accidental Damage Definition, was limited to $200,000.
+Strategic would not have been in that situation if the Broker had given Strategic advice consistent with the terms of the retainer and its duty.
+The actual harm suffered by Strategic was sustained by reason of Suncorp's invocation of the Sub-Limit and the confirmation of the correctness of that position by the Supreme Court of the Australian Capital Territory.
+Had an appropriate sub-limit been in place, the question of the applicability of the Sub-Limit would have been of no consequence.
+Similarly, the correctness of Suncorp's decision to accept that the Proviso to the Faulty Design Exclusion applied is not relevant to the question of causation because, as Strategic submits, the relevant question is what actually happened as a result of the Broker's conduct.
+Further, so far as concerns the Broker's liability in negligence, it is in my opinion "appropriate" for the purposes of [s 5D(1)(b)](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/s5d.html) of the [Civil Liability Act](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/) for the Broker's liability to extend to the harm caused whether or not Suncorp could have relied on the Faulty Design Exclusion to deny liability altogether, and whether or not Gray J was correct to decide that the Sub-Limit applied.
+The cases emphasise that the "scope of liability" enquiry under [s 5D(1)(b)](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/s5d.html) and [s 5D(4)](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/s5d.html) of the [Civil Liability Act](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/) involves a policy judgment, and a normative question; namely whether the defendant ought be held liable to pay damages for the harm in question. In this case, my opinion is that the Broker ought be held liable to pay damages for the harm in question. The Broker materially increased the risk of harm to Strategic. Further the damage suffered by Strategic is not too remote from the Broker's conduct: cf Paul versus Cooke  <case> per Brereton J at <case>; <case> per Ipp JA.
+In any event, in my opinion, Suncorp was correct to accept that the Proviso to the Faulty Design Exclusion applied; and Gray J was correct to hold that the Sub-Limit applied.
+
+Was the Faulty Design Exclusion enlivened? Suncorp's decision
+As I have mentioned, Suncorp took the position that Strategic's claim for indemnity in relation to the costs of replacement of the roof trusses fell within the Faulty Designs Exclusion, and was excluded; but that Strategic's claim for indemnity in relation to the "resultant damage to the roof" fell within the Proviso to the Faulty Designs Exclusion, and was not excluded.
+In Prime Infrastructure (DBCT) Management Pty Ltd versus Vero Insurance Ltd <case> the Queensland Court of Appeal considered a clause identical to that with which I am concerned.
+In that case, a coal reclaimer collapsed onto two conveyer belts. The reclaimer and the belts were extensively damaged. The collapse of the reclaimer was initiated by the final severing of an internal fatigue crack in a defective weld in one of the reclaimer's undercarriage legs. This was a result of faulty workmanship at the time of the original construction and assembly of the reclaimer.
+McMurdo P, with whom Mullins J agreed, construed the Exclusion as follows (at [28]): - "[The Faulty Design Exclusion] does not apply to damage to the insured property / occasioned by a peril not otherwise excluded in the policy / which is both subsequent damage to the damage excluded in the [Faulty Design
+Exclusion] / and also damage resulting from an event covered by [the Faulty
+Design Exclusion]."
+At [41], her Honour concluded that, on the facts: - "The subsequent damage to the reclaimer and conveyer belts was occasioned by the faulty workmanship in the weld and was also occasioned by a peril not otherwise excluded under the policy, namely the risk or danger that if the faulty weld and subsequent fatigue cracking was not repaired, over time the internal diaphragm connecting in the top flange of the leg box could sever and cause a rapid ductile (tearing) fracture, buckling the reclaimer's leg structure and causing it to collapse on to nearby equipment such as the conveyor belts."
+As Strategic has submitted, factually the Prime Infrastructure case is closely analogous to the present.
+In those circumstances, it was, in my opinion, foreseeable that Suncorp would construe the identical clause in the Policy consistently with the decision in Prime Infrastructure.
+Further, the fact that the Queensland Court of Appeal so construed the relevant provisions, and the analogous nature of the facts in that, and this case, is a reason why it is "appropriate", for the purposes of [s 5D(1)(b)](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/s5d.html) of the [Civil Liability Act](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/), for the scope of the Broker's liability to extend to the harm caused by the roof collapse.
+
+Was the Sub-Limit enlivened? Gray J's decision
+So far as concerns Gray J's decision in the ACT Proceedings, the matter for consideration was Suncorp's liability for a loss falling within the Proviso to the Faulty Design Exclusion.
+That loss: - was "accidental" in nature, in the usual sense of the word; namely something which happened without intention or design (see Australian Casualty
+Co Limited versus Federico  <case>; [(1986) 160 CLR 513] at 529 per Wilson, Deane and Dawson JJ, cited by Gray J at [49] in the ACT Proceedings); was necessarily caused by a peril "not otherwise excluded" (otherwise it would not fall within the Proviso); therefore did not fall within any category excepted from the definition of "accidental damage" (it was not a loss caused by a "peril excluded by this policy" or by any of the other matters referred to in the definition of "accidental damage"); and was therefore "accidental damage" for the purpose of the Policy.
+Accordingly, if the correctness of Gray J's decision in the ACT Proceedings is a matter relevant to the Broker's liability, my respectful opinion is that it was correct.
+
+Mitigation
+The Broker contends that Strategic failed to take reasonable steps to mitigate its damage because it did not join in proceedings commenced by Suncorp, subrogated to Strategic's rights under the Policy, against the consulting engineers retained to provide engineering services after the 2004 roof collapse.
+Mr Wall gave the following unchallenged evidence as to why he did not cause Strategic to join in the proceedings against the engineers: - "I would not have caused Strategic to commence proceedings against [the engineers] if the decision had been up to me rather than up to Suncorp. I did not regard it as a good use of Strategic's funds to pursue lengthy and complex litigation against [the engineers] concerning building and engineering matters where the issues were not clear cut and where if the claim failed the trustee [of the Western Creek Joint Venture] may be exposed to significant adverse costs orders if the claim was not successful. For the same reasons, I did not consider it a good use of Strategic's funds to pay a share of the fees in the litigation that Suncorp had decided to initiate against [the engineers]. From my perspective, one reason Strategic maintained insurance was so that it did not have to engage in costly litigation in order to reinstate any losses it might suffer."
+In order to mitigate its loss, Strategic had, unsuccessfully, tested Suncorp's decision under the Policy in the ACT Proceedings. Having failed in those proceedings, I do not consider that it was unreasonable for Strategic to decline to become involved the proceedings against the engineers. 
+It may well be, as the Broker has submitted, that the administrative task of running that litigation was being borne by Suncorp; and it may well be, as the Broker has speculated, that Mr Wall will be a witness in those proceedings. 
+Nonetheless, I cannot conclude that Strategic's decision to decline to participate in those proceedings was unreasonable. An innocent party is not bound, in order to mitigate its loss, to "embark on a complicated and difficult piece of litigation against a third party": Pilkington versus Wood  <case>.
+
+Damages
+Strategic claims damages in respect of the "insurance gap" together with finance costs relevant to the rectification work necessary following the roof collapse.
+In the Amended Commercial List Statement filed in Court on 26 November 2012, the insurance gap was particularised at $1,843,208.60. Legal costs and other costs associated with the ACT Proceedings were particularised at $101,228.45; and finance costs associated with the rectification of the roof at $760,794.42. The total amount claimed was $2,705,231.47. Mr Weber accepted there should be deducted the amount of three invoices relevant to the rectification of the roof trusses themselves. 
+However, there was no detailed consideration before me of the evidence adduced by Strategic in regard to quantum.
+Mr Weber submitted that I should deal with quantum consistently with the principles derived from Armory versus Delamirie (1722) 1 Stra 505; <case>; [93 ER 664] at 59: - "The Court should assess the compensation in a robust manner, relying on the presumption against wrongdoers, the onus of proof, and resolving doubtful questions against the party 'whose actions have made an accurate determination so problematic'"(quoting from Hodgson J in LJP Investments Pty Ltd versus Howard
+Chia Investments Pty Ltd [(1990) 24 NSWLR 499] at 508)".
+I am doubtful that this "principle" is of great assistance in resolving the question of quantum in this case. If the parties cannot agree on quantum, I will hear submissions as to what orders or directions should be made to deal with that question.
+
+Conclusion
+I invite the parties to bring short minutes to give effect to these reasons.
+ * * * 

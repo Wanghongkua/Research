@@ -1,0 +1,211 @@
+
+
+Parkview Qld Pty Ltd versus Commonwealth Bank of Australia [2013] NSWSC 79 (14
+February 2013) 
+Last Updated: 18 March 2013 
+Supreme Court 
+New South Wales  
+Case Title: 
+Parkview Qld Pty Ltd versus Commonwealth Bank of Australia  
+Medium Neutral Citation: <case>  
+Hearing Date(s): and 5 February 2013  
+Decision Date: February 2013  
+Jurisdiction: 
+Equity Division - Technology and Construction List  
+Before: 
+Stevenson J  
+Decision: 
+Defendant not a constructive trustee  
+Catchwords: 
+TRUSTS - constructive trust - whether retention monies held on constructive trust by bank- whether bank trustee de son tort - implied representations  
+BUILDING CONTRACT - breach of contract - retention  
+JUDGMENT 
+Introduction
+This case concerns, amongst other matters, a dispute between a builder and a bank as to whether the bank is constructive trustee of certain funds (retention under a building contract between the builder and the bank's customer, the developer) on the builder's behalf ("the Trust Issue"). 
+There are other issues in the proceedings. Some of those issues (which the parties have called "the Building Case") have been deferred by reason of an order made by Bergin CJ in Eq on 9 March 2012 pursuant to Uniform Civil Procedure Rules r 28.2. 
+There is also an issue as to whether, assuming the bank is a constructive trustee of any funds, the builder has an entitlement to those funds ("the Entitlement Issue"). As the developer (now in liquidation) is not a party to these proceedings, I do not propose to deal with the Entitlement Issue until the developer (by its liquidator) has an opportunity to consider whether it wishes to participate in the proceedings. 
+Thus, these reasons deal only with the Trust Issue.
+
+Decision 
+In my opinion, the plaintiff has failed to establish its case in respect of the Trust Issue.
+
+Background
+The plaintiff ("Parkview") was the builder of a residential development known as "Dalgety Apartments" in Townsville ("the Project"). For that purpose, Parkville was party to a building contract ("the Building Contract") with the developer of the Project, Fortia Funds Management Limited ("Fortia"). Fortia is now in liquidation. 
+The defendant is successor in title to Bank of Western Australia ("BankWest"), having acquired all of the assets and liabilities of BankWest on 1 October 2012 pursuant to the [Financial Sector (Business Transfer and Group Restructure) Act 1999](http://www.austlii.edu.au/au/legis/cth/consolact/fstagra1999593/) (Cth). For convenience, I shall refer only to "BankWest". 
+BankWest provided Fortia with a construction loan to fund the Project ("the Facility").
+Pursuant to the Building Contract, Parkview was obliged to provide Fortia with security equal to 5 per cent of the value of the work, reducing to 2.5 per cent on issue of a certificate of practical completion. The "Guaranteed Maximum Price" of the work was $45 million. Thus security was required in the sum of $2.25 million at the outset, reducing to $1.125 million on practical completion.
+Security could be, at Parkview's option, in the form of cash retention from progress payments or a bank guarantee.
+Until July 2009, security was provided by way of cash retention. In July 2009, in circumstances described below, Parkview arranged for ANZ Banking Group Limited ("ANZ") to provide a bank guarantee of $1.2 million ("the ANZ Guarantee").
+The Building Contract provided that retention monies were to be deducted from progress payments made by Fortia to Parkview. This occurred during the life of the contract. 
+The Building Contract provided that "the parties" (Parkview and Fortia) held the retention, security or proceeds of security "on trust". Parkview described this trust as the "Retention Moneys Trust". I shall refer to it in more detail later in these reasons.
+From at least September 2008, BankWest funded the progress payments, as approved by the Superintendent under the Building Contract ("the Superintendent") and a Quantity Surveyor appointed by BankWest ("BankWest's QS") by drawing down on the Facility. 
+By reason of a deed made on 11 June 2008 between BankWest, Parkview and Fortia called the "Builder Tripartite Deed" ("the Tripartite Deed") BankWest was entitled, although not obliged, to pay Parkview directly all amounts certified as payable by Fortia to Parkview under the Building Contract. Where payment was so made, Fortia confirmed to BankWest that Parkview was entitled to receive the payment and directed BankWest to make the payment.
+The amounts approved for payment by the Superintendent and BankWest's QS were, consistently with the Building Contract, net of retention. 
+In that sense, Fortia "retained" the amount of the retention. But Fortia did not draw down from the Facility, and BankWest did not advance to Fortia, any amount referable to Fortia's entitlement to retention.
+There is no account at BankWest containing any retention monies. Indeed, there is no evidence that Fortia maintained any credit account with BankWest. 
+Before me, there was no evidence as to Fortia's financial position, save that it was in liquidation. BankWest submitted, and Parkview did not dispute, that Fortia drew down the Facility by directing BankWest to pay some $43 million direct to Parkview (by way of progress payments under the Building Contract) and by directing that a further $5.7 million be paid to an account maintained by Fortia at Westpac Banking Corporation ("Westpac"). There was no evidence as to whether Fortia had at some time prior to its liquidation funds or resources (such as from the funds at Westpac) from which it planned to pay the retention when it became payable. However, in opening submissions, BankWest accepted that, after the insolvency of Fortia, it "became apparent" that Fortia had not set aside retention monies, and that there did not and does not exist any separate fund representing retention monies. I will proceed on that basis.
+Parkview alleges that, for various reasons that I discuss below, BankWest should be held liable as constructive trustee of the Retention Moneys Trust. This is the Trust Issue.
+
+The Trust in the Building Contract 
+The starting point for consideration of Parkview's contentions concerning BankWest's position in relation to the Retention Moneys Trust is the terms of that trust as set out in the Building Contract.
+Clause 5.10 of the Building Contract provided: - "...any interest earned on the security and retention moneys shall be retained jointly by [Fortia] and [Parkview].
+
+The parties shall hold the retention, security or the proceeds of the security on trust.
+
+At the request of [Parkview], [Fortia] agrees to provide reasonable information to confirm the security or retention monies are held in trust at all times."
+The Building Contract did not elaborate on the nature of the "trust". Parkview's case was that it was implicit from the terms of cl 5.10 as a whole that the trust was to hold the retention monies, security or proceeds in accordance with the parties' entitlements under the Building Contract. I accept that submission. I also accept, as BankWest submitted, that cl 5.10 contemplates that whichever party to the Building Contract - Fortia or Parkview - held security or retention, it held it on trust for both of them, pending its release or utilisation in accordance with the parties' entitlements under the Building Contract.
+The Building Contract did not define the term "retention". 
+Clause 5.3 of the Building Contract provided that security could be in the form of "cash retention". Other provisions in the Building Contract referred to "retention moneys". For example cl 5.6 provided that Fortia could have access to "retention moneys" and "cash security" in certain circumstances. Clause 5.7 provided that Parkview could (as happened in relation to the ANZ Guarantee) substitute other permitted security "in lieu of retention moneys". Clause 42.4 provided that the Superintendent was to include in each progress certificate a reference to "amounts previously deducted for retention and retention money to be deducted". 
+This language suggests that the parties contemplated that the retention would be in the form of cash; that is that Fortia would retain, in cash, the requisite percentage of progress payments otherwise due to Parkview. It did not do so. A matter for consideration is the implication of that failure.
+It has been held that provisions in a building contract similar to clause 5.10 impose on a party in Fortia's position a contractual obligation: - "...to appropriate and set aside as a separate trust fund a sum equal to that part of the sum certified in any interim certificate as due in respect of work completed which the employer is entitled to retain" (per Vinelott J in Rayack Construction Ltd versus Lampeter Meat Co Ltd [(1980) BLR 30] at 37; cited with approval by the Court of Appeal in Mac-
+Jordan Construction Ltd versus Brookmount Erostin Ltd (in receivership) [[1992]
+BCLC 350] per Scott LJ at 353, with whom Farquharson and Parker LJJ agreed).
+Vinelott J reached this conclusion on the basis that a provision such as cl 5.10 would fail to "have any practical operation" (at 38) if the obligation were not imposed. In any case, the implication of such an obligation would satisfy the criteria for implied terms as established in BP Refinery (Westernport) Pty Ltd versus Hastings SC (1977) 180 CLR 266 at 283; repeatedly endorsed by the High Court, for example in Codelfa Construction Pty Limited versus State Rail Corporation of NSW <case>; [(1982) 149 CLR 337] at 344; and see the cases cited at Seddon, Bigwood & Ellinghaus, Cheshire & Fifoot Law of Contract, 10th ed (2012), par 10.55.
+Based on these authorities, I find that it was an implied term of the Building Contract that Fortia was obliged to set aside, and retain, a separate trust fund equal to the funds it retained from progress payments.
+Fortia did not comply with that contractual obligation; it did not set aside the amounts it retained from the progress payments due to Parkview.
+The Court of Appeal in Mac-Jordan Construction (supra) dealt with a situation very similar to that in the present case. A developer was entitled under a building contract to retain 3 per cent of the amount due to the builder as interim payments and was obliged to hold those sums as trustee for the builder. The developer retained funds but no fund was ever appropriated or set aside in respect of the retention monies. The developer became insolvent.
+The Court of Appeal held that as the retention funds had not been set aside "there were, and are, no identifiable assets impressed with the trusts applicable to the retention fund" (per Scott LJ at 356).
+In my opinion, the same result follows in this case. Because of Fortia's breach of its contractual obligation to set aside a retention fund, there were no identifiable assets of Fortia referable to the amounts it had retained impressed with the trust referred to in cl 5.10 of the Building Contract. Until the ANZ Guarantee was delivered in July 2009, the Retention Moneys Trust had no assets at all.
+Parkview was not without a remedy. At all times, it was able to exercise its right under cl 5.10 to seek information from Fortia confirming that retention monies were held by it on trust and to take such steps as may have been available to it in response to revelation by Fortia that no fund had been set aside. 
+The trust contended for - the pleaded case 
+BankWest as constructive trustee
+Parkview alleges that BankWest "constituted" itself, or "is to be treated as if" it were trustee of the Retention Moneys Trust.
+In support of this, Parkview relies upon: - 
+BankWest's conduct during the course of the Project (particularly its role in the making of progress payments to Parkview); the circumstances in which the ANZ Guarantee was delivered to it; and representations said to have been made by BankWest to Parkview in letters sent to it by BankWest's QS on 31 August 2009 and 9 October 2009.
+Parkview developed this submission by contending that in those circumstances BankWest was or became a constructive trustee of the Retention Moneys Trust.
+
+Knowing receipt
+Alternatively, Parkview submits that BankWest "received retention moneys, or the benefit of retention moneys, with knowledge or notice of the Retention Moneys Trust".
+In oral argument, Parkview accepted that BankWest had not received any "retention moneys" but argued that BankWest had received, and had continued to hold trust property - the ANZ Guarantee - knowing it was trust property and thereby itself became trustee of that trust property.
+In those circumstances, Parkview contends that BankWest is liable as constructive trustee by virtue of being a trustee de son tort. 
+The unpleaded case - knowing assistance
+In written submissions, provided by direction after the conclusion of oral argument, Parkview also submitted that: - 
+Fortia had engaged in "fraudulent conduct" by failing to comply with its "equitable duty to get in and secure the trust assets"; and that 
+Equity: - would have restrained BankWest from participating in such "fraudulent conduct"; would have compelled Fortia to draw down the retention monies and hold them separately; would have compelled BankWest to provide the funds; and "will now require BankWest to account as if it had made those funds available when it was required to do so".
+Parkview thereby sought to raise a "knowing assistance" case that it had not pleaded, not foreshadowed in opening written submissions and which it had, in terms, eschewed during oral submissions. 
+BankWest submits, and I accept, that had this allegation been pleaded, it would have been defended and that evidence may well have been called to meet it.
+In my opinion, it is not now open to Parkview to make this allegation.
+In any event, I see nothing in the evidence to justify the conclusion that BankWest participated in any way in any "fraudulent conduct" of Fortia. In particular, there is no evidence that BankWest had any knowledge that Fortia had failed to set aside funds (for example from those advanced by BankWest and paid by it at Fortia's direction to Fortia's account at Westpac) to meet its potential obligation to pay to Parkview the funds retained from progress payments.
+
+Was BankWest constructive trustee? 
+The course of the Project
+BankWest relies upon the following circumstances which occurred during the course of the Project.
+First, BankWest was, at least from the time that it entered the Tripartite Deed, aware of the Building Contract and was, I am prepared to infer for the purpose of dealing with this submission, aware of the parties' obligations under the Building Contract.
+Second, BankWest engaged BankWest's QS to act for it in connection with the construction of the Project.
+Third, both BankWest and BankWest's QS were represented on the "Project Control Group" which oversaw construction of the Project.
+Fourth, progress claims were submitted by Parkview to the Superintendent, reviewed by BankWest's QS and then submitted by BankWest's QS to BankWest for payment. BankWest made payment direct to Parkview, by way of draw down on the Facility.
+The progress payments as approved by the Superintendent were net of retention. Consequently the payments made by BankWest to Parkview were, likewise, net of retention.
+Parkview submitted that, in order to "make sense of the fundamental assumption between the parties", this involvement by BankWest in the Project pointed to the conclusion that BankWest had somehow constituted itself trustee of the undrawn funds under the Facility referable to the retention.
+I do not agree. I see nothing in these circumstances to suggest that BankWest played any role other than as a lender to Fortia. I see no basis to conclude that BankWest had any responsibility to monitor whether Fortia maintained a fund into which it paid the amounts retained from progress payments due to Parkview, or to monitor how it otherwise dealt with the $5.7 million drawn by Fortia from the Facility and paid into Fortia's Westpac Private Bank Account.
+
+Substitution of the ANZ Guarantee
+Under the Building Contract, Parkview was entitled to lodge a bank guarantee in lieu of retention monies.
+At the end of 2008, Parkview informed Fortia that it wished to "exchange...the cash retention accumulated so far into a bank guarantee". 
+That exchange took place in July 2009. By then the amount retained by Fortia from progress payments was in the order of $2 million.
+ANZ issued the ANZ Guarantee on 28 July 2009. On 31 July 2009 the Chief Financial Officer of Parkview delivered the ANZ Guarantee to BankWest. On 30 July 2009 BankWest, with Fortia's authority, drew down on the Facility and issued a bank cheque in favour of Parkview in the sum of $1.2 million.
+On 18 May 2010 the Superintendent issued a certificate of practical completion. Fortia's entitlement to security was thereby reduced from 5 per cent to 2.5 per cent of the value of the work.
+On 21 February 2011 Fortia, by its liquidator, notified ANZ that the ANZ Guarantee was "no longer required". ANZ was thereby released from its obligation under the ANZ Bank Guarantee.
+Between July 2009 and (at least) February 2011 BankWest retained physical custody of the ANZ Guarantee
+Parkview submitted that BankWest had no right under the Building Contract or the Tripartite Deed "to hold... assets which were the subject of the trust" except as assignee of those assets. Parkview submitted, that in taking possession of the ANZ Guarantee and paying out "the equivalent retention monies" to Parkview, BankWest engaged in conduct sufficient to cause it to be a trustee de son tort.
+A trustee de son tort is one who: - "...not being a trustee and not having authority from a trustee, takes upon himself to intermeddle with trust matters or to do acts characteristic of the office of trustee" (per Smith LJ in Mara versus Browne [[1896] 1 Ch 199] at 209, cited in MJ Leeming and JD Heydon, Jacobs Law of Trusts in Australia, 7th ed , par 1303).
+In Robb Evans & Associates versus European Bank Ltd <case>; [(2004) 61 NSWLR 75] at 211 in which it was stated: - "...a person who receives into his hands trust moneys, and who deals with them in a manner inconsistent with the performance of trusts of which he is cognisant is personally liable for the consequences which may ensue upon his so dealing."
+However, the evidence is silent as to why Parkview delivered the ANZ Guarantee to BankWest, and why BankWest retained physical custody of the ANZ Guarantee for the period to which I have referred. My attention has not been drawn to any evidence to suggest that this occurred as a result of any requirement stipulated by BankWest or that BankWest asserted it had any right, under the Building Contract, the Tripartite Deed or otherwise, to retain possession of the ANZ Guarantee.
+I infer that BankWest held the ANZ Guarantee in safe custody for its customer Fortia, who was the favouree under the instrument and the only party entitled to call on it. There was no assignment of Fortia's rights under the ANZ Guarantee to BankWest so as to constitute BankWest a trustee of that chose in action. As BankWest submits, there is a clear distinction between a trust and a bailment, and no evidence to suggest that general property in the ANZ Guarantee passed to BankWest so as to constitute it a trustee.
+The ANZ Guarantee was a security which, by reason of cl 5.10 of the Building Contract, Fortia and Parkview held on trust for whichever one of them was ultimately entitled to its proceeds under the Building Contract. For reasons unexplained in the evidence, both parties were content for BankWest to have custody of the relevant document. 
+On receipt of the document, BankWest drew a bank cheque in favour of Parkview. However it is clear that BankWest took this step on Fortia's instructions and with its authority. The relevant record from BankWest states that "sufficient funds are available to complete and customers [sic] authority to pay is held". I would infer from that material that Fortia instructed BankWest that, once the ANZ Guarantee was to hand, it wished to draw down a further $1.2 million from the Facility and that it instructed BankWest to cause that amount to be paid to Parkview by bank cheque.
+I see nothing in these circumstances to suggest that BankWest thereby "intermeddled" in the Retention Moneys Trust or acted as if it were trustee of that trust or dealt with any trust assets inconsistently with that trust.
+In any event, it would not follow from a conclusion that BankWest did constitute itself a trustee of the ANZ Guarantee that it thereby became a trustee of the Retention Moneys Trust generally.
+
+The alleged representations
+Parkview submits that, alternatively, BankWest represented to Parkview that BankWest "held the retention moneys under the Building Contract which had been deducted from payments made to Parkview in respect of the Progress Claims made by Parkview" (Amended Technology and Construction Reply par 3(a)).
+First it is submitted that in dealing directly with Parkview in respect of the ANZ Guarantee, BankWest impliedly represented to Parkview that "the retention monies existed and were held or controlled by it". Parkview submits that "[t]he implication was that the monies were held available or at least had been earmarked in the sense that BankWest had promised to make them available when the time came to pay them out."
+I do not accept this submission. In my opinion, BankWest's conduct conveyed no more than a representation that it was authorised by its customer, Fortia, to receive the ANZ Guarantee and, in return, draw down $1.2 million under the Facility and make that sum available to Parkview by way of bank cheque. That was true.
+Second, Parkview submits that further representations arose by reason of two letters sent by BankWest's QS.
+Mr Emile Tabet, a director of Parkview, gave evidence that: - "In about August 2009 I entered into negotiations with representatives of
+Fortia concerning claims for variations which had been made by Parkview and which had not yet been approved or paid. I sought confirmation that there was sufficient funds available from BankWest to cover the contract works and variations."
+On 27 August 2009, Mr Jon Drane from Fortia, wrote to Mr Tabet: - "I confirm discussions with Paul Elphick [BankWest's QS] today where he will issue a letter confirming adequate funds exist to cover your contract works and approved variations. This will be in full light of the bank and be copied to the bank and Fortia."
+On 31 August 2009, BankWest's QS wrote to Fortia (with a copy to Parkview and BankWest) as follows: - "Further to your request of confirmation of funds to complete the approved construction works we confirm the following: 
+The approved contract sum with Parkview as at 20 August 2009 inclusive of CVA
+No. 32 is $47,696,881.34 excluding GST.
+
+We confirm there is [sic] sufficient funds within the current BankWest facility for value of works up to and including CVA No. 32.
+
+As instructed we shall copy this letter to Parkview (Emile Tabet) and BankWest (Louise Lester) for their information."
+Parkview submitted that by this letter, BankWest, by its QS, represented to Parkview that, not only was there sufficient "head room" (to use a word mentioned in oral submissions) in the Facility to enable Fortia to fund the Project to the then approved contract sum of $47,696,881.34, but that BankWest would make that money available to Parkview, when Parkview became entitled to receive it, whether Fortia "formally asks for that or not".
+I do not read the 31 August 2009 letter this way. It seems to me that the natural reading of the letter, particularly the third paragraph, conveys no more than that the amount currently undrawn under the Facility would be sufficient to fund the works. There is no suggestion that this was not the case.
+In that sense it was responsive to Mr Tabet's enquiry as to whether there were "sufficient funds available from BankWest to cover the contract works and variations".
+Furthermore, Mr Tabet did not understand the letter as conveying a representation that BankWest would advance funds sufficient to fund the cost of the Project, come what may.
+Mr Tabet gave this evidence: - "Q: ...you wanted confirmation that the BankWest facility was sufficient to meet the currently anticipated cost of the Project? 
+A: Correct.
+
+Q: And insofar as payment of the retention was concerned, you told us a moment ago that your understanding was that Fortia would be able to draw down the retention from its BankWest facility and pay it to you when it needed to; yes? 
+A: Yes.
+
+Q: At practical completion and final completion? 
+A: Yes.
+
+Q: And you viewed this letter as some confirmation and comfort that notwithstanding that the cost of the project had increased through approved variations, the terms of their facility with BankWest were such that they would still be able to do that? 
+A: Yes.
+
+Q: They would, when required, be able to borrow enough money from BankWest to pay you your retentions; correct? 
+A: It should be in the facility...
+
+Q: You understood that under the terms of the facility with BankWest they would be entitled to draw down the amount required to pay you your retention when they were obliged to pay it? 
+A: Yes."
+Later: - "Q: And you took the trouble [in August 2009] to make sure there was enough capacity in the bank facility to cover the cost of the project, notwithstanding [an increase in costs as a result of variations]? 
+A: Yes.
+
+Q: And you sought to do the same in relation to the further increase in costs of the project brought about by unanticipated external works? 
+A: Yes.
+
+Q: Depending on whether there were further unanticipated expenses, Fortia's capacity to fund the works under the facility may or may not be sufficient.
+You knew that? 
+A: Yes."
+This evidence makes clear, in my opinion, that Mr Tabet, thus Parkview, did not rely upon the 31 August 2009 letter as a representation by BankWest of the kind contended for.
+On 9 October 2009, BankWest's QS wrote to Mr Tabet from Parkview and Mr Drane from Fortia attaching a "Construction Cost Financier Certification". Parkview contends that this document "certified the then retention moneys of $1,050,000 as a credit".
+The figure of $1,050,000 appeared in that certificate in a table in the following form: - 
+Contract 
+Amount 
+Total  
+Value Of Work To Date 
+Total Previous Value of Work Certified 
+Value Completed Since Last Certification 
+Drawdown To Complete Excl GST  ---|---|---|---|---  $
+ $
+ $
+ $
+ $  
+DESIGN, SUPERVISION, PRELIMINA 
+TRADE COSTS 
+APPROVED VARIATIONS (Note vii) ,873,000 ,127,000  ,591,498 ,738,236 ,941,255  ,116,967 ,383,009 ,776,957  ,812,348 ,227 ,164,298  ,619 ,134,764 -814,255  ,474,531  
+SUBTOTAL ,591,498 ,796,458 ,972,314 ,824,144 ,795,040  
+RETENTION (5%) CASH 
+RETENTION (5) BOND (Note vii) -2,479,575  -1,050,000  -948,616  -101,384  ,050,000   
+TOTAL (Excl GST) ,111,923 ,746,458 ,023,498 ,722,760 ,845,040  
+GST 
+RETENTION (5%) BOND (Note vii) ,711,192  -235,560 ,474,646  -1,200,000 ,202,370  -1,200,000 ,276  
+TOTAL ,823,155 ,021,104 ,026,068 ,995,036
+I do not accept the submission that this document contains a certification that there was $1,050,000 retention monies "in credit". Rather, the table merely shows that included in the "draw down to complete" was an amount of $1,050,000 on account of retention.
+Mr Tabet so understood the document, as the following passage from cross examination reveals: - "Q: Your understanding as a result of receiving [the 9 October 2009 communication] was that when the time arose for Fortia to pay the retention under the terms of the contract, then assuming that the total project costs were as then projected, there would be sufficient capacity in the BankWest facility for them to pay the retention? 
+A: Yes.
+
+Q: Indeed that's confirmed in the right hand column [in the table referred to in a preceding paragraph of this judgment], isn't it, where there's a reference to draw down to complete; yes? 
+A: Yes.
+
+Q: You assumed that to mean drawn down by Fortia under the BankWest facility? 
+A: Yes.
+
+Q: And then they would draw down to complete an amount which included the $1,050,000 retention? 
+A: Yes."
+Although Mr Tabet said that he "actually believed the bank was holding the retention moneys separately", he understood that there was no fund set aside that constituted the retention monies. He gave this evidence: - "Q: You told us several times now that you understood when everything was done to BankWest's satisfaction Fortia would draw down the amount required to repay retention moneys on its facility? 
+A: Correct.
+
+Q: It is in that sense that the bank held the retention moneys you say? 
+A: Yes.
+
+Q: BankWest promised to lend Fortia an amount of money which at that time would be enough to cover the retention? 
+A: Yes."
+For these reasons I do not accept Parkview's submission that BankWest made the alleged representations. 
+Conclusion as to the Trust Issues
+In my opinion, Parkview has failed to establish that BankWest is constructive trustee of the Retention Moneys Trust, or at all.
+I will now hear submissions as to the future conduct of the proceedings. * * * 

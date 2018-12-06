@@ -1,0 +1,499 @@
+
+
+Healthscope Limited versus Symbion Health Limited [2008] NSWSC 893 (1 September )
+
+Last Updated: 2 September 2008 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Healthscope Limited versus Symbion Health Limited <case>  
+JURISDICTION:  
+FILE NUMBER(S):  /2008  
+HEARING DATE(S):  July 2008  
+JUDGMENT DATE:  September 2008  
+PARTIES: 
+Healthscope Limited (ACN 006 405 152) 
+Symbion Health Limited (ACN 004 073 410)  
+JUDGMENT OF: 
+Hammerschlag J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+B.W. Walker SC with J.R.J. Lockhart (Plaintiff) 
+T.F. Bathurst QC with S.M. Nixon (Defendant)  
+SOLICITORS: 
+Allens Arthur Robinson, Solicitors (Plaintiff) 
+Mallesons Stephen Jaques (Defendant)  
+CATCHWORDS: 
+CONTRACT - Construction - whether on proper construction of Transaction
+Implementation Deed ("the Deed") and Termination Deed break fee payable -
+Plaintiff proposed to take over Diagnostics Businesses owned by defendant's subsidiary - Deed provided for payment of break fee if the transaction did not proceed in specified circumstances one of which was if a Competing Proposal was announced "prior to the date" of defendant's general meeting which was to consider transaction and that proposal was ultimately completed - date was set for meeting to be held but after adverse tax rulings the meeting was cancelled and the parties agreed to terminate the Deed - Competing Proposal had been announced before the date the meeting was to be held and was ultimately completed - question of construction whether "date of" the meeting meant date the meeting took place or date for which it was scheduled to take place but did not - Termination Deed had provisions that break fee provisions survive termination of the Deed - effect.  
+LEGISLATION CITED:  [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth)  
+CATEGORY: 
+Principal judgment  
+CASES CITED: 
+Idameneo (No 123) Pty Ltd versus Symbion Health Ltd <case>; <case>; <case>; [(1973) 129 CLR 99]  
+TEXTS CITED:  
+DECISION: 
+Summons dismissed. Plaintiff to pay the defendant's costs of the proceedings.  
+JUDGMENT:  - 51 - 
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+COMMERCIAL LIST  
+HAMMERSCHLAG J  SEPTEMBER 2008  /2008 HEALTHSCOPE LIMITED (ACN 006 405 152) -V- SYMBION HEALTH
+LIMITED (ACN 004 073 410) 
+JUDGMENT  
+INTRODUCTION  HIS HONOUR: The defendant (or "Symbion Health" as the case may be) through a subsidiary, owned pathology, medical centre and diagnostic imaging businesses ("the Diagnostics Businesses").
+ In 2007 it desired to sell the Diagnostics Businesses and the plaintiff (or "Healthscope" as the case may be) desired to purchase them.
+ On 8 October 2007 they entered into a deed entitled Transaction
+Implementation Deed ("the Deed") which contemplated entry into of a transaction described as the "Diagnostics Transaction". That transaction would have effected the transfer of the Diagnostics Businesses to the plaintiff by the sale to it of the shares in the defendant's subsidiary.
+ Under the Deed a fee of $19.575 million described as the "Symbion Health
+Break Fee" ("the break fee") would be payable by the defendant to the plaintiff if, in certain specified circumstances, the Diagnostics Transaction did not proceed. There were also provisions for the payment under other circumstances (not presently relevant) of the break fee by the plaintiff to the defendant.
+ On 27 November 2007, by a deed entitled Termination Deed, the parties agreed to terminate the Deed, and the Diagnostics Transaction did not proceed.
+ The plaintiff says that the circumstances which entitle it to be paid the break fee have occurred. It sues for payment.
+ 
+FACTUAL BACKGROUND The plaintiff has at all material times been a public company listed on the
+Australian Stock Exchange. The defendant is also a public company. Until 9 May when they were delisted, its shares were also listed on the Australian
+Stock Exchange. At all material times each was a significant commercial entity.
+ In May 2007 the parties proposed to achieve the transfer of the Diagnostics
+Businesses by a scheme of arrangement under [pt .1](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.1) of the [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) ("the Act"), but that proposal was abandoned, despite each having incurred considerable expense in initially pursuing it.
+ By the Deed they agreed, provided their respective shareholder bodies so resolved, to implement the Diagnostics Transaction. Under it the defendant would sell to the plaintiff the shares in its subsidiary which owned the
+Diagnostics Businesses, would in turn be issued shares in the plaintiff ("the
+Consideration Shares") which it would distribute in specie to its shareholders ("the New Healthscope Shares"), and would at the same time have an equal reduction of capital in relation to its ordinary shares.
+ The number of New Healthscope Shares to be issued per share in the defendant was a fraction which would depend on the volume weighted average price ("VWAP") of Healthscope shares during a designated period before completion ("the Healthscope VWAP Period").
+ It was contemplated that the defendant, because it was exchanging shares in its subsidiary for shares in the plaintiff, might be liable for capital gains tax ("CGT") under the income tax legislation for the capital gain which it might make on the exchange unless it fell into an exception commonly referred to as "scrip for scrip rollover relief".
+ It was also contemplated that because the defendant's shareholders were in effect exchanging their interest in the subsidiary for shares in the plaintiff, they too might be subject to the payment of CGT unless they fell into an exception commonly referred to as "demerger rollover relief", where, relevantly, shares in a new entity are received by shareholders as consideration for the loss of part of an enterprise of their company.
+ For present purposes it is not necessary to delve into the vagaries of the income tax system; suffice it to say that, at the time the Deed was made, rulings from the Australian Taxation Office ("ATO") had been requested in respect of both questions of rollover relief. Under the Deed the receipt of positive rulings was made a condition precedent to completion of the
+Diagnostics Transaction and both parties were entitled to terminate the Deed if the rulings were not received before 8.00am on the Symbion Health Meeting
+Date.
+ Apart from the Diagnostics Businesses, the defendant also owned and operated a Consumer Business (the manufacture and sale of nutraceuticals) and a Pharmacy Business.
+ In a separate transaction to be implemented by a scheme of arrangement ("the C&P Scheme") and on the terms of an instrument described as the
+C&P Scheme Implementation Deed, the defendant contemplated the disposal, at the same time, of those other business to someone other than the plaintiff.  The implementation of the C&P Scheme was made conditional on completion of the Diagnostics Transaction but the Diagnostics Transaction was not conditional on the implementation of the C&P Scheme.
+ In order to implement the Diagnostics Transaction it was necessary for each party's shareholders to pass certain resolutions in general meeting ("the
+Symbion Health Resolutions" and "the Healthscope Resolutions" respectively).
+ To implement the C&P Scheme it was necessary for the defendant also to hold meetings to pass resolutions for that purpose.
+ The Deed made provision for meetings to be convened substantially in accordance with a specified timetable ("the Timetable") to enable the resolutions required for the Diagnostics Transaction to be put and, the parties hoped, passed.
+ On 26 October 2007 the defendant convened an extraordinary general meeting of shareholders, described in the Deed as the Symbion Health General Meeting, to be held at 10.30am on 30 November 2007 to consider and vote on the Symbion
+Health Resolutions ("the Meeting"). It also convened meetings for the C&P
+Scheme to be held later the same day.
+ The defendant circulated to its shareholders a comprehensive Explanatory
+Memorandum concerning the various transactions. It contained notice of the various meetings and a schedule of key dates. Beneath the schedule the following notation was included: "This timetable is indicative only. The actual timetable will depend upon the time at which the conditions precedent to the Diagnostics Transaction
+Implementation Deed and the C&P Scheme Implementation Deed are satisfied, or (if applicable) waived, including the gazettal by the ATO of the required rulings in relation to the Diagnostics Transaction." In the Explanatory Memorandum the defendant's directors unanimously recommended to shareholders that they vote in favour of all the resolutions proposed.
+ On 26 October 2007 Idameneo (No. 123) Pty Ltd, a wholly owned subsidiary of
+Primary Healthcare Ltd ("Primary"), itself a listed company, commenced proceedings in the Federal Court of Australia against the defendant and its directors seeking to challenge the break fee provisions in the Deed amongst others on the grounds that in committing the defendant to them the directors had acted in breach of their fiduciary duties.
+ On 8 November 2007 Primary announced a cash offer (colloquially referred to as an off-market takeover bid) for the shares in the defendant. At the time
+Primary held 20% of the shares in the defendant on issue.
+ The terms of the offer were embodied in a bidder's statement of the same date which Primary was required to provide under the Act.
+ The offer was subject to conditions including one that by the end of the offer period Primary must have at least 90 per cent of the shares in the defendant on issue. The offer also provided that Primary could declare it free from all or any of the conditions.
+ On 8 November 2007 the defendant's board of directors publicly advised its shareholders to reject Primary's offer.
+ On 27 November 2007 the defendant announced that the ATO had ruled that the defendant "cannot benefit from scrip for scrip CGT roll-over relief" in relation to the Diagnostics Transaction and for that reason the proposed acquisition of the Diagnostics Businesses would not proceed.
+ The defendant cancelled the Symbion Health General Meeting on the same day.
+ On 27 November 2007 under the Termination Deed, the parties agreed that the
+Deed was terminated and ceased to have any effect and to be binding on the parties. The Termination Deed provided that certain provisions of the Deed survived termination, including the break fee provisions.
+ On 27 November 2007 the Federal Court dismissed Primary's challenge to the efficacy of the break fee provisions: Idameneo (No 123) Pty Ltd versus Symbion
+Health Ltd <case>; [(2007) 165 FCR 19.] On 13 February 2008 Primary announced that it had acquired a relevant interest in more than 50% of the defendant's shares and declared that its offer was free from conditions.
+ On 13 February 2008 the defendant announced that it recommended acceptance of Primary's bid.
+ On 13 February 2008 the plaintiff in writing demanded payment of the break fee from the defendant. The defendant did not pay it.
+ On 6 March 2008 Primary announced that it had acquired a relevant interest in 90.43% of the defendant's shares and was entitled to proceed to compulsory acquisition of the remainder under the Act.
+ On 11 March 2008 Primary announced that it intended to commence the process of compulsorily acquiring 100% of the shares in the defendant.
+ By 17 April 2008 Primary had completed payment of consideration to all shareholders who had accepted its offer.
+ On 28 April 2008 Primary completed the compulsory acquisition of the remaining shares in the defendant.
+ On 6 May 2008 the plaintiff in writing again demanded payment of the break fee. Again the defendant did not pay it.
+ 
+THE ISSUES IN THE PROCEEDINGS 
+Liability Clause 13.9 of the Deed is in the following terms:  "Symbion Health Break Fee 
+Subject to clauses 13.9(c) and 13.11(a), Symbion Health must pay
+Healthscope the Symbion Health Break Fee in accordance with clause 13.9(b) without withholding or set off if: a Superior Symbion Health Proposal is announced prior to the date of the
+Symbion Health General Meeting and is publicly recommended by the Symbion
+Health Board;  any director of Symbion Health fails to recommend or publicly changes or withdraws his or her recommendation of the Diagnostics Transaction, or publicly recommends a Superior Symbion Health Proposal;  a Competing Proposal is announced prior to the date of the Symbion
+Health General Meeting and is completed at any time prior to the first anniversary of the date of this deed and, as a result, a Third Party:  
+A. acquires control of Symbion Health or the Symbion Health Group within the meaning of [section
+AA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s50aa.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (or acquires an equivalent shareholding or economic interest in Symbion Health pursuant to the implementation of a dual-listed company structure or a reverse takeover);  
+B. directly or indirectly acquires, has a right to acquire or otherwise acquires an economic interest in, all or a significant part of the Diagnostics
+Businesses;  
+C. acquires control of the Diagnostics Businesses or any of the Diagnostics
+Entities within the meaning of [section
+AA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s50aa.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/); or  
+D. directly or indirectly acquires, merges with, or acquires a significant shareholding or economic interest in any of the Diagnostics Entities or all or a significant part of the Diagnostics Businesses, whether by way of takeover offer, scheme of arrangement, shareholder approved acquisition, capital reduction, share buy-back, sale or purchase of assets, joint venture, reverse takeover, dual-listed company structure, recapitalisation, establishment of a new holding company for the Symbion Health Group or any of the Diagnostics
+Entities or other synthetic merger or any other transaction or arrangement; or  
+Healthscope terminates this deed in accordance with clause 15.1(b), .1(e) or 15.1(f).  
+Symbion Health must pay Healthscope the Symbion Health Break Fee within 5 Business Days after receiving a written notice from Healthscope setting out the relevant circumstances and requiring payment of the Symbion
+Health Break Fee.
+
+Despite any other term of this deed: the Symbion Health Break Fee will not be payable to Healthscope if
+Completion of the Diagnostics Transaction occurs notwithstanding the occurrence of any event in clause 13.9(a);  the Symbion Health Break Fee is only payable once;  the Symbion Health Break Fee will not be payable to Healthscope if:  
+A. the value of the Consideration Shares is below the assessed valuation range of the Diagnostics Businesses (assuming completion of the Recapitalisation
+Steps), excluding from that valuation range the impact of any Competing
+Proposal, set out in the Symbion Health Diagnostics Independent Expert's
+Report (including in any update to such report, other than any update which is prepared solely as a result of the announcement of a Superior Symbion Health
+Proposal or a Competing Proposal or any public recommendation of a Superior
+Symbion Health Proposal or a Competing Proposal by any director of Symbion
+Health);  
+B. the Healthscope VWAP is less than $5.30 (or if the Symbion Health General
+Meeting is not held, the value which would have been the Healthscope VWAP, if the Symbion Health Meeting had been held on the date on which it was first scheduled to be held, is less than $5.30), and (unless this deed has been otherwise terminated prior to that date) Symbion Health terminates this deed pursuant to clause 15.2(f) on or before the date that is 2 weeks after Symbion
+Health becomes entitled to terminate this deed pursuant to that clause; or  
+C. Symbion Health is entitled to terminate this deed under clause 15.2(b), .2(d), 15.2(e), 15.2(f), 15.2(g), 15.2(h), or 15.2(i).  
+For the avoidance of doubt, the Symbion Health Break Fee will not be payable merely by reason that the Symbion Health Resolutions are not approved by Symbion Health Shareholders at the Symbion Health General Meeting."  "Competing Proposal" is defined in cl 1.1 of the Deed to mean:  "a transaction or arrangement which is proposed by a Third Party pursuant to which (other than as contemplated pursuant to the Transactions or the Diagnostics Transaction) a Third Party will, if the proposed transaction or arrangement is entered into or completed substantially in accordance with its terms: directly or indirectly acquire, have a right to acquire or otherwise acquire an economic interest in, all or a significant part of the business of the Symbion Health Group; acquire a Relevant Interest in any Symbion Health Shares, as a result of which the Third Party will have a Relevant Interest in 20% or more of the Symbion Health Shares; otherwise acquire control of Symbion Health or the Symbion Health
+Group within the meaning of [section
+AA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s50aa.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/); or otherwise directly or indirectly acquire, merge with, or acquire a significant shareholding or economic interest in Symbion Health or all or a significant part of the business of the Symbion Health Group, whether by way of takeover offer, scheme of arrangement, shareholder approved acquisition, capital reduction, share buy-back, sale or purchase of assets, joint venture, reverse takeover, dual-listed company structure, recapitalisation, establishment of a new holding company for the Symbion Health Group or other synthetic merger or any other transaction or arrangement.
+
+For the purposes of paragraphs (a) and (d) above: the Diagnostics Businesses (or a significant part of the Diagnostics
+Businesses) will be taken to be a significant part of the business of the
+Symbion Health Group; and the C&P Businesses (or a significant part of the C&P
+Businesses) will not be taken to be a significant part of the business of the
+Symbion Health Group." The plaintiff relies only on the circumstances contemplated in cl .9(a)(iii) as having occurred to give rise to the defendant's obligation to pay the break fee.
+ Although the defendant did not formally concede that the Primary offer was a Competing Proposal as defined, nothing to the contrary was put in oral submissions. All that need be said on that subject is that it was a proposal put by a third party which resulted in each of the outcomes contemplated in the definition of Competing Proposal and accordingly it satisfies the requirements of the definition.
+ It is not in issue that the Primary offer was completed.
+ As its only defence to liability, the defendant contends that on the proper construction of cl 13.9(a)(iii) the break fee is not payable where the Deed is terminated by agreement and the Meeting is not held. It put that for the provision to have effect the Meeting must take place.
+ The plaintiff contends that the break fee is payable if a date is set for the Meeting and a Competing Proposal is announced before that date (assuming that proposal is later completed) whether the Meeting takes place or not.
+ Liability accordingly turns on the single issue whether the words in cl .9(a)(iii) "the date of the Symbion Health General Meeting" mean a date on which the Meeting was scheduled to be held (but was not because the Deed was terminated by agreement) or the date on which the Meeting took place.  
+Quantum Clause 13.9(b) provides that the defendant must pay the break fee within five business days after receiving a written notice from the plaintiff setting out the relevant circumstances and requiring payment.
+ Here the relevant circumstances were that the Primary offer was "completed", with one or more of the results contemplated by cls 13.9(a)(iii)A - D.
+ The parties diverge as to when that state of affairs first existed. The answer will determine the date from which interest is to be calculated, if the break fee is otherwise payable.
+ The defendant puts that the Primary offer was completed only when Primary had acquired and paid for the entirety of the shares in the defendant.
+ The plaintiff puts that the Primary offer was completed earlier when
+Primary, having acquired more than 50 per cent of the defendant's shares, declared its offer free from conditions. That occurred on 13 February 2008.
+The plaintiff made demand on that day and, if the Primary offer had been "completed" by then, the break fee was payable five business days later.
+ It is not in issue that the Primary offer was completed at the latest by the time the plaintiff made its second demand on 6 May 2008 and that, if payable, the break fee was due at the latest five business days later.
+ Both liability and quantum involve the proper construction of the terms of the Deed and its operation in the undisputed circumstances which have occurred.
+ 
+THE LEGAL PRINCIPLES It suffices to set out only briefly the legal principles which govern the construction of commercial contracts such as the Deed.
+ The meaning of words used in the Deed is to be determined by what a reasonable person would have understood them to mean. This requires consideration of the language used, the surrounding circumstances known to the parties, the purpose of the transaction and the objects which it was intended to secure: Toll (FGCT) Pty Ltd versus Alphapharm Pty Ltd (2004) 219 CLR 165 at ; International Air Transport Association versus Ansett Australia Holdings Ltd (Subject to Deed of Company Arrangement) [(2008) 212 ALR 47] at [8].
+ The whole of the instrument has to be considered. Preference is given to a construction supplying a congruent operation to the various components of the whole of an instrument: Wilkie versus Gordian Runoff Limited <case>; [(2005) 221 CLR 522] at 529.
+ If the words used are unambiguous, the Court must give effect to them. If the language is open to two constructions, that will be preferred which will avoid consequences which appear to be capricious, unreasonable, inconvenient or unjust: Australian Broadcasting Commission versus Australasian Performing Right
+Association Limited <case>; [(1973) 129 CLR 99] at 109.  
+OTHER RELEVANT PROVISIONS OF THE DEED  Although some of them are lengthy it is necessary to set out other relevant provisions of the Deed.
+ "1. Definitions and interpretation .1 Definitions 
+In this deed: ...
+ "Completion" means completion of the Diagnostics Transaction in accordance with the terms of this deed and the Diagnostics Sale and Purchase
+Agreement.
+ "Diagnostics Businesses" means the pathology, medical centres and diagnostic imaging businesses of Symbion Health Group and the Joint Venture
+Companies.
+ "End Date" means 28 February 2008 or such later date as is agreed by the parties in writing.
+ "Healthscope Break Fee" means an amount equal to $19.575 million.
+ "Healthscope VWAP" means the average (calculated to 2 decimal places) of the volume weighted average share prices for Healthscope Shares traded on ASX (excluding any and all special crossings, crossings made prior to the commencement of normal trading, crossings made during the closing phase or the after hours adjust phase, overseas trades and overnight crossings or trades pursuant to the exercise of options over Healthscope Shares, and any other trades which Symbion Health and Healthscope reasonably agree to exclude on the basis that they are not representative of the general price at which
+Healthscope Shares are trading on ASX in the context of trading in Healthscope
+Shares on any day on which the trades took place) on each of the Trading Days comprising the Healthscope VWAP Period.
+ "Healthscope VWAP Period" means the 10 Trading Days prior to, but not including, the day of the Symbion Health Meeting Date, save that if the Symbion Health General Meeting is adjourned, postponed or otherwise delayed pursuant to clause 4.7(b)(ii) as a result of the circumstances set out in clause 4.7(a)(ii), the Healthscope VWAP Period means the 10 Trading Days prior to, but not including, the date on which the Symbion Health General
+Meeting was originally convened by Symbion Health to be held.
+ "Superior Symbion Health Proposal" means a Competing Proposal which in the determination of the Symbion Health Board, acting in good faith and in order to satisfy what the Symbion Health Board considers to be its fiduciary or statutory duties (after having taken advice from its financial and legal advisers), would, if completed substantially in accordance with its terms and taking into account the terms and conditions of the Competing Proposal, result in a transaction more favourable to the Symbion Health Shareholders than: (i) the Diagnostics Transaction; or (ii) the Transactions viewed in aggregate.
+ "Symbion Health Break Fee" means an amount equal to $19.575 million.
+ "Symbion Health General Meeting" means the meeting of Symbion Health
+Shareholders to be convened by Symbion Health as required by clause 7.2.
+ "Symbion Health Meeting Date" means the date that the meeting convened by Symbion Health in accordance with clause 7.2 for the purposes of
+Symbion Health Shareholders approving the Symbion Health Resolutions is held (or, if the meeting is opened and then adjourned, the date on which the voting on the Symbion Health Resolutions takes place (or is concluded, if later)).
+ "Symbion Health Resolutions" means: (Listing Rule 11.1) if required by ASX, an ordinary resolution of
+Symbion Health Shareholders for the purposes of satisfying the requirements of
+ASX and the Listing Rules in relation to the Diagnostics Transaction under
+Listing Rule 11.1; (Listing Rule 11.2) if required by ASX, an ordinary resolution of
+Symbion Health Shareholders for the purposes of satisfying the requirements of
+ASX and the Listing Rules in relation to the Diagnostics Transaction under
+Listing Rule 11.2; (Capital Reduction) an: ordinary resolution of Symbion Health Shareholders approving the Capital
+Reduction for the purposes of [section
+C(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s256c.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/), in the form set out in [section ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1.html) of
+Schedule 3 of this deed (or in such other form as Symbion Health and
+Healthscope may agree in writing); and ordinary resolution of Symbion Health Shareholders approving the resolution set out in [section ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s2.html) of
+Schedule 3 of this deed (or in such other form as Symbion Health and
+Healthscope may agree in writing); and any other approvals required by law, the Listing Rules, ASIC or ASX of
+Symbion Health Shareholders reasonably considered by Symbion Health as necessary in order to implement the Diagnostics Transaction.
+ "Timetable" means the indicative timetable in relation to the Transactions set out in Schedule 2, or such other indicative timetable as may be agreed in writing by Symbion Health and Healthscope.
+ .2 Interpretation 
+In this deed headings and words in bold are for convenience only and do not affect the interpretation of this deed and, unless the contrary intention appears: ...
+ if a word or phrase is given a defined meaning, any other part of speech or grammatical form of that word or phrase has a corresponding meaning; ...
+ .1 Transaction Steps 
+Subject to the terms and conditions of this deed, the parties agree to implement the Diagnostics Transaction as follows: 
+Healthscope agrees to propose the Healthscope Resolutions; 
+Symbion Health agrees to propose the Symbion Health Resolutions; ...
+ .1 Conditions precedent to Completion 
+The obligations of Symbion Health and of Healthscope under clause 5 do not become binding on the parties until each of the following conditions has been fulfilled or waived in accordance with clause 4.4: (Symbion Health Resolutions) Symbion Health Shareholders approve the Symbion Health Resolutions by the majorities required by law and the Listing Rules, as applicable; (Healthscope Resolutions) Healthscope Shareholders approve the Healthscope Resolutions by the majorities required by law and the Listing Rules, as applicable; (Regulatory Approvals and Modifications) ASX and ASIC issue or provide such consents or approvals, or do other acts as are necessary to implement the Diagnostics Transaction before 8:00am on the Symbion Health Meeting Date and, if clause 4.5(c) applies, before 11:59 pm on the day before the Completion Date; (Restructure Agreement) the execution of the Restructure Agreement by all of the parties thereto on or before 5:00 pm on the Business Day immediately after the Symbion Health Meeting Date (Completion of Recapitalisation Steps) all of the Recapitalisation Steps referred to in paragraph 5(d) of the Recapitalisation Steps Document being completed in accordance with the Recapitalisation Steps Document before 11:59 pm on the day before the Completion Date; (No Symbion Health Material Adverse Change) no Symbion Health Material Adverse Change occurs after 28 May 2007 and before 8:00am on the Symbion Health Meeting Date and, if clause 4.5(c) applies, before the time of Completion on the Completion Date; (No Symbion Health Prescribed Occurrence) no Symbion Health Prescribed Occurrence occurs or becomes known to Healthscope after 28 May 2007 and before 8:00am on the Symbion Health Meeting Date and, if clause 4.5(c) applies, before the time of Completion on the Completion Date; (Symbion Health Warranties) the: 
+Symbion Health Warranties that are qualified as to materiality are true and correct; and 
+Symbion Health Warranties that are not so qualified are true and correct in all material respects,  in each case as at the date of this deed and as at the time immediately before :00am on the Symbion Health Meeting Date and, if clause 4.5(c) applies, before Completion on the Completion Date as though made on and as of that time; (No Healthscope Material Adverse Change) no Healthscope Material Adverse Change occurs after 28 May 2007 and before 8:00am on the Symbion Health Meeting Date and, if clause 4.5(c) applies, before the time of Completion on the Completion Date; (No Healthscope Prescribed Occurrence) no Healthscope Prescribed Occurrence occurs or becomes known to Symbion Health after 28 May 2007 and before 8:00am on the Symbion Health Meeting Date and, if clause 4.5(c) applies, before the time of Completion on the Completion Date; (Healthscope Warranties) the Healthscope Warranties that are qualified as to materiality are true and correct, and the Healthscope Warranties that are not so qualified are true and correct in all material respects, in each case as at the date of this deed and as at the time immediately before 8:00am on the Symbion Health Meeting Date and, if clause 4.5(c) applies, before Completion on the Completion Date as though made on and as of that time; (No restraint) no judgment, order, decree, statute, law, ordinance, rule or regulation, or other temporary restraining order, preliminary or permanent injunction, restraint or prohibition, entered, enacted, promulgated, enforced or issued by any court or other Government Authority of competent jurisdiction, remains in effect as at the time immediately preceding Completion which prohibits, materially restricts, makes illegal or enjoins Completion; (ATO ruling) a class ruling (or class rulings) is gazetted by the Australian Taxation Office before 8:00am on the Symbion Health Meeting Date (and remains in force, and is not withdrawn or revoked, before the Symbion Health Meeting Date) confirming that: a demerger, as described under section 125-70 of the ITAA 1997, will happen to a demerger group which includes Symbion Health and Healthscope when the Consideration Shares are distributed in specie to Symbion Health
+Shareholders pursuant to the Capital Reduction and the Share Distribution
+Dividend; any profit recognised by Symbion Health in accounting for the demerger that is credited (but not paid in cash) to shareholders will be a dividend paid to Symbion Health Shareholders under the demerger and will qualify as a demerger dividend such that it will not be assessable income or exempt income, pursuant to subsection 44(4) of the ITAA 1936; the Commissioner of Taxation will not make a determination under: 
+A. subsection 45B(3) of the ITAA 1936 that section 45BA of the ITAA 1936 will apply to demerger benefits provided to Symbion Health Shareholders; or 
+B. subsections 45A(2) or 45B(3) of the ITAA 1936 that section 45C of the ITAA will apply to capital benefits provided to Symbion Health Shareholders; (ATO private ruling) a private ruling is issued by the Australian Taxation Office before 8:00am on the Symbion Health Meeting Date (and remains in force, and is not withdrawn or revoked, before the Symbion Health Meeting Date) confirming that Symbion Health will be entitled to access CGT roll-over relief pursuant to Subdivision 124-M of the ITAA 1997 in respect of all capital proceeds received on the disposal by Symbion Health of shares in SH Holdings pursuant to the Diagnostics Transaction; (Quotation of Healthscope Shares) the Healthscope Shares to be issued as the Consideration Shares have been approved for official quotation by ASX (any such approval may be subject to customary conditions) before 8:00am on the Symbion Health Meeting Date and, if clause 4.5(c) applies, before 11:59 pm on the day before the Completion Date; (Symbion Health Diagnostics Independent Expert's Report) the Symbion Health Diagnostics Independent Expert provides a report to the Symbion Health Board stating that in its opinion the Diagnostics Transaction is (as applicable) fair and reasonable for Symbion Health Shareholders or in the best interests of Symbion Health Shareholders, and the Symbion Health Diagnostics Independent Expert does not change its conclusion or withdraw its report by notice in writing to Symbion Health prior to 8:00am on the Symbion Health Meeting Date; (Diagnostics SPA Warranties) the Diagnostics SPA Warranties that are qualified as to materiality are true and correct, and the Diagnostics SPA Warranties that are not so qualified are true and correct in all material respects, as at the date of the Diagnostics Sale and Purchase Agreement and as at the time immediately before 8:00am on the Symbion Health Meeting Date and, if clause 4.5(c) applies, before Completion on the Completion Date (tested as if the Diagnostics Sale and Purchase Agreement had been executed at that time) as though made on and as of each of those times; (S&P/ASX 200 Index) the S&P/ASX 200 is not 15% or more below its level as at the close of trading on 28 May 2007, at the close of trading on any 5 Trading Days during the Healthscope VWAP Period; (Healthscope Diagnostics Independent Expert's Report) if Healthscope commissions a Healthscope Diagnostics Independent Expert's Report, the Healthscope Diagnostics Independent Expert provides a report to the Healthscope Board stating that in its opinion the Diagnostics Transaction is (as applicable) fair and reasonable for Healthscope Shareholders or in the best interests of Healthscope Shareholders, and the Healthscope Diagnostics Independent Expert does not change its conclusion or withdraw its report by notice in writing to Healthscope prior to 8:00am on the Healthscope Meeting Date; (no prospectus under foreign laws) Healthscope and Symbion Health being reasonably satisfied, as at 8:00am on the Symbion Health Meeting Date, that no prospectus, disclosure document or other similar document or filing would be required under the laws of any jurisdiction (other than Australia) in which any Symbion Health Shareholder (or any person on whose behalf a Symbion Health Shareholder holds Symbion Health Shares) in connection with the Diagnostics Transaction (including in connection with the despatch of the Symbion Health Shareholder Materials, the Symbion Health General Meeting, the distribution (or transfer, as applicable) of the Consideration Shares under the Capital Reduction or the Share Distribution Dividend, or the issue (or any subsequent onsale) of the Consideration Shares), other than filings that are not materially onerous in order to take advantage of exemptions or exceptions to any such laws; and (No CGT event L5 gain) as at 8:00am on the Symbion Health Meeting Date, Symbion Health provides a written report to Healthscope confirming that no capital gain or gains will arise for Symbion Health pursuant to CGT event L5, or otherwise, as a result of the Diagnostics Transaction, or that any such gain or gains that will arise will not exceed $1 million in aggregate, provided that this Condition is not satisfied unless the report: sets out in full detail all relevant calculations undertaken in accordance with Division 711 of the [Income Tax Assessment Act ](http://www.austlii.edu.au/au/legis/cth/consolact/itaa1997240/) (Cth) in respect of each company ceasing to be a subsidiary member of the Symbion
+Health tax consolidated group; uses the most recent financial and tax information reasonably available to Symbion Health for the purposes of the calculations, such information being prepared consistently with Symbion Health's previous accounting and tax practices and procedures; and is free of manifest error.
+ .4 Benefit and waiver of Conditions 
+The Conditions in clauses 4.1(d) (Restructure Agreement), 4.1(f) (No
+Symbion Health Material Adverse Change), 4.1(g) (No Symbion Health Prescribed
+Occurrence), 4.1(h) (Symbion Health Warranties), 4.1(q) (Diagnostics SPA
+Warranties), 4.1(r) (S&P/ASX 200 Index), 4.1(s) (Healthscope Diagnostics
+Independent Expert's Report) and 4.1(u) (No CGT event L5 gain) are for the benefit of Healthscope and may only be waived by Healthscope by notice in writing to Symbion Health.
+
+The Conditions in clauses 4.1(i) (No Healthscope Material Adverse
+Change), 4.1(j) (No Healthscope Prescribed Occurrence), 4.1(k) (Healthscope
+Warranties), 4.1(o) (Quotation of Healthscope Shares) and 4.1(p) (Symbion
+Health Diagnostics Independent Expert's Report) are for the benefit of Symbion
+Health and may only be waived by Symbion Health by notice in writing to
+Healthscope.
+
+The Conditions in 4.1(c) (Regulatory Approvals and Modifications), .1(e) (Completion of Recapitalisation Steps), 4.1(l) (No restraint), 4.1(m) (ATO ruling), 4.1(n) (ATO private ruling) and 4.1(t) (no prospectus under foreign laws) are for the benefit of both parties and may only be waived by notice in writing from both parties.
+
+The Conditions in clauses 4.1(a) (Symbion Health Resolutions) and .1(b) (Healthscope Resolutions) are for the benefit of both parties and may not be waived.
+
+A party entitled to waive a Condition under this clause 4.4 may do so in its absolute discretion.  .5 Failure of Conditions 
+Subject to clause 4.5(c), if any Condition that is stated in clause 4.4 to be for the benefit of a party (in this clause 4.5, the "first party") (whether or not the Condition is also stated to be for the benefit of the other party):  becomes incapable of satisfaction; or  has not been satisfied, or waived in accordance with clause 4.4, before the End Date,  the first party may serve notice on the other party requiring it to consult in good faith with a view to determining whether the Transactions could be structured by alternative means or to extending the date for satisfaction of the relevant Condition, or adjourning or changing the date of any shareholder meeting in respect of the Diagnostics Transaction.
+
+If the parties are unable to reach agreement under clause 4.5(a) within 5
+Business Days after the delivery of the notice under that clause, the first party may terminate this deed by notice in writing to the other party, provided that the first party shall not be permitted to terminate this deed in respect of the relevant Condition becoming incapable of satisfaction, or not being satisfied before the End Date, if a failure by such party to comply with its obligations under this deed directly and materially contributed to the relevant Condition becoming incapable of satisfaction, or not being satisfied before the End Date.
+
+If on or before the date which is 11 Business Days after the Symbion
+Health Meeting Date, Completion has not occurred this clause 4.5(c) will be deemed to apply for the purposes of the relevant Conditions (and in determining whether any relevant Condition has become incapable of satisfaction or will be satisfied or waived before the End Date).  .7 Adjournment of Symbion Health General Meeting 
+Despite any provision to the contrary in this deed, if: on or following 5:00 pm on the day which is 5 Business Days before the date on which the Symbion Health General Meeting has been scheduled to be held: 
+A. any of the Conditions in clauses 4.1(b) (Healthscope Resolutions), 4.1(c) (regulatory approvals and modifications), 4.1(l) (no restraints), 4.1(m) (ATO rulings), 4.1(n) (ATO private ruling), 4.1(o) (quotation of Healthscope
+Shares), 4.1(p) (Symbion Health Diagnostics Independent Expert's Report), or .1(s) (Healthscope Diagnostics Independent Expert's Report), have not been satisfied or, where possible, waived in accordance with clause 4.4, before the date on which the Symbion Health General Meeting has been scheduled to be held; 
+B. Healthscope has not obtained the confirmation in writing from the ACCC that it: ) agrees to consider the competition effects of the Diagnostics Transaction by way of a variation to the Existing ACCC Undertaking as contemplated by clause 10.1 or ) does not propose to oppose the Diagnostics Transaction; 
+C. a Competing Proposal has been communicated to Symbion Health; 
+D. Healthscope is in breach of this deed; 
+E. Healthscope has postponed, adjourned or otherwise delayed the Healthscope
+General Meeting; or on or following 7:00 pm on the day which is 2 Business Days before the date on which the Symbion Health General Meeting has been scheduled to be held, the Symbion Health Board, acting reasonably, has formed the view that the Healthscope VWAP is, or is likely to be, less than $5.30, Symbion Health may, acting reasonably, take one or more of the steps set out in clause .7(b).
+
+If any of the events referred to in clause 4.7(a) occurs, Symbion Health may: adjourn, postpone or otherwise delay the holding of the Symbion Health
+General Meeting; or hold the Symbion Health General Meeting and, following the opening of the meeting, adjourn such meeting before a vote of the Symbion Health Shareholders is taken on the Symbion Health Resolutions, and Healthscope must agree to the taking of the steps referred to in this clause 4.7 and provide all assistance reasonably required by Symbion Health in connection with such steps, provided that in no event will any party be permitted or required to make or seek such an adjournment or postponement of the Symbion Health General Meeting pursuant to this clause 4.7(b) to a date, if the adjournment or postponement to that date would have the effect that
+Completion could not occur by the End Date.
+
+This clause 4.7 is without prejudice to the rights of Symbion Health and the Symbion Health Board pursuant to clauses 11, 13.10 and 15.2.
+
+Once the notice of meeting of the Symbion Health General Meeting has been despatched to Symbion Health Shareholders, Symbion Health must not adjourn, postpone or otherwise delay the holding of the Symbion Health General
+Meeting without Healthscope's written consent (such consent not to be unreasonably withheld), other than as contemplated in clause 4.7(a) and clause .7(b).
+ .1 General 
+The parties agree that, subject to the Conditions set out in clause 4.1 being satisfied or waived in accordance with clause 4: 
+Symbion Health will sell, and Healthscope will purchase, the Diagnostics
+Shares on the terms and conditions of the Diagnostics Sale and Purchase
+Agreement; in consideration for the sale and purchase of the Diagnostics Shares,
+Healthscope will issue the Consideration Shares to Symbion Health and Symbion will become the legal and beneficial owner of the Completion Shares; and 
+Symbion Health will implement the Capital Reduction and the Share
+Distribution Dividend (and comply with clause 5.9 (if applicable)).
+ .2 Completion 
+Unless this deed is previously terminated in accordance with its terms,
+Completion will take place at the place and time agreed between Healthscope and Symbion Health: on the day which is 7 Business Days after satisfaction of the Conditions specified in clauses 4.1(a) and 4.1(b); or if the day referred to in paragraph (a) is not the last Business Day in a calendar month, then on the last Business Day in the calendar month of the day referred to in paragraph (a); or if the day referred to in paragraph (b) is more than 4 Business Days after the day referred to in paragraph (a), then on the first Friday after the day referred to in paragraph (a), or on such other day as agreed by the parties in writing (including in
+Schedule 2) and provided that paragraphs (b) and (c) shall not apply if, as a result of those provisions, the Implementation Date would not occur before the
+End Date.
+ .2 Symbion Health's obligations in relation to the Symbion Health
+Resolutions 
+Symbion Health must take all steps reasonably necessary to obtain the approval of Symbion Health Shareholders to the Symbion Health Resolutions as soon as is reasonably practicable after the date of this deed and substantially in accordance with the Timetable, including taking each of the following steps: (Symbion Health Shareholder Materials) prepare the Symbion Health
+Shareholder Materials; (consultation regarding drafts) consult with Healthscope with respect to the preparation, form and content of the Symbion Health Shareholder
+Materials and will consider in good faith when preparing revised drafts of the
+Symbion Health Shareholder Materials any comments provided by Healthscope and its Representatives on the Symbion Health Shareholder Materials; (Symbion Health Diagnostics Independent Expert) promptly appoint the Symbion Health Diagnostics Independent Expert and provide all assistance and information reasonably requested by the Symbion Health Diagnostics
+Independent Expert in connection with the preparation of the Symbion Health
+Diagnostics Independent Expert's report for inclusion in the Symbion Health
+Shareholder Materials; (approval of Symbion Health Shareholder Materials) as soon as practicable, procure that a meeting of the Symbion Health Board, or (to the extent legally possible) of an appropriately authorised committee of the
+Symbion Health Board appointed for the purpose, is convened to consider approving the Symbion Health Shareholder Materials for despatch to the Symbion
+Health Shareholders and, prior to the despatch of the Symbion Health
+Shareholder Materials, comply with [section
+C(5)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s256c.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/); and (convening Symbion Health General Meeting) take all reasonable steps necessary to convene the Symbion Health General Meeting, in accordance with Symbion Health's constitution, the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) and the
+Listing Rules, so that the Symbion Health Meeting Date occurs substantially in accordance with the Timetable.
+ .1 Symbion Health Board recommendation 
+The Symbion Health Board must unanimously recommend, in the Symbion
+Health announcement to be issued pursuant to clause 11.7 and in the Symbion
+Health Shareholder Materials, that Symbion Health Shareholders vote in favour of the Symbion Health Resolutions subject to: no Superior Symbion Health Proposal being made; the value of the Consideration Shares being within or above the assessed valuation range of the Diagnostics Businesses (assuming completion of the
+Recapitalisation Steps) set out in the Symbion Health Diagnostics Independent
+Expert's Report (including in any update to its report); the Symbion Health Diagnostics Independent Expert concluding in the
+Symbion Health Diagnostics Independent Expert's Report that the Diagnostics
+Transaction is (as applicable) fair and reasonable for Symbion Health
+Shareholders or in the best interests of Symbion Health Shareholders (including in any update of its report); and the Healthscope VWAP being equal to or greater than $5.30.
+ .2 Symbion Health Director intentions 
+Symbion Health must use all reasonable endeavours to procure that each
+Symbion Health Director announces his or her intention to vote in favour of the Symbion Health Resolutions any Symbion Health Shares in respect of which they have power to vote subject to: no Superior Symbion Health Proposal being made; the value of the Consideration Shares being within or above the assessed valuation range of the Diagnostics Businesses (assuming completion of the
+Recapitalisation Steps) set out in the Symbion Health Diagnostics Independent
+Expert's Report (including in any update to its report); the Symbion Health Diagnostics Independent Expert concluding in the
+Symbion Health Diagnostics Independent Expert's Report that the Diagnostics
+Transaction is (as applicable) fair and reasonable for Symbion Health
+Shareholders or in the best interests of Symbion Health Shareholders (including in any update of its report); and the Healthscope VWAP being equal to or greater than $5.30.
+ .5 Change of Symbion Health recommendation or intentions 
+The Symbion Health Board may change its recommendation and any Symbion
+Health Director may announce his or her intention to vote against the Symbion
+Health Resolutions or to abstain from voting on the Symbion Health Resolutions any Symbion Health Shares in respect of which they have power to vote if: a Superior Symbion Health Proposal is made; the value of the Consideration Shares is below the assessed valuation range of the Diagnostics Businesses (assuming completion of the
+Recapitalisation Steps) set out in the Symbion Health Diagnostics Independent
+Expert's Report (including in any update to its report); the Symbion Health Diagnostics Independent Expert concludes in the Symbion
+Health Diagnostics Independent Expert's Report that the Diagnostics
+Transaction is not (as applicable) fair and reasonable for Symbion Health
+Shareholders or in the best interests of Symbion Health Shareholders (including in any update of its report); or the Healthscope VWAP is less than $5.30.
+ .8 Payment of costs 
+Symbion Health and Healthscope believe that the Diagnostics Transaction will provide benefits to Symbion Health, Healthscope and their respective shareholders, and acknowledge that if they enter into this deed and it becomes effective and the Diagnostics Transaction is subsequently not implemented, both parties will incur significant costs (it being acknowledged that both parties have already incurred significant costs in connection with the negotiation of, and the transactions (Original Scheme) that were contemplated by, the Original Scheme Implementation Deed).
+
+In the circumstances referred to in clause 13.8(a): both parties requested that provision be made for the payments referred to in clauses 13.9 and13.10, without which neither party would have entered into this deed; and the Symbion Health Board and the Healthscope Board believe that it is appropriate for both parties to agree to the payments referred to in clauses .9 and 13.10 in order to secure each other's participation.
+
+Symbion Health and Healthscope acknowledge that the Symbion Health
+Break Fee and the Healthscope Break Fee represent a reasonable amount to compensate the other for the following: advisory costs (including costs of advisers) in pursuing the
+Diagnostics Transaction and the Original Scheme; costs of management and directors' time in pursuing the Diagnostics
+Transaction and the Original Scheme; out of pocket expenses in pursuing the Diagnostics Transaction and the Original Scheme; and reasonable opportunity costs in pursuing the Diagnostics Transaction and the transactions contemplated under the Original Scheme Implementation
+Deed, or not pursuing other alternative acquisitions or strategic initiatives.
+
+The parties agree that clauses 13.9 and 13.10 do not limit the rights of Symbion Health or Healthscope in respect of any other claims which they may have against each other, whether under this deed or otherwise.
+ .1 Termination by Healthscope 
+Healthscope may terminate this deed at any time before Completion by notice in writing to Symbion Health: in accordance with clause 4.5; if there is a material breach of any of the Symbion Health Warranties or a
+Symbion Health Prescribed Occurrence or Symbion Health Material Adverse Change occurs, provided that Healthscope is only entitled to terminate if it has given notice to Symbion Health setting out the relevant circumstances and stating an intention to terminate and the relevant circumstances have continued to exist 5 Business Days (or any shorter period ending at 5.00 pm on the day before the Completion Date) from the time such notice is received by
+Symbion Health; if any director of Symbion Health publicly changes his or her recommendation in relation to the Diagnostics Transaction or publicly recommends a Superior Symbion Health Proposal, whether pursuant to clause 11.5 of this deed or otherwise; if the Healthscope Board publicly changes or withdraws its recommendation of the Diagnostics Transaction pursuant to clause 11.6 or publicly recommends any Superior Healthscope Proposal; if Symbion Health is in material breach of any of clauses 4, 6.3, 7 or of this deed, before that time, provided that Healthscope is only entitled to terminate if it has given notice to Symbion Health setting out the relevant circumstances and stating an intention to terminate and the relevant circumstances have continued to exist 5 Business Days (or any shorter period ending at 5.00 pm on the day before the Completion Date) from the time such notice is received by Symbion Health; if Symbion Health is in material breach of clauses 11.1, 11.2, 13.1, .2, 13.4 or 13.6 of this deed; if the ACCC requires Significant Undertakings to be given by
+Healthscope in order for the ACCC to provide informal clearance of the
+Diagnostics Transaction; if Completion has not occurred by 5:00 pm on the End Date; or in accordance with clause 5.9(a).
+ .2 Termination by Symbion Health 
+Symbion Health may terminate this deed at any time before Completion by notice in writing to Healthscope: in accordance with clause 4.5; if there is a material breach of any of the Healthscope Warranties, or a
+Healthscope Prescribed Occurrence or Healthscope Material Adverse Change occurs, provided that Symbion Health is only entitled to terminate if it has given notice to Healthscope setting out the relevant circumstances and stating an intention to terminate and the relevant circumstances have continued to exist 5 Business Days (or any shorter period ending at 5.00 pm on the day before the Completion Date) from the time such notice is received by
+Healthscope (unless the Healthscope Material Adverse Change which has occurred is as set out in paragraph (b) of the definition of Healthscope Material
+Adverse Change, in which case, Symbion Health is not required to give notice under this clause 15.2(b) before it terminates this deed); if the Symbion Health Board publicly changes or withdraws its recommendation of the Diagnostics Transaction pursuant to clause 11.5 or publicly recommends to Symbion Health Shareholders any Superior Symbion Health
+Proposal; if Healthscope is in material breach of clauses 4, 6.2, or 10 of this deed before that time, provided that Symbion Health is only entitled to terminate if it has given notice to Healthscope setting out the relevant circumstances and stating an intention to terminate and the relevant circumstances have continued to exist 5 Business Days (or any shorter period ending at 5.00 pm on the day before the Completion Date) from the time such notice is received by Healthscope; if any director of Healthscope publicly changes his or her recommendation of the Diagnostics Transaction or publicly recommends any
+Superior Healthscope Proposal, whether pursuant to clause 11.6 of this deed or otherwise; if the Healthscope VWAP is less than $5.30 (or if the Symbion Health
+General Meeting is not held, the value which would have been the Healthscope
+VWAP, if the Symbion Health General Meeting had been held on the date on which it was scheduled to be held as at the date of termination, is less than $5.30); if a variation to the Existing ACCC Undertaking has not been agreed by the ACCC and Healthscope has not obtained written confirmation from the ACCC, prior to 11:59 pm on the Business Day before the Completion Date, that the
+ACCC does not propose to oppose the Diagnostics Transaction, including as a consequence of Healthscope not providing to the ACCC the undertakings that the
+ACCC requires in connection with the Diagnostics Transaction in order to provide such informal clearance, or as a consequence of the ACCC requiring
+Significant Undertakings; if the ACCC makes, or gives notice of its intention to make, an application or files proceedings with any court of competent jurisdiction seeking an injunction to prohibit, make illegal or otherwise materially restrict or prevent the completion of the Diagnostics Transaction or any
+Transaction Document; if Healthscope is in material breach of clauses 11.3, 11.4, 13.1(c), .3, 13.5 or 13.7; if Completion has not occurred by 5:00 pm on the End Date; or in accordance with clause 5.9(a)." Clause 5.9(a) which is referred to in cls 15.1(i) and 15.2(k) concerns judgments and the like which prevent the Diagnostics Transaction from proceeding. It gives both parties the right to terminate if for some such reason Completion does not occur by the End Date.
+ "15.3 Effect of termination 
+In the event of termination of this deed by either Symbion Health or
+Healthscope pursuant to this clause 15, this deed will become void and have no effect, other than: 
+Clauses 1, 13.9, 13.10, 13.11, 13.12 14, 16, 18 and 19 which shall survive termination; and ..." 
+THE TERMINATION DEED The Termination Deed defines the Deed as "the TID".
+ Clause 2.1 of the Termination Deed is in the following terms: "2.1 Termination 
+Upon execution of this deed by each of Healthscope and Symbion
+Health, the TID is terminated and (subject to paragraph (b) below) ceases to have any effect or be binding on the parties. Each of Healthscope and Symbion
+Health waives any rights it may otherwise have under clauses 4.5(a) or 4.5(b) of the TID.
+
+It is agreed that: clauses 1, 13.9, 13.10, 13.11, 13.12, 14, 16, 18 and 19 of the TID survive the termination of the TID; and the TID continues to have effect and be binding on the parties in respect of any liability for an antecedent breach of the TID." 
+LIABILITY  The parties provided written outlines of argument in advance of the hearing. Their respective arguments were, however, refined in oral submissions.
+ 
+The plaintiff's submissions Mr B Walker of senior counsel together with Mr Lockhart of counsel appeared for the plaintiff.
+ For the plaintiff it was put that: a the commercial purpose of specifying a "date of" the Meeting in cl .9(a)(iii) was to fix a point in time before which a Competing Proposal had to be announced. (A similar purpose lay behind cl 13.9(a)(i) with respect to fixing a date before a Superior Symbion Health Proposal was announced);  b that purpose would be served by construing the words "the date of" the
+Meeting to mean the "date set for" the Meeting because announcement of a
+Competing Proposal before the date set for the Meeting would enable the parties "to know" that such a proposal had been received prior to the Meeting, whether it was held or not.
+ It was accepted that for 13.9(a)(iii) to operate, a date for the Meeting would have to be set before the Competing Proposal was announced.
+ It was put that support for the plaintiff's construction could be derived from: a cl 13.9(c)(iii)B which expressly contemplates no Meeting being held and the break fee nevertheless being payable. This, it was put, implies that the holding of the Meeting was not considered a critical element in cl 13.9 in general and in cl 13.9(a)(iii) in particular;  b cl 13.9(a)(iii) refers to the "Symbion Health General Meeting", a term defined in cl 1.1 by reference to the convening of the Meeting rather than by its having been held. This, it was put, implies that the holding of the
+Meeting was not considered a critical element in cl 13.9(a)(iii);  c the fact that the Deed has a defined term "Symbion Health Meeting Date" which clearly requires the holding of the Meeting, yet that term is not used in cls 13.9(a)(i) or (iii). It was put that the use in those clauses of the words "the date of the Symbion Health General Meeting" rather than the defined term implies that no Meeting was required to be held to make cl 13.9(a)(iii) operative.
+ It was put that a construction which makes the holding of the Meeting prerequisite to the operation of cls 13.9(a)(i) or (iii) would facilitate capricious or at least anomalous operation of the Deed (and should therefore be avoided) because: a under cl 15.2(c) the defendant could terminate the Deed if the circumstances described in cl 13.9(a)(i) existed. If the Meeting was required to be held the defendant could defeat the operation of the provision by terminating the Deed thereby preventing the Meeting from occurring;  b cl 13.9(a)(i) could operate against the plaintiff as a "trap" because, if the plaintiff exercised the right to terminate under cl 15.2(c) before the
+Meeting (and the Meeting was required to be held), it would lose its right to the break fee under cl 13.9(a)(i); and  c both cls 13.9(a)(i) and (iii) use the words "the date of the Symbion Health
+General Meeting". The same meaning must have been intended in both. Clause .9(a)(ii), by contrast, makes no reference to any meeting. If the circumstances described in cl 13.9(a)(i) exist, so must the circumstances described in cl 13.9(a)(ii), because if the board of the defendant publicly recommends a Superior Symbion Health Proposal, at least one director must necessarily have done so. It was put that it would be anomalous if, where the whole board of directors recommended a Superior Symbion Health Proposal, the
+Meeting had to be held but where only one director did so, the Meeting did not have to be held.
+ It was put that cl 13.8 discloses the commercial motivation behind the break fee arrangements and that the parties' intentions would be frustrated if the plaintiff had no right to the break fee (where a Competing Proposal was announced and completed) simply because the Meeting did not take place.
+ Finally, it was put that cl 15.3 of the Deed and cl 2.1 of the Termination
+Deed which provide for the break fee provisions to survive termination, provide support for the plaintiff's construction in that where the Deed is terminated before the Meeting is held, cl 13.9(a)(iii) nevertheless lives on.
+ 
+The defendant's submissions Mr TF Bathurst QC together with Mr Nixon of counsel appeared for the defendant.
+ The defendant's primary submission was that the ordinary grammatical meaning of the words favoured its construction. It was put that the use of the definite article "the" before the term "Symbion Health General Meeting" in cl .9(a)(iii) indicated a requirement for an actual Meeting to occur.
+ It was put that: a the commercial rationale behind cl 13.9 was to make the break fee payable in two general situations: firstly when the Diagnostics Transaction is "gazumped" (ie, bypassed by the sale in accordance with the shareholders' wishes of the
+Diagnostics Businesses to someone else at a higher price) and secondly where the sale does not proceed because of a breach of the Deed by the defendant. It was put that there could be no "gazumping" where the shareholders did not exercise their choice to vote down the Diagnostics Transaction in favour of a better one, and that for them to do so required the Meeting to be held;  b the break fee is in effect consideration payable by the defendant's shareholders for the opportunity to consider the plaintiff's bid (by way of the proposed Diagnostics Transaction). There would be a commercial failure of consideration if the defendant's shareholders did not have the opportunity to consider the plaintiff's proposal at the Meeting but the break fee was nonetheless payable.
+ It was put that support for the conclusion that the Meeting had to be held in the particular circumstances of cl 13.9(a)(iii) was to be found in cl 4.7, which envisages postponement (but not cancellation) of the Meeting if a
+Competing Proposal is announced.
+ Additionally, it was put that the plaintiff's construction was productive of uncertainty because a (or the) date set for the Meeting could be changed.
+The Timetable dates were indicative only. Reliance was placed on the statement in the Explanatory Memorandum that the dates set for meetings could be changed.
+ In answer to the plaintiff's submission that cl 13.9(c)(iii)B contemplated payment of a break fee where the Meeting was not held, the defendant put that support for its construction rather than the plaintiff's was to be found from this provision. This was because, unlike cl 13.9(a)(iii), cl 13.9(c)(iii)B made it clear that no meeting was required. Also there were sound commercial reasons underlying the non-requirement for a Meeting in the circumstances which cl 13.9(c)(iii)B contemplated. This was because it would not be known before the Meeting whether Healthscope's VWAP would meet the required level as at the date of the Meeting. For this reason cl 4.7(a)(ii) made express provision for the adjournment, postponement or delay of the meeting, which would enable the parties to know whether the VWAP level had been met on the date the Meeting would have been held. If the VWAP level was in fact not met the Deed might be terminated for that reason by the defendant under cl 15.2(f) in which event there would be no Meeting anyway.
+ In answer to the submission that cl 13.9 does not use the defined term "Symbion Health Meeting Date" the defendant placed reliance on cl 1.2(c) putting that the phrase "date of the Symbion Health General Meeting" used the same grammatical form or phrase of the definition and should be given the same meaning as the defined terms.
+ In answer to the submission that on the defendant's construction cl 13.9 operated capriciously or with anomalies because the defendant could terminate if the circumstances in 13.9(a)(i) arose (and thereby avoid the Meeting), the defendant put that in every case where 13.9(a)(i) applied, so would .9(a)(ii) and the plaintiff would get its break fee without the Meeting because 13.9(a)(ii) imposed no such requirement. In addition it was put that the defendant's right to terminate, if the circumstances in cl 13.9(a)(i) obtained, was not unfettered because for a proposal to qualify as a Superior
+Symbion Health Proposal (under the definition in cl 1.1) the defendant's board of directors would have had to have satisfied itself, after taking advice from financial and legal advisers, that it was a transaction more favourable to its shareholders than the Diagnostics Transaction. Accordingly it did not follow either from the existence or the exercise of that right that the operation of the provisions was capricious or anomalous.
+ It was put that the plaintiff's (rather than the defendant's) construction might result in capricious or anomalous operation because on the former, payment of the break fee could depend on the happenstance that before the
+Competing Proposal was announced the defendant had convened the Meeting, and it was in the defendant's hands (within certain parameters) when it did so.
+ 
+Consideration Each party put that its construction better accorded with the general objects that the Deed (or more particularly cl 13.9) intended to secure. Each put that its construction was the commercially sensible and reasonable one.
+ Both parties are substantial and sophisticated commercial entities and the
+Deed is a complex and sophisticated expression of their intentions. It legislates comprehensively for the circumstances in which the break fee is payable.
+ The general expression in cl 13.8 of the motivation behind the break fee gives scant assistance in construing cl 13.9. It refers only to the break fee being payable if the Deed becomes effective and the Diagnostics Transaction is not implemented. Its terms of general expression give no clue whether the words of cl 13.9(a)(iii) require the Meeting to be held.
+ Reference to general commercial notions such as that break fees are payable as consideration for the opportunity to consider a proposal or that the break fee here is payable if the plaintiff is gazumped or the defendant breaches the
+Deed is of no assistance either.
+ The break fee is payable in some circumstances where the Meeting might be held and in others where it will not. Where the Meeting is not held the shareholders do not have the opportunity to vote on the resolutions. In that case the theory that the break fee is consideration for that opportunity breaks down.
+ Additionally, the plaintiff accepted (and the defendant embraced the concession) that the break fee is not payable under either cls 13.9(a)(i) or if the Deed is terminated (other than for breach as contemplated by cl .9(a)(iv)) before the Meeting date is set. In that case there will not have been any opportunity or any breach. The theory that the break fee is payable only if the plaintiff is gazumped or the defendant breaches accordingly likewise breaks down. It also does not follow that if the shareholders vote the Diagnostics Transaction down they will embrace some other proposal. Clause .9(d) expressly recognises this possibility.
+ Whilst it may be accepted (as the plaintiff put) that one rationale behind both cls 13.9(a)(i) and (iii) is to set a point in time before which a
+Superior Symbion Health Proposal or Competing Proposal must be announced so that the shareholders know of it, acceptance of that proposition does not address whether the parties intended that that point in time should be a date set for the Meeting or the date upon which it is held.
+ What is required is an examination of the precise words used in cl .9(a)(iii) seen both in the immediate context of cl 13.9 and in the wider context of the operation of that provision as a part of the whole instrument.
+ As a matter of pure language the question for determination is whether the words "prior to the date of the [Meeting]" mean prior to a date on which the
+Meeting is scheduled to be held or prior to the date on which it is held.
+ As a matter of commercial objects the question is whether the parties intended cl 13.9(a)(iii) to make the break fee payable if an ultimately successful Competing Proposal was announced before the date the defendant's shareholders were scheduled to (but did not) meet to consider the Diagnostics
+Transaction, or before the date they actually met to do so.
+ I have concluded that the defendant's construction is the correct one because: a it, rather than the plaintiff's construction, accords with the plain meaning of the words;  b it is supported by a consideration of the words used in other relevant provisions of the Deed;  c on it cl 13.9 operates sensibly and congruently with other provisions of the
+Deed; and  d it better accords with the commercial objects the Deed was intended to secure.
+ Concomitantly, I have concluded that the plaintiff's submission that the defendant's construction might facilitate capricious or anomalous operation is unsustainable.
+ The ordinary grammatical meaning of the words "the date of the Symbion
+Health General Meeting" more appropriately describes a Meeting that happens rather than one which is scheduled to happen but which does not.
+ Had the provision referred to the "date scheduled for" or even the "date for" the Meeting as opposed to the "date of" it the plaintiff's construction might more easily have been accommodated.
+ However even if "for it" had been used, once the Meeting is cancelled, as occurred here, there ceases to be a date of it or for it. If there is no date for the Meeting, an event (here the announcement of a Competing
+Proposal) cannot be said to have occurred prior to that date.
+ If one inserts into cl 13.9(a)(iii) in place of the term Symbion Health
+General Meeting its definition, the provision reads as follows: "a Competing Proposal is announced prior to the date of the meeting of
+Symbion Health Shareholders to be convened by Symbion Health as required by clause 7.2 ..." This more appropriately refers to a Meeting which has not only been convened but which then is held.
+ A consideration of the words used in other provisions relating to the holding of the Meeting supports this conclusion.
+ Under clause 4.7 the Meeting may be adjourned (but not cancelled) when a
+Competing Proposal is announced. That clause uses the phrase "before the date on which the Symbion Health General Meeting has been scheduled to be held", as opposed to the words "prior to [or before] the date of the Symbion
+Health General Meeting".
+ Clause 13.9(c)(iii)B itself uses the phrase "the date on which it was first scheduled to be held", making the same distinction.
+ The same can be said of the definition of "Healthscope VWAP Period" which refers to the date "on which the Symbion Health General Meeting was originally convened by Symbion Health to be held." The Deed thus draws a clear conceptual distinction between a date upon which the Meeting is held and the date for which it has been scheduled. The terminology in cls 13.9(a)(i) and (iii) falls onto the side of the holding rather than the scheduling of the Meeting.
+ In contrast, the plaintiff's proposition that the use in cl 13.9 of the words "the date of the Symbion Health General Meeting" as opposed to the use of the defined term, "Symbion Health Meeting Date", indicates an intention thereby to distinguish between date scheduled and date of holding implies a level of subtlety which is too unrealistic to embrace.
+ Further there is substance in the defendant's proposition that the phrases "date of the Symbion Health General Meeting" and "Symbion Health General
+Meeting Date" are forms of the same grammatical expression as contemplated by cl 1.2(c) and are to be given the same meaning.
+ I turn then to the operation of cl 13.9 in its own right and in the context of the Deed as a whole.
+ As to the plaintiff's submission that on the defendant's construction if the defendant terminated because the circumstances referred to in cl .9(a)(i) occurred the defendant might capriciously defeat the operation of the clause by preventing the Meeting from occurring and thus the break fee from becoming payable, it is to be remembered that before the defendant can terminate there must be a Superior Symbion Health Proposal.
+ Such a proposal has a high threshold of qualification.
+ After taking financial and legal advice the board of the defendant must in good faith and in accordance with its fiduciary obligations be satisfied that it is superior to the Diagnostics Transaction.
+ In these circumstances neither the existence of nor the exercise of the right of the defendant to terminate evinces potential capricious or anomalous operation of the Deed.
+ Moreover, there are commercially sensible reasons why no break fee under cl 13.9(a)(i) should be payable if the Meeting does not take place in the face of a Superior Symbion Health Proposal. Having regard to the high threshold such a proposal must meet it might reasonably be expected to succeed over the
+Diagnostics Transaction.
+ Clause 11.1 obliges the defendant's board unanimously to recommend the
+Symbion Health Resolutions unless particular events occur including the making of a Superior Symbion Health Proposal. Clause 11.2 requires the defendant to use all reasonable endeavours to procure its directors to announce their intentions to vote in favour also unless, among others, a Superior Symbion
+Health Proposal is made.
+ It is commercially sensible that no break fee would be payable if the defendant determined to exit the transaction because of the existence of a
+Superior Symbion Health Proposal which its board recommended.
+ So far as the plaintiff terminating because the circumstances described in .9(a)(i) are concerned, if it terminates (assuming the defendant has not) then it (without its board having to take advice and reach the requisite level of satisfaction) causes the defendant to lose the opportunity to avoid paying the break fee on the basis that the Meeting might nevertheless have approved the Diagnostics Transaction even though a Superior Symbion Health Proposal had been made, because in no case is the break fee payable if the Diagnostics
+Transaction is completed (see cl 13.9(c)(i)).
+ Clause 13.9 requires the break fee to be paid in four cases. The fourth case (cl 13.9(a)(iv)) is where the plaintiff terminates the Deed in accordance with cls 15.1(b), 15.1(e) or 15.1(f).  Although the plaintiff can terminate the Deed under cls 15.1(c) or (d) if the circumstances in cls 13.9(a)(i) or (ii) respectively occur, neither cl .1(c) nor cl 15.1(d) is referred to in cl 13.9(a)(iv).
+ This is a clear indication that no break fee is payable if the plaintiff terminates under cls 15.1(c) or (d), and is only payable if the termination occurs under cls 15.1(b), (e) or (f).
+ In these circumstances if the plaintiff terminates other than under cls .1(b), (e) or (f) before the Meeting occurs, the position in which it finds itself can hardly be described as a "trap".
+ The second respect in which the plaintiff put that the defendant's construction was anomalous was that the greater occurrence described in cl .9(a)(i) would always include the lesser occurrence described in cl .9(a)(ii) and that the anomaly would reside in that a Meeting was required where the whole board recommended a Superior Symbion Health Proposal but not where only one director did so.
+ The defendant's answer to this was that it did not operate anomalously against the plaintiff because whenever cl 13.9(a)(i) applied so would cl .9(a)(ii) and the plaintiff would get the break fee without the Meeting having to take place.
+ Although this is an answer to the plaintiff's proposition, it does dictate the conclusion that the Deed at least in this respect would operate idiosyncratically because there would be no logical or rational reason for the presence in the Deed of cl 13.9(a)(ii), at least from the plaintiff's perspective.
+ It seems to me, however, that there is no idiosyncrasy (and additionally no capricious operation) because, contrary to what the defendant put, the Deed in its operation presupposes that cl 13.9(a)(ii) itself operates only if the
+Meeting is held for the reasons which follow, which reasons apply with equal force to cl 13.9(a)(i) and perhaps with even greater force to cl 13.9(a)(iii).
+ As with cl 13.9(a)(i), termination for the reasons in cl 13.9(a)(ii) is not included in cl 13.9(a)(iv). The break fee is accordingly not payable if the plaintiff terminates because of the circumstances in cl 13.9(a)(ii).
+ There are thus two logical possibilities if the Deed is terminated: either the break fee is payable because the Deed has been terminated for one of the reasons referred to in cl 13.9(a)(iv), or it is not payable because the Deed has been terminated for some other reason. The only other circumstance then in which the break fee can otherwise be payable is if the Deed has not been terminated which means that the Meeting must take place. This must be the situation with respect to the operation then of each of cls 13.9(a)(i), (ii) and (iii).
+ Additionally, only the plaintiff can terminate if the circumstances contemplated in cl 13.9(a)(ii) occur. If it does, the defendant loses the opportunity of avoiding payment of the break fee on the basis that the
+Diagnostics Transaction might have proceeded, even though only one director may have withdrawn support.
+ If only one director baulked there would be far more reason for the
+Meeting to proceed in any event (as opposed to where there was a board decision to back a Superior Symbion Health Proposal).
+ It accords with commercial sense that the defendant does not have to pay the break fee where the plaintiff stops the Meeting from going ahead only because one director baulks.
+ On the other hand, the plaintiff is protected if a director baulks before the Meeting and the Diagnostics Transaction founders irrespective of whether there was a Competing Proposal or a Superior Symbion Health Proposal and, if there was, irrespective of what ultimately happened to them.
+ If the Meeting is held and the Diagnostics Transaction falters there is no rational need for either party to terminate the Deed if cls 13.9(a)(i) or (ii) apply. If they do not apply and the plaintiff terminates for reasons referred to in cl 13.9(a)(iv) it still gets the break fee.
+ There are even more compelling commercial reasons why cl 13.9(a)(iii) requires a Meeting.
+ A Competing Proposal (simpliciter) may be thought to be more evenly balanced with the Diagnostics Transaction than would a Superior Symbion Health
+Proposal.
+ It is commercially sensible that the break fee is not payable where the defendant does not have the opportunity to avoid it by the shareholders considering a balanced Competing Proposal and perhaps then electing to have the Diagnostics Transaction.
+ Yet another indication that cl 13.9(a)(iii) requires the Meeting is that once notice of it has been despatched the Meeting may not be adjourned or delayed for any other reason than those contemplated in cl 4.7. The announcement of a Competing Proposal (albeit a Superior Symbion Health
+Proposal) is contemplated as being a reason for delay or adjournment of the
+Meeting but not cancellation.
+ A final consideration favouring the defendant's construction is that it is unlikely that the parties intended a shifting (or potentially shifting) timetable to govern an essential feature of their commercial arrangements.
+ These considerations drive to the conclusion that on the defendant's construction cl 13.9 operates sensibly in its own right and congruently with the other provisions of the Deed.
+ The ultimate object the Deed was intended to secure was completion of the
+Diagnostics Transaction.
+ However a necessary and core interim object was the holding of the Symbion
+Health General Meeting.
+ In no case could the Diagnostics Transaction proceed without the Meeting occurring.
+ The Meeting was to be the occasion for the collective expression by the defendant's shareholder body of its will with respect to the defendant's participation or otherwise in the Diagnostics Transaction.
+ Under cl 3.2 the parties are to assist each other to obtain their respective resolutions.
+ Under cl 7.2(e) the defendant is to convene the Meeting.
+ These obligations are not subject to the fulfilment of any conditions precedent.
+ This is to be contrasted with Completion in respect of which (under cl .1) the parties' obligations do not become binding unless conditions precedent have been fulfilled or waived in accordance with the Deed. The only two conditions precedent which cannot be waived are the approval by the parties' shareholders of the requisite resolutions.
+ A number of the conditions precedent are to be fulfilled before 8am on the
+Symbion Health Meeting Date. That term is defined by reference to the holding of the Meeting. If the Meeting is not held that date is not set.
+ In my view the parties chose as the relevant date of the Meeting in cl .9(a)(iii), the date upon which the shareholders actually met to consider the Diagnostics Transaction and not a date on which they were scheduled to, but did not, meet.
+ In my view the parties did not intend the break fee to be payable under that provision where the Meeting did not take place where the parties terminated the Deed consensually beforehand.
+ Dealing lastly with the "survival of termination provisions", they do not assist the plaintiff since they can rise no higher than the provisions of cl .9 itself.
+ I have found that cl 13.9(a)(iii) does not operate where no Meeting occurs because the Deed is consensually brought to an end before the Meeting takes place.
+ The survival of termination provisions does not alter that result.
+ My conclusion is accordingly that the defendant's construction is correct.
+ 
+THE SECOND ISSUE - "COMPLETED" A Competing Proposal will have had the effect of defeating the Diagnostic
+Transaction if any of the results contemplated in cl 13.9(a)(iii)A - D occur.
+ Each of those results was achieved once Primary, having acquired a controlling interest, declared its proposal unconditional.
+ In my view, Primary's proposal was then substantially completed in accordance with its terms. Indeed, once there were to be no more consensual acceptances of its offers, it might be said that its proposal had been fully completed. The remaining acquisition was enabled by statutory provisions of which it could avail itself once its "offer" had been exhausted.
+ Had it been necessary to decide, I would have determined the date for payment to have arisen after the first demand.  
+CONCLUSION The summons is dismissed.
+ The plaintiff is to pay the defendant's costs of the proceedings.
+ The exhibits are to be returned.
+ 
+LAST UPDATED:  September 2008 * * * 

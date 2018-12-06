@@ -1,0 +1,334 @@
+
+
+Paperlinx Australia versus Canty [2013] NSWSC 1407 (16 September 2013) 
+Last Updated: 26 September 2013 
+Supreme Court 
+New South Wales  
+Case Title: 
+Paperlinx Australia versus Canty  
+Medium Neutral Citation: <case>  
+Hearing Date(s): /09/2013; 10/09/2013; 11/09/2013; 12/09/2013; 13/09/2013  
+Decision Date: September 2013  
+Jurisdiction: 
+Equity Division - Commercial List  
+Before: 
+McDougall J  
+Decision: 
+Plaintiff to have judgment for $1,209,701.90 and interest, cross-claim to be dismissed. Plaintiff to bring in orders.  
+Catchwords: 
+GUARANTEE & INDEMNITY - guarantees - where defendants guaranteed trade debts - no question of principle  
+JUDGMENT (EX TEMPORE - REVISED 18 SEPTEMBER 2013)
+HIS HONOUR: The plaintiff (Paperlinx) sold and delivered paper to a company known as The Quality Group Pty Ltd (TQG). The defendants guaranteed the obligation of TQG to Paperlinx. TQG has failed to pay for more than $1 million worth of paper sold and delivered in 2009, and is now in liquidation. Paperlinx sues the defendants on their guarantees to recover the amount owed together with interest.
+
+The real issues in dispute
+The substantive issues arise on the defences of the defendants (as I shall call, collectively, the active defendants, who are the first, second, fourth and fifth defendants). I put the matter that way because, by the time counsel put their closing submissions, there was no contest that: 
+Paperlinx had proved the delivery of the paper in question; 
+TQG had not paid; the defendants had executed the guarantees on which they were sued; and at least prima facie, those guarantees extended to the debts in question.
+Mr Faulkner of counsel, who appeared for Paperlinx, stated the real issues as follows (I adapt his language, and vary his order): whether the trading relationship between Paperlinx and TQG was governed by the terms of an "Application for Commercial Credit" made by TQG to, and accepted by, a related company of Paperlinx known as Paper Australia Pty Ltd (Paper Australia); whether Paperlinx breached obligations owed to TQG by: invoicing paper before it was delivered; appropriating towards storage charges payments made by TQG for deliveries of paper; and refusing (with a limited, minor and irrelevant exception) to allow TQG a credit limit greater than $1.2 million; whether Paperlinx assigned the subject debts to Paper Australia in 2009; whether the deed of guarantee operates also as an indemnity; whether the defendants' guarantees had been released because, in January , Paperlinx and TQG entered into a payment plan; whether the defendants were induced to give their guarantees by misleading or deceptive conduct on the part of Paperlinx; and whether the second defendant, Mrs Canty, is entitled to relief under the [Contracts Review Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/cra1980201/) .
+Mr Bevan of counsel, who appeared for the defendants, accepted that these were the real issues in dispute.
+
+Background; the commercial credit application
+On 24 May 2004, TQG applied to Paper Australia (trading as Dalton Web Papers) for a commercial credit account. The application was signed by the first defendant, Mr Canty. It sought a credit limit of $500,000, based on what were said to be estimated monthly purchases of $250,000.
+Mr Canty affected ignorance of the terms or contents of the document, saying that it had been prepared by TQG's internal accountant (or financial controller), Mr Sunil Amaratunga. I accept that Mr Amaratunga filled out the document. I do not accept that Mr Canty was unaware of its terms. I think that he feigned ignorance of the document in support of his evidence (to which I shall return) that there was no credit limit in place before July 2008.
+The application contained "acknowledgements", of which I set out cll 2, 3, 4, 6 and 11:
+I/We hereby apply for the opening of a commercial credit account and provide the above information in support thereof. I/We warrant that the information supplied by me/us is true and correct in all respects.
+I/We understand that all the trading terms are strictly 30 days and that payment is due by the end of the month following invoice. I/We undertake to pay all accounts on or before the due date and acknowledge that if the account becomes overdue, Paper Australia Pty Ltd at its discretion and without notice, may terminate credit. Upon termination of credit, any balance outstanding becomes immediately due and payable in full.
+I/We understand that credit may be withdrawn without notice should any authorised credit limit be exceeded.
+ ...
+I/We have read and agree to the terms and conditions of sale which form part of all contracts for supply of goods to me/us by Paper Australia Pty Ltd, a copy of which is attached.
+ ...
+In this agreement, references to Dalton Web include Paper Australia Pty
+Ltd ABN 63 061 583 533 and its related bodies corporate and assigns.
+The application also annexed the standard terms and conditions of sale referred to in cl 6 of the acknowledgements. I set out, from those terms and conditions, cll 3, 5.5, 5.6, 5.9, 8.4 and 8.6:
+Acceptance 
+The Buyer shall be deemed to accept the Terms for the purposes of any Order upon a copy of the Terms being sent or delivered by or on behalf of the Seller to the Buyer and the Buyer subsequently placing an Order with the Seller for the Goods.
+ ...
+ .5. The Seller shall invoice the Buyer upon delivery of the Goods. Unless notified on the face of the invoice or otherwise in writing by the Seller payment of the price stated on the invoice shall be made by the Buyer on or before the last business day of the month following the month in which the invoice is raised ("the due date"). In the even of any discrepancy between the
+Terms and any terms and conditions of the Seller appearing on the face of the invoice, the latter shall prevail. Time shall be of the essence in relation to all obligations of the Buyer to make payment for the Goods.
+ .6 If the invoice is not paid by the due date:- the Seller is entitled to suspend all further deliveries of the Goods to the Buyer until payment is made in full on all outstanding invoices; and the price stated on the invoice shall bear interest from the date of delivery of the Goods until the price is paid in full. Interest shall be paid at an annual rate of the aggregate of 4% plus the rate published under the name "National Australia Bank Reference Rate" (or any rate substituted therefore and serving a similar purpose as that rate) from time to time on the price remaining unpaid and upon any judgment recovered in relation thereof.
+The certificate of any officer of the National Australia Bank as to the
+National Australia Bank Reference Rate shall be conclusive evidence thereof.
+Interest shall accrue on a daily basis and shall be payable on demand.
+
+The Buyer will pay or reimburse to the Seller any costs or expenses incurred by it or its legal advisers, mercantile agents & other parties acting on the Seller's behalf in respect of anything instituted or being considered against the Buyer whether for debt, possession of any products, taking security or otherwise.
+ ...
+ .9 Subject to Clause 5.5, the Seller reserves the right at any time to suspend credit or to change credit terms provided to the Buyer when in the
+Seller's sole opinion the financial condition of the Buyer so warrants. In any such case in addition to other remedies herein or at law, cash payments or satisfactory security from the Buyer may be required by the Seller before dispatch of the Goods, or the due date for payment by the Buyer under any
+Order with the Seller may be accelerated by the Seller. The Buyer agrees that, subject to the terms of the Privacy Act1988, the Seller may in its absolute discretion disclose the status of the Buyer's account to any person or corporation.
+ ...
+ .4 In the event that the Buyer requests the Seller to withhold delivery of the Goods or any part thereof or if delivery is delayed for any other reason as a consequence of the Buyer's instructions or lack thereof the Seller may in its absolute discretion store the Goods for the Buyer and the Buyer shall pay the Seller all storage charges charged or incurred by the Seller and if the
+Goods are stored elsewhere all cartage charges incurred by the Seller.
+ ...
+ .6 The Seller reserves the right to upon notice to the Buyer at any time to withhold deliveries if the Seller in its sole discretion considers that the financial condition of the Buyer so warrants and that such action is advisable to protect the Seller's interests.
+Those terms and conditions of sale were printed also on the reverse of each invoice sent by Paperlinx to TQG. Mr Bevan accepted that they were the terms on which goods were sold and delivered by Paperlinx to TQG, although he did not accept that they gained their contractual force from cl 6 of the acknowledgements in the application.
+
+Paperlinx becomes the supplier
+Paper Australia supplied paper on credit to TQG after May 2004. To my mind, that conduct shows acceptance of the proposal, or offer, stated in the application.
+As the result of a corporate restructure of some form, Paperlinx became the supplier of paper to TQG from 1 July 2005. It too traded under the name Dalton Web Papers.
+
+Credit limits
+Paperlinx had trade credit insurance at all relevant times. The insurer was QBE. The effect of Paperlinx's evidence is, and I conclude, that in general, Paperlinx would not extend credit to TQG above the limit of indemnity for that company available under the QBE policy.
+An internal record of Paperlinx shows the credit limits in place for TQG from time to time. I set out the limits shown in that document from 1 July 2005: .05.05 
+Credit Limit ,000 AUD  ---  .06.05 
+Credit Limit ,000 AUD  .09.05 
+Credit Limit ,000 AUD  .02.07 
+Credit Limit ,000 AUD  .08.07 
+Credit Limit ,000 AUD  .06.08 
+Credit Limit ,000 AUD  .07.08 
+Credit Limit ,200,000 AUD  .10.08 
+Credit Limit ,500,000 AUD  .10.08 
+Credit Limit ,650,000 AUD  .11.08 
+Credit Limit ,200,000 AUD  .05.09 
+Credit Limit .00 AUD 
+For reasons I give later, I conclude that Paperlinx did indeed impose those limits on TQG, and that TQG was aware of them.
+
+The guarantees
+I am satisfied that each of the defendants signed or executed a form of deed of guarantee, and that the deed, dated 16 July 2008, was delivered to Paperlinx.
+The relevant terms of the deed of guarantee include cll 1.11, 1.14, 2, 3.1.3, 3.1.8 and 4: .11 No extension of time, latitude or indulgence given or granted shall operate as waiver of the rights of any party.
+ ...
+ .14 This Deed sets forth the entire agreement and understanding of the
+Parties relating to the subject matter contained herein and merges all prior discussions between the Parties and no party shall be bound by any previous deed, agreement, negotiations, commitments or writings except these expressly embodied herein.
+ ...
+Guarantee 
+In consideration of the supply of goods, products and services by PAPERLINX to
+The CUSTOMERS from time to time and at the request of The CUSTOMERS (evidence by their execution hereof), each of the CUSTOMERS and PAUL and DENISE hereby jointly and severally unconditionally and irrevocably guarantees to PAPERLINX the due and punctual performance and observation by any or all of The
+CUSTOMERS of all terms, covenants, conditions and provisions to be performed and observed under any agreement to supply and to the extent (if at all) that this Guarantee and Indemnity may be void or unenforceable by reason of the fact that all or any obligations of The CUSTOMERS to perform any or all terms, covenants, conditions and provisions as aforesaid, may not be or may cease to be enforceable, each of The CUSTOMERS and PAUL and PAPERLINX in respect of any failure of any or all of The CUSTOMERS to perform any or all terms, covenants, conditions or provisions as aforesaid.
+ ...
+Further Provisions .1 The Guarantees and Indemnity contained in this Deed: ...
+ .1.3 Shall not be considered as wholly or partially discharged by the payment at any time hereafter of any monies on account or by any time, credit or any indulgence or concession extended by PAPERLINX to The CUSTOMERS, PAUL or
+DENISE or any other person or by any compounding, compromise, release, claim for set off, abandonment, waiver, variation, relinquishment or renewal of any rights of PAPERLINX against The CUSTOMERS, PAUL or DENISE or any other person or by the neglect or omission of PAPERLINX to enforce any rights or by any other dealing, matter or thing whatsoever which by for this paragraph could or might operate to abrogate, prejudice or affect this Guarantee and Indemnity or by any alteration, modification, variation or addition to any agreement to supply; and ...
+ .1.8 The CUSTOMERS, PAUL and DENISE hereby acknowledge that they have been given full free and unrestricted opportunity to seek independent legal advice as to the nature and effect of this Deed and their obligations pursuant to it.
+ ...
+Indemnity .1 The CUSTOMERS, PAUL and DENISE jointly and severally unconditionally and irrevocably indemnify PAPERLINX against all losses, damages, costs, charges, liabilities and expenses which PAPERLINX may at any time suffer or incur directly or indirectly because: .1.1. It does not for any reason recover from The CUSTOMERS, PAUL and DENISE any money owing to it; .1.2. Any obligations arising out of any agreement to supply is or had become void or voidable or unenforceable; .1.3 Any moneys payable or any part thereof have become unrecoverable.
+
+The CUSTOMERS, PAUL or DENISE will upon demand immediately pay PAPERLINX any amount of loss, damage, cost, charge, liability or expense so indemnified.
+
+The deliveries sued on
+Paperlinx proved a system of orders and deliveries as follows: 
+TQG would place an order for forward deliveries, usually over a period of months in specified quantities per month, of different kinds of paper. Most of the paper came from overseas suppliers.
+
+Paperlinx would accept (or not accept) those orders. If it did accept them, it would place corresponding orders with its own suppliers.
+
+When the paper arrived in Australia, it would be cleared through customs by a customs agent, generally (if not always) a company known as Stockwell.
+
+At that time, since the paper was then ready to be delivered to TQG,
+Paperlinx's internal accounting system would generate an invoice to TQG. No invoice was generated unless the paper was about to be delivered.
+
+A carrier, generally a company known as Mannway, would deliver the paper to TQG, and (in the usual case) obtain acknowledgement of delivery on a copy of the delivery docket.
+The key point, from Paperlinx's evidence, was that the invoice was generated only once Stockwell or Mannway confirmed that delivery was to be made to TQG. Thus, as a matter of system, the generation of the invoice itself is capable of proving delivery to TQG of the paper described in the invoice.
+Putting together all the records amassed and proved by Paperlinx and supplemented (in the few cases where delivery dockets are missing) with the evidence of system to which I have referred, I am satisfied that each of the 50 deliveries sued upon was made.
+There is no doubt that TQG failed to pay those deliveries. Nor is there any doubt as to the total unpaid: $1,084,350.92, before interest.
+
+First issue: terms of the credit relationship
+It is clear that TQG traded with "Dalton Web Papers", and did not concern itself overmuch (or indeed at all, I think) with the identity from time to time of the corporation trading under the name.
+As I have said, I conclude that Paper Australia accepted the offer, constituted by TQG's signature and submission of the commercial credit application. As a result, I conclude that the terms on which Paper Australia extended credit to TQG are to be found in that document.
+Further, I conclude, the conditions on which, from 1 July 2005, Paperlinx extended credit to TQG are likewise found in that document. Paperlinx was an assignee of Paper Australia for the purposes of cl 11 of the acknowledgements. In any event, it seems clear that trading continued after 1 July 2005 as it had proceeded beforehand.
+There is evidence to support the conclusion that at all times there was a credit limit in place. I have referred already to a business record of Paperlinx showing the limit from time to time. In addition: 
+Mr Darren Allard, who was at the time the sales executive or regional manager for the Dalton Web paper business, said he discussed credit limits with Mr Canty at a meeting in October 2007.
+
+Mr Allard discussed a revised credit limit with Mr Amaratunga in April .
+
+In May 2008, Mr Canty discussed with QBE giving guarantees (to
+Paperlinx) as required by QBE as a condition of extension of its insurance cover to $1.5 million.
+Mr Canty denied the first of those matters. I do not accept this aspect of his evidence. In general, Mr Canty did not impress me as a reliable witness. I thought that his evidence was in parts self-serving and opportunistic, and designed to further his defence rather than to aid in the ascertainment of the truth.
+By contrast, I thought that Mr Allard (who no longer works for Paperlinx, but is the managing director of a competitor) did seek to give truthful evidence. His memory was not perfect, but on occasion - and the present conversation is an example - it was clearly driven by his recollection of the way in which, as a matter of business practice, he approached such discussions (T99.16 - .41): 
+BEVAN 
+Q. The conversation in October 2007 was the oldest of the conversations you give an account of in your affidavits? 
+A. Yes.
+
+Q. And each of the other conversations, I think you relied upon surrounding documents to prompt your recollection? 
+A. Yes.
+
+Q. Of course you didn't have that advantage for the October 2007 discussion? 
+A. No. Didn't need to, no.
+
+HIS HONOUR 
+Q. Sorry, you said you didn't need to? 
+A. No. Didn't need to.
+
+Q. What do you mean by that? 
+A. Because I clearly remembered the discussions. I had planned in my mind how
+I was going to handle the presentation to Mr Canty on a selling point; the selling point of view I remember clearly, what I had to go through, so I knew what the platform was when I was taking this new product to Mr Canty. I was excited. I was given the student by my company to take a product to Mr Canty's business that was new and it was exclusive and there was potential for me to grow that business with Mr Canty. So I have a process that I follow, even to this day, my process, from a selling point of view.
+Mr Allard gave similar, although more general, evidence (at T108.49 - 109.4): 
+Q. And you would agree that your recollection of what occurred in the middle of 2008 would be more reliable than your recollection of what occurred the previous year? 
+A. Again, it depends. If it was purely based on sales and selling, possibly, yes. I remember the sales pitches I do, better than I do, I guess, the general discussions.
+Accordingly, I accept that, as Mr Allard said, he did discuss the credit limit then applicable with Mr Canty at a meeting in October 2007. It must follow, for that discussion to have taken place, that there was indeed (as the records of Paperlinx show) a credit limit in place and available to be discussed.
+The second matter is confirmed in an email that Mr Simon Cameron of Paperlinx sent to Mr Amaratunga on 26 May 2008, following a conversation between Messrs Allard and Amaratunga. That email stated, among other things, that: "... we have in place a credit limit of $700,000 for The Quality Group which we are hoping to increase once the appropriate guarantees/paperwork is [sic] received from The Quality Group by QBE".
+There was no email in reply denying the conversation. Nor was Mr Amaratunga called to deny it. Mr Canty acknowledged that no one would be better placed than Mr Amaratunga to know whether there was a credit limit in place (T226.48 - .50).
+I add that where there are inferences available on the evidence, and it is apparent that (as with the present topic) the evidence of Mr Amaratunga is likely to have been relevant, I am more disposed to draw the inference because of the unexplained failure to call Mr Amaratunga.
+A similar comment applies to areas where the evidence of another TQG employee, Mr David Pragasam, would seem to be relevant. Mr Pragasam had much of the day to day dealings with Paperlinx.
+These proceedings were commenced in the Supreme Court of Victoria. They were transferred to this Court on the application of the defendants because, among other things, the defendants (so they said) wanted to call Messrs Amaratunga and Pragasam (T225.17 - 226.6): 
+Q. Sunil Amaratunga was your financial controller? 
+A. Yes, he was.
+
+Q. And David Pragasam was the purchasing officer? 
+A. Sorry, rephrase that. He was the accountant, he was not the Financial
+Controller.
+
+Q. He was not the Financial Controller? 
+A. No, he wasn't. He called himself that from time to time but he was employed as the company accountant.
+
+Q. Are you saying it would be wrong to describe Sunil Amaratunga as The
+Quality Group's Financial Controller? 
+A. In title, no; in function, yes.
+
+Q. And David Pragasam was the purchasing officer? 
+A. He was an estimator and purchasing officer, yes.
+
+Q. And these were the men who had the daytoday contact with Quality Group about placing orders and paying invoices? 
+A. With Quality Group? 
+Q. I'm sorry, Mr Canty. These were the men who had the daytoday conduct of placing orders and paying invoices with Dalton Web? 
+A. David Pragasam had the daytoday contact of placing orders, yes.
+
+Q. And Sunil Amaratunga had the daytoday conduct of paying invoices? 
+A. Yes, he did.
+
+Q. These are quite important witnesses in your case, aren't they? 
+A. I believe so, yes.
+
+Q. And in fact you applied to transfer these proceedings when they were commenced in Victoria to New South Wales? 
+A. Yes.
+
+Q. And one of the reasons you put forward was your need to call David Pragasam and Sunil Amaratunga as witnesses in your case? 
+A. Yes.
+Mr Canty denied that he had the discussions referred to in the third point set out above. Again, I do not accept his denial.
+The conversation was referred to in an email sent on 7 May 2008 by Ms Judy Kannangara of Paperlinx to others, including Mr Allard. The email records (as obviously Ms Kannangara had been told either by Mr Canty or by QBE): "Paul Canty spoke with QBE last week & has agreed to provide the guarantees ..."
+Mr Canty accepted that he had spoken to QBE at about this time. He said that the topic of conversation was not guarantees to be given to Paperlinx but, rather, his own company's "credit facility, our insurance facility" (T235.36). I do not accept that evidence. It is unsupported by any scrap of contemporaneous material, and it is inconsistent with all the surrounding contemporaneous material that is available, including the email a few weeks later to Mr Amaratunga (and discussions with him to which it refers) that I have referred to already.
+I conclude that Paperlinx extended credit to TQG on the terms of the commercial credit application, and that Paperlinx and TQG conducted the relationship, from 1 July 2005, on the basis that those terms governed the provision of credit.
+It follows, among other things, that Paperlinx was entitled to withhold delivery, or to deliver only on cash terms if any due invoice was not paid according to its terms.
+
+Second issue, parts (a) and (b): breaches by invoicing before delivery; misapplication of payments
+There is no evidence to support these "defences". Mr Bevan said that this was the result of rulings made in the course of the hearing: a ruling in which I refused leave to the defendants to particularise the relevant parts of their list response; and another ruling in which (with limited and irrelevant exceptions) I refused the defendants leave to rely on evidence not served in accordance with a "guillotine order" made on 10 May 2013.
+Those rulings had at least two consequences. One was that the defendants could not rely on particulars which, as Mr Bevan acknowledged, should and could have been given of the relevant defences, back in July 2013, when asked to do so. The second consequence is that they could not rely on evidence that they might have been able to amass on those issues.
+That may be accepted. But cases are decided on the basis of issues properly framed, and evidence properly adduced and relevant to the issues. They are not decided on a "what might have been" basis.
+As to early invoicing: such evidence as there is suggests that invoices were generated and issued on, or in conjunction with, delivery.
+As to appropriation of payments: this was discussed between Paperlinx and TQG from at least 3 October 2008, when Mr Canty signed and delivered (as I find he did, despite his non-recollection) a letter to Paperlinx acknowledging its right to be paid for outstanding storage and demurrage charges. There is no evidence of any appropriation of payments prior to that date. After that date, to the extent that such appropriation occurred, it was consensual.
+
+Second issue, part (c): the "second credit agreement"
+The defendants say that in early or mid-July 2008, Messrs Allard and Canty negotiated what the defendants call the "second credit agreement". Under that agreement, according to the defendants, TQG agreed to procure the guarantees if Paperlinx would increase TQG's credit limit to $1.6 million; and Paperlinx said it would do so if the guarantees were given. I set out para 10 of the Amended List Response:
+In or about early mid July 2008, when the indebtedness of Quality Group to Paperlinx under the second credit agreement was exceeding $0.8m, and
+Quality Group was unable to perform its obligations under the agreement in a timely manner: 
+Quality Group promised to procedure its directors and group members to personally guarantee the due payment of Quality Group's obligations under the second credit agreement at the request of Paperlinx (the proposed guarantees) in consideration of promises made by Paperlinx to continue supplying paper to Quality Group under the agreement and to increase the credit limit to $1.6m; 
+Paperlinx promised to continue supplying paper if it received the proposed guarantees; and 
+Paperlinx also promised to increase the credit limit to $1.6m forthwith upon receipt of the proposed guarantees, and the second credit agreement would be varied accordingly.
+
+Particulars 
+Conversation between Paul Canty for the Quality Group and David Allard for
+Paperlinx in early to mid July 2008.
+I note, in passing, that the language ("increase the credit limit to $1.6 million") is not consistent with Mr Canty's evidence that, hitherto, there was effectively no credit limit in place.
+The evidence of the making of the agreement comes from Mr Canty. According to him, it was made and confirmed in two conversations. The first conversation, he said, was as follows (affidavit sworn 29 May 2013, para 46): "Mr Allard said: "Paul. I understand there was never any credit limit discussed when we agreed to supply paper last year but we'll need to have a credit limit now," 
+I said: "You know this will ruin the Quality Group. It did not expect this cash flow requirement and it can't meet it. You also know that $800,000 is not even one month's purchases for Quality and that we are on 60 day terms." 
+Mr Allard said: "I can't get head office to allow a greater limit unless we have more security. We'll need personal guarantees from you and your wife and any other companies associated with Quality." 
+I said: "I'm not happy with that but Quality needs the paper it's already ordered from Paperlinx so I'll just have to live with it, I suppose. But I'm only prepared to agree to giving any personal guarantees by me and my file and companies if the credit limit is increased to allow for at least two months of
+Quality's paper purchases which as you know are currently about $1.6 million." 
+Mr Allard said: "OK. I agree."
+Mr Canty said that there were similar conversations thereafter, including, in about mid-July, one as follows (same affidavit, para 48): 
+I said: "Darren, the guarantee doesn't nominate the increase in the credit limit to $1.6 million we discussed. There's no point in giving guarantees if the increase to the credit limit isn't part of it." 
+Mr Allard said: "Of course you'll get your credit limit increase. It doesn't need to be in the guarantee documents. But we want the guarantees first. Once we get the guarantees in writing we'll then process the paperwork for your credit limit increase."
+In his affidavit sworn 1 August 2013, Mr Allard denied those conversations.
+Mr Allard's cross-examination on this topic was less than consistent. I do not say this critically; it reflects, in part if not substantially, the confusing nature of the questions put to him and the circuitous way in which, in the course of cross-examination, the topic was approached.
+At one point, after what Mr Faulkner correctly described (written closing submissions, para 53) as "a lengthy series of confusing questions", Mr Allard appeared to accept that the first of the conversations occurred. However, thereafter (when the matter was put more directly), he denied any discussion of, or agreement to, a credit limit of $1.6 million.
+Mr Canty's affidavit account of the conversations is implausible. It starts with something that objectively, must be incorrect: the substance of an observation attributed to Mr Allard that there had been no prior credit limit. Mr Allard's evidence was, first, that there had been such a credit limit at all times; and, secondly, that he was aware of this. And Mr Canty's account concludes with a definite commitment; coming from Mr Allard, to the $1.6 million limit if guarantees were provided.
+According to Mr Canty, the limit was required for two reasons. First, TQG was then doing, he said, more than $800,000 worth of business per month with Paperlinx. Secondly, he said, because it was trading on 60 day terms, it needed a credit limit of $1.6 million.
+Such records as there are shows that TQG was not then doing business with Paperlinx for anything like the amount of $800,000 per month, let alone more. And even if forward orders are considered (that is to say, orders "in the pipeline"), as Mr Bevan submitted they should be, the likely (and in fact achieved) level of business almost never exceeded $600,000 per month, and often was well below that.
+In any event, in my view, the truth comes not from recollections that are; on the one side, faulty, and on the other, tainted by self-interest. It is to be found in the probabilities, viewed objectively, and in contemporaneous documents.
+As to the first point, it is worth reminding ourselves that it is clear from the whole of Paperlinx's evidence that the trade credit insurance that it had with QBE was a necessary aspect of the process of fixing a credit limit for a customer. No doubt, as was put to witnesses, Paperlinx could fix a credit limit that was higher than the limit of insurance; it could "self insure" for the excess. But there is no evidence that, in practice, it did so. There is certainly no evidence that it was prepared to do so for TQG.
+When the discussions alleged by Mr Canty were supposed to have occurred, Paperlinx was in the process of negotiating with QBE to secure an extension of the credit insurance to $1.5 million. QBE was not prepared to do so unless Mr and Mrs Canty and their companies gave guarantees to Paperlinx of the liabilities of TQG. I cannot believe that Mr Allard, who impressed me as a careful, thoughtful, and experienced businessman, would have agreed to increasing the credit limit without knowing that the underlying insurance was in place. 
+In this context, the evidence showed that the process of increasing a credit limit did not involve the say-so of just one person within Paperlinx. On the contrary, a particular manager was required to take responsibility for, and put forward, the justification for, whatever limit was sought. That would then be circulated through other levels of management until (depending on the amount, and the approving authorities) a stage was reached when it could be approved.
+It was not put to Mr Allard that he had authority, on his own, to approve the limit that, according to Mr Canty, he did. And the evidence suggests that such an approval would have required the authority of others within the Paperlinx hierarchy.
+If one were to accept Mr Canty's version of the conversation, it would seem that the imposition of a credit limit, as suggested in the first conversation, came as something of a revelation to Mr Allard. But it could not have been because, as I have said, Mr Allard (who I regard as a truthful witness) was well aware of the credit limits that were in place and of the process to be followed to increase them.
+If a revised credit limit was negotiated (and if Mr Allard had had authority to do so), one would have expected it to be discussed with others in Paperlinx and to be documented. Certainly, the voluminous quantities of printed emails that have been put in evidence in this case suggest that events such as the one suggested by Mr Canty, and indeed others that might be thought to be less momentous, were the topic of routine recording and approval in emails. There is a conspicuous lack of such material in the case of the alleged agreement.
+When one is looking at the attitude of others in Paperlinx's management, it is instructive to note that, as I find, two of those managers, Mr Paul Amery and Mr Wayne Stanistreet, saw Mr Canty at the beginning of October 2008. TQG was not then anywhere near $1.6 million in overall indebtedness. But nonetheless, the express purpose of the visit was to get the account into line. That was confirmed in the letter of 3 October 2008, to which I shall turn in a moment.
+As to the contemporaneous documents, there are at least 12, together with the internal record of the limit from time to time to which I have referred already.
+On 29 July 2008, there was an email exchange between Mr Pragasam and Mr Cameron. Mr Pragasam was seeking to have some urgent deliveries made. Mr Cameron set out an action plan - sending the oldest containers first, because detention was costing a lot. He then referred to the "credit limit at 1.2 m" and indicated that there was some $400,000 available which could be utilised. As I have said, Mr Pragasam was not called.
+A few weeks later, on 13 August 2008, Mr Cameron sent an email to Mr Pragasam. It dealt with container loads that were available to be delivered, payments, and the like, and then referred to a proposal to stop billing for back to store and detention charges "which will take us up to the $1.2 m limit".
+On 2 September 2008, Mr Allard prepared, signed, and (he said, and I accept) delivered to TQG's offices a letter in which he set out "our arrangements for payment of your account and the limit that is in place by our insurance company". The letter said that: the current limit was $1,200,000 net but that Paperlinx would seek to increase the limit; and payment terms were net 60 days, but "any amounts over this limit of $1,200,000 is [sic] paid as soon as invoices are raised".
+As I have said, I find that the letter was delivered. Mr Canty denied seeing it. I do not accept that denial. Mr Allard's evidence of system was clear. The letter itself is clear evidence of what the credit it was, and the failure to reply to it corroborates that evidence.
+A few days later, on 12 September 2008, Mr Pragasam wrote to Mr Cameron and others, noting that "the account balance as at today is $950,000 leaving available credit of $250,000". Mr Pragasam seems to have been under no illusions as to the extent of the credit limit. In the course of cross-examination, Mr Canty accepted that Mr Pragasam (and Mr Amaratunga) needed to know the credit limit for the purpose of their work, and that he would have told them what it was.
+On 24 September 2008, Mr Cameron sent Mr Pragasam another email setting out what the account balance was and what the amount available was. The two totalled $1.2 million.
+I referred a little while ago to a letter of 3 October 2008. That was prepared following discussions between senior officers of Paperlinx and Mr Canty on 1 October 2008. The letter recorded "the agreement that we have reached in ensuring that we clear all Quality Print Group's incoming stock from Dalton Web ... by 15 December 2008". One of the ways in which that was to be achieved was by increasing "your current credit limit to $1.65m (from $1.2m) effective immediately". 
+The letter said that the increase would be temporary only "and will be adjusted back to $1.2m once current orders have been delivered". 
+Mr Allard said that Mr Canty signed that letter, by way of acceptance of its terms, and returned it to Paperlinx. The letter has since been lost, but I accept Mr Allard's evidence.
+A letter of 10 November 2008, to Mr Canty, records the disappointment of Paper Australia with the inability of TQG to honour its obligations under the agreement of 1 October (which was confirmed in the letter of 3 October). The letter said that, in those circumstances, a number of steps would be taken, including "reinstating" the limit to $1.2 million.
+There were subsequent emails on 13 November and 10 and 11 December confirming the $1.2 million limit. There is no point in setting out their terms.
+On 3 December 2008, Mr Allard had a conversation with Mr Canty. Following the conversation, Mr Allard sent an email to, among others, Cameron referring to the conversation. According to Mr Allard, Mr Canty said, in the course of that conversation, "he was not at $1.2 million so when could he expect some deliveries". Mr Canty did not deny that evidence.
+The cumulative effect of the documentary evidence, even considered without any regard to the contemporaneous circumstances, is overwhelming. It is utterly inconsistent with the proposition that, in July 2008, an agreement was reached that TQG could have the benefit of a credit limit of $1.6 million.
+In case it should be thought that the temporary limit of $1.65 million was inconsistent with the matter that I referred to earlier - of having a credit limit which did not exceed the amount of insurance - I am satisfied, on the basis of in particular the evidence of Mr Allard, that the QBE limit was net of GST, and that the limit of $1.65 million was inclusive of GST. 
+I find that there were no conversations in the terms alleged by Mr Canty at paragraphs 46 and 48 of his affidavit. I regard this aspect also of his evidence as untruthful.
+It follows that the third alleged breach - of the "second credit agreement" - is not made out.
+
+Third issue: assignment 
+This turns on a "Restructure Deed" made on 24 April 2008, between, among others, Paperlinx (which was what was called a "Paperlinx Entity"), and Paper Australia.
+By cl 2.2(a) of that deed, the Paperlinx companies (as it is convenient to call all the assigning companies) agreed to transfer the "PA Assets" to Paper Australia. PA Assets were defined as follows: 
+PA Assets means: the assets listed in Parts A, B and C of Schedule 2; and the rights of PaperlinX and each PaperlinX Entity (as the case may be) under each PA Assumed Contract.
+The PA Assumed Contracts were defined as follows: 
+PA Assumed Contracts means the contracts and leases listed in [Parts D](http://www.austlii.edu.au/au/legis/nsw/consolact/cra1980201/index.html#p500) and E of Schedule 2.
+Schedules A, B, D and E (there was no schedule C) make no reference to any agreement of any kind between Paperlinx and TQG, or Paperlinx and the guarantors, or to any debt owed by TQG to Paperlinx, nor to the benefit of any thing in action representing those debts or the guarantees of them. Nor do those schedules refer no any other species of property that could include the debts or guarantees, or the right in respect of them.
+Mr Bevan relied on cl 2.4 of the Restructure Deed. So far as it is relevant, cl 2.4 reads: .4 Transfer of PA Missing Assets 
+The parties intend that, as between PaperlinX and the PaperlinX Group on the one hand and Paper Australia and the Group Companies on the other, on and from Completion, Paper Australia (or a Group Company) will have the entire economic benefit and risk of each PA Asset as if that company had owned each
+PA Asset at all times.
+
+If at any time after the Completion Date there are any assets (including any interest in land) (PA Missing Assets) within the possession, ownership or control of PaperlinX (or a PaperlinX Entity) that are used solely or predominantly by Paper Australia or a Group Company to conduct the Business, or which are required for the ownership of, any of the Business or the PA
+Assets, Paper Australia may by written notice, require PaperlinX to transfer or procure the transfer or the PA Missing Asset to Paper Australia or a Group
+Company (as the case may be) (PA Missing Asset Notice).
+ ...
+The debts and guarantees do not fall within the definition (para (b)) of "PA Missing Assets". Nor could they be described as "required for the ownership of any of the Business or the PA Assets". Clause 2.4 adds nothing.
+Thus, I conclude, the Restructure Deed did not effect any assignment of the debts owed by TQG to Paperlinx.
+Mr Bevan relied on the terms of a pro forma letter sent to customers of Dalton Web Paper in May 2009, marked as received by TQG on 19 May 2009. Omitting formal parts, that letter reads: 
+Following a recent legal restructure of the Australian Paper business there will be a change in banking arrangements for "Dalton Web".
+
+We are looking to you as a key customer to partner with us to make this a smooth transition. There are no planned changes to the ordering process.
+
+The following outlines the key changes we are making that may impact the way we do business with you: ▪ the old ownership details of "Dalton Web" (PaperlinX Australia Pty Ltd -
+ABN 84 007 228 113), will become the new ownership details of: Paper
+Australia Pty Ltd - ABN 63 061 583 533.
+ ▪ From 1 May, the Bank Account details for all future payments will be: 
+Bank: National Australia Bank 
+BSB: XXX-XXX 
+Account Number: XX XXX XXXX 
+MT WAVERLEY VIC 3149 ▪ Dalton Web Accounts Receivable can be contacted on (XX) XXXX XXXX or by fax on (XX) XXXX XXXX.
+ ▪ The e-mail address for sending remittances is xxxxx@daltonweb.com.au ▪ Terms and Conditions are in the main as per current - refer Attachment 1 for updates.
+The letter shows that ownership of the Dalton Web Paper business had changed, or would shortly change. But it does not say that existing debts were assigned (or to be assigned) along with the business. Nor can this be inferred from the direction to pay. That direction is equally consistent with a state of affairs under which Paper Australia, the new owner of the business, would collect all debts (pre or post restructure) and account to Paperlinx for debts owed to it.
+Mr Bevan relied on other matters that, he said, indicated that there had been an assignment.
+The first was that Paper Australia issued statutory demands to TQG and the corporate guarantors for the debt that, in these proceedings, Paperlinx says is owed to it. In the usual way, those demands were verified by affidavit. The demand and the supporting affidavit assert an assignment. No notice of assignment was given to any of the guarantors. Mr Bevan submitted that it would extraordinary for Paper Australia to take this course, particularly when the person who swore the affidavit, Mr Amery, was a senior officer of both companies.
+It is fair to say, as Mr Faulkner accepted, that the process of issuing the demands reflected little credit on his client's business procedures. However, the fact is that the demands were set aside by consent. The circumstances may well show that Mr Amery thought that the debts had been assigned. They do not show that the debts had been assigned.
+The next matter that Mr Bevan relied upon was the discovery given in these proceedings. One category of discovery was documents recording the assignment of the debt in question. Another category was documents referring to the assignment. The discovery ultimately given by Paperlinx did assert that there were some such documents, but claimed privilege in respect of those documents.
+Mr Bevan submitted that the very fact that there had said to be documents within the categories in question showed that there had been some form of assignment, even though privilege was claimed. As he said, if there never had been an assignment, there could be nothing to discover.
+That seems to me somewhat to put the cart before the horse. If there were no assignment, the mistaken belief of someone that there had been, or that there were documents relevant to it, could not create an assignment
+The third matter that Mr Bevan relied upon was a purported reassignment of the debt, made by deed dated 29 January, 2010.
+All of that material is interesting. But in circumstances where the document that was said to amount to or effect the assignment - the Restructure Deed - does not do so, those various manifestations of mistake, incompetence or excessive precaution do not take the matter any further.
+
+Fourth issue: guarantee and indemnity?
+This issue is academic, because I have found that there were no breaches of any agreement made between Paperlinx and TQG that would impact on, let alone vary, suspend or discharge, the obligations of the defendants as guarantors.
+Nonetheless, it is more than a little difficult to understand why cl 4.1, which in terms seems to create obligations of indemnity, does not have that effect.
+
+Fifth issue: discharge by allowance of time to pay
+The first point is that this defence is pleaded in terms of breach of the second credit agreement. Since there was no such agreement, the allowance of time to pay, in the way that it was done, could not amount to a breach. 
+The second, and substantive, point is that clauses 1.11 and 3.1.3 of the guarantee apply. The obligations of the guarantors were not released by the extension of time to pay.
+
+Sixth issue: misleading or deceptive conduct
+The conduct complained of was Mr Allard's alleged misrepresentation that Paperlinx would increase the credit limit to $1.6 million if TQG procured the guarantees.
+My findings of fact on issue 2(c) dispose of the case based on misleading or deceptive conduct. The representations were not made.
+
+Seventh issue: [Contracts Review Act](http://www.austlii.edu.au/au/legis/nsw/consolact/cra1980201/)
+This issue is raised only by Mrs Canty.
+There is no evidence of any "procedural injustice". That is to say, there is no evidence of any vitiating or unjust conduct in the circumstances in which Mrs Canty signed the guarantee.
+Nor is there any allegation that the terms of the guarantee go beyond what was reasonably necessary for protection of the legitimate interests of Paperlinx.
+The three "pleaded" matters that support this defence are that Mrs Canty: played no actual role in the management of TQG and its associated companies; received no material benefit from giving her guarantee; and received no independent legal or financial advice before she did so.
+As to the first matter: I am prepared to assume, on the basis of Mrs Canty's evidence (and I should say it was not challenged in cross-examination), that it is made good.
+As to the second matter: the evidence is that the issued shares in TQG were owned by the third defendant, Quality Logistics. Mrs Canty owned all the issued shares in Quality Logistics. Quality Logistics was the trustee of the Denise Canty Family Trust. Mrs Canty was the nominator for that trust, and one of its two named beneficiaries. Thus, effectively, she controlled the distribution of trust property. To the extent that the business made profits, they were made for the trust and were available for distribution to Mrs Canty should she choose to do so.
+As to the third matter the deed of guarantee stated at the head of it, under its title and before its date, in bold capital letters: "This is a legal document - all parties are invited to seek independent legal advice prior to executing this document".
+Further, and as I have noted, clause 3.1.8 contained an acknowledgement by each of the guarantors of "free and unrestricted opportunity to seek independent legal advice as to the nature and effect of this deed and their obligations pursuant to it". 
+Mrs Canty does not suggest that she was denied that opportunity at all, let alone by any conduct on the part of Paperlinx or for which, in all the circumstances, Paperlinx should be held responsible.
+I do not think that there is anything in the circumstances on which Mrs Canty relies that amounts to relevant "injustice", let alone to injustice of an order of magnitude that would warrant interfering in the arrangements that were made.
+It is apparent that the arrangements were made for the benefit of the business that was held on trust for the Denise Canty Family Trust. No doubt, Mr and Mrs Canty hoped that, with the guarantees, the business would survive and prosper. It did not. But its failure to do so cannot be sheeted home in any way either to Paperlinx or to the matters the subject of the guarantee.
+Mrs Canty is not entitled to the relief that she seeks. That disposes of this aspect of her defence. It means also that her independent cross-claim, seeking relief, should be dismissed.
+
+Conclusion
+Paperlinx has made good its claim on the guarantees. Each of the defences fails.
+Interest has been calculated (without challenge) in the sum of $125,350.37 as at 15 September 2010 (the date of commencement of these proceedings).
+Paperlinx should have judgment in the sum of $1,209,701.90 together with interest on that sum in accordance with [s100](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/s100.html) of the [Civil Procedure Act 2005](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/) from 16 September 2010 to the date of entry of judgment. 
+Prima facie, Paperlinx should have its costs, but I will hear the parties on costs if there is any dispute. 
+Paperlinx is to bring in a calculation of interest and a form of judgment.
+I stand the matter over to 10am tomorrow, which is the 17th of September, for the making of orders.
+ * * * 

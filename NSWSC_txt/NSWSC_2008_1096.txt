@@ -1,0 +1,299 @@
+
+
+Torrens Re-Development & Research Pty Ltd versus Oakworth Developments Pty
+Ltd [2008] NSWSC 1096 (23 October 2008) 
+Last Updated: 18 November 2008 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Torrens Re-Development & Research Pty Ltd versus Oakworth Developments Pty Ltd <case>  
+JURISDICTION: 
+Equity Division  
+FILE NUMBER(S):  /06  
+HEARING DATE(S):  , 17, 18 and 26 September 2008  
+JUDGMENT DATE:  October 2008  
+PARTIES: 
+Torrens Re-Development & Research Pty Ltd (Plaintiff) 
+Oakworth Developments Pty Ltd (Defendant)  
+JUDGMENT OF: 
+Windeyer J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+G Sirtes (Plaintiff) 
+D R Pritchard SC with him A Hourigan (Defendant)  
+SOLICITORS: 
+Mills Oakley (Plaintiff) 
+S L Lawyers (Defendant)  
+CATCHWORDS: 
+CONTRACTS - Real Property - Options - Put and call option for real estate - puported execution of option agreement by grantee - execution in name of company by person described as director who was not a director - whether contract made 
+CONTRACTS - Agents - principal and agent - option deed signed by person purporting to be director - whether signature by the company or by person as agent for the company - whether resolution giving authority for signature duly passed - whether authority to agent to execute deed must be by deed 
+PRINCIPAL AND AGENT - act of person without authority - whether signature ratified - whether principal had knowledge of facts at time of acts claimed to amount to ratification - whether ratification of a deed must be by deed in circumstances where deed not required for binding contract 
+CONTRACT - Termination - whether right to terminate after act of default was exercised 
+CONTRACTS - Options - conditions listed for exercise - valid exercise giving rise to contract for sale - condition requiring service of notice of exercise and a form of contract executed and dated the date of exercise - documents served but contract not dated - whether strict compliance required 
+ESTOPPEL - Estoppel by Convention - assumption option contract was valid - assumption brought about by party claiming other party estopped  
+LEGISLATION CITED:  [Conveyancing Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ca1919141/)  [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth)  
+CATEGORY: 
+Principal judgment  
+CASES CITED: 
+Berkeley versus Hardy <case>; B&C 35; <case>; <case>; <case>; [(1797) 7 TR 207]; 101 ER 935 
+Hunter versus Parker (184) <case>; [7
+M&W 322] 
+MYT Engineering Pty Ltd versus Mulcon Pty Ltd <case>; <case> 
+Thompson versus Palmer <case>; [(1933) 49 CLR 507] 
+Tonitto versus Bassal (1992) NSWLR 564 
+Tricontinental Corporation versus HDFI [(1990) 21 NSWLR 689]  
+TEXTS CITED: 
+Bowstead & Reynolds on Agency, 18th ed 
+Halsbury's Laws of Australia 
+Law of Contract, Greig and Davis  
+DECISION: 
+Judgment for defendant.  
+JUDGMENT:  - 15 - 
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+EQUITY LIST  
+WINDEYER J  OCTOBER 2008  /06 Torrens Re-Development & Research Pty Ltd versus Oakworth Developments Pty Ltd 
+JUDGMENT The plaintiff, Torrens Re-development & Research Pty Ltd (Torrens) seeks an order for specific performance by the defendant Oakworth Developments Pty
+Ltd (Oakworth) of a contract claimed to arise upon the exercise by Torrens of an option to put its property in Menangle Road, Gilead (the property) to
+Oakworth. The questions for decision are whether there was a valid option agreement; whether it was terminated after an event of default; or in the alternative, whether it was abandoned by the parties. There are other subsidiary issues I will deal with in due course.
+ 
+Facts  Torrens sues on a deed dated 7 October 2004 which can be described as a put and call option (the option). The plaintiff is the owner of the property the subject of the option. I will refer to it as the option, although one of the issues is whether or not there was an agreement at all.
+ The relevant provision of the option for exercise of the put option by
+Torrens is clause 4 which is as follows:- . PUT OPTION .1 The purchaser grants to the Vendor an option to sell the property for the price described in the Contract.
+ .2 In order to exercise the Put Option, the Vendor must deliver to the
+Purchaser or his solicitor during the Put Option Exercise Period:- 
+Notice of Exercise of Put Option in the form described in Schedule 2 executed by the Vendor; and the Contract duly executed by the Vendor and dated the day of exercise of the Put Option.
+ .3 Upon and simultaneously with the exercise of the Put Option, there will be entered into between the parties, an agreement for the sale of the property upon the terms and conditions set out in the Contract (notwithstanding any inconsistent provision in the Contract but subject to the provisions of this
+Agreement).
+ .4 Within two (2) business days of receipt of the documents referred to in clause 4.2, the Purchaser must execute and caused to be delivered to the
+Vendor, a counterpart of the Contract, such counterpart to be of the same date (ie the date of exercise of the Put Option).
+ .5 The Put Option will only be exercisable by the Vendor if the Call
+Option has not been exercised according to clause 3.2 of this Agreement.
+ Clause 11 relating to notices is as follows: . NOTICES .1 Any notice to be served by one party on the other under this
+Agreement, must be in writing and shall be deemed to have been duly served if given: in the case of a letter, on the 3rd day after posting; in the case of a facsimile, on production of a transmission report by the machine from which the machine was sent, which indicates that the facsimile was sent in its entirety to the facsimile number of the recipient notified for the purpose of this clause, if sent before 5 p.m. on a Business
+Day on that Business Day, otherwise on the next Business Day; and by hand at the time it is left at the party's last known place of residence or business, or such earlier time as receipt may be acknowledged by the receiving party.
+ The contract provided for a purchase price of $2,620,000. The option provided for certain premium payments and further provided that if the put option were exercised then the first premium payment of $60,000 due on 7
+October 2004 would be the deposit payable under the contract and would form part of the purchase price.
+ The option provided for the defendant Oakworth to pay a total premium as consideration for the call option of $540,000 payable, apart from the first instalment of $60,000, by instalments of $20,000 each on the 21st day of each month from 21 October 2004 until 21 September 2006. The option provided that these premium payments were to be paid direct to Secured Mortgage Management
+Ltd (SMML), the first mortgagee of the property, towards interest due by
+Torrens to that mortgagee.
+ Clause 8 of the option referred to acts of default. The following provisions are relevant: .1 Subject to clause 6 hereof there shall be an act of default if either party: fails to perform its obligations to the other party under this
+Agreement; or has an administrator, receiver, liquidator or similar person appointed (whether by itself, the court or other parties) concerning any of its property, assets, business or affairs; or (if an individual) becomes bankrupt, insolvent or enters into a scheme of arrangement or arrangement with its creditors; or assigns its property, assets, business or affairs for the benefit of its creditors; or has any bona fide distress, execution, attachment or other process made or levied against any of its assets which is not satisfied within seven (7) days after service.
+ .2 Each party undertakes to the other that it will promptly notify, in writing, the other of any event which constitutes an act of default.
+ .3 Notwithstanding any other provision of this Agreement, if a party commits an act of default, the other party shall not be entitled to exercise any of its rights arising out of the default until :- it has served on the defaulting party a written notice specifying the default and directing the defaulting party to remedy such default within 21 days of service of the notice; and the defaulting party fails to comply with the notice.
+ .4 In the event that the Purchaser fail to pay SMML referred to in clause .2 hereof the premium installment (sic) on the due date referred to in
+Schedule 5 hereof and as a consequence SMML charges the Vendor penalty interest, then the Purchaser hereby agrees to either pay any such penalty interest to SMML or alternatively pay such amount as is charged as penalty interest to the Vendor as compensation. Any penalty interest or compensation shall only be payable by the purchaser if it is legally charged and is chargeable by SMML.
+ In May 2005 a second mortgagee, of which Oakworth was unaware, entered into possession of the property and put the property up for sale by auction. It is accepted that this gave rise to an event of default under the option. The defendant Oakworth gave notice of default on 11 May 2005 pursuant to clause .3 of the option which default was not remedied within 21 days. The property was not sold at the mortgagee's sale and the mortgage was in fact discharged in August 2005.
+ Oakworth claims that the option was terminated on 8 June 2005 by express words or by conduct. No monthly payments or premium were paid after that date.
+Torrens denies the termination.  
+Further facts   The sole director of Torrens is Mr Douglas Theodore Witham (Mr Witham). At the relevant times he and his three sons were the shareholders and had been since June 2001.
+ Mr Beckers is a solicitor. In 2004 he was acting for Mr Witham and his companies. By that time Mr Witham had moved to Burleigh Heads and asked Mr
+Beckers whether he was prepared to become a director of Torrens to make it easier to have documents signed by that company. Mr Beckers said that he would be prepared to assist but that he would like to be removed as soon as possible. In fact he was not appointed. He was never told that he had been appointed but he assumed that he had been.
+ The option refers to its being an "option agreement made on 7 October 2004" and it defines agreement as "this agreement". The document after clause 19, which is the last operative clause, has in bold letters "EXECUTED AS A
+DEED". The execution by Oakworth is in a form where it is stated to be executed in accordance with [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s127.html) of the [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) and is then signed by the two directors of Oakworth Messrs Moloney and Phillips who place the word 'director' under their names. The copy said to be executed by Torrens as vendor is executed as follows: 
+Executed by the vendor by authority of the board H Beckers (signature) 
+H Beckers Director The affidavit evidence of Mr Beckers was that when he signed the document he believed he was a director but that soon after exchange of copies of the option he rang Mr Witham to tell him of exchange and asked if his appointment had been completed. His evidence was that Mr Witham then said "No, I knew you were not keen on the idea and I did not want to burden you with potential liabilities. So the company passed a resolution authorising you to execute the option agreement on its behalf. I'll send you a copy." Mr Beckers said it was not until that conversation that he became aware that he had not been appointed as a director of Torrens.
+ There is in evidence as Exhibit 1 a document said to be a minute of a resolution passed at a meeting of members of Torrens held at Burleigh Heads on September 2004 which document is as follows: 
+MINUTES OF THE MEETING OF TORRENS RE-DEVELOPMENT AND RESEARCH PTY LTD HELD
+IN BURLEIGH HEADS AT 5.30pm ON THURSDAY 30th SEPTEMBER, 2004.
+ 
+PRESENT: MR D T WITHAM (Chairman) MR S WITHAM, MR A WITHAM 
+GENERAL BUSINESS: 
+It was noted that finalisation of the proposed Put and Call Option
+Agreement with Oakworth Developments Pty Ltd was almost at a stage where it is able to be executed.
+ 
+It was further noted that Oakworth Developments Pty Ltd are located in
+Ingleburn NSW and that the Agreement to be executed is currently held by Mr H
+Beckers who has been acting as an intermediary in negotiations of the
+Agreement.
+ 
+It was resolved that, for practical reasons, the Board authorise Mr Heinz
+Beckers to execute the Put and Call Option Agreement on behalf of the Board.
+ 
+There being no further business, the meeting closed at 5.45PM.
+ 
+D.T. Witham 
+Chairman /9/2004 It is agreed as a fact that the date stamp 13 September 2007 which appears on that document was the stamp put on it by the plaintiff's solicitors when the document was received by them. There is a contest about the authenticity of the document to which I will have to return.
+ The notice of default dated 11 May 2005 to which I have referred relied on an act of default under clause 8.1(e) of the option and required this to be remedied within 21 days. Specialty Finance Pty Ltd had entered into possession as second mortgagee and had listed the property for sale by auction on 24 May
+Mr Witham did not attend the auction but Mr Moloney did. There was no sale. Messrs Moloney and Phillips the directors of Oakworth had assumed until they received an email from the solicitor for the mortgagee in possession that it was in fact the first mortgage SMML which was in possession and that
+Torrens was in default under that first mortgage.
+ Paragraphs 38 and 39 of the affidavit of Mr Moloney of 8 February 2008 are as follows: . On or about 8 June 2005 I received a telephone call from Mr Doug
+Whitam who advised me that steps were being taken to refinance his Lilly Pilly property and that he would sort out the second mortgage. This was the first time that I had ever received any direct contact from Mr Doug Whitam, either by telephone or in writing. The conversation was as follows: 
+Whitam: "Steve I am taking steps to sort out the second mortgage over the property by refinancing one of my other properties".
+ 
+Moloney: "that's to fix up the second mortgage but what about the first mortgage. How can you guarantee that the first mortgagee won't exercise its right to take possession. Is this just another story, at first we were told you had retired to the Gold Coast then you had family problems what next. We don't know how much you owe and whose got the land".
+ 
+Whitam: "once the loan is organised I will send you a letter".
+ 
+Moloney: "It's to late you haven't fixed up the mortgage default. We have no guarantee with the property. We just want our money back and to recoup our losses. The agreement is over".
+ 
+Whitam: "Don't do that I will send you a letter" 
+Moloney: "It's too late its over".
+ . After I finished my telephone call with Doug Whitam I telephoned Gavin
+Phillips and we had the following conversation: 
+Moloney: "I just got off the phone with Doug Whitam who promised to sort out the second mortgage".
+ 
+Phillips: "but what about the other mortgage" 
+Moloney: "I know, I told him its over. We now need to look at how we will get our money back with interest".
+
+Throughout these paragraphs Witham is misspelt Whitam.
+ Paragraphs 11, 12 and 13 of an affidavit of Mr Phillips sworn 8 July 2008 are as follows: . On or about 8 June Stephen Moloney and I had a further telephone conversation as follows: 
+Moloney: "Doug called me and said he would fix up the second mortgage" 
+Phillips: "yeah but we still don't know how much he owes SMML and who owns the land".
+ 
+Moloney: "that's right I told him its over we want our money back".
+ 
+Phillips: "Good" . On or about late June 2005 I had a conversation with Moloney as follows: 
+Moloney: "Beckers is offering to help us raise finance to purchase
+Menangle" 
+Phillips: "So he doesn't have the land anymore" 
+Moloney: "lets see what he can organise it won't hurt to look into it".
+ 
+Phillips: "Its over lets just try and get our money back".
+ . On or about July 2005 I was at the office at Ingleburn and Beckers arrived at our office. At the time Stephen Moloney was on holidays. Beckers and I had the following conversation in our Boardroom: 
+Beckers: "I am seeing what I can do about the finance for you" 
+Phillips: "As far as I am concerned its over. We paid all our bills and
+Doug couldn't pay his.
+ 
+Beckers: "You have every right to be angry and agitated. Doug's a good person he just got himself into some financial trouble. He had some issues with property on the Gold Coast and tax issues and that's what got him into trouble".
+ 
+Phillips: "I don't want to hear anymore stories. As far as I am concerned the property is gone and we won't pay another cent because Doug couldn't even pay his own bills".
+ 
+Beckers: "Can we do something".
+ 
+Phillips: "I want nothing to do with the deal anymore. If you want you could talk to Steve but you will need to convince him and as far as I am concerned I don't want anything to do with you or Doug anymore".
+ Oakworth took proceedings by cross-claim against Mr Beckers which were dismissed by consent. As a result affidavits he had sworn were read for the plaintiff. Mr Phillips was not cross-examined to challenge his evidence which
+I accept. Mr Beckers was not asked any questions in chief going to paragraph .
+ Mr Witham sent an email to Oakworth on 10 June 2005 stating that he was finalising "the extension" of the second mortgage and went on to say in paragraph 3 and 4 of that email: "I note that you will continue to make payments on the first mortgage pending settlement of the second mortgage.
+ 
+In order to protect your interests insofar as payments are concerned I authorise you to lodge a caveat on my property at 21 Amoonbara Crescent
+Lilypily (sic) NSW 2229 on the understanding that the caveat will be removed on settlement of the second mortgage." Mr Moloney denies there was any suggestion that Oakworth would continue to make payments of premium to the first mortgagee and in fact no further payments were made. Neither was a caveat entered against the title to the
+Lilli Pilli property. There was another caveat to which I will come later. Mr
+Moloney said he did not reply to the email as he thought it untrue and a call of desperation.
+ Even prior to May 2005 there had been approaches by Oakworth to purchase the property for an amount less than the option price which approaches had come to nothing. After June 2005 there were further negotiations activated by
+Mr Beckers who arranged various meetings between himself, the representatives of SMML and Messrs Moloney and Phillips. None of these came to anything but in
+December 2005 there was a meeting on the Gold Coast attended by Messrs
+Moloney, Phillips, Witham and Beckers when a possible venture for the property was discussed.
+ Draft joint venture agreements were prepared and discussed throughout 2006 which involved not only representatives of Torrens and Oakworth but of SMML as well as that company had a vital interest in the proposal as Mr Witham and
+Torrens were in default under the first mortgage. It appears that one of the requirements for any joint venture was that SMML would be prepared to provide finance for it. In an early draft of a joint venture agreement there is a recital that Torrens and Oakworth entered into the option and there is an operative provision that those companies would release each other from performance of the terms of the option. Those provisions do not appear in the last draft which seems to have come into existence around September 2006. This last version included as a condition precedent to the operation of the agreement "the removal of the company from external administration before the effective date". The company is Torrens. The effective date would be the date of the joint venture agreement if it were entered into or whatever date was otherwise agreed.
+ On 27 July 2005 SMML as first mortgagee appointed a controller over the mortgaged property pursuant to its rights under the mortgage. In cross- examination on 17 September 2008 Mr Witham said that he did not know of this and in fact did not know of it until shown a copy of the ASIC document in the witness box. I found that evidence unconvincing. It was given before counsel for Oakworth had noticed the condition precedent in the final joint venture draft. On being recalled for further cross-examination on this, Mr Witham after some prevarication accepted that he did know of the appointment in April having considered the documents attached to Mr Moloney's affidavit but he said he did not believe he knew of it before that date and he had forgotten about it when he gave his evidence earlier. I am not able to come to a conclusion on the first date of knowledge but I do not accept the forgetting.
+This goes mainly to credit but has some relevance to abandonment. The appointment might have been an event of default but according to Oakworth the option had been terminated before the appointment was made. Had that not been the position Torrens was bound to notify Oakworth of the default.
+ It seems from the evidence of Mr Phillips that the joint venture agreement could have been exchanged in May 2006. Some amendments had been made to it in handwriting on that day but Mr Beckers wanted to make some more additions and to have these typed. Changes were being discussed up to September 2006. On 1
+October 2006 the controller was withdrawn.
+ On 8 October 2006 the solicitors who act for Torrens in this action wrote to Oakworth stating that they were now acting for Mr Witham and his three sons and that Mr Witham and his sons would not participate in any proposed joint venture. On 17 October 2006 the same solicitors Messrs Mills Oakley forwarded a notice of exercise of option and a copy of the contract executed in the name of Torrens by Mr Witham as director but not dated. Oakworth has not executed and forwarded a counterpart of the contract as provided for in the option and has refused to acknowledge any agreement. Its solicitors on 20 October wrote what might leniently be called an inappropriate response to the letter purporting to send documents in exercise of the option saying "Your client's purported exercise of the put option has no effect in law or in equity and is patently defective in both substance and form if not misguided."  
+Issues  The main issues in this action are as follows:- 
+Was a binding option agreement brought into existence. This involves two sub-issues as follows: was the option executed by Torrens itself; if not, was it executed by Mr Beckers as agent for Torrens.
+If Mr Beckers purported to sign as agent but without authority was the act of execution ratified by Torrens. 
+Whether Oakworth is estopped from denying existence of a contract. 
+If the option agreement were valid, was it validly terminated by Oakworth for failure to remedy an event of default. 
+If the option agreement were valid and not terminated, was the contract abandoned by the parties.
+ . If the option were valid and not terminated or abandoned, whether it was exercised.
+ Subsidiary issues 
+Was Torrens guilty of misleading and deceptive conduct by negotiating for a joint venture agreement and ending those negotiations and purporting to exercise the option without notice to Oakworth. 
+If Torrens is entitled to an order for specific performance, to what additional damages is Torrens entitled. It is accepted that unless these can be agreed the question of damages would have to be determined by an Associate
+Judge. These would presumably be outgoings on the property from the time the contract arising from exercise of the option ought to have been completed. 
+If no contract was entered into or if it was terminated, whether the defendant is entitled to be repaid those instalments of premium paid.
+ 
+Is there a valid option agreement?  Mr Beckers did not sign as agent for the company. The execution of the document is in form execution by the company on the understanding he was a director. In earlier times it was usual when execution was under common seal for the words "the common seal of X Ltd was hereunto fixed by authority of a resolution of the directors and in the presence of" to appear against the seal. Mr Beckers was not a director. The document was not "executed by the vendor"; it does not purport to be signed by Mr Beckers as agent for the vendor. The words "by authority of the board" do not imply agency and were not intended to do so by Mr Beckers who thought he was a director.
+ The document purports to be executed as a deed. As Torrens only had one director execution would have been sufficient if it had been signed by that director ([Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) [sections (1)(c)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s127.html) and (3)) but it was not. While Torrens was not named in the execution clause it was the party described as vendor in the option, so the words "executed by the vendor" mean executed by Torrens. Once that is accepted the position is covered by the judgments in Black versus Smallwood <case>; [(1966) 117 CLR 52], the joint judgment of Barwick CJ, Kitto, Taylor and Owen JJ at page 60 and the separate judgment of Windeyer J at 61. The joint judgment approved the judgment in Richardson versus Landecker <case>; <case>; [(1999) 195 CLR 636] at 647 the discussions there concerning the then [s (1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s182.html) of the Corporations Law. While [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s126.html) of the [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) is not in precisely the same words and is headed 'Agent exercising a company's power to make contracts' I do not consider that altered wording changes the position.
+It follows from this that as the document was purported to be executed by the company and it was not so executed no binding contract arose. It was accepted that exchange was necessary for there to be a contract.
+ The reply to the defence, which defence either denied or did not admit execution, alleged:  the agreement was executed by a person duly authorised by the plaintiff;  the person executing the agreement was solicitor for the plaintiff  the agreement was ratified by; acceptance of payments; issuing a notice of exercise of option; by commencing these proceedings.
+ I have dealt with (a) by finding that execution was of the company and not of an agent for the company. No argument was addressed to the solicitor claim nor could it have been. As to (c) ratification relates to unauthorised acts of an agent or more properly a person who professed or purported to act as agent.
+A company does not ratify its own acts.
+ While it is not I think necessary to go into ratification further I will deal with two matters as some quite detailed submissions were devoted to the subject. Ratification requires knowledge. There is no evidence that the plaintiff knew until well after the proceedings commenced of the form in which the contract purported to be signed by it was executed. Knowledge of the professed agent is not knowledge of the principal. The acts relied on as ratification took place well before the action commenced and on that basis could not amount to ratification. Next the defendant submitted that ratification of a deed must be by deed. This is stated in Article 17 [Rule ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s5.html) of
+Bowstead & Reynolds on Agency 18th ed at 2-070 and in Halsbury's Laws of Australia at 1(2)15-150 both relying on some of the same authorities including Hunter versus Parker <case>; [(1840) 7 M&W 322]; [151 ER 789] and Oxford Corporation versus Crow [[1893] 3 Ch 535.] However [Rule ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s5.html) and the comment of Bowstead on it is as follows: 
+Article 17, Rule (5) 
+It is not necessary that the ratification of a written contract should be in writing, but the execution of a deed can only be ratified by deed.
+
+Commentary on Rule (5) 
+Since authority to execute a contract required to be in writing, or to be evidence in writing, need not be in writing, it follows that ratification need not be in writing either. But authority to execute a deed must be conferred by deed, and hence ratification of such an action must equally be by any deed.
+But what appears to be a parol ratification may in fact amount to a second delivery; and if a deed was no necessary for the transaction, the document executed may be treated as a written instrument so that a parol ratification of it is valid.
+
+There is given as authority for this final statement the same case of Hunter v Parker which does support this comment on [rule .](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s5.html) In this case as consideration was given it was not necessary for the option to be by deed so that if there were ratification a deed was not required for this.
+It could be by parole or by written document. This is however irrelevant because there was no ratification.
+ 
+Resolution of 30th September 2004  In light of my conclusion as to execution, any question of authority pursuant to the resolution of 30th September 2004 may not arise. The plaintiff appears to be arguing the resolution was an authority to Mr Beckers to sign as agent for the company pursuant to [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s126.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/). As the option was executed as a deed the resolution could not take effect under [s
+A(2)](http://www.austlii.edu.au/au/legis/nsw/consolact/ca1919141/s51a.html) of the [Conveyancing Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ca1919141/). So far as [s 126](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s126.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) is concerned, Powell JA in the Court of Appeal decision in MYT Engineering Pty
+Ltd versus Mulcon Pty Ltd [(1997) 25 ACSR 78] at 92 stated that the general rule at common law was that where an agent was authorised by a principal to execute a deed on behalf of the principal that authority must be under seal, that is by deed. As authorities for that he gave
+Berkeley versus Hardy ( <case>; [1826) 5 B&C 355]; <case>; [(1797) 7 TR 207]; 101 ER 935. In MYT Engineering Pty Ltd versus Mulcon Pty Ltd <case>; [(1999) 195 CLR 636] in the
+High Court in the joint judgment of Gleeson CJ Gaudron, Gummow and Hayne JJ at there appears to have been acceptance of the correctness of that view. In light of such statements I should accept that the old law still applies. It follows that the resolution was not effective to give Mr Beckers authority to execute the deed on behalf of Torrens.
+ 
+Was the resolution ever passed?  It is only necessary to determine this if my previous conclusions are wrong. Mr Beckers said that when he reported exchange of the option to Mr
+Witham he asked for confirmation of his appointment as director. He said that
+Mr Witham had told him he had not been appointed but that a resolution had been passed authorising him to sign. He said that he asked for a copy of this but did not receive one until this action commenced when at some stage he again asked Mr Witham for a copy and was told that the plaintiff's solicitor
+Mr Geary had it. He said he obtained a copy from Mr Geary. It was the first time he had a copy.
+ The minutes of meetings of Torrens for the period from 2004 to 2007 were produced and tendered. These do not contain the minute of the resolution. Mr
+Witham said he sent a signed copy to Mr Beckers in October 2004 which he seemed to say was the original. When the question of authority of Mr Beckers arose in September 2007 as an issue in this action, the solicitor for Oakworth having found that Beckers was not a director of Torrens, Mr Witham said that he printed another copy from his computer, signed it and sent it to his solicitor who received it on 13 September 2007. He said that both of his sons were present at the meeting at Burleigh Heads, when the meeting was held at which the October 2004 resolution was passed. From July to September 2007 there was correspondence between the solicitors as to the authority of Mr
+Beckers to bind Torrens in the joint venture negotiations. The solicitors for
+Torrens on 4 July 2007 had stated that Mr Beckers had no such authority but was acting as a go between. The solicitors for Oakworth wrote on 10 September seeking further information including: (a) whether Beckers was a director of Torrens during the period 1 July 2004 to 30 June 2007; (b) whether the plaintiff knew that he was representing himself as such; (c) whether Mr
+Beckers had authority to enter into any agreement and whether he was the authorised agent of Torrens during the same period. This response to that so far as is relevant here was as follows: 
+Our letter to you of 4 July 2007 sets out the Plaintiff's position concerning a discrete issue. The enquiries raised by you are not matters which the Plaintiff is required to answer.
+
+The Defendant should rely upon its own enquiries.
+
+The response looks to be an attempt to evade giving a true answer.
+ The evidence of Mr Witham about the resolution was confused. He did not explain the absence of the crucial resolution from the minute book and his evidence conflicts with the evidence of Mr Beckers as to furnishing him with a copy. Mr Witham was also a most unconvincing witness even allowing for the fact it was his first time in the witness box. He may have told Mr Beckers that a resolution giving authority had been passed but this does not establish this as a fact. Submissions were made as to failure to call the two sons of Mr
+Witham who were recorded as being present. Mr Witham had said that both his sons were present at Burleigh Heads at the meeting. There is no doubt that the validity of the resolution might have been established by evidence of those sons. While this does not necessarily carry the day the court can consider, in this case, that the evidence they might have given would not have assisted
+Torrens. In the long run after carefully considering this matter I am not satisfied that the resolution was passed and that therefore the document tendered in evidence as a minute of the meeting is valid. I should add that counsel for the plaintiff said all this went to credit and not to a pleaded issue. That is not correct as the defendant is deemed to have joined issue on the reply. I was referred to [s
+A(6)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s251a.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) but that does not avail the plaintiff as the loose leaf minute book does not contain the minute of 30 September 2004.  
+Termination  If there were a contract the question then is whether it was terminated for failure to remedy an event of default. This involves finding which of Mr
+Moloney and Mr Witham should be accepted and ultimately whether Mr Moloney said that the agreement was over. That would have been an express termination as I am satisfied Mr Moloney had authority to bind Oakworth. It is also claimed that there was an implied termination by failure to make any further payments of the premium after notice of default was issued. Again there are competing versions. Mr Witham denies the words of termination were said. There is evidence both ways and here the onus is on Oakworth.
+ In support of the Oakworth version is the fact that after the date of the purported conversation no further premium payments were made and no caveat was entered against the title of the property of Mr Witham in spite of his invitation to do so. There is also evidence of Mr Phillips which I accept. Mr
+Witham made no complaint or demand for premium payments explaining this as not wanting to rock the boat during joint venture negotiations. However he was under considerable pressure from his lender SMML as Torrens was in default under its mortgage which he had guaranteed. In those circumstances his failing to insist on payment is not easily explained. It took pages of cross- examination for him finally to admit he knew in June 2005 the payments had stopped. Against this is the evidence that drafts of the joint venture refer to the option and infer that it is in existence; that Mr Witham wrote on 10
+May 2005 referring to an agreement to continue payments; and that Mr Moloney wrote to SMML seeking loan funds saying that Oakworth had an option to purchase the property.
+ In June 2006 Torrens issued 800 shares to Oakworth. That was to be 50% of its issued capital. That remains the position. It was an action contrary to the continued existence of the option. On the other side Oakworth took no action to recover payment of premiums under the option. Mr Moloney explained his inaction by saying that he thought there was little chance of recovery but that Oakworth had placed a caveat over the title to the property. That caveat is in evidence and was bad as to form. It did little other than to rely on the option agreement but that in itself does not mean much. The caveat was in any event withdrawn after lapsing notice by the second mortgagee. I should say on this matter that it was not really until the final version of the defence that the termination was properly pleaded and evidence of the conversation claimed to bring about the termination was not given until 2008 but then a lot of the evidence in this case, including the vital evidence about the resolution, was not given until quite close to the hearing.
+ There are matters which go to the reliability of both Mr Moloney and Mr
+Witham. I have referred to these. Mr Moloney and Mr Phillips were more impressive witnesses than was Mr Witham who evaded giving direct answers. On balance I prefer the evidence of Mr Moloney on the question of the conversation and termination. He was naturally concerned about the second mortgage when he found out about it and would have been very concerned that he was paying premiums under the option for a benefit which might be taken from him by a mortgagee exercising a power of sale. I find that Oakworth did terminate as a result of the event of default. If I were wrong about actual notified termination I would have found that there was implied termination arising from failure to pay premium instalments after default and failure to continue payments as Mr Witham in his email of 10 July 2005 said had been agreed.
+ 
+Estoppel by Convention   Paragraph 2 of the Further Amended Defence denies or does not admit the validity of the option. In its reply to that paragraph the plaintiff among other matters says that "the defendant is estopped by convention from denying the validity of the agreement". No facts are pleaded to support that allegation. In such circumstances that should strictly be the end of the matter but it was an accepted issue and I should deal with it. There is no doubt that the parties acted on the basis there was a contract in existence.
+Oakworth made payments of premiums in accordance with its terms and gave notice of default in accordance with its terms. Torrens purported to exercise the put option. Mr Beckers knew of the form of purported execution of the contract; he knew almost immediately after the purported execution that he was not a director; there is no evidence that he told Mr Witham of the mode of signature and it is possible that Torrens was not aware of this until the proceedings commenced and the copy of the option held by the solicitors for
+Oakworth came to the notice of Torrens. Any assumption upon which Oakworth was acting was brought about by Torrens and its failure to disclose lack of due execution. In such circumstances having regard to the fact that Oakworth took no part in bringing about the assumed state of affairs, so far as effective signature was concerned, it would not in my view be unfair or unjust to allow
+Oakworth to refuse to accept the contract as valid. Mr Beckers said that when told of the resolution he thought all was in order and that there was no need to tell Oakworth or its lawyers of any problem. That seems to be a somewhat optimistic view to say the least.
+ Most cases of estoppel by convention commence with the exchange of a contract and relate to its construction and not to its assumed existence when it did not exist and this makes the matter unusual and difficult. Although the facts are unusual the starting point for consideration of estoppel by convention in Australia is Grundt versus Great Boulder Pty Gold Mines Ltd <case>; [(1937) 59 CLR 641.] I will not set out all of the well known part of the judgment of Dixon J at 674-78 although I rely on it all. It is however necessary to set out a part of it which commences at 674: 
+The principle upon which estoppel in pais is founded is that the law should not permit an unjust departure by a party from an assumption of fact which he has caused another party to adopt or accept for the purpose of their legal relations. This is, of course, a very general statement. But it is the basis of the rules governing estoppel. Those rules work out the more precise grounds upon which the law holds a party disentitled to depart from an assumption in the assertion of rights against another. One condition appears always to be indispensable. That other must have so acted or abstained from acting upon the footing of the state of affairs assumed that he would suffer a detriment if the opposite party were afterwards allowed to set up rights against him inconsistent with the assumption. In stating this essential condition, particularly where the estoppel flows from representation, it is often said simply that the party asserting the estoppel must have been induced to act to his detriment. Although substantially such a statement is correct and leads to no misunderstanding, it does not bring out clearly the basal purpose of the doctrine. That purpose is to avoid or prevent a detriment to the party asserting the estoppel by compelling the opposite party to adhere to the assumption upon which the former acted or abstained from acting. This means that the real detriment or harm from which the law seeks to give protection is that which would flow from the change of position if the assumption were deserted that led to it. So long as the assumption is adhered to, the party who altered his situation upon the faith of it cannot complain.
+His complaint is that when afterwards the other party makes a different state of affairs the basis of an assertion of right against him then, if it is allowed, his own original change of position will operate as a detriment. His action or inaction must be such that, if the assumption upon which be proceeded were shown to be wrong and an inconsistent state of affairs were accepted as the foundation of the rights and duties of himself and the opposite party, the consequence would be to make his original act or failure to act a source of prejudice.
+ ....
+
+Fulfilment of the condition which so far I have discussed is not enough to make it just to preclude a party from setting up a state of facts. The justice of an estoppel is not established by the fact in itself that a state of affairs has been assumed as the basis of action or inaction and that a departure from the assumption would turn the action or inaction into a detrimental change of position. It depends also on the manner in which the assumption has been occasioned or induced. Before anyone can be estopped, he must have played such a part in the adoption of the assumption that it would be unfair or unjust if he were left free to ignore it.
+ When those passages and particularly the last sentence are read together with the decision in Thompson versus Palmer <case>; [(1933) 49 CLR 507] I conclude that the defence of estoppel must fail. The defendant played no part in the adoption of the assumption that the contract was validly made. Mr Beckers knew that it had not been validly made and took no action to correct this situation. From the time of the claimed termination apart from the email of 10 July 2005 the plaintiff took no action which could be related to the continued existence of the contract until it purported to exercise the option. The estoppel claim fails.  
+Abandonment  In view of the conclusions to which I have come it is really unnecessary to deal with this defence. But if I were wrong about termination I would have concluded that the defence of abandonment did not succeed. That is because the letter written by Mr Moloney to the funding authority would take on increased significance and because the existence of the option was at least assumed in the draft joint venture agreements prepared by Mr Beckers. There are arguments against this namely the failure to make any further premium payments due under the option, the failure of Mr Witham to complain about this, and the failure of Mr Witham to notify the event of default when the controller was appointed which obligation he had under the option deed. However if it were necessary I would have determined that the defendant had not succeeded on the abandonment claim.  
+Misleading and Deceptive Conduct  For the same reasons it is not necessary to deal with this. Any misleading and deceptive conduct, which is in any event not properly pleaded, could only have been the failure of the plaintiff to make some positive statement that it considered the option to remain in existence while pursuing the joint venture negotiation and through failure to demand the premium payments. I do not consider that there was any obligation to do the former or that failure to demand payments was misleading or deceptive. It is said by the defendant cross-claimant that if it had been advised of any possibility of continuance of the option it could have rearranged its property interests so that it was in a position to pay if the put option were exercised. That may be so but there is no evidence of reliance leading to the lack of action.
+ 
+Was the option exercised?   If the option were valid, not terminated or abandoned, then this question arises. I have already set out clauses 4 and 11 of the option.  The put option period is defined to mean "from 9am on 14 October 2006 until pm on 21 October 2006".
+ The letter enclosing the signed notice of exercise is dated 17 October
+There is no dispute that it was sent on that date and so would have been deemed to have been received on 20 October 2006, within the exercise period. The letter states there is enclosed (1) Notice of exercise of put option (2) Executed contract for sale of land dated 17 October 2006. The letter asks for a counterpart of the contract dated 17 October 2006 by close of business on 20 October 2006.
+ The form of contract for sale enclosed is executed but is not dated. The question is whether this departure from the requirements of clause 4.2 means the intended exercise was ineffective. The option does allow for notice by post and thus it would seem the deemed date of service as post was used was 20
+October, although this does not mean receipt could not have been earlier if acknowledged. However I consider that it would not accord with common sense to think that the deemed date was the date the contract should be dated, but rather it should be dated the day upon which Torrens did all that could be done on its part if service was to be by post. If that is not correct then it is possible the only way to give notice of exercise was by hand under clause .1(c) or by facsimile under 11.1(b).
+ The question remains as to lack of a date. There can be no doubt that strict compliance of terms for exercise is generally required for effective exercise of an option: Tonitto versus Bassal [(1992) 28 NSWLR 564] at 575;
+Hare versus Nicoll [[1966] 2 QB 130] and many other cases. While the appropriateness of that requirement may be questioned in Greig and Davis, Law of Contract at 307, there can be no doubt that the requirement remains. I appreciate that in Spectra Pty Ltd versus Pindari Pty Ltd [[1974] 2 NSWLR 617]; Wootten J held that when an option agreement provided for notice of exercise to be given by prepaid registered mail the fact the notice was received but was sent by ordinary mail did not make exercise ineffective.
+That decision is however probably limited to a method of giving notice of exercise rather than compliance with a condition of exercise as to the documents upon which exercise is conditioned. Here the requirement was writing and delivery. The condition was that the contract be dated; the solicitors knew that as their letter said that it was dated although it was not. The defendant was not served with the documents required for a valid exercise and thus I conclude there was no effective exercise. The requirements for exercise were a precondition of a contract for sale being brought into existence. In
+Tricontinental Corporation versus HDFI [(1990) 21 NSWLR 689] at 705
+Samuels JA said: 
+It seems to me to follow from Ankar that it is meaningless to speak of the substantial performance of a condition precedent. Either it has been performed, or it has not. If it has, performance enlivens the obligation to which the stipulation is a condition precedent. If it has not, the obligation does not arise.
+
+Tricontinental's submission that a tripartite classification of conditions precedent analogous to that used in assessing the status of promissory terms should therefore be rejected. Where an act by one party is a condition precedent to the liability of the other, whether it has occurred or been fulfilled depends upon if the act proffered matches the description of the condition precedent in the contact, and not upon the seriousness of the divergence from that description.
+ I accept that this may appear a harsh result, but as I said in Thomas
+Developments Pty Ltd versus Setlee  <case> "in contract terms the world of options is a cold hard world." As a general rule certainty may bring greater general justice in options cases than would be achieved by embarking upon some consideration as to which if any conditions of exercise are conditions requiring strict compliance and which are not.
+ The result of this is that the plaintiff's claim fails for the following reasons: 
+There was no valid option because it was not executed by Torrens; 
+Mr Beckers did not sign as agent for Torrens; if he did sign as agent he was not so appointed; and ratification is irrelevant but if it were not there was no ratification.
+
+Oakworth is not estopped from denying the existence of a binding agreement;  if the option did exist it was terminated for default;  if the option did exist and was not terminated it was not exercised.
+ It is accepted I think and I find that in those circumstances the cross- claim for recovery of the premium payments made should succeed either for failure of consideration or for damages for breach. Those payments are agreed to amount to $200,000. Interest is claimed and unless there is further argument this should be calculated on each payment from the date payment was made.
+ 
+Proposed Orders 
+Judgment for defendant on plaintiff's claim. 
+Judgment for cross-claimant against cross-defendant for $200,000 plus interest. 
+Plaintiff cross-defendant to pay defendant cross-claimant's costs. 
+Reserve question of interest on judgment on cross claim. 
+Exhibits may be returned but retained by the parties for 28 days and returned to the Court in the event of an appeal.
+ * * * *  
+LAST UPDATED:  November 2008 * * * 

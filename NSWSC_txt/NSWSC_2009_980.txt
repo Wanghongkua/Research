@@ -1,0 +1,585 @@
+
+
+IceTV Pty Ltd versus Ross [2009] NSWSC 980 (18 September 2009) 
+Last Updated: 24 September 2009 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+IceTV Pty Ltd versus Ross <case>  
+JURISDICTION: 
+Equity Division 
+Expedition List  
+FILE NUMBER(S):  /07  
+HEARING DATE(S):  - 29 April, 2 - 3 July 2009  
+JUDGMENT DATE:  September 2009  
+PARTIES: 
+IceTV Pty Ltd (Plaintiff) 
+Duncan Ross (First Defendant) 
+Peter Vogel (Second Defendant) 
+Vogel Ross Pty Ltd (Third Defendant)  
+JUDGMENT OF: 
+Rein J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+Mr J Ireland QC, Mr J Cooke (Plaintiff) 
+In person (Defendants)  
+SOLICITORS: 
+Bartier Perry (Plaintiff) 
+In person (Defendants)  
+CATCHWORDS: 
+TRADE AND COMMERCE - other regulation of trade or commerce - restraints of trade - employment contracts for Chief Executive Officer and Chief Technical
+Officer - validity of employment contracts - allegation of breach of non- solicitation and confidentiality clauses - whether restraints of trade were defective - whether the restraints of trade were breached - calculation of damages for breach of non-solicitation clause 
+EQUITY - equitable remedies - injunctions - cross claim for damages arising out of interlocutory injunction which ought not have been granted because the plaintiff's undertaking as to damages was worthless  
+LEGISLATION CITED:  [Restraints of Trade Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/rota1976216/)  
+CATEGORY: 
+Principal judgment  
+CASES CITED: 
+Cactus Imaging Pty Ltd versus Peters <case> 
+Codelfa Construction Pty Ltd versus State Rail Authority  <case>; <case>; [(1929) 29 SR 578] 
+Griffiths & Bereens Pty Ltd versus Duggan <case>; ACJR 472 
+IceTV Pty Ltd versus Ross <case> 
+IceTV Pty Ltd versus Ross <case> 
+Placer (Granny Smith) Pty Ltd versus Theiss Contractors Pty Ltd <case>; <case>  
+TEXTS CITED: 
+J L R Davis, Contracts: General Principles The Laws of Australia, (2006) Sweet & Maxwell 
+J D Heydon, The Restraint of Trade Doctrine, (2008) 3rd edition LexisNexis  
+DECISION: 
+The defendants are liable to the plaintiff in the amount of $35,000 plus interest and costs. 
+Judgment for the cross-defendant on the defendants' first cross-claim.  
+JUDGMENT:  
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+EXPEDITION LIST  
+Rein J  
+Date of Hearing: 27 - 29 April, 2 - 3 July 2009 
+Date of Judgment: 18 September 2009  /07 IceTV Pty Ltd versus Ross & ors 
+JUDGMENT REIN J: The plaintiff ("IceTV"), for whom Mr Ireland QC appeared with Mr Cooke of counsel, distributes via subscription an electronic program guide ("EPG") for television known as the Ice Guide. The guide can be downloaded onto personal video recorders ("PVRs"), set-top boxes and similar equipment and enables details of forthcoming free-to-air television programs to be viewed and chosen by the user with relative ease.  The first defendant, Mr Duncan Ross ("Mr Ross"), was engaged as
+Chief Executive Officer of IceTV and at the same time the second defendant, Mr
+Peter Vogel ("Mr Vogel"), was engaged as Chief Technical Officer. Mr Vogel and Mr Ross now represent themselves and their company Vogel Ross Pty Ltd ("Vogel Ross"), the third defendant, in these proceedings. Mr Vogel had previously been involved in a company called ZapTV Pty Ltd ("ZapTV") and had developed the software for the EPG and Mr Ross had worked for ZapTV. An administrator had been appointed to ZapTV and effectively IceTV took over the technology and products developed by ZapTV. Mr Ross and Mr Vogel became shareholders (6% and 4% respectively) in Ice Holdings Pty Ltd ("IceTV
+Holdings") which held 100% of the shares in IceTV.  Three other shareholders of IceTV Holdings were Mr Colin O'Brien ("Mr
+O'Brien"), Mrs Gai O'Brien ("Mrs O'Brien") and Mr Rod Sutherland ("Mr
+Sutherland"). Mr and Mrs O'Brien invested $500,000 in IceTV Holdings and were the largest shareholders. Mr O'Brien and Mr Sutherland were directors of
+IceTV and IceTV Holdings.  It became apparent that IceTV needed a sum far in excess of $500,000 to exploit the EPG concept and a public float was set in train to raise $3 million. Before the float could be finalised Nine Network Australia Pty Ltd ("Nine") commenced proceedings against IceTV claiming that IceTV had infringed Nine's intellectual property.  IceTV could not continue with the float and its financial position was such that it decided to terminate the services of Mr Ross and Mr Vogel giving them both three months notice in accordance with their respective contracts.
+ The IceTV employment contracts entered into by Mr Vogel on 16 April 2006 and by Mr Ross on 24 March 2006 contained the following relevant clauses: "Non-Soliciting of Customers or Employees 
+You must not, either during your employment with the Company and for a period of twelve (12) months thereafter, or such other lesser period as may be judged by a court of competent jurisdiction on being reasonable in the circumstances and necessary to protect the Company's goodwill and confidential information: carry on or otherwise be engaged or involved in any business similar to or competitive with the business of the Company ... carried on during the twelve (12) months prior to the termination of your employment, .....
+ canvas or solicit the custom of any person who has entered into discussions or negotiations with the Company or a related body corporate during the twelve (12) months prior to the termination of your employment with a view to becoming a customer of the Company..." and "Confidentiality 
+You will not, except in the proper course of your duties, either during or after your employment, divulge or permit to be divulged to any person by any means, any information on any form (written, recorded or stored in documentary or electronic form or in any other matter, including copies of or extracts from it) relating to the Company or...
+ .....
+ .... performance reports, operation reports, profitability forecasts or business plans; .....
+ .... any information in relation to the Company's activities which may be of commercial value to a competitor..." 
+See Exhibit A1 at pp 196 - 201, 297 - 303.
+ Following termination of their employment with IceTV, Mr Ross and Mr Vogel, through Vogel Ross, which was established in September 2006, undertook consulting work for a company called Mobilesoft Limited ("Mobilesoft"). In the balance of these reasons reference to Mr Ross and Mr Vogel includes a reference to Vogel Ross.  IceTV in May 2007 sought an interlocutory injunction restraining Mr Ross and
+Mr Vogel from working for Mobilesoft, which injunction was granted on 3 July by Brereton J: see IceTV Pty Ltd versus Ross <case>
+IceTV claims that work performed by Mr Ross and Mr Vogel for Mobilesoft constituted a breach of their obligations under their contract of employment with IceTV.  On 28 September 2007 Brereton J dissolved the injunction on the application of the defendants, the basis being that given the financial position of IceTV the undertaking as to damages given by IceTV in support of the injunctive relief was of no value: see IceTV Pty Ltd versus Ross [[2007] NSWSC .]  His Honour, as Expedition List Judge, fixed the hearing for three days commencing on 27 April 2009. The case did not finish on 29 April and I stood it over part heard until 2 and 3 July 2009.  The 12 month period of restraint having expired, IceTV does not seek any permanent interlocutory relief but rather seeks damages for the period 5
+October 2006 to 3 July 2007. Its claim is now restricted to damages based on a portion of the actual earnings of Vogel Ross from Mobilesoft in November -
+December 2006, less an allowance for what IceTV would have had to outlay in order to achieve those earnings. It posits 50% as a realistic percentage.  Mr Vogel and Mr Ross do not accept that the restraints are valid and, if the restraints are valid (contrary to their case), deny that they have been breached.  Mr Ross and Mr Vogel have cross claimed against IceTV claiming that they are entitled to damages because the injunction ought not to have been granted.
+This is their first cross claim. There is another cross claim filed which I was informed it had been agreed would not be heard as part of these proceedings. Their first cross claim, as I understand it, has three limbs: 
+That if IceTV is unsuccessful they are entitled to damages suffered by them due to the injunction obtained by reason of the undertaking as to damages given by IceTV at the time of obtaining the injunction.
+
+That even if IceTV is successful in proving that the restraints were valid restraints, IceTV obtained the injunction by failing to advise them and the Court that IceTV's financial position was, as at the date the undertaking was given, so weak that it was worthless. The defendants claim that as a consequence injunctive relief was granted and IceTV is liable for all the consequences of that injunction.
+
+Even if the restraints of trade was valid and could legitimately have been the subject of the injunction (contrary to the defendants' submissions) the injunction actually granted was impermissibly wide: see
+T74.24 - .34 and that there was an impermissibly long period of five weeks between the hearing of the motion for interlocutory injunctive relief and the judgment. This would appear in essence to be an appeal from the decision of
+Brereton J, which is not permitted.
+ 
+Applicable law  I have set out the relevant clauses of the employment contracts at [6], also relevant is the [Restraints of Trade Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/rota1976216/) ("the Act") which provides:  Extent to which restraint of trade valid 
+A restraint of trade is valid to the extent to which it is not against public policy, whether it is in severable terms or not.
+
+Subsection (1) does not affect the invalidity of a restraint of trade by reason of any matter other than public policy.
+
+Where, on application by a person subject to the restraint, it appears to the Supreme Court that a restraint of trade is, as regards its application to the applicant, against public policy to any extent by reason of, or partly by reason of, a manifest failure by a person who created or joined in creating the restraint to attempt to make the restraint a reasonable restraint, the Court, having regard to the circumstances in which the restraint was created, may, on such terms as the Court thinks fit, order that the restraint be, as regards its application to the applicant, altogether invalid or valid to such extent only (not exceeding the extent to which the restraint is not against public policy) as the Court thinks fit and any such order shall, notwithstanding sub-section (1), have effect on and from such date (not being a date earlier than the date on which the order was made) as is specified in the order.
+
+Where, under the rules of an association, a person who is a member of the association is subject to a restraint of trade, the association shall, for the purposes of subsection (3), be deemed to have created or joined in creating the restraint.
+
+An order under subsection (3) does not affect any right (including any right to damages) accrued before the date the order takes effect.
+ The relevant principles governing validity and reasonableness of restraints of trade were helpfully summarised in Cactus Imaging Pty Ltd versus Peters <case> by Brereton J: "[10] Although at common law a restraint of trade is contrary to public policy and void unless it is justified by the special circumstances of the particular case (for which purpose it is sufficient justification that the restriction is reasonable having regard to the interests of the parties concerned and in reference to the interests of the public, so that while affording adequate protection to the party in whose favour it is imposed, it is not injurious to the public) [Nordenfelt versus Maxim Nordenfelt Guns &
+Ammunition [[1894] AC 535] at 565; Herbert Morris Ltd versus Saxelby [[1916] 1 AC ] at and 707; Lindner versus Murdock's Garage <case>; [(1950) 83 CLR 628] at 653], in New South Wales a restraint is valid to the extent to which it is not against public policy, even if not in severable terms [[Restraints of Trade
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/rota1976216/), 1976 [s (1)](http://www.austlii.edu.au/au/legis/nsw/consolact/rota1976216/s4.html);
+Koops Martin Financial Services Pty Ltd versus Reeves <case>, [26]-[27]]. The effect of the [Restraints of Trade
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/rota1976216/) is that, in New South Wales, one approaches this type of case by determining, first, whether the alleged breach (independently of public policy considerations) does or will infringe the terms of the restraint properly construed; secondly, whether the restraint in its application to that breach is against public policy; and thirdly, if it is not, then in its application to the alleged infringing conduct, the restraint is valid unless the court makes an order under [Restraints of Trade
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/rota1976216/), [s (3)](http://www.austlii.edu.au/au/legis/nsw/consolact/rota1976216/s4.html) [Orton versus Melman [[1981] 1 NSWLR 583];
+Woolworths Ltd versus Olson <case>, [42]]. That is because the effect of the [Restraints of Trade
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/rota1976216/), [s (1)](http://www.austlii.edu.au/au/legis/nsw/consolact/rota1976216/s4.html), is to require that, for the purpose of determining the validity of a restraint, attention be focussed on the actual or apprehended breach, rather than on imaginary or potential breaches.
+ [11] While the same general principle applies in all cases of restraint of trade, a stricter and less favourable view is taken in respect of covenants in restraint of trade between employer and employee than in commercial agreements for sale of goodwill [Nordenfelt, 566; Mason versus Provident Clothing &
+Supply Co Ltd [[1913] AC 724] at 731 and 738; Herbert Morris Ltd versus Saxelby;
+Geraghty versus Minter [(1979) 142 CLR 177] at 185;
+Woolworths Ltd versus Olson, [38]; J D Heydon, The Restraint of Trade
+Doctrine, 2nd Ed, pp 68-69]. An employer is not entitled to be protected against mere competition, and the legitimate interests of an employer which may be the subject of protection by covenant are in the nature of proprietary interests [Vandervell Products Ltd versus McLeod [[1956] RPC 185] at 192; Tank
+Lining Corp versus Dunlop Industrial Pty Ltd [(1982) 140 DLR (3d) 659] at 664], including the employer's trade secrets and confidential information, and the employer's goodwill including customer connection. In this case,
+Cactus seeks to support the restraint on solicitation of customers on the basis of protection of both its confidential information and its customer connection." Again, in Cactus, Brereton J summarised the law relating to restraints of trade dealing with confidential information: "[12] An employer has an interest in its confidential information, which it may legitimately protect by a restraint of trade, even if the information is not in the nature of a trade secret such as to attract equitable protection in the absence of any contractual agreement [Wright versus Gasweld Pty Ltd [(1991) 22 NSWLR 317] at 326F, 333G-334E, 341G]. Although Mr Gye, who appeared for
+Mr Peters, submitted, with reference to Faccenda Chicken Ltd versus Fowler <case>; [(1990) 19 IPR 506], that only a trade secret or equivalent was capable of protection by a restraint in an employment contract, that is not the law in this State, where the Court of
+Appeal, has declined to follow Faccenda Chicken in that respect in
+Wright versus Gasweld [see, in particular, per Samuels JA at 340-341].
+ [13] And as Lord Denning said in Littlewoods Organisation Ltd versus Harris [[1977] 1 WLR 1472] at 1479, experience has shown that it is unsatisfactory simply to have a covenant against disclosing confidential information, because it is difficult to draw the line between information which is confidential and information which is not, and very difficult to prove a breach when the information is of such a character that an employee can carry it away in his or her head, so that the only practicable solution is to take a covenant from the employee by which he or she undertakes not to work for a trade rival. The permissibility of such restraints for that purpose is well established [Kone
+Elevators Pty Ltd versus McNay (1997) ATPR 41-564, 43,834; Woolworths Ltd v
+OlsonLindner versus Murdock's Garage, 650 (Fullagar J); Portal Software Pty Ltd v Bodsworth <case>, [83]]. Cactus relies on Mr Peters' alleged possession of its confidential information to support not only the covenant in cl 7 against disclosure of confidential information, but also the covenant in cl 9 against soliciting customers.
+ [14] A plaintiff who seeks to restrain a former employee from using confidential information must be able to identify with specificity, and not merely in global terms, the relevant information [Saltman Engineering Co Ltd v Campbell Engineering Co [(1948) 65 RPC 203] at 215;
+Corrs Pavey Whiting and Byrne versus Collector of Customs (Vic) <case>; [(1987) 14 FCR 434] at 443 (Gummow J); Rosewood Advertising Pty Ltd versus Hannah
+Marketing Pty Ltd  <case>, [8]]. Although those cases were concerned with the circumstances in which, even in the absence of a contract, equity imposes an obligation of confidence, the requirement for specificity is no less where a contractual obligation is sought to be enforced. One reason for this is that an injunction in general terms restraining a former employee from using the employer's "confidential information", would inappropriately leave, to an application for contempt, determination of whether particular information was or was not confidential." The plaintiff accepted the applicability of these principles. The defendants did not assert that the exposition of the law in Cactus was erroneous although some of the submissions seemed to ignore the effect of the
+Act as expounded by Brereton J. I accept his Honour's summary of the law as correct.  
+Further History  In December 2005 IceTV had established a subscriber customer base for its service of 1400 people but it was hoping to expand at the rate of 150 per month and indeed it appears by September - October 2006 it had approximately subscribers. The IceTV EPG was developed to work with a number of well- known brands in the set-top box and PVR market such as Topfield, Beyonwiz and
+Elgato. Apparently as at 2006, the IceTV EPG was the only EPG on that market that was available to PVR and set-top box customers who were not tied to
+Foxtel.
+ I have referred earlier to a claim brought against IceTV by Nine. Nine was unsuccessful in its claim against IceTV in the Federal Court at first instance, successful on appeal in the Full Court of the Federal Court and unsuccessful in the High Court. The High Court's decision was handed down in
+April 2009 - a few days, coincidentally, before the hearing in this Court commenced before me. The Federal Court proceedings had brought about the demise of the float and left IceTV in mid-2006 in parlous financial circumstances.
+ As mentioned, the Board of IceTV had resolved, following the commencement of litigation and after the float was abandoned, that IceTV could not continue to employ Mr Ross and Mr Vogel (their salaries were substantial) and they were each given notice. Mr Ross and Mr Vogel believed that there was some antagonism towards them by Mr O'Brien at that time and this is a possibility, particularly since Mr O'Brien appears to have regarded them as having been responsible for him investing $500,000 in a business that he felt had not performed as it was represented it would. Whilst the defendants assert personal animus towards them by Mr O'Brien there is no suggestion that IceTV was not in a financial crisis: see Mr Ross' affidavit of 7 May 2007 at paras - 32, and see Mr Sutherland's affidavit of 4 May 2007 at para 7. Mr O'Brien and Mr Sutherland wanted to sell their shares in IceTV if possible and exit the company.
+ Mr Ross and Mr Vogel were, on 4 July 2006, given three months notice under their contracts with their last day at IceTV being 4 October 2006. However, Mr
+O'Brien asked or directed Mr Ross and Mr Vogel not to disclose for a one month period that they were leaving the company. They were asked to keep working in their positions until the last day and Mr O'Brien promised Mr Ross and Mr
+Vogel that if they could find a buyer for the shares of Mr and Mrs O'Brien, and Mr Sutherland at a minimum price of $3 million, they would receive a bonus: see Exhibit A4 at p 2123. Mr Ross and Mr Vogel did continue to work for
+IceTV until 4 October.
+ Shortly before Mr Vogel and Mr Ross were due to depart from IceTV Mr Ross met with Mr O'Brien and Mr Matt Kossatz ("Mr Kossatz") who had become or was shortly to become the new Managing Director of IceTV. Mr Ross provided to
+Mr O'Brien a document which has been called 'Exit Notes' in which he purported to summarise the matters of interest to IceTV before his departure: see
+Exhibit A1 at pp 22 - 28.  Within weeks of their departure from IceTV Mr Ross and Mr Vogel commenced consultancy work (through Vogel Ross) for Mobilesoft.  Although the work continued to be described as consultancy, Mr Ross and Mr
+Vogel were each given a letter of appointment signed by Mr Thomas Simms ("Mr
+Simms"), as Chief Executive Officer in the case of Mr Ross and Chief
+Technical Officer in the case of Mr Vogel, but the Mobilesoft Board did not approve the appointments. Mr Simms, the Managing Director of Mobilesoft, says he regarded Mr Ross and Mr Vogel as playing a significant role in Mobilesoft: see the affidavit of Mr Simms of 22 August 2007 at paras 22 - 29, 36 - 38.
+According to Mr Simms there were those on the Board who did not think that Mr
+Ross and Mr Vogel were suitable for appointment and Mr Simms explained that there were factions who were opposed to Mr Ross and Mr Vogel. There is evidence of employee antipathy towards Mr Ross and Mr Vogel: see Exhibits L and M. In February 2007 Mr O'Brien tried to speak with Mr Simms about Mr Ross and Mr Vogel and IceTV's claim that Mr Ross and Mr Vogel were in breach of their employment contracts with IceTV but Mr Simms did not do so (he says because he was unavailable). Subsequently, however, Mr Simms did meet with Mr
+O'Brien. Mr O'Brien made no secret to Mr Simms of his antipathy to Mr Ross and
+Mr Vogel whom he regarded as having breached their obligations under their employment contracts by working for Mobilesoft and attempting to take business from IceTV.
+ The consultancy work undertaken by Mr Ross and Mr Vogel for Mobilesoft at an early stage included the preparation of an application for a grant of $22 million from the Commonwealth Government Clever Networks scheme which would assist rural and regional communities. The application was not successful. The thrust of the application was that by providing the EPG to subscribers in the bush those subscribers could be informed through a Community Program Guide ("CPG") about activities in their local area as part of the content of the
+EPG. The details of the work undertaken by the defendants in November 2006 is found at Exhibit COB1 to the affidavit of Mr O'Brien of 8 December 2008. There did not seem to be any dispute between the parties that the work which is the subject of invoices 504, 505, 506, 507 and 508 related to the application for the grant.
+ Mobilesoft had three strands to its business, two of which have nothing to do with this case. The third strand was that it was buying set-top boxes from a Hong Kong company ("Astria") and endeavouring to embark upon an arrangement with a company with rights to a significant movie or DVD library.
+Video Ezy, a company involved in the movie rental market with many franchises across Australia, was interested in a means of delivering to customers movies that could be managed digitally to avoid the loss of custom to online computer devices which offered this effectively in competition with movie rental stores. One model for delivery of movies was a system that enabled customers of Video Ezy to have downloaded at the store up to 40 movies onto a 'thumb drive' (also known as a 'USB memory stick') which they would pay for on use.
+Mobilesoft sought to provide a PVR or set-top box that would enable the thumb drive to be utilised and thus earn Video Ezy revenue, with Mobilesoft taking a share of that. The PVRs or set-top boxes purchased from Astria were also fitted (as is usual) with a terrestrial receiver to enable free-to-air television to be received by the consumer. It was thus part of Mobilesoft's strategy to include within the set-top boxes and PVRs sold an EPG. Mr Simms said he did not intend Mobilesoft to develop an EPG and his strategy was to incorporate the IceTV EPG in the Mobilesoft product, but there is evidence from Mr Kossatz and Mr O'Brien that Mr Ross was asserting in early 2007 that
+Mobilesoft did not need IceTV for an EPG. There is also material which points to Mr Ross regarding the incorporation of the IceTV EPG as of very limited importance to Mobilesoft: see Exhibit A2 at p 640, and Mr Vogel at T335.5 said that Mobilesoft "was not interested in having anything to do with the EPG".
+ Mobilesoft was, in 2007, experiencing its own difficulties, both financial and technological. It was experiencing difficulties in coming up with the software solution for the delivery of its product and it was "burning cash" as
+Mr Simms describes it. On 21 August 2007, Mobilesoft was placed into administration at the behest of a secured creditor. Mr Sutherland, coincidentally, accepted appointment as a joint administrator. The business of
+Mobilesoft was rationalised (the two other areas of its business closed down or were sold) and in recent times it has come out of administration. Mr Simms was shut out of Mobilesoft both literally and metaphorically from January .
+ The contracts with Mr Ross and Mr Vogel evidenced by letters of appointment signed by Mr Simms were never approved by the Board. Vogel Ross did, however, earn approximately $230,000 in consultancy fees from Mobilesoft: see Exhibit
+N. Notwithstanding, a lack of Board resolution, apparently Mr Ross worked as
+Chief Executive Officer of Mobilesoft and Mr Vogel as Chief Technical Officer of Mobilesoft from 12 February 2007.  IceTV claims that Mobilesoft was a company with which it had had discussions and negotiations in the months prior to the termination of the employment of Mr Ross and Mr Vogel. That it did have such discussions and negotiations is clearly demonstrated on the evidence and it is not disputed by
+Mr Ross and Mr Vogel as the discussions and negotiations were actually conducted by them.  At pp 326 - 329 of Exhibit A1 is a copy of a letter dated 4 August 2006 written by Mr Vogel to Mr Simms referring to discussions between Mr Vogel and
+Mr Simms on the previous Thursday. It seeks to summarise "some of the opportunities" that were mentioned at the meeting: "1. EPG/CPG 
+We would be delighted to be Mobilesoft's supplier of EPG for FTA [free-to- air] TV. We would also be pleased [to] undertake development of the proposed
+Community Program Guide extensions we discussed.
+
+As you know there are many benefits associated with having complete editorial control over the EPG control. For example we could recommend complementary videos available from Video Ezy from within the synopsis of a show on the FTA guide. For example: [image omitted] 
+IceTV owns significant intellectual property in this field including pending and issued patents. In the following example the guide includes community noticeboard "virtual channels" interleaved with the usual FTA TV channels. This makes them hard to miss and convenient to locate.
+ [image omitted] 
+Multiple "noticeboard" channels appear if there are overlapping events.
+ 
+Events can be added by the community groups themselves. A secure website is provided for entering/editing details and groups are issued with an access code.
+ 
+Two levels of access are supported; "Immediate" and "Moderated". If a group has "immediate" access, entries submitted would appear immediately in the guide. Most groups would have "moderated" access in which case their entries are submitted to an editor for approval before they become visible.
+ 
+It will also be possible to upload audio or video files to the community noticeboard. If a notice has such a file attached, clicking "Record" on that item will download the file. IN (sic) the example above, the Bargo Hospital is running a Men's Helath (sic) night starting at 7.30pm and there is a short video promotion available to view. The video may be delivered via internet, datacast, or portable memory device.
+ 
+Development cost: Without having completed a detailed design, we estimate that development of the server and user interface aspects of CPG would involve engineers and one graphic designer for 4 weeks. The approximate charge for this would be $60,000.00.
+ . PIMP 
+Our "Personal Interactive Media Planner" technology allows users to remotely schedule recordings on their PVR using a web browser or mobile phone.
+ . TiVo 
+We have a good relationship with TiVo inc. (sic) (we also own the domain name tivo.com.au) and for the past three years have been discussing introduction of the product to Australia. This would require introduction of suitable commercial partners and as they do not have a suitable DVB product
+IceTV will be responsible for sourcing a suitable device.
+ 
+Given Video Ezy's market dominance, unique expertise and access to a vast content library, a partnership with IceTV as the EPG and technology provider could bring TiVo to the Australian market very successfully.
+ . PVR engineering 
+Being Australia's only provider of interactive EPG data, IceTV has established longstanding relationships with the world's major set top box manufacturers. Our knowledge of FTA digital TV, STBs, PVRs and EPG and media centres is second to none. We have also developed capability to interface to
+PC-based media centres which are now proliferating.
+ 
+IceTV niche expertise could complement Mobilesoft's capabilities to great mutual benefit.
+ 
+IceTV already "owns" the EPG space in Australia, and after only 18 months operation has 10,000 regular users, growing at 20% per month. IceTV promotional literature is already being bundled with thousands of media centres and PVRs sold in Australia each month.
+ 
+This success has been achieved with virtually no advertising, thanks to effective use of free PR and relationships with the media. IceTV's team has proven its ability to deliver, Backed by Video Ezy's retail presence, IceTV could take the market by storm.
+ . Investment 
+IceTV was intending to raise development capital via an IPO earlier this year. The IPO did not succeed, and as a result the company is currently raising $3m via an Information Memorandum (supplied herewith).
+ 
+A strategic alliance with IceTV by Miobilesoft (sic) and Video Ezy would result in formidable synergy as each party brings to the table enormously valuable intellectual property.
+
+Most importantly both Video Ezy and IceTV have real-world experience of delivering their respective services to their subscribers.
+
+By investing in IceTV, Mobilesoft could secure favourable terms for any licensing deal (for example provision of EPG for FTA TV). And IceTV would benefit greatly from the other parties' hard-won commercial direction and industry expertise.
+
+If you would like to explore this further please let me know as soon as possible and I will arrange a meeting with our CEO Duncan Ross and any other parties you would like to be involved.
+
+Best regards, 
+Peter Vogel 
+Founder and CTO" This letter is important because it establishes the following: that IceTV regarded Mobilesoft as a potential customer of its EPG and a proposed CPG which IceTV was offering to develop at a cost of $60,000; that IceTV was keen for its EPG to be incorporated into Mobilesoft's plans for Video Ezy; that IceTV had been in discussion with TiVo about the introduction of the TiVo product and that IceTV saw itself as providing the EPG and sourcing a suitable DVB (which I take to mean 'digital video box'); that IceTV was keen to provide its EPG to Mobilesoft; that IceTV had developed the idea of a CPG even to the point of preparing images; it confirms that although the only source of revenue to IceTV was
+EPG subscriptions the business of IceTV was not limited to direct subscription sales.
+ Given that there is no dispute that Mr Ross and Mr Vogel commenced working for Mobilesoft in October or November 2006, which was within 12 months of their departure from IceTV, the restraint, if valid, was infringed by their conduct, irrespective of what work precisely they were engaged in. The nature of their work is relevant, however, both to the question of the width of the restraint and on the question of damages.
+ IceTV also claimed that TiVo was a company with whom IceTV had had discussions in the 12 months prior to the departure of Mr Ross and Mr Vogel, and with whom Mr Ross and Mr Vogel were dealing or attempting to deal through
+Mobilesoft after their departure from IceTV. TiVo is an United States company that provides extensive broadcast and cable media content to subscribers (see
+T144) and was interested in establishing itself in Australia.
+ TiVo was seen by Mr Ross and Mr Vogel as potentially a very important entrant into the Australian market: see T234, T301, T314 and T332, and Exhibit
+A1 at p 355. So much so that they registered the domain name tivo.com.au without, it would appear, first obtaining any approval from TiVo to do so: see
+T305. Channel Seven was in negotiations with TiVo and Mobilesoft was endeavouring to negotiate with TiVo. Mr Vogel agreed that as at August 2006 he regarded it as part of IceTV's business to negotiate a deal with TiVo whereby
+IceTV would supply an EPG for TiVo: see T314.16 - .47.
+ Again there was no dispute about the fact that IceTV had been in discussions with TiVo in the period of 12 months prior to the departure of Mr
+Ross and Mr Vogel. Once again the discussions were all held by Mr Ross and Mr
+Vogel as the representatives of IceTV.
+ On 5 September 2006 Mr Ross attended a breakfast meeting with Mr Simms and
+Mr Pickup of Mobilesoft and Mr Danovitz of TiVo.
+ On 24 September 2006 Mr Ross sent Mr Danovitz an email in the following terms: "Hi Joshua 
+This is Peter Vogels (sic) and my last week with IceTV. We are the latest casualties in the war of attrition with Channel Nine! Needless to say that we are still very supportive of IceTV and both retain a shareholding in the business.
+ 
+From our last conversation I accept your concern that IceTV may not be perceived as independent enough to act for TiVo in respect to relationships with Channel Seven and others. However, I think that outside the IceTV structure Peter and I can help considerably, also to the benefit of IceTV in the case where a (sic) EPG is required.
+ 
+Be good to catch up on the phone over the next few days to discuss a way for us to operate to the benefit of TiVo, IceTV and Peter and my new business.
+ 
+What's your availability like this week? 
+Cheers 
+Duncan" 
+See Exhibit A1 at p 370 (emphasis added).
+ The Exit Notes referred to in [22] were provided by Mr Ross to Mr O'Brien on Mr Ross' departure from IceTV on 4 October 2006. Relevantly they contain the following concerning Mobilesoft: "Mobilesoft 
+Have been dealing mainly with Tom Sims (sic), and to a lesser degree Peter
+Urbanec who now contracts to them. They are looking for EPG data for a PVR they are building for a client. There is an acceptance test due in October which peter (sic) U is working towards, and we've agreed to let them use some of our libraries to quicken the development process. The commercial discussions are not well advanced, still mainly dealing with technical compatibility issues. However, the ball park figure proposed for the EPG per customer is in the $1.00 to $1.50 mark. As yet we have not done any technical work ourselves, but should we, there would also be an engineering charge that they would accept.
+
+Action 
+Follow up with Tom and/or Peter U on the integration of the EPG into their box." 
+See Exhibit A1 at p 24.
+ and the following concerning TiVo: "TiVo 
+Have had one phone conversation with Joshua since he returned. He said that
+Seven were at the point of decision and he thought they were likely to go ahead with it - especially as he knew the majic (sic) numbers to present.
+Doubted there was much chance that Ice could get into the mix as the company was not seen as independent enough. He is appreciative of what we've done for him and its likely that he would support IceTV putting out a TiVo service, initially analogue, followed by digital in the future.
+
+If Ice was able to launch a service, or take new deals to TiVo I think there could be a role for the company. However, as there is neither the sales resource or experience to do so, I don't think that is likely.
+
+Action 
+Keep in touch with TiVo and try and position Ice as the provider of the EPG to the Seven service if they do go ahead - probably through TMS (Tribune)." 
+See Exhibit A1 at p 26.
+ Mr Urbanec, referred to within the Exit Notes as "Peter U", is a computer programmer who had previously worked as a contractor for IceTV but had moved to Mobilesoft. On 20 September 2006, Mr Urbanec contacted Mr Vogel saying: "I guess from Mobilesoft's point of view, the items that are needed are the IceLink/PIMP protocol specification and the source code to the library that implements the protocol. Now since both of these items are things I developed for IceTV, I won't use them for Mobilesoft until I have a written OK from IceTV. This is mainly to protect everyone involved from any misunderstanding." 
+See Exhibit A1 at p 364.
+ To this Mr Vogel replied on 22 September 2006: "This email confirms that IceTV grants Mobilesoft permission to use any software and documentation required to implement the proposed trial of IceTVs guide on Mobilesoft's PVR.
+
+Please also note that Mobilesoft is under NDA with IceTV and all information is confidential and to be used for the purpose of the trial only, any commercial use of the guiide (sic) will be subject to future negotiation.
+If you require any assistance from our end Daniel Drysdale or Russell Gilbert will be pleased to help." 
+See Exhibit A1 at p 366.
+ There are a number of other matters which it is appropriate to mention at this point: 
+On 14 July 2006 Mobilesoft and IceTV entered into a non-disclosure agreement (Exhibit O).
+
+Mr Ross sent an email on 5 September 2006 to Mr Simms (see Exhibit
+A1 at p 354) which attached a document entitled 'New Media Opportunity': see
+Exhibit A1 at pp 355 - 359 ("New Media Opportunity document"). The New
+Media Opportunity document contained a forecast as to IceTV's cash flow requirement for the period September 2006 to March 2007. IceTV claims that this was sensitive confidential information disclosed to Mobilesoft which was, at the time, apparently interested in making a bid to acquire a controlling interest in IceTV.
+
+Mr Ross sent the same information to Mr Pickup on 11 September 2006: see Exhibit A1 at p 363.
+
+Vogel Ross sent a letter of 25 October 2006 to Mobilesoft entitled 'Proposal to establish Mobilesoft New Media Division', which included the following: "Vision 
+We propose to aggressively develop within [Mobilesoft] a core competency in provision of New Media services in the widest possible definition and thereby create significant value for [Mobilesoft's] shareholders.
+ 
+By "New Media" we refer to the rapidly emerging opportunities arising from the convergence of computers, television and the internet including entertainment, education, information, advertising and multiple related revenue opportunities.
+ [Moblisoft's] New Media division will build on the hardware platform provided by the Home Media Centre (HMC) already under development. It will also seek to acquire other platforms, such as TiVo, in addition to enabling other generic technology for New Media functionality.
+ 
+Vogel Ross will manage and coordinate the New Media division's media play, encompassing both engineering and commercialisation aspects.
+ 
+The New Media Division will initially undertake the following tasks: . Clever Networks grant applications;
+Bid for and negotiate TiVo rights for Asia Pacific;
+Manage the HMC project, in both CTO and Business Development roles;
+Timely completion of the VideoEzy product introduction; . Evaluate acquisition of IceTV (to secure its IP and recurrent revenue)." 
+See Exhibit A1 at pp 386 - 387 (emphasis added).
+ The defendants asserted that their actions in relation to Mobilesoft and
+TiVo were directed to assisting IceTV and promoting its best interests and further, that what they were doing was pursuant to Mr O'Brien's request that they find a buyer for the O'Brien/Sutherland shares. They also asserted that they gave full disclosure of their activities at all relevant times.
+ Additionally they contended that the CPG, which, on behalf of IceTV they had offered to develop for Mobilesoft, was an idea or concept of Mobilesoft not IceTV and they called Mr Simms as a witness to support this contention.
+ Strictly, the motive of the defendants is irrelevant - if they were in breach of the restraints and the restraints are effective, then that is sufficient, save to the extent that it is asserted that the restraints were varied by the terms of the bonus agreement.
+ In relation to the genesis of the CPG idea, it again it is strictly not relevant to determine whose idea it was because as at 4 August 2006 Mobilesoft was asking IceTV to provide a quotation for IceTV to develop it.
+ Nevertheless the motives of the defendants have assumed an importance because in a sense Mr Ross and Mr Vogel seek to rely on this as a defence and
+IceTV relies on the material to establish that far from assisting IceTV the actions of the defendants were directed to assisting Mobilesoft and the defendants themselves. These matters and the question of origin of the CPG are, in any event, relevant to the defendants' credibility.
+ 
+Credibility  IceTV called Mr O'Brien, Mr Sutherland and Mr Kossatz in its case. I do not think their credibility was dented in any respect by cross examination. The defendants argued that the fact that Mr O'Brien admitted that he was forgetful (see: T57.40 - .41, when he admitted that under stress he would forget things) was a relevant matter affecting credibility. They also asserted that Mr
+O'Brien had lied about his motivation for bringing the proceedings and that he had confirmed that he was motivated in his dealings with Mobilesoft by his desire to avoid the defendants. I do not accept that Mr O'Brien was shown to have lied about his motivations. I thought he was candid about his dislike of the defendants and in my view he had good reason to be keen to avoid any dealings with them when he discovered they were working for Mobilesoft and, as he understood the position, endeavouring to take over IceTV: see Mr
+Sutherland's affidavit of 4 May 2007 at para 11 and T66.11 - .29. I do not think his acceptance that he was at times forgetful under stress established that he was not a reliable witness on the matters upon which he gave evidence in this case. I do not accept that any improper motive for these proceedings by IceTV has been established.
+ The defendants attacked the credibility of Mr Sutherland on the basis that he had accepted appointment as an administrator of Mobilesoft and had failed to fully disclose IceTV's relationship with Mobilesoft. Mr Sutherland explained that he did not view the appointment as involving a conflict. Whilst
+I have some doubt about that conclusion I accept that he did not perceive himself to be in conflict and his evidence was in no other respect impugned or even subject to challenge.
+ No attack was launched on the credit of Mr Kossatz. I accept Mr Kossatz, Mr
+O'Brien and Mr Sutherland as witnesses of truth.
+ IceTV alleges that Mr Ross and Mr Vogel were deliberately coy about what they had been doing ostensibly for IceTV in the period from 4 July to 4
+October 2006 because what they were trying to do was to assist themselves to obtain work from Mobilesoft that could have been done by IceTV and/or to engineer a takeover by Mobilesoft of IceTV at a price favourable to
+Mobilesoft. This description or characterisation of events is strenuously refuted by Mr Ross and Mr Vogel.
+ Mr Ireland submitted that the credibility of Mr Ross and Mr Vogel was impugned by their evidence. He pointed to their attempts to explain their conduct which he submitted were implausible when faced with what they had in fact done and written. I should note that Mr Ross and Mr Vogel presented as intelligent men who embarked upon the difficult task of representing themselves with considerable application and skill, especially having regard to their lack of training as lawyers.  I think the documents to which I have earlier referred demonstrate that the assertion of Mr Ross and Mr Vogel that what they were endeavouring to achieve through Mobilesoft was for IceTV's benefit is not an accurate characterisation of their endeavours and I accept Mr Ireland's submission. Of particular relevance is the cross examination of Mr Vogel at T324 - T339 and Mr Ross at
+T232 - T238 and T239 - T241, some of which I have set out below. Their answers in cross examination strengthened rather than diminished my view that their actions were not taken to benefit IceTV as they sought to maintain. It is clear that Mobilesoft was seeking to position itself as the commercial partner with TiVo and to exclude IceTV from any deal with TiVo, and that Mr Ross and
+Mr Vogel were actively attempting to assist Mobilesoft in that endeavour, although at times encouraging the idea that IceTV's EPG could be utilised.
+ Mr Ross had met with TiVo and knew that TiVo was considering a deal with
+Mobilesoft (and Video Ezy) utilising the IceTV EPG.
+ The Exit Notes include reference to the matters to which I have referred but they omit important material. Thus the reference to discussions with
+Mobilesoft do not reveal that the 'client' of Mobilesoft is Video Ezy, nor that a contract had been signed between Video Ezy and Mobilesoft, nor that
+Mobilesoft had been given by Mr Vogel an indicative price for CPG development, nor that Mr Vogel had proposed a strategic alliance with IceTV, Mobilesoft and
+Video Ezy.
+ The Exit Notes do not refer to the meeting which Mr Ross attended with TiVo at which Mobilesoft was present. There is no reference to Mobilesoft being involved nor to the potential involvement of Video Ezy in a deal with TiVo.
+ The Exit Notes refer to an agreement to let Mobilesoft use "some of our libraries" (emphasis added) but the permission conferred in the email of 22
+September 2006 is for any software and documentation required to implement the proposed trial. The Exit Notes do not refer to the fact that on 14 July IceTV entered into a non-disclosure agreement with Mobilesoft.
+ In October 2006 Mr Ross and Mr Vogel proposed that they would establish a 'New Media' section of Mobilesoft that would negotiate with TiVo: see Exhibit
+A1 at p 386, as set out at [41(4)] above. That proposal had as part of its strategy for Mobilesoft the possible acquisition by Mobilesoft of IceTV's "intellectual property" and "recurrent revenue".  It is clear that TiVo was a company with whom IceTV had had discussions relevant to IceTV's EPG and that the defendants were after 4 October 2006 working for a company, Mobilesoft, that was attempting to secure a business relationship with TiVo in lieu of IceTV. I accept that Mr Ross and Mr Vogel considered that IceTV's EPG would be or at least could be a useful vehicle for a deal with TiVo but it is clear that at least in late 2006 they envisaged
+IceTV as being precluded from any direct deal with TiVo, and even with
+Mobilesoft, except as a takeover target at minimum cost to Mobilesoft. That Mr
+Ross and Mr Vogel had in mind a takeover strategy which was in their own interests is evidenced by the conversation referred to in para 16 of Mr
+Kossatz's affidavit of 4 May 2007.
+ The 4 August 2006 letter to which reference has earlier been made is also relevant on credit. It is clear that Mr Ross knew about the letter and Mr
+Vogel's discussions with Mobilesoft: see T221, and Mobilesoft's negotiations with Video Ezy. Mr Ross said nothing about its contents in his Exit Notes and
+I find that he did not say anything to Mr O'Brien that would have alerted Mr
+O'Brien to the nature and content of the discussions between Mr Vogel and Mr
+Ross on the one hand, with Mobilesoft on the other. There is evidence that a copy of the letter was found in Mr Ross' deleted files and evidence from Mr
+Kossatz that he found no hard copy of the letter in searches undertaken. I am not satisfied that Mr Ross and Mr Vogel left a copy of the letter of 4 August at the premises of IceTV but even if they did, they did nothing to ensure that it was readily accessible or brought to Mr O'Brien and Mr Kossatz's attention.
+There is evidence of other potentially relevant emails that were deleted and not recovered and I am not persuaded that all the deleted emails were 'backed up' by Mr Ross and Mr Vogel: see Mr Kossatz's affidavit of 4 May 2007 at paras - 29 and Mr Kossatz's evidence at T129 - T130.
+ The Exit Notes in dealing with TiVo make reference to a concern by TiVo that IceTV may be seen as "not independent enough". This is also reflected in
+Mr Ross' memo of 24 September 2006 to TiVo. The acceptance by Mr Ross of what he describes as TiVo's concern and which he repeats in the Exit Notes is rather surprising (and see T324.6 and T326 of Mr Vogel's evidence). Be that as it may, the Exit Notes express the view that IceTV could be the provider of the EPG to the Channel Seven service "probably through TMS (Tribune)". The email to TiVo on 24 September, however, proposes an arrangement with TiVo outside the IceTV structure that will operate "to the benefit of TiVo, IceTV and [Mr Vogel] and [Mr Ross'] new business". There is, of course, no mention of that proposal in the Exit Notes and nor is there mention of the fact that it had been proposed to TiVo. Further the optimistic tone of the letter to
+Mobilesoft of 4 August 2006 in relation to the IceTV-TiVo relationship seems to have been much reduced in the Exit Notes.
+ Mr Ross did not mention to Mr O'Brien that Mobilesoft and he and Mr Vogel had discussed the details of a deal for Mobilesoft to use IceTV's EPG nor the idea of TiVo entering into a deal with Mobilesoft with a Video Ezy and IceTV connection. The presence of Mr Ross at a meeting with TiVo and Mobilesoft is itself a very significant matter. If it was not designed to promote Mr Ross' (and Mr Vogel's) future connection with Mobilesoft it was a most significant step on behalf of IceTV and the absence of any reference to it by Mr Ross on or before his departure is inconsistent with Mr Ross' presence having been for
+IceTV's benefit.
+ Mr Ross accepted (at T229.35 - .45) that he had not mentioned in the Exit
+Notes that Mobilesoft was negotiating with Video Ezy and he was not able to explain this.
+ Mr Ireland put to Mr Ross and Mr Vogel the proposition that they were endeavouring to arrive at a situation where Mobilesoft took over the business of IceTV at the lowest possible cost to Mobilesoft and to the detriment of
+IceTV. Mr Vogel and Mr Ross both denied that this was their purpose and asserted that in fact they were simply following Mr O'Brien's instructions: see T232.4 (Mr Ross) and T325, T327 and T329 (Mr Vogel).
+ Given the importance of the prospective Video Ezy deal with Mobilesoft and the potential utilisation of the IceTV EPG, the failure of Mr Ross to mention to Mr O'Brien that this was under consideration by Mobilesoft and Video Ezy is remarkable. That the absence of any reference to Video Ezy in the Exit Notes was damaging to the defendants' case and supportive of IceTV's case was, I think, fully recognised by Mr Ross. It started with his asserting that he left a lot of correspondence in files when he departed (see T239 - T240) but the following exchange at T240.8 - T241.50 is instructive: "Q. It was your duty to identify the state of negotiations between IceTV and Mobilesoft at the time you left wasn't it? 
+A. To identify the state of negotiations, yes.
+
+Q. And you didn't disclose when you left the identity of Video Ezy? 
+A. I'll be surprised if I didn't, if not in that document.
+
+Q. The only document you provided you have told us was the exit notes and that does not betray the identity of Video Ezy does it? 
+A. I think if you have a look at Mr-- 
+Q. Are you capable of answering a question directly Mr Ross? 
+A. Mr Ireland the name Video Ezy doesn't appear in the exit report. And you asked whether I disclosed-- 
+Q. I will ask another question.
+
+A. I would be very surprised if I didn't give the name of Video Ezy in that exit report and I think it's even attested to in Mr Kossatz's affidavit,
+I may be wrong on that.
+
+Q. I don't want there to be any debate about this, do you claim and please look at it and check, do you claim the name Video Ezy appears between pages 21 and 28? If so please point it out to me.
+
+A. No it doesn't.
+ 
+Q. I'm giving you that opportunity.
+
+A. Mr Ireland the only place that name would appear is under the section to Mobilesoft.
+
+Q. And we are agreeing it doesn't appear there? 
+A. It doesn't appear. Three years down the track can I recount to you the conversation either then or prior to having mentioned Video Ezy? No I can't, that's three years ago Mr Ireland. But maybe looking at Mr Kossatz's affidavit I'm not sure whether he raises it that I mentioned it. In fact I'm not even sure when I mentioned it, when I knew of it from Mr Simms. It's a long time ago.
+
+Q. You've already told us that the Video Ezy deal was an exciting one? 
+A. It certainly was. But at the same time when this exit report was written...
+
+Q. Won't you answer a question directly? 
+A. Sorry.
+
+Q. If it was an exciting prospect wouldn't it have been a slightly normal thing for you to have identified in your exit notes just who this deal was with? 
+A. That would seem logical, however there were potentially more than one customer, remembering at the same time that real time, Mobilesoft was also producing a box for real time.
+
+HIS HONOUR 
+Q. Mobilesoft or? 
+A. Mobilesoft was also producing a box for real time that ultimately wasn't delivered and they ended up in litigation.
+
+Q. Was there any deal as exciting as this deal with Mobilesoft and
+Video Ezy at the time you left the company? 
+A. Yes there was.
+ 
+Q. Who was that with? 
+A. Transat.
+ 
+Q. What sort of company are they? 
+Q. Transat are a very big provider of I think they do video on demand, a whole bunch of stuff down in Canberra and I think it appears 
+Q. It's on the top of page 22.
+
+A. 22, yes that was, at that stage it probably had much more promise than Mobilesoft. That's not to say Mobilesoft wasn't a good opportunity but that was also a good opportunity.
+
+Q. Had you written a letter, had you or Mr Vogel written a letter to
+Transat? 
+A. Yes.
+
+Q. In similar terms to that which we see you wrote to Mobilesoft? 
+A. That was a different deal but there would have been a proposal sent to them I'm sure. Bearing in mind these three sentences your Honour an encapsulation of several years of work and clearly backed up by all the electronic and physical files that were at IceTV's premises. Whether or not all over the floor as Mr Kossatz has suggested I'm a Nazi on paperwork, I thought that was a rather cruel shot.
+
+IRELAND 
+Q. Do you find this process amusing do you Mr Ross? 
+A. No, well I find the action of the plaintiff amusing.
+
+Q. I show you a copy of Mr Kossatz's affidavit (Shown) at paragraph 15 where he refers to the meeting with you on 3 October. Do you see that? 
+A. I do, yes.
+ 
+Q. He doesn't mention Video Ezy does he? 
+A. No, you are quite right, he doesn't." Subsequently Mr Ross agreed that the first time he had mentioned Video Ezy to Mr O'Brien was at a meeting in February 2007 when Mr O'Brien sought to complain to Mobilesoft about the defendants' conduct (and Mr Simms would not meet with him). Mr Ross then asserted that Mr O'Brien was aware that Video Ezy was a client of Mobilesoft. There was no evidence that Mr O'Brien or Mr
+Kossatz was aware prior to February 2007 that Mobilesoft had been dealing with
+Video Ezy.
+ Mr Ross' failed attempt to establish that he had told Mr O'Brien and Mr
+Kossatz about Video Ezy was, I think, designed to undermine the negative effect that is created from his failure to mention Video Ezy prior to his departure from IceTV. Having agreed on the significance of the Video Ezy deal he then endeavoured to suggest that there were other prospective deals which were of equal importance: see T240 - T241, and inferentially that it was not surprising that he had not mentioned the exciting deal between Mobilesoft and
+Video Ezy. I did not find this explanation very convincing.
+ It is also apparent that Mr Vogel, in the letter of 4 August 2006, was encouraging Mobilesoft to consider investing in IceTV. In view of what later transpired it is of some significance that he spoke of arranging a meeting, should Mobilesoft be interested in the idea of investment, with Mr Ross "and any other person you would like involved" and did not mention Mr O'Brien or Mr
+Sutherland who were the major shareholders of IceTV.
+ There is also the evidence of Mr Vogel at T336.6 - T338.7 which is another example of an unconvincing attempt by the defendants to justify their conduct: "Q. As at August 2006 you regarded it as part of the business of Ice to negotiate a deal with TiVo, didn't you? 
+A. To supply EPG for TiVo? 
+Q. Yes.
+ 
+A. Yes.
+ 
+Q. To negotiate some sort of deal with TiVo? 
+A. Either directly or indirectly. It didn't matter.
+
+Q. And, of course, after you left part of the business that you were proposing for Mobilesoft was to negotiate a deal with TiVo? 
+A. Yes.
+
+Q. So that you were involved with Mobilesoft after you left in a business that was similar to or competitive with the business of Ice in that respect? 
+A. Run that could you explain to me what the similarity was? 
+Q. In October when you put this proposal for consultancy through Vogel
+Ross to negotiate rights with TiVo, you were involving yourself in a business similar to or competitive with Ice in that respect? 
+A. You're putting it that the process of negotiating with TiVo, are you suggesting that irrespective of what the nature of the negotiation is or what the intended outcome is that that's sufficient similarity to make the two businesses similar? 
+Q. Well, in August '06, before Mr Ross went to the breakfast meeting, you understood that the negotiation with TiVo was an object of Ice's commercial activity? 
+A. Becoming an EPG supplier to TiVo was, yes.
+
+Q. And in October 2006 you were proposing to Mobilesoft that it negotiate with TiVo in respect of 
+A. For IceTV to become an EPG supplier to TiVo, yes.
+
+Q. Not really because it was going to acquire the assets. IceTV would loss that asset and would not have the EPG to control, under your proposal? 
+A. Well, you're drawing a distinction between acquiring the company and acquiring the assets. Is that what you are saying? 
+Q. I am just looking at the words you wrote.
+ 
+A. Which page was that again? 
+Q. 386.
+
+A. No, that's it's ambiguous. It says "evaluate acquisition of IceTV", so that refers to acquiring the company, gaining control of the company one way or the other, yes.
+
+HIS HONOUR 
+Q. When it says evaluate, it doesn't indicate necessarily that would be the approach. It's evaluate, isn't it? 
+A. Yes. That's exactly what we then did when we approached IceTV and said how about a deal like this.
+
+Q. Consistent with this proposal you might have chosen not to acquire IceTV? 
+A. That could have worked as well, but, as I said, our motivation was very strongly to find an investor in IceTV because we were financially motivated to do that.
+
+Q. I can't see, Mr Vogel, any reference there to finding an investor in IceTV.
+
+A. Acquisition of IceTV.
+ 
+Q. It is Mobilesoft to acquire IceTV, it's not somebody else? 
+A. That's right. Well, who, we didn't care who it was.
+
+Q. But this proposal was specifically directed to Mobilesoft, wasn't it? 
+A. That's right.
+ 
+IRELAND 
+Q. (Affidavit sworn 28 May 2007 shown.) Can you look at your affidavit of 28 May 2008, please, and associated with it you see there's an exhibit
+PSV2.
+
+A. Yes.
+
+Q. Using the numbering on the top right hand, if you go to page 2.
+
+A. Yes.
+ 
+Q. That's an email from Mr O'Brien to Mr Ross, do you see? 
+A. Yes.
+
+Q. Notice of termination. I am sure this document appears elsewhere? 
+A. Yes.
+
+Q. You see down the bottom, after referring to commissions, it says, "Obviously if you succeed in our current last ditch attempt to raise more funds then the business has a chance of increasing its value." Do you see that? 
+A. Yes.
+
+Q. Then it goes on, "This offer remains in perpetuity for as long as you are employed by IceTV." 
+A. Yes.
+
+Q. Do you remember now his offer of commission was to end when you left? 
+A. Well, the part that I remembered was the in perpetuity, but it does put both propositions there, now that I look at it.
+
+HIS HONOUR: Should that become an exhibit? 
+FIRST DEFENDANT: It is 2123 in the bundle.
+ 
+IRELAND: It is in volume 4, page 2123." Mr Simms, Mr Ross and Mr Vogel claim that the notion of a CPG came from Mr
+Simms and Mr Vogel says Mr Simms raised it with him at the meeting Mr Vogel had with him in early August 2006. IceTV claims that a CPG was part of the "content" aspect of the EPG which had been in contemplation and as a means of making the EPG more attractive to installers, long before Mr Vogel's meeting with Mr Simms in August 2006. I have referred to "content". IceTV claims that its EPG as developed, had the ability to have incorporated further material in a digital form that could be displayed on the TV screen. This could include a menu for videos or other content such as details of community activities.
+IceTV had not developed the use of that extra facility but says that it had such development in contemplation. Mr O'Brien dealt with this at T70.30 - T71 and T83, and Mr Kossatz at paras 6 - 8 of his affidavit of 4 May 2007. IceTV was keen to develop a relationship with companies which delivered video or DVD to consumers by which their EPG would be supplied as an adjunct: see T62.40 - .46. At IceTV the CPG was sometimes described as a Virtual Program Guide ("VPG"). There are a number of reasons why I accept Mr O'Brien's evidence (see T70 - T71) that the idea was IceTV's and not Mobilesoft's: 
+I accept Mr Kossatz (and Mr O'Brien) as reliable witnesses whose credibility I have no reason to doubt: see in particular T70 - T71, T83 and paras 6 - 8 of Mr Kossatz's affidavit of 4 May 2007 and T120 - T122.
+
+I do not think that Mr Vogel and Mr Ross are reliable witnesses.
+
+I found Mr Simms' evidence on this point evasive and not convincing: see T147 - T149. He did say, on the question of whose idea the CPG was, that as at July 2006 the only EPG that Mobilesoft had access to (and it was part of the set-top box they purchased from Astria in Hong Kong) was very crude and manifestly inadequate even as an EPG and that he had learnt of the IceTV EPG a few weeks earlier from Mr Urbanec (who had been employed by IceTV and had come to work for Mobilesoft).
+
+The letter of 4 August from IceTV gives examples of the CPG and demonstrates an understanding of the concept; it says nothing that constitutes an acknowledgement that the idea came from Mobilesoft.
+
+The letter of 4 August is directed to IceTV developing the CPG and supports the inference that IceTV had the know-how to do this and Mobilesoft did not.
+ Mr Ross and Mr Vogel claimed that all their endeavours were directed to "saving" IceTV (see T235.40) and they pointed out that as shareholders of
+IceTV they had an interest in that company succeeding. I do not accept the defendants' characterisation of what they were doing and for these reasons: 
+Whilst they did hold shares in IceTV it was only a very small holding.
+
+The absence of any advice to Mr O'Brien about proposals they had made to Mobilesoft and TiVo prior to their departure about what they were doing or endeavouring to do points to it not being to the benefit of IceTV or its major shareholders.
+
+The New Media strategy insofar as it refers to IceTV is clearly directed to an acquisition on terms favourable to Mobilesoft and disadvantageous to IceTV. That Mr Vogel and Mr Ross thought that they would obtain a benefit out of an arrangement favourable to Mobilesoft is demonstrated by the fact that within a short period of their departure from
+IceTV they both commenced on contract working for Mobilesoft and were clearly endeavouring to become senior managers of Mobilesoft (although this endeavour was thwarted at least in part by animosity towards them from other employees and 'factions' within Mobilesoft).
+
+The failure of Mr Vogel and Mr Ross to make known their New Media strategy to Mr O'Brien demonstrates that what they had in mind was of no advantage to IceTV or Mr O'Brien as the major shareholder of IceTV.
+
+I do not accept that the non-disclosure agreement had any relevance to the information provided in the New Media Opportunity document by email on and 11 September to Mr Simms and Mr Pickup respectively, as the defendants submit. No evidence was given by the defendants that the information was intended to be so covered and nothing to that effect was said in the email.
+Further the email was clearly not directed to promoting the interests of
+IceTV.
+
+Given that the offer of a bonus in relation to sale of shares was expressed to continue until Mr Vogel and Mr Ross ceased working for IceTV and given that they ceased on 4 October 2006 nothing done after that date could have been done pursuant to that arrangement. Mr Vogel seemed to think he was free to promote ideas on behalf of IceTV after his departure (see T325) but he was not.
+ The defendants' involvement in discussions with Mobilesoft and TiVo whilst they were still employed by IceTV can be viewed in one of two ways. If they were acting in those discussions on behalf of IceTV, as they claim they were, then that involvement establishes IceTV was engaged in discussions or negotiations with Mobilesoft and TiVo during 12 months prior to termination of the defendants' employment with IceTV.
+ If the defendants were not acting on behalf of IceTV then they were, whilst employed by IceTV, engaged or involved in a business competitive with the business of IceTV and this continued after they had ceased to be employed by
+IceTV.
+ In essence, I am of the view that the defendants conduct was not designed to promote IceTV but to promote their own interests directly and indirectly by setting up an opportunity for them to do work for Mobilesoft, and to endeavour to assist Mobilesoft to take opportunities which had been or could have been available to IceTV. I am persuaded that they deliberately provided incomplete information to IceTV as to their activities prior to their departure and I draw the inference that they did so, first, to promote the prospects of them working for Mobilesoft, second, to enhance their prospects of Mobilesoft being able to establish a connection with TiVo without competition from IceTV and further to enhance their strategy in relation to themselves or Mobilesoft taking over IceTV's client base and technology.
+ I make the following further findings of fact: 
+I find that in 2006 IceTV was in the business of developing and marketing the EPG and looking for opportunities to obtain subscribers both directly and indirectly through incorporation of its EPG into set-top boxes and PVRs. I find that this business included the prospective development of add-ons in the form of CPGs or VPGs, and video/DVD downloads or links: see paras 30 - 34 of Mr O'Brien's affidavit of 4 May 2007, and the references in [69(1)] above.
+
+I find that Mobilesoft was a competitor of IceTV in the sense that
+Mobilesoft was endeavouring to enter into arrangements with TiVo to the exclusion of IceTV and at times considering how to introduce an EPG that was not sourced from IceTV, but also that Mobilesoft was a company with whom IceTV had held discussions and negotiations in the 12 months before Mr Vogel and Mr
+Ross' departure, with a view to Mobilesoft becoming a customer of IceTV both for its EPG and for the development of a CPG to be used with the IceTV EPG.
+
+I find that Mr Ross provided confidential information to Mobilesoft by sending the New Media Opportunity document in his emails of 5 and 11
+September 2006 to Mr Simms and Mr Pickup respectively, for reasons that were not connected with any purpose or interest of IceTV.
+
+I find that Mr Ross and Mr Vogel were actually working to assist
+Mobilesoft in taking potential business from IceTV and also providing assistance to Mobilesoft or encouraging it to take control of IceTV's technology for its own use.
+
+I am not persuaded that anything done by the defendants between July and October 2006, of which IceTV complains, was directed to a sale of the
+O'Brien/Sutherland shares for $3 million or more.
+
+I find that TiVo was a company with which IceTV had had discussions and negotiations in the 12 months before Mr Vogel and Mr Ross' departure with a view to TiVo becoming a customer of IceTV.
+ 
+Other arguments by the defendants  In their detailed submissions the defendants have raised many other arguments as to why IceTV cannot succeed.
+ The defendants assert that there was no express offer and acceptance of their employments contracts which contained the restraints of trade. The letters of offer are signed by Mr Ross and Mr Vogel respectively and each reflects an offer accepted by signature of Mr Ross and Mr Vogel.  The defendants assert that there was a lack of consideration. The defendants seem to assert that as they were already employed when they signed the contracts there was no consideration for the new contracts; the increased salaries were not sufficient and that, in fact, because their employment was terminated they only received a small amount of that increase and other emoluments offered, which were also part of their remuneration, turned out to be of no significance. I do not accept these submissions because 'consideration' is not measured or determined by events as they transpire - at the time of the contracts there were new terms and conditions, including increased salary, and there was clearly sufficient consideration for the new agreements: see J L R Davis, Contracts: General Principles The Laws of
+Australia, (2006) Sweet & Maxwell.
+ One point raised in the defence but not the subject of any submissions was an assertion that the defendants had been coerced into signing the contracts, but no final submissions were advanced on this - no doubt as a result of an absence of evidence to support such a claim.
+ The defendants assert in their submissions that the contract was frustrated because the float did not proceed. The existence of the float was not expressed to be a condition of the employment agreements and its existence was not necessarily essential to the ongoing employment of the defendants. Nor was the existence of the float an implied term. There was nothing in the contracts to indicate that the existence or continuation of the float was the basis upon which the contracts were entered into and no evidence led that showed that this was the mutual contemplation of both parties to enable it to be said that there was a radical difference between the new situation and that contemplated by the contracts so that the new situation would be a different thing from that contracted for: Codelfa Construction Pty Ltd versus State Rail Authority <case>; [(1982) 150 CLR 29], see also Veremu Pty Ltd versus Ezishop.Net Ltd <case> per Handley, Giles and Santow JJA.
+ Another theme asserted in the defendants' submissions is that the proceedings brought by IceTV were a personal vendetta against them by Mr
+O'Brien (and Mr Sutherland) and an abuse of process. I do not accept that
+IceTV's motivation was a vendetta or that there was any abuse of process by
+IceTV.
+ The defendants assert that the restraints are invalid because: the duration is uncertain; the words "similar to or competitive with" are too wide or vague; the non-solicitation clause would preclude them from soliciting custom from XYZ Ltd in relation to product or service 'B' even if the discussions or negotiations held by IceTV with XYZ Ltd were in relation to an unrelated product or service 'A'; the territory is undefined; the business of IceTV is not defined; and the restraints do not protect any legitimate interest.
+ The non-solicitation clause as specified is limited to 12 months. There is no substance in the defendants' contention that the duration is uncertain because the Court is expressly empowered to read down the clause. That is what the Act provides in any event. I do not think that 12 months is an unreasonable period of time for which the restraint to operate. The duration of the confidentiality clause is not limited but, in any event, the only breach of that clause relates to what was done while Mr Ross and Mr Vogel were still employed by IceTV.
+ IceTV does not now rely on the words 'similar to' but restricts itself to 'competitive with'. To the extent that the defendants assert that the restraints are invalid because the words 'similar to' are too wide or vague - notwithstanding IceTV's lack of reliance on those words of the restraints - [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/rota1976216/s4.html) of the Act permits the Court to read down the clause and I would read down the clause so as to exclude 'similar to'.  I accept the contention that read literally the non-solicitation clause is too wide. Once again, [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/rota1976216/s4.html) of the Act permits the Court to read down the overly wide clause and I would read down the 'custom' to mean custom in the product or service field in respect of which the company was in negotiations or discussions with, which, here, was the wholesale marketing of EPG subscriptions to Mobilesoft and TiVo, including add-ons such as video links, CPGs and VPGs.
+ The defendants assert that the restraint was too broad because it is not limited to any particular territory. The non-engagement restraint is limited to businesses competitive to that of IceTV and the non-solicitation clause is limited to the non-canvassing or solicitation of any person who had entered into negotiations with IceTV during the 12 months prior to termination with a view to that person becoming a customer of IceTV. In my view when read down in the way that I have indicated there is nothing excessively or unfairly restrictive in this covenant. I do not think that the clause is uncertain.  The defendants assert that the restraint is invalid because there is no definition of the 'business' of the company. I do not think that this is a difficulty because even if it were correct, the business of IceTV was marketing subscriptions for its EPG directly and indirectly, including add-ons such as video links, CPGs and VPGs, and the clause can be read down as limited to that business.
+ The defendants assert that the restraints do not protect any legitimate interest of IceTV and are against the public interest because they preclude the defendants from working in what is a very small industry. I do not accept either submission. Mr Ross and Mr Vogel were senior executives in a very small enterprise who between them had significant control over the course and direction of the business, and who were involved in high-level negotiations with potential customers including Mobilesoft and TiVo. They also had knowledge of matters relevant to pricing and technology (particularly Mr Vogel in the latter respect) and had developed relations with TiVo and Mobilesoft in their roles as IceTV senior executives. It is true that neither Mobilesoft or
+TiVo had actually become a customer of IceTV but it is clear that efforts had been made to bring about such a result. The importance of rank in this area is discussed by J D Heydon in The Restraint of Trade Doctrine, (2008) 3rd edition LexisNexis at pp 127-129. This is not a case of a salesman having visited a large number of prospects but a case of senior personnel dealing with other senior personnel on deals potentially very significant to IceTV. As
+Harvey CJ in Eq said in Coote versus Sproule <case>; [(1929) 29 SR 578] at 580, (cited by Brereton J in Koops Martin Financial Services Pty Ltd v
+Dean Reeves <case> at <case>): "An employer is entitled to hold his employee to an agreement not to injure the former's business connection by virtue of the special relationship which has existed between the employee and the employer's customers as a consequence of his employment." I do not accept the defendants' argument that they are precluded from working in the media content delivery industry. For example, they asserted that they would not be able to work for YouTube. There is no inhibition on them working for YouTube, because YouTube is not a company with whom discussions were held, it is not in competition with IceTV and it is not engaged in the provision of an EPG with or without add-ons.
+ It is true that the restraints prevent the defendants from working for 12 months for a competitor of IceTV in the EPG domain or for companies with whom
+IceTV was in discussions or negotiations, but that, in my view, is a legitimate interest to be protected and there is no obvious public interest that outweighs the need for fair protection of IceTV. I accept that the fact that the contracts were terminated early, and not because of any breach by Mr
+Ross and Mr Vogel, is a factor to be taken into account in considering whether the restraints, as matters have transpired, are reasonable but the clearly critical nature of the opportunities presented by Mobilesoft (and TiVo) to the business of IceTV need to be weighed in the balance as well. I also take into account the fact that the industry is a new industry with rapid development of technology, but on the other hand it appears from the amounts invested that the expenses of establishment of IceTV are not small.
+ I have regard to the fact that Mr Vogel and Mr Ross were employees of
+IceTV, but they were senior employees and they were persons who had brought into IceTV the intellectual property of another company in which they had a significant interest. They held 4% and 6% respectively of the shares in IceTV (an admittedly small stake) as recognition of this prior connection.
+ So far as confidential information is concerned, IceTV's case does not focus upon source codes and subscriber lists or intellectual property owned by
+Gaia Technology or patents as claimed in the defendants' written submissions.
+What the defendants were restrained from doing was divulging to any person "performance reports, operations reports, profitability forecasts or business plans" and any financial information in relation to IceTV's activities which "may be of commercial value to a competitor".
+ IceTV maintains that by the New Media Opportunity document the defendants did pass on information that was of commercial value to a competitor or potential customer. The information, on the balance of probabilities, was useful to Mobilesoft: see Exhibit A1 at pp 357 - 358, and see also T166 - T167 and T192 - T193, notwithstanding Mr Simms' reluctance to agree that it was.
+ The defendants argued that even if the non-solicitation restraint was valid they were not in breach, in summary because: the relevant 'business' is Video on Demand ("VOD") being linked with an EPG; 
+Mobilesoft is in the VOD business; they have never supplied or wanted to supply an EPG (Mobilesoft was seeking an EPG supplier to partner with); 
+IceTV is in the business of supplying an EPG; while IceTV claimed that PIMP (refered to in [30] above as part of the letter of 4 August 2006) was ready to enter the VOD market at the time the injunction was granted, this has never happened; therefore Mobilesoft and IceTV were not in a business similar to or competitive with one another.
+ It is not correct to say that Mobilesoft never supplied or wanted to supply an EPG (Mr Simms said there was one in the Astria box but it was inadequate), but it does seem that at some time Mobilesoft was seriously considering attempting to incorporate IceTV's EPG in its PVR. I have dealt with this earlier, but Mobilesoft had a dual relationship with IceTV - it was discussing becoming a customer but it was also considering how it might compete with
+IceTV by dealing directly with TiVo and Mr Simms said it did have the technical capacity to make its own EPG: see T152.40. If the defendants' view were accepted, i.e. that Mobilesoft was not a competitor, then it was a prospective customer of IceTV. There is also the distinction, which I have already mentioned, that Mr Ross and Mr Vogel seemed to be encouraging
+Mobilesoft to obtain access to IceTV's technology by acquisition rather than through a customer relationship. The proposal of Mr Ross' that Mobilesoft acquire the know-how and customer base of IceTV demonstrates that Mobilesoft was a competitor if it was not a customer. Mr Kossatz's evidence at T105 -
+T106 also deals with this dual aspect. I should add that, contrary to a submission made by the defendants that Mr Sutherland's appointment as an administrator of Mobilesoft establishes that Mobilesoft was not a competitor, that appointment - even if it did involve a conflict of interest - is not evidence or an admission by IceTV that Mobilesoft was not a competitor or potential competitor of IceTV. I would add that to the extent that Mobilesoft was seeking to provide VOD to Video Ezy or its customers, that is not a product or service in respect of which IceTV was a competitor - what made it a competitor (or customer) is linking VOD with an EPG.
+ The defendants submit that they did not do work for Mobilesoft that IceTV could and would have done. These submissions are founded, in part, upon the assertion that the CPG was a Mobilesoft invention and that IceTV had nothing to do with the concept - an assertion contrary to the finding I have made. It is also based upon the assertion that the Clever Networks grant application involved areas in which IceTV had no expertise, such as tele-health and remote medicine. IceTV does not assert that it had expertise in tele-health and remote medicine but it did have expertise with EPGs and CPGs and I accept Mr
+O'Brien's evidence that it could have developed the CPG, as Mr Vogel offered to do on behalf of IceTV: see paras 12 - 13 of Mr O'Brien's affidavit of 22
+May 2007. I think it is clear that Mr Ross and Mr Vogel's work in preparing the Clever Networks grant application was work that they were doing because of their technical and industry knowledge, which IceTV could have replicated had it been given the opportunity.  
+Damages  Given that Mr Ross and Mr Vogel were employed in activities that went beyond preparation of the Clever Networks grant application and given my conclusion that they were, in all their activities for Mobilesoft, in breach of the covenants imposed by the contract, it is a difficult matter to assess damages in such circumstances. The parties said very little about this.
+ IceTV seeks damages for the breach of the non-solicitation clause and puts its claim in the following way. Vogel Ross was working on the Clever Networks grant application for Mobilesoft - they invoiced Mobilesoft a total of $110,550 by invoices 504 to 508: see Exhibit COB1 to the affidavit of Mr
+O'Brien of 8 December 2008. Mr O'Brien's unchallenged evidence was that IceTV had the capacity to prepare the application which Mr Ross and Mr Vogel worked on for Mobilesoft with or without the involvement of Mr Ross and Mr Vogel: see paragraphs 27 - 31 of Mr O'Brien's affidavit of 8 December 2008, and he details the likely cost to IceTV at 50% of the amount invoiced leading to a claim of $50,250 plus interest and costs.
+ The defendants resist this claim on the basis that if Mobilesoft is in fact a competitor of IceTV then it is unlikely that Mobilesoft would have utilised the services of IceTV if the defendants' services had not been available to
+Mobilesoft.
+ I have referred to the dual nature of Mobilesoft's position. When Mr Ross and Mr Vogel were still with IceTV the relationship between IceTV and
+Mobilesoft seemed positive and there appeared to be no impediment to
+Mobilesoft engaging IceTV to develop the CPG. It is apparent, by late February , by which time IceTV had made its opposition to Mr Ross and Mr Vogel working for Mobilesoft clear, that Mr Simms was interested in resuming discussions with IceTV on IceTV supplying the EPG. As I have explained, I think the activities of Mr Vogel and Mr Ross in September and October 2006 were designed to push Mobilesoft away from becoming a customer of IceTV and given that those activities involved a breach of the restraints, they cannot be taken into account in determining hypothetically what would have occurred if the defendants had not been in breach of the restraint: see in relation to the general approach to damages in such cases: Griffiths & Bereens Pty
+Ltd versus Duggan <case>; ACJR 472 at [171] - [173], Placer (Granny Smith) Pty Ltd versus Theiss
+Contractors Pty Ltd <case>; [(2003) 196 ALR 257.] I think that the likelihood is that Mobilesoft would have engaged IceTV to undertake the Clever Networks application, but some factor needs to be applied to account for the possibility that Mobilesoft would not have asked IceTV to do that work even if Mr Ross and Mr Vogel had been willing to work on a contractor basis for IceTV and also that they might not have done so if Mr Ross and Mr Vogel were not willing to work as contractors to IceTV. I would apply a discount of 25% to take these uncertainties into account. I would add that the figure so arrived at of $35,000 is very close to the amount that I would regard as effectively nominal damages for a breach of the restraints in any event, although this was not how the plaintiff put its case.  
+The interlocutory injunction  The defendants assert in their first cross claim that due to the lack of value of the undertaking as to damages given by IceTV, the injunction should never have been granted. They rely on Brereton J's comment in his judgment on September 2007 when dissolving the injunction that had he been aware of the impecuniosity of IceTV he would not have granted the injunction. Brereton J did, at [7] of his judgment, hold that IceTV's financial position was a material matter to be disclosed. The defendants assert that IceTV did not produce documents that showed the impecuniosity of IceTV in response to a subpoena issued on behalf of the defendants.
+ Shortly before the interlocutory hearing before Brereton J on 28 May 2007, the defendants' solicitor, Mr Goldie, issued a subpoena to IceTV which IceTV answered producing documents over which a claim for confidentiality was asserted and documents for which no such claim was made. Mr Petrucco, IceTV's solicitor, gave evidence as to production of the documents and the process embarked upon by him. The documents produced on subpoena and the subpoena itself became an exhibit in the proceedings (Exhibit P) and included in the documents is a copy of a set of draft accounts which shows that IceTV was in a parlous economic state.
+ The defendants said that they had inspected the documents over which no claim for confidentiality was asserted and that Mr Goldie had inspected those documents and the documents over which a claim for confidentiality was asserted. They and Mr Goldie said that the draft accounts were not included.
+ Mr Petrucco's credit and reliability were unshaken in cross examination. I accept Mr Petrucco's evidence that he provided all of the documents held in the Registry that are now Exhibit P to the Court on or before 28 May 2007. I think it is most unlikely that the Registry did not make all of these documents available to Mr Goldie and far more likely that Mr Goldie and the defendants examined those draft accounts. Mr Goldie asserted that he had been expecting to find the draft accounts and on his evidence none were there, yet he took no steps to complain about the adequacy of the production either by letter or telephone call to Mr Petrucco or through counsel when the matter came before Brereton J. The defendants knew of the parlous state of IceTV's finances because their employment had been terminated for that very reason, as they were well aware: see Mr Ross' affidavit of 7 May 2007 at paras 30 - 32.
+A submission was made to Brereton J on 28 May 2007 that "[A]n undertaking as to damages is of limited value given the plaintiff's limited means of satisfaction". That submission evinces a knowledge of a lack of financial wherewithal on the part of the defendants, which is consistent with the defendants having obtained confirmation of IceTV's lack of funds. Indeed, the defendants' final written submissions in these proceedings assert (and the evidence supports their contention) that they well knew the financial position of IceTV at the time the undertaking was given. Whether or not Mr Goldie or the defendants did see the draft accounts produced by IceTV, I am satisfied that Mr Petrucco did, on behalf of IceTV, provide the documents sought in the subpoena, and I do not accept that IceTV withheld any documents.
+ The defendants had the onus of proving that the undertaking proffered was worthless. The defendants in their written submissions point out that the company was being propped up by loans from the directors (indeed the defendants describe the company as "solvent by virtue of the Directors personally funding the company as needed": see para 272 of the defendants' written submissions) and Mr Ireland pointed out that had it been necessary the directors of IceTV could have given personal undertakings as to any damages flowing as a consequence of the injunctive relief being granted. Brereton J indicated in his judgment of 28 September 2007 at [6] that this could have been required when the injunction was granted in place of the usual undertaking from the plaintiff. I have some doubt as to whether a party seeking to obtain an injunction is required to advise the Court that the company, without its directors' support, is or would be insolvent, but in any event, I do not think that where a party is found to have breached covenants in restraint of trade, it has any claim against the party that obtained the injunction because the undertaking was of no, or limited, value, at least in circumstances where it is well aware of the lack of worth of the undertaking and had the means of establishing that fact, which is the case here.  
+Conclusion  It follows in my view that: the defendants are liable to the plaintiff in the amount of $35,000 and there should be judgment for the plaintiff in that amount plus interest; interest on the $35,000 needs to be calculated in accordance with
+Court rates and I will make orders for a document dealing with that to be prepared specifying the date from which interest is calculated; there should be judgment for the cross-defendant on the first cross-claim; and the defendants should pay the plaintiff's costs of the claim and the first cross-claim as agreed or assessed.
+ 
+LAST UPDATED:  September 2009 * * * 

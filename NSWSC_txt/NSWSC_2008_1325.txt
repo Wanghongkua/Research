@@ -1,0 +1,76 @@
+
+
+SALTER versus DPP [2008] NSWSC 1325 (5 December 2008) 
+Last Updated: 11 December 2008 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+SALTER versus DPP <case>  
+JURISDICTION:  
+FILE NUMBER(S):  /08  
+HEARING DATE(S):  December 2008  
+JUDGMENT DATE:  December 2008  
+EX TEMPORE DATE:  December 2008  
+PARTIES: 
+Natalie Maree SALTER 
+The Director of Public Prosecutions  
+JUDGMENT OF: 
+Hulme J  
+LOWER COURT JURISDICTION: 
+Local Court  
+LOWER COURT FILE NUMBER(S):  
+LOWER COURT JUDICIAL OFFICER: 
+Magistrate O'Shane  
+COUNSEL: 
+P: WJ Wilcher 
+D: D Arnott SC  
+SOLICITORS: 
+P: Southern Districts Legal 
+D: Solicitor for DPP  
+CATCHWORDS:  
+LEGISLATION CITED:  
+CASES CITED:  
+TEXTS CITED:  
+DECISION: 
+Leave to appeal granted. The Summons is dismissed. 
+No order as to costs.  
+JUDGMENT:  - 1 - 
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+COMMON LAW DIVISION 
+HULME J 
+Friday, 5 December 2008 /08 
+NATALIE MAREE SALTER BY HER TUTOR STEVEN FOLINO-GALLO versus THE DIRECTOR OF PUBLIC PROSECUTIONS 
+JUDGMENT HIS HONOUR: By summons filed on 21 July 2008 the plaintiff sought a number of orders. In substance she wished to challenge a decision made by
+Magistrate O'Shane on 24 June 2008.
+ The issues before her Honour had been debated as preliminary matters in a case where the plaintiff in this Court was charged with offences under s308H of the Crimes Act with causing an unauthorised access to restricted data held in a computer, knowing that such access was unauthorised and intending to cause that access. There were twenty-two such charges.
+ Her Honour held that the charges were not bad for duplicity and furthermore that the plaintiff, who as a police officer did have access to the police computer system, had limitations on the access for which she was authorised.
+ It seems common ground that on the occasion which has led to the charges the plaintiff did enter the police computer network for a period of something in the order of eleven minutes, made entry into the computer system only once, but while there accessed a number of separate what I might call items, some under names (more than one) and some under addresses (again more than one).
+ The argument for the plaintiff on the duplicity point is that notwithstanding a number of separate items of information were accessed, nevertheless what the plaintiff had access to was but data on the police computer and therefore, if she committed an offence, it was only one.
+ "Data" is defined in section 308 as including (a) information in any form or any programme or part of a programme. There is also a definition of the expression "data held in a computer", but I do not think that assists in the resolution of the current issue.
+ When regard is had to the scheme of the legislation in <case> to 308I it seems to me unreal to suggest that the totality of information in a computer should be regarded as only one item of data providing the computer was only accessed once. To provide an example in a field with which more persons are familiar than the police computer system, it seems to me that every separate
+Word document, for example, would represent a separate piece of data. It may be arguable that perhaps every page contains a separate bit of data, but I need not go into that.
+ Based on what I infer is at least some break up of the information on the police computer system, it certainly seems to me logical to regard the information on person "A" as separate data from the information contained on person "B", and both of those separate from the information contained in respect of an event or a location.
+ Of course if information filed under the name of "A" and that filed under an address was identical in all respects, it may be that one could regard such material as only one item of data, and the bringing of two charges, because there had been unauthorised access to the material under the two headings, duplicitous, but I need not decide that. There is nothing here to suggest that such a circumstance applied in this case.
+ Accordingly, I see no grounds for concluding that the Magistrate was wrong when she held that the charges against the plaintiff were not duplicitous.
+ The second argument depended upon the terms of <case>, which provides:- 
+For the purposes of this Part, access to or modification of data, or impairment of electronic communication, by a person is unauthorised if the person is not entitled to cause that access, modification or impairment.
+
+Any such access, modification or impairment is not unauthorised merely because the person has an ulterior purpose for that action.
+
+For the purposes of an offence under this Part, a person causes any such unauthorised access, modification or impairment if the person's conduct substantially contributes to the unauthorised access, modification or impairment.
+ Emphasis was placed by counsel appearing for the plaintiff on the terms of sub-s (2) and in particular the word "any". It was submitted that the provision had to be given some operation, and that to do so "any" had to be given an operation which meant that once a person was authorised or entitled to use a computer, any limitations on that use were of no effect. I do not agree.
+ Counsel appearing for the defendant drew attention to a number of prior decisions, albeit on different statutory provisions, those cases including
+Gilmour versus Director of Public Prosecutions (Cth) [(1995) 43 NSWLR 243], The
+Director of Public Prosecutions versus Murdoch <case>; [[1993] 1 VR 406] at 409,410. In that last mentioned case Hayne J said:- "... Where, as is the case here, the question is whether the entry was with permission, it will be important to identify the entry and to determine whether that entry was within the scope of the permission that had been given.
+If the permission was not subject to some express or implied limitation which excluded the entry from its scope, then the entry will be with lawful justification but if the permission was subject to an actual express or implied limitation which excluded the actual entry made, then the entry will be "without lawful authority to do so." ...
+
+In my view the section requires attention to whether the particular entry in question was an entry that was made without lawful authority. In the case of a hacker it will be clear that he has no authority to enter the system. In the case of an employee the question will be whether that employee had authority to affect the entry with which he stands charged. If he has a general and unlimited permission to enter the system then no offence is proved. If however there are limits upon the permission given to him to enter that system it will be necessary to ask was the entry within the scope of that permission? If it was, then no offence was committed; if it was not, then he has entered the system without lawful authority to do so." The passage has direct application to the situation here.
+ Authorisation to use a computer or authorisation in an entirely different field of law may be general or it may be limited or it may be subject to conditions, and I do not believe that <case> should be given an operation so as to set at nought that aspect of the general law. As Hayne J said in the passage to which I have referred:- "If there are limits upon the permission given, it will be necessary to ask was the entry within the scope of that permission?" Along similar lines is the decision of the High Court in Barker versus R
+CLR 338 where it was held that a person who had permission to enter a building may be a trespasser if entry is made for a purpose which was expressly or impliedly excluded by the terms of the permission.
+ The statement of agreed facts in this case has, as part of it, a number of documents indicating instruction which is given to police officers in their training and in their activities. There are to be found in those documents many statements to the effect that the police computer system may not be used for personal reasons or otherwise than for official police activities. The extent of repetition of the existence and terms of limitations on the use of the computer system is such as to lead inevitably to the conclusion that any permission given to use the system was limited. Perhaps the most obvious illustration of this is to be found in annexure J to the Agreed Facts, being the terms of a screen which appears on each occasion a police officer enters the computer system. The passage includes the following:- "This computer system is the property of NSW Police. No person is allowed access other than for a lawful purpose. Your access is being monitored to ensure it is lawful. Data on the system must NOT" - and the word "not" is in upper case - "be disclosed to authorised persons and you are NOT" - again in upper case - "authorised to access it for personal, demonstration or training reasons. If you proceed to use this system you acknowledge this warning and conditions. Log off if you do not accept them." I am satisfied that though the plaintiff had authority to use the police computer system or was authorised to do so, that authority was limited and access or use beyond the limits was, within the terms of <case>, unauthorised.
+Thus I am persuaded that the Magistrate did not err in her decisions.
+ I have been informed, without I think dissent, that the interpretation of these provisions has not previously been the subject of consideration by this
+Court.
+ In those circumstances, and there being no opposition, it seems to me that the plaintiff should have leave to appeal from the interlocutory decision of the tribunal below, but otherwise the summons should be dismissed. 
+I propose to make no order as to costs.  
+LAST UPDATED:  December 2008 * * * 

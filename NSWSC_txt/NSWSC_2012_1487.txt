@@ -1,0 +1,75 @@
+
+
+Kelly versus Australia and New Zealand Banking Group Ltd [2012] NSWSC 1487 (4
+November 2012) 
+Last Updated: 31 January 2013 
+Supreme Court 
+New South Wales  
+Case Title: 
+Kelly versus Australia and New Zealand Banking Group Ltd  
+Medium Neutral Citation: <case>  
+Hearing Date(s): 
+On the papers  
+Decision Date: November 2012  
+Before: 
+Garling J  
+Decision: 
+Formal orders to be made on 5/12/12  
+Catchwords: 
+PRACTICE AND PROCEDURE - expert granted access to plaintiff's computer to compile report - plaintiff claims client legal privilege and confidentiality over documents expert had access to - plaintiff a quantity surveyor - defendant provides funding for property projects - commercially confidential and sensitive information - documents to be amended as specified  
+JUDGMENT
+In the course of ensuring that the principal proceedings are properly prepared for a hearing, a dispute has arisen between the parties about whether documents which are stored on the computer system presently operated by the plaintiff are privileged by reason of client legal privilege or else are confidential. 
+In order to determine this dispute, it is necessary to have regard to some background and contextual features.
+
+BACKGROUND AND CONTEXT
+Proceedings are on foot between Mr Kelly, and the Australia and New Zealand Banking Group Ltd ("ANZ"). Mr Kelly claims damages for breach of contract and misleading and deceptive conduct. ANZ claims a monetary judgment with respect to monies advanced by way of a loan and possession of mortgaged property. It is sufficient to note these principal proceedings are contested on every issue.
+One central piece of evidence which is relevant in that dispute, and to the credibility of Mr Kelly, is an electronic file in PDF format which presently exists on Mr Kelly's computer system.
+Mr Kelly contends that the document was originally created and sent to ANZ in April 2005. It is an important piece of evidence that apparently corroborates his account of events. ANZ has served two expert reports by Mr Ajoy Ghosh dated 4 September 2012 and 7 September 2012 respectively, in which he expresses his view, putting it briefly, that the electronic PDF file relied upon by Mr Kelly could not have come into existence until some time after 2007.
+Mr Ghosh describes a method that he says may have been used to cloak the document with metadata making it appear that the document has been created earlier. In short, he says, the document is a tricked up forgery.
+In order to compile his report, Mr Ghosh was granted access pursuant to orders made by Justice McCallum on 16 August 2012 to the computer system of Mr Kelly. The system to which Mr Ghosh was granted access was that currently in operation in Mr Kelly's business.
+Mr Kelly is a qualified and experienced quantity surveyor who operates a business in which a number of people are employed. It is obvious that in the world of property development, costs of current or future building and development projects are highly commercially confidential and often very sensitive information.
+Competing tenderers are generally diligent to ensure that the integers of their tender price are not revealed, particularly to their competitors. Whilst ANZ is not a builder or developer of property projects, it is in the business of providing funding for such projects. Part of the material with which it is supplied from time to time is the anticipated costs of completed building and development projects by applicants for finance. It has its own panel of accredited quantity surveyors who provide advice to it about construction and other like costs.
+It is obvious that there is a risk that confidential information in the hands of Mr Kelly and his business, which relates to his clients and the projects which he has been working on, may be relevant to projects which ANZ is being asked to fund or else to participate in. It is equally possible that the fact that the existence of work being done on projects is itself a fact which may be of relevance to ANZ. 
+Thus, in the context of these proceedings, and having regard to the nature of commercial enterprises involving Mr Kelly and the nature of ANZ's business, the Court needs to be diligent to ensure that any orders which it may make are sufficient to ensure so far as the interest of justice permit that confidentiality is properly recognised and preserved.
+
+PRESENT DISPUTE
+On 13 September 2012 Mr Kelly indicated that the plaintiffs made a claim for client legal privilege and confidentiality over documents to which Mr Ghosh had had access whilst undertaking his examination of the plaintiff's computer system. Directions were given to enable resolution of this dispute with as little delay and cost as possible.
+
+THE DOCUMENTS
+On 3 September 2012 Mr Ghosh sent an email to the plaintiff's solicitors, which attached a list of documents that he wished to disclose "to the defendant for the purpose of reporting my opinion". That list contained nine electronic files. In respect of these nine files objection is taken to the disclosure of two of the files upon the basis of client legal privilege.
+A second and third group of documents to which objection is taken are identified as being attached to an email of 5 September 2012. The first of these groups includes 24 electronic files. This group includes the nine electronic files previously identified as being attached to the email of 3 September 2012. The second of these groups is a series of documents, which are identified on a spreadsheet which occupies seven pages.
+In light of the repetition of documents attached to the email of 3 September 2012 in the subsequent email it is only necessary to deal with each of the two groups of documents referred to in the email of 5 September 2012.
+
+A LIST OF 24 ELECTRONIC FILES
+With respect to this list, all but three files relate to programmes installed on the computer or else relate to the operation of the computer itself. None of these 21 files contain any data that has been inserted by Mr Kelly or any of his staff. The three remaining files can be identified from the specified path as being stored in "C:\users\David.Kelly.GLEEDS-AUST\". They are recorded as having the following dates: /14/12, that is, 14 August 2012.
+ /20/12, that is, 20 August 2012.
+ /29/11, that is, 29 May 2011.
+There appears to be a backup copy of this file as well.
+Mr Kelly claims that files (1) and (2) are the subject of the client legal privilege because they were brought into being for the dominant purpose of obtaining advice about the current proceedings and for the purpose of providing instructions with respect to the current proceedings.
+Mr Kelly relies upon the provision of [s 118](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s118.html) and [s 119](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s119.html) of the [Evidence Act 1995](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) as demonstrating that the material in the documents could not be adduced in evidence in the proceedings. I am satisfied on the basis of the evidence before me that both of these documents are privileged and should not be disclosed to ANZ or its solicitors and counsel. That is because I am satisfied that I should accept the evidence of Mr Kelly as to the dominant purpose of the creation of the documents, which evidence is corroborated by the dates upon which the documents were created, having regard to the events taking place at the time in this litigation.
+No claim is made about the balance of the electronic files on this list. Accordingly, the list and those remaining files may be disclosed to ANZ and its solicitors and counsel but only if all references to documents (1) and (2) are removed from the list before it is disclosed.
+I note that both of these documents are referred to in Mr Ghosh's reports as "...also of interest", and as part of his reports he has printed out the external metadata of these files. 
+Since I have held that the documents are privileged pursuant to client legal privilege, it follows that the external metadata is also privileged. This material is not to be disclosed to the ANZ, its solicitor or counsel.
+
+A SEVEN PAGE SPREADSHEET
+In his email of 5 September 2012, Mr Ghosh informs the solicitors for Mr Kelly that he proposes to disclose the contents of the spreadsheet to ANZ's solicitors. It appears that this spreadsheet is an annexure to his later report and is similar to an annexure to his earlier report. The annexure is described by Mr Ghosh in the later report as "listing of PRIMOPDF conversion logs".
+In his report, Mr Ghosh relies upon this list for the proposition that all of the files listed except for the PDF file, which he opines was tricked up, have been converted in 2010, 2011 and 2012. Mr Ghosh says in his later report that with the exception of the subject PDF, the earliest creation date of any document on the list is 13 May 2010.
+Mr Kelly submits that each of these files is confidential because it contains the names and identities of his clients and the names of the various projects upon which he is presently, or else has been since 2010, working. I accept the names of the files and their contents would be confidential. I also accept that the contents of the files and their names have no obvious relevance to the current proceedings.
+What is of relevance, as Mr Ghosh's report demonstrates, is only the date upon which these files were converted into a PDF format. I cannot accept that this information alone without any other information would breach any confidence. It would not reveal any confidential information such as the name of the clients or the names of projects upon which Mr Kelly is working. All that would be revealed is data about the usage of the computer system.
+In those circumstances, I do not uphold the claim for confidentiality with respect to this list in its entirety. It would be necessary for Mr Ghosh to prepare a further spreadsheet which has the following features, and which will have the result that the spreadsheet is amended from those annexed to his two reports and described as an Annexure F in his report of 4 September 2012 and Annexure D in his report of 7 September 2012.
+The amendments are as follows: 
+Deletion of the first column headed "name" and all material listed on every line underneath that heading for each file listed and 
+In the ninth column headed "full path" for each file listed, the data and all words which occur after "...\activePDF\primo PDF..." must be deleted.
+Provided a spreadsheet containing these amendments is capable of being produced, and there is no reason to think that it is not, then the amended seven page spreadsheet list can be made available to ANZ and its solicitors and counsel without breaching any confidence. The contents of the files and any material which records the names allocated to these files and their particular path is confidential and must be not be revealed.
+
+SUMMARY
+In light of these reasons, I will uphold Mr Kelly's claim for client legal privilege on the specified documents dated 14 August 2012 and 20 August 2012 and all metadata associated with those files.
+All references to these files and the metadata must be removed from Mr Ghosh's report.
+The further consequence of this decision is that the list of 23 files attached to the report of 7 September 2012 of Mr Gosh and the earlier version attached to his report of 4 September 2012 cannot, in its present form, be made available to ANZ or its solicitors and counsel unless and until all references to those two files and metadata are deleted. As well, the print out of the link files report which is Annexure G to the first report, is privileged and cannot be disclosed to ANZ or its solicitors or counsel because it contains the metadata which, as I have held, is privileged. It, and any reference to it, must be removed from the reports of Mr Gosh. 
+As to the seven page spread sheet, once the amendments specified above have been made and only then can that spread sheet be made available to ANZ and its solicitors and counsel.
+
+ORDERS
+It will be necessary for the parties to bring in short minutes of order to reflect these reasons. I will make the formal orders when the matter is next before the Court for directions on 5 December 2012. 
+Unless otherwise persuaded, I would order that costs of the motion should be costs in the cause. 
+I expect the parties to be in a position to provide short minutes on that occasion.
+ * * * 

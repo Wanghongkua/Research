@@ -1,0 +1,52 @@
+
+
+Idoport Pty Ltd and Anor versus National Australia Bank Limited and 8 Ors;
+Idoport Pty Ltd and Market Holdings Pty Ltd versus Donald Robert Argus; Idoport Pty
+Ltd "JMG" versus National Australia Bank Limited [24] [2001] NSWSC 449 (29 May )
+
+Last Updated: 19 June 2002 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: Idoport Pty Ltd & Anor versus National Australia Bank Limited & 8
+Ors; Idoport Pty Ltd & Market Holdings Pty Ltd versus Donald Robert Argus;
+Idoport Pty Ltd "JMG" versus National Australia Bank Limited <case>  
+CURRENT JURISDICTION:  
+FILE NUMBER(S): 50113/98  /99  /00  
+HEARING DATE{S): 21/05/01, 28/05/01  
+JUDGMENT DATE: 29/05/2001  
+PARTIES: 
+Idoport Pty Ltd (Plaintiff) 
+Market Holdings Pty Ltd (Plaintiff) 
+National Australia Bank Limited (Defendant) 
+Donald Robert Argus (Defendant)  
+JUDGMENT OF: Einstein J  
+LOWER COURT JURISDICTION: Not Applicable  
+LOWER COURT FILE NUMBER(S): Not Applicable  
+LOWER COURT JUDICIAL OFFICER: Not Applicable  
+COUNSEL: 
+Mr JJ Garnsey QC, Mr Alkadamani (Plaintiffs) 
+Mr R Smith QC, Mr Halley (Defendants)  
+SOLICITORS: 
+Withnell Hetherington (Plaintiffs) 
+Freehills (Defendants)  
+CATCHWORDS:  [Evidence Act](http://www.austlii.edu.au/au/legis/nt/consolact/ea80/) (1995) - Evidence - Admissibility - Opinion evidence - Expert opinion - Section 79 -
+Specialised knowledge - Whether an opinion is wholly or substantially based on specialised knowledge based on training, study or experience  
+ACTS CITED:  
+DECISION: 
+Further Rulings on S.79 opinions given - paragraphs allowed.  
+JUDGMENT:  
+THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION - COMMERCIAL LIST  
+EINSTEIN J  
+Tuesday 29 May 2001 ex tempore 
+Revised 30 May 2001  /98 IDOPORT PTY LIMITED & ANOR versus NATIONAL AUSTRALIA BANK LIMITED & 8 ORS  /99 IDOPORT PTY LIMITED & ANOR versus DONALD ROBERT ARGUS  /00 IDOPORT PTY LIMITED ("JMG") versus NATIONAL AUSTRALIA BANK  
+JUDGMENT  A further question has arisen with respect to Mr Martin's section 79 competence to express opinions based upon specialised knowledge said to have been acquired by his training, study or experience.  The matter concerns paragraphs 16, 18 and 19 of the 98 paragraph Statement of Mr Martin dated 12 April 2001. I note that at transcript page 9298, paragraph 17 was allowed as a section 79 expert opinion.  I set out the content of the relevant paragraphs and in each case delineate, using the square brackets, the sections which were objected to:  "16 [In relation to information required by local regulators, this information is generally similar across countries. Further, generally it is information which a system needs in any event for its own processing and record-keeping.] For example, the Ausmaq system captured the following information:  name of investor  address and other personal details of investor as necessary  cost of each purchase or investment  [several other subparagraphs then continue to identify short descriptions of the subject information being referred to]  I know from my past experience at Pont Data.., Westpac Personal Investment
+Centre... and my experience in, and knowledge of software used in the
+Australian and New Zealand financial services industries, including such software written and produced in countries other than Australia and New
+Zealand such as in the US or UK, that this information is generally captured, stored, indexed, tracked and used for reporting purposes.  [The major differences are which subset of this information, and in what level of detail, and in what format, and with what frequency, the regulatory bodies require the information to be reported to them. The issues recorded in the preceding sentence are addressed in the programs which extract combinations of information from various data base fields which capture each element of the total information. In other words, dealing with such issues is a matter of database design and database manipulation so that information can be first, captured, and secondly, stored, indexed and extracted in require combinations]  Most of the issues listed above address for New Zealand [and there is no reason to assume they could not have been addressed in each country as they arose] "   The defendants base their objection upon the proposition that Mr Martin has not been shown by his training, study and experience to have acquired specialised knowledge upon the basis of which wholly or substantially to be in a position to express opinions as to the regulatory requirements which would be imposed in the event that the Ausmaq service was sought to be interfaced in countries outside of Australia and New Zealand. The defendants proposition is that a careful reading of the judgment [(2000) NSWSC (246)] delivered in relation to the general challenge to the expertise of Mr Martin will demonstrate that the judgment was not concerned to treat with any paragraphs of Mr Martin's statements which had been pressed on the basis of specialised knowledge permitting the expression of opinions as to such regulatory requirements.  The defendants particularly draw attention to the fact that the paragraphs of Mr Martin's reply to Professor Thomas referred to in paragraph 127 of the judgment, although originally raising for decision the question of section 79 competence to express opinions from a regulatory point of view, was not ultimately pressed. This does seem to be the case.  Ultimately the plaintiffs only pursue a ruling of "Op/Subj" in respect of the first and second sentences of paragraph 16. This is unexceptional and only on this basis, are those sentences are allowed into evidence.  The plaintiffs do however press as section 79 opinions, the sections from paragraphs 18 and 19 identified in parentheses above.  It seems to me important to note [real time transcript, 28 May 2001, p 9543 line 40] that Mr Garnsey made plain that he was not seeking to put Mr Martin up as an expert about the content of foreign regulatory bodies requirements but only to press the basis upon which Mr Martin proceeds to give evidence as to technical matters.  As I read the first sentence of the proposed paragraph 18, this paragraph seeks to address the suggested major differences of the witnesses experience in relation to be countries referred to in paragraph 17, which paragraph has already been allowed into evidence. As I read the first sentence of the proposed paragraph 18, Mr Martin is not purporting to give worldwide evidence as to the practice of each and every regulatory body or any such thing. He is merely seeking to extrapolate from what he has already said in paragraph 17 and uses his reference to "the regulatory bodies", not in terms of an identification of what particular regulatory bodies, as a matter of fact to his knowledge based on his training, study or experience, in fact require, but rather uses this reference to tie together his inferred belief that the reason for the suggested "major differences" stemmed from differing/ non-uniform regulatory authority requirements. The same reading seems to my mind to spring from the words used in paragraph 19 in the section which is there objected to.
+Here again Mr Martin seeks to give evidence that there is no reason to assume that the same issues which were addressed for New Zealand could not have been addressed in each country as they arose.  In consequence I allow each of the paragraphs now objected to. These rulings are consistent with (1) the courts holding as to Mr Martin's specialised knowledge relating to off shore customisation opinions (2) the courts rulings in relation to the paragraphs referred to in paragraph 20 of the principal Judgment on the expertise of Mr Martin. I note that in allowing the sections of paragraphs 18 and 19 which are objected to, I do not intend to hold that Mr Martin has been shown to have acquired specialised knowledge upon which wholly or substantially to be in a position to express opinions as to the particular regulatory requirements of every country in the world with whose computer systems the Ausmaq service may, on his evidence, have been able to interface.  Accordingly, and on the above bases only, the paragraphs now objected to are allowed as section 79 opinions in respect of which Mr Martin's training, study and experience, although not qualifying him to express opinions as to the particular regulatory requirements of every country in the world with whose computer systems the Ausmaq service may have been able to interface, is nonetheless shown to have equipped him with sufficient specialised knowledge entitling him to express the subject opinions based substantially on that specialised knowledge.  
+I certify that paragraphs 1 - 11  are a true copy of the reasons  for judgment herein of the 
+Hon. Justice Einstein  given on 29 May 2001  and revised on 30 May 2001  
+Susan Piggott 
+Associate  May 2001  
+LAST UPDATED: 11/06/2002 * * * 

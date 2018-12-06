@@ -1,0 +1,65 @@
+
+
+Clear Wealth Pty Ltd versus Kwong [2012] NSWSC 561 (12 April 2012) 
+Last Updated: 28 May 2012 
+Supreme Court 
+New South Wales  
+Case Title: 
+Clear Wealth Pty Ltd versus Kwong  
+Medium Neutral Citation: <case>  
+Hearing Date(s): April 2012  
+Decision Date: April 2012  
+Jurisdiction: 
+Equity Division  
+Before: 
+Rein J  
+Decision: 
+The defendants' objection to admissibility of expert report rejected.  
+Catchwords: 
+EVIDENCE - admissibility and relevancy - opinion evidence - expert opinion - expert reports - minor ambiguities - use of "we" and use of passive voice and possible ambiguity as to method used can clarified in examination-in-chief of expert  
+EVIDENCE - admissibility and relevancy - opinion evidence - expert opinion - expert reports - observations in report are at the low end of the spectrum of opinion evidence - expert not required to disclose how expertise was applied to make observations  
+Legislation Cited: [Evidence Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/)  [Uniform Civil Procedure Rules ](http://www.austlii.edu.au/au/legis/nsw/consolreg/ucpr2005305/)  
+Cases Cited: 
+Dasreef Pty Ltd versus Hawchar <case>;
+CLR 588 
+Makita (Australia) Pty Ltd versus Sprowles <case>; [(2001) 52 NSWLR 705]  
+Texts Cited: 
+Category: 
+Procedural and other rulings  
+Parties: 
+Clear Wealth Pty Ltd (Plaintiff) 
+Jason Kenneth Kwong (First defendant) 
+Your Life Now Pty Ltd (Second defendant)  
+Representation  - Counsel: 
+Counsel: 
+G Lucarelli; M J Smith (Plaintiff) 
+J Smith; R Carey (Defendants)  - Solicitors: 
+Solicitors: 
+Somerset Ryckmans (Plaintiff) 
+Fai & Co (Defendants)  
+File number(s): 
+SC 2011/392406  
+Publication Restriction: 
+EX TEMPORE JUDGMENT
+In these proceedings Clear Wealth Pty Ltd ("Clear Wealth") (the plaintiff) claims that Mr Jason Kenneth Kwong (first defendant), a former employee, is in breach of his contractual obligations in that, in the last few days of his employment with the plaintiff, he copied client lists of the plaintiff, located on the plaintiff's computers, to enable him and Your Life Now Pty Ltd (second defendant), a company established by Mr Kwong, to approach customers of the plaintiff. The plaintiff also claims that, in breach of his contractual obligations, the first defendant, in his own right or through the medium of the second defendant, serviced clients of the plaintiff in the three months after he had left the plaintiff's employ.
+In an endeavour to prove that the first defendant: removed client lists from the plaintiff's computers; and put those client lists on USB storage devices owned by him and/or on his own computers and his iPhone; the plaintiff sought and obtained access to the first defendant's computers, external hard drives and USB sticks. Of the five USB storage devices thought to be used by the first defendant, only three have been produced for inspection.
+The plaintiff seeks to rely on the report of Mr Michael Khoury, who is a computer forensic expert holding a Bachelor of Information Technology, Certificate III in Government Investigative Services and other qualifications which are listed in par 3 of his affidavit sworn 21 March 2012: see p275 of Exhibit A1. His expertise is not challenged by the defendants.
+The defendants assert, however, that the report is not admissible pursuant to [s 79(1)](http://www.austlii.edu.au/au/legis/nsw/consolreg/ucpr2005305/s79.html) of the [[Evidence Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) 1995](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) because it is said: 
+The report uses the words "we" and the passive tense "it was found", so it is not clear whether Mr Khoury did the work himself or whether someone else did it or assisted him.
+
+At p1844 of Exhibit A7, Mr Khoury states: "The following devices were found to have been inserted to the desktop used by
+Mr Kwong via a USB connection prior to or on the final day of his employment with Clear Wealth." 
+Those words are words to which objection is taken and it is said that he does not state what method he used of the three methods referred to earlier on that page.
+
+More generally, the report in its entirety is objected to because it is said that it does not disclose how Mr Khoury has applied his relevant expertise to reach the conclusions which he has reached.
+Mr J Smith of counsel, who appears with Mr R Carey for the defendants, relies on the High Court's decision in Dasreef Pty Ltd versus Hawchar <case>; (2011) CLR 588, which, it is agreed, adopts the approach taken by the New South Wales Court of Appeal in Makita (Australia) Pty Ltd versus Sprowles <case>; [(2001) 52 NSWLR 705.]
+So far as the first point is concerned, Mr G Lucarelli, who appears with Mr M J Smith for the plaintiff, has sought clarification from Mr Khoury and will lead evidence from him that he is the person who did all of the work. Experts should avoid the use of the word "we" when it is only that person who is doing the work or reaching the conclusions and should avoid the passive voice, but if the witness confirms that he did all the work then I do not think it is a reason to reject the report.
+So far as the second point is concerned, I think it is tolerably clear from the text on p1844 of Exhibit A7, that Mr Khoury was adopting the third method mentioned by him earlier on the page, but that is something which can be clarified when he is called to give evidence.
+So far as the third point is concerned, I think the report, when read in its entirety and in context, does not suffer from the deficiencies identified in Dasreef Pty Ltd versus Hawchar and Makita (Australia) Pty Ltd versus Sprowles. When I say context, I am referring to: the fact that the task that Mr Khoury was engaged in was to ascertain what external devices were attached to the two computers of the plaintiff in the period 27 to 30 June 2011, who is recorded as having access to those computers in that period and what, if any, relevant documents were transferred to the first defendant's computers and matters related to that; and the fact that Mr Khoury is describing what he found.
+Whilst the tasks identified involve expertise in how to inspect and access information on a computer, it is at the low end of the spectrum of opinion evidence. Mr Khoury has acknowledged and agreed to be bound by the Expert Witness Code of Conduct in Schedule 7 of the [[Uniform Civil Procedure Rules](http://www.austlii.edu.au/au/legis/nsw/consolreg/ucpr2005305/) 2005](http://www.austlii.edu.au/au/legis/nsw/consolreg/ucpr2005305/) and he has stated the assumptions or information given to him by the plaintiff's solicitors: see p1836 of Exhibit A7. 
+In stating what he has observed on the computer, it is not really a matter of "reasoning", but to the extent that it is, I think it is of a category to which the plurality in Dasreef Pty Ltd versus Hawchar referred at [37] of the judgment per French CJ and Gummow, Hayne, Crennan, Kiefel and Bell JJ, when their Honours said: "That a specialist medical practitioner expressing a diagnostic opinion in his or her relevant field of specialisation is applying "specialised knowledge" based on his or her "training, study or experience", being an opinion "wholly or substantially based" on that "specialised knowledge", will require little explicit articulation or amplification once the witness has described his or her qualifications and experience, and has identified the subject matter about which the opinion is proffered."
+An example in the medical field might be an expert medical practitioner giving evidence that he has looked at the X-rays of the plaintiff and has observed calcification in the bones or a foreign object on the X-ray. Here, the thing observed is a file with a name that can be listed and accessed, if need be, and whose name (and, if need be, whose contents) can be compared with what is independently established to have been on the Clear Wealth computers.
+Some, at least, of the assumptions which are referred to at p1836 of Exhibit A7 are established by the report itself, since the report shows that some of the USB storage devices owned by Mr Kwong and handed over to the expert for examination were inserted into the Clear Wealth computers. 
+I might add that Mr Kwong has admitted in an affidavit sworn 30 March 2012 (see p337B of Exhibit A1) that he does have on two external hard drives some of the information about which the plaintiff complains, although he gives an explanation for this.
+In my view, the report is admissible.
+ * * * 

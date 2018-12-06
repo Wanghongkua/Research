@@ -1,0 +1,76 @@
+
+
+Regan Gerard Gilmour versus Director of Public Prosecutions (Commonwealth) No.
+/95 Criminal Law and Procedure [1996] NSWSC 55 (1 April 1996) 
+COURT
+IN THE SUPREME COURT OF NEW SOUTH WALES
+COURT OF CRIMINAL APPEAL
+HUNT CJ at CL(2), ALLEN(3) AND DUNFORD(1) JJ
+HRNG
+SYDNEY #DATE :12:1995 #ADD 1:4:1996 
+Counsel for the Appellant    Dr G D Woods QC and A J Clout 
+Solicitors for the Appellant  Pelosi and Associates 
+Counsel for the Respondent   P A Johnson 
+Solicitor for the Respondent  Commonwealth Director of Public
+Prosecutions
+ORDER
+Orders made
+JUDGE1
+DUNFORD J This is a case stated by his Honour Judge Flannery
+QC of the
+District Court in the course of an appeal to that Court by the appellant against his convictions in the Local Court on counts of intentionally and without authority or lawful excuse inserting data into a Commonwealth computer, contrary to <case> C [Crimes Act 1914](http://www.austlii.edu.au/au/legis/cth/consolact/ca191482/) (Commonwealth). The facts which were not disputed are set out in the Stated Case as follows: "(a) At all relevant times, the appellant was a Commonwealth public servant employed as an Administrative Services Officer Grade 3 within the Debt
+Management Section of the
+Australian Taxation Office in its Relief Section. 
+The Relief Section considers applications by taxpayers for relief from payment of income tax. Such applications must be in writing. Upon receipt of an application the Relief Section prepares a submission which objectively sets out the application and attaches relevant documents but makes no recommendation as to whether or not relief should be granted and the submission is forwarded together with the application to an appropriate person as set out in <case> [Income Tax Assessment Act 1936](http://www.austlii.edu.au/au/legis/cth/consolact/itaa1936240/), as amended (Cth). This appropriate person then determines whether or not relief should be granted. 
+Following determination of an application, the appellant was required to insert data into a computer system called the Compact Computer System which operated only in the Debt Management Section. This data was eventually entered on the taxpayer's general file held by the Australian Tax Office.
+
+At all times, the appellant was not an appropriate person as referred to in paragraph 5(b) above and had no authority to grant relief For the purpose of carrying out the duties of his employment, he had access to the computer by entering his user ID and password.
+His duties included the entry of various codes into the computer. He was permitted by his employer to enter relief code "43" only where relief had been granted. 
+The computer system had the capacity to be programmed to restrict the insertion of data and to beep and display the words "no right of access" if insertion was attempted contrary to the restriction. The computer was not so programmed to restrict entry of relief code "43" by the appellant. 
+In the 19 cases which are the subject of the appeals before me, no grant of relief had been made and the appellant knew this to be the case.
+Accordingly, the appellant was not permitted by his employer to enter relief code "43" in these cases. 
+In all of the 19 cases, the appellant inserted data, relief code "43", in the computer indicating that relief had been granted when this was not the case. The computer received this data in each case.
+
+There was no financial gain to the appellant in taking this course. He did so because of a desire to expedite the process, a heavy workload and concern about suggested inconsistencies in determinations of applications for relief."
+The question of law for determination is: "In the circumstances of this case, did the appellant have "authority" to insert data in a Commonwealth computer for the purpose of <case> [Crimes Act 1914](http://www.austlii.edu.au/au/legis/cth/consolact/ca191482/) (Cth) when: the computer would physically accept his insertion of data, but the appellant was not permitted by his employer to insert the relevant data, relief code "43", in the computer without specific permission given by the employer prior to the insertion and such permission was not given in these cases?"
+Section 76C inserted by Act No 108, 1989, so far as material, is as follows: "A person who intentionally and without authority or lawful excuse: destroys, erases or alters data stored in, or inserts data into, a Commonwealth computer ..... is guilty of an offence." "Data" is defined by s 76A as including information, a computer program or part of a computer program.
+It was submitted on behalf of the appellant that the appellant had a day to day authority of a general kind, reflected in the physical responses of the computer to enter data into it including relief code 43, the computer was so programmed that it would not accept data which the computer system did not authorise the appellant to enter, when he entered any relief code 43 the computer accepted it, and accordingly any entry of relief code 43 was not "without authority". The submission was expressed in the Stated Case as follows:- "The appellant submitted that in inserting the data, relief code "43", he was authorised to do so by the computer for the purpose of <case> of the Act.
+It was contended that because the computer accepted the data, relief code "43", the computer authorised the insertion of the data. The appellant further submitted that the computer had been programmed a certain way, for the purpose of the accused carrying out his job; the computer was so programmed in the normal course of the work of the A.T.O. and there was an implied authorisation therefrom."
+The section provides for a number of offences including destroying, erasing, altering or inserting data. In each case the section requires that the act be done intentionally and without authority or lawful excuse. In considering whether the act was intentional a sensible reading of the section would require that the particular act, eg inserting the particular data, was intentional rather than the general use of the computer. It can hardly have been the intention of Parliament that the person who intentionally turns on and gains access to the computer but accidentally (eg by pressing the wrong keys) erases or alters data has committed an offence. That is to say, the intention must relate to the particular entry, erasure, alteration etc and this strongly indicates to me that the other pre-conditions, including lack of authority, must also relate to the insertion of the particular data or the particular destruction, erasure, or alteration of the particular data, and not to gaining access to the computer generally.
+[Section 9A](http://www.austlii.edu.au/au/legis/cth/consolact/ca191482/s9a.html) [Summary Offences Act 1966](http://www.austlii.edu.au/au/legis/vic/consolact/soa1966189/) (Vic) provides: "A person must not gain access to, or enter, a computer system or part of a computer system without lawful authority to do so."
+In Director of Public Prosecutions versus Murdoch <case>; [(1993) 1 VR 406] at 409, Hayne
+J said: "In my view, the section does not distinguish between what are colloquially known as "hackers" ......
+and persons who have some authority of some kind to enter the computer system.
+Rather the section invites attention to whether the particular entry or gaining access to the computer system was with or without lawful authority. Where, as is the case here, the question is whether the entry was with permission, it will be important to identify the entry and to determine whether that entry was within the scope of the permission that had been given. If the permission was not subject to some express or implied limitation which excluded the entry from its scope, then the entry will be with lawful justification but if the permission was subject to an actual express or implied limitation which excluded the actual entry made, then the entry will be "without lawful authority to do so", and at 410: "In my view the section requires attention to whether the particular entry in question was an entry that was made without lawful authority. In the case of a hacker it will be clear that he has no authority to enter the system. In the case of an employee the question will be whether that employee had authority to affect the entry with which he stands charged. If he has a general and unlimited permission to enter the system then no offence is proved. If however there are limits upon the permission given to him to enter that system, it will be necessary to ask was the entry within the scope of that permission? If it was, then no offence was committed; if it was not, then he has entered the system without lawful authority to do so."
+In Kennison versus Daire <case>; [(1986) 160 CLR 129], the appellant held an automatic teller machine card which enabled him to withdraw funds from his account from a certain bank by inserting the card and keying in his personal identification number; but it was a condition of his use of the card that the customer's account could be drawn against to the extent of the funds available in that account. The appellant closed the account but subsequently used the card to withdraw funds. It was held that it was not sufficient that the bank had programmed the computer to permit the withdrawal, as the bank consented to the withdrawal by the card holder who presented his personal identification number only if the cardholder had an account which was current, and accordingly the appellant was guilty of larceny. At p 132 the Court said: "The fact that the Bank programmed the machine in a way that facilitated the commission of a fraud by a person holding a card did not mean that the Bank consented to the withdrawal of money by a person who had no account with the Bank. It is not suggested that any person, having the authority of the Bank to consent to the particular transaction, did so. The machine could not give the Bank's consent in fact and there is no principle of law that requires it to be treated as though it were a person with authority to decide and consent."
+Similarly here the computer could not give the authority; such authority had to come, if at all, from the appellant's superiors or departmental procedure, and that authority was only to enter code 43 when relief had been granted.
+See also Barker versus The Queen <case>; [(1983) 153 CLR 338] where it was held that a person whose entry to premises is authorised for a particular purpose enters as a trespasser if he enters for any other purpose.
+In this case the applicant had a limited authority to make entries into the computer and therefore, by going outside the limitations imposed, he was acting without authority. The nineteen charges before the Court charged the appellant, not with gaining access to the computer and not with entering relief code 43, but with the entering of relief code 43 on nineteen specified occasions and, accordingly, it is the making of each of those nineteen specified entries which must be authorised, and not merely gaining entry to the computer or entering relief code 43 generally.
+I am therefore satisfied that the effect of s 76C is that the "authority" referred to is authority to destroy, erase, alter or insert the particular data; and general authority to gain access to or use the computer is not sufficient if the particular entry etc is not authorised.
+That this is the meaning of the provision is confirmed by a consideration of relevant extrinsic material: [Acts Interpretation Act 1901](http://www.austlii.edu.au/au/legis/cth/consolact/aia1901230/), <case> AB(1)(a).
+In his second reading speech on the Crimes Legislation Amendment Bill which became Act No 108, 1989 the then Attorney General said (Hansard May 1989 at 2543) that the provisions in the bill relating to computer offences followed substantially the recommendations of the Interim Report of the Committee for the Review of Commonwealth Criminal Law chaired by Sir
+Harry
+Gibbs (November 1988) which said at 4.52: "The first offence would be intentionally and without authority to obtain access to data in a Commonwealth computer ...... Access without authority would include the case of a person who has limited authority, but knowingly exceeds that authority in making the access in question".
+
+The Attorney General referred to the ease with which access to restricted information in computer records by unauthorised persons could be obtained simply by ingenuity in overcoming technical barriers and went on: "Such access might be obtained from inside an Organisation by persons prepared to exceed a limited access authority or through the telephone communication system by external hackers."
+For these reasons
+I am satisfied that on the proper construction of <case> a person commits an offence if he lacks the authority to insert the particular information into a computer, notwithstanding that he has general authority to insert other information into such computer; and that an entry intentionally made without lawful excuse and known to be false is made without lawful authority.
+Accordingly I would answer the question asked in the Stated Case "No" and remit the matter to the District Court to be dealt with accordingly.
+JUDGE2
+HUNT CJ AT CL I agree with the orders proposed by Dunford J, for the reasons which he has given.
+I refer to one further argument that Dr Woods QC put to this Court, based upon the decision of the High Court in the University of New South Wales v
+Moorhouse <case>; [(1975) 133 CLR 1.] That was a case in which the university had been sued for a breach of copyright by Mr Moorhouse and his publisher for permitting the students at the university to copy on a photocopy machine a book written by Mr Moorhouse. At p 13, Gibbs J said that: "...
+a person who has under his control the means by which an infringement of copyright may be committed - such as a photocopying machine - and who makes it available to other persons, knowing, or having reason to suspect, that it is likely to be used for the purpose of committing an infringement, and omitting to take reasonable steps to limit its use to legitimate purposes, would authorise any infringement that resulted from its use." 
+That principle, it was submitted, would be applicable to the facts of this case.
+There is nothing in the Stated Case which would support the application of such a principle in this case. This
+Court is not to have regard to maters outside the Stated Case. If an appellant wants to rely upon express or implicit findings made by the judge, it is his obligation to ensure that those findings are expressed by the judge in the Stated Case. (Regina versus Alexander
+William Madden CCA 15 December 1995 p 6).
+The Orders of the Court are as proposed by Dunford J. The Court orders the appellant to pay the respondent's costs of the Stated Case.
+JUDGE3
+ALLEN J I agree with both Hunt CJ at CL and Dunford J.
+ * * * 
+AustLII: [Copyright Policy](/austlii/copyright.html) |
+[Disclaimers](/austlii/disclaimers.html) |
+[Privacy Policy](/austlii/privacy.html) |
+[Feedback](/austlii/feedback.html)  
+URL: http://www.austlii.edu.au/au/cases/nsw/NSWSC/1996/55.html  

@@ -1,0 +1,482 @@
+
+
+Wang versus Kaymet Corporation Pty Ltd [2015] NSWSC 1459 (6 October 2015) 
+Last Updated: 7 October 2015 
+Supreme Court 
+New South Wales  
+Decision: 
+Proceedings to be dismissed  
+Catchwords: 
+CONTRACT - contracts for the purchase of units "off the plan" - completion subject to registration of draft strata documents - contractual obligation that before completion vendor must procure construction of building in a proper and workmanlike manner and generally in accordance with the development consent - further contractual provision that the defendants must use "reasonable endeavours" to register draft strata documents by a specified date for registration - proper construction of the contract - whether defendants' failure to construct the building generally in accordance with terms of development consent necessarily constitutes a breach of their obligation to use "reasonable endeavours" - nature of the obligation to use "reasonable endeavours"; VENDOR and PURCHASER - whether defendants purported rescission of the contracts on the basis that strata documents were not registered by the specified dates for registration was valid - whether the defendants failed to use "reasonable endeavours" to register the draft strata documents by the relevant dates - whether the strata documents could have been registered by the relevant dates had the defendants used reasonable endeavours; EVIDENCE - whether Ferrcom inference should be drawn in circumstances where a matter was not addressed in affidavit material or evidence-in-chief, but witness was taken to the matter in cross-examination  
+JUDGMENT 
+Introduction
+Between 23 November 2009 and 1 April 2010, the plaintiffs exchanged contracts with the defendants for the purchase "off the plan" of a total of 34 of 94 residential apartments proposed to be constructed on a site at Lusty Street, Wolli Creek ("the Site"). Each contract was, relevantly, in the same terms.
+The Site is level and roughly rectangular. On the northern boundary, immediately adjacent to the Site, is the East Hills railway line. Immediately beyond the railway line is Wolli Creek. The Site has a high water table. Prior to construction, ground water was located at depths ranging from 1.1 metres to 1.2 metres below existing surface levels. The Site is roughly the lowest point in the surrounding area.
+Each of the contracts contained a clause requiring completion 21 days after the date on which the defendants served on the purchaser's solicitors notice that the relevant strata plan had been registered. The contracts also contained a condition that the defendants use their "reasonable endeavours" to register "draft Strata Documents" by the "Date for Registration".
+The contracts further provided that if "for any reason" the draft Strata Documents were not registered by the Date for Registration, either party could rescind.
+The draft Strata Documents were not registered by the Date for Registration, or at all. The defendants have now purported to rescind each of the contracts.
+The question for determination in these proceedings is whether the defendants were entitled to take this step.
+It is common ground that the apartments are now worth more than the contract price. However, it is no longer any part of the plaintiffs' case that the defendants deliberately delayed work on the project so as to be in a position to rescind the contracts and sell into the rising market. That submission was foreshadowed in opening and repeated in the first iteration of written closing submissions. However, Mr McInerney SC, who appeared with Mr Jacobs for the plaintiffs, did not put that proposition to any of the defendants' witnesses. He accepted that, accordingly, the submission could not be maintained.
+
+The key contractual provisions
+Clause 41 of the contracts provided that, relevantly, completion was to take place 21 days after the "Service Date", which was defined in cl 30 to mean "the date on which the purchaser's solicitor is served with notice of the registration of the Strata Plan".
+Clause 50 was headed "Schedule of Finishes" and provided, relevantly: "50.1 ...before completion, the vendor must: cause the Property and Common Property to be finished as specified in the Schedule of Finishes".
+Clause 51 was headed "Construction" and was in the following terms: "51.1 Before completion, the vendor must construct or procure the construction of the Building in a proper and workmanlike manner, generally in accordance with the Development Consent.  .2 The parties agree that the issue of an Occupation Certificate and the registration of the Strata Plan shall be conclusive evidence that the vendor has complied with its obligations under this clause."
+Clause 52 was headed "Registration of Strata Documents" and was, relevantly, in the following terms: "52.1 Completion of this contract is subject to and conditional on the registration of the Strata Documents at Land & Property Information, NSW on or before the Date for Registration. The vendor will use its reasonable endeavours to register the draft Strata Documents by the Date for
+Registration. If the Strata Documents are not registered by the Date for
+Registration or any extension granted under clause 52.2, the vendor is not in breach of this contract and the purchaser's only right is to rescind this contract under the provisions of the following sub-clause.  .2 Subject to clause 52.3 the vendor can serve a notice or notices extending the Date of Registration if construction of the building or registration of the Strata Documents is delayed in whole or part because of any cause, matter or thing beyond the control of the vendor.  .3 The Date of Registration specified in any vendor's notice cannot extend the original Date of Registration beyond a period of 6 months after that original date.  .4 If the draft Strata Documents are not registered by the Date for
+Registration or any extension granted under clause 52.2 for any reason, either party may rescind this contract by serving written notice on the other party at any time before the Strata Plan is registered."
+In each contract, the Date for Registration was 30 months from the date of exchange. Under cll 52.2 and 52.3, the defendants were entitled to extend the Date for Registration by a further six months. There is no evidence that the defendants took this step.
+The dates on which each of the plaintiffs exchanged contracts, the relevant Dates for Registration and the dates on which the defendants purported to rescind the contracts are summarised in the following table: 
+UNIT NO.
+
+NAME OF PURCHASER 
+EXCHANGE DATE 
+DATE FOR REGISTRATION 
+RESCISSION OF CONTRACT  ---|---|---  
+Xiaoyan Xi and 
+Bin Wang /11/2009 /05/2012 /04/2014  
+Yu Di Xi and 
+Qian Li Yan /11/2009 /05/2012 /04/2014  
+Kai Jie Gu and 
+Liw Ye Lin /11/2009 /05/2012 /04/2014  
+Yanchong Wei /11/2009 /05/2012 /05/2013  
+Zhen Jiang Li /11/2009 /05/2012 /04/2014  
+Liang Qiao /11/2009 /05/2012 /03/2013  
+Meng Shi /12/2009 /06/2012 /03/2013  
+Jie Ma and 
+Qian Lan /12/2009 /06/2012 /03/2013  
+Xiaozheng Lao /12/2009 /06/2012 /04/2014  
+Lisa Chan and Peter Ray /12/2009 /06/2012 /04/2014  
+Qi Wang (Seven) and Jue Li /12/2009 /06/2012 /03/2013  
+Jia Jia Ye /12/2009 /06/2012 /03/2013  
+Chao Lu Ye /12/2009 /06/2012 /04/2014  
+Na Lu /12/2009 /06/2012 /04/2014  
+Yingqi Wang /12/2009 /06/2012 /04/2014  
+Boying Gu and Yonglan Shen /12/2009 /06/2012 /04/2014  
+Lili Gu and Weidong Li /12/2009 /06/2012 /03/2013  
+Siping Xia /12/2009 /06/2012 /03/2013  
+Siping Xia /12/2009 /06/2012 /03/2013  
+Hai Xu /01/2010 /07/2012 /04/2014  
+Jiannan Zhang /01/2010 /01/2012 /04/2014  
+Tianjiao Liu /01/2010 /07/2012 /04/2014  
+Shaocong Zhou /02/2010 /08/2012 /04/2014  
+Boying Gu /02/2010 /08/2012 /03/2013  
+Wei Huang and Can Zhao /02/2010 /08/2012 /03/2013  
+Xiaoyan Xi and 
+Bin Wang /02/2010 /08/2012 /03/2013  
+Yijie Wang /03/2010 /09/2012 /04/2014  
+Helen Hoi Peng Fong /03/2010 /09/2012 /03/2013  
+Junfeng Wang and Wen Shi /03/2010 /09/2012 /03/2013  
+Ling Xu /04/2010 /10/2012 /04/2014  
+Ahmed Nizamuddin /04/2010 /10/2012 /03/2013  
+Alexander Lissaman /04/2010 /10/2012 /04/2014  
+Liu Qing Xu (Lisa) /04/2010 /10/2012 /03/2013  
+Jian Zhong Wu /04/2010 /10/2012 /04/2014 
+Clause 34.1 is an "entire agreement" clause in the following terms: "The purchaser acknowledges and agrees that as at the date of this contract, the terms and conditions set out in this contract contain the entire agreement between the parties in relation to the Property notwithstanding any negotiations or discussions held or documents signed or brochures produced or statements made prior to the purchaser's execution of this contract".
+Clause 35.5(b) is also relevant and provides: "The vendor may, at any time prior to the completion of construction of the
+Building, make application to [Rockdale City Council]...to vary the terms of the Development Consent in such manner as the vendor deems appropriate".
+
+The proper construction of the contracts
+There was debate before me as to the proper construction of the contracts.
+The question of when completion was to take place was governed by the clauses I have set out at [8] above; completion was to take place within 21 days of the vendor serving on the purchasers' solicitors notice that the strata plan had been registered.
+In that regard, the second sentence of cl 52.1 imposed on the defendants an obligation to use "reasonable endeavours" to register the draft Strata Documents by the Date for Registration.
+The effect of this sentence was that the defendants were obliged to use their reasonable endeavours to do whatever was necessary to enable the draft Strata Documents to be registered by the relevant date. That may well have included causing the "Property" and "Common Property" to be finished (as required by cl 50.1) and the construction of the building to be completed (as required by cl 51.1) in a proper and workmanlike manner. However, in my opinion, neither cll 50.1 nor 51.1 is directed to the question of when completion was to take place. Those clauses merely set out what state of affairs must exist "before completion".
+Mr McInerney argued that the defendants were in breach of cl 51.1 of the contracts, and that it followed that they had not used their reasonable endeavours for the purposes of the second sentence of cl 52.1.
+I do not agree.
+First, the evidence does not establish that the defendants did not construct the building in a proper and workmanlike manner. That obligation was directed to the quality of the building. The plaintiffs do not complain about the quality of the building as constructed; this is not a "defects" case.
+The plaintiffs did establish that the building was not constructed in accordance with the relevant development consent (as required by cl 51.1). Mr William Metlej, the fourth defendant and a director of the first defendant, Kaymet Corporation Pty Ltd, admitted that the defendants did not adhere to a "Dewatering Management Plan" devised by Civil Foundations Pty Ltd (discussed below). This was a requirement of RailCorp's conditions of consent to the project, and thus a condition of the development consent granted by Rockdale City Council on 20 August 2008 ("the Development Consent"). Mr Metlej also admitted other departures from the Development Consent.
+However, it does not, in my opinion, necessarily follow from this that the defendants failed to use reasonable endeavours to have the Strata Documents registered by the Date for Registration.
+If the failure to construct the building generally in accordance with the Development Consent caused a delay in progress of the works, or itself prevented or delayed registration of the Strata Documents, that may show a causative want of reasonable endeavours. That involves a question of fact, and examination of the progress of the works. For example, the plaintiffs do contend that the defendants' failure to adhere to Civil Foundations' Dewatering Management Plan caused delay; I consider that argument below.
+However, I do not accept the plaintiffs' contention that the fact that the defendants constructed the building otherwise than strictly in accordance with the Development Consent (assuming that this constituted a breach of the defendants' obligations under cl 51.1), without more, bespeaks a breach of the defendants' "reasonable endeavours" obligation under cl 52.1.
+Mr McInerney submitted that, nonetheless, by reason of the defendants' admitted breach of cl 51.1, the plaintiffs are now entitled to a decree of specific performance. But any such decree would be limited to compelling the defendants to perform their obligation to construct the building "generally in accordance with the Development Consent". It would be futile to so order, as the building is now complete and no complaint is made about its quality. The plaintiffs have not established, or even alleged, that the departure by the defendants from the terms of the Development Consent caused the building to be constructed defectively. As I have said, this is not a defects case.
+For the reasons I set out below, in my opinion, on the proper construction of the contracts, the sole matter relevant for me to consider is whether, as a matter of fact, the defendants used their reasonable endeavours to register the draft Strata Documents by the Date for Registration, as required by the second sentence of cl 52.1.
+If they did not, the question arises as to the nature of the plaintiffs' remedies. That question directs attention to the proper construction of the third sentence of cl 52.1, and of cl 52.4.
+Before turning to those issues of construction, I should make two further points.
+The first is that, as Mr McInerney accepted, it was for the plaintiffs to prove that the defendants did not use their reasonable endeavours to register the draft Strata Documents by the Date for Registration.
+However, as McLelland CJ in Eq said in Hunyor versus Tilelli (1997) 8 BPR 15,629 (referring to the familiar statement in Blatch versus Archer <case>; [(1774) 1 Cowp 63] "It is necessary however to bear in mind that all evidence is to be weighed according to the proof which it was reasonably within the means of one party to produce or of the other to contradict. This has particular significance in respect of evidentiary facts which are peculiarly within the knowledge of one party rather than the other (see eg Apollo Shower Screens [Pty Ltd] v
+Building & Construction Industry Long Service Payments Corporation [(1985) 1 NSWLR 561...).]"
+The second is that Mr McInerney drew my attention to the decision of the Queensland Court of Appeal in Williamson & McGillivray versus JIA Holdings Pty Ltd  <case>, which, Mr McInerney submitted, was authority for the contentions set out at [20] and [26] above.
+In that case, Chesterman JA (with whom Fraser JA and Wilson AJA agreed) considered a case similar to this and, in particular, a clause similar to cl 51.1 (although the words in that clause were "by the Completion Date" rather than "before completion"). In the circumstances of that case, Chesterman JA concluded that the failure by the builder to cause the building to be constructed "by the completion date" was an anticipatory breach of the contracts, entitling the purchasers to damages. However, as Chesterman JA emphasised at several points in his judgment (see for example [28], [30], [39] and [40]), the builder in that case did not purport to terminate the contracts under the clause equivalent to cl 52.4 of the contracts in this case. In the paragraphs to which I have referred, his Honour made clear that his decision as to the significance of the builder's failure to construct the building "by the completion date" may have been different had the builder purported to terminate. Accordingly, I do not see this decision as casting any light on the correctness, or otherwise, of the plaintiffs' contention set out at [20] and [26].
+
+Clause 52 of the contracts 
+The second sentence
+As I have said, the second sentence of cl 52.1 of the contracts imposed upon the defendants an express obligation to use their "reasonable endeavours" to register the draft Strata Documents by the relevant date.
+For that reason, it was not necessary, in my opinion, for the plaintiffs to have resort to any implied obligation of the defendants to cooperate (for example see Mackay versus Dick [(1881) 6 App Cas 251] per Isaacs J at 430; see generally K Lewison and D Hughes, The Interpretation of Contracts in Australia, (2012, Lawbook Co.) at 3.13 and J W Carter, The Construction of Commercial Contracts, (2013, Hart Publishing) at [10-28].
+It has been observed that "[c]hallenges to rescissions of 'Off-the-Plan' contracts for the sale of residential units which are yet to be constructed frequently come before the Equity Division" (per Bryson J (as his Honour then was) in Schenk versus ACN 081 123 140 Pty Ltd <case> at <case>).
+Of course, each case must be considered in light of the particular terms of the relevant contract. Many cases have been decided on the basis of the Court's conclusion that, in a rising market, the defendant vendor's object in purporting to rescind was to sell into that rising market (for example see Schenk at [34]; Munro versus Bodrex Pty Ltd <case> at <case>). As I have explained at [7] above, that argument is not available to the plaintiffs in this case.
+Here, the obligation of the defendants was to use "reasonable endeavours" to register the Strata Documents by the Date for Registration; rather than "everything reasonably necessary" (Hawes versus Cuzeno Pty Ltd <case>; Masters versus Belpate Pty Ltd <case>, "everything reasonable" (Hardy versus Wardy  <case>, affirmed on appeal in Wardy versus Hardy <case>; AJDJ Pty Ltd versus Pacific West Developments Pty Ltd <case>, "with reasonable expedition" (Schenk), "all reasonable endeavours" (Gauld versus Obsidian Holdings Pty Ltd <case>, or "best endeavours" (Transfield Pty Ltd versus Arlo International Ltd <case>; [(1980) 144 CLR 83] Lewison QC (as his Lordship then was) sitting as a Deputy High Court Judge, at 159; cited with approval in Rhodia International Holdings Ltd versus Huntsman International LLC [2007] EWHC 292 per Flaux QC (as his Lordship then was), also sitting as a Deputy High Court Judge, at <case> at <case> to [300]. His Honour expressed the view that "an obligation to use 'reasonable endeavours' is not as onerous as one to use 'best endeavours' or 'all reasonable endeavours'" (at [283]).
+I doubt, especially in the context of the facts in this case, that there is any distinction of substance to be drawn between these expressions. Ultimately, neither Mr McInerney nor Mr Corsaro SC, who appeared with Mr Bambagiotti and Mr Auld for the defendants, suggested there was.
+In the recent case of Electricity Generation Corporation versus Woodside Energy Ltd <case>; [251 CLR 640], the High Court considered the expression "reasonable endeavours". Argument proceeded upon the basis that substantially similar obligations were imposed by the terms "reasonable endeavours" or "best endeavours (or efforts)" (at [40]).
+In relation to an obligation to use "reasonable endeavours", the High Court said at [41] to [43]: "Three general observations can be made about obligations to use reasonable endeavours to achieve a contractual object. First, an obligation expressed thus is not an absolute or unconditional obligation. Secondly, the nature and extent of an obligation imposed in such terms is necessarily conditioned by what is reasonable in the circumstances, which can include circumstances that may affect an obligor's business. This was explained by Mason J in Hospital
+Products Ltd versus United States Surgical Corporation <case>; [156 CLR 41]], which concerned a sole distributor's obligation to use 'best efforts' to promote the sale of a manufacturer's products. His Honour said: 'The qualification [of reasonableness] itself is aimed at situations in which there would be a conflict between the obligation to use best efforts and the independent business interests of the distributor and has the object of resolving those conflicts by the standard of reasonableness...It therefore involves a recognition that the interests of [the manufacturer] could not be paramount in every case and that in some cases the interests of the distributor would prevail.' 
+As Sellers J observed of a corporate obligor in Terrell versus Mabie Todd &
+Co Ltd [(1952) [69 RPC 234]], an obligation to use reasonable endeavours would not oblige the achievement of a contractual object 'to the certain ruin of the Company or to the utter disregard of the interests of the shareholders'. An obligor's freedom to act in its own business interests, in matters to which the agreement relates, is not necessarily foreclosed, or to be sacrificed, by an obligation to use reasonable endeavours to achieve a contractual object. 
+Thirdly, some contracts containing an obligation to use or make reasonable endeavours to achieve a contractual object contain their own internal standard of what is reasonable, by some express reference relevant to the business interests of an obligee."
+In this case, the defendants' obligation under cl 52.1 to use "reasonable endeavours" must also be read in light of cl 35.5(b), which permitted the defendants to make an application to the Council to vary the terms of the Development Consent "at any time prior to the completion of construction of the Building".
+
+The third sentence
+Mr Corsaro submitted that the third sentence of cl 52.1 was a "complete answer" to the plaintiffs' claim.
+The third sentence reads, relevantly: "If the Strata Documents are not registered by the Date for
+Registration...the vendor is not in breach of this contract and the purchaser's only right is to rescind this contract under the provisions of the following sub-clause."
+Mr Corsaro submitted that the effect of this clause is that "whatever the reason for not registering the Strata Documents, the Defendants are not in breach of the contract, and the purchaser's only right is to rescind". In other words, even if the reason the Strata Documents were not registered by the Date for Completion was that the defendants failed to use their reasonable endeavours to do so, and even if this was deliberate, the defendants would not thereby be in breach of the contracts and the plaintiffs' only right would be to rescind.
+I do not accept that submission. Such a construction would attribute to the parties an intention that performance by the defendants of their obligations under the contracts was, for all practical purposes, optional. It would attribute to the parties an intention that the defendants could (for example, in a rising market) simply down tools, ignore their obligation to use reasonable endeavours to finish the project by the time agreed, and walk away from the contracts with impunity. To adopt the words of Bryson J in Hardy versus Wardy, it would result in a situation where "the vendor could escape his obligations so easily that only the purchaser's obligations would have any real meaning and the contract would only have a bilateral character only in appearance" (at [11]). His Honour was speaking in the context of implied contractual terms, rather than construction of express terms. However, his Honour's words are nonetheless apposite.
+This would be a commercially irrational and highly unreasonable result. It would permit the defendants to take advantage of a breach of their express, and vital, obligations under the contracts (see, generally, Lewison and Hughes, The Interpretation of Contracts in Australia, at [2.06], [7.09] and [7.16]).
+I would not attribute such an intention to the parties unless their words compelled such a conclusion. In my opinion, they do not.
+The third sentence of cl 52.1 is in my opinion directed only to the circumstances assumed, indeed mandated, by the preceding sentence, which imposed on the defendants an obligation to use reasonable endeavours to register the Strata Documents by the relevant date. Thus, the effect of the third sentence of cl 52.1 is that, assuming that the defendants did use reasonable endeavours to register the Strata Documents by the relevant date, but that nonetheless they were unable to do so, then the defendants would not be in breach of the contracts. In those circumstances the purchasers' only right would be to rescind. The effect of the third sentence is thus that the mere fact that the Strata Documents were not registered by the Date for Registration does not, without more, render the defendants in breach of the contracts or give the plaintiffs an entitlement to do more than rescind.
+In my opinion, the third sentence of cl 52.1 is not directed to, and says nothing about, the plaintiffs' rights in circumstances where the defendants have not complied with their obligation to use reasonable endeavours.
+
+Clause 52.4
+In that context, a question arises as to the proper construction of cl 52.4 and its relationship with the third sentence of cl 52.1.
+Clause 52.4 provided that either party could rescind the contract: "If the draft Strata Documents are not registered by the Date for
+Registration or any extension granted under cl 52.2 for any reason".
+Mr McInerney submitted that the word "or" in the third sentence of cl 52.1 and in cl 52.4 should be construed as "and" (that is, conjunctively and not disjunctively). Mr McInerney developed a complicated argument that those clauses, so read, should be construed so as only to entitle either party to rescind in circumstances where the defendant vendors had given a notice under cl 52.2 extending the Date for Registration.
+I see no reason to so construe those clauses. In my opinion, this aspect of the contracts is clear. Clause 52.4 is addressed to two possible circumstances. The first is that the Strata Documents are not registered by the Date for Registration. The second is that the defendants have extended the Date for Registration under cl 52.2, and that the Strata Documents are not registered by that extended date. The clause provides that if "for any reason" either of those states of affairs exists, either party can rescind. I do not agree that the entitlement to rescind depends upon whether the defendants exercised their right to extend the Date for Registration under cl 52.2.
+ "For any reason"
+Read literally, cl 52.4 entitled either party to rescind the contracts if for "any" reason the Strata Documents were not registered by the Date for Registration; that is, even if the Strata Documents were not so registered because the defendants failed to use reasonable endeavours.
+Thus, Mr Corsaro submitted, alternatively to his argument set out at [49] above, that "where the Defendants have not registered the Strata Documents in time, and have not used reasonable endeavours, then either party may rescind and the purchaser can sue for damages".
+That submission is not attractive. Its effect is that cl 52.4 should be construed so as to entitle the defendants to rescind and relegate the plaintiffs to an action in damages, even if the defendants deliberately delayed progress of the project so as to ensure that the Date for Registration passed without registration of the Strata Documents.
+For the same reasons that I did not accept Mr Corsaro's submission concerning the third sentence of cl 52.1, I do not accept this submission. Mr Corsaro's construction would attribute to the parties, and particularly the plaintiffs, the intention that the defendants could choose whether or not to use reasonable endeavours to progress works so that the Strata Documents could be registered by the Date for Registration.
+These are contracts for the purchase by the plaintiffs of land. The plaintiffs did not contract for a right to sue the defendants in damages; they contracted to buy particular lots in the development.
+In that regard, Mr McInerney drew my attention to the observations of Dr I C F Spry in The Principles of Equitable Remedies: Specific Performance, Injunctions, Rectification and Equitable Damages, (9th ed 2014, Lawbook Co.) at p 63: "But land is property that has a fixed location and a special value, and ordinarily at least damages are not to be regarded as an adequate substitute for the right either to acquire or dispose of an interest in it. Even indeed if the purchaser intends to purchase the land in question merely in order to be able to sell it later at a profit, damages are not regarded as an adequate remedy for him." [Citing, relevantly, Adderley versus Dixon <case>; [(1824) 1 Sim & St 607] and
+Pianta versus National Finance & Trustees Limited  <case>; [180 CLR 146] at per Barwick CJ]
+Mr McInerney also drew my attention to the observations of Windeyer J in Coulls versus Bagot's Executor & Trustee Company Ltd <case>; [(1967) 119 CLR 460] at 504: "The primary obligation of a party to a contract is to perform it, to keep his promise. That is what the law requires of him. If he fails to do so, he incurs a liability to pay damages. That however is the ancillary remedy for his violation of the other party's primary right to have him carry out his promise. It is, I think, a faulty analysis of legal obligations to say that the law treats a promisor as having a right to elect either to perform his promise or to pay damages. Rather...the promisee has 'a legal right to the performance of the contract'." [Citations omitted]
+Further, it is well established in "off the plan" cases such as this that a vendor's right to rescind by reason of the development not being completed by the nominated date may be lost when the reason that the development has not completed is the vendor's breach of a causally related obligation under the contract. Those cases include those I have mentioned at [40], as well as the seminal decisions of McLelland CJ in Eq in Plumor Pty Ltd versus Handley [(1996) 41 NSWLR 30] and Hunyor.
+Bryson J summarised the position in Schenk as follows: "Each of many decisions in this field is a decision on the particular contract in question, but some recurringly important general principles, which are applicable in the present case, were stated in Plumor Pty Ltd v
+Handley...at 34 and 35 by McLelland CJ in Eq. The principles there stated and now relevant are to the effect that a party to a contract is not entitled, as against the other party, to rely on an event resulting from the first party's wrongful act; that if the failure by the rescinding party to obtain some relevant consent or registration within the contractual period resulted from any default by him in the performance of express or implied obligations, that party is not entitled to exercise a right of rescission otherwise available; and that causation of the failure to obtain consent or registration by the wrongful act must be proved unless the terms of the contract make obtaining the consent or registration a condition for the exercise of the right of rescission."
+In those circumstances, I cannot accept that the parties intended the result that would follow from Mr Corsaro's suggested construction. I would construe the words "for any reason" to mean "for any reason not attributable to the default of the party seeking to rescind". There could be many such reasons.
+So construed, cl 52.4 does duplicate the third sentence of cl 52.1 (as I have construed it) to some extent, insofar as it restates the plaintiff purchasers' rights. But it also makes clear that if, despite using their best endeavours, the defendant vendors cannot procure registration of the Strata Documents by the Date for Registration, they too can rescind.
+Clause 52.4 should not, in my opinion, be construed so as to allow the defendants to rescind the contracts if the reason the Strata Documents have not been registered by the Date for Registration is their own failure to use reasonable endeavours to achieve that result.
+
+Conclusions on construction
+For those reasons, my opinion is that for the plaintiffs to succeed, they must establish that the defendants failed to use their reasonable endeavours to cause the Strata Documents to be registered by the Date for Completion.
+To show that such a breach is material, the plaintiffs must also show that, had the defendants used their reasonable endeavours, the project would have reached the stage where the Strata Documents could have been registered by the Date for Completion relevant to each plaintiff's contract: that is, by 23 May 2012 at the earliest (in the case of the purchasers first to exchange contracts; Xiaoyan Xi and Bin Wang in respect of Unit 7) and 1 October 2012 at the latest (in the case of the purchaser last to exchange contracts; Jian Zhong Wu in respect of Unit 84).
+If any of the plaintiffs can establish these matters, it would follow that the defendants were not entitled to rescind the contracts, that the contract or contracts in question remain on foot, and that the particular plaintiff or plaintiffs is or are entitled to specific performance.
+Determination of the actual date on which the defendants could have caused the Strata Documents to be registered is complicated. Although I asked counsel several times for guidance as to precisely what was necessary for the defendants to achieve in order to register the Strata Documents, I was provided with no clear answer. The fact is that the Strata Documents are still not registered.
+However, there is no suggestion in the evidence that the Strata Documents could have been registered by 1 October 2012 (the last of the Dates for Completion). Indeed, the evidence suggests that the project was nowhere near that stage on 1 October 2012. On 9 October 2012, Washington Brown (quantity surveyors engaged by Westpac Banking Corporation, the defendants' financier) reported that work was only 69 per cent complete and that the then forecast completion date was 21 March 2013. On 28 June 2013, Washington Brown reported to Westpac that work was then 98 per cent complete and that the forecast completion date was 26 July 2013. An interim Occupation Certificate was issued on 19 July 2013 and a final Occupation Certificate on 2 July 2014.
+As best I can make out, it would not have been possible for the defendants to cause the Strata Documents to be registered until, at least, around this time; that is, some 14 months after the earliest Date for Registration and some 9 months after the latest Date for Registration. Thus, the plaintiffs must show that the delay caused by the defendants' failure to use reasonable endeavours was in that order.
+
+The defendants
+The defendants purchased the Site in around 2008. The Site was acquired and owned by the following as tenants in common: * (a) the first defendant, Kaymet, as to 50 per cent; * (b) the second, third and fourth defendants, Mr Toufic (also known as Terry) Kayrouz, Mr Lichah Kayrouz and Mr William Metlej, together with the late Mr Youssef Metlej, as trustees for the Kaymet Unit Trust as to 50 per cent.
+Mr Terry Kayrouz and Mr Lichah Kayrouz are brothers. The late Mr Youssef Metlej was Mr William Metlej's father.
+Kaymet was incorporated in 2007. The development of the Site was its first project. Mr Terry Kayrouz and Mr William Metlej are now the sole directors of Kaymet. Mr Lichah Kayrouz and Mr Youssef Metlej were also directors of Kaymet at the time the Site was acquired.
+Mr Terry Kayrouz is a builder and has held a builders licence since approximately 1973. Mr Kayrouz has been involved in property development since then; and since the mid 1990s with Messrs Metlej.
+Mr William Metlej holds a Bachelor of Economics and is a certificated practising accountant. He has held a builders licence for approximately 25 years. He began property development in approximately 1986 with his father, who had himself been a property developer for some 26 years before that. Between 1994 and 1998, Mr Metlej worked as a site foreman for the Meriton Group, and thereafter returned to property development with his father.
+As, for the most part, only Mr William Metlej and Mr Terry Kayrouz feature in what follows, I will refer to them simply by their surnames.
+The commercial arrangements between the Kayrouz and Metlej families were informal.
+In relation to the commercial arrangements, Mr Kayrouz said: "I generally only develop with people that I know well and that I can trust.
+This extends to the people that I develop projects with, as well as the contractors and suppliers that I engage. Most of the administration of these projects is on the basis of personal relationships, as I find that with a strong personal relationship, less time is wasted with procedure and formality, but the work is better than with people I don't know well."
+Of developments undertaken by the Kayrouz and Metlej families, Mr Metlej said: "Often, other members of our respective families participated in the developments. 
+Generally we didn't have any formal job titles or responsibilities: all activities and jobs were shared and we had a collaborative approach. However, some tasks were split based on the experience and relationships we each had, for example, Mr Terry Kayrouz generally dealt with the finance providers when we needed them, Mr Donny Kayrouz [Mr Lichah Kayrouz's son and Mr Terry
+Kayrouz's nephew] would generally deal with the day to day requirements of getting any approvals we needed (including Development Application approvals and relevant licences) and I would generally work on site and sort out operations issues."
+The defendants acted as both developers and builders. Mr Kayrouz and Mr Metlej were primarily responsible for the project, with Mr Metlej having responsibility for day to day management of the Site.
+There was no building contract or formal program for the works. Mr Metlej said: "I didn't formally prepare a program for the works, and it is now my usual practice not to, as I have sufficient experience in managing and sequencing the works on a site I don't need to rely on one anymore."
+The defendants did not maintain an extensive documentary record of the works.
+In cross-examination, Mr Metlej said: "...all the stuff on site was destroyed on site and we don't keep papers.
+Once they're in the computer, that's it."
+It was submitted on behalf of the defendants: "The effect on the progress of the work by events such as late delivery, congestion, wind, and rain, [was] not documented or memorialised, or therefore analysed and justified. The principal, Mr Metlej, knew of the problems, and merely adapted the building strategy to cope with them as best he could. 
+For example, there was no documentary obligation to ask for or justify extensions of time. The builder/developer knew of them already. Therefore, it is not surprising that the kind of documentary trail that one might expect in some other kind of project (with a remote principal and third party participants) was not generated and did not emerge in this case. 
+This is the way that the Defendants' business model obviously worked, and obviously has worked over time."
+I accept that submission as a fair summary of the position revealed by the evidence.
+Both Mr Kayrouz and Mr Metlej gave evidence before me and were cross-examined.
+Both impressed me as straightforward, honest witnesses. I have no hesitation in accepting their evidence.
+
+Background
+The defendants purchased the Site with knowledge of geotechnical reports prepared in 2004 by Geotechnique Pty Ltd. Those reports identified the ground water levels to which I have referred, and said that "groundwater inflow can be anticipated during excavation". The reports recommended various "dewatering methods".
+One of the Geotechnique reports stated that: "Dewatering may be carried out using Spear Points, large diameter wells or sump and pump methods. The sump and pump method is generally preferable from an economic point of view."
+The defendants sought development approval from the Council. Because of the Site's proximity to the railway line, the Council sought RailCorp's concurrence for the development.
+In a letter from RailCorp to the Council dated 24 April 2008, RailCorp observed that the Geotechnique reports did not relate to the development proposed by the defendants and called for preparation of a revised geotechnical report.
+Thus, Brink & Associates Pty Ltd, and a related company, Aargus Pty Ltd (together "Brink"), carried out further geotechnical analysis and groundwater modelling.
+In a report dated 2 June 2008, Brink echoed Geotechnique's recommendation of dewatering "by using a sump and pump system or Spear Points connected to a pump of adequate capacity".
+Brink also made other recommendations, including the use of "cut-off walls along the boundaries of the excavation" to prevent water ingress.
+In an Addendum Geotechnical Report dated 3 June 2008, Brink said, concerning dewatering: "Basement excavation dewatering would involve the installation of cut-off walls along the boundaries of the excavation. The cut-off walls are to be founded at [8.4 metres depth]. Excavation dewatering could be carried out using spear points connected to pumps of adequate capacity."
+On 20 August 2008, the Council granted the Development Consent. The Council stipulated that this consent "shall not operate until you satisfy Council about" a wide range of matters. One of those was "a final Geotechnical and Structural report that meets RailCorp's requirements".
+In December 2008, Civil Foundations submitted to Mr Kayrouz a "tender price for design, supply and installation for the complete package of basement works" for the Site.
+Civil Foundations suggested that Mr Kayrouz consider, as an option for the construction of the cut-off wall recommended by Brink, a "CSM Retaining Wall".
+The "CSM", or Cutter Soil Mix technology was then relatively new in Australia. Civil Foundations was the only contractor offering to construct CSM walls at that time.
+In an affidavit sworn in the proceedings, Mr Anthony Derham, a director of Civil Foundations, explained that: "The CSM system involves cutting sections of wall with a special cutter and mixing the spoil produced with cement or grout and with bentonite which is then reinserted into the cut to set and form the wall."
+As I explain below, between March and May 2010 the first step that was taken in the development was the installation by Civil Foundations of the CSM wall, being a "cut-off wall" of the kind recommended by Geotechnique and Brink.
+On 16 July 2009, Civil Foundations provided the defendants and RailCorp with a suggested "Dewatering Management Plan" for the Site.
+In that document, under the heading "Cut-Off Wall Details", Civil Foundations stated: "Civil Foundations are proposing to install a cut-off wall to [8.4 metres depth]. This wall will be installed in a series of 2.8m width interlocking panels, using a Cutter Soil Mixing (CSM) tool. The finished product will be a permanent, impermeable wall of 600mm width."
+Under the heading "Dewatering Method", Civil Foundations stated: "The dewatering of the site will be carried out using a series of spear points, which will be located along the southern boundary of the site."
+As I set out below, the defendants did not use spear points to dewater the Site. Indeed, although they engaged Civil Foundations to construct the CSM wall (and also to install "dead-man anchors" and piling on the Site; see below), they did not adopt Civil Foundations' Dewatering Management Plan. Rather than use spear points, the defendants adopted a sump and pump method, which one of Geotechnique's reports described as "preferable from an economic point of view" to the use of spear points (see [95] above).
+On 9 September 2009, RailCorp wrote to the defendants' architect, Mr Theodore Loucas, as follows: "...I confirm herewith that RailCorp is satisfied following our correspondences and negotiations that agreement has been reached in relation to satisfying the requirements of RailCorp as detailed in these conditions of the [development application]. 
+In relation to this agreement you are reminded that you will be required to adhere to the comments and recommendations of: . The various Geotechnical Reports prepared for this development.  . The Dewatering Management Plan prepared by Civil Foundations Pty Ltd dated 16/7/09. ...
+
+RailCorp will also require that an experienced geotechnical engineer be on site to supervise and monitor the works to ensure that all the recommendations stipulated in the developer's consultant's reports are met".
+On 21 January and 5 February 2009, Civil Foundations submitted to the defendants quotations for, amongst other things, construction of the CSM wall and dewatering of the Site.
+However, the quotation that the defendants ultimately accepted was that of 19 February 2010, which did not include any provision for dewatering. Civil Foundations' quotation noted that dewatering was "not included" but stated that "Civil Foundations will assist in determining the most effective system during excavation". As I set out below, Civil Foundations played an active role in the development.
+Construction commenced in March 2010. By that time, almost all of the plaintiffs had exchanged contracts to purchase units "off the plan" (see [13]). The remaining contracts were executed on 1 April 2010.
+
+Have the plaintiffs established that the defendants failed to use reasonable endeavours?
+As refined in final submission, the plaintiffs complained of a want of reasonable endeavours in respect of 10 specified periods. I shall deal with each in turn.
+The first stage of construction was installation of the CSM wall. Civil Foundations installed the CSM wall between 15 March and 17 May 2010. The plaintiffs make no complaint about the time taken for this work.
+
+First period - between 17 May and 2 August 2010 - dead-man anchors
+Following construction of the CSM wall, the next stages of construction were the installation of dead-man anchors and a capping beam to the top of the CSM wall.
+The function of dead-man anchors was to restrain the CSM wall. Installation of dead-man anchors involves sinking sheets of metal into the ground in a cement base, and welding rods between them and the CSM wall. It was necessary to install dead-man anchors because RailCorp would not permit any intrusion onto its property. The dead-man anchors and the steel rods were attached to I-beams protruding through the top of the CSM wall, and had to be installed before the capping beams were added.
+Mr Metlej explained in cross-examination: "You had to install the dead-man anchor and you had to weld the steel that went in the CSM walls to the dead-man anchor before you started excavation, otherwise, the wall would fall over".
+Mr Metlej agreed that installation of the dead-man anchors could occur immediately following completion of the CSM wall.
+Mr Metlej gave this evidence in cross-examination: "Q. The installation of the capping beams, that takes about, what, a week or so. Is that correct? 
+A. More than a week. 
+Q. About how long? 
+A. About a month."
+Later in cross-examination, Mr Metlej agreed that installation of the dead-man anchors would take "about a week".
+Mr Metlej also agreed that installation of the capping beams commenced on about 2 August 2010 and that the dead-man anchors must have been installed by then. He gave this evidence: "Q. And do [you] agree that a competent builder could have caused the installation of the capping beams to have occurred much earlier than 2 August ? 
+A. No, I don't agree. 
+Q. Do you agree that there's a significant gap in time between when the CSM wall was installed, which was mid-May 2010, until when the capping beam first commenced to be installed on 2 August 2010? 
+A. Yes. But in that period we had to wait for Civil Foundations to bring another machine in, put the sheet piles down, weld the rods and then put concrete in front of the sheet piles."
+Mr Metlej explained that the machine that Civil Foundations used to install the dead-man anchors was a "specialised rig that only does sheet piling" and that it was a different type of rig from that used to install the displacement piles, to which I refer below.
+Mr Metlej agreed that there was a gap in time between when Civil Foundations completed the installation of the CSM wall in May 2010 and installation of the dead-man anchors.
+Later in cross-examination, Mr Metlej gave this evidence in response to questions from me: "Q. You have no idea when between [the] end of CSM wall and... 2 August [the dead-man anchors were installed]? 
+A. No, your Honour. As soon as CSM - sorry. As soon as the anchors were done, the capping beam started. We were at the mercy of Civil Foundations because it was a specialised trade and it was one contract which they had to start and finish. 
+Q. Why didn't you put the dead-man anchor in at the end of May, for example, as soon as the CSM wall finished? 
+A. Civil Foundations I think at the time had a shortage of sheets - the sheet piles - and they didn't have a rig available to come and do the work. 
+Q. So the answer is you couldn't get [Civil Foundations] on the site? 
+A. I couldn't get Civil Foundations to do that section of the work."
+Mr McInerney submitted that I should not accept Mr Metlej's explanation for the delay in installation of the dead-man anchors. Mr McInerney pointed out that in his affidavit evidence, Mr Metlej had not offered any explanation for the delay in installing the capping beams, let alone that which emerged in cross-examination. That is true. In his affidavit, Mr Metlej raised general matters which he said contributed to the time taken to complete the work. Those general matters included "the tight site", "the water logged site", "the delay, and later failure, of the CSM wall", "the soft ground and the piling rig", "the withdrawn [construction certificate] issue", "the crane issue", "the crane and wind speed issue", "the steel issue" and the "local inspector issue". I discuss some of those matters later in these reasons.
+In those circumstances, Mr McInerney asked me draw a "Ferrcom inference". Mr McInerney was referring to the familiar observations of Handley JA in Commercial Union Assurance Co of Australia Ltd versus Ferrcom Pty Ltd  <case> as follows: "Where counsel for a party has refrained from asking a witness whom that party has called particular questions on an issue, the court will be less likely to draw inferences favourable to that party from other evidence in relation to that issue."
+Here, as I have explained, Mr Metlej did not address these questions in his affidavit; nor did he do so in his evidence-in-chief. But Mr McInerney pursued the matter in cross-examination. The evidence that emerged was in response to those questions, and questions that thereafter I asked (set out at [127] above) by way of clarification. Thus, this case is not a matter of drawing inferences favourable to Mr Metlej, or the other defendants, concerning matters not raised in their evidence. It is a matter of assessing the evidence given by Mr Metlej in response to questions put to him.
+As I have said, I found Mr Metlej to be an impressive witness. I see no reason to disbelieve what he said. I accept his evidence that the defendants were delayed in installing the dead-man anchors because they needed to wait for Civil Foundations to have available the rig and raw materials to do the work.
+Mr Derham gave no evidence on this topic; he said nothing in his affidavit about it and, unlike Mr Metlej, was not asked about it in cross-examination.
+The plaintiffs called evidence from a geotechnical engineer, Mr Ross Best, and a civil engineer, Mr Henry Newman, about the progress of the works. Neither Mr Best nor Mr Newman had been to the Site prior to the completion of construction. Both used their skills and experience to draw inferences and express opinions based upon documents made available to them.
+Mr Best said: "Excavation could have commenced immediately following completion of the CSM wall on 17 May 2010 as this provided a barrier to lateral ingress of shallow groundwater. 
+Following installation of the CSM wall a capping beam and deadman anchors were installed. I am not sure of the timing of these works but as they involved activity around the perimeter of the site or outside the excavation I believe they could have been carried out while bulk excavation was in progress.  ... 
+There does not appear to have been any significant site work over the period mid-May to mid-August 2010. ... 
+There is no reason apparent to me preventing excavation from being carried out in earnest some three months earlier than is evident from the records".
+Mr Newman opined that: "The delay that took place between the completion of the CSM wall in mid-May and commencement of the capping beam at the beginning of August 2010 would have most likely caused a delay to the project Critical Path of around .5 months. This does not represent competent practice. A competent builder would program the capping beam to commence directly following the completion of the CSM wall, and possibly earlier if there was adequate space on the site to undertake both activities at the same time."
+In cross-examination, Mr Metlej gave this evidence: "Q. It was your role on site to organise the sequence of works to ensure that when one substantial piece of work finished, the next substantial piece of work in the sequence could occur. Correct? 
+A. Could occur but I can't make it occur. I can only make the phone calls.
+If the machines are available, they come. If it's not available, it's not available. 
+Q. You agree, don't you, that acting competently as a builder, one arranges the work on site to seek to ensure that as soon as a major piece of work finishes, the next stage in the sequence can commence immediately? Correct? 
+A. In the theoretical world, yes, but it doesn't happen."
+Mr Metlej then gave the following evidence, initially in answer to a question from me. This evidence related to a later stage of the development which also involved Civil Foundations (the installation of the piling), but as I understood Mr Metlej's evidence, it also reflected the position concerning the dead-man anchors: "HIS HONOUR 
+Q. Can you remember whether there was actually any delay getting Civil
+Foundations on the site? 
+A. Yes. For them to bring the machine. Like, they're busy, like, they have to slot you in when one machine finishes to come and do it. In fact, the machine that came to the job wasn't even theirs. They had to get it from another company. 
+MCINERNEY 
+Q. Mr Metlej, you were fully aware when you contracted with Civil
+Foundations that they were busy, didn't you? 
+A. Yes. However, they were the only company in Sydney that was doing CSM works at the time. 
+Q. But when you made a decision to contract with Civil Foundations, you knew that because they were busy, you'd have to be very well organised in arranging the sequence of the works and when the works were to occur. Correct? 
+A. I was very well organised. 
+Q. I suggest to you that you were not well organised and acting competently as a builder because there was a significant gap between the completion of the excavations works and when the piling works commenced on site. Correct? 
+A. It was beyond my control."
+In light of that evidence, which I accept, the generalised evidence given by Messrs Best and Newman must give way to the particular explanation offered by Mr Metlej in response to the questions he was asked.
+In those circumstances, my conclusion is that there is some explanation for the delay in construction of the capping beam; namely, the delay in the installation of the dead-man anchors, which was caused by the reasons Mr Metlej explained.
+In the face of that evidence, I am not able to conclude that there was any want of reasonable endeavours on the part of the defendants during this first period.
+
+Second period - between 7 September to 11 October 2010 - excavation
+The capping beam was installed between 2 August and 13 September 2010 by DNJ Formwork (Aust) Pty Ltd. That company was associated with Mr Donny Kayrouz, who, as I have mentioned, is the son of Mr Lichah Kayrouz, and nephew of Mr Terry Kayrouz. The plaintiffs make no complaint about the time during which the capping beam was constructed.
+The plaintiffs' complaint during this period is directed to the question of excavation. The plaintiffs contend that excavation could have commenced immediately following completion of the CSM wall in mid-May 2010, and yet did not commence until mid-August 2010.
+However, in cross-examination, Mr Derham gave evidence that excavation works could not begin until after the dead-man anchors were installed, as excavation machinery could not be manoeuvred on the Site until then: "We couldn't put anything on the side of Lusty Street, there was no room, and we weren't allowed to access the far, western side because RailCorp own that and I do remember we were told not to touch or encroach onto RailCorp's own private land."
+The plaintiffs' geotechnical expert, Mr Best, opined that: "Excavation could have commenced immediately following completion of the CSM wall on 17 May 2010 as this provided a barrier to lateral ingress of shallow groundwater. From a geotechnical perspective, excavation could have proceeded to the level of the ground water table prior to completion of the CSM wall.  ... 
+There does not appear to have been any significant site work over the period mid-May to mid-August 2010. The building slab seems largely intact in the Washington Brown photographs presented in their report of 19 August 2010 and little excavation has been carried out. 
+There is no reason apparent to me preventing excavation from being carried out in earnest some three months earlier than is evident from the records."
+Apart from the contention that excavation could have started immediately upon completion of the CSM wall (which appears to me to fail to take into account the evidence of Mr Derham to which I have referred), I found it hard to understand the precise complaint made by the plaintiffs as to the delay in excavation. And this generalised, hypothetical evidence must be seen in the context of the evidence given by Mr Derham, who was actually present at the Site.
+What did emerge from the evidence was that, in early September 2010, Mr Derham was asked to advise about changes that might be made to the manner of construction to avoid the need to drill down to bedrock.
+Thus, in his affidavit, Mr Derham said: "In or about early September 2010, I attended the site and there met with Mr
+William Metlej, Dr Hasham [a civil and structural engineer retained by the defendants], and the geotechnical engineer, someone from Brinks [sic] &
+Associates. The geotechnical engineer provided us with a copy of their earlier report and gave us some field measurements now that the excavation had been completed. Mr Metlej and Dr Hasham wanted to discuss a better engineered solution for the construction of the basement than was then in place. The issue was the cost and time related to drilling down to rock (around 35 metres). My estimate was that that work (in accordance with the existing design) would take around nine months in total... 
+I went away and worked out a new engineering design using pile rafts, and sent the designs to Kaymet with a quote".
+Mr Derham was cross-examined about this evidence. He was not able to identify the particular designs sent to the defendant.
+Mr Derham said in cross-examination: "Q. And as I read [the paragraph of Mr Derham's affidavit I have set out above] it had been proposed that there would be deep foundations which would be drilled down to the weathered bedrock sandstone. Correct? 
+A. That's correct. 
+Q. And that would be consistent with the geotechnical report from Brink & Associates at 25 November 2008. Correct? 
+A. That's correct. 
+Q. At the time that you attended this site meeting you were shown some plans, is this correct, where there was to be deep foundations down into the weathered sandstone bedrock? 
+A. Yes. 
+Q. Some 35 metres or thereabouts. Correct? 
+A. Correct. 
+Q. And the discussion was the change [in] the design for the deep foundations so that one could do away with the need to drill down to the weathered sandstone bedrock. Correct? 
+A. Correct. 
+Q. It was decided, was it, at this site meeting that an alternative design would be prepared because that would save cost. Correct? 
+A. Cost and time, yeah."
+In his affidavit, Dr Hasham said: "On 3 September 2010...an engineer in my employment...attended a meeting on site, and I understand there were also representatives from the geotechnical engineers [Brink], from Civil Foundations and from the owners of the site. I understand at this meeting it was discussed, and decided, to look at a more economical solution for the foundation piles and raft slabs. 
+The solution, being the displacement piling method, was designed by Mr
+Derham, and I designed the raft slab that sat across the piles. The main difference between the new solution and the one previously designed was that the piles did not have to extend down to rock, 20 metres below the slab."
+Mr McInerney pointed to these matters in the course of his submissions concerning the second period. However, I did not understand him to criticise the redesign conducted by Mr Derham and Dr Hasham, other than to the extent it caused delay.
+It may be that some delay was caused by the redesign, and that this impacted the progress of the excavation.
+However, in the absence of evidence to suggest that the redesign conducted by Mr Derham and Dr Hasham was unreasonable, I am not able to conclude that this aspect of the case bespeaks any want of reasonable endeavours on the part of the defendants.
+
+Third period - 11 October 2010 to 7 January 2011 - piling
+Civil Foundations commenced installing piles on 18 October 2010. Between that date and 29 October 2010, Civil Foundations installed 71 piles.
+There was detailed evidence before the Court as to the progress of the piling works during this period. This was in the form of daily reports prepared by representatives of Civil Foundations.
+Those reports reveal that piling proceeded without incident on 20, 21, 22 and 23 October 2010. Thereafter, due to heavy rain and flooding of the Site, apart from eight piles drilled on 27 October 2010 and five piles drilled on 28 October 2010, no piles could be drilled by 9 November 2010. On this date, Civil Foundations left the Site.
+Piling was not resumed until Civil Foundations returned to the Site on 7 January 2011. Civil Foundations then used a lighter rig and completed the installation of the piles by 25 January 2011. The plaintiffs offer no criticism of the progress of the piling during January 2011.
+The criticism that the plaintiffs do make of the defendants is that the delay from late October 2010 until January 2011 was caused by the defendants' use of an inadequate drainage technique, and by their failure to put in place a workable platform upon which the heavier piling rig initially used by Civil Foundations could undertake the piling operations.
+Mr Metlej agreed that, because of these matters, the piling rig sank into the soft soil beneath it and from time to time tilted during the process of installation of the piles. Mr Metlej agreed that this was a dangerous situation and that, ultimately, the piling rig operator refused to operate the rig for that reason. Towards the end of October, the defendants arranged for geofabric and crushed stone to be brought onto the Site with a view to creating a platform from which the plant could operate. This still did not result in the piling proceeding.
+The plaintiffs' case was that the defendants did not adopt adequate measures to ensure that the Site was properly drained.
+The method adopted by the defendants was a system of spoon drains and pumps. Mr Metlej agreed that that system did not remove all the water and that some water remained on the Site.
+The plaintiffs' contended that the defendants were aware of the high ground water table at the Site, and should have adopted the Dewatering Management Plan that Civil Foundations prepared (as RailCorp required: see [112] above). The plaintiffs argued that the defendants should have installed a spear point dewatering system which would more effectively have caused the Site to be drained during the wet weather conditions experienced in October and November 2010.
+Mr Best gave evidence that in order to address the problem of water seepage under the CSM wall, and water falling on the Site from rainfall, competent practice required spear point dewatering and surface drainage using installed trench drains backfilled with gravel, leading to deep sumps equipped with pumps to remove rainfall runoff.
+The defendants' expert, Dr Hasham, agreed that spear point dewatering would have improved the Site, but disagreed with Mr Best as to how much more effective that system would have been than the one adopted by the defendants.
+I accept that there is some substance in these criticisms. The Civil Foundations Dewatering Management Plan, which the defendants elected not to follow, did specify the use of spear points (see [110] above).
+However, as I have set out above (at [95]), Geotechnique expressed the view that the "sump and pump method" was preferable to the use of spear points "from an economic point of view".
+The later Brink report suggested no more than that dewatering "could" be carried out using spear points (see [101] above).
+Notwithstanding the Civil Foundations Dewatering Management Plan, in cross-examination, Mr Derham said that spear points "would never work". He later said that "it wasn't going to work, so we didn't do it". I asked Mr Derham what he meant by that. He explained that "spears are generally done in what we call a cohesionless soil, which is sand, when it's very difficult to put a pump in there" but that spear points were not suitable "when you have clay, [because] the water can't get sucked through the ground". Mr Derham continued: "So the only way you typically do this type of water in clay is through doing wells, and gravel drains."
+I understood Mr Derham to be saying that, notwithstanding what was stated in the Dewatering Management Plan, his opinion, as the representative of Civil Foundations at the Site during piling, was that in light of the conditions encountered, spear points were not appropriate.
+In those circumstances, I am not persuaded that a want of reasonable endeavours on the part of the defendants caused the problems encountered with Civil Foundations' piling activities between 18 October and 9 November 2010.
+What is unexplained is the delay in the resumption of the piling works between 9 November 2010 and 7 January 2011.
+On 18 November 2010, a problem arose due to the bowing of part of the CSM wall. This took some time to fix but does not explain why piling could not have been continued on other parts of the Site.
+The period immediately prior to 7 January 2011 can no doubt be explained by the usual Christmas break.
+I was not directed to any evidence revealing what break was taken at the Site by reason of Christmas at the end of 2010. As it is common ground that Civil Foundations resumed work on 7 January 2011, it is clear that the Christmas break did not extend beyond that date.
+As I have said, Civil Foundations installed the remaining piles between 7 and 25 January 2011. The plaintiffs do not contend that this latter period was unreasonable.
+In all of these circumstances, I am satisfied that the plaintiffs have identified a period during which it can be said that the defendants did not use their reasonable endeavours to keep the project moving. That period is from 9 November 2010 until shortly before Christmas; a period in the order of six weeks.
+
+Fourth period - November 2010 to 10 March 2011 - delay in pouring lower basement slab - effective height issue
+Temporally, this period overlaps with the third period.
+The plaintiffs contend that there was a 16 week delay in relation to the commencement of the construction of the basement slab.
+This aspect of the case relates to what the parties described as the "effective height" issue.
+I was informed that if the "effective height" of a building is more than 25 metres, significantly more fire protection infrastructure must be included in the building. This is to take account of the reach of the mobile fire equipment and the effective operating height of fire brigade ladders. The defendants' architect, Mr Loucas, explained that the "issue" was the point in the building from which the 25 metres was to be measured; that is, whether it was from the basement, street or podium level.
+This issue arose when, on 1 March 2011, the defendants lodged an application for a staged construction certificate for the lower basement level and ground floor. The Council issued a construction certificate approving that application on 10 March 2011. Ultimately, in the circumstances I describe below, the defendants withdrew their application from the Council and sought approval from a private certifying authority, Mr Barry Johnson of Barry Johnson & Associates Pty Ltd. That approval was obtained on 29 July 2011.
+The plaintiffs' case is that the defendants should have taken steps earlier to resolve this issue and that had that occurred, the pouring of the lower basement slab could have commenced in November 2010 rather than March 2011.
+The plaintiffs' expert, Mr Newman, opined that an experienced builder would have sought and received advice as to the effective height issue from a fire engineering consultant before the issue of the construction certificate by the Council in March 2010, and elected to change to a private certifier a lot sooner than the defendants did. Mr Newman thus opined that the lower basement slab on the ground structure could have commenced a lot earlier than it did and that a 16 week delay resulted.
+Mr Loucas said that the first he heard of "any issue with the effective height of the building" was in a conversation he had with a Council officer in May 2010, in which the officer said: "There has been a court case about effective building heights that may make it difficult for Council to be able to continue as [the Principal Certifying
+Authority] for the project."
+Before me, counsel suggested that the "court case" to which the Council officer referred was one or both of The Owners Corporation of Strata Plan 62254 versus Rockdale City Council  <case> per Einstein J or The Owners - Strata Plan No 69312 versus Rockdale City Council; Owners of SP 69312 versus Allianz Aust Insurance  <case> per Lindsay J; both of which involved the Council.
+Mr Loucas gave evidence that: "In terms of the effective height, when it was brought to our attention that the building may be over or may be under [25 metres], the Council wasn't sure if they could continue with the construction certificate because of the litigation. Then, when it came to our attention to let the client know that they can no longer continue with the [construction certificate of 10 March ], that's when we made the client aware and Council confirmed that the [construction certificate] needed to be withdrawn... 
+They were telling us that they probably won't be able to continue with it because of this case, but it wasn't made clear to us until we pretty much got it in writing that they can't continue with the [construction certificate]... 
+We actually were informed of that. Now, whether it was an email or a letter we were actually informed [by the Council] that it had to be withdrawn."
+In answer to questions from me, Mr Loucas said: "Q. Was the Council, as you understood it, saying that because of the litigation they didn't wish to be involved in a dispute about building height? 
+A. Correct. 
+Q. And they suggested, therefore, that your clients go to an independent certifier? 
+A. Correct."
+Later in his cross-examination, Mr Loucas gave this evidence: "Q. Once you became aware, from the Council, about the effective height issue...did you give advice to the [defendants] that at some stage they would have to make an application to withdraw the application for a construction certificate? 
+A. That's correct. 
+Q. The issue which arose for the client was that if the building needed to go above ground floor level, one couldn't obtain a construction unless council or an independent BCA had approved the construction certificate application, notwithstanding there might be a non-compliance with the BCA in respect of effective height. Is that correct? 
+A. That's correct, yes. 
+Q. The clients were on notice for the period of time that you first gave them advice about the effective height issue shortly after the Council had spoken to you about it. Is that correct? 
+A. Correct, but the Council did speak to us, but they didn't confirm, for a little while, if they could continue with the [construction certificate] or not. So it wasn't a clear cut answer if they can continue or not until they notified us in writing that they actually couldn't. 
+Q. From your perspective, there is no reason why the client could not have obtained independent advice from a [Building Code of Australia] consultant within a short period of time of you advising them about the effective [height] issue. Correct?  ... 
+A. The only reason that - and I'm not sure about this. Obviously, I'm not a developer. The only reason why the developer maybe didn't seek advice straight away is because the Council was not sure if they could or couldn't. So it wasn't a clear cut answer until we received it in writing from Council. So they said, yes, we may, we may not, we're not sure yet. 
+HIS HONOUR 
+Q. Did the Council actually give a clear cut answer at any time? 
+A. Not until we got it in writing, no. They were telling us that they probably won't be able to continue with it because of this case, but it wasn't made clear to us until we pretty much got it in writing that they can't continue with the [construction certificate]. 
+Q. Did the developer get something in writing from the Council eventually? 
+A. Yes, we did. We got something in writing that - the [construction certificate] had to be withdrawn."
+Mr Loucas said that, once the Council told him that the defendants should approach an independent consent authority, he did not delay in passing that information on to the defendants.
+Mr Metlej was asked about this subject in his evidence-in-chief as follows: "Q. What was the issue in relation to the application as you understood it? 
+A. The 25 metre height limit. If the building is below 25 metres, it doesn't have to be sprinkled throughout. There is less stringent fire provisions for the building. 
+Q. Was the building, at that stage, designed as being more or less than 25 metres? 
+A. Less than 25. 
+Q. Was there, to your understanding, some issue at that time involving
+Rockdale Council which impacted on your decision to withdraw the application?  ... 
+A. There was a building in Bay Street, Sans Souci or Brighton Le Sands that
+Rockdale Council approved as being under 25 metres and they were being sued - when the annual cortication came, the certifier thought it was over 25 metres and Rockdale Council could have been negligent in assuming that it was under metres.  ... 
+Q. What was your understanding of the issue involving Rockdale Council and the litigation, then, on foot? 
+A. They certified a building to be under 25 metres when, in fact, it was over 25 metres. 
+Q. How did that, so far as you see, impact on your application for a CC for the above ground works? 
+A. Rockdale Council weren't going to approve that it was a building under metres."
+In answer to a question from me, Mr Metlej gave this evidence: "Q. What...difference would it have made to what you had to do on site if Mr
+Johnson had agreed with the Council that the height was more than 25 metres? 
+A. I would have changed my plans. I would have taken one floor off the building."
+In those circumstances, Mr Loucas advised Kaymet to send to the Council a letter, which was dated 29 April 2011, in these terms: "In relation to the above mentioned matter, we wish to inform [C]ouncil that we would like to withdraw the [10 March 2011 Construction Certificate]
+Application as we believe that your interpretation of "effective Height" is contrary to the Building Code of Australia."
+The defendants then approached Mr Johnson for approval for construction of the lower basement slab.
+Mr Metlej gave this evidence about Mr Johnson: "Q. Why did you suspect that going to Mr Johnson was going to lead to a favourable result whereas going to the Council would not? 
+A. Mr Johnson is a knowledgeable private certifier. He tackles things in a logical way. He [sought] advice from BCA Logic in relation to our building and from Philip Chun, they're both well renowned BCA consultants."
+Mr Johnson told Mr Metlej that: "If effective height is the issue, you will need to engage an independent building regulations consultant."
+Accordingly, Mr Metlej engaged Mr Ross Payne from BCA Logic Pty Ltd and Mr Philip Smillie from Philip Chun & Associates Pty Ltd. On 9 and 17 May 2011 respectively, Mr Payne and Mr Smillie completed reports expressing the opinion that the effective height of the building was less than 25 metres.
+Mr Johnson, as the private certifying authority, issued the appropriate construction certificate on 29 July 2011, thus allowing works to commence on slabs above the lower basement.
+The evidence I have outlined shows that the "effective height" issue was one of considerable importance. If the Council or Mr Johnson had determined that the effective height of the building was more than 25 metres, Mr Metlej would have taken "one floor off the building"; a major change indeed.
+In a joint statement produced by Dr Hasham and Mr Newman following their expert witness conclave, Dr Hasham said that, by reason of the effective height issue, there was a redesign of the building, the effect of which was to "reduce the structural beam depth by approx 50-100mm on Level 1 and Level 2". Dr Hasham said that this redesign, and other redesigns "to ensure proper clearances between services and structure" caused a delay of approximately three weeks. I do not see that as bespeaking any want of reasonable endeavours on the part of the defendants.
+Mr Loucas's evidence suggests that the Council was chary of committing itself to any decision in relation to the effective height issue, evidently because of the controversy surrounding decisions it had earlier made about effective height which led to litigation (part of which, I was informed, was pending at the relevant time) in this Court. It was only when the Council told Mr Loucas in writing that, in effect, it would not make a decision and that the defendants should approach a private certifying authority, that matter was placed before Mr Johnson for consideration. Thereafter, the matter was resolved with reasonable speed.
+Mr Newman's opinions, whilst no doubt reasonable from his hypothetical viewpoint, were expressed without account of what had actually occurred on the Site and, in particular, without knowledge of the communications between the Council and Mr Loucas.
+In these circumstances, I am not persuaded that the manner in which the defendants dealt with the effective height issue shows a want of reasonable endeavours on their part.
+
+Fifth period - January to 29 July 2011 - slabs above lower basement
+The fifth period of delay of which the plaintiffs complain is from the end of January 2011 until 29 July 2011 (the date on which Mr Johnson issued the construction certificate, as discussed above).
+This period overlaps with both the third and fourth periods, and is in effect a restatement of the complaint made in respect of the third period, albeit in respect of the slabs above the lower basement.
+For the same reasons I have set out above in respect of the fourth period, I am not persuaded that any delay during the fifth period bespeaks a want of reasonable endeavours on the part of the defendants.
+
+Washington Brown report number 4
+On 14 March 2011 (that is, during the fifth period) Washington Brown produced a report for Westpac, which identified "Delays to Date" as being 46 weeks.
+In his opening submissions, Mr McInerney described this report as "something of a bombshell". That description may have been apposite if the author of the report, Mr Thomas Lander, was intending to convey to Westpac that as at 14 March 2011 (only 12 months after construction had commenced), there were already delays of 46 weeks.
+However, in cross-examination, Mr Lander explained that his reference to 46 weeks was to forecast delays based on cash flows, and not to delays to date. Thus, the report was not the "bombshell" it may have seemed. For that reason, I do not accept that the report itself reveals any want of reasonable endeavours by the defendants.
+
+Sixth period - 10 November 2011 to 24 April 2012 - completion of concrete structure
+The sixth period of delay of which the plaintiffs complain is the four month period from November 2011 to April 2012. This complaint concerns the alleged delay in the completion of the concrete structure works.
+The plaintiffs did not point to any particular act or omission of the defendants in respect of this part of their case, but instead relied principally on the evidence of Mr Newman.
+In one of his reports, Mr Newman opined that the earliest time that the defendants could have commenced building the lower basement concrete floor was in March 2011, and calculated that the last main concrete pour on the structure occurred sometime between 9 March and 24 April 2012. Mr Newman observed that the time from when the Council issued the relevant construction certificate until the final pour was in the order of 12 months. He opined that "this period of time is long when compared to industry standard for a building of this type", and said that a "more acceptable period would be in [the] order of 8 months". Accordingly, Mr Newman opined that "the concrete structure work took 4 plus months longer to construct when compared to reasonable industry expectations".
+However, Mr Newman agreed in cross-examination that he had not out set in his report the "industry standards" to which he referred.
+Further, Mr Newman's observations pay no regard to actual onsite conditions.
+For example, one aspect of the Site that Mr Metlej emphasised as problematic was its tight nature.
+In his evidence-in-chief, Mr Metlej said: "It's a very tight street...if the cars are parked on both sides you've only got a very limited space. Where that became most difficult is when you're doing large concrete pours, like 600 cubic metres, and you've got two concrete pumps. You had to reverse the truck in and then it had to go out, because it's a dead end street. The concrete trucks had to go in and out. It was very difficult for them to pass each other. On other projects that I've done I usually put two concrete...trucks on each pump and we can go a lot faster".
+Mr Metlej said that the constraints of the Site also effected coordination. He gave this evidence: "A. It was a tighter site. You couldn't do as much as you wanted to because you couldn't put bits of a lot of material, like, as reserve, like, to plan a week or two ahead, like, as we needed things, they came and we had to take them - like, the material handling exercise was a lot more difficult on that site than other sites. 
+Q. Was the material handled once or more than once? 
+A. More than once. 
+Q. Why? 
+A. Because we can't have too many trucks in the street because you'd stop traffic. So we just unloaded things and put them on the footpath or on the road and then when we had a chance, we'd put them in the loading platform or in the work area that was - where the work was required."
+Mr Metlej also described problems with the delivery of steel, which effected the pouring of concrete slabs. He gave this evidence: "Q. Was the delivery of steel on this project critical? 
+A. Yes. 
+Q. Why was it critical? 
+A. Because you can't pour the concrete, you can't build the surface structure without the steel. 
+Q. Did you do anything to try and accelerate steel deliveries? 
+A. Yes. 
+Q. What did you do? 
+A. The columns, we got the cages prefabricated at OneSteel's workshop. So when they came on site they just had to be lifted in position, we didn't have to tie them, they just - they were already completed. 
+Q. Did preordering the cages, or having the cages prefabricated by
+OneSteel, did that sometimes affect work on site? 
+A. Yes, they had a - at times they had a backlog of work and we could not get the cages when we wanted them. 
+Q. How did that affect the work? 
+A. It delayed the work for our- 
+Q. How? In what way? 
+A. Well, you can't do the slab unless you do the columns. So we had to do something else until that steel came, or we had to get the steel loose and tie it on site."
+Another issue that Mr Metlej identified as problematic was what he described as the "crane issue". In regards to that issue, he said in his affidavit: "For these works, I brought our crane with a 50 metre jib to the Site. 
+It was a requirement of RailCorp's that we did not encroach on the railway corridor. 
+To prevent the crane from encroaching on the railway corridor, I had to shorten the jib from 50 metres down to 40 metres. This had the effect of limiting the useful arc of the crane. 
+Because of the shortening, the North Eastern and North Western corners of each of the towers could not be reached with the crane after I shortened its jib."
+In that regard, Mr Metlej gave this evidence-in-chief: "Q. You had a 50 metre potential radius? 
+A. Yes. 
+Q. But you only used 40 metres of it? 
+A. Yes. 
+Q. Why? 
+A. So it doesn't encroach on the railway land. 
+Q. Because of that limited arc, did that have some effect for you on site? 
+A. Yes, it meant the north east and the north west of the site could not be serviced by the crane, it had to take them as far as the jib would allow you, and then manhandle the load.  ... 
+Q. For the material required in that area you placed it as far as possible using the 40 metre limited arc. Is that right? 
+A. That's right. 
+Q. Then it had to be handled, manhandled, or handled by excavator or machine. Is that right? 
+A. Manhandled."
+I appreciate that Mr Metlej's evidence was given in very general terms. But so was that of Mr Newman. As I have said, the plaintiffs do not point to any particular act or omission in relation to the pouring of the slabs for the lower basement, basement and ground to eighth floor slabs that would evidence a want of reasonable endeavours on the part of the defendants.
+Even if, as Mr Newman asserts, the concrete structure works took longer than "industry standards", it does not necessarily follow that this was because of a want of reasonable endeavours on the part of the builder. In this case, Mr Metlej pointed to particular circumstances beyond his control which, generally, caused delay on the Site.
+In those circumstances, I am not satisfied that the plaintiffs have shown that the defendants failed to use their reasonable endeavours to complete the concrete structure works.
+
+Seventh period - 5 March to 5 August 2013 - completion of services and finishes
+The seventh period of alleged delay is in relation to the time taken by the defendants to complete services and finishes. The period of delay identified by Mr Newman is a five month period from March to August 2013.
+This period is after the Date for Registration of the final contract (see [13] above). In view of the conclusions to which I have come so far concerning the plaintiffs' case of want of reasonable endeavours, further delay at this point cannot be relevant. Indeed, as the table I have set out at [13] above shows, the defendants purported to rescind a number of the contracts during this period.
+On 19 July 2013, an interim Occupation Certificate was issued by Mr Johnson in respect of the building.
+Mr Newman observed that the time between the completion of the concrete work and the issue of the interim Occupation Certificate was just under 15 months. Mr Newman stated that "this period is long when compared to reasonable industry standard for a building of this type" and that "a more reasonable period would be in the order of 10 months".
+Mr Newman's reasoning for this conclusion was as follows: "The trade package summary sheet in Washington Brown report 24 (dated th May 2013) showed the building as being almost complete. Their following reports in early June, late June and August showed work proceeding slowly. If the building was almost complete on 14th May 2013 then a final push by the services and finishes trades could have resulted in the Occupation Certificate being issued closer to 10 months from completion of the structure."
+Again, assuming that the period taken to complete the finishes was long compared to "reasonable industry standard", I am not satisfied it follows that that was the product of a want of reasonable endeavours on behalf of the defendants. Mr Newman's opinions take no account of the actual Site conditions.
+
+Eighth period - March to July 2013 - childcare centre
+The eighth period of delay of which the plaintiffs complain is from March to July 2013. Thus, it overlaps with the seventh period.
+As this period is also beyond the last Date for Registration, it is, for the same reasons as the seventh period, not relevant.
+The plaintiffs' complaint arises from the fact that on 12 March 2013, the defendants lodged an application with the Council for approval of a childcare centre. That involved an application under [s 96](http://www.austlii.edu.au/au/legis/nsw/consolact/epaaa1979389/s96.html) of the [Environmental Planning and Assessment Act 1979](http://www.austlii.edu.au/au/legis/nsw/consolact/epaaa1979389/) to vary the Development Consent, and thus caused further delay.
+As I have set out above, under cl 35.5(b) of the contracts, the defendants reserved the right, at any time prior to completion of the building, to apply to the Council "to vary the terms of the Development Consent in such manner as the vendor deems appropriate".
+Nonetheless, the plaintiffs contend that it was unreasonable of the defendants to seek to add a childcare centre at this stage of the development, when they were already experiencing delays.
+The question of why the defendants decided to incorporate a childcare centre in March 2013 was not explored in cross-examination of any witness. I was not directed to any evidence which suggests that it was not appropriate or desirable for a childcare centre to be so incorporated.
+I see no basis to reach any conclusion that the decision to include a childcare centre in March 2013 bespoke any want of reasonable endeavours on the part of the defendants.
+
+Ninth period - 3 September to 5 December 2013 - balustrades 
+The ninth period of which the plaintiffs make complaint is from 3 September to 5 December 2013.
+Again, this period was well beyond the last Date for Registration, and is thus irrelevant for the same reasons as the seventh and eighth periods.
+Under the Development Consent, the defendants were required to construct balustrades of a particular height and using a particular material. They did not do so. It would have cost something in the order of $50,000 to install compliant balustrades. Instead, on 3 September 2013, the defendants applied to the Council to change the minimum balustrade height to that actually constructed. On 5 December 2013, the Council determined that question in the defendants' favour.
+The plaintiffs' position is that in order to exercise reasonable endeavours, the defendants should have simply paid to change the balustrade height instead of seeking to persuade the Council to change the terms of the Development Consent.
+I do not accept that submission. The balustrades were already installed. Under the contracts, the defendants had the right to vary the Development Consent in such manner as they deemed appropriate (cl 35.5(b)). By making the application, the defendants saved approximately $50,000. The defendants were entitled to have regard to their own business interests (see the observations of the High Court in Woodside at [45] above). And there is no evidence as to what expectation the defendants should have had as to how long it would take the Council to deal with the matter.
+For those reasons, I am not satisfied that the defendants' conduct during the ninth period bespeaks a want of reasonable endeavours on their part.
+
+Tenth period - from 2 August 2013 - registration of strata plan
+Although the building is complete, the strata plan has still not been registered.
+The plaintiffs contend that the strata plan could have been registered within several weeks from the issue of the interim Occupation Certificate in July 2013.
+However, this period is well outside the range of Dates for Registration. It is therefore irrelevant for the same reasons as the seventh, eighth and ninth periods.
+
+Conclusions
+For the reasons I have set out above, my conclusion is that the only period during which the plaintiffs have established that the development was delayed by reason of a want of reasonable endeavours on the defendants' part is the six week period I have identified in relation to piling; that is, during the third period between early November and late December 2010.
+That delay did not cause the defendants to fail to register the draft Strata Documents by the various Dates for Registration. The plaintiffs have not shown that had the defendants used reasonable endeavours during that period, the Strata Documents could have been registered by the Dates for Registration.
+The plaintiffs have thus failed to establish a relevant breach of cl 52.1 of the contracts, nor that the defendants were not entitled to rescind the contracts.
+The proceedings must be dismissed. I will hear the parties as to the orders that should now be made to dispose of the proceedings.
+ 
+Amendments October 2015 - Typographical errors corrected * * * 

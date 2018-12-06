@@ -1,0 +1,260 @@
+
+
+Sanderson Computer P/L versus McDonnell Information Systems P/L and 1 Or [1997]
+NSWSC 47 (20 February 1997) 
+SANDERSON COMPUTERS P/L versus McDONNELL INFORMATION SYSTEMS P/L & 1 OR /95 
+Thursday, 20 February 1997 
+SUPREME COURT OF NEW SOUTH WALES COMMERCIAL DIVISION 
+HUNTER J 
+REASONS FOR JUDGMENT 
+HIS HONOUR: Sanderson Computers Pty Limited (Sanderson) sues McDonnell Information Systems Pty Limited (McDonnell) and McDonnell Douglas Information Systems Limited (McDonnell Douglas) for commission on the sale of computer hardware equipment under agreement dated 13 November 1992 (the 1992 sale agreement) between McDonnell and Blacktown City Council (the council). 
+The commission is said to be payable to Sanderson by McDonnell and McDonnell
+Douglas pursuant to cl 6(a) of a deed (the successor deed) dated 14 September to which AWA Limited (AWA) Sanderson, McDonnell and McDonnell Douglas and others were parties. By cl 6 of the successor deed it was provided as follows: "(a) Subject to paragraph (b), in consideration of AWA Successor licensing and relicensing Application Software or Additions pursuant to clause 2.1 to customers of MD including the Customers ("Commission Customers"), MD will pay to AWA Successor a royalty or commission equal to the Prescribed Proportion of: % of the Net Selling Price of new or upgraded Hardware Processors supplied to such Commission Customers after the Completion Date by MD or MD
+Corp or any Related Corporation of MD or MD Corp whether directly or indirectly and whether as principal, agent, trustee, financier, shareholder, debentureholder. partner or joint venture participant, in relation to which an
+Application Software license or relicense is issued: % of the Net Selling Price of non-processor hardware or non-processor hardware enhancements or replacements of non-processor hardware supplied to any Commission Customers in conjunction with the new or upgraded Hardware
+Processor(s) referred to in paragraph (i) ..." 
+The reference to AWA Successor is a reference to SGA Computers Pty Ltd as
+Sanderson was then known: the reference to MD is a collective reference to
+McDonnell and McDonnell Douglas while the reference to MD Corp is a reference to a United States based corporation, McDonnell Douglas Corporation.
+
+There was no dispute between the parties that the 1992 sale agreement included the sale of a hardware processor (the replacement processor) and non-processor hardware and that the council was a Customer within the meaning of cl 6 of the successor deed. What was in dispute was that Sanderson issued a licence or a relicense of Application Software to the council in relation to the replacement processor. The short point raised by the defendants was that, in the absence of that "consideration", no obligation to pay commission to
+Sanderson arose in relation to the sale of the replacement processor. The commission in relation to the sale of the non processor hardware was the subject of agreement between the parties at the commencement of the proceedings and was not the subject of argument before me.
+
+In order to understand the operation of the successor deed it is necessary to cast back to its origin in the disposal by AWA of its computer business (the
+AWA computer business). That business comprised two divisions, one, its hardware processor related activities (the hardware division) which consisted mainly of "maintaining and supporting (McDonnell's) Hardware and ... Operating
+Systems Software and other computer hardware products manufactured by third parties ... supplied to Customers (of AWA) for use with (McDonnell's)
+Hardware; Selling of (McDonnell's) Hardware and Hardware enhancements and upgrades ..." and other related activities.
+
+Its other division (the application software division) consisted mainly of "licensing, sub-licensing, supply and support of application software owner by or licensed or otherwise supplied to AWA for use with (McDonnell's) Hardware and other brands of hardware" together with the distribution of hardware manufactured by General Automation Limited which, presumably, was a related corporation to Sanderson which was known as General Automation Pty Ltd up until a name change on 24 July 1995.
+
+By agreement dated 7 September 1989 (the McDonnell agreement) AWA sold its hardware processor division to McDonnell, it then being known as McDonnell
+Douglas Information Systems Pty Limited until it effected a name change on 20
+December 1993.
+
+By agreement dated 14 September 1989 (the Sanderson agreement), AWA sold its application software division to Sanderson. The commercial bridge between the
+McDonnell agreement and the Sanderson agreement was provided by the successor deed.
+
+At the time of the McDonnell agreement the council was a customer of AWA which had sold to the council a hardware computer system, including the operating software and an application software known as the URICA System, under an agreement dated 26 August 1981. That was followed by an agreement dated 22
+September 1987 between the council and AWA under which the council assigned certain of its interest in intellectual property consisting of an application software known as "The Blacktown Land Information System Program (BLIS)". BLIS was a program which had been developed by the council as suitable for computer use by local government authorities and was one which AWA wished to exploit by making it available to other local government authorities. The importance of the BLIS agreement lies in the nature of the interest to use BLIS reserved to the council under the BLIS agreement. It is the contention of the defendants in these proceedings that the nature of the rights so created did not extract the operation of cl 6 of the successor deed in relation to the replacement processor: hence the absence of any obligation on the part of the defendants to pay any commission to Sanderson on the sale of the replacement processor to the council under the 1992 sale agreement.
+
+Prior to the BLIS agreement, AWA had broached the possibility of its acquisition of BLIS in a letter to council dated 25 June 1987 in which it described its objective in the following terms: "In conclusion, we would like to confirm that AWA's interest in acquiring the rights to BLIS is for the sole purpose of intensifying our activities in selling "Total Solutions" to Local Government, covering both hardware and software." 
+By the BLIS agreement the council assigned its interest to AWA and by cl 1(d) incorporated the terms of AWA's letter of 25 June 1987. The consideration for the agreement was expressed as follows: "2. The consideration for this agreement is as follows: 
+AWA will credit to Council the sum of $312,000.00 representing the purchase price of the Program.
+
+AWA will supply to Council on or before 31st December, 1987, one
+Performance Enhanced Sequel (P.E.S.) Model 9460 Computer and all operating systems software at a total nett price of $552,308.00. The aforesaid supply shall be the subject of a Supplementary Purchase Agreement (supplementary to
+Purchase Agreement No. 4568 between the parties) in the form of that attached as Annexure "A" hereto to be entered into by the parties on the date hereof.
+It is acknowledged that:- 
+An amount of $200,000 of the sum referred to in sub-paragraph (a) above will be credited towards the purchase price.
+
+Council will not be responsible for the payment of any duties, charges and taxes (including sales tax) in respect of the supply of the said computer.
+
+The balance of $112,000 of the sum referred to in Sub-paragraph (a) above will be credited against any hardware maintenance charges payable by Council to AWA.
+
+Whilst ever Council operates or uses the Program for its own uses, AWA will supply to Council free of cost all upgrades and modifications made by it to the Program together with proper and complete documentation for the usage thereof and including any necessary modification or alterations to the hardware or operating system to enable utilisation of same.
+
+Council agrees to release Brooks Ross & Associates Pty. Liimted (sic) (in liquidation) from any outstanding royalties payable by it to the Council in respect of its sales of computer systems incorporating the Program.
+
+AWA agrees to indemnify Council against any claim made by Brooks Ross & Associates Pty. Ltd., (in liquidation). " 
+The "Performance Enhanced Sequel ... Computer" (the Sequel processor) and the related "operating system software" were the subject of the Supplementary
+Purchase agreement of even date to that of the BLIS agreement.
+
+It was further provided that, on reasonable notice by AWA, the council would provide demonstrations of BLIS to its potential users. AWA covenanted to sell
+BLIS as a software item only in conjunction with computer hardware processors manufactured or marketed by AWA. Any other sale of BLIS could be made by AWA only with the written consent of the council. For its part the council covenanted not to attempt to sell or copy BLIS for sale and would direct any enquiries from possible purchasers to AWA. By cl 5 AWA covenanted not to assign the rights to BLIS without the prior written consent of council.
+
+Neither the undertaking by AWA to supply upgrades or modifications to the council's BLIS program nor the undertaking to modify the Sequel hardware was ever fulfilled by AWA or Sanderson. So far as the application software was concerned the use of BLIS by the council was evidenced by its Manager -
+Information Technology, Grant Burke (Burke) in the following terms: "From December 1987, the Council continued to operate BLIS on the new MDIS manufactured, AWA supplied computer hardware. Wentworthville Computer Services continued to provide maintenance and support services for the software. AWA did not provide, and has never provided, any software support for BLIS.
+Council's in-house employed computer programmers, and the consultants retained from Wentworthville Computing Services, had created the BLIS programme, had full and unrestricted access to the source code, and were able to maintain it better than any other outside consultants. From 1987, with these personnel BCC continually worked on the BLIS software amending and enhancing it to suit its specific requirements." (Exhibit 1, par 6) 
+After the McDonnell agreement council dealt with McDonnell "for hardware maintenance and purchasing such as more memory for the installed system".
+
+In the lead up to the 1992 sale agreement in April of 1991 the council began the process of inviting tenders to provide the replacement processor and related software.
+
+The tender invitation of the council to Sanderson & McDonnell set out certain tender background information which referred to the fact that the council had developed BLIS over a period from 1983 and, after its sale in , "numerous enhancements" had been made to the program. It noted, however, that while the "BLIS System provided a very functional solution to council's requirements ... (t)here were, however, certain shortcomings in the various
+BLIS applications and some applications which were recognised as desirable, did not exist at all". As a consequence of this analysis the council called for tenders to either: "(a) Upgrade Council's existing hardware and software, 
+OR 
+Provide a totally new package hardware/software solution." 
+The tender of Sanderson of 22 July 1991 noted certain "major benefits" connected with its tender which included the following: "1. Council's existing applications and the whole database established over many years are transportable to the new hardware platform,
+The above also means that existing methods and procedures can be adhered to and that council's substantial investment in this area is secured.
+There will be no need for major investments in new software except for new applications Council may wish to implement, e.g. Imaging.
+Since acquiring the rights to BLIS in 1987, AWA computers has developed many enhancements and new modules. It will be Council's prerogative to select any of them for the nominal costs associated with installation and some training." 
+The offer of the BLIS "enhancements" developed by Sanderson for "nominal costs" has some significance in these proceedings.
+
+It came to the attention of the council at that time that Sanderson was asserting that the BLIS program running on the council's Sequel computer was the property of Sanderson. Accordingly, by letter of 5 April 1991, the council wrote to Sanderson in the following terms: "It has come to our attention through various sources that AWA Computers views the copy of the Blacktown Land Information System (BLIS) running on Blacktown
+City Council's Performance Enhanced Sequel as their own.
+
+When the "Marketing Rights" agreement was signed between the two (2) parties back in 1987 it was understood and agreed that Blacktown could utilise its copy of BLIS in any way it desired, including transporting it to another machine other than supplied by AWA Computers.
+
+Blacktown therefore urgently seeks a letter of clarification from AWA
+Computers regarding their position on this matter." (Exhibit A, p 91) 
+It is clear from the correspondence that followed between Sanderson and the council that this matter was not resolved to their mutual satisfaction prior to the 1992 sale agreement.
+
+Although of historical interest, I do not regard this exchange as relevant to the construction questions posed by these proceedings.
+
+From the portions of the BLIS agreement to which I have referred it will be apparent that there was no express provision in that agreement for the terms and conditions upon which the council would continue to operate BLIS on its
+Sequel computer system. It is clear that it was implicit in this agreement that the council would retain the right to use BLIS and to enhance it in the manner evidenced by Burke. It is also clear that any enhancement of BLIS by the council was to its benefit only and was not intended to inure for the benefit of AWA. Similarly, this agreement was silent as to the computer hardware equipment upon which the council was entitled to run this program, in particular whether it was limited to running it on AWA's supplied hardware only.
+
+In my opinion, the effect of this agreement was to reserve to the council the unrestricted right to use the BLIS program and to enhance it as it saw fit on whatever hardware system it saw fit, provided that use was limited to its own local authority purpose and did not otherwise infringe the property rights of
+AWA under cl 1 of the BLIS agreement. I think it is clear from cl 1(d) of the
+BLIS agreement that the council had reserved to itself the right to use BLIS for its own use.
+
+The right to use the BLIS program reserved to the council by the BLIS agreement, I think, arises as a matter of construction of that agreement and is not dependant upon resort to implied terms. If that approach to construction is wrong, then, clearly, in my opinion, the licence as construed by me should be implied as being necessary to give business efficacy to the
+BLIS agreement, while satisfying the remaining principles which are to be applied in the importing of an implied term into an agreement (Codelfa
+Construction Pty Ltd -v- State Rail Authority of New South Wales <case>; [(1982) 149 CLR 337).] 
+There is no requirement that such a licence should be in writing. The granting of implied licenses in relation to copyright has long been recognised (see
+Lahore J, Intellectual Property in Australia, Copyright Law, Butterworths, par 3.9.280). Further, I think that the grant of the licence may be drawn from the conduct of AWA and later Sanderson in permitting the council the continued use of the BLIS program and in permitting its development by the council without the imposition of any licence fee.
+
+It was submitted on behalf of Sanderson that the supplementary purchase agreement for the Sequel hardware and operating software should be read in conjunction with the BLIS agreement as part of the overall construction of the
+BLIS agreement. In particular, it was submitted that the terms of the supplementary purchase agreement, which restricted the licence to use the operation software to the Sequel processor, supported the construction of the
+BLIS agreement that the reserved right of the council to use the BLIS program was restricted to the Sequel system supplied by AWA. Given that the terms of the supplementary purchase agreement form annexure A to the BLIS agreement and that the two agreements were executed on 22 September 1987, I think, it is permissible in aid of construction to have regard to the terms of both agreements. However, carrying out that exercise does not lead to the construction contended for by Sanderson. The supplementary purchase agreement simply established that the use of the operating software was limited to the
+Sequel processors. It does not follow in any way that a similar construction was intended for the use by the council of the application software.
+
+The BLIS agreement is threaded with provisions which make it abundantly clear that, notwithstanding the unqualified form of the assignment in cl 1, the assignment of the property in BLIS was subject to the reservation of the council's right to use BLIS for its own use as it saw fit. Moreover, the BLIS agreement reflects a continuing measure of control over the use of the program by AWA in its provision in cl 3(d) prohibiting AWA from offering BLIS for sale as a software item independently of its use with AWA's computer hardware equipment without the council's prior written consent and by the provision in cl 5 that prohibited AWA from assigning the rights to BLIS to any third party without council's prior written consent. The concept of AWA controlling the council's use of BLIS on whatever equipment it saw fit to use I think is quite foreign to the terms of the rights reserved to the council under the BLIS agreement.
+
+It follows from the construction of the BLIS agreement outlined above that the continued use of the BLIS program by the council for its own use was not dependant upon any further act of AWA to permit that use, whether it was a use involving the Sequel processor or some other system.
+
+That leads on to the question, of what is required under cl 6 of the successor deed before an obligation is created to pay commission on the sale of hardware "to which an Application Software licence or re-license is issued". For the proper construction of the successor deed I think it is permissible and, indeed, necessary to see it in the context of the McDonnell agreement and of the Sanderson agreement.
+
+Under the McDonnell agreement the hardware processor business of AWA was acquired by McDonnell together with its operating systems software. Excluded from the sale was the application software division business. The assets included in the sale were the benefits to which AWA was entitled under service contracts which were defined to mean contracts entered into by AWA and specified customers for the maintenance and support of McDonnell hardware and operating systems. Customers were defined to mean All Maintenance Customers in possession of McDonnell hardware supplied to them by AWA at the time of the
+McDonnell agreement. Details of the maintenance customers specified in the sixth schedule to the McDonnell agreement included the council. Cl 6.1 of the
+McDonnell agreement provided for the payment of commission on sales of
+McDonnell hardware for the first three years following the sale of the hardware processor division of business of AWA.
+
+In relation to the application software division business of AWA cl 16.1(a) of the McDonnell agreement provided as follows: "Subject to Clause 16.2, upon and from the Completion Date until such time as
+AWA ceases to be the owner of the Software Business AWA shall: continue to license to Customers the Application Software upon the terms and conditions upon which that software was being licensed to those Customers by AWA as at the Completion Date but limited in time to the period of such existing licence;" (Exhibit C, Vol 2, p 36) 
+The Application Software there referred to was defined and included the BLIS program. As earlier noted the customers as defined included the council.
+
+Cl 16.1(b) went on to provide that AWA would: "(S)ubject to cl 16.5 and subject to such modifications requested by MD having been made pursuant to sub-clause (c) but otherwise in accordance with AWA's normal licensing policy. licence and relicense the Application Software and licence and relicense any Additions to Customers if requested to do so by such
+Customers, for use on or in connection with MD Hardware held by them at the
+Completion Date or upgraded hardware processors or replacement hardware systems acquired by such Customers from MD after the Completion Date:" (Exhibit C, Vol 2, pp 36-7) 
+Par (c) dealt mainly with the question of time of performance of modifications and by whom the cost of modification would be borne as between AWA and
+McDonnell. Cl 16.5 was concerned with the terms of licences and relicenses to be granted in accordance with cl 16 and, in substance, it required AWA to grant such licences or re-licences upon terms and conditions no less favourable to the terms and conditions upon which AWA granted such licences or re-licences to other customers of AWA. The completion date referred to was 6
+September 1989. Cl 16.1(d) provided further that AWA would "subject to cl 16.3 but otherwise in accordance with AWA's normal licensing policy licence and re- licence the Application Software ... to any new and existing customer of for whom (McDonnell) requests such Application Software ...". Cl .3 obliged AWA to continue to modify the Application Software and to continue to enter into maintenance agreements for its continued support and upgrading.
+
+Cl 16.6 made provision for notification by AWA to McDonnell of upgrading of the software systems and made further provision for modification of
+McDonnell's hardware to accommodate such changes.
+
+Cl 16.7 provided as follows: 
+Subject to paragraph (b), in consideration of AWA licensing and relicensing Application Software or Additions pursuant to clause 16.1 to customers of MD including the Customers ("Commission Customers"). MD will pay to AWA a royalty or commission equal to the Prescribed Proportion of: % of the Application Software Net Selling Price of new or upgraded
+Hardware Processors supplied to such Commission Customers after the Completion
+Date by MD or MD Corp or any related corporation of MD or MD Corp whether directly or indirectly and whether as principal, agent, trustee, financier, shareholder, debentureholder, partner or joint venture participant, in relation to which an Application Software licence or relicense is issued: % of the Application Software Net Selling Price of non-processor hardware or non-processor hardware enhancements or replacements of non- processor hardware supplied to any Commission Customers in conjunction with the new or upgraded Hardware Processor(s) referred to in paragraph (i) of this sub-clause by MD ..." (Exhibit C, Vol, 2, pp 45-6) 
+Cl 16.8 was in the following terms: "AWA agrees for the period expiring five (5) years after the Completion Date, it shall not sell, licence or otherwise dispose of any of its right title and interest in the Software Business or in any of the Application Software or the
+Additions unless and until it enters into and procures the purchaser, licensee or acquirer ("Purchaser") of that right title or interest to enter into a deed between AWA, and the Purchaser and MD in a form reasonably acceptable to MD substantially in the same form as AWA Successor Deed ..." (Exhibit C, Vol 2, p 46) 
+It is apparent from the definition provisions of the McDonnell agreement of the terms "AWA Successor" and "AWA Successor Deed" that AWA had in contemplation the sale of its application software division business at the time of the McDonnell agreement.
+
+I have referred to the identification within the McDonnell agreement of the council as a customer of AWA to whom the McDonnell agreement related and to the inclusion in the definition of the Application Software of the BLIS program. In addition, the council was identified as one of a number of AWA's customers with whom AWA held customer orders which were outstanding or unperformed at the completion date. The council was also identified as one of
+AWA's customers with whom there existed an operating systems licensing agreement. The council was also identified as a customer with whom AWA held a supply contract and with whom AWA had an arrangement referred to as a "Purchase Price Adjustment Maintenance" arrangement.
+
+I think one may draw from this McDonnell Agreement a fairly clear statement that the hardware processing division business of AWA included its commercial arrangement with the council in a variety of forms including that as purchaser of hardware processors equipment from AWA, as a maintenance customer, as a licensee of operating software systems supplied by AWA and, one infers, as a licensee in relation to application software.
+
+Cl 3 of the Sanderson agreement provided for the sale of the application software division business of the AWA computer business, the assets of which were defined to include the proprietary rights to software, certain maintenance and service contracts and licence rights which were defined to include rights granted to AWA under licence agreements as specified in the schedule to the Sanderson agreement. That schedule referred to a licence agreement of 22 September 1988 with the council in respect of the BLIS program. It is clear that the agreement there referred to is the BLIS agreement, identified in error as being dated 22 September 1988. The application software, the subject of the Sanderson agreement, was identified in the sixteenth schedule to the agreement as including the BLIS program. The intellectual property forming part of the assets the subject of sale included the registered trademark "485,271 BLIS".
+
+On completion Sanderson was required to deliver to AWA a deed in the form of the successor deed, duly executed by it.
+
+The parties to the successor deed included Sanderson, McDonnell, McDonnell
+Douglas and AWA. It recited the McDonnell agreement and the intention of AWA to enter into an agreement such as the Sanderson agreement and referred to the provision of the McDonnell agreement which required the purchaser under an agreement such as the Sanderson agreement to enter into the successor deed.
+
+By cl 2.1 of the successor deed Sanderson covenanted in terms comparable to the obligations undertaken by AWA under cl 16.1 of the McDonnell agreement. Cl of the successor deed was in terms identical with cl 16.5 of the McDonnell agreement save for the substitution of Sanderson for AWA. Cl 5 imposed obligations on Sanderson comparable with cl 16.6 of the McDonnell agreement and cl 6 of the successor deed was comparable to cl 16.7 of the McDonnell agreement, save for the substitution of Sanderson for AWA and the calculation of the commission, in the case of the MacDonnell Agreement, by reference to "25 % of the Application Software Net Selling Price of new or upgraded
+Hardware Processors" and, in the case of the successor deed, by reference to "25% of the Net Selling Price of new or upgraded Hardware Processors". The difference has not been addressed in these proceedings.
+
+Otherwise, the successor deed had other features in common with the McDonnell agreement in its identification of the application software as including the
+BLIS program; in the identifying of the customers to which the agreements related as including the council; by including the council in the list of customer orders incomplete at the time of the agreements; identifying the council as one of the customers with whom a maintenance contract was held and with whom service contracts were held.
+
+I think the commercial objective of the successor deed was clearly to ensure that the obligations entered into by AWA in the McDonnell agreement, in relation to the provision of continued access by the hardware processor division to the application software division, was maintained after sale of the latter business to Sanderson: hence cl 6.3 of the Sanderson agreement requiring Sanderson to execute the successor deed on completion of the
+Sanderson agreement. Involved in that commercial objective was a guarantee to
+McDonnell that, where application software had been made available by AWA to a customer in connection with computer hardware in respect of which McDonnell now held certain business advantages, application software would remain available to the customer and would remain available to modified hardware in the possession of the customer and to replacement hardware supplied by
+McDonnell as contemplated under the McDonnell agreement. The price to be paid for that guarantee was the commission. I think it is clear that AWA intended to dispose of the benefit of the AWA computer business, including its commercial dealings with the council, under the Sanderson agreement and the
+McDonnell agreement. What I think was overlooked was the rather special arrangement that characterised AWA's dealings with the council in the form of the BLIS agreement.
+
+It is clear from the evidence that the BLIS program, in use by the council subsequent to the BLIS agreement, had been subjected to numerous changes, described as enhancements, by the council from which it may be inferred that the BLIS program at the time of the 1992 sale agreement was in a quite different form from that the subject of the BLIS agreement. Further, the evidence discloses that AWA and Sanderson carried out "many enhancements" to the original BLIS program so that the two application softwares in the hands, respectively, of the council and of Sanderson in 1992 must have been markedly different physical programs.
+
+To return to the question whether cl 6 imposes upon McDonnell and McDonnell
+Douglas the obligation of paying the commission on the selling price of the replacement processor, it is noted that the obligation to pay commission is given in consideration of Sanderson "licensing and relicensing Application
+Software or Additions pursuant to cl 2.1". The obligation in cl 2.1 cast upon
+Sanderson the following obligations: "2.1 Subject to clause 2.2, in consideration of the covenants and obligations of MD set out in this Deed, upon and from the Effective Date, AWA Successor shall: continue to licence to Customers the Application Software upon the terms and conditions upon which that software was being licensed to those Customers by AWA as at the Completion Date but limited in time to the period of such existing licence; subject to clause 4 and subject to such modifications requested by MD having been made pursuant to sub-clause (c) but otherwise in accordance with
+AWA Successor's normal licensing policy, license and relicense the
+Application Software and license and relicense any Additions to Customers if requested to do so by such Customers, for use on or in connection with MD
+Hardware held by them at the Completion Date or upgraded hardware processors or replacement hardware systems acquired by such Customers from MD after the
+Completion Date: if it is necessary for Application Software and/or Additions to be modified to enable the Application Software and/or Additions to operate on the
+MD Hardware held by a Customer or on any upgraded hardware processors or replacement hardware systems acquired by such Customer from MD after the
+Completion Date and with the corresponding versions of the operating systems software (being a Pick based system) which is run thereon and if requested by
+MD and if reasonably technically feasible. AWA Successor shall so modify the
+Application Software and/or Additions to be licensed or relicensed pursuant to clause 2.1 (b) in a timely manner ..." (emphasis added) (Exhibit A, p 39) 
+The "effective Date" referred to in that clause was the date of the Sanderson agreement. While the "Completion Date" referred to the date of the McDonnell agreement.
+
+The reference to cl 2.2 has no bearing on the question of construction raised in these proceedings. Cl 4 may have some bearing on that question. It is in the following terms: "TERMS OF LICENSE AND SUPPORT 
+All licences, relicences and all contracts for the provision of upgrade and support services to be granted or entered into in accordance with clause 2 hereof shall be granted to or entered into with Customers and any new or existing customers of MD in accordance with AWA Successor's normal license, upgrade and support policies from time to time and upon terms and conditions no less favourable in all material respects than the terms and conditions upon which AWA Successor grants licences, and relicences, and enters into contracts for the provision of upgrade and support services in respect of such software to other customers of AWA Successor carrying on business in comparable industries with similar sized installations and in similar circumstances in the same State or Territory of Australia or in the same island of New Zealand." (Emphasis added) 
+The Sanderson offer to council, in its tender for the replacement processor, to provide its "enhancements and new modules" to the BLIS program for "nominal cost" does not appear to fit comfortably with that provision, nor is it immediately apparent how the terms of the BLIS agreement fit into that obligation. Without having any detailed evidence of Sanderson's normal policy,
+I think it is fairly safe to draw the inference from the evidence of the BLIS agreement that it was anything but the normal licensing arrangement of AWA and, so, of Sanderson.
+
+I further note that, upon my construction of the BLIS agreement, no question of extinguishment of licence by effluxion of time arises as contemplated by cl .1(a) nor does there arise any occasion for the council to request Sanderson to "license and relicense" the BLIS software for use in connection with "replacement hardware" for McDonnell's sequel hardware as contemplated by cl .1(b). If cl 2.1(c) has any application to the BLIS program, in my opinion, it speaks of the BLIS program as it had been in the hands of AWA and then
+Sanderson and not of the BLIS program as enhanced by the council since 1987.
+
+It remains to be considered whether cl 2.1 has any application to the BLIS "enhanced" program in the hands of the council. The intellectual property rights may attach to both programs, but it does not follow that cl 2.1 is addressing the enhanced program as developed by the council post September
+In my view it does not.
+
+However, cl 6 of the successor deed provides for a payment of commission in consideration of Sanderson satisfying its obligation under cl 2 by the calculation of a percentage of the net selling price of the hardware processors "in relation to which an Application Software licence or relicense is issued". It has been submitted on behalf of McDonnell that this condition of cl 6 requires there to be a discrete act on the part of Sanderson in issuing a licence or in relicensing the use of application software by a customer in relation to the hardware processor the subject of sale. It may be that the terms and conditions attaching to the licensing of application software by Sanderson limit the use of the software to particular hardware, in which event, in those cases the sale of hardware to a customer will involve such an act of relicensing or issuing a fresh licence to a customer by
+Sanderson. I admitted, provisionally, evidence of Alan Geoffrey Sercombe the commercial director of Sanderson and who had been employed by
+AWA from 1973 until 1989. Sercombe's evidence so admitted was that "during the period (he) was employed by AWA, it was the practice of AWA to license application software for use only on equipment supplied by AWA together with such software, or upon replacement equipment supplied by AWA". The evidence was admitted provisionally on the basis that further evidence would be adduced which could have the effect of making it permissible to have regard to
+Sercombe's evidence as surrounding circumstances to the construction of the successor deed. No such evidence was adduced and in my opinion that evidence should be rejected.
+
+I think the central question in the construction of cl 6 of the successor deed turns upon the meaning to be applied to the words "in relation to which an
+Application license or relicense is issued".
+
+It has been submitted that some assistance in construing this phrase may be found in the definition section of the successor deed which defines "to license" in the following way " "to license" means to license to sub-license and to procure to license or sub-license and license, licensing licensed, relicense, relicensing and relicensed shall have corresponding meanings and means to permit the legitimate use of or to not prevent the continued use of after the expiry or termination of a license;" 
+On behalf of the plaintiff it is contended that the definition makes it clear that cl 6.1 does not necessarily require some discrete act of licensing by
+Sanderson of application software at the time of the sale of the hardware in respect of which the licence is "issued". To the extent that the definition contemplates passive conduct on the part of Sanderson in "not preventing" the continued use of the Application Software, I think the contention is sound.
+However, it goes no further than that and does not require the construction of cl 6 as advanced on behalf of the plaintiff. However, it does not follow, as the defendants assert, that some discrete act of licensing or relicensing is required of Sanderson in relation to hardware processors the subject of a cl (a)(i) sale. The nature of the act required of Sanderson in issuing a licence for new hardware may depend upon the terms of the existing licence. Sanderson contends that the BLIS agreement is a case in point.
+
+In my opinion, for cl 6 to be satisfied in the claim for commission on the price of the replacement processor, it is necessary to show that Sanderson has issued an Application Software licence or relicense in accordance with cl 2.1 in relation to the subject hardware. In that exercise the definition of "to license" is of little assistance.
+
+I think the correct approach to cl 6 requires reading the phrase "in relation to which an Application Software licence or relicense is issued" as meaning "is so issued", referring back to the introductory words of the clause relating to the "licensing and relicensing (of) Application Software ...
+pursuant to cl 2.1": or, alternatively, as meaning "is issued pursuant to or in accordance with cl 2.1". In either event it must involve a "license or relicense" "in relation to" the replacement processor.
+
+Given my construction of the BLIS agreement as entitling the council to use its enhanced program on any hardware it sees fit for an unlimited time, the council may be said to have a licence to use the enhanced BLIS application software in relation to the replacement processor. However, I do not regard those circumstances as satisfying a requirement that the licence "is issued" in relation to the replacement processor within the meaning of cl 6 of the successor deed. Even if that conclusion is wrong, there still remains the question whether cl 2.1 should be construed as addressing the council's use of the BLIS program as enhanced by it since 1987. As I have observed in relation to that clause, its provisions, in my opinion, are not addressing the special circumstances attaching to the use by the council of the enhanced BLIS program. I doubt whether cl 2.1(a) has such a use within its parameters as distinct from the right to the use of the application software acquired by AWA under the BLIS agreement with any "additions or modifications" it may have effected post 1987. Similarly, I do not regard the council's enhanced program as having been modified, either at the request of McDonnell, or in accordance with Sanderson's "normal licensing policy", nor that the nature of the council's use of the enhanced program involved any request for its use for the replacement hardware the subject of the 1992 sale agreement: compare the provisions of cl 2.1(b).
+
+As earlier observed, I do not regard cl 4 as addressing the enhanced program of council. The terms of its use are quite discrete to that program and not ones which could be described as in accordance with "normal licence upgrade and support policies". All upgrade and support activities were carried out by the council and none by Sanderson. The terms of use of the program in no way satisfy the regulation of the granting of licences as contemplated in cl 4 by reference to the terms of the grant to other customers of Sanderson. I am satisfied that cl 2.1 and cl 4 are not addressing the particular circumstances of the continued use by the council of the enhanced program.
+
+Finally, having regard to the fact that over the years prior to 1992, consistently with the rights reserved to it under the BLIS agreement, the council had enhanced the program, it is very difficult to see how cl 2.1(c) could be brought into operation with Sanderson, at its own cost, being required to modify the council enhanced program to enable its use on the replacement hardware.
+
+For those reasons, neither cl 2.1 nor cl 4 of the successor deed, in my opinion, address the circumstances in which the council acquired and used its
+BLIS enhanced program. It follows in my view that Sanderson has failed to establish the circumstances which would give rise to an entitlement to commission in respect of the replacement processor: it has not shown that
+Sanderson has issued a licence "pursuant to cl 2.1" for the use of the council enhanced BLIS program "in relation to" the replacement processor.
+
+There is a very good commercial reason why this construction of the successor deed should prevail. The complimentary operation of the Sanderson agreement and the McDonnell agreement ensures that when sales of hardware are made by
+McDonnell they will be made in an even competition market with Sanderson which is also in the market to sell hardware processors. In most, if not all instances, putting the enhanced BLIS program aside, there will be complimentary benefit accruing to Sanderson and McDonnell in consideration for
+Sanderson providing and upgrading application software for McDonnell's hardware processors in the hands of a customer. Sanderson has the benefits of and associated with the licensing of application software while McDonnell has the benefit associated with the sale and maintenance of its hardware processors. The sale by McDonnell of those processors, in effect, with
+Sanderson's application software user rights, made available at commercial rates, means that, if Sanderson wishes to compete in the sale of hardware processors, it will be doing so on the same basic contractual platform as
+McDonnell, as it also is obliged to licence its application software at commercial rates to the customer.
+
+In contrast with that, on Sanderson's approach to the council enhanced BLIS program, it is at liberty to sell hardware processors compatible with that software to the council at rates competitive with those which McDonnell may offer its hardware to the council, indeed at the same rate, and yet Sanderson may call upon McDonnell to pay it 25 per cent of the sale price. Sanderson provides nothing in return. It seeks to take advantage of the reserved right of council to use the council's enhanced BLIS program to which Sanderson has made no contribution. To compound that operation Sanderson in its tender, offers its own additions to BLIS at "nominal cost", surely in conflict with cl of the successor deed if it has the application contended for by Sanderson.
+
+When one considers that AWA under the BLIS agreement, and hence Sanderson, gave nothing for the rights reserved by the council to use and, at its own cost, enhance its program, the commercial inequity of Sanderson's position is underlined. The BLIS agreement consideration given by AWA was for the right of
+AWA to use the BLIS program "for the sole purpose of intensifying (AWA's) activities in selling "Total Solutions" to local government covering both hardware and software". The right of the council to use and modify it for its own local government use was excised from that for which the consideration was given.
+
+I have formed my view of the proper construction of the successor deed independently of those commercial considerations. Happily, in my view, those commercial considerations serve to reinforce and not to detract from that construction.
+
+There may be many instances when the dealing of McDonnell with the council as a customer under the McDonnell agreement and the successor deed may attract the operation of the provisions of those deeds. I am confident that would be so. Cl 6(a)(ii) may be an instance in point. However, in my opinion, that is consistent with the view I have formed of the combined operation of cll 2 and (a) of the successor deed in relation to the enhanced BLIS program in use by the council.
+
+Evidence was led, without objection, in Sercombe's affidavit, sworn 26 April , (exhibit D) concerning negotiations between the council, Sanderson and
+AWA after the 1992 sale agreement which was said to result in an agreement executed by the council and AWA respectively on 20 May 1994 and 19 June 1995.
+The documents referred to in Sercombe's evidence were part of the agreed tender bundle. In my view that evidence is inadmissible as being material to which no regard may be had as an aid to construction of the successor deed or of any of the related agreements.
+
+I do not regard that material as post contract conduct to which the Court may have regard in aid of construction of a contract to which neither of the parties to this litigation were parties.
+
+The parties have agreed on a statement of issues which are set out below: "1. The terms of the arrangement between Blacktown City Council ("BCC") and
+AWA Limited pursuant to which BCC used the application software known as BLIS ("the BLIS Software") from 22 September 1987.
+In the light of those terms, did the Plaintiff license or relicense BCC to use the BLIS Software at any time on or after 14 September 1989 within the meaning of Clause 6 of the Successor Deed of that date?
+Was the sale of computer hardware by the First Defendant to BCC in
+November 1992: .1 a sale (of "hardware processors") "in relation to which an Application
+Software licence or relicense is issued" within the meaning of Clause 6(a)(i) of the Successor Deed? .2 a sale of "non-processor hardware" to a "Commission Customer" within the meaning of Clause 6(a)(ii) of the Successor Deed?
+Is the First Defendant liable to pay to the Plaintiff a royalties or commissions pursuant to Clauses 6(a)(i) and (ii) of the Successor Deed?
+If so, what is the amount of any such royalties or commissions?" (Agreed Statement of Issues) 
+The question raised by par 3.2 and so much of par 4 as related to cl 6(a)(ii) of the successor deed was not pursued. The questions posed by the remaining issues are answered as follows:
+In my opinion, the BLIS agreement reserved to the council the right to use the BLIS program and to enhance it as it saw fit for its own local government use and that right was unqualified as to time and as to the hardware processor in connection with which it might be used.
+No.
+ .1 No.
+No.
+Not applicable.
+
+In the light of the arrangement reached between the parties relating to the claim made in par 13 of the summons, the parties are requested to bring in short minutes of order to reflect the findings reached in these reasons. Those short minutes should include an appropriate order for costs and be accompanied by submissions if it is contended that the usual order should not be made.
+ * * * 

@@ -1,0 +1,96 @@
+
+
+Optus Networks Pty Limited and Ors versus Leighton Contractors Pty Limited and
+Ors Matter No 55059/97 [1998] NSWSC 187 (21 April 1998) 
+Last Updated: 10 June 1998 
+OPTUS NETWORKS PTY LIMITED & ORS versus LEIGHTON CONTRACTORS PTY LIMITED & ORS /97 April 1998 
+Rolfe J 
+The Supreme Court of New South Wales Common Law Division Construction List 
+Name of Case: OPTUS NETWORKS PTY LIMITED & ORS versus LEIGHTON CONTRACTORS PTY LIMITED& ORS 
+Proceedings: 55059/1997 
+Date of Hearing of Notice of Motion in Fourth Cross-Claim: 17 April 1998 
+Date of Judgment: 21 April 1998 
+Counsel for ABB Industrial Systems Pty Limited: Mr B W Collins QC 
+Solicitors for ABB Industrial Systems Pty Limited: Abbott Tout 
+Counsel for Tyco Australia Pty Limited: Mr R J Cheney 
+Solicitors for Tyco Australia Pty Limited: Blake Dawson Waldron 
+Application for Summary Judgment refused.
+
+Principles in Dey versus Victorian Railways Commissioners <case>; [(1949) 78 CLR 62]; General Steel Industries Inc versus Commissioner for Railways <case>; [(1964) 112 CLR 125];
+Wickstead versus Browne [(1992) 30 NSWLR 1]; Webster v
+Lampard <case>; [(1993) 177 CLR 598] and Esanda Finance Corporation Limited versus Peat Marwick
+Hungerfords [(1997) 188 CLR 159] applied.
+
+JUDGMENT 
+HIS HONOUR: 
+Introduction 
+By a Summons issued on 17 November 1997, which was amended pursuant to leave granted on 13 February 1998, the plaintiffs have sued a number of defendants, including the third defendant, Tyco Australia Pty Limited, ("Tyco"). For present purposes it is only necessary to refer briefly to the claim made against Tyco whereby the plaintiffs seek damages, inter alia, for negligence in the design, supply, testing, delivery, installation testing and commissioning of an Inergen gas fire suppression system. The amount in issue is said to be in the order of $43m.
+
+A number of cross-claims have been brought in the proceedings. That with which
+I am presently concerned is the Fourth Cross-Claim whereby Tyco sues ABB
+Lummus Heat Transfer BV, ("Lummus"), and ABB Industrial Systems Pty Limited, ("Industrial"), inter alios, seeking against those cross-defendants damages, contribution and/or indemnity pursuant to the [Law Reform (Miscellaneous
+Provisions) Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/), interest and costs.
+
+By a Notice of Motion filed on 18 March 1998 Industrial sought orders that it cease to be a party to the proceedings; that the Fourth Cross-Claim against it be summarily dismissed; and that Tyco pay its costs "in these proceedings".
+
+Mr B.W. Collins of Queen's Counsel, who appeared on behalf of Industrial, stated that the application was brought pursuant to [Part ](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/index.html#p8) rule 9, on the basis that Industrial had been improperly or unnecessarily joined, and [Part ](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/index.html#p13) [rule ](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/s5.html), on the bases that the pleading disclosed no reasonable cause of action or should be characterised as frivolous or vexatious. He accepted that for the purposes of the application he had to meet the General Steel test, and that he had to accept the correctness of the matters pleaded. Notwithstanding this latter concession the proceedings were conducted on the basis of a large quantity of evidence, the evidence being admissible, at least on an application under [Part ](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/index.html#p13) [rule ](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/s5.html), pursuant to sub-rule (2) thereof.
+
+Tyco's Pleaded Case 
+Tyco pleaded that on or about 30 May 1994 it entered into an agreement with a company, which is now in liquidation, Metropolitan Engineering &
+Fabrications Pty Limited, ("MEF"), pursuant to which MEF was to design, fabricate, inspect, test, obtain statutory approvals and supply a heat exchanger for incorporation in the Inergen system to be installed by Tyco, pursuant to its agreement with Leightons, at the premises of the first plaintiff. It further pleaded that on or about 30 May 1994 MEF subcontracted to Lummus and/or Industrial "(hereinafter referred to compendiously as `ABB')", the thermal design of the heat exchanger. The particulars referred to order number 34599/4935 from MEF "to ABB" dated 30 May 1994.
+
+In paragraph 4 it was pleaded that between 16 and 24 June 1994 "ABB" provided thermal designs for the heat exchanger to MEF and certain documents, to which
+I shall refer in more detail, were particularised.
+
+The cause of action against "ABB" was described as "negligence" and, in paragraph 20, it was pleaded that in performing the thermal design "ABB" owed
+Tyco, Leightons and Optus a duty of care to carry out the design with due professional skill and care and in accordance with good engineering practice; to ensure that the heat exchanger, when fabricated in accordance with the design, would be suitable and safe for the purpose for which it was intended; and where an aspect of the design involved uncommon features, necessitating special precautions, to warn MEF, Tyco, Leightons and Optus of those and of the necessary precautions.
+
+In paragraph 21 it was pleaded that "ABB's" duty to Tyco, Leightons and Optus arose out of:- "(a) ABB's purported expertise in the thermal design of heat exchangers; 
+ABB's obligations as the thermal designer of the heat exchanger and its knowledge that: the heat exchanger was required by Tyco pursuant to its agreement with Leightons to supply and instal the Inergen system at Optus' Sydney Technical Centre; 
+Tyco, Leightons and Optus were relying on ABB to exercise all due professional skill and care when carrying out the thermal design of the heat exchanger to ensure that the heat exchanger was suitable and safe for the purpose for which it was intended; and if the thermal design was not carried out with due professional skill and care, Optus's property could be damaged and that Optus would hold Leightons and Tyco responsible." 
+In paragraph 22 it was pleaded that at all material times "ABB" knew that prior to installation the heat exchanger would be required to be hydrostatically tested and, in paragraph 25, it was pleaded that in breach of its duty of care to Tyco, Leightons and Optus, "ABB":- "(a) did not carry out the thermal design with due professional skill and care; did not ensure that the tube sheet and flange layouts accorded with good engineering practice; did not ensure that the heat exchanger, when fabricated in accordance with the thermal design, would be suitable and safe for the purpose for which it was intended; and failed to warn MEF, Tyco, Leightons or Optus of the need to take special precautions following hydrostatic testing of the heat exchanger to ensure that all water was drained from the gas side of the heat exchanger." 
+It was alleged that in consequence thereof the Inergen system failed to operate properly such that Tyco has suffered loss and damage being its legal costs in respect of the proceedings, and the amount of any judgment and/or costs awarded against it in the proceedings.
+
+In paragraph 28 it was pleaded that when providing its services in respect of the design of the heat exchanger, it was reasonably foreseeable to "ABB" that
+Tyco, Leightons and Optus would suffer losses of the type pleaded in the event that the heat exchanger did not operate properly.
+
+The Evidence Of Industrial 
+Industrial relied upon the affidavit of its secretary, Mr Douglas George
+McKenzie, sworn 26 March 1998. He stated that at no time was any employee of
+Industrial authorised on its behalf "to enter a contract with any person" for the provision of the services in relation to thermal design of heat exchangers in relation to the sub-contract entered into on 30 May 1994. The order number refers to an order on the letterhead of MEF addressed to "Lummus HTS" for the carrying out of the thermal design for $10,000. It appears that thereafter certain further work was needed increasing the cost to $11,000.
+
+Mr McKenzie stated that the order was not one received by Industrial, and he then dealt with the documents particularised in paragraph 4. They are annexed to his affidavit. The first is a data sheet on the printed letterhead of
+Lummus and the second is a page of notes referring to the job by that reference. Thereafter the various documents refer to Lummus and, on 23 June , a Mr T. Simons, whose role assumes some importance, sent a facsimile transmission to Lummus stating that he had finally finished the design, attaching various papers, asking for the design to be checked, and seeking approval as soon as possible.
+
+On 17 June 1994 a meeting was held at "ABB Lummus" at which Mr Simons and representatives of other parties, including Mr Grono of Tyco, were present.
+The minutes record certain matters discussed concerning the design.
+
+On 23 August 1994 Lummus sent an account to MEF for $11,000 and it was not in issue that this amount was paid to Lummus.
+
+In these circumstances the basic submission on behalf of Industrial was that it was Lummus, which had entered into the contract and, accordingly, on the face of the pleadings no liability could attach to Industrial. There was various evidence tendered to seek to show that, at all material times, Mr
+Simons was an employee of Lummus, although there was other evidence, which tended, at least prima facie, to suggest that he was an employee of
+Industrial. I think, as the evidence presently stands, the proper inference is that when he carried out this work he did so on behalf of Lummus. However, in my opinion, that does not determine the matter for all purposes and the evidence may well show that he was employed by both Lummus and Industrial at all material times.
+
+The Submissions Of Tyco 
+Mr R.J. Cheney of Counsel, who appeared on behalf of Tyco, submitted that it was immaterial with whom the contract had been entered into because Tyco was not asserting any breach of contract, but rather negligence. He submitted, and so much was not in dispute, that there was some type of commercial and corporate relationship between Industrial and Lummus and, on certain of the correspondence, it seemed that Lummus was stated to be a division of
+Industrial under its former name. Mr Cheney also pointed to the fact that the order was not addressed to Lummus but to "Lummus HTS", which would be totally consistent with the order being addressed to "Lummus Heat Transfer Systems", which was shown, at least on some correspondence, as a division of Asea Brown
+Boveri Industrial Pty Limited, which was formerly the name of Industrial. In these circumstances, he submitted, it was not clear that MEF contracted with
+Lummus, nor that Industrial could not be responsible, in negligence, for the defects pleaded.
+
+The short point for which he contended was that having regard to the relationship between Industrial and Lummus, and having regard to the prima facie evidence that Mr Simons was employed by various companies, including
+Lummus and Industrial, it could not be said that the claim for negligence, which the Fourth Cross-Claim articulated in the way to which I have referred, should be summarily dismissed. He submitted further that it was no part of the
+Court's function, at this stage of the proceedings, to determine whether Tyco would, at the end of the evidentiary day, establish a case against Industrial, but whether Industrial had established that the case pleaded against it was of such a character as to justify summary dismissal.
+
+Conclusion 
+The pleading against Industrial, as such, does not satisfy me that the cause of action is such that it should be dismissed summarily, and the evidence is by no means sufficiently compelling to satisfy me that Industrial has no arguable case within the appropriate tests: Dey versus Victorian Railways
+Commissioners <case>; [(1949) 78 CLR 62]; General Steel Industries Inc versus Commissioner for Railways <case>; [(1964) 112 CLR 125]; Wickstead versus Browne [(1992) 30 NSWLR 1]; Webster v Lampard <case>; [(1993) 177 CLR 598] and Esanda Finance Corporation Limited versus Peat Marwick
+Hungerfords [(1997) 188 CLR 159.] Indeed, the evidence is, at least prima facie, sufficient to establish a relationship between Industrial and the design in respect of which Industrial may be vicariously liable.
+
+In my opinion, as the matter presently stands, Tyco should not be precluded, conformably with these authorities, from pursuing the action it seeks to bring against Industrial.
+
+Orders 
+I order that:-
+The Notice of Motion filed by ABB Industrial Systems Pty Limited on 18
+March 1998 be dismissed with costs.
+The exhibits be returned.
+ * * * 

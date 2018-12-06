@@ -1,0 +1,87 @@
+
+
+AS versus Murray [2013] NSWSC 733 (4 June 2013) 
+Last Updated: 12 June 2013 
+Supreme Court 
+New South Wales  
+Case Title: 
+AS versus Murray  
+Medium Neutral Citation: <case>  
+Hearing Date(s): June 2013  
+Decision Date: June 2013  
+Before: 
+Ball J  
+Decision: 
+See paragraph 26 of this judgment.  
+Catchwords: 
+TORTS - tort of intimidation - extortion - exemplary damages - injunctive relief 
+PROCEDURE - civil - application heard in the absence of the defendant 
+COSTS - indemnity costs  
+Legislation Cited: [Court Suppression and Non-Publication Orders Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/csanoa2010493/)  [Crimes Act 1900](http://www.austlii.edu.au/au/legis/nsw/consolact/ca190082/) [Crimes Act 1958](http://www.austlii.edu.au/au/legis/vic/consolact/ca195882/) 
+Practice Note SC Gen 16  [Supreme Court Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/)  
+Cases Cited: 
+Gray versus Motor Accident Commission <case>; [(1985) 155 CLR 448]  
+Texts Cited: 
+Meagher, Gummow & Lehane Equity Doctrines & Remedies, 4th ed (2002)
+LexisNexis Butterworths  
+Category: 
+Principal judgment  
+Parties: 
+AS (Plaintiff) 
+Stephen James Murray (Defendant)  
+Representation - Counsel: 
+J O'Sullivan (Plaintiff) 
+No appearance (Defendant)  - Solicitors: 
+Streeterlaw (Plaintiff)  
+File Number(s): /51455  
+Publication Restriction: 
+Nil 
+In these proceedings, the plaintiff, who's name is the subject of a non-publication order under the [Court Suppression and Non-Publication Orders Act 2010](http://www.austlii.edu.au/au/legis/nsw/consolact/csanoa2010493/) , seeks to recover the sum of $26,666 which he says he paid to the defendant as a result of extortion. The plaintiff also seeks orders that the defendant be restrained from communicating to any person any representation in relation to the plaintiff and that the defendant be restrained from communicating in any form with the plaintiff other than by communicating with the plaintiff's solicitors. In addition, the plaintiff seeks exemplary damages against the defendant in respect of the extortion.
+There was no appearance by the defendant. However, it is clear from an email the defendant sent my associate on 3 June 2013 that he was on notice of the hearing. In those circumstances, I was satisfied that it was appropriate to hear the case in his absence.
+There is no doubt that the plaintiff paid the sum of $26,666 as a result of extortion. The plaintiff gives uncontradicted evidence to that effect and there is no reason to doubt that evidence. The only real question in this case is whether the extortionist was the defendant.
+The extortion began in about December 2011 when the plaintiff received, at work, an unsolicited email from a person who identified themselves as "Felicity Jones". In a series of emails the extortionist demanded $26,666 and threatened to reveal to the plaintiff's wife, family and employer personal information concerning the plaintiff, and in particular the fact that the plaintiff had joined an internet dating site, if the plaintiff did not pay the amount demanded. It was apparent from the email sent to the plaintiff that the sender had considerable information concerning the plaintiff and appeared to have obtained that information by hacking into the plaintiff's computer and mobile telephone.
+Eventually arrangements were made for the money to be paid in cash by leaving it at a place nominated by the extortionist, which is what happened. The plaintiff heard nothing further until 8 November 2012 when the extortionist began to make a fresh demand for $40,000. In response, the plaintiff engaged a computer forensic expert who was able to identify the IP address from which it was highly likely that the extortionist's emails had been sent. That IP address belonged to Telstra Corporation Limited (Telstra). The plaintiff then commenced these proceedings on 9 February 2013 initially seeking preliminary discovery against Telstra for records in relation to the IP address and against Vodafone Hutchison Australia Pty Ltd (Vodafone) for records kept in relation to the mobile telephone number from which the extortionist sent the plaintiff text messages.
+Preliminary discovery against Vodafone did not lead anywhere. However, preliminary discovery against Telstra revealed that two Telstra account holders had accessed the IP address identified by the forensic expert. One account holder was the defendant. The information disclosed by Telstra also disclosed a post office box number as the billing address for that account. The second email address was said to belong to a Christopher Robbins. It may be inferred that that name is fictitious. As a result of the information provided by Telstra, the plaintiff sought preliminary discovery against the Australian Postal Corporation (Australia Post). Material produced by Australia Post showed that the post office box belonged to the defendant and gave a physical address for the defendant in Huntingdale, Victoria. Using that address, the plaintiff joined the defendant and applied for search orders, which were granted on 15 March 2013.
+The independent solicitor appointed by the court sought to execute those orders on 18 March 2013. However, the defendant refused to comply with them. In the meantime, the plaintiff arranged for a private investigator to conduct surveillance of the defendant. Following the attempt to execute the search order the defendant, at approximately 9 pm on 18 March 2013, drove to a place where he worked and appeared to place something in a large bin. Subsequently the private investigator searched that bin, but only found garden refuge.
+A further search order was made by the court on 20 March 2013. That order was executed on 22 March 2013. During the execution of that order the defendant claimed that his home had been burgled and that a computer had been stolen. The defendant also conceded that he worked as a private investigator and had investigated the plaintiff about four years previously. He said that he may have a file relating to that investigation, although that file could not be found. The defendant did, however, have other files relating to his work as a private investigator. The search party found an internet thumb drive. The defendant denied that he had any other means of accessing the internet. However, shortly afterwards the search party found a Netgear-Bigpond wireless server. The defendant denied that he knew the login name and password for that device. However, the IP address associated with that device is the same as the IP address that the forensic expert identified as the one from which it was highly likely the emails had been sent. The search order was also executed at other premises.
+As a result of the search order two computer towers, two memory cards and a laptop were located and impounded. Among material found were copies of a number of the emails that had been sent to the plaintiff under the name Felicity Jones.
+In my opinion it is clear from this material that the defendant is the extortionist. That conclusion is supported by the fact that the emails were sent from an IP address associated with the defendant and the fact that the defendant had copies of the offending emails. It is also supported by the defendant's behaviour. Although nothing was found in the bin, the defendant's behaviour in driving to it at around 9 pm at night, the claim that he had been the victim of a burglary whilst under surveillance, the absence of any evidence of a burglary and the absence of the defendant's file relating to the plaintiff, strongly suggest that that file was destroyed by the defendant. The fact that the defendant had investigated the plaintiff four years earlier explains how the defendant chose the plaintiff to be the object of his extortion.
+In the email the defendant sent to my associate he complains about the way the search order was executed. However, Mr Stevens, the independent solicitor appointed to conduct the search order, has provided a detailed account of the steps he took to serve and execute the order. I accept that evidence and, in my opinion, it demonstrates that there was no unfairness in the way the order was executed. Moreover, orders made by Rein J on 22 April 2013 contain the following paragraph: 
+Notes that the Court will not have regard to any communication made to it by or on behalf of the defendant by telephone, facsimile, email or any other means other than by a person appearing in open Court.
+
+Those orders were served on the defendant. Despite that, there was no appearance by him. In those circumstances, no weight can be placed on the defendant's email.
+In my opinion, the plaintiff has established that he is entitled to the relief he seeks.
+The plaintiff did not identify a clear basis on which he was entitled to the injunctions he sought or to exemplary damages. He claimed the amount of $26,666 on the basis that it was paid under an agreement that had been procured by duress or on the basis of unjust enrichment.
+In my opinion, however, the defendant has committed the tort of intimidation. The essential elements of that tort were described by Denning MR in Morgan versus Fry [[1968] 2 QB 710] at 724 in these terms: [T]here must be a threat by one person to use unlawful means (such as violence or a tort or a breach of contract) so as to compel another to obey his wishes: and a person so threatened must comply with the demand rather than risk the threat being carried into execution. In such circumstance the person damnified by the compliance can sue for intimidation.
+
+That passage was approved by Nagle J in Latham versus Singleton [[1981] 2 NSWLR ]
+at 858.
+Here there seems little doubt that the defendant committed an offence under [s 249K](http://www.austlii.edu.au/au/legis/nsw/consolact/ca190082/s249k.html) of the [Crimes Act 1900](http://www.austlii.edu.au/au/legis/nsw/consolact/ca190082/) (the Act). [Section 249K(1)](http://www.austlii.edu.au/au/legis/nsw/consolact/ca190082/s249k.html) provides: 
+A person who makes any unwarranted demand with menaces: with the intention of obtaining a gain or of causing a loss, or with the intention of influencing the exercise of a public duty, is guilty of an offence.
+[Section 249M(1)(a)](http://www.austlii.edu.au/au/legis/nsw/consolact/ca190082/s249m.html) of the Act defines "menaces" to include: [A]n express or implied threat of any action detrimental or unpleasant to another person.
+The offence was committed in New South Wales because that is where the unwarranted demand was communicated. But even if that is wrong, a similar offence exists in Victoria: see [s 87](http://www.austlii.edu.au/au/legis/vic/consolact/ca195882/s87.html) of the [Crimes Act 1958](http://www.austlii.edu.au/au/legis/vic/consolact/ca195882/) (Vic). By those unlawful threats, the defendant compelled the plaintiff to pay the sum of $26,666. The plaintiff is entitled to recover that sum as damages.
+In my opinion, the plaintiff is also entitled to injunctions in the form that he seeks. There are two bases for those injunctions. First, the plaintiff is entitled to an injunction to restrain threatened further conduct that would amount to the tort of intimidation. Second, the plaintiff is entitled to restrain the defendant from using confidential information that the defendant obtained improperly by hacking into the plaintiff's computer.
+As to the first basis, [s 66](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/s66.html) of the [Supreme Court Act 1970](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/) provides: 
+The Court may, at any stage of proceedings, by interlocutory or other injunction, restrain any threatened or apprehended breach of contract or other injury.
+
+Subsection (1) applies as well in a case where an injury is not actionable unless it causes damage as in other cases.
+ ...
+It will often be appropriate for the court to grant an injunction to restrain the threatened commission of a tort where damages are an inadequate remedy. In the present case, damages are clearly not an adequate remedy. The vice in the defendant's conduct is as much in the threat as in the conduct that completes the tort and there is no means by an award of damages to compensate the plaintiff for the injury caused by that threat. As to the second basis, the court will grant an injunction to restrain the publication of improperly obtained confidential information; see Meagher, Gummow and Lehane's Equity Doctrines & Remedies, 4th ed (2002) LexisNexis Butterworths at [41-045]. The information obtained by the defendant was confidential because it was personal information concerning the plaintiff. It was clearly obtained improperly because it was obtained by hacking into the plaintiff's computer.
+The injunctions sought by the plaintiff are expressed very broadly. However, there is no relationship between the plaintiff and the defendant. The defendant has no reason either to contact the plaintiff or to make representations concerning the plaintiff other than in furtherance of his attempts at extortion. There are difficulties in formulating narrower injunctions which achieve the objective of preventing the defendant making further threats and carrying out those threats, and at the same time making it clear what the defendant must not do. For those reasons, in my opinion, it is appropriate to grant injunctions in the terms sought by the plaintiff.
+As I have said, the plaintiff also seeks an award of exemplary damages. In Gray versus Motor Accident Commission [[1998] HCA 70] Gleeson CJ, McHugh, Gummow and Hayne JJ, said at [12]: 
+Exemplary damages are awarded rarely. They recognise and punish fault, but not every finding of fault warrants their award. Something more must be found.
+
+That something more was described later (at [20]) by their Honours as "conscious wrongdoing in contumelious disregard of the plaintiff's rights".
+Exemplary damages cannot be awarded for breach of contract. They are awarded to punish the defendant and to deter the defendant from committing similar conduct again: see XL Petroleum NSW Pty Ltd versus Caltex Oil Australia Pty Ltd <case>; [(1985) 155 CLR 448] at 471 per
+Brennan J, cited with approval by Callinan J in Gray at [125].
+I am satisfied that an award of exemplary damages is appropriate in this case. The extortion involved a contumelious disregard of the plaintiff's rights. It was exacerbated by the fact that the defendant made a second attempt at extortion after the first had been successful. In my opinion, it is appropriate to order that the defendant pay $20,000 in exemplary damages.
+The defendant should also pay interest on the $26,666 from the date that it was paid, that is from 3 January 2012, at the rate set out in Practice Note SC Gen 16.
+Finally, the defendant should pay the plaintiff's costs. In my opinion, it is appropriate that those costs be assessed on an indemnity basis, for substantially the same reasons that it is appropriate to award exemplary damages.
+Consequently the orders of the court are: 
+An order that the defendant be restrained from communicating to any person any representation in relation to the plaintiff; 
+An order that the defendant be restrained from communicating in any form with the plaintiff other than by communicating with the plaintiff's solicitors; 
+Judgment for the plaintiff against the defendant in the sum of $26,666 together with interest on that amount calculated from 3 January 2012 to the date of judgment, that is 4 June 2013, at the rate set out in Practice Note
+SC Gen 16; 
+Judgment for the plaintiff against the defendant for exemplary damages in the sum of $20,000; 
+The defendant pay the plaintiff's costs on an indemnity basis.
+ * * * 

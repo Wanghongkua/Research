@@ -1,0 +1,273 @@
+
+
+Griffin Energy Group Pty Limited (Subject to Deed of Company Arrangements) -v- ICICI Bank Limited (Singapore Branch) [2015] NSWSC 87 (20 February 2015) 
+Last Updated: 23 February 2015 
+Supreme Court 
+New South Wales  
+Decision: 
+Summons dismissed. Cross-summons dismissed.  
+Catchwords: 
+BANKING - Standby Letters of Credit - International Chamber of Commerce
+Publication Number 590 - International Standby Practices (ISP98) - proper construction of rules 1.09 and 3.13 which provide for extension of date for timely presentation where the last day for presentation is not a business day of the issuer or nominated person - where the letters of credit contain a further definition of business day - which definition applies to extension of date - meaning of the expression banks open for general business in Singapore and Australia - where letters of credit require declaration that amount is due and payable and delivery of drafts - whether drafts can be dated on a date later than delivery - meaning of due and payable - construction of underlying agreement - determination of whether amount is due and payable  
+JUDGMENT 
+INTRODUCTION
+HIS HONOUR: This dispute has been brought to trial as a matter of urgency due to its significant commercial ramifications and exigencies.
+It concerns the operation of three standby letters of credit (Letters of Credit) issued on 28 February 2011. Each Letter of Credit has a maximum liability of $50 million and, on its face, expires on 1 March 2015.
+On 14 December 2010, by written Sale Agreement (the Agreement), the plaintiff and a related entity as Vendors agreed to sell to the fourth defendant as Purchaser 11,390,685 shares in The Griffin Coal Mining Company Pty Ltd (GCMC) and 1 share in Carpenter Mine Management Pty Ltd (Sale Shares) for some $740 million. The Sale Shares represent an underlying interest in a coal mine near Collie, Western Australia.
+The Purchase Price comprises Initial Consideration of $490 million (less certain Employee Entitlements) and Deferred Consideration of $250 million. The Deferred Consideration is payable in instalments of $100 million and $150 million. The Initial Consideration and the first instalment of Deferred Consideration have been paid.
+The Letters of Credit were issued to secure the final instalment of $150 million. A dispute has arisen as to whether the conditions to enable the plaintiff to demand payment under the Letters of Credit can be met.
+
+THE FACTS
+The facts are not in dispute.
+
+The Agreement
+Under cl 5.3(c) of the Agreement, on Completion, in consideration for the transfer of the Sale Shares, the Purchaser must provide letters of credit to the Vendors in accordance with cl 6.2. Completion is defined in cl 1.1 to be completion of the sale and purchase of the Sale Shares in accordance with cl 5. By cl 5.1, Completion is to take place on the Completion Date, once the conditions provided for under cl 5.2 to 5.4 of the Agreement have been fulfilled. The Completion Date was 28 February 2011.
+Clause 6 of the Agreement is in the following terms: "6.1 Deferred Consideration 
+The Purchaser will pay the Deferred Consideration to the Vendors in
+Immediately Available Funds in consideration for the transfer of the Sale
+Shares in the following manner: $100 million payable on the date which is the earlier of: two years from the Completion Date; and the date of receipt of the requisite approvals (including environmental approvals) for the development and operation of a railway line from the mining operations of GCMC to the export facilities at the Port Bunbury; and $150 million payable on the date which is the earlier of: four years from the Completion Date; and the date of the first export of coal produced by GCMC via the newly constructed facilities and/or berth at the Port of Bunbury.
+ .2 Letters of Credit 
+The Purchaser must provide the Letters of Credit to the Vendors at
+Completion.
+
+The Vendors will notify the Purchaser at least one Business Day prior to calling on, or drawing down on, any of the Letters of Credit.
+
+As soon as reasonably practicable after the execution of this document, the Vendors must provide the Purchaser with a draft Letter of Credit for each bank counterparty on items which are satisfactory to the Vendors (acting reasonably).
+
+If an event occurs which in the opinion of the Vendors (acting reasonably) causes (directly or indirectly) a bank counterparty who is providing a Letter of Credit to be unlikely to be able to comply with its obligations under the
+Letter of Credit, the Purchaser must use reasonable endeavours to procure that a new Letter of Credit from a different bank with an investment grade rating is obtained to replace that bank's Letter of Credit."
+Under Cl 1.1 of the Agreement: "Business Day means a day which is not a Saturday, Sunday or bank or public holiday in Perth, Western Australia.
+
+Letters of Credit means one or more Letters of Credit from each of Australia and New Zealand Banking Group, Westpac Banking Corporation and ICICI Bank
+Limited for in aggregate the full amount of the Deferred Consideration on terms satisfactory to the Vendors (acting reasonably), including that such
+Letters of Credit must reflect clause 6 and must otherwise be unconditional."
+Clause 1.2(g) of the Agreement provides "Unless expressed to the contrary, in this document...if the date on or by which any act must be done under this document is not a Business Day, the act must be done on or by the next Business Day".
+The date which is four years from the Completion Date is Saturday 28 February 2015.
+It is common cause that the first export of coal produced by GCMC via the newly constructed facilities and/or berth at the Port of Bunbury (which is in Western Australia) will not have occurred by that date.
+
+The Letters of Credit
+On 28 February 2011 (as it happens, on the Completion Date), the first defendant, ICICI Bank Limited (Singapore Branch) (ICICI), of 9 Raffles Place, 50-01 Republic Plaza, Singapore, issued the Letters of Credit designated numbers 882BG911, 882BG1111 and 882BG1311 respectively, on account of the fourth defendant in favour of the plaintiff as Beneficiary.
+I will refer (as did the parties during the proceedings) to them as the First, Second and Third Letters of Credit, respectively.
+The third defendant, National Australia Bank (NAB), acted as ICICI's agent in issuing the Letters of Credit. NAB has filed a submitting appearance.
+The First Letter of Credit and the Third Letter of Credit incorporate, mutatis mutandis, the same provisions. The second defendant, Standard Chartered Bank (Standard Chartered), 6 Battery Road, Level 4, Singapore, is Confirming Bank, and NAB is Reimbursing Bank.
+The sole obligor party under the Second Letter of Credit is ICICI. Apart from this, the material terms of the Second Letter of Credit are relevantly indistinguishable from those of the First and Third Letters of Credit.
+The First Letter incorporates, relevantly, the following narrative: "ICICI Bank Limited, 9 Raffles Place 50-01 Republic Plaza, Singapore 048619 (Issuing Bank) issues an irrevocable stand-by letter of credit as follows: 
+Stand-By Letter of Credit No: 882BG911 
+Dated: 25 February 2011 
+Account Party: Lanco Resources Australia Pty Ltd, ACN 147 835 452 
+Address: Allen and Overy, Level 27, Exchange Plaza, 2 The Esplanade Perth WA 
+Beneficiary: Griffin Energy Group Pty Ltd ACN 008 681 696 (Deed Administrators appointed) Kordamentha Level 11, 37 St Georges Terrace Perth WA 6000.
+
+Issued in connection with: The obligations of the Account Party under a sale agreement between the Beneficiary, Carpenter Mine Management Holdings Pty Ltd
+ACN 122 080 684 having its office at Kordamentha Level 11, 37 St Georges
+Terrace, Perth, the Account Party, Lanco Infratech Limited having its office at Lanco House, Plot 397, Phase-3, Udyog Vihar, Gurgaon - 102 016, India and
+Lanco International Pte Ltd having its office at 8 Shenton way HEX32-03,
+Singapore 068811 dated 14 December 2010 (Agreement).
+
+Maximum Liability: AUD 50,000,000.00 (Australian Dollar Fifty Million) 
+Expiry date: 1 March 2015 
+Confirming Bank: Standard Chartered Bank, Trade Services, 6 Battery Road,
+Level 4, Singapore 049909. SWIFT SCBLSGSG 
+Available at: Confirming Bank's counters 
+By Draft on: Issuing Bank 
+Payable at: Sight 
+Reimbursing Bank: National Australian Bank Limited, Melbourne, Victoria (Swift: NATAAU33033) 
+Business Day: Any day (other than a Saturday or a Sunday) on which banks are open for general business in Singapore and Australia.
+
+Enfaced: "Drawn under stand-by letter of credit no. 882BG1311 dated 25 Feb "
+Drafts drawn under this stand-by letter of credit are payable to the credit of the Beneficiary's account as nominated by the Beneficiary, and may be drawn for any amount not exceeding in aggregate the Maximum Liability specified above.
+Drafts must be delivered to the Confirming Bank at the address at which this stand-by letter of credit is expressed to be available by no later than :30 pm (Singapore time) on or before the Expiry Date specified above, with a declaration stating that: 
+The Declarants are two officers (which will include any Administrator,
+Deed Administrator, Receiver or Liquidator) of the Beneficiary and are making the declaration on behalf of the Beneficiary.
+
+The Declarants have authority to make the declaration on behalf of the
+Beneficiary.
+
+The Declaration is made under stand-by letter of credit No 882BG1311.
+
+The amount claimed is not more than the maximum liability under stand-by letter of credit No. 882BG1311.
+
+The first export of coal produced by the Griffin Coal Mining Company Pty
+Limited ACN 008 667 285 via the newly constructed facilities and/or berth at the Port of Bunbury has occurred. If the draft is dated 1 March 2015 then this clause 2(E) does not apply, and 
+The amount claimed is due and payable to the Beneficiary by the Account
+Party.
+Upon receipt of credit compliant documents as stipulated in clause 2 above at the counters of the Confirming Bank, the Confirming Bank will pay the
+Beneficiary within 4 Business Days.
+Confirming Bank is authorised to add its confirmation to this standby letter of credit and advise the same to the Beneficiary through Second
+Advising Bank.
+Confirming Bank is authorised to claim reimbursement from Reimbursing Bank upon receipt of credit compliant documents at its counters on or before the
+Expiry Date. Confirming Bank will be reimbursed within 3 Business Days of receipt of a notice by the Issuing Bank via authenticated swift at its Swift
+Address ICICSGSG to the attention of the Bank Guarantee Department and a claim to the Reimbursing Bank at its Swift Address NATAAU33033.
+The Issuing Bank and the Confirming Bank need not investigate the authenticity or correctness of any matter stated in any declaration purportedly given under this stand-by letter of credit or of the capacity or entitlement of the Beneficiary or its relevant officers (including any
+Administrator, Receiver or Liquidator) to give and execute such declaration.
+This stand-by Letter of credit is: 
+Subject to the International Standby Practices - ISP98 (International
+Chamber of Commerce Publication No 590) except provisions of Article 3.14 and 
+Governed by the laws applicable in New South Wales, Australia, and the
+Issuing Bank, Account Party and Beneficiary submit to the non exclusive jurisdiction of the courts in New South Wales, Australia.
+The Confirming Bank engages wit the Beneficiary that drafts drawn under and in compliance with the terms of this stand-by letter of credit will be paid within 4 Business Days after presentation to the Confirming Bank.
+
+We have added our confirmation to this credit. We shall accordingly honour your draft on due presentation if accompanied by documents as stipulated by and in compliance with the credit terms and conditions. This undertaking takes effect from the Issuance Date of the credit and is valid up to 01 March 2015 only and does not cover any subsequent amendment issued or received by us unless with our Swift consent.
+
+This letter must be presented with all drafts and/or documents drawn under the attached Letter of Credit for negotiation/payment/acceptance.
+
+Regards 
+LC Confirmation Desk"
+The Second Letter of Credit contains relevantly the following narrative: "ICICI Bank Limited, 9 Raffles Place, 50-01 Republic Plaza, Singapore 048619 (Issuing Bank) Issues an irrevocable Stand-by Letter of Credit as follows: 
+Stand-by Letter of Credit No: 882BG1111 
+Dated: 25 Feb 2011 
+Account Party: Lanco Resources Australia Pty Ltd ACN 147 835 452 
+Address: Allen and Overy, Level 27, Exchange Plaza, 2 The Esplanade, Perth WA 
+Beneficiary: Griffin Energy Group Pty Ltd ACN 008 681 696 (Deed Administrators
+Appointed) Kordamentha Level 11, 37 St Georges Terrace, Perth WA 6000 
+Issued in connection with: the obligations of the Account Party under a sale agreement between the Beneficiary, Carpenter Mine Management Holdings Pty Ltd
+ACN 122 080 684 having its office at Kordamentha, Level 11, 37 St Georges
+Terrace, Perth, the Account Party, Lanco Infratech Limited having its office at Lanco House, Plot 397, Phase - 3, Udyog Vihar, Gurgaon -102 016, India and
+Lanco International Pte Ltd having its office at 8 Shenton Way HEX32-03,
+Singapore 068811 dated 14 December 2010 (Agreement).
+
+Maximum Liability: AUD 50,000,000.00 (Australian Dollar Fifty million).
+
+Expiry date: 1 March 2015 
+Available at: Issuing Bank's counters 
+By draft on: Issuing Bank 
+Payable at: Sight 
+Business Day: Any day (other than a Saturday or a Sunday) on which banks are open for general business in Singapore and Australia.
+
+Enfaced: "Drawn under Stand-by Letter of Credit No 882BG1111 dated 25 Feb "
+Drafts drawn under this stand-by letter of credit are payable to the credit of the Beneficiary's account as nominated by the Beneficiary, and may be drawn for any amount not exceeding in aggregate the Maximum Liability specified above.
+Drafts must be delivered to the Issuing Bank at the address at which this stand-by letter of credit is expressed to be available by no later than 1.30 pm (Singapore time) on or before the Expiry Date specified above, with a declaration stating that: 
+The Declarants are two officers (which will include any Administrator,
+Deed Administrator, Receiver or Liquidator) of the Beneficiary and are making the declaration on behalf of the Beneficiary.
+
+The Declarants have authority to make the declaration on behalf of the
+Beneficiary.
+
+The declaration is made under stand-by letter of credit No 882BG1111.
+
+The amount claimed is not more than the Maximum Liability under Stand-by
+Letter of Credit No 882BG1111.
+
+The first export of coal produced by the Griffin Coal Mining Company Pty
+Ltd ACN 008 667 285 via the newly constructed facilities and/or berth at the
+Port of Bunbury has occurred. If the draft is dated 1 March 2015 then this clause 2(E) does not apply, and 
+The amount claimed is due and payable to the Beneficiary by the Account
+Party.
+Upon receipt of credit compliant documents as stipulated in clause 2 above at the counters of the Issuing Bank, the Issuing Bank will pay the Beneficiary within 4 Business Days.
+The Issuing Bank need not investigate the authenticity or correctness of any matter stated in any declaration purportedly given under this stand-by letter of credit or of the capacity or entitlement of the Beneficiary or its relevant officer (including any Administrator, Receiver or Liquidator) to give and execute such declaration.
+This Stand-by Letter of Credit is: 
+Subject to the International Standby Practices - ISP98 (International
+Chamber of Commerce Publication No 590) except provisions of Article 3.14 and 
+Governed by the laws applicable in New South Wales, Australia, and the
+Issuing Bank, Account Party and Beneficiary submit to the non exclusive jurisdiction of the courts in New South Wales, Australia.
+The Issuing Bank engages with the Beneficiary that drafts drawn under and in compliance with the terms of this Stand-by Letter of Credit will be paid within 4 Business Days after presentation to the Issuing Bank." 
+Regards 
+ICICI Bank Limited Singapore" 
+International Standby Practices (ISP98)
+The Letters of Credit are expressly made subject to International Standby Practices (ISP98) which contains private rules of practice (Rules) intended to apply to standby letters of credit. The official text of ISP98 was issued by the International Chamber of Commerce as publication no. 590 in 1998.
+Rule 1.01 provides: "Scope and Application 
+These Rules are intended to be applied to standby letters of credit (including performance, financial, and direct pay standby letters of credit).
+
+A standby letter of credit or other similar undertaking, however named or described, whether for domestic or international use, may be made subject to these Rules by express reference to them.
+
+An undertaking subject to these Rules may expressly modify or exclude their application.
+
+An undertaking subject to these Rules is hereinafter referred to as a "standby"."
+By Rule 1.09(a): "Business day" means "a day on which the place of business at which the relevant act is to be performed is regularly open"; and "Demand" means "depending on the context, either a request to honour a standby or a document which makes such request".
+Rule 2.03 provides: "Conditions to Issuance 
+A standby is issued when it leaves an issuer's control unless it clearly specifies that it is not then "issued" or "enforceable". Statements that a standby is not "available", "operative", "effective", or the like do not affect its irrevocable and binding nature at the time it leaves the issuer's control."
+Rule 2.04(a) provides: "Nomination 
+A standby may nominate a person to advise, receive a presentation, effect a transfer, confirm, pay, negotiate, incur a deferred payment obligation, or accept a draft."
+Rule 3.01 provides: "Complying presentation under a standby 
+A standby should indicate the time, place and location within that place, person to whom, and medium in which presentation should be made. If so, presentation must be so made in order to comply. To the extent that a standby does not so indicate, presentation must be made in accordance with these Rules in order to be complying."
+Rule 3.02 provides: "What constitutes a presentation? 
+The receipt of a document required by and presented under a standby constitutes a presentation requiring examination for compliance with the terms and conditions of the standby even if not all of the required documents have been presented."
+Rule 3.13 provides: "Expiration date on a non-business day 
+If the last day for presentation stated in a standby (whether stated to be the expiration date or the date by which documents must be received) is not a business day of the issuer or nominated person where presentation is to be made, then presentation made there on the first following business day shall be deemed timely."
+Rule 4.01 provides: "Examination for compliance 
+Demands for honour of a standby must comply with the terms and conditions of the standby.
+
+Whether a presentation appears to comply is determined by examining the presentation on its face against the terms and conditions stated in the standby as interpreted and supplemented by these Rules which are to be read in the context of standard standby practice."
+Rule 4.06 provides: "Date of documents 
+The issuance date of a required document may be earlier but not later than the date of its presentation."
+Rule 4.16 provides: "Demand for payment 
+A demand for payment need not be separate from the beneficiary's statement or other required document.
+
+If a separate demand is required, it must contain: a demand for payment from the beneficiary directed to the issuer or nominated person; a date indicating when the demand was issued; the amount demanded; and the beneficiary's signature." 
+Labour Day in Perth
+By the Public and Bank Holiday Act 1972 (WA), "Monday on or first Monday following the 1st March", is a public and bank holiday in that state designated Labour Day. Thus, Monday 2 March 2015 will be a public and bank holiday in Perth, Western Australia, but it will not be a public or bank holiday in any other state or territory of Australia or in Singapore.
+
+THE CASE
+The Letters of Credit are payable At Sight. Payment is called for (or demanded) by drafts drawn payable to the credit of the Beneficiary's account being delivered (or presented), in the case of the First and Third Letters of Credit, to the Confirming Bank, and in the case of the Second Letter of Credit, to the Issuing Bank. The address in each case for delivery (presentment or presentation) is the relevant bank's counters in Singapore. The time for delivery is no later than 1.30 pm Singapore time on or before the Expiry Date.
+All types of Letters of Credit have one point in common. That is, the beneficiary must strictly comply with its terms to invoke the bank's commitment; Rodney Purvis and Robert Darvas, The Law and Practice of Commercial Letters of Credit and Termination of Disputes in International Trade, (1st ed 1975, Butterworths) at 2.24.
+Clause 2 of the Letters of Credit provides that the drafts must be delivered with a declaration by two officers of the Beneficiary.
+
+Clause 2(F)
+The first field of controversy concerns cl 2(F) of the Letters of Credit. It provides that the declaration must state that the amount claimed is due and payable to the Beneficiary (the plaintiff) by the Account Party (the fourth defendant).
+Because Monday, 2 March 2015 is a public and bank holiday in Perth, by cl 6.1(b) of the Agreement read with cl 1.2(g), the final instalment of the Deferred Consideration (which but for the intervention of the weekend and the public holiday would have been payable on 28 February 2015 - the date which is four years from the Completion Date) must be paid on 3 March 2015.
+On their face the Letters of Credit will expire on 1 March 2015. However, that is not a business day in Singapore or Australia. It is common cause that by virtue of Rule 3.13(a), presentment will be timely if it occurs on what is the first following business day within the meaning of that Rule. 2 March 2015 is a business day in Singapore but not in Perth.
+If the first following business day is 2 March 2015, but the amount payable under cl 6.1(b) of the Agreement only becomes due and payable on 3 March 2015, the plaintiff will not be able to provide a declaration on 2 March 2015 that the amount is due and payable. By 3 March 2015, when it could do so, the Letters of Credit will have expired.
+The plaintiff seeks declarations that presentation on 3 March 2015 is timely.
+The first issue is: when does the amount to be paid under cl 6.1(b) of the Agreement become due and payable? The second is: what is the first following business day after 1 March 2015 for the purposes of determining what will be timely presentation for the purposes of Rule 3.13(a)? 
+Amount Due and Payable
+The plaintiff puts that the amount to be paid under cl 6.1(b) of the Agreement will be due and payable on 28 February 2015. It puts that cl 6.1(b) imposes an obligation to pay on the date which is four years from the Completion Date and that upon arrival of that date the amount is due and payable. It puts that cl 1.2(g) does not displace this accrued obligation, but merely shields the payer from contractual consequences of failure to meet it.
+The fourth defendant submits that if the date which cl 6.1(b) specifies as the date upon which the payment is to be made is not a Business Day (within the definition of that term in cl 1.1 of the Agreement), under cl 1.2(g) the act of payment must be done on the next Business Day. It submits that until then, no action to enforce payment can be maintained, with the consequence that until then the amount is not due and payable.
+The declaration which the plaintiff must deliver on presentation has to state that the debt is both due and payable.
+This means that the time for payment has arrived and action to enforce it may be maintained; see Mack versus the Commissioner of Stamp Duties (New South Wales) <case>; [(1920) 28 CLR 373] at 383 (Isaacs J). That is not this case. The clear effect of cl 1.2(g) is that no action for payment could be maintained before the next Business Day. It follows that the final instalment under the Agreement will not be payable until the next Business Day in Perth which is 3 March 2015. I accordingly uphold the fourth defendant's submission.
+
+First following business day
+As has been earlier observed, the Letters of Credit themselves contain a bespoke definition of Business Day, being any day other than a Saturday or Sunday on which banks are open for general business in Singapore and Australia.
+Rule 1.09, however, contains a different definition of the same term, being a day on which the place of business at which the relevant act is to be performed is regularly open. In the present case, the relevant act is presentation and the place where it is to be performed is the respective counters of ICICI and Standard Chartered in Singapore.
+The plaintiff submits that business day in Rule 3.13(a) means Business Day as defined in the bespoke definition. It argues that a definition particularly chosen by the parties should be given greater weight than one in standard form rules.
+The plaintiff argues that "open for general business in Singapore and Australia" means open for general business in Singapore and everywhere in Australia. This construction, it puts, avoids the Letters of Credit "being defeated" by a disconformity between days on which banks are open in Singapore and Australia.
+On this approach, unless on a particular date banks are open for general business in both Singapore and everywhere in Australia, that date will not be a business day under Rule 3.13(a). Correspondingly, a date which is not a business day will be any day on which banks are not open for general business either in Singapore or anywhere in Australia.
+On this footing, 2 March 2015 will be a date which is not a business day because it is a public holiday in Perth. The first following business day after 28 February 2015 will be 3 March 2015.
+The fourth defendant submits that Rule 1.09 definition of business day applies to Rule 3.13(a) and that the bespoke definition applies to the expression Business Day only where that expression is used in the Letters of Credit themselves, that is, in cl 3, 5 and 8.
+If the definition of business day in Rule 1.09 prevails, 2 March 2015 will qualify as the first following business day after 28 February 2015 when banks in Singapore are regularly open.
+It argues that Rule 3.13(a) is concerned with an act (presentation) to take place in a single location, namely, the place of business of the issuer or nominated person and the definition in Rule 1.09 sensibly is directed to the business day at the place where that person carries on business. In contrast, cl 3, 5 and 8 involve dealings or potential dealings between two parties, one in Singapore and another in Australia. Hence, the bespoke definition is sensibly directed to days which are business days at both those places.
+The fourth defendant puts further that inserting the bespoke definition into Rule 3.13(a) results in the following nonsensical reading of the provision: "If the last day for presentation stated in a standby is ... a Saturday or a
+Sunday or a day on which banks are open for general business in Singapore and
+Australia in the place of the issuer or nominated person where presentation is to be made, then presentation made there on the first following day (other than a Saturday or a Sunday) on which banks are open for general business in
+Singapore and Australia shall be timely."
+ICICI suggests a third possibility, namely, that the bespoke definition be read into Rule 3.13(a) as follows: "If the last day for presentation stated in [the Letter of Credit] ... is a
+Saturday or Sunday or a day on which banks are not open for general business in Singapore and Australia, then presentation on the first following day (other than a Saturday or Sunday) on which banks are open for general business in Singapore and Australia shall be deemed timely."
+ICICI submits that the meaning of "open for general business in Australia" is open for general business anywhere (as opposed to everywhere) in Australia.
+The Letters of Credit are commercial instruments. They are to be construed by reference to the language used, the surrounding circumstances and the commercial purpose or object of the contract. They are to be construed so as to avoid making commercial nonsense or working commercial inconvenience; Electricity Generation Corporation versus Woodside Energy Limited <case>; [(2014) 251 CLR 640] at 450-451. The Letters of Credit were issued some two and a half months after the Agreement was entered into.
+For the reasons which follow, I consider that the definition of business day in Rule 1.09 applies to Rule 3.13(a). If, however, the bespoke definition applies, I consider that 2 March 2015 is a Business Day under it.
+In cl 7, the Letters of Credit expressly provide that they are subject to the Rules. Rule 1.04 provides that unless the context otherwise requires, or unless expressly modified or excluded, the Rules apply as terms and conditions incorporated into a standby. A standby includes a standby Letter of Credit.
+The Letters of Credit include a bespoke definition of Business Day but do not expressly exclude the Rule 1.09 definition, in particular, as it applies to the expression "not a business day of the issuer or nominated person", in Rule 3.13(a). The context is inimical to the conclusion that the Rule 1.09 definition should be excluded.
+Rule 3.13(a) is the only provision which caters for extension where the last day for presentation occurs on a non-business day.
+The provision is not directed to non-business days simpliciter, but to a non-business day only of the issuer or a nominated person. This is because the place of business of the issuer or nominated person is where presentation must be made, but on a non-business day of that person, that object cannot be achieved. Hence, the Rule provides that presentation may be made there on the first following business day.
+The phrase in Rule 3.13(a) to be construed is not "not a business day", but rather "not a business day of the issuer or nominated person".
+Neither commercial sense nor convenience necessitates an extension of the time for presentation where there is no obstacle to that act taking place. Both constructions contended for by the plaintiffs and ICICI's suggested revision leave open the possibility that a date which is "not a business day of the issuer or nominated person" can transpire to be a date which is in fact a business day of that person. This is no doubt why the insertion of the bespoke definition into Rule 3.13(a) results in a nonsensical reading of the provision. There is force in the fourth defendant's submission that the bespoke definition was intended to only apply to Business Day where it appears in the Letters of Credit themselves.
+However, if the bespoke definition does apply, I consider that 2 March 2015 is a business day in any event.
+In my view, the ordinary meaning of the words "open for general business in Australia" means open for business in Australia, not at every physical location in Australia. I do not consider it to be a sensible construction that banks must be open in every Australian locality.
+ICICI makes the point that the nature of modern banking practice is such that banks open anywhere in Australia are capable or transacting business for and on behalf of all of the bank's customers, wherever located. There was evidence that there are 25 Australian owned banks and over 40 foreign banks authorised to take deposits in Australia. Some bank holidays and public holidays are limited to single localities and shires (see for example Victoria Government Gazette, No S190, 30 May 2013, which appoints 31 October 2014 as a public holiday in the municipal district of Colac Otway Shire to celebrate Colac Show Day).
+On 2 March 2015 banks are open for general business in Singapore and everywhere in Australia except Western Australia. I consider that this meets the requirement of the bespoke definition of Business Day.
+
+Clause 2(E)
+Clause 2(E) of the Letters of Credit provides that the declaration must state that the first export of coal produced by the Griffin Coal Mining Company Pty Ltd via the newly constructed facilities and/or berth at the Port of Bunbury has occurred. It goes on to state that if the draft is dated 1 March 2015 then cl 2(E) does not apply.
+It is common cause that coal will not be delivered by 1 March 2015, as contemplated by cl 2(E). The plaintiff will accordingly not be able validly to declare otherwise.
+Clause 2(E) exempts the plaintiff from having to declare that coal has been delivered only if the draft is dated 1 March [2015. But 1] March 2015 is a Sunday, and the Letters of Credit cannot be drawn on in Singapore on that day.
+The plaintiff's initial position was that drafts could be dated 2 or 3 March 2015, as the case may be. However, it abandoned this during the hearing. There is no room to read the words "dated 1 March 2015" as meaning anything else. Rather, it put that the drafts could be dated 1 March 2015 but delivered on 2 or 3 March 2015. It seeks a declaration that presentation on 2 or 3 March 2015 (as the case may be) of drafts dated 1 March 2015 will be timely.
+The question which arises is whether delivery of drafts dated 1 March 2015 on the next following business day is compliance with the requirement for delivery of drafts under the Letters of Credit.
+The plaintiff puts that demand may validly be made by delivering on 2 or 3 March 2015 drafts dated 1 March 2015 with an accompanying declaration dated on the day of delivery stating that the monies claimed are due and payable.
+The plaintiff puts that cl 2 of the Letters of Credit contemplates the draft (or drafts) and the declaration being separate instruments. It puts that the declaration is aimed at ensuring honest presentation and that this object will be met if at the time of presentation the declaration correctly states that the debt is due and payable (even if the accompanying draft is earlier dated).
+The obstacle standing in the plaintiff's way is Rule 4.16(b)(ii). Drafts are demands within the Rule 1.09 definition of that term. Rule 4.16(b)(ii) requires a demand to contain a date indicating when the demand was issued. Under Rule 2.03, a standby is issued when it leaves an issuer's control unless it clearly specifies that it is not then issued or enforceable. In my view, "issued" in Rule 4.16(b)(ii) is to be construed accordingly. A demand is issued when it is delivered and in any event not before it leaves the issuer's control. A demand which bears a date before it is issued does not comply with Rule 4.16(b)(ii).
+Delivery on 2 or 3 March 2015 may otherwise be timely but the recipient could appropriately examine it and conclude that there has not been compliance with the Letters of Credit. In these circumstances there will not have been timely presentation. The declaration sought by the plaintiff must be refused.
+
+THE SECOND DEFENDANT'S POSITION
+By cross-summons, the second defendant seeks declaratory relief conditional upon the court granting the relief sought by the plaintiff that presentation of drafts dated 2 March or 3 March 2015, as the case may be, or dated 1 March 2015, together with a declaration dated 2 March or 3 March 2015, as the case may be, are credit compliant documents for the purposes of cl 5 of the first and third Letters of Credit. 
+Given that the declaratory relief sought by the plaintiff is to be refused, so is the declaratory relief sought by the second defendant.
+
+ADDITIONAL OBSERVATION
+I have found that under the terms of the Agreement, the amount which the Letters of Credit would secure becomes due and payable only on 3 March 2015. Yet, the Letters of Credit will expire on 2 March 2015. I have also found that delivery of a draft dated 1 March 2015 will not constitute delivery of compliant documentation any later than that.
+At the time the Letters of Credit were established, it would have been obvious that the date of 1 March 2015 chosen was not going to be a business day. It would also have been known that 2 March 2015 was not a business day in Perth.
+Thus, from the time the Letters of Credit were established, unless coal had been delivered before 1 March 2015 they were destined to be incapable of being security for the payment of the last instalment of the Deferred Consideration.
+No claim was made that the Agreement or the Letters of Credit contained any error or were infected with absurdity. It was not part of the plaintiff's claim that the Letters of Credit in their terms do not reflect cl 6 of the Agreement as required by the definition of Letters of Credit in cl 1.1 of the Agreement.
+
+CONCLUSION
+The plaintiff's summons and second defendant's cross-summons are dismissed.
+I will stand the matter over for a short time to enable the parties to consider these reasons, to draw to my attention any issues which are still required to be dealt with, and to permit the parties to make submissions, if required, on costs.
+ 
+Amendments February 2015 - correction to paragraph 63 * * * 

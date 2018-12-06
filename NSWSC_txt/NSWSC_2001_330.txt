@@ -1,0 +1,90 @@
+
+
+Industry Number Management Services Ltd. versus Objectif Telecommunications
+Ltd. [2001] NSWSC 330 (24 April 2001) 
+Last Updated: 2 May 2001 
+NEW SOUTH WALES SUPREME COURT 
+CITATION: Industry Number Management Services Ltd. v. Objectif
+Telecommunications Ltd. <case> 
+CURRENT JURISDICTION: Equity Division 
+FILE NUMBER(S): 5179/00 
+HEARING DATE{S): 24 April 2001 
+JUDGMENT DATE: 24/04/2001 
+PARTIES: 
+Industry Number Management Services Ltd. - plaintiff 
+Objectif Telecommunictions Ltd. - defendant 
+JUDGMENT OF: Hodgson J 
+LOWER COURT JURISDICTION: Not Applicable 
+LOWER COURT FILE NUMBER(S): Not Applicable 
+LOWER COURT JUDICIAL OFFICER: Not Applicable 
+COUNSEL: 
+Mr. S. Archer for plaintiff 
+Mr. P. Jacobson QC with Mr. M. Henry for defendant 
+SOLICITORS: 
+Corrs Chambers Westgarth, Sydney for plaintiff 
+Watson Mangioni, Sydney for defendant 
+CATCHWORDS: 
+CONTRACT - Head contract for supply and maintenance of computing system - Sub- contract for services for that system - Contract between customer and sub- contractor dealing with intellectual property - Head contractor goes into administration - Sub-contract terminated - Customer enters into new head contract - Questions as to obligations of sub-contractor and rights to intellectual property, in new circumstances.
+
+ACTS CITED: 
+DECISION: 
+See end of judgment 
+This judgment is supplementary to the main judgment delivered in this matter on 16/2/01.
+
+JUDGMENT: 
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+CORAM: HODGSON, J.
+
+Tuesday 24th April 2001 
+NO. 5179 OF 2000 
+INDUSTRY NUMBER MANAGEMENT SERVICES LTD. V. OBJECTIF TELECOMMUNICATIONS LIMITED 
+JUDGMENT HIS HONOUR: The first additional question on which I have received submissions is the question: 
+What are the source codes which Objectif is required to deliver to INMS in accordance with clause 4.8? It was submitted for the plaintiff that the evidence of Mr Mills indicates that there are in effect no such source codes, because Mr Mills' evidence shows that there is in fact nothing now that can be described as software of the subcontractor within the meaning of the IPA Deed, or Objectif software within the meaning of the subcontract.
+ The evidence relied on is evidence to the effect that software which
+Objectif had developed was modified for the purposes of this system; and it is submitted for the plaintiff that this means that the modified software is properly considered as having been developed specifically for the system, and there is nothing left, effectively, of the original software that was not developed specifically for this system.
+ In my opinion, the evidence of Mr Mills is not sufficient for me to come to that conclusion. In circumstances where one starts with a piece of software and modifies it in such a way as to create further software, it strikes me that it would be a difficult question, requiring a very clear understanding of what the original software was, what the modifications were and what the final product was, before one could say that there was in the final product nothing left which was identifiable as the original software not prepared specifically for the application.
+ The onus does lie on the plaintiff, and I do not think the onus to establish the matter contended for on this aspect was discharged.
+ It was submitted for the defendant that the only source codes supported by the evidence as falling within clause 4.8 are the source codes referred to in paragraph 4 of the amended summons, apart from subparagraph (i) of that paragraph. It seems clear that subparagraph (i) is part of what is called the application software in the subcontract, or INMS material in the IPA Deed; and it seems to be common ground that the source codes for that item have been delivered; and are the property of INMS and subject to no restrictions.
+ It was submitted for Objectif that any declaration and order concerning source codes to be delivered in accordance with 4.8 should be limited to those other subparagraphs of paragraph 4 of the further amended summons.
+ For INMS, it was submitted that I should simply declare that clause 4.8 obliges Objectif to deliver all source codes that are its property and relate to the whole system, which have not already been delivered as being application software or part of the INMS material. Alternatively, if I were minded to limit the obligation in any way to the particular items in paragraph of the further amended summons, I should make it clear that that is the obligation only in relation to release 37, and that Objectif remains obliged to deliver source codes in relation to releases 38 and 39, which have not yet been identified in the evidence.
+ For Objectif, it was submitted that to take this course would merely invite further litigation, whereas the matter should now be brought to a final conclusion.
+ On the whole, I think the appropriate course is to declare that Objectif is obliged to deliver those specific source codes in relation to release 37, and also declare that Objectif is obliged to deliver the source codes for Objectif software in relation to releases 38 and 39, and reserve liberty to the parties to apply if there is any dispute as to what constitutes Objectif software in relation to releases 38 and 39.
+ There should be a proviso in relation to paragrah (j) of the amended summons, to the effect that Objectif is not obliged to deliver source codes that are not its property.
+ The second question that has been debated and dealt with in written submissions is: 
+Whether, upon the proper construction of clause 4.8, Objectif is bound to keep up-to-date the source codes delivered to INMS and, if so, upon what terms.
+ In dealing with this question, I think it is necessary to look at the precise terms of clause 4.8, and to note that that clause does not purport to impose an obligation directly on Objectif, but rather imposes an obligation on
+I-Tel to ensure that Objectif delivers certain items. In relation to the delivery of the original source codes, I took the view that there was an obligation on Objectif because, under the subcontract between I-Tel and
+Objectif, Objectif was obliged to deliver up the original source codes; and I considered that when clause 4.8 is considered along with that obligation, it was reasonable to construe clause 4.8 as in effect obliging Objectif under this agreement to deliver up the original source codes.
+ In relation to material changes, they will now occur in circumstances where the subcontract is no longer on foot, so that there is no obligation on
+Objectif to I-Tel to effect and deliver up modifications, and no obligation on
+I-Tel to make any payment for them. In those circumstances, I do not think it appropriate to read clause 4.8 as imposing an obligation on Objectif to INMS to deliver up source codes in relation to material changes.
+ The third question that has been debated is: 
+What are the services which Objectif must be willing and able to provide to INMS in order to prevent the activation of the licence under clause 4.6 (and in particular whether the services are those specified in Schedule 3 to the subcontract or are confined to maintaining and supporting the Objectif software)  For Objectif, it is submitted that the obligation in clause 4.5 is only to maintain "its software", and the licence is activated under clause 4.6 only if
+Objectif is unwilling or unable to maintain, et cetera, "the software of the subcontractor". Accordingly, Objectif submits, it does not have to be willing and able to maintain application software which is not software of the subcontractor.
+ In my opinion, that argument does overlook the practicalities of the situation. On the evidence that has been presented to me, it will be almost impossible to support and maintain the Objectif software as a distinct exercise from supporting and maintaining the application software.
+Furthermore, the payment which I have indicated in my judgment should be tendered to Objectif is payment which, under the subcontract, would have been for supporting and maintaining both the application software and the Objectif software.
+ In my opinion, the software which Objectif should be ready and willing to support and maintain is substantially the software which it would have been required to support and maintain under its contract. If, however, by reason of some action of the new contractor there is some additional support or maintenance required for something which is plainly not Objectif software and which plainly would not have been required under the previous contract with
+I-Tel, then I do not think Objectif can be required to maintain that. However, subject to that qualification, I think what it should do, in order to prevent the activation of the licence is to be willing to provide, for proper remuneration, support and maintenance for both the application software and the Objectif software.
+ The fourth question is: 
+What are the terms upon which Objectif must be willing and able to provide the services referred to in paragraph 3 including, in particular: the period; and the remuneration during that period? In relation to the period, the relevant provision being dealt with is in the words "following the expiration or termination of the development and service agreement" in clause 4.5 of the IPA Deed. It is clear that that cannot mean forever following the expiration or termination, and it is common ground between the parties that it must mean for a reasonable time following the expiration or termination.
+ I have heard some submissions as to what would be a reasonable time, and in my opinion six months from today would be a reasonable time.
+ The question of remuneration has substantially been dealt with in the answer to the previous question. There may be services which are somehow required additional to the continuing services contemplated by the schedule to the subcontract. It is not really possible for me to express any view whether such services will be required or what these services might be. However, I would leave open the possibility that there may be services in respect of which Objectif would be entitled to payment as additional services under the subcontract.
+ The fifth question is: 
+What are the terms upon which the source codes referred to in paragraph 1 above are to be held by or on behalf of INMS upon delivery? It is now common ground that the source codes are to be held only for six months and then returned. It is common ground that, as part of the provision made for expert verification of the codes, the expert must be required to do everything necessary to maintain confidentiality. It is common ground that
+INMS is required to pay costs associated with the storing of the source codes and independent verification.
+ The outstanding issue concerns what provision should be made in the event that INMS forms the view that Objectif has become unwilling or unable to provide the support or other services to maintain, modify and adapt the software, and INMS wishes to avail itself of the licence to access and use the source codes that have been delivered to it.
+ The suggestion of INMS is that it should give three days notice of intention to access and use the source codes. Objectif submits that INMS should be precluded from using the source codes unless it applies to the
+Court, on seventy-two hours' notice to Objectif, and obtains a declaration that it is entitled to use, et cetera, the source codes.
+ In my opinion, in principle the regime contended for by Objectif would not be appropriate. The contractual scheme set up by the agreements involves INMS having possession of the source codes, and merely being subject to a contractual obligation not to use them. I do not think anything that has happened in this case would make it appropriate, in effect, to subject INMS to a permanent injunction not to use the source codes, from which it can be released only by applying to the Court and obtaining an appropriate order.
+ On the other hand, I think that the circumstances of this case do suggest that it is appropriate to require notice to be given by INMS to Objectif before it uses the source codes. I do not think three days written notice of intention is adequate. At one stage I was contemplating requiring that INMS provide statutory declarations of material in admissible form supporting its contention that Objectif had become unwilling or unable. On balance, however,
+I think the appropriate requirement is that INMS give to Objectif seven days written notice of its intention, accompanied by a fully detailed submission of all the grounds on which it is alleged that Objectif is unwilling or unable, giving full particulars of any instance of unwillingness or inability which is relied on.
+ I have now heard argument on costs. For INMS it is submitted that Objectif refused to provide anything to the plaintiff, so that the plaintiff was compelled to bring these proceedings. It succeeded to the extent that Objectif will be ordered to deliver up the source codes. Accordingly, it was submitted that the plaintiff should have its costs, or at least should not be ordered to pay any part of Objectif's costs.
+ It was submitted for Objectif that, at no time prior to final address in the case, was it put for INMS that Objectif was bound to deliver source codes to be held in confidence and not used. The only demands made for source codes were plainly made on the basis that, when delivered, INMS would be able to use the source codes to maintain and adapt the software. Furthermore, it was submitted for Objectif that Objective had, both before and soon after the commencement of proceedings, expressed itself as willing and able to provide support services of the general kind that I have held Objectif is obliged to provide if the licence under clause 4.6 of the IPA Deed is not to be activated.
+ In response to that, it was submitted that this offer was very different from that contemplated by my decision; namely, it was an offer, in effect, to perform all the services of the contractor and subcontractor and, in any event, as indicated by INMS's reply, was made in contemplation of remuneration far in excess of that contemplated by my decision.
+ Dealing firstly with the last matter, it seems to me that the fact of the making of these offers has some relevance to my decision on costs. The circumstance that proceedings had recently been commenced, before the last of those offers, does not rob it of any significance, when most of the costs of these proceedings were incurred considerably later. At the time the offer was made, the new contract to Paradigm had already been entered into, so it seems clear that whatever was being contemplated in that offer was something like the services contemplated by my judgment. I do not see any basis for the response by INMS that Objectif was contemplating some excessive charge for those services. If there was some issue about the charge for the services, then that was a matter that could have been explored, and was not.
+ I think, when one takes into account these considerations, the result that has been achieved is closer to the position maintained by Objectif than that maintained by INMS, and I think the success of Objectif has been somewhat greater on the issues fought.
+ On the whole, I think the appropriate order is that INMS pay fifty per cent of Objectif's costs of the proceedings.
+ 
+LAST UPDATED: 01/05/2001 * * * 

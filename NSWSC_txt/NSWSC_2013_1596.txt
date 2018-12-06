@@ -1,0 +1,119 @@
+
+
+Ausgrid versus Redbank Project Pty Ltd [2013] NSWSC 1596 (4 November 2013) 
+Last Updated: 7 November 2013 
+Supreme Court 
+New South Wales  
+Case Title: 
+Ausgrid versus Redbank Project Pty Ltd  
+Medium Neutral Citation: <case>  
+Hearing Date(s): October 2013  
+Decision Date: November 2013  
+Jurisdiction: 
+Equity Division - Commercial List  
+Before: 
+Stevenson J  
+Decision: 
+Plaintiff entitled to preliminary discovery  
+Catchwords: 
+PRACTICE AND PROCEDURE - civil - interlocutory issues - preliminary discovery  
+JUDGMENT 
+Introduction
+By Summons filed on 30 July 2013 the plaintiff, Ausgrid, seeks orders pursuant to r 5.3 of the [Uniform Civil Procedure Rules 2005](http://www.austlii.edu.au/au/legis/nsw/consolreg/ucpr2005305/) for preliminary discovery.
+UCPR r 5.3(1) is in the following terms: "(1) If it appears to the court that: the applicant may be entitled to make a claim for relief from the court against a person ("the prospective defendant") but, having made reasonable inquiries, is unable to obtain sufficient information to decide whether or not to commence proceedings against the prospective defendant, and the prospective defendant may have or have had possession of a document or thing that can assist in determining whether or not the applicant is entitled to make such a claim for relief, and inspection of such a document would assist the applicant to make the decision concerned, the court may order that the prospective defendant must give discovery to the applicant of all documents that are or have been in the person's possession and that relate to the question of whether or not the applicant is entitled to make a claim for relief."
+Before me, there was no dispute as to the matters in UCPR r 5.3(1)(b) and (c). Nor was there any dispute that, assuming an order should be made, the particular order sought by Ausgrid was appropriate. 
+The dispute before me was whether Ausgrid had established that it "may be entitled to make a claim for relief from the court" against the defendant, Redbank Project Pty Ltd.
+The documents Ausgrid seek from Redbank are relevant to the strength of a defence that communications between the parties reveal that Redbank would rely on, were proceedings to be commenced against it.
+Ausgrid contends that it cannot decide whether to commence proceedings against Redbank unless and until it has the documents sought and is thus able to assess the likely strength of that defence. The authorities establish that preliminary discovery may be available in these circumstances: St George Bank Ltd versus Rabo Australia Ltd  <case>; [(2004) 211 ALR 147] per McColl JA at [47] - [52], particularly [51].
+Redbank resists the application on the basis that, for a number of reasons, Ausgrid has not shown that it "may" be entitled to make a claim against Redbank "from the Court".
+
+Background
+Ausgrid is an electricity retailer. Redbank is an electricity generator. Redbank generates electricity at a plant near Warkworth in the Hunter Valley.
+Receivers were appointed to Redbank on 5 October 2013. 
+Ausgrid and Redbank are the current parties to a "Power Purchase and Hedge Agreement" ("the Agreement") originally made on 28 March 1996.
+The Agreement is an electricity hedging agreement. Under the National Electricity Market, electricity is sold by generators into a pool and purchased by retailers from the pool. The price at which electricity is sold into and purchased from the pool is determined by the Australian Energy Market Operator as a spot price for electricity, based on assessments of supply and demand every five minutes which is averaged on a half hourly basis to produce a half hour spot price. Retailers then pay the spot price and generators are paid the spot price.
+To guard against fluctuations in the spot price, retailers commonly enter into hedge agreements with generators to set a fixed price for electricity. The Agreement is one such agreement.
+The hedging arrangements under the Agreement are set out in cl 2. In summary, so far as is relevant to the present proceeding: one party is obliged to make "difference payments" to the other calculated by reference to a "Contract Amount" of electricity which Redbank must generate each year. If the spot price is higher than the hedge price,
+Redbank must pay the difference to Ausgrid. If the spot price is lower than the hedge price, Ausgrid must pay the difference to Redbank (cl 2.4); 
+Redbank must meet an annual target relating to the quantity of electricity generated (cl 2.8.2); at the end of each Contract Year (which is the same as the calendar year), a calculation must be performed to determine whether Redbank has met its annual generation target (cl 2.8.2(b)); and if Redbank fails to meet its annual generation target, Ausgrid is entitled to reduce the Contract Amount for the following year (cl .8.2(b)(ii)).
+The Agreement is "out of the money" at the moment in that the currently prevailing spot price is well below the hedge price. Accordingly, at all material times, the party obliged to make "difference payments" is Ausgrid.
+The material referred to in the preceding four paragraphs is taken from the submissions of Mr Williams, who appeared for Ausgrid, and is common ground.
+An integer in the calculation of the "Contract Amount", and thus the amount payable by Ausgrid to Redbank, is the "Test Hour Settlement Period". That period, relevantly, excludes any periods during which there is a "Force Majeure" event.
+Force Majeure is defined in the Agreement as follows: "Force Majeure means an event or circumstance or combination of events or circumstances beyond the reasonable control of the Party claiming Force
+Majeure including, but not limited to, acts of God, strikes (including lockouts, industrial and/or labour disputes and/or difficulties with bans, blockages or picketing) which are not directed solely toward the Facility, sudden action of the elements and actions of a Government Body that conflict with the terms of this Agreement, including but not limited to the inability of a Party to obtain a necessary permit or authorisation from a Government
+Body. Mechanical, electrical or equipment breakdown or failure that causes full or partial curtailment of Energy Output of the Facility shall not be declared a Force Majeure event unless caused by or arising out of an event that is itself a Force Majeure event. Failure to obtain the necessary water, fuel supplies or other consumables necessary for the operation of the Facility due to the wilful or negligent action or inaction of Generator shall not be deemed to be a Force Majeure."
+Clause 8 of the Agreement deals with the consequences of Force Majeure: "If a Party because of Force Majeure is rendered wholly or partly unable to perform its obligations under this Agreement, that Party shall be excused from whatever performance is affected by the Force Majeure to the extent so affected provided that: ...
+
+The non-performing Party uses reasonable efforts (best endeavours in the case of mechanical, electrical or equipment breakdown or failure) to remedy its inability to perform...".
+So far as is relevant, the definition thus has the effect that a Force Majeure event is one: which is beyond Redbank's reasonable control; but not a "mechanical, electrical or equipment breakdown or failure that causes full or partial curtailment of Energy Output" ("the Exclusion"); unless such a breakdown was itself caused by an event beyond Redbank's reasonable control ("the Exception to the Exclusion").
+On 29 January 2013, a sustained energy "outage" occurred at Redbank's Warkworth plant ("the Outage"). The Outage continued until 23 March 2012.
+In correspondence, Redbank: has asserted that the Outage was a Force Majeure event; accepted that the Outage was caused by events which satisfied the
+Exclusion (that is, that it was caused by a "mechanical, electrical or equipment breakdown"); but asserted, without elaboration, that such breakdown was caused by events beyond its control, and thus within the Exception to the Exclusion.
+Ausgrid has disputed Redbank's contention that the Outage amounted to a Force Majeure event. Ausgrid has, unsuccessfully, sought from Redbank particulars, and documents relating to its contention that the Force Majeure was caused by events beyond its control.
+The structure of the Agreement is such that, despite this dispute, Ausgrid has been obliged, for the calendar year 2013, to make payments to Redbank as if the Outage was a Force Majeure event.
+Clause 15 of the Agreement makes provision, to which I shall return, for the resolution of disputes by arbitration. I was, however, informed that the Agreement makes no provision, in terms, for the repayment of amounts overpaid pending resolution of such disputes.
+Ausgrid's position is that, in the events that have happened, despite the provisions of cl 15, it is now free to commence proceedings in this Court to seek declaratory relief as to whether there has been a Force Majeure event and, if successful in that regard, to seek restitution of the amounts it contends it has overpaid.
+What Ausgrid contends that it has been "unable to assess" is "the validity of Redbank's assertion that the Outage was caused by an incident beyond the reasonable control of Redbank" (to adopt the wording of a Notice of Dispute Ausgrid sent to Redbank on 6 March 2013).
+Redbank resists Ausgrid's claim on three bases.
+ "Mere assertion"
+The first of those bases arises from statements in the authorities that although an applicant for preliminary discovery need not show a "prima facie case", and must merely show that there is reasonable cause to believe that it "may" have a right of action against the respondent, it is not sufficient for an applicant for preliminary discovery merely to assert that it "may" be entitled to a claim. What is necessary is that there be "an inclination of the mind towards assenting to, rather than rejecting" the proposition that the applicant "may" have such a cause of action (see Hatfield at [48] and [49] and the cases cited therein).
+Mr Jackman SC, who appeared with Mr Hewitt for Redbank, submitted that: in order to make out its proposed claim for restitution of the alleged overpayment under the Agreement, Ausgrid would have to allege and prove that there had been no Force Majeure event; as Ausgrid does not know (is "unable to assess" - see [26] above) whether or not Redbank can make out its asserted entitlement to rely on the
+Exception to the Exclusion in the Force Majeure clause, Ausgrid can do no more than "merely assert" that there was been no Force Majeure event; and accordingly, Ausgrid has not established that it "may be entitled" to bring proceedings.
+I do not accept that submission.
+As Mr Williams submitted, were proceedings to be commenced by Ausgrid against Redbank, it would be no part of Ausgrid's case that there was "no Force Majeure event".
+Ausgrid would not have to allege, or prove, the negative proposition that, contrary to Redbank's assertions in correspondence, the Outage was not an event of Force Majeure.
+As Mr Williams submitted, it would be for Redbank to prove that matter; in that regard, Mr Williams drew attention to the observations of Hamblen J in Tandrin Aviation Holdings Ltd versus Aero Toy Store LLC [2010] EWHC 40 at [48].
+More particularly, as Ausgrid contends, there can be no dispute that the Exclusion to the Force Majeure clause has been enlivened. It would thus be necessary for Redbank to prove that the Exception to the Exclusion applied.
+Ausgrid does not seek preliminary discovery to enable it to decide whether it can make out its case in chief against Redbank. As I understand it, Ausgrid has no doubt about its ability to do that. Ausgrid is aware that Redbank proposes to meet any claim for restitution with an assertion that the Outage was an event of Force Majeure. Ausgrid contends it can prove, from Redbank's own correspondence, that the matter falls within the Exclusion. What Ausgrid contends that it needs to know, before embarking on litigation, is what prospect Redbank has of bringing itself within the Exception to the Exclusion.
+In my opinion, all other matters being equal, Ausgrid should be given the preliminary discovery it seeks for that purpose.
+However, Mr Jackman contended that there were two further bases for denying Ausgrid the relief it seeks.
+
+No relief available "from the Court"
+Mr Jackman submitted that, in the events that have happened, any claim Ausgrid now wishes to make against Redbank under the Agreement must go to arbitration, and that there is thus no "reasonable cause to believe" that Ausgrid "may be entitled" to make a claim against Redbank "from the Court".
+As I have mentioned, cl 15 of the Agreement deals with "Settlement of Disputes".
+Leaving aside disputes under the "Pool Rules" (and neither counsel suggested these were relevant to this dispute) cl 15 is stated to govern "any... dispute or difference arising out of this Agreement or concerning the performance or the non-performance by any Party of its obligations under this Agreement" and states that such disputes "shall" be governed by it.
+Clause 15 provides that: either party can notify the other that a "dispute under this Agreement" has arisen; thereafter, the parties must meet within a particular time and attempt informally to settle the dispute; if the parties cannot informally settle the dispute within 30 days of that meeting, either party can, within a further 14 days, require the dispute to be referred to arbitration; and absent either party taking that step, the parties are, in effect, free to litigate the dispute.
+As I have mentioned, on 6 March 2013, Ausgrid served a Notice of Dispute on Redbank concerning Redbank's contention that the Outage constituted a Force Majeure event. That Notice was served pursuant to cl 15.
+The parties met on 19 March 2013. Ausgrid contends that this meeting was of the kind contemplated by cl 15 to endeavour to settle the dispute informally. 
+Thereafter, for reasons unconnected with this dispute, the parties agreed to an extension of the time within which the dispute referred to in Ausgrid's 6 March 2013 Notice might be referred to arbitration.
+Neither party gave the other a notice referring the dispute to arbitration within 14 days of the expiration of that agreed period.
+In those circumstances, Mr Williams submitted that Ausgrid was free to litigate the matter, and thus to make a claim for relief "from the Court" for the purposes of UCPR r 5.3.
+On the other hand, Mr Jackman relied upon Pt 6 of the Agreement. That part of the Agreement provides for the delivery by Redbank to Ausgrid of a "Final Settlement Statement at regular periods setting out the amount said to be owing by Ausgrid to Redbank".
+Clause 6.4 of the Agreement provides that: 
+Ausgrid could notify Redbank of any alleged error in the Final
+Settlement Statement within 14 days (described in the heading of cl 6.4 as a "Report of Error"); with an irrelevant exception, Ausgrid must nonetheless pay the amount sought within 14 days; if there is disagreement, Ausgrid and Redbank must meet within 15 days and endeavour to resolve the dispute; and if within 30 days of such initial meetings the parties are unable to resolve the matter, the matter "shall be resolved in accordance with the dispute resolution procedures set forth in section 15".
+In early 2013, Redbank served a series of Final Settlement Statements.
+On 21 February 2013, Ausgrid served a document which, for the purposes of this application only, Mr Jackman accepted was, arguably, a "Report of Error" under cl 6.4 notifying Redbank of an error in the Final Settlement Statement (namely that its calculations assumed the Outage was an event of Force Majeure).
+Thereafter, as I have said, on 6 March 2013, Ausgrid served a Notice of Dispute on Redbank pursuant to cl 15 of the Agreement. Such notice was served well before the 19 March 2013 meeting to which I have referred.
+In those circumstances, Mr Jackman submitted that Ausgrid had "jumped the gun" and sought to refer the alleged error in the Final Settlement Statement for resolution under cl 15 without first complying with the requirements of cl 6.4.
+Mr Jackman submitted that it followed that Ausgrid's purported invocation of cl 15 was ineffective.
+Mr Jackman pointed to evidence that, were Ausgrid to attempt to reinvoke cl 15, the receivers of Redbank would refer the matter to arbitration.
+In those circumstances, Mr Jackman submitted that there was no prospect of Ausgrid becoming entitled to make a claim against Redbank "from the Court", as any dispute between the parties was bound to be resolved by arbitration and not by "relief from the Court".
+In my opinion, that submission is not so clearly correct as to warrant the conclusion that it can no longer be said that Ausgrid "may" be entitled to make a claim for relief "from the Court".
+As Mr Williams submitted, it is at least arguable that, on its proper construction, and in its context within the Agreement, cl 15 provides the parties with a stand-alone, free-standing right to invoke its provisions in relation to any dispute arising under the Agreement; even if that dispute is one which is the subject of a "Report of Error" for the purposes of cl 6.4. Certainly, as I have set out, the words of cl 15 are unrestrained.
+Therefore, in my opinion, it is at least arguable that Ausgrid, having invoked the provision of cl 15 without timely demur from Redbank, is now entitled to seek relief "from the Court".
+It follows, in my opinion, that Ausgrid "may" be entitled to make a claim for relief "from the Court" for the purposes of UCPR r 5.3(1)(a).
+
+The clause 2.8.2(b)(ii) point
+By reason of cl 2.8 of the Agreement, the "Contract Amount" (and thus the amounts payable under the Agreement) can be "adjusted based on the performance of" Redbank's generating facility at Warkworth.
+Clause 2.8.2(b)(ii) reads: "If the Average is less than 105% of the Original Contract Amount, [Ausgrid] may by Notice to [Redbank], reduce the Contract Amount for the following year to a level equal to 92.4% of the Average".
+Thus, one condition precedent to any such adjustment is the service by Ausgrid on Redbank of a notice (under cl 2.8.2(b)(ii)) reducing "the Contract Amount for the following year to a level equal to 92.4% of the "Average" (which is calculated in a manner not necessary to describe for these purposes). 
+On 18 January 2013, Ausgrid served on Redbank a document purporting to be such a notice.
+That document included: "[Ausgrid] gives notice that the Contract Amount for the 2013 Contract Year is reduced to 42.43 MWh per half hour (being 92.4% of the Average for the 2010
+Contract Year).
+
+This notice is given for the purpose of clause 2.8.2(b)(ii) of the [Agreement]...".
+The letter annexed an extensive spreadsheet detailing the calculation.
+It is common ground that the reference in that letter to 42.43 MWh was an error, and that the correct figure was 44.36 MWh. That error was caused because Ausgrid measured the electricity output at "the Sydney West node" rather than, as required by the Agreement, at Redbank's facility at Warkworth. I was told that electricity is "lost" in transit between the point of generation and delivery and that, for that reason, the figure in Ausgrid's letter was too low.
+Mr Jackman submitted that, on the proper construction of cl 2.8.2(b)(ii), a notice under it must specify, correctly, the "level" (presumably in MWh) to which Ausgrid reduced the Contract Amount, and that it was not sufficient for the notice merely to specify that the nominated MWh figure (even if incorrect) was "92.4% of the Average for the 2012 Contract Year".
+The result, Mr Jackman submitted, was that Ausgrid's 18 January 2013 letter was not effective to reduce the 2012 Contract Amount for the purpose of calculating payments due from Ausgrid to Redbank in 2013 and that, accordingly, the 2012 Contract Amount (which took account of the alleged Force Majeure) prevailed for 2013.
+Mr Jackman submitted (and Mr Williams did not dispute) that this argument, if correct, was a complete answer to Ausgrid's claim.
+In my opinion, once again, I do not find that submission to be so clearly correct that it cannot be said that Ausgrid "may" be entitled to bring a claim against Redbank.
+I accept Mr Williams' submission that it is at least arguable (indeed Mr Williams submitted that it was plainly correct) that, on its proper construction, cl 2.8.2(b)(ii) requires no more than that a notice under it specify that Ausgrid reduces the Contract Amount for the relevant year "to a level equal to the 92.4% of the Average"; whether or not the notice actually specifies, in MWh, what that level was (or even if, as here, the notice misstates that level).
+
+Conclusion
+For those reasons, I do not accept the arguments advanced by Redbank in opposition to Ausgrid's claim for preliminary discovery.
+My conclusion is that Ausgrid is entitled to the relief it seeks.
+I propose to make orders to the effect of par 1 to par 4 of the Summons.
+I invite the parties to bring in short minutes to give effect to these reasons.
+ * * * 

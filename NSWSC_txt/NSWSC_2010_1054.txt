@@ -1,0 +1,353 @@
+
+
+Citigroup versus CrediProtect [2010] NSWSC 1054 (10 September 2010) 
+Last Updated: 16 September 2010 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Citigroup versus CrediProtect <case>  
+JURISDICTION: 
+Equity Division 
+Commercial List  
+FILE NUMBER(S):  /298630  
+HEARING DATE(S):  /09/10, 07/09/10, 08/09/10, 09/09/10 and 10/09/10  
+EX TEMPORE DATE:  September 2010  
+PARTIES: 
+Citigroup Pty Limited (First Plaintiff / Cross Defendant) 
+CrediProtect Pty Ltd (First Defendant / First Cross-Claimant) 
+Michelle Bubke (Second Defendant / Second Cross-Claimant) 
+National Receivables Group Pty Ltd (Third Defendant / Third Cross-Claimant)  
+JUDGMENT OF: 
+McDougall J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+N C Hutley SC / B F Katekar (Plaintiff) 
+M W Sneddon / C E Alexander (Defendants)  
+SOLICITORS: 
+Henry Davis York Lawyers (Plaintiff) 
+Gillard Consulting Lawyers (Defendants)  
+CATCHWORDS: 
+TRADE PRACTICES - misleading or deceptive conduct - unconscionability - sale of debt book - plaintiff seeking judgment for payment of remaining instalment of purchase price - where second and third defendants guaranteed obligations of first defendant - cross-claim - whether plaintiff engaged in misleading or deceptive conduct - whether alleged representatives made - whether deed of sale and deed of guarantee obtained by unconscionable conduct. 
+CONTRACTS - whether negligent misrepresentations made.  
+LEGISLATION CITED:  [Civil Procedure Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/)  [Trade Practices Act ](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) (Cth)  
+CATEGORY: 
+Principal judgment  
+CASES CITED: 
+Blomley versus Ryan <case>; <case>; <case>; <case> 
+Turner versus Windever <case> 
+Watson versus Foxman [(1995) 49 NSWLR 315]  
+TEXTS CITED:  
+DECISION: 
+Citigroup is entitled to judgment for the amount claimed, and the cross-claim fails.  
+JUDGMENT:  
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+COMMERCIAL LIST  
+McDOUGALL J   September 2010 (ex tempore - revised 13 September 2010)  /298630 CITIGROUP PTY LIMITED versus CREDIPROTECT PTY LTD 
+JUDGMENT HIS HONOUR: On 28 September 2007, the plaintiff (Citigroup) sold about $62.3 million worth of consumer debt to the first defendant (CrediProtect). The purchase price, calculated at 5.78 per cent of the face value of the debt sold, was payable by three instalments. The first two instalments were paid, but the third instalment, of $2,736,285, was not. The second and third defendants (Ms Bubke and NRG) guaranteed the obligations of CrediProtect, by deed made on 11 October 2007.
+ Citigroup sues CrediProtect, Ms Bubke and NRG for the amount of the unpaid instalment and interest. The defendants say that the execution of the deed of sale and the deed of guarantee was obtained by unconscionable conduct on the part of Citigroup, both under the general law and pursuant to <case> of the [Trade Practices Act ](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) (Cth).
+They rely, in the alternative, on the proposition that the execution of those documents was procured by misleading or deceptive conduct [(s ](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/s52.html) of the [Trade Practices
+Act](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/)) or by negligent misrepresentation. They have cross-claimed for relief including rescission and damages.
+ For the reasons that follow, Citigroup is entitled to judgment for the amount claimed together with interest, and the cross-claim fails.  
+The agreed issues The parties agreed upon the issues for decision. I set them out: 
+Whether Citigroup made any of the alleged representations pleaded in paragraphs 19(a) to (mn) of the Amended Cross Claim (the alleged representations).
+
+Whether any of the alleged representations were made with respect to future matters, and if so, whether there were reasonable grounds for making those alleged representations, as understood by <case> of the [Trade Practices
+Act 1974](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) (Cth)? 
+Whether any of the alleged representations, if made, were misleading.
+
+Whether CrediProtect, Ms Bubke or NRG relied on any of the alleged representations.
+
+Whether CrediProtect, Ms Bubke or NRG suffered any loss.
+
+Whether Citigroup owed CrediProtect, Ms Bubke or NRG a duty of care.
+
+Whether Citigroup breached any such duty in making any of the alleged representations.
+
+Whether any such breach of duty caused CrediProtect, Ms Bubke or NRG any loss.
+
+Whether Citigroup engaged in unconscionable conduct in contravention of the [Trade Practices
+Act](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) or the general law.
+
+Whether CrediProtect is entitled to damages, or an order that the
+Deed of Sale be rescinded, set aside, declared void or refused to be enforced at general law or under statute.
+
+Whether Ms Bubke or NRG are entitled to damages, or an order that the
+Deed of Guarantee be rescinded, set aside, declared void or refused to be enforced at general law or under statute.
+
+If damages are to be awarded, what is the measure of such damages? I note that, although the issues were agreed, only one party chose to address them in its closing submissions. That is unfortunate. One of the reasons for requiring issues to be agreed is that the attention of the parties and the court is focused on the matters that require to be decided. If submissions are addressed to the issues, the court does not put the parties at risk of injustice through missing a submission on a particular point.
+ 
+Some aspects of debt collection NRG, a debt collection agency, is a company controlled by Ms Bubke. Up until the deed of sale was executed on 28 September 2007, it collected on a "contingency" basis. The creditor remained the owner of the debts. NRG collected them (to the extent that it was able to do so) for commission.
+ At all times relevant to these proceedings, Citigroup's practice was to write off debt 180 days or so after it became overdue. It would then itself attempt to collect the debt. If it could not do so, it would refer the debt to outside agencies, such as NRG, for collection. There appear to have been three stages, or levels, of collection. They are referred to in the evidence as primary, secondary and tertiary. The rate of commission payable increased through those stages.
+ Citigroup also sold "books of debt". Typically, what was sold was a portfolio, or package, of debt obligations that had been the subject of some collection effort.
+ By mid 2007, Citigroup was looking to move to what is called in the jargon of the trade a "forward flow" model. Under that model, once debt was written off (again, as I understand it, when it passed 180 days overdue) it would be packaged and sold. The purchaser would become the owner of the debt, or the beneficiary of the debt obligations, and would collect on its own account.
+ If that model of collection were fully implemented, it would mean the end of contingency collection. At mid 2007, and at all times up until the deed of guarantee was executed and (materially) thereafter, contingency collection was either the sole or the major business of NRG.
+ 
+Negotiations leading up to the sale In circumstances that are a little controversial, Ms Bubke became aware that the book of debt, the subject of the deed of sale in these proceedings, was available for purchase. The controversy is as to whether Ms Jennifer Dunk of Citigroup prompted Ms Bubke to express interest in purchasing the book of debt, or whether Ms Bubke, once she became aware the book of debt was up for sale, expressed an interest in purchasing it without being prompted. If it were necessary to resolve that controversy then, for the reasons that I give below in setting out my views of the various witnesses, I would prefer Ms
+Dunk's account.
+ A meeting took place at NRG's offices in Brisbane on 23 July 2007. Ms Dunk and Mr Peter Vicente of Citigroup attended, and met Ms Bubke. There is no doubt that, at that meeting, Mr Vicente apprised Ms Bubke of Citigroup's plans to move to a "full forward flow" model and said that Citigroup was interested in building a relationship with NRG for that purpose. Ms Bubke suggests that
+Mr Vicente said that this was going to happen in the relatively near future - by about March 2008. I do not accept that evidence.
+ Citigroup sent NRG and a company known as Capital 9 Pty Ltd (Capital 9) a "bid package" on 14 August 2007. Capital 9 was a company associated with Mr
+Brendan Doherty. Mr Brendan Doherty (I shall call him this to distinguish him from his cousin Mr Peter Doherty, who also features in the evidence) apparently had expertise in the pricing, purchase and collection of debt. In essence, he and Ms Bubke appeared to have agreed that they, through their respective companies, would enter into some sort of joint venture to purchase the book of debt. The bid package contained various documents, the terms of which are relevant to some of the issues raised by the parties. I will return to those documents to the extent necessary.
+ On 21 August 2007, NRG and Capital 9 submitted a bid for the book of debt, pricing it at 3 cents in the dollar. That bid was not acceptable to Citigroup, which requested that the bid be raised. A higher bid, of 3.84 cents in the dollar, was submitted on 24 August 2007.
+ After further negotiations, NRG and Capital 9 made a further bid on 30
+August 2007. That was a "non-conforming" bid because it was subject to finance, including from Citigroup. The price bid was 5 cents in the dollar.
+Citigroup advised Ms Bubke that the bid was not acceptable and that it was looking for a bid around the 6 cents mark.
+ On 31 August 2007, Mr Brendan Doherty told Ms Bubke that he was not prepared to be a part of any bid above 5 cents in the dollar. Ms Bubke considered whether she could make a higher bid on her own account. According to her, she decided that she could not.
+ A critical meeting was held on 21 September 2007. It was attended by Ms
+Bubke, her partner, (in business and in life) Mr Laurence (or Larry) Barlow,
+Mr Vicente and Mr Vasu Rao of Citigroup. The meeting started at Citigroup's offices in Park Street and repaired to a nearby Indian restaurant shortly thereafter. It is said by Ms Bubke that Mr Vicente and Mr Rao made crucial representations in the course of that meeting.
+ On 24 September 2007, Ms Bubke told Citigroup that NRG would increase its bid to 5.5 cents in the dollar. On that day and the next, she and Mr Barlow made approaches to funders to enable CrediProtect to pay what was then proposed to be the first instalment, 25 per cent, of the purchase price.
+ The risk management division of Citigroup approved the bid of 5.5 cents in the dollar on 25 September 2007. With some haste, the deed of sale was prepared, on the basis (as I have said) that the purchase price calculated at .5 cents in the dollar would be paid by instalments. The deed was executed on that day and the first instalment, of $85,643, was paid.
+ Shortly before the deed of sale was executed, Citigroup had informed Ms
+Bubke that she, NRG and Mr Barlow were required to give guarantees. However, that was not done on or before 28 September 2007. Instead, as I have said, Ms
+Bubke and NRG executed a deed of guarantee on 11 October 2007. Mr Barlow appears to have been unprepared to do likewise.
+ 
+The alleged representations There are many representations pleaded in the Amended Cross-Claim
+Commercial List Statement. They are said to have been made both in the various meetings to which I have referred and otherwise, including in correspondence.
+However, as the case was presented at hearing, the critical representations are those alleged to have been made in the course of the lunch meeting on 21
+September 2007. To some extent, those alleged representations repeat representations said to have been made earlier. To some extent, they go further.
+ The most convenient way to identify the representations is to set out paragraph 19 of the cross-claim list statement: . The following day [21 September 2007] Citigroup and the Defendants met at 1.30pm for lunch adjacent to the offices of Citigroup in Sydney. The meeting lasted late into the evening. At the meeting Citigroup made and/or repeated the following representations: that Peter Vicente had years of experience and was very successful in pricing debt books; 
+Citigroup would take steps to facilitate the Defendants in submitting the successful bid including the provision of finance of up to 75% of the price and would assist the Defendants in sourcing finance for the remaining % of the price; 
+That at least one other active bidder had bid in the region of 6 cents in the dollar; that Peter Vicente would assist the Defendants to price the debt book associated with the Spot Sale and then continue to assist them with the management of the collection of the book moving forward; that the debt associated with the Spot Sale had only been placed with one or two agencies and had not been to as many debt recovery agencies as it should have in accordance with the Bid Package; that the debt associated with the Spot Sale had been recalled from a debt recovery agency before any real work had been done; that the agency was in financially [sic] difficulty and that the agency was another agency; that the debt associated with the Spot Sale had not been dealt with for 7 to 8 months; that as a result the rate of recovery would be higher than otherwise expected; that the debt associated with the Spot Sale was likely to be very profitable; that the rate of return used by the Defendants to price the debt book at 7.6% for 3.84 cents to the dollar (the Further Extended Bid), and subsequently 11% for 5 cents to the dollar (the Second Extended Bid) was very conservative; that the Defendants would recover that debt at a much higher rate of return (15% to 18% of face value); that the Defendants should increase their bid and would be successful if they did so; that a price of 5.5 cents would be acceptable but that it would be against Peter Vicente's and Vasudeva Rao's personal interest in respect that they would forego the bonus package or commissions they would receive if the price was higher; that the Defendants were dependant on a successful bid in order to preserve and protect their relationship with and income from Citigroup; the future success of the Defendant's business was dependant on the purchase of the book of debt as Citigroup as well as other entities in the same the industry were moving away from the model of contingent collections and towards a debt sale model; and that Citigroup would provide NRG with 100% of its contingent collection work in order to assist the Defendant financially if it purchased the book of debt at the higher price.
+
+Particulars 
+The meeting was between Peter Vicente, Rao Vasudeva, Larry Barlow and
+Bubke.
+ Some of those representations are agreed to have been made. Others are not.
+ 
+Approach to the assessment of evidence Mr Hutley of Senior Counsel, who appeared with Mr Katekar of counsel for
+Citigroup, referred the court to the judgment of McLelland CJ in Eq in Watson v Foxman [(1995) 49 NSWLR 315] at -319. His Honour there described the approach that the court should take to the assessment of evidence relating to disputed allegations of misleading or deceptive conduct said to have been perpetrated by means of oral representations. As his Honour said, the party asserting misleading or deceptive conduct needed to show what the conduct was and why it was misleading. Where the conduct is said to have been found in oral representations, it is necessary, his Honour said, "that the words spoken be proved with a degree of precision sufficient to enable the court to be reasonably satisfied that they were in fact misleading in the proved circumstances". The need for precision was important because the question of whether the words were misleading might depend upon "relatively subtle nuances flowing from the use of one word, phrase or grammatical construction rather than another, or the presence or absence of some qualifying word or phrase, or condition".
+ Further, as his Honour pointed out, human memory is fallible. Common experience suggests that fallibility increases with the passage of time. That is particularly so, his Honour said, "where disputes or litigation intervene, and the processes of memory are overlaid, often subconsciously, by perceptions or self-interest as well as conscious consideration of what should have been said or could have been said".
+ In summary, as his Honour said: 
+All too often what is actually remembered is little more than an impression from which plausible details are then, again often subconsciously, constructed. All this is a matter of ordinary human experience.
+ His Honour pointed to the need for the court to feel some sense of actual persuasion of the existence of each element of the cause of action. That did not mean that proof is to be achieved other than on the balance of probabilities. It directs attention to the concept of proof, and the concept of satisfaction. (See, too, my judgment, with which McColl and Bell JJA agreed, in Nguyen versus Cosmopolitan Homes <case> at <case> to [55].) The consequences of those considerations was, McLelland CJ in Eq said, that a party relying on spoken words as the foundation of a cause of action for misleading or deceptive conduct might face serious difficulties, "in the absence of some reliable contemporaneous record or other satisfactory corroboration".
+ For reasons that I will turn to in a moment, his Honour's observations are of particular importance in this case.
+ I should note that Mr Sneddon of counsel, who appeared with Mr Alexander of counsel for the defendants, accepted that the court was to approach the task of assessing the evidence in accordance with the principles that I have just stated.
+ 
+Credibility of the witnesses Citigroup called Ms Dunk, Mr Vicente and Mr Rao. It is I think fair (and not unkind) to say that none of them appeared to have a particularly strong recollection of relevant events. I have no doubt that this can be explained, to some extent, because each of them has been busy since the events in question in September 2007.
+ There were some aspects of the evidence of Mr Vicente and Mr Rao that gave me cause for concern. For example, each of them, in cross-examination, contradicted things that he had said in his affidavit. It was not until confronted with the statement in the affidavit that the contradiction was resolved.
+ Accordingly, I think, their evidence needs to be assessed with care, particularly where it is not supported by contemporaneous documents. However,
+I do not think that any of them sought deliberately to mislead the court. On the contrary, I thought that each sought, to the best of his or her ability, to give truthful evidence. What I perceive as deficiencies seemed to me to reflect more the passage of time than conscious dishonesty.
+ The defendants called Ms Bubke, Mr Barlow, Mr Scott Pollock and Mr Peter
+Doherty.
+ Mr Peter Doherty's evidence was intended to rebut a suggestion of recent fabrication put to Ms Bubke in cross-examination. I admitted it on the voir dire. Mr Sneddon tendered it on the hearing. In the result, Mr Hutley did not oppose the tender. I admit that evidence as evidence on the hearing.
+ No attack was made on the credibility of Mr Peter Doherty or Mr Pollock. I accept their evidence, so far as it goes.
+ Before I turn to the attacks that were made on the credibility of Ms Bubke and Mr Barlow, I should note that Mr Sneddon sought to read an affidavit of Ms
+Bubke sworn on 2 September 2010 (the Thursday before the hearing commenced on September 2010). That affidavit referred to documents that the defendants had produced pursuant to a notice apparently given on 27 July 2010.
+ The documents were provided on 1 September 2010. In brief, they related to efforts made by CrediProtect to collect, or otherwise to turn to account, the book of debt. Ms Bubke referred to those documents and sought to give evidence of what she said were some 608,899 individual steps taken as part of collection attempts made by CrediProtect in relation to the book of debt. She identified those attempts from four separate categories of record. The purpose of the evidence was to rebut a suggestion that the shortfall between the recovery rate of 15 to 18 per cent allegedly represented on 21 September 2007 and the rate actually collected reflected deficiencies in CrediProtect's collection efforts. That was a legitimate purpose. But it was unfair in the extreme to Citigroup to expect it to assess and challenge that evidence at the last moment. Citigroup was entitled to proper notice of the evidence, and a proper opportunity to assess it and the documents on which it was based.
+Citigroup was given neither.
+ I turn to the attacks on the credibility of Ms Bubke and Mr Barlow. I should make it make plain at the outset that, in general, I thought that each was an unimpressive witness.
+ As to Ms Bubke, it is apparent that she was prepared, on several occasions, to misrepresent the truth to her business associates. For example, she told Mr
+Brendan Doherty that she had a tentative $400,000 approval to fund a call centre in Manila. That was untrue. She did that, she said, to advance her commercial interests by pushing Mr Doherty along, even though he was her intended joint venture partner at the time.
+ I will not take up time by detailing other instances of misleading, indeed dishonest conduct, of the kind that I have just referred, save to note in fairness to Ms Bubke, that as to one of them (relating to her having told
+Citigroup that she had had a third person cost the book of debt independent of
+Mr Brendan Doherty), she acknowledged the untruth in her affidavit of 18
+August 2010.
+ Ms Bubke gave evidence that was at best misleading, and in fact I think untrue, as to her relationship with Mr Barlow. When caught out, she gave as an explanation that their private relationship "wasn't out in public".
+ One matter that is of significance is that, when Ms Bubke was being pressed to sign the deed of guarantee, she told Citigroup that she was having her lawyers looking at it. Her evidence in cross-examination was that was not true but that, on the contrary, she "forgot" to instruct her lawyers. It is unclear whether she was telling the truth to Citigroup, or telling the truth to the
+Court. If the former, then she was not telling the truth to the Court; if the latter, she was not telling the truth to Citigroup. Neither version of the possibilities goes to her credit.
+ Ms Bubke's evidence in relation to efforts made on 24 and 25 September 2007 to obtain finance was less than impressive. In my view, she prevaricated because she understood to tell the truth would show either that she had mislead the people from whom she was seeking finance or that her knowledge, of the value of what she was seeking to buy, was greater than she pretended.
+ Ms Bubke was asked about another version of the model, from which the pricing of the book of debt was built up, that was shown to Mr Rao at the meeting of 21 September 2007. She professed a lack of understanding of the model. However, her cross-examination showed that she understood it clearly and thoroughly. She ultimately conceded that point.
+ Ms Bubke asserted that she did not think that she was exposed to any risk when Capital 9 was bidding. That evidence was hard to accept, because the bid form submitted on her instructions suggested that NRG was the "guarantor" for
+Capital 9. She sought to escape from that by saying that she was no more than a small shareholder in Capital 9 (or CrediProtect). However, e-mail correspondence revealed that she and Mr Brendan Doherty had intended to go /50 in the venture; and indeed Ms Bubke protested when Mr Brendan Doherty sought to increase his percentage to 60 per cent.
+ I turn to Mr Barlow. I have the strong impression that he sought to conceal the extent of his understanding of the pricing model that he displayed to Mr
+Rao at the meeting on 21 September 2007. (One of the difficulties in assessing the representations said to have been made at that meeting is that the defendants have been unable to produce the actual model that was shown. Hence, an understanding of what was shown to Mr Rao has to be derived from looking at preceding or succeeding versions of the model, and interpolating such observations as people are able to recall of the model actually shown.) When asked about the model, Mr Barlow volunteered, in a totally irrelevant way, that he didn't understand it and that "you had a Court appointed forensic accountant who couldn't make head or tail of this in three weeks looking at it." (This was a reference to the referee, to whom was referred the question of assessment of the value of the book of debt. I shall return to his report.)
+It is clear, in my view, that Mr Barlow referred to the referee in an attempt to highlight the problems of evaluating the book of debt, and the spreadsheet about which he was being asked questions. The difficulty with this aspect of his evidence (apart from the fact that it was manifestly unresponsive) is that the spreadsheet about which he was being asked was not given to the referee.
+ The evidence of what was said at the meeting on 21 September 2007 was given, at my direction, orally. There were very marked discrepancies between
+Mr Barlow's oral evidence-in-chief about what was there said and the evidence in his affidavit (which, once he had been cross-examined on it, was admitted into evidence on this point). For example, in his oral evidence, Mr Barlow attributed to Mr Vicente a comment that the book should return "between 15 to percent". By contrast, the affidavit referred to "better that 18 percent".
+The discrepancy is significant in the circumstances of this case.
+ Again, one of the representations alleged in Mr Barlow's affidavit was that
+Mr Vicente had said that some off shore company was offering 6.5 cents in the dollar. That allegation did not feature in Mr Barlow's oral evidence. Other aspects of Mr Barlow's oral evidence suggested very strongly that (although he denied it) he had consulted Ms Bubke's affidavit to "refresh" his recollection before he gave evidence in Court.
+ I deal below with the evidence of what happened after 21 September 2007. Mr
+Barlow's participation in those events makes it very hard to accept his evidence. He did not refer to the representations said to have been made, as to a recovery rate of 15 to 18 per cent, in e-mails to funders. When challenged on this he volunteered (for the first time) the suggestion that he might have done so "in a conversation". I do not regard that opportunistic evidence as credible.
+ Mr Barlow was dissembling in the evidence given by him about the "black magic" spreadsheet and about his e-mails to funders. I do not propose to set out the relevant passage, but I will note that he sought for the best part of a page or more of transcript to evade answering the question of from where he had got a recovery rate of 15 per cent. Finally, when Mr Hutley asked me to direct him to answer the question and I put the question to him, Mr Barlow conceded, reluctantly, that "I do appear to be saying it".
+ There are other aspects of the evidence that I regard as reflecting adversely on the credibility of Ms Bubke and Mr Barlow. However, I have said enough to indicate why, to the extent that there is a conflict, I prefer the evidence given for Citigroup to that given for the defendants.
+ 
+The first issue: the alleged representations Some of the alleged representations, said to have been made at the meeting on 21 September 2007 are not seriously (if at all) in issue. However, they do not appear to me to go anywhere of present relevance. In this category, I place the representations alleged in paragraphs (a), (b), (d) and (l) of paragraph 19 of the cross-claim list statement.
+ The second group of representations comprises those that, one way or another, relate to the expected recoveries to be made on the book of debt.
+They are the representations alleged in paragraphs (e) to (k) of paragraph 19 of the list statement.
+ There are then smaller groups of representations, relating to:  * there being another bidder at 6 cents (para (c)); * Mr Vicente and Mr Rao foregoing their "bonus package or commissions" (para (ll)); * relating to the preservation of the relationship between Citigroup and NRG (paras (m), (mm)); * relating to future contingency work (para (mn));  I do not propose to deal with the representations alleged in paragraphs , (b), (d) and (l). To the extent that they were disputed, a finding that they were made depends on acceptance of Ms Bubke and Mr Barlow over some or all of Mr Vicente, Mr Rao and Ms Dunk. For the reasons I have given, that is not a sufficient basis for a finding in favour of the defendants on disputed question of fact.
+ More importantly, the representations go nowhere, either because they were manifestly correct at the time they were made (paras (a), (b), and (l)), or because they have no significance in terms of reliance or causation (all of them).
+ 
+The representations as to expected recovery Of those representations, the key one is para (k): that the rate of return on the book of debt would be 15 to 18 per cent of face value. The other representations are either ancillary to that (paras (e) to (g)) because they give reasons why the rate of return might be higher than otherwise would be expected, or more general in nature and reflecting, in effect, a less specific version of what is alleged in para (k).
+ There are no contemporaneous records which corroborate any representation, made at the meeting on 21 September 2009, that CrediProtect (or for that matter NRG) could receive a rate of a return of 15 to 18 per cent on the book of debt. But there are records that suggest otherwise.
+ On the Monday following the meeting, 24 September 2007, Mr Barlow sent e-mails to potential funders. In those e-mails, he sought to extol the virtues of the book of debt so as to make it appear that it was worth the money being sought. Ms Bubke accepted that if Citigroup had made a representation that the rate of 15 to 18 per cent could be expected, it would be a "blind Freddy point to ensure that you have told them [the potential funders] that Citibank had told you that in their opinion this debt would return between 15 to 18 percent". However, that blind Freddy point is conspicuously absent from the e-mails sent by Mr Barlow to funders on 24 September 2007. On the contrary, he refers to NRG's "current collection recovery rates of 15 percent" (which was the matter over which he prevaricated, as set out at [52] above) and said that the book had "a forecast collection recovery [sic] 12 percent ".
+ The fact that Mr Barlow sought, by referring to NRG's collection recovery rate, to bolster the forecast collection recovery of 12 per cent as conservative suggests that he was doing all he could to make the proposition appear attractive. It is simply impossible to accept that, had Citigroup made the representations alleged on 21 September 2007, he would not have referred to them.
+ No complaint was made about the alleged misrepresentation until the cross- claim was filed. One can understand that, in the earlier days at least, Ms
+Bubke might have wished to retain her relationship with Citigroup, and might have been loathe to complain. (To the extent that this suggests that Ms Bubke might have been a shy or retiring woman, that was not my impression of her from the witness box.) However, when the final instalment was due and Ms Bubke was negotiating for an extension of time to pay, she made no complaint, but said instead, in effect, that she was going to work extremely hard to pay the debt. She accepted further that when she asked for further assignments of debt from Citigroup, she did so to enable her to honour her obligation to pay the outstanding amount.
+ Nonetheless, Ms Bubke gave evidence that in early 2008 she became aware that the book of debt was not performing as in her view it should have been performing. She had retained Mr Peter Doherty to advise her by that time. It appears that she gave her story to Mr Doherty, and asked him for advice. Mr
+Doherty prepared a note, based on his discussions with Ms Doherty and Mr
+Barlow, in which he set out his understanding of the problem. That note said, among other things:  
+From discussions with CrediProtect, it appears that the pricing was driven primarily by verbal representations from Citibank as to a preferred pricing level.
+ There is no doubt that Citibank did make verbal representations as to a preferred pricing level. It is said, first of all, that it wanted 6 cents in the dollar and later that it would accept (or might accept) 5.5 cents. What is conspicuously absent from Mr Doherty's document is any suggestion that the deal was "driven" by a representation as to a rate of return of 15 to 18 per cent.
+ Indeed, it appears, Ms Bubke had not communicated that to Mr Peter Doherty.
+I say that because, on 21 December 2007, she sent an e-mail to Mr Rao at Mr
+Doherty's request, asking certain questions. One of those questions was "what was the recovery rates of the original pool of debt which the 63.5M portfolio would have been originally sourced from, and what was the face value of this debt at each point in the Citibank collection cycle". Presumably, if Mr Peter
+Doherty wanted that information, it was because Ms Bubke had not given it to him. It is hard to believe why she would not have told him, if the representation had been made, as she alleges was done, on 21 September 2007.
+ I interpose to note that Mr Rao replied on 2 January 2008. He said, in answer to the question, that "this pool, till sale, had clocked 4 percent in recoveries and was estimated to recover another 15 percent - 18 percent". That is the first time in any document that there is a reference to a recovery rate in the range 15 per cent to 18 per cent. Mr Hutley submitted, and I accept, that that is the true source of the allegation that a representation of that kind was made. It does not support the proposition that the representation was made on 21 September 2007.
+ The representation in paragraph 19(j), that the defendant's pricing model was very conservative, cannot be accepted as having any specific content. The primary problem is that there is no evidence of what was the pricing model shown to Mr Rao at the meeting on 21 September 2007. There is in evidence the model used to price the bid at 3.84 cents in the dollar, and there is in evidence another model used to price the bid at 5.5 cents in the dollar.
+Neither of those was the model shown to Mr Rao.
+ Mr Rao accepts that he said that the model shown to him at the meeting on September 2007 appeared to be conservative. But in circumstances where we simply do not know what that model said, it is impossible to say that the statement made by Mr Rao was in any way misleading.  On the contrary, as a statement of opinion, it may well have been reasonable; but in the absence of the model, there is no basis of assessing this.
+ The allegations as to the extent to which the debt had been the subject of collection activity (paras (e) to (g)) are used to support the allegation that the recovery rates would be higher than expected (para (h)) and that the debt was likely to be very profitable (para (a)). In essence, the more a debt is worked, the less profitable it becomes; the orange has less juice the more it is squeezed.
+ The evidence on the point was contradictory. Mr Rao agreed that the debt had been with another agency, not worked efficiently, and withdrawn. He said that this was true. This evidence was not challenged, and there is no acceptable evidence to controvert it.
+ Ms Bubke sought to suggest that Mr Vicente had said that the book of debt was a "gold mine"; and Mr Barlow referred to "a diamond in the rough". The "gold mine" description was, Ms Bubke agreed, "another Blind Freddy point" to be put to prospective financiers. It was not.
+ Between the evidence of Mr Rao, my general views as to credibility and the failure of Mr Barlow to pass this alleged group of representations on to prospective financiers, I conclude that the representations were not made.
+ Mr Sneddon asked, rhetorically, why did Ms Bubke change her view, as to not bidding further, after the meeting of 21 September 2007? He submitted that she went to the meeting to explain to Citigroup her reasons for not proceeding further, but came away having agreed to pay 5.5 cents in the dollar for the book (having indicated that she would submit a bid in that amount).
+ I accept that this is a question that requires to be examined. It does not however mean that representations were made and relied upon.
+ It is clear that Ms Bubke is a dynamic, ambitious and successful businesswoman. There is evidence in contemporaneous emails that she was "so keen" or "really anxious" to buy the book of debt, and that she remained "keen" even after Mr Brendan Doherty dropped out because he was not prepared to go beyond a bid at 5 cents in the dollar.
+ I think that Ms Bubke appreciated that a move away from contingency work would have an adverse impact on NRG, a business that she wished to "grow". I think that she wished to "position" her business so that it could catch the expected move to forward flow work. I think, also, that she wanted to strengthen her relationship with Citigroup (as Citigroup wanted to strengthen its relationship with NRG), to enable her business to grow and prosper.
+ Thus, I think, Ms Bubke was prepared to increase her bid by 10 per cent, from 5 cents to 5.5 cents in the dollar, to buy the book of debt.
+ I think also that Ms Bubke found the projected returns set out in Mr
+Brendan Doherty's pricing model very attractive. That model, admittedly at a price of 3.84 cents in the dollar, showed a return on investment of 45.26 per cent at a recovery rate of 7.76 per cent. The model prepared by Mr Barlow was even more attractive. Based on a purchase price of 5.5 cents in the dollar and a recovery rate of 11.961 per cent, it showed a return on investment of 96.49 per cent. None of that is based on representations said to have been made at the meeting of 21 September 2007.
+ In short, I think, Ms Bubke backed her judgment, despite the fact that Mr
+Brendan Doherty was not prepared to bid above 5 cents in the dollar.
+ 
+Another bidder at 6 cents The allegation is that Mr Vicente said at the meeting on 21 September 2007 that at least one other active bidder had bid in the region of 6 cents in the dollar. The difficulty with this aspect of the case is that neither Ms Bubke nor Mr Barlow referred to that alleged representation in their oral evidence- in-chief. Ms Bubke referred to it only when being cross-examined on one of the emails of 24 September 2007 addressed to potential funders.
+ Mr Barlow had said, in his affidavit, that there was a representation made at the meeting that another bidder had bid 6.5 cents in the dollar (not 6 cents). That was put to him to challenge his evidence-in-chief. The conflict between the oral evidence and the affidavit evidence makes his account of the meeting, in either version, unreliable.
+ Mr Rao accepts that Mr Vicente had said that there were other potential buyers of the debt, but that nothing was said about the amount of any bid. It was correct to say that, in the sense that there was an interested overseas potential buyer. Mr Rao was not challenged on that evidence.
+ I am not satisfied that the pleaded representation, as to another bidder at cents in the dollar, was made.  
+The bonus issue There is, I think, little doubt that Citigroup said, both before the meeting of 21 September 2007 and during it, that it was likely that a price of .5 cents would be acceptable. The dispute is to whether Mr Vicente said that he and Mr Rao would forego bonus or commission. Each of them denied that this had been said.
+ Ms Bubke gave oral evidence of this representation. Mr Barlow did not do so. It was raised, briefly, in his cross-examination and re-examination.
+ Mr Rao said that to his memory there was nothing said at the meeting about bonuses. Both he and Mr Vicente deny that they received commissions (although it is clear that they received bonuses).
+ Further, Mr Vicente's evidence, which on this point I accept, was that the rates of bonus payable to him and Mr Rao did not depend, specifically, on the amount achieved for the sale of the book of debt. He said (and supporting documents were produced) that bonuses were paid by reference to a range of factors, one of which was achievement of various monetary performance targets.
+ A finding that a representation in the terms alleged was made means, of necessity, that Mr Vicente directly lied at the meeting of 21 September 2007.
+The evidence is far too insubstantial to permit such a finding. I am not prepared to find that there was any representation made in respect of bonus or commission.
+ 
+Preservation of the relationship There is no doubt that, both at the meeting in question and before,
+Citigroup had said that it wished to forge, or preserve, a relationship with
+NRG. There is no doubt that Citigroup saw the sale of the book of debt to NRG as part of that process. Equally, there is no doubt that this was Citigroup's intention at the time. As I have said, Citigroup was looking to move to a forward flow model. It wanted to use NRG in that process. Sale of books of debt, to clear out the "warehouse", was a preparatory step.
+ The representation was made, more than once, but can hardly have been thought to be misleading.
+ 
+One hundred per cent of contingency work This is an allegation that has only recently formed part of the cross- claim. It is not supported by Ms Bubke's evidence in cross-examination. She understood that, once the sale of the Book of Debt was completed, she would get such proportion of Citigroup's contingency work thereafter as Citigroup chose to give to NRG in accordance with its policies from time to time. That understanding is clearly inconsistent with the making of the representation alleged.
+ Mr Barlow's oral evidence did not refer to the alleged representation.
+ Mr Rao said that there was no representation to that effect made. He was not challenged in any degree of detail on that evidence.
+ It may be noted, by way of aside, that Ms Bubke did not complain about not getting all Citigroup's contingent work. On the contrary, she accepted, she got that work when she asked for it, to the extent that she had the capacity to handle it. Again, it was not something that was mentioned to potential funders.
+ I am not satisfied that this representation was made.
+ 
+Conclusion on the representation case In my view, the defendants have failed to establish that the key representations were made. For reasons that I will turn to in a moment, those representations that were made were not misleading or deceptive.
+ 
+Second and third issues: Were the representations that were made misleading or deceptive? 
+The future relationship representations Those representations set out, in effect, the necessary consequence of
+Citigroup's plan to move to a forward flow process. There is no doubt that, in the period July to September 2007, Citigroup planned to do this, as did other entities.
+ If that happened, contingency work would dry up. NRG's survival and growth would require it to move into the purchase of debt on the forward flow model.
+ As I have said, Citigroup wanted to strengthen its relationship with NRG (and NRG wanted to strengthen its relationship with Citigroup). That was because, when Citigroup moved to a forward flow model, it wanted to continue to work with NRG, in whose abilities it reposed confidence.
+ Those representations were not misleading or deceptive. To the extent that they were as to Citigroup's present state of mind, they were truthful. To the extent that they were made as to future matters, they were made on reasonable grounds.
+ 
+The representation as to acceptability of a bid at 5.5 cents To the extent that this representation was as to a future matter, Mr
+Vicente and Mr Rao had reasonable grounds for making it. They knew, from experience, how the relevant decision makers in Citigroup priced books of debt, and what price levels were likely to be acceptable to those decision makers. What was represented reflected accurately that knowledge.
+ It is clear that a lower bid would not have been acceptable (a bid at 5 cents was rejected). The bid that was made at 5.5 cents was accepted.  
+The representation as to future contingency work I have dealt with this. For the reasons that I have given, the only representation that was made (which did not extend to 100 per cent of contingency work in the future) was not made dishonestly, and was not misleading or deceptive. Ms Bubke was given such contingency work as she asked for and thought she could take on.
+ 
+Fourth issue: reliance There is a substantial body of evidence that is inconsistent with the proposition of reliance. I refer, among other things, to the terms of the bid package, to Ms Bubke's reliance on Mr Brendan Doherty and to the events that occurred after the meeting on 21 September 2007.
+ The bid package, which included a draft of the deed of sale, made it plain that Citigroup was making no representation except to the extent set out in the documents contained in the bid package. Equally, by bidding, each bidder (including CrediProtect) accepted that it was capable of evaluating the merits and risks of the purchase and making an informed bid, and relied solely on its own determination of the worth of the assets that were offered for sale. The representations that were to be made by the deed of sale said nothing of the kind alleged in paragraph 19 of the cross-claim.
+ Further, there was a disclaimer of reliance. Whilst I accept that such a disclaimer cannot avert the operation of [s ](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/s52.html) of the [Trade Practices
+Act](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/), it is nonetheless a circumstance to be taken into account in assessing whether or not there was reliance.
+ It is clear from Ms Bubke's evidence that she relied on Mr Brendan Doherty and, to an extent, Mr Pollock to help her bid for the book of debt. That remained the case up until and including the bid at 5 cents in the dollar. It cannot be suggested that anything said or done by Citigroup to that stage, by way of representation, was material in inducing Ms Bubke so to bid.
+ I have dealt with the reasons why, I think, Ms Bubke increased her offer.
+As I have indicated, those reasons have nothing to do with such representations as in fact were made. They are quite inconsistent with the proposition that Ms Bubke relied on the representations that were made.
+ I accept that it was important to Ms Bubke that she would have a future relationship with Citigroup, and that she would continue to receive work.
+Thus, I accept that she relied on relevant representations to that effect. But for the reasons I have given, those representations were not misleading or deceptive.
+ 
+Fifth issue: loss As I have indicated, the question of the value of the book of debt was referred out: to a chartered accountant, Mr J H Williams.
+ Mr Williams concluded that, on the material provided to him, he could not determine the value of the book of debt. That would seem to have been so because, at least in part, CrediProtect chose not to give him evidence (as he requested) as to the amounts and timing of anticipated cash flows under the book of debt, to enable him to undertake a discounted cash flow analysis.
+ Mr Williams' report was adopted by consent. The result is that there is no evidence of the value of the book of debt. In particular, there is no evidence that the book of debt is worth less (or was at 28 September 2007 worth less) than CrediProtect agreed to pay for it.
+ It might be possible to assess damages on some alternative hypothetical basis. For example, if it were concluded (and I do not conclude) that the bid price had been increased from 5 cents to 5.5 cents in the dollar by reason of some misleading or deceptive conduct, then one could argue that damages might be assessed at 11 per cent of the total price, i.e., at $395,681.55. One might take that approach because there is no evidence that the 5 cents price was influenced by any misleading or deceptive conduct, and was supported by the joint venture partner and expert Mr Brendan Doherty.
+ Of course, the 5 cent bid was conditional; but in the event, the conditions on which it was made were met or bettered by Citigroup.
+ If, alternatively, one thought that the 3.84 cent bid was the appropriate starting point, then the loss would be calculated as 1.66 per cent of the purchase price, $62,285,621. That would produce an outcome of $1,033,941.30.
+ On either basis (and I stress that I do not find damages in either amount), damages hypothetically so calculated ought be set off against
+Citigroup's claim. See [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/s21.html) of the [Civil Procedure Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/) .
+ But those approaches are hypothetical. As I have said, I find that if, contrary to my conclusion, there were misleading or deceptive conduct, the cross-claimants have failed to prove any loss.  
+Sixth issue: duty of care  This issue focuses attention on the "vulnerability", in the relevant sense, of the defendants. The material in the bid package, to which I have referred briefly, indicates that Citigroup was not undertaking any duty towards bidders. There are strong reasons in policy for being loathe to impose, on someone offering to contract, a duty of care in negligence that goes beyond the terms of the contract that is offered.
+ In any event, I conclude, the defendants were not relevantly vulnerable.
+As I have now said several times, they had the benefit of, amongst other things, independent expert advice (from Mr Brendan Doherty). No doubt, there may been some disparity in their financial size compared to the financial size of Citigroup. But that is neither the yardstick, nor an indicator, of vulnerability in the relevant sense.  
+Seventh issue: breach of duty   This issue does not arise.  
+Eighth issue: loss  Again, this issue does not arise. If it did arise, it would be dealt with in the same way as I have dealt with the question of loss raised by the sixth issue.
+ 
+Ninth issue: unconscionability  As the case for the defendants was put in closing submissions, the debate, as to unconscionability, focused principally on the guarantees given by Ms
+Bubke and NRG. Nonetheless, Mr Sneddon maintained that the deed of sale itself was, as well, the product of unconscionability conduct.
+ 
+The relevant principles  The concept of unconscionability under the general law (which is picked up by [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/s51.html) AA of the [Trade Practices
+Act](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/)) has been explained in many decisions. Without attempting to be exhaustive, one may take note of the decisions of the High Court Australia in Blomley versus Ryan <case>; [(1956) 99 CLR 362]; Commercial Bank of Australia Limited versus Amadio <case>; [(1983) 151 CLR 447]; and Louth versus Diprose <case>; [(1999) 175 CLR 621.] In Blomley, Kitto J said at 415 that the Court could set aside a transaction where one party was at a special disadvantage in dealing with the other because of circumstances, including but not limited to illness, ignorance, and impairment of facilities, affecting his ability to look after his own interests and where the other party took unconscientious advantage of the opportunity thus given it. Fullagar J spoke to the same effect at 405.
+ In Amadio, Mason J said at 461 that the Court could grant relief when unconscientious advantage was taken of an innocent party whose will was overborne so that the exercise of will was not independent and voluntary. It could also be granted, his Honour said, where advantage was taken of that party's inability "to make a worthwhile judgment as to what is in his best interest", even though his will had not been completely overborne.
+ In the same case, Deane J set out the circumstances at 474: the existence of some special disability leading to absence of reasonable equality between the parties; that was obvious, or sufficiently evident, to the other party; so as to make it unconscientious for that other party to procure or accept the weaker party's assent to the transaction.
+ Where those circumstances were shown, his Honour said, the onus was cast on the stronger party to show that the transaction was fair and reasonable.
+ Deane J expressed similar views in Louth at 367.
+ Mr Sneddon relied on elements of unconscionability as explained by Austin
+J in Turner versus Windever  <case> at <case>: It is convenient, for present purposes, to accept the statement of the elements of unconscionable dealing put forward by counsel for the defendants on the basis of these cases. According to his submission, which I accept, a case of unconscionable dealing involves the following: the weaker party must, at the time of entering into the transaction, suffer from a special disadvantage vis-a-vis the stronger party; the special disadvantage must seriously affect the weaker party's capacity to judge or protect his or her own interests; the stronger party must know of the special disadvantage (or know of facts which would raise that possibility in the mind of any reasonable person); that party must take advantage of the opportunity presented by the disadvantage; and the taking of advantage must have been unconscientious.
+ His Honour's decision was affirmed on appeal: <case> I am content to proceed on the basis that the elements to be shown are as stated by Austin J.
+ 
+Application to the guarantees Mr Sneddon relied on some six factors as showing that Ms Bubke and NRG were at a special disadvantage in relation to guarantees: . It is submitted that there are six factors in the relationship between Ms Bubke for the cross claimants and Mr Vicente for Citigroup that militate toward a finding of a "special disadvantage". They are: 
+Ms Bubke's financial vulnerability at the time of the transaction; and 
+Ms Bubke's inexperience and ignorance in the purchase and valuation of a book of debt; and 
+The circumstances in which the intention to purchase the book of debt was formed, and the activities of Citigroup to crystalise that intention; and the limited information regarding the book of debt that Ms Bubke had at her disposal, coupled with her resulting dependence upon Messrs Vicente and
+Rao for guidance; and 
+The manner in which the purchase price of the book of debt was structured, so as to saddle Ms Bubke with a procrustean debt obligation; and 
+The fact that the guarantees were so improvident, and given after the debt sale deed had been executed.
+ Mr Sneddon stressed that the guarantees, being given after the deed of sale was made, were enforceable only because they themselves were given by deed.
+ To a large extent, the findings that I have made already suggest that there was no relevant special disadvantage and no unconscientious dealing.
+ I turn to Mr Sneddon's six points.
+ As to the first: The asserted vulnerability was, as I understand it, that
+Ms Bubke's business, through NRG, would wither once the forward flow model was put into practice. That may be so. But it is clear that Ms Bubke possessed considerable enthusiasm for the purchase. It is clear that her enthusiasm was driven, not by desperation, but by the factors I have listed above in discussing why it was that (against the advice of Mr Brendan Doherty) she submitted a bid at 5.5 cents in the dollar after the meeting of 21 September .
+ In this context, the evidence of Messrs Vicente and Rao (which on this point I accept) was that at the meeting of 21 September 2007, Mr Vicente cautioned Ms Bubke against becoming too heavily involved; that it was a big commitment for NRG; and that she needed to be very careful of cash flow so that she could meet her obligation to fund the purchase price. Ms Bubke replied that she was keen to find ways to proceed; and that, in effect, she was confident, because of her understanding of, and experience in collecting,
+Citigroup debt.
+ In those circumstances, it is very difficult to conclude that Citigroup took advantage, let alone unconscientious advantage, of any perceived financial vulnerability on the part of Ms Bubke or NRG. On the contrary,
+Citigroup pointed out the potential problems to her, and was satisfied by her that she could deal with them.
+ As to the second matter: Ms Bubke had the assistance of Mr Brendan
+Doherty, someone whom she regarded as an expert in the field and on whom she relied: to the point where, initially, she proposed to proceed with him in joint venture to purchase the book of debt.
+ When Ms Bubke decided to go further than Mr Brendan Doherty was prepared to travel, she was backing her own judgment. No doubt, she was excited by the projected returns and the prospect of "super profits".
+ To Citigroup's knowledge, Ms Bubke had had the benefit of Mr Brendan
+Doherty's advice. To Citigroup's knowledge, he was (or had been represented to be) an expert in the field. In those circumstances, again, it is difficult to see how Citigroup took advantage, let alone unconscientious advantage, of any purported ignorance or experience on Ms Bubke's part.
+ The third matter appears to be based on the representation case. It is dealt with by the findings that I have made.
+ As to the fourth matter: the bid package made it clear that the bidders could get as much further information, or data, as they wanted. Neither Ms
+Bubke nor Mr Brendan Doherty sought further information. There is no evidence as to how, if at all, they were disadvantaged by their failure to do so.
+ It is not the case that Ms Bubke was dependent on Messrs Vicente and Rao.
+She was reliant on Mr Brendan Doherty, until he decided that he had reached his limit. Thereafter, as I have said, she backed her own judgment.
+ As to the fifth matter: the purchase price was structured, in the way it was, for the benefit of Ms Bubke. That was done at her request. 75 per cent of the purchase price was deferred for 12 months to enable her and Mr Barlow to find other finance. The interest rate was, on the evidence, about one half to two-thirds of what might have been payable to a third party lender. There is no circumstance of unconscionability in this.
+ As to the sixth matter: Ms Bubke and NRG had a choice whether or not to give guarantees. There was no obligation compelling them to do so. Mr Barlow (whose guarantee had also been sought) declined to do so.
+ Ms Bubke had ample opportunity to take advice on the draft guarantee.
+Indeed, she represented to Citigroup that she was doing so. Citigroup was entitled to assume that her decision, that she and NRG should give the guarantees, was one made with an informed understanding of her lack of obligation to do so, and of the consequences in terms of potential liability, if she did.
+ Equally, if Ms Bubke chose to give her guarantee (and to cause NRG to give its) so as to preserve her relationship with Citigroup, that was a decision for her. There is no shred of evidence that she felt compelled to do so, or that her will was in some way overborne so to cause her to do so.
+ In short, in my view, Ms Bubke had such information and advice as she thought she needed to enable her to make an informed decision in relation to guarantees. She made the decision to give them as a result of her own independent judgment.
+ Her evidence on this point (at T86 to 88) is instructive. She said she knew that Citigroup required a guarantee "when I got the document through" on September 2007. She was happy to give the guarantee. She knew what a guarantee was, and that is it exposed her to liability. She had executed guarantees before. Further, she knew that NRG, in which virtually her entire wealth was tied up, was going to guarantee the debt. Her personal guarantee "wasn't of great significance". She had had legal advice before. She knew how to get it. In relation to the guarantees, she chose not to do so, both for herself and for NRG.
+ Although Ms Bubke pretended, at first, that she did not seek legal advice because "I don't recall having time", she conceded that she had told Citigroup that she was having her lawyers look over the draft, a perfectly easy thing to do, and a matter for her to decide.
+ In my view, Ms Bubke was thoroughly aware of what she did, and did it (and caused NRG to act) of her own free will.  
+Application to the deed of sale  Much of what I have said is relevant to this also. However, the following points bear emphasis.
+ Ms Bubke was an astute and successful businesswoman. She had more than a month, prior to 28 September 2007, to consider the transaction, and whether to enter it. She obtained the advice of experts, including Mr Brendan Doherty, Mr
+Pollock, and (as to finance) Mr Barlow. She considered Mr Brendan Doherty to be highly experienced; and he advised her of certain risks.
+ She was shown models that predicted handsome rates of return. In my view, she relied on those models (which owed nothing to Citigroup) as a motivation in entering the transaction.
+ In summary, I find no basis for concluding that either the deed of sale, or the deed of guarantee, was the result of unconscientious conduct on the part of Citigroup.
+ 
+Tenth and Eleventh issues: relief on cross-claim  These issues do not arise.
+ 
+Conclusions and orders  As I have said, Citigroup is entitled to judgment for the amount claimed, and the cross-claim fails.
+ Prejudgment interest is agreed, in the sum of $410,820.04 up to 6
+September 2010 and at a daily rate thereafter at $637.22. The total for interest, until today's date, is $413,368.98.
+ When this is added to the amount of the unpaid instalment, the claim is for $3,149,653.93.
+ It seems to me that costs should follow the relevant events, although I propose to allow 14 days for any party to seek some alternative costs order.
+ I propose to stay execution on the judgment up until 27 September 2010, to enable the parties to receive and consider my reasons.
+ I make the following orders: 
+Direct entry of judgment for the plaintiff against each of the defendants in the sum of $3,149,653.92.
+
+Direct that judgment to take effect from 10 September 2010.
+
+Order the defendants to pay the plaintiff's costs.
+
+Subject to the further order of the Court, stay execution on the said judgment up until and including 27 September 2010.
+
+Order that the cross-claim be dismissed.
+
+Order the cross claimants to pay the cross defendant's costs.
+
+Reserve leave to any party to apply to discharge or vary order 3 or order 6; any such application to be made in writing to the party or parties affected and to be copied to my associate; any such notice to state the costs orders sought, and in brief, the reasons why they are sought.
+ 
+Order that the exhibits be retained for 28 days and that they be dealt with thereafter in accordance with the rules.
+ 
+Reserve liberty to apply, both in respect of the stay and generally, on two days' notice.
+ 
+LAST UPDATED:  September 2010 * * * 

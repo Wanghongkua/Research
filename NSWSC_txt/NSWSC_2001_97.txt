@@ -1,0 +1,308 @@
+
+
+Industry Number Management Services Ltd. versus Objectif Telecommunications
+Ltd. [2001] NSWSC 97 (16 February 2001) 
+Last Updated: 8 March 2001 
+NEW SOUTH WALES SUPREME COURT 
+CITATION: Industry Number Management Services Ltd. v. Objectif
+Telecommunications Ltd. <case> 
+CURRENT JURISDICTION: Equity Division 
+FILE NUMBER(S): 5179/00 
+HEARING DATE{S): 15 and 16 February 2001 
+JUDGMENT DATE: 16/02/2001 
+PARTIES: 
+Industry Number Management Services Ltd. - plaintiff 
+Objectif Telecommunictions Ltd. - defendant 
+JUDGMENT OF: Hodgson CJinEq 
+LOWER COURT JURISDICTION: Not Applicable 
+LOWER COURT FILE NUMBER(S): Not Applicable 
+LOWER COURT JUDICIAL OFFICER: Not Applicable 
+COUNSEL: 
+Mr. S. Archer for plaintiff 
+Mr. P. Jacobson QC with Mr. M. Henry for defendant 
+SOLICITORS: 
+Corrs Chambers Westgarth, Sydney for plaintiff 
+Watson Mangioni, Sydney for defendant 
+CATCHWORDS: 
+CONTRACT - Head contract for supply and maintenance of computing system - Sub- contract for services for that system - Contract between customer and sub- contractor dealing with intellectual property - Head contractor goes into administration - Sub-contract terminated - Customer enters into new head contract - Questions as to obligations of sub-contractor and rights to intellectual property, in new circumstances.
+
+ACTS CITED: 
+DECISION: 
+See end of judgment 
+JUDGMENT: 
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+CORAM: HODGSON, CJ in Eq.
+
+Friday 16th February 2001 
+NO. 5179 OF 2000 
+INDUSTRY NUMBER MANAGEMENT SERVICES LIMITED V. OBJECTIF TELECOMMUNICATIONS LIMITED 
+JUDGMENT The plaintiff INMS is a special purpose non profit company limited by guarantee, jointly owned by Telstra Corporation, Optus Networks, AAPT and
+Primus Telecommunications. Its special purpose is to administer and manage free phone and local rate number portability services, so that customers can change telecommunications providers without changing their existing telephone numbers.
+ On 21 December 1999, INMS entered into an agreement with I-Tel Pty Ltd, whereby I-Tel agreed to develop and support a computerised system for this purpose. I will call this agreement the DSA.
+ By an agreement made on 31 January 2000, I-Tel subcontracted part of its obligations under the DSA to the defendant Objectif. I will refer to this agreement as the subcontract.
+ On 25 August 2000, INMS, I-Tel and Objectif entered into a deed dealing with intellectual property associated with the project. I will call this the IPA
+Deed.
+ On 5 December 2000, I-Tel was placed into voluntary administration, and on December 2000 Objectif gave notice to I-Tel terminating the subcontract.
+ In these proceedings commenced on 27 December 2000, INMS seeks a declaration that under the IPA Deed it is entitled to delivery up to it by Objectif of an electronic copy of certain software associated with the project, specifically certain source codes and run time codes and INMS also seeks consequential relief.
+
+OUTLINE OF FACTS I will begin by giving an outline of relevant terms of the agreements and of some additional facts.
+ The DSA of 21 December 1999 contained a number of definitions, the following being the most relevant to these proceedings: 
+Application Software means: the application software and database developed by I-Tel (or by Objectif or any other person for I-Tel) for the purposes of this Agreement that will perform the function of number allocation, porting and number management as described in the Services Specifications; web browser interface and XML interface that meet the requirements in the Services Specifications; all updates and new versions of that software, including changes undertaken in accordance with clause 19.
+
+Bureau Services are the services described in Schedule 1.
+
+Disengagement Plan means the plan to be developed under clause 22 which will include the obligations and services to be performed by I-Tel on termination or expiration of this Agreement.
+
+Disengagement Services means the services I-Tel will supply to INMS set out in the Disengagement Plan.
+
+Documentation means all documentation relating to the INMS System and the Services, including documentation for: the Project Plan and that plan itself; the Application Software; the I-Tel Software; the Transition Plan and that plan itself; the Test Plans and those plans themselves; the Disengagement Plan and that plan itself; the Interfaces; the Functional Specification and that specification itself; the Services Specifications and those specifications themselves; the Service Materials that are in documentary format; the Problem Management Plan and that plan itself; the Source Code Materials; the Business Continuity Plan and that plan itself; user manuals referred to in sub-clause 5.7; and such other documents identified in this Agreement as being a Document.
+
+INMS System means the hardware, the Application Software, the Interfaces, the Documentation, the I-Tel Software and the Third Party Software used by I-Tel in supplying the Services.
+
+Intellectual Property Rights means all intellectual property rights, including without limitation: patents, copyright, rights in circuit layouts, registered designs, trade marks and the right to have confidential information kept confidential; and any application or right to apply for registration of any of those rights.
+
+Interfaces means: a communications interface at the I-Tel premises connected to the INMS System ready for use by the INMS Subscribers to effect interoperability between the INMS Subscribers' systems and the INMS System; and the web interface of INMS ready for use by INMS Subscribers to make service requests.
+
+I-Tel Software means the software not being the Application Software in which all Intellectual Property Rights reside in I-Tel, that I-Tel uses to provide the Services. I-Tel Software is listed in Schedule 10.
+
+Services means: 
+Development Services; 
+Transition Services; 
+Bureau Services; 
+Maintenance Services; 
+Disengagement Services; 
+Additional Services; and all other services set out in the Services Specification.
+
+Services Fees are the fees payable for the Services under clause 12 and specified in Schedule 7.
+
+Services Start Date means 16 November 2000.
+
+Source Code Materials means the materials, documents and information including the source code for the most current version of the Application Software necessary to enable a suitably skilled person to maintain the Application Software in good working order.
+
+Term means the period that commenced at signing of this Agreement and continues until 16 November 2005.
+
+Third Party Software means the software not being the Application Software or I-Tel Software in which the intellectual property resides with a third party and that is used by I-Tel in supplying the Services.
+ Clause 3.3 of the agreement deals with the times at which various services under the agreement should be provided by I-Tel, and is in the following terms: .3 This Agreement commences on the date of signing and continues for the Term. I-Tel will ensure that: the Development Services will be commenced when the Agreement commences and will be completed by the Service Start Date; the Bureau Services will commence on the Service Start Date and continue for the Term; and the Help Desk Services will commence on the day Acceptance occurs and continues for the Term.
+ The Bureau Services referred to in clause 3.3(b) are referred to in schedules 1 and 8 of the agreement. Most relevant to these proceedings are paragraphs 3, 4 and 5 of schedule 8 which, in effect, set out what I-Tel has to do in relation to supporting the ongoing operation of the system after it is in place, for the remainder of the term of the agreement, that is until
+November 2005.
+ Schedule 7 to the agreement contains provisions as to the payment which
+I-Tel is to receive for providing the bureau services over this period, and relevantly it provides for payments in the order of about $120,000 per month.
+ Clause 11 of the DSA deals with intellectual property rights and is in the following terms: .1 I-Tel: presently assigns to INMS all present and future title and Intellectual Property Rights in the Functional Specification, the Application Software, the Source Code Materials and the Documentation and any user manuals required for the Application Software; and must do all things reasonably requested by INMS to enable INMS to assure further the title and rights assigned under sub-clause 11.1(a).
+ .2 I-Tel may copy, modify adapt and sublicence the source code for the Application Software, or any part thereof if: 
+I-Tel has requested permission from INMS; and 
+INMS has granted that permission in writing. Such permission may be withheld except if I-Tel agrees to pay INMS a commercial licence fee.
+ .3 I-Tel grants to INMS a perpetual, irrevocable, royalty-free, non-exclusive licence to use, copy and sublicence the I-Tel Software for the purposes of complying with INMS' delegated functions under the Numbering Plan and for INMS providing the INMS Services. I-Tel will keep the list of I-Tel Software in Schedule 10 accurate on a monthly basis. I-Tel must report to INMS at least quarterly in this regard.
+ .4 During the Term, the Disengagement Period and afterwards, I-Tel will provide support and maintenance services for the I-Tel Software.
+ .5 I-Tel grants to INMS a perpetual irrevocable royalty free, non-exclusive licence to modify and adapt the I-Tel Software for the purposes of complying with INMS' delegated functions under the Numbering Plan but only if I-Tel is unwilling or unable to provide support or other services to maintain, modify and adapt the I-Tel Software.
+ .6 INMS grants to I-Tel a royalty-free, non-exclusive licence to use, copy, modify and adapt the Application Software for the purpose of complying with I-Tel's obligations under this Agreement. This licence will not be revoked during the term of this Agreement and the Disengagement Period and automatically terminates upon conclusion of the Disengagement Period.
+ .7 I-Tel must deliver to INMS on Acceptance at the election of INMS either or both of an electronic copy or, at INMS' cost, a hard copy of: the Application Software the Documentation; the Source Code Materials; for the purposes only of the licence granted under clause 11.5, a copy of the source code of the I-Tel Software; and the Service Materials; and keep them up to date within 30 Business Days of any material change or as requested by INMS.
+ .8 Without INMS' prior written consent, I-Tel shall not use the name, service marks or trademarks of INMS. INMS shall not, without I-Tel's prior written consent, use the name, service marks or trademarks of I-Tel.
+ Clause 21 of this agreement deals with the rights of the parties after termination, and it is in the following terms: .1 If the Agreement: terminates before the Services Start Date: 
+I-Tel must deliver to INMS or at its direction within 10 Business Days of termination: all copies of the Application Software; all copies of the Documentation; all copies of the Source Code Materials; all copies of the Data; and all copies of the Service Materials; 
+I-Tel will procure for INMS or its nominee an assignment or novation of the Third Party Software forming part of the INMS System for which it succeeded to negotiate and to the extent that it negotiated the right of assignment under clause 14.2; and 
+INMS will keep all rights, title and interest in: the Application Software; the Documentation; the Source Code Materials; and all copies of the Service Materials; terminates or expires after the Services Start Date: the parties will comply with clause 22 (Disengagement); upon completion of the Disengagement Period, I-Tel will do all things set out in sub-clause 21.1(a)(i) ; 
+I-Tel will ensure that upon completion of the Disengagement Period, all Third Party Software forming part of the INMS System for which it succeeded to negotiate and to the extent that it negotiated the right of assignment has either been effectively assigned or novated to INMS or its nominee; 
+INMS will keep all the rights mentioned in sub-clause 21.1(a)(iii) 
+I-Tel grants INMS or its nominee a first right of refusal to purchase any equipment, including hardware, forming part of the INMS System; and except on expiration and only upon termination consequent on default by I-Tel under this Agreement, I-Tel will bear all cost related to disconnecting the INMS Subscribers' links to the INMS System at I-Tel's premises and reconnecting those INMS Subscribers' links to a replacement of the INMS System in other premises nominated by INMS or its nominee.
+ .2 I-Tel will keep the INMS System (excluding any hardware) insured until delivered or made available to INMS in accordance with clause 21.1(a)(i).
+ .3 After expiration or termination of the Agreement, the following clauses continue to apply: sub-clause 11.3 (I-Tel Software Licence); clause 13 (Intellectual Property Warranties); clause 15.1(d) (Insurance); clause 16 (Confidential Information); and clause 23 (Exclusion and Limitation of Liability); clause 24 (Compliance with Information Laws); clause 25 (Freedom of Information); and clause 26 (Archives Act and Crimes Act).
+ .4 Termination or expiration of this Agreement does not affect any accrued rights or remedies of a party.
+ .5 Within 5 Business Days of termination of this Agreement due to default by I-Tel, I-Tel must: refund to INMS any amounts paid by INMS to I-Tel under this Agreement relating to or for a period after termination unless otherwise agreed in the context of clause 22; and 
+I-Tel must pay any amounts payable to INMS in relation to failure to comply with the Service Levels. This obligation also applies on expiration of this Agreement.
+ Clause 22 deals with what is called disengagement, that is, a process by which the relationship between the parties should be brought to a final conclusion. It is in the following terms: .1 I-Tel must, in consultation with INMS and in accordance with the Project Plan, develop and deliver a Disengagement Plan which will satisfy all requirements of the ACA as notified by INMS to I-Tel from time to time and specify at least: what I-Tel will do to assist INMS or its assignee or successor in the transition to a new service provider; how I-Tel will assist to minimise the disruption to INMS' business, or the business of INMS' assignee or successor caused by termination or expiration of this Agreement; what documentation including any user manuals and technical Documentation that INMS will require for it or its successor to successfully use the Application Software and INMS System; and what INMS must do to assist in the transition of the Services to a new service provider.
+ .2 The terms of this Agreement continue to apply to the relationship between the parties until the end of the Disengagement Period.
+ .3 INMS may request changes to the Disengagement Plan by submitting to I-Tel: the proposed revisions to the Disengagement Plan; and an explanation of the proposed revisions.
+ .4 Within 10 Business Days of receiving INMS' request, I-Tel must provide to INMS a reworked Disengagement Plan for INMS' approval. The parties will continue this process until they agree the final Disengagement Plan. If they cannot agree a Problem will have arisen. I-Tel will continue to provide the Services despite a Problem having arisen.
+ .5 The cost of preparation of the Disengagement Plan will be borne by INMS.
+ .6 Commencing on the day of termination or expiration of this Agreement, I-Tel must comply with the Disengagement Plan.
+ .7 The Disengagement Period will be at least 3 months but no longer than a year.
+ .8 During the Disengagement Period, I-Tel must permit INMS, its employees, contractors and agents to enter into any premises where the INMS System is located and provide access to the INMS System and train them to use the INMS System.
+ .9 Any provision of this Agreement which contemplates performance or observance subsequent to any termination or expiration of the Agreement, whether in whole or in part, shall survive any termination or expiration of this Agreement and continue in full force and effect.
+ .10 During the Disengagement Period, INMS may require I-Tel, its employees and contractors to comply with all reasonable directions of INMS in relation to the supply of the Services to INMS.
+ .11 The costs of disengagement will be borne by INMS, unless termination results from I-Tel's default, in which case I-Tel will bear the costs. INMS will pay I-Tel the Service Fees for the Services provided in the Disengagement in accordance with Schedule 7.
+ .12 Disengagement will conclude with I-Tel: returning all matters and things to INMS that belong to INMS; providing INMS with all matters and things including all copies of information and data pertaining to the INMS System, INMS and/or this Agreement; and issuing a certificate to INMS that it has complied with its obligations in sub-clauses 22.12(a) and (b).
+ The DSA itself contemplated that there would be a subcontract between I-Tel and Objectif. That subcontract dated 31 January 2000 also contains a number of definitions. The definitions there in clause 2 of `Intellectual Property
+Rights', `Services Start Date', `Source Code Materials' and `Term' are the same as the definitions of those terms in the DSA.
+ Other relevant definitions in clause 2 of the subcontract are similar to but not identical with those of equivalent terms in the DSA, and there are some terms defined in the subcontract that are not defined in the DSA. The other relevant definitions in clause 2 of the subcontract are as follows: 
+Application Software means: the application software and database developed by Objectif on behalf of I-Tel for purposes of the DSA that will perform the function of number allocation, porting and number management as described in the Services Specifications; web browser-interface and XML interface that meets the requirements in the Services Specifications; all updates and new versions of that software, including changes undertaken in accordance with clause 19 of the DSA or clause 19 of this Agreement 
+Disengagement Plan means the plan to be developed under clause 22 of the DSA 
+DSA means the I-Tel/INMS Development and Services Agreement (excluding Schedule 7) attached as Annexure B to this Agreement.
+
+I-Tel Software means the software, not being Application Software, in which all Intellectual Property Rights reside with I-Tel, that I-Tel uses to provide the Services.
+
+INMS System means the hardware, the Application Software, the Interfaces, the Documentation (as defined in the DSA), the I-Tel Software, the Objectif Software and the Third Party Software used by I-Tel in supplying the Services under the DSA.
+
+Interfaces means: a communications interface at the premises at which the INMS System is located connected to the INMS System ready for use by the INMS Subscribers to effect interoperability between the INMS Subscribers' systems and the INMS System; and the web interface of INMS ready for use by INMS Subscribers to make. service 
+Objectif Disengagement Services means the services Objectif will supply as set out in the Disengagement Plan.
+
+Objectif Documentation means all documentation relating to the Objectif Software, Application Software and the Objectif Services, including documentation for: the Objectif Project Plan and that plan itself; the Objectif Software; 
+Application Software; the Objectif Source Code Materials; the Objectif Transition Plan and plan itself; the Test Plans and those plans themselves; the Functional Specification and that specification itself; the Services Specifications and those specifications themselves; the Objectif Service Materials that are in documentary format; 
+Objectif Problem Management Plans and those plans themselves; 
+User manuals; and such other documents identified in this Agreement as being a document.
+
+Objectif Software means the software, not being the Application Software, in which all Intellectual Property Rights reside with Objectif, that I-Tel uses to provide the Services. Objectif Software is listed in Schedule 5.
+
+Obiectif Maintenance & Support Services means the software support and maintenance services described 'In Schedule 3.
+
+Objectif Service Materials means all things, materials and information specifically developed, created or generated by Objectif as part of supplying the Objectif Services, including without limitation, all inventions, software (excluding the Obiectif Software and Third Party Software), databases, models, drawings, plans, artwork, designs, logos, reports, proposals and records.
+
+Objectif Services means the services and work set out in Schedule 1 and Schedule 3.
+
+Objectif Source Code Materials means the materials documents and information including the source code for the most current version of the Objectif Software necessary to enable a suitably skilled person to maintain the Objectif Software in good working order.
+
+Services means: 
+Development Services; 
+Transition Services; 
+Bureau Services; 
+Maintenance Services; 
+Disengagement Services; 
+Additional Services; and all other services set out in the Services Specifications, as set out in the DSA.
+
+Third Party Sotfware means the software not being the Application Software or Objectif Software in which intellectual property resides with a third party and that is used by I-Tel or Objectif in supplying the Services.
+ Clause 3.3 of the subcontract deals with certain obligations of Objectif under the subcontract, in particular matters required of Objectif in order to allow I-Tel to fulfil its obligations under the DSA. That clause is in the following terms: .3 This Agreement commences on the date of signing and continues for the Term. To allow I-Tel to fulfil its obligations under the DSA Objectif must ensure that: the Objectif Services (excepting Objectif Maintenance & Support Services) will be commenced when this Agreement commences and will be completed in accordance with dates specified in the Objectif Project Program; and the Objectif Maintenance & Support Services will commence on the Services Start Date and continue for the Term.
+ The Objectif Maintenance and Support Services referred to in that clause are elaborated in paragraph 2.2 of schedule 3 of the subcontract. That paragraph makes it plain that the Objectif Maintenance and Support Services, which are required to be provided up to November 2005, are to support the
+I-Tel Bureau Service Plan. Schedule 4 of the subcontract makes provision for the rates at which Objectif is to be remunerated for those services, namely about $15,000 per month.
+ Clause 10 of the subcontract deals with intellectual property rights and is in the following terms: .1 Objectif agrees to execute the Intellectual Property Assignment Deed shown in Schedule 6.
+ .2. Subject to permission being granted by INMS, and the payment by Objectif of any commercial licence fee required by INMS in accordance with clause 11.2 of the DSA, I-Tel will grant to Objectif a licence to copy, modify adapt and sublicense the source code for the Application Software, or any part thereof.
+ .3 Objectif must deliver to I-Tel on Acceptance at the election of I-Tel either or both of an electronic copy or, at I-Tel's cost, a hard copy of: the Application Software the Objectif Documentation the Source Code Materials; for the purposes only of the licence granted under clause 11.3, a copy of the Objectif Source Code Materials; and the Objectif Service Materials; and keep them up to date within 30 Business Days of any material change or as requested by I-Tel.
+ .4 Without I-Tel's prior written consent, Objectif shall not use the name, service marks or trade marks of I-Tel. I-Tel shall not, without Objectif's prior written consent, use the name, service marks or trade marks of Objectif.
+ Clause 11 makes provision in relation to Objectif Software, and is in the following terms: .1 Objectif grants to I-Tel a perpetual, irrevocable, royalty-free, non-exclusive, licence to use, copy, and sublicense the Objectif Software for the sole purpose of providing the INMS Services. Objectif agrees to the assignment of this license to INMS or its nominee on the termination or expiry of the DSA.
+ .2 Objectif agrees that for the Term and any Disengagement Period under the DSA, it will support and maintain the Objectif Software for I-Tel or for INMS. After the Disengagement Period Objectif agrees to support and maintain the Objectif Software on terms to be mutually agreed with INMS or its nominee.
+ .3. Objectif grants to I-Tel a perpetual, irrevocable, royalty-free, non-exclusive, licence to use, modify and adapt the Objectif Software for the sole purpose of providing the INMS Services to INMS or its nominee, but only if Objectif is unwilling or unable to provide support or other services to maintain, modify and adapt the Objectif Software. Objectif agrees to the assignment of this license to INMS or its nominee on the termination or expiry of the DSA.
+ .4 Objectif agrees, for the purposes only of the licence granted under sub-clause 11.3, to deliver to I-Tel on Acceptance, at the election of I-Tel either or both an electronic copy or, at I-Tel's cost, a hard copy of the source code of the Objectif Software and keep it up to date within 30 Business Days of any material change or as requested by I-Tel. Objectif acknowledges and agrees that I-Tel must deliver this source code to INMS in accordance with sub-clause 14.3(e) of the DSA.
+ Clauses 21 and 22 deal with rights after termination and disengagement in a somewhat similar way to the equivalent clauses in the DSA. Those clauses are in the following terms: .1 If the Agreement terminates before the Services Start Date: 
+Objectif must deliver to I-Tel or at its direction within 10 Business Days of termination: all copies of the Application Software; all copies of the Objectif Documentation (excluding Objectif Software and Objectif Source Code Materials); all copies of the Source Code Materials; all copies of the Objectif Service Materials; 
+INMS will keep all rights, title and interest in: the Application Software the Ojbectif Documentation (excluding Objectif Software and Objectif Source Code Materials); the Source Code Materials; and all copies of the Objectif Service Materials; .2 If the Agreement terminates or expires after the Services Start Date on termination or expiry of the DSA, the parties will comply with the Disengagement Plan.
+ .3 Objectif will keep the Application Software insured until delivered or made available to I-Tel in accordance-with clause 21.1(a).
+ .4 After expiration or termination of the Agreement, the following clauses continue to apply: sub-clauses 11.1 and 11.3 (Objectif Software Licence); clause 13 (Intellectual Property Warranties); sub-clause 15.1 (d) (Insurance); clause 16 (Confidential Information); clause 23 (Exclusion and Limitation of Liability); clause 24 (Compliance with Information Laws); clause 25 (Freedom of Information); and clause 26 (Archives Act and Crimes Act).
+ .5 Termination or expiration of this Agreement does not affect any accrued rights or remedies of a party.
+ .6 Within 5 Business Days of termination of this Agreement due to default by Objectif, Objectif must: refund to I-Tel any amounts paid by I-Tel to Objectif under this Agreement relating to or for a period after termination; and 
+Objectif must pay any amounts payable to I-Tel in relation to failure to comply with the Service Levels. This obligation also applies on expiration of this Agreement.
+ .1 Objectif shall assist I-Tel in the preparation of the Disengagement Plan. I-Tel must have due regard to Objectif's advice concerning preparation and contents of the Disengagement Plan to the extent that the same relates to the Objectif Disengagement Services.
+ .2 The cost of this Ojbectif assistance will be borne by I-Tel.
+ .3 Objectif will provide the Disengagement Services in accordance with the Disengagement Plan.
+ .4 The costs of Objectif providing the Objective Disengagement Services will be borne by I-Tel.
+ The costs of Objectif providing the Objectif disengagement services referred to in clause 22.4 are dealt with in schedule 4, which provides that the price to be paid to Objectif for those services is to be based on rates provided in the agreement for what are called additional services.
+ The agreement most directly involved in these proceedings is the IPA Deed entered into on 25 August 2000. That deed is in the following terms: 
+BETWEEN INDUSTRY NUMBER MANAGEMENT SERVICES LIMITED ACN 080 344 190 of Level 9, Nokia House. 32 Walker Street, North Sydney (INMS) 
+AND OBJECTIF TELECOMMUNICATIONS LIMITED ABN 72 056 482 636 of Level 7, 99 Walker Street, North Sydney (Subcontractor) 
+AND I-TEL PTY LTD ACN 066 870 620 of Level 2, 22 Edgeworth David Avenue, Hornsby, New South Wales (I-Tel) . BACKGROUND .1 INMS was established to facilitate the process of providing number portability for Freephone and Local Rate services.
+ .2 I-Tel is in the business of developing software and providing certain other services.
+ .3 INMS has chosen I-Tel to: develop the INMS System; and supply services to INMS to support the process of providing number portability for Freephone and Local Rate Services.
+ .4 Subcontractor will provide I-Tel with information technology and other services including assisting I-Tel in developing the INMS System on the terms of this Deed and the Subcontractor Agreement.
+ .5 This Deed ensures that the Intellectual Property Rights specifically created by the Subcontractor in the context of the Subcontractors Agreement are assigned to INMS or its nominee.
+ . DEFINITIONS & INTERPRETATIONS .1 In this Deed: 
+ACA means the Australian Communications Authority.
+
+Development & Services Agreement means the Agreement entered into between INMS and I-Tel on 21 December 1999.
+
+Freephone service means a carriage service in which: the person to whom a number is issued is charged for calls to the number; and the call charge for calls made from a standard telephone service (other than a public mobile telecommunications service) is zero.
+
+INMS Materials means all things, materials and information specifically developed, created or generated by the Subcontractor (whether alone or with I-Tel, its employees or other contractors) as a part of, or to supply, the Services, including without limitation, all inventions, software, databases, models, drawings, plans, artwork, designs, logos, reports, proposals and records.
+
+INMS System means the hardware, the software, the interfaces, the documentation, used by INMS to provide Freephone and Local Rate number portability.
+
+Intellectual Property Rights means all intellectual property rights, including without limitation: patents, copyright, rights in circuit layouts, registered designs, trade marks and the right to have confidential information kept confidential; and any application or right to apply for registration of any of those rights.
+
+Local Rate service means a carriage service: that is capable of voice telephony; that, for a call, involves the translation of the number dialled in making the call to a number that identifies a point of termination for the call; that is not a local service; and for which: the call charge for calls made using a standard telephone service (other than a public mobile telecommunications service) is equal to, or less than, the call charge for local calls; and responsibility for the residual charge for calls (if any) lies with the person to whom the number is issued.
+
+Services means all the services that the Subcontractor is required to supply to I-Tel under the Subcontractor Agreement.
+
+Subcontractor Agreement means the agreement entered into between I-Tel Pty Limited and Subcontractor on 31 January 2000 .2 Headings are for ease of reading only and do not affect the interpretation of this Deed.
+ .3 A reference in this Deed (except in clauses 1.1 and 1.3) to INMS includes a nominee of INMS.
+ . RELATIONSHIP BETWEEN THE PARTIES .1 The Subcontractor: acknowledges that: the Subcontractor is an independent contractor; this Deed does not create a relationship of employer and employee, principal and agent, joint venture or partnership between INMS or I-Tel and: the Subcontractor; any subcontractor of the Subcontractor; or any of the Subcontractor's, or any subcontractor of the Subcontractor's, employees; this Deed does not give the Subcontractor, its subcontractors or their employees, authority to bind I-Tel or INMS; and must not, and must ensure its subcontractors and its own and its subcontractors' employees do not, directly or indirectly, assume or create or attempt to assume or create, any obligation on behalf of or in the name of I-Tel or INMS.
+ .2 Nothing in this Deed makes INMS liable to the Subcontractor for any payments. I-Tel is responsible for all amounts due, payable or arising under this Deed or any other agreement, including for any claim, dispute, loss, damages or costs.
+ . INTELLECTUAL PROPERTY RIGHTS .1 INMS and I-Tel do not claim ownership of any Intellectual Property Rights of the Subcontractor that are not developed, created or generated specifically for I-Tel or INMS or its nominee as part of supplying the Services.
+ .2 INMS must own all INMS Materials. Accordingly, the Subcontractor: presently assigns to INMS all present and future title and Intellectual Property Rights in the INMS Materials; and must at its own cost do all things reasonably requested by I-Tel or INMS to enable INMS to assure further the title and rights assigned under clause 4.2(a); .3 On request by I-Tel or INMS from time to time, the Subcontractor must supply to I-Tel or INMS a copy of the INMS Materials, in their then current state.
+ .4 The Subcontractor grants to INMS a perpetual, irrevocable, royalty free, non-exclusive licence to use, sub-licence and copy the software of the Subcontractor for use in connection with the INMS System.
+ .5 The Subcontractor agrees to support and maintain its software during the term of the Development and Services Agreement and any disengagement period under the Development and Services Agreement and following the expiration or termination of the Development and Services Agreement.
+ .6 The Subcontractor grants to INMS or its nominee a perpetual, irrevocable, royalty free, non-exclusive licence to use, modify and adapt the software of the Subcontractor but only if the Subcontractor is unwilling or unable to provide support or other services to maintain, modify and adapt the software of the Subcontractor.
+ .7 On the expiration or termination of the Development and Services Agreement the Subcontractor will assign to INMS all of the licences granted to I-Tel for the software of the Subcontractor to fulfil I-Tel's obligations under the Development and Services Agreement.
+ .8 For the purposes only of the licence granted under clause 4.6, I-Tel will ensure that the Subcontractor will deliver to INMS on Acceptance as that term is defined under the Development and Services Agreement at the election of INMS, either or both an electronic copy or, at I-Tel's cost, a hard copy of the source code of the software of the Subcontractor, and keep it up to date within 30 business days of any material change or as requested by INMS.
+ .9 If and when the Subcontractor procures software of third parties (Third Party Software) after the date of this Deed solely for the purposes of providing the Services and that Third Party Software cannot be reasonably procured by INMS upon the expiration or termination of the Development and Services Agreement then the Subcontractor must use its reasonable endeavours to negotiate with the third party a right to assign that Third Party Software to INMS. Unless otherwise agreed between I-Tel and the Subcontractor, I-Tel will bear the cost of the assignment.
+ .10 The Subcontractor warrants that: in supplying the Services it will not infringe the Intellectual Property Rights of any person; it has all necessary rights and authorities to make the assignments under clauses 4.2 and 4.7.
+ .11 Notwithstanding the provisions of clause 3.2, I-Tel will make any payments for INMS and INMS agrees to reimburse I-Tel to cover the cost referred to in clauses 4.8 and 4.9 in so far as INMS is responsible for payment of those.
+ . EACH PARTY AGREES TO COOPERATE FURTHER 
+Each party must do or cause to be done all acts and things necessary or desirable to qive effect to, and refrain from doing all acts and things that could hinder performance by any party of, this Deed.
+ . THE LAW THAT GOVERNS THIS DEED 
+This Deed is governed by the law applicable in New South Wales and each party irrevocably and unconditionally submits to the non-exclusive jurisdiction of the courts of that state.
+ On 29 September 2000, I-Tel issued a certificate that a systems test of the
+INMS System had been completed and that it met the criteria stipulated in the
+DSA. It appears that that was fully completed and tested on 29 November 2000, which appears to be 13 days after the intended commencement date for the system.
+ During the preparation of the system, Objectif had been delivering releases making amendments or adjustments to the software it was providing for the system. On 30 November 2000 it delivered Releases 37 and 38 and it appears that Release 37 was then installed.
+ On 5 December 2000, I-Tel was placed into voluntary administration.
+ It seems that drafts of the disengagement plan contemplated by the DSA had been prepared, and a further draft was apparently prepared on 8 December 2000.
+However, no such plan reached the stage of final agreement, and it seems clear that INMS has not sought to put any such plan into operation.
+ On 11 December 2000, Objectif terminated the subcontract.
+ On 12 December 2000, there was an agreement between INMS and Objectif whereby Objectif was to provide temporary support services for the system for $3,000 per day. This agreement continued until 24 December 2000. It was terminated on that day by reason of 48 hours notice being given on 22 December .
+ On 15 December 2000, Objectif delivered Release 39 of the software.
+Releases 38 and 39 have not yet been installed.
+ About the time that it terminated the agreement for temporary support services to which I have referred, INMS required Objectif to deliver up to it certain source codes and run time codes relating to certain of the software.
+When Objectif did not do this, these proceedings were commenced on 27 December .
+ At around the end of December 2000 or the beginning of January 2001,
+Paradigm One Pty Ltd bid for and was granted the right to acquire the benefit of I-Tel's contractual arrangements pursuant to the DSA.
+ On 4 January 2001, an agreement was made between INMS and Paradigm, similar in terms to the DSA, except that this agreement did not include provisions relating to the testing of the INMS System, which had effectively been completed by the 29 November 2000.
+
+ISSUES In general terms, INMS contend that the system is not working satisfactorily at present, that INMS and Paradigm cannot do the work necessary to correct faults or "bugs" in the system without the source codes which
+Objectif refuses to hand over, and that even though the installation of
+Releases 38 and 39 might improve the performance of the system to a satisfactory level, that would be a major undertaking and they would prefer not to do this unless they have the source codes which would enable them to anticipate and/or correct any problems that might arise from the installation.
+ Objectif says, in effect, that INMS is not entitled to the source codes, that the system will be satisfactory with Releases 38 and 39 installed, and that Objectif is prepared on reasonable terms to give support to the system.
+ There is reference in the various agreements to source codes, and I should say briefly what those codes are. They are codes in a programming language which computer programmers use to write computer programmes, being an English- like language, that can be understood by people as well as being capable of machine manipulation. There has been reference in the evidence also to what are called run-time codes. They are codes for computer programmes which are more directly understood by computers, and which are actually executed by the computers in carrying out their operations.
+ It appears to be common ground that `INMS System' referred to and defined in the IPA Deed includes both the `Application Software' defined in the subcontract and also the `Objectif Software' as defined in the subcontract. It appears also to be common ground that `INMS Materials' referred to and defined in the IPA Deed includes `Application Software' as defined in the subcontract but excludes `Objectif Software' as defined in the subcontract.
+ It seems therefore that clauses 4.2 and 4.3 of the IPA Deed mean that INMS is entitled to delivery up of both source codes and run time codes for the
+Application Software as defined in the subcontract, and I will proceed on the assumption that this is so.
+ There may be some factual dispute as to whether Objectif has complied with this obligation. It appears that Objectif claims that a certain piece of software called the workflow engine is Objectif Software as defined in the subcontract. The plaintiff may be claiming that the workflow engine is not
+Objectif Software as defined in the subcontract, but rather is Application
+Software as defined in the subcontract. If this claim is made, I will need further submissions in order to be able to deal with it.
+ Again, it seems to be common ground that INMS is entitled to delivery up of the run-time codes for the Objectif Software as defined in the subcontract. I am not entirely sure whether it is common ground that Objectif has complied with this. If there is a claim that Objectif has not complied with this, I would need to hear more submissions.
+ The principal matter of dispute that has been debated before me, and about which I have received extensive submissions, is whether INMS is entitled to delivery up of the source codes for the Objectif Software as defined in the subcontract. It is I think common ground that Objectif has not done this.
+There may be some dispute as to precisely what would be required if it is obliged to do this. I am not in a position to make any determination on that at this stage. If there is a dispute, that too would require further submissions.
+ On that basis, the issue that I will proceed to determine is the one I have identified, namely whether INMS is entitled to delivery up of source codes for the Objectif Software as defined in the subcontract.
+
+DECISION I have been provided with extensive written submissions on this point which
+I will leave with the papers. I will not repeat those submissions. I will from time to time in these reasons just refer very briefly to points put by Counsel on either side.
+ Mr Archer for the plaintiff submitted that clause 4.4 of the IPA Deed entitled INMS to delivery up and use of the relevant source codes. He submitted that the evidence showed that ongoing satisfactory use of the software provided by Objectif required modification and adaptation to deal with faults or bugs as they arose, and that could not be achieved without the benefit of the relevant source codes. He submitted that the reference to use of Objectif's software in clause 4.4 meant practical and efficacious use, which could only be achieved in that way.
+ In my opinion, clause 4.4 does no more than remove an obstacle that might otherwise exist to using, sublicensing and copying software, arising from
+Objectif's intellectual property rights in that software. It does no more than make permissible what would otherwise be a breach of those rights.
+ That seems to me to be the natural meaning and effect of the words, and it is confirmed both by the circumstance that the license referred to in clause .4 is perpetual, irrevocable and royalty free, and also by the circumstance that the matters on which Mr Archer relied to support the other view are expressly addressed, so it seems to me, in clause 4.6.
+ Mr Archer then submitted that clause 4.6 entitles INMS to be given the means to modify and adapt Objectif's software, and that requires access to the source codes. He relied also on clause 4.8, which requires delivery up of the source codes for Objectif's software for the purposes of the license under clause 4.6. He submitted that, on the evidence, Objectif was unwilling or unable to provide the support or other services referred to in clause 4.6, so that INMS had a present entitlement to use the source codes. He submitted that, even if that was not the case, clause 4.8 required delivery up of the source codes to be held by INMS but only to be used if and when the condition under clause 4.6 was satisfied.
+ Dealing first with that last point, I note that Mr Jacobson for Objectif submitted that clause 4.8 would require delivery up of source codes only if the license in 4.6 was actually activated by reason of the relevant unwillingness or inability of Objectif. Mr Archer submitted that the requirement in clause 4.8 that this take place on acceptance was inconsistent with the position put by Mr Jacobson.
+ I should mention one other argument of Mr Jacobson in relation to clause .8, namely that it does not directly impose an obligation on Objectif to deliver the source codes but only an obligation on I-Tel to ensure that the subcontractor, that is Objectif, does this.
+ Dealing first with the point as to whether the obligation under clause 4.8 is activated only if the license under 4.6 is activated, it seems to me relevant to look at similar provisions in the DSA and in the subcontract.
+Clause 11.7 of the DSA imposes a similar obligation as between I-Tel and INMS, but sets it out in a way which in my opinion makes it clear that the item referred to in clause 11.7(d) is to be delivered up on acceptance at the same time as the items referred to in paragraphs (a), (b), (c) and (e) of that clause, but in the case of subparagraph (d), the item is not to be used in any way unless the license referred to in clause 11.5 is activated. It seems clear that what then is required is that the source code be treated by INMS as confidential and not used in any way at all unless, within the meaning of clause 11.5, I-Tel becomes unwilling or unable to provide relevant services.
+ In the subcontract there are very similar provisions as between Objectif and I-Tel, and similar comments apply. In my opinion, when one reads clause .8 of the IPA Deed, having regard to those other provisions contained in agreements that are expressly referred to in the IPA Deed, the interpretation put forward by Mr Archer is the preferable one.
+ The other point raised by Mr Jacobson does raise a curious question about the clause in question. The objective of the IPA Deed appears to have been, at least in part, to impose obligations on Objectif which could be directly enforced by INMS, yet in that particular clause no obligation of Objectif to
+INMS is directly expressed. However, when regard is had to the circumstance that the relevant source codes were required on acceptance, which in fact occurred in September 2000, to be delivered by Objectif to INMS under the subcontract, and having regard to the circumstance that clause 4.6 of the IPA
+Deed contemplates that INMS will have the facility to modify and adapt the software, this requiring access to the relevant source codes, it seems to me that clause 4.8 should be considered as imposing an obligation on Objectif.
+ The next question I need to consider is whether clause 4.6 has been activated. Although on the view I have taken, Objectif is required to deliver up copies of the source code, plainly the plaintiff is contemplating making use of that source code, and the question whether the plaintiff is entitled to do so has been fully argued before me.
+ As I understand it, Mr Archer has accepted that the onus of proving activation of clause 4.6 lies on INMS. I think it is clear that this is so.
+INMS would have no freedom to modify and adapt Objectif's software unless the condition in clause 4.6 is satisfied. I think it is clearly incumbent on INMS then to prove satisfaction of that condition.
+ The question of whether that condition is or is not satisfied depends very much on how one is to understand what is meant by "unwilling or unable to provide support or other services". Mr Archer has submitted that since the provision of such services was to be done under the subcontract, and since that subcontract has been terminated, Objectif must from that circumstance alone be considered as unwilling or unable to provide the services.
+Alternatively, as I understand it, he submits that unless Objectif is willing and able to provide the services for no remuneration, then it is unwilling or unable to provide the services.
+ Mr Jacobson submits that the Objectif is not unwilling or unable to provide the services so long as it is prepared to negotiate bona fide for terms on which it would provide those services, or alternatively if it is prepared to provide such services at market rates, or alternatively, if it is prepared to provide such services at the rates provided for in the subcontract.
+ In my opinion, these terms of clause 4.6 mesh with the obligation placed on
+Objectif by clause 4.5. The wording is not quite the same. Clause 4.5 refers to supporting and maintaining the software, whereas clause 4.6 refers to providing support or other services to maintain, modify and adapt the software. However, in my opinion there is no relevant difference in meaning.
+It seems clear that supporting and maintaining software does involve modifying and adapting it to deal with bugs; and on the other hand, I do not read "modify and adapt" in clause 4.6 as requiring any more than making such modifications and adaptations as are appropriate to fulfil an obligation to support and maintain.
+ Mr Archer submitted that clause 4.5, when read with clause 3.2 of the IPA
+Deed, made it clear that Objectif's obligation under clause 4.5 to support and maintain was not conditional on any payment to be made to it by INMS, so that in circumstances where it was not now going to receive payment from I-Tel,
+Objectif had to provide these services for no cost.
+ In my opinion, this matter has to be considered in the light of the overall contractual situation as it existed when the IPA Deed was made, and also in the light of subsequent events.
+ Under clause 3.3 of the subcontract, Objectif promised I-Tel to perform these same services during the term, that is until 16 November 2005 or earlier determination, for the rates set out in schedule 4, relevantly about $15,000 a month. Under clause 22.3 of the subcontract Objectif promised I-Tel to perform disengagement services during the disengagement period for the rates provided for additional services in schedule 4. In clause 11.2 of the subcontract,
+Objectif promised I-Tel to perform these services after the disengagement period "on terms to be mutually agreed with INMS or its nominee".
+ I note incidentally that clause 4.5 of the draft IPA Deed, which is schedule 6 to the subcontract, also contemplates that services performed after the disengagement period would be "on terms to be mutually agreed with INMS".
+There is no evidence before me as to why the wording changed in the final version of clause 4.5.
+ That consideration of terms of the subcontract shows that, under the subcontract, Objectif was obliged to do what clause 4.5 of the IPA Deed requires in return for payments by I-Tel, or after disengagement on terms mutually agreed with INMS. It is also clear from the terms of the subcontract and the DSA that these services to be provided by Objectif were part of the
+Bureau Services to be provided by I-Tel to INMS, for which INMS was to pay
+I-Tel about $120,000 per month. Presumably the $15,000 per month for Objectif was to be funded from that $120,000 per month.
+ The DSA provides that on the termination of that agreement there should be a disengagement plan. However, as I have said, no such plan was ever finalised or agreed, and INMS chose not to proceed by way of a disengagement plan, but rather to enter into a new contract with Paradigm to provide essentially the same services as I-Tel was to provide. The agreement with Paradigm, which is in evidence, indicates that the services to be provided by Paradigm include the support for the system that was to be provided by Objectif and which
+Objectif essentially agrees to provide in clause 4.5 of the IPA Deed.
+ In my opinion, if Objectif were indeed obliged by clause 4.5 of the IPA
+Deed to perform these services for nothing, that would mean that it was obliged for no payment to perform part of what Paradigm is to perform under its contract with INMS for a payment to Paradigm, the amount of which is not disclosed in the evidence but which presumably bears some relationship to the $120,000 per month provided in the I-Tel contract.
+ In my opinion, for Objectif to be obliged by clause 4.5 to do this would involve some kind of unjust enrichment either for INMS or for Paradigm or both. INMS is seeking equitable relief in these proceedings, and in my opinion in seeking that relief it must do equity. In my opinion, in seeking, in substance, to enforce an obligation under clause 4.5, INMS should do equity by offering, in return for the services required by clause 4.5, the same payment to Objectif as would have been made by I-Tel under the subcontract.
+ Then, applying that approach to the construction and application of clause .6 in the present circumstances, it seems to me that, if such an offer is made and Objectif is not then willing and able to provide the services upon those terms, then the condition in clause 4.6 would be triggered and INMS would be free to use the source codes; but otherwise it would not.
+ In the light of those reasons, it seems to me that INMS is entitled to a declaration and possibly an order giving effect to the view I have taken of clause 4.8 of the IPA Deed. However, I think Objectif is entitled to some declaration or order which will ensure that the software in question is only used if the condition in clause 4.6 is in fact satisfied.
+ I will stand the matter over to 9.30 next Wednesday.
+ 
+LAST UPDATED: 05/03/2001 * * * 

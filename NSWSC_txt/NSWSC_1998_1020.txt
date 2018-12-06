@@ -1,0 +1,596 @@
+
+
+Urica Library Systems Bv versus Sanderson Computers Pty Limited Matter Nos /95 [1998] NSWSC 1020 (27 April 1998) 
+Last Updated: 10 June 1998 
+URICA LIBRARY SYSTEMS BV versus SANDERSON COMPUTERS PTY LIMITED /95; 50080/97 April 1998 
+Rolfe J 
+The Supreme Court of New South Wales Commercial Division 
+Name of Case: URICA LIBRARY SYSTEMS BV versus SANDERSON COMPUTERS PTY LIMITED 
+Proceedings: 50180/1995; 50080/1997 
+Dates of Hearing: 30, 31 March, 1 April 1998 
+Date of Judgment: 27 April 1998 
+Counsel for Plaintiff: Mr J C Kelly SC/Mr V F Kerr 
+Solicitors for Plaintiff: Freehill Hollingdale & Page 
+Counsel for Defendants: Mr J M Ireland QC 
+Solicitors for Defendants: Victor A Bizannes 
+Construction of a one-off agreement.
+
+Plaintiff sought a declaration that it was entitled to terminate the agreement, which right it had not exercised because of arrangements between the parties: held this was a proper case in which to make a declaration: 
+Forster versus Jododex Pty Limited <case>; [(1972) 127 CLR 421]; Galaxy Communications Pty Limited & Ors versus Paramount Films of Australia Inc & Ors (Court of Appeal - 27 March 1998 - unreported) considered.
+
+Reasonableness of an issue not being raised in earlier proceedings.
+
+Anshun type estoppel: Port of Melbourne Authority versus Anshun <case>; [(1981) 147 CLR 589] and Algons Engineering Pty Limited versus Abigroup Contractors Pty Limited (Giles CJCommD - 1 April 1998 - as yet unreported) noted.
+
+I N D E X 
+Page 
+Introduction 1 
+The 1995 Proceedings 2 
+The 1997 Proceedings 6 
+The Issues Which Have Now Arisen 15 
+The Entitlement To Royalties For Annual Licence Fees 
+The Construction Of The Software Agreement 22 
+Rectification 26 
+Conclusions As To Annual Licence Fees 37 
+The Obligation To Report 38 
+The Obligation To Report Monthly 43 
+Annual Reporting 54 
+The Claim For Termination 56 
+Costs 66 
+Conclusions 
+JUDGMENT 
+HIS HONOUR: 
+Introduction 
+By a Summons issued on 19 September 1995, ("the 1995 proceedings"), Urica
+Library Systems BV, ("Urica"), for which Mr J.C. Kelly of Senior Counsel and
+Mr V.F. Kerr of Counsel appeared, sought declaratory relief and orders against
+Sanderson Computers Pty Limited, ("Sanderson"), for which Mr J.M. Ireland of
+Queen's Counsel appeared. Urica is, and has been at all material times, the owner of a suite of computer software programmes for use in substantial and specialist libraries of the type conducted, inter alia, by universities, schools and State instrumentalities. The programmes carry out the usual functions of libraries such as cataloguing, recording borrowings and so forth.
+
+On 5 October 1993 Urica entered into a written Software Distribution
+Agreement, ("the Software Agreement"), with General Automation Pty Limited, by which name Sanderson was then known. Its "Commencement Date" was defined as 1
+August 1993. Prior to the entry into this agreement the parties had operated under an agreement and, in February 1993, there were discussions between the principal director of Urica, Mr Andreas Michael Wassenaar, and two officers of
+Sanderson, namely its Managing Director, Mr Frank John Broos, and its
+Commercial Director, Mr Alan Geoffrey Sercombe, in which, inter alia, dissatisfaction was expressed by Mr Wassenaar at the way in which Sanderson was performing the then existing agreement. There were negotiations between the parties, which led, after some eight drafts had been prepared and considered, to the entry into the agreement of 5 October 1993.
+
+In that agreement Urica was referred to as the Licensor, and Sanderson as the
+Licensee. Recital B stated:- "The Licensor has agreed, upon and subject to the terms and conditions contained in this agreement, to appoint the Licensee as its Licensee in the Total Territory in respect of the Licensed Software and the Licensee has agreed to accept such appointment in the terms of this agreement." 
+The 1995 Proceedings 
+In the 1995 proceedings, which arose out of the Software Agreement, Urica sought the following declarations and orders:- "1. A declaration that in the events which have occurred and on a proper construction of the provisions of the Software Distribution Agreement dated 5 October 1993 (the `Software Agreement') the defendant is liable to pay to the plaintiff pursuant to clause 4.1(a)(2) a royalty of 15% where the defendant has supplied to any End User or any other third party Licensed Software together only with operating system software and/or relational data base management system software.
+ . A declaration that on a proper construction of the Software Agreement a royalty of 5% is payable pursuant to clause 4.1(a)(1) only where the supply of the Equipment is a supply of such Equipment together with Licensed Software which is integrated with or necessary for the operation of the Licensed Software so supplied.
+ . An order that the defendant account for all transactions under which it has supplied to any End User or any other third party: 
+Equipment and Licensed Software; and 
+Licensed Software together only with operating system software and relational database management software, during the period 1 August 1993 to date.
+ . An order that the defendant pay to the plaintiff the amount, if any, together with any interest, which shall be found to be due to the plaintiff upon the taking of the said account.
+ . An order that the defendant specifically perform its obligations of reporting under clauses 4.2(a), (b) and (c) of the Software Agreement.
+ . Damages.
+ . Interest.
+ . Costs.
+ . Further or alternative relief." 
+The 1995 proceedings came before me on 3 June 1996 when I was informed that the parties agreed that a resolution of the proper construction of clause .1(a) would decide the main issue between them, such that the further matters in dispute may well be resolved without the Court's further intervention. On that basis, and I should note that Mr Ireland did not then appear for
+Sanderson, I decided to determine the construction question, in an attempt to facilitate a commercial solution as quickly as possible. With the benefit of hindsight I am satisfied I should not have followed that course, but maintained my prima facie approach that the most satisfactory way of determining cases is by resolving all issues in dispute at the one time. Many of the problems, which have arisen in the orderly disposition of this case, have been caused by my allowing a fragmentation of the determination of the issues. This case is another example of the unsatisfactory consequences, in most cases, of having separate or discrete issues decided rather than the whole proceedings. I gave my decision on 7 June 1996 in which I answered the construction questions and I invited the parties to bring in Short Minutes of
+Order to give effect to my views.
+
+On 28 June 1996 I made declarations reflecting the views to which I had come on the construction issues, and, at the request of the parties, I ordered that paragraphs 1, 2, 3, 4, 6 and 7, under the heading "The Plaintiff Claims" in the Summons, be dismissed with costs. These declarations and orders were entered on 9 July 1996.
+
+On 29 July 1996 Urica filed a Notice of Appeal seeking declarations conformably with the construction for which it had contended, and orders that the orders made by me on 28 June 1996 be set aside and that the matter be remitted to me for orders in accordance with paragraphs 3 to 9 of the Summons.
+
+On 2 October 1997, the Court of Appeal held that I was in error, set aside the declarations I had made, and declared, in lieu thereof:- "3.1 That on a proper construction of the provisions of the Software Distribution Agreement dated 5 October 1993, the respondent" (Sanderson) "is liable to pay to the appellant" (Urica) "pursuant to cl 4.1(a)(2), a royalty of fifteen per cent where the respondent has supplied to any End User or any other third party Licensed Software together only with operating system software and/or relational data base management system software.
+ .2 That on a proper construction of the Software Distribution Agreement, a royalty of five per cent is payable, pursuant to cl 4.1(a)(1), only where the supply of the Equipment is a supply of such Equipment together with Licensed Software which is integrated with or necessary for the operation of the Licensed Software so supplied." 
+Their Honours remitted the matter to me:- ".. to make such further orders sought in the Summons filed on 19 September 1995 as may be appropriate." 
+They did not make an order setting aside the orders I had made dismissing paragraphs 1, 2, 3, 4, 6 and 7 of the Summons, nor did the remitter limit the orders sought in the Summons, to which I could have regard, in making "appropriate orders".
+
+The remaining issue in the 1995 proceedings was articulated by the parties in a document furnished to the Chief Judge on 16 August 1996 and headed "Statement of Remaining Issues". Put shortly, for the moment, it was whether
+Sanderson has complied with its obligations under clause 4.2 of the Software
+Agreement to report to Urica on the transactions it had undertaken pursuant to that agreement to enable Urica to determine, inter alia, whether it had been paid the correct amount of commission.
+
+The 1997 Proceedings 
+On 17 April 1997, which was after my judgment in the 1995 proceedings and before the matter was heard in the Court of Appeal, Urica issued a further
+Summons in proceedings 50080 of 1997, ("the 1997 proceedings"), seeking various declaratory relief and consequential orders. The two main areas of contention revolved around the declarations sought in paragraphs 1 and 6, viz:- "1. A declaration that, on a proper construction of the Software Distribution Agreement made between the plaintiff as Licensor and the defendant (then known as General Automation Pty Limited) as Licensee dated 5 October 1993 (`the Agreement'), where the defendant or a Distributor supplies Licensed Software or Equipment to an End User for an initial licence fee and an annual licence fee, then the Net Invoice Price of the defendant or of the Distributor, for the purposes of clause 4.1(a), includes both the initial licence fee and all annual licence fees whenever invoiced.
+ ........
+ . A declaration that the plaintiff is entitled, pursuant to clause 10.3 of the Agreement, to terminate the Agreement by giving not less than thirty (30) days notice in writing to the defendant founded upon the abovementioned faults or either of the same." 
+Other relief related to those matters was sought.
+
+The first declaration raised a question as to the proper construction of clause 4.1(a). It was whether royalties were payable not only on the initial licence fee, but, in so far as the agreement with the End User was structured on the basis of an initial and subsequent annual licence fees, also on the subsequent annual licence fees. The second declaration raised the question whether Urica is entitled, pursuant to the pleaded provision of the Software
+Agreement, to terminate it in the manner asserted for non-payment of royalties, which were "the abovementioned faults".
+
+By its Amended Defence Sanderson admitted the facts alleged in paragraphs 1, , 4, 7, 9, 12 and 14 of Urica's Summary of Contentions.
+
+As to paragraph 2 Sanderson sought leave to refer to clause 2 for its full terms and effect and, as to paragraph 5, it admitted that it has supplied to
+End Users Licensed Software and Equipment together, and only Licensed
+Software.
+
+In paragraph 4 of its Amended Defence Sanderson admitted that it withheld payment:- ".. in part from royalties on a running account for the months June and July 1996 amounting to $25,941.80SIN and $1,341.63AUD but says that this was an adjustment against a larger amount of $50,067.75 previously calculated following the decision of His Honour Mr Justice Rolfe on the 7th June 1996 and that following the decision of the Court of Appeal on 2 October 1997 both amounts were remitted to the plaintiff on the 3rd October 1997." 
+In paragraph 6 Sanderson asserted that it had a counter claim against Urica as set out in its Cross-Claim and, in paragraph 8, it denied that it had not paid the royalties and repeated that payment was made on 3 October 1997 in the circumstances previously stated. The evidence established that Urica did not accept the payment. In paragraph 9 it denied that Urica is entitled to terminate the agreement, and, in paragraph 10, it pleaded in answer to the whole of Urica's claim that Urica is entitled to terminate the Software
+Agreement, that:- "(a) In 1994 Urica alleged that Sanderson was obliged to pay to it, pursuant to clause 4(1)(a)(2) of the Software Agreement, a royalty of 15% rather than 5% when it supplied to End Users the Licensed Software together only with operating system software and/or relational data base management system software; 
+By letter dated 9 September 1994 Sanderson informed Urica that until further notice it would report and remit to it royalties on sales of that type at the higher rate of 15%, and that it reserved the right to claim a refund from Urica of the additional royalties so paid in the event that Urica was not successful in proceedings to assert its claim to a 15% royalty on such sales; and 
+Urica represented to Sanderson that it wished to finally resolve the dispute between the parties in relation to the proper interpretation of the royalty provisions of the Software Agreement, and that it accepted that it would be liable to refund to Sanderson any royalties overpaid if its interpretation was not accepted." 
+Particulars of the representation alleged were a letter dated 15 September from the solicitors for Urica, Messrs Freehill Hollingdale & Page, to
+Sanderson in which it was alleged that the first representation was expressly contained in the letter; and a second representation allegedly made by Urica's silence in relation to Sanderson's expressed reservation of its right to reclaim royalties overpaid "or by implication from the said letter".
+
+It was pleaded that from October 1994 until March 1996, in reliance upon those representations and without prejudice to Urica's acting to its perceived detriment at the time, Sanderson paid to it royalties at the higher rate, constituting an additional amount of $50,067.75AUD. The nature of the 1995 proceedings and the consequences of the judgments delivered by me on 7 June and by the Court of Appeal on 2 October 1997 were pleaded, and it was pleaded that prior to the further orders being made and "immediately following the decision of the Court of Appeal" Sanderson effected a repayment of two amounts "distrained during the interim period, on the 3rd October 1997". No submissions were made to support the pleading, no doubt in part because Urica did not demand payment until October 1996 at which time the parties agreed how the question of the entitlement to terminate should be resolved. I shall expand on this later.
+
+In paragraph 10.9 it was pleaded:- "In the premises:- .9.1 The plaintiff was unsuccessful in the first proceedings; .9.2 At all relevant times the defendant was entitled to adjust its accounts in accordance with commercial practice against a perceived overpayment of $50,067.75AUD only part of which was held back from ongoing royalties.
+ .9.3 The plaintiff refused to enter into reasonable negotiations or any negotiations at all to acknowledge that the actions of the defendant were in the normal course of business.
+ .9.4 The defendant at the appropriate time and with immediate response rectified any perceived default by immediate repayment following the ultimate decision of the Court of Appeal.
+ .9.5 The defendant is not in default of the Software Agreement.
+ .9.6 The plaintiff is not entitled to terminate the Software Agreement." 
+Whilst Sanderson admitted that it and Distributors had supplied certain
+Licensed Software and Equipment to End Users and invoiced those End Users for an initial licence fee and annual licence fees since August 1993, (as alleged in paragraph 12 of Urica's Summary of Contentions), and that it had failed to pay any royalties to Urica in respect of the annual licence fees invoiced to
+End Users, (as alleged in paragraph 14 of Urica's Summary of Contentions),
+Sanderson denied that it is required to pay royalties on annual licence fees having regard to the terms of clause 4(1)(a) of the Software Agreement.
+
+In paragraph 14 it pleaded that whilst Urica is entitled to royalties for the "Supply" of a "System" or "Licensed Software alone", it is not entitled to royalties for the supply of "Equipment":- ".. alone or ongoing services provided solely by the defendant to ensure maintenance, corrections and rectifications ..".
+
+By virtue of the matters pleaded in paragraph 14 of the Amended Defence
+Sanderson asserted that Urica is estopped from denying that Sanderson is liable to pay royalties to Urica on Annual Licence Fees. In the end the submissions in relation to the obligation to pay royalties on the Annual
+Licence Fees were, firstly, whether, on a proper construction of the Software
+Agreement, there was such a requirement and, if there was, whether that agreement should be rectified to remove the need to make such a payment.
+
+In paragraph 16 of its Defence, Sanderson asserted that in further answer to paragraph 14 of Urica's Summary of Contentions the Software Agreement is silent as to payments other than royalty as set out in clauses 4.1(a), (b) and ; that Annexure "A" to that agreement was adopted by the parties and makes reference to Annual Licence Fees chargeable by Sanderson to its customers; that the terms were adopted with variations, but in conformity with previous agreements existing between the parties or their predecessors that no Annual
+Licence Fees were sought or paid to Urica; and that no claim for further royalty on Sanderson's Annual Licence Fees was made by Urica following the execution of the Software Agreement until March and April 1997:- ".. notwithstanding that sales were regularly reported monthly and annually as required under the agreement." 
+In paragraph 17 of the Amended Defence it was pleaded that by reason of those matters Urica is estopped by its conduct from claiming any entitlement to further payment of royalty after the initial sale. I am not satisfied that the conduct alleged amounted to a representation by Urica and there was no evidence that in reliance on any such representation Sanderson acted to its detriment. Mr Ireland made no submissions on these points.
+
+In paragraph 18 it was pleaded:- "The claims made in paragraphs 1 to 3 inclusive of the Summons and the matters set out in paragraphs 1 to 5 and 12 to 14 inclusive of the plaintiff's Contentions were:- .1 so relevant to the claims made by the plaintiff in the First Proceedings; and .2 raised such common issues of fact and law with the First Proceedings." 
+It was pleaded that the consequence of this was that Urica is estopped from making the claims made in paragraphs 1 to 3 inclusive of the Summons. No submissions were made to support this assertion. Nor in my view could it have been shown that Urica acted unreasonably in the 1995 proceedings, as the matters raised in the 1997 proceedings did not occur until after those proceedings were commenced: Port of Melbourne Authority versus Anshun <case>; [(1981) 147 CLR 589]; Boles & Ors versus Esanda Finance Corporation Limited [(1989) 18 NSWLR 666]; Rahme versus Commonwealth Bank of Australia (Court of Appeal - 20 December 1991 - unreported); Bryant versus Commonwealth Bank of Australia [(1995) 57 FLR 287] and Algons Engineering Pty Limited versus Abigroup Contractors
+Pty Limited (Giles CJCommD - 1 April 1998 - as yet unreported).
+
+On 30 March 1998 Sanderson requested and, there being no objection, was granted leave to amend the Cross-Claim by filing a Second Amended Cross-Claim whereby it sought judgment against Urica for $27,390.18AUD and an order for rectification in the following terms:- "An order that the Software Distribution Agreement dated 5 October 1993 between the plaintiff as Licensor and the defendant as Licensee be rectified by adding the following sub-paragraph (a)(3) to the definition of `Net Invoice Price'.
+ (3) Any annual licence fees charged by the Licensee or Distributor in any Territory which do not exceed 15% of the current list price of the Licensee or Distributor as the case may be." 
+The claim for payment was not pursued in final addresses as Mr Ireland acknowledged that the state of accounts between the parties was such that it was not possible to formulate or prove what was owing by one to the other. On the view for which Urica contended this situation had been brought about essentially by reason of Sanderson's failure to report conformably with the contractual requirements.
+
+It was pleaded, in support of the claim for rectification, that on 2 February a meeting took place between Mr Wassenaar, Mr Broos and Mr Sercombe to discuss a proposed new Software Agreement at which:- ".. the parties expressly stated and agreed that for the purpose of the new Agreement royalties due to the cross-defendant should not extend to a royalty entitlement upon annual licence fees to be charged by the cross-claimant or its distributors in respect of software, where such annual licence fee did not exceed 15% of the prices to be charged in respect of software licences." 
+It was pleaded that between February and October 1993 various meetings and discussions took place in which the parties:- ".. proceeded to reduce to writing the agreement discussed at the February 1993 Meeting" and that it was a continuing understanding of the parties that the royalty entitlement of Urica under the Software Agreement "should not extend to payments in respect of annual licence fees". It was pleaded that if, upon a proper construction of the Software Agreement, there is a requirement by
+Sanderson to pay Urica royalty upon amounts charged in respect of Annual
+Licence Fees, such wording in the Software Agreement resulted from the common mistake of the parties or a mistake on the part of Sanderson of which Urica was aware at the time of the execution of the Software Agreement and did not correct.
+
+Urica filed a Reply to the Amended Defence and a Defence to the Second Amended
+Cross-Claim in which, in relation to the claim for rectification, it denied the essential allegations upon which Sanderson relied.
+
+On 25 July 1997 Hunter J ordered, by consent, that the 1997 proceedings be heard together with the balance of the 1995 proceedings and, on 30 March 1998,
+I ordered, by consent, that the evidence in the one set of proceedings be evidence in the other.
+
+The Issues Which Have Now Arisen 
+Although a number of matters have been pleaded they were not, as I have indicated to some extent, all pursued on the hearing. Therefore, it is desirable to specify the matters which were the subject of argument before me.
+
+Mr Ireland submitted that so far as the 1995 proceedings were concerned the only issues before me were those contained in paragraphs 5, 8 and 9 of Urica's claim because the Court of Appeal had not set aside the judgment in favour of
+Sanderson in respect of paragraphs 1, 2, 3, 4, 6 and 7. Hence, he submitted, the remitter, although in general terms, could not re-activate a claim for the relief sought in those paragraphs. I do not agree for several reasons.
+Firstly, the Court of Appeal was obviously of the view that its decision on the construction issues provided a means whereby Urica was entitled to, or may be entitled to, further relief "as may be appropriate". Secondly, it would have been open to that Court, had it been so minded, to grant any such further relief. It would be unusual for the Court to do so and, conformably with its usual practice, the further matters were remitted to me as the trial Judge.
+Thirdly, that remitter was in quite general terms, reflecting the bases on which the Court of Appeal could have considered the matter, and in the light of a Notice of Appeal which sought that such further orders be made in relation to paragraphs 3 to 9 of the Summons in the 1995 proceedings. In my opinion, the remitter was not confined in the way for which Mr Ireland submitted. I consider that the effect of the Court of Appeal's remitter is to delegate to me a determination of all issues raised in the 1995 proceedings having regard to that Court's decision on the principal issues, viz the construction point, in so far as those issues have to be decided to bring about finality at first instance to the 1995 proceedings.
+
+However, the matter may not be of great significance because Mr Kelly is undoubtedly entitled to pursue the order sought in paragraph 5, and the order for further or alternative relief. Although paragraph 5 refers to "specific performance" Mr Kelly contended, and Mr Ireland did not raise any objection to this formulation, that he was seeking an order that Sanderson furnish to Urica the various monthly and annual reports, which Urica was entitled to receive under the Software Agreement and, notwithstanding that the Court of Appeal's judgment was given in October 1997, that such reports be furnished up to date.
+I find nothing surprising in this as the Court of Appeal, in my respectful opinion, intended that I should make such orders as are appropriate at the date when I decide the matter.
+
+Mr Kelly also submitted that Urica is entitled to the taking of an account as sought in paragraph 3. I consider, for the reasons I have given, that I am entitled, if it is appropriate, to make an order under that paragraph. If I had come to a different view, however, I would have considered there was power to make such a facultative order, if it is appropriate, under the claim for further or alternative relief.
+
+Mr Kelly submitted that the matters which remained in issue are whether Urica is entitled to a declaration that it is entitled to terminate the Software
+Agreement; whether it is entitled to further monthly reporting; and whether it is entitled to royalties or Annual Licence Fees. This raised a question of construction, and, if that were answered adversely to Sanderson, the issue of rectification on which, of course, Sanderson carried the onus of proof.
+
+One basis on which Mr Ireland contended that Urica was not entitled to a declaration as to the right to terminate was that by seeking the declaration it was, in effect, seeking an advisory opinion from the Court. He submitted that it is not a proper exercise of discretion to make a declaration in such circumstances and that Urica should have terminated the Software Agreement, if that is what it wished to do, and then allowed the validity of that action to be tested. This, so Mr Ireland submitted, would have enabled Sanderson to seek relief against forfeiture and raise certain defences, which it was not able to do in the absence of a termination. Prima facie these are, generally, all sound reasons for refusing in the exercise of discretion, to make such a declaration. However, the specific facts of this case, and the particular circumstances in which the declaration is sought have to be considered. For the purpose of doing so I shall assume, although it will be necessary to make the assumption good, that there has been an event of default entitling Urica to terminate pursuant to the contractual provisions.
+
+On 25 October 1996 Mr V.A. Bizannes, the solicitor for Sanderson, wrote to
+Messrs Freehill, Hollingdale & Page referring to a number of matters in dispute and noting in paragraphs 14 and 15 that in its reports for August and
+September 1996 Sanderson notified Urica that the amounts of $18,276.64 SIN and $7,665.19 SIN "would be withheld", and that Urica had issued two letters dated October 1996 "giving notice of alleged default purporting to be pursuant to clause 10.1(a)" of the Software Agreement "arising out of the distrained amounts for the respective months". After some further argumentative matter the letter concluded:- "My client takes issue to the threat of termination in the light of the circumstances above outlined and has instructed me to give notice of its intention to approach the court for orders restraining your client from carrying out its threat.
+
+I have been instructed to advise that unless I receive written confirmation from you that your client withdraws the two notices of default, by no later than 4.00 pm Wednesday the 30th October 1996, my instructions are to make application to the Supreme Court of New South Wales for an order restraining your client from taking any further action on the notices pending finalization of the current litigation and to seek an order that your client pay my client's costs on an indemnity basis." 
+Messrs Freehill, Hollingdale & Page responded, on 30 October 1996, that
+Urica maintained its position and would not withdraw the notices. The letter also stated:- "It will not, however, proceed to issue a notice of termination based upon the notices dated 8 October 1996 referred to in your letter unless and until it first obtains from the Court a declaration of its rights in this regard or without giving seven days' prior notice, whichever is the sooner." 
+The letter continued that fresh proceedings were probably preferable to raise the issue, rather than to seek to amend the 1995 proceedings. No objection was taken to this suggestion and, in particular, it was not asserted that this relief should have been sought in the 1995 proceedings. In the result
+Sanderson suggested and Urica accepted that the question of the right to terminate should await further proceedings. Sanderson would have sought to restrain a termination, and it accepted, so far as the evidence disclosed,
+Urica's undertaking that it would not terminate until, relevantly for present purposes, it obtained a declaration of its entitlement to do so. In these circumstances I do not consider that it is open to Sanderson to assert that the declaration should not be made, if Urica is otherwise entitled to it, for the discretionary reasons to which I have referred. Sanderson agreed on a litigious regime to decide the issue, which has been followed, and the obligation was upon it, in my opinion, to raise and prove in these proceedings any matter such as relief against forfeiture or estoppel on which it wished to oppose termination or seek relief in respect of it. It cannot have the advantage of the undertaking and the agreement, yet contend that Urica is not now entitled to the declaration. Nor, having charted that litigious course, can it complain that other matters of defence are not available to it.
+
+The principles and circumstances upon and in which the Court will grant declaratory relief have been stated frequently. They were reviewed most recently in Galaxy Communications Pty Limited & Ors versus Paramount Films of
+Australia Inc & Ors (Court of Appeal - 27 March 1998 - unreported).
+Stein JA, with whose reasons Priestley and Meagher JJA agreed, reviewed the relevant authorities in the context of whether it was appropriate to make a declaration that there was a right to terminate an agreement in certain contractually constructed circumstances.
+
+His Honour noted as "an important feature of declaratory relief" that it is a flexible and discretionary remedy: Forster versus Jododex Pty Limited <case>; [(1972) 127 CLR 421], and that the power to grant it "is conferred by the considerations which mark out the boundaries of judicial power": per Mason CJ,
+Dawson, Toohey and Gaudron JJ in Ainsworth versus Criminal Justice Commission <case>; [(1991-1992) 175 CLR 564] at p.584. His Honour reiterated that such relief must be directed to the determination of legal controversies and not to the answering of hypothetical or abstract questions or in relation to circumstances, which have not occurred or which might not occur. His Honour referred to the need for a "real legal context": Johnco Nominees Pty Limited versus Albury-Wodonga Corporation [(1977) 1 NSWLR 43] at p.61.
+
+In Dormer versus Solo Investments Pty Limited [(1974) 1 NSWLR 428] Holland J cautioned against making declarations as to the potential effect on the contractual position of the parties of events upon which a party has not yet acted and which would not alter the existing contractual rights unless he did so act. Stein JA continued:- "As Holland J said, it is one thing to declare the present contractual rights of the parties, but it is another to declare them contingently on the plaintiff electing to take some course that he has not taken, is not bound to take and may not take. As with Dormer (at 434) the relief here sought is, in substance, that if the opponents elect to give a notice of termination, that notice will be valid and effective to terminate the agreements on the basis of the court's finding on insolvency. I do think that the court should hesitate in lending itself to such potential effects on the contractual position of the parties given the circumstances of the case to which I have already referred." 
+The granting of the declaratory relief sought by Urica must be approached with all these cautions firmly in mind. However, the present case differs. Urica has, I am satisfied, established, firstly, that there is an event of default and, secondly, that it wishes to rely on it to terminate the Software
+Agreement. So much was not in issue. The reason it has not pursued its right to terminate, which, of course, can be exercised extra-curially, is the threat that Sanderson would seek an injunction. In the face of this Urica was prepared to have its entitlement decided by the Court in which course
+Sanderson agreed. Accordingly, there is, in my opinion, a justiciable issue.
+On the facts it is neither hypothetical nor is it abstract. It would be extraordinary if the parties in commercial litigation could not arrange their affairs so that real disputes are resolved in an orderly way by the Court.
+That is what has occurred in this case with the concurrence of the parties. It is not open to Sanderson, on the present facts, to assert that there is no entitlement in Urica to the declaratory relief it seeks on discretionary grounds and, I am satisfied, there are no discretionary reasons why I should not grant that relief, if Urica is otherwise entitled to it.
+
+The Entitlement To Royalties For Annual Licence Fees 
+The Construction Of The Software Agreement 
+Clause 4.1(a), which is headed "Royalty and Commission Calculations", provided:- "The Licensee agrees, in consideration of the rights granted to it, to pay royalties and commissions to the Licensor calculated (and confirmed by reports furnished by the Licensee to the Licensor in terms of this agreement) as follows: 
+Where the Licensee or a Distributor supplies any Licensed Software to any End User or any other third party then the Licensee must pay a royalty to the Licensor in respect of that supply, calculated as follows: 
+Where the supply is of Equipment and Licensed Software, five per cent (5%) of the Net Invoice Price of the Licensee or of the Distributor; or 
+Where the supply consists of Licensed Software only, fifteen per cent (15%) of the Net Invoice Price of the Licensee or of the Distributor." 
+The "Net Invoice Price" is defined as:- "(a) The net amount invoiced by the Licensee or a Distributor to an End User for the supply of a System after the deduction of: any sales tax or equivalent or other tax imposed on the Licensee or Distributor in any Territory; and any finance charges payable by such End User to the Licensee or Distributor." "Supply" is defined as including:- "Sale, rent, hire, lease, licensing, loan, provision of bureau services and any other form of supply." 
+Clause 3.1, which is headed "End User Agreements", provided:- "(a)(1) The Licensee must procure and must procure that each Distributor procures, that each person who wishes to use the Licensed Software as an End User must before being supplied with the Licensed Software enter into an End User Agreement substantially in the form of Annexure `A'.
+
+The Licensee must ensure that each End User Agreement does not contain any terms which give to the End User greater rights than those given to the Licensee under this agreement." 
+The terms and conditions, which comprised Annexure "A", defined "License Fees" as meaning:- ".. the prices for Software as specified in the Schedule and varied in accordance with clause 4.5. License Fees are `initial' or `annual' as so specified." "Service Fees" are defined as meaning:- ".. the fees for Services as specified in the Schedule and varied in accordance with clause 4.5." 
+There was no schedule annexed to the agreement, although it was not in issue that there was a schedule, which provided for both initial and Annual Licence
+Fees. In many of the agreements provision was made for the payment of both types of licence fee. Obviously it was a matter for the commercial judgment of
+Sanderson and its negotiations with the End User how the payment of the licence fee was structured.
+
+The submission for Urica was that provided the fee was a licence fee, a percentage of it was payable by Sanderson to Urica irrespective of whether the payment by the End User to Sanderson was structured as an initial fee or as an annual fee, or partly as an initial and partly as an annual fee. The plain words of the Software Agreement demanded that this construction be given, and, so it was submitted, if it was not the proper construction Sanderson could have structured payments so that there was no initial licence fee or a minimal initial licence fee, and a series of Annual Licence Fees on which no commission would be payable. The clear intent of the Software Agreement, Mr
+Kelly submitted, was to provide that the licence fee was payable on the Net
+Invoice Price, at the percentage rates provided.
+
+Mr Ireland submitted that this issue raised firstly a question of construction, that being that pursuant to clause 4.1 the obligation to pay royalty arises where Sanderson "supplies" this "Licensed Software" and, notwithstanding the wide definition of "supply", there can only ever be one "supply". Once there has been a "supply". which, he submitted, is what attracts the obligation to pay a royalty, the event which is necessary to bring about that payment is spent. He submitted that the supply in relation to the first year arises when the software is installed, and that where equipment is also obtained by the End User it is "supplied" at the time of the original transaction. He continued:- "On Sanderson's case, supply means `original supply' under any of the types of commercial transactions referred to in this definition. On Sanderson's case, there is no `supply' relevantly involved in subsequent years of an End User Agreement where an annual fee is paid".
+
+In my opinion, Mr Ireland's submissions are not correct. The royalty is payable "where there is a supply", i.e. no royalty is payable unless there is a supply. The amount of the royalty is not confined to what happens at the time of supply. It is calculated by reference to the Net Invoice Price of
+Sanderson on the Distribution. That price is the amount invoiced by Sanderson on a Distribution to an End User "for the supply" not "when there is a supply" (although of course there must be a supply). Accordingly, the royalty is calculated by reference to the Net Invoice Price, however it be structured. It was not in issue that it was structured by reference to an "Initial Licence
+Fee" or an "Annual Licence Fee". Both these fees constituted the Net Invoice
+Price on which the royalty is payable.
+
+Further support for this construction is, in my opinion, to be found in clause .1(f), which ensures that not only is there no erosion of the Net Invoice
+Price, but that it is maintained at the full amount Sanderson receives or should have received. In my respectful opinion, it is fanciful to suggest a construction which would enable Sanderson to construct a method of payment by its End Users, which reduced or eliminated the payment of the royalty. Whilst
+I consider that the words produce the result for which Mr Kelly submitted, if it is thought that arguably they do not because the language is open to two constructions, it is appropriate to prefer that which will avoid consequences, which appear to be capricious, unreasonable, inconvenient or unjust:
+Australian Broadcasting Commission versus Australian Performing Rights
+Association Limited (1973) 127 CLR 99 at p129 per Gibbs J. In my opinion, Mr
+Ireland's submissions would, for the reasons I have given, lead to that result.
+
+These conclusions leave for consideration the issue of rectification.
+
+Rectification 
+The claim for rectification depends upon my finding that on 2 February 1993 Mr
+Wassenaar on the one hand, and Messrs Broos and Sercombe on the other, reached a common intention to include in their bargain a term which either by mutual mistake or by mistake on the part of Sanderson of which Urica was aware, was omitted from the contract.
+
+In the well known passage of Wilson J in Pukallus & Anor versus Cameron <case>; [(1982) 180 CLR 447] at p452 his Honour said:- "The case raises no issues as to the principles which govern the rectification of a contract. Those principles are not in dispute. There need not be a concluded antecedent contract, but there must be an intention common to both parties at the time of contract to include in their bargain a term which by mutual mistake is omitted therefrom. So long as there is a continuing common intention of the parties, it may not be necessary to show that the accord found outward expression, notwithstanding the views expressed to the contrary in Joscelyne & Marilinga. The opposing view is argued by Mr Bromley QC in an article in the Law Quarterly Review. It is unnecessary to pursue the distinction in the present case because the representation of the respondent and its acceptance by the appellants plainly established such an accord. 
+The second principle governing the rectification of a contract which is material to this case is that which requires the plaintiff to advance `convincing proof' that the written contract does not embody the final intention of the parties. The omitted ingredient must be capable of such proof in clear and precise terms. The Court must not assume for itself the task of making the contract for the parties".
+
+It is to be noted that the summons in the 1997 proceedings was issued on 17
+April 1997. The first declaration sought raised the issue that the Net Invoice
+Price included both the initial and all Annual Licence Fees "whenever invoiced". The allegation that there was a common intention in relation to
+Annual Licence Fees, notwithstanding that the original defence and cross-claim were filed on 27 May 1997 and amended versions thereof were filed on 29
+January 1998, was not made until the week before the hearing commenced. This fact, in itself, would tend to speak eloquently against the existence of any such common intention. Further, it is not as if this matter had not received much earlier consideration. On 3 April 1997 the solicitors for Urica wrote to the solicitor for Sanderson stating that an audit had revealed that Annual
+Licence Fees had not been reported and that no royalties had been paid on them. The letter continued, (Exhibit A p.198):- "The royalties payable by Sanderson under the Agreement relate to the Net Invoice Price for the supply of Licensed Software which includes the Initial Licence Fees and the Annual Licence Fees payable in respect of such supply".
+
+Mr Bizannes replied on 4 April 1997, (Exhibit A p203), stating that the matter raised "is nonsense" and that there was no obligation on Sanderson to report and pay commissions on Annual Licence Fees. He referred to the Software
+Agreement and continued: "Annual Licence Fees between my client and for its distributors and End Users to ensure maintenance and servicing of software already sold do not justify reading into the Agreement royalty terms for ongoing payment to your client that are simply not there. Your client does not provide these services for software support and the entitlement to a royalty for which it claims in each of the cases on the attachment simply does not exist.
+
+The Agreement does not reflect same and clause 4.1 which relates to royalty commission calculation does not specify ongoing payments of annual royalties and the expression does not appear therein. 
+Further I would point out that your client has never previously made any such demand for ongoing annual royalties nor indeed according to my instructions was it ever understood between the parties according to my instructions that such would ever be payable. 
+Your client's inertia speaks for itself as the Agreement has been in force for 3-5 years and your client has been regularly provided with reports throughout that time. 
+Subjective interpretations by your client arising either by recent invention on its part or perhaps through the inadequate drafting of the Agreement appears to be a common characteristic in all of the dispute situations evoked against my client".
+
+One view of this letter is that it was putting forward as forcefully as possible all reasons for disputing the entitlement to royalties on Anual
+Lcence Fees. However, notwithstanding that the letter referred to an understanding, no reference was made to a common intention arising out of conversations in February 1993 that they should not be subject to royalties.
+The letter, of course, was written only some six weeks or so before the defence and cross-claim was filed.
+
+The primary evidence on which Sanderson relied was set forth in the affidavits of Mr Sercombe and Mr Broos sworn on 25 and 26 March 1998 respectively. I shall refer to what Mr Boos said firstly. He said he was present at discussions at a meeting in early February 1993 with Mr Wassenaar and Mr
+Sercombe, and he recalled that at the meeting the following conversation took place: "W: `I want a Royalty of 15% on the licence and 5% where there is a sale with hardware'.
+
+B: `We would only be paying a royalty on the initial licence fee. We now charge an annual licence fee in addition to the up front licence fee instead of maintenance charges'.
+
+W: `That will be OK provided its not an unreasonably high sum'.
+
+B: `The annual licence fee is 15% of the initial licence fee which is in line with what the industry is charging for maintenance'.
+
+W: `All right'." 
+Mr Broos stated that the Software Agreement was signed after a further series of meetings and discussions "over drafting matters in which I took no part", that he witnessed the affixing of the common seal, and that when he did so he acted on the basis of what Mr Wassenaar had said at the meeting in February .
+
+Mr Sercombe, who had a much greater part in the bringing about of the Software
+Agreement, said, in paragraph 7 of his affidavit:- "During the course of the meeting words were said to the following effect: 
+Broos: `Our new licence agreement provides for an ongoing warranty and for the provision of updates. We charge an annual licence fee in addition to the upfront licence fee. This replaces the maintenance charges which we have previously made to other customers. We will not pay a royalty to you on Annual Licence Fees because we have never paid royalties on maintenance charges'.
+
+Wassenaar: `That is all right provided that the fees are reasonable'.
+
+Broos: `The annual licence fee is 15% of the initial licence fee which is the typical figure charged for maintenance by the industry'.
+
+Wassenaar: `All right'." 
+Mr Broos said that there was a series of meetings over the next eight months concerning the Agreement and he received various drafts from Messrs Freehill
+Hollingdale and Page. He continued that Sanderson was not legally represented in "the finalisation of the Agreement", and that the question of the Annual
+Licence Fees attracting a royalty "was never discussed again at any of these meetings or phone calls or raised in any way up to the point when" the
+Software Agreement was signed.
+
+In his affidavit in reply of 30 March 1998 Mr Wassenaar, in response to the conversations asserted by Messrs Broos and Sercombe said, in paragraph 9:- "I deny that discussions to the effect set out in those paragraphs took place. There was no discussion at the meeting of 2 February 1993 or 3 February of that year about Annual Licence Fees at all".
+
+The cross-examination of Mr Broos on this point commenced at Tp82. He agreed that there was discussion about a new Agreement and what shape it should take, and he said he thought statements were made on a basis of which Sanderson would be given a draft agreement. He thought "We committed to principles which were broad principles which should be in the Agreement": Tp83, and continued:- "Q. It was your intention, wasn't it, on behalf of Sanderson that a formal written document be brought into existence? 
+A: That's right.
+
+Q. And that that formal written document be produced after negotiations of its terms was complete? 
+A. I would say so, yes.
+
+Q. And it was very important to you, wasn't it, that the particular terms of the instrument be analysed in some depth before Sanderson committed itself at all so as to ensure that the concerns that had been expressed about the previous trading arrangements were overcome? 
+A. I was concerned that we would enter into an agreement that we could live with, that's right." 
+At Tp85 Mr Broos said that it was understood that royalties should not be payable on Annual Licence Fees and, at Tp87, he said he was "absolutely certain" that the topic of Annual Licence Fees was discussed on 2 February
+At Tpp87-88 he said:- "Q. Isn't it the case that during the meeting of 2 February it was your understanding that from Sanderson's point of view you might agree in principle to some of the requirements that Mr Wassenaar was enunciating, but you would not agree to any item in isolation and wished to consider everything in context of a total agreement? 
+A. That's right. 
+Q. And Mr Sercombe said something along those lines, didn't he? 
+A. I think I may have even said something similar, that's right.
+
+Q. Either you or Mr Sercombe said at this meeting `We might agree in principle to some of your requirements, however, we will not agree to any item in isolation and will consider them in the context of the total agreement'.
+
+A. That's right.
+
+Q. That's a conversation or the effect of a conversation that so far as you are concerned featured in all of your discussions in February 1993? 
+A. That's right.
+
+Q. You had no intention to bind Sanderson to anything by way of a new contract or any terms of any new contract until the instrument was finally signed off in October of 1993? 
+A. I would say that we would have found ourselves totally in agreement with the royalties that had been agreed at that meeting and the detail of that agreement had to be finalised and hence numerous drafts were supplied because in the end, in a commercial transaction money is very important. We don't stop paying money just because we are trying to finalise an agreement. I think numbers were correct. We knew what we - we believed that we knew exactly what we needed to pay.
+
+Q. You knew what you wanted? 
+A. And what we needed to pay and what was discussed.
+
+Q. And what you were prepared to pay? 
+A. And what had been agreed." 
+Mr Broos's attention was also drawn to clause 14.2 of the Software Agreement, which noted that it constituted the entire agreement between the parties and superseded all and any prior arrangements. He said it was his "actual intention" that the Agreement, which he signed, constituted the entire agreement between Urica and Sanderson, because he wanted to ensure "that out of the confusion and complication of the previous year's (sic) history and the process of negotiation that all of that would be put behind and a start would be made with the Software Agreement dictating the terms of your Agreement", to which he replied:- "Correct, that was the intention": (Tp 89) 
+Subsequently, at Tp90, Mr Broos said he was "under the impression" that Annual
+Licence Fees which had been discussed with Mr Wassenaar were not included in the Agreement. When it was put to him that the licence fees could be adjusted so that very small royalties could be payable on the view for which he contended, he said that Sanderson would not do that.
+
+Mr Sercombe's cross-examination on this point commenced at Tp105. He referred to the discussions on 2 February 1993 and to the receipt, on 4 February 1993, of the initial draft. He said it was his understanding, when he received that document, that it represented Mr Wassenaar's indication in the form of a first draft of basically what was in his mind at that time: Tp107. That draft became
+Exhibit 7 and both Mr Ireland and Mr Kelly relied upon clause 4.1(a). In subclause (I) it provided for the payment of a royalty of 5% "for an initial supply to any End User", "and for any future upgrades of that system" and for a payment of 15% of the Net Invoice Price in other circumstances. Mr Ireland submitted that this showed, combined with Mr Kelly's question of Mr Sercombe to which I have just referred, that there was the intention that the royalty should only be in respect of an "initial" supply, which corroborated that this matter was discussed. Mr Kelly, on the other hand, submitted that the absence of any common intention was made clear by the fact that the word "initial" ceased to be part of the agreement at some stage during the drafts.
+
+Although Mr Sercombe had difficulty recalling the conversation at the meeting, he did recall that in paragraph 23 of an affidavit he swore on 17 April 1996 he deposed that either he or Mr Broos said:- "We might agree in principle to some of your requirements, however, we will not agree to any item in isolation and will consider them in the context of a total agreement." Tp 112. 
+Mr Sercombe said that he did not raise the topic of an Annual Licence Fee at any point thereafter, nor did he ever turn his mind to that topic, and he agreed that he could not see anything in the Software Agreement that did not oblige Sanderson to pay royalties on Annual Licence Fees.
+
+Mr Wassenaar was unshaken in his denial that this topic was referred to during the February meeting and he had the advantage of various contemporaneous notes he had made, some undoubtedly before the meeting took place, but some during a subsequent meeting.
+
+I was requested by both parties to determine this issue, in part, on my consideration of the credibility of the various witnesses. I shall consider, firstly, Mr Wassenaar. He impressed me as a truthful witness who had a clear recollection of relevant events which, to some extent, was assisted by his contemporaneous notes. I accept his denial that there was any discussion at the meeting of 2 February 1993 or, if it be thought relevant, at the meeting of 3 February 1993 about royalties on Annual Licence Fees. Insofar as his evidence was in conflict with that of Mr Broos and Mr Sercombe I prefer it, not only for the reasons to which I have referred but because, in my opinion, it was corroborated by the probabilities, whereas I am satisfied that the evidence of Messrs Broos and Sercombe was not so corroborated. Indeed the possibilities pointed positively against it.
+
+Firstly, I am satisfied that the meeting was one in which there was general discussion with a view to bringing into existence a concluded agreement.
+However, the parties left me in no doubt that they were negotiating at that stage, a fact which was fully supported by the number of drafts exchanged over a long period prior to agreement being reached on 5 October 1993. Secondly, I am satisfied that either Mr Broos or Mr Sercombe said that they would only consider the matter in the context of a total agreement. Thirdly, Mr Sercombe, notwithstanding the obvious importance that the royalty on Annual Licence Fees must have had, made no further reference to the matter, and did not seek to satisfy himself that this matter had been dealt with in the Software
+Agreement. Fourthly, the assertion of a common understanding, such as to give rise to the claim for rectification, was not brought forward until shortly before the hearing, notwithstanding what had transpired in April 1997.
+Fifthly, the use of the word "initial" in the first draft, and its subsequent omission, indicates that there was no such continuing intention on the part of the parties. How it came to be there is a matter of conjecture, but when
+Exhibit 7 was produced, towards the end of the evidence, no application was made by Mr Ireland to recall Mr Wassenaar to put to him that that draft correctly reflected the common intention of the parties reached at the meeting of 2 February 1993. This was notwithstanding that Mr Ireland expressly put the document to Mr Sercombe: Tp116, and then tendered it.
+
+I am satisfied that Sanderson had no intention of entering into any agreement until such time as an agreement had been reduced to writing in a form acceptable to it, that Mr Broos understood that that agreement constituted the total agreement between the parties, and that there was no common understanding in relation to the Annual Licence Fee of the type for which
+Sanderson contended. I am further satisfied that Sanderson did not act under any mistake in this regard, and that Urica did not believe it was doing so.
+
+Sanderson carries the onus of satisfying me to the extent required in rectification cases that the Software Agreement should be rectified.
+Accepting, as I do, the evidence of Mr Wassenaar in preference to that of
+Messrs Broos and Mr Sercombe, for all the reasons I have given, and having regard to the probabilities, I am not satisfied that the case for rectification has been made out. The Second Amended Cross-Claim, insofar as it seeks an order for rectification, must accordingly, be dismissed.
+
+Conclusions as to Annual Licence Fees 
+In the result I am of the view that Sanderson is bound to pay royalties on
+Annual Licence Fees. This conclusion flows from the proper construction of this Software Agreement in the first instance, and from any further view that
+Sanderson is not entitled to have it rectified.
+
+The Obligation To Report 
+In the 1995 proceedings Urica sought orders that Sanderson account for all transactions identified in paragraph 3, and that Sanderson "specifically perform" its obligations of reporting under clauses 4.2(a), (b) and (c) of the
+Software Agreement. Mr Kelly made it clear in his submissions that the order for specific performance did not require future specific performance of the contract, but rather compliance by Sanderson with the accrued contractual obligations to furnish reports to Urica conformably with the Software
+Agreement. He limited his submissions to the express reporting obligations in sub-clauses (a) and (b). Mr Ireland accepted that the words "specific performance" should be given the more restricted meaning of "furnish reports".
+The submissions proceeded on this basis.
+
+In its Defence Sanderson admitted that it is obliged to report to Urica "with respect to transactions in respect of which royalties are payable": paragraph ; and denied that it has failed to report in accordance with the clauses of the Software Agreement upon which Urica relied: paragraph 8.
+
+In the document furnished to Giles CJCommD on 16 August 1996 the following statement was made in relation to the issues in the proceedings:- "1. Does clause 4.2(a) of the Software Distribution Agreement between the parties dated 5 October 1993, when read in conjunction with Annexure B to that Agreement, require that monthly reports in relation to `Equipment Details' refer to the Equipment of the End User upon which the Licensed Software is to be used (including Equipment which the End User already owns or which is to be obtained from another source) or only the Equipment, if any, which is supplied to that End User by the defendant or a Distributor together with the Licensed Software? . If the former, does clause 4.2(a) of the said Agreement also require the defendant to identify the Equipment supplied by the defendant or a Distributor? . Does clause 4.2(b) of the said Agreement call for a reconciliation of each System at each End User installation at which Licensed Software supplied by the defendant or a Distributor was in use during that year or only a reconciliation of those Systems at each End User installation for which Equipment or Licensed Software was supplied by the defendant or a Distributor during that year? . Must the monthly reports delivered to the plaintiff under Clause 4.2(a)(1) in relation to new or replacement End User Agreements include: - Licensee's customer reference number, and if so, does this mean that where the Licensed Software is supplied by a Distributor, that the Distributor's customer reference number must report; - End User name; - End User address; - Licensed Software modules licensed; - Equipment details (including CPU model, memory Mb, disk Mb, number of terminals), and if so does this include an obligation to identify the maker of the CPU?; - Library statistics (number of bibliographic records, number of volumes, number of borrowers); and - Copy of End User Agreement.
+ . Must the monthly reports delivered to the plaintiff under clause 4.2(a)(1) in relation to each sale made during the preceding month include - Licensee's customer reference number, and if so, does this mean that where the Licensed Software is supplied by a Distributor, that the Distributor's customer reference number must be reported; - End User name; - Licensee's invoice number, and if so, does this mean that where the Licensed Software is supplied by a Distributor, that the Distributor's invoice number must be reported?; - Invoice amount, and if so, does this mean that where the Licensed Software is supplied by a Distributor, that the Distributor's invoice amount must be reported; - Net Invoice Price (if different from invoice amount) and if so, does this mean that where the Licensed Software is supplied by a Distributor, that the Distributor's Net Invoice Price (if different from invoice amount) must be reported?; - Royalty or commission to the Licensor.
+ . Do the monthly and/or annual reports provided by the defendant since August 1993 comply with the requirements of clauses 4.2(a) and (b) of the said Agreement? . Is the plaintiff entitled to specific performance of the obligation to provide monthly reports and/or annual reports containing the above or any, and if so what, other information?" 
+Clause 4.2 is headed "Reporting" and provided:- "(a)(1) The Licensee must, within thirty days of the end of each calendar month, deliver or cause to be delivered to the Licensor a written report containing the information referred to in Annexure "B".
+
+The obligations of the Licensee in terms of sub-clause (1) must be complied with fully, punctually and promptly; it being acknowledged that the Licensor requires such reports in order to establish and verify its entitlement to royalties and commissions under this Agreement, and that the Licensor will (subject to its rights of inspection under sub-clauses (e) and (f) and to its right to obtain audited reports under sub-clause (d)) rely on the correctness of such reports.
+
+The Licensee must in respect of each calendar year (and being each of a period of twelve months ending on 31 December), and by no later than 31 January in the next succeeding year deliver to the Licensor a written report setting out a reconciliation of each System at each End User installation including: a list of components of Equipment in use cross referenced to an invoice number; and a list of each module of the Licensed Software in use cross referenced to each relevant invoice number; 
+The Licensee must within not more than thirty days after the end of each financial year deliver to the Licensor a certificate setting out in respect of that financial year: all of the gross amounts which during that financial year accrued to and were payable to the Licensor under this Agreement; and all gross amounts actually paid to the Licensor." 
+As sub-clause (c) was pleaded, I have quoted it. However, no submissions were directed to it.
+
+Sub-clauses (d) and (e) provided for external audit as required by Urica, and that Urica, or its appointed agents, might inspect books relating to the supply of Systems or Upgrades.
+ "Upgrades" are defined as:- ".. any and all Modifications, new releases, new models, new modules of Equipment or of the Licensed Software added to and used in association with the System supplied to the End User by the Licensee or a Distributor, and any modifications made by any one or more or all of the parties referred to in the definition of the URICA Software Product." 
+Sub-clause (f) provided that Sanderson must procure that each of its
+Distributors maintained accurate and comprehensive books of account and records "relating to the supply of Systems and all Upgrades of the Systems", and must ensure that each Distributor Agreement gave Urica "the same or greater rights as those contained in sub-clause (e)".
+
+Annexure "B" was headed:- "Information To Be Included In The Monthly Reports Delivered To The Licensor Under Clause 4.2(a)(1)." 
+It specified information in relation to new or replacement End User agreements, and information in relation to each sale made during the preceding month.
+
+The Obligation To Report Monthly 
+Clause 4.2(a) imposed a clear obligation on Sanderson to furnish a written report to Urica each calendar month containing the information referred to in
+Annexure "B", which was to be complied with "fully, punctually and promptly", and it was acknowledged that Urica required such reports to establish and verify its entitlement to royalties and commissions under the Software
+Agreement, and that it was, basically, entitled to rely on the correctness of such reports.
+
+In his written Outline of Submissions Mr Ireland stated that a party could only report "that of which it is aware and the clause should be construed accordingly". The submission continued that the clause should not be construed to require Sanderson to embark upon a quest for material, which would not come into its hands in the usual course of obtaining new customers or achieving new sales. He submitted:- "As the monthly reports incorporated a copy of each relevant End User Agreement containing equipment details and specifications, the reporting of that information was adequately satisfied by the provision of the Agreements themselves which Urica clearly understood." 
+The submission stated that where reference numbers were allocated they were supplied and where none existed they could not be reported. However, as the submission acknowledged, the obligation to furnish End User Agreements was additional to the obligation to furnish monthly reports: clause 3.1(b)(1), although it was submitted there was no obligation to provide copies of such agreements relating only to equipment, hardware or services, because an End
+User Agreement related only to Licensed Software. None-the-less it was submitted that "Equipment details" referred to in Annexure "B" were "relevantly" provided to Urica on the copy of Sanderson's End User Agreements, and that the obligation to report "Equipment details":- ".. ought to be construed as an obligation to report equipment supplied by Sanderson, not other equipment chosen by a customer on which to run the Urica system".
+
+It was submitted that this is clear from the form of Annexure "B" where equipment details were required "in relation to new or replacement End User
+Agreements".
+
+It was nextly submitted by Mr Ireland that Annexure "B" refers to "Library statistics" and the concession was made that these were never provided. It was submitted that the relevant information has not in the past been in the possession of Sanderson and, therefore, could not form the basis of any "report" within the meaning of the clause and, further, that it has not been shown that library statistics are genuinely required in order to establish and verify Urica's entitlement to royalties or commissions under the Software
+Agreement.
+
+In his final submissions Mr Ireland contended that the extent of the reporting obligation depended on the proper construction of the relevant provisions of the Software Agreement, and that both parties acknowledged that the purpose of reporting was to enable Urica to establish and verify its entitlement to royalties and commission under the Software Agreement. Both of these submissions are obviously correct. He continued that it was common ground that the Software Agreement had been administered on the basis that Sanderson's monthly reports comprised a covering letter, a computer spreadsheet summary and copies of the End User Agreements entered into during that month, and that it was appropriate to look at all the information to see whether there was compliance, or substantial compliance, with the reporting requirements. In this regard he pointed to the creation by Urica of data bases, which collated information from the monthly reports and End User Agreements.
+
+Mr Ireland conceded that Annexure "B" "undoubtedly" required the furnishing of
+Equipment details, and submitted that these were disclosed in the End User
+Agreements, which identified the equipment of the End User on which the
+Licensed Software was to operate, and:- "It is conceded that Sanderson has not furnished details of equipment which it has actually sold in the preceding month. However, it is self evident that in some cases the equipment specifications disclosed in the End User Agreements will actually be a description of the equipment sold contemporaneously by Sanderson to the End User." (My emphasis.) 
+Mr Ireland offered an example, which he submitted made this position clear, and concluded that Urica was not entitled to receive copies of equipment agreements, and that the relevant information as to equipment sales are the invoice details and royalty "which have uncontroversially been included in the monthly reports".
+
+Mr Kelly submitted that, as a matter of contract, Urica was entitled to receive all the information specified in Annexure "B", and that whilst there was not a particular format provided the report furnished must identify that information, whatever view Sanderson may take of its relevance. He made the same submission as to "Library statistics", and conceded that a partial compliance did not meet that which the Software Agreement demanded.
+
+In relation to "Library statistics" Mr Ireland conceded that they had never been provided as part of the monthly reports and that the evidence of Mr Broos and Mr Sercombe was that they were not in all cases within the knowledge of
+Sanderson, and, in some cases, they were subject to confidentiality obligations. His submission was that the obligations to provide information in the monthly reports extended only to that "actually" in Sanderson's possession, and that Sanderson was not obliged to carry out special surveys or investigations to ascertain such information. He also submitted, although there was no evidence to support this, that library statistics did not play a part in the computation or verification of royalty entitlements. Rather the evidence was that those statistics would provide a method of checking other information furnished.
+
+Finally, Mr Ireland dealt with a submission that, as he conceded was literally true, the monthly reports in respect of the Taiwan dealings were incorrect.
+However, he submitted the Distributor on-sold thus making it information, i.e.
+the on-sale price, not required by Annexure "B".
+
+At Tp.95 Mr Broos agreed that in not one single monthly report furnished since the inception of the Software Agreement were any Equipment details provided, the only Equipment details furnished being supplied by the information in the square box in the lower left hand corner of the End User Agreements. Mr Broos was referred to one particular example and he said the equipment referred to in the End User Agreement was that on which the Licensed Software was to be used. He agreed the purpose of furnishing that information was to enable Urica to know that its Licensed Software was to be operating on a particular machine:- ".. so that the provisions of your standard form software licence agreement might apply, for example, those provisions which deal with what's to happen when a customer ceases to possess the equipment referred to in that agreement." 
+He said Sanderson was not intending to communicate by that information on the
+End User Agreement information about the Equipment it supplied and, Tp.96:- "Q. In fact at no time ever in any monthly report or in any other way has Sanderson communicated to Urica the equipment that was supplied by Sanderson, if indeed equipment was supplied? 
+A. Well, it would have been noticed that normally on the monthly report you would probably see two agreements, one for software for which we send a copy and one for hardware for the same customer number.
+
+Q. For which you never sent a copy? 
+A. That's right, because it wasn't asked for in the agreement.
+
+Q. So in your reporting you have never, ever let Urica know equipment details, being the details of the equipment that Sanderson has actually supplied? 
+A. Other than reporting the CPU that is on the software licence." 
+At Tp.97, after being referred to Annexure "B", Mr Broos said:- "Q. You would agree with me that in no monthly report or any other document used to communicate between Sanderson and Urica during the course of the agreement of October 1993, was there ever any communication about memory, disc or the number of terminals used in any installation? 
+A. Other than the information that is available on the licence agreement which has the CPU model and has the number of the terminals based on the number of users on the operating system." 
+At Tp.98 Mr Broos gave the following evidence:- "Q. Is this right, that at no time during the course of this contract has Sanderson actually troubled itself to obtain the equipment details as here described in this annexure for the purpose of reporting those details through to Urica? 
+A. We may have had the information available on some occasions. Not necessarily accurately on other occasions.
+
+Q. But have you put in place, as a matter of business administration during the course of this contract, any means to obtain that information for the purposes of your monthly reporting obligation? 
+A. I don't think so, no.
+
+Q. Really, Sanderson ignored the requirement for equipment details concerning things like memory disc, capacity terminals and the like; is that right? 
+A. You could say that.
+
+HIS HONOUR: Q. Mr Kelly has said it, what do you say? 
+A. Yes, you could say that.
+
+KELLY: Q. Whilst I am on this page the item next on the annexure is "library statistics". Before you sell a Urica library system to a library, you need to find out what its bibliographic record capacity is, don't you? 
+A. In broad terms, yes.
+
+Q. In broad terms, the number of volumes? 
+A. In broad terms, yes." 
+Mr Broos agreed that bibliographic records, number of volumes and number of borrowers were matters which impacted on the size of the equipment needed and that to ensure that the customer was receiving suitable software that worked in its situation he needed to know those things. He said there was no formal recording of that information, although there would be discussions with the customer and the prospective customer as to the needs, and:- "Q. Well, you would agree with me that you never included any such details in any monthly report delivered to Urica at any time during the course of this contract? 
+A. I believe so, yes.
+
+Q. Not so much as once? 
+A. I believe so, yes.
+
+Q. And is that because you decided not to bother? 
+A. Well, in many cases it's difficult to get exact numbers.
+
+Q. But the salesman - a salesman when he's dealing with a, shall we say, technical college, potential user, will be finding out just these pieces of information, won't he? 
+A. He will discuss with the prospective customer in that range and he would be required, say for instance, to be to handling the number of bibliographic records that he may have.
+
+Q. And to do the job properly these pieces of information are pieces of information that he, the salesman, needs to know to ensure that the product that he is selling meets the customer's needs? 
+A. That's right.
+
+Q. Is there any reason why Sanderson has not troubled itself to keep records of each of these items in relation to each sale? 
+A. No, I can't find any reason.
+
+Q. It just decided for itself not to bother? 
+A. We thought that the information contained in the end user agreement, the licence agreement, was sufficient.
+
+Q. But it never contained anything about bibliographic records? 
+A. Yes.
+
+Q. When equipment was sold, is this right that at no time did Sanderson communicate details of that equipment in so far as it was sold as part of any equipment on which Urica software was to be used, to Urica? 
+A. That's right; because we provided a copy of the end user agreement which was defined as the agreement for licensing software only. There was no, according to reading of the SDA need to provide that.
+
+Q. You ..
+
+A. We were provided - I had it in the monthly report, a contract number an agreement number and volume of that agreement number.
+
+Q. At no time did you ever disclose to Urica what equipment Sanderson itself sold pursuant to such an equipment contract? 
+A. No; merely the amount of money involved.
+
+Q. It didn't ever communicate details - such as CPU model, memory, disc or number of terminals of the equipment - actually supplied by Sanderson for use? 
+A. Other than what was on the end user agreement.
+
+Q. Which in each case is just an indication of the equipment by reference to CPU model which was going to be used? 
+A. Right.
+ ....
+
+Q. It would be quite possible for Sanderson to supply details of the equipment that it supplied for the purpose of an end user using Urica licensed software from its own records.
+
+A. That's right.
+
+Q. But it did not construe its obligations under this agreement so that it felt obliged to do so? 
+A. We haven't, no": Tpp.99-100. 
+Mr Broos was next cross-examined about the requirement to report on the "invoice amount" and "net invoice price". He said he did not know whether
+Sanderson had reported to Urica on those matters in relation to the South East
+Asian distributor, Top Business Machines, and that he was not certain as to the position in relation to that matter.
+
+The evidence of Mr Broos made it clear to me that Sanderson did not report to
+Urica as required by Annexure "B", and he proffered no reason for its failure to do so.
+
+Mr Sercombe, who was a director of Sanderson at the time the agreement was entered into and for some time thereafter, was mainly concerned with the formulation of the Software Agreement from Sanderson's point of view. He was concerned, and he expressed this concern to the Board of Sanderson, whether
+Sanderson would be able to perform the monthly reporting requirements set out in Annexure "B", with which he said he was very familiar: Tp.109. He said he provided the information available to him. He was asked whether Sanderson could have set up an administrative system so as to obtain details of bibliographic records, numbers of volumes and numbers of borrowers, and he replied:- "It would have been difficult. All the other information comes from the accounting records of the company. The statistics are not available in the accounting records at all. There is no provision for them to be available, and whilst our sales staff would have some idea of that information, in some cases it was clearly confidential information and was marked as such." 
+Mr Sercombe said that although he pointed out the difficulties of the reporting requirements the Board "decided to live with it and try and work with it", Tp.109, and that he was the principal person to whom the task fell of ensuring compliance.
+
+At Tp.114 Mr Sercombe agreed that Sanderson had not, during the administration of the Software Agreement, ever included in any of its monthly reports any indication of the invoice price and Net Invoice Price applicable to a
+Taiwanese End User and, from the rest of his evidence, there seemed to be no valid reason why that could not have been obtained. At Tp.115 Mr Sercombe agreed that information had not been furnished, and added:- "At no time until this matter was raised relatively recently have Urica asked us for this information and we assumed, obviously now wrongly, that they were satisfied with the information that we were providing." 
+The evidence of Mr Sercombe did not detract in any way from the evidence of Mr
+Broos concerning the availability of the information required to be furnished in a report pursuant to Annexure "B" and the failure to do so. It is equally clear from that evidence that the various matters required in the report were necessary for the determination of the royalty payments and, in any event, I do not consider that it is possible for Sanderson to contend to the contrary in the face of its contractual acknowledgment that Urica required such reports for the purposes stated in clause 4.2(a)(2).
+
+The relevance of the monthly reporting requirements in Annexure "B" becomes clearer when one has regard to the declarations made by the Court of Appeal and, particularly, the second declaration. The Court of Appeal has held that the lower rate applies only where the supply of Equipment is made together with Licensed Software, which is integrated with or necessary for the operation of the Licensed Software so supplied. Therefore, the lower rate applies, so it would seem, only where a System is supplied and, to determine that, it is necessary to know what Equipment is supplied and what other equipment the End User has with which it proposed to use the Licensed
+Software. Accordingly, one must know, for the purpose of determining the royalty rate, what equipment is available and what Equipment is supplied and whether the Equipment supplied is integrated with or necessary for the operation of the Licensed Software.
+
+In the result, I am satisfied that there has been a failure by Sanderson to comply with its monthly reporting obligations, and that Urica is entitled to appropriate relief to remedy that contractual breach, so that it can form a view on the amounts of royalty it is entitled to receive.
+
+Annual Reporting 
+In his written submissions Mr Ireland contended that the issue of construction is whether the Software Agreement required Sanderson to report each year on all sales of the Urica system previously made or whether the annual reporting requirement was limited to matters "in respect of" the prior calendar year. He submitted that the annual reporting was limited to sales activity in the immediately preceding year, whereas Urica contended that the reporting extended to all current systems.
+
+In my opinion clause 4.2(b) required Sanderson to provide a written report reconciling each System at each End User installation each year. This is not, in my opinion, in any way as onerous a task as Sanderson would have the Court believe. If there has been no change in relation to a System during the year then, as Mr Kelly acknowledged, it would be sufficient to indicate that fact.
+However, the reconciliation, which had to be of "each" System at "each" End
+User installation, necessitated the absence of any change to be stated.
+Obviously any changes would have to be stated so that Urica would know where, at least once each year, its intellectual property was being used. The provisions in relation to further audits and the reference to "Upgrades" makes this quite clear. So also does the requirement that Sanderson had to ensure that each Distributor Agreement gave Urica the same or greater rights as Urica had pursuant to sub-clause (e).
+
+Mr Ireland placed emphasis on the words "in respect of each calendar year". In my opinion, in the context in which they appear, they simply mean "in" or "for" each calendar year. They do not constrict the information to be provided to that solely referable to the calendar year, but require all information, by way of a reconciliation, specified. As I have said that is not an onerous task where there have been no changes, but it means that each annual report is self-contained in reconciling for Urica where its intellectual property is.
+
+At Tp.102 Mr Broos said that the annual reports Sanderson furnished provided details of sales made during the preceding year, but did not go back to the past. He said it would be impossible to provide such a reconciliation, because that would require a representative of Sanderson physically visiting all sites and carrying out an audit "which is ridiculous type of work and might be intrusive on the customer". Mr Broos contended that it would be very difficult and expensive to keep track of the equipment, although he said that as most customers with which Sanderson was dealing were government customers and were not in the habit of breaching agreements, it was unnecessary to check on them.
+He said that the payment of licence fees would indicate that a customer was still using the equipment, and that if it was to be moved then Sanderson would be made aware, but he agreed that Sanderson did not put in place an administrative system for keeping track of the equipment on which the Licensed
+Software is being used.
+
+It is to be noted that Mr Ireland has not submitted that any hardship by way of administration relieved Sanderson of its obligation to comply with the contractual obligation contained in clause 4.2(b).
+
+The Claim For Termination 
+Clause 10.1 of the Software Agreement provided: "The Licensee will be in default under this agreement if: the Licensee fails to pay any moneys due and payable under any of the provisions of this Agreement on the date those moneys are due for payment, and (but subject always to clause 10.2) does not remedy that breach to the reasonable satisfaction of the Licensor within 28 days after written notice thereof by the Licensor; ..." 
+Clause 10.3 provided: "(a) In the event of default by the Licensee in accordance with clause 10.1, the Licensor may (notwithstanding that it may on a previous occasion or occasions have waived its rights hereunder) by not less than thirty (30) days notice in writing to the Licensee terminate this agreement.
+
+Any such termination referred to in subclause (a) must be without prejudice to any rights, obligations or liabilities which may have accrued hereunder prior to such termination and in particular must be without prejudice to any other right or remedy which the Licensor may have against the Licensee whether under this Agreement or at equity or in law, and including without limitation in respect of damages".
+
+On the pleadings it was alleged that Sanderson failed to pay royalties to
+Urica in respect of June 1996 sales in Singapore and July 1996 sales in
+Singapore and Taiwan. The response to that allegation was that Sanderson admitted that it withheld payment "in part" from royalties on a running account for the months of June and July 1996 amounting to $25,941.80SIN and $1341.63AUD, but it said that this was an adjustment against a larger amount of $50,067.75 previously calculated "following the decision of his Honour Mr
+Justice Rolfe on 7th June 1996 and that following the decision of the Court of
+Appeal on the 2nd October 1997 both amounts were remitted to the plaintiff on the 3rd October 1997".
+
+It was admitted that by notices dated 8 October 1996 Urica demanded payment of the royalties purported to have been set off by Sanderson. The notices of default appear at pages 146 and 147 of Exhibit A. It was not in issue that the amounts claimed should have been paid upon the construction of the Software
+Agreement adopted by the Court of Appeal, and that they were not paid within days from 8 October 1996. In those circumstances there was a default under the Agreement of the type envisaged by clause 10.1(a) which, prima facie, gave
+Urica the right to terminate pursuant to clause 10.3. I say "prima facie" because it is necessary to consider the effect, if any, of the existence of my judgment on the situation as then existed. It is necessary to consider whether, in some way, if Sanderson had acted conformably with my judgment, which was subsequently overruled, it would not have been in default. However, before doing that, I refer to the material set forth earlier whereby Sanderson sought and Urica agreed to give an undertaking that it would not purport to terminate the Software Agreement "until it first obtains from the Court a declaration of its rights in that regard or without giving seven days prior notice, whichever is the sooner". The obvious purpose of giving the notice was to enable Sanderson, if it wished to do so, to seek injunctive relief restraining the exercise of the power.
+
+The submission as to the position under my judgment requires, in the first instance, a clear recognition of what I ordered. The declarations, which are the presently relevant part of the order made on 28 June 1996, went to the construction of the Software Agreement. The first declaration stated what was comprised within "Equipment". The second stated the royalty, which would be attracted:- "...if supplied together for the purpose of the person supplied being able to use the Licensed software".
+
+The third declaration specified the royalty in respect of a supply on the same hypothesis. Accordingly, the declarations did not, in themselves, finally determine the amount of royalty payable. That depended upon the ascertainment of the further factual matter referred to in the declarations.
+
+As I have said with the benefit of hindsight this was an unsatisfactory way to proceed, notwithstanding that it was the course the parties requested be followed. But the consequence of my doing so was not to bring about any final conclusion as to when the royalty rate I specified would be payable, because, on the declarations I made, that would only occur when the factual matters hypothesised in the declarations were determined. The reason for this indeterminate result, which I think is probably obvious from what I have said, is that the parties considered that once the Court had construed the Software
+Agreement in the limited way I was asked to do, they would work out the consequences.
+
+The question, which then arises, is whether the declarations justified, in any legal sense, Sanderson not making payments of amounts demanded, or whether
+Sanderson, in failing to do so, took the risk that by not making the payments conformably with the demand it may face a subsequent claim for termination of the Software Agreement.
+
+Although I was not referred initially to the decision of the Court of Appeal in MacIntosh versus Lobel & Anor [(1993) 30 NSWLR 441], I referred the parties to it and, as I understood it, both Mr Kelly and Mr
+Ireland sought to rely upon it. In that case an order was made by Powell J on November 1983 that a tenant deliver up vacant possession of premises within twenty eight days. Although the Court of Appeal granted a stay, it did so on conditions with which there was not compliance. In these circumstances the stay was lifted and the tenant was ejected. However, subsequently and after the ejectment the Court of Appeal overruled the basis upon which it had been held that the tenant was not entitled to possession. Against this background
+Kirby P said at pp459-460:- "It is a well-known principle of the common law that a judgment reversed is the same as no judgment: see, eg, Coleridge J in R versus Drury  <case>; [(1849) 3 CAR&K 190] at 610.
+
+The argument therefore ran that, when subsequently the Court of Appeal reversed Powell J's finding that Photo Art (and by inference Mr Lobel) were trespassers this did not remove the validity of the conduct of the agents who, acting on Powell J's findings and orders, proceeded to conduct themselves upon the assumption of their correctness and to pursue any common law rights which derived from them.
+
+Enderby J held that the principle in Commissioner for Railways (New South Wales) versus Cavanough was subject to a proviso that the acts which are disputed must not otherwise be illegal. The principle would only affirm and uphold conduct performed strictly in accordance with the orders of the superior court later set aside. It would not lend the colour of legal authority which, for other reasons, was unlawful. I am inclined to accept this qualification. The question therefore becomes whether Powell J's finding that Photo Art was a trespasser and his order that he give up possession to the receiver were subject to the qualification, in effect, that the taking of possession, pursuant to such a finding and order, must otherwise conform the law." 
+Mahoney JA did not deal with this point and Cripps JA, subject to two matters, which are not presently relevant, agreed "generally" with the reasons of Kirby
+P.
+
+Insofar as Mr Ireland submitted that Sanderson was entitled to rely on the declarations I made, there is a difficulty in that those declarations required the paymenty of royalties in certain circumstances. They did not, in any way, acquit Sanderson of its obligation to pay royalties and, in particular, did not entitle Sanderson to set off, even assuming it was entitled to do so, royalties it asserted it had overpaid. It cannot be said, in my opinion that in failing to pay the royalties Sanderson was acting conformably with my declarations. It clearly was not. This, of course, was the point Mr Kelly made, namely that Sanderson considered that it could use the declaratory relief to its financial benefit by seeking to assert that it could set off amounts it had overpaid. As I have sought to explain that could only have happened if there had been declarations and/or orders to that effect, which there were not. Sanderson went far beyond any declarations I had made in asserting its entitlement to maintain that position.
+
+The submission failed at another level. The entitlement to a set-off was pleaded, but no attempt was made to prove that right. Further, insofar as the defence asserted an adjustment of $50,067.75, there was no evidence of any entitlement to such an adjustment and, in any event, shortly before the hearing on 30 March 1998 Sanderson sought to pay this amount: Exhibit 5.
+
+In the end no submission was made by Mr Ireland that Sanderson was entitled to a set-off and, towards the conclusion of his submissions, he contended that I should not determine any amounts and he stated that he was not seeking judgment in accordance with paragraph 1 of the Second Amended Cross-Claim because, speaking generally, of the problems and difficulties in working out the amounts payable. In the light of this submission it was, no doubt, consistent that the claim based upon an equitable set-off was not sought to be pursued.
+
+Mr Ireland sought to deal with the matter in this way. He submitted that the two sets of proceedings were being heard together and that insofar in Urica sought "specific performance" of the Software Agreement and a declaration of its entitlement to terminate that Agreement it was seeking inconsistent relief. He further submitted, in this context, that insofar as reporting was sought until now that went far beyond the relief claimed in the 1995 proceedings. However, I disagree with that submission. I do so because the
+Court of Appeal remitted the 1995 proceedings to me "to make such further orders sought in the summons filed on 19 September 1995 as may be appropriate". I have referred to the submission of Mr Ireland that this could not mean any orders sought in the summons, which had been dismissed. I do not accept that this was the limit of the remission for the reasons I have given.
+In my opinion, if it seems appropriate to require reports to be furnished, which I believe it is, to enable effect to be given to the construction of the
+Court of Appeal, then it was obviously within that Court's contemplation that
+I should do so. Further, in my opinion, if it is necessary for there to be a taking of accounts, so that effect can be given to their Honours' construction, then I consider I am empowered by the remission, to make such an order.
+
+The other remedy, which was said to be inconsistent was the claim in the 1997 proceedings for a declaration that Urica is entitled, pursuant to clause 10.3, to terminate the Software Agreement by giving not less than 30 days notice in writing to Sanderson founded upon the established defaults or either of them.
+
+There is no necessary inconsistency in the relief because, as I have noted, clause 10.3(b) retained accrued rights as at the date of determination. The more attractive submission, at least prima facie, on behalf of Sanderson, was that the declaration as to the entitlement to terminate required the Court to give an advisory opinion and, conformably with well known authorities, that was not a task the Court should undertake in what was submitted to be a hypothetical situation. However, as I have sought to explain, the parties by their correspondence of 25 October 1996 and 30 October 1996 provided a justiciable issue and acquiesced in the matter being determined by the Court in proceedings such as those now before me, unless Urica gave Sanderson the required notice, whereupon, presumably, Sanderson would have moved for an injunction to restrain Urica's terminating the Software Agreement. Those proceedings would then have involved, inter alia, the issue whether Urica was entitled to do so. It would have been open to Urica to seek by way of a cross- claim in any such proceedings a declaration of such entitlement, rather than to rely upon the application for injunctive relief being dismissed. In either event the parties acquiesced in the determination of the termination issue by this Court.
+
+That, as I have noted, required a consideration not only of the entitlement of
+Urica to terminate, but any defences, such as relief against forfeiture or estoppel, which Sanderson wished to raise in opposition to the granting of that relief.
+
+Once the position the parties agreed upon is understood there cannot, in my view, be any substance in the submission that Urica is pursuing inconsistent remedies. It has asserted that it is entitled to terminate the Software
+Agreement, which I am satisfied it is, and that it is also entitled to reporting, which will enable it to calculate the amount, if any, Sanderson is obliged to pay it as amounts owing during the existence of that Agreement. The claim for proper reporting is based on a resolution of the accrued rights between the parties. In his written submissions Mr Ireland submitted that the termination claim in the 1997 proceedings ought not to be granted because any right to terminate was lost by the continued operation of the Software
+Agreement and Urica's continued insistence upon its performance; and because the claim to establish termination offends a fundamental principle, which is both legal and equitable, that a party may not approbate and reprobate.
+
+Both of these submissions, in my opinion, fail because when one views what happened in the present case there was no such loss of the right to terminate, nor was there any approbation or reprobation. The Software Agreement remained on foot pending this Court's decision as to whether it had been validly terminated. Whilst it remained on foot both parties were obliged to comply with its requirements. Both parties acquiesced in this course. Urica never suggested that by giving the undertaking it would not pursue its entitlement to termination. In fact it said the opposite.
+
+I was referred to numerous authorities, which are concerned with the taking of inconsistent positions, on which, if I may say so with respect, the law is clear. However, the present case is not one in which, for the reasons I have sought to explain, Urica took inconsistent positions.
+
+On this aspect Mr Ireland concluded by saying that if Urica sought to rely on the notices, in the light of supervening events (including an uncontroversial tender of payment), any technical or contractual right to terminate would be relieved in equity under the doctrine of relief against forfeiture. There are several problems, at least, with this submission on the facts of the present case. Firstly, I have noted Mr Ireland's concession that it is not possible to calculate the figures. Accordingly, it is not possible to ascertain the amount, which should be tendered. Secondly, there is no claim made for relief against forfeiture. Mr Ireland accepted this, but submitted it was not made because there had been no termination and, absent a termination there could be no claim for such relief. In the circumstances of this case that led to a bizarre situation, because of the way in which the parties have agreed the issues should go forward. As I have said, it seems to me that it was necessary, in those circumstances, for Mr Ireland to bring forward any claim which would defeat termination, either by way of relief against forfeiture or by way of a positive defence in these proceedings. That has not been done.
+Once again, perhaps repetitiously, I state that Mr Ireland made no submissions based on the entitlement to an equitable set off nor, on the facts as presented, was there any basis on which he could have done so.
+
+Costs 
+No separate submissions were put to me on the question of costs. I see no reason why they should not follow the event and, as the plaintiff has been successful, why the defendant should not pay its costs.
+
+Conclusions 
+The conclusions to which I have come may now be summarised.
+On a proper construction of the Software Agreement royalties are payable on initial and Annual Licence Fees.
+The defendant's cross-claim for rectification of the Software Agreement should be dismissed.
+The defendant is contractually obliged to report to the plaintiff in terms of clause 4.2(a) of the Software Agreement on a monthly and yearly basis in the terms referred to in these reasons.
+The plaintiff is entitled to a declaration that it is entitled to terminate the Software Agreement.
+The defendant should pay the plaintiff's costs.
+
+I invite the parties to bring in Short Minutes of Order to give effect to these conclusions.
+ * * * 

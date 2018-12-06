@@ -1,0 +1,713 @@
+
+
+Calliden Group Limited versus Australian Unity Limited [2010] NSWSC 263 (13
+April 2010) 
+Last Updated: 15 April 2010 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Calliden Group Limited versus Australian Unity Limited <case>  
+JURISDICTION: 
+Equity Division 
+Commercial List  
+FILE NUMBER(S):  /290365  
+HEARING DATE(S):  /03/2001 - 26/03/2001, 29/03/2001, 31/03/2001  
+JUDGMENT DATE:  April 2010  
+PARTIES: 
+Calliden Group Limited (Plaintiff) 
+Australian Unity Limited (Defendant)  
+JUDGMENT OF: 
+Einstein J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+Mr J T Gleeson SC, Mr N J Owens (Plaintiff) 
+Mr P Braham (Defendant)  
+SOLICITORS: 
+Yeldham, Price, O'Brien & Lusk (Plaintiff) 
+Atanoskovic Hartnell (Defendant)  
+CATCHWORDS: 
+Contracts 
+Proper construction 
+Deed whereunder plaintive purchases capital in insurance companies 
+Dispute concerning amount of adjustment to be made to the purchase price following completion and way in which amount of adjustment was to be determined 
+Consideration of sundry different actuarial methods 
+Consideration of methods of estimating reinsurance recoveries  
+LEGISLATION CITED:  [Evidence Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ea199580/)  
+CATEGORY: 
+Principal judgment  
+CASES CITED: 
+Australian Broadcasting Commission v. Australasian Performing Right
+Association Ltd <case>; <case>; <case>; [(1982) 149 CLR 337] 
+Cohen & Co versus Ockerby & Co Ltd <case>; [(1917) 24 CLR 288] 
+Downer Engineering Power Pty Ltd versus P & H Minepro Australasia Pty Ltd <case> 
+Jones versus Dunkel <case>; [(1959) 101 CLR 298] 
+Legal & General Life of Australia Limited versus A Hudson Pty Limited <case>; [(1992) 67 ALJR 170] 
+Pedler versus Richardson (unreported, Supreme Court of NSW, 16 October 1997, Young
+J) 
+Reardon Smith Line Ltd versus Yngvar Hansen-Tangen <case>; [(1968) 118 CLR 429] 
+Toll (FGCT) Pty Ltd versus Alphapharm Pty Ltd (2004) 219 CLR 165 
+Watson versus Foxman [(1995) 49 NSWLR 315]  
+TEXTS CITED:  
+DECISION: 
+Plaintiffs have established entitlement to declaratory relief. Parties to bring in short minutes of order which will inter alia return the matter to
+Ernst & Young for further consideration .  
+JUDGMENT:  
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+COMMERCIAL LIST  
+EINSTEIN J  
+Tuesday 13 April 2010  /00290365 Calliden Group Limited versus Australian Unity Limited 
+JUDGMENT 
+The proceedings These proceedings concern the respective contractual entitlements of the plaintiff [Calliden Group Ltd] [Calliden] and the defendants [Australian Unity
+General Insurance Ltd and Mansions of Australia Ltd] [together called AU] arising pursuant to a Share Deed dated 6 July 2007.
+ Pursuant to that Deed Calliden purchased the entire issued capital in the two defendant insurance companies.
+ The dispute concerns the amount of an adjustment that the Deed provided was to be made to the purchase price following completion, and the way in which the amount of that adjustment was to be determined.
+ More precisely, the parties negotiated the purchase price on the basis that the net tangible assets ("NTA") of the acquired companies would, on completion, be $38,749,500. That estimate of NTA, including the various line items comprising it, was set out in Schedule 7 of the Deed (CB1/100).
+ Under the Deed, following completion of the purchase, there was then required to be a calculation of the acquired companies' NTA as at the date of completion. The difference between the estimated NTA and the completion NTA was then required to be paid by one party to the other.
+ If the completion NTA was higher than the estimated NTA, then Calliden would pay the difference to AU. If the completion NTA was lower than the estimated
+NTA, then AU would pay the difference to Calliden.
+ A critical component of their NTA was the value of their insurance liabilities. If the value of those liabilities went down, then (assuming all other things remained equal) the companies' NTA would go up, and vice versa.
+ It is in relation to the calculation of one component of one of the acquired companies' ("AUGIL") insurance liabilities (namely, AUGIL's commercial liability portfolio) that the parties have fallen into dispute.
+ 
+The critical issues  Without being exhausted the critical issues include the following: i. Whether the Deed required the Completion Valuation to be prepared using unchanged methods and approaches to the selection of assumptions compared to the December 2006 Valuation? [This issue is arguably the most significant construction issue between the parties 
+It involves the meaning of clause 5 (a) of schedule 6 and specifically whether "unchanged" in the clause means: 
+Unchanged from similar valuations in prior periods (which is the plaintiff's contention) or 
+Unchanged as between two valuations the subject of the clause (which is the defendant's contention)
+On the defendant's construction of the clause it requires consistency of method and approach only as between the two valuations referred to in the schedule - i.e. the valuation as at 30 June 2007, and that at completion.
+A construction of Sch 6 cl. 5(a) involves two steps: a. a consideration of the text of the Deed, and of the schedule in context; and b. a consideration of the intent of the agreement objectively ascertained with reference to the pre contractual communications between the parties and the commercial context.
+ ii. Whether the June 2006 Valuation and the June 2007 Valuation were prepared using unchanged approaches to the selection of assumptions.
+ iii. Whether the Completion Valuation was a "final actuarial valuation of outstanding claims" of AUGIL within the meaning of clause 3(g) of Schedule 6 of the Deed.
+ iv. Whether Calliden was required to incorporate the Completion Valuation into its Draft Completion Statement without alteration.
+ v. Whether the Draft Completion Statement produced by Calliden was a Draft
+Completion Statement for the purposes of the Deed.
+ vi. Whether Australian Unity was entitled to refuse to procure Ernst &
+Young to perform the "agreed upon procedures" in relation to the Draft
+Completion Statement.
+ vii. The nature of the relief, if any, to which Calliden is entitled.
+ viii. Notably the defendant by its cross claim has sought declarations to the effect that the valuations comply with the Deed.
+ In short: i. The central issue is whether an expert valuation of the insurance liabilities of Australian Unity General Insurance Limited (AUGIL) as at 31
+July 2007 for the purposes of the Share Sale Deed is binding on the parties.
+ [The valuation was performed by Ms Gillian Harrex, who was the person agreed by the parties for that purpose. The plaintiff claims not to be bound by that valuation.] ii. Two principal issues arise: a) A question of contractual construction: viz the proper construction of the
+Share Sale Deed (Deed) (CB 1.1), and in particular schedule 6, clause 5(a) (CB .98).
+ b) A factual question: viz whether the report prepared by Gillian Harrex of the insurance liabilities of AUGIL as at 31 July 2007 (CB 1.574) complies with the Deed as construed (such that it is a valuation within the meaning of the contract: Legal & General Life of Australia Limited versus A Hudson Pty
+Limited [(1985) 1 NSWLR 314] at 335 - 6 per Mc Hugh JA).
+ Calliden contends that the valuation of insurance liabilities for the purposes of determining the completion NTA was required to be performed in the same way as the valuation that had been used to determine the estimated NTA, so as to enable a meaningful comparison to be made between the two.
+ As the reasons which follow make plain, in fact, there was a very substantial change in the way that the valuation for the purposes of determining the completion NTA was performed. That change resulted in a significant decrease in the value of AUGIL's insurance liabilities.
+ 
+The material provisions of the Deed There are many provisions in the relevant Deed which have been referred to during argument and during the taking of evidence. Without being exhaustive a precis of the material provisions that list includes the following: i. Pursuant to the Deed, Calliden agreed to purchase, and AU agreed to sell, the entire issued share capital of AUGIL and Mansions (clause 3.1) (CB1/21).
+ ii. The Deed provided (in clause 4.1 (CB1/21)) that the "Initial
+Cash Purchase Price" (which was defined in clause 1.1 to mean cash and shares in Calliden with a total value of $62,500,000 (CB1/12)) was to be paid in two instalments. A deposit of $3,000,000 was paid on the date of the execution of the Deed (6 July 2007), with the balance paid on the date of completion (31
+July 2007) (see also clause 7.6 (CB1/31).
+ iii. The final step in the payment of the purchase price was to give effect to any adjustment under clause 9.7 (CB1/34). That provided that to the extent that there was a difference between the estimated NTA (in Schedule 7 (CB1/100)) and the completion NTA (prepared in accordance with the Deed), there was to be a corresponding adjustment to the purchase price. As described above, if the completion NTA was higher than the estimate NTA then the difference would be paid by Calliden to AU, and vice versa.
+ iv. The Deed provided a detailed mechanism for the determination of the acquired companies' NTA as at the date of completion.
+
+Clause 9.1 provided that (CB1/31): "[Calliden] must as soon as reasonably possible after the Completion
+Date (and, in any event, within 20 Business Days after that date) prepare, and deliver to [AU] and the Accountant, a pro forma statement of net tangible assets for the Companies as at Completion (Draft Completion Statement of Net
+Tangible Assets) prepared in accordance with the Accounting Principles." [the "Draft Completion Statement"] v. The "Accountant" was defined (in clause 1.1 (CB1/7)) to mean Ernst & Young. The "Accounting Principles" were defined (in clause 1.1 (CB1/7)) as: "the accounting policies, principles, practices and methodology set out in Schedule 6 (and including those policies, principles, practices and methodology referred to in Schedule 5, to the extent required by Schedule 6)." vi. Schedule 6 (CB1/97) provided that the Draft Completion Statement must be prepared, inter alia, "on the basis of the accounting principles, rules and procedures set out in Schedule 5" and "in the format" of the estimated NTA (clauses 1(a) and (b) of Schedule 6).
+ vii. Clause 3 of Schedule 6 provided for various "deliverables", and the entity required to provide them, including: "(a) Final Actuarial Valuation of outstanding claims and premium liabilities as at 30 June commentary 2007 by Finity (draft to [Australian
+Unity] only on 23 July) - 25 July; ...
+
+Final Actuarial Valuation of outstanding claims in same format as item (a) but with limited and premium liabilities only if requested by Calliden) as at
+Completion Date by Finity - 15th business day; ..." viii. Clause 5 of Schedule 6 (CB1/98) was headed "Actuarial
+Valuation", and provided (relevantly) as follows: "The Approved Actuary will be instructed to prepare the actuarial valuations as at 30 June 2007 and as at the Completion Date according to the following principles: unchanged methods and approaches to the selection of assumptions, unless clearly justified, in which case the justification should be fully explained; ...
+ to the extent that these principles are inconsistent with professional standards, then professional standards shall prevail but the differences will be identified and explained." ix. Schedule 5 of the Deed (CB1/91) (which, it will be recalled, was incorporated into the "Accounting Principles" by Schedule 6) stated that the estimated NTA (set out in Schedule 7 of the Deed) "was prepared in accordance with the accounting policies, rules and procedures set out in this schedule" (clause 1(a)).
+ x. Clause 3.13 of Schedule 5 (CB1/94) was entitled "Outstanding
+Claims Liability", and provided (inter alia): "The outstanding claims liability is assessed by the Appointed Actuary on a basis broadly consistent with prior periods and in accordance with professional standards." Once Calliden had completed the Draft Completion Statement, the Deed required (in clause 9.1) that it was to be provided to AU and Ernst &
+Young. Clause 9.2(a) then provided that (CB1/32): "[Calliden] and [AU] must procure that [Ernst & Young]: i. Performs the Agreed Upon Procedures ... in preparing or checking the
+Draft Completion Statement of Net Tangible Assets applying the Accounting
+Principles; and ii. Produces the Certified Completion Statement of Net Tangible
+Assets and delivers the Completion Report ... stating the results of the factual findings, including a summary of differences between the Draft
+Completion Statement of Net Tangible Assets and the Certified Completion
+Statement of Net Tangible Assets and that in the course of conducting the
+Agreed Upon Procedures the Accountant did not identify any matter which would indicate that the Certified Completion Statement of Net Tangible Assets has not been prepared in accordance with the Accounting Principles." iii. The Deed did not contain any "Agreed Upon Procedures". As such, the scope of Ernst & Young's retainer was found exclusively in its retainer letter of 14 March 2008 CB5/2410). That letter stated that Ernst & Young would, inter alia, perform: "an audit to check the Draft Completion Statement of Net Tangible
+Assets applying accounting principles as referred to in clause 9.2(a)(i) of the Deed." iv. Once Ernst & Young had produced a Certified Completion Statement of Net Tangible Assets (the "Certified Completion Statement") and accompanying report, clause 9.5 (CB1/33) provided that if neither Calliden nor Australian
+Unity disputed the Certified Completion Statement within a certain period, it would be taken to be the Final Completion Statement of Net Tangible Assets (the "Final Completion Statement"). If, on the other hand, Calliden or
+Australian Unity did dispute the statement, the dispute was to be resolved in accordance with clause 9.6 (CB1/33).
+ v. Clause 9.6 set out a dispute resolution mechanism, which involved the dispute being referred to an expert agreed between the parties or, failing such agreement, nominated by the President of the Institute of Chartered
+Accountants in Australia.
+ 
+General Factual Background The general factual background established by the evidence may be shortly described as follows: i. The insurance liability valuation that was used to determine the estimated NTA set out in Schedule 7 of the Deed was a valuation performed by
+Ms Gillian Harrex as at 31 December 2006 (the "December 2006 Valuation") (CB1/372). That valuation was, in turn, a "roll-forward" of a valuation performed by Ms Harrex as at 30 June 2006 (the "June 2006 Valuation") (CB1/269).
+ [A "roll-forward" is an actuarial term for moving an estimated liability from the date at which an original (more detailed) review has been undertaken to a subsequent date. In a "roll-forward", full re-modelling of liabilities does not occur; rather, the models are updated to allow for payments between the date of original and "roll-forward" valuation, and any additional liabilities incurred in the period between the valuations]. In the case of the December 2006 Valuation, there was also a slight modification to the "initial loss ratios" selected for more recent years for the purposes of the Bornheutter-Ferguson ("BF") method.
+ ii. For present purposes, it is sufficient to note the following critical features of the June 2006 and December 2006 Valuations. In those valuations: a) "initial loss ratios" of between 50% and 60% were selected for the purposes of the BF method of estimating insurance liabilities (see Table 3.17,
+CB1/316); and b) a "net to gross" percentage of 90% was selected for the purpose of calculating net liabilities after any reinsurance recoveries (see Table 3.20,
+CB1/319).
+ iii. When the terms of the purchase were being negotiated between
+Calliden and AU, Ms Harrex met with Calliden's actuary to answer questions about the insurance portfolios being acquired. On 1 June 2007, Ms Harrex told
+Mr Atkins that recent experience for AUGIL's commercial liability portfolio had been "running much better than expected", and said that "at December $1 million was released and indications for further releases ($1 million) at June if experience continues" (CB3/1241).
+ iv. When Ms Harrex came to prepare the valuation of AUGIL's insurance liabilities as at 30 June 2007 (the "June 2007 Valuation") (CB1/379), she made some significant changes to the assumptions she had adopted for the purposes of the June 2006 and December 2006 Valuations. In the
+June 2007 Valuation she adopted: a) an initial loss ratio of 43% for the purposes of the BF method (see Table .20, CB1/433); and b) a "net to gross" percentage of 80% for the purpose of calculating net liabilities after any reinsurance recoveries (Table 3.23, CB1/437).
+ v. Ms Harrex admitted that she had adopted a different approach to the selection of assumptions when she prepared the June 2007 Valuation (Trans.
+/26-28; 140/14-16).
+ vi. Ms Harrex was provided with Schedules 5 and 6 of the Deed only four hours before she delivered the June 2007 Valuation (CB4/1755.205). AU did not, however, instruct Ms Harrex to comply with them (Trans. 73/37-44), and she did not give herself an instruction to do so (Trans. 80/50-81/3).
+ vii. Completion of the Deed took place on 31 July 2007.
+ viii. The valuation of AUGIL's insurance liabilities as at the date of completion of the Deed (i.e., 31 July 2007) (the "Completion Valuation") (CB1/574) was a roll-forward of the June 2007 Valuation, and used the same assumptions.
+ ix. As the plaintiff has contended, it is thus apparent that different assumptions were adopted for the June 2007 and Completion Valuations as opposed to those adopted for the June and December 2006 Valuations. That is to say: a) a lower initial loss ratio was selected (43% as opposed to between 50% and %); and b) it was assumed that reinsurance recoveries would increase compared to gross liabilities (80% net retention as opposed to 90% net retention).
+ x. The evidence establishes that Calliden was surprised by the extent of the reduction in the value of AUGIL's insurance liabilities. On 10
+September 2007, Calliden wrote to Ms. Harrex (CB5/2079). In that letter,
+Calliden set out certain passages from Schedules 5 and 6 of the Deed, and asked whether Ms. Harrex had been instructed to prepare her valuations in accordance with those passages.
+ xi. Ms. Harrex replied to that letter on 14 September 2007 (CB5/2221). Ms. Harrex stated that she had not been instructed to prepare her valuations in accordance with Schedules 5 and 6 of the Deed. She stated, however, that it was her "understanding that both the [June 2007 Valuation] and [Completion Valuation] are consistent with the requirements of Schedules 5 and 6." xii. On 7 February 2008, Calliden's own approved actuary, Mr. Geoff
+Atkins, provided Calliden with a report stating that he considered Ms.
+Harrex's report was not prepared in accordance with Schedules 5 and 6 of the
+Deed (CB5/2388). Mr. Atkins stated that if Ms. Harrex had prepared her valuation in accordance with the Deed, her valuation of AUGIL's insurance liabilities would have been $3 million higher (CB5/2392).
+ xiii. Calliden then prepared a Draft Completion Statement which reflected Mr. Atkin's view that there should be an increase of $3 million made to the insurance liabilities over the figure recommended by Ms. Harrex. That
+Draft Completion Statement was provided by Calliden to AU and Ernst &
+Young on 20 March 2008 (CB5/2422).
+ xiv. On 27 March 2008, the solicitors for AU wrote to Calliden and
+Ernst & Young (CB5/2427), stating that Calliden had not provided a Draft
+Completion Statement within the meaning of the Deed, because the statement provided was not based on Ms. Harrex's valuation of AUGIL's insurance liabilities. On that basis, AU instructed Ernst & Young not to proceed (CB5/2427; 2436).
+ xv. On 8 April 2008, Calliden instructed Ernst & Young to proceed with its engagement, notwithstanding AU's position (CB5/2430).
+ xvi. On 14 April 2008, Ernst & Young stated that in light of the dispute between Calliden and AU, it would not proceed with its engagement (CB5/2439).
+ 
+The respective cases Calliden has advanced a case which has 4 limbs: 
+First, it is alleged that AU breached clause 9.2 of the Deed by refusing to procure Ernst & Young (inter alia) to determine whether the
+Draft Completion Statement complied with the Accounting Principles.
+
+Secondly, it is alleged that AU breached Schedule 6, Clause (a) of the Deed by failing to give Ms Harrex an instruction to prepare the
+June 2007 Valuation and the Completion Valuation in accordance with the provisions of that clause.
+
+Thirdly, it is alleged that the June 2007 Valuation and the
+Completion Valuation did not comply with Schedule 6, Clause 5(a) of the Deed in that they: i) used a different approach to the selection of assumptions than that which had been adopted for the purposes of the June and December 2006
+Valuations; and ii) used a different method than that which had been used in the June and December 2006 Valuations.
+
+Fourthly, it is alleged that the June 2007 Valuation and the
+Completion Valuation did not comply with Schedule 5, Clause 3.13 of the Deed in that they were not prepared "on a basis broadly consistent with prior periods and in accordance with professional standards".
+ AU contended that it was unnecessary due to decide Calliden's Cases 1 and
+Its propositions were as follows: i. the starting position is the question of construction concerning the meaning of 'unchanged'. If Calliden succeeded in its construction argument then the question for decision would become whether the changes to the approach to selection of assumptions, which Ms Harrex acknowledged making, were clearly justified. If they were clearly justified, then Calliden's case fails.
+ ii. Properly analysed Calliden's Case 1 does not create any additional source of rights to those existing under its cases 3 and 4. To put it another way, if the plaintiff succeeds on Case 3, it may be entitled to succeed on Case 1, but if it does not succeed on Case 3 (whether because it fails on the construction argument, or because it succeeds on construction, but fails on "clearly justified"), it cannot succeed on Case 1.
+ ii. As with Case 1, Case 2 is not necessary to decide for the following reasons: 
+If the plaintiff fails on the construction issue, then the required instruction had content insofar as clause 5(a) is concerned only in the requirement to ensure that the completion valuation was a roll forward of the
+June 2007 valuation. This it undoubtedly was. There is no question that the actuary required an explicit instruction as to the matters in 5(b) and (c).
+
+If the plaintiff succeeds on the construction issue, the failure to give a correct instruction could only have any material consequence if the valuation does not otherwise comply with clause 5(a). If it does, then the failure to give the required instruction is without consequence and would not warrant relief.
+ AU utilised a so-called 'decision tree' to explain how the matters for decision appropriately presented: [&lt;img src="/scjudgments/2010nswsc.nsf/files/2010NSWSC263.gif/$file/2010NSWSC263.gif" alt="Chart"&gt;]  
+Returning to parameters of significance Before travelling through the detail in terms of the factual position it is convenient to address a number of parameters of significance in understanding and ultimately adjudicating upon the principle disputed questions of construction namely: i. First, there is a dispute as to point of reference against which
+Schedule 6, clause 5(a)'s requirement that there be "unchanged methods and approaches to the selection of assumptions" is to be measured; and ii. Secondly, there is a dispute as to the meaning of Schedule 5, clause 3.13 and its requirement that the 2007 Valuations be prepared on a basis "broadly consistent" with prior valuations.
+ 
+The "Unchanged" Requirement Schedule 6, clause 5(a) relevantly provides that: "5. The Approved Actuary will be instructed to prepare the actuarial valuations as at 30 June 2007 and as at the Completion Date according to the following principles: 
+Unchanged methods and approaches to the selection of assumptions, unless clearly justified, in which case the justification should be fully explained; ..." The dispute between the parties can be summarised as follows: 
+Calliden contends that the requirement in 5(a) (and the other requirements in 5(b) and (c)) applied to the preparation of both the June 2007 Valuation and the Completion Valuation. That is to say, there was to be no change to the methods and approaches to the selection of assumptions in the preparation of the June 2007 Valuation, and no change again when the Completion Valuation was prepared. Calliden's contention is that the plain language of the Deed, its structure as a whole, its commercial purpose and object, and the circumstances surrounding its making, indicate clearly that both of the 2007 Valuations were required to be prepared using the same methods and approaches to the selection of assumptions as had been used for the valuation that underpinned the estimated NTA set out in Schedule 7 (subject to the proviso).
+ AU contends that the requirement in 5(a) (although not the requirements in (b) and (c)) applied only to the preparation of the Completion Valuation.
+That is to say, there was complete freedom under Schedule 6 to select the methods and approaches to the selection of assumptions for the June 2007
+Valuation, with the "unchanged" requirement applying only to the preparation of the Completion Valuation. AU thus contends that the sole purpose of 5(a) was to stipulate that the Completion Valuation was to be a "roll-forward" of the June 2007 Valuation.
+ To put the matter more precisely, the defendant's relevant construction arguments at least include the following propositions: i. Clause 5(a) of schedule 6, it requires consistency of method and approach only as between the two valuations referred to in the schedule - i.e. the valuation as at 30 June 2007, and that at completion.
+ ii. The following textual considerations are put forward as support its construction: a. The plaintiff's question leaves unanswered the question "Unchanged from what?" If the plaintiff's construction is correct there existed a significant and surprising lacuna in the Deed, which was left attended with considerable uncertainty b. The plaintiff's construction is also said to create a startling tension with the requirement of consistency contained in schedule 5 clause .13, which plainly and directly operates to impose a requirement of consistency between the 2007 reports, and those in prior periods. It is said to be surprising if the parties, having turned their mind to a requirement of consistency with prior periods, and having expressed that requirement explicitly in schedule 5, had then decided to adopt a different and inconsistent requirement in schedule 6. The plaintiff seeks to meet this consideration by pointing to the fact that schedule 5 continues to operate as an historical description of how the estimated net tangible assets had been derived. But that in itself emphasises the problem with the plaintiff's construction. The contention is that this would be an absurd construction that saw the valuation reflected in the estimated NTA being the subject of a looser requirement of consistency with a prior period than the later performed June valuation.
+ c. The defendant's construction is said to address an inherently necessary condition of the proper performance of the obligations contained in clause 3 of schedule 6, and in particular clause 3(g). That clause required the actuary to produce a final actuarial valuation "with limited commentary".
+The defendant contends that if the report was to have limited commentary, and yet have significant effect in the structure of the Deed and underlying commercial transaction, it could only be because it was intended to be a "roll forward" from 30 June 2007 without significant change in basis, and so not requiring extensive commentary (unless changes were made, in which case they needed to be fully explained - requiring a departure from the limited commentary anticipated by clause 3(g)). Hence the need for clause 5(a).
+Contrary to the plaintiff's submission, the "roll forward" aspect of the completion valuation is not implicit in clause 3(g). Theoretically a valuation including many changes in assumptions could be presented with "limited commentary". And so it was important to the parties to ensure that the "limited commentary" report also included limited changes. The requirement to "fully explain" any changes that were "clearly justified" is also said to look back to the "limited commentary" otherwise required for the completion valuation.
+ d. The defendant further contends that contrary to the plaintiff's position, the defendant's construction does not require the Court to read any words into clause 5. The clause does not in terms require that both the 30
+June 2007 and completion valuations be unchanged from something prior. Taken as a composite phrase, a requirement that two things be 'unchanged' means in ordinary English that they be the same - that is, without change between them.
+This is the meaning the defendant ascribes to the words in clause 5. It is supported on the natural meaning of the words of the clause.
+ iii. The 30 June 2007 valuation which was to be prepared by the
+Approved Actuary has no purpose under the SSD except to provide a benchmark for the completion valuation. It is the completion valuation which then must be taken into account in creating the completion balance sheet and then giving rise to any adjustment to the purchase price as a consequence. So why would the parties agree to constrain the actuary in arriving at the June 2007 valuation? The 30 June 2007 valuation does not itself need to be "unchanged" - it needs to be "correct" as complying with the relevant statutory and regulatory requirements for a valuation. In effect what the defendant submits is the operation of clause 5(a) and indeed all of clause 5 of Schedule 6 is that the rigour that applies with respect to an actuarial valuation for regulatory purposes, which will be subject to review and oversight by the
+Australian Prudential Regulatory Authority, is brought to apply to the completion valuation which would otherwise not be subject to that standard of rigour.
+ iv. The reason for identifying the 30 June 2007 valuation was not to make it subject to clause 5(a) and the rest of clause 5 but rather, because it was to be a valuation which would withstand the rigours of regulatory scrutiny, to serve as the appropriate comparator for the completion valuation.
+The point warrants repetition - the 30 June 2007 valuation has no purpose in the SSD except if it is to be the standard against which the completion valuation is determined. Nothing else turns on it for contractual purposes. As a comparator it is an entirely sensible selection because it provides assurance to the purchaser that the completion valuation will be done with the same rigour and subject to the same methods and processes for selection of assumptions as the most recent valuation prepared for statutory purposes.
+ 
+Finding As is often the case where complex construction issues are before the Court for determination, the respective arguments concerning the 'unchanged' requirement have required extremely careful study.
+ The following matters put forward by Calliden are accepted in favouring its construction: i. First, the plain language of the provision supports the view that the requirement applies to both the June 2007 Valuation and the Completion
+Valuation as against the earlier valuations.
+ ii. The opening words to clause 5 clearly require that both the
+June 2007 Valuation and the Completion Valuation are to be prepared according to all of (a), (b) and (c). In other words, when the actuary came to prepare the June 2007 Valuation, she was required to do so in accordance with (a) as much as (b) and (c).
+ iii. Only Calliden's construction gives (a) any work to do in relation to the June 2007 Valuation. On AU's construction, the constraint in applies only to the Completion Valuation. In effect, AU seeks to re-write the opening words to clause 5 so that the June Valuation must be prepared in accordance with (b) and (c), and the Completion Valuation must be prepared in accordance with (a), (b) and (c). This does violence to the clear language of the clause as a whole.
+ iv. Moreover, AU's construction requires the insertion of language into the Deed when there is no need to do so. As AU's letter to Calliden on 28
+February 2008 (CB5/2395) demonstrates, AU seeks to insert the words "as between these two final Actuarial Valuations" after the word "unchanged" in clause 5(a).
+ v. There is no warrant for the inclusion of such extraneous words.
+The natural meaning of the word "unchanged" directs attention to the status quo (in this case, the December 2006 Valuation) and commands that it be maintained. The insertion of those additional words thus contradicts the plain meaning of the clause.
+ vi. Secondly, in addition to this, the overall structure and purpose of the Deed makes clear that the "unchanged" requirement does apply to the June 2007 Valuation and the Completion Valuation, and requires consistency between those valuations and the December 2006 Valuation (and thus the June Valuation).
+ vii. Fundamental to the structure of this deal was the idea that the purchase price would be fixed by reference to an estimation of the acquired companies' NTA, with an adjustment following completion to reflect the extent to which the estimate was incorrect.
+ viii. Clause 9.7 requires there to be a comparison between the estimated NTA set out in Schedule 7, and the completion NTA determined in accordance with the provisions of Clause 9. The fact that the Deed required such a comparison to be made suggests in the strongest of possible terms that the comparison was one that was intended to be meaningful. A comparison of two
+NTA calculations can only be meaningful if they are prepared in the same way.
+Otherwise, the comparison will not be one of "apples with apples". This factor thus indicates strongly that the parties intended that the Completion
+Valuation be one that was meaningfully comparable with the December 2006
+Valuation.
+ ix. The clear purpose and object of the "adjustment amount" mechanism set out in clause 9.7 of the Deed was thus to ensure that any discrepancy between the estimated NTA upon which the initial purchase price was based and the completion NTA was reflected in the final purchase price. In other words, the parties agreed upon the purchase price on the basis that the estimated NTA (Schedule 7), prepared on an identified basis (Schedule 5), provided an appropriate valuation for the assets and liabilities being taken over. What was then needed was simply to roll-forward that statement to reflect changes in position between 31 March 2007 and the date of completion, and in turn to make a corresponding adjustment to the purchase price.
+ x. In those circumstances, there is a clear commercial rationale supporting Calliden's construction. Put simply, the sole purpose of the
+Completion Valuation was to enable a comparison to be made with the December Valuation which was utilised in the estimated NTA (Schedule 7). Unless those valuations were prepared using the same methods and approaches to the selection of assumptions, no meaningful comparison was possible.
+ xi. The concern of the parties to ensure that the two NTA calculations were meaningfully comparable emerges most clearly from the terms of Schedules 5 and 6: a) schedule 5, clause 1(a) makes clear that the first purpose of Schedule 5 as a whole is to describe how the estimated NTA calculation (Schedule 7) was performed. In other words, it is an account of the principles etc in accordance with which the first comparator was prepared.
+ b) schedule 6, clause 1(a) then makes plain that the second comparator, the completion NTA calculation is to be performed in accordance with the principles etc set out in Schedule 5. In other words, the completion NTA calculation is expressly stated to be required to be prepared in the same way as the estimated NTA calculation. In this way, the two comparators will be prepared in the same way, making a meaningful comparison possible.
+ c) schedule 6, clause 5(a) provides an additional guarantee of similarity of approach. The reasons for the inclusion of that clause may be inferred from the pre-contractual factual matrix but in any event it is clear from the words themselves that the concern was to ensure consistency of approach, so as to enable the comparison that was fundamental to the Deed to be meaningfully performed.
+ xii. Calliden's construction is consistent with this general intention (i.e., not only would all other aspects of the accounting exercise be performed in the same way as had been done to produce the estimate, but so too would the actuarial valuation of insurance liabilities). AU, on the other hand, advances a construction that places the valuation of insurance liabilities in a separate category, with no requirement of any consistency of approach between the valuation used to prepare the estimate, and the valuation used for completion purposes.
+ xiii. AU says that clause 5(a) provided "comfort" to Calliden that the actuary would not adopt one valuation basis for the June 2007 Valuation, and another for the Completion Valuation. That concern was already addressed by the requirement that the Completion Valuation be "in the same format" as the June 2007 Valuation but contain only "limited commentary" (Schedule 6, clause 3(g)). In any event, the June 2007 Valuation had no relevance to any matter under the Deed. The Deed required there to be a comparison between the companies' NTA as at completion, and the estimate in Schedule 7. If, for some reason, the June 2007 Valuation had been prepared on a different basis to the
+Completion Valuation, that would not in itself pose any problems or difficulties for Calliden. The "comfort" that Calliden required was that the
+Completion Valuation would be performed on a consistent basis with the valuation upon which it had negotiated the purchase price.
+ xiv. The only comparison required to be made under the Deed is as between the Completion Valuation (which was a roll-forward of the June 2007
+Valuation) and the December 2006 Valuation (which was a roll-forward of the
+June 2006 Valuation). It thus follows that those valuations should be prepared in such a way as to make that comparison meaningful. Calliden's construction thus gives 5(a) a useful operation. A requirement that the June 2007 Valuation and the Completion Valuation be prepared using unchanged methods and approaches to the selection of assumptions, however, would simply impose an additional obligation in relation to the preparation of the 31 July 2007 valuation with no objective value or benefit.
+ 
+A short reference to authorities It is a principle of the construction of contracts that, where a contract has been entered in a business context, it should not be read in a way that is commercially unlikely to be what the parties intended: Australian
+Broadcasting Commission v. Australasian Performing Right Association Ltd <case>; [(1973) 129 CLR 99] at 109; Cohen & Co v. Ockerby & Co Ltd <case>; [(1917) 24 CLR 288] at 300; The Council of the Upper Hunter County
+District v. Australian Chilling and Freezing Co Ltd <case>; [(1968) 118 CLR 429] at 437.
+ 
+The pervasive plausible commercial intention The only plausible commercial intention that the parties to the Deed could have had would have been that the December 2006 Valuation and the Completion
+Valuation be prepared using unchanged methods and approaches to the selection of assumptions. As Calliden has submitted that is so, because only in that way could there be a meaningful comparison of the net tangible assets used to calculate the initial purchase price, and the net tangible assets as at completion.
+ Further and again as Calliden has submitted, the circumstances surrounding the entry into the Deed strongly support its construction.
+ 
+Returning to the authorities In this regard it is clear that evidence of the factual matrix in which a contract came to be concluded is relevant to the construction of a contract where the terms are susceptible of more than one meaning: see Reardon Smith
+Line Ltd v. Yngvar Hansen-Tangen [[1976] 1 WLR 989] at 997;
+Codelfa Construction Pty Ltd v. State Rail Authority of NSW <case>; [(1982) 149 CLR 337.] As the High Court said in Toll (FGCT) Pty Ltd v. Alphapharm
+Pty Ltd (2004) 219 CLR 165 at [40]: "The meaning of the terms of a contractual document is to be determined by what a reasonable person would have understood them to mean. That, normally, requires consideration not only of the text, but also of the surrounding circumstances known to the parties, and the purpose and object of the transaction." 
+The surrounding circumstances of the transaction The following were the surrounding circumstances of the transaction for present purposes: a) On 9 May 2007 Calliden wrote to AU's agent (Caliburn Partnership
+Pty Ltd) and outlined a proposal for the purpose by Calliden of AUGIL (CB3/958). In that letter Calliden said that "in arriving at the offer price we have adopted a process and made a number of assumptions" including (CB3/960): "We have assumed net tangible assets at completion of the transaction will not be less than the amount of $38.7 million estimated at 31
+March 2007." [I accept that this demonstrates that the parties both knew of the importance that the estimated NTA calculation (Schedule 7) played in relation to the determination of the purchase price].
+ b) At the 1 June 2007 meeting between (inter alia) Ms Harrex and Mr
+Atkins, Ms Harrex informed Mr Atkins that (CB3/1241): "Current approach uses an ICD and Average claim size method. There is a move to separate the small and large claims in the commercial liability valuation." [I accept that this demonstrates that Calliden (through Mr Atkins) was made aware that there was a "move" to a new valuation method, but that it had not previously been adopted].
+ c) Schedule 6, clause 5 was drafted by Mr Atkins (CB6/2709). Given the disclosure of the "move" to adopt a new valuation basis, it is clear that clause 5(a) was inserted to ensure that there was no change in method or approach to the selection of assumptions before completion (subject to the proviso). The factual matrix in which this provision came to be inserted into the Deed is thus one in which the person drafting the relevant amendment has been put on notice that there could be a change in method. A provision requiring that there be "unchanged" methods is thus readily understood as a response to that specific possibility.
+ d) All of this clearly indicates that the concern of the parties was to ensure that there was a meaningful comparison able to be made between the estimated NTA and the completion NTA, and that one particular concern in that regard was to ensure that the way in which insurance liabilities were valued did not change (and, in particular, that the foreshadowed move to a new method did not occur).
+
+This material thus plainly supports Calliden's construction.
+ AU contends that the sole purpose of clause 5(a) is to provide that the
+Completion Valuation is to be a mere roll-forward from the June 2007
+Valuation. That is rejected for the following reasons: i. If that is what the parties had meant, then they could have said so in clear words. As Calliden has contended, the parties should not be taken to have intended to express their intention in such a vague and indirect way. The construction advanced by Calliden is consistent with the actual words used and does not require the Court to say that, by those words, the parties "really" meant something else.
+ ii. Clause 5 of Schedule 6 deals with how the valuations are to be prepared. It does not deal with what is to be prepared. That topic is dealt with in clause 3 of Schedule 6. If the parties had intended to stipulate the nature of the document to be created (i.e., a "roll-forward" as opposed to a "full valuation") one would expect to find that in the identification of what was to be produced, and not in the statement of how a particular document (already identified) was to be produced.
+ iii. That last point is reinforced by the fact that, as it turns out, the parties did stipulate in clause 3 that the Completion Valuation was to be a limited valuation only. In clause 3(g) it was stated that the actuary was to prepare a "Final Actuarial Valuation of outstanding claims in same format as item (a) but with limited commentary (and premium liabilities only if requested by Calliden) as at Completion Date". Item (a), it will be remembered, was the full, end of year, insurance liability valuation. It can thus be seen that the Deed, in clause 3(g), already provided for the limited nature of the Completion Valuation (i.e., it was to be in the same format as the full valuation but was to contain "limited commentary").
+ AU next says that its construction is supported by the "fundamental lacuna" in the Deed; namely, that clause 5(a) does not, itself, state from what the methods and approaches to the selection of assumptions in the June 2007
+Valuation is to be "unchanged". As Calliden has contended, AU's contention is unpersuasive: i. The word "unchanged" contains its own point of reference (namely, the status quo). When clause 5(a) requires that both the June 2007 Valuation and the Completion Valuation are to be prepared using "unchanged" methods etc, it directs attention to the pre-existing valuations (namely, the December 2006 and June 2006 Valuations), and requires no change to the methods etc. used to prepare them. It is thus not the case that there is any such "fundamental lacuna".
+ ii. In any event, for the reasons given above, the overall scheme of the Deed, as well as its clear commercial purpose, and the circumstances in which it was made, indicate in the plainest of terms that there is to be no change from the valuation used (consistently with Schedule 5) for the purposes of preparing Schedule 7 (i.e., the December 2006 Valuation, which was a roll- forward of the June 2006 Valuation).
+ iii. AU's construction itself requires the insertion of words into clause 5(a) (i.e. "as between these two final Actuarial Valuations").
+ AU then says that Calliden's construction of clause 5(a) renders clause .13 of Schedule 5 "entirely otiose". Again and as Calliden has contended, there is no substance in this AU submission: i. Schedule 5's first role is a statement of how Schedule 7 was prepared (see clause 1(a)). The statement in clause 3.13 that the insurance valuations used to arrive at Schedule 7 were prepared "on a basis broadly consistent with prior periods and in accordance with professional standards" is thus, in the first instance, a statement of history.
+ ii. Schedule 6 Clause 1(a) then gives Schedule 5 a second operation: it must be applied in preparation of the completion NTA. Clause (a) of Schedule 6 is clearly intended to have further work to do - it adds some more stringent requirements to Schedule 6 Clause 1(a), incorporating
+Schedule 5.
+ iii. Clause 3.13 of Schedule 5 and Clause 5 of Schedule 6 undoubtedly overlap (both, for example, deal with the requirement of the application of professional standards). The two provisions are, though, in no way inconsistent. More importantly, however, whichever construction of 5(a) is adopted there will, on AU's argument, be an element of redundancy about clause 3.13. That is to say, on AU's construction, clause 3.13 is "entirely otiose" insofar as the Completion Valuation is concerned, and "entirely otiose" insofar as the prevalence of professional standards is concerned.
+ iv. The true role of Schedule 6 Clause 5 is thus to render more specific and explicit the constraints already in Schedule 5.
+ Finally, AU suggests that Calliden's interpretation may bring about a conflict between the requirement that the June 2007 Valuation be prepared using particular methods, and the APRA imposed obligation that an end of year insurance liabilities valuation arrive at a genuine central estimate. Again, this complaint is of no substance. This concern is plainly addressed by the proviso within Clause 5(a) of Schedule 6 and further by Clause 5(c).
+ For all of these reasons, Calliden's construction of clause 5(a) is accepted as correct.
+ 
+The "Broad Consistency" requirement The second principal construction question in this case is the meaning to be given to the term "broadly consistent" in Schedule 5, clause 3.13. That states: "The outstanding claims liability is assessed by the Appointed Actuary on a basis broadly consistent with prior periods and in accordance with professional standards." The following matters also put by Calliden are pervasive: i. The words "broadly consistent" are plainly not actuarial terms of art (Trans. 272/4-5).
+ ii. The evidence in this case was that when actuaries use the word "basis" they mean method and assumptions (Trans. 204/38-40).
+ iii. To say, therefore, that a valuation is to be prepared on a "basis" that is "broadly consistent" with that adopted in prior periods, is plainly to require that broadly consistent methods and assumptions are used.
+ iv. That is exactly how Mr Fry said that he understood the term (Trans. 271/38-40).
+ AU, however, appears to submit that an insurance valuation will be prepared on a "broadly consistent" basis if it (see joint report, Question 1): i. is prepared using actuarial models to estimate outstanding claims and premium liabilities; ii. estimates outstanding claims and premium liabilities on a net of reinsurance basis; iii. estimates outstanding claims and premium liabilities on an inflated and discounted basis; iv. includes an allowance for claims handling expenses.
+ The first of those points says nothing more than that a valuation should use "actuarial models". Ordinarily an actuary will prepare a valuation of insurance liabilities using a "model". But there could be many different models. The clause would become almost uninformative if simply meant "use some model - whatever you like". Thus it cannot seriously be suggested that an actuary using two completely different models is preparing valuations on a "broadly consistent" basis.
+ As Mr Fry said, for two methods to be "broadly consistent" they would have to "look at things in a similar sort of way" (Trans. 240/6). Mr Fry went on (Trans. 240/6-12): "... if I'm looking at the, as the BF method does, look at a portfolio in aggregate without thinking about individual claims, then a broadly consistent method will be something that looked at the portfolio in aggregate, something that would be broadly inconsistent would be changing to a method that looked at individual claims, so we've switched from that, the broad approach to a quite different approach looking at individual claims." I accept that the requirement of "broad consistency" requires the use of methods and approaches to the selection of assumptions that look at the portfolio in a similar sort of way. They do not, of course, have to be identical. But the general approach must be consistent. The sorts of matters that will be relevant to that analysis are thus: i. whether the methods look at the portfolio in the aggregate, or separate out different sorts of claims in some way; ii. whether the same method is applied to the whole portfolio, or whether different methods are applied to different parts of the portfolio; iii. whether reinsurance recoveries are estimated in relation to the whole portfolio based on experience, or whether they are estimated in relation to some claims only, based on assumptions as to future recoveries, where those assumptions are unnecessary and irrelevant for the purposes of the other method.
+ A further a telling indicator of a broad inconsistency of approach is if the individual components of a net liability (i.e., gross outstanding claims liability and reinsurance recoveries) do not have individual integrity. The requirement of individual integrity was a requirement of the Deed (see
+Schedule 5, clauses 3.7 and 3.13; see also Trans. 317/12-19). If a method is selected, and manipulated, so that it does not produce individual components that have integrity, that that method has not been applied in a manner broadly consistent with a proper application of the method.
+ I further accept that the following matters would also be relevant to demonstrating a lack of a broadly consistent approach: i. A change from a cautious and conservative approach, to a significantly less cautious and conservative approach.
+ ii. A change from an approach to the selection of assumptions unconstrained by any attempt to achieve a result derived from another method.
+ iii. Acceptance of a direction to release as much in reserves as the actuary was comfortable with, when no such direction had ever been given or accepted before.
+ iv. Taking into account an irrelevant consideration (namely the proposed sale of the insurer) when no such consideration would ever have previously been regarded as relevant.
+ v. Giving significant weight to another valuation method, which is heavily dependent on assumptions that had never previously been required to be made, about which there was limited experience from which to draw, and concerning matters that had never previously been given any weight.
+ If considerations such as those outlined above were made out, it would be established that there was no "broad consistency" within the meaning of
+Schedule 5, clause 3.13.
+ 
+The different actuarial methods There are various different actuarial methods that have been mentioned in these proceedings. It is convenient to presently address the terms the features of each one.
+ 
+The ICD method The ICD, or "incurred claim development", method is a method for estimating the ultimate gross (i.e., before taking into account reinsurance recoveries) liabilities of an insurance portfolio.
+ The ICD method examines the change, or "development", of incurred claim costs (payments actually made, plus estimates on open claims) for a particular half-year period in each subsequent half-year period. The development in the amount of incurred claim costs each half-year allows the actuary to identify historical ratios from period to period, and these ratios are called "ICD factors". The actuary then uses these historical ratios, or ICD factors, to project the future development of claims.
+ For example, if an actuary were looking at claims for the half year ending
+June 2002, he or she would look at the total amount of incurred claims costs for that period at June 2002, December 2002, June 2003, December 2003, June , and so on.
+ At the end of June 2002 the total amount paid out in claims, plus claims managers' estimates on open claims, might be $100,000. When the actuary returned to look at the incurred claims costs for that period in December , the amount might have risen to $150,000. When the actuary looked at it again in June 2003, the total might have risen to $225,000.
+ The actuary would examine the change in incurred claims costs for the June half year in each subsequent period, and use that information to predict the ultimate amount of the incurred claims costs for the period.
+ The ultimate incurred claims costs can be expressed as a dollar amount, and as a percentage of the premium charged for the relevant period. The latter produces a number known as the "loss ratio". If a portfolio for a particular half-year has an ultimate loss ratio of 50%, it thus means that half of all premiums collected for the period would ultimately be paid out in claims costs.
+ Hence the ICD method, for any given period, looks at the portfolio as a whole in order to derive the projected ultimate loss ratio. It is then necessary to estimate the amount that will be recovered by reinsurance.
+ Before 2007, Ms Harrex used the ICD method to value older periods (pre-June ).
+ 
+The BF method The BF method is also a method for estimating the ultimate gross (i.e., before taking into account reinsurance recoveries) liabilities of an insurance portfolio.
+ The BF method blends the actual experience of a portfolio for a particular period with the projected experience for that same period, to produce an estimate of the ultimate gross liabilities. It does so in the following way: i. First, regard is had to the actual experience of the portfolio in the relevant period. So, if the actuary was looking at the June 2002 half year, he or she would identify the amounts actually paid out in claims so far, and the amounts reserved for those claims (but not yet paid).
+ ii. Secondly, the actuary would estimate what percentage of the total liability for that period is constituted by the amounts already paid, and for which a reserve has been made. In other words, if the amount an insurer has paid out, or reserved, for known claims in a period is $500,000, the actuary may determine that that represents 25% of the claims that will ultimately be reported. This is known as the IBNR factor. The actuary relies on an ICD analysis to select this assumption (i.e., he or she looks at historical claims development to estimate, at a particular point in time, what percentage of ultimate claim cost will have been identified).
+ iii. Thirdly, the actuary selects an "initial" or "a priori" loss ratio. This is the ratio that the actuary assumes will constitute the ultimate loss ratio for the claims that have not yet been notified. This ratio is selected having regard to various factors including (a) the development, or experience, of the portfolio, (b) the ultimate loss ratios being suggested by an ICD analysis, and (c) any relevant lessons that can be drawn from other actuarial methods.
+ iv. Fourthly, the actuary then applies his or her selected initial loss ratio to the IBNR portion of the portfolio, combines this result with the actual experience, and thus produces an ultimate projected loss ratio.
+ Hence the BF method looks at the portfolio as a whole for a given period, and blends emerging experience with projections as to future experience, to give an estimated ultimate position.
+ As with the ICD method, this is a means of determining the gross claims cost only, and it is necessary to estimate the amount that will be recovered from reinsurers. .
+ Before 2007, Ms Harrex used the BF method to value new periods (post-June ).
+ Of particular relevance are the following observations concerning the BF method: i. It is a method that treats a portfolio in the aggregate, that is to say, it treats all claims within the portfolio in the same way, and deals with them as a whole. It does not separate claims into different categories, and analyse them differently, nor does it have regard to individual claims for the purposes of the analysis.
+ ii. The assumptions as to initial loss ratios are selected from experience in relation to the portfolio as a whole, and such inferences as can usefully be drawn from the results of other methods.
+ iii. In this portfolio, while the experience of older years may be more stable, the financial impact of them is limited. The financial results of the method are all driven by the recent years. This means that significant care was required with respect to the setting of assumptions for recent years (Trans. 231/11-22).
+ iv. Because it is an approximate method (it is used in cases where there is not a lot of information), the general practice is to adopt "round" numbers for assumptions. Adoption of more "specific" numbers as assumptions would seem to give them an appearance of greater accuracy than they deserve (Trans. 223/24-29).
+ v. The matters to which an actuary may look for the purposes of selecting BF assumptions may point in different directions. This emphasises the dangers in relying solely on one indicator, or limited trends (Trans.
+/23-48; 235/41-236/3).
+ vi. Assumptions for the purposes of the BF method are not, however, selected with a view to having the BF result replicate the results of another method. Any interaction between methods is required to be a "conversation" - that is to say, the results of each method should inform the other (Trans.
+/18-35; 257/14-18; 258/3-15; 287/22-28). It is as important to revisit and query the assumptions driving the result in the other method as it is to adjust the BF assumptions (Trans. 258/3-15; 319/19-22).
+ vii. Nor is it any part of a BF analysis to try generally to achieve a particular result, such as releasing as much as an actuary is comfortable with, or to release as much as possible without defying credibility. The assumptions should be selected in a fair manner, so as to see what result the model suggests, rather than attempting to reverse-engineer a particular outcome (Trans. 270/22-33).
+ viii. Matters such as the pending sale of the insurer are irrelevant to a BF analysis, and the selection of assumptions (Trans. 121/48-50).
+ 
+PPCI plus large The "PPCI plus large" method is actually two different methods, applied to different categories of claims within the one portfolio. It is thus immediately apparent that it is fundamentally different to the ICD/BF analysis that Ms Harrex had previously used. Those methods approached the estimation of the gross claims cost of the portfolio as an aggregate question. That is to say, they looked at the portfolio as a whole, and applied uniform assumptions to the portfolio as a whole.
+ The first step in the PPCI plus large analysis is to segregate the portfolio into "large" and "small" claims. Ms Harrex defined the boundary between the two categories at $200,000.
+ In relation to the "small" claims, a "PPCI" method was used. PPCI stands for "payments per claim incurred". It is not necessary for the purposes of these proceedings to understand in detail what a PPCI approach entails. In short, however, it involves the projection of expected claim numbers and the average cost of each claim.
+ In relation to the "large" claims, a "numbers times size" methodology was adopted. This method worked as follows: i. Assumptions are made as to the number of large claims that will, on average, be made in each period. In this case, Ms Harrex estimated that 4-5 large claims per year would be made.
+ ii. Assumptions are made as to the average size of the large claims.
+In this case, Ms Harrex estimated that the average claim size would be $450,000.
+ iii. The actuary multiplies the average number by the average size, to determine the likely gross ultimate cost of large claims.
+ The actuary then combines the results of the PPCI and the "numbers times size" approach to obtain a total gross ultimate cost for the portfolio.
+ The advantage of this methodology is said to be that small claims and large claims behave differently, with the result that there is an advantage to applying a different, better suited, method to each category. Whether this is right or wrong, it is immediately apparent that the approach (both as to each individual method, and the general approach of applying different methodologies to different categories of claims) differs significantly from the aggregate approach of the ICD and BF methods.
+ Once again, it is necessary then to make an estimate of likely reinsurance recoveries to obtain a net figure.
+ 
+Methods of estimating reinsurance recoveries For the purposes of these proceedings, there are two different ways that it is possible to approach the question of likely reinsurance recoveries.
+ The first is that which Ms Harrex used in conjunction with the ICD and BF methods. In this method: i. The actuary selects an assumed "net to gross" percentage factor.
+This is a percentage that identifies the amount of gross liabilities that will be retained by the insurer. It is applied to the total gross liability value in order to determine the net liability. In other words: a) A "net to gross" factor of 80% implies that 80% of an insurer's gross liabilities will be retained by them, and 20% will be recovered from reinsurers.
+ b) So, having arrived at a factor of 80%, the actuary simply calculates the insurer's net liability by determining the number that is 80% of the insurer's gross liabilities.
+ ii. The actuary selects the "net to gross" factor by having regard to a variety of relevant considerations, including: a) The loss ratio for the reinsurer that would be implied by a particular "net to gross" factor. In other words, if a "net to gross" factor of 80% was selected, and the value of gross liabilities was $100,000, it is expected that $20,000 will be recovered from reinsurers. The amount of premium paid for the reinsurance is known (say $40,000). The actuary can thus determine that the reinsurer's ultimate loss ratio would be 50%. By having regard to the reasonableness of the reinsurer's loss ratio that is implied by the "net to gross" factor selected by the actuary, the actuary can derive comfort in relation to the factor they have selected.
+
+In 2005 and 2006, Ms Harrex considered that an ultimate loss ratio of under % was reasonable for a reinsurer (Trans. 89/18-22). In 2007, however, she decided (for no rational reason explained to my satisfaction in the evidence) that a reasonable implied ultimate loss ratio would be greater than 50%.
+
+In determining what would be a reasonable implied loss ratio for a reinsurer, it is important for there to be evidence available - such as experience with the loss ratios of reinsurers with similar attachment points and portfolios of business - in order for reasonable conclusions to be drawn (Trans. 312/34-39).
+ b) Having regard to past claims experience to see, historically, the amount recovered from reinsurers.
+ iii. It is important to note that in applying this method (at least before June 2007) Ms Harrex had never regarded it as relevant to make assumptions about future large claims experience (the number of those claims and their size), calculate how much would be recovered from reinsurers on those assumptions, and then work out what percentage of the gross claims cost that would be. This forward looking, assumption dependent, analysis of a portion of the portfolio (as opposed to taking an aggregate approach) is not consistent with an overall method which looks to determine an aggregate "net to gross" factor.
+ iv. In the result this first method treats the question of reinsurance recoveries on the basis of the portfolio as a whole, by applying a selected percentage to the total expected gross claims cost. Equally, the selection of the appropriate factor does not depend on assumptions as to future claim numbers and size.
+ The second method is the one that Ms Harrex considered was preferable to be used in conjunction with her "preferred" (PPCI plus large) analysis. In this approach: i. Reinsurance recoveries are assessed differently for small and large claims.
+ ii. Because small claims are defined as being under $200,000, and because AUGIL's reinsurance cover only commenced at $200,000 per claim, it was assumed that there would be no reinsurance recoveries in respect of small claims. The net figure for these claims is thus the same as the gross.
+ iii. For large claims, the approach to reinsurance recoveries was to look at how the company's reinsurance would actually work on the assumption that the number and size of large claims was as the actuary had predicted. So iv. If each claim had an average size of $450,000, then on average $250,000 would be recovered from reinsurers per claim.
+ v. So, if there were 4-5 such claims per year, then $1-1.25 million would be recovered in reinsurance each year.
+ vi. The amount of expected reinsurance recoveries is then deducted from the projected gross cost of large claims, to produce the insurer's net liability.
+ vii. The net figures for the small and large claims are then added to produce a total net result.
+ In this approach the portfolio is not treated in the aggregate, but, rather, the same separate approach is taken. Also, the question of reinsurance recoveries is solely answered by reference to assumptions that are made about future claim numbers and their size.
+ 
+Ms Harrex's hybrid or construct method In the June 2007 Valuation, Ms Harrex adopted a hybrid model. That model can best be described as follows: i. She performed a PPCI plus large analysis, and observed the gross claims liability that it produced.
+ ii. She performed an analysis of likely reinsurance recoveries in accordance with the second method described above. That is, she referred to her assumptions about the number and average size of large claims (4-5 claims per year, at an average size of $450,000), and determined what the total dollar recovery from reinsurers was likely to be.
+ iii. She then manipulated both her BF initial loss ratio assumption, and her reinsurance net to gross factor, to get as close as she could to the result of the PPCI plus large analysis, but using a BF method and a net to gross factor to estimate total reinsurance recoveries (Trans. 125/16-19; /18-20; 129/41-44 131/1-3; 133/5-17; 137/47-49).
+ iv. Her thinking with respect to the selection of these new assumptions appears clearly in her memorandum of 5 July 2007 (CB3/1412): 
+In relation to the BF initial loss ratio assumptions: a) In relation to her first attempt to "construct" a BF basis she said this (CB3/1412): "The main reason for constructing this basis was to show AUGIL that it would be possible to derive a valuation result using the BF basis that was not dissimilar to the result on the [PPCI plus large] basis." b) Having reduced them to 40% for the early years and 43% for the later years in the first cut, she then made them 43% for all years (CB3/1413).
+ c) The result was to produce a gross liability value that was lower than was obtained by the PPCI plus large approach (CB3/1414).
+
+In relation to the reinsurance net to gross factor: d) She did not have regard to the portfolio's large claims experience, which is what she had done previously, and which indicated a low number of claims, with an average claim size of $350,000 (CB6/2565).
+ e) Rather, she made the assumptions that she made for the purposes of her PPCI plus large analysis (i.e., 5 large claims a year, with an average size of $450,000), and worked out likely reinsurance recoveries on that basis (CB3/1413).
+ f) She then applied that number to her gross liability calculated in accordance with the constructed BF method, and came up with 20% (CB3/1413).
+ g) This produced a higher gross to net factor than would have been derived from a direct translation from the PPCI plus large approach. But when combined with the lower gross liability valuation achieved by the BF construct, the net result came out only slightly higher than the PPCI plus large approach (CB3/1414).
+ As the plaintiff has contended the translation from the PPCI plus large approach to calculating reinsurance recoveries to the determination of a net to gross factor for the purposes of a BF analysis is particularly problematic.
+ In a genuine PPCI plus large analysis, the assumption made regarding the number of large claims per year is the one that is critical to the net position. That is because each additional claim adds $200,000 to the total net result.
+ The assumption made regarding the average size of large claims is not, however, critical to the net position. That is because it is assumed that all amounts per claim over $200,000 are recovered from reinsurers. As such, whether the average claim size is $250,000 or $600,000, the net position for the insurer is unchanged. All that changes is the amount recovered from reinsurers.
+ As Calliden has submitted, assumptions about the average size of large claims do become relevant, however, when the analysis is blindly applied to a different method (namely, a BF analysis). In that case it is the proportion of reinsurance recoveries compared to gross liabilities that is important.
+In that context, assumptions regarding average claim size do matter (because they inflate the gross position) (Trans. 314/24-36).
+ That fact reveals the true significance of Ms Harrex's assumption of an average claim size of $450,000 (as opposed to the experience, which was $350,000). By inflating her estimate in that way, Ms Harrex increased the proportion of reinsurance recoveries, which enabled her to justify a significantly higher net to gross factor.
+ It can thus be seen that Ms Harrex's construct was a most unusual method.
+The result was substantially derived from a faithful application of the PPCI plus large approach, but rather than implement that approach, or allow that approach to engage in a meaningful two way conversation with another approach (such as the BF method), she reverse-engineered BF and reinsurance assumptions to achieve as close an approximation as she could to the result of the PPCI plus large approach.
+ In the result, the method she adopted was neither PPCI plus large, nor proper BF. It was a genuine hybrid, or construct, with none of the integrity of either method, faithfully applied.
+ It was a method that Ms Harrex had not performed before (Trans. 131/33-35) and Mr Heath had never seen it done before (Trans. 285/13-29).
+ 
+Calliden's case Each of the following submissions advanced by Calliden is of substance and adopted in these reasons.
+ 
+Case one: breach by failing to procure Ernst & Young to work It cannot seriously be suggested that AU did not refuse to procure Ernst & Young to perform is work under its retainer. The facts are as follows: a. Calliden provided Ernst & Young with the Draft Completion
+Statement on 20 March 2008 (CB5/2422).
+ b. On 27 March 2008, AU's solicitor wrote to Calliden's solicitors and Ernst & Young and said (at CB2428): "AU will not agree to procure Ernst & Young to perform, nor will AU bear the cost of, any work that goes beyond the description of work outlined in the Deed. In particular, AU will not procure or pay for work by Ernst &
+Young in connection with: the [Draft Completion Statement provided by Calliden on 20 March 2008], which has not been prepared in accordance with the Deed; or looking behind the [Completion Valuation]." c. On 8 April 2008 Calliden's solicitors replied that AU had no basis to "prevent or interfere with the certification process" and stated that Calliden had "instructed Ernst & Young to proceed on the basis of the Draft
+Completion Statement" (CB5/2430).
+ d. On 8 April 2008 Calliden wrote to Ernst & Young to "confirm our instructions requiring you to undertake the certification required by clause 9.2" (CB5/2432).
+ e. On 10 April 2008 a lawyer at AU (Dave van Sanden) spoke to the partner at Ernst & Young and said that AU's "immediate issue is to ensure
+E&Y understand they don't have joint instructions" (CB5/2436).
+ f. On 11 April 2008 the solicitors for AU wrote to Ernst & Young repeating the comment in their letter of 27 March 2008 quoted above at (b) (CB5/2437).
+ g. On 14 April 2008 Ernst & Young wrote to Calliden and AU stating that "in light of the conflicting instructions, it is not possible for us to proceed with the engagement" (CB5/2439).
+ Hence: a. Calliden was instructing Ernst & Young to perform the work under clause 9; b. AU was refusing to instruct Ernst & Young to perform that work.
+ This was clearly a breach of clause 9.2 of the Deed.
+ The following matters that AU has raised in argument against that conclusion have no substance: a. AU says that Calliden did not itself commit to requiring that
+Ernst & Young performed the necessary work. The evidence is otherwise. The sequence of correspondence outlined above, in particular the letter of 8 April (CB5/2432) makes clear that Calliden expressly directed Ernst & Young to perform its work under clause 9.
+ b. AU says that Ernst & Young did not have the qualifications or experience to actuarial work, such that the task they were being required to perform was not one within their capabilities. The evidence is otherwise.
+Indeed, AU itself noted in correspondence with Calliden on 28 February 2008, that (CB5/2396): "The valuation as at 30 June 2007 was peer reviewed by Ernst &
+Young, which did not report any relevant inconsistency with prior years, or any deviation from professional standards. Ernst & Young had also reviewed the valuation as at 30 June 2006 and were, therefore, in an ideal position to report any relevant deviation or inconsistency of approach with prior periods." 
+The Ernst & Young Actuarial Services report is found at
+CB5/2103.
+ 
+There can thus be no suggestion that AU was entitled to refuse to procure
+Ernst & Young to perform this work on the basis that they were not sufficiently qualified.
+ c. AU says that the Draft Completion Statement did not comply with the
+Deed, and therefore there was nothing upon which it could properly instruct
+Ernst & Young to work. That argument is fallacious for the following reasons: i) The notion that it is only if a perfectly complying Draft Completion
+Statement is provided to Ernst & Young that AU has any obligation to procure Ernst & Young to do the work under clause 9 is misconceived. The whole purpose of retaining Ernst & Young is to enable Ernst & Young to determine if the Draft Completion Statement was properly prepared. On AU's construction, there would be no purpose whatsoever served by Ernst &
+Young's retainer.
+ ii) AU was not entitled to terminate the Ernst & Young certification process on the basis that it did not consider that the Draft Completion
+Statement had been properly prepared.
+
+Calliden's primary obligation came from Clause 9.1 of the Deed, in having to prepare a pro forma statement of net tangible assets as at completion. That requirement is satisfied by a document which purports to be a Draft Completion
+Statement, and which contains the necessary structural elements for such a statement.
+
+The Deed specifically left the question of the compliance of Calliden's
+Draft Completion Statement to Ernst & Young (in the first instance) and the expert appointed under clause 9.6 (in the second instance).
+
+That is to say, cl. 9.1 required Calliden to prepare a Draft Completion
+Statement, and to provide that statement to both Australian Unity and Ernst & Young. One of the functions that Ernst & Young was then required to perform was to audit the statement by applying the Accounting Principles. In other words, Ernst & Young was required to determine whether the statement produced by Calliden complied with the requirements of the Deed.
+
+Given that Ernst & Young had that function, it cannot be the case that Australian Unity was entitled to refuse to "procure" (see cl. 9.2) Ernst & Young to perform its functions on the basis that AU considered that
+Calliden had not produced a compliant statement. By doing so, AU arrogated to itself the very function that the Deed gave to Ernst & Young.
+
+If Ernst & Young were to conclude that the statement provided by
+Calliden was compliant, and proceeded to issue a Certified Completion
+Statement on that basis, AU would be entitled to object under clause 9.5. By making such an objection, Australian Unity would be invoking the dispute resolution procedure outlined in clause 9.6. The question whether Calliden's statement complied with the Deed would then be determined by the expert appointed pursuant to clause 9.6.
+
+I accept that mechanism established by the Deed is similar to the agreement considered by the NSW Court of Appeal in Downer Engineering Power
+Pty Ltd v. P & H Minepro Australasia Pty Ltd <case>
+In that case, it had been argued that a document that purported to be a "Completion Statement", and which contained all of the "structural elements" of such a statement had been prepared (see at [72]). The other party considered, however, that the statement that had been prepared did not conform to the requirements of the parties' agreement. It was thus contended that the process set out in that agreement for the review by an independent third party of the completion statement did not operate, because there had been a prior breach of the obligation to prepare a valid statement (see at [73]) 
+The Court of Appeal rejected that argument, saying (at [74]-[75]): "There is something of an internal inconsistency in that reasoning process.
+Implicit in it is that a review under clause 5.4 is only available in the case of a properly calculated and accurate Completion Statement where there might be some insignificant area of dispute between the parties. By so confining the concept of "Completion Statement" very little if anything is left for the
+Valuer to review. ...
+
+It seems to me that the obvious and natural meaning of clauses 5.3 and 5.4is that when a document which purports to be a Completion Statement and which is in the form required for a Completion Statement, is served by the appellant, clause 5.3(a) is complied with. If agreement cannot be reached between the parties as to column 2 of the document, the review provisions in clause 5.4 can be utilised by the parties." 
+A similar construction is appropriate to be given to the Deed. So long as a document purporting to be a Draft Completion Statement has been produced, and which is in the required form, any questions of compliance with the requirements of the Deed are to be dealt with by Ernst & Young and, if necessary, the clause 9.6 dispute resolution procedure. It was not open to
+Australian Unity to terminate the process because it considers that the document produced by Calliden is non-compliant.
+ iii) In any event, and as Calliden has contended, there is absolutely nothing in the Deed that required Calliden to incorporate blindly into the Draft
+Completion Statement the valuation produced by Ms Harrex. The very premise of
+AU's argument that Calliden was not entitled to "go behind" Ms Harrex's valuation is thus misconceived.
+
+There is nothing in the Deed (either express or to be implied) that precludes Calliden from questioning, amending or altering the valuation produced by AUGIL's actuary. Nor is there anything in the Deed that requires
+Calliden to use AUGIL's actuary's report to produce the Draft Completion
+Statement.
+
+The fact that the Deed contemplates that AUGIL's actuary will prepare the valuation does not mean that only that actuary may prepare the valuation, or that only that valuation may be used to prepare the Draft Completion
+Statement. The focus of the Deed is not on the identity of the person performing the valuation, but on the method by which the valuation is to be prepared.
+
+Consequently, Schedules 5 and 6 are best construed as statements identifying the principles in accordance with which the valuation is required to be prepared, and identifying the person whom it is assumed will prepare it.
+
+In the event that Ms. Harrex did not prepare the valuation, or did not prepare the valuation properly, there is nothing in the Deed that would prevent Calliden, in discharging its own obligation to "prepare" the Draft
+Completion Statement in accordance with the Accounting Principles, from adopting Ms. Harrex's valuation subject to amendments (or not adopting it at all).
+ In the result the finding is that AU breached of clause 9.2 of the Deed when it countermanded its instructions to Ernst & Young to perform the functions set out in clause 9.2. Clause 9.2 provided that both Calliden and AU "must procure" Ernst & Young to perform the functions set out in that clause, one of which was to determine whether Calliden's statement complied with the requirements of the Deed.
+ 
+Case two: breach by failing to issue proper instructions On the evidence I reject the proposition contended for by AU that it instructed Ms Harrex to comply with Schedules 5 and 6 in the preparation of her reports. The following are the relevant facts: a. Schedules 5 and 6 were first provided to Ms Harrex four hours before she delivered the June 2007 Valuation, on 27 July 2007 (CB4/1755.205).
+ b. Even then, Ms Harrex was not instructed to comply with those
+Schedules (Trans. 73 to 81).
+ c. In fact, the instructions given to Ms Harrex appeared to be positively inconsistent with the required instructions. On 28 June 2007, for example, Ms Harrex was instructed to "release as much as [she was] comfortable with", but was told that "given the circumstances it might be good to try and achieve that without changing method" (CB1373). This demonstrates that, not only was Ms Harrex not given the proper instructions, but was given inconsistent instructions.
+ d. It was also clear that, despite not receiving proper instructions, it was not the case that, having received the Schedules, Ms
+Harrex instructed herself to comply with them (Trans. 80/50-81/6).
+ AU's attempted answer to this part of the case is rejected for the following reasons: 
+First, AU says that it was open to Calliden to instruct Ms Harrex. In fact, it was not open to Calliden to do that: i. For one thing, Ms Harrex was firm in her evidence that Calliden was not her client, and that she could not properly speak with them. It is thus clear that she would not have accepted direction or instructions from them (see, e.g.,
+Trans. 97/29-32). The engagement letters issued by Ms Harrex were issued to
+AU, and not Calliden (CB3/1374; CB4/1636).
+ ii. For another, Ms Harrex was the approved actuary for AUGIL, and it was in her capacity as such that she was nominated under the Deed to prepare these valuations (see Schedule 6, clauses 3(a), (g), and 5). Prudential
+Standard GPS310 requires that the Approved Actuary report to the board, and provide advice to the insurer (see, e.g., para. 60, and clause 1 of Attachment
+A). The role is quintessentially one of close involvement with the insurer. It is not consistent with that role that the actuary receive instructions from third parties.
+ iii. Moreover, the Deed makes plain that Calliden was to have no role in the preparation of the two valuations. They are described as "deliverables" in
+Schedule 6, clause 3(a) and (g). The deliverables are to be prepared by Finity (i.e., Ms Harrex), and delivered to (inter alia) Calliden. In other words, the
+Deed assumed that those valuations would be "delivered", complete, to
+Calliden. It is thus clear that Calliden would have no idea as to the stage of preparation of those reports, nor what instructions had or hadn't been given.
+As Calliden has contended it simply cannot be suggested that, under the scheme of the Deed, Calliden had any role to play, let alone the opportunity to play a role, in giving instructions to Ms Harrex.
+
+Secondly, AU said that the failure to give the required instructions would have made no difference to the reports. That is to say, AU contended that the valuations complied with the requirements of the Schedules in any event. Again, that is not the case: i. Ms Harrex has now admitted that she did not (at least) use the same approach to the selection of assumptions (see Trans. 126/26-28).
+ ii. Ms Harrex also admitted that she did, at one time, perform a valuation that would have been in accordance with the Schedules, and it produced a higher valuation of the insurance liabilities (Trans.
+/18-139/35; 173/20-174-34).
+ The finding is that AU breached the requirement in the Deed to instruct Ms
+Harrex to prepare the valuations in accordance with the Schedules.
+ 
+Case three: the June 2007 and Completion Valuations did not comply with schedule 6, clause 5(a).
+ Calliden's case in relation to case three can be separated into three separate inquiries: a. First, was there a change in the approach to the selection of assumptions?; b. Secondly, was there a change in method?; c. Thirdly, if "yes" to either of the above questions, was the relevant change "clearly justified and fully explained"? 
+The evidence For the June 2006, and December 2006 Valuations Ms Harrex applied a standard ICD/BF analysis as described above.
+ At June 2006, while the Valuation Report asserts that Ms Harrex considered an alternative method, it is clear that she rejected it. None of the appendices provided any calculations for an alternative method (by contrast with the position at June 2007). Further, her January 2007 memorandum confirmed that the alternative method had been considered and rejected at June .
+ By the time she came to December 2006, Ms Harrex did perform an alternative analysis in which she separated out the small and large claims, and analysed them differently (an ICD analysis for the small claims, and a "numbers times size" approach for the large claims) (Trans. 82/24-37; 85/31-33; see also
+CB3/907). She then chose not to adopt this method or its result. Further, she did not allow this alternative analysis to drive her approach to the selection of her BF analysis (Trans. 93/21-41). Rather, she adopted a cautious and conservative approach (Trans. 93/9-11). As such, while the alternative analysis indicated that up to $2.3 million could be released from reserves, she considered that (CB3/912): "releasing up to $1 million seems quite feasible, but would probably want to be a bit cautious about releasing any more than that." Indeed, she did not give evidence that the relatively minor lowering of the
+BG factors which occurred in December 2006 was even influenced by the alternative analysis which she had rejected.
+ Insofar as the question of reinsurance recoveries was concerned, Ms
+Harrex's approach was consistent with the first approach described earlier.
+That is to say, at June 2006 she had regard (although did not explicitly refer to this in her report) to what she considered to be a reasonable implied loss ratio for a reinsurer (which she thought was under 50%), and she had regard to the actual, historical, large claim experience in the portfolio. She thus said (CB1/319): "At this review, we have decreased the reinsurance recovery percentage from 15% to 10% (and so a net to gross factor of 90%) of the IBNR/IBNER reserve in respect of accident half years post June 2002. This increase is consistent with the experience of AUGIL for claims above the attachment point ($200,000) of the excess of loss program, where the proportion of costs in excess of the XOL attachments is relatively modest." In other words, she relied on two factors in selecting her reinsurance net to gross factor: the large claims experience (which had indicated relatively low reinsurance recoveries), and an assessment of implied loss ratios for reinsurers (which she thought should be under 50% (Trans. 89/18-22)).
+ At December 2006, Ms Harrex simply maintained the 90:10 growth to net ratio.
+ When it came to the preparation of the June 2007 Valuation, however, Ms
+Harrex took a very different approach.
+ On 1 June 2007, when Ms Harrex only had information from the company's IBNR model, she anticipated a release of approximately $1 million. This is what she told Geoff Atkins. She confirmed that the company's IBNR model gave her information concerning claims and estimates, as well as the IBNR itself. In the result she was in a good position to form realistic preliminary views of the likely release at this stage.
+ Next, she performed two different analyses: her BF model and the PPCI plus large analysis. This can be seen in the first draft of the powerpoint presentation she intended to present to AU on 28 June 2007 (CB3/1336). In that powerpoint presentation, one sees that: a. On the BF basis that had been used for the December 2006 Valuation, favourable experience meant that an additional $1.5 million would be released (CB3/1340).
+ b. She did not suggest that there was any reason to consider revising downwards the initial loss ratios used for the BF analysis.
+ c. On the PPCI plus large analysis, she assumed 5 large claims per year, with an average size of $450,000 (CB3/1343).
+ d. She compared the BF results with the PPCI plus large results, and concluded that the new basis would result in the release of an additional $3.343 million (CB3/1345).
+ Before she presented the powerpoint to AU on 28 June 2007, however, she made some changes to it (CB3/1355). In particular: a. She reconstructed the December 2006 Valuation BF basis, to show that more "could have been" released then (an additional $1.5 million), and that on that basis $2 million could be released now (CB3/1360).
+ b. She then set out her alternative PPCI plus large analysis (CB3/1361-1364).
+ c. She then compared the two (CB3/1365) which showed that: i. The gross ultimate cost on the new BF construct basis was lower than the gross ultimate cost on her PPCI plus large approach; ii. The net ultimate cost on the new BF construct basis was higher than the net ultimate cost on her PPCI plus large approach.
+ On 28 June 2007 she met with various AU executives (Messrs Bellairs,
+Pappas and Walliser), and was told to "release as much as [you] are comfortable with but given circumstances it might be good to try and achieve that without changing method" (CB3/1373).
+ That was plainly an instruction accepted by Ms Harrex and not, as AU has suggested, merely a comment. As a result she pushed herself to the limit, and accepted that the circumstances of the impending sale (an irrelevant consideration (see Trans. 121/48-50)) was a relevant consideration. This instruction ought to have been rejected by her, but events indicate that it was not.
+ The consequence of her accepting that instruction was that she closed her mind to any question of critically assessing the assumptions she had made for the purposes of her PPCI plus large analysis, and failed to have the various different methods "converse" with one another. Rather, she allowed the PPCI plus large result to dictate the assumptions that she would make for the purposes of the BF method.
+ On 5 July 2007 she made a further attempt to refine her BF construct (CB3/1412). In that memo she observed that she was trying to "move the BF basis towards the 'numbers times size' approach". On this attempt she: a. Increased the initial loss ratio for the BF analysis slightly (to 43% for all periods), so that the difference between the gross result on the constructed basis and the PPCI plus large approach would not be so great; and b. Increased the assumed proportion that would be recovered from reinsurers from 10% to 20%.
+ In relation to the first of those changes, it was the case that 43% was lower than the projected loss ratios for the last three periods (see Fry's second report, Table 1). As the plaintiffs have contended, this matter is of great significance. It is the BF factor applied to the most recent periods which has the greatest financial impact on the result (because they contain the greatest IBNR component) (Trans. 231/11-22). Yet here was Ms Harrex for the 3 most recent periods ignoring what the experience of the company, as reflected in the ICD model, was telling her in respect of projected loss ratio. To be placing a BF factor of 43% on recent periods where the projected loss ratio was 48% was not only to deny the experience and the information being provided by the ICD analysis, but also represented a complete departure from the cautious and conservative approach earlier to an approach of "release as much I possibly can". Mr Fry confirmed that it was important, particularly with these more recent years, to take into account the evidence that was pointing in both directions. While it might be one thing to say that the loss ratios for the earlier years were now settling down to a reasonably consistent figure just below the 43%, to ignore the evidence pointing in the opposite direction would be quite wrong: Trans. 232/23-48; 235/41-236/3.
+ In relation to the second of those changes, Ms Harrex had no rational basis for making that change (other than the attempt to get her final result to approximate the PPCI plus large result): a. In the 2006 Valuations, Ms Harrex had regard to the actual experience of the portfolio in relation to reinsurance recoveries. Had she done that analysis again, it would have revealed that historical reinsurance recoveries might be about 14% (Trans. 311/14-16).
+ b. Insofar as she was relying on the reasonableness of the implied loss ratio for reinsurers, in previous years she had considered that a ratio of under 50% was reasonable. This year, she regarded a ratio of 62.5% as being reasonable. She did not have any reasonable evidence to support that change (Trans. 312/28-39).
+ c. The net to gross factor is taken directly from the assumptions made in the PPCI plus large analysis regarding likely reinsurance recoveries.
+In this case, the fact that Ms Harrex assumed an average claim size of $450,000 (rather than the historical experience of the portfolio, which was $350,000) meant that the estimate of reinsurance recoveries was significantly increased. This was then blindly applied to the BF analysis, in order to make the final result "work".
+ On Friday 13 July 2007, Ms Harrex observed to a colleague that the amount of the release that she was proposing to recommend was "almost $5 mill less than they are holding and it's starting to get embarrassing" (CB3/1577).
+ On 21 July 2007 Ms Harrex sent the draft of the June 2007 Valuation to her colleague, Colin Brigstock (CB4/1664). Mr Brigstock made numerous amendments to the draft report, many of which had the effect of disguising the role of the alternative PPCI plus large analysis, making it seem as if the large release was simply due to favourable experience being reflected in the BF model, and concealing the fact that the previous cautious and conservative approach had been abandoned. For example: a. For example, Mr Brigstock deleted the following (CB4/1691): "The emerging experience is such that even if no changes were made to the valuation basis, we would expect to release approximately $2 million from the valuation result.
+ 
+At this valuation we have critically examined the valuation basis adopted and made a number of substantial changes." b. Mr Brigstock also deleted the following (CB4/1691): "These changes have been supported by alternative analysis of the portfolio, where we have examined separately the cost of claims to $200,000 and the cost of claims in excess of this amount. This review suggested that releases of up to $4 million could be supported based on recent experience." 
+In deleting that passage he wrote: "Don't like - begs the question why not $4m." c. He suggested that the section containing those comments be replaced by a more "direct" statement (CB4/1691), as follows (CB4/1696): "Our valuation has released $ million, on account of a number of elements: favourable ICD development in 2006/07 more mature years showing lower than expected loss rations -&gt; reduction in adopted loss ratios for more recent years (see figure 5); higher than previously adopted level of r/i recoveries." It can thus be seen that Mr Brigstock's amendments presented the changes in assumptions as driven purely by improved experience, and as having been made on grounds traditionally relied upon for selecting BF assumptions. His amendments completely concealed the fact that those assumptions had been selected purely in order to achieve a result that approximated the result of another method.
+ The finding is that these matters demonstrate that the June 2007 Valuation was prepared solely with a view to achieving the result obtained by the PPCI plus large analysis, in order that AU's instruction that as much be released as Ms Harrex was comfortable with could be satisfied.
+ 
+Returning to Calliden's case three.
+ 
+There was a change in approach to the selection of assumptions Ms Harrex, in cross-examination, accepted that she had adopted a different approach to the selection of assumptions for the purposes of the 2007
+Valuations than she had for the purposes of the 2006 Valuations. In particular, she accepted that: a. her approach was significantly less cautious (Trans. 117/9-10); b. she had retrospectively reconstructed the BF ratios at December to reverse engineer the result she would have got had she then switched to the large claim/small claim method (Trans. 125/6-100; c. selected assumptions for the purposes of the BF method in June that gave her a result as close as possible to the PPCI plus large method (Trans. 125/16-19); d. allowed the PPCI plus large result to drive the selection of her
+BF assumptions (Trans. 126/18-20; 131/1-3); e. she had not done this in June 2005, June 2006 or December 2006 (Trans. 126/22-24); f. in selecting her reinsurance recoveries assumption for the purposes of the BF method, she had manipulated the assumption to get as close as she could to the big re-insurance recoveries indicated by the PPCI plus large approach (Trans. 129/41-44); g. she had no material available to her that would justify the significant increase in the loss ratio for reinsurers implied by the actuary's assumption as to reinsurance recoveries (Trans. 133/10-17); h. the sole matter justifying her selection of that assumption was her attempt to reverse-engineer the result of the PPCI plus large approach (Trans. 133/5-9); i. she considered that with the assumptions she had selected she had pushed the BF method to the limits of credibility (Trans. 137/44-45); j. she considered that she had manipulated the assumptions of the BF model to try and achieve the results of the PPCI plus large method (Trans.
+/47-49); k. it would have been cautious and conservative to release $1.5 m (Trans. 104/40-42); and l. she had changed her approach to the selection of assumptions (Trans. 126/26-28).
+ Although the respective submissions differed in relation to what the Court could glean from the evidence of the other actuaries, it seems to me that the experts are ultimately seen to agree that Ms Harrex changed her approach to the selection of assumptions.
+ Mr Fry was always of that opinion (see first report at 3.2.1.4, 3.2.1.5, .2.1.9, second report pages 1-5; and joint report Question 3). Mr Heath did not originally hold that opinion, but, on the basis of the assumptions that were put to him, he changed his mind (Trans. 281/4-8). Moreover, Mr Heath said that his observation of Ms Harrex's evidence meant that he was satisfied that it was appropriate for him to assume that "the whole of her work seems to have been directed to what changes she could make to BF assumptions to get a result as close as she could to the result indicated by the PPCI plus large method" (Trans. 305/36-45).
+ The finding is that Ms Harrex changed her approach to the selection of assumptions in the June 2007 and Completion Valuations.
+ 
+There was a change in method As the plaintiffs have contended a finding that there was a change in Ms
+Harrex's approach to the selection of assumptions, renders it strictly unnecessary for the Court to determine whether there was also a change in method. Nevertheless, it is appropriate that a decision be made on this aspect of the case.
+ The evidence establishes that Ms Harrex adopted a new method for the purposes of the June 2007 and Completion Valuations: a. The method was clearly a hybrid. It was not a faithful application of the BF method, in that the choice of assumptions was driven by matters completely irrelevant to an ordinary use of that method. Nor was it a faithful application of the PPCI plus large approach, in that the result that was ultimately produced only bore an approximate resemblance to the net result of the PPCI plus large approach. The gross result was too low, and the estimated reinsurance recoveries were too high. There was thus no integrity in the individual components revealed by the method. This is a real problem (see
+Trans. 317/12-19). It cannot, therefore, be said that it was an example of the
+PPCI plus large method.
+ b. There was no evidence that anyone had ever performed such an analysis before (Trans. 131/33-35; 285/13-29).
+ c. It is certainly not a recognised method.
+ Ultimately I accept that the method adopted by Ms Harrex can best be described as a method that purports to present a result achieved by one method (PPCI plus large) as a result in fact achieved by another method (BF). In the course of presenting the result, however, manipulations and distortions are required to be made, so as to allow the result to as nearly as possible approximate the result obtained by the first method.
+ Mr Fry considered that there had been a change in method. He described his view as follows (Trans. 201/47-202/6): "The 2007 Report, the June 2007 report, described the selection of assumptions for the BF method. The tables were presented in the same format as the 2006 report, the contents were the same as the 2006 report and reference to the alternative method, the PPCI plus large simply described it in one place as a reasonableness check, in another place as one of the methods used to select assumptions for the BF method. Now the points 1 to 43 [in Exhibit
+P6] and particularly the paragraphs I mentioned before [31 and 32], cast that quite differently as the PPCI plus large method was used to derive the result and then there was a reverse engineering, if you like, or reconstruction to produce the results using the BF method." Mr Fry then confirmed that he did not consider that a BF method had in fact been used in 2007 (Trans. 202/8-11).
+ Mr Fry was not shaken in his views on this question.
+ I accept that this is a very different method to the standard ICD/BF method used by Ms Harrex in the 2006 Valuations. As the plaintiffs have contended this provides an independent basis upon which to find that the June and Completion Valuations did not comply with Schedule 6, clause 5(a).
+ 
+Were the changes clearly justified and fully explained? In my view this question requires to be answered in the negative.
+ As Calliden has contended, in relation to the "fully explained" requirement, it is sufficient to note that, given that Ms Harrex did not, until cross-examination, accept that she had changed any aspect of her approach, it is unsurprising that she did not fully explain in her report why she felt those changes were clearly justified  In any event, as the finding is that none of the changes were clearly justified, it would never have been possible to satisfactorily explain them: a. Once Ms Harrex accepted the wrong instruction given to her by AU (i.e., to release as much as she was comfortable with), she could never have turned her mind to the question of whether complying with that instruction was clearly justified in the context of Schedule 6, clause 5(a). Ms Harrex was thus incapable of forming a view on the "clearly justified" question, and plainly did not do so.
+ b. Mr Fry said that the changes were not clearly justified (see, e.g., joint report, Question 5).
+ c. Ms Harrex herself accepted that she did not need to move to the new basis, or release a larger amount, in order to discharge her professional duties (Trans. 108/25-30).
+ d. Mr Heath did not express an opinion on the topic, because he had not reconsidered his views in light of Ms Harrex's admissions (Trans.
+/16-22).
+ Importantly the Court accepts that it is not enough to demonstrate that a change was "clearly justified" to show that it was "reasonably open". Here, on no view could such a change be justified. As Calliden has contended, window dressing, manipulation and reverse engineering are not sanctioned by actuarial standards (or the law generally). Further Ms Harrex allowed herself to be pushed to the very edge of her "comfort" zone. She recognised she could, properly, have come to a much higher reserve and she in fact did this, on the standard of Schedule 6 Clause 5(a) although her work in that regard had been destroyed.
+ How, one might ask, could there ever be a clear justification for adopting a method, or an approach to the selection of assumptions that was, at best, non-genuine? 
+Conclusion In the result June 2007 and Completion Valuations did not comply with
+Schedule 6, clause 5. It thus follows that those valuations were not complying valuations under the Deed in the A Hudson sense.
+ 
+Case four: The June 2007 and Completion Valuations did not comply with schedule 5, clause 3.13.
+ For many of the same reasons as have been set out above the further finding is that that the June 2007 and the Completion Valuations were not prepared on a basis that was "broadly consistent" with prior periods, nor "in accordance with professional standards".
+ 
+Broadly Consistent Mr Heath's opinion appears to be that as long as an "actuarial model" is used to prepare different valuations, then they will be prepared on a "broadly consistent" basis. For the reasons given above, the clause must have more meaning than that.
+ Even accepting that interpretation, however, it is clear that the "method" used by Ms Harrex (dressing up the results of one method as having been derived by another method) is not an "actuarial model". It is a sham, or a construct. No actuary giving evidence had ever seen such a model before (Trans. 131/33-35; 285/13-29).
+ The preferred construction to be given to "broadly consistent" is that it requires that the methods that are used be "similar". Mr Fry's evidence was that these methods were not "similar", and he gave cogent reasons in support of that view, namely: a. The PPCI plus large approach looks at small and large claims separately, whereas the ICD/BF method looks at a portfolio as a whole; b. The PPCI plus large approach conducts a different analysis on the different segments of the portfolio, whereas the ICD/BF approach is applied to the portfolio as a whole; c. Reinsurance recoveries under the PPCI plus large approach are estimated in relation to certain categories of claims only, and assumptions are made as to the level of future recoveries. Under the ICD/BF model, however, reinsurance recoveries are estimated as a percentage of the portfolio as a whole, and the assumptions made for the purposes of the PPCI plus large method are irrelevant.
+ In this case, the method adopted by Ms Harrex did not produce a gross result, or an estimate of reinsurance recoveries, that were individually sound. Rather, her method only produced a net result that approximated the net result of the PPCI plus large method (see the memorandum of 5 July 2007,
+CB3/1412). The fact that the method did not produce individual components with integrity shows that it is not a broadly similar method or approach to those previously adopted.
+ Furthermore, the following factors indicate that Ms Harrex's new approach was not broadly consistent with her previous approach: a. She changed from a cautious and conservative approach, to a significantly less cautious and conservative approach (Trans. 117/9-10).
+ b. She changed from an approach to the selection of assumptions unconstrained by any attempt to achieve a result derived from another method (Trans. 125/16-19).
+ c. She accepted a direction to release as much in reserves as she was comfortable with (CB3/1373), when no such direction had ever been given or accepted before.
+ d. She took into account an irrelevant consideration (namely the proposed sale of the insurer) when no such consideration would ever have previously been regarded as relevant (Trans. 121/48-50).
+ e. She gave significant weight to another valuation method, which was heavily dependent on assumptions that had never previously been required to be made, about which there was limited experience from which to draw, and concerning matters that had never previously been given any weight.
+ The finding is that the June 2007 and Completion Valuations were not prepared on a basis broadly consistent with the 2006 Valuations.
+ 
+Inconsistent with Professional Standards The relevant professional standard cross-examined upon was Professional
+Standard 300, which is Exhibit P2 in the proceedings.
+ [At the end of the hearing Prudential Standard GPS 210 without objection became exhibit P 5] Mr Heath said that there was nothing in the standard that sanctioned the approach taken by Ms Harrex (Trans. 284/22-26), even if he was not prepared to accept that she had contravened it.
+ Mr Fry said that it was a "very difficult" question, and that the report was "getting close to the edge of being unprofessional" (Trans. 203/25-35). He observed that the report "is less than forthcoming about how influential the
+PPCI plus large approach was to the selection of the final answer" (Trans.
+/36-38).
+ Despite the hesitation of the experts to in relation to this "difficult question", the finding is that that Ms Harrex's June 2007 Valuation does not comply with that standard in the following respects: a. Clause 15 sets out the steps in accordance with which a valuation is to be prepared. Steps (iv), (v), and (vi) indicate that the valuation model is to be selected first, then the assumptions, and then the calculation is performed. In this case, Ms Harrex selected one model (PPCI plus large), used it to obtain a result, then reverse engineered a BF analysis. This is contrary to the structure and overall intention of clause 15.
+ b. Clause 29 stipulates that it is the responsibility of the actuary to select the most appropriate valuation model. In this case, Ms Harrex allowed herself to be dictated to be her client in relation to the model used to present the results. That is to say, she determined that she wanted to use the result from the PPCI plus large analysis, but given that her client instructed her "not to change method", she reverse engineered a BF analysis.
+ c. Clause 30 requires the actuary to select assumption having regard to the valuation model and the analysis of the experience. In this case, Ms
+Harrex selected her BF assumptions in order to replicate a result achieved under a different method.
+ d. Clause 53 provides that the actuary's report must state the purpose of the report and the terms of reference given. The finding is that the instruction given to Ms Harrex to release as much as possible, but not to change method, required disclosure under this clause. Additionally this clause required Ms Harrex to identify the extent to which her report did not comply with Professional Standard 300, and the reasons why.
+ e. Clause 54 provides that the report should deal with the valuation model and key assumptions, and any changes in the method and key assumptions since the last report. This report did not reveal the change in method, nor the different approach taken to the selection of assumptions. Those matters were required to be disclosed under the rule.
+ f. Clause 56 requires that the assumptions and methods should be stated clearly and their derivation explained. The report should contain sufficient detail regarding data and methodology that an informed reader could check the reasonableness of the results. Nor was this requirement satisfied here. The true method and approach to the selection of assumptions was concealed, not stated clearly. Nor was there sufficient detail to enable other actuaries (including the experts called in this case) to check how Ms Harrex had arrived at her result, and confirm its reasonableness.
+ On the evidence Ms Harrex's June 2007 Valuation does not comply with, at least, these provisions of the professional standard.
+ 
+Parameters of the approach taken by the defendants Mr Braham endeavoured to establish that Ms Harrex in fact struck a reasonable central estimate in June 2007. His approach followed two central routes: a. The first seeking to sustain the proposition that her central estimate clearly reflected her genuinely held view of the correct central estimate [as is made plain in the reasons on the evidence this proposition is rejected].
+ b. The second by suggesting that neither of the other actuaries who gave evidence cost any doubt on Ms Harrex's opinion that the central estimate she arrived at was a reasonable central estimate [as is also made plain in the reasons, on the evidence this proposition is rejected].
+ However as the reasons establish, Ms Harrex herself accepted that she did not need to move to the new basis, or to release a larger amount in order to discharge her professional duties.
+ The reasons treat with the evidence given by the other actuaries and in particular with what was said to be a very difficult question in respect of which the experts were clearly hesitant. This being the question of whether or not [as in the opinion of Mr Heath] although there was nothing in the standard that sanctioned the approach taken by Ms Harrex, he was prepared to accept that she had contravened it. He was not prepared to so accept.
+ For his [part
+Mr](http://www.austlii.edu.au/au/legis/nsw/consolact/ea199580/index.html#p1000r)
+Fry said that it was a "very difficult" question, and that the report was "getting close to the edge of being unprofessional" (Trans. 203/25-35). He observed that the report "is less than forthcoming about how influential the
+PPCI plus large approach was to the selection of the final answer" (Trans.
+/36-38).
+ It is important to recall that in essence the experts called do not purport to arrive at their own valuations of the insurance liabilities of
+AUGIL as at 30 June 2007. Rather they were commenting on Ms Harrex's compliance with the Deed (assuming Calliden's construction of the Deed to be a correct one].
+ And certainly as the reasons given make clear Mr Fry and nor Mr Atkins nor the Ernst & Young peer review was able to undo the damage to her credit.
+ Ultimately it is left to the Court to determine on the evidence whether
+Ms Harrex's opinion that the central estimate she arrived at was a reasonable central estimate in the somewhat extraordinary unusual circumstances.
+ As the reasons make clear that question is determined in the negative.
+ 
+Witnesses It is convenient to make some comments in relation to the various witnesses who gave (or did not give) evidence in this case.
+ 
+Ms Gillian Harrex The demeanour Ms Harrex in the witness box was unimpressive. On a number of occasions there were lengthy pauses when a difficult question was put to her. She was clearly troubled by many of the questions put to her. In my view she was not particularly forthcoming throughout her period in the witness box and on a number of occasions only made admissions when no other alternative was open to her.
+ Calliden first raised its concern that the June 2007 was not prepared in accordance with the Deed on 15 August 2007 (CB4/1921). Ms Harrex was made aware of these concerns on 16 August 2007 (CB4/1926). She immediately wrote to
+Colin Brigstock to arrange to discuss the matter with him "to make sure we 'have our ducks in a row' so to speak" (CB4/1939).
+ Calliden then wrote directly to Ms Harrex on 10 September 2007 seeking to understand the extent to which her 2007 Valuations complied with the Deed (CB5/2079). Again, her first reaction was to write to Colin Brigstock, saying that she "needed to discuss" the letter (CB5/2081).
+ She drafted a reply, and showed it to Mr Bruce Watson, the senior actuary at Finity. Mr Watson had not had any involvement in the matter, but nevertheless suggested that Ms Harrex change the letter to say that at the time she had told Mr Atkins that she expected a release of approximately $1 million she had "not received any data since 31 December" (CB5/2160). That statement was false, Ms Harrex knew it to be false, but she included it in any event (Trans. 182/8-18).
+ The final version of her response to Calliden, dated 14 September 2007 (CB5/2221), also contained the following false account (CB5/2222): "The same valuation methodology was used as at previous valuations - namely a Bornheutter-Ferguson (BF) method for more recent years and an ICD for older years. On this point, in Geoff's file note of our conversation on 1 June it states that an ICD and an Average Claim Size approach was being used. In fact, the Average Claim Size approach, together with considering the separation of large and small claims, was being used to review the valuation result. Given the quantum of the changes, we believed that it was appropriate to test the extent of the changes by way of other valuation methods. For this reason we investigated a number of other approaches, to provide some level of comfort for the final valuation result." [emphasis added] That statement presented a false account of the way in which Ms Harrex prepared the 2007 Valuations. It is false in at least the following respects: a. It was not an ICD/BF method that was used. At the very least, it was not the same ICD/BF method that had been used in previous valuations. Rather, it was a PPCI plus large approach that was used to derive an ultimate result, with an ICD/BF method then being manipulated to replicate that ultimate net result as nearly as possible.
+ b. The PPCI plus large approach (which Ms Harrex calls the "Average
+Claim Size approach, together with considering the separation of large and small claims") was not used to "test the extent of the changes" or to "provide some level of comfort" for the final result. Rather, that method drove the entire process. The ultimate result was determined using that method, and the desire to approximate that method drove the selection of assumptions for the
+ICD/BF method.
+ Ms Harrex then persisted in her false account during these proceedings.
+She swore two affidavits, and in neither of them did she acknowledge the process she had actually undertaken, nor the fact that that process did not conform to the requirements of the Deed. In her affidavit of 17 July 2009, for example, she again stated that, for the June 2007 Valuation, she used the PPCI plus large approach only to "assess the reasonableness" of her BF assumptions (at [54(b)]). She claimed that she selected her BF assumptions by looking at the loss ratio implied by the ICD method, and "checked it against the PPCI and numbers times size of claims analysis" (at [57]). She claimed that her approach to the estimation of likely reinsurance recoveries was the same as in her previous reports (at [60]). All of these statements she has now admitted to be false.
+ I accept that Ms Harrex was only driven (reluctantly) to acknowledge the truth in a searching cross-examination.  Ultimately, Ms Harrex was forced to admit that much of her story was false. To the extent that she would not admit an ultimate proposition that she had acted improperly, her evidence is rejected.
+ 
+Mr Colin Brigstock Mr Brigstock was the internal peer reviewer of Ms Harrex's June 2007
+Valuation (Trans. 75/28-30).
+ Despite his heavy involvement in the preparation of the 2007 Valuations,
+Mr Brigstock has not given evidence in these proceedings.
+ It is clear from the evidence that Mr Brigstock: a. knew in January 2007 that Ms Harrex had performed an alternative analysis on the Commercial Liability portfolio which suggested that much larger releases could be made than were being suggested by the ICD/BF analysis. He knew that she had, however, adopted a "cautious" approach, and had not allowed that alternative analysis to affect her 2006 Valuations (CB3/907).
+ b. received by email a draft copy of the powerpoint presentation that Ms Harrex intended to present to AU on 28 June 2007 (CB3/1335). In that email Ms Harrex told Mr Brigstock that she thought that the size of the release suggested by the alternative PPCI plus large approach ($4 million) "could be very tricky" for AU.
+ c. knew of AU's instruction to Ms Harrex that she "release as much as [she is] comfortable with but given the circumstances it might be good to try and achieve that without changing method" (CB3/1373).
+ d. knew, having received Ms Harrex's memorandum of 5 July 2007 (CB3/1412), that Ms Harrex was attempting to "move" her BF basis "towards" the result of her alternative analysis. That memorandum also stated, and so Mr
+Brigstock must have known, that the BF basis could only be made to produce a result approximating the PPCI plus large approach by producing a gross liability result that was too low, and using assumed reinsurance recoveries that were too high. He knew that the ultimate result was only achieved by selecting assumptions that were starting to "test the grounds of credibility".
+ e. received a draft of the June 2007 Valuation for his review and comment (CB4/1664). As discussed above, many of his comments had the effect of disguising the role of the alternative PPCI plus large analysis, making it seem as if the large release was simply due to favourable experience being reflected in the BF model, and concealing the fact that the previous cautious and conservative approach had been abandoned.
+ f. knew of the contents of Schedules 5 and 6 of the Deed, having discussed them with Ms Harrex (Trans. 76/19-34).
+ g. was involved in preparing Ms Harrex's "story" after Calliden had raised its concern. Ms Harrex spoke to Mr Brigstock to make sure that they had their "ducks in a row" (CB4/1939), and when she received Calliden's letter of September 2007 (CB5/1950) she wrote to Mr Brigstock saying "we need to discuss these!" (CB5/2081).
+ h. signed off on Ms Harrex's letter to Calliden of 14 September 2007 (CB5/2221), which contained her false account of the way in which she had performed the 2007 Valuations (see CB5/2162).
+ It can thus be seen that Mr Brigstock was intimately involved in the preparation of the 2007 Valuations, knew of the limitations under which they were required to be prepared, and sought actively to portray those valuations as complying with the Deed when he must have known that they did not.
+ It is appropriate to infer that Mr Brigstock's evidence would not assist
+AU's case (Jones versus Dunkel).
+ 
+Mr Martin Fry Mr Fry was an impressive expert witness.
+ He readily made concessions where appropriate, and always gave the impression that he was open to new assumptions or points of view. He demonstrated significant independence.
+ Mr Fry also demonstrated a much greater familiarity with relevant underlying documents. For example, in his cross-examination he was able to refer to Ms Harrex's memorandum of 5 July 2007 as relevant to his opinion on a particular topic (see Trans. 221/43-222/10).
+ This familiarity with the factual complexities of the case means that he was able to provide ready, informed, opinions in relation to the case.  At his opinions are accepted as based on a careful consideration of all relevant material.
+ 
+Mr David Heath Mr Heath candidly acknowledged that various of the opinions he had expressed in his reports were altered, or needed to be reconsidered, in light of Ms Harrex's evidence.
+ Mr Heath did not display the familiarity of Mr Fry with the detailed documentary evidence in this case. As Calliden has contended, that's meant that he was unable to offer opinions when new matters were put to him as easily as Mr Fry, and it appeared as a result that he was less willing to make concessions.
+ It was apparent that Mr Heath was reluctant to depart too readily from his original assessment of Ms Harrex's work, but ultimately did so in significant respects (i.e. there was a change in approach to selection of assumptions and he was no longer able to say he had formed a view of clear justification). To the extent that he adhered to his original position (which in the end is limited to whether there was a change in Method and the - largely construction question - of what "broad consistency requires"), Mr Fry is accepted as having been to have been the more impressive witness on the strictly expert aspect of the questions.
+ 
+The so-called reserved issue During the hearing Calliden pursued a contention that three officers of the defendant were involved in the breach of contract: i. The first being Mr Greg Bellairs, Finance Manager of AU; ii. The second being Mr Jim Pappas, Manager Technical Services AU; iii. The third being Mr Robert Walliser Operations Manager AU.
+ The plaintiff's contention announced in its opening was that it would seek to prove that there was a reason why they did not give Ms Harrex the relevant instructions. The alleged reason as to why they did not give her the instructions was these persons feared that: i. if they did so she would produce a report which did not sanction a $4 million release, ii. they further feared that they would not be able to increase the purchase price by $3 million, iii. and finally they feared that they would not be able to achieve bonuses." [T33: 1 - 14] The proposition was put in the following terms: "What's happened is they consider that they've got Ms Harrex locked into a valuation which will authorise the four million dollars release, that will give an increase in the purchase price of about three million dollars, and of that three million dollars, one million dollars is going to go in bonuses to the individuals who brought about the release. The last thing those people are going to do is comply with their contractual obligation and give Ms Harrex the instruction she ought to have been given." [T33: 29 - 35] 
+The evidence given by Mr Bellairs Mr Bellairs was responsible for providing to Ms Harrex Schedules 5 and 6 of the Deed (which contained the instructions according to which Ms Harrex was to prepare her valuations). Mr Bellairs did not do so until such time as Ms
+Harrex had all but completed the June 2007 Valuation: i. Mr Bellairs received a copy of Schedules 5 and 6 of the Deed immediately before the Deed was executed on 6 July 2007 (Trans. 388/41-43).
+ ii. For the purposes of performing his job in relation to the completion of the transaction, Mr Bellairs needed to understand and read the Schedules (Trans. 389/15-17; 389/42-46; 391/10-12).
+ iii. Mr Bellairs accepted that it was "critically important" that
+Schedules 5 and 6 be provided to Ms Harrex very shortly after the execution of the Deed (Trans. 392/24-27).
+ iv. Soon after he received the Schedules, Mr Bellairs forwarded them on to
+Mr Lockett (Trans. 388/49-389/1).
+ v. On 18 July 2007 Mr Bellairs sent a copy of the Schedules to Messrs
+McNeill, McCoy and Grummitt (an AU employee, external consultant to AU, and
+Ernst & Young accountant respectively) (Trans. 395/12-20).
+ vii. On 23 July 2007 Mr Bellairs sent a copy of the Schedules to Mr Dring, the partner at Ernst & Young who was to perform the audit of the completion statement of NTA under clause 9 of the Deed (Trans. 395/29-32).
+ viii. Mr Bellairs only provided the Schedules to Ms Harrex, however, on 27
+July 2007 (CB1755.205; Trans. 392/33-35).
+ ix. Mr Bellairs agreed that there was no proper reason why he would not have provided the Schedules to Ms Harrex before 27 July 2007 (Trans.
+/41-44), and it was possibly incumbent upon him to do so (Trans.
+/18-25).
+ The evidence of Mr Bellairs confirms that AU failed to give to Ms Harrex the instructions required by the Deed.
+ I accept that the evidence given by Mr Bellairs went the following distance: i. Mr Bellairs understood that the purchase price for the transaction had been struck by reference to AUGIL's NTA (Trans. 372/1-3).
+ ii. Mr Bellairs understood by 6 July 2007 that, following completion, there was to be a process of reconciliation whereby the purchase price would move up or down depending on whether AUGIL's NTA as at completion was higher or lower than the estimate by reference to which the initial purchase price had been struck (Trans. 373/22-25).
+ iii. Mr Bellairs was present on a telephone call between Mr Atkins and Ms
+Harrex on 1 June 2007 (Trans. 379/27-36). During that call Ms Harrex told Mr
+Atkins that the commercial liability portfolio was "running much better than expected" and that "indications for further releases ($1 million) at June 07 if experience continues" were expected (CB3/1241).
+ iv. It was likely that Mr Bellairs was aware that, as at 1 June 2007, Ms
+Harrex was considering a further release of about $1 million (Trans.
+/31-33).
+ v. On 28 June 2007 Mr Bellairs attended a meeting with Ms Harrex and others at which Ms Harrex presented a powerpoint presentation (CB1355). Mr
+Bellairs: a. understood from that presentation that if Ms Harrex continued to use the same method and did not change basis a release of about $1.4 million was expected (Trans. 384/8-33); b. understood that although Ms Harrex had chosen not to release an additional $1.5 million in her December 2006 Valuation that she could have released, she was now considering releasing that amount (Trans. 384/35-39); c. did not recall, but did not deny, that he learned from the powerpoint presentation that there was a new valuation method that was being proposed that would release in excess of $4 million (Trans. 385/5-44); d. would have understood that a decision had to be made as to whether to adopt the new basis to release the larger amount (Trans. 385/46-48).
+ vi. At the 28 June 2007 meeting, Ms Harrex was told to release "as much as she was comfortable with", but that, "given the circumstances" it might be better to "try and achieve that without changing method" (CB3/1373; Trans.
+/26-30).
+ vii. Mr Bellairs recognised that a release of $4 million instead of $1 million was a material change in terms of the size of this transaction (Trans.
+/27-30).
+ viii. Mr Bellairs recognised that such an increase in the size of the release would have been a highly material fact for Calliden (Trans.
+/50-387/3).
+ So much may be accepted as generally having either been established in the course of Mr Bellairs examination or as constituting appropriate inferences flowing from that evidence.
+ However I do not accept that Calliden has proved its further contentions seeking to suggest some impropriety in relation to such interests as Mr
+Bellairs had in terms of bonuses should the transaction proceed.
+ There is a plethora of authority in support of the proposition that the
+Court is bound to see that a case pursuing allegations of this type are clearly proved: cf Neat Holdings Pty Ltd versus Karajan Holdings Pty Ltd <case>; [(1992) 67 ALJR 170.] The gravity of such allegations has been said to be such that whereas [section (1)](http://www.austlii.edu.au/au/legis/nsw/consolact/ea199580/s140.html) of the [Evidence Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ea199580/) stipulates a single standard of proof for all civil cases, namely the balance of probabilities, [Section (2)](http://www.austlii.edu.au/au/legis/nsw/consolact/ea199580/s140.html) preserves the doctrine in Briginshaw versus Briginshaw <case>; [(1938) 60 CLR 336] at 361-362; Pedler versus Richardson (unreported, Supreme Court of NSW, 16 October 1997, Young J) at 10-11. See also McLelland CJ in Eq in
+Watson versus Foxman [(1995) 49 NSWLR 315], 319.
+ Allegations such as those here sought to be made fell far short of what is required bearing in mind the gravity of the matters alleged.
+ 
+The evidence of Mr Pappas Insofar as Mr Pappas was concerned, his evidence supported that of Ms
+Harrex (CB1373; Trans. 115/26-30) that she was given an instruction at the 28
+June 2007 meeting to release as much as she was comfortable with, and to do so without changing method (Trans. 463/5-10).
+ During the course of his evidence it became clear that Mr Pappas was not aware that any movement in AUGIL's NTA would affect the purchase price, and did not have anything more than a very general understanding of the contents of Schedules 5 and 6 (Trans. 463/12-466/49).
+ No allegations were pursued against Mr Pappas in the circumstances.
+ 
+Mr Walliser In the same way Calliden withdrew its allegations against Mr Walliser.
+ 
+Returning to the broader picture Overall, AU has not given satisfactory, explanation in these proceedings for why it gave Ms Harrex an instruction to release as much as she was comfortable with, and not to change method, and why it did not provide Ms
+Harrex with copies of the Schedules (or otherwise instruct her in accordance with the Deed). That represents a significant lacuna in AU's case.
+ 
+Relief Effectively Calliden has established an entitlement to declaratory relief in respect of which it has nominated 6 declarations in paragraph 47 of its further amended summons. The last of those declarations is inappropriate as in my view the fact that Ms Harrex's valuations did not comply with the provisions of the Deed, leaves the Court with no competing valuation which could substitute for the valuation required by the Deed. It is important to keep in mind that the Court has relevantly been engaged in an exercise of construction and enforcement of a contract, and is concerned neither with determining actuarial valuations itself, nor with exercising a judicial discretion as to how the entitlements of the parties ought to be established.
+ In the circumstances the Court will grant an opportunity to Calliden to indicate which of the declaratory claims sought in paragraph 47 [1 - 5] in its claims to relief are pressed.
+ I accept that the appropriate further order is to remit the matter to
+Ernst & Young for further consideration. The parties will be given an opportunity to address as to whether or not that further consideration should be by Ms Harrex, and if so as to the reasons for that course, and if not, as to what the alternatives may be.
+ The parties will be given an opportunity to address on costs and to attempt to consult with one another in relation to final relief.
+ 
+Rulings on objections During the hearing the parties sensibly prepared schedules identifying which objections were pressed and which objections were not pressed.
+ Shortly after the conclusion of the hearing, the defendant's objections to the tender bundle were forwarded to the Court as an updated document reflecting the defendant's objections.
+ It is unnecessary to refer to the materials which had been removed from the court book by consent, in which respect of course, no ruling was needed.
+ Treating with page numbers being the third column in the defendants objections note: 
+As to volume 3: i. The objection to pages 1259-1260 was not pressed.
+ ii. The objection to pages 1393-1399 was the subject of an agreement that the document be admitted into evidence subject to a limiting order: the document is an e-mail chain and is only relevant to the extent that it shows a communication to Tony Connon (the final e-mail in the chain) and the internal
+Calliden communications are to be disregarded.
+
+As to volume 4: i. The document 1653 -1920 is admitted into evidence subject to the limiting order noted at transcript 249; ii. The document page at 1660 is allowed; iii. Each of the documents objected to in relation to pages 1714, -1871, 1872-1874, 1875-1882, 1885-1891 are allowed; iv. Each of the documents at page 1907 of volume 4 of the Court book, and running up to and including page 1920 are admitted subject to a limiting order under [section ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s136.html) of the [Evidence
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/), limiting the evidence to exclude the proposition that the documents evidence; v. Pages 1921-1925, 1926-1938, 1945, 2388-2393 are allowed subject to the limiting orders made on 25 March appearing at transcript 250 : -8.
+ *
+ 
+LAST UPDATED:  April 2010 * * * 

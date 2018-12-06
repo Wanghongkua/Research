@@ -1,0 +1,54 @@
+
+
+Idoport Pty Ltd and Anor versus National Australia Bank Limited and 8 Ors;
+Idoport Pty Ltd and Market Holdings Pty Ltd versus Donald Robert Argus; Idoport Pty
+Ltd "JMG" versus National Australia Bank Limited [22] [2001] NSWSC 434 (22 May )
+
+Last Updated: 19 June 2002 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: Idoport Pty Ltd & Anor versus National Australia Bank Limited & 8
+Ors ; Idoport Pty Ltd & Market Holdings Pty Ltd versus Donald Robert Argus;
+Idoport Pty Ltd "JMG" versus National Australia Bank Limited <case>  
+CURRENT JURISDICTION:  
+FILE NUMBER(S): 50113/98  /99  /00  
+HEARING DATE{S): 22/05/01  
+JUDGMENT DATE: 22/05/2001  
+PARTIES: 
+Idoport Pty Ltd (Plaintiff) 
+Market Holdings Pty Ltd (Plaintiff) 
+National Australia Bank Limited (Defendant) 
+Donald Robert Argus (Defendant)  
+JUDGMENT OF: Einstein J  
+LOWER COURT JURISDICTION: Not Applicable  
+LOWER COURT FILE NUMBER(S): Not Applicable  
+LOWER COURT JUDICIAL OFFICER: Not Applicable  
+COUNSEL: 
+JJ Garnsey QC, R Alkadamani (Plaintiffs) 
+J Halley (Defendants)  
+SOLICITORS: 
+Withnell Hetherington (Plaintiffs) 
+Freehills (Defendants)  
+CATCHWORDS: 
+Evidence 
+Admissibility 
+Form Transparency of reasoning processes  
+ACTS CITED:  
+DECISION: 
+Sections of the statement objected to allowed into evidence.  
+JUDGMENT:  
+THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION - COMMERCIAL LIST  
+EINSTEIN J  
+Tuesday, 22 May 2001 ex tempore 
+Revised 25 May 2001  /98 IDOPORT PTY LIMITED & ANOR versus NATIONAL AUSTRALIA BANK LIMITED & 8 ORS  /99 IDOPORT PTY LIMITED & ANOR versus DONALD ROBERT ARGUS  /00 IDOPORT PTY LIMITED ("JMG") versus NATIONAL AUSTRALIA BANK LIMITED  
+JUDGMENT - On further objections to Mr Martin's statement of 26 April 2001  (re Enhancements)  In the judgment delivered on the challenge to expertise of Mr Martin <case>, the court's rulings with respect to Mr Martin's expertise and by way of dealing with objections identified by the defendants to sections of Mr
+Martin's relevant statements were set out.  Subsequent to that judgment, Mr Martin has prepared a number of further statements following leave to prepare such statements being granted to the plaintiffs. In relation to those statements, a number of further objections pressed by the defendants have been dealt with yesterday and this morning. The occasion for this short judgment, concerns Mr Martin's statement of 26 April described as Statement "relating to Enhancement Report dated 10 July ".  This statement generally seeks to cover those sections of the previous judgment as further examined the functionality comparison issue [paragraphs -108]. It is unnecessary to now repeat what was said in those paragraphs of judgment. There are a number of objections taken to the 26 April 2001 statement. It is, however, practicable, possible and efficient, as it seems to me, to deal with those objections as a matter of principle since they generally raise the same type of issue. Mr Halley, of counsel, who addressed on behalf of the defendants, exposed the issue which he has raised during argument on 22 May 2001 [real-time transcript pages 9346-9351].  Although preserving, for the purpose of a possible appeal, their objection to the court's holdings in the earlier judgment in terms of the functionality comparison issue, Mr Halley explained that the essential burden of the subject objections went to notions of bare assertion/lack of transparency of reasoning processes. He submitted that the defendants' position generally was that to the extent that Mr Martin seeks to give evidence that irrespective of time and effort, one could add functionality to a particular project to enable it to undertake or perform the functionality of another project, as a matter of logic, it was difficult to contest any such opinion. The problem which the defendants, as Mr Halley explained, have with the form of the paragraphs in Mr
+Martin's latest statement which are objected to is that, by reason of the high level or relatively high level at which the opinions are expressed, there is said to be no attempt to quantify the effort involved in the additional functionality exercise and no attempt to identify precisely what was involved.
+Generally, so Mr Halley pointed out, Mr Martin suggests, either directly or by inference, that the amount of effort necessary for the enhancement of functionality was marginal or only involved fairly minor aspects.  Mr Halley submitted that in a sense, the task that Mr Martin has undertaken in the statement is a very broad and difficult task because, in substance, he purports to give evidence that he is familiar with the AUSMAQ System, that he has been shown certain documents relating to the subject Bank services and he then seeks to give evidence as to whether or not "what AUSMAQ was capable of doing" could be added to, to enable it to have the functionality of the Bank services. Mr Halley's submission was that the court required to be able to understand from a practical perspective from Mr Martin's evidence, just how much work was involved and just how substantial would be the rewriting of portions of software.  Through Mr Halley, the defendants submit that they cannot discern with sufficient precision from Mr Martin's latest statement, what have been the parameters which he is looking at and what are the integers involved so as to be in a position to effectively cross-examine him on his statement.  As I understood Mr Halley, he in fact agreed in the course of submission that the question was one of degree. Either the cross-examiner would have to cross-examine to elicit the parameters and integers said to remain undisclosed or the witness might be directed as a matter of transparency of reasoning processes and form and to make the paragraphs admissible, to expand upon the existing statement by specifying these matters in sufficient degree and precision.  Clearly, and again as I understood Mr Halley to concede, the court is not now in a position on anything remotely such as a line by line analysis to travel through every source line of code and to work out precisely what degree of effort of that nature would be necessary for the AUSMAQ software to be enhanced to achieve any, and if so what particular further functionality.  Having given careful consideration to Mr Halley's submissions, and this essentially being a question of form/transparency of reasoning process set of objections, I have come to the conclusion that subject to one matter, Mr
+Martin has sufficiently attended to the defects identified in the judgment of April 2001 to permit the admission into evidence of the whole of the portions of the above described statement as are objected to.  The reservation concerns Mr Martin's continued failure to identify with precision what were the documents which he inspected relevant to certain of the Bank projects. As I have understood counsel, Mr Martin is currently undertaking that task. Subject to the completion of that task and communication of the result to the defendants and to the court, I am disposed to allow the sections of the statement which have been objected into evidence and to do so as section 79 expert evidence opinions.  
+I certify that paragraphs 1 - 10  are a true copy of the reasons  for judgment herein of the 
+Hon. Justice Einstein  given on 22 May 2001  and revised on 25 May 2001  
+Susan Piggott 
+Associate  May 2001  
+LAST UPDATED: 11/06/2002 * * * 

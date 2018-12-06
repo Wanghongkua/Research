@@ -1,0 +1,845 @@
+
+
+Cahill versus Kenna; Cahill versus Ferrier [2014] NSWSC 1763 (10 December 2014) 
+Last Updated: 12 December 2014 |
+
+Supreme Court 
+New South Wales  
+Case Title: 
+Cahill versus Kenna; Cahill versus Ferrier  
+Medium Neutral Citation: <case>  
+Hearing Date(s): /11/2014, 11/11/2014, 12/11/2014, 13/11/2014 and 14/11/2014  
+Decision Date: December 2014  
+Jurisdiction: 
+Equity Division - Commercial List  
+Before: 
+McDougall J  
+Decision: 
+In each matter: judgment for defendants with costs.  
+Catchwords: 
+EVIDENCE - expert evidence - whether to reject whole of evidence of expert witness where prepared on a basis inconsistent with the impugned valuation - whether evidence was unfairly prejudicial - where excluding evidence would effectively determine the issue of substance to which that evidence was directed  
+EVIDENCE - expert evidence - whether to reject evidence of valuations prepared for non-litigation purposes - where valuations were business records - whether r 31.23 only applies to reports prepared by an "expert witness" - whether court should "otherwise order" - whether evidence would be unfairly prejudicial - where signatories did not acknowledge obligations under schedule of the [Uniform Civil Procedure Rules ](http://www.austlii.edu.au/au/legis/nsw/consolreg/ucpr2005305/) - where signatories not to be called as witnesses - where signatories not involved in preparation of joint expert reports  
+EVIDENCE - expert evidence - expert valuation of land - whether one expert's evidence to be preferred - where one expert witness briefed with substantially more information - where other expert prepared a "blind" valuation - where expert town planning advice not available to original valuer - where expert town planning advice nevertheless relied upon by one expert witness - where expert town planning advice speculative  
+NEGLIGENCE - duty of care - whether mediator and valuer owed a common law duty of care to plaintiffs - whether plaintiffs were vulnerable - where valuer did not know the purpose for which the valuation was to be used - whether reliance is sufficient to establish vulnerability - whether plaintiffs could have protected their own interests - whether valuation negligent - whether valued at highest and best use of the site - whether negligent in valuing property without expert town planning advice - whether no valuer acting prudently and reasonably could arrive at the value in the valuation report - whether mediator negligent in instructions to valuer - whether mediator owed parties in dispute a duty of care in instructing valuer - whether mediator breached duty of care - whether mediator acting in capacity as mediator or separate contract entered into for mediator to instruct valuer - whether mediator protected from liability as acting in capacity as mediator  
+MISLEADING AND DECEPTIVE CONDUCT - expert valuation of property - whether value attributed to property was misleading or deceptive - whether direct or indirect reliance on valuation - whether the valuation causative of loss  
+JUDGMENT
+HIS HONOUR: For some years from 1992, the first plaintiff, Mr Peter Cahill, and Mr Peter Bega carried out a number of property developments in joint venture through their related companies. The relationship between Messrs Cahill and Bega began to sour in late 2005, and broke down irretrievably in 2006. It became necessary for them to unwind their commercial relationship, which in turn involved separating out, and allocating one way or the other, their interests in various joint venture projects that were then current. 
+As part of this process, Messrs Cahill and Bega and their associated companies (from here on, I will not refer to the associated companies unless it is necessary to do so) entered into two agreements, each dated 12 April 2007. One was described as a "Heads of Agreement" (HOA). Despite its name, it was intended to be, and was, of immediate legal effect. The other agreement was called a "Mediation Agreement". The nominated "Mediator", Mr Ian Ferrier, was a party to that agreement. He was not a party to the HOA. 
+Mr Ferrier was engaged, pursuant to a clause of the HOA, to instruct valuers, LandMark White NSW Pty Limited (now in liquidation) (LMW) to value one of the joint venture properties, located at Narrabeen. Mr Greg Kenna of LMW performed the valuation which is in dispute. 
+From those basic facts, two sets of proceedings arise. In one, Mr Cahill and his company Duell Estates Pty Ltd (Duell) sue LMW and Mr Kenna for alleged negligence in the preparation of the valuation; alternatively, for misleading or deceptive conduct in stating the value of the Narrabeen property at the figure they derived. In the other proceedings, Mr Cahill and Duell sue Mr Ferrier for alleged breach of contract, or negligence, in relation to the instructions that he gave to LMW. 
+The two proceedings have been heard together. In general (although with some exceptions) evidence in one has been taken also to be evidence in the other. The exceptions have not proved troublesome. 
+The parties agreed, for the most part, on the real issues in dispute. Before I set out those issues, there is one further matter to be mentioned. 
+LMW valued the whole of the Narrabeen property at $21,500,000. Mr Cahill contended that the stated amount greatly undervalued the property, because one of the parcels, that LMW valued separately at $12,000,000, was worth far more than that. Mr Bega contended that the valuation was binding. The value of the Narrabeen property was one of the integers in a formula by which there would be calculated the amount of a "Swing Payment" to be made by Mr Bega to Mr Cahill, or vice versa. In substance and as events have transpired, the higher the value, the greater the payment to be made by Mr Bega to Mr Cahill. 
+There were further negotiations between Messrs Cahill and Bega, facilitated by Mr Ferrier as mediator. In the result, Messrs Cahill and Bega entered into a "Deed to Restate and Amend Heads of Agreement..." on 28 September 2007. In that deed (the amending deed), they agreed, among other things, that the value of the Narrabeen property should be fixed at a figure $2.5 million higher than the value ascribed to it by LMW. 
+The real issues in dispute 
+The parties produced a joint statement of issues. Where there are issues for which one or other party contended that the other or others did not accept as arising on the "pleadings", the joint statement says so. 
+I set out the issues as the parties have stated them:
+What were the terms of LMW's and Mr Kenna's retainer with Mr Ferrier?
+Did LMW and Mr Kenna execute their retainer according to its terms?
+Did LMW and Mr Kenna owe the plaintiffs a duty of care?
+What was the nature and scope of the duty of care taking into account the findings in relation to the retainer?
+Did LMW and Mr Kenna negligently: fail to value the property at its highest and best use? prepare the Valuation without expert town planning advice? prepare and take into account an irrelevant consideration, namely, their residual cashflow analysis? arrive at a value that no valuer acting prudently and reasonably could arrive at?
+Did LMW and Mr Kenna engage in misleading or deceptive conduct by representing in the Valuation that the "as is" site value, with existing DA consent assuming vacant possession inclusive of GST, was $12,000,000?
+What is the effect in law of the plaintiffs having entered into the further compromise?
+Did any breach of obligation by one or more defendants cause the plaintiffs loss?
+If so, what is the quantum of the plaintiffs' loss?
+Was the market value of the property as at 25 June 2007 ($20 million exclusive of GST)?
+Should any damages awarded to the plaintiffs be reduced because: of any contributory negligence of the plaintiffs? the plaintiffs failed to mitigate their loss?
+What, if any, effect does proportionate liability legislation have on any orders for damages which the Court may make against one or more of the defendants?
+If Mr Ferrier is entitled to rely upon the exclusion clause in cl 6 of the Mediation Agreement to excuse him from any liability in relation to the
+Valuation, were LMW and Mr Kenna derivatively entitled to rely upon that clause to protect them from liability? 
+LMW/Mr Kenna's further issues that are not agreed with the Plaintiffs
+Did the Valuation conform to the requirements of the Heads of Agreement?
+Did the Plaintiffs rely on the correctness of the Valuation in entering into the further compromise? 
+Agreed Issues as between the Plaintiffs and Mr Ferrier 
+Did Mr Ferrier act as an agent who was not a mediator, in retaining and instructing Landmark White?
+What did the Heads of Agreement require as between the disputants, the
+Cahill camp and the Bega camp, in relation to the valuation of the residential site?
+In that regard, what was Mr Ferrier obliged to do under the Mediation
+Agreement, or otherwise?
+Did Mr Ferrier owe to the Plaintiffs a duty to exercise care, skill and diligence in connection with the retainer and instruction of Landmark White?
+Did Mr Ferrier breach any duty found under issue 19 by: 
+Not providing the approved letter of instructions to Landmark White? 
+Not causing Landmark White to be provided with expert town planning advice as to the highest and best use of the property? 
+Instructing Landmark White to produce a valuation on information that was available as at 19 June 2007? 
+Instructing Landmark White to adopt the direct comparison valuation method based on the information referred to in (c)?
+Did Mr Ferrier breach a duty to follow the instructions of Messrs Cahill and Bega by not providing LMW with the LMW letter of instruction?
+Is action on any breach found under issue 20 or 21, barred by the [Limitation Act, ](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/) ?
+Did the Plaintiffs maintain to the Bega camp that the Landmark White
+Valuation did not conform to the Heads of Agreements, and thereafter participate in further mediation of that dispute before Mr Ferrier, and secure a different and better compromise?
+What is the pleaded loss and was it caused by any actionable breach by Mr
+Ferrier?
+Is the Plaintiffs' ability to claim any such loss against Mr Ferrier affected by clause 6 of the Mediation Agreement or their participation in the mediation or settlement with the Bega camp?
+What is the quantum of the Plaintiffs' recoverable loss, if any?
+Should any damages awarded against Mr Ferrier be reduced because: of any contributory negligence of the Plaintiffs; or the Plaintiffs failed to mitigate their loss? 
+The Plaintiffs further issue that is not agreed with Mr Ferrier 
+What was the market value of the property as at 25 June 2007? 
+Mr Ferrier's further issues that are not agreed with the Plaintiffs 
+Did the Landmark White Valuation apparently, and in fact, conform to the requirements of the Heads of Agreement?
+Did any breach found under issue 20 or 21 cause the Landmark White
+Valuation not to conform to the HoA?
+Were the Plaintiffs aware of the putative deficiencies in the Landmark
+White Valuation and their ability to have the Court declare it as not conforming to the HoA?
+Did the Plaintiffs rely on the correctness of the Landmark White
+Valuation in entering into the further compromise? 
+The witnesses in the case 
+The witnesses of fact were: 
+Mr Cahill; 
+Mr Kenna; 
+Mr Bill Fatouros, who had been a director of LMW at the relevant time, and who checked and counter-signed the valuation prepared by Mr Kenna; and 
+Mr Ferrier.
+There was no attack made on the credibility of any of those witnesses. In my view, each of them sought to tell the truth to the best of his ability. There was an obvious problem, in that the relevant events happened some six years or more before the affidavits were prepared, and more than seven years before the hearing. 
+To the extent that there are relevant differences in the testimony of the various witnesses, I deal with them on the basis that, in general, the difference is to be resolved by reference to contemporaneous documents and the probabilities, viewed objectively. 
+In addition, there was expert evidence from two valuers. One, Mr Terry Davis, had been retained for Mr Cahill and Duell. The other, Mr Peter Panopoulos, had been retained for LMW and Mr Kenna. 
+Messrs Davis and Panopoulos cooperated in the preparation of a joint report, which to some extent narrowed the areas of disagreement between them, and identified with precision those areas of disagreement and their reasons for taking the competing views that they did. They gave evidence in concurrent session, and that proved (as is mostly the case) to be a very helpful way of understanding the issues between them. 
+Objection to the whole of Mr Davis' evidence 
+Mr McCulloch of Senior Counsel, who appeared with Mr MF Newton of Counsel for LMW and Mr Kenna, took a threshold objection to the whole of Mr Davis' evidence. Mr Davis sought and received advice from a town planner as to the likely highest and best use of the Narrabeen land. By contrast, LMW had recommended that a town planner be engaged to provide it with the same advice. That recommendation was not accepted. Accordingly, it prepared its report without the benefit of such advice. 
+In essence, Mr McCulloch submitted, Mr Davis' reports had been prepared on a basis that was directly inconsistent with the instructions provided to LMW. There were other matters of fact on which Mr McCulloch relied, including that Mr Davis had had access to a quantity of material (including, of most significance, valuations prepared by another firm of valuers, Colliers International, in 2007) that had not been made available to LMW. I refer to some detail of the those matters at [98] and following below. 
+In those circumstances, Mr McCulloch submitted, the valuation evidence that Mr Davis would give, in accordance with his reports, was unfairly prejudicial. It had been prepared on a totally different basis to the valuation on which his clients were sued, and with the benefit of information that had been withheld from his clients. 
+I admitted the evidence of Mr Davis subject to the objection, on the basis that if I were to rule on the objection by excluding the evidence, it would effectively determine the issue of substance to which that evidence was directed: Dubbo Base Hospital versus Jones [[1979] 1 NSWLR 225.]
+In the result, and as I think ultimately Mr McCulloch accepted, the matters to which he referred were more relevant to weight than to admissibility as such. It may be accepted that taking the course I did prolonged the hearing (by the time of approximately three hours that was taken for the concurrent evidence session). However, in my view, it was preferable to take that time rather than to risk irremediable prejudice to Mr Cahill by rejecting the evidence of Mr Davis. 
+The Colliers valuations 
+When the HOA was made, Mr Cahill controlled a company known as Llerevni Pty Ltd. That company effectively had the right, pursuant to a complex suite of agreements including a put and call option, to acquire the land that was to be the subject of development at Narrabeen. Llerevni sought finance from Investec Bank (Australia) Limited to enable it to complete the purchase of the Narrabeen land and, in joint venture, its development. Investec instructed Colliers to prepare a valuation. Colliers prepared a valuation dated 8 January 2007. The report said that it had been prepared: ... for first mortgage security purposes and should not be relied on for any other purpose or by any person other than [Investec and another entity]...
+(emphasis in original) 
+On 14 May 2007, and again instructed by Investec, Colliers confirmed as current its valuation of 8 January 2007. The statement of purpose was relevantly unchanged. Each report valued the relevant parcel of land at $21,250,000, exclusive of GST. 
+Mr Cahill referred to the two Colliers valuations in his affidavit. He sought to tender them. Mr JAC Potts of Counsel (Mr Henry of Senior Counsel appeared with Mr Potts for Mr Cahill and Duell) submitted that the reports were admissible as business records of Collier. He confirmed that it was not intended to call the authors of the reports. 
+Mr McCulloch opposed the tender of the reports. 
+I rejected the tender of the reports. I said that I would give reasons. These are the reasons for that ruling. 
+UCPR r 31.23
+There is no doubt that the reports were business records of Colliers and, thus, that they were admissible, pursuant to [s 69](http://www.austlii.edu.au/au/legis/nsw/consolact/ea199580/s69.html) of the [Evidence Act 1995](http://www.austlii.edu.au/au/legis/nsw/consolact/ea199580/) , as an exception to the hearsay rule stated in [s 59](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s59.html) of the [Evidence Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/). Mr McCulloch did not contend otherwise. 
+The signatories to the Colliers reports had not acknowledged their obligations under Sch 7 to the UCPR (see r 31.23). That is hardly surprising, since the reports were not prepared for use in litigation. 
+Mr McCulloch submitted that each of the Colliers reports was an "expert's report" as defined in UCPR r 31.18. Accordingly, he submitted, unless the Court ordered otherwise, the reports were not admissible because their authors had not complied with the code of conduct set out in Sch 7 (r 31.23 (1),(3)). He submitted that the Court should not "otherwise order". 
+Mr Potts submitted that the exclusionary provision set out in r 31.23(3) was applicable only where the report had been prepared by an "expert witness" as defined in r 31.18. He submitted that the authors of the Colliers reports, although undoubtedly "experts" as defined in r 31.18, were not "expert witnesses". That followed, he submitted, because they had not been engaged or appointed for the purpose of providing a report for use as evidence in these proceedings, nor for the purpose of giving opinion evidence in these proceedings. 
+Mr McCulloch relied on my decision in Investmentsource Corp Pty Ltd versus Knox Street Apartments Pty Ltd  <case>, in particular on what I had said at [43], as to the particular point raised by Mr Potts. For convenience, I set that paragraph out: [43] UCPR r31.23(1) applies to "[a]n expert witness". However, the exclusionary provisions of r31.23(3) apply to "an expert's report". Thus, and quite deliberately, the Rules have been structured to ensure that expert reports that do not acknowledge Schedule 7, whether prepared by an expert engaged for the purpose of giving evidence in the proceedings or otherwise, should not be admitted unless the Court otherwise orders. Subrule (4) defines an equivalent position in relation to oral evidence from an expert.
+Mr Potts submitted that what I had said was inconsistent with the text of r 31.23. He submitted, in essence, that the kind of "expert's report" to which the subrule applied was a report prepared by an "expert witness". Thus, since the reports in question had not been prepared by expert witnesses as defined, the exclusionary rule had no operation. 
+Mr McCulloch noted that my reasons in Investmentsource had been analysed by Barrett J in Tim Barr Pty Ltd versus Narui Gold Coast Pty Ltd <case>; [(2009) 75 NSWLR 380], and that his Honour's construction of the rule was, as his Honour said at [15], "consistent with" mine. It is convenient to set out the reasons of Barrett J at [10] to [14]: [10] When the definition of "expert's report" is, as it were, injected into r .23(3), the rule reads: "Unless the court otherwise orders, a written statement by an expert (whether or not an expert witness in the proceedings concerned) that sets out the expert's opinion and the facts, and assumptions of fact, on which the opinion is based may not be admitted in evidence unless the written statement contains an acknowledgment by the expert witness by whom it was prepared that he or she has read the code of conduct and agrees to be bound by it." [11] The "unless" part of the rule (that is, the part laying down the condition that must be satisfied to remove the barrier to admissibility) is predicated on certain action by the "expert witness by whom it was prepared".
+But as the description of the report shows (by reference to the definition of "expert report") the person who prepared the report, while an "expert", as defined, may or may not be an "expert witness" as defined.
+ [12] On first reading, my inclination was to think that, if (as here) the person who prepared the report is an "expert" but not an "expert witness", the condition introduced by the word "unless" simply has no work to do and is inapplicable, with the result that the rule as a whole does not apply.
+ [13] On closer reading, I am persuaded that this is not correct. The condition introduced by the word "unless" requires that there be a Schedule 7 acknowledgement given by the "expert witness" by whom the report was prepared.
+It follows that if the report is an "expert's report" by reason of its having been prepared by an "expert" who is not an "expert witness", the condition cannot be satisfied. And if the condition is not satisfied because it cannot be satisfied, the consequence is that the exclusion effected by the words before "unless" operates unconditionally and the report is inadmissible.
+ [14] The true effect of the rule, as it thus appears to me, is that a report that is an "expert's report" because prepared by an "expert" who is an "expert witness" in the proceedings may not be admitted in evidence unless it contains a Schedule 7 acknowledgment by that "expert witness"; but a report that is an "expert's report" by reason of its having been prepared by an "expert" who is not an "expert witness" in the proceedings may not be admitted in evidence at all. In either case, however, the exclusion the rule otherwise effects may be overcome by a specific order of the court as contemplated by the opening words of the rule.
+I see no point in restating in different words what I said in Investmentsource or what Barrett J said in Tim Barr. Nor do I see any reason to depart from the construction that his Honour adopted, which as I have noted was consistent with the construction I adopted, of r 31.23 read in conjunction with the relevant definitions in r 31.18. 
+Accordingly, in my view, the Colliers reports were inadmissible unless the Court ordered otherwise. 
+Discretion: r 31.23; [Evidence
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s135.html)
+In my view, it was not appropriate for the Court to order otherwise. 
+I shall turn to the reasons for this conclusion in a moment. I should however note that Mr McCulloch relied also on [s 135](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s135.html) of the [Evidence Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/). He submitted that even if the reports were admissible, it would be unfairly prejudicial to admit them, as evidence of opinion of value, in circumstances where the makers had not subscribed to their obligations under Sch 7 to the UCPR and where they were not to be called as witnesses. 
+Were I of a different mind as to the application of r 31.23, I would in any event have rejected the reports in reliance on the discretion contained in [s 135.](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s135.html) Since the reasons for that conclusion overlap to a substantial extent the reasons why, in my view, it was inappropriate to order otherwise, I shall deal with both issues together. 
+Rule 31.23 forms part of a regime for dealing with expert evidence that is intended to ensure, so far as possible, that expert witnesses give honest and impartial evidence. That is why, among other things, Sch 7 to the UCPR emphasises the primacy of an expert witness' duty to the Court, and the obligation that expert witnesses have to work cooperatively with others. Those obligations are contained in cls 2 and 4: General duty to the court 
+An expert witness has an overriding duty to assist the court impartially on matters relevant to the expert witness's area of expertise.
+
+An expert witness's paramount duty is to the court and not to any party to the proceedings (including the person retaining the expert witness).
+
+An expert witness is not an advocate for a party.
+ ...
+ Duty to work co-operatively with other expert witnesses 
+An expert witness, when complying with any direction of the court to confer with another expert witness or to prepare a parties' expert's report with another expert witness in relation to any issue: must exercise his or her independent, professional judgment in relation to that issue, and must endeavour to reach agreement with the other expert witness on that issue, and must not act on any instruction or request to withhold or avoid agreement with the other expert witness.
+That is also why the usual order for hearing made in cases in the Commercial List and the Technology and Construction List (the present proceedings were entered in the former list, and the usual order was made) requires, among other things, that expert witnesses confer before the hearing and produce a joint report. See paras 1, 2 and 3: 
+Experts' Reports
+In any case in which there is expert evidence to be relied upon by the parties, the experts are to meet no later than 3 weeks before trial for the purpose of reaching agreement on as many issues as possible and producing: .1 a joint report and .2 any separate report(s) dealing with those matters that are unable to be agreed.
+The joint report and any separate report(s) are to be file and served no later than 5 working days before trial.
+In cases in which expert evidence is to be given concurrently, the experts are to meet no later than 3 weeks prior to trial for the purpose of producing: .1 a joint report .2 any separate report(s) dealing with those matters that are unable to be agreed and .3 a draft agenda for discussion of the contested issues in the concurrent evidence session at trial.
+A report prepared by a valuer for the purposes of a prospective mortgagee is not prepared under the stimulus of an independent and primary duty owed to someone other than the prospective mortgagee. It is not prepared on the basis that the opinions in it may be tested in conference with an opposing expert, and in cross-examination. 
+That is not to say that a valuer who prepares a report for a prospective mortgagee is likely to be less careful than an expert witness retained to give evidence in Court proceedings, who acknowledges his or her obligations under Sch 7. It is simply to point out what appears to me to be in principle at least a significant difference between the two exercises. 
+That leads to the next point. The authors of the Colliers valuations were not to be called. They had not engaged in a pre-trial conference with Mr Davis and Mr Panopoulos. They had not had their views tested in that process. Nor was it proposed that they should have their views tested in cross-examination (either in concurrent session or separately). 
+In consequence, the Court would be faced with a situation of attempting to assess the views of the authors of the Colliers valuations, including their methodology and their comparable sales evidence and analysis (and their residual cash flow analysis, to which I turn in a moment), without having the opportunity to hear the justifications for them. That is a matter of some significance, when one considers that: the Colliers valuations assigned a value to the property which, although reasonably in line with Mr Davis' valuation, was radically different to the valuation of Mr Panopoulos; there was at best an incomplete overlap between the comparable sales on which the Colliers valuers relied and the comparable sales on which Mr Davis and Mr Panopoulos relied; and the outcome of the residual cash flow analysis performed by the Colliers valuers was radically different to the results of similar analyses performed by both Mr Davis and Mr Panopoulos.
+The Colliers valuations were based on the residual cash flow analysis to which I have just referred. In the first report, Colliers said: 
+We consider the proposed use of the subject property to be its highest and best use. ...
+
+In assessing the Market Value of the subject property "As Is", we have utilised the residual land exercise based on a hypothetical development of the proposed scheme, on a traditional approach. We have then checked our assessment with the direct sales comparison approach on a rate per approved
+Prestige Apartment site and a rate per square metre of site area.
+That is consistent with Mr Panopoulos' evidence (in a section of his first report with which Mr Davis "generally agreed") to the effect that residual cash flow analysis is an appropriate method of valuation for prospective mortgagees. Mr Panopoulos said also (and again Mr Davis agreed) that the comparison method is more suited to clients such as Mr Ferrier. 
+The hypothetical development that Colliers modelled was a development for 48 three bedroom residential strata lots (apartments). Consent for that development had been given by the local council, Warringah Shire Council (the Council) in 2005. That consent (the 2005 consent) was current when LMW performed its valuation. Messrs Davis and Panopoulos assumed it to be (or to have been) current for the purposes of their retrospective valuations. To jump ahead for a moment: LMW and Mr Panopoulos performed their valuations on the basis that the development in accordance with the 2005 consent was all that could be carried out. However, as will be seen, Mr Davis took a different approach. 
+The Colliers methodology appears to assume that development in accordance with the 2005 consent represented the highest and best use of the land. Mr Kenna, Mr Davis and Mr Panopoulos all agreed that the development permitted by the 2005 consent did not represent the highest and best use of the property. That was so, they said, because the residual cash flow analysis that each of them carried out suggested an unacceptably low residual value for the land. Although the results of their analyses were somewhat different, the message was the same. The development which they modelled did not represent the highest and best use of the land. 
+The residual cash flow analysis set out in the Colliers valuation suggested that the residual land value was, rounded, $21,250,000. That result is radically different to the residual land values that each of the other valuers obtained. One of the reasons for that (it may be, the most significant reason) is that Colliers estimated development costs at $27,410,000, compared to the cost (in round figures) of $41 million assumed by the other valuers. 
+That assumed figure of $41 million came from a cost report (the Makin report) prepared by a firm of quantity surveyors, Tony Makin & Associates. Mr Makin's assessment of net construction costs was $32.5 million. He added an allowance for removal of asbestos (the necessity for which was not agreed) and allowances for professional fees and the like to get to a total construction cost of $37.2 million excluding GST or $40.9 million including GST. 
+The Makin report made no allowance for finance charges and the like. Mr Makin assessed a likely construction period of the order of 18 to 21 months. Messrs Kenna, Davis and Panopoulos properly included an allowance for finance costs in their residual cash flow analyses. 
+It is not clear whether the Colliers residual cash flow analysis includes an allowance for finance charges. Nor is it clear what (if any) allowance is assumed for professional fees and the like. The Colliers figure does not include any allowance for remediation of contamination. 
+It seems that the development the subject of the 2005 consent was intended to produce apartments of high quality that would command a premium price. The Makin report observed at para 21 that the cost per square metre of development was "a very high rate per m² by any standards" and that it would be possible to build "a modest quality high rise apartment building with a more rationalised floor plan" for approximately half the figure estimated by Mr Makin for the proposed development. 
+Further, Mr Makin commented that "[h]igh quality apartments normally have large rooms" whereas the proposed development "has small apartments with small rooms". That led Mr Makin to conclude at para 23 of his cost report that "[i]t would clearly be possible to build this number of apartments or this area of apartments for a significantly lower cost if" a different floor plan were adopted. 
+Taking all those matters into account, I think that one possible explanation for the significant difference between the residual cash flow analysis of the Colliers valuers on the one hand and all the other valuers on the other could be the differing assumptions as to construction costs. However, the Court is not in a position to rework the Colliers analysis to see whether, if the figures from the Makin report were fed into it, the outcome would be more in line with the analyses of the other valuers. That is a significant factor which in my view makes it difficult to use the Colliers reports (as Mr Henry wished to do) as some evidence of value, for the purpose of showing that LMW's valuation was so low that no reasonable valuer, properly instructed and acting with appropriate professional care and skill, could have derived it. 
+In short, in my view, the evidence does not permit any rational comparison to be made of the Colliers valuations on the one hand and the valuations of Mr Kenna, Mr Davis or Mr Panopoulos on the other. 
+I should note that the Colliers valuers used comparable sales as a check on their residual cash flow analysis valuation. Their analysis of what they thought were comparable sales suggested "a rate per equivalent unit site for the subject site in the range of $425,000 to $450,000 per proposed unit site". That is significantly different to Mr Davis' "per unit site" valuation. Mr Davis, after considering (among many others) the same four sales as Colliers had considered, and after considering what he considered to be less suitable sites that showed lower "per unit site" values, concluded, for the land in question, that "a reasonable market value... would equate to approximately $265,000 per unit site". 
+There is thus a very significant discrepancy between the "per unit site" value derived by Mr Davis and the "per unit site" value derived by Colliers. The Court cannot test the conclusions of the Colliers valuers based on their analysis of comparable sales. To my mind, the discrepancy is so substantial that, quite apart from the significant methodological difference to which I have referred, it is very difficult to accept the Colliers valuations as providing any real support for Mr Davis. 
+In all those circumstances, it seems to me, there are real questions as to the probative force of the Colliers valuations. There is no way that the Court can analyse and reconcile the opposed views of the Colliers valuers on the one hand and all the other valuers on the other, except (in the case of the residual cash flow analyses) by reference to the possible difference in assumed construction costs. 
+The key issue in dispute between Mr Cahill and LMW was the accuracy or otherwise of LMW's valuation. In my view, it would have been deeply unfair, or prejudicial, to LMW, to permit Mr Cahill to rely on untested and untestable evidence to corroborate Mr Davis' conclusion. In terms of [s 135](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s135.html) of the [Evidence Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/), it would have been "unfairly prejudicial" - in my view, drastically so - to permit Mr Cahill to rely on opinion evidence that had not been tested through the process of conference and joint report, and could not be tested through the process of cross-examination. 
+As I have said, those reasons to my mind justify declining to exercise the jurisdiction to order otherwise, under r 31.23(3). If necessary, they would lead also to the conclusion that the Court should exercise, by excluding the evidence, the discretion conferred by [s 135](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s135.html) of the [Evidence Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/). 
+The expert evidence
+Now that valuation issues have been introduced, it is convenient to continue with the same topic by considering and expressing conclusions on the expert valuation evidence. 
+The land that was valued 
+So far, I have not been specific about the parcel of land, the valuation of which is in dispute. 
+The land that Llerevni had under option comprised in substance three parcels. Overall, the land was bounded by Ocean Street to the east, Robertson Street to the south and Pittwater road to the west. To the north, the boundary was a "dogleg" with no street frontage. 
+When Llerevni entered into the agreements including the put and call options, the substantial improvements on the site overall comprised a hotel known as the Royal Antler Hotel. There were, I think, other improvements on the southern portion of the land, to the south of the hotel. 
+The proposal was to resubdivide the overall parcel. A two lot stratum development was to be carried out on the southern part of the land. The ground floor of that stratum development (lot 1) would comprise a hotel, or tavern, which would be used in place of the Royal Antler Hotel (which was scheduled for demolition). The upper stratum (lot 2) would comprise motel accommodation. That parcel of land (ie, lots 1 and 2) was bounded by Ocean Street to the east, Robertson Street to the south, Pittwater Road to the west and, to the north, the land that would be redeveloped for the construction of residential apartments. 
+The site for the residential apartments includes the residue of the Royal Antler site, known as "lot 3". Lot 3 was to be amalgamated, on the north, with land known as "lot A". 
+The valuation which is in dispute relates to lot 3 and lot A: that part of the overall parcel of land that was to be redeveloped for residential apartments. For convenience, I shall refer to this as "the apartment site". LMW valued the apartment site at $12,000,000, inclusive of GST. 
+The two stratum lots, 1 and 2, were also to be valued. However, nothing turns on those valuations. 
+The expert valuers' assessments 
+Each of the expert valuers was instructed to assess the market value of the freehold interest in the apartment land as at 25 June 2007 (the date of the LMW valuation). They agreed on the appropriate definition of "market value" (which was, if not identical to, then not substantially different from, the definition used by LMW). They agreed that their instructions to value the property "as is" required a valuation on the basis of its highest and best use. Again, the LMW valuation had proceeded on that basis. 
+Messrs Davis and Panopoulos agreed on the appropriate valuation methodology. Mr Davis called it "comparison sales analysis". Mr Panopoulos called it the "direct comparison method". In substance, as either name suggests, the methodology involves analysis of sales of land that the valuer thinks to be comparable, with a view to deducing a value for the land that is to be valued. 
+Although, in their reports, Messrs Davis and Panopoulos had relied on somewhat different comparable sales evidence, they were able to agree, in the joint report, on the seven most relevant comparable sales. 
+From those beginnings, the paths taken by Messrs Davis and Panopoulos diverged markedly. As I have indicated above, Mr Davis had been given the Colliers valuations. He had also been given valuations prepared prior to 25 June 2007 by another firm of valuers, Landsbury Valuations, for GST purposes, although I do not think much turns on the Landsbury material. Mr Davis had been given also a bundle of documents including a draft deed with AV Jennings Properties Limited. Those documents referred to an offer of $19 million, said to be non-binding, made for the site. 
+Thus, Mr Davis was in possession of a substantial amount of material, either expressing opinions as to value or otherwise capable of giving rise to an inference of value, that had not been given to LMW. 
+By contrast, Mr Panopoulos did not get any such material. In his first report he confirmed, to the solicitors instructing him, "that you have not provided me with any documents which refer to the value attributed to the Subject Property". As Mr McCulloch put it, Mr Panopoulos was asked to value the property "blind" and did so; Mr Davis was not, and did not. 
+There is a further matter of considerable significance. I have referred to that in passing at [16] above. When Mr Kenna started work on valuing the apartment site, he came to the view that the existing development consent, for 48 three bedroom units with associated car parking, did not represent its highest and best use.
+Mr Kenna performed a residual cash flow analysis. That analysis was based on a total development cost of almost $41 million. It suggested to him that the value to be attributed to the apartment site was $4,425,000. That, in his view, was clearly too low, and reflected the fact that the 2005 consent did not represent "the property's highest and best use" (the phrase is taken from his email to Mr Ferrier of 31 May 2007, which I set out in the next paragraph). 
+Accordingly, on 31 May 2007, Mr Kenna sent an email to Mr Ferrier. Omitting formal parts, that email reads: 
+As discussed earlier today.
+ ) The quantity surveyors report prepared by Tony Makin Associates has resulted in a total development cost of $40,895,995. The development costs associated with the current DA, In my opinion, suggests this proposal is not the property's highest and best use.
+ ) My enquiries with Warringah Council failed to determine the optimum development scenario of the site and as a property valuer it is beyond my realm of expertise to do so. Any such attempt would be highly speculative.
+ ) In order for me to derive the market value of the property I would require advice from an expert town planner or professional in this field as to what is the property's optimum potential is under the current zoning. Someone with extensive experience in the Warringah council area would be recommended.
+ ) Once an optimum scenario is determined, further professional advice on expected construction costs and time would be required.
+Mr Ferrier forwarded that email to Messrs Cahill and Bega, and sought their instructions. Mr Cahill supported the engagement of a town planner, and recommended Mr Geoff Goodyer. Mr Bega did not agree to the engagement of a town planner as requested by Mr Kenna. He insisted that Mr Kenna should do the job with the material he had available. 
+Accordingly, Mr Ferrier instructed Mr Kenna to proceed without town planning advice, and to use the direct comparison method. 
+Mr Davis said in his first report at para 3:
+I note that my valuation of the Site has been conditional upon receiving expert town planning advice, to which I refer later in this report. I note that no such advice is referred to in the Landmark Report. Notwithstanding that town planning advice does not appear to form part of Landmark's instructions, I note that I would not have accepted an instruction of the nature of Landmark's instruction in this instance without the benefit of expert town planning advice. I expand on the rationale of this opinion later in the report.
+Mr Goodyer was engaged to provide the town planning advice that Mr Davis requested. That advice suggested that the site could be developed to allow about 9,600 square metres of floor area (internal and external), compared with the approximately 8,252 square metres available under the 2005 consent. On that basis, Mr Goodyer suggested that the site could accommodate about 80 two bedroom units or 64 three bedroom units. 
+Ultimately, Mr Davis prepared his valuation on the basis of a "conjectural concept" (his words), that there would be about 75 units, comprising a mix of one, two and three bedroom units. I note at this point that there was no town planning advice which suggested that such a development would be approved, nor any architectural or other design showing how such a mix of units could be accommodated on the site. 
+By contrast, Mr Panopoulos did not have the benefit of town planning input. He was not given Mr Goodyer's report. 
+The valuations prepared by Mr Davis and Mr Panopoulos were widely divergent. Mr Davis valued the site at $20 million exclusive of GST. Mr Panopoulos valued it (relevantly) at $12,150,000 including GST.
+I prefer the evidence of Mr Panopoulos to that of Mr Davis. There are five broad reasons for coming to this conclusion: 
+Mr Davis did not perform the same task that LMW was instructed to perform and had performed. He was given information that was not available to LMW. By contrast, Mr Panopoulos' "blind" valuation methodology more effectively replicated, in approach, the task given to LMW. Mr Panopoulos' methodology is more appropriate than Mr Davis', in assessing the work done by LMW and Mr
+Kenna.
+
+Following on from the first reason, some of the material that Mr Davis had and LMW did not have was of key importance for Mr Davis' conclusion. I refer to the town planning advice given by Mr Goodyear as to the highest and best use of the apartment site. Mr Davis had the advantage of working on the basis of that material. It - in particular his conjectural concept based on it - was essential to his reasoning and conclusion.
+
+Further, although Mr Davis said (and I accept) that he sought consciously to exclude material indicating opinions or conclusions as to value, that had not been given to Mr Kenna, I think that it must have had some at least subconscious impact on Mr Davis' opinion.
+
+In my view, there are real difficulties in the way that Mr Davis used the advice given by Mr Goodyer; and there are problems within Mr Goodyer's advice itself.
+
+Quite apart from the divergences in methodology that I have outlined above, there were other differences between the methodology employed by Mr
+Davis and the methodology employed by Mr Panopoulos. In my view, Mr
+Panopoulos' methodology was more precise, and better equipped him to perform the fundamental task of comparing the apartment site to the comparable sales, so as to derive a value for the apartment site.
+I expand on those reasons below. Before doing so, it is necessary to say something about planning controls affecting the apartment site and the impact they had on the use of comparable sales. 
+Highest and best use, planning controls, FSR and ILAR
+At one point in his evidence, Mr Kenna appeared to suggest that the highest and best use for the land should be stated simply as use for residential apartments, and that how that highest and best use might be most satisfactorily exploited was a matter for detailed design. However, Mr Goodyer, the town planning expert, appeared to adopt a more precise concept of highest and best use: namely, the maximum development that could be permitted on the land consistent with relevant planning controls. Messrs Davis and Panopoulos worked on the basis of that more specific concept, and I should do likewise. 
+It was common ground that, at the valuation date: the relevant town planning instrument applicable to the apartment site was the Warringah Local Environmental Plan 2000 (WLEP); the WLEP did not impose density restrictions by reference to floor space ratios or minimum site area per dwelling; and instead, the "built form controls" related to matters of building height, setbacks, building envelope, landscaped area and car parking.
+It was common ground that the WLEP imposed height restrictions. For the apartment site, it was three storeys. For some of the comparable sales relied upon, it was two storeys. 
+Where planning instruments specify floor space ratios, or minimum site areas per dwelling, it is somewhat easier to use comparable sales evidence for the purpose of valuing a particular site. That is because, where there is a fixed floor space ratio (or minimum area), it is relatively easy to see what is the maximum possible built area that could be constructed on a particular site. The sale price can then be converted to a rate per square metre of allowable development, or a rate per dwelling. Assuming that the sites are otherwise comparable in terms of location, aspect, amenity and the like, the rate so derived may be applied, with analysis and where necessary adjustment, to the site to be valued. 
+Where there are no fixed floor space ratios or minimum areas per dwelling, that method of analysis is unavailable. 
+Accordingly, as everyone appeared to recognise, it was not an easy task to translate the sales evidence into a format that would enable it to be applied with some degree of utility to the task of valuing the apartment site. 
+Mr Panopoulos said that in his practice he used an analytical tool known as the "Internal Living Area Ratio", or ILAR. That, he said, was important because internal floor space was "the key driver of sales revenue". 
+Mr Davis criticised the ILAR, on the basis that it was a "calculation... which was in the nature of a due diligence exercise, free of the constraint of competitive bidding for the Land". 
+Mr Davis said that, to his knowledge, the ILAR was not a measuring device, or metric (my word, not his), used by developers. It turned out, however, that Mr Davis had had no direct experience of working with developers. Mr Panopoulos, who had had such experience, said that it was. I prefer the evidence of Mr Panopoulos on this point. 
+Further, to say that it is a "calculation... in the nature of a due diligence exercise" does not seem to me to be a criticism. One might think that a developer contemplating spending $12 million, or $20 million, on a parcel of land to be developed would want to undertake as much "due diligence" as possible before outlaying its (or its financier's) cash. 
+Nor do I think that "the constraint of competitive bidding" is a consideration of great relevance. Mr Panopoulos estimated that it could take 12 to 18 months to sell the apartment site (or the overall site). I do not think that Mr Davis disagreed with this, although he did say that, if one took too long to assess the site, there was always a risk that another developer might come in and buy it. Regardless, the sale of a large and extremely valuable parcel of land does not seem to me to be analogous to a Saturday auction sale of a residential property where (in the recent market, at least) there are frequently several purchasers each clamouring for the one property, and each apparently capable of buying it. 
+No comparison of like with like; extraneous material 
+Mr Davis said at para 88 of his first report that his instructions were to value the apartment site based on the instructions given to LMW. However, as is clear from the evidence overall for the reasons that follow, he did not do so. 
+In my view, the basis on which Mr Davis was instructed, the material with which he was instructed and, thus, the way that he carried out the valuation exercise makes it difficult to accept that the result produced by him can form the basis for a valid criticism of the work done by Mr Kenna. 
+Mr Davis knew, from the matters to which I refer in the following paragraphs, that the LMW valuation was the subject of the proceedings in which his advice was sought. Accordingly, and accepting as I do that Mr Davis sought to discharge his duties honestly and impartially, he knew that the LMW valuation was, as it were, "under attack". 
+The letter of instructions to Mr Davis was dated 30 August 2011. However, as became apparent in the course of cross-examination (I set out the relevant passage a little later in these reasons), Mr Davis had been first instructed well before then. Indeed, as the letter of instructions noted, there had been a conference with the instructing solicitor Mr Levitt and a Mr Paul Yap of Levitt Robinson, Mr Pritchard of Senior Counsel and Mr Davis on 19 August 2011. 
+The letter of instructions stated: 
+I confirm our request for you to provide a further valuation of the subject property, solely upon the instructions which Greg Kenna of LandMark
+White actually disclosed as having received in the Valuation Report. [Emphasis supplied.]
+The letter of instructions attached what was said to be a summary of LMW's instructions, prepared by Mr Levitt. However, the "summary" was far more than that. It included not only extracts from the instructions that were said to have been given to LMW (as they appeared from the valuation prepared by LMW) but also commentary on the work done. Further, the summary referred to a controversy as to the basis on which Mr Kenna had valued the property and to correspondence, expressly said to have been "without prejudice", dealing with that issue: (It is controversial whether Mr Kenna has valued the property on the basis of highest and best use or with its current DA or some hybrid of both). Just what "site value" on an "as is basis" means, in light of the requirement that "the valuation would be prepared in accordance with API Professional Manual
+Standards and Guidelines," is not clear.
+
+In correspondence written by DLA Phillips Fox for LandMark White, on 5
+September 2007, and sent to Freehills, acting for Mr Cahill ("without prejudice"), the following was written at paragraphs 25.10 "(by) its very nature, ... (the Valuation) ... was qualified to the extent that the valuation may not necessarily reflect the highest and best use of the property and as such, its optimum site value 'as is'". 
+The DLA Phillip Fox author continues: "Rather it does, in our opinion, highlight the fact that it is, by its very nature, that is, by its clearly stated qualified basis, totally inconsistent as a valuation upon which the parties could have ever intended would resolve any dispute". 
+This seems to be an overstatement of Kenna's position. The Valuation strives to "be all things for all men" rather than to state that the valuation did not purport to value the property according to its "highest and best use".
+In my view, it was inappropriate for the letter of instructions to attach what purported to be a summary of the instructions given to LMW but which in fact was in some respects an argumentative or polemic document. It was no doubt appropriate to give a dispassionate and even-handed summary of the instructions. The document that purported to summarise the instructions did not, in my view, answer that description. 
+The matters to which I have referred were the subject of cross-examination (T167.17-169.28): 
+MCCULLOUGH: Returning then to the question of when you were first instructed,
+I am now dealing with those matters I flagged earlier on your Honour relating to the objections I took earlier. You were first instructed in 2010. At the time you were first instructed you were informed that there was a potential dispute involving the valuation performed by Landmark White, is that correct? 
+WITNESS DAVIS: Yes.
+
+MCCULLOUGH: You were provided with a copy of the Landmark White valuation? 
+WITNESS DAVIS: Indeed.
+
+MCCULLOUGH: You read it? 
+WITNESS DAVIS: Yes.
+
+MCCULLOUGH: Were you informed that litigation was contemplated? 
+WITNESS DAVIS: I believe so, yes.
+
+MCCULLOUGH: You were informed, weren't you, that so far as Mr Cahill was concerned first the value derived was too low? 
+WITNESS DAVIS: That was his opinion.
+
+MCCULLOUGH: Yes, and that the wrong approach had been taken.
+
+WITNESS DAVIS: Yes, because the proposition was that the valuation was based on the existing DA.
+
+MCCULLOUGH: In addition, still dealing with the point of time in 2010, you were also provided with a valuation prepared by Colliers which had a date of January 2007, weren't you? 
+WITNESS DAVIS: Correct.
+
+MCCULLOUGH: You read that? 
+WITNESS DAVIS: Yes.
+
+MCCULLOUGH: It contained, did it, evidence of comparable sales? 
+WITNESS DAVIS: It did.
+
+MCCULLOUGH: Did you use some of those comparable sales in preparing your report? 
+WITNESS DAVIS: Some of them, yes.
+
+MCCULLOUGH: No doubt that saved you some work later on, is that a fair way of putting it? 
+WITNESS DAVIS: Well, it was useful to the extent that it did point to comparison sales, yes.
+
+MCCULLOUGH: You were also provided with some material from a firm called
+Landsbury Valuations dealing with a GST margin question? 
+WITNESS DAVIS: Yes.
+
+MCCULLOUGH: And you read that material? 
+WITNESS DAVIS: Yes.
+
+MCCULLOUGH: You were also provided with some material relating to a confidential offer for the land by AV Jennings? 
+WITNESS DAVIS: Yes.
+
+MCCULLOUGH: You read that material? 
+WITNESS DAVIS: Yes.
+
+MCCULLOUGH: You had a conference didn't you with Mr Paul Yap(?) of Mr Levitt's firm, and Mr David Pritchard of counsel senior counsel? 
+WITNESS DAVIS: Yes.
+
+MCCULLOUGH: And the purpose of that conference, as you understood it, was to discuss and settle your letter of instructions for the preparation of your report? 
+WITNESS DAVIS: That I don't remember.
+
+MCCULLOUGH: Do you remember being present at a conference to discuss the way in which the instructions to Landmark White should be reasonably interpreted? 
+WITNESS DAVIS: Yes, in fact my first task in this was to opine as to whether or not they had been reasonably interpreted.
+
+MCCULLOUGH: Do you agree that if you had been afforded the opportunity, the most accurate method by which to approach the valuation of this land as at for comparison purposes, that is to compare the valuation of Landmark
+White, was to perform what is known as a blind retrospective valuation? 
+WITNESS DAVIS: Yes, with a valuation like this I have to approach the matter fresh and put out of my mind any information that post dates the valuation, and put myself into the shoes of the valuer in effect.
+
+MCCULLOUGH: In the events that have happened, as I have taken you through them reasonably chronologically I hope, you were not afforded that opportunity because you had been given, and had read, a great deal of material a number of them expressing opinions by other valuers, relating to the subject land at about the time of the valuation, isn't that correct? 
+WITNESS DAVIS: Well, that's correct to the extent that, yes, I was given that material. To the extent that I had regard to it, and relied on it, no, I didn't rely at all on the Colliers valuation. And in terms of the Landmark
+White valuation I made my comments on it formally and in valuing it I looked at the matter fresh.
+This passage of evidence shows that Mr Davis had been instructed at some time in 2010, and had been told that there was a dispute involving LMW's valuation. He was told what Mr Cahill's complaints were, including that the value was too low. It seems that Mr Davis then prepared a draft valuation. That draft was not in evidence, nor was there evidence as to its purpose. It may have been prepared so that Mr Cahill could consider whether to commence proceedings. If that were the case, it is hard to see how Mr Davis could make the transition from being part of the "team" on which Mr Cahill relied for advice in relation to the proceedings to being an independent expert witness owing his primary duty to the Court. 
+Further, in my view, it was inappropriate to brief Mr Davis with the Colliers valuations. Again, accepting that he sought honestly and impartially to discharge his duties, and to put the Colliers valuations out of his mind, it is inconceivable that they could not have had any at least subconscious effect on his thought processes. 
+Again, and for exactly the same reason, I think it was inappropriate to brief Mr Davis with the Jennings material. That material told him that there had been a purchaser prepared to offer $19 million for the apartment site. The overwhelming probability is that this, too, had some at least subconscious effect on Mr Davis' thought processes. 
+I now turn to the town planning report that Mr Davis requested and was given (Mr Goodyer's report). As I have noted, Mr Kenna requested that he be given the assistance of a town planner. That assistance was refused. Mr Kenna was instructed to proceed with the material that was then available to him. That material included the 2005 consent and the Makin report, which costed the development the subject of that consent. 
+Mr Davis criticised Mr Kenna for proceeding in those circumstances. He said that he would have refused to accept instructions on that basis. No doubt, it would have been open to Mr Kenna to do this. But the alternative, which he pursued, was to record the omission in his report, and to record the alternative assumption, as to highest and best use, that he made. That assumption he summarised as follows: 
+In the absence of expert planning advice, I have based my assessment upon the foundation that an incoming purchaser is likely to achieve council approval for an alternate [sic] residential development yielding and equivalent 48x3 bedroom units. This purchaser would likely and appropriately alter the current design, so as to develop a more cost effective proposal to warrant a profitable outcome, thus reflecting the sites [sic] actual underlying value.
+Whether or not Mr Kenna was correct to proceed rather than to refuse to continue is not the point for present purposes. The point is that, he having chosen to proceed, he did so without the benefit of town planning advice. Mr Davis did have that benefit. It is clear from Mr Davis' first report that he regarded the town planning advice as being of key importance. It is, when one reads his reports and Mr Panopoulos' reports (and Mr Kenna's report) the key difference between them, and I think at least on the face of the reports the key driver of the disparate views as to value. 
+By contrast, although Mr Panopoulos was asked to perform a retrospective valuation, he did so without any of the material given to Mr Davis to which I have referred above. He did not have the LMW valuation. He did not have the Colliers valuations. He did not have the Jennings material. Nor did he have any town planning advice. 
+Thus, the position adopted by Mr Panopoulos was directly comparable to the position with which Mr Kenna was faced. They were required to value the same parcel of land. They worked on the basis of the same consent - the 2005 consent. They had the Makin report (which estimated overall construction costs, for the development the subject of the 2005 consent, at close to $41 million). They had available to them the same comparable sales evidence, although, in respect of their choice of appropriate comparable sales, Messrs Davis and Panopoulos are closer than are Messrs Panopoulos and Kenna. 
+Regardless, the exercise that Mr Panopoulos was asked to and did undertake was in substance a recreation of the task that Mr Kenna undertook. In my view, the results produced by Mr Panopoulos from undertaking that task are far more relevant to a consideration of any deficiencies in the work undertaken by Mr Kenna. 
+Those are the more detailed reasons underlying the summary given at [85(1), (2), (3)] above. 
+Mr Goodyer's advice and the use made of it
+I have referred to Mr Goodyer's analysis of the "built form controls". After setting out those controls, Mr Goodyer attempted to assess what might be built. As he pointed out, if the building envelope complied only with the setback requirements, the result would be that less than 30% of the site would be available for landscaping, compared to the requirement that there be 50% landscaped open space. 
+Thus, as Mr Goodyer said, the "key determinant of the development potential" of the apartment site was the requirement that 50% of the site be landscaped open space. 
+Allowing for hard surface areas (which did not count towards landscaped open space) Mr Goodyer reasoned that some 3217 square metres "is considered the maximum potential, assuming a development that complies with the development standard". That was his calculation of the site area that could be built upon, not of the total floor area that could be built. 
+Mr Goodyer said that, taking into account the three storey height limit and "assuming no articulation", the maximum floor area that could be built would be 9651 square metres. 
+Mr Goodyer then pointed out that there should be deductions made for "circulation areas". He estimated that that would reduce "the floor area available for apartments" to 8686 square metres. I take that to encompass both internal and external floor space (see at [127] below). 
+Mr Panopoulos said that in his view it was reasonable to assume that each apartment would have, on average, 20 square metres of external living space (decks, terraces, balconies of whatever). If, as Mr Goodyer posited, there could be 80 apartments in the development, that would reduce the internal living area by 1600 square metres. Alternatively, if as Mr Goodyer posited, there might be only 64 apartments, that would reduce it by 1280 square metres. 
+I interpose at this stage that Mr Davis worked on a conjectural, or "indeterminate" (also his word), concept of some 75 apartments. That would equate to 1500 square metres of external space, or a reduction in the internal living area to 8186 square metres. 
+However, Mr Goodyer considered that it might be possible to secure Council's approval for variations to the built form controls. After acknowledging that "it is difficult to anticipate the extent to which variations to built form controls will be permitted", Mr Goodyer "considered" (without being unkind, "speculated" might be a better word) "that some variation to the landscaped area control could be justified". 
+If such a variation were approved, then Mr Goodyer considered that there could be "a total floor area available for apartments of... 9601m²". 
+Again, as I understand it, Mr Goodyer was referring to internal and external area. Thus, again, to obtain a net internal area, allowance would need to be made for external living areas as set out already. 
+The result of this, according to Mr Goodyer, was that some 80 apartments each averaging 120 square metres (as he said, "suitable for an average 2 - bedroom apartment") could be constructed. Allowing 150 square metres each ("suitable for an average 3-bedroom apartment") then, Mr Goodyer said, some 64 apartments could be constructed. 
+Mr Panopoulos said that 120 square metres was an unusually large internal floor area for a two bedroom apartment. On that basis, he said, he understood Mr Goodyer's views to indicate that he had not separated out internal and external living area. I accept that evidence. 
+Mr Davis did not attempt any such rationalisation of Mr Goodyer's evidence, perhaps because he did not regard ILAR as a useful or commonly used metric. On the contrary, Mr Davis took the results appearing from Mr Goodyer's report and conjectured a development comprising "approximately 75 apartments", comprising a mix of one, two and three bedroom apartments. 
+In his second report, Mr Davis characterised this as "an indeterminate development of the Property site" and a "conjectural concept". In his first report, Mr Davis had referred to his projected configuration as "indeterminate". He speculated "that a reasonable proportion of them would have the benefit of unimpeded beach and ocean views to the east". 
+As I have said, Mr Davis did not work on the basis of an architectural sketch that would show how his conjectural concept could be realised. Nor was his concept sufficiently determinate to show how many apartments, or of what size, would have the benefit of ocean views. 
+I have a number of concerns with both Mr Goodyer's evidence and Mr Davis' use of it. The overarching concern is of course that no such analysis was made available to Mr Kenna. But putting that aside, my concerns are: 
+Mr Goodyer's view, that the Council might allow some relaxation of the built form controls, depends entirely on the nature of the development that is proposed. There was no development concept. There were no architectural sketches. Thus, there is no way that the Court can assess the likelihood that any relaxation of those controls would be allowed. As I have suggested already, I think that this is more in the nature of speculation on Mr
+Goodyer's part than expert evidence which involves the application of specialised skill or knowledge to assumed or proven facts. If it were to rise above the level of speculation, there would need to be evidence of a specific form or concept of development that might justify relaxation of the controls and, thus, provide "a total floor area available for apartments" remotely close to Mr Goodyer's figure.
+
+Likewise, there is no rational basis for assessing the likelihood that Mr
+Davis' "indeterminate" or "conjectural" concept might ever be approved, so as to yield anything like the number of apartments that Mr Davis suggested.
+
+In this context, Mr Davis has not simply taken the data (and opinions) presented by Mr Goodyer's report. Mr Davis has instead sought to use that data to construct an alternative, although almost entirely undefined, model, and to use that model as a central element in his reasoning.
+In short, I do not accept that the evidence of Mr Goodyer, and the evidence of Mr Davis based upon it, provides any safe foundation for concluding that what Mr Goodyer projected, or what Mr Davis adapted from it, demonstrates in any reliable or acceptable way the highest and best use of the land. 
+I accept, as all the valuers agree, that the development the subject of the 2005 consent does not represent the highest and best use of the land. I am not satisfied, and do not find, that the evidence of Mr Goodyer and the evidence of Mr Davis founded on it demonstrates in any persuasive way what might be the highest and best use of the land. 
+Mr Panopoulos' methodology
+I have referred already to what I think is one important feature of that methodology: namely, Mr Panopoulos' use of ILAR. To my mind, that is a valid analytical tool, and the way in which Mr Panopoulos used it leads to some significant undermining of Mr Goodyer's evidence and the evidence of Mr Davis based upon it. 
+Mr Panopoulos worked off the plans attached to the Makin report to assess that the development the subject of the Makin report (i.e., a development for 48 three bedroom apartments in accordance with the 2005 consent) would have a total internal living area of 6096 square metres and a total external living area, or terraces, of 2156 square metres. I note, in passing, that this would yield an average terrace size of 45 square metres, or double the size that Mr Panopoulos said one might expect. Presumably, this reflects a particular design concept inherent in the development the subject of the 2005 consent. 
+If one adds the internal and external living areas together, the result is 8252 square metres. That is not radically different from the base figure derived by Mr Goodyer, before he moved to consider what might happen if some variation to the built form controls were allowed. That figure, as set out above, was 8686 square metres. 
+If, as Mr Goodyer's calculations show, the total floor area (internal and external) available for apartments, before variations to the built form controls, is 8686 square metres then, absent any variation to those controls, this should be taken to represent, in terms of density at least, the highest and best use of the land. 
+If one compares that figure to the total (internal and external) floor area calculated by Mr Panopoulos from the Makin report, the difference is some 434 square metres. That is approximately 5% of the floor area, whether as calculated by Mr Goodyer (before consideration of variations) or as calculated by Mr Panopoulos. 
+This analysis indicates that, at least in terms of floor area for apartments, there was no significant difference between the development the subject of the 2005 consent and the floor area available for apartments as calculated by Mr Goodyer before considering the question of possible variations to the built form controls. 
+The essential difference between the two proposals is that the development the subject of the 2005 consent seems to have minimised the number of available apartments, so as to allow a larger terrace area for each. That is why it produces 48 apartments rather than the 58 which would be available on Mr Goodyer's "pre-variation" calculations, utilising his allowance of 150 square metres for each apartment (8686/150 = 58). 
+It may be accepted, as the experts all agreed, that the development the subject of the 2005 consent did not represent the highest and best use of the land. I repeat that this was the development that Mr Kenna was instructed to take into consideration in performing his valuation. However, the difference between that development and a hypothetical development that might be possible under Mr Goodyer's pre-variation calculations reflects the design choice to allocate floor area to terraces rather than internal living area. It was not put to Mr Kenna that he should have carried some notional redesign so as to rectify this possible imbalance. 
+It may be that Mr Panopoulos was being somewhat conservative in some of the assumptions that he made. Undoubtedly, there were differences in approach that he and Mr Davis took to the comparable sales evidence. I deal with these in the following paragraphs. 
+However, even taking into account those matters, I prefer Mr Panopoulos' evidence as to and based on ILAR to that of Mr Davis. 
+The approach to comparable sales 
+This exposes one of the major points of difference between Messrs Davis and Panopoulos. Mr Davis extolled the virtues of the apartment site, which he described variously as a "gateway" or "landmark" site. He was moved at one point to compare it, close to Narrabeen beach as it is, to sites at Bondi or Manly. If I may say so, I think the comparison was a little fanciful. 
+Mr Davis used his assessment of the virtues of the apartment site to justify assigning to it a value at the upper end of the range of values shown by the comparable sales. 
+Mr Panopoulos, on the other hand, was less entranced by the charms of the apartment site. That was his stated reason for declining to assign to it a higher value (on a per square metre or per unit site basis) than the comparable sales suggested. 
+In short, I think, Mr Davis over-praised the apartment site and Mr Panopoulos under-praised it. The truth lies somewhat between the two approaches. However, Mr Panopoulos in effect compensated for his conservatism in the way described at [152] below. 
+Mr Davis emphasised the site's proximity to Narrabeen beach and the ocean views (that could not be built out, because there was a public reserve opposite) that some of the apartments would enjoy. How many might enjoy that view is, as I have said, unknown. 
+Mr Panopoulos emphasised that many of the apartments would not enjoy those views, but would instead front onto Pittwater Road. That is, of course, a major arterial road, carrying heavy traffic at all hours of the days but particularly during peak hours. 
+The development the subject of the 2005 consent had been planned so as to orientate all the apartments towards the ocean views. That may be one reason why it yielded only 48 (3 bedroom) apartments.
+The Pittwater Road frontage is more extensive than the Ocean Road frontage. It is inherent in Mr Davis' concept that, to get 75 units including a mix of 1, 2 and 3 bedroom apartments, the majority will of necessity front onto Pittwater Road. If the Ocean Road frontage is devoted to the superior, three bedroom, apartments, then by hypothesis the majority of the lesser apartments will front onto Pittwater Road. Thus, a minority of the apartments would enjoy the amenities of view extolled by Mr Davis. Of course, all the apartments would enjoy swift access to the beach. 
+Mr Davis treated the site as homogeneous. Mr Panopoulos estimated that about 35% of the site could be said to be the "Ocean Road frontage" portion, and the remaining 65% could be said to be the "Pittwater Road frontage" portion. That does seem to me to be a realistic assessment of the site. Accordingly, Mr Panopoulos said, it was appropriate to apply higher values per square metre only to the Ocean Street frontage portion, and to apply lower values to the Pittwater Road portion, so as to produce an overall blended rate. Again, that seems to me to be logical. 
+By contrast, Mr Davis' analysis attributed the same value to each square metre of the site on the Pittwater Road frontage, as it did to each square metre on the Ocean Road frontage, and eschewed the concept of a blended rate. That does not seem to me to be logical, at least when the value selected is at the upper end of the range emerging from the comparable sales, and said to be justified by the virtues of the ocean view. 
+This is one of the ways in which I regarded Mr Panopoulos' analysis as more precise. It seems to me to be a more rigorous approach to the task of attempting to ascertain a blended value (in terms of dollars per square metre or dollars per unit site) for the whole of the apartment site. 
+Thus, putting aside the way in which Mr Davis sought to extol, and Mr Panopoulos to depreciate, the virtues of the apartment site, I think that Mr Panopoulos' analysis is the more logical and rigorous. I am comfortably satisfied that it produces a more correct reflection of the value of the site overall, because it allows a more precise application of data obtained from comparable sales. 
+Conclusions on the valuation evidence 
+As I have said, I accept the evidence of Mr Panopoulos in preference to that of Mr Davis. It may be that, overall, the value derived by Mr Panopoulos is a little pessimistic. Nonetheless, the fact is that it derives from a "blind" valuation, performed on the same basis as that which Mr Kenna had been asked to perform, and utilising the same data. Thus, I regard it as a more reliable guide to the value of the site as at 25 June 2007, than I do Mr Davis' valuation. 
+I am not satisfied that, as at 25 June 2007, the apartment site had anything like the value attributed to it by Mr Davis. 
+Further, I am not satisfied that correcting any conservatism within the confines of Mr Panopoulos' methodology would produce a value any higher than the figure of $14,500,000 which in effect Messrs Cahill and Bega attributed to the apartment site in the deed of restatement. 
+The HOA 
+The HOA is dated 12 April 2007. Mr Bega and three specified companies controlled by him are parties as "the Bega parties". Mr Cahill and Duell are parties as "the Cahill parties". As before, I shall in general refer for convenience only to Messrs Cahill and Bega. 
+Various companies in which Mr Bega and Mr Cahill had interests, or which appear one way or another to have been associated with their various development projects, were also parties to the agreement. Those companies (described in [Part C](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/index.html#p100) of Schedule 1) included Llerevni. They also included, I think, the corporate vehicles through which Messrs Bega and Cahill had carried on some of their development projects, and companies which had rendered services in respect of those projects. 
+Clause 1.1 of the HOA set out the way in which Messrs Bega and Cahill proposed to unwind their business relationship. So far as it is relevant, it provides as follows: .1 Unwinding business relationship of Bega and Cahill 
+Bega and Cahill wish to unwind their existing commercial relationship through the dissolution of the various projects in which the parties are engaged.
+
+Bega and Cahill have agreed to undertake the Accounting Review Process in order to determine their respective Entitlements.
+
+In accordance with the terms set out in this agreement Bega and Cahill agree to an allocation of their respective interests in the following projects: 
+Narrabeen; ...
+
+Bega and Cahill further acknowledge that the Accounting Review Process will be conducted through a process of mediation and expert determination as set out in the Mediation Agreement. The parties agree that the net amount payable to Bega or Cahill (as the case may be) will be determined in accordance with the terms set out in clause 3 below and the Mediation
+Agreement.
+
+Bega and Cahill agree to act in good faith and do all things necessary to give full effect to the terms of this agreement.
+The "Accounting Review Process" was described in cl 3. I shall return to it. The "Entitlements" were defined to mean the respective entitlements of Messrs Bega and Cahill, in respect of their joint venture projects, arising from their commercial relationship. 
+Clause 2 dealt with various current development sites and projects. Clause 2.3, which dealt with the Narrabeen project, is relevant. It provided, so far as it is relevant: .3 Narrabeen 
+Bega and Cahill acknowledge that the Narrabeen development site and project is a joint venture between Bega & Associates and Duell Estates in which each party has a 50% interest.
+
+Upon the execution of this agreement, Peter Cahill agrees to appoint John
+Batiste as a director of Llerevni and Narrabeen Projects.
+
+The directors of Llerevni and Narrabeen projects will co-operate to complete the acquisition of the Narrabeen land from Oakland Glen and to obtain approval of finance to complete that purchase on that basis that: 
+Cahill will be primarily responsible for the steps required to obtain registration of the plan of subdivision for the Narrabeen land and completion of the purchase contract with Oakland Glen; 
+John Batiste will be primarily responsible for facilitating negotiation for finance from Investec (or other financier) for the completion of the acquisition of the Narrabeen land from Oakland Glen; 
+Until the Swing Payment Date, no liabilities will be incurred by
+Llerevni or Narrabeen Projects in respect of Narrabeen other than the facility to fund the costs and expenses referred to in clause 2.3(k), without the agreement of both directors; and on and from the Narrabeen Completion date John Batiste will direct and manage the ongoing development of the Narrabeen project.
+
+In the event that the directors of Llerevni and Narrabeen projects are unable to agree on any matter requiring their resolution, that disagreement will be determined by Ian Ferrier under the Mediation Agreement.
+
+Upon payment of the Swing Payment Cahill agrees to withdraw from the
+Narrabeen project and to assign to Bega & Associates or its nominee all of
+Cahill's rights, title, interest and control in: the development site and project; the intellectual property and goodwill associated with Narrabeen; the fixtures, fittings and equipment situated upon Narrabeen; choses in action, including against ALH Group Pty Ltd and Oakland Glen; and the proceeds of the claim against ALH Group Pty Ltd known as the "Miami" claim and, accordingly, Bega & Associates (or its nominee) will be entitled to seek to resolve on a global basis the Miami claim and any claims which Llerevni or Narrabeen Projects may have against ALH Group Pty Ltd.
+ ...
+
+Bega and Cahill agree to engage Ian Ferrier to retain and instruct
+Landmark White on their behalf to undertake an independent arms length market valuation of: 
+The Narrabeen Sands motel units; and 
+The residential site detailed in the current Warringah Council
+Development Approval on the basis of the residential site being subdivided in accordance with the current plan of subdivision approved by Warringah Council and after completion of demolition work contemplated in the Development
+Agreement dated 28 May 2003.
+
+Bega and Cahill agree that Landmark White valuation to be obtained under clause 2.3(h) will be binding (and without any right of appeal) and shall be adopted for the purpose of the Accounting Review Process and the Swing Payment calculation.
+
+Bega and Cahill shall provide a full reconciliation of the costs incurred by each of them on the Narrabeen development site and project for the purposes of the Accounting Review Process.
+
+Bega and Cahill agree that for the purposes of the Accounting Review
+Process, the value of the Narrabeen project will be calculated b deducting from the Landmark White valuation the following costs and expenses incurred or notionally to be incurred after the date of this agreement (to the extent that these are not otherwise deducted from the Landmark White valuation): 
+GST payable or notionally to be paid on the purchase of the Narrabeen land; demolition costs; notional selling costs of calculated with reference to the Landmark
+White valuation as determined by Ian Ferrier under the Mediation Agreement registration of the plan of subdivision and associated legal expenses; stamp duty refundable to Oakland Glen under the purchase contract with
+Oakland Glen; the balance of the purchase price of the Narrabeen land from Oakland
+Glen; and any other costs incidental to the acquisition of the land from Oakland
+Glen incurred by Llerevni and Narrabeen Projects Pty Limited until payment of the Swing Payment.
+ ...
+As I have noted, cl 3 defined the Accounting Review Process:  Account Review Process 
+Bega and Cahill agree that the assets which they assume ownership and control of pursuant to this agreement are on account of their Entitlements which will be determined in accordance with this clause 3 and the Mediation
+Agreement.
+
+Bega and Cahill agree that their respective Entitlements will be the subject of expert determination by Ian Ferrier in accordance with the
+Mediation Agreement.
+
+The amount determined by Ian Ferrier under the Mediation Agreement as payable by either Bega or Cahill is due by no later than 24 December 2007 and the liability to make such a payment is imposed on Bega or Cahill as the case may be.
+
+Bega and Cahill agree to provide all necessary assistance and information to Ian Ferrier to enable him to determine the amount of the Swing Payment no later than 60 days from the date of registration of the plan of subdivision for the Narrabeen land.
+The "Mediation Agreement" was defined to mean the "Mediation Agreement dated on or about the date of this agreement between Bega, Cahill and Ian Ferrier". 
+Clause 4 dealt with dispute resolution: 
+Dispute Resolution 
+Bega and Cahill agree that any dispute under the terms of this agreement will be resolved by them pursuant to the Mediation Agreement, including if necessary, by submitting to an expert determination by Ian Ferrier.
+Schedule 3 to the HOA picked up the concept of "Swing Payment" which is referred to in, among other places, cl 2.3(f). The expression "Swing Payment" was defined specifically by reference to cl 2.6 (which dealt with a development project at Noosa, and which need not be set out). However, Schedule 3 makes it clear that the calculation of the Swing Payment takes into account amounts owing, or payable, one way or the other in respect of the Narrabeen property. 
+Schedule 3 provided for various assets and liabilities to be allocated one way or the other, and, upon the taking of the balance, for a payment to be made one way or the other. The schedule was incomplete in some respects. The value of the entire Narrabeen property (which was allocated to Mr Bega) was said to be "Landmark White valuation" (a reference back to cl 2.3(h)). The liabilities in respect of the Narrabeen property were said to be the "total of amounts referred to in cls 2.3(k)(ii), (v) and (iv)". 
+Thus, the net notional asset value to be allocated to Mr Bega could only be determined after LMW valued the apartment site and after the cl 2.3(k) costs were ascertained. 
+The net allocation to Mr Cahill, set out in sch 3, was $10,935,639. If the net value to be allocated to Mr Bega exceeded that amount, he would make a payment to Mr Cahill sufficient to equalise their allocations. 
+Likewise, if the net amount allocated to Mr Cahill exceeded that calculated to be allocated to Mr Bega, Mr Cahill would make a payment to Mr Bega to equalise their allocations. 
+It is apparent from Schedule 3 that the principal driver of the Swing Payment calculation would be the value of the whole of the Narrabeen property as determined by LMW. 
+The mediation agreement
+The mediation agreement was also made on 12 April 2007. The Bega parties, the Cahill parties and what I might call the [part C](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/index.html#p100) parties were parties to the mediation agreement, as was Mr Ferrier. 
+Clause 1 stated the purpose of the mediation and cl 1.2 effected the appointment of Mr Ferrier as mediator: Mediation .1 Introduction 
+Bega and Cahill have entered into the Heads of Agreement for determining their respective entitlements in respect of the Glen Alpine Group emanating from their commercial relationship since 1992. The agreement contemplates that
+Bega and Cahill will enter into this mediation agreement to resolve certain issues between them, including those listed in Schedule 2, with a view to finalising an overall accounting for the Glen Alpine Group.
+
+Bega and Cahill agree to co-operate to resolve their disputes by the processes of mediation and expert determination provided for in this agreement.
+ .2 Appointment of mediator 
+Cahill and Bega wish to resolve the disputes listed in Schedule 2 with the assistance of a mediator.
+
+Cahill and Bega will meet the mediator at times nominated by the mediator, at the mediator's office, and such other times as agreed between the parties and the mediator, at which time Cahill and Bega agree to conduct the mediation.
+ .3 Rules of the mediation 
+The mediation will be held in private.
+
+Only the parties and their representatives may attend, unless all parties and the mediator agree otherwise. A representative for each party with authority to settle the disputes will attend the mediation.
+
+Cahill and Bega will not be bound by any comments, suggestions, or recommendations made by the mediator in his capacity as mediator.
+
+Cahill and Bega agree that any agreement will be reduced to writing and executed by them. Prior to such execution no agreement is binding on any party.
+ .4 Co-operation 
+Cahill and Bega will co-operate in good faith with the mediator and with each other during the mediation to resolve the disputes.
+ .5 Preparation for the mediation 
+Cahill and Bega will exchange position papers as directed by the mediator from time to time.
+
+Cahill and Bega will give the mediator all information which the mediator may reasonably require from time to time.
+ .6 Termination of the mediation 
+Mediation under this agreement may be terminated only if both Cahill and Bega give written notice to the mediator that they have resolved their dispute.
+ .7 Covenants in favour of the mediator 
+Cahill and Bega will not require the mediator to give evidence or produce any document in any legal proceedings concerning the disputes, other than legal proceedings brought to enforce or challenge the terms of any agreement arising from the mediation.
+The issues to be referred to mediation were stated in sch 2: 
+Issues to be referred to mediation
+Whether the inter-company loan balances in the accounts of the entities referred to Schedule 1 maintained by Cahill are accurate and whether any adjustment is required to those accounts.
+Whether any adjustment is required to the loan accounts of Bega or Cahill as a consequence of: expenditure incurred by Bega or Cahill in relation to any project being undertaken by the entities referred to in Schedule 1 [Part
+C](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/index.html#p100); the incorrect allocation of business expenses to loan accounts.
+Whether the taxation treatment of projects in which Bega and Cahill have both been involved is accurate and in accordance with law and, if not, what adjustment is required.
+Whether any adjustment is required (and, if so, what adjustment) to Bega and Cahill's loan accounts having regard to each individual's contribution to wealth creation (by personal exertion or otherwise), and benefits obtained by the parties from, their relationship to date. Bega and Cahill may make submissions to the mediator in respect of any matters they consider to be relevant to the assessment of the contributions of the Bega and Cahill to wealth creation and the mediator may determine the extent to which those matters are relevant and are to be taken into account in his determination provided that the adjustment to be made by the mediator under this clause will be capped at $5 million in favour of either Bega or Cahill. In making his determination the mediator will not be bound by any document or business record which restricts the entitlement of Bega or Cahill or both to claim any amount for their contribution to wealth creation.
+For the avoidance of doubt, it is the intention of the parties to this agreement that the accounting process to be undertaken in accordance with [sections ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s1.html) and [2](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s2.html) above and the adjustments to be made under [sections ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s3.html) and [4](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s4.html) above will encompass all accounting transactions of Bega, Cahill and the entities referred to in Schedule 1 [Part
+C.](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/index.html#p100)
+By cl 1.3(a), the mediation was to be held in private. 
+The mediation agreement also provided for Mr Ferrier to act as an expert. Clause 2 dealt in part with that, and with other matters. So far as it is relevant, it provided:  Expert determination .1 Appointment of expert 
+Cahill and Bega agree that if the mediator considers it necessary in order to resolve any of the disputes, he is empowered to act as independent expert.
+In relation to any such dispute, the following provisions of this clause 2 apply.
+
+Ian Ferrier is appointed to act as an independent expert (not as arbitrator or mediator) to determine the dispute.
+
+The dispute resolution proceeding under this clause is not an arbitration proceeding under the [Commercial Arbitration Act ](http://www.austlii.edu.au/au/legis/qld/consolact/caa1990219/) (Qld) or the [Commercial Arbitration Act ](http://www.austlii.edu.au/au/legis/nsw/repealedact/caa1984219/) .
+ .2 Rules and procedures for expert determination 
+The expert determination under this clause 2 must be conducted in accordance with the following procedures: 
+The expert will not be bound by the rules of evidence; 
+Cahill and Bega will comply with any direction given by the expert; 
+Within any time frame directed by the expert, Cahill and Bega will give the expert all of the information, submissions and assistance which the expert may reasonably require from time to time and the expert may proceed with his determination if a party fails to provide information, submissions or assistance, and may draw adverse inferences from any such failure; 
+The expert must make a determination or finding on the issues in dispute as soon as possible.
+ .3 Powers of the expert 
+The expert has the following powers: to inform himself independently as to all matters relevant to the disputes; to request and receive submissions (whether oral or written) or other information from Cahill and Bega; to consult with any other persons as the expert in his absolute discretion thinks fit in relation to resolving the disputes provided that such person provides to the expert, Cahill and Bega an undertaking to keep confidential all matters coming to the person's knowledge by reason of his or her consultation with the expert; to engage an accountant independent of Cahill and Bega to conduct any review which the expert considers to be necessary to enable him to reach a determination; to make such orders and directions as he considers to be necessary for the final determination of the disputes.
+ .4 Co-operation 
+Cahill and Bega will co-operate in good faith with the expert and with each other during the expert determination to resolve the disputes.
+ .5 Final and binding determination 
+The expert's determination is final and binding on Cahill and Bega and each entity referred to in Schedule 1 Part C, or any other entity in which Bega and
+Cahill have been involved as determined by the Mediator.
+ ...
+ .8 Determination by Ian Ferrier 
+In acting as mediator, or as expert under this Agreement, without limiting any of the matters which Ian Ferrier may in his absolute discretion take into account acting either as mediator or expert, unless otherwise agreed by Bega and Cahill, Bega and Cahill agree that Ian Ferrier will determine: the respective entitlements of Bega and Cahill in respect of the Glen
+Alpine Group having regard to: the proposition that Bega and Cahill each have a 50% interest in the assets of the Glen Alpine group other than Solarus; the assignment of joint venture interests provided for under the Heads of
+Agreement; any adjustment required in determining the disputes referred to in
+Schedule 2 of this Agreement; and the net amount which is payable by Bega to Cahill (or vice versa) to give effect to the above entitlements and adjustments.
+Clause 6 excluded certain liabilities on Mr Ferrier's part: Exclusion of Ian Ferrier's liability 
+Cahill and Bega agree that all acts or omissions of Ian Ferrier in the performance or purported performance of his functions as a mediator will be accorded the same protection and immunity as that accorded to mediators under [section ](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/s33.html) of the [Civil Procedure Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/) .
+
+Without detracting from the generality of the previous clause, Cahill and
+Bega agree: that Ian Ferrier shall not be liable for any damage suffered (directly or indirectly), by any party arising in any way out of any act or omission of the mediator (including but not limited to negligent acts or omissions) in or in relation to the performance of the mediator's obligations; that the parties will jointly and each of them severally release Ian
+Ferrier against all claims arising out or in any way referable to any act or omission of the mediator in or associated with the mediator's obligations.
+
+The amending deed 
+After Messrs Cahill and Bega fell into dispute over the LMW valuation (and over the quantification of the cl 2.3(k) costs for the Narrabeen project), they made the amending deed. The recitals set out the purposes intended to be achieved by that deed: 
+A Bega and Cahill executed the Heads of Agreement.
+
+B Bega and Cahill executed the Mediation Agreement.
+
+C Bega and Cahill executed the Riverside Ridge deed of agreement and the
+Riverside Ridge deed of novation.
+
+D On and from the time that the Heads of Agreement and Mediation Agreement were executed, Bega and Cahill have engaged in discussions with Ian Ferrier (in his capacity of mediator) in an endeavour to perform the Heads of
+Agreement.
+
+E As part of the process of performing the Heads of Agreement, Ian Ferrier procured the Landmark White valuation.
+
+F In consideration of Bega agreeing, without any admission, to increase the
+Landmark White valuation from $21.5 million to $24 million solely for the purposes of clause 2.3(i) of the Heads of Agreement, Cahill in return agrees to: record the steps by which some obligations under the HOA will be performed including the calculation, means of payment and timing of the Swing Payment; provide a discharge of the Riverside Ridge Mortgage for an agreed figure; and accept the value of $25 million as the valuation of the Narrabeen lands.
+
+G Cahill acknowledges that upon completion of the purchase of the Narrabeen lands by Llerevni that Cahill (and the Cahill parties) will have no further interest (legal or equitable) in Narrabeen.
+By way of explanation of recital F: the figure of $21.5 million comprises both the contested value that LMW attributed to the apartment site ($12,000,000) and the uncontested value that LMW attributed to the stratum lots ($9,500,000). Likewise, the figure of $24 million refers to both the apartment site and the stratum lots. The parties agree that the effect of the consensus recorded in recital F was to increase the valuation of the apartment site, for the purposes of calculation of the Swing Payment, from $12 million to $14.5 million. As to "Riverside Ridge": it was another development project, but is of no present relevance. 
+The consensus recorded in recital F was given effect by cl 1.3: .3 Swing Payment 
+For the purposes of this deed and the Heads of Agreement, Bega and Cahill agree that the Swing Payment is to be calculated by ascribing the value of $24 million to the Narrabeen lands in place of the Landmark White valuation, by ascribing the amount of $148,500 in relation to clause 2.3(k)(ii) of the HOA and by ascribing the amount of $645,490 in relation to clause 2.3(k)(v) of the
+HOA.
+ ...
+
+To assist Ian Ferrier to determine the Swing Payment promptly upon completion of the Narrabeen contract for sale, for the purposes of this Deed and the HOA, the parties agree: 
+That the Notional Asset Total allocated to Bega is fixed at $37,000,000.
+
+That the Notional Asset Total allocated to Cahill is fixed at $35,200,000.
+
+That the Liability Total allocated Cahill is fixed at $24,264,361.
+
+That the Liability Total allocated to Bega is provisionally fixed at $19,020,736 (and is subject providing a figure for the amount derived by clause 2.3(k)(vi) of the HOA).
+
+First issue: terms of LMW's retainer 
+As has been seen, cl 2.3(h) provided for Messrs Bega and Cahill to engage Mr Ferrier "to retain and instruct Landmark White on their behalf to undertake an independent arm's length market valuation of", relevantly, the apartment site. 
+Clause 2.3(h) was not expressly picked up in the mediation agreement. It is however clear that Mr Ferrier was asked and agreed to instruct, and did instruct, LMW. Mr Fatouros said that Mr Ferrier contacted him on 23 or 24 April, and asked LMW to value the Narrabeen property, including both the stratum lots and the apartment site. Mr Fatouros' note, which I accept as accurate, records that Mr Ferrier said that he was a "Mediator", that the mediation related to the "Glen Alpine Group", and that a valuation was required "due to dispute". The company that Messrs Bega and Cahill used to carry out their developments was known as "Glenalpine Constructions", and at times they referred to their companies as "the Glenalpine Group." 
+I should note that, although cl 2.3(h) of the HOA provides for the engagement of Mr Ferrier on behalf of the Bega and Cahill interests to retain LMW, and although the language of agency was from time to time used in the course of submissions, it was not the plaintiffs' case that Mr Ferrier did act as their agent in retaining LMW. The plaintiffs pleaded their case simply as being that "[o]n or about 7 May 2007, the first defendant and, further or in the alternative, the second defendant were retained by Mr Ian Ferrier to provide a site valuation...". 
+Mr Henry expressly disclaimed the proposition that, through the language of cl 2.3(h), Mr Ferrier had acted as his clients' agent so as to bring them into a contractual relationship with LMW. That, no doubt, is why the plaintiffs sued LMW in negligence, not for breach of contract. 
+It is convenient to note also, at this point, that although Mr Kenna was the first defendant and the pleading of retainer was as I have described it, it is quite clear that the retainer was of LMW. Mr Kenna was the person within LMW principally responsible (under the supervision of Mr Fatouros) for preparation of the impugned valuation. 
+Mr McCulloch, I think, accepted that his clients were obliged to exercise reasonable and due care, skill and confidence in the performance of LMW's retainer. However, he submitted, that duty arose only in contract, and was owed only to Mr Ferrier. 
+No one suggested that, by reason of the wording of cl 2.3(h) of the HOA, Mr Ferrier in some way held the benefit of that obligation in trust for the plaintiffs or the Bega parties. 
+On 7 May 2007, LMW sent a written quotation to Mr Ferrier. That quotation, after some formal and introductory parts, stated: 
+Thank you for your enquiry. I confirm the details of your instruction and our quote as follows.
+The quotation then identified the land to be valued. It stated that the valuation was for "asset purposes" and that, in relation to the apartment site, was to be performed on a "site value 'as is' basis". 
+After dealing with fees, the valuation stated conditions. Relevantly, they included the following: * The valuation is solely for the purpose of the client and not for any other third party without written authority. ...
+ * The valuation will not comment on nor take into account any structural or contamination issues. 
+After some haggling over the fees, Mr Ferrier signed the quotation, by way of acceptance, on 10 May 2007 and returned it (seemingly by fax) to LMW. 
+Mr Ferrier contends that, before the quotation was issued and accepted, he sent a letter of instruction to LMW. Mr Ferrier has produced a copy of a draft letter of instruction. He accepts that no copy of a final version, that would have been signed and sent to LMW, exists in his files. He accepts also, as do LMW and the plaintiffs, that no such original signed letter of instruction has been found in the LMW files. I should mention that LMW has gone into liquidation, and the fact that a particular document is not in its files may not be evidence that the document had not been received some 7 ½ years ago. 
+The draft letter stated that the purpose of the valuation was "to assess the market value of" relevantly, the apartment site. It noted that the apartment site was "the subject of an approved Development Application... in 2005". It noted that "the plans and other relevant information used in seeking such Development Application [sic] are attached". It stated, however, that "in forming your view of market value you are not restricted to (but can use) this particular proposal". 
+Mr McCulloch submitted that the likelihood was that the letter had not been sent. Mr Muddle of Senior Counsel, who appeared for Mr Ferrier, submitted that the likelihood was that it had been sent. For the reasons that follow, I think Mr Muddle is correct. 
+Mr McCulloch relied on the fact that Mr Ferrier had been unable to state, as a positive recollection, that a signed copy of a final version of the draft letter had been sent. He relied on the agreed fact that there was no such document to be found in the files of LMW. Mr McCulloch noted that no letter of instruction had been referred to in the LMW quotation. 
+Mr Muddle submitted that (as Mr Ferrier had said) the probabilities were that, having prepared the letter of instruction in draft, Mr Ferrier would have sent it. Mr Muddle laid particular stress on some detailed requirements set out in the draft letter, as to what the valuation should state. He submitted, correctly, that the valuation that LMW produced did in fact conform to the great majority of those detailed requirements. 
+The question is one of some difficulty. However, on balance, I conclude that a letter to the effect of the draft letter was signed and sent. 
+Mr Ferrier said in substance that he had submitted the draft letter of instruction to Messrs Cahill and Bega. Although he thought there may have been one or two changes, his "best recollection" was "that the draft form of letter... is the final version". 
+Mr Ferrier would not accept that he did not send the draft letter of instruction (I apologise for the double negative) but could not say one way or another that he had sent it (T132.47-133.33): 
+Q. You are familiar, aren't you, with the draft letter referred to by you in that first sentence? 
+A. Yes, I think I am, that is the letter to the valuer.
+
+Q. If you say you need to see it I can provide you with a copy but my question is this. Do you accept that you did not send a letter in those terms to
+Landmark White in 2007? 
+A. No, I don't accept that.
+
+Q. Do you at least accept this, that you are unable to say one way or the other whether you sent a letter in those terms to Landmark White? 
+A. Yes, I do.
+
+Q. Do you recall having a meeting on 2 July 2007 at which you were taken through a final draft of the Landmark White valuation? 
+A. Yes, I do. I can't recall the precise date, but accept that date.
+
+Q. Can you recall where the meeting took place? 
+A. In my office. Not my current office but my then office.
+
+Q. Can you recall who attended the meeting? 
+A. My recollection is just the valuer and myself.
+
+Q. The valuer being whom? 
+A. I can't recall, Mr Kenna or Mr Fatouros.
+
+Q. Can you recall whether or not both of them were there? 
+A. No I can't.
+
+Q. Can you recall whether the meeting was in the morning or the afternoon? 
+A. I can't.
+
+Q. Prior to the meeting you had been emailed a copy of the draft valuation, do you recall that? 
+A. I don't recall it, but that could well be the case.
+
+Q. I take you to volume 3 of the Court Book. If you could turn to page 1064, the pagination is in the top right hand corner.
+
+A. Yes, I have 1064.
+
+Q. I accept this is not an email that was addressed to you. It is an email from Mr Kenna to Mr Fatouros on 2 July being the Monday at 9.58am. Is that what you have in front of you?
+Mr Kenna said at para 61 of his affidavit sworn 18 March 2014 that "prior to the commencement of these proceedings I had never seen the draft letter of instruction". 
+I should note that Mr Kenna accepted that at some stage he "may have deleted" emails in his inbox. He accepted, further, that it was "a possibility" that one of the deleted emails may have "included a letter of instruction from Mr Ferrier" (see, generally, T77.7-.40). 
+Mr Fatouros said that he did not recollect having received a letter in the form, or to the effect, of the draft letter of instruction (T109.50-110.7): 
+Q. Is it the position that you can recall with certainty that you did not receive a version of a letter to this effect in 2007? 
+A. I don't recall receiving anything like this from Mr Ferrier.
+
+Q. You wouldn't go as far to say on oath seven years later that you didn't receive it? 
+A. To the best of my recollection, I don't recall receiving a letter like this from Mr Ferrier.
+The quotation that LMW provided on 7 May 2007 did not refer to any letter of instruction. It simply thanked Mr Ferrier for his "enquiry".
+Mr Kenna said, in the course of his cross-examination, that LMW "was a highly sausage factory of valuations" (T104.45-.46). The clear impression, from the evidence of Mr Kenna as a whole, is that LMW was more attuned to producing valuations for mortgagees in a highly standardised form or, as he called it, "standard format, .... generic term" (T104.48-.49). 
+In between those two observations that I have quoted, Mr Kenna noted that "this site was a complex report that needed many different considerations that can't be placed in that standard format...". This leads me to believe that the standard form of valuation, used by LMW for the mass production of valuations for mortgagees, did not admit of much in the way of variation for "one-off" valuations of the kind that LMW had been instructed by Mr Ferrier to perform. 
+Thus, the absence of reference to or a copy of any letter of instruction in the form of or to the effect of the draft letter, from the LMW valuation, does not seem to me to be a factor of great significance. 
+Nor do I think that the recollections of witnesses - accepting, as I have said, that each of the witnesses sought to tell the truth to the best of his ability - is of great assistance. Too much time has passed since the relevant events to give any confidence in accuracy of recollection of specific facts. No doubt, each of those witnesses has undertaken many hundreds, if not thousands of tasks in the intervening years. In those circumstances, I do not think that even a clear statement of the kind that Mr Kenna made (see at [201] above) has particular probative force. 
+There is one piece of circumstantial evidence that to my mind is persuasive in favour of the proposition that a letter of instruction was sent substantially to the effect of the draft letter of instruction. That is Mr Kenna's acknowledgement that the valuation was prepared in a way that was consistent with the matters of form and detail specified in the draft letter of instruction (T78.21-79.19): 
+Q. Could I ask you, please, to look at volume 2 in the Court Book next. Could you turn, please to page 583. Could you read to yourself the paragraph which commences with the words, "the purpose of the valuation, and down to the end of II; just take as much time as you need. Whether or not you saw a letter of instruction to this effect at the time, leaving that aside. What the paragraph that you've just read is in fact the basis of the valuation of the residential site which you prepared and signed, isn't it? 
+A. That's correct.
+
+Q. Then next on the same page you see the definition of market value set down by the International Valuations Standards Committee? 
+A. I do.
+
+Q. That's the valuation which you the standard or definition, which you repeat in the valuation report and used for the purposes of its preparation, isn't it? 
+A. That's correct.
+
+Q. Could you turn over the page, please. Take as much time as you need to answer this question, but what I want to ask you is that each of the matters on that page 584, and you'll see there are a serious of headings, again, whether or not you saw a letter to this effect at the time, each of those matters was attended to in that way in the report that you signed? 
+MCCULLOUGH: I object to this, your Honour.
+
+HIS HONOUR: I'll allow the question.
+
+WITNESS: All of those were attended to in the valuation.
+
+MUDDLE 
+Q. Then if you go over the page to 585, you see a paragraph there which requests a particular format for reporting including the separation of verifiable assumptions, assumptions requiring further consultancy and assumptions which are, in effect, based on opinion. Do you see that? they're
+I, II, III on page 585? 
+A. Yes, I see the headings.
+
+Q. Take your time to read that. Whether or not you saw a letter of instruction with that request at the time, the report in which you prepared, in fact, adopted that format of reporting as to assumptions, didn't it? 
+A. On the most part, I guess the last comment about Investec Australia seems relevant.
+
+Q. You made no reference to Investec Australia in your final report, quite properly. But otherwise the matters as to how the reporting should deal with the difficulty types of assumption was carried out in your report? 
+A. Yes.
+I acknowledge, as I have said, the final valuation prepared by LMW annexed as LMW's "instructions" only a copy of the accepted quotation. It did not annex a copy of a letter in the form of the draft letter of instruction. I accept that, having regard to the matters already referred to (liquidation, "sausage factory" and possible constraints on the formats of reports), this may not be a matter of great significance. 
+As to the matter referred to at [209]: Mr Kenna did not suggest that the way in which he had prepared the valuation - specifically, the particular details on which he was cross-examined - would have been found in the valuation in any event, as an incident of the generic or standard format adopted by LMW at the time. Mr Kenna qualified to some extent the evidence that I have set out at [209] above (see, in particular, T100-.10-.16). I do not think that this qualification affects in any real way the striking similarity between the terms of the valuation that Mr Kenna prepared and the requirements of the draft letter of instruction. 
+To my mind, the better - it may be, only - explanation for that striking similarity is that LMW had received, and worked off or to the requirements of, a letter to the effect of the draft letter of instruction. 
+The draft letter of instruction did not give any detail of who it was that required the valuation, or for what purpose the valuation was to be given. 
+To the extent that there is a variation between the draft letter of instruction and the quotation, the latter must be considered as a counter-offer. That counter-offer was, as I have noted, accepted. 
+As Mr Muddle submitted, the significance of this factual issue may be minimal. The consistency between the draft letter of instruction (which had been approved by Messrs Cahill and Bega) and the format of the report "establishes that any failure to provide the letter was not causative of anything alleged by the Plaintiffs". That follows from the plaintiffs' effective acceptance of the adequacy of the instructions in the draft letter.
+It follows, in my view, that the terms of the retainer were as set out in the accepted quotation and, except in the case of inconsistency, in the terms of the draft letter of instruction. They were, relevantly, to value the apartment site "on an 'as is' basis". The experts were agreed that this required LMW to prepare a market value of the apartment site on the basis of its highest and best use. LMW and Mr Kenna did not submit otherwise. 
+It is uncontroversial that Mr Ferrier gave Mr Kenna the Makin report on about 24 May 2007. Mr Ferrier instructed Mr Kenna to take the Makin report into account, and to base the valuation on the plans contained in it. It was Mr Kenna's analysis of the Makin report that led him to the conclusion that a development pursuant to the 2005 consent did not represent the highest and best use of the apartment site. 
+There is another aspect of the retainer issue. That is, as I have noted already, that Mr Kenna sought town planning advice as to the highest and best use of the apartment site: see at [77] above. Mr Ferrier discussed that request with Messrs Cahill and Bega. They could not agree (Mr Cahill wanted the advice to be given to Mr Kenna; Mr Bega opposed this). 
+Mr Kenna was not given the benefit of town planning advice: see at [79] above. It is common ground between Messrs Fatouros and Ferrier that Mr Ferrier instructed LMW to: 
+Proceed to produce a valuation on the currently available information [and] estimate the market value of the Property by employing a comparable sales methodology if, in your view, employing a residual cash flow methodology will not yield an accurate market value.
+In summary: I find that the terms of the retainer were set out in the LMW quotation of 7 May 2007, accepted on 10 May 2007, and save to the extent of inconsistency, as set out in the draft letter of instruction. The terms were varied, or supplemented, by the instructions set out at [217] and [219] above. 
+Second issue: performance of the retainer
+It follows from what I have just said, and from what I have said as to the expert evidence, that in my view LMW and Mr Kenna did perform the retainer according to its terms. 
+First, Mr Kenna did precisely what LMW was instructed to do. He performed his valuation without the benefit of town planning advice, using the comparable sales method and on an "as is" basis. 
+Secondly, the evidence does not make good the proposition that LMW breached the terms of its retainer by negligently under-valuing the land. As I have said, I am not prepared to find on the basis of the expert evidence that the land should have been valued at anything more than $14.5 million. Mr Henry did not submit that LMW had failed to execute its retainer in accordance with its terms simply because it did not value the land at $14.5 million. His case, as to breach, was based on the proposition that the land should have been valued at $20 million exclusive of GST. 
+Mr Henry criticised Mr Kenna for his use of what he said was a comparable sale, of land at Killara. As Mr Henry rightly pointed out, that land was in a suburb well removed from Narrabeen, and possessed none of the advantages of ocean views or easy access to the beach that the apartment site enjoyed. 
+Mr Kenna justified his reliance on the Killara property as a comparable sale by saying in effect that what developers were concerned with was the return that they could make from a development. Thus, he said, the Killara site offered some evidence of value. Mr Kenna sought further to justify his use of the Killara site by pointing out that it was adjacent to a hotel, as is the apartment site. 
+I am not sure that Mr Kenna placed great reliance on the Killara site, except in effect as a check or limit. Indeed, I think, that, ultimately, was the way that he sought to justify his decision to use the Killara site. 
+It is unnecessary to pursue this matter to a conclusion, in circumstances where in my view no error has been shown in the value that LMW ascribed to the apartment site. The real question is whether LMW negligently and in breach of duty undervalued the apartment site, or whether its conduct in stating the value at $12 million was misleading or deceptive. If (as I have concluded is the case) no error has been showed in the conclusion to which LMW came, any possible flaws in the reasoning process that led it to that conclusion go nowhere. 
+Third issue: duty of care 
+Mr Henry accepted, properly, that the plaintiffs' claim was one for pure economic loss. Hence, the question, of whether a duty of care was owed, is to be assessed by reference to the principles discussed very recently by the High Court of Australia in Brookfield Multiplex Ltd versus Owners Corporation Strata Plan 61288 <case>; [(2014) 313 ALR 408.]
+Their Honours said at [49] that the holding in Woolcock Street was that "an engineering company which designed the foundations of a warehouse and office complex did not owe a subsequent purchaser of the building a common law duty of care to avoid economic loss". 
+Their Honours said at [51] (excluding citations): [51] The plurality founded their conclusion that the engineering company did not owe the subsequent purchaser a duty of care on the proposition that the subsequent purchaser was not vulnerable to the economic consequences of the engineering company's negligence in designing the foundations. In the context, vulnerability was said to refer to a plaintiff's inability to protect itself from the defendant's want of reasonable care, either entirely or at least in a way which would cast the consequences of loss on the defendant. It is the question of vulnerability which, consistent with the decision in Woolcock
+Street, must determine the outcome of this appeal.
+Further, their Honours said at [57], that although reliance might be necessary to demonstrating vulnerability, it was not sufficient (again, excluding citations): [57] Reliance, in the sense just described, may be a necessary element in demonstrating vulnerability, but it is not a sufficient element. As noted earlier, vulnerability is concerned with a plaintiff's inability to protect itself from the defendant's want of reasonable care, either entirely or at least in a way which would cast the consequences of loss on the defendant.
+Crennan, Bell and Keane JJ likewise referred to Woolcock Street as evoking the concept of vulnerability "as the rationale explaining the exceptions to the general rule", namely "that damages for economic loss which is not consequential upon damage to person or property are not recoverable in negligence even if the loss is foreseeable". (The quotations come from, respectively, [130] and [127] of their Honours' reasons.) 
+Crennan, Bell and Keane JJ observed at [130] that: 
+Vulnerability, in this field of discourse, is concerned not only with the reasonable foreseeability of loss if reasonable care is not taken by the defendant, but also, and importantly, with the inability of the plaintiff to take steps to protect itself from the risk of the loss.
+I turn aside from Brookfield Multiplex for a moment, to consider the plurality judgment (Gleeson CJ, Gummow, Hayne and Heydon JJ) in Woolcock Street. Their Honours identified the importance of vulnerability at [23]. I set out that paragraph, omitting citations: [23] Since Caltex Oil, and most notably in Perre versus Apand Pty Ltd, the vulnerability of the plaintiff has emerged as an important requirement in cases where a duty of care to avoid economic loss has been held to have been owed. ''Vulnerability'', in this context, is not to be understood as meaning only that the plaintiff was likely to suffer damage if reasonable care was not taken. Rather, ''vulnerability'' is to be understood as a reference to the plaintiff 's inability to protect itself from the consequences of a defendant's want of reasonable care, either entirely or at least in a way which would cast the consequences of loss on the defendant. So, in Perre, the plaintiffs could do nothing to protect themselves from the economic consequences to them of the defendant's negligence in sowing a crop which caused the quarantining of the plaintiffs' land. In Hill versus Van Erp, the intended beneficiary depended entirely upon the solicitor performing the client's retainer properly and the beneficiary could do nothing to ensure that this was done. But in Esanda Finance Corporation Ltd versus Peat Marwick
+Hungerfords, the financier could itself have made inquiries about the financial position of the company to which it was to lend money, rather than depend upon the auditor's certification of the accounts of the company.
+Their Honours' reasons for holding that there was no relevant vulnerability are encapsulated at [31]: [31] Neither the facts alleged in the statement of claim nor those set out in the Case Stated show that the appellant was, in any relevant sense, vulnerable to the economic consequences of any negligence of the respondents in their design of the foundations for the building. Those facts do not show that the appellant could not have protected itself against the economic loss it alleges it has suffered. It is agreed that no warranty of freedom from defect was included in the contract by which the appellant bought the land, and that there was no assignment to the appellant of any rights which the vendor may have had against third parties in respect of any claim for defects in the building. Those facts describe what did happen. They say nothing about what could have been done to cast on the respondents the burden of the economic consequences of any negligence by the respondents. The appellant's pleading and the facts set out in the Case Stated are silent about whether the appellant could have sought and obtained the benefit of terms of that kind in the contract.
+Those passages of the plurality reasons in Woolcock Street were cited, with evident approval, both by Hayne and Kiefel JJ, and by Crennan, Bell and Keane JJ, in their respective judgments in Brookfield Multiplex. 
+The "pleaded" case summarised in the plaintiffs' contentions in their amended commercial list statement filed on 2 October 2014 gives no hint as to why, the plaintiffs say, LMW and Mr Kenna owed a duty of care. 
+The existence of the duty is alleged in para 15. That paragraph says no more than that, in the preparation and provision of their report, Mr Kenna and LMW "owed the plaintiffs a duty of care to exercise reasonable and due skill, care and competence in the conduct of the valuation and the preparation of the Report". There is no attempt to embellish that bare and conclusory statement with either pleading or particulars supporting the proposition that the plaintiffs were, in the requisite sense, vulnerable. Nor is there any pleading of reliance. 
+It may be accepted that LMW and Mr Kenna knew that the valuation was required for the purposes of "dispute resolution". Mr Kenna said that he came to know, before he prepared the report, "that... [it] was to be used by Mr Ferrier in connection with the mediation of a dispute between other parties" (T75.47-.50). Mr Kenna met Mr Ferrier and "representatives of the parties" who he became aware later were in dispute, on site on 1 May 2007. Mr Kenna agreed that he then became aware that there were "other parties" who were in dispute (T76.7). 
+Mr Kenna later gave the following evidence (T80.7-81.1): 
+Q. Mr Muddle asked you some questions concerning the meeting on 1 May at the site, do you recall that? 
+A. The questions or the meeting? 
+Q. The questions.
+
+A. Yes.
+
+Q. You recall the meeting as well? 
+A. Yes, I recall the meeting.
+
+Q. You said in answer to one of his questions that you weren't aware at the time of the meeting that there was a dispute between parties but you subsequently became aware, do you recall? 
+A. That's correct, yeah.
+
+Q. That awareness you said came to your knowledge prior to you signing the valuation report? 
+A. Yes, that's right, yeah.
+
+Q. Prior to that time you understood, didn't you, that the parties were Mr
+Cahill and Mr Bega? 
+A. Prior to the report leaving, yes, yeah. Not prior to the meeting.
+
+Q. Prior to the report? 
+A. Yes.
+
+Q. In fact after the leaving on the site on 1 May did you meet with Mr Bega in a cafe at Narrabeen? 
+A. Not that I recall, no.
+
+Q. After the meeting at the site and then before you signed off on the report you understood, didn't you, that the dispute between Mr Cahill and Mr Bega concerned the valuation of the property? 
+A. Yeah, well that's why I knew I was doing a valuation, yes.
+
+Q. You understood you were doing a valuation for the purposes of resolution of their dispute? 
+A. Yes.
+
+Q. You understood as well, didn't you, that your valuation would be relied upon by them to resolve the dispute? 
+A. Yes, partially relied upon by them it was explained to me by my director.
+
+Q. Who was that director? 
+A. Bill Fatouros.
+Subsequently, Mr Kenna said in re-examination (T105.3-.17): 
+Q. In your evidence you were asked some questions by my learned friend Mr
+Henry concerning the subject matter about whether you were aware of who Mr
+Kenna and Mr Bega were and how the valuation was to be used, and in part one of your answers you said that you understood that it was to be partially relied upon in the mediation and you referred to Mr Fatouros. What, if anything, did Mr Fatouros say to you about that subject matter? 
+A. Now, if I relive it, when I was allocated the job by him I didn't really delve into what the report was to be used for. It was only that I knew the property and it was just another valuation essentially. Most of my work was mortgage work. It was only well into the process, and this is after that first inspection date meeting Mr Ferrier and the other parties, but it dawned on me that this is what it's going to be used, what does this mean. So I went into his office and had a conversation, and he reiterated to me that, "Oh, they get a number of valuation and sit down at a mediation or a negotiation", period, so that's how it was relayed to me.
+In my view, the plaintiffs have not shown that they were, in the requisite sense, vulnerable to any want of care on the part of LMW or Mr Kenna. First, as I have said, the detailed function of the valuation (under cl 2.3(i) of the HOA) was not made known to LMW. 
+There is no evidence that LMW or Mr Kenna knew or should have known that their valuation would be, in the words of cl 2.3(i) of the HOA, "binding" (and without any right of appeal) or that it must "be adopted for the purpose of", among other things, calculating the amount owing by the Bega parties to the Cahill parties or vice versa. 
+Secondly, there is no pleaded case of reliance (let alone known reliance). Nor is there any evidence to suggest that Mr Cahill did in any way rely on LMW to exercise its functions with due care. No doubt he expected that it would. But that is a different matter. 
+In Legal and General Life of Australia Ltd versus A Hudson Pty Ltd [(1985) 1 NSWLR 314], McHugh J said at 335 that parties who agree to accept the honest and impartial decision of a valuer, as to a matter in dispute between them, "rely on his skill and judgment and agree to be bound by his decision". However, as his Honour had said a little earlier on the same page, that reliance is placed on the valuer on the basis that, among other things, the conclusion may be mistaken or the valuation may be unreasonable. 
+If I may say so with respect, I do not regard his Honour's observations as establishing, as a general principle, that all parties in dispute who agree to refer a question in dispute to an independent expert, and to be bound by the outcome, should be taken, for the purposes of the law of liability for pure economic loss, to have relied on the work of the expert. 
+But even if I were wrong in this, that is not enough. Even if there were both a pleading of and some evidence to show reliance, that of itself is not sufficient, for the reasons given by Hayne and Kiefel JJ in Brookfield Multiplex at [57] (see at [232] above). 
+Thirdly, and a fortiori from what I have just said, there is no evidence to support the proposition that LMW in fact understood that Mr Cahill was relying on it to exercise due care, having regard to the function and contractual effect of the valuation. Again, no doubt, LMW understood that it was required to exercise due care. But that is far from finding that it was required to exercise due care because the value determined by it would be binding and without right of appeal. 
+As a matter of reality, valuers who are asked to perform a valuation must be taken to understand that the party or parties for whom it is performed will rely on it in some way. It may be accepted that LMW undertook the retainer, and performed it, with that corporate state of mind. But it is a long way from saying that someone will rely on a valuation generally to saying that parties in dispute have agreed, in a binding contract, that the valuation will be final and conclusive evidence of what it says, so as to resolve finally between them the issue to which the valuation is directed. 
+Fourthly, there is no basis in the evidence for concluding that Mr Cahill lacked the ability to protect his own interests. On the contrary, at all relevant times, he and his companies had the advice of one of Sydney's leading law firms. It was with the assistance of that law firm that the terms of the HOA (and, for that matter, the mediation agreement) were negotiated. It was with the benefit of that advice that Mr Cahill and his companies chose to accept, as a way of finalising disputes as to the value of the Narrabeen land, the provisions of cls 2.3(h),(i). It was not suggested (let alone proved) that Mr Bega would not have been prepared to contract except on the basis set out in those clauses. 
+It does not require a great deal of imagination to conceive of a contractual scheme that would have accorded less than final and binding effect to the LMW valuation. There is no evidence to suggest that the HOA could not have been negotiated so that less than final and binding, or conclusive, effect was to be given to the LMW valuation. 
+Before I leave this issue, I should note that in Legal and General, McHugh JA said at 385 that "[i]t is now settled that an action for damages for negligence will lie against a valuer to whom the parties have referred the question of valuation if one of them suffers loss as the result of his negligent valuation". 
+If I may say so with great respect, the basis on which the Courts impose a duty of care for pure economic loss has changed very markedly indeed since his Honour wrote those words. In light of the reasoning in cases such as Brookfield Multiplex and Woolcock Street, I do not think that his Honour's statement can be taken to require the conclusion that a valuer in the position of LMW does owe a common law duty of care to parties in the position of the Bega and Cahill parties for whom (even though the valuer might not know it) the valuation is prepared. That must be so, a fortiori, where the valuer does not know that the product of its work is to have the effect ascribed by cl 2.3(i) of the HOA. 
+In my view, LMW and Mr Kenna owed no common law duty of care. 
+Fourth issue: nature and scope of the duty
+This issue does not arise. 
+Fifth issue: negligence
+In view of my finding that no duty of care was owed, and also having regard to what I have said as to the expert evidence and my conclusions based on it (see at [156] to [158] above) this issue can be dealt with in a relatively summary way. 
+Failure to value at highest and best use 
+LMW was instructed to proceed without expert town planning advice, and to value the land "as is". Since that was the express instruction given, LMW could not have been negligent (even if, contrary to my view, it owed a duty of care) by failing to value the property in accordance with some other, hypothetical but undemonstrated, "highest and best use". 
+Preparing valuation without expert town planning advice 
+For the same reason, even if LMW owed a duty of care, it could not have breached that duty by proceeding without town planning advice. LMW was bound by the terms of instructions given to it pursuant to the retainer. Those instructions were to proceed without town planning advice. 
+Irrelevant consideration: the residual cash flow analysis 
+This sub-issue seems to me to be misconceived. LMW relied on the cash flow analysis only to support its conclusion that the approved use under the 2005 consent (as costed in the Makin report) did not represent the highest and best use of the land. (That conclusion has been endorsed by Messrs Davis and Panopoulos.) Accordingly, and again as it was instructed to do, LMW proceeded to value the apartment site on the comparable sales basis. 
+LMW only took its residual cash flow analysis into account for the purpose of discarding it as an appropriate method of valuation. Since Messrs Panopoulos and Davis agree that the residual cash flow analysis was not the appropriate valuation method, LMW could not have been negligent by discarding it. And having discarded it, it could not be said that LMW took it into account as "an irrelevant consideration". 
+Value that no prudent and reasonable valuer could arrive at?
+For the reasons that I have given in relation to the expert evidence, the answer is "no". 
+Sixth issue: misleading or deceptive conduct 
+For the reasons that I have given, including in particular my preference for the evidence of Mr Panopoulos over that of Mr Davis, the answer must be "no". The evidence does not support a finding that a representation of value at $12 million inclusive of GST was so low as to be misleading or deceptive. 
+There was some discussion, in the course of submissions, as to whether the plaintiffs' case was one of "direct" or "indirect" reliance: see cases such as Digi-Tech (Australia) Ltd versus Brand <case>; [(2004) 62 IPR 184]
+In view of the conclusions to which I have come, it is not necessary to delve into this debate. However, it seems to me, the following propositions should govern the inquiry as to causation: where damages are claimed for misleading or deceptive conduct, in contravention of an applicable statute, the relevant inquiry is whether the plaintiff suffered loss "by" that conduct; the inquiry must be whether the loss claimed occurred by reason of, or as a result of, that conduct - see Janssen-Cilag Pty Ltd versus Pfizer Pty Ltd <case>; [(1992) 37 FCR 526] at 531; thus, what the plaintiff must show is that the conduct in question was an effective or direct cause of the loss - Janssen-Cilag at 530; that conduct may be a direct or effective cause of the loss if it was an essential part of the chain of causal events that, ultimately, led to loss -
+ABN AMRO Bank NV versus Bathurst Regional Council <case>; <case>; and focussing on reliance may divert attention from the statutory requirement: that the loss claimed be caused "by" the contravention of the relevant legislation, and there may be cases in which reliance is inappropriate as a tool for examining the question of causation: Campbell versus Backoffice
+Investments Pty Ltd [(2009) 238 CLR 304] at [143] (Gummow, Hayne, Heydon and Kiefel JJ).
+Against that brief statement of principle, it may very well be that: any attempt to turn the inquiry as to causation into a search for reliance, whether direct or indirect, may represent a diversion from the statutory test; put in other words, those categories of causation may not state dichotomously the entire universe of causation; and in any event, as the Full Court pointed out in ABN AMRO at [1375], "[t]here is no bright-line principle that it is insufficient for a plaintiff to prove [I interpolate, "only"] that some other person relied on the alleged misleading conduct and that that person's reliance led to the plaintiff suffering loss".
+Had I concluded that the act of LMW publishing its valuation was relevantly misleading or deceptive, in stating the value of the apartment site as that valuation did, a question would arise as to whether that act was an essential step in the chain of causal events. 
+It could be said that "but for" that hypothetical misleading or deceptive conduct, the plaintiffs would not have suffered loss. Whether or not that would be sufficient to establish causation is a matter that need not be pursued, given my conclusion that there was no misleading or deceptive conduct. 
+Seventh issue: effect of the further compromise
+In light of my findings and conclusions to date, the answer must be "none". 
+Since the effect of the compromise effected by the amending deed is purely hypothetical, and requires no findings of fact, I do not think it necessary to delve further into this issue, on the assumption that my findings and conclusions to date might be incorrect. 
+Eighth and ninth issues: loss; quantum 
+For the reasons that I have given in relation to the valuation evidence, the answer to these issues are, respectively, "no" and "does not arise". 
+Tenth issue: market value of the property $20 million exclusive of GST? 
+For the reasons that I have given in relation to the expert evidence, the answer is "no". 
+Eleventh, twelfth and thirteenth issues: contributory negligence / mitigation; proportionate liability; exclusion clause 
+These issues do not arise. They do not involve any contested questions of fact. The parties' submissions have been stated in some detail in writing and their oral submissions have been recorded. I see no point in dealing with hypothetical questions that necessarily assume a state of affairs quite different to that which, in my view, is shown by the evidence. 
+Fourteenth issue: conformance of valuation to heads of agreement 
+This, and the next, issue are not agreed. On the assumption that both arise, the answer to this issue is "yes". 
+Clause 2.3(h) of the HOA required Mr Ferrier to instruct LMW on behalf of Messrs Bega and Cahill "to undertake an independent arm's length market valuation of", among other things, the apartment site. 
+For the reasons I have given, that is precisely what LMW did. 
+It may be that this issue is intended to raise, as a question, whether the valuation could be said to conform to the requirements of the HOA if it was so unreasonably low that no valuer, acting reasonably and prudently, could have produced it. If that is the proper construction of the issue, there are two problems. One is that there is nothing in the text of cl 2.3(h) to suggest that the valuation must be anything other than "an independent arm's length market valuation" to have the effect that cl 2.3(i) ascribes to it. 
+The other problem is that, taking into account my findings and conclusion on the expert evidence, the factual premise has not been demonstrated. 
+Fifteenth issue: reliance (the amending deed) 
+I do not see how it could be said that Mr Cahill relied on the correctness of the valuation when he entered into the amending deed. On the contrary, it was his vehement insistence that the valuation was fundamentally flawed, and ascribed far too low a value to the apartment site, that led to the process of mediation that in due course produced the amending deed. 
+Sixteenth issue: capacity in which Mr Ferrier instructed LMW
+The question raised by this issue is whether Mr Ferrier instructed LMW in his capacity as "mediator" under the mediation agreement, so as to attract the exclusion of liability given by cl 6(a). 
+In my view, Mr Ferrier did not act as a mediator when he instructed LMW. 
+The authority for Mr Ferrier to engage LMW did not come from the mediation agreement. It came from cl 2.3(h) of the HOA. Thus, there is no contractual basis for concluding that Mr Ferrier's actions (and any omissions) in instructing LMW were "acts or omissions... in the performance or purported performance of his functions as a mediator" for the purposes of cl 6.3(a). 
+Mr Ferrier may well have been engaged to retain LMW because he was independent, and because he was (or was to be) the mediator. It does not follow that he was engaged in his capacity as mediator. 
+Mr Ferrier was not a party to the HOA. Thus, he was not compelled to accept the engagement for which cl 2.3(h) provided. But, having done so, he was required to perform it. It does not follow, because he also and contemporaneously held the position of mediator (and, if necessary, expert) under the mediation agreement, that his acceptance of that engagement should be assimilated with the performance of his functions as mediator. 
+The valuation was required to enable a calculation of the swing payment. That is not one of the "issues to be referred to mediation" described in Schedule 2 to the mediation agreement. 
+There was a debate as to whether Mr Ferrier was contractually bound to instruct LMW, or whether he did so gratuitously. As I understand it, that is why issue 19 (relating to an alleged duty of care) was raised. 
+By cl 2.3(h) of the HOA, the Cahill parties and the Bega parties agreed between themselves (but not with Mr Ferrier) to engage Mr Ferrier to instruct LMW. Mr Ferrier accepted that engagement, at least by conduct, no later than the time at which he prepared the draft letter of instruction and sent it to Messrs Cahill and Bega for comment. 
+In my view, there did arise between the Cahill and Bega parties on the one hand and Mr Ferrier on the other, a separate contract whereby, for reward, Mr Ferrier agreed and undertook to instruct LMW in accordance with the requirements of cl 2.3(h) of the HOA. There is no doubt in my view that Mr Ferrier was entitled to charge fees at his agreed rate for all work reasonably and properly performed by him in the execution of that engagement. No doubt, Mr Ferrier could have refused to accept the engagement. But having accepted it, and having thus become entitled to be paid for performing it, he became contractually bound to do so. 
+It may be that the fees that Mr Ferrier charged in relation to this engagement were not differentiated from the fees charged by him for work done under the mediation agreement. That is to say, Mr Ferrier may not have invoiced the Cahill parties and the Bega parties separately for "engagement" work on the one hand and "mediation" work on the other. 
+For what it is worth, there is some evidence, in the form of invoices for services rendered, that Mr Ferrier performed some work for the Bega and Cahill parties before 12 April 2007. 
+If, as I think is the correct analysis, there were a separate contract between the Cahill and Bega parties on the one hand and Mr Ferrier on the other, engaging Mr Ferrier to instruct LMW, that is yet another reason for thinking that his work in doing so was not done by him pursuant to the mediation agreement or in his capacity as mediator. 
+Again for what it is worth, the engagement of an expert to prepare a valuation which is to be final and binding on the parties to a mediation is not normally a function undertaken by mediators. 
+Seventeenth issue: requirements of the HOA in relation to valuation 
+The HOA required Mr Ferrier, should he accept the engagement, to instruct LMW on behalf of the Bega and Cahill interests to undertake an independent arm's length market valuation of, among other things, the apartment site. It is common ground between the valuers that this required LMW to be instructed to value the site "as is" on the basis of its highest and best use. LMW accepted an obligation to value on an "as is" basis, and again the experts agree that this imported the concept of highest and best use. 
+Eighteenth issue: what was Mr Ferrier obliged to do? 
+Mr Ferrier was obliged, by acceptance of his engagement pursuant to cl 2.3(h), to instruct LMW in the manner that I have just indicated. That obligation did not arise under the mediation agreement. 
+Nineteenth issue: Mr Ferrier's alleged duty of care 
+This issue arises, as I understand it, because it was thought that, if Mr Ferrier were engaged pursuant to the HOA rather than under the mediation agreement, it might be that he gave no consideration for undertaking to instruct LMW. I have dealt with that already. 
+I will not repeat what I have said as to the requirements for demonstration of vulnerability. Again, there is no pleading of material facts going to this question, nor evidence showing vulnerability. 
+It is enough to say that, in my view, Messrs Bega and Cahill, and their respective interests, had ample opportunity to protect themselves against any want of care on Mr Ferrier's part. No doubt, they assumed that Mr Ferrier would exercise reasonable care, and relied on him to do so. But any (hypothetical) failure to protect their position, at a time when they were negotiating the terms of their contract with Mr Ferrier, tells strongly against the imposition of a common law duty of care. 
+If I were wrong in this, no common law duty of care that Mr Ferrier owed could go beyond his contractual obligation. By "contractual obligation" I mean the implied obligation to use reasonable care and skill arising under what I have concluded was a contract between him on the one hand and the Cahill and Bega parties on the other, created pursuant to his acceptance of the engagement and their implied promise to pay him for work done in fulfilling that engagement. 
+In my view, Mr Ferrier owed no duty as alleged. 
+Twentieth issue: breach 
+On what I have just said, this issue does not arise. However, it can be disposed of quickly in any event. 
+No letter of instruction?
+I have found that Mr Ferrier did provide written instructions to the effect of the draft letter of instruction. It follows that he did not breach his duty by failing to do so. 
+Failure to provide expert town planning advice 
+Mr Ferrier was acting on behalf of the Bega and Cahill interests. He had no mandate, in relation to the engagement of LMW, other than that given to him by his acceptance of the cl 2.3(h) engagement. 
+Mr Ferrier, properly, referred to Messrs Cahill and Bega Mr Kenna's request for expert town planning advice. He was not given instructions to provide such advice to Mr Kenna. Mr Cahill agreed that it could be given; Mr Bega said that it could not. 
+In my view, Mr Ferrier had neither power nor authority to act except in accordance with the joint instructions of Messrs Cahill and Bega. Thus, those joint instructions being denied to him, he was not in a position to cause LMW to be provided with expert town planning advice. 
+Put shortly, Mr Ferrier could not have breached any duty of care that he owed by acting as, in the circumstances, he was required to do. 
+Instructing LMW to proceed on the basis of the available material 
+Mr Ferrier had no option but to give that instruction, because of the absence of authority to provide LMW with town planning advice. Neither Mr Cahill nor Mr Bega suggested that Mr Ferrier should withdraw the instructions given to LMW. Thus, in the real world, there was nothing for Mr Ferrier to do but to tell LMW to proceed, using its professional skill and judgment as it saw fit on the basis of the available material, to derive a market value for the land. 
+In essence, that is what Mr Ferrier did.
+
+Use of the direct comparison method 
+Messrs Davis and Panopoulos agreed that it was appropriate to use the direct comparison method. Mr Ferrier could not have been negligent in instructing LMW to proceed using that method. 
+Twenty-first issue: the letter of instruction again 
+For the reasons I have given, Mr Ferrier did provide instructions to the effect of the draft letter of instruction. Thus, there is no breach. 
+Twenty-second issue: limitation
+This issue does not arise.
+
+Twenty-third issue: compromise
+The plaintiffs did mediate with the Bega interests, and did procure a better outcome. That is because Mr Bega agreed, for the purpose of resolving the dispute, that the value to be ascribed to the apartment site should be $14.5 million, not $12 million. 
+Twenty-fourth and Twenty-sixth issues: loss 
+On my findings as to the valuation evidence, these issues do not arise. 
+Twenty-fifth and twenty-seventh issues: the mediation agreement; the settlement; contributory negligence and the like 
+What I have said at [273] applies equally here. 
+Twenty-eighth issue: market value
+Although this and the following issues are not agreed, it is convenient to deal with them. 
+As to issue 28: the plaintiffs have not proved that the market value of the apartment site, as at 25 June 2007, was $20 million exclusive of GST or anything remotely approaching that figure. Otherwise, I repeat my conclusion (see at [158] above) that the evidence does not justify ascribing to the apartment site a value any higher than $14.5 million. 
+Twenty-ninth issue: conformance to the requirements of the HOA
+For the reasons I have given, the LMW valuation did conform to the requirements of the HOA. 
+Thirtieth issue: causation 
+This issue relates back to issues 20 and 21. In view of my conclusions on those issues, this issue does not arise. 
+Thirty-first issue: plaintiffs' awareness of alleged deficiencies
+From the time LMW provided its valuation of the apartment site, the plaintiffs held the view that the valuation grossly understated the value of the land. If that were a deficiency in the valuation (and in my view it was not, for the reasons that I have given), the plaintiffs were aware of it. 
+The plaintiffs received the benefit of advice on the consequences of the valuation. They were told (in my view correctly) that it might be a very difficult matter to challenge the valuation, having regard to the principles established in Legal and General. Were it necessary to do so, I would conclude that the plaintiffs were aware that: they could seek to challenge the valuation; but the prospects of success of such a challenge were, to put it neutrally, limited.
+
+Thirty-second issue: reliance (the amending deed) 
+For the reasons I have given in relation to issue 15 at [279] above, the answer must be "no". 
+Conclusion and orders
+The plaintiffs' case fails against each of the defendants. 
+In each matter, I order that there be judgment for the defendants with costs. 
+I direct that the exhibits be handed out. * * * 

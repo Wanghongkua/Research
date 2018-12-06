@@ -1,0 +1,183 @@
+
+
+Wallace Funds Management Pty Ltd versus Wallace Absolute Return Ltd [2009]
+NSWSC 190 (24 March 2009) 
+Last Updated: 25 March 2009 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Wallace Funds Management Pty Ltd versus Wallace Absolute Return Ltd <case>  
+JURISDICTION: 
+Equity Division  
+FILE NUMBER(S):  /08  
+HEARING DATE(S):  , 12 and 13 February 2009  
+JUDGMENT DATE:  March 2009  
+PARTIES: 
+Wallace Funds Management Pty Ltd (Plaintiff) 
+Wallace Absolute Return Limited (Defendant)  
+JUDGMENT OF: 
+Palmer J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+F.M. Douglas QC, G.E. Underwood, W.A.D. Edwards (Plaintiff) 
+I.M Jackman SC, J.A. Arnott (Defendant)  
+SOLICITORS: 
+Bradfield & Scott (Plaintiff) 
+Allens Arthur Robinson (Defendant)  
+CATCHWORDS: 
+CONTRACTS - Whether Plaintiff as manager of Defendant's investment fund procured breach by Defendant of ASX "related party transaction" rules - whether Defendant's notice requiring Plaintiff to rectify breaches of
+Management Agreement valid - whether Defendant elected against enforcing right to terminate Management Agreement - whether Plaintiff had rectified breaches of Management Agreement. 
+ASX LISTING RULES - CONSTRUCTION - Meaning of "acquire".  
+LEGISLATION CITED:  [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) - [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s228.html)  [Trustee Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/) - [s
+A](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/s14a.html)  
+CATEGORY: 
+Principal judgment  
+CASES CITED:  - Alghussein Establishment versus Eton College [[1988] 1 WLR 587]  - Armitage versus Nurse [1998] Ch 241  - Batson versus De Carvalho <case>; [(1948) 48 SR 417]  - Fouche versus Superannuation Fund Board <case>; [(1952) 88 CLR 609]  - L. Schuler AG versus Wickman Machine Tool Sales Ltd <case>; [[1974] AC ], at 249 per Lord Reid  - Speight versus Gaunt <case>  - TCN Channel 9 Pty Ltd versus Hayden Enterprises Pty Ltd [(1989) 16 NSWLR ]  
+TEXTS CITED:  
+DECISION: 
+Summons dismissed.  
+JUDGMENT:  /08 Wallace Funds Management Pty Ltd versus Wallace Absolute Return Ltd 
+JUDGMENT March, 2009 
+Introduction The Defendant ("WAB") is an investment company listed on the Australian
+Securities Exchange ("ASX"). It has an investment portfolio which is managed by the Plaintiff ("WFM") pursuant to a Management Agreement dated 22 October ("the Management Agreement"). Both WAB and WFM were established by Mr
+Richard Walker. Mr Walker is the controlling director of WFM and, up to 4
+December 2008, he was also the managing director of WAB.
+ On 5 December 2008, WAB served on WFM a Notice under Clause 11.3(c) of the
+Management Agreement. That clause entitles WAB to terminate the Agreement "... [if WFM] breaches on more than 2 occasions a material term of this
+Agreement ... and such default or breach is not rectified within 30 days after [WAB] has notified [WFM] in writing to rectify the same". The Notice listed a series of transactions entered into by WAB, said to have been procured by WFM as manager in breach of certain clauses of the Management Agreement. The
+Notice required rectification of those breaches within thirty days.
+ On 19 December 2008, WFM commenced these proceedings, seeking a declaration that the Notice is invalid and of no effect and an order restraining WAB from terminating the Management Agreement. The matter was set down for trial commencing 11 February 2009 and WAB gave an undertaking inter partes that it would not terminate the Management Agreement in reliance upon the Notice until February. No Notice of Termination had been given by WAB by the conclusion of the hearing.
+ The breaches of the Management Agreement relied upon by WAB in the Notice arise out of two categories of transaction which WFM, as manager of WAB's investment funds, procured WAB to enter. The first category is the acquisition of loan notes issued by Lease Company of Australia Ltd ("the LCA Notes"). The second category is the acquisition of redeemable preference shares issued by
+Lease Investments Pty Ltd ("the LIP Shares").
+ The LCA Notes were acquired in twelve tranches between 5 August 2005 and 30
+April 2008. The total value of the Notes is $7,930,865. The LIP Shares were acquired in November 2005, for a total of $10M.
+ WAB says that these acquisitions caused it to be in breach of the ASX
+Listing Rules. It says that procurement of the acquisitions by WFM breached
+WFM's obligations under Clause 8 of the Management Agreement not to do anything which would cause WAB to be in breach of the Listing Rules.
+ The acquisitions are said to be in breach of the "related party" provisions of the ASX Listing Rules. Rule 10 relevantly provides: "Approval required if test met .1 An entity (in the case of a trust, the responsible entity) must ensure that neither it, nor any of its child entities, acquires a substantial asset from, or disposes of a substantial asset to, any of the following persons without the approval of holders of the entity's ordinary securities.
+ .1.1 A related party.
+ ...
+
+If an entity breaks this rule, ASX may require it to take the corrective action set out in rule 10.9." "What is a substantial asset? .2 An asset is substantial if its value, or the value of the consideration for it is, or in ASX's opinion is, 5% or more of the equity interests of the entity as set out in the latest accounts given to ASX under the listing rules.
+ .2.1 In calculating the value, each ...
+ ...
+
+Separate transactions will be aggregated if, in ASX's opinion, they form part of the same commercial transaction." "Acquire" is defined in Rule 19.12: "... to acquire or agree to acquire directly or through another person by any means, including the following.
+
+Granting or exercising an option.
+
+Enforcing collateral and taking an asset.
+
+Increasing an economic interest.
+
+Acquiring part of an asset." "Related party" is defined as having the same meaning as in <case> [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) which relevantly provides: "(1 Controlling entities An entity that controls a public company is a related party of the public company.
+
+Directors and their spouses The following persons are related parties of a public company: directors of the public company; directors (if any) of an entity that controls the public company ...
+ ...
+ spouses of the persons referred to in paragraphs (a), (b) and (c).
+ ...
+
+Entities controlled by other related parties An entity controlled by a related party referred to in subsection (1), (2) or (3) is a related party of the public company unless the entity is also controlled by the public company." "Equity interests" is defined in Rule 19.12 as: "... the sum of paid up capital, reserves, and accumulated profits or losses, disregarding redeemable preference share capital and outside equity interests, as shown in the consolidated financial statements." There is no dispute that the acquisitions by WAB were from "related parties". That is because: - Mr Wallace, as a director of WAB, was a related party of WAB; - Mrs Wallace, the wife of Mr Wallace, was a related party of Mr Wallace and therefore a related party of WAB; - Mr and Mrs Wallace control LCA and LIP because they are the sole directors and shareholders of Amrav Pty Ltd, the parent company of LCA and LIP.
+ There is no dispute that: - the acquisition of the LIP Shares for $10M was for a value which exceeded WAB's equity interests, as defined in the Listing Rules, so that that acquisition fell within ASX Rule 10.1; - upon the third acquisition in the series of acquisitions of LCA Notes - an acquisition for a face value of $3,064,639 - the aggregate of the values of the three tranches acquired exceeded the permitted limit under Rule 10.1; - the acquisitions of the LIP Shares and the LCA Notes were never approved by shareholders of WAB, as required by Rule 10.1.
+ The non-executive directors of WAB at all material times were Mr K. Barry and Mr A. Liddle. They say that they knew that Mr Wallace was a director of
+LCA and LIP at the time of the acquisitions but that they did not know until
+July 2008 that Mr Wallace controlled those companies by reason of his control of their parent company, Amrav. They say that when they became aware that Mr
+Wallace controlled LIP and LCA, and that therefore the acquisitions were in breach of ASX Listing Rule 10.1, they required WFM to arrange to dispose of the investments.
+ LIP and LCA had used the funds received for the LIP Shares and the LCA
+Notes to invest in a group of companies the parent of which is Hal Data
+Services Pty Ltd ("Hal"). In order to extricate WAB from the related party acquisitions, Mr Wallace proposed to the WAB Board that WAB sell the LCA Notes and the LIP Shares to Hal in exchange for debt in Hal, which would be secured by a first ranking charge over specific assets of Hal to the value of the debt.
+ The proposal to divest WAB of the "related party" acquisitions in this way was discussed with the ASX, which agreed that the proposed transaction would cure the breach by WAB of Rule 10.1. On 3 September 2008, the WAB Board resolved to implement the transaction with Hal and made a public announcement accordingly.
+ However, by a document described as "HAL Note Certificate" dated 29 August , executed by Hal and by Mr Wallace on behalf of WAB, WAB had already transferred to Hal the LCA Notes and the LIP Shares. The consideration was left outstanding as a debt. The security for the debt was stated in the Note
+Certificate thus: "Hal will provide a first ranking charge over specific assets. WAB will not unreasonably withhold their acceptance of assets provided." The independent WAB directors say that Mr Wallace effected the transfer in these terms on behalf of WAB without their prior knowledge and consent.
+ Hal told WAB that it was unable to provide a first ranking charge over any of its assets. The independent WAB directors say that they believed that Mr
+Wallace then began negotiating a solution with Hal. When, apparently, no progress was being made, the WAB Board issued the Notice to WFM on 5 December , requiring it to rectify the breaches of the Management Agreement arising from the acquisition of the LCA Notes and the LIP Shares.
+ The WAB independent directors say that it was not until 19 December 2008 that Mr Wallace told them that the transfer of the LCA Notes and the LIP
+Shares to Hal had already been effected by the Note Certificate dated 29
+August 2008 and that no security for the outstanding sale price had then been taken. The independent directors asked Mr Wallace to resign immediately as a director of WAB and he did so.
+
+The issues The issues may, very broadly, be summarised thus: - did the independent directors of WAB know from about August 2005 that Mr Wallace controlled LCA and LIP and that, consequently, the acquisitions by WAB of the LIP Shares and LCA Notes were "related party transactions"; - if so, did WAB irrevocably elect against its right to rely upon those transactions as breaches of the Management Agreement by WFM; - if WFM breached the Management Agreement by reason of the acquisitions, is the Notice invalid because there were not more than two breaches; - has WAB irrevocably elected against its remedy of termination under Clause 11.3(c) of the Management Agreement by itself entering into a contract with Hal to reverse the transactions specified in the Notice; - has the contract between WAB and Hal for the transfer of the LCA Notes and LIP Shares in itself rectified the breaches relied upon in the Notice.
+
+WAB's prior knowledge of the "related party" transactions Mr Barry, one of the two independent WAB directors and chairman of the
+Board, says that in 2005, when WFM recommended the purchase of the LCA Notes and the LIP Shares, neither he nor the other independent director, Mr Liddle, was aware of the ownership structure of LCA and LIP. In June 2008, Mr Liddle instructed WAB's solicitors to review WAB's investments in Hal through the LCA
+Notes and the LIP Shares. It was about July 2008 that Mr Barry asked Mr
+Wallace directly who owned LCA and LIP and Mr Wallace said that he controlled % of those companies. Mr Barry immediately consulted WAB's solicitors. They advised that the acquisitions of the Notes and Shares were related party transactions and had been carried out in breach of ASX Listing Rule 10.
+ Mr Wallace does not assert that, prior to July 2008, he ever told Mr Barry or Mr Liddle expressly and unequivocally that, through Amrav, he controlled
+LCA and LIP. Mr Wallace says that he assumed that both Mr Barry and Mr Liddle knew that fact. He says that Mr Barry should not now be believed when he asserts that he and Mr Liddle did not know.
+ Mr Douglas QC, who appears with Mr Underwood and Mr Edwards of Counsel for
+WFM, points to a number of documents as evidencing knowledge on the part of the independent directors that LCA and LIP were controlled by Mr Wallace and that, therefore, they were "related parties" of WAB for the purposes of the acquisition of the Notes and Shares.
+ An Information Memorandum dated 14 January 2005 issued by LCA in connection with the issue of the LCA Notes disclosed that Mr Wallace was one of four directors of LCA and that LCA was a wholly owned subsidiary of LIP. However, the Information Memorandum does not disclose that Mr Wallace controlled LIP and LCA through Amrav. One of the directors of LCA, as disclosed in the
+Information Memorandum, was Mr Grant, a director of Hal. The purpose of the issue of the LCA Notes was to provide funding for Hal. Mr Barry says that he understood at all times that Mr Grant was a director of both Hal and LCA.
+ WAB's auditors reported to the Board in a letter dated 8 August 2005 concerning matters that had come to their attention during the course of the audit for the year ended 30 June 2005. On the fourth page of the report the auditors noted that LCA had been "established by interests associated with
+WAB's management team" . The report referred to AASB 1017 which provides that a "related party disclosure" does not have to be made in certain circumstances. The auditors then say: "The related party transaction with LCA has been disclosed in the notes to the financial statements by general description only, on the basis that the transactions with LCA are no more favourable to LCA than WAB would otherwise transact." 
+The financial statements do not expressly disclose that the acquisition of the
+LCA Notes was a related party transaction.
+ In the notes to WAB's financial statements for the year ended 30 June 2005 the following appears: "RELATED PARTY TRANSACTIONS 
+The Company may invest in the securities or other financial instruments of entities managed by the Manager or entities of which Directors of the Company are also Directors. Any such investments are made on an arm's length basis and no financial benefits accrue to the Directors of the Company as a result of such investments." The words "LCA [was] established by interests associated with WAB's management team" are very imprecise. In cross examination, Mr Barry said that when he read the auditors' report he did not understand that it was Mr Wallace himself who controlled LCA. He said that he understood that LCA was established to provide finance for the Hal Group and that he did not know what the shareholding of LCA was but assumed that people associated with Hal would have a significant interest in LCA. Mr Barry frankly conceded that, in hindsight, he should have made further enquiries about the shareholding of LCA but he maintains firmly that he relied upon the assumptions which he made and that he would have expected Mr Wallace to tell him clearly and expressly that, whatever the vague words in the auditors' report meant, it was in fact Mr
+Wallace who controlled 98% of LIP and LCA.
+ Statements that LCA was "associated with WAB's management team" appeared in the auditors' report to the WAB Board for the half year ended 31 December
+In the Notes to the WAB's financial statements for the year ended 30
+June 2006 the statement appears in terms very similar to those in the Notes to the 30 June 2005 accounts.
+ Mr Barry was shown in cross examination a prospectus issued by LCA and lodged with ASIC in August 2006. The prospectus was for a notes issue. It is some ninety pages in length. On p63, it is disclosed that Mr Wallace has ,000 shares in LCA while the other three directors have 1,000 shares each.
+Mr Douglas put it to Mr Barry that he had read this prospectus at the time of its issue and was therefore aware that Mr Wallace controlled LCA.
+ Mr Barry said that Mr Wallace had given him a draft prospectus for this issue; he had not read every page but had only skimmed it because Mr Wallace had suggested that Mr Barry personally might wish to take up notes in LCA. Mr
+Barry said that he did not know if the disclosure as to Mr Wallace's shareholding in LCA was contained in the draft prospectus which he was given but, if it was, he did not read it.
+ Mr Barry said that if he had been made aware in 2005 that Mr Wallace was not only a director and shareholder of LCA and LIP but, through Amrav, controlled 98% of those companies, alarm bells would have rung because he would have realised that Mr Wallace, as controller of WFM and managing director of WAB, was procuring a loan of $17M to himself through interposed entities. He said he would have been "horrified" by that realisation.
+ I accept the evidence of Mr Barry without reservation. He was careful to be as accurate and precise as possible. He was frank to the extent of admitting that, in hindsight, he could have been more inquisitive about the ownership of
+LCA and LIP than he was. However, he was unshaken in his evidence that he did not become aware of Mr Wallace's ownership of LCA and LIP until July 2008. Mr
+Wallace does not deny that Mr Barry asked him about the ownership of LIP and
+LCA in July 2008. There would have been no need for such an enquiry if Mr
+Barry had already known the answer since 2005.
+ I find Mr Barry's evidence inherently probable. Mr Barry is a solicitor with many years of commercial experience. If he had indeed become aware in of what he says said he discovered with some alarm in July 2008 it is hard to imagine that he would not have immediately had the same reaction as he had in 2008.
+ Mr Liddle did not give evidence but WFM made no submission that Mr Liddle's knowledge was any different from that of Mr Barry.
+ Accordingly, I find that WAB, through the majority of its directors, did not know until July 2008 of the facts which constituted the acquisition of the
+LCA Notes and the LIP Shares a breach of the "related party" provisions of the ASX Listing Rules.
+ It follows that WAB did not elect at any time from August 2005 to July 2008 to approve the acquisitions of the Notes and Shares and, consequently, did not elect against exercising its rights to rely upon those acquisitions as breaches of Clause 8 of the Management Agreement.
+
+Whether more than two breaches of Management Agreement It will be evident from the foregoing that I find that WFM breached Clause of the Management Agreement when it procured WAB to acquire the LCA Notes for a value of $10M and again when it procured WAB's acquisition of the third tranche of LCA Notes for $3,064,369 on 26 October 2005. The value of each of those acquisitions far exceeded 5% of WAB's equity interests, as defined in the ASX Listing Rules - then about $30M.
+ However, no single acquisition of Notes after 26 October 2005 exceeded in value 5% of WAB's equity interests. Mr Douglas says that, while there may have been two breaches of Clause 8 of the Management Agreement by WFM, there were no more than two, so that WAB is not entitled to rely upon Clause 11.3(c) of the Management Agreement and the Notice is invalid.
+ In response, Mr Jackman SC, who appears with Mr Arnott of Counsel for WAB, points to the definition of "acquire" Rule 19.12 of the Listing Rules. He says that to "acquire a substantial asset" for the purposes of Rule 10 includes to "increase an economic interest" in a substantial interest already acquired. He says that the acquisition of the third tranche of LCA
+Notes on 26 October was clearly an acquisition of a "substantial asset" for the purposes of Rule 10 and each acquisition of Notes thereafter increased that acquisition, or increased WAB's economic interest in LCA, so that each such subsequent acquisition was prohibited by Rule 10. In short, Mr Jackman says that if one includes the 26 October acquisition, there were in all ten breaches by WAB of Rule 10 and, consequently, ten breaches by WFM of Clause 8 of the Management Agreement.
+ Mr Douglas made no substantive response to this submission. I accept it as correct. I find that between October 2005 and April 2008 WFM committed not less than ten breaches of the Management Agreement upon which WAB was entitled to rely under Clause 11.3(c).
+
+Did WAB itself elect against Clause 11.3(c) WFM says that on 3 September 2008 the WAB Board authorised Mr Wallace, as managing director of WAB and on behalf of WAB, to enter into a contract between WAB and Hal for the sale of the LCA Notes and the LIP Shares upon terms set out in a proposal from Hal to WAB dated 29 August 2009. Mr Douglas submits that WAB itself thereby took into its own hands the reversal of the acquisitions procured by WFM in breach of the Management Agreement. Under
+Clause 11.3(c) WAB could have required WFM to rectify the breaches but, says
+Mr Douglas, in deciding itself to enter into a contract with Hal, WAB elected irrevocably against exercising its rights under Clause 11.3(c).
+ I do not accept this submission. There is nothing in the Board Minutes of 3
+September 2008 or otherwise in the evidence to support the conclusion that, in authorising Mr Wallace to accept Hal's proposal on WAB's behalf, WAB was departing from the ordinary procedure laid down in the Management Agreement whereby WFM recommended investments for WAB and the investments were then acquired by WAB. WFM had provided a letter to the WAB Board dated 3 September recommending acceptance of the Hal proposal. Clause 5.1 of the Management
+Agreement required WFM "on behalf of [WAB]" to make investments. WAB's problem with the LCA Notes and the LIP Shares had arisen because of WFM's breach of Clause 8 of the Management Agreement. I accept Mr Barry's evidence that WAB's independent directors were looking to WFM to perform its functions under Clause 5.1 of the Management Agreement to extricate WAB from the problem by acquiring investments in HAL in substitution for the investments in LCA and
+LIP.
+ I accept Mr Jackman's submission that in authorising Mr Wallace to accept
+Hal's proposal WAB was not exercising a right inconsistent with its rights under Clause 11.3(c). It was simply relying upon WFM's obligations under
+Clause 5.1 of the Management Agreement to make proper investments on behalf of
+WAB. As at 3 September the independent directors believed that WFM, in recommending Hal's proposal, was performing its obligations under Clause 5.1 and would continue to perform those obligations to bring the proposal to a successful conclusion in accordance with its terms. No progress seemed to have been made by WFM by 5 December 2008. WAB was therefore entitled at that point of time to give a Notice to WFM under Clause 11.3(c) requiring it to rectify its breaches of Clause 8 of the Management Agreement within thirty days or face termination.
+
+Whether contract with Hal rectified the breaches Mr Douglas' submission is disarmingly simple. He says that the Notice required WFM to cure breaches of the Management Agreement arising by reason of the acquisition by WAB of the LCA Notes and the LIP Shares. But at least by early September 2008, when Mr Wallace signed the Note Certificate dated 29
+August 2008, WAB no longer had the Notes and Shares - they had been transferred to Hal. WFM, through Mr Wallace, had therefore remedied the breaches of the Management Agreement by 3 September 2008 and there were no breaches subsisting by 5 December when the Notice was issued.
+ It might be true, says Mr Douglas, that the LCA Notes and the LIP Shares had been transferred to Hal without WAB receiving in return either the purchase price or the first ranking security for the purchase price promised by Hal, but that is not WFM's problem; it is WAB's problem and WAB can fix it, if it wishes, by suing Hal for specific performance or damages for breach of contract.
+ This submission lies very ill in the mouth of WFM. It was Mr Wallace who, on behalf of WFM, caused WAB's breach of the ASX Listing Rules by the LCA and
+LIP acquisitions by not disclosing to his co-directors of WAB expressly and frankly, as an honest director ought to have done, that he controlled LCA and
+LIP. It was Mr Wallace who executed the transfers of the LCA Notes and LIP
+Shares without ensuring, as WFM ought to have done under the Management
+Agreement, that Hal had given the security promised for the sale consideration in exchange for the transfers. Mr Wallace did not tell his co-directors about the transfer of the investments without security until 19 December 2008. He and WFM now say that WAB must find its own way out of the mess which they have created for it.
+ The response of Mr Jackman to these submissions is both concise and correct. He says that: - WFM cannot rectify the breaches of the Management Agreement occasioned by the acquisitions by committing another breach of the Management Agreement, which it has done by procuring WAB to transfer the LCA Notes and LIP Shares to Hal without taking in exchange the security promised - a breach of WFM's fiduciary duty, imposed by Clause 2.4 of the Management Agreement; - a breach of contract is not "rectified" unless such damage as has been done is undone so far as is possible and matters are set right for the future: WFM could have rectified its breaches of the Management Agreement by procuring the transfer of the LCA Notes and LIP Shares to Hal in accordance with the terms of the contract with Hal, but it has not rectified its breaches if it has procured the transfer of the investments without the security promised in that contract.
+ By Clause 2.4 of the Management Agreement WFM acknowledges that it is "subject to a fiduciary obligation to [WAB] in the performance of its functions and duties". A fiduciary who is a trustee and who makes investments on behalf of others must, at the very least, exercise such prudence and skill as an ordinary prudent person of business would exercise in making such decisions in his or her own affairs: Speight versus Gaunt <case>, at 19;
+Fouche versus Super-annuation Fund Board <case>; [(1952) 88 CLR 609.] Where the trustee managing investments for others is a professional, the duty of prudence and skill is judged according to professional, rather than lay standards: see e.g. Armitage versus Nurse [1998] Ch ; <case> [Trustee Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/) .
+Although WFM is not a trustee of the investments of WAB it is responsible for making those investments in the same way as it would if it were a trustee. The content of its acknowledged fiduciary duty as manager cannot, therefore, be of a different character or of a lower standard than would be required of a professional trustee.
+ In my opinion, WFM acted with gross improvidence in permitting the transfer of the LCA Notes and the LIP Shares to Hal without ensuring that Hal provided the security promised in the contract in exchange. No ordinary person of business could have done likewise, much less a professional investment manager. I conclude that, in procuring the transfer of the LCA Notes and the
+LIP Shares to Hal, WFM acted in breach of Clause 2.4 of the Management
+Agreement. It cannot therefore rely upon the transfer of those investments as rectifying its breach of Clause 8 of the Management Agreement. This is but an illustration of the fundamental principle that a party cannot take advantage of its own wrongdoing: see e.g. Alghussein Establishment versus Eton College [[1988] 1 WLR 587]; TCN Channel 9 Pty Ltd versus Hayden Enterprises Pty Ltd [(1989) NSWLR 130], at 147, 161.
+ In any event, I cannot find that WFM "rectified" its breaches of Clause 8 by bringing about a transaction with Hal which, in its implementation, left
+WAB much worse off than it was before. Prior to the execution of the so-called "rectifying" transfer of the Notes and Shares to Hal, WAB at least had those investments, even if they had been acquired in breach of the ASX Listing
+Rules. On 3 September 2008, WAB's Board agreed upon what it would accept in order to rectify WFM's breach: sale of the investments at the agreed price to
+Hal and first ranking security from Hal for that price. After the "rectification" effected by WFM, WAB had no investments, no purchase price and no security. How this state of affairs can be said to have "put matters right" for WAB is difficult to understand: see e.g. L. Schuler AG versus Wickman
+Machine Tool Sales Ltd <case>; [[1974] AC ], at 249 per Lord Reid; Batson versus De Carvalho <case>; [(1948) 48 SR 417], at 427 per Sugerman J.
+ For these reasons I hold that, as at the date of issue of the Notice, WFM had not rectified its breaches of Clause 8 of the Management Agreement.
+
+Orders I conclude that the Notice under Clause 11.3(c) of the Management Agreement issued to WFM by WAB on 5 December 2008 was valid and may be enforced by WAB.
+ The Plaintiff's Summons is dismissed. I will hear the parties as to costs.
+ - oOo - 
+LAST UPDATED:  March 2009 * * * 

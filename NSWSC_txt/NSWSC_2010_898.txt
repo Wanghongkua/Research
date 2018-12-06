@@ -1,0 +1,121 @@
+
+
+CT Money versus AFIG Wholesale & Anor [2010] NSWSC 898 (18 August 2010) 
+Last Updated: 19 August 2010 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+CT Money versus AFIG Wholesale & Anor <case>  
+JURISDICTION:  
+FILE NUMBER(S):  /258055  
+HEARING DATE(S):  August 2010  
+JUDGMENT DATE:  August 2010  
+PARTIES: 
+CT Money Pty Limited ACN 116 882 636 (Plaintiff/First Cross Defendant) 
+AFIG Wholesale Pty Limited ACN 116 882 636 (First Defendant/First Cross
+Claimant) 
+ACN 094 797 618 Pty Limited formerly known as DC Corporation Australia Pty
+Limited (in liquidation) ACN 094 797 618 (Second Cross Defendant) 
+Australian Mortgage Securities Pty Limited ACN 003 072 446 (Second
+Defendant/Second Cross Claimant)  
+JUDGMENT OF: 
+Ball J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+A Cheshire (Plaintiff) 
+J Svehla (First Cross Defendant) 
+M Garvin (Second Cross Defendant)  
+SOLICITORS: 
+McLachlan Thorpe Partners (Plaintiff/First Cross Defendant) 
+Hicksons (First Defendant/First & Second Cross-Claimant) 
+Uther Webster & Evans (Second Cross Defendant)  
+CATCHWORDS: 
+COSTS - hearing to determine separate question - defendant successful on primary point - order that costs follow the event. COSTS - Addition of second defendant - second defendant a necessary party to proceedings - plaintiff liable for costs of second defendant  
+LEGISLATION CITED: 
+Uniform Civil Procedures Rules 2005  
+CATEGORY: 
+Procedural and other rulings  
+CASES CITED: 
+Johnson's Tyre Foundry Pty Ltd versus Maffra Corp <case>; [(1948) 77 CLR 544]  
+TEXTS CITED:  
+DECISION: 
+The defendants have leave to discontinue the first cross-claim so far as it concerns the second cross defendant; 
+The balance of the proceedings be dismissed; 
+The defendants pay the costs of the second cross defendant; 
+The plaintiff pay the costs of the defendants excluding the costs of the appearance before Gzell J on 22 September 2009 and any costs occasioned by the vacation of that hearing but including the costs of the second cross defendant up until and including 12 December 2008; 
+The defendants pay the plaintiff's costs of the appearance before Gzell J on 22 September 2009 and any costs occasioned by the vacation of that hearing.  
+JUDGMENT:  - 3 - 
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION  
+BALL J  AUGUST 2010  /258055 CT MONEY PTY LTD versus AFIG WHOLESALE PTY LTD & ORS 
+JUDGMENT  The present application concerns the costs of a hearing before Young CJ in
+Eq (as his Honour then was) on 18 and 19 November 2008 and associated costs.
+In order to address that issue, I need first to give some background, albeit simplified, concerning the proceedings.
+ On 1 November 2005, the plaintiff (CT) acquired the mortgage origination business carried on by DC Corporation Australia Pty Ltd , which is now in liquidation. As a result of the acquisition of that business, CT became entitled as between it and DC to trailing commissions payable to DC by the defendants (together, AFIG) in respect of mortgages arranged with AFIG by DC.
+ Under the terms of the mortgage origination agreement between AFIG and DC (the DC Deed), DC agreed to indemnify AFIG for any loss arising from a mortgage placed with it by DC in certain circumstances and to permit AFIG to set-off the amount of any such loss against commissions payable under the deed. I will refer to loans placed with AFIG by DC under the DC Deed as "DC
+Loans". Clause 18.1 of the DC Deed provided that the rights under that deed were not capable of assignment. However, under the terms of the DC Deed, DC was entitled to appoint a "delegate" to act on its behalf.
+ AFIG was not a party to the agreement by which DC sold its mortgage business to CT.
+ Between 1 November 2005 and 15 May 2006, CT originated new loans with AFIG, apparently on similar terms to those that had applied in relation to the DC
+Loans. I will refer to these loans as the "Interim Loans".
+ On 15 May 2006, CT entered into an agreement with AFIG known as the AFIG wholesale correspondent deed (the CT Deed) by which CT was appointed as a mortgage originator for AFIG. I will refer to loans originated under the CT deed as "CT Loans". Clause 1.3 of the CT Deed relevantly provided: "The parties acknowledge and agree that, with effect from the date of this deed: this deed replaces all existing agreements and arrangements between them with respect to the origination and management of mortgages ...; ...
+ the obligations and liabilities of [CT] to [AFIG] under any agreement or arrangement referred to in paragraph (a) with respect to any act, omission, circumstance or event occurring prior to the date of this deed are replaced by the obligations and liabilities referred to in paragraph (b)." 
+One purpose of cl 3.1 was, no doubt, to make it clear that the terms of the CT
+Deed were to apply to the Interim Loans. Under cl 15.1 of the CT Deed, AFIG agreed to pay CT "such servicing and origination and other fees as are from time to time agreed between them in relation to the performance by [CT] of its obligations under this Deed".
+ On 8 September 2006, DC was placed into liquidation.
+ On 23 August 2007, AFIG issued a notice to CT in relation to a loss of $190,382.92 suffered in respect of a DC Loan referred to as the Nguy loan.
+Subsequently, on 8 September 2007, AFIG issued a notice of set-off indicating that AFIG would be setting-off future trail commissions against the amount it claimed in respect of the Nguy loan.
+ On 12 December 2007, CT commenced proceedings by summons seeking declarations as to the meaning and effect of clause 1.3 of the CT Deed and an order that the AFIG repay to the CT the amounts withheld pursuant to the notice to indemnify dated 21 September 2007. Although not apparent from the summons, it appears that CT asserted that all commissions payable to it, whether in respect of DC Loans, Interim Loans or CT Loans, were payable to it under the CT Deed and that, as a result, AFIG was not entitled to set off any losses arising under DC Loans against those commissions.
+ The proceedings continued on pleadings. In its original statement of claim,
+CT sought to add an estoppel case to its primary argument that, as a result of cl 1.3 of the CT Deed, the CT Deed regulated the payment of commission to it in respect of all loans, including DC Loans. CT also set out in confidential attachments which I have not seen all the loans in respect of which it says commission was payable and the loans in respect of which AFIG was withholding commission. It is not possible from the information that I have to know whether any of the loans where AFIG was withholding commission were alleged to be Interim Loans or CT Loans.
+ AFIG filed its defence on or about 1 May 2008. The defence is complicated and not easy to follow. However, essentially what AFIG appears to be saying in that document in relation to the DC Loans is either (a) that it did not consent to the assignment of DC's rights and that any money paid to CT by AFIG was paid at DC's direction: or (b) to the extent that it did consent to an assignment of DC's rights and a delegation of DC's obligations to CT, that was on the basis that CT was bound to honour DC's obligations in respect of the DC
+Loans, including the obligation to indemnify AFIG in respect of losses arising from those loans. It is unclear from the pleading whether AFIG admits or denies that it withheld any commission payable in respect of Interim Loans or
+CT Loans. However, it does assert (and there does not seem to be a dispute about it) that it continued to pay some commission. The fact that it did so suggests that it did not even at that time assert that it was entitled to set off commission payable on Interim Loans and CT Loans against obligations it said existed in respect of DC Loans.
+ On 18 July 2008, AFIG issued notices of breach in respect of four additional loans originated by DC. A month later, on 19 August 2008, CT made an application for expedition. That application was heard by Palmer J on 29
+August 2008. At that time, his Honour made orders for the trial of a number of separate questions on 18 to 21 November 2008. Ten questions, and a substantial number of sub-questions, were identified. Essentially, those questions were directed at determining whether CT had any liability to AFIG in respect of the DC Loans and, if so, whether it was liable to repay fees received by it from AFIG at any time. It is relevant to observe that the question concerning repayment (question 4) does not distinguish between fees paid in respect of DC Loans and fees paid in respect of Interim Loans or CT
+Loans, although the question effectively asks a number of sub-questions concerning fees paid during particular periods of time.
+ On 24 October 2008, AFIG filed an amended defence and cross-claim. The cross-claim (filed with leave, since DC was in liquidation) joined DC as a party. AFIG says that the amended defence and cross-claim were only filed after CT produced documents in response to a subpoena, including the agreement by which it acquired DC's business. It seems clear, however, that the amended defence and cross-claim had been in preparation for some time before those documents were produced.
+ I do not think it is necessary to go through the details of the amended defence and cross-claim. However, two points should be made about them.
+ First, in the amended defence AFIG asserted that it had paid 100 per cent of servicing and other fees to CT in respect of the CT Loans (and, as I understand it, the Interim Loans), but that from about 11 August 2008, it had withheld 75 per cent of the servicing and other fees in respect of DC Loans.
+ Second, by its cross-claim, AFIG sought declarations that it had been paying servicing and other fees in respect of the DC Loans to CT as a delegate. Alternatively, AFIG pleads various bases on which it says CT was liable to indemnify it in respect of the DC Loans. In particular, AFIG says that that is the result of the correct construction of the CT Deed or that it is a result that arises from an implied term of that Deed or a collateral contract or from an estoppel. It also pleads that CT engaged in misleading or deceptive conduct or that it is entitled to be remunerated by CT on a quantum meruit basis. The various ways in which AFIG put its case were reflected in some of the sub-questions of the questions identified for separate determination.
+ Between 27 October 2008 and 17 November 2008, the parties filed a number of affidavits. It appears that that evidence largely related to the various ways in which AFIG claimed to be entitled to recover losses arising from the DC
+Loans in the event that its primary contention - that CT was acting as DC's agent in respect of DC Loans - failed.
+ The hearing commenced on 18 November 2008. DC did not play an active role in the proceedings, although it had legal representatives present for part of it. At the commencement of the hearing, CT filed an amended statement of claim which made minor changes to the original statement of claim. Also on the first day of the hearing, counsel for AFIG circulated draft revised amended questions for determination. That draft added questions concerning whether CT acted as DC's delegate in respect of the DC Loans.
+ On the second day of the hearing, CT filed a further amended statement of claim. The original statement of claim had pleaded that CT was entitled to be paid trailing commission under cl 15.1 of the CT Deed. The amendment claimed that that entitlement also arose from correspondence between the parties.
+ It became apparent during the course of the hearing that there was no dispute between the parties on how the first seven questions should be answered. Their reasons, however, for giving the same answers to those questions were very different. Essentially, AFIG's answers were dictated by its view that CT was merely a delegate in respect of the DC Loans and consequently any obligation in respect of those Loans was an obligation of DC.
+On the other hand, CT essentially thought that the questions should be answered in the same way because, although it denied that it was a delegate of
+DC, it also denied that it had any liability to AFIG because of the terms of cls 1.3 and 15.1 of the CT Deed or the estoppel or correspondence on which it relied.
+ In a judgment delivered on 12 December 2008, Young CJ in Eq essentially answered the remaining questions in favour of AFIG on the basis that his
+Honour accepted that CT was acting as a delegate of DC. His Honour did not need to consider the other bases on which AFIG argued that it was entitled to set-off losses suffered in respect of DC Loans against commission payable to
+CT. His Honour declined to answer two questions on the basis that they sought judicial advice. In doing so, his Honour accepted the submissions of CT.
+ In February 2009, the solicitors acting for CT raised the question whether
+AFIG had withheld the sum of $87,000 in respect of "non DC trails". There was correspondence between the parties concerning that issue. A reconciliation spreadsheet was discussed by their respective accountants and, as a result, it was agreed on 15 June 2009 that AFIG owed CT $13,794.02 in respect CT loans.
+That amount was paid the next day.
+ On 22 September 2009, the matter came before Gzell J in relation to the question of costs. It became apparent at that hearing that AFIG was considering amending the cross-claim to seek other relief against DC. As a result, his Honour vacated the hearing.
+ Ultimately, AFIG has decided not to pursue any claim it may have against DC in the present proceedings and, as a consequence, has sought leave to discontinue its cross-claim.
+ The question of costs raises two issues. The first is what costs order should be made as between CT and AFIG in relation to the costs of these proceedings. The second is what cost order should be made so far as DC's costs are concerned.
+ As to the first question, AFIG says that the effect of the answers given by
+Young CJ in Eq is that it won and that consequently it should have the costs of the proceedings. CT disputes that. It concedes that it lost the delegation point and it accepts that that was an important point in the case. However, it says that it was a point that was not properly raised until the first day of the hearing - when the revised separate questions were circulated. It also says that it was partially successful because the result of AFIG's success on the delegation point is that AFIG could not set off losses in respect of DC
+Loans against commission payable in respect of the Interim Loans or the CT
+Loans and, in fact, AFIG had to repay an amount of $13,794.02 in respect of those loans.
+ I do not accept CT's submission. Although perhaps not always clearly expressed, it seems to me that it was always part of AFIG's case that DC was not entitled to assign the DC Loans to CT, or certainly not in a way that CT took the benefit of those loans but was free of the burden. It seems to me that that was the essential issue that was raised by the statement of claim and defence. That issue was complicated by the fact that AFIG attempted to put its case in a number of different ways; and it may not have become apparent to
+CT until the time of the hearing that AFIG's primary case was that the DC
+Loans were never assigned and that CT simply acted as DC's delegate. No doubt, that confusion was exacerbated by the way in which the separate questions were framed - and by the fact that those questions did not, as became apparent at the beginning of the hearing, properly raise the real dispute. However, I do not think that alters the fact that (a) there was only one real dispute between the parties and that was whether CT could take the benefit without the burden of the DC Loans; (b) that dispute was raised by the original pleadings, albeit obliquely, and more clearly by the amended defence and cross-claim, but it was not clearly raised by the separate questions; (c) AFIG put its case on that point in a number of different ways; and (d) AFIG ultimately won on the primary way it put the point at the hearing.
+ Although there may have been some confusion at the start of the case about whether AFIG was asserting a right to set off commission payable in respect of
+Interim Loans and CT Loans against amounts owed to it in respect of DC Loans, that confusion was resolved at the latest by the time that AFIG filed its cross-claim. There is no evidence that the delay in clearing up any confusion in relation to that issue (if, indeed, there was any real confusion between the parties on that issue) added to the costs of the hearing. I accept AFIG's submission that the focus of the hearing was on whether a right of setoff could be exercised at all, not the payments in respect of which that right could be exercised. Similarly, I accept AFIG's submission that the subsequent investigation of whether AFIG had underpaid commission on CT Loans was not an outcome of the hearing before Young CJ in Eq but a separate issue. It follows from that, of course, that the costs of investigating that issue are not covered by any costs order I make.
+ A substantial part of the costs of the hearing related to issues which, because AFIG succeeded on its primary point, were not necessary to decide.
+However, they were issues directed at achieving the same result from AFIG's point of view and no submission was made to me that AFIG was not justified in raising them.
+ In these circumstances, I do not see any reason why CT should not, with one qualification which I will deal with shortly, pay AFIG's costs of the proceedings. I do not think that this is a case where there were a number of issues and where AFIG was only successful in relation to some of them. Rather, it is a case where there was one issue, where AFIG advanced various grounds on which it should succeed on that issue and where it succeeded on its primary ground making it unnecessary to consider the others. There may have been considerable confusion in reaching that position and it may be that AFIG must bear some of the responsibility for that. But, as I have indicated, I do not think that this could properly be regarded as a case where AFIG changed its case at the last minute. These matters may be relevant to what amount AFIG should recover on an assessment, but I do not think that they provide a reason for departing from the usual order for costs - that is, that costs should follow the event: see UCPR r 42.1.
+ So far as DC's costs are concerned, I think DC was a necessary party to the proceedings. CT sued AFIG for commission. AFIG's defence to that claim, eventually brought by way of cross-claim, was essentially that the commission was paid to CT as DC's agent, and that AFIG was entitled to make deductions from the amount that was payable. That defence necessarily required the joinder of DC because the rights that AFIG was asserting were rights against
+DC and the assertion of those rights was a necessary part of its defence to the claim brought by CT. It follows that the joinder of DC was a necessary consequence of CT's claim and CT should be liable for DC's costs at least up to the end of the hearing before Young CJ in Eq: see Johnson's Tyre Foundry
+Pty Ltd versus Maffra Corp <case>; [(1948) 77 CLR 544] at 572-3.
+ Following the hearing before Young CJ in Eq, it appears that AFIG investigated the possibility of further claims against DC and it was for that reason that the hearing in relation to costs which came before Gzell J was stood over. Subsequently, AFIG elected not to pursue that claim and has sought leave to discontinue the cross-claim. I think that it is appropriate that I give that leave. Three things follow from these matters.
+ First, a consequence of AFIG's discontinuance of it cross-claim against DC is that it should pay DC's costs of the cross-claim: UCPR r 42.19. There is no reason for ordering otherwise.
+ Second, AFIG should pay CT's costs of the appearance before Gzell J and any costs occasioned by the vacation of that hearing. The only reason that hearing was vacated was to permit AFIG to consider whether to pursue DC in relation to a claim that was unrelated to the judgment of Young CJ in Eq.
+ Third, CT should not be liable for AFIG's costs in connection with the cross-claim from the time that Young CJ in Eq delivered his judgment. In my opinion, most of those costs are likely to be unrelated to the claim brought by CT. A small proportion of those costs may be related to the claim brought by CT. On the other hand, a small proportion of the costs of the cross-claim against DC before Young CJ in Eq delivered his judgment may be unrelated to the claim brought by CT. In those circumstances, I think the sensible approach is to assume those costs balance one another out.
+ The orders I therefore make are these: The defendants have leave to discontinue the first cross-claim so far as it concerns the second cross defendant; The balance of the proceedings be dismissed; The defendants pay the costs of the second cross defendant; The plaintiff pay the costs of the defendants excluding the costs of appearance before Gzell J on 22 September 2009 and any costs occasioned by the vacation of that hearing but including the costs of the second cross defendant up until and including 12 December 2008; The defendants pay the plaintiff's costs of the appearance before Gzell J on September 2009 and any costs occasioned by the vacation of that hearing.  
+LAST UPDATED:  August 2010 * * * 

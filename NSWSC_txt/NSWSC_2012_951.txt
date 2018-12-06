@@ -1,0 +1,131 @@
+
+
+Sydney Attractions Group Pty Ltd versus Schulman [2012] NSWSC 951 (21 August )
+
+Last Updated: 17 September 2012 
+Supreme Court 
+New South Wales  
+Case Title: 
+Sydney Attractions Group Pty Ltd versus Schulman  
+Medium Neutral Citation: <case>  
+Hearing Date(s): and 10 August 2012  
+Decision Date: August 2012  
+Jurisdiction: 
+Equity Division - Commercial List  
+Before: 
+Stevenson J  
+Decision: 
+Advance rulings given  
+Catchwords: 
+EVIDENCE - expert reports - advance ruling - whether inadmissible  
+JUDGMENT
+The plaintiff, Sydney Attractions Group Pty Ltd ("Sydney Attractions"), seeks a ruling pursuant to [s 192A](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s192a.html) of the [Evidence Act 1995](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) ("the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/)") that all of the expert evidence served to date by the defendant, Mr Frederick Schulman ("Mr Schulman"), is inadmissible.
+[Section 192A](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s192a.html) of the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) empowers the court to rule on the admissibility of evidence proposed to be adduced at a hearing, before the evidence is so adduced, "if it considers it to be appropriate to do so".
+[Section 192A](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s192a.html) was inserted in the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/), with effect on 1 January 2009.
+The section has been considered in a number of cases (for example Southern Cross Airports Corp Pty Ltd versus Chief Commissioner of State Revenue  <case> per Gzell J; Australian Competition and Consumer Commission (ACCC) versus Allphones Retail Pty Ltd (No 3)  <case>; <case>: - "Whether the court should make advance rulings under <case> is a discretionary case management decision to be made in accordance with the overriding purpose of facilitating the just, quick and cheap resolution of the real issues in dispute."
+It appears to me that some good reason should be advanced in order that the court exercise jurisdiction under <case> but that it is not necessary to show "special circumstances" or to show that the circumstances are "out of the ordinary".
+
+Background
+This matter has been set down for hearing before me for three weeks commencing on 19 November 2012.
+The claim made by Sydney Attractions against Mr Schulman arises out of a Share Sale Deed ("the Deed") made between them on 5 July 2004. Pursuant to the Deed, Mr Schulman (and companies associated with him) sold Sydney Attractions their 100 per cent shareholding in Sydney Tower Observatory Pty Ltd. That company owned a business known as "Skytour" and a proposed extension of that business, to be known as "Skywalk". The Skytour business included the operation of the observation deck on the top of Sydney Tower in Sydney. The proposed Skywalk included external walking paths and platforms on the roof of Sydney Tower.
+The following summary of the background is, in substance, taken from Mr Schulman's outline submissions on this application and is, as I understand it, not in issue.
+The sale of the shares was completed on or about 5 July 2004. At the time of the sale, development approval had been granted for the construction of the works necessary for the Skywalk business, including external walkways and platforms. Following the sale, Sydney Attractions constructed Skywalk and, in October 2005, commenced to operate the Skywalk business.
+The amount payable by Sydney Attractions to Mr Schulman on settlement was $8.5 million. Sydney Attractions was also obliged to pay Mr Schulman what was described in the Deed as the "Deferred Component".
+The Deferred Component was payable over a three and a half year "Earn Out Period" following the launch of the Skywalk business.
+The Deferred Component included: - $500,000 for each September, December and March quarters in the three and a half year Earn Out Period (known as "Skywalk Quarterly Components"); a "Skywalk Adjusted Payment" for each June quarter during the Earn Out
+Period calculated by reference to the profits earned by the Skywalk business (in substance 50 per cent of the annual profit or loss of the Skywalk business); a "Skywalk Final Component" payable following the expiry of the Earn Out
+Period (in substance 6.5 times 50 per cent of the average annual profit or loss of the Skywalk business over the three and a half year Earn Out Period); the Skytour Annual Components calculated by reference to the number of visitors to the Skytour attraction that exceeded 690,000 visitors in each of the financial years 2005 to 2008; and the Skytour Final Component, which was calculated by reference to the average number of visitors to Skytour.
+The Deed included: - a promise by Sydney Attractions to use "reasonable endeavours" to procure that the construction work necessary to conduct the Skywalk business was completed "as expeditiously as possible" and to commence operation of the
+Skywalk business "as expeditiously as possible" (clause 13.1); a promise by Sydney Attractions to pay all capital expenditure in relation to the construction and completion of Skywalk up to $5 million, and a promise by Mr Schulman to pay or reimburse such capital expenditure which exceeded $5 million (clause 13.7); a promise by Sydney Attractions to act "in good faith" and to use "its commercial judgment" to maximise economic returns from the Skywalk and Skytour businesses until the Deferred Payments had been made by Sydney Attractions to
+Mr Schulman (clause 13.9); and a provision that if, as happened, the Skywalk launch date was delayed beyond 31 March 2005, for every complete calendar month of delay beyond 31
+March 2005, the Skywalk Quarterly Components would be reduced by an amount of $75,000 per month (clause 5.23).
+Following completion of the Deed: - the Skywalk launch date did not take place until October 2005; and 
+Sydney Attractions has not made any payment to Mr Schulman by way of the
+Deferred Component.
+In the proceedings Sydney Attractions claims judgment against Mr Schulman for $4,912,879 (as at 12 April 2010).
+In substance, Sydney Attractions' claim is that: - the Skywalk capital expenditure exceeded $5 million by $2,009,407, and that that excess amount is payable to it by Mr Schulman pursuant to clause .7 of the Deed; a further amount of $2,657,198 is owing by Mr Schulman to Sydney
+Attractions in respect of the "Skywalk Final Component".
+Mr Schulman denies that he is liable to pay Sydney Attractions any money. He has filed a Cross-Claim in which he claims that Sydney Attractions is liable to pay him money.
+In the Cross-Claim, Mr Schulman claims that: - assuming the financial information used as inputs into Sydney
+Attractions' calculations of the Skywalk business is correct, but adjusting those calculations to take into account what Mr Schulman contends to be the requirements of the Deed, $2.686 million is owing by Sydney Attractions to him; and 
+Sydney Attractions has breached promises contained in the Deed, resulting in increased Skywalk capital expenditure, decreased revenues from
+Skywalk and decreased admissions to the Skytour business during the Earn Out
+Period.
+Mr Schulman has served the following expert reports: - two reports by Mr Peter Blythe ("Mr Blythe"), a chartered accountant, dated 2 March 2012 and 1 May 2012; two reports by Professor David Carmichael ("Professor Carmichael"), an engineer, dated 5 March 2012 and 19 March 2012; a report by Mr Bruce Boundy ("Mr Boundy") dated 26 March 2012, who professes experience in the advertising and marketing industry; and a report by Ms Jill Bensley ("Ms Bensley") dated 30 March 2012, a business economist who professes expertise in the entertainment and attractions industry.
+
+Procedural history
+Mr Schulman's expert reports were served (with exception of Mr Blythe's shorter report of 1 May 2012) by the end of March 2012.
+On 4 May 2012, the Court directed that Sydney Attractions serve, amongst other evidence, its expert evidence in reply by 27 July 2012.
+Sydney Attractions had not served any reply expert evidence. Rather, in late June 2012, it foreshadowed objection to the expert reports served by Mr Schulman and, on 11 July 2012 filed a Notice of Motion seeking rulings pursuant to [s 192A](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s192a.html) of the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/).
+
+Should [s 192A](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s192a.html) rulings be made?
+As Mr Pritchard SC, who appears for Mr Schulman, points out, the usual procedure in the Commercial List is for parties to exchange expert witness statements and for experts to then confer "with a view to identification of and a proper understanding of any points of difference between them and the reasons therefore and a narrowing of such points of difference" (Practice Note SC Eq 3 at [55]). 
+Mr Pritchard submits that the usual procedure should be followed; Sydney Attractions should serve its witness statements in reply and the experts should confer. Mr Pritchard submits that the likely result of that exercise will be that many of the difficulties said to arise from the expert reports served on behalf of Mr Schulman would disappear.
+The extent of the material objected to, and the wide range of objections have persuaded me that, in order to consider whether I should make advanced rulings pursuant to [s 192A](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s192a.html) of the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/), I should consider the detail of the objections made to each of the reports.
+Having done so, my opinion is that there are serious questions as to the admissibility of large portions of some of the reports.
+In my opinion, the remarks by Gzell J in Southern Cross Airports versus Chief Commissioner of State Revenue at [15] are apposite. Those remarks (in which I have substituted details relevant to this case) were as follows: - "In my view it is appropriate to give an advance ruling in this matter.
+Inevitably there will be a need to rule because [Sydney Attractions] does not accept the reports. If an advance ruling is made in favour of [Mr Schulman], it will provide certainty to both parties with respect to this portion of the expert evidence. If the advance ruling goes against [Mr Schulman], [he] will have the opportunity before the trial, which is due to commence on [19
+November 2012], to address the question of whether [he] can adduce further evidence to cure the inadmissibility".
+Further, there is weight in the submission of Mr McKeand SC, who appears for Sydney Attractions, that "there is no point in having experts confer on matters that are irrelevant or cannot be proved in court".
+Mr Pritchard pointed to the procedural history that I have summarised at [21-23] above and submitted that Sydney Attractions has made a "tactical choice" to seek advance rulings without making "any election not to serve expert evidence once the advanced rulings are made". Mr Pritchard submitted that I should require Sydney Attractions to confirm that it does not intend to serve expert evidence as a condition of exercising power to make advance rulings under [s 192A](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s192a.html) of the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/). I do not find it helpful to make any assessment as to what "tactical choices" Sydney Attractions may have made. Nor do I think it appropriate to impose on Sydney Attractions the condition suggested.
+In my opinion, it is in the interests of the efficient disposition of this matter that I give consideration to the expert reports now.
+As will emerge from these reasons, there are some aspects of the objections taken to the reports that I think it inappropriate to deal with at this stage; primarily questions of relevance (especially when they arise by reference to contentions as to the proper construction of clauses in the Deed) and questions relating to the proof of assumptions made by the experts.
+I will deal with each of the experts in turn. So far as concerns some of the more detailed objections taken to the reports I will, as was discussed at the hearing of this motion, circulate preliminary rulings on objections and invite submissions as to those rulings.
+
+The reports of Mr Blythe
+Mr Blythe is a chartered accountant. Mr McKeand does not suggest that Mr Blythe lacks "specialised knowledge" (for the purposes of [s 79](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s79.html) of the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/)) to give expert opinion about accounting matters.
+In his first and principal report, Mr Blythe has been asked to consider the following matters: - the calculation by Sydney Attractions of its claim in relation to the
+Earn Out Period for the Skywalk business, including the claim calculations based on the Skywalk Quarterly Component and the Skywalk Adjusted Payment calculations as referred to in the Deed; the calculation by Sydney Attractions of the Skywalk Final Component
+Calculations; the interest claim entitlements of Mr Schulman in accordance with clause .1 of the Deed in respect of monies said to be due and payable by Sydney
+Attractions pursuant to clause 5 of the Deed; and the extent to which, in Mr Blythe's opinion, the claims made by Sydney
+Attractions are excessive or otherwise in need of amendment.
+In his report, Mr Blythe identifies four errors that, in his opinion, Sydney Attractions has made in its calculations in relation to the Skywalk Earn Out Period.
+Mr Blythe was asked to make particular assumptions as to the proper construction of clause 5.23 of the Deed (see [14(d)] above).
+The principle complaint made by Sydney Attractions about Mr Blythe's report is that Mr Blythe gives opinions as to the proper construction of the Deed and the application of the Deed to specific facts.
+It is true that, from time to time, Mr Blythe expresses himself this way.
+For example at [135] of his report, Mr Blythe asserts that Sydney Attractions' "interpretation of the Deed...is in my opinion wrong". At tab 5 of his report, Mr Blythe says that he disagrees with Sydney Attractions' "interpretation" of the Deed. At tab 7 Mr Blythe refers to changes in calculations necessary to be made to "properly reflect the intention" of the Deed.
+Mr Pritchard does not dispute that Mr Blythe is not qualified to give expert opinion about these matters, and has made clear that Mr Blythe's report is not put forward as opinion evidence as to the proper interpretation of the Deed.
+Mr Pritchard submits, and I accept, that Mr McKeand's objections to Mr Blythe's report can, for the most part, be accommodated by the making of orders under [s 136](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s136.html) of the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/), admitting Mr Blythe's evidence as being his opinion as to the relevant calculations on the assumption that the correct construction of the relevant provisions of the Deed is as he states.
+I propose to circulate preliminary rulings in respect of Mr Blythe's report of 2 March 2012 on this basis, and hear the parties as to those preliminary rulings at a convenient time.
+Mr Blythe's report of 1 May 2012 performs calculations assuming the correctness of the conclusions made by Mr Boundy and Ms Bensley in their reports (see below). Thus the fate of Mr Blythe's report of 1 May 2012 depends, in large part, on that of Mr Boundy's report and Ms Bensley's report.
+
+Reports of Professor Carmichael
+Professor Carmichael is a civil engineer.
+Professor Carmichael's first report (5 March 2012) relates to the plaintiff's claim for capital expenditure in respect of Skywalk pursuant to clause 13.7 of the Deed, referred to at [17(a)] above.
+In giving that opinion, Professor Carmichael was asked to assume a particular construction of clause 13.7.
+Professor Carmichael was also given a copy of two lay witness statements served by Sydney Attractions together with a two volume "Court Book" referred to in that evidence. He was asked to give opinions as to the "true amount" of the Sydney Attractions' capital expenditure in relation to Skywalk.
+Again, some of Mr McKeand's objections can be accommodated by reading some of Professor Carmichael's statements as being made upon the basis of his understanding of the proper construction of clause 13.7 of the Deed.
+However, as I read Professor Carmichael's report, he has ranged further and offered opinions about aspects of the matter without explaining the basis upon which he has come to his conclusions.
+I propose to circulate preliminary rulings in relation to Professor Carmichael's reports and invite submissions in relation to them.
+In Professor Carmichael's second, shorter report of 19 March 2012, he is asked to express an opinion in relation to whether Sydney Attractions had used "reasonable endeavours" to procure the expeditious completion of construction works for the purposes of clause 13.1 of the Deed. I see difficulties in the manner in which Professor Carmichael has expressed himself in that report and have made preliminary rulings concerning those matters.
+
+Report of Mr Boundy
+Mr Boundy is a person who, according to his curriculum vitae, has had many years experience "in all forms of advertising and marketing".
+He has been asked to opine as to: - the market value of naming rights sponsorship for Skytour and Skywalk from 2004 to 2009; the advertising and marketing campaign conducted by Sydney Attractions for Skytour and Skywalk between 2004 and 2009; the potential visitor numbers to Skytour and Skywalk that would have been generated had a "proper and professional" advertising and marketing campaign been conducted between 2004 and 2009; and the potential "conversion rate" of Skytour customers to Skywalk had a "proper and professional" advertising and marketing campaign been conducted between 2004 and 2009.
+Mr Boundy's evidence is said to be relevant to Mr Schulman's contention that Sydney Attractions was in breach of clause 13.9 of the Deed which provided: - "Subject to the terms of this Deed, [Sydney Attractions] will, acting in good faith, use its commercial judgment to maximise economic returns from the
+Skywalk Business and the Skytour Business until all payments required to be made by [Sydney Attractions] to [Mr Schulman] pursuant to clause 5 have been made".
+The principal basis upon which Sydney Attractions objects to Mr Boundy's report relates to its contention as to the proper construction of clause 13.9. Sydney Attractions submits that clause 13.9 does not impose upon it an obligation to act "reasonably" or to use "reasonable endeavours" to maximise economic returns from the business and submits that: - "The two subjective components of that obligation cannot be the subject of third party expert evidence that is directed to what the witness should have been done by some other standard."
+In my opinion, it would be inappropriate for me, at this preliminary stage, to embark on a consideration of the proper construction of the clause. 
+Part of Sydney Attractions' obligation under clause 13.9 is to act in "good faith". There is authority for the proposition that an element of the obligation to act in good faith is to "act reasonably", see Macquarie International Health Clinic Pty Ltd versus Sydney South West Area Health Service  <case> at <case> per Allsop P.
+I am not able to conclude, at this stage, that evidence as to what "should have been done" is incapable of relevance to the issue that I will have to determine under clause 13.9. As Mr Pritchard submits, evidence as to what "should have been done" may be a step along the way of establishing a breach of clause 13.9. I express no view about that but do not accept the submission that I should, at this stage, reject all of Mr Boundy's evidence by reason of the nature of the questions he has been asked.
+Mr McKeand also points to the fact that a number of factual propositions asserted by Mr Boundy are supported, within Mr Boundy's report, by references to assertions to trade journals and other hearsay sources.
+I accept that all assumptions that Mr Boundy has made in order to found his opinion must, at the end of the day, be proved. If an expert expresses an opinion, based on assumptions, and those assumptions are not made out, the expert's opinion is inadmissible: Dasreef Pty Ltd versus Hawchar [2011] HC 21; <case>;  <case> - 45].
+But it will not be until the end of Mr Schulman's case, at the final hearing, that I will be in a position to assess whether the assumptions Mr Boundy has made have been proved. It my opinion, it would not appropriate for me to reject Mr Boundy's report, at this stage, upon the basis that the assumptions are not proved within the four corners of Mr Boundy's report.
+The appropriate course for me to adopt is to note the relevant matters as assumptions and to reconsider that aspect of the matter when the evidence at the hearing is closed.
+Mr McKeand also contends that Mr Boundy does not have the "specialised knowledge" based on his training, study or experience for the persons of [s 79](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s79.html) of the [Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/). I am not prepared to accept this submission at this stage. Mr Boundy states, in his curriculum vitae, that he has 24 years experience "in all forms of advertising and marketing" and that he has been directly involved in "all aspects of the business including the provision of marketing advice, advertising, creative, media negotiations in consulting services to major corporations".
+This aspect of the matter can be explored in cross-examination at the hearing. However, I am not prepared to reject the report at this stage on the basis of the lack of expertise.
+Particular objection is taken to the process of reasoning (or lack of it) revealed in the detail of the report.
+I propose to make preliminary rulings in regard to that aspect of the matter, and then hear further submissions in regard to those preliminary rulings. 
+Report of Ms Bensley
+Ms Bensley is a business economist with experience in entertainment attractions. According to her curriculum vitae, she has expertise in concept development, market and financial feasibility testing and business planning for the entertainment and attractions industry. 
+She has been asked to answer the following questions: - what steps would a reasonable owner take to maximise economic returns from the Skywalk and Skytour businesses during 4 July 2004 to 30 June 2009; did Sydney Attractions take steps that a reasonable owner would take to maximise economic returns from the Skywalk and Skytour businesses during that period; what number of additional visitors to Skytour would likely have resulted if Sydney Attractions had taken such steps; and what number of additional visitors to Skywalk (and what amount of additional revenues and costs would have been earned and incurred by Skywalk) would have resulted if Sydney Attractions had taken such reasonable steps during that period.
+Like Mr Boundy's report, Ms Bensley's report is said to be relevant to Mr Schulman's contention that Sydney Attractions acted in breach of its obligations under clause 13.9 of the Deed to, in good faith, use its commercial judgement to maximise economic returns from the two businesses. Mr McKeand submits that, on the proper construction of clause 13.9, the questions asked of Ms Bensley are irrelevant to that question and that, accordingly, her answers are also irrelevant.
+For the reasons outlined above in relation to Mr Boundy, I do not consider it appropriate for me, at this stage, to express any view as to the proper construction of the content of clause 13.9. For that reason, I do not consider it would appropriate for me, at this time, to make any ruling as to the relevance of Ms Bensley's report.
+Further, for the reasons outlined above in relation Mr Boundy, I do not consider that it would be appropriate, at this stage, to make any ruling as to the admissibility of the report by reason of any unproven assumptions.
+So far as concerns Ms Bensley's "specialised knowledge" based on her "training, study or experience", her curriculum vitae suggest that, on the face of it, she has expertise in the areas referred to above sufficient to deter me from making any preliminary assessment about that matter.
+However issues do arise as to the form that Ms Bensley's report takes.
+I propose to circulate preliminary rulings in regard to individual parts of Ms Bensley's report and invite submissions in relation to them.
+
+Conclusion
+At a time convenient to Counsel, I will hear submissions as to my preliminary rulings and, as appropriate, make directions as to service of further expert reports.
+ * * * 

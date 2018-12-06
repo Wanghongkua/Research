@@ -1,0 +1,276 @@
+
+
+Loans and Debt Assistance Incorporated & Anor versus .au Domain
+Administration Limited [2012] NSWSC 558 (24 May 2012) 
+Last Updated: 25 May 2012 
+Supreme Court 
+New South Wales  
+Case Title: 
+Loans and Debt Assistance Incorporated & Anor versus .au Domain Administration
+Limited  
+Medium Neutral Citation: <case>  
+Hearing Date(s): May 2012  
+Decision Date: May 2012  
+Jurisdiction: 
+Equity Division  
+Before: 
+Bergin CJ in Eq  
+Decision: 
+Summons dismissed with costs.  
+Catchwords: [CONTRACT] - Standard form agreement - incorporating defendant's Published
+Policies into agreement - standard form of Licence of domain names.  [INJUNCTION] - Application to restrain defendant, administrator of the .au
+Domain Name System on the Internet, from deleting domain names registered to the plaintiffs - where agreement provides that no proprietary rights in registered domain names.  [WORDS AND PHRASES] - "service" and "activity" in context of registered domain name.  
+JUDGMENT
+The plaintiffs, Loans and Debt Assistance Incorporated (LADAI) and Society Services Goods and Consumers Research Incorporated (SSGCRI) are associations of which Goran Simunovic is the public officer. The defendant, .au Domain Administration Ltd, is the administrator of the Domain Name System (DNS) in Australia. The plaintiffs seek an injunction against the defendant restraining it from deleting forty-two domain names registered in the plaintiffs' names. 
+The plaintiffs commenced these proceedings on an ex parte basis on 2 May 2012. On the first return date of the Summons on 4 May 2012, Consent Orders were made noting that the defendant would reinstate all of the plaintiffs' domain names to their previous status by 2.00pm on that day. The matter was then listed for an urgent final hearing on 17 May 2012. The matter was heard on that day when Mr Simunovic represented the plaintiffs, although he is not legally qualified. Mr N Kidd, of counsel, appeared for the defendant.
+
+Internet Domain Names
+A helpful explanation of the system of internet domain names appears in the following passage of the Capital Networks Pty Ltd versus .au Domain Administration Limited [[2004] FCAFC 324:](http://www.austlii.edu.au/au/cases/cth/FCAFC/2004/324.html "View Case" ) 
+Domain Names are the familiar and easy-to-remember names for Internet computers. They map to unique Internet Protocol ('IP') numbers that serve as routing addresses on the Internet. The domain name system ('DNS') translates those names into the IP numbers needed for transmission across the network.
+
+The DNS is a hierarchy. At the very top is the root, which does not appear in the domain name. The next level down in this hierarchy is called the top level domain ('TLD'), the one after that is the second level domain ('2LD'), and so on. The TLD is what appears at the far right end of an Internet address. There are two types of TLD. One consisting of three or more characters is referred to as a generic TLD or gTLD. The other consisting of the two-letter
+International Standard for a country, territory, or other geographic location is referred to as a country code TLD. So, for example, in the domain name 'qantas.com' the TLD is the generic '.com' but in the domain name 'qantas.com.au' the TLD is the country code '.au'.
+
+The Internet Corporation for Assigned Names and Numbers ('ICANN') is a non- profit corporation incorporated in California. It coordinates the assignment of technical parameters needed to maintain connectivity on the Internet and manages the DNS root. Although ICANN reports to the United States Department of Commerce, the Australian Government considers it to be the appropriate international entitity to oversee the technical coordination of the Internet.
+
+For each generic TLD ICANN designates a registry operator that maintains the authoritative database of its domain names. ICANN also accredits companies, known as 'registrars', to process domain name registrations for the public in certain generic TLDs...
+
+ICANN has delegated to auDA the management of the .au TLD. (The two-letter
+International Standard country code for Australia is AU.) The Australian
+Government endorsed auDA as the appropriate entity to hold the delegation of authority for administration of .au domain space. The [Telecommunications
+Legislation Amendment Act ](http://www.austlii.edu.au/au/legis/cth/numact/tlaa2000406/) was enacted in order to provide powers of intervention for use in the event that this self-regulatory management structure for 'electronic addressing' was, in the future, considered to be ineffective.
+
+The defendant
+The defendant was incorporated on 23 June 1997 as a not-for-profit corporation for the specific purpose of administering the '.au' country code Top Level Domain (ccTLD).
+In 1999 the Commonwealth Government, through the National Office for the Information Economy facilitated the '.au' Domain to a self-regulatory regime that would be formally accountable to the Australian internet community. In December 2000, the Commonwealth Government endorsed the defendant as the appropriate body to hold the delegation of authority from ICANN for administration of the '.au' ccTLD. 
+On 25 October 2001 ICANN and the defendant entered into a sponsorship agreement pursuant to which ICANN delegated authority for administration of the '.au' ccTLD to the defendant for the benefit of the Australian internet community.
+The defendant's [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/) includes the following relevant provisions.
+
+PREAMBLE 
+Taking the view that the Internet Domain Name System is a public asset, and that the .au ccTLD is under the sovereign control of the Commonwealth of
+Australia, auDA will administer the .au ccTLD for the benefit of the
+Australian community ...
+
+OBJECTS .1Principal Purposes 
+The principal purposes of auDA are: a.to be the administrator of, and the Australian self regulatory policy body for the .au ccTLD and its associated Second Level Domains; b.to maintain and promote the operational stability and utility of the .au ccTLD and more generally, the Internet's unique identifier system, and to enhance the benefits of the Internet to the wider community; c.to ensure a cost effective administration of the .au ccTLD and its sub- domains; d.to develop and establish a policy framework for the development and administration of the .au ccTLD including: i.rules governing the operations of second level domain registries; ii.the creation of second level domains; iii.rules governing the accreditation of registrars and registry operators; iv.rules governing the registration of names within second level domains and access to second level domain registries; v.ensuring that registrars have equal access to second level registry services.
+ e.to manage the operation of critical technical functions including: i.the primary and secondary .au name servers; ii.zone files for second level domains; and iii.a searchable data base containing information on registrations within the .au ccTLD.
+ f.to liaise with national and international bodies on issues relating to the development and administration of domain name systems.
+ g.to establish appropriate complaints handling and dispute resolution processes to provide for conciliation or redress of grievances on matters associated with the administration of the .au ccTLD.
+ .2Activities 
+Without reducing the effect of clause 4, auDA will seek to achieve its principal purposes set out in clause 3.1 through: a.ensuring the continued operational stability of the domain name system in
+Australia; b.establishing mechanisms to ensure it is responsive and accountable to the supply and demand sides of the Australian Internet Community; c.the promotion of competition in the provision of domain name services; d.the promotion of fair trading; e.the promotion of consumer protection; f.adopting open and transparent procedures which are inclusive of all parties having an interest in use of the domain name system in Australia; g.ensuring its operations produce timely outputs which are relevant to the needs of the Australian Internet Community.
+Membership of the defendant falls into two categories, Supply Class Members and Demand Class Members. The former consists of those persons involved in the administration and operation of the '.au' Domain Industry such as a Registry operator, an accredited Registrar, a reseller appointed by an accredited Registrar in the .au name space, or an association whose membership comprises the majority of such persons. Any person who does not qualify for Supply Class Membership may become a member of the Demand Class subject to satisfying some criteria. There are currently twenty-six Supply Class Members and two hundred and thirteen Demand Class Members. 
+The Board of the defendant consists of four Directors elected by the Supply Class Members, four Directors elected by the Demand Class Members, the CEO as a non voting member and not more than three independent Directors appointed by the Board for two year terms.
+
+Registry Operators and Registrars
+The DNS is a system of distributed databases that cross references Internet domain names to IP addresses. When a search for a particular domain name is made, the DNS determines that access is sought to a computer connected to the network with the relevant numerical IP address constituted by a long string of numbers and directs the searcher to that computer. The authoritative database for each level of Domain is called a "Registry".
+The defendant has appointed AusRegistry Pty Ltd (AusRegistry) as its Registry operator. AusRegistry's role is to maintain the .au 2LD registry database (the Registry) and to assist and maintain the integrity and stability of the .au DNS.
+AusRegistry does not interact directly with the applicant for the registration of a domain name. Rather the applicant, who is known as the Registrant, usually applies for a domain name through a Registrar who is effectively a commercial seller and administrator of domain names. A Registrant can also apply for registration of a domain name through a reseller, essentially a sales agent for a Registrar.
+Registrars have direct access to the Registry so they can add, delete, and amend domain name records in the Registry. When an application for a .au domain name is made, the Registrar has the authority to access the Registry to check if the name is available and then to create the domain name. The Registrar does that without any involvement of the defendant.
+Domain names are licensed to a Registrant for 2 years. The process of registering a new domain name in the Registry database by a Registrar takes approximately two minutes. The Registry database will show that the Registrar created the particular domain name in question and the Registrar will be responsible for maintaining that domain name and communicating with the Registrant. 
+The defendant regulates and governs the .au Domain through its Published Policies approved by the defendant's Board and published on its website. When a Registrant obtains a .au domain name from a Registrar, the Registrant enters into a prescribed agreement with standard terms and conditions (.au Registrant Agreement) that applies to all holders of domain names.
+ .au Registrant Agreement
+The plaintiffs' current Registrar is Uber Global Pty Ltd trading as AussieHQ. The Agreement between the plaintiffs and the Registrar includes the following terms: .auDA and Registrar's Agency .1When purchasing a domain name a customer enters into a registration agreement with Uber Global Pty Ltd (the Registrar). This agreement also includes domains purchased through the subsidiary brands of Uber Global Pty
+Ltd, AussieHQ and Jumba.
+ .2In this agreement, auDA means .au Domain Administration Ltd ACN 079 009 , the .au domain names administrator.
+ .3The Registrar acts as agent for auDA for the sole purpose, but only to the extent necessary, to enable auDA to receive the benefit of rights and convenants referred to it under this agreement. auDA is an intended third party beneficiary of this agreement.
+ .auDA Published Policy .1In this clause, auDA Published Policies means those specifications and policies established and published by auDA from time to time at http://www.auda.org.au.
+ .2Registrant must comply with all auDA Published Policies, as if they were incorporated into, and form part of, this agreement. In the event of any inconsistency between any auDA Published Policy and this agreement, then the auDA Published Policy will prevail to the extent of such inconsistency.
+ .3Registrant acknowledges that under the auDA Published Policies: .3.1There are mandatory terms and conditions that apply to all domain name licences and such terms and conditions are incorporated into, and form part of, this agreement; and .3.2Registrant is bound by, and must submit to, the .au Dispute Resolution
+Policy; and .3.3auDA may delete or cancel the registration of a .au domain name.
+ .Registration of Domain Names .1A Domain Name Application must be in the form prescribed under the
+Published Policies. The Domain Name must comply with the Published Policies.
+ .2The Registrar and the Registrant do not have any proprietary right arising from: .2.1the registered Domain Name; or .2.2the entry of a Domain Name in the Registry Database.
+ .3All personal information pertaining to the Registrant is held by auDA for the benefit of the Australian public.
+ ...
+ .Registrant's Other Obligations .1Throughout the term of the Registrant Agreement, the Registrant must: .1.1comply with the Published Policies; .1.2give notice to the Registry Operator, through the Registrar, of any change to any information in the Registrant Data.
+ .2The Registrant must not, directly or indirectly, through registration or use of its Domain Name or otherwise: .2.1register a Domain Name for the purpose of selling it; .2.2register a Domain Name for the purpose of diverting trade from another business or web site; .2.3deliberately register misspellings of another entity's company or brand name in order to trade on the reputation of another entity's goodwill; and .2.4register a Domain Name and then passively hold a Domain Name Licence for the purpose of preventing another Registrant from registering it.
+ .3The Registrant must not in any way: .3.1grant or purport to grant a registered domain name as security; or .3.2encumber or purport to encumber the domain name registration.
+ ...
+ .Registrant Warranties 
+The registrant makes and is taken to have made, the following warranties, when applying to register or renewal (sic) the registration of a domain name: .1all information provided to register or renew the registration of the domain name (including all supporting documents, if any) are true, complete and correct and are not misleading in any way, and the application is made in good faith; .2the registrant meets, and will continue to meet, the eligibility criteria prescribed in auDA's published policies for the duration of the domain name licence; ...
+ .4the registrant is aware that even if the domain name is accepted for registration, the registrant's entitlement to register the domain name may be challenged by others who claim to have an entitlement to the domain name; .5the registrant is aware that auDA or the registrar can cancel the registration of the domain name (that is, the domain name licence) if any of the warranties set out above is found to be untrue, incomplete, incorrect, or misleading.
+
+Published Policies
+The defendant has issued Public Policies that are incorporated into the .au Registrant Agreement. The Public Policies relevant to the issues in these proceedings are referred to below.
+
+Mandatory Terms and Conditions
+The defendant's Published Policy entitled "Mandatory Terms and Conditions Applying to .au Domain Name Licences" sets out the mandatory terms and conditions that apply to all domain name licences in the open .au second level domains (2LDs), being asn.au, com.au, id.com, net.au and org.au. This Published Policy also includes the following: .PUBLISHED POLICIES 
+The registrant must comply with all auDA Published Policies. In the event of any inconsistency between any auDA Published Policy and the Registrant
+Agreement (with its registrar) then the auDA Published Policy will prevail to the extent of such inconsistency.
+ .REVOCATION OF LICENCE auDA may, at its discretion, cancel the registration of a .au domain name, or revoke a licence to use a .au domain name; .1If the registrant breaches any auDA Published Policy; ...
+
+Eligibility and Allocation
+The defendant's Published Policy entitled "Domain Name Eligibility and Allocation Policy Rules for Open 2LDs" includes the following: .DOMAIN NAME LICENCES .1There are no proprietary rights in the domain name system (DNS). A registrant does not "own" a domain name. Instead, the registrant holds a licence to use a domain name, for a specified period of time and under certain terms and conditions.
+ .2The terms and conditions of a domain name licence are set out in: a)this document; b)the registration application and subsequent agreement between a registrant and registrar; and c)any other of auDA's Published Policies that are applicable.
+ .3There is no hierarchy of rights in the DNS. For example, a registered trade mark does not confer any better entitlement to a domain name than a registered business name. Domain name licences are allocated on a 'first come, first served' basis. Provided the relevant eligibility rules are satisfied, the first registrant to apply for a particular domain name will be permitted to license it.
+ .STRUCTURE OF .AU DOMAIN .1The .au domain is sub-divided into a number of 2LDs (for example, com.au, edu.au, id.au). All .au domain names are registered as third level domains . It is not possible to register domain names as 2LDs directly under .au.
+ .2Each 2LD has a purpose. For example, com.au is for commercial entities, gov.au is for government bodies, and org.au is for non-commercial organisations. The purpose of each 2LD dictates the eligibility and allocation rules applicable in that 2LD.
+ .3The 2LDs are divided into 2 categories: a)"open 2LDs" - those 2LDs that are basically open to all users, subject to some eligibility criteria; and b)"closed 2LDs" - those 2LDs with a defined community of interest that are closed to the general public.
+ .4Schedule A of this document sets out the eligibility and allocation rules that apply to all open 2LDs. Schedules B-F of this document set out the eligibility and allocation rules that apply to each open 2LD.
+ ...
+ .APPLICATION OF POLICY RULES ...
+ .3.It is the responsibility of all registrants, in accordance with their registration application and subsequent agreement, to ensure that they satisfy the policy rules set out in this document when submitting an application to register or renew a domain name in any of the open 2LDs. To that end, a registrant is required to warrant to the registrar that they satisfy the rules.
+The Schedules to this Policy provide that the domain name licence period is "fixed at 2 years" and it is not possible to licence a domain name for a shorter or longer period. There is no restriction on the number of domain names that may be licensed by a Registrant. However a Registrant is not allowed to register a domain name for the sole purpose of resale or transfer to another entity (Schedule A). The Schedules also set out the eligibility and Allocation Rules for asn.au (Schedule B) and org.au (Schedule F) for "non-commercial organisations". 
+Those Schedules provide that domain names in the asn.au 2LD and the org.au 2LD must be: a)an exact match, abbreviation or acronym of the registrant's name; or b)otherwise closely and substantially connected to the registrant.
+
+Guidelines on Interpretaton
+The issue of whether a domain name is "closely or substantially connected to" the Registrant is dealt with in the Published Policy entitled "Guidelines for Accredited Registrars on the Interpretation of Policy Rules for Open 2LDS", as follows: .ALLOCATION CRITERIA - MEANING OF "CLOSE AND SUBSTANTIAL CONNECTION" .1A "close and substantial connection" is where the requested domain name is connected to the registrant in accordance with the listed categories for each
+LD.
+ .2The purpose of the close and substantial connection rule is to allow some flexibility for registrants who do not want to license a domain name that is directly related to their name (or cannot do so, because of the domain name has already been licensed by another registrant with the same or similar name). It is important to note that this rule is NOT intended as a "free for all", and the degree of flexibility is limited by the categories of close and substantial connection outlined in the policy rules.
+ .3At the point in the application form where a registrant indicates that they are eligible for a domain name under the close and substantial connection rule, registrars must provide a link to a page that sets out the criteria for the close and substantial connection rule.
+ .4Please note that registrars are expected to act with integrity and use their common sense in determining whether the registrant's warranty is bona fide. Under the terms and conditions of the Registrar Agreement, auDA reserves the right to take action against a registrar where it has reasonable grounds to believe that the registrar has acted negligently or recklessly in approving a domain name application in breach of the relevant policy rules.
+
+Close and substantial connection rule - asn.au, com.au, net.au and org.au .5In com.au and net.au, the categories of close and substantial connection are: a)a product that the registrant manufactures or sells; or b)a service that the registrant provides; or c)an event that the registrant organises or sponsors; or d)an activity that the registrant facilitates, teaches or trains; or e)a venue that the registrant operates; or f)a profession that the registrant's employees practise.
+ .6In asn.au and org.au, the categories are: a)a service that the registrant provides; or b)a program that the registrant administers; or c)an event that the registrant organises or sponsors; or d)an activity that the registrant facilitates, teaches or trains; or e)a venue that the registrant operates; or f)a profession that the registrant's members practise.
+ .7The requested domain name does not have to be the same as the registrant's product, service, etc. The domain name must only refer to the registrant's product, service, etc. This allows the registrant to license variations or descriptions of their product, service, etc (for example, "Jane the Florist
+Pty Ltd" could license "bestflowers.com.au", "flowersonline.net.au", "redroses.com.au", "cheapflowers.net.au" and so on). Refer to the examples in
+Schedule B.
+ .8Schedule A of the Eligibility and Allocation Rules for all Open 2LDs contains a prohibition on registering domain names for the sole purpose of resale. Therefore, it is not acceptable for registrants to use the close and substantial connection rule to engage in domain name speculation or warehousing; these practices do not constitute a "service" or an "activity" under the policy rules.
+Schedule B to this Policy includes the following: 
+Table B - Examples of close and substantial connection in asn.au and org.au 
+Close and Substantial connection category 
+Example 1 
+Example 2 
+Example 3 
+Example 4  ---|---|---  
+Registrant is a Church 
+Registrant is a Trade Union 
+Registrant is the Salvation Army 
+Registrant is an RSL Club  
+Service that registrant provides prayer.org.au worship.org.au worshiponline.org.au workplacerelations.org.au welfare.org.au helpline.org.au agedcare.org.au counselling.org.au  
+Program that registrant administers soupkitchen.org.au livingwage2002 .org.au employmentplus .org.au poppies.org.au  
+Event registrant organises or sponsors churchfete.org.au mayday.org.au workersrally.org.au redshieldappeal .org.au rememberanceday.org.au  
+Activity that registrant facilitates, teaches or trains maritalguidance.org.au ohs.org.au familytracing.org.au lawnbowls.org.au bingo.org.au  
+Venue that registrant operates church.org.au cathedral.org.au tradeshall.org.au hostel.org.au youthhostel.org.au rslclub.org.au  
+Profession that registrant's members practise ministers.org.au priests.org.au clergy.org.au workers.org.au socialworkers .org.au officers.org.au veterans.org.au 
+Although the defendant also issued a Published Policy entitled "Domain Monetisation Policy" it is not relevant because it relates only to com.au and net.au domain names.
+
+Complaint Process
+In February 2012 the defendant received a complaint that one of the plaintiffs' domain names, "carloans.org.au" was a "clear breach of policy". The defendant's general manager of complaints, Vanessa Stanford, investigated the complaint. 
+The plaintiffs responded to the complaint by claiming that the names of the plaintiffs explained their eligibility. They claimed that the eligibility came within paragraph 10.6(a) (a service that the Registrant provides) and/or paragraph 10.6(b) (an activity that the Registrant facilities, teaches, or trains) of the Published Policy entitled "Guidelines for Accredited Registrars on the Interpretation of Policy Rules for Open 2LDS".
+Ms Stanford had further communications with the Registrar requesting an explanation of the close and substantial connection to the plaintiffs in respect of each of the domain names. Ms Stanford advised the Registrar that unless such a response could be provided, the defendant would instruct the Registrar to delete the plaintiffs' domain names for breach of policy.
+On 16 March 2012 the Registrar forwarded a response from the plaintiffs to the defendant. That response claimed that the plaintiffs believed they fulfilled the eligibility criteria for all the domain names because they were an association incorporated in New South Wales and the names were closely and substantially connected to the Registrant.
+The plaintiffs provided a schedule in respect of each of the domain names of each of the plaintiffs. In respect of the domain names registered to LADAI, the Schedule provided.
+
+Name 
+Development Stage 
+Description  ---  bankruptcy.org.au 
+Live 
+Offers information on bankruptcy options, bankruptcy tips & debt management  bridgingfinance.org.au 
+To be developed 
+This site will provide information on bridging finance including details on interest rates, bridging finance terms and approval requirements  bridgingloan.org.au 
+To be developed 
+This site will provide necessary information to obtain a bridging loan and what to look for when applying for a bridging loan.  bridgingloans.org.au 
+To be developed 
+As there are several types of bridging loans available this site will outline the difference and applicability for each of them.  carloan.org.au 
+In development 
+We will provide information on obtaining a car loan, preparing an application, affordability assessment and a directory of lenders.  carloans.org.au 
+Live 
+Provides information on the types of car loans available in the market place.
+Also offers finance directory, a FAQ section, loan calculator, news and articles on car loans.  creditcard.org.au 
+In development 
+Will provide information about credit card matters, including credit card management and credit card repayment strategies.  creditcardcalculator.org.au 
+In development 
+This site will provide consumers with specialised credit card calculator showing the ways to reduce the credit card debt.  creditcards.org.au 
+Live 
+Provides directories for free legal advice, credit card & debt assistance & rural financial counselors. Offers information on credit card & debt help & a credit card calculator.  debtconsolidation.org.au 
+In development 
+On this site we will offer information on debt consolidation, advantages and possible disadvantages, as well as list of organizations dealing with debt consolidation.  financialplanning.org.au 
+Live 
+Offers information on financial planning services for estate, retirement, investment, SMSF and debt.  home-loans.org.au 
+To be developed 
+This site will provide information on different home loans available in
+Australia including details on repayments and options available for different home loans  homeloan.org.au 
+To be developed 
+With this site we will offer detailed home loan information, from the first step of applying for a home loan, maintaining a home loan and improvements to a home loan.  homeloancalculator.org.au 
+To be developed 
+This site will offer a complex home loan calculator helping consumers with current or future home loan repayment calculations.  homeloanrefinance.org.au 
+To be developed 
+This site will be specifically about refinancing a home loan. Necessary calculations and information will be supplied to help consumers with the process.  money.org.au 
+Live 
+Offers finance news & information on stocks & shares currency, investment, home loans, business & personal finance.  mortgage.org.au 
+Live 
+Specialises in mortgage information, including news, mortgage calculators & mortgage types.  mortgagecalculator.org.au 
+Live 
+Providing 11 different types of mortgage calculators enabling visitors to the site to calculate monthly repayments, principal, balance, repayments impact when increasing or decreasing their repayments.  mortgagerefinance.org.au 
+To be developed 
+This site will offer information on refinancing a mortgage and potential advantages and disadvantages of refinance.  mortgages.org.au 
+In development 
+This website will be about different type of mortgages, available in
+Australia, outlining the details and requirements to obtain one.  personalloan.org.au 
+Live 
+Offers comparison information on different types of personal loans: poor credit, debt consolidation, car loans & tips.  personalloans.org.au 
+In development 
+This website will provide detailed information on different types of personal loans and how to prepare successful loan applications.  property.org.au 
+Live 
+Provides articles/video on property news. Property search facility. Info on buying & selling property.  refinance.org.au 
+To be developed 
+The site will offer information on refinancing any type of loan, including home loans, car loans, and personal loans.  shares.org.au 
+Live 
+Offers information on shares, Forex, automated trading, spread betting, plus general shares trading news and articles.  shorttermloan.org.au 
+In development 
+This website will explain the advantages and disadvantages when obtaining a short term loan and alternative solutions.  shorttermloans.org.au 
+In development 
+Here we will be showing the difference between various types of short term loans such as pay day loans, short term bridging loans. Also will outline possible pitfalls when applying for one of those loans.  debtconsolidation.asn.au 
+To be developed 
+This site will provide nation wide resources on debt consolidation, including directory of government bodies and private companies.  homeloan.asn.au 
+To be developed 
+This will specialise in home loan information. From preparing an application for a home loan, home loan affordability and home loan repayment strategies.  homeloans.asn.au 
+To be developed 
+As there are several hundreds of different home loan product combinations this website will explain the ins and outs for each of them. 
+In respect of the domain names registered to SSGCRI the Schedule provided: 
+Name 
+Development Stage 
+Description  ---  books.org.au 
+In development 
+This site will provide information on books, specialising in rare and old - not in print books. It will also offer a books discussion forum.  epilepsywa.org.au 
+Live 
+Provides a directory of epilepsy organisations Australia wide + general epilepsy information.  depression.org.au 
+Live 
+Offers information on the causes, symptoms + treatment of depression. Includes a directory of help lines.  hotel.org.au 
+Live 
+Provides comprehensive search facility/world-wide hotel directory. Includes hotel reviews & ratings  hotels.org.au 
+In development 
+This site will provide hotel reviews, including a searchable hotel location map.  jobs.org.au 
+Live 
+Offers tips on job interviews, applications & resume. Also includes job search facility.  mobilephone.org.au 
+In development 
+This website will provide the latest scientific research on the use of mobile phone and its effect on health, as well as articles written by general public on the matter.  mobilephones.org.au 
+Live 
+Offers mobile phone reviews, mobile phone news and tutorials for mobile phones.  phones.org.au 
+In development 
+We will offer information and reviews on all types of phones, including home phones, mobile phones, Internet phones, satellite phones. Digital phones and analog phones.  tennis.org.au 
+Live 
+Provides information on the four major tennis Grand Slams. Includes general tennis news/video news.  tools.org.au 
+To be developed 
+This site will provide information on tools, safe using of tools and tools reviews.  books.asn.au 
+To be developed 
+We will offer book search facility, including where to find affordable books for university students and trade apprentices. 
+The defendant informed the Registrar (and the plaintiffs) that it did not accept that there was a close and substantial connection between the domain names and the Registrant and advised that it intended to delete the domain names from the Register; effectively cancelling the plaintiffs' licences. That is when the plaintiffs commenced these proceedings. 
+After the proceedings were commenced the plaintiffs provided the Constitutions and Lists of Members of the plaintiffs to the defendant. The Constitutions of each of the plaintiffs refer only to the membership, the committee, general meetings, and miscellaneous sections in relation to funding, notices and the like. There is no indication in either of the Constitutions of the purposes or objects of the plaintiffs or their intended activities and functions. 
+There was a further communication between the plaintiffs and the defendant on 30 April 2012 when Mr Simunovic spoke with Ms Stanford. He advised her that the plaintiffs "provide information about the generic words in their names". He gave the example that the first plaintiff provides information about credit cards and claimed that the plaintiffs gave general information about specific types of debt or specific consumer products. In those circumstances Mr Simunovic claimed that the plaintiffs were entitled to register those words associated with debt or consumer products.
+At the hearing of the matter the plaintiffs tendered three extracts from the sites the subject of the application. The extract from the site creditcards.org.au (Exhibit B) comprises what appears to be information and advice to the reader including such statements as "If you do not need a credit card, do not obtain one" and "If you have a credit card, make payments on time". It includes information in relation to the interest rate on a credit card with a calculation that a debt of $10,000 with minimum monthly payments of 2% would take sixty-two years and eight months to pay off in full. There is a claim that the interest repaid in that time would be $32,457. The balance of the extract includes observations about family budgets and the manner in which people control their spending with a conclusion that "the false convenience of credit cards has been financially devastating for many Australians. It's time to destroy the cards and regain financial independence". The extract also includes telephone numbers in various States for consumer credit advice and free legal advice. 
+There is also an extract from the domain site depression.org.au (Exhibit A) which provides information about the nature of depression and its causes. It also includes telephone numbers and websites to "find help for depression".
+The defendant submitted that simply populating a website's content with material relating to the website's domain name might amount to a connection to the domain name and the website. However that does not demonstrate a connection between the domain name and the Registrant. Rather it was contended that to determine whether there is a "close and substantial connection" between the domain name and the Registrant, it is necessary to ascertain and examine what "services" are being provided by the Registrant. The defendant also submitted that the evidence does not establish any activities in which the plaintiffs are involved or any services they provide to their members. 
+The defendant submitted that the intent of paragraph 10.6 of the Published Policy is that in the org.au and the asn.au domains, the relevant "service" cannot be comprised solely of what the Registrant claims it does or will do in cyberspace by using the names in question. In order to prevent the abuse of the use of the special org.au and asn.au domains which are reserved for non-commercial Registrants, the Policy requires that the holder of the domain names have some "real-world presence and activity". The defendant submitted that the relevant "services" must be more than the websites of the domain names, otherwise the object of the Policy is defeated.
+The contract between the plaintiffs and the defendant consists of the standard form .au Registrant's Agreement that incorporates the Published Policies of the defendant. Pursuant to that contract, the parties agreed to the mandatory terms and conditions contained in the Policies that apply to all domain name licenses. The parties also agreed that the defendant could delete or cancel the registration of a domain name. 
+Albeit that a fee is paid for the registration of a domain name, the plaintiffs agreed that they do not have any proprietary right arising from the registered domain name or the entry of the domain name in the Registry Database.
+The plaintiffs' submissions relied solely on a claim that the defendant was not entitled to delete the plaintiffs' domain names because the names complied with paragraphs 10.6(a) and (d) of the Published Policy. It was submitted that there is a close and substantial connection because each of the domain names are connected to the Registrant as either a service that the Registrant provides or an activity that the Registrant teaches or trains. 
+The examples that are given in Table B of Schedule B of the Published Policy demonstrate the types of service that may be relevant for a particular Registrant. For instance the Salvation Army services of welfare, a helpline and aged care are reasonably obvious services provided by that organisation to members of the public who are in need of such services. Similarly the trade union is listed as providing "workplace relations" services to their members. The defendant submitted that when one compares all of the names registered to the plaintiffs there are no "services" provided. It is submitted that it is not apt to look at the content to decide whether the service is provided, but rather it is necessary to look at the domain name to see if there is a connection with the Registrant. 
+Mr Simunovic submitted that the names of the organisations should be analysed for the purpose of deciding whether the domain names are connected to them. One of the difficulties for the plaintiffs is that their Constitutions do not provide any objects or purpose to demonstrate what it is that the associations do or what services they provide to their members or to the members of the public. For instance Mr Simunovic submitted that the word "money" is connected to the name "loans and debts assistance". 
+The word "service" in the context of paragraph 10.6 of the Published Policy is defined to mean "an act of helpful activity": The Macquarie Dictionary Federation Edition, the Macquarie Library (2001); or "the action of helping or doing work for someone": The New Oxford Dictionary of English, Clarendon Press Oxford (1998). 
+In Westpac Banking Corporation Ltd versus Prelea & Ors [(1992) 28 NSWLR 481], Cole J considered whether an agreement to make financial advances to a customer was a "service to a consumer" within the context of the [Trade Practices Act 1974](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) (Cth). His Honour said at 484-485: 
+It is not realistic to suggest that the "service" was the agreement to provide a line of credit, or to provide a factoring facility. Such an agreement was preliminary to the provision of services, the service being the making available of such funds. That seems to me to be a matter of commonsense.
+However, [s ](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/s74.html) makes clear the distinction between services provided and the contract or agreement for provision of those services (see [s (3)).](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/s74.html)
+Conceptually there may be three stages in provision of services. First there may be an agreement to provide services. Second, may be the steps preliminary to such provision such as, for instance, the opening of a cheque facility.
+That may be part of the service provided, namely, the facility to use a cheque account. And third, is the actual provision of the service, namely, the provision of an overdraft facility or letter of credit or factoring facility.
+In that case the "service" was the provision of the funds to the customer. The concept of the provision of a "service" is also found in the definition of "financial service" in [s 761A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s761a.html) of the [Corporations Act 2001](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth). It includes the provision of "financial product advice" which in turn is defined in [s 766B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s766b.html) as a recommendation or a statement of opinion, or a report of either of those things, that: is intended to influence a person or persons in making a decision in relation to a particular financial product or class of financial products, or an interest in a particular financial product or class of financial products; or could reasonably be regarded as being intended to have such an influence.
+In the present case the "service" that the plaintiffs purport to provide to their members and others is the provision of advice or information. Accordingly a domain name such as "carloansinformation.org.au" may, subject to regulatory and/or statutory prohibitions, have a close and substantial connection to a Registrant if the Registrant's purpose and objects were the provision of financial advice or information to its members and others about particular aspects of car loans. However there are statutory and regulatory requirements in relation to persons purporting to provide financial advice without appropriate qualifications and/or licenses. For instance it is necessary to hold a financial services licence under [s 911A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s911a.html) of the [Corporations Act 2001](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/). There are also provisions for the authorisation of representatives of a financial services licensee in [s 916A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s916a.html) of the [Corporations Act 2001](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/). Other examples include the provisions of [Part 2](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p2)-[2](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p2) and [Part 2](http://www.austlii.edu.au/au/legis/cth/consolact/nccpa2009377/index.html#p2)-[3](http://www.austlii.edu.au/au/legis/cth/consolact/nccpa2009377/index.html#p3) of the [National Consumer Credit Protection Act 2009](http://www.austlii.edu.au/au/legis/cth/consolact/nccpa2009377/) (Cth) dealing with credit licenses and representatives of credit licensees. The plaintiffs are not so authorised or licensed.
+The names registered to the first plaintiff of bankruptcy, bridgingfinance, bridgingloan, bridgingloans, carloan, carloans, creditcard, creditcards, debtconsolidation, financialplanning, home-loans, homeloan, homeloans, homeloanrefinance, money, mortgage, mortgagerefinance, mortgages, personalloan, personalloans, property, refinance, shares, shorttermloan and shorttermloans are not "services". Equally the names registered to the second plaintiff of books, epilepsywa, depression, hotel, hotels, jobs, mobilephone, mobilephones, phones, tennis and tools could not be described as "services".
+Certainly the plaintiffs do not suggest that these names are their "products". Indeed that is not the criteria for an org.au or asn.au domain name under paragraph 10.6, but rather for a com.au or net.au domain name under paragraph 10.5 of the Policy. Paragraph 10.7 of the Policy deals with a commercial organisation and a com.au address. Accordingly those examples in that paragraph are products and would qualify as closely and substantially connected to the Registrant. 
+There are three names that fall into a different category that are registered to the first plaintiff. They are creditcardcalculator, homeloancalculator and mortgagecalculator. The first two are described as "to be developed'. In this regard the defendant submitted that the requirement in the Policy is that it is a service that the registrant "provides", not a service that the registrant may provide in the future. I agree with that submission. There is no present "service" that is provided by the plaintiff in respect of the first two of these names. The third name, mortgagecalculator, is described as "providing 11 different types of mortgage calculators enabling visitors to the site to calculate monthly repayments, principal, balance, repayments impact when increasing or decreasing their repayments". There is no evidence to suggest that the plaintiffs have any input into the calculation process. Rather the description suggests that the calculator is a "product" that is then manipulated by the visitor to the site. On balance I am of the view that this is not a "service" but rather a "product", which is not one of the categories in paragraph 10.6 of the Policy. Even if it were to be categorized as a "service", the first plaintiff still suffers the difficulty of having failed to identify what it does. It is not possible to ascertain the nature of the plaintiff's operations for the purpose of determining whether such a "service" may be closely and substantially connected to it.
+The plaintiffs also claimed that the names fell into the category of an "activity" that the plaintiffs teach or train. That expression has been defined as "a thing that a person or group does or has done": The New Oxford Dictionary of English, Clarendon Press Oxford (1998). The plaintiffs do not provide finance, nor do they provide car loans or mortgages. I am satisfied that they do not fall within the category of "activity". Accordingly the plaintiffs have not demonstrated that the domain names have a close and substantial connection to the plaintiffs. 
+The plaintiffs' have agreed in their contract with the defendant that they have no proprietary rights in or by reason of the registration of the domain names. The defendant has formed the view, in my view justifiably, that the plaintiffs' domain names are not closely or substantially connected to the plaintiffs. There is no breach or anticipatory breach of contract. It follows that the plaintiffs' claims must fail.
+The Summons is dismissed with costs.
+ * * * 

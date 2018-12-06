@@ -1,0 +1,219 @@
+
+
+Tran versus Perpetual Trustees Victoria Ltd [2012] NSWSC 1560 (26 October 2012) 
+Last Updated: 18 January 2013 
+Supreme Court 
+New South Wales  
+Case Title: 
+Tran versus Perpetual Trustees Victoria Ltd  
+Medium Neutral Citation: <case>  
+Hearing Date(s): - 4 October 2012  
+Decision Date: October 2012  
+Jurisdiction: 
+Equity Division  
+Before: 
+Rein J  
+Decision: 
+Defendant liable to the plaintiff to recredit amounts deducted from plaintiff's bank account on basis of a fraudulent authority and for the actions of its mortgage originator agent in forging fraudulent authorities to obtain plaintiff's funds from the defendant bank.  
+Catchwords: 
+BANKING AND FINANCE - banks - bank accounts - where bank charged plaintiff's account based on fraudulent authority not in fact signed by the plaintiff - receipt of those funds by third parties - where bank did not establish that plaintiff later ratified the receipt of funds by those third parties - bank liable to plaintiff for the unauthorised disbursement of funds  
+CONTRACTS - particular parties - principal and agent - where bank charged plaintiff's account based on authority fraudulently provided by its mortgage originator - whether mortgage originator was acting as agent of the bank - where a clause in agreement between bank and mortgage originator expressly precludes mortgage originators from being agents of the bank - despite such a clause mortgage originator was still agent for the purposes of the bank's dealings with the public - bank liable for the mortgage originator's actions  
+Cases Cited: 
+Briginshaw versus Briginshaw <case>; [(1938) 60 CLR 336] 
+Browne versus Dunn (1893) 6 R 67 
+Entwells Pty Ltd versus National & General Insurance Co Ltd [(1991) 6 WAR ] 
+Lennard's Carrying Co Ltd versus Asiatic Petroleum Co Ltd [[1915] AC 705] 
+Lloyd versus Grace Smith & Co <case>; [[1912] AC ] 
+London Joint Stock Bank Ltd versus Macmillan & Arthur <case> 
+National Australia Bank Ltd versus Hokit Pty Ltd <case>; [(1996) 39 NSWLR 377]  
+Texts Cited: 
+R P Austin and I M Ramsay, Ford's Principles of Corporations Law, 14th ed
+LexisNexis Butterworths  
+Category: 
+Principal judgment  
+Parties: 
+Van Dan Tran (Plaintiff)  
+Perpetual Trustees Victoria Ltd (Defendant)  
+Representation - Counsel: 
+Counsel: 
+D Elliott (Plaintiff) 
+L Gor (Defendant)  - Solicitors: 
+Solicitors: 
+Quy Lawyers (Plaintiff) 
+Kemp Strang (Defendant)  
+File Number(s): 
+SC 2009/290570  
+JUDGMENT
+These proceedings concern a loan of $300,000 made by Perpetual Trustees Victoria Ltd ("Perpetual") to Mr Van Dan Tran. The loan was organised by Dollar Group Pty Ltd ("Dollar Group"), a company all of the shares in which were owned by its sole director and secretary, Mr Eric Minh Hieu Lu. Mr D Elliott of counsel appears for Mr Tran and Mr L Gor appears for Perpetual.
+The loan was granted in January 2005 and $90,000 of it was paid by Perpetual's agent, Challenger Mortgage Management Pty Ltd ("Challenger"), to fund a Westpac bank cheque made out to Mr Lu. Mr Tran's case is that he never requested or authorised such payment (by bank cheque or otherwise) to Mr Lu and that when he received the bank cheque in the mail in February 2005 he had the following conversation with Mr Lu (set out in Mr Tran's affidavit affirmed 31 May 2011 at par 27): 
+Mr Tran: Why is a cheque for $90,000 made out in your name? What is going on?
+I didn't authorise this.
+
+Mr Lu: This is how it works, it doesn't matter as long as you receive the cheque your money is fine, it's safe.
+
+Mr Tran: I don't want you to have this money. I want it back in my loan account. How do I deposit this cheque into my loan account? 
+Mr Lu: Just come into my office, and I will look after things for you, I will make sure the cheque is deposited back into your loan account.
+
+Mr Tran: Why would I give the cheque to you, shouldn't I give it to Perpetual? 
+Mr Lu: No, give it to me because it is made out in my name and I will deposit it back into your loan account.
+Mr Tran attended at Mr Lu's office and handed the bank cheque to Mr Lu. They had a conversation in the following terms (see Mr Tran's affidavit affirmed 31 May 2011 at par 28): 
+Mr Tran: I still don't understand why a cheque of $90,000 is made out in your name? 
+Mr Lu: It's a loan account, this is how things are done, just give me the cheque and I will deposit it into your loan account.
+
+Mr Tran: Make sure you put this cheque into my home loan account.
+
+Mr Lu: Don't worry about it, I will do it today, everything will be fine.
+Mr Lu did not in fact bank the $90,000 cheque to Mr Tran's Perpetual loan account.
+The second irregularity of which Mr Tran complains is that Mr Lu sent him bank statements purportedly emanating from Interstar Wholesale Finance Pty Ltd ("Interstar") which were not in fact genuine statements of account or parts of a genuine statements of account (see Exhibit A1 at pp 106, 109, 111 - 113, 115 - 116 and 117 - 124). The false bank statements showed the deposit of $90,000 on 9 March 2005. Interstar, Challenger and Advantedge Financial Services Pty Ltd ("Advantedge") can, it was agreed (see T7.37 - 43), all be treated for the purposes of this case as the same entity and I shall refer in the balance of these reasons only to Challenger.
+The third irregularity of which Mr Tran complains is that a request was made by Dollar Group for Mr Tran's account address to be changed from his home address to a PO Box at Cabramatta - a postal address with which Mr Tran had no connection - and that this was done without Mr Tran's knowledge or approval. The document by which it was effected was an email from Dollar Group: see Exhibit A2 at p 593.
+The fourth irregularity of which Mr Tran complains is the drawdown of $25,000 from the loan account, $24,955 of which was paid to Ms Thi Hong Trang Nguyen ("Ms Hong"), the other $45 being the processing fee. Ms Hong is or was the de facto partner of Mr Lu. Mr Tran says that: he did not request or authorise that payment; the payment was not for his benefit; and he did not know about the payment until 19 December 2008, when he received a letter from Challenger advising him that his redraw request for $25,000 had been processed.
+The request for payment of $90,000 to Mr Lu was made by means of a disbursement authority (see Exhibit A2 at p 430). That document, it is conceded by the defendant, was not signed by Mr Tran.
+The request for payment of the $25,000 was made by means of a document entitled "Client Request Form - Redraws & Transfers": see Exhibit A2 at p 550. The plaintiff says that he did not sign this request.
+Mr Tran's evidence is that when he became concerned about Mr Lu and sought information about the true state of his account with Perpetual, he rang Challenger several times and was informed that he should take up any queries with Dollar Group. He wrote to Challenger by fax on 11 December 2008: see Exhibit A1 at p 126. He subsequently arranged for Mrs Tram Bui, his financial adviser, to write to Challenger on his behalf and, by the letter purportedly signed by Mr Tran but not in fact signed by him, he authorised Mrs Bui to act on his behalf: see Exhibit A2 at p 596.
+The plaintiff's case as advanced at trial had two limbs: that: the payment of a bank cheque to Mr Lu was not authorised by him and that the fact that he handed over the cheque to Mr Lu for it to be redeposited to the Perpetual loan account cannot be held as a ratification of the wrongful payment to Mr Lu; the withdrawal of the $25,000 was without authority; that Dollar Group was Perpetual's agent and that it is vicariously liable for the fraud of Mr Lu; and that both amounts deducted from his loan account should not have been deducted. Interest and penalties which accrued by reason of Perpetual's treatment of the debt as unpaid should be reversed.
+Perpetual challenges the right of Mr Tran to advance the first limb in these proceedings on the basis that that case has not been pleaded and that it did not come to court to deal with such a case. Secondly, Perpetual does not accept that it is liable for deductions made because it submits that Mr Tran intended and authorised Mr Lu to receive $90,000. So far as the $25,000 payment is concerned, it says that there is no evidence that the disbursement authority for this redraw was forged. Ms Candice Moussa, the forensic document and handwriting expert retained by Mr Tran's solicitors, was not asked to comment on the authenticity of Mr Tran's signature on the document in Exhibit A2 at p 550. Ms Moussa did examine a document (dated one day earlier) which, apart from the signature, is identical to the document at p 550 (which it seems likely is the request Challenger acted on) and it is accepted by Perpetual that the document at p 259 was not signed by Mr Tran. Mr Elliott explained that those instructing him understood that it was the document at p 259 that was acted on by Perpetual and that is why that document was the subject of forensic examination. Given the similarity of the documents, it is not entirely surprising that there was some confusion about which document was the one which led to funds being transferred.
+In relation to the second limb, Perpetual says that: 
+Dollar Group was not its agent and not Challenger's agent; and even if it was, Dollar Group is not vicariously liable for the actions of its managing director.
+I shall endeavour to set out first some uncontested matters which are, or are said to be, relevant to disposition of the case: 
+Mr Tran as at late December 2004 or early 2005 owned the property which was subject to a mortgage to Westpac. As at that time, the mortgage debt was approximately $99,000. The mortgage debt was paid out of the Perpetual loan funds and the mortgage in favour of Westpac was discharged.
+
+Mr Tran was persuaded by Mr Lu to refinance with Perpetual through the
+Dollar Group. Mr Tran is a truck driver and had in mind to buy a replacement truck - new for $120,000 or second-hand for $80,000 - $90,000. He had in mind the possibility of purchasing an additional truck "or buying a house or something" (see T60.6 - 11) using the Perpetual funds.
+
+Mr Tran had a social connection with Mr Lu before the Perpetual transaction. He played snooker with Mr Lu and Mr Lu, a younger man, called Mr
+Tran "anh", a term of respect meaning "older brother".
+
+Mr Tran speaks English and can read English but it is not his native language, which is Vietnamese, and he spoke to Mr Lu in Vietnamese.
+
+A number of clients of Dollar Group have made complaints to the New
+South Wales Police and the Australian Securities and Investments Commission,
+Mr Tran being one of them. Mr Lu, unbeknown to Mr Tran or Challenger, had, in
+April 1995, been convicted of two fraud offences (see Exhibit A3 at p 769). In
+August 2010, Mr Lu was charged with 11 counts of fraud including, I infer, in respect of dealings with Mr Tran, and was refused bail. There is no evidence before the Court as to the outcome of those criminal proceedings or indeed whether they have proceeded to trial.
+
+In 2008, Mr Lu sought a loan of $40,000 from Mr Tran to enable him to meet demands from clients. Mr Tran did lend Mr Lu $40,000 and by a document dated 2 February 2008 Mr Lu acknowledged receipt of the funds. Mr Lu subsequently repaid $30,000.
+
+Perpetual is the trustee of, inter alia, the Millennium Trust. As trustee, it has access to funds which it is authorised to invest in mortgage loans. Perpetual appointed Challenger as its agent. Perpetual itself does not deal with borrowers or mortgage originators. Challenger is empowered to deal with mortgage originators on behalf of Perpetual. The relationship between
+Challenger and mortgage originators is governed by a document entitled Loan
+Origination and Management Agreement ("LOMA").
+
+Challenger pays to mortgage originators such as Dollar Group a fee. That fee, structured either as a percentage of between 0.25 to 0.75 of a per cent, is earnt by the mortgage originator (and paid by Challenger to the mortgage originator) for: introducing the customer; carrying out a process of preparing and vetting the application for loan; and once the loan is granted, managing the loan on behalf of Challenger. At that point, the mortgage originator is referred to as the mortgage manager.
+Thus while Challenger manages Perpetual's account, the mortgage manager, in this case Dollar Group, managed the customer loan account, having computer access to view and print (but not alter) the account documents.
+
+There was in existence a manual but it was agreed that nothing in it was relevant to the dispute between the parties.
+The following clauses of LOMA were said by the parties to have a bearing on the relationship between Challenger and Dollar Group: cl 3 (which deals with the appointment of the originator), cl 5 (which deals with the process of originating and servicing loans), cl 6 (which sets out the originator's obligations), cl 10 (which deals with payment of the upfront fee and originator's fee), cl 13.8 (which imposes an obligation of good faith and requires compliance with laws and regulations) and cl 19.1, which I set out at par [42] below.
+
+The credibility of witnesses
+The plaintiff was cross examined at some length by Mr Gor. Mr Gor made it clear at the outset of the hearing that he does not challenge Mr Tran's assertion that he did not sign the $90,000 disbursement authority. What remained in issue was Mr Tran's contention that he did not authorise the $90,000 payment to Mr Lu and did not hand over the cheque intending Mr Lu to take the benefit of it and whether he did authorise the $25,000 payment to Ms Hong.
+Mr Tran was able to answer a number of questions in English but most of his evidence was given with the assistance of an interpreter. He appeared to me to be very nervous (and "uncomfortable" as Mr Elliot put it) in giving his evidence both in English and in Vietnamese. There are some aspects of his evidence which engender some doubt as to his truthfulness: 
+I think he tended to downplay his friendship with Mr Lu: see his first affidavit affirmed 11 September 2009 at par 3. They were sufficiently close that Mr Tran lent to Mr Lu $40,000 to permit Mr Lu to fend off other clients of Mr Lu.
+
+Mr Tran appears to have been content for Mrs Bui to sign a letter in his name authorising Mrs Bui to receive information from Challenger about his account. In a case in which Mr Tran asserts that his signature was forged on various documents, the fact that he was willing to have Mrs Bui sign as if she was him is not without significance.
+
+The application for $25,000 drawdown bears a signature of Mr Tran that has not been challenged by Ms Moussa in her report at pp 248 - 252 of Exhibit
+A1. To the untrained eye it appears to be the same as Mr Tran's genuine signature: see Exhibit A2 at p 550 (and compare to Exhibit A1 at p 257 and see also p 255 which has both a genuine signature on the right-hand side and a non-genuine on the left-hand side).
+
+The matter dealt with at par [24] below.
+In the course of cross examination, at T95.29 - T96.25, Mr Tran gave the following evidence: "Q. Is it your evidence that on about 12 December 2006 you did not authorise the change of account from which the Perpetual mortgage was to be repaid to account xxxxxx? 
+A. WITNESS: I did.
+
+Q. You did authorise it? 
+A. WITNESS: Yep.
+
+Q. But you say this isn't your signature on page 565.
+
+A. INTERPRETER: So before I wanted to change it I rang Mr Lu.
+
+Q. You rang Mr Lu to authorise him to change it? 
+A. INTERPRETER: I had a new bank and a new account, and I wanted to get rid of the old account and take the money out of the new account.
+
+Q. So you authorised Mr Lu to submit this form. Is that your evidence? 
+A. WITNESS: No, I didn't. I mean this one I say on the phone I want to change the account for I put a new from new account. So he said yes, because I'd already there was no money in the closing account. I can they got nowhere to take the money from, so I rang up to say I want you to 
+HIS HONOUR 
+Q. Change over the account? 
+A. WITNESS: change over account. So he said, "All right. What account?" So I said I needed to fill out the form or something. He said, "No, just give me the account number". So I gave him an account number. He said, "Let me worry about the 
+Q. He'll sort it out for you; is that what you're saying? 
+A. WITNESS: Yeah.
+
+Q. He told you he would sort it out for you.
+
+A. WITNESS: Yeah.
+
+Q. And you were happy for him to do that? 
+A. WITNESS: Yeah.
+ ...
+
+Q. And is that what also happened with the disbursement authority for the $90,000? 
+A. WITNESS: Yes."
+This evidence was not revisited in cross examination. Mr Elliott submitted that I should disregard Mr Tran's admission that he had authorised the disbursement authority and that Mr Tran probably intended something different (see T257 - T258). Mr Elliott referred to the difficulties of interpretation when a translator is involved and referred to the practice of statisticians to ignore the exceptional answer or result: T260.35 - 37. Mr Gor submitted that, in the absence of any suggestion that the interpreter was not proficient and in light of the failure of Mr Elliott to deal with this topic in re-examination, the Court should not proceed on the basis that there was any difficulty of comprehension.
+In reaching a conclusion about Mr Tran's credit and how the admission set out at par [18] above is to be dealt with, I think it is necessary to consider other aspects of the evidence that are corroborative of Mr Tran's case: 
+Mr Lu and the Dollar Group went to the trouble of preparing account statements for Mr Tran that were false.
+
+The Dollar Group went to the trouble of changing the address to which the genuine Challenger accounts were sent to, an address with which Mr Tran had no connection and which, I think it was agreed by both counsel, was connected with Mr Lu's de facto partner, Ms Hong. That step appears very clearly to have been directed to ensuring that Mr Tran did not learn the truth.
+
+There has been no suggestion made that Mr Tran owed Mr Lu money. There is no document or corroborative evidence that Mr Tran agreed to lend $90,000 to Mr Lu (as there is for the $40,000 loan).
+
+The $25,000 which was drawn down was paid to Ms Hong. Mr Tran obtained no benefit out of that drawdown. It followed an attempt a few days earlier, utilising a forged signature, to obtain $20,000 with a false explanation concerning a "niece" of Mr Tran's: see Exhibit A2 at p 547. The link in time between the two applications is very close.
+
+The fact that Mr Lu (or the Dollar Group) owed money to other customers and the fact that other customers have made claims about Mr Lu's conduct and
+Mr Lu's previous criminal record (whatever the outcome of the current prosecution) give some credence to Mr Tran's claim that Mr Lu was acting for his own benefit.
+
+Mr Tran did contact Challenger in relation to the account a number of times, on his evidence, during 2007 to 2008, culminating in a fax of 11
+December 2008 (see Exhibit A1 at p 126), which led to Mr Tran's home address being reinstated as the address to which account statements were sent. I initially thought it unlikely that Challenger employees would direct Mr Tran, with queries about his account's management, back to Dollar Group, but that was Challenger's policy and practice: see Exhibit A2 at p 461 and see T187.6 - 26.
+I would also make the following observations specifically in relation to the "admission": 
+It needs to be borne in mind that it is Mr Tran's case that although he did not authorise the provision of the $90,000 to Mr Lu, he did, in accordance with Mr Lu's suggestion and promise to "sort it out", hand over the bank cheque to Mr Lu and leave it for Mr Lu to return the funds to his account.
+Given that background and the fact that at T96.3 my questions were directed to
+Mr Tran being willing to let Mr Lu sort out a change of the direct debit from the previous Westpac account to a new account, the answer to Mr Gor's question at T96.23 "And is that what also happened with the disbursement authority for the $90,000?" and Mr Tran's affirmative response to that question, is capable of being understood as applicable to the process which Mr Tran previously said he had engaged in to see the $90,000 returned to the Perpetual account, not as agreement that he had authorised Mr Lu to receive $90,000 of the loan funds.
+
+If the admission is not read in the way suggested in (1) and is treated as an admission that he had authorised the disbursement of $90,000 to Mr Lu, it was not put to Mr Tran that he had therefore been dishonest in his affidavit. There had been an agreement that no Browne versus Dunn (1893) 6 R 67 point would be taken (see T64.27 - 38) so Mr Gor is not precluded from contending that Mr Tran's evidence by way of affidavit and earlier denial (see
+T61) ought not be accepted, but I think it is of some relevance that the inconsistency between what Mr Tran said at T96 and what he had said in his affidavit and earlier at T61 was not explored, that being a new development if the interpretation referred to in (1) is not accepted.
+
+The last point leads to a further point. If Mr Tran did authorise the disbursement of $90,000 to Mr Lu, the evidence of the conversation with Mr Lu does not make sense and the inconsistency between the admission and the conversations was not explored.
+Mr Tran's evidence is that he wished to reduce the Perpetual loan amount and withdrew $85,000 from Westpac bank and paid the money into the loan account; according to his first affidavit, this occurred on 30 March 2005 (see par 16). He says that in September 2005 he wished to buy a truck for $85,000 and asked Mr Lu to arrange a redraw of the $85,000 from the Perpetual account. So far as Mr Tran understood, the $85,000 which was then credited to his Westpac account was paid out of the Perpetual account as a drawdown and the false statement of account shows that this is what occurred. In fact, Mr Lu had not deposited the $85,000 to the Perpetual account and did not draw the $85,000 out of the Perpetual account in September 2005. Mr Tran did receive the $85,000 and he does not make any claim in respect of it.
+Mr Gor cross examined Mr Tran at T61 as follows: "Q. I suggest to you the real reason you took that money was because you had an arrangement with Mr Lu to give him $90,000 and that's what you did, correct? 
+A. WITNESS: I don't agree with that. I don't agree with that.
+
+Q. I am sorry, is the answer correct or incorrect? 
+A. WITNESS: Can you say it again, please.
+
+Q. I suggest to you the reason you took $300,000 was because you had an arrangement to give Mr Lu $90,000 of that money, and that's exactly what you did. You gave him that in the form of a cheque in his name, correct? 
+A. WITNESS: No." 
+At T61.46 - T62.22, Mr Tran said that he had never agreed to provide funds to
+Mr Lu or Ms Hong or had any business dealings with Mr Lu prior to obtaining the loan. No evidence was led by Perpetual to contradict Mr Tran's evidence.
+Mr Gor cross examined Mr Tran on the provision of the $85,000 cheque to Mr Lu (according to Mr Tran's second affidavit - see par 19 - this occurred on 18 April 2005) and Mr Tran's explanation that he wanted to avoid the temptation to spend the money sitting in the Westpac account and suggested that Mr Tran did not have any concern of that kind nor any concern about providing the $90,000 bank cheque in February 2005 to Mr Lu, given his willingness to provide Mr Lu with the $85,000 cheque in April 2005. It does seem rather odd that Mr Tran would borrow money from Perpetual only to repay $175,000 of it within weeks of having received it (that is, $90,000 and $85,000) but in the absence of evidence that Mr Tran had organised to lend Mr Lu $175,000 or, for example, had agreed to place $175,000 with Mr Lu for investment purposes, the unusual aspect of his dealings with the borrowed funds does not of itself sufficiently undermine Mr Tran's evidence to induce acceptance of the conclusion that Mr Tran must have provided funds to Mr Lu for a purpose that was never explored with Mr Tran or the subject of any evidence.
+I do not accept that Mr Tran's credibility was affected by the fact that he saw the $85,000 in the false account statement with a date a few days earlier than the actual withdrawal of the $85,000 (see cross examination at T65 - T67.1).
+Mr Gor submitted that to find that Mr Lu had defrauded Mr Tran (or Perpetual) was a matter having serious implications and that in accordance with Briginshaw versus Briginshaw <case>; [(1938) 60 CLR 336], the seriousness of the allegation made by Mr Tran should be taken into account in deciding whether a finding to that effect should be made.
+For Mr Tran's case, it is sufficient to find that he did not sign the disbursement (a fact not in dispute) and did not authorise the use of $90,000 of the loan monies to be paid to Mr Lu, who was the person who arranged the cheque. On the other hand, Perpetual's claim that Mr Tran authorised Mr Lu to receive the $90,000 does have to be determined. I take into account the matters to which I have referred in par [20] above and the material which, coupled with Mr Tran's evidence, if it is accepted, does establish that Mr Lu was behind the diversion of the $90,000, that he benefited by receipt of the $90,000 and that Ms Hong benefited by receipt of the $25,000. The defendant did not call Mr Lu in its case to deny the allegations made about his conduct.
+Reference needs to be made to the question of whether Mr Tran received the first Perpetual loan account statement issued by Challenger and bearing date 25 July 2005. Perpetual accepts that on 28 July 2005 the address for statements for Mr Tran was changed without Mr Tran's knowledge or agreement, that PO Box being one used by Ms Hong. The address for account statements was changed back to Mr Tran's home address in February 2009 (see Exhibit A1 at p 132), after Mr Tran made a complaint in December 2008 about the way in which his account was being handled by Dollar Group and Mr Lu and supplied copies of the false account statements he had received from Dollar Group: see pp 109, 124 and 126.
+There is evidence from Mr Andrew Heard, an employee of Computershare Communication Services, which managed the mail-out of account statements on behalf of Challenger, which supports Perpetual's contention that the first statement was sent to Mr Tran's home address. Mr Heard did say that there was a requirement for 99.95 per cent compliance and that he was not aware of any failure to send out all accounts but that he did not make any enquiries himself about whether the records showed any variation (T209 - T210) and he was not sure that records had been retained. Given the fact that the mail-out occurred more than seven years ago and the absence of any recourse to records, I have some hesitation in accepting the accuracy of Mr Heard's recollection in this regard, although I accept him to be an honest and truthful witness doing his best to recall events from long ago. Mr Heard was not asked to produce any statement for Mr Tran other than the one in Exhibit A2 at pp 614 - 615. All of the account statements annexed to the affidavit of Challenger's officer, Mr Graeme Robert Wort, have Mr Tran's home address, even though it is agreed that account statements from the second statement onwards (until the change back in February 2009) went to the PO Box.
+The timing of the unauthorised change of address is very close to the mail-out date. Indeed, it is not clear from the evidence that the July 2005 account statement went out before the change had occurred but Mr Heard said that the address on the data file would not have changed. Mr Tran says that he did not receive the first genuine account statement. He admitted that, had he seen it, he would have seen that it was quite inconsistent with the false account statement he received from Dollar Group.
+Accepting that there is evidence which supports Perpetual's contention that, on the balance of probabilities, the genuine July 2005 statement of account was despatched to Mr Tran's home address, the question is whether this is a sufficient basis to disbelieve Mr Tran when he says he did not receive it, which includes the possibility that the statement was never delivered to his mailbox and the possibility that, although delivered, it was removed either deliberately or accidentally by someone other than Mr Tran before Mr Tran looked at his mail, or even accidentally by Mr Tran without appreciating that the account was there. I would find such possibilities very difficult to accept if there was evidence of more than one account statement being sent at a time when the false statements were being sent to Mr Tran but there is only one.
+I appreciate that demeanour and impression of a witness are far less significant than the content of his or her evidence but I should say that cross examination of Mr Tran did not leave me with the impression that Mr Tran was a dishonest man who could not be believed on his oath.
+I find that the false account statements were prepared by Mr Lu on behalf of the Dollar Group with the intention of deceiving Mr Tran. Having regard to the evidence before me, I accept that the deceit was to lead Mr Tran to believe that Mr Lu had deposited the $90,000 (and the $85,000) into the Perpetual loan account when in fact he had not done so, as he and his company Dollar Group well knew. I am satisfied on the balance of probabilities that Mr Lu and Dollar Group did not have Mr Tran's authority to receive the $90,000 or withdraw the $25,000 and that these monies were obtained fraudulently from Perpetual. I find that Mr Lu forged Mr Tran's signature on the disbursement authority (see T222.1 - 4 where Mr Gor accepted this).
+I accept the contention that Mr Tran was not, by what he said in the passage set out in par [18] above, intending to agree that he had authorised Mr Lu to take $90,000 out of the settlement monies. Taking all matters into account and not without some hesitation but having particular regard to the matters set out in par [20] and [23] above, and notwithstanding that the conclusion involves a finding of serious misconduct by Mr Lu, I accept Mr Tran's evidence that he did not authorise Mr Lu to disburse $90,000 to himself out of the monies borrowed from Perpetual and did not receive the July 2005 statement of account. In relation to the $25,000 withdrawal form, the only issue is whether Mr Tran signed that document and I accept Mr Tran's evidence that the transfer of funds to Ms Hong was not carried out with his approval and that he did not sign the withdrawal form.
+
+The pleading point: Can Mr Tran claim that Challenger/Perpetual had no authority to pay $90,000, as a matter of pleading?
+The statement of facts and law provided to the Court at the commencement of the hearing did not refer to the absence of authority point but rather was focused on the question of whether Mr Lu and or the Dollar Group were agents of Challenger. The outline of submissions received shortly before the hearing were similarly silent on the point.
+It is necessary to examine the pleadings. Mr Gor submitted that the no authority case advanced is not open to the plaintiff and Mr Elliott submitted that the pleadings were framed as two causes of action. Mr Gor conceded that the further amended statement of claim ("FASOC") had paragraphs which could be "cobbled together" to make a "no authority" case but he submitted that par 2A was clearly part of the entire case and that the case founded on pars 6A to 6H and on 15G to 16D did not stand alone, and were dependent on the pleadings in par 2A. Paragraph 2A reads: "At all material times a company known as the Dollar Group Pty Ltd (CAN 107 710) was an agent of the Defendant and acted for the Defendant as the
+Defendant's originator and loan manager."
+I am unable to accept the defendant's contention. Paragraphs 6A to 6H and 15G to 16D are not dependent on par 2A - if the withdrawals were not made by Mr Tran or on his authority then it is not necessary to prove that Mr Lu had the authority of the defendant to do what he did. 
+Mr Tran's case of no authority
+Once it is accepted that Mr Tran did not sign or authorise the disbursement of $90,000 to Mr Lu or the $25,000 drawdown paid to Ms Hong, I think the consequence must be that Challenger had no basis of charging the account with the fraudulently sought disbursement of $90,000 or the $25,000: see London Joint Stock Bank Ltd versus Macmillan & Arthur [[1918] AC 777] at 384 per Mahoney P, with whom Waddell AJA agreed.
+
+Perpetual's further defence
+Mr Gor advanced an alternate argument, based on the assumption that Mr Tran did not authorise Mr Lu to receive the $90,000, that had these steps: the $90,000 bank cheque was handed to Mr Lu by Mr Tran with a view to Mr
+Lu doing something with it, that is, to pay it back to the Perpetual loan account ("the repayment"); that "repayment" was not a repayment in accordance with Mr Tran's contractual obligations - it therefore does not fall within the repayment conditions of the contract; the request of Mr Lu to repay the proceeds to the Perpetual account was a request to repay money in a way that did not meet with the requirements of cl 5 of the loan agreement because it was not a BPay payment, it was not a direct debit and not within any of the repayment options within cl 5 (see
+Exhibit A2 at p 473); therefore, since neither Mr Lu or Dollar Group were being asked to do anything within the terms of the loan agreement, Perpetual is not liable for the loss of the proceeds. Mr Tran might have a claim against Mr Lu and or the
+Dollar Group but not against Perpetual.
+There are, I think, a number of problems with this argument. The first is that the $90,000 was, as matters transpired, lost to Mr Tran when the bank cheque was wrongly purchased out of the proceeds of the loan. Had Mr Lu refunded the $90,000 in accordance with Mr Tran's instructions, the lost funds would have been restored but they were not. No case of contributory negligence on the part of Mr Tran or failure to mitigate was advanced at the hearing. There seemed to be an attempt to argue that Mr Tran's handing over the bank cheque to Mr Lu broke the causal link between the purchase of the bank cheque and Mr Tran's loss (see T227.25 - 28) but this was not developed and, if Mr Tran's evidence of why he handed over the bank cheque is accepted, it cannot be correct. Whilst it may have been unwise of Mr Tran to hand over the bank cheque, the loss had already occurred and, accepting his evidence, what he was endeavouring to do was restore the funds (wrongly taken) to his account. Since, in fact, Mr Lu did not ensure the refund to Mr Tran either to his Perpetual or Westpac account, the loss was not overcome. Unless Mr Tran authorised Mr Lu to direct $90,000 to be used to purchase a bank cheque in Mr Lu's favour, Perpetual did not have authority to utilise $90,000 of the loan proceeds for the purchase of the bank cheque and so, in my view, Perpetual must adjust Mr Tran's account accordingly.
+This leads to the second further problem with Perpetual's contentions. Mr Tran did not direct Mr Lu as to how the $90,000 was to be restored to his loan account - it was a matter within Dollar Group's knowledge as to how that should be effected. If there had been no fraud on the part of Mr Lu but rather receipt of a bank cheque returned because it had the wrong recipient, which cheque had then been accidentally lost, Perpetual could not assert that it was not responsible for the loss of the funds.
+Whilst strictly not necessary to do so, I will mention other difficulties with Perpetual's argument. The first is that whilst Perpetual and Challenger sought, through their documentation, to preclude mortgage originators from being their agents and cl 19.1 of the LOMA itself stated: "19.1 The Originator is an independent contractor with respect to each Manager and the Trustee and nothing contained in this Agreement shall be construed as giving rise to any relationship of partnership, agency, employment or joint venture between the Originator on the one hand and a Manager and the Trustee (or any of them) on the other." (see Exhibit A2 at p 332) they clothed mortgage originators such as Dollar Group with authority to act as their agents and subagents.
+In Michalopoulos versus Perpetual Trustees Victoria Ltd <case> at <case>, White J held that a mortgage originator (there The Mortgage Group): "in carrying out its functions under the Loan Origination and Management
+Agreement, including carrying out checks in respect of the applicants and submitting loan applications to Interstar, The Mortgage Group was acting as
+Interstar's agent. The knowledge it acquired and its acts and omissions are to be attributed to Interstar."
+Mr Gor contended that Michalopoulos versus Perpetual Trustees Victoria Ltd (relied on by Mr Elliott) was concerned with loan applications and that this case was not dealing with such matters. The point is, however, that the position is even clearer in relation to loan management matters. It was Dollar Group's duty on behalf of Perpetual to ensure that the funds wrongly applied to purchase the bank cheque were restored to Perpetual, and Mr Tran cannot be criticised for requesting the principal of Perpetual's agent to ensure that the error made was rectified.
+Dollar Group was appointed to manage application processes as a mortgage originator and then to manage the account once the loan was established. Challenger, on behalf of Perpetual, told borrowers that they must deal with Dollar Group (see Exhibit A2 at p 461). That was Challenger's practice: see T187.6 - 26. Whilst as between themselves Challenger did not want Dollar Group to be its agent (see cl 19.1 of the LOMA), I do not think it can avoid the conclusion that Dollar Group was its agent for the purposes of its dealings with the public and its management of accounts.
+Mr Lu was the directing mind and will of Dollar Group so Dollar Group is liable on the basis of primary liability (see Lennard's Carrying Co Ltd versus Asiatic Petroleum Co Ltd [[1915] AC 705] 
+Conclusion
+It follows that Mr Tran's account should be credited with $115,000, and all deductions, including interest consequent upon the incorrect debiting of that amount and charges, should be replaced. I will direct Perpetual to have calculations provided by 9 November 2012 so that a figure for the account can be agreed. I will hear the parties on the precise form of orders and the issue of costs.
+ * * * 

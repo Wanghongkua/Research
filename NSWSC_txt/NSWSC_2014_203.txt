@@ -1,0 +1,339 @@
+
+
+Fischer versus Nemeske Pty Ltd [2014] NSWSC 203 (10 March 2014) 
+Last Updated: 11 March 2014 
+Supreme Court 
+New South Wales  
+Case Title: 
+Fischer versus Nemeske Pty Ltd  
+Medium Neutral Citation: <case>  
+Hearing Date(s): - 26 February 2014  
+Decision Date: March 2014  
+Jurisdiction: 
+Equity Division - Expedition List  
+Before: 
+Stevenson J  
+Decision: 
+Debt from Trust to Estate established  
+Catchwords: 
+EQUITY - trusts - purported distribution of asset revaluation reserve - proper construction of resolution of trustee - whether distribution effected - whether trust indebted to deceased estate of beneficiary. EQUITY - discretionary trust - vesting date - whether a resolution had effect of varying vesting date retrospectively 
+EQUITY - discretionary trust - construction - whether distribution for benefit of beneficiaries - whether the trustee required to give notice to all beneficiaries 
+LIMITATION OF ACTIONS - whether cross-claim statute barred - whether debt payable on demand - whether cause of action arose at time of advance - whether cause of action confirmed - whether more than one bar to cause of action.  
+JUDGMENT 
+Introduction
+The issue in these proceedings is whether the first defendant, Nemeske Pty Ltd ("the Trustee"), as trustee of the Nemes Family Trust ("the Trust") is indebted to the estate ("the Estate") of the late Mr Emery Nemes in the sum of $3,904,300.
+Mr Nemes was, until his death on 26 September 2011, the sole shareholder of the Trustee.
+The Trust was established by a Deed of Settlement ("the Trust Deed") dated 24 June 1974.
+At all relevant times, the only assets of the Trust were 10B Class (ordinary) shares in Aladdin Pty Ltd ("the Shares"). Aladdin, in turn, holds shares in other companies that have interests in real property.
+The plaintiffs ("the Fischers") are siblings. Their mother was a cousin of Mr Nemes. The Fischers are amongst the "Specified Beneficiaries" named in the Trust Deed. 
+Under the terms of Mr Nemes's last will the Fischers are, or will become, the sole shareholders in the Trustee. By reason of that fact, and their position as "Specified Beneficiaries" under the Trust, the result is that, ultimately, they will come to control the Trust.
+There were other "Specified Beneficiaries" named in the Trust Deed, including Mr Nemes and his late wife Mrs Madeleine Nemes. Mrs Nemes died on 9 November 2010. Mr Nemes was the sole beneficiary of her estate. 
+The second and third defendants, Mr Loblay and Ms Loblay ("the Executors") are the executors of the Estate. Mr Loblay was a longstanding friend of Mr Nemes and, in addition to being his executor, was also a director of the Trustee at all relevant times. Ms Loblay, who is Mr Loblay's daughter, has been a director of the Trustee since 25 February 2010.
+Neither of the Executors is a beneficiary of the Trust or of the Estate. They have no financial interest in the outcome of the proceedings. Nonetheless the Fischers contend that the Executors are in a position of potential conflict by reason of being both executors of the Estate and directors of the Trustee.
+For that reason, the Fischers, as beneficiaries of the Trust, seek to bring these proceedings on behalf of the Trustee and the Trust. The Executors do not challenge the Fischers' standing to do so. The Executors accept that, as the Fischers dispute that the Trustee is indebted to the Estate, it is convenient that they assume the role of contradictor in relation to the Estate's claim against the Trustee. I am satisfied that there are "special circumstances" to justify the Fischers' bringing these proceedings (for example, see Alexander versus Perpetual Trustees WA Ltd <case>; [(2003) 216 CLR 109] at 91 per Powell J, approved in Alexander at [55]; see also J D Heydon and M J Leeming, Jacobs' Law of Trusts in Australia, (7th ed, 2006) at [2303]).
+The Fischers seek a declaration that the Trustee is not indebted to the Estate. The Executors, by Cross Claim, seek to recover the debt from the Trustee for the benefit of the Estate.
+The Executors approached the Court for advice under [s 63](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/s63.html) of the [Trustee Act 1925](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/) ("the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/)") as to whether they would be justified in defending these proceedings. On 30 August 2013 Robb J ordered that the Executors were so justified (Lorand Loblay and Karen Loblay  <case>
+The Trustee, and all of the other living beneficiaries, or possible beneficiaries, of the Trust have been joined as defendants. Each has entered a submitting appearance.
+Thus the active parties in the proceedings are the Fischers on the one hand, and the Executors on the other.
+
+The Trust Deed
+The Trust Deed defines the settlement sum of $200 and "all other assets from time to time held by the Trustee" as the "Trust Funds".
+A critical provision is cl 4(b) of the Trust Deed which is in the following terms:
+The Trustee may from time to time exercise any one or more of the following powers that is to say: - ...
+
+At any time or times to advance or raise any part or parts of the whole of the capital or income of the Trust Funds and to pay or to apply the same as the Trustee shall think fit for the maintenance education advancement in life or benefit of any of the Specified Beneficiaries PROVIDED HOWEVER that where it is intended to advance or raise and pay or apply any part or parts of the whole of the capital in excess of Ten Thousand Dollars ($10,000) for the advancement in life or benefit of any one or more of the Specified
+Beneficiaries the Trustee shall give written notice of such intention to all those contingent presumptive discretionary or expectant beneficiaries who may exercise the powers conferred by Clause 15.2 of this instrument at least thirty (30) days prior to such advancing or raising and payment of application of such capital."
+Clause 15.2 of the Trust Deed specifies who may replace or appoint a Trustee. It is in the following terms: "...[Mr Nemes] or in the event of his death or mental incapacity [Mrs Nemes] and in the event of her death or mental incapacity PATRICIA GAY NEMES [the daughter of Mr and Mrs Nemes, who died without issue] and in the event of her death or mental incapacity ILONA HEGYI [the mother of Mrs Nemes] and in the event of her death or mental incapacity [the Fischers] surviving for the time being jointly shall have the power to remove replace or appoint in addition a trustee or trustees at any time. ..."
+Clause 17 of the Trust Deed provides: "At any time and from time to time prior to the vesting date [Mr Nemes]...may subject as hereinafter provided in his...absolute and unfettered discretion notwithstanding anything to the contrary herein contained by writing under hand or by deed or by an oral resolution vary such trusts or provisions hereof as he may determine in any manner whatsoever...that no such power of variation shall extend to the trusts hereof in relation to the income of the Trust Fund derived up to the date of exercise of such power of variation...".
+The First Schedule to the Trust Deed makes provision for, amongst other things, distribution of income and capital.
+As to the distribution of income, cl (a) of the First Schedule has the effect that income is to be distributed annually.
+As to distribution of capital, cl (d) of the First Schedule is in the following terms: "The Trustee shall stand possessed of the capital of the Trust Fund on the vesting day for all or such one or more of the Specified Beneficiaries as are then living exclusive of the other or others in such shares and proportions as the Trustee in its absolute discretion may determine within a period of not less than thirty and no more than sixty days before the vesting date and in default of any such determination by the Trustee...upon trust for any issue of all the Specified Beneficiaries per stirpes in equal shares and proportions as
+Tenants in Common as shall be living at the vesting date."
+Clause (e) of the First Schedule provides: "The Trustee shall give written notice to those contingent presumptive discretionary or expectant Beneficiaries who may exercise the powers conferred by Clause 15.2 of this deed of their determination as provided in Clause (d) hereinbefore and in the event of any written objection from any such
+Beneficiaries they shall nullify such determination and in their absolute discretion on or within the ten (10) days immediately preceding the vesting day alter or reaffirm by way of novation or refrain from making any such determination."
+Clause (f) of the First Schedule deals with the "vesting day" and provides: "'The vesting day' shall mean the day upon which shall expire the period of sixty years after the execution of this deed or the period of twenty-one years from the death of the last survivor of the descendants now living of His Late
+Majesty King George VI or such earlier date as the Trustees may be resolution appoint, whichever shall first occur...".
+Clause (g) of the First Schedule defines the "Specified Beneficiaries" as including Mr Nemes, Mrs Nemes, the Fischers and any children or grandchildren of the Fischers.
+
+Background
+On 3 May 1994 a meeting of the directors of the Trustee took place. The directors present were Mr Loblay and Mr Gabriel Elliott (then the accountant for the Trustee). Mr Nemes was present "by invitation". The minutes of the meeting state: "This is to record an oral resolution made by [Mr Nemes] on [3 May 1994] in accordance with Clause 17 of the Trust Deed varying the provisions of the [Trust Deed] by deleting from Clause (f) of the [Trust Deed] the word 'sixty' from the second line of the said clause and inserting in its lieu the word 'eighteen'."
+The minute thus recorded a purported oral resolution by Mr Nemes pursuant to cl 17 of the Trust Deed to vary cl (f) of the First Schedule to the Trust Deed (see [23] above) to vary, retrospectively, the vesting date from "sixty years after the execution of this deed" (24 June 2034) to "eighteen years after the execution of this deed" (that is, to 24 June 1992).
+Whether that resolution was effective is one of the issues in this litigation. I return to it below.
+In or around 1 July 1994 an "asset revaluation reserve" was created in the accounts of the Trust.
+The Beneficiaries Accounts for the Trust as at 31 July 1994 were in the following form: 
+BENEFICIARIES ACCOUNTS ---  
+SETTLEMENT SUM ,000 
+Opening Balance ,000.00  
+ASSET REVALUATION RESERVE -
+
+Assets Revalued ,904,300.00  ,000 
+TOTAL TRUST FUNDS ,905,300.00 
+The Balance Sheet of the Trust as at 31 July 1994 was in the following form: 
+BENEFICIARIES FUNDS ---|---  ,000 
+Settlement Sum ,000.00 -
+
+Asset Revaluation Reserve ,904,300.00 ,000 
+TOTAL TRUST CAPTAL ,905,300.00  
+REPRESENTED BY 
+INVESTMENTS 
+Shares in Public Companies at Cost ,000 
+Aladdin Ltd 10 "B" Class Shares of $1 Fully Paid ,905,300.00 
+Evidently, these entries were created as a result of an assessment made by someone on behalf of the Trust that the assets of the Trust (being the Shares) should be re-valued at $3,904,300.
+On 23 September 1994 a further meeting of directors of the Trustee took place. Mr Loblay and Mr Elliott were present.
+Although the copy of the minute of that meeting in evidence is not signed, the Fischers did not dispute that the resolution recorded in the meeting was passed.
+The resolution was in the following terms: "RESOLVED that pursuant to the powers conferred on [the Trustee by the Trust
+Deed]: - 
+That a final distribution be and is hereby made out of the asset revaluation reserve for the period ending 30th September 1995 [sic] and that it be paid or credited to...the beneficiaries in the following manner and order: 
+The entire reserve, if any to be distributed to [Mr and Mr Nemes] as joint tenants." (It is common ground that the reference to "1995" in the resolution is a typographical error, and that the correct reference should be to "1994").
+Further "Beneficiaries Accounts" and "Balance Sheet" of the Trust were prepared as at 30 September 1994 (one week after the 23 September 1994 resolution).
+As at 30 September 1994 the "Beneficiaries Accounts" were in the follow form: 
+BENEFICIARIES ACCOUNTS ---  
+SETTLEMENT SUM ,000 
+Opening Balance ,000.00  
+ASSET REVALUATION RESERVE -
+
+Assets Revalued ,904,300.00  -
+
+Capital Distribution ,904,300.00  -
+ -  ,000 
+TOTAL TRUST FUNDS ,000.00 
+The difference between the 30 September 1994 "Beneficiaries Accounts" and those as at 31 July 1994 was the additional entry of a "Capital Distribution" of $3,904,300, matching the figure for "Assets Revalued".
+The "Balance Sheet" of the Trust as at 30 September 1994 was in the following form: 
+BENEFICIARIES FUNDS ---|---  ,000 
+Settlement Sum ,000.00 
+REPRESENTED BY 
+INVESTMENTS 
+Shares in Public Companies at Cost ,000 
+Aladdin Ltd 10 "B" Class Shares of $1 Fully Paid ,905,300.00  
+NON-CURRENT LIABILTIES 
+Loans - Secured -
+
+B.G. & M. Nemes ,904,300.00  ,000 
+NET ASSETS ,000.00 
+The "Balance Sheet" continued to record the Shares (at the "revalued" figure) as an asset of the Trust and recorded, as a corresponding noncurrent liability, "Loans - Secured" from Mr and Mrs Nemes in the same amount.
+A critical question before me is whether the transactions recorded in the directors' minutes of 23 September 1994 and in the accounting entries as at 30 September 1994 had any legal effect.
+The Fischers contend that no trust property was distributed to Mr and Mrs Nemes by the purported distribution of 23 September 1994. The Fischers contend that the asset revaluation reserve was not trust property in any legal sense, and was merely an accounting treatment on the balance sheet of the Trust; and that the only property of the Trust was the Shares and that these Shares remained the Property of the Trust at all relevant times.
+On the other hand, the Executors contend that the effect of the resolution of 23 September 1994 was to distribute to Mr and Mr Nemes an amount equal to the asset revaluation reserve (namely $3,904,300). The Executors contend that the distribution was effected by being credited to Mr and Mrs Nemes's loan account, to create an enforceable debt owed by the Trustee to Mr and Mr Nemes (and now the Estate).
+Following the events of September 1994, so far as the evidence reveals, nothing occurred until 26 April 1995 (some seven months later) when Mr Elliott wrote to the solicitors acting for Mr and Mrs Nemes.
+Mr Elliott's letter read, so far as is relevant: "As we discussed on the telephone, with regard to [Mr and Mrs Nemes], please find following the information requested: ● Most of the assets of Mr and Mrs Nemes are owned by companies the asset shares of which are owned by Aladdin Pty Ltd, a Norfolk Island company, the shares in which are owned by the [Trust]...
+ ● The assets in the whole group of companies has been revalued as at 1st July, , this has led to an asset revaluation reserve being created in the [Trust]...
+ ● [The Trustee] held a meeting at which it was resolved to distribute the asset revaluation reserve to Mr and Mrs Nemes jointly...
+ ● The above distribution was made by way of crediting the loan account of Mr and Mrs Nemes in the [Trust].
+
+Mr and Mrs Nemes would like to secure their loan to the [Trust] and require your assistance as follows: 
+Make a debenture over the shares in Aladdin Limited [sic] which the [Trust] owns as security for the loan by Mr and Mrs Nemes...
+
+The purpose of these transactions is for Mr and Mrs Nemes to secure control of their assets or estate...".
+The Fischers rely on this letter as evidence of the Trustee's purpose in effecting the 23 September 1994 transactions, such purpose being (the Fischers contend) beyond the Trustee's power.
+Several months later, on 30 August 1995, the Trustee and Mr and Mrs Nemes entered into a Deed whereby the Trustee charged the Shares in favour of Mr and Mrs Nemes ("the Charge").
+The recitals to the Charge state: "D. [The Trustee] is indebted to [Mr and Mrs Nemes] in the sum of [$3,904,300] (the principal monies).
+
+E. For the purpose of securing repayment of the principal monies [the Trustee] has agreed with [Mr and Mrs Nemes] to execute this Deed of Charge pursuant to which [the Trustee] charges the [shares] as hereinafter set forth in favour of [Mr and Mrs Nemes]."
+Clause 5 of the Charge reads (ignoring what the parties agree to be typographical errors): "[The Trustee] covenants with [Mr and Mrs Nemes] that [the Trustee] will be pay to [Mr and Mrs Nemes] the principal monies on demand by [Mr and Mrs
+Nemes]."
+Clause 7 provides that it is "hereby expressly agreed and declared" as follows: "That the principal monies hereby secured or intended so to be shall at the option of [Mr and Mrs Nemes] and notwithstanding any delay or previous waiver of the right to exercise such option immediately become payable without the necessity for any demand or notice upon [the Trustee]...upon the happening of each of any of the following events [and the subsection nominated 13 events of default]".
+Mr Nemes made his final will on 3 July 2005. By the will, relevantly, he bequeathed all the shares in the Trustee to the Fischers and left the residue of his estate to a number of other persons in specified proportions.
+Apart from the accounts of 31 July and 30 September 1994 (see [29-30] and [36] and [38] above) the only other accounts of the Trustee in evidence before me are those for the financial years ending 30 June 2003 and 30 June 2007. They are to the same effect as those of 1994. 
+The accounts for the financial year ended 30 June 2003 are certified as being correct by Mr Loblay and Mr Aslan Moses as directors. Mr Moses was an accountant who became a director of the Trustee in 2000 in lieu of Mr Elliott. Mr and Mr Nemes were also directors of the Trustee at the time the accounts were certified. The fact that they did not themselves certify the correctness of the accounts is a matter relevant to the Executors' contention that the accounts of 30 June 2003 constitute a "confirmation" of the alleged debt for the purposes of [s 54](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s54.html) of the [Limitation Act 1969](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/) (as to which see further below).
+
+The questions for determination - the Fischers' claims
+The Fischers contend that the Trust is not indebted to the Estate in respect of the purported loan on alternative bases, which are referred to in the Statement of Claim as the "First Claim" and the "Second Claim".
+
+The First Claim
+The First Claim relates to the directors' resolution of 23 September 1994 (see [34] above), the corresponding account entries as at 30 September 1994 (see [36] and [38] above) and the Charge of 30 August 1995 (see [46 to 49] above). The First Claim is that these transactions are (to adopt the words in the written submission of Mr Giles, who appeared with Mr Yezerski for the Fischers) "a legal nullity or are voidable, such that the Trust is not indebted to the Estate".
+The Fischers advance this contention on a number of bases.
+First, the Fischers contend that no trust property was distributed to Mr and Mrs Nemes by the purported distribution of 23 September 1994.
+Second, the Fischers contend that even if it were possible to make a distribution "out of the asset revaluation reserve", the Trustee did not have the power to make the purported distribution. The basis for that contention is that the Trustee's power, under cl 4(b) of the Trust Deed, is to make a distribution for the "maintenance, education and advancement in life or benefit" of, relevantly, Mr and Mrs Nemes. The Fischers contend that is to be inferred that the true purpose of the purported distribution was not for the benefit of Mr and Mrs Nemes themselves but, rather, for the impermissible purpose of bringing the assets of the Trust within their "testamentary control". 
+That proposition was also put on the basis that the purported distribution amounted to a fraud on the power to make distributions under the Trust Deed. As the matter was finally developed in oral submissions, the question comes down to whether the actuating purpose of the Trustee was as the Fischers contend and, if so, whether the Trustee acted beyond power.
+Third, and in the alternative, the Fischers contend that the Trustee lacked the power to make the purported distribution because it failed to comply with the notice requirement in cl 4(b) of the Trust Deed that notice of any proposed distribution be given to "all those" beneficiaries who "may" exercise the power under cl 15.2 of the Trust Deed to remove the Trustee (see [16] above).
+It follows, the Fischers contend, that the Charge stands as security for nothing.
+
+The Second Claim
+The Second Claim is brought as an alternative to the First Claim.
+By the Second Claim, the Fischers contend that the 3 May 1994 resolution by Mr Nemes (recorded in the directors' minutes of that date: see [25] above) had the effect of changing, retrospectively, the vesting date of the Trust from 24 June 2034 to 24 June 1992 (or alternatively to the date of the resolution: 3 May 1994). The Fischers contend that the consequence is that the purported distribution (which occurred four months later) was beyond power, and could have no effect, or was in breach of trust, and that the Trustee held the former assets of the Trust under a bare trust from the newly created vesting date.
+The Fischers contend that, it follows from the acceptance of one or more of these contentions, the Trust is not indebted to the Estate; the $3,904,300 remains an asset of the Trust and forms no part of the Estate.
+Finally the Fischers contend that, if they fail to establish that the Trust is not indebted to the Estate in respect of the $3,904,300, the Estate is statute barred from recovering that sum from the Trust.
+I now turn to examine each of these issues.
+
+Did the Trustee make the Purported Distribution of 23 September 1994 to Mr and Mrs Nemes 
+Did the resolution of 23 September 1994 have any effect?
+The 23 September 1994 resolution purported to distribute to Mr and Mrs Nemes "out of the asset revaluation reserve" the "entire reserve". 
+Mr Giles submitted that under cl 4(b) of the Trust Deed, the Trustee only had power to make an "advance" from the assets of the Trust representing "Trust Funds", and that as the only assets held by the Trust were the Shares, in order for there to be a distribution of "capital" from the Trust fund "there would have had to have been a transfer of at least some of the Shares" and that this did not occur.
+Mr Giles submitted that it was a "legal nonsense" to speak of the Trustee making a distribution out of the asset revaluation reserve and that the purported distribution was "a nullity - an accounting notation with no legal or practical effect".
+The language used by the directors of the Trustee in the resolution of 23 September 1994 makes clear to me that the Trustee intended to make a distribution of some kind to Mr and Mrs Nemes.
+In those circumstances I am loath to conclude that the resolution of 23 September 1994 had no effect at all. 
+The law presumes that "the parties are unlikely to have intended to agree to do something ... legally ineffective" (per Lord Hoffman in Bank of Credit and Commerce International SA (In liq) versus Ali <case>; [[2002] 1 AC 251], Harman LJ said, at 402: "I am of opinion that the court is at liberty, if considerations on both sides are evenly balanced, to lean towards that which may effectuate rather than frustrate the settlor's intentions".
+Further, as the authors of The Interpretation of Contracts in Australia (2012, Lawbook Co.) observe at [9.01]: "[A]s a part of the process of construction the court has power to correct obvious mistakes in the written expression of the intention of the parties".
+One obvious mistake made in the resolution is the reference to the period ending 30 September "1995". As I have mentioned (at [34] above), the parties agree the reference should be to 1994.
+The power extends to supplying or omitting words where "necessary in order to avoid absurdity or inconsistency" (per Dixon and Fullagar JJ in Fitzgerald versus Masters <case>; [(1956) 95 CLR 420] Drummond J said at [12]: "The principle is not limited in its application to overcoming only minor verbal infelicities".
+In Chartbrook Ltd versus Persimmon Homes Ltd <case>; [[2009] 1 AC 1101] Lord Hoffman said at [25]: "[T]here is not, so to speak, a limit to the amount of red ink or verbal rearrangement or correction which the court is allowed. All that is required is that it should be clear that something has gone wrong with the language and that it should be clear what a reasonable person would have understood the parties to have meant".
+ (Cited with approval in McGrath versus Sturesteps; Sturesteps versus HIH Overseas
+Holdings Ltd (in liq)  <case>; [(2011) 81 NSWLR 690] per Bathurst CJ at [18]; see also Horsell International Pty
+Limited versus Divetwo Pty Ltd  <case> at <case> per McColl JA).
+These observations were made in the context of the construction of contracts. However, I consider them apposite to the task now before me.
+In my opinion, I should endeavour to construe the words used by the Trustee so as to give effect to the intention, manifest in the resolution, to make a distribution of some kind to Mr and Mrs Nemes.
+It is clear that the Shares, whose value is represented in the asset revaluation reserve, were not themselves distributed to Mr and Mrs Nemes. It is also clear that the Trust did not have liquid funds from which to actually pay $3,904,300 to Mr and Mrs Nemes. 
+I also accept that, as a matter of language and (I am prepared to assume, although neither side adduced expert accounting evidence on this, or any other, issue) of accounting reality, the Trust could not, in terms, distribute to Mr and Mrs Nemes the asset revaluation reserve as such.
+The 23 September 1994 resolution provided that there would be a distribution "out of" the asset revaluation reserve. That reserve had been re-valued at $3,904,300 on 1 July 1994. That suggests to me that the distribution the directors intended to cause the Trustee to make was to be of the value, to Mr and Mrs Nemes, of that reserve.
+However, "something has gone wrong with the language". There is, in my opinion, an "obvious mistake" in the language used. The resolution is, inaptly, expressed in terms of a distribution "out of" the asset revaluation reserve and, indeed, of the "entire reserve" itself.
+Mr Birch SC, who appeared with Mr DeBuse for the Executors, submitted that I should construe the 23 September 1994 resolution as one whereby the Trustee resolved to distribute to Mr and Mrs Nemes an amount of money equal to the value of the asset revaluation reserve; namely $3,904,300.
+That construction can be achieved by construing the resolution as if the words "an amount equal to" were added, so that the resolution reads (substituting also "1994" for "1995" and omitting irrelevant words): "That a final distribution be and is hereby made out of the asset revaluation reserve for the period ending 30th September 1994 and that it be paid or credited to the beneficiaries in the following manner and order: 
+An amount equal to the entire reserve...to be distributed to [Mr and Mrs
+Nemes] as joint tenants".
+In my opinion this construction is available, and should be adopted. It is one that gives effect to what appears to me to have been the Trustee's intention.
+The next question is whether, as a matter of fact, the accounting entries of 30 September 1994 (see [36] and [38] above) were sufficient to give effect to the Trustee's resolution to distribute $3,904,300 to Mr and Mrs Nemes.
+Mr Elliott, who I assume to have been the author of the 30 September 1994 accounts, said in his letter of 26 April 1995 (see [44] above) that the distribution "was made by way of crediting the loan account of Mr and Mrs Nemes".
+That is what was done. The 30 September 1994 accounts show a "Capital Distribution" to the "Beneficiaries Accounts" of $3,904,300 and a non-current liability on the balance sheet of the same amount styled "Loans - Secured E.G & M Nemes".
+The Fischers adduced no expert accounting evidence to suggest that Mr Elliott's statement in his letter of 26 May 1994 was mistaken, or that the 30 September 1994 accounting entries were not effective to distribute capital to Mr and Mrs Nemes.
+The Shares remained an asset of the Trust. That asset was, however, subject to the Trust's liability to pay to Mr and Mrs Nemes the distribution. 
+Mr Giles objected that this had the effect that the Trustee was seeking to create a chose in action, namely a debt owing to Mr and Mrs Nemes, when it had no power to do so under the Trust Deed.
+I do not accept that submission. 
+In general law, a trustee has power to borrow funds for the purposes of the Trust even if there is no express power in the trust instrument: for example see Droop versus Colonial Bank <case>; [(1881) 7 VLR (E) 71]
+In any event, power to raise money by "mortgage of all or any part of the trust property" is conferred on the Trustee by [s 38](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/s38.html) of the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/).
+I do not see the absence of evidence that the Trust actually distributed cash to Mr and Mrs Nemes, as an impediment to the conclusion that a distribution was made and an indebtedness created in the manner I have set out.
+It is implicit in the decisions of Brereton J in Wood versus Inglis  <case>, and of the Court of the Appeal in the same case (Clark versus Inglis  <case>, dismissing the appeal from Brereton J) that a trustee may make a trust distribution by crediting the beneficiary's loan account (see [39] to [43] in the decision of Brereton J and [18], [26], [32], [36], [51] and [52] of the judgment of Allsop P; with whom McColl and Macfarlan JJA agreed).
+I appreciate that the issues in Wood versus Inglis and Clark versus Inglis were slightly different than those before me. The issues in the Inglis litigation were whether it was permissible for a trustee to treat unrealised capital gains as "income" given the terms of the trust deed in that case, and whether as a matter of fact the trustee had made a distribution of such income to Dr Inglis by crediting his loan account.
+Nevertheless, as Mr Birch pointed out, what was critical in the Inglis case (so far as this case is concerned) was that the trustee had purported to allocate to Dr Inglis the income derived from the capital gains by crediting such income to his loan account. Brereton J concluded that this amounted to an effective distribution of that income (at [40]) and that finding was upheld on appeal (at [51] to [53]).
+Mr Giles submitted that the "unreality of the Purported Distribution" was demonstrated by the fact that "it seems to have been ignored by Mr and Mrs Nemes in the preparation of their tax filings for the 1994-95 financial year".
+I do not see what conclusions I can draw from the state of Mr and Mrs Nemes' tax filings. As Mr Birch submitted, whether Mr and Mrs Nemes reported the transaction in their tax returns would have depended upon whether they believed there was an obligation to report it and/or whether their tax advisors advised them to report. There is no evidence before me as to any of these matters.
+For those reasons, my conclusions are that: on the proper construction of the 23 September 1994 resolution, the
+Trustee resolved to make an advance or distribution to Mr and Mrs Nemes pursuant to cl 4(b) of the Trust Deed of an amount equal to the recently created asset revaluation reserve; namely $3,904,300; and the Trustee gave effect to that resolution by crediting Mr and Mrs
+Nemes' loan account with the Trustee in the same amount, thereby effecting the distribution.
+
+Was the advance or distribution for the "maintenance, education and advancement in life of benefit" of Mr and Mrs Nemes?
+The Trustee's power under cl 4(b) of the Trust Deed was to make an advance or distribution for the "maintenance, education and advancement in life or benefit" of a beneficiary.
+As the argument developed before me, the dispute between the parties focused on the question of whether or not the purported distribution could be said to be for the "benefit" of Mr and Mrs Nemes.
+Mr Giles submitted that the "actuating purpose" of the Trustee was not to "benefit" Mr and Mrs Nemes but, rather, to benefit the beneficiaries of the estates of Mr and Mrs Nemes.
+Mr Giles drew attention to the following passage from Lewin on Trusts, (10th ed, 2008) at [8.16]: "But trustees must not, under the guise of utilising the wide meaning of "benefit" pay capital to a beneficiary so as to enable the beneficiary to make provision for persons who are not beneficiaries under the trust, if the trustees' true purpose is not to benefit the advanced beneficiary, but to circumvent trusts of which they disapprove."
+In Wong versus Burt <case>; [[2005] 1 NZLR 91] the New Zealand Court of Appeal said (at [30]): "The central principle is that if the power is exercised with the intention of benefiting some non-object of the discretionary power, whether that person is the person exercising it, or anybody else for that matter, the exercise is void. If, on the other hand, there is no such improper intention, even although the exercise does in fact benefit a non-object, it is valid. See
+Vatcher versus Paull [[1915] AC 372] ...at p 378 per Lord Parker."
+In Pilkington versus Inland Revenue Commissioners [[1964] AC 612] at 635, Viscount Radcliffe said that the words "advancement or benefit" mean: "...any use of the money which will improve the material situation of the beneficiary."
+Mr Giles accepted that the words "advancement or benefit" are, as Jessel MR said, "large words" (In re Breeds' Will [(1875) 1 Ch D 226] at 228). 
+In this case, the effect of the distribution, assuming my conclusions thus far are correct, was that Mr and Mrs Nemes became creditors of the Trust, rather than discretionary objects of the Trust. As creditors, Mr and Mrs Nemes had the ability, at any time, to call on the Trust to repay the debt.
+On the face of it, that conferred a "benefit" on Mr and Mrs Nemes and is the end of the matter.
+Assuming that be wrong, I will deal with Mr Giles's further submissions.
+In support of the submission that the Trustee's true "actuating purpose" was to enable Mr and Mr Nemes to benefit the beneficiaries of their wills, Mr Giles pointed to a number of circumstances.
+First, in his letter of 26 April 1995 (see [44] above) Mr Elliott recited that most of "the assets of Mr and Mrs Nemes" were owned by subsidiaries of Aladdin, the shares of which were owned by the Trust.
+Mr Elliott concluded that: "The purpose [of the September 1994] transactions is for Mr and Mrs Nemes to secure control of their assets or estate."
+Mr Giles pointed out that Mr Elliot had incorrectly stated in his letter that the assets of the Trust were "assets of Mr and Mrs Nemes" and submitted that: "What appears to have been intended by those who conceived of these transactions was to liberate what were incorrectly believed to be the 'assets of Mr and Mrs Nemes' from the Trust, and to thereby bring them within Mr and
+Mrs Nemes' testamentary control as part of their estate".
+I am not able to draw any such conclusion from Mr Elliott's letter. I do not read Mr Elliott's reference to Mr and Mrs Nemes' "assets or estate" as necessarily referring to their "estate" in the sense of their property at the time of their deaths. Nor do I read Mr Elliott's description of the "purpose" of the transactions ("to secure control of their estates or estate") to reveal that the Trustee's "actuating purpose", or that of Mr and Mrs Nemes, was not to benefit Mr and Mrs Nemes, but rather the beneficiaries of their deceased estates.
+Second, Mr Giles referred to what the parties called the "Stream Documents". These documents were located in the files of the current accountants of the Trust. They purport to identify a "procedure to be followed" in the event of the death of Mr and Mrs Nemes. That procedure required the back dating of resolutions by the Trustee after the death of the survivor of either Mr and Mrs Nemes so as to vest the Trust 10 days before the death of the last surviving spouse. Mr Giles submitted that the apparent intention of the Trustee, to be gleaned from the documents, was to ensure that, following the deaths of Mr and Mrs Nemes, the Trustee would stand possessed of the entire capital of the Trust of the estate of the survivor. Mr Giles submitted that the intention behind this "procedure" was to secure the capital of the Trust to the estate of the survivor of Mr and Mrs Nemes, but to do so only just before their death.
+Assuming this to be a correct analysis of the Stream Documents, I cannot see what inference I could draw from the documents so far as concerns the Trustee's purpose in making the distribution. It is common ground that the "procedure" contemplated by the documents was not followed. There is no evidence that Mr and Mrs Nemes knew of, let alone approved of, the procedures contemplated by the documents. The first page of the document bears a manuscript note "E G Nemes copy". The other documents bear a manuscript note "sample only". Even if I could infer from those notations that a copy was given to Mr Nemes, I am not able to draw any conclusion as to what Mr Nemes (or Mrs Nemes) made of the documents.
+Third, Mr Giles pointed to the fact that, so far as the evidence reveals, Mr and Mrs Nemes never called on the Trust to pay them the $3,904,300, did not seek to have interest paid on the sum, and did not declare the 23 September 1994 distribution for tax purposes.
+I have already observed that I am not able draw any inference either way from the absence of disclosure of these transactions in Mr and Mrs Nemes' tax returns. There is no explanation in the evidence as to why Mr and Mrs Nemes did not call for repayment of the loan account recorded in the Trust's records. I can but speculate as to the reason for this state of affairs. It is common ground that, at all material times, Mr Nemes was, as a practical matter, in control of the Trustee and thus the Trust. For some reason, Mr Nemes thought that it was in his interest, and thus for his benefit (and I would infer that of Mrs Nemes) that the transactions take place. I am not able to infer, from the absence of evidence of any demand by Mr or Mrs Nemes for repayment of the $3,904,300, that they did not regard it as owing; let alone that they did not regard the 23 September 1994 resolution as having any effect.
+I should add that even if it could be concluded that the Trustee's motivation was to enable Mr and Mrs Nemes to "secure control of their assets or estate" so that they could decide to whom to leave their estate in their wills, I can not see why this would not itself confer a "benefit" on Mr and Mrs Nemes.
+For those reasons, I do not accept Mr Giles's submission that the distribution was beyond power.
+
+The notice point
+Clause 4(b) of the Trust Deed provides that where (as in this case) the Trustee intended to advance more than $10,000 from the Trust Funds, it was required to give: "[W]ritten notice of such intention to all those contingent presumptive discretionary or expectant beneficiaries who may exercise the powers conferred by Clause 15.2 [to remove the Trustee]."
+An issue of construction arises. Does this provision in cl 4(b) require the Trustee to give notice to all of the beneficiaries named in cl 15.2, or only to that beneficiary, or those beneficiaries, named in cl 15.2 who, at the time of the advance or distribution, had the power of removal?
+At the relevant time, Mr Nemes, and only Mr Nemes, had the power to remove the Trustee. It is common ground that notice was given to Mr Nemes. There is no evidence that notice was given to any of the other named beneficiaries; one of them (the first plaintiff, Mr Robert Fischer) gave evidence that no notice was given to him.
+To deal first with a preliminary point, in my opinion the adjectives "contingent presumptive discretionary or expectant" before the noun "beneficiaries" in cl 4(b) do no more than provide a description of the various categories of beneficiaries as are to be found in cl 15.2. Those words, in my opinion, cast no light on the question of whether the parties intended that notice under cl 4(b) be given to all the named beneficiaries rather than only that beneficiary, or those beneficiaries, then entitled to exercise the power.
+I find the expression in cl 4(b) "all those...beneficiaries who may exercise the powers" to be ambiguous. 
+It could mean "all" (in the sense of "every one") of the beneficiaries who "may" (in the sense of "may at some time") exercise the powers.
+On the other hand it could mean "all those" (in the sense of "such of those") beneficiaries who "may" (in the sense "presently have the power to") remove the Trustee.
+As Mr Giles pointed out, there are other clauses in the Trust Deed which might cast light on what effect the parties intended cl 4(b) to have.
+A comparison between those provisions and cl 4(b) is best revealed by the following table (emphasis added): 
+Cl 4(b) 
+Notice must be given to "all those beneficiaries...who may exercise the powers conferred by clause 15.2".  
+Cl 15(3)(b) 
+A trustee may not retire unless with the consent of his Trustee's "and such other person as is empowered to appoint trustees".  
+First Schedule cl (a)(iii) 
+The Trustee shall hold undistributed income "for such of those...beneficiaries who may exercise the powers conferred by clause 15.2".  
+First Schedule cl (e) 
+The Trustee will give notice of its proposed exercise of discretion on the vesting date to "those...beneficiaries who may exercise the powers conferred by clause 15.2". 
+Mr Giles pointed out that the language in cl 4(b) ("all those beneficiaries... who may") differs from that in cl 15(3)(b) ("such other person as is") and cl (a)(iii) in the First Schedule ("such of those...who may") suggesting that the parties to the Trust Deed intended the clauses to have different effect.
+Mr Giles submitted that the use by the parties of the words "all" in cl 4(b), and the absence of the words "such of" or "such other" points to the conclusion that the parties intended in cl 4(b) that notice be given to every one of the beneficiaries named in cl 15.2.
+I see weight in that submission.
+On the other hand, cl 15.2 (see [17] above) provides for a sequence of persons to have the power of removal, which sequence is determined, and only determined, by the death or mental incapacity of the person named earlier in the sequence; first Mr Nemes, then Mrs Nemes, then Ms Patricia Nemes, then Ms Hegyi, and then the Fischers. Only one person, or in the case of the Fischers a group of four persons jointly, is, or are at any time, able to exercise the power.
+It seems to me unlikely that the parties intended that cl 4(b) notice should be given to all the persons named in cl 15.2 (or their legal representatives) who were no longer qualified to exercise the power by reason of their death or mental incapacity.
+Further the reference in cl 4(b) to the person who "may exercise the power", combined with the succession of "power holders" prescribed in cl 15.2, suggests that the parties were intending cl 4(b) to refer only to the current "power holder"; as that person (or those persons), would be the only party (or parties) authorised to remove the trustee at the relevant time (if that was thought appropriate) following revelation of the trustee's intended distribution.
+I do not find this issue of construction easy to resolve. I must determine the intention of the parties to the Trust Deed by reference to "what a reasonable person would understand" from the words used by the parties to the Trust Deed "having regard to the context in which the words appear and the purpose and object of the transaction" (per Bathurst CJ, with whom Macfarlan and Meagher JJA agreed, in Cordon Investments Pty Ltd versus Lesdor Properties Pty Ltd <case>; (2013) 29 BCL 329 at [52]; citations omitted).
+In my opinion, such a reasonable person would consider the wording of cl 15.2 to weigh more heavily in the balance than the differing forms of expression summarised at [131] above and conclude that the parties intended that only notice to the current "power holder" was required.
+It follows that, as Mr Nemes was the "power holder" at the relevant time, and as he was given notice of the proposed distribution, that Mr Giles's "notice" point fails.
+
+Conclusion as to the Fischers' First Claim
+These findings are sufficient to dispose of the Fischers' First Claim.
+My conclusion is that the 23 September 1994 transaction was neither a nullity or voidable and that, subject to consideration of the Fischers' Second Claim, the Trust remains indebted to the Estate in the sum of $3,903,300.
+Accordingly, it is not necessary, for the purpose of dealing with the Fischers First Claim, to deal with the Executors' contentions concerning the effect of the Charge.
+
+The Fischers' Second Claim 
+Was the 3 May 1994 resolution effective to vary the vesting date?
+As I have mentioned (see [25] above), on 3 May 1994 Mr Nemes orally resolved, purportedly in accordance with cl 17 of the Trust Deed, to amend cl (f) in the First Schedule to the Trust Deed (set out at [23] above) to substitute the word "eighteen" for the word "sixty" in the second line of that paragraph.
+If that resolution was effective, it changed the vesting date of the Trust from 24 June 2034 to 24 June 1992.
+The first question which arises is whether, on the proper construction of the Trust Deed, the power conferred on Mr Nemes under cl 17 of the Trust Deed to vary the "provisions" of the Trust Deed authorised him to change the vesting date, whether retrospectively, or at all.
+The Trust Deed makes specific provision for the vesting date and its variation.
+Thus, cl (f) of the First Schedule (set out at [23] above) provides, relevantly, that the vesting is 60 years after the execution of the Trust Deed: "...or such earlier date as the Trustees may by resolution appoint".
+The Trust Deed thus makes specific provision for the Trustee, not Mr Nemes, to bring forward the vesting date.
+The date on which the Trust would vest is, obviously, a matter of high importance, so far as the Trust and the Trustee is concerned. 
+For example, by reason of cl (d) in the First Schedule, set out at [21] above, the Trustee could, within not less than 30 and no more than 60 days before the vesting date, determine in its absolute discretion which of the Specified Beneficiaries would receive the capital of the Trust.
+That provision points to the probability that it was the intention of the parties to the Trust Deed that only the Trustee itself could vary the vesting date in order that it not be deprived of that right. That would suggest, in my opinion, that the parties to the Trust Deed intended that cl (f) in the First Schedule be a code as to the circumstances in which the vesting date might be varied.
+Further, Mr Nemes's power under cl 17 of the Trust Deed to vary the provisions of the Trust was exercisable "at any time and from time to time prior to the vesting date".
+Mr Giles pointed out that the power under cl 17 is expressed to exist "notwithstanding anything to the contrary" in the Trust Deed. However, the qualification to Mr Nemes's powers under cl 17 referred to in [153], although not necessarily excluding the possibility that Mr Nemes might exercise a cl 17 power to vary the vesting date, points in my opinion to the improbability that the parties to the Trust Deed that Mr Nemes's powers under cl 17 be that wide.
+Not only did Mr Nemes purport to exercise his power under cl 17 to vary the vesting date, he purported to exercise that power retrospectively. 
+In this regard, Mr Giles drew my attention to the observations of Young J (as his Honour then was) in Global Custodians Ltd versus Mesh <case> at <case> in which his Honour said: "(5) The exercise of a power to amend cannot affect any vesting which has already taken place. This is because the power to alter the trusts is itself an interest in the Trust and its exercise cannot affect an already vested interest.
+
+Subject to principle (5), if a trust deed is drafted in a sufficiently wide way a retrospective amendment will be valid: Gra-Ham Australia Pty Ltd v
+Perpetual Trustees WA Ltd [(1989) 1 WAR 65."]
+However, his Honour was not dealing with a resolution purporting to vary the vesting date retrospectively. 
+It would be an extraordinary thing if Mr Nemes (or indeed the Trustee) could vary the vesting date retrospectively. 
+In either event, the result would mean that any acts of the Trustee (for example as to the distribution of income) between the date of the relevant resolution and the new, retrospectively created, vesting date would be set to nought. 
+Further a retrospective variation of the vesting date by Mr Nemes would deprive the Trustee of its power to determine the disposition of the capital of the Estate under cl (d) of the First Schedule.
+I think it improbable that the parties to the Trust Deed intended that it have this effect.
+In my opinion, Mr Nemes's power under cl 17 of the Trust Deed did not confer upon him a power to vary the vesting date. 
+Mr Giles submitted that should I conclude that if Mr Nemes's resolution was not effective to vary the vesting date to 24 June 1992, I should treat it as being effective as at the date of the resolution, namely 3 May 1994. I do not accept that submission which would involve me re-writing the resolution.
+My conclusion is Mr Nemes had no power to vary retrospectively the vesting date and that the purported resolution, recorded in the minutes of 3 May 1994, had no effect.
+It may well be that this is a conclusion to which Mr Nemes himself came. Four months later the Trustee with (I would infer) Mr Nemes's consent and encouragement, passed the resolution of 23 September 1994. That resolution contradicts, and is in my opinion, irreconcilable with Mr Nemes's purported resolution of 3 May 1994. This may also explain why there is no suggestion in the evidence that, after 3 May 1994, Mr Nemes, or anyone else conducted themselves otherwise than on the basis that the vesting date remained 60 years from the date of the Trust Deed.
+For those reasons, I reject the Fischers' Second Claim.
+
+Is the Estate's Cross Claim statute barred?
+The Estate filed its Cross Claim in these proceedings on 26 September 2013. That Cross Claim represents the first claim made by the Estate for recovery of the $3,904,300.
+In the Cross Claim, the Executors simply assert the debt and the Trust's failure to pay it.
+Mr Birch accepted that the Estate's cause of action arising out of the 23 September 1994 resolution itself (which was described in the minutes of a meeting of the directors of the Trustees of 3 July 1995 as being "repayable on demand") is out of time and statute barred by reason of [s 14](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s14.html) of the [Limitation Act](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/).
+Mr Birch, however, submitted that the Estate had an independent cause of action against the Trust arising from the covenant in the Charge to which I have referred at [48] above, which was in the following terms: "[The Trustee] covenants with [Mr and Mrs Nemes] that the [Trustee] will pay to [Mr and Mrs Nemes] the principal monies on demand by [Mr and Mrs Nemes]."
+That covenant is expressed in terms of "the principal monies" which are defined in recital D of the Charge as being the amount for which the Trustee "is indebted" to Mr and Mrs Nemes. Further, recital E of the Charge states that the Trustee has agreed with Mr and Mrs Nemes to execute the Charge "for the purpose of securing repayment of the principal monies".
+I accept that, by the recitals, the parties were acknowledging an existing debt between the Trust and the Estate.
+However, it seems to me that the wording in cl 5 of the Charge shows that the parties intended, by the Charge, to go further than to simply acknowledge an existing debt and were intending that the Trustee restate its promise of repayment. I do not read cl 5 as being merely declaratory of an existing obligation. In my opinion the clause amounts to a separate promise by the Trustee to pay the debt to Mr and Mrs Nemes. As the promise was made in a deed, no question of consideration arises.
+
+Payable on demand
+In cl 5 of the Charge, the obligation of the Trustee is to pay the principal monies "on demand".
+Without more, the consequence of that provision would have been that Mr and Mrs Nemes' cause of action against the Trustee in respect of the debt arose at the time the loan was advanced. As the promise is made in a deed the cause of action would thus have expired in 12 years (that is on 30 August 2007) (see [s 16](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s16.html) of [Limitation Act](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/)) unless confirmed in the meantime (see [s 54](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s54.html) of the [Limitation Act](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/)).
+The matter was explained by Fullagar J in Ogilvie versus Adams <case>; [[1981] VR 1041] at 1049 in the following terms: "There is a long-settled rule of construction that, where there is a present debt between the parties to a contract to repay money, and the only terms as to repayment of the debt are to be spelled out of a promise to repay on demand, or out of a statement that the money is to be repaid or repayable on demand (or on request), an instantaneous cause of action, upon the very creation of the contract, arises in the lender. Whether one calls it a rule of law or not does not seem to me to matter. The only reason why I have chosen the expression 'rule of construction' is because other words or terms may appear in the contract which may be in the circumstances sufficient to show an intention that the cause of action is not to arise until some actual demand or some form of demand is made or until some period after demand has elapsed".
+Ogilvie has been approved on numerous occasions since (for example, by the Queensland Court of Appeal in Haller versus Arye <case> at <case> - [30]; by Young J (as his Honour then was) in Drinkwater versus Caddyrack Pty Ltd (No 3) (Supreme Court , 28 November 1997, unreported) and by Ward J (as her Honour then was) in Chidiac versus Maatouk  <case> at <case>).
+However, in this case, there are words in the Charge which, to adopt Fullagar J's words, are "sufficient to show an intention that the cause of action is not to arise until some actual demand or some form of demand is made".
+That is because cl 7(a) of the Charge (the relevant parts of which I have set out at [49] above) specifies the circumstances in which the "principal monies" secured by the Charge were payable "without the necessity for any demand or notice"; namely where there had been a default of the kind specified in the various subclauses of cl 7(a).
+In my opinion, that wording bespeaks an intention on the part of the parties that, otherwise than in the event of default, the loan would only be repayable if there was a demand made. Otherwise, there would have been no point in the parties making provision in cl 7(a) as to circumstances in which actual demand was not required.
+It is common ground that no demand was ever made by Mr or Mrs Nemes against the Trust for the $3,904,300 and that the first demand that was made on their behalf was upon the service of the Cross Claim in these proceedings on or shortly after 26 September 2013.
+It follows from that conclusion that the Estate is not out of time to claim the $3,904,300.
+
+Confirmation
+If that be wrong, the 12 year limitation period under [s 16](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s16.html) of the [Limitation Act](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/) commenced to run on 30 August 1995 (the date of the Charge) and, absent confirmation within the meaning of [s54](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s54.html) of the [Limitation Act](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/), expired on 30 August 2007; well before the filing of the Cross Claim.
+The Executors contend that the Trustee did confirm the debt for the purpose of [s 54](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s54.html) in its accounts for the year ended 30 June 2003 and that, accordingly, the Cross Claim is not out of time.
+Mr Giles accepted that, in certain circumstances, an acknowledgment of the existence of a debt recorded in the accounts of a company can constitute confirmation for the purposes of [s 54](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s54.html), provided that the creditor had notice of the existence of that acknowledgment in the relevant accounts: see Lonsdale Sand and Metal Pty Ltd versus Federal Commissioner of Taxation [(1998) 81 FCR 419] at 559 - 560 per Wilson J). 
+There is was no dispute that Mr and Mrs Nemes had notice of whatever appeared in the Trustee's accounts of 30 June 2003. 
+However, Mr Giles submitted that as Mr and Mrs Nemes were directors of the Trustee at the time the 30 June 2003 accounts were prepared, and that as they had an interest in the debt (to them) recorded in the accounts, the accounts did not constitute confirmation of the debt.
+Mr Giles submitted that accounts of a company do not provide confirmation in circumstances where the plaintiff is a director or officer of the defendant and in the position to control the preparation of the accounts and referred to In re Coliseum (Barrow), Ltd [[1930] 2 Ch 44] at 712-713
+In those two cases, it was held that entries in the balance sheets of a company did not constitute an acknowledgment by the company of debt because, in the first case, the relevant confirmation was as to directors' fees and had been made by the board of directors, acting as a board, and in the second case, had been made by the director who claimed to have lent money to the company. In both cases it was held that because of the interest that the relevant directors had in the transaction recorded in the companies' books, the entries could not be treated as an acknowledgement by the company itself.
+In this case, the circumstances are different. At the time that the Trustee's accounts for the financial year ending 30 June 2003 were published it had four directors; Mr and Mrs Nemes, Mr Moses and Mr Loblay. The accounts were certified to be correct by Mr Moses and Mr Loblay, and not by Mr or Mrs Nemes. Neither of Mr Moses or Mr Loblay had any interest in the existence or otherwise of any indebtedness of the Trustee to Mr and Mrs Nemes. 
+In those circumstances, I see no reason why I should not treat the acknowledgment in the balance sheet of the debt as one made by the Trustee and thus as a confirmation of the debt for the purposes of [s 54](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s54.html) of the [Limitation Act](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/).
+It is common ground that, if that is so, the Estate's claim against the Trustee is not statute barred.
+ [Section 13](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s13.html) of the [Limitation Act](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/)
+Finally, Mr Giles submitted that the Executors' cause of action was out of time by reason of [s 13](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s13.html) of the [Limitation Act](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/) which is in the following term: "Where, under each of two or more provisions of this Part, an action is not maintainable if brought after a specified time, the action is not maintainable if brought after the earlier or earliest of those times."
+Mr Giles submitted that by reason of [s 13](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s13.html), the Executors' claim is not maintainable as it was brought after the earlier of the limitation periods as specified in [s 14](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s14.html) of the [Limitation Act](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/) (six years as to the action in debt) and [s 16](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s16.html) (twelve years as to the action on the Deed).
+I do not accept this submission.
+Relevantly, [s 14](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s14.html) of the [Limitation Act](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/) provides: "(1) An action on any of the following causes of action is not maintainable if brought after the expiration of a limitation period of six years running from the date on which the cause of action first accrues to the plaintiff or to a person through whom the plaintiff claims: a cause of action founded on contract...not being a cause of action founded on a deed...".
+That section is relevant to the Executors' claim in debt.
+[Section 16](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s16.html) of the [Limitation Act](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/) is in the following terms: "An action on a cause of action founded on a deed is not maintainable if brought after the expiration of a limitation period of twelve years running from the date on which the cause of action first accrues to the plaintiff or to a person through whom the plaintiff claims."
+That section is relevant to the Executors' claim under the Deed.
+[Section 13](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s13.html) speaks of a circumstance where the operation of two or more provisions of the [Limitation Act](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/) has the effect that "an action" is not maintainable if brought after a specified time.
+That is not the situation in this case. 
+Here, one "action" (in contract, but not being a cause of action founded on a deed) is not maintainable if brought after six years: [s 14.](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s14.html)
+The other "action" (on the Charge; a deed) is not maintainable if brought after 12 years: [s 16.](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s16.html) [Sections 14](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s14.html) and [16](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s16.html) speak of different "actions".
+Causes of action brought in debt, and in the alternative under a deed recording the debt, do not, in my opinion, enliven [s 13.](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s13.html) It seems implicit in the decision of Bryson AJ in Bank of China Ltd versus CGS (Group) Pty Ltd  <case> at <case> that his Honour was of the same opinion.
+Examples of circumstances where [s 13](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s13.html) would be enlivened include where an action is brought in tort (to which [s 14(1)(b)](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s14.html) would provide a six year limitation period) and where that action can also be characterised as "founded on negligence, nuisance or breach of duty, for damages for personal injury", in which event the three year limitation period referred to in [s 18A](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s18a.html) would apply. In that event, the effect of [s 13](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s13.html) would be that the shorter of the two limitations periods would apply. 
+Another example would be where an action was founded in tort, and thus within [s 14(1)(b)](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s14.html) but was is also an action arising under the [Compensation to Relatives Act 1897](http://www.austlii.edu.au/au/legis/nsw/consolact/ctra1897288/), and brought after 1 September 1990, in which event the three year limitation period in [s 19(1)(b)](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s19.html) of the [Limitation Act](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/) would also apply. Again, in those circumstances, the effect of [s 13](http://www.austlii.edu.au/au/legis/nsw/consolact/la1969133/s13.html) would be that the shorter of the two limitation periods would be that governing the cause of action.
+I see my conclusion as being consistent with the observations of Hodgson JA (with whom Santow JA and Brownie AJA agreed) in Smith versus Rynne  <case> (especially at [13] to [15]). 
+Conclusion
+During argument, counsel invited me to publish my reasons but to not make orders until such time as the parties had had an opportunity to consider those reasons.
+Accordingly, I now invite the parties to confer with a view to agreeing on the orders that should be made to give effect to these reasons. * * * 

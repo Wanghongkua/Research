@@ -1,0 +1,217 @@
+
+
+Drillsearch Energy Ltd versus Carling Capital Partners Pty Ltd [2009] NSWSC (9 November 2009) 
+Last Updated: 10 November 2009 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Drillsearch Energy Ltd versus Carling Capital Partners Pty Ltd <case>  
+JURISDICTION: 
+Equity Division 
+Corporations List  
+FILE NUMBER(S):  /09  
+HEARING DATE(S):  /10/09  
+JUDGMENT DATE:  November 2009  
+PARTIES: 
+Drillsearch Energy Pty Limited - Plaintiff 
+Carling Capital Partners Pty Limited - Defendant  
+JUDGMENT OF: 
+Barrett J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+Ms K J Williams - Plaintiff 
+Mr D L Williams SC/Mr J S Tobin - Defendant  
+SOLICITORS: 
+Blake Dawson - Plaintiff 
+Bradfield & Scott - Defendant  
+CATCHWORDS: 
+CORPORATIONS - winding up - statutory demand - application for order setting aside statutory demand - whether genuine dispute as to existence of each of several debts referred to in the demand - two debts said to be "as per" letter alleged by defendant to have contractual force - whether letter in terms contractual - whether director of plaintiff had authority to commit to any such contract - plausible contentions in the negative on each matter - genuine dispute therefore established - where debt said to be due under earlier contract - question of construction of that contract regarding the word "acquisition" used in the context of a takeover bid - plausible contentions in support of each of two possible meanings - the question of construction is not suitable for determination on this application - genuine dispute therefore established - where company's response to invoice was to say that it thought relevant work was covered by fees paid earlier and to seek further particulars - no particulars given - genuine dispute therefore established  
+LEGISLATION CITED:  [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth), [ss
+G](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s459g.html), [459H](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s459h.html)(1)(a),  (8), 650G, 671B  
+CATEGORY: 
+Principal judgment  
+CASES CITED: 
+Codelfa Construction Pty Ltd versus State Rail Authority of New South Wales <case>; <case>; <case>; [(2008) 66 ACSR 229]  
+TEXTS CITED:  
+DECISION: 
+Order that statutory demand be set aside  
+JUDGMENT:  
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+CORPORATIONS LIST  
+BARRETT J  
+MONDAY 9 NOVEMBER 2009  /09 DRILLSEARCH ENERGY LIMITED versus CARLING CAPITAL PARTNERS PTY
+LIMITED 
+JUDGMENT  
+Introduction By originating process filed on 3 August 2009, the plaintiff applies under [s
+G](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s459g.html) of the [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) for an order setting aside a statutory demand dated 14 July 2009 served on it by the defendant.
+ The demand relates to three distinct debts each of which is said to be owing, due and payable by the plaintiff to the defendant. They are described in the demand by reference to attached invoices.
+ 
+The first invoice The first invoice is dated 5 May 2009 and is for $17,820. The narration is as follows: "Description of Supply of Services 
+AUD  
+Professional services provided at the request of David Williams (former
+Managing Director) in respect of drafting and completing the Drillsearch
+Energy Ltd presentation and associated materials for the 'Excellence in Oil & Gas' Conference held in Sydney between 6 - 7 April 2009.
+ 
+Professional Hours 36 @ $450 per hour 
+GST @ 10% $16,200  ,620  
+TOTAL Invoice $17,820"  
+The second invoice The second invoice is for $217,250. The narration is as follows:  "Description of Supply of Services 
+AUD  
+As per our letter to the Executive Chairman of Drillsearch Energy Liimited dated 27th May 2009 we render the following Tax Invoice for professional services in connection with the 3D Oil Limited takeover that expired yesterday June 2009.
+ 
+These fees are consistent with our Strategic Advisor Mandate Letter dated 7
+January 2009.
+ 
+Cash Fees 
+Clause 7(b) Assignment Mandate fees - 1 April to 15 May 2009 at the rate of $15,000 per month plus GST $ 22,500  
+Clause 7(c) Success Fees $175,000  
+Sub Total $197,500  
+GST @ 10% ,750  
+TOTAL Fees payable in Cash $217,250"  Below this description appears the following (which does not however, play any part in the statutory demand):  "Non Cash Fees  
+Clause 7(c) - 30 million Options over FPO DLS shares  
+Option Conditions:  - Holder - Carling Capital Underwriters Pty Ltd  - Term - 4 year Term from Grant date  - Strike Price of $0.0271 (5 day VWAP prior to initial Form 603 dated 12
+January 2009)"  
+The third invoice The third invoice is for $33,000. The narration is: "Description of Supply of Services 
+AUD  
+As per our letter to the Executive Chairman of Drillsearch Energy Limited dated 27th May 2009 we render the following Tax Invoice for professional corporate advisory services provided to the Company in the period 15 March to 15 May 2009.
+ 
+General Corporate Advice at the rate of $15,000 per month plus GST $30,000  
+GST @ 10% ,000  
+TOTAL Fees payable in Cash $33,000"  
+Central issue and common ground Subject to one qualification, the plaintiff maintains that there is a genuine dispute between itself and the defendant about the existence of each of these debts. It thereby relies on [s
+H(1)(a)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s459h.html) in advancing its [s
+G](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s459g.html) application. The qualification relates to the item of $22,500 in the second invoice. The plaintiff accepted liability for that amount and has paid it.
+ It is common ground that the defendant was retained by the plaintiff to provide certain services. It is also common ground that two relevant agreements were entered into between the two companies - one (referred to as the "general mandate") evidenced by a letter dated 17 March 2008 from the defendant to the plaintiff; the other (the "takeover mandate") evidenced by a letter dated 7 January 2009 from the defendant to the plaintiff. The general mandate related to periodic financial advisory services. The takeover mandate related to advisory services with respect to a takeover bid to be initiated by the plaintiff in relation to a company referred to therein (and in these reasons) as the "Target".
+ 
+The 27 May 2009 letter Also of relevance is a letter dated 27 May 2009 from the defendant to the plaintiff. That letter is referred to in the second and third invoices.
+Indeed, the invoices are said to be rendered "as per" that letter, thus making it clear that the letter is regarded as the source of the relevant debts.
+ The defendant maintains that the letter of 27 May 2009, like the other two letters, has contractual force as between the two companies. The plaintiff does not accept that this is so. The defendant's response is that the plaintiff's protestations of dispute as to the contractual force of the 27 May letter arose only after the statutory demand had been served and are not objectively sound, so that the dispute the plaintiff asserts is not genuine.
+ Because of the central significance of the letter of 27 May 2009, it is desirable that I turn at once to the question whether it does in reality record or evidence a contract between the plaintiff and the defendant.
+ The letter conveys, in terms, a proposal: "we are prepared to accept a fail fee ...". It seeks a confirmation or response: "we hope that we can conclude this matter amicably ...". Viewed in isolation from surrounding circumstances, the letter cannot be seen to be the source of a contractual promise to pay money.
+ Limited evidence of the circumstances in which the letter came into being was given on affidavit in the defendant's case by Mr Carling, the principal of the defendant, and Mr Simpson, who was at the time the executive chairman of the plaintiff (he resigned shortly afterwards, on 10 June 2009). On both accounts, differences had emerged between the parties regarding rights under the takeover mandate which provided for the payment of a "success fee" expressed to be "payable on the acquisition of shares in the Target from time to time and calculated by reference to Drillsearch's voting power (as defined in [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s610.html) of the [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/)) in the
+Target ...". The fee was geared to the percentage of voting power acquired.
+ A question arises as to the meaning of "acquisition" in this context, particularly since the plaintiff received acceptances under the takeover bid for a substantial number of shares in the target but the contracts resulting from acceptance were subject to a minimum acceptance condition that was not satisfied. It will be necessary to return to that question.
+ In the light of the differences that had emerged as to rights and obligations under the takeover mandate, Mr Carling and Mr Simpson met on 27
+May 2009. Mr Carling's account of the conversation is as follows: "Simpson: 'Max, as you know from our conversation over the weekend before last, the board has instructed me to finalise a deal with you. The board want to "square off" the relationship with CCP and get it out of the way.' 
+Carling: 'Are the board going to be reasonable?' 
+Simpson: 'Max, the deal is I've been told to negotiate a settlement sum with you. So let's talk about a deal that's sensible and whatever you and I agree will be done. Don't worry Max, I've been instructed to do a deal with you.' 
+Carling: 'OK Peter, as you know CCP has been significantly disadvantaged because of the Drillsearch board decision to abandon the TDO bid and CCP was extremely confident that Drillsearch would have been successful in acquiring a controlling interest in TDO had the bid strategy been executed the way we all envisaged and agreed.
+
+Simpson: 'Max, I agree, but there's no point revisiting that as the board resolved not to proceed with the TDO bid.' 
+Carling: 'OK, then I believe CCP should be paid the $200,000 odd success fee and the 30 million options anyway and all the outstanding invoices for the extra general corporate advisory work that CCP did of $30,000 and the specific
+TDO advisory fee of $22,500. However, in the interests of doing a deal and getting it "squared off" as soon as possible then CCP would drop the first fee down to $175,000.' 
+Simpson: 'Max, I think you're being very reasonable and I'm surprised you didn't ask for more.' 
+Carling: 'Peter, CCP are reasonable people and we just want to be out of this.' 
+Simpson: 'Max, we have a deal. Can you please write this agreement up and bring it round to Drillsearch's office in an hour or two? 
+Carling: 'Peter, I'll do it straight away and see you about 11am.'" Mr Carling says that he then prepared a draft letter which he gave to Mr
+Simpson at the plaintiff's office later in the day. Mr Carling further says that, after Mr Simpson had read the draft, he said to Mr Carling: "Simpson: 'Max, this is fine. Take the word "draft" off it, put a drop-dead date of 29 May on it so we can get this completed quickly, and I'll see that it's paid right away because I think you're being very reasonable. This should be OK.'" Mr Carling then adjusted the document as indicated, signed it and emailed it to Mr Simpson.
+ Mr Simpson's evidence is generally consistent with that of Mr Carling. It is pertinent to quote the part of the affidavit that deals with events on 27
+May 2009 after the initial meeting.
+ "26. During the morning of 27 May 2009, Mr Carling came to
+Drillsearch's office. He showed me a letter dated 27 May 2009 on CCP
+Letterhead marked 'draft'. I read the letter. The content of the letter reflected the conversation between Mr Carling and me during our meeting earlier that day at the Westin Hotel. Upon reading Mr Carling's letter I believed that Drillsearch and CCP had reached agreement to resolve CCP's fees for the outstanding corporate advisory work that CCP had done for Drillsearch.
+ . I told Mr Carling that the letter was fine. I said to Mr Carling that he could insert 29 May 2009 as the date for finalising everything with
+CCP and send me the final version.
+ . Later on 27 May 2009 I received an email from Mr Carling with a letter dated 27 May 2009 attached. I read the letter. It correctly recorded what Mr Carling and I had discussed at the Westin Hotel and at the Drillsearch offices earlier that day." 
+Mr Simpson's authority It is also necessary to refer to evidence about Mr Simpson's authority to treat for the plaintiff with the defendant. It is clear that Mr Simpson met with Mr Carling as a result of a decision made by the plaintiff's board of directors at a meeting on 13 May 2009. There is, however, doubt about precisely what the board decided.
+ Mr Bucknell, the secretary of the plaintiff, prepared draft minutes of the May 2009 board meeting at which the decision was made. The decision was stated by him in the draft in this way: "Action: PS is to contact CCP to try to negotiate a favourable settlement on termination of the CCP/TDO mandate." "PS" refers to Mr Simpson. The "CCP/TDO mandate" is the takeover mandate ("CCP" being the defendant and "TDO" the Target).
+ Mr Simpson, who had been chairman of the meeting, later communicated to Mr
+Bucknell a revision of the draft, as follows: "Noted: PW suggested that CCP be approached to negotiate a settlement now.
+His view is that CCP would not take advantage of the situation.
+
+Action: The board unanimously agreed that PS be authorised to contact Max
+Carling of CCP and to finalise with Carling a settlement on termination of the
+CCP/TDO mandate." This suggested revision was communicated by Mr Simpson in response to an email sent by Mr Bucknell to all directors who had been present at the meeting asking them to review the first draft and to give him comments (Mr Simpson was by then no longer a director).
+ Mr Bucknell did not accept that Mr Simpson's suggested amendment correctly recorded what had happened at the meeting. In particular, he did not think that the board had resolved to authorise Mr Simpson to conclude an agreement.
+ The minutes, as eventually completed and signed by the new chairman Mr
+McKerlie (who had himself been present at the meeting), contained the following: "Action: PS to discuss with CCP to determine their position on termination of the CCP/TDO mandate.
+
+Note: PS has notified the company that his firm recollection of the above action was that the board unanimously agreed that he be authorised to contact
+Max Carling of CCP and to finalise with him a settlement on termination of the
+CCP/TDO mandate." Three other aspects of the evidence should be mentioned in this connection.
+First, Mr Langush, a director present at the meeting, in raising a number of points in response to a version of the minutes apparently circulated by Mr
+Simpson on 25 June 2009, said nothing to call into question the part quoted at paragraph [22] above. Second, an agenda for a subsequent meeting of the board on 10 June 2009 (which itself bears that date) contains an item: "Discuss the settlement of all fees owing to CCP for the TDO offer." Third, there is email correspondence of 5 and 7 June 2009. On 5 June, Mr
+Carling emailed Mr Bucknell as follows: "Hi Ian 
+Please find attached letter of 27 May 2009 from CCP to DLS. I believe a circular board resolution is required to finalise this matter.
+ 'The purpose of the offer by CCP is to settle the arrangements and payment as requested at the board meeting of ??????????? to extinguish all liability by DLS to CCP in relation to the TDO offer' 
+Thank you." Mr Carling forwarded this email to Mr Simpson on 7 June 2009 with a message as follows: "As you can see I sent the CCP settlement proposal to Ian Bucknell at midday on Friday 5 June 2009 at your request." Mr Carling went on to ask Mr Simpson whether the board resolution had been completed and said: "I think it is only fair that this be finalised by Tuesday 9 June 2009 and
+CCP have been very patient and have continued to provide advisory services." 
+Conclusions about the 27 May 2009 letter Despite Mr Simpson's apparent conviction that he committed the plaintiff to a contract with CCP on 27 May 2009 (and that he did so with the authority of the board of directors) and Mr Carling's apparent understanding that a contract came into existence through words spoken by Mr Simpson on that day, there is, of necessity, continuing doubt on that matter.
+ The letter of 27 May 2009 does not, in terms, record an agreement. As previously noted, it states what the defendant "is prepared to accept" and expresses a "hope" that "the matter can be concluded amicably". This is not the language of contract.
+ Nor does Mr Simpson's invitation (as reported by Mr Carling) to take out the word "draft" and insert the date 29 May 2009 "so that we can get this completed quickly" necessarily bespeak concluding of a contract, as distinct from concluding of an agreed proposal for consideration by the plaintiff.
+ The notion that the defendant had merely put a proposal to the plaintiff by means of the letter of 27 May 2009 was confirmed by Mr Carling himself in his emails of 5 and 7 June 2009. More than a week after the letter had been signed and delivered, he was pressing to have the "proposal" accepted by a resolution of the plaintiff's board so that it would be "finalised".
+ The matter of Mr Simpson's authority is also unclear. The fact that one person present at the board meeting (Mr Bucknell, the secretary) positively disputes the version of the minutes drafted and attested to by Mr Simpson (another person present), that a third person present (Mr Langush) did not question Mr Simpson's version and that a fourth person present (Mr McKerlie), after later becoming chairman, signed as correct yet a different version means that a full inquiry is needed to determine what the board resolved in terms of conferral of authority on Mr Simpson.
+ The defendant's contention that the versions of the minutes not reflecting a clear conferral of authority on Mr Simpson emerged only after the statutory demand had been served is inconsistent with the reference in the 10 June 2009 board agenda to "the settlement of all fees owing to CCP for the TDO offer" as being a matter requiring discussion. If a contract had been made on 27 May , there would have been nothing to discuss on 10 June 2009.
+ It is plainly arguable that no contract between the plaintiff and defendant came into existence in terms of the 27 May 2009 letter.
+ 
+An alternative basis for part of the second invoice? I turn now to another matter concerning the second invoice (the invoice for $217,250). The defendant contends that, whatever may be the true position in relation to the alleged contract of 27 May 2009, the item in the second invoice designated "Clause 7(c) Success fee" is, in any event, justified as to $100,000. This contention is based on the takeover mandate which both parties accept as having contractual force (the takeover mandate - or "Strategic
+Advisor Mandate Letter dated 7 January 2009" is expressly relied upon in the invoice).
+ On the view the defendant takes, there occurred "acquisition of shares in the Target" to such an extent as to cause a fee of $100,000 to become payable pursuant to the takeover mandate itself and regardless of any separate agreement made on 27 May 2009. The takeover mandate provided for the payment of a fee of $100,000 if "Threshold % of Voting Power Acquired in the Target" reached "19.99% equates to 41,105,440 shares".
+ It is common ground that, as at 7 January 2009 (the date of the takeover mandate), the plaintiff had no interest of any conceivably relevant kind in shares of the Target. Thereafter, on 12 January 2009, the plaintiff gave notice under [s
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s671b.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) that it had become a substantial shareholder in the Target within the meaning of [s (8)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s608.html) pursuant to "pre-bid acceptance agreements" with certain persons in respect of ,105,450 shares, representing 19.9% of the total shares in the Target. Each such person gave to the plaintiff, through the relevant pre-bid acceptance agreement, a promise to accept in respect of certain shares any takeover bid (conforming to certain specifications) that the plaintiff might make in respect of shares in the Target and a promise not otherwise to dispose of the shares to which the agreement related. It was provided that the agreement would terminate in specified events, including if the plaintiff did not announce a takeover bid within three weeks.
+ Thereafter, on each of several dates in May and early June 2009, the plaintiff gave statutory notices of the acquisition by it of a relevant interest in additional shares in the Target. Each such acquisition was described as having occurred as a result of acceptances of takeover offers made by the plaintiff in respect of shares in the Target. The greatest number of shares, in aggregate, referred to in these notices was 68,512,003.
+ Each takeover offer made by the plaintiff contained provisions as follows: "7.1 Conditions 
+This Offer and the contract arising from your acceptance of this Offer are subject to the following conditions: .1.1 Minimum acceptance condition 
+Before the end of the Offer Period, Drillsearch and its Associates have relevant interests in at least 50.1% (by number) of all 3D Oil Shares." "7.4 Breach of conditions subsequent 
+Each condition in clause 7.1 is a condition subsequent and does not prevent a contract to sell Your 3D Oil Shares resulting from an acceptance of this Offer. However, if a condition in clause 7.1 is breached or not fulfilled, Drillsearch may by notice in writing to you rescind the contract as if the contract had not been formed." It is common ground that the minimum acceptance condition was not satisfied and that each contract formed by acceptance of a takeover offer was validly rescinded pursuant to clause 7.4. In addition, [s
+G](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s650g.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) operated: "All takeover contracts, and all acceptances that have not resulted in binding takeover contracts, for an off-market bid are void if: offers made under the bid have at any time been subject to a defeating condition; and the bidder has not declared the offers to be free from the condition within the period before the date applicable under [subsection (1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s630.html) or (2); and the condition has not been fulfilled at the end of the offer period.
+
+A transfer of securities based on an acceptance or contract that is void under this section must not be registered." In the result, therefore, the plaintiff did not come to hold any shares in the target as a result of the takeover bid (or, of course, the pre-bid agreements).
+ The defendant says that, in light of these facts and despite the circumstances that the plaintiff never came to hold any shares and all extant contracts for purchase were rescinded and became void, there was an "acquisition" of the 68,512,003 shares by the plaintiff in the sense referred to in the takeover mandate. The plaintiff says that there was no "acquisition" of shares. Central to the respective contentions is a dispute about the meaning to be given to the word "acquisition" in the particular contractual context - in essence, whether it is a term that is to be understood according to principles as to the creation of relevant interests and the acquiring of powers with respect to shares that underlie the operation of the statutory provisions about takeover bids and disclosure of substantial shareholdings; or, conversely, a more direct and permanent concept of attaining ownership is at work. On the face of the document, each of these possible constructions is fairly arguable.
+ The existence of the dispute about the correct construction of the takeover mandate agreement means that there is also a dispute about the existence of the debt that would exist if the defendant's preferred construction were correct but not if the plaintiff's preferred construction were correct. A dispute as to the existence of a debt that is the product of a dispute about construction is not removed from [s
+H(1)(a)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s459h.html) just because the issue in contention is one of construction. While it has been said that "a short point of law or the construction of documents or agreed facts" may, unlike a disputed question of fact, be determined upon a [s
+G](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s459g.html) application (see Delnorth Pty Ltd versus State Bank of New South Wales [(1995) 17
+ACSR 379] at 384), it does not follow that the court is compelled to make such a determination. In the case of a legal argument, determination might be appropriate if it were, in the words of McLelland CJ in Eq in Eyota
+Pty Ltd versus Hanave Pty Ltd [(1994) 12 ACSR 785], a "patently feeble legal argument".
+ I consider it appropriate to adopt in this case the approach I outlined in
+Wellnora Pty Ltd versus Fiorentino <case>; <case>: "Where the basis for the alleged dispute is a legal argument or question of construction which is not 'patently feeble' and does not involve a 'short point of law' and there are clearly arguable alternatives as to the correct outcome, the court should not, upon the [s
+G](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s459g.html) application, attempt to reach a definitive resolution. The reasons are stated in the joint judgment of Brooking JA and Charles JA in Spacorp Australia Pty
+Ltd versus Myer Stores Ltd [(2001) 19 ACLC 1270]; <case> at <case>: '[4] We think, if we may say so, that, except in a case in which it is as plain as a pikestaff that there is no debt (where bluntness may be in the interests of both sides), Judges should, in general at all events, in dealing, whether at first instance or on appeal, with the question of genuine dispute, be at pains to perform the admittedly delicate task of disposing of that question without expressing a view on what we have called the ultimate question. For otherwise, on an application which resembles if it is not in law an interlocutory one, things may be said which embarrass the judge before whom the ultimate question comes.'" It follows that the question about the meaning of "acquisition" (and related questions of construction) arising from the takeover mandate - involving clearly arguable alternatives - is one that of itself gives rise to "genuine dispute" within [s
+H(1)(a)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s459h.html) and no attempt should be made to determine it in these proceedings. [Section
+G](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s459g.html) applications are usually determined on affidavit evidence alone. Cross- examination is very rare and allowed only for very good reason in exceptional cases. There was no cross-examination in this case. Nor, indeed, was there any real evidence of the circumstances of the formation of the takeover mandate agreement. The court therefore has no insight into pre-contractual conduct that may cast light on the genesis of the contract, its objective or the meaning of the ambiguous term "acquisition". Evidence of such conduct, if led, would in general be admissible on the question of construction: Codelfa
+Construction Pty Ltd versus State Rail Authority of New South Wales <case>; [(1982) 149 CLR 337] at 347-352.
+ 
+The proceedings commenced by the defendant It is pertinent to refer next to the fact that, on 12 October 2009, the defendant commenced certain proceedings against the plaintiff in the
+Commercial List of this Division. It claims declaratory relief to the effect that the plaintiff is liable to pay the defendant $200,000 and to issue to the defendant 30 million options to subscribe for shares in the plaintiff, these being entitlements pursuant to the takeover mandate. There is an alternative claim for a declaration that the plaintiff is liable to pay the defendant $175,000 and to issue to it 30 million options pursuant to a settlement entered into on 27 May 2009. Under the heading "Nature of Dispute" in its
+Commercial List Statement, the defendant recites the very matters that it put in this case in support of the contention that an undisputed debt is owing, due and payable by the plaintiff. Among the "Issues Likely to Arise" are listed: "
+
+Whether the defendant is liable to remunerate the plaintiff by way of fees and the issue of options in the defendant pursuant to an agreement dated January 2009.
+
+Whether the plaintiff and the defendant entered into a settlement.
+
+If the plaintiff and the defendant entered into a settlement, whether the executive chairman of the defendant who negotiated the settlement had authority to do so and if not, whether the settlement is binding in any event." The sequence of events should be noted. The statutory demand was served by the defendant on or about 14 July 2009. The plaintiff's <case> application commencing these proceedings was filed on 3 August 2009. The defendant filed a notice of appearance in these proceedings on 26 August 2009. Thereafter, on 12
+October 2009, the defendant commenced the Commercial List proceedings against the plaintiff.
+ The fact that the issuer of a statutory demand, faced with a [s
+G](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s459g.html) application, later commences proceedings in which it identifies as issues likely to arise the existence of a liability asserted in the statutory demand and the existence of a contract on which the statutory demand is based severely undermines any attempt by that issuer to gainsay the proposition that there is a genuine dispute as to the existence of the relevant debt. It is inconsistent for that issuer to say, in the one breath, that there is an undisputed debt presently due and payable such as to justify the imposition of a presumption of insolvency for winding up purposes if payment is not made within 21 days and, in the next breath, that separate legal proceedings are required in order to determine whether liability for the debt in truth exists.
+ The defendant says that it had to initiate the Commercial List proceedings because it could not, as it were, "collect" the 30 million options by means of a statutory demand. For that reason, it maintains, the commencement of those proceedings should not attract the observation I have made.
+ I disagree. If, as the defendant says, there is a twofold obligation owed to it - entailing an entitlement to be paid money and an entitlement to receive an issue of options to subscribe for shares - the appropriate course is for the question of the existence of the total and undivided obligation to be determined in properly constituted proceedings, rather than for half to be hived off and made the subject of a statutory demand.
+ 
+Conclusions concerning the second and third invoices The conclusions expressed in relation to the alleged agreement of 27 May are sufficient to justify the conclusion that, to the extent that the debts claimed in the second and third invoices (beyond the $22,500 acknowledged by the plaintiff) are said to be owing, due and payable by reason of a contract in terms of that letter, there is a genuine dispute as to the existence of those debts. The fact that two plausible but conflicting contentions are advanced as to the correct construction of the takeover mandate is sufficient to justify the further conclusion that there is a genuine dispute as to the existence of a debt for $100,000 representing part of the total claimed by the second invoice.
+ The [s
+H(1)(a)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s459h.html) contention is therefore made good in relation to the alleged debts in the second and third invoices. There exists a genuine dispute as to the existence of each such alleged debt.
+ 
+The first invoice It remains to consider the debt of $16,200 (plus GST) claimed by the first invoice, that is, the debt for services said to have been provided at the request of the plaintiff's former managing director in relation to the
+Excellence in Oil and Gas Conference.
+ The first invoice is dated 5 May 2009. It was received by the plaintiff on or soon after that day. On 24 June 2009, the defendant wrote to the plaintiff referring to this and other invoices, noting that they had not been paid and demanding payment. The plaintiff's new managing director, Mr Lingo, replied, also by letter of 24 June 2009. He said in relation to the invoice in question: "We also acknowledge that an additional invoice dated 5 May 2009 for $17,820 relating to Drillsearch's presentation for the Excellence in Oil &
+Gas Conference. Our initial impression was that this would have been covered as part of the 3D Oil monthly advisory fee, however, if you can provide some additional light on this work, we are happy to consider our position further." There was no reply to this. The statutory demand was served about three weeks later. The plaintiff's then solicitors wrote to the defendant's solicitors (on 27 July 2009 saying) with respect to the first invoice: "In CCP's invoice dated 5 May 2009, CCP claims that it is owed $16,200.00 plus GST for professional services provided at the request of David Williams (former Managing Director) in respect of drafting and completing the
+Drillsearch Energy Ltd presentation and associated materials for the 'Excellence in Oil & Gas' Conference held in Sydney between 6 - 7 April
+CCP has not provided any further details regarding this alleged agreement or its terms. Further, our client has sought substantiation of this claim from your client (letter dated 24 June 2009 which is annexure 'J' to the affidavit in support of the Statutory Demand) yet no substantiation has been provided. Thus our client has no way of determining if the amount claimed by your client is reasonable or appropriate for the work done. Our client again requests a breakdown of the time that is said by your client that it took to prepare this presentation. On that basis, our client disputes this debt on the basis of lack of substantiation and particulars. We are instructed our client will make payment of a reasonable amount if appropriate substantiation and particulars are provided. This has always been our client's position.
+
+It is inappropriate for your client to have served the Statutory Demand seeking payment for amounts clamed under its 5 May 2009 invoice in circumstances where your client has failed to respond to our client's request for substantiation. On this basis, the Statutory Demand seeking such payment is liable to be set aside." The plaintiff's letter of 24 June 2009 made it clear that the plaintiff had the "impression" that the work referred to in the first invoice was covered by fees already paid. To that may be added the fact that the person by whom the services had been ordered (the former managing director) was no longer with the company when the follow-up of request for payment was made, so that the plaintiff presumably could not discover internally any basis to be satisfied that the claimed moneys were owing, due and payable. It was no doubt for that reason that the plaintiff sought further particulars from the defendant, which particulars the defendant chose not to give.
+ In Financial Solutions Australasia Pty Ltd versus Predella Pty ltd <case>; [(2002) 26 WAR 306], the Full Court of the Supreme Court of Western Australia held that, until the issuer of a statutory demand gave access to documents on which its claim depended, there was an adequate and sound reason for the company to dispute the claim. That is the position here also. The request in the plaintiff's letter of 24 June 2009 was an entirely reasonable request. Had it been met, the plaintiff would have been able to make a proper assessment of the claim in the first invoice. Because it was not met, the plaintiff was entitled to take the attitude of dispute that it did take, being the attitude that was confirmed in the solicitors' letter of 27 July 2009.
+ There is, on the evidence, a genuine dispute as to the existence of the alleged debt referred to in the first invoice and made the subject of the statutory demand.
+ 
+Disposition For these reasons, there will be an order that the statutory demand dated July 2009 served on the plaintiff by the defendant be set aside.
+ The plaintiff's written submissions state that, in the eventuality now reached, the defendant should be ordered to pay the plaintiff's costs and that those costs should be assessed on the indemnity basis. The defendant will presumably not take issue with the first part of that proposition but may have something to say about the second.
+ I will therefore direct that any submissions of the defendant in response to paragraph 21 of the written submissions of the plaintiff's counsel dated 27
+October 2009 concerning costs be reduced to writing and delivered to the plaintiff and my Associate within seven days. I shall then decide the question of costs.
+ 
+LAST UPDATED:  November 2009 * * * 

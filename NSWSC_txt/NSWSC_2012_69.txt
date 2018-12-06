@@ -1,0 +1,351 @@
+
+
+CT Money Pty Ltd versus GJ & SG Thompson Pty Limited (No 2) [2012] NSWSC 69 (15 February 2012) 
+Last Updated: 24 May 2012 
+Supreme Court 
+New South Wales  
+Case Title: 
+CT Money Pty Ltd versus GJ & SG Thompson Pty Limited (No 2)  
+Medium Neutral Citation: <case>  
+Hearing Date(s): , 7 and 8 February 2012  
+Decision Date: February 2012  
+Jurisdiction: 
+Equity Division - Commercial List  
+Before: 
+Bergin CJ in Eq  
+Decision: 
+Application to amend Defence refused  
+Catchwords: [PRACTICE & PROCEDURE] - Application at the conclusion of the proceedings to amend Defence - adequacy of explanation for delay - whether plaintiffs' legal representatives would have made different forensic judgments if Defence had been amended earlier - impact on fair trial - whether proposed defence doomed to fail.  [ACQUIESCENCE] - Nature of the doctrine - whether a "defence" - elements - actual knowledge of relevant conduct.  
+JUDGMENT  
+These reasons relate to an application by the defendant to amend its Defence to the Further Amended Statement of Claim. The application was foreshadowed on 7 February 2012 at the conclusion of the hearing of the matter and at the end of final submissions. It was heard on 8 February 2012 when Mr A Cheshire, of counsel, leading Mr D Steirn, of counsel, appeared for the plaintiffs and Mr J O'Connor, of counsel, appeared for the defendant. 
+Background 
+From 2005, the plaintiffs, CT Money Pty Limited (CTM), CT Franchises Pty Limited (CTF) and CT Lending Pty Limited (CTL), operated a mortgage origination business (the Business). The Business was purchased from DC Corporation Pty Ltd (DC), a company that is now in liquidation. In 2005, CTF entered into Franchise Agreements, including with the former first defendant, Darranda Pty Limited (Darranda) and the only remaining defendant, GJ & SG Thompson Pty Ltd (Thompson), pursuant to which franchisees operated the Business trading under the business name 'Capital Trust'. In 2008, Darranda terminated its Franchise Agreement and the loans that it brokered were assigned to Thompson. 
+Although the structure and the process by which funding was obtained for prospective borrowers requires careful analysis in the main proceedings, it is appropriate to describe it in summary form for the purpose of the determination of this application. The Franchisee would submit the borrower's application for the loan to CTF and/or CTM and CTM would submit the application for the loans to one of the funders with which it had an agreement, relevantly Australian Mortgage Securities Pty Limited (AMS) and AFIG Wholesale Pty Limited (AFIG) (AMS/AFIG), and if approved, AMS/AFIG would provide the funding. 
+Various agreements between the respective parties and the funders provide for indemnities from CTM to AMS/AFIG and from the Franchisees to CTF in respect of loss or damage suffered by reason of loans not being repaid (including the Correspondent Deed, the Termination Deed and the Franchise Agreement). The link between CTM and CTF (or the lack thereof) in the funding transactions is very much in issue in the main proceedings. 
+There are various operational manuals with which the Franchisees were required to comply in preparing and submitting loan applications. One of the requirements was that the applicant for the loan was to be interviewed. Representations and warranties were given by the Franchisees to CTF and by CTM to AMS/AFIG, inter alia, that they had complied with the operational manuals. 
+One of the loans brokered by Darranda in 2006 and assigned to Thompson in 2008 was with Mrs Elizabeth Nahas (the Nahas loan). Darranda did not interview Mrs Nahas before lodging the application for the loan. Rather, the interview was with her husband who it appears provided information that was inaccurate (to use a neutral term). That information included that there were no dependents, when there were at least three children, and that Mrs Nahas worked as a chef with an annual income of $77,000, when she was not in paid employment. 
+Darranda's employee, Mr Jarrod Cahill, met with Mr Nahas and filled out the application documents that included a document headed "Loan Interview Diary" (the Diary). Mr Cahill's description of what he did in relation to the Diary included the following (paragraph 31 of his affidavit of 8 August 2011): 
+In that document there was a section which read " names of customers present at interview". I intentionally left that section blank because on 8 October I had only met with Mr Nahas. Further down the document there was a section which read " Were all customers interviewed in person? If not - indicate who was". To that section I answered " Abe Nahas".  
+On 9 October 2006, Mr Cahill wrote by facsimile to Mr Boulden of the plaintiffs in the following terms: 
+Please find attached loan statement and explanation regarding a loan approval we are seeking urgently as the client has been offered [finance] via another lender at 7.70% under a full doc loan. We need to understand if the Mortgage insurer will accept the conduct which has been questionable.  
+Presently the competing lender will offer mortgage documents at the end of trade today; that this is a referral from one of Kevin's friends and they would prefer for the loan to be with us. The client wishes to borrow 80% LVR and use the equity to inject into a new business her husband is purchasing.  
+The contract will need to settle as on the 14th of October!!  
+I know this is urgent, but your assistance and involvement is needed mate. 
+The enclosed "explanation" that Mr Cahill provided to Mr Boulden purported to be a letter from Mrs Nahas to Darranda (albeit it was unsigned) and was in the following terms: 
+I have had this loan with Homeloans Ltd for six years; I have always paid on time and been ahead on several occasions. I have also redrawn several times. I have always preferred to B-Pay my loan so I can pay as much as I want whether it be weekly or fortnightly.  
+As you can see the late charges on the 13 th February and the 13 th March were both reversed, payment was made before the 10 th of each month but not received until the 14 th . I have had continuous contact with my credit manager at Homeloans on a regular basis, and they have seen that payments were made early, but it has taken them longer than expected to process, which is why they have always reversed the late fees.  
+The other three fees totalling $6 over the six months have occurred due to the same circumstances, but I have not worried about calling to have them reversed because it would cost me more in a phone call. So I just let them go. I may have fallen behind for a week due to being ill, but I have always caught up immediately and then some. I have always used my loan as a savings plan, I like to pay as much as possible onto the loan and redraw if I need access to funds.  
+I hope you are happy with my explanation, and hope to be a new customer in the near future. Thank you for your time.  
+Yours Thankfully 
+Elizabeth Nahas 
+On 13 October 2006, Mr Cahill wrote to Mr Boulden in the following terms: 
+Here is that loan I discussed with you earlier this week confirming the quick settlement.  
+Let me know your thoughts on how quick we can move on it - I should have the val today or Monday. 
+The "val" referred to in this communication was the valuation on Mrs Nahas' property that Mr Cahill had organised prior to his interview with Mr Nahas. 
+The documents that Mr Cahill provided with this letter included a "Summary of Loan Application"; a "Loan Submission"; a "Loan Summary Checklist"; a "Capital Trust Employment Verification"; a "Residential Loan Application Personal details (Primary Applicant)"; a "Residential Loan Application Financial Position"; "Residential Loan Application Security details - Facility - Fees & Costs"; a "Consent and Acknowledgement"; a "Loan Interview Diary" (the Diary); an "Identification Record for a Signatory to an Account 100 Point Check"; a copy of Mrs Nahas' Passport; a copy of a Certificate of Marriage; a copy of a Rate Notice, a copy of a number of payslips purporting to record Mrs Nahas' salary; and a letter from Trademark Cafe signed by Chris Tannous stating that Mrs Nahas had been employed for three years as a full-time chef at approximately 50 hours per week. 
+The Diary included a section in which the following direction to the interviewer was given: 
+Provide details which may be of interest to the bank, or any other pertinent information or any unusual circumstances obtained or observed during the loan interview. 
+In this section Mr Cahill wrote "Please See Attached Page". It is not clear to which particular "Page" in the documents forwarded to the plaintiffs Mr Cahill was referring in this section of the Diary. It may have been the letter of explanation purporting to be from Mrs Nahas dated 9 October 2006 or it may have been the "Summary of Loan Application" that was in the following terms: 
+REQUEST: 
+The client wishes to refinance the property at Lalor 
+The property's EMV is $490,000 
+The current borrowings are $212,000 
+The loan amount required is $392,000 
+The LVR Sought is 80% 
+The additional funds will be used for future investment purposes 
+The existing fund that is Homeside Limited 
+The product is VRAFIG 
+The interest rate is 7.35% pa Variable 
+AN URGENT APPROVAL IS REQUIRED  
+BACKGROUND: 
+Elizabeth works as the Head Chef at Trademark Cafe in Clifton Hill 
+Her annual income is $77,000 pa 
+She has been employed there for 3 years 
+Elizabeth is married to Abe Nahas. Currently the title is in the name of
+Elizabeth Zoukas so the application will fall under the same name: although her ID is in the name of Nahas. A stat dec will be provided to confirm she is
+One and the same person.  
+CONDITIONS: 
+Please approve the loan subject to the following conditions:  
+Valuation Report 
+Stat Dec confirming the applicant is of the same person accompanied by certified ID/ 
+On 16 October 2006, an employee of the plaintiffs, Grace Fong, wrote to Mr Cahill acknowledging the loan application and advising that, "We will assess the loan and get back to you with a response". There was also a request for Mr Cahill to load the application onto the software that the plaintiffs provided to Franchisees. On the same day, Mr Cahill wrote to Ms Fong asking her to "express" the application and advising that he had spoken to Mr Boulden about the urgency of the matter as they were competing against Adelaide Bank for the mortgage. Mr Cahill advised Ms Fong that he had received verbal notification that the valuation was $450,000 and that: 
+The client still wishes to proceed. The application is to be $405,000 which is %. The LMI is to be capitalised into the loan with Interest Only repayments aligned.  
+I will send a serviceability sheet forward as well as amended product document. 
+The defendant claims that the contents of the Diary give rise to a claim that the plaintiffs knew that Mrs Nahas had not been interviewed by Darranda and proceeded with the lodgement of the application forms with the funder without requiring Darranda to interview Mrs Nahas thereby acquiescing in Darranda's breach in respect of which the plaintiff's are now unable to proceed against Thompson for an indemnity for loss suffered by reason of having to indemnify AMS/AFIG. 
+Pleadings 
+On 22 January 2009, the proceedings were commenced in the District Court of New South Wales by CTM and CTF against three defendants, Darranda, Thompson and Kevin John Payne, the principal of Darranda. The plaintiffs sought damages for negligence and an order against Thompson and Payne for indemnity in an amount equal to the damages for negligence awarded against Darranda. The negligence alleged was, inter alia , the failure to interview Mrs Nahas. 
+On 16 September 2011, the parties consented to orders transferring the District Court proceedings to the Commercial List of this Division. The plaintiffs were granted leave to file and serve an Amended Statement of Claim on or before 23 September 2011 ("limited to making a claim for a declaration"). The Commercial List Judge set the proceedings down for hearing for four days commencing on 6 February 2012. The Court noted that on 2 September 2011, orders were made in the District Court in which Thompson had been ordered to provide security for Darranda's costs in respect of the Cross-Claim brought by Thompson against Darranda in the amount of $85,185 with the Cross-Claim being stayed until that security was provided. 
+Thompson's Cross-Claim against Darranda claimed indemnity in respect of any liability that Thompson might be found to have to the plaintiffs in reliance on a contractual indemnity given by Darranda to CTF. Darranda filed a Motion seeking the dismissal of that Cross-Claim for Thompson's failure to provide the security. The Cross-Claim was dismissed with costs on 2 November 2011: CT Money Pty Ltd & Ors versus GJ & SG Thompson Pty Limited & Anor [[2011] NSWSC 1468.]
+On 16 December 2011, the plaintiffs filed a Further Amended Statement of Claim (SOC). It was not limited in the way ordered by the List Judge to seeking a declaration, however, the defendant raised no objection. The SOC joined CTL as the third plaintiff and removed Darranda and Payne as defendants because the plaintiffs settled their proceedings with those parties. That left Thompson as the sole defendant. 
+Put shortly, the SOC included a claim for an indemnity from Thompson based on the contention that Darranda's liabilities and entitlements in respect of the Nahas loan were assigned to Thompson and a claim for damages based on Darranda's breach of its duty of care to CTF and/or CTM. 
+On 2 February 2012, Thompson filed its Defence to the SOC. Thompson denied liability generally and referred in detail to aspects of its relationship with CTF. It also raised claims under [Part 4](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/index.html#p4) of the [Civil Liability Act 2002](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/). It was alleged that the claims against it were apportionable claims and that its liability was limited to the amount reflecting that proportion of the loss or damage claimed that the Court considered just, having regard to the extent of its responsibility for that loss. 
+In dealing with the alleged proportionate liability of Darranda, Thompson repeated many of the allegations made in the plaintiffs' claims in respect of the agency between CTF and CTM in relation to the Franchise Agreement and the Correspondent Deed. It also repeated the alleged breaches of representations and warranties and the alleged indemnity between Darranda and CTM and/or CTF. Thompson repeated the plaintiffs' claim that Darranda owed a duty of care to CTF and/or CTM and claimed that Darranda had failed to make reasonable enquiries in relation to the Nahas loan in respect of the borrower's ability to repay, had failed to interview the borrower, had failed to verify the employment details, loan amount and loan purpose, and had failed to complete a record of interview form on the borrower. It alleged that, by reason of Darranda's breach of duty and breach of contract, CTF and CTM suffered loss and damage and were liable to indemnify AMS/AFIG. Finally, it alleged that Darranda is a concurrent wrongdoer. 
+There was also a pleading of proportionate liability in respect of CTM and CTF. It alleged that from 9 October 2006 to 16 October 2006, Darranda provided CTF and/or CTM with documentation in support of the Nahas loan. It also alleged that when CTF and/or CTM introduced the loan to AFIG/AMS, they were in breach of their duties under the Correspondent Deed because they " knew or ought to have known " that there had been a failure to make reasonable enquiries in relation to the borrower's ability to repay, a failure to interview the borrower, a failure to verify employment details, loan amount and loan purpose, and a failure to complete a record of interview form on the borrower. 
+It also alleged that the loss or damage suffered by CTM and/or CTF was caused by, or was contributed to by, the failure of CTM and/or CTF to take reasonable care not to cause loss or damage to themselves. The particulars of that claim include an allegation that they failed "themselves or by their agents to conduct adequate enquiries regarding the ability of the borrower to repay" the loan. There was also a claim of contributory negligence relying upon the same particulars. 
+It was these pleadings upon which the parties went to trial on 6 February 2012 and 7 February 2012 when the same counsel appearing in this application appeared for the respective parties. 
+The Trial 
+The plaintiffs read the affidavits of Peter William Frampton sworn 4 May 2011 and 2 February 2012 and that of Ronald Boulden affirmed on 5 May 2011. The defendant read paragraphs 21 and 22 of the affidavit of Geoffrey John Thompson sworn on 25 February 2011 and the whole of his affidavit of 24 August 2011. The defendant also read the affidavit of Jarrod Francis Cahill sworn 8 August 2011. 
+In opening the case, Mr Cheshire said that the plaintiffs' case was that the origination process for the loan was not followed correctly and as a result, the loan went bad and the borrower did not make the repayments (tr 1). Mr Cheshire also submitted that the default of Darranda "which caused effectively a loan to be written that shouldn't have been written and a loan which then went bad" caused a loss to the funder for which the plaintiff was then liable (tr 2). 
+Mr Cheshire identified the "first issue" as whether Darranda was in breach of its duties in the origination of the loan arising both in contract and in negligence. He identified the next issue as whether the obligation to indemnify the plaintiffs was passed from Darranda to Thompson under the Deed of Termination. Mr Cheshire identified the next issue as what has been referred to as the "lacuna argument" as to whether there was a relevant relationship between CTM and CTF. He submitted(tr 3): 
+If the claim is then decided in tort rather than contract, so even if the contractual matrix doesn't get the plaintiffs there, there is still a claim in tort. If the claim is decided in tort then proportionate liability defences will fall to be determined. 
+An issue between the parties in respect of trail commissions was dealt with pragmatically in that Mr Cheshire said that his clients accepted that if they were unable to establish an entitlement to the indemnity then the trail commissions that had been withheld by the plaintiffs must be paid to the defendant. If an entitlement to an indemnity is established then they seek a "credit" against the amount of indemnity (tr 7). 
+Mr Cheshire also indicated that other claims that had been introduced in the SOC (mistake and a claim respect of the proceedings brought by the liquidators of DC against the plaintiffs) were not being pressed. 
+During the course of Mr Cheshire's opening and, in particular, in respect of whether Darranda made reasonable enquiries of the borrower, the following exchange took place (tr 10-11): 
+HER HONOUR: Can I ask whether there is any issue about these factual matters, that is, is it suggested that the correspondent [Darranda] did make all reasonable enquiries?  
+CHESHIRE: Not from my side of the bar table.  
+HER HONOUR: No, but is it an issue? Mr O'Connor, is there any issue that the allegations or the particulars in the notice are to be proved or is it accepted that the correspondent didn't make all reasonable enquiries or did not confirm the borrowers position as stated.  
+O'CONNOR: No, the defendant's position is that we say Mr Cahill, Jarrod
+Cahill, who you will hear evidence from, who worked for Darranda, we say that he complied with everything that Darranda was required to comply with under the agreement it had with CT Franchises and that the failure of the correspondent being CT Money in its agreement with AFIG didn't have an impact on what he did or didn't do. He had a different scheme, if I could put it that way that he was required to comply with. You will see evidence that the manual that AFIG required CT Money to comply with was different, we say, to the manual that CT Franchises required Mr Jarrod Cahill to comply with. 
+After the reading of the affidavits, the first witness, interposed by consent, was Jarrod Francis Cahill, called on Monday, 6 February 2012. Mr Cahill's affidavit included reference to his meeting with Mr Nahas during which he came to understand that it was Mrs Nahas who would be applying for the loan because the security property was in her name. That affidavit included the following: 
+I do not recall Mr Nahas providing me with any documents during the meeting. However, on the loan file is a photograph of a passport and marriage certificate. Those documents, which unlike others on the file, do not have a facsimile transmission report on them. On that basis, I believe that either Mr
+Nahas or Mrs Nahas gave these documents to me in person during the course of the loan application and funding process ('the process'). Copies of these documents are annexed to this affidavit and marked 'B'.  ... 
+At some stage during the process, I met with Mr and Mrs Nahas at the
+Trademark Cafe, however, I do not recall exactly when. I cannot now recall why the meeting took place, however, I believe that it would have been in connection with the process as I did not have any other dealings with them.  ... 
+Although I do not recall Mr Nahas specifically doing so, if a client advised me that they had previously defaulted on loan repayments, it was my usual practice to ask for a written explanation of such conduct. I believe this is why I received the letter from Mrs Nahas referred to in sub-paragraph of paragraph 21 above. 
+I do not recall the circumstances in which the C&A Form was originally provided to Mr or Mrs Nahas, however, for urgent application it was my practice to provide a copy of that form at an initial meeting to get the application moving. It was also my practice to check that the signature on the
+C&A Form matched the signature on the client's identification. I do not specifically recall matching Mrs Nahas' signature on the C&A Form with the signature which appeared on her passport, however, I have no reason to believe that I departed from my usual practice.  ... 
+On or around 13 October 2006, I completed a Loan Application form on behalf of Mr Nahas, seeking a refinance loan of $392,000 using the Property as security. I sent a copy of the application to Capital Trust in Sydney on or around that date. I have not seen a complete copy of the facsimile I sent to
+Capital Trust that day, however, from my review of the files, I have collated what I believe was contained in that facsimile. A copy of that collation of material is annexed to this Affidavit and marked 'I'. 
+As part of that loan application, I completed a loan interview diary which set out the details of the meeting with Mr Nahas on 8 October 2006 (a copy of which is at page 13 of Annexure I). In that document there was a section which read " Names of customers present at interview". I intentionally left that section blank because on 8 October 2006 I had only met with Mr Nahas. Further down the document there was a section which read "
+Were all customers interviewed in person? If not - indicate who was". To that section I answered " Abe Nahas".  
+Following submission of the Nahas loan application, I did not hear from
+Capital Trust or any other party involved in the application concerning the
+Loan Interview Diary.  ... 
+On 16 October 2006, I received an email from Ms Grace Fong of Capital
+Trust in Sydney, acknowledging the loan application for Mrs Nahas. A copy of that email is annexed to this Affidavit and marked 'K'. 
+Mr O'Connor was granted leave to elicit further evidence in-chief which included the following (tr 33-34): 
+Q. Was it the case that you would be in a position where you would always meet the loan applicant in person when you took instructions? 
+A. Not always, but in the majority of cases.  ...  
+Q. Was that an unusual situation to arise where you learnt during the interview that the applicant - that is was someone else who would be applying for the loan?  
+A. Not always. There were certain situations with any application whereby the individuals on title, the person who I was interviewing at that stage may not have been aware who was on title and it was through a series of questions that led to that finding.
+Mr Cahill gave evidence of his written communication with Mr Boulden enclosing the loan application but did not recall any discussions that he may have had with Mr Boulden at the time (tr 35). Mr Cahill also gave evidence that he did not receive any further instructions from Ms Fong (an employee of the plaintiffs) in relation to providing any further documentation in relation to the loan (tr 36). 
+In cross-examination Mr Cahill accepted that he should not have answered relevant questions about whether any customers were acting under duress or other disability without speaking with Mrs Nahas. He gave the following evidence (tr 56-61): 
+Q. So do you accept that in the processing of this loan you ought to have spoken to Mrs Nahas? 
+A. According to the loan interview diary, yes.  
+Q. And the loan interview diary as you understood it set out the procedures that you had to follow, correct? 
+A. Yes.  ...  
+Q. Well you accept, do you not, that you are supposed to speak to the applicant in relation to the application process. 
+A. Yes.  
+Q. And in doing that part of your job is to ensure that the information you have been given is correct? 
+A. That's correct. 
+In re-examination Mr O'Connor took Mr Cahill to paragraph 18 of his affidavit (extracted above) and asked the following questions (tr 62): 
+Q. Mr Cahill, at paragraph 18 of your Affidavit, you say, "At some stage during the process I met with Mr and Mrs Nahas" - - 
+A. That's correct.  
+Q. -- "at the Trademark Cafe". Is it the case that you don't recall if you did in fact meet Mrs Nahas during the application process. 
+A. Not during the application process. I don't believe.  
+Q. You don't believe you met her? 
+A. No.  
+Q. You say that "at some stage during the process" - what do you mean "the process"? 
+A. So from my recollection, is that we received approval and at some stage in that process, after the approval, the mortgage documents are presented and that's when I have presented the documentation to both Mr & Mrs Nahas. 
+Without objection Mr O'Connor asked these further questions in re-examination of Mr Cahill (tr 63): 
+Q. After you submitted that form, did anybody at Capital Trust query you about the fact that you hadn't interviewed Mrs Nahas? 
+A. No, sir.  
+Q. Had someone from Capital Trust directed you to interview Mrs Nahas, what would you have done? 
+A. We would have ensured that we did it. 
+Mr Cheshire then called Mr Boulden. Mr Boulden's affidavit evidence made no mention of the Nahas loan documentation other than referring to a conversation with Darranda after AFIG made a demand on the plaintiffs. By the time the proceedings concluded on 6 February 2012, the only cross-examination of Mr Boulden in relation to Darranda and the Nahas loan was as follows (tr 72-73): 
+Q. You know it is alleged that Mr Cahill, an employee of Darranda, failed to follow certain procedures when he applied for the Nahas loan? 
+A. Yes.  
+Q. Is it the case that you are aware that the things that are alleged that Mr
+Cahill failed to carry to out were, firstly complete a record of interview with Mrs Nahas? 
+A. Correct.  
+Q. It is alleged he didn't make reasonable enquiries in relation to Mrs
+Nahas's ability to repay the loan? 
+A. Correct.  
+Q. It is further alleged he didn't confirm her telephone number? 
+A. Correct.  
+Q. It is also alleged he didn't confirm her employer's validity by ASIC search? 
+A. Correct.  
+Q. He didn't verify her employment details, the loan amount or the loan purpose? 
+A. Correct.  
+Q. So they are the things that have been alleged against Darranda effectively? 
+A. Correct. 
+At the beginning of the second day of the hearing, 7 February 2012, Mr Cheshire announced that the plaintiffs abandoned their cause of action in tort against Thompson (tr 74). There was no objection to that abandonment. 
+Mr O'Connor continued his cross-examination of Mr Boulden and relevantly asked the following questions to which no objection was taken (tr 77-79). 
+Q. So do you agree that upon somebody at Capital Trust reviewing this document it would have been clear to them that in this instance Mr Cahill had not interviewed the person who was applying for the loan. 
+A. No, I don't agree with that.  ...  
+Q. What I am putting to you is that do you agree that the loan interview diary completed by Mr Cahill indicates that he didn't interview Mrs Nahas. 
+A. No, I don't agree with that.  
+Q. Can you tell Her Honour why you say that does not indicate what I have just put to you? 
+A. Well, in a lot of circumstances where it says, "please see attached page", there would be a supporting page or other parts of the application and I am presuming that would have explained or the credit officer may have had the discussion but I wasn't privy to that conversation.  
+HER HONOUR:  
+Q. Just on the face of the document though as Mr O'Connor puts, where it says "Abe Nahas", that is an indication of who was interviewed, isn't it? 
+A. Yes.  
+Q. And what Mr O'Connor is suggesting to you is that because it is included in that little box, the answer to the question is irresistibly, "no, but by the way Abe Nahas was interviewed" do you not agree with that? 
+A. Yes, I do agree with that.  
+O'CONNOR:  
+Q. Do you agree there is nothing in that document that suggests Mr Cahill interviewed Mrs Nahas? 
+A. That's only one page of the document.  
+HER HONOUR:  
+Q. You are just being asked about the document? 
+A. On that page, correct. 
+Mr O'Connor cross-examined Mr Boulden further as follows (tr 80-81): 
+Q. As far as you know following the submission of the application by Mr Cahill on 13 October 2006 you are not aware of any directions being given to Mr
+Cahill to interview Mrs Nahas personally? 
+A. I'm not aware.  
+Q. Do you agree that if Capital Trust was aware that Mr Cahill had not personally interviewed Mrs Nahas that CT Money was in breach of the AFIG
+Operation Manual?  
+OBJECTION. REJECTED.  
+Q. In circumstances where Capital Trust were aware that an applicant had not been interviewed, if CT Money had given certification to AFIG that the AFIG operations manual had been complied with you would agree that certification would be incorrect? 
+A. Sorry, I don't understand the question  
+Q. What I am putting to you is if Capital Trust or CT Money was aware an applicant had not been interviewed in those circumstances, if they gave certification to AFIG that the Operations Manual that operated under the AFIG correspondent deed had been complied with you would agree that certification was incorrect. 
+A. No. The loan would never have been certified because you would never put a loan that the applicant had not been interviewed.  
+HER HONOUR:  
+Q. Pause there: What Mr O'Connor is putting to you is do you agree with the proposition that if it was necessary to interview the person face to face but that the certification said that the manual had been complied with when the person had not been interviewed, would you agree that the certification that the manual had been complied with was incorrect? 
+A. Yes.  
+O'CONNOR  
+Q. Do you accept that Mrs Nahas was not interviewed in respect to this loan? 
+A. I believe, yes.  
+Q. Do you therefore agree that the certification given to AFIG was incorrect. 
+A. Yes.  
+Q. If AFIG didn't receive certification could a loan be approved? 
+A. No.  
+Q. So, if AFIG hadn't received certification in this instance on 18 October , you agree that AFIG wouldn't approve the Nahas loan? 
+A. Yes, I agree.  
+Q. So what you are saying in another way of putting it is if you had informed
+AFIG Mrs Nahas had not been interviewed you agree AFIG would not have approved her loan. 
+A. Yes, I agree.
+Mr Boulden accepted in further cross-examination that two employees who were credit officers with the plaintiff, Grace Fong and Tam Ngo, had only recently joined the credit team (tr 82). He was referred to his statement made to the Police during a subsequent criminal investigation into the loan in which he said that had the plaintiffs been aware that Mrs Nahas had children it would have been a factor that may have caused the loan not to be approved. He was then cross-examined as follows (tr 86-87). 
+Q. Do you agree that if Capital Trust had directed Mr Cahill to interview Ms
+Nahas he may have been able to determine whether or not she in fact spoke
+English. 
+A. Yes, we presume he didn't interview her.  
+Q. I am asking my question and answer that. If Capital Trust, we know Mr
+Cahill didn't interview her? 
+A. Yes.  
+Q. What I am putting to you is that if Capital Trust had directed him to interview Mrs Nahas do you agree that both Mr Cahill and Capital Trust could have determined whether or not she spoke English. 
+A. Yes.  
+Q. And do you agree Mr Cahill could have determined from interviewing her possibly whether or not she had dependants. 
+A. Yes.  
+Q. And he could have asked further questions about the nature of her employment and her income? 
+A. Yes. 
+Peter William Frampton then gave evidence. His affidavit of 4 May 2011 made no mention of the detail of the Nahas loan. His affidavit of 2 February 2012 addressed Mr Cahill's affidavit and included evidence that if the information supplied by Darranda disclosed that Mrs Nahas was in fact not employed and had four dependent children (as opposed to being employed with no dependent children as described in the application) the application would not have been approved. Mr Frampton made no mention in his affidavit of the absence of an interview with Mrs Nahas. 
+Mr Frampton was cross-examined about the Diary without objection as follows (tr 97-100): 
+Q. If I could refer you to the document. There is a box on the left-hand side, at the top of the left hand column, above which are the words, "Name of customers present at interview"? 
+A. Yes.  
+Q. Do you see how that is left blank? 
+A. Yes.  
+Q. And below that there is another box above which are the words "location of interview"? 
+A. Yes.  
+Q. And under that there is another box above which are the words "Were all customers interviewed in person? If not, indicate who was", do you see that? 
+A. Yes.  
+Q. Was it a procedure accepted by Capital Trust in October 2006 that is wasn't necessary to interview the loan applicant. 
+A. No.  ...  
+Q. Was it a requirement of CT Franchises that a franchisee had to ensure that the loan applicant was interviewed? 
+A. It was a requirement of the CT Group that the loan interview diary was completed, or the loan interview was to take place, yes.  
+Q. And that is a loan interview between the applicant - - 
+A. Yes.  
+Q. - - and the person for the franchisee - - 
+A. Yes.  
+Q. - - Who was completing the application form? 
+A. Yes.  
+Q. So why would you then insert in the loan interview diary the question, "Were all customers interviewed in person? If not, indicate who was" if the customer had to be interviewed in person. 
+A. Because this was - there may be a subsequent interview after this to complete that. They were required to do it. This was actually to alert somebody that they weren't all interviewed in person.  
+Q. So you agree that the words "Abe Nahas" are written in the box? 
+A. Yes.  
+Q. And do you agree that if the loan was for Elizabeth Nahas, then the insertion of the words "Abe Nahas" by Mr Cahill - - 
+A. Yes.  
+Q. - - informed Capital Trust that he hadn't actually interviewed Elizabeth
+Nahas. 
+A. The only reason I hesitate there, it says who he interviewed at this particular date on the 13 th of the 10 th . Yes.  
+Q. Thank you. So you agree - - 
+A. It tells me who he did interview. It doesn't tell me who he didn't interview.  
+Q. I accept that. It is not telling you that he did interview Elizabeth Nahas? 
+A. No, it's not, although there is a reference to an attached page which I don't think that appears to be here.  
+Q. No. I am just talking about the document we are looking at here? 
+A. Fine, ok. I am just reading that on the right hand side of this document.  
+Q. That is ok. That document doesn't tell us anything about Elizabeth Nahas being interviewed. 
+A. No.  
+Q. If on that information contained in that loan interview diary indicates that Mrs Nahas hadn't been interviewed? 
+A. Yes.  
+Q. You would expect that Capital Trust or someone from Capital Trust would have subsequently directed Mr Cahill to interview her? 
+A. Yes.  ...  
+Q. If nobody at Capital Trust directed Mr Cahill to interview Mrs Nahas after they received the application form, do you agree that the AFIG operations manual would not have been complied with? 
+A. No.  
+Q. Doesn't that operations manual require the applicant to be interviewed? 
+A. Yes.  
+Q. So if you accept that nobody at Capital Trust directed Mr Cahill to interview Mrs Nahas wouldn't the conclusion be that the AFIG operations manual hasn't been complied with?  
+OBJECTION  
+A. I don't think so, no  
+REJECTED  
+Q. You have accepted the operations manual between AFIG and CT Money required the applicant to be interviewed? 
+A. Yes.  
+Q. What I am putting to you is that if Mrs Nahas wasn't interviewed the AFIG operations manual had not been complied with. 
+A. Yes.  
+Q. As you have said before you played no role in the management of this application form personally as far as you are aware. 
+A. Not in this specific application, no. 
+Mr Frampton was cross-examined in relation to the certifications of compliance that were given by CTM to AFIG and accepted that if no one had interviewed Mrs Nahas the AFIG Operations Manual would not have been complied with and the certification would be incorrect or inaccurate (tr 101-102). 
+The plaintiff did not require Mr Thompson for cross-examination. 
+It was not until final oral submissions that any mention was made of acquiescence (tr 155-156). Mr Cheshire responded to Mr O'Connor's submission by indicating that the defendant had a "fundamental problem" in that such a defence was not pleaded. Mr Cheshire continued (tr 161): 
+CHESHIRE: The only pleading as to fault on the basis of the plaintiffs is in the tort claim, proportionate liability and contributory negligence. I had not come here yesterday to meet a claim on the basis that somehow the claim based on an indemnity was defeated by some acquiescence. In my submission the defendant cannot seek to rely upon that at this stage. 
+Mr Cheshire went on to indicate that had the matter been raised he would have called witnesses involved in the loan application process and did not do so because it was not pleaded. Mr Cheshire also submitted that in any event there was no evidence to prove that anyone in the plaintiffs' employment was aware of the deficiency in the application process. 
+At the conclusion of the submissions Mr O'Connor accepted that the defendant had not pleaded acquiescence and that if it wished to plead it leave would have to be sought to amend the Defence. The defendant was given an opportunity to consider the position overnight. 
+Application to Amend 
+On 8 February 2012, the defendant filed a Notice of Motion (amended orally) seeking an Order under [s 64(1)(b)](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/s64.html) of the [Civil Procedure Act 2005](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/) for leave to amend the Defence. The proposed amendment is as follows: 
+The defendant ... says further that if Darranda is found to have breached the Darranda Franchise Agreement, Darranda is not liable to indemnify CTM and/or CTF for any loss suffered by CTM and or CTF as a result of that breach on the basis that CTF and or CTM acquiesced in Darranda's breach of the
+Darranda Franchise Agreement.  
+Particulars  
+Pursuant to the Darranda Franchise Agreement, Darranda was required to meet and interview each loan applicant, including Mrs Nahas, for the purpose of obtaining information to support a loan application.  
+CTF and or CTM were or should have been aware that pursuant to the
+Darranda Franchise Agreement, Darranda was required to meet and interview each loan applicant, including Mrs Nahas, for the purpose of obtaining information to support a loan application.  
+CTF and or CTM provided Darranda with loan application documents to be completed by Darranda which allowed Darranda to confirm whether a person other [than] a loan applicant, including Mrs Nahas, had been interviewed at the time
+Darranda obtained the information to support the loan.  
+The Loan Application submitted by Mr Cahill to CTF and or CTM on 13
+October 2006 indicated that he had interviewed Abe Nahas and not Mrs Nahas, the loan applicant.  
+As the Loan Application submitted by Mr CTF and or CTM on 13 October 2006 indicated that he had interviewed Abe Nahas, CTF and or CTM were aware, or should have been aware, that Mr Cahill did not interview Mrs Nahas and that therefore Darranda had breached the Darranda Franchise Agreement.  
+CTF and or CTM failed to request that Mr Cahill confirm whether he had interviewed Mrs Nahas in circumstances where the Loan Application submitted by
+Mr Cahill to CTF and or CTM on 13 October 2006 indicated that he had interviewed Abe Nahas.  
+CTF and or CTM failed to direct Mr Cahill to interview Mrs Nahas in circumstances where the Loan Application submitted by Darranda by CTF and or
+CTM on 13 October 2006 indicated that Mr Cahill had interviewed Abe Nahas.  
+In reliance upon CTF's and or CTM's failure to direct Mr Cahill to interview Mrs Nahas, Darranda and or Mr Cahill failed to rectify Darranda's breach of the Darranda Franchise Agreement.  ... 
+The defendant ... says further that the defendant is not liable to indemnify CTM and or CTF pursuant to the Termination Deed on the grounds that
+Darranda is not liable to indemnify CTM and or CTF in respect of its purported breach of the Darranda Franchise Agreement.  
+Particulars  
+The defendant relies on the Termination Deed for its full terms and effect.  
+The defendant repeats paragraph 37 above and says that as Darranda is not liable to indemnify CTF and/or CTM, the defendant is not liable to indemnify
+CTF and/or CTM pursuant to the Termination Deed. 
+In support of the Notice of Motion the defendant relied upon the affidavit of its solicitor, Patrick Joseph Wiggins sworn on 8 February 2012. That affidavit referred to the filing of the SOC on 16 December 2011 and the Defence on 2 February 2012 and included the following: 
+The defence filed to the Further Amended Statement of Claim provided particulars of the plaintiff's alleged failure to ensure that Mrs Nahas was interviewed by Darranda Pty Ltd during the loan application process. In this regard I refer to paragraphs 87 to 105 of the defence of the Further Amended
+Statement of Claim. 
+In his affidavit dated 8 August 2011 Jarrod Cahill refers to his failure to interview Mrs Nahas and his assertion that he was never instructed by the plaintiffs to interview Mrs Nahas. I refer to paragraphs 30 to 32 of Mr
+Cahill's affidavit. 
+As Mr Jarrod was employed by Darranda, formerly the first defendant in the proceedings, Mr Cahill was subpoenaed by the defendant to give evidence at the hearing. Mr Cahill lives in Melbourne. The first time the defendant's solicitors and counsel were able to meet Mr Cahill in conference to discuss his evidence was on Friday, 3 February 2012. 
+The proposed amendments to the defence to the Further Amended Statement of
+Claim are based on Mr Cahill's evidence that he was not at any time directed by the plaintiffs to interview Mrs Nahas and the evidence he gave during the hearing. During the hearing Mr Cahill gave further evidence confirming that had he been directed to interview Mrs Nahas, he would have done so. Based on that further evidence, the defence of acquiescence is complete in that
+Darranda would not have maintained its breach of the Darranda Franchise
+Agreement had the plaintiffs directed Mr Cahill to interview Mrs Nahas. 
+Paragraphs 87 to 105 of the Defence referred to in paragraph 6 of Mr Wiggins' affidavit pleaded the proportionate liability claims and the contributory negligence claims against CTM and CTF. 
+Acquiescence 
+It is said that, "there is in fact no such thing as an equitable 'defence'. Rather, there are factors or circumstances which militate against the court exercising its discretion to grant equitable relief": Young, Croft, Smith, On Equity , (Lawbook Company, 2009), 1157 [17.10]. However acquiescence has been described as a "defensive equity": Commonwealth versus Verwayen (1990) 170 CLR 394, 435 per Deane J. Learned authors of texts on Equity have sought to distinguish acquiescence from estoppel by conduct, waiver and laches: R Meagher, D Heydon, M Leeming, Meagher Gummow and Lehane's Equity Doctrines and Remedies (LexisNexis Butterworths, 4 th ed, 2002) , C hapter 36; Young, Croft, Smith, On Equity (Lawbook Company, 2009), Chapter 17 (see also KR Handley, Estoppel by Conduct and Election Thomson Sweet & Maxwell, 2006) p 195-6 [12-007]). Judges have also grappled with the "chameleon-like" quality of the word "acquiescence" when used as a companion to "laches": Orr versus Ford <case>; [(1989) 167 CLR 316] at 337 per Deane J. 
+In Cashman versus 7 North Golden Gate Mining Co (1897) 7 QLJ 152, Sir Samuel Griffith, after observing that the term "acquiescence" was not a term of art, described two senses in which the term was used, the second of which is relevant to the present case and was described as follows at 154: 
+It may be fairly applied to a man who, seeing an act about to be done to his prejudice, stands by and does not object to it. He may be very properly said to be acquiescing in that act being done. ... A man who stands by and sees an act about to be done which will be injurious to himself, and makes no objection, cannot complain of that act as a wrong at all. He never has any right of action, because he stands by and allows the act to be done. 
+In Bradmount Investments Limited versus Williams de Broe PLC & Ors  <case>, Mr Justice David Richards was dealing with claims for breach of contract and the tort of inducing the alleged breach of contract in connection with the flotation of the second defendant, PM Onboard Limited (PMO) on the Alternative Investment Market (AIM) of the London Stock Exchange in 2001-2002. AIM is a market designed particularly for shares in small new companies seeking to raise capital or to have a secondary market for their shares that do not qualify for a full listing on the Official List. A pre-condition to admission to AIM is the appointment of a "Nominated Adviser" that must be a member firm of the London Stock Exchange authorised under the relevant legislation. The first defendant, Williams de Broe PLC (WdB), is on the register of approved advises and was the Nominated Adviser and broker for the flotation of PMO. WdB commenced acting for PMO in the later part of 2001. It was not in issue that the plaintiff, Bradmount Investments Limited , was entitled to object to Wdb acting on the transaction. His Lordship said: 
+Looking at it as a question of fact rather than legal analysis, this is about as clear a case of acquiescence as can be imagined. Bradmount knew of its legal right to refuse consent to WdB acting for PMO, but instead of exercising or threatening to exercise that right, it allowed WdB to carry out a substantial amount of work, both before and after PMO signed the letter of engagement. It allowed WdB to become and remain contractually bound to provide its services to PMO for the flotation and it allowed PMO to engage WdB rather than other brokers. WdB acted to their detriment, both because they undertook a substantial amount of work in anticipation of a contractual appointment (subject of course, to the risk that pre-marketing would produce a very negative reaction or that Mr Mountain would decide not to proceed) and because, by contracting with PMO, they exposed themselves to the risk of claims from PMO if they were later prevented by Bradmount from performing the contract. 
+Acquiescence by A in the conduct of B which is in breach of B's contractual duties to A will in appropriate circumstances preclude A from later relying on the conduct as a breach of contract and from claiming damages or other remedies in respect of it. This equitable doctrine is stated as follow in Halsbury's Laws of England (4 th ed. reissue 2003) at para 909:  "The term 'acquiescence' is, however, properly used where a person having a right, and seeing another person about to commit, or in the course of committing, an act infringing that right, stands by in such a manner as really to induce the person committing the act, and who might otherwise have abstained from it, to believe that he assents to its being committed; a person so standing by cannot afterwards be heard to complain of the act. In that sense the doctrine of acquiescence may be defined as [acquiescence] under such circumstances that assent may be reasonably inferred from it, and is no more than an instance of the law of estoppel by words or conduct, the principle of estoppel by representation applying both at law and in equity, although its application to acquiescence is equitable."  
+As stated in the above extract acquiescence is an aspect of estoppel by representation: see also Johnson versus Gore Wood & Co [[2002] 2 AC 1] at 40 per Lord
+Goff of Chieveley. 
+In my judgment all the elements necessary for the application of the doctrine of acquiescence are present in this case: conduct by WdB contrary to the terms of the August agreement, knowledge of such conduct by Bradmount, the absence of any objection from Bradmount and reliance by WdB to its detriment.
+As to reliance, there is the unusual feature in this case that those responsible for WdB's conduct, the Leeds office, did not know of the August agreement. There was therefore no conscious reliance on Bradmount's acquiescence but reliance need not be conscious: it is enough that, but for
+Bradmount's silence and acquiescence, WdB would have acted differently. 
+Applying this analysis to the present case, the defendant contends that Darranda was in breach of its contract with CTF by failing to interview the applicant for the loan. It alleges that once the loan documentation was submitted, CTF and/or CTM knew from its contents that Mrs Nahas had not been interviewed and failed to request Darranda to rectify its breach. The defendant contends that with actual knowledge of the breach, CTF and/or CTM progressed the application for a loan and thus acquiesced in Darranda's breach precluding CTF and/or CTM from relying upon Darranda's breach. 
+Although the proposed amendment refers to the plaintiffs' constructive knowledge ("ought to have known") of Darranda's breach, Mr O'Connor accepted during submissions on the application that actual knowledge of the breach is an essential element of acquiescence. It is not in issue that the plaintiffs had knowledge of their rights to require Darranda to interview the applicant, however there is an issue as to whether the plaintiffs had actual knowledge of Darranda's breach at the time they caused the loan application to be processed and approved. 
+Explanation 
+The plaintiffs submitted that there has been no adequate explanation for the delay in seeking to amend the Defence as is required particularly in matters where a substantive amendment is sought so late: Aon Risk Services Australia Limited versus Australian National University  <case> at <case> per French CJ, at [103], [106], [114] per Gummow, Hayne, Crennan, Kiefel and Bell JJ and at [152] per Heydon J 
+Mr Cahill's affidavit was sworn on 8 August 2011 and it is apparent that the parties to the litigation had a copy of that affidavit from about that time. It is also clear that the plaintiffs settled their cases against Darranda and Mr Payne some time before the filing of the SOC on 16 December 2011. If the defendant's lawyers were unable to interview Mr Cahill prior to that time because Darranda was still a party to the proceedings, certainly from 16 December 2011 when it was clear that Darranda was no longer a party, they could have conferred with Mr Cahill, if he had been willing to do so. 
+Mr Wiggins' evidence that the first time the defendant's solicitors and counsel "were able to meet" Mr Cahill was on 3 February 2012 was not challenged. However, there was no explanation in the affidavit as to why a meeting could not have taken place prior to that date. In any event, the meeting took place on Friday 3 February 2012 and the trial commenced on Monday 6 February 2012. 
+The proportionate liability claims and the contributory negligence claims in the Defence filed on 2 February 2012, the day before the meeting with Mr Cahill, contained the claim that the plaintiffs "knew or ought to have known" of Darranda's failure, inter alia, to interview Mrs Nahas (paragraphs 105 and 109). However there was no explanation by Mr Wiggins as to whether there had been any consideration given to the 'defence' of acquiescence at any stage. Paragraph 9 of Mr Wiggins' affidavit seems to suggest that the defendant's lawyers were aware prior to the trial that the plaintiffs had not directed Mr Cahill to interview Mrs Nahas. It is also apparent from that paragraph that, prior to the trial, the defendant's lawyers were aware that if the plaintiffs had directed Mr Cahill to interview Mrs Nahas he would have done so. That much is clear from Mr Wiggins' claim that Mr Cahill gave further evidence "confirming" that position. The concluding sentence of paragraph 9, although referring to Mr Wiggins' understanding of some elements of acquiescence, is silent as to when he first thought about the matter. 
+If Mr Cahill had informed the defendant's lawyers in conference that he would have interviewed Mrs Nahas had the plaintiffs requested him to do so (a matter that Mr Wiggins thought made the defence "complete") it would have been appropriate to raise the defence at that time. Alternatively, once the evidence was given on Monday 6 February 2012, it was appropriate to raise the defence at that time and prior to the plaintiffs' witnesses going into the witness box. 
+In the majority of cases, applications for amendment occur prior to trial and sometimes very close to the time of the trial or even during the trial. This is a substantive defence and Mr O'Connor submitted that it is a "complete answer" to the plaintiffs' claim and should be allowed: Clough and Rogers versus Frog [(1974) 4 ALR 615] at 618. That is all the more reason why a proper explanation for the delay should have been given. It was not. That is a significant matter weighing against the exercise of my discretion to allow the amendment. 
+Fair Trial 
+Parties to litigation in the courts must feel confident that they will have a fair trial. That is an essential aspect to the maintenance of confidence in the administration of justice. The trial of this matter has concluded. The plaintiffs' witnesses have been cross-examined on the claims that were extant on the pleadings. 
+It is true that the proportionate liability claim included a contention that the plaintiffs "knew or ought to have known" of Darranda's breach. One of the paragraphs that remains within the SOC after the plaintiffs abandoned their cause of action in tort is a claim in paragraph 25 that there were implied terms in the Franchise Agreement (in order to give business efficacy thereto) that included a term that Darranda would carry out its business pursuant to the Franchise Agreement "with reasonable care and skill". There are also claims in paragraphs 36 and 37 of the SOC that the plaintiffs relied upon Darranda's purported compliance with the Franchise Agreement in introducing the Nahas loan to AMS/AFIG and that Darranda had breached the implied terms set out in paragraph 25 of the SOC. Therefore the plaintiffs maintain a claim in contract that they suffered loss by reason of the defendant's breach of the implied term in the Franchise Agreement in that it failed to carry out its business with "reasonable care". 
+An "apportionable claim" is defined in the [Civil Liability Act 2002](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/) relevantly as a "claim for economic loss or damage to property in an action for damages (whether in contract, tort or otherwise) arising from a failure to take reasonable care" [(s 34(1)(a)).](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/s34.html) There is a question as to whether a claim for an indemnity falls within a claim for economic loss. Although the parties proceeded on the basis that the claims of proportionate liability were no longer extant by reason of the plaintiffs' abandonment of the cause of action in tort, this may need further reflection. 
+In any event, Mr Cheshire drew the distinction between the claims for proportionate liability and the claim in acquiescence that requires the establishment of actual knowledge. He submitted that the issue of knowledge in the proportionate liability claims was raised in a very different context to a claim of acquiescence. It was submitted that the plaintiffs could have met a claim of actual knowledge with the defence that, for instance, "we ought to have known but the fact is we did not know". He submitted that it is very significant that even though the factual issue was raised in the proportionate liability claim, the fact that the 'defence' was not raised until the end of the trial meant that the plaintiffs had not considered and had not needed to consider, whether they actually knew of the breach and whether they could put on evidence to defend such a claim. 
+Mr Cheshire submitted that had he known that the defendant was alleging actual knowledge in the plaintiff and the defendant's reliance on the plaintiffs' inactivity in the face of that knowledge, his forensic decisions may have been different. Apart from considering the calling of additional evidence, counsel may have and probably would have taken a different course in objecting to some of the questions that were put to the plaintiffs' witnesses. 
+There is a relevant difference between the allegation of knowledge in the proportionate liability claim and actual knowledge as an element of the proposed acquiescence 'defence'. In the former there is a claim that the plaintiffs are proportionately liable with the defendant. In the latter there is a claim that the defendant is not liable at all. It is understandable that in respect of the former claim the plaintiffs chose not to investigate the claim of actual knowledge of the breach. That is so because the evidence upon which the defendant relied was apparently aimed at proof of constructive knowledge with the contention that from the contents of the Diary the plaintiffs ought to have known that Darranda was in breach of its obligations to CTF and/or CTM. In fact on the first day of the hearing even this was not clear because the defendant contended that Darranda was not in breach of its obligations because the "scheme" or manual with which Darranda had to comply was different to that with which CTM had to comply (tr 11). The plaintiffs were entitled to make the forensic judgment not to investigate their actual knowledge in light of the case that had been pleaded against them. 
+It is not appropriate to stand by awaiting evidence that may "complete" a proposed 'defence' and then not raise it or put the opponent on notice before cross-examining the opponent's witnesses. Trial by ambush has been abolished in this State for some years: Nowlan versus Marson Transport Pty Ltd <case>; [(2001) 53 NSWLR 116] . 
+Doomed to fail 
+Mr O'Connor indicated that should the defendant be allowed to amend the Defence to include a claim of acquiescence, the defendant did not wish to call any further evidence. The plaintiffs submitted that in those circumstances it is appropriate to decide whether the defendant's claim of acquiescence has any prospect of success. It was submitted that it does not and that this is another basis for refusing the amendment. 
+If the claim in acquiescence were allowed, the defendant must prove that the plaintiffs had knowledge of Darranda's breach. The pivotal document relied upon by the defendant is the Diary. It is true that the left-hand side of the document suggests that Mrs Nahas was not interviewed. However, the right-hand side of the Diary required the Franchisee to provide details including any "unusual circumstances obtained or observed during the loan interview". Mr Cahill's entry on that portion of the Diary alerted the reader to "Please See Attached Page". Irrespective of whether the so-called "Attached Page" was the letter of explanation purportedly written by Mrs Nahas or the Summary of Loan Application document, a reading of those documents in context leads to the reasonable conclusion that at some stage the applicant for the loan was interviewed. 
+Although Mr O'Connor submitted that Mr Frampton's evidence supported the defendant's claim that the plaintiffs had actual knowledge of the breach, I am not satisfied that this is so. Mr Frampton admitted that the purpose of the left-hand side of the Diary relied upon by the defendant was "actually to alert somebody that they weren't all interviewed in person" (tr 98). However, when viewed with the whole of the Diary and the attached pages, the reasonable conclusion is that Mrs Nahas was spoken to and that she provided all the detail to Mr Cahill, particularly in the letter of explanation and the Summary. The other supporting documentation also supports that conclusion, including payslips and certification by Mr Cahill that he had verified Mrs Nahas' employment together with a letter from the employer. 
+On the assumption that Darranda was in breach of its obligations to CTF, I am not satisfied that the defendant could establish knowledge in the plaintiffs of Darranda's breach. In all the circumstances, I am satisfied the amendment should not be allowed. 
+The defendant's application to amend its Defence is dismissed with costs. *  * * * 

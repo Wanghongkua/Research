@@ -1,0 +1,51 @@
+
+
+Mirus Australia Pty Ltd versus Gage [2016] NSWSC 1519 (28 October 2016) 
+Last Updated: 28 October 2016 
+Supreme Court 
+New South Wales  
+Decision: 
+First defendant's notice of motion of 29 September 2016 be dismissed with costs  
+Catchwords: 
+PRACTICE AND PROCEDURE - defendant facing motion for contempt for breach of court orders - allegation that defendant deleted documents from his Google
+Drive account in breach of such orders - whether defendant's computer expert should be given access to plaintiff's Google Drive account for purpose of preparing expert report to answer that charge - whether evidence justifies making such an order  
+JUDGMENT
+The first defendant, Mr Nicholas Gage, seeks an order compelling the plaintiff, Mirus Australia Pty Limited, to give his forensic computer expert, Mr Nigel Carson, the log-in details of Mirus's Google Drive account so that Mr Carson can carry out investigations of the kind I describe below.
+On the basis of the evidence thus far adduced in support of that application, I am not prepared to make the order sought.
+Mirus provides advisory and information technology services to residential aged care operators.
+Mr Gage was, until 7 August 2015, employed by Mirus as Director of Technology and Innovation.
+On 7 September 2015, Mirus commenced proceedings against Mr Gage alleging, amongst other things, that when Mr Gage left Mirus's employ, he removed various electronic files.
+Relevantly to the application now before me, Mirus also alleges that between 8 and 11 September 2015, Mr Gage deleted or caused to be deleted from his Google Drive account two folders of electronic documents ("the Documents") in breach of an order made by Hallen J on 8 September 2015.
+By notice of motion filed on 2 August 2016, Mirus seeks an order that Mr Gage be dealt with for contempt arising from that alleged conduct. That notice of motion attaches a Statement of Charge which alleges, relevantly, that between 8 and 11 September 2015, Mr Gage deleted the Documents from his Google Drive account in contravention of Hallen J's order of 8 September 2015. That motion is yet to be heard.
+Mirus proposes to prove that Mr Gage deleted the Documents by calling an expert, Mr Michael Khoury to prove that: * (a) on 8 September 2015 Mr Gage's Acer laptop was connected to the internet and synchronised (or "synced" to adopt the argot used in this area) with Mr Gage's Google Drive account; * (b) the "locally cached" copy of Mr Gage's Google Drive account on the laptop as at 8 September 2015 contained the Documents; but * (c) no copy of the Documents was on Mr Gage's Google Drive account three days later, on 11 September 2015.
+The thesis of Mirus's case is that the copy of Mr Gage's Google Drive account that was stored on the laptop on 8 September 2015 reflects the true state of Mr Gage's Google Drive account that day, and the fact that the Documents were then on that stored copy, but not on Mr Gage's Google Drive account three days later, shows that Mr Gage must have, in the meantime, deleted them.
+Mr Gage denies that he deleted the Documents and wishes to challenge Mr Khoury's conclusion that the copy of Mr Gage's Google Drive account on the laptop as at 8 September 2015 represents the state of Mr Gage's Google Drive account on that day.
+To this end, Mr Gage, through his solicitors, has retained the services of Mr Carson.
+By notice of motion filed on 29 September 2016, Mr Gage seeks an order that Mirus provide to his solicitors Mirus's Google Drive account log-in details for the account "[XXX]@[XXX].com" and that his solicitors be permitted to provide those log-in details to Mr Carson so that he can access that account.
+There is no evidence before me from Mr Carson as to why he would need such access.
+The only evidence is that given on information and belief by Mr Gage's solicitor, Mr Nathan Mattock as follows: "30. I am informed by Mr Gage and verily believe that: the files and folders alleged to have been deleted or destroyed, as alleged in the Statement of Charge, namely the [Documents], originated from Mr
+Gage's Mirus Australia Google Drive account;  the [Documents] were 'shared' from Mr Gage's Mirus Australia Google
+Drive account to Mr Gage's personal Google Drive account; and  there may be forensic evidence and activity recorded in Mr Gage's Mirus
+Australia Google Drive which will be necessary for Mr Carson to access in order to address Mr Khoury's Assumptions.
+ . In order to test Mr Khoury's evidence and Mr Khoury's Assumptions, I am informed by Mr Carson and verily believe that: in addition to the images and accounts to which Mr Carson has access, he wishes to obtain access to Mr Gage's Mirus Australia Google Drive account;  in particular, Mr Carson wishes to review and compare the activity logs of Mr Gage's Mirus Australia Google Drive account to activity logs and other records contained on [the laptop], Mr Gage's personal Google Drive account and other forensic evidence, which identify the actions taken in respect of documents in this account, including when documents were created, shared and deleted.
+ . The purpose of obtaining access to this information is to test and provide an opinion on Mr Khoury's Assumptions, specifically the assumption that the locally cached files and folders stored on [the laptop] represent the content of Mr Gage's Google Drive account at about 9.30pm on 8 September 2015 and therefore that certain folders were deleted between 8 September and 11
+September 2015."
+Mr Gage's case is that the copy of Mr Gage's Google Drive account on the laptop as at 8 September 2015 did not represent the true state of that account on that day but represented the state of that account on an earlier occasion, and before his ability to "share" access to the Mirus Australia Google Drive account had been terminated.
+Mr Keizer, who appeared for Mr Gage, said: "At some stage, on Mr Gage's case, before 8 September that access was terminated so that he no longer had access to those particular documents through his personal Google Drive account."
+Mr Keizer said that Mr Carson wished to examine the activity logs on Mirus's Google Drive account and compare that activity with the activity logs on Mr Gage's Google Drive account to see when the sharing ceased or "when the shared access was terminated". Mr Keizer said "[o]n our case it happened prior to 8 September [2015]".
+I see a number of difficulties here.
+The first is that there is no evidence from Mr Carson that he has seen any evidence of "sharing" between Mr Gage's Google Drive account and Mirus's Google Drive account. The highest the evidence goes is Mr Mattock's statements, on information and belief from Mr Carson, that files or folders "can be" shared between Google Drive accounts and, on information and belief from Mr Gage, that the Documents "were 'shared'" between the two accounts.
+This may be important. The suggestion that a reason that the Documents may have been removed from Mr Gage's Google Drive account might be the termination by Mirus of "shared access" to Mirus's Google Drive account appears to be inconsistent with assertions made by Mr Gage in his defence. In his defence, Mr Gage asserts that he downloaded zip files containing the Documents to his Google Drive account, sought to delete the Documents prior to the granting of the injunction by Hallen J on 8 September 2015, but that due to his oversight the laptop "was not properly synchronised and hence the files remained available to him through this laptop".
+Further, there is no evidence from Mr Carson as to why he would need unrestricted access to Mirus's Google Drive account as opposed to access to, or copies of, the activity logs that Mr Mattock stated Mr Carson wished to review (see [14] above).
+There is a further matter.
+In argument, Mr Keizer accepted that if, as Mr Khoury has opined, the laptop synced to Mr Gage's Google Drive account on 8 September 2015 "we will have difficulties".
+In his oral submissions, Mr Keizer said that Mr Khoury had "jump[ed] to the conclusion" that the laptop had synced with Mr Gage's Google Drive account on 8 September 2015 merely because the laptop was connected to the internet and the laptop's synchronisation software was running. As I read his report, Mr Khoury has gone further and has concluded that the "Google Drive Synchronisation process initiated" on 8 September 2015, and that there was in fact a "sync".
+Mr Keizer said that "our case is that [the laptop] did not actually sync" to Mr Gage's Google Drive account on 8 September 2015, that Mr Khoury's conclusion was incorrect in that regard, and that the laptop "actually synced at some prior date at which point in time [the Documents] were still there".
+Mr Keizer said that his instructions were that Mr Carson did not need access to Mirus's activity logs to test whether the laptop had synced with Mr Gage's Google Drive account on 8 September 2015. Mr Keizer said that "[t]hat is something that can be ascertained from the laptop itself, from the activity logs on the laptop and from the personal Google Drive account".
+In those circumstances, absent evidence from Mr Carson that he proposes to contest Mr Khoury's conclusion that there was a sync on 8 September 2015, I would not be inclined to make any orders about access to Mirus's computer records.
+
+Conclusion
+For those reasons I am not prepared to make the orders sought by Mr Gage in the notice of motion of 29 September 2016, which should be dismissed with costs.
+However, as Mr Gage is facing an application that he be dealt with for contempt, I will give him an opportunity to make a further application, to be supported by evidence from Mr Carson, for access to such material in possession of Mirus as Mr Gage can show is necessary in order that justice be done.
+The question of whether Mr Gage would then have to show "exceptional circumstances" for the purposes of Practice Note SC Eq 11 can be considered if any such application is made.
+ * * * 

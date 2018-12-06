@@ -1,0 +1,489 @@
+
+
+R versus Gallagher [2001] NSWSC 462 (4 May 2001) 
+Last Updated: 7 June 2001 
+NEW SOUTH WALES SUPREME COURT 
+CITATION: R versus GALLAGHER <case> 
+CURRENT JURISDICTION: Common Law 
+FILE NUMBER(S): 70080/99 
+HEARING DATE{S): 26/03/2001, 27/03/2001, 28/03/2001, 29/03/2001, 30/03/2001, /04/2001, 02/05/2001, 04/05/2001 
+JUDGMENT DATE: 04/05/2001 
+PARTIES: 
+REGINA versus Gerard Joseph GALLAGHER 
+JUDGMENT OF: Barr J 
+LOWER COURT JURISDICTION: Not Applicable 
+LOWER COURT FILE NUMBER(S): Not Applicable 
+LOWER COURT JUDICIAL OFFICER: Not Applicable 
+COUNSEL: 
+Crown: P Barrett 
+Accused: R Greenwood QC, P Young 
+SOLICITORS: 
+Crown: S E O'Connor 
+Accused: Paton Lawyers 
+CATCHWORDS: 
+Evidence - whether evidence of DNA test results was based on the witness' specialised knowledge based on training, study and experience - Held: Yes.
+
+Evidence - whether evidence of DNA test results had substantial probative value - Held: Yes.
+
+Evidence - whether admission of evidence of DNA test results gave rise to danger of unfair prejudice to accused - Held: No.
+
+ACTS CITED: [Evidence Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ea199580/) [ss ](http://www.austlii.edu.au/au/legis/nsw/consolact/ea199580/s70.html), [79](http://www.austlii.edu.au/au/legis/nsw/consolact/ea199580/s79.html), [135](http://www.austlii.edu.au/au/legis/nsw/consolact/ea199580/s135.html), [137](http://www.austlii.edu.au/au/legis/nsw/consolact/ea199580/s137.html) 
+DECISION: 
+Evidence held admissible 
+JUDGMENT: 
+THE SUPREME COURT 
+OF NEW SOUTH WALES 
+COMMON LAW DIVISION 
+GRAHAM BARR J 
+Thursday, 7 June 2001 /99 - REGINA versus Gerard Joseph GALLAGHER 
+REASONS FOR JUDGMENT - (On objection to the tender of evidence of DNA test results.) HIS HONOUR: Objection was taken to the tender by the Crown of evidence of Mr Robert Goetz of the results of tests done on deoxyribonucleic acid (DNA) extracted from material found at the place where the deceased died within a short time after he died. On 4 May 2001 I pronounced the evidence admissible and said that I would publish my reasons in due course. These are my reasons.
+ The Crown case was that the deceased died from multiple stab wounds. Blood which must have been his was found widely distributed throughout the home unit where he was attacked and in adjacent parts of the unit building. A single
+Fila brand jogger shoe, which the Crown asserted did not belong to the deceased or to anyone else who might have resided in the unit, was found at the scene. Mr Goetz's test results showed that DNA extracted from the jogger was consistent with having come from the accused and that the probability of a chance match with the DNA of anyone other than the accused in the general population was less than one in ten billion, that is, less than one in ten thousand million. The same jogger bore blood. DNA extracted from it was consistent with having come from the deceased. The probability of a chance match with the DNA of any other person in the general community was less than one in ten billion. That DNA could not have been donated by the accused or any of the other persons known to have used the premises or to have been associated with the deceased at the time.
+ One of the deposits of blood was on a mirror on the eastern wall of the unit. Tests done on DNA extracted from a swab taken from that deposit showed that the DNA came from at least two persons. The accused and the deceased could not be excluded as contributors. All other relevant persons could.
+Assuming that the mixture was of the DNA of only two persons, the DNA was sixty-three billion times more likely to have come from the deceased and the accused than from the deceased and an unknown, unrelated individual.
+ The test results were produced using a method called the Profiler Plus system.
+ When the trial of the accused was stopped on 5 February 2001 to enable the accused to challenge the admissibility of the test results, Mr Greenwood QC, for the accused, informed the Court that it was necessary for anyone wishing to test the reliability of results produced by the Profiler Plus system to know the primer sequences. Primers are artificial lengths of DNA used to reproduce the relevant portions, or loci, of strands of DNA for testing and typing. Notwithstanding requests, it was said, the marketer of Profiler Plus,
+Applied Biosystems, had declined to make known the primer sequences it used in
+Profiler Plus.
+ At the commencement of the voir dire on 26 March 2001 Mr Greenwood submitted that the Profiler Plus system had not been shown to be reliable because it had not been the subject of an acceptable "validation exercise". An acceptable validation exercise, it was submitted, could be had only if the sequence or positioning of the primers were known. It was also submitted that it was for the Crown to show that the reliability of the Profiler Plus system was generally accepted in the scientific community. Because the Court could not be satisfied about either of those matters, it was submitted, the evidence did not have the reliability required by the New South Wales [Evidence Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) and was not admissible. Mr Greenwood submitted alternatively that if the evidence were admissible it ought to be excluded in the Court's discretion. As will appear, the final submissions put on behalf of the defence were in somewhat different terms.
+ The human genome consists of a double strand of deoxyribonucleic acid (DNA).
+Each strand comprises alternate molecules of sugar and phosphate associated with nitrogenous chemicals called bases. A unit of a sugar and a phosphate molecule and a nitrogenous base is called a nucleotide. There are four kinds of bases: adenine (A), thymine (T), cytosine (C) and guanine (G). The arrangement of bases along each sugar-phosphate strand is called the DNA sequence. The strands are joined because the bases on opposing strands pair and bond with each other. This pairing and bonding happens only in a given way, however: A and T pair only with each other and so do C and G. So a base sequence in one strand of, say, CTGT will imply a base sequence in the other of GACA. A pair of bases so joined is called, unsurprisingly, a base pair. The genome comprises about three billion (that is, three thousand million) base pairs. The nuclei of most cells in the body carry full, exact copies of the genome. So DNA may be extracted from human cells found at the scene of a crime, for example, from deposits of blood or semen.
+ The genome is organised into twenty-four distinct units called chromosomes, and the nucleus of most cells contains two sets of chromosomes, one set inherited from each parent.
+ Generally speaking base sequences vary little between individuals but researchers have identified certain sites on the linear sequence where there may be significant variation between individuals. At such sites, referred to as loci, sequences or patterns of bases repeat themselves several times, but the number of repeats may vary from individual to individual. Each locus has two alleles, one inherited from each parent. If the relevant pattern appears, say, ten times at an allele, the value ten is assigned to that allele there is said to be a ten allele at that locus. The other allele may have the same or a different value. If the two have the same value they are called homozygotes; otherwise they are called heterozygotes.
+ In order more effectively to distinguish between individuals, forensic scientists prefer to test DNA at loci at which there is a large number of possible variants. Such loci are called polymorphic or multi-allelic.
+ The phenomenon and technique of counting variously repeating base sequences at polymorphic loci is known as short tandem repeats (STR).
+ Several processes take place before DNA from a sample is finally typed or profiled and an opinion expressed about the frequency with which DNA of that type or profile occurs within the population. DNA is first extracted within the laboratory from samples provided to the technician. Since no controversy was raised about the extraction process used by Mr Goetz, it is unnecessary to say more about it.
+ DNA so extracted has to be amplified, and this is done by a technique called polymerase chain reaction (PCR). PCR is a well established technique which has been the basis of succeeding systems of DNA comparison throughout the world for a number of years. Like every other modern system, Profiler Plus uses the technique. It enables the synthesis of DNA identical to that which is required to be tested. It enables tiny specimens of DNA to be reproduced in quantities that enable simultaneous testing at several loci, as in Profiler
+Plus and other multiplex systems, that is, systems in which there is simultaneous typing of DNA at several loci.
+ The synthesis is done in the following way. The two strands of the DNA with which the scientist is concerned are chemically separated and short lengths of
+DNA called primers are used to mark the extremes or flanks of each locus to be tested. Although STR sites are highly polymorphic, the flanking sites where the primers bind have a low rate of variation between individuals. A primer may be between about twenty and fifty bases long.
+ In Profiler Plus, the primers are synthesised by Applied Biosystems and supplied as part of its test kits. Base sequences at flanking sites are known to Applied Biosystems and the primers are designed with a sequence of bases which is intended to ensure that the primers bind at those sites.
+ When the primers have bound themselves in this way, free nucleotides in the solution are allowed to bind with the bases at each locus, extending the primers and forming corresponding strands of DNA. In that way the DNA sample is amplified, or replicated, until there is enough for typing by STR technology.
+ STR technology enables the DNA amplified by PCR to be typed by means of computerised equipment. In systems like Profiler Plus, primers have a fluorescent dye which, at the PCR stage, attaches itself to the amplified DNA.
+The DNA is loaded onto a gel and in a process called electrophoresis an electric current excites the alleles to move through the gel. Smaller pieces move faster and further than larger ones, so the final position of any piece on the gel should enable the assignment to it of an allele value. That is done in fluorescence technology when a laser agitates the fluorescent DNA, a camera receives the result and transmits it to the computer. The instrument in which this process is carried out is called a sequencer.
+ Computer software called Genescan takes these results and produces a table and, in a layout called an electropherogram, sets out these results as peaks on a graph. Trained analysists interpret these results and produce data in a form suitable for forensic reporting.
+ The tester of samples for criminal forensic purposes is concerned to know whether the samples could or could not have come from the same person. Any difference between samples at any locus proves that the samples came from different persons. A match proves that they could have come from the same person but not that they did. Laboratories have established databases of results of past tests on numbers of people which are statistically large enough to be representative of the general population. By reference to those databases reporters can say how often a certain allele or combination of alleles at a certain locus occurs in the community. In a multiplex system like
+Profiler Plus, which tests simultaneously at nine polymorphic loci together with the amelogenin locus, which varies only according to gender, reporters can calculate the frequency of occurrence in the population of the profile produced when there is a match at all loci successfully tested.
+ The techniques of DNA extraction, PCR amplification, STR and fluorescence technology, the production of results by Genescan and electropherograms, the interpretative work of technicians and scientists in producing results for use in court and the calculated frequency by reference to databases of the occurrence of relevant profiles in the community are all used in Profiler
+Plus. Those techniques are well known and understood and, except for the raising of an asserted difficulty in distinguishing between homozygotes and "null alleles", to which I shall refer, were not attacked in any general sense.
+ By [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s56.html) [Evidence Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) evidence which is relevant is admissible and that which is not is inadmissible. By [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s55.html) evidence which could rationally affect (directly or indirectly) the assessment of the probability of the existence of a fact in issue is relevant.
+ There was no objection to the admissibility of Mr Goetz's evidence in this sense.
+ [S (1)](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s76.html) provides that evidence of an opinion is not admissible to prove the existence of a fact about the existence of which the opinion was expressed. This is called the opinion rule. The relevant exception is [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s79.html), which is the following terms - 
+Exception: opinions based on specialised knowledge 
+If a person has specialised knowledge based on the person's training, study or experience, the opinion rule does not apply to evidence of an opinion of that person that is wholly or substantially based on that knowledge.
+ In order to deal with one of the submissions made on behalf of the accused it is convenient to summarise the rules for admissibility that existed before the [Evidence
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) was passed.
+I gratefully draw on the summary made by Einstein J in Idoport Pty Limited v National Australia Bank <case> at 239.
+ the opinion had to be relevant to a fact in issue; there had to be evidence capable of proving the facts upon which the opinion was based; the witness had to disclose the facts upon which the evidence was based; there had to be a relevant field of expertise, which was sufficiently organised or recognised to be accepted as a reliable body of knowledge or experience; the witness had to be an expert in that field; the opinion could not be related to a matter of common knowledge; the opinion could not concern the ultimate issue, that is, the expert was not permitted to give an opinion on the very issue of fact or law which the court had to determine.
+ The requirement that there be a relevant field of expertise sufficiently organised or recognised to be accepted as a reliable body of knowledge or experience derived from the Frye test (Frye versus United States [293 F ] (1923)); R v Gilmore [[1977] 2 NSWLR 935]; R v
+Pantoja [(1996) 88 A Crim R 554] per Hunt CJ at CL at 558.
+ In preparing the draft which led to the enactment of the New South Wales [Evidence Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) the Australian Law Reform Commission preferred not to have a "field of expertise" test, but provided instead for the requirement of specialised knowledge based on training or experience in combination with a wide discretion in the Court whether to receive or reject such evidence. In the same way, the Commission decided not to impose any requirement as to general acceptance. ALRC 26 at 743; ALRC 38 at 149(a).
+ Thus, the test under [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s79.html) appears to be more liberal than the Frye test: Heydon, Cross on
+Evidence, 6th Australian Edition at 843. That appearance is consistent with the wide discretions or protection provided in [ss ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s135.html), [137](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s137.html).
+ In his final submissions Mr Greenwood put the case in a way which may be summarised thus - 
+At common law, the field of expertise prerequisite required a court to assess the reliability of the knowledge and experience upon which the opinion was based: Idoport Pty Limited versus National Australia Bank at 244. So admissibility depended upon reliability.
+ [S ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s79.html) is no less rigorous. Reference was made to the judgment of Gaudron J in HG versus R <case> at 58.
+ [S ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s79.html) therefore involves an assessment of the reliability of the proposed evidence.
+Reference was made to modern text writers and to Perpetual Trustee Co
+Limited versus George, Supreme Court of New South Wales, Equity Division,
+Einstein J 1 December 1997.
+
+The proposed evidence was not reliable because it was not wholly or substantially based on Mr Goetz's specialised knowledge, he not knowing the primer sequences and not having validated the system and there being no evidence that the system had otherwise been validated. [S ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s79.html) therefore did not apply and the evidence was rendered inadmissible by [s .](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s76.html) 
+The assessment of probative value under [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s137.html) requires an assessment of reliability. Papakosmas versus The Queen <case> at <case>. The probative value of the evidence must be weighed against the danger of unfair prejudice.
+
+Because the test results were produced by an unvalidated system they were unreliable and had little or no probative value. For the same reason there was a danger of unfair prejudice to the accused because the jury might place greater weight on them than they deserved.
+
+The danger of unfair prejudice to the accused exceeded the probative value of the evidence, so [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s137.html) rendered it inadmissible.
+ Although the foregoing submissions left me with the impression that the "general acceptance" test was no longer contended for, I was left unsure whether the contention had been abandoned. Although there is no longer any "general acceptance" test in New South Wales I concluded that if there had been the evidence would have passed it. The argument about the rejection of admissible evidence in the discretion of the Court was not pressed. The final submission was that the evidence was, for the reasons I have summarised, inadmissible.
+ Deciding whether a witness has specialised knowledge based on that witness' training, study or experience and deciding whether evidence of an opinion is based wholly or substantially on that knowledge may involve an assessment of the reliability of the evidence. Einstein J allowed the possibility in
+Perpetual Trustee Co Limited versus George. However, it seemed to me that it was not necessary to consider the possibility further. For reasons which I shall explain, I was satisfied that Mr Goetz's evidence was reliable, so if reliability is part of the test under [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s79.html) the evidence passes the test. I think it more appropriate to say, however, that in this matter [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s79.html) can be applied in terms: HG versus R per Gleeson CJ at 427 fn 37. I was satisfied for reasons which I shall explain that the evidence was based on Mr Goetz's knowledge, which was based on his training, study and experience.
+ [Part .11](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/index.html#p3.11) requires all evidence to pass a further test. [S ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s135.html) gives the Court a general discretion to refuse to admit evidence whose probative value is substantially outweighed by the danger that it might be unfairly prejudicial to a party or might mislead or confuse or waste time. (My emphasis.) However, it was not suggested that Mr Goetz's evidence might mislead, confuse or waste time.
+ [S ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s137.html) provides that in a criminal proceeding the Court must refuse to admit evidence adduced by the prosecutor if its probative value is outweighed (at all) by the danger of unfair prejudice to the defendant. (My emphasis and comment.) So in the present case the Court had to weigh the probative value of the evidence objected to and the danger referred to in [s .](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s137.html) If the latter had outweighed the former there would have been no discretion and the evidence would have had to be rejected. [S ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s135.html) would have had no part to play.
+ As McHugh J observed in Papakosmas versus The Queen at [86], the Court's assessment of the probative value of evidence necessarily involves considerations of reliability.
+ Interesting questions might have arisen whether criteria were needed to determine what constituted probative value and unfair prejudice and what those criteria might have been. The possibility might have been raised of applying the rule about reliability found in Daubert versus Merrell Dow
+Pharmaceuticals <case>; [(1993) 509 US 579.] However, I found it unnecessary to consider questions of that kind because of the nature of the attack made on Mr Goetz's evidence.
+ It was for the Crown to demonstrate that the evidence fell within the contemplation of [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s79.html) and that its probative value was not outweighed by the danger of unfair prejudice to the accused. Because of the way in which the voir dire was conducted and the defence submissions framed, the answers to both those questions depended on my answers to a number of questions which I summarise thus - 
+Was the Profiler Plus system as used by the New South Wales Department of
+Analytical Laboratories Forensic Science Biology Laboratory (DAL) properly validated? 
+Was it necessary to know the primer sequences in order to test the reliability of the system? 
+Related to these questions were the questions - whether DAL failed to follow techniques mandated by Applied Biosystems as essential for reliable test results as to - - the amount of DNA used; - the volume of reagent used; and - minimum peak heights for reporting matches, and whether the accuracy of reported results should be doubted because of confusion between homozygotes and non-amplification of alleles.
+ DNA technology began to be used in forensic testing laboratories during the late 1980s. The Crown's principal witness, Mr Robert Goetz, has been concerned with the introduction into his laboratory of successive DNA systems since that time. He has been the head of DAL since 1985. He has been practising in the profession of forensic biologist for about twenty-five years.
+ He is an assessor for National Association of Testing Authorities (NATA), an Australian body which accredits scientific institutions, including DNA forensic testing laboratories, and in that capacity assesses laboratories applying for accreditation.
+ Early systems introduced into DAL, and used generally throughout Australia, required large amounts of DNA, used radioactive probes, were relatively undiscriminating and had other disadvantages. They were replaced in due course with systems which used PCR technology to amplify DNA. They tested loci called
+DQAlpha and the polymarkers. In this way profiles could be built up over a number of loci, especially in combination with tests performed by the preceding systems, but even so it was impossible to achieve discrimination of a high enough order. These systems were also inefficient in the production of results for mixed DNA samples.
+ Systems using STR technology began to be developed. The Forensic Science
+Service in the United Kingdom (FSS) developed a system of simultaneous testing at four loci. Several such systems, generally called multiplexes, were developed in the United Kingdom and the United States. It was the development of fluorescent technology that enabled the simultaneous testing at several loci. DAL began to use the FSS system, but even it failed to give sufficient discrimination and had to be used in combination with the DQAlpha and polymarker tests.
+ The attraction of Profiler Plus was that nine of the ten loci at which it tested were highly polymorphic. Its use was therefore likely greatly to increase the chances of identifying differences between samples, so leading to exclusions. At the same time matches at all loci were likely to increase the probabilities against random matches with persons other than matching suspects.
+ The Crown also called evidence from Mr Christopher John Pearman, the manager of the biology group of Forensic Sciences South Australia (FSSA). FSSA is an independent Government body that carries out all the forensic testing in
+South Australia as well as parentage and other work. Mr Pearman has managed the laboratory since 1997. He also is a NATA assessor. His formal and experiential qualifications were not challenged. He reads the relevant scientific literature. He routinely exchanges views with other scientists in the field by attendance at conferences and in written correspondence.
+ The experience of FSSA was not unlike that of DAL. Although it did not always use the same systems, it successively employed the same types of systems using the same technology but which for the reasons I have summarised led to the desire for a more reliable and discriminating system.
+ By 1997 all forensic DNA laboratories in Australia determined that it was desirable to introduce new methods which would at once overcome the disadvantages of existing systems and set up a system by which the same loci could be analysed by all Australian forensic science laboratories. So the profiles of samples tested in one State could be compared with those of samples tested in another. The laboratories sent representatives to a meeting in Auckland, New Zealand. Representatives of Perkin Elmer (the parent of
+Applied Biosystems) were present and described to those attending the validation work that had been undertaken during the development of Profiler
+Plus. Validation means the establishment to the satisfaction of those using it that a system produces accurate and reliable results. It is achieved by carrying out appropriate tests and studies. Those attending the meeting were concerned to know what developmental work Perkin Elmer had done and that was explained by the representatives.
+ There is a body in the United States that was then called Technical Working
+Group on DNA Analysis Methods (TWGDAM). Among other things, TWGDAM published validation criteria for systems of DNA analysis. The representatives of the
+Australian laboratories satisfied themselves that Profiler Plus had met those validation criteria. A summary of the TWGDAM criteria and a summary of the manner in which each criterion had been met was published as Ch 12 of the
+Profiler Plus Users' Manual.
+ Representatives of the Australian laboratories learned that Perkin Elmer had collaborated with criminal forensic laboratories in the United States such as the laboratories of the Federal Bureau of Investigation (FBI) and the laboratory at Santa Clara, California and had modified its methods by reference to information given and suggestions made by such laboratories.
+Those laboratories and others, including that of the Royal Canadian Mounted
+Police (RCMP), had carried out what are referred to as in-house validation of
+Profiler Plus, and particulars of those validations were made available to members of the scientific community, including those employed in the
+Australian laboratories.
+ By the time DAL decided to install Profiler Plus, Mr Goetz and those who worked under him were well experienced in analytical systems that used PCR,
+STR technology and produced computer-enhanced results. They were also accustomed to the use of multiplex systems in which several loci were examined simultaneously. In these respects Profiler Plus did nothing new. The new aspect of it was simply that it tested loci with which preceding systems had not been concerned.
+ Much the same may be said for FSSA. Although the systems installed there immediately before the introduction of Profiler Plus were different from those at DAL they employed the same scientific techniques.
+ Mr Goetz considered the RCMP study and noted that that laboratory had concluded that Profiler Plus was a reliable system. He also examined the far more extensive study carried out by the laboratory at Santa Clara, California by which that laboratory came to the same view. By that time FBI and RCMP were using Profiler Plus.
+ DAL set about doing its own validation of Profiler Plus, intent on meeting the NATA criteria.
+ National Institute of Forensic Science (NIFS), a testing body situated in
+Melbourne, co-ordinated a test in which FBI, RCMP, the Queensland forensic science laboratory and DAL took part. Twenty samples were sent to each laboratory and the same result was achieved by each laboratory. Afterwards, other Australian laboratories did the same test and arrived at identical results.
+ NATA requires laboratories seeking accreditation to participate in at least one trial per year. In order to comply with that requirement DAL participated in a study conducted by Collaborative Testing Service (CTS) an American testing body. DAL has participated in two tests per year since 1998 and evidence was given about the results of the two most recent tests. Results received in February 2000 of tests done in August 1999 showed that of over fourteen thousand STR results twelve discrepancies were reported. One-half of these came from a single laboratory out of the two hundred and ninety five participants. No discrepancy was reported from DAL. Results received in March of tests done in August 2000 showed that three hundred and forty four participants produced almost eighteen thousand STR results. Four discrepancies were reported, all from the one participant and all thought to result from a clerical error.
+ Every forensic science laboratory in Australia now uses Profiler Plus and has set up a database of results produced by that system.
+ Well over one hundred laboratories use Profiler Plus for forensic testing throughout the world, principally in the United States, but also in Canada,
+Italy, Portugal, Austria, Poland, South Africa, Brazil, Singapore, Hong Kong and France. Although the system generally used in the United Kingdom is a ten- locus multiplex developed by FSS, at least one private laboratory in that country uses Profiler Plus.
+ In the United States a national database called CODIS has been established.
+The largest forensic laboratory there is that of FBI, which uses Profiler Plus in conjunction with a further multiplex system that tests at five loci, two of which are common to Profiler Plus. By the use of the resulting thirteen loci, twelve of which are polymorphic, that laboratory achieves an even higher level of discrimination that can be achieved by the use of Profiler Plus alone.
+ A further American system, Promega, uses the same loci as Profiler Plus.
+ Six of the ten loci used in the FSS system are common to Profiler Plus.
+ Evidence was adduced of published scientific papers dealing with a variety of topics relevant to Profiler Plus, notably a paper by Moretti and others entitled Validation of short tandem repeats (STRs) for forensic usage:
+Performance testing of fluorescent multiplex STR systems and analysis of authentic and simulated forensic samples. The purpose of the study was to define the utility and potential limitations of STR typing of forensic specimens using commercially available multiplex amplification kits. One of the kits studied was Profiler Plus.
+ According to the reporters, the data demonstrated that the typing of biological materials using STR loci and the commercial kits yielded reliable results under various conditions. The reporters considered the manufacturers' recommended test conditions robust where recommended protocols were followed and assays conducted within safe "windows of performance". All the commercial kits exhibited the expected responses to experimental manipulation of PCR. The report included this statement - 
+When following recommended protocols, substrate contact, environmental and chemical insults, and DNA degradation will not produce false positive results.
+Using the AmpFlSTR and GenePrint kits, identical types were obtained from replicate samples, from single donors, that were subjected to the various conditions; that is, mistyping did not occur, and non-specific or "extra" products that could affect typing were not evident. These conclusions were further corroborated by analyzing the same DNA samples using multiple kits and generating consistent results. Furthermore, typing results were concordant when generated on different detection instruments ...
+ The reference to AMPFlSTR was to Profiler Plus. The report concluded - 
+This study reinforces previous findings that multiplex STR typing is sufficiently robust for implementation into forensic laboratories and will be effective for characterizing the vast majority of human biological samples encountered at crime scenes.
+ Other scientific papers were tendered which concluded that the techniques employed in Profiler Plus were apt to yield reliable results. They include
+Budowle: STR Allele Concordance between Different Primer Sets - a Brief
+Summary, dated February 2000, Ragsdale and others: Validation of (Profiler
+Plus) and COfiler Profiling Systems for use in Forensic Casework, dated 1998 and Hall and others: Validation of the (Profiler Plus) and (COfiler) PCR
+Amplification Kits, using TWGDAM Guidelines.
+ No scientific paper was tendered suggesting unreliability of results produced by Profiler Plus.
+ Each laboratory carrying out tests produced by Profiler Plus keeps results in a database. Concordance studies are done from time to time to compare the databases of different laboratories in order to ensure that results appear reasonable and to reveal those that might appear inconsistent with those being produced by other laboratories. Tests carried out by Associate Professor
+Chaseling of Griffith University and by Dr Bruce Weir of North Carolina
+University found nothing untoward. There was "extreme similarity" between allele frequencies produced by laboratories in the different States of
+Australia.
+ Applied Biosystems supplies kits containing all the materials necessary to test samples using appropriate equipment and methods. Each kit is sufficient for at least one hundred tests. Since they began using Profiler Plus DAL and
+FSSA have used eighty and fifty-one kits respectively.
+ Each new kit is provided with a control sample of known profile and the first test for each such kit must be of the control sample. DAL tests have always produced a profile matching the known profile.
+ NATA has established requirements for the accreditation of laboratories and provides for qualification by training, education and/or experience of staff engaged in DNA typing. They are required to attend courses, seminars and professional meetings, read relevant scientific literature and undertake proficiency tests at least once each year, administered by external authorities approved by NATA.
+ I was impressed with the breadth of experience of Mr Goetz and Mr Pearman and with the preparedness of each to deal forthrightly with questions put. Mr
+Goetz is of the opinion that Profiler Plus is the most reliable system he has used. He bases that opinion on his own experience, the CTS trial results and the simplicity of use of Profiler Plus. He thinks the system robust in that even when it is used to test DNA so degraded that a full profile cannot be generated it will not produce a false result. Mr Pearman thinks that Profiler
+Plus is accurate, reliable and robust and suitable for forensic and parentage testing.
+ The defence called evidence from two witnesses. Dr Alan Bentley Atchison and Dr Brian Leslie McDonald. Dr Atchison is the manager of molecular biology at the Victorian Institute of Forensic Medicine (VIFM), an authority established under the Victorian [Coroner's
+Act](http://www.austlii.edu.au/au/legis/nt/consolact/ca120/). VIFM concerns itself principally with analysis for coronial matters and disputes in paternity proceedings. It also deals with occasional interstate criminal matters (though they were unspecified) and what were called personal matters.
+ VIFM does not use Profiler Plus but a system developed by Dr Atchison himself. The system uses primers and PCR amplification and simultaneously tests at a number of STR loci. Four of those loci are common to Profiler Plus.
+VIFM does not use fluorescent technology, however, but silver staining, a technique of identification of alleles which preceded fluorescent technology.
+ Dr Atchison developed the system used at VIFM between 1991 and 1996, so it was already installed at the time that other Australian laboratories were considering taking up Profiler Plus. Having undertaken the expense of installing a new system, VIFM regarded the cost of turning to Profiler Plus a significant factor in deciding not to adopt it. However, another reason given by Dr Atchison was that he was concerned about the employment by Profiler Plus of fluorescent technology and what he saw as difficulties of interpretation of results produced by that method. He has never used Profiler Plus and has apparently no practical experience in the use of fluorescent technology.
+ Dr McDonald is Managing Director of DNALabs SIVF Pty Limited, a laboratory which carries out testing by Profiler Plus. He has held a number of research positions in molecular biology. Between 1984 and 1990 he was a molecular biology team leader as Senior Scientist at the Oncology Research Centre at the
+Prince of Wales Hospital, Sydney. Between 1990 and 1996 he was head of molecular genetics at that hospital. He had become involved in DNA research in and in 1992 set up his own laboratory. In 1996 he founded the company he now controls. He is concerned with principally with identity testing in his daily work. This consists of parentage and similar enquiries and accounts for three-quarters of the work his company does. He uses Profiler Plus in conjunction with a system that tests at six other loci. He uses silver staining as well as fluorescent technology. The remainder of his work includes some forensic testing in the defence of criminal cases. He has been concerned in about three thousand family law cases and about fifty criminal cases in various parts of Australia. He is a NATA assessor. He has written a large number of academic papers by himself or jointly with others.
+ Dr Atchison and Dr McDonald attacked Profiler Plus in a number of ways. The first and principal attack was that there was no evidence demonstrating that the system had been properly validated and that there could therefore be no confidence that it produced reliable results.
+ An important part of the evidence of Dr Atchison and Dr McDonald concerned the conclusions that might be drawn from three unpublished papers produced to the Court by a corporation associated with Applied Biosystems. After I vacated the trial on 5 February 2001 negotiations took place between a representative of the accused and a representative of Applied Biosystems or associated companies about the release of information on terms. On 27 March 2001 I granted leave to issue a subpoena returnable on the following day directed to the Secretary/Proper Officer, Applied Biosystems Pty Limited to produce originals and/or copies of the three reports. On the same day I granted leave to issue a subpoena directed to the same recipient, and returnable at only two days' notice, to produce the following documents - 
+Originals and/or copies of all studies, including but not limited to originals and/or copies of raw data, working notes, results data and reports pertaining to scientific validation of the Profiler Plus System undertaken by:- 
+Applied Biosystems Pty Ltd and/or PE Corporation (NY), and/or; other independant (sic) scientific organisations, where those studies are in the possession of Applied Biosystems Pty Ltd and/or PE Corporation (NY).
+ A representative of Applied Biosystems Pty Limited attended court on 28
+March 2001 to respond to both subpoenas. He said that that company had none of the documents described in the subpoenas but voluntarily produced the three papers on behalf of PE Corporation (NY). The representative was expecting service of the subpoenas and had the papers ready to produce. In fact the same papers had already been made available to defence representatives.
+ No such voluntary production was made of any of the documents described in the second subpoena and there was no suggestion to the Court that any prior arrangement had been made by which such documents should be made available.
+The description of documents in the subpoena is very wide indeed and a subpoena which otherwise survived requiring the production of them at two days' notice was scarcely likely to be successful. The defence took the matter no further. None of the documents described in that subpoena was produced or tendered. However, the circumstances did not permit any inference that any such document did not exist or would not have supported the case for validation.
+ The three unpublished papers are entitled Lazarak and Others, Sequence
+Variation in Humans and Other Primates at Six Short Tandem Repeat Loci Used in
+Forensic Identity Testing; Wallin and Others, Constructing Universal
+Multiplex PCR Systems for Comparative Genotyping and Holt and Others, TWGDAM
+Validation of AMPFlSTR R PCR Amplification Kits for Forensic DNA Casework.
+ Mr Goetz and Mr Pearman gave evidence first. As defence counsel knew, Mr
+Goetz had read the three unpublished papers. It was obvious that he must have regarded their contents as not detracting from if not supporting the favourable view he had formed about the reliability of Profiler Plus. I thought it remarkable, therefore, that defence counsel did not raise for Mr
+Goetz' consideration the conclusion Dr McDonald drew from the papers and to which I shall refer. Counsel said this - ... after consultation with my learned junior we are not going to take Mr
+Goetz to those documents.
+ Mr Pearman had not read the unpublished papers. His evidence included reference to a large body of other scientific papers which he identified and summarised as supporting the favourable view he had formed about Profiler
+Plus. He said that he had had no communication or scientific contact which led him to doubt the reliability or efficacy of Profiler Plus. He was never invited to consider whether the conclusions Dr McDonald drew from the three unpublished papers were reasonable or whether the contents of those papers might cause him, Mr Pearman, to reconsider his view that Profiler Plus had been properly validated.
+ Speaking about the unpublished papers, Dr McDonald said this - 
+Q. If you are asked for your opinion as to whether these three papers singly, or in any combination of them, amount to a validation of the Profiler Plus kit what is your opinion? 
+A. Well, my opinion is that in order to fulfil the requirements of validation under the various guidelines some testing has to be done with the knowledge of the primer sequences, and they are the sorts of studies identified in the first paper. The subsequent papers do not conduct any studies which specifically require that information, and are the same types of studies conducted by the various other groups, the FBI, the Royal Canadian Mounted
+Police, the Santa Clara Laboratory, numerous other laboratories that have done the types of generic studies using the kits. The specific studies needed to complete the validation are usually done by the manufacturers, and in this particular case by the people who know the primer sequences which, as I say, is only presented in the first paper, and in that paper there is only evidence that that has been done for three of the loci. So from that it would be clear to me that they have not, as yet, validated their kits.
+ I assumed that Dr McDonald had accurately summarised the effect of the papers and that they demonstrated validation according to a standard he considered necessary only for three of the ten loci used by Profiler Plus.
+However, while it might have been reasonable upon such evidence to express the opinion that further evidence was needed to demonstrate that Profiler Plus had been appropriately validated in toto, I do not think that it was reasonable for Dr McDonald to take the next step. Plainly, the failure of a piece of evidence or an argument to establish a proposition contended for does not entitle one to conclude that that proposition might not be able to be demonstrated by other means. I thought that Dr McDonald's readiness to express his opinion that it was clear on the basis of the three unpublished papers that Applied Biosystems had not yet validated their kits demonstrated a lack of objectivity.
+ Speaking of the same three papers, Dr Atchison said that although one of them dealt with the validation of three loci, the only evidence that would have satisfied him would have been if all ten loci had been validated together. He said this - 
+Q. Would you go so far as to suggest that examining three of the ten loci individually is the basis for a claim of partial validation or do you have to look at the ten in combination? 
+A. No, if you're validating a system called Profiler Plus which has ten loci, then you have to have it in combination. This article was basically or largely directed at looking at the mutation in the primer sequences and the effect of that on those three loci, more specifically the vWA locus.
+ Dr Atchison also observed that insofar as they demonstrated validation of any part of the Profiler Plus system, the papers did not put forward the data upon which their conclusions were based. He appeared to consider that also to have been a fatal defect.
+ In my opinion the defence engaged in a futile exercise over the three unpublished papers. The assertion assumed in the last question which I have cited, namely that the papers were being put forward as "the basis for a claim", was quite wrong. The Crown did not tender them. There was no acceptable evidence before me that Applied Biosystems regarded them as the basis for its assertion that Profiler Plus was a properly validated system. It was obvious that Dr McDonald thought that Applied Biosystems considered the papers the only available basis for its assertion, but I did not accept his evidence in that regard. The papers were produced following the negotiation between the defence and Applied Biosystems to which I have referred. There was no evidence that they were the only material available as documentary proof of the validation of Profiler Plus, yet the defence treated them as though they were and that if they did not prove validation, validation could not be proved. I thought that that was an inappropriate approach.
+ I came to the conclusion that the three unpublished papers were of no consequence in view of the facts that Mr Goetz and Mr Pearman had not been invited to consider them, in view of the illogical basis on which they were put forward and in view of the wealth of evidence of steps taken by Applied
+Biosystems in collaboration with FBI and others in validation studies and then by DAL and FSSA in validating the systems within their laboratories. In the circumstances I did not find it necessary to decide whether or to what extent the papers proved validation of Profiler Plus.
+ Having said that it was necessary to see evidence of validation of the whole system and not merely of a part of it, Dr Atchison agreed that the studies referred to in Ch 12, Profiler Plus Users' Manual demonstrated, if accepted at face value, validation of the whole system. He concluded, however, that one could not accept at face value that the claimed studies had been done and the claimed results obtained. He gave no reason for his attitude other than to say that Applied Biosystems ought to have published the data produced in the studies and underlying the conclusions reached.
+ I did not accept his opinion as reasonable. First, there seemed no reason why such data ought to have been published in such detail. It appears common for scientific papers to refer to, without giving the detail of, data underlying the conclusions discussed. I note also in passing that according to
+Dr Atchison the data which led to the validation of his own system were recorded in over one thousand pages. Such a volume of material might be too large for publication. Secondly, Mr Goetz and Mr Pearman, whose combined experience far exceeds Dr Atchison's and whose evidence impressed me, disagreed. It seemed proper also to infer that the heads of the many other laboratories using Profiler Plus in many parts of the world shared the view of
+Mr Goetz and Mr Pearman.
+ I was satisfied that Profiler Plus was satisfactorily validated in DAL before production of test results relied on by the Crown in the present matter. It was just as clear that the system in FSSA was equally well validated. In the latter respect I take comfort from the conclusion to the same effect reached by Mullighan J in R versus Karger Supreme Court of South
+Australia, 29 March 2001, unreported. His Honour's conclusion, whilst not binding on me, is one to which respect should be accorded in view of the detail of evidence taken over a long enquiry and of his Honour's careful judgment.
+ It was contended on behalf of the accused that there could be no confidence in the reliability of results produced by Profiler Plus because the primer sequences used by Applied Biosystems were known only to itself and not to the laboratories using the system. It is well understood that the primer sequences for the loci with which the system concerns itself were published to the scientific community but that some or all were modified during the development of Profiler Plus. No such modified sequences have been published.
+ Reliance was placed on what was said to be NATA requirements that users have such knowledge and it was asserted that there had been a failure to meet those requirements. Before I deal with the requirements of NATA, however, I should mention that its guidelines derive from those issued in the United
+States of America by TWGDAM and its successors. It is worth noting that in May the DNA Advisory Board (DAB), the ultimate successor to TWGDAM, amended its guidelines or standards dealing with validation, removing a requirement that primer sequences be known and substituting the following - .1.2 Novel forensic DNA methodologies shall undergo developmental validation to ensure the accuracy, precision and reproducibility of the procedure. The developmental validation shall include the following: .1.2.1 Documentation exists and is available which defines and characterizes the locus.
+ The relevant NATA guidelines are these - .4.5.2 a) The DNA primers, probes or oligonucleotides selected for use in the forensic DNA analysis must be readily available to the scientific community.
+ ...
+
+The validation of PCR-based DNA procedures must include the following: 
+The primers must be of known sequence or source.
+ ...
+
+It is essential that the results of the developmental validation studies be shared as soon as possible with the scientific community through presentations at scientific/professional meetings. It is imperative that details of these studies be available for peer review through timely publication in scientific journals.
+ It was asserted that the requirements in paras 5.4.5.2(a) and (d)(i) that the primers must be readily available to the scientific community and of known sequence or source individually or together required that user laboratories know the primer sequences. Mr Goetz and Mr Pearman disagreed with that assertion. Dr Atchison said that he interpreted the guidelines as implying that a laboratory should have knowledge of primer sequences available to it "if something arose which you needed to address". Dr McDonald did not agree with that construction. He said this - 
+Q. Can you comment on the interpretation that has been placed on these guidelines, "the sequences and other material required by the guidelines are known by the company and therefore the requirements are fulfilled"; you have heard that interpretation placed on them, haven't you? 
+A. Yes, I have.
+
+Q. Do you accept the guidelines with that interpretation? 
+A. I suppose the most appropriate answer to that is that up until now I have had to learn to live with it.
+ The words of the NATA guidelines could not have the meaning contended for without the addition of other words. In my view their meaning is plain. Para .4.5.2(a) means that primers must be available, as they are by the purchase of kits. Para 5.4.5.2(d)(i) means that the sequence of primers must be known, as it is to Applied Biosystems.
+ It is obvious that NATA does not regard its guidelines as requiring laboratories to know primer sequences because it accredits them knowing that they do not know them and are unlikely to know them. I rejected Dr Atchison's opinion about the meaning of the words. I might add that Dr Atchison asserted also that FSSA had failed to comply with NATA guidelines because it had not done all the validation steps necessary before testing with Profiler Plus. I thought that that evidence, given with the knowledge that FSSA had NATA accreditation, was an example of Dr Atchison's willingness to make serious assertions without knowledge of the facts. I note the observation of Mullighan
+J in R versus Karger at para 432 that Dr Atchison was there prepared to express opinions about serious matters concerning the competence of FSSA without sufficient information or enquiry.
+ There were other reasons why I was not prepared to rely on the opinion of
+Dr Atchinson when it differed from others'. He was at some pains in justifying his lack of confidence in Profiler Plus to draw attention to any instance in which a laboratory might have stopped using the system. It was well established that FBI had played an important part in the development of the system and had commenced using it and continued to use it in case work. It appeared that FBI was also typing case samples by the use of two further systems, namely COfiler, a Perkin Elmer five-locus system, two of whose loci were common to Profiler Plus, and a system marketed by Promega Corporation. Dr
+Atchison was asked about the adoption by Australian laboratories other than his own of Profiler Plus following the Auckland meeting. There were these questions and answers - 
+Q. The other laboratories embarked upon the use of Profiler Plus; do you understand? 
+A. Yes.
+
+Q. And variously they put it into operation? 
+A. Yes.
+
+Q. As have many other laboratories throughout the world? 
+A. Yes.
+
+Q. And to your knowledge including the FBI? 
+A. That I am not sure of. I have only heard what I classify as hearsay evidence.
+
+Q. That has to apply to a lot of the information of which you avail yourself, doesn't it, in the course of being a scientist? 
+A. I can answer it but it is hearsay.
+
+Q. Well, obviously unless you had been to the FBI and seen them using it you would not have knowledge of it? 
+A. No.
+
+Q. No-one would in fact? 
+A. That's right.
+
+Q. If one would apply that test? 
+A. Yes.
+
+Q. But, as a scientist you do not have to apply that test to a great deal of knowledge which you obtained; that is fair isn't it? 
+A. My understanding is that the FBI are not using it now. They are using
+Promega.
+
+Q. Isn't it the case that FBI are using both systems? 
+A. I don't know.
+ I thought that Dr Atchison's unwillingness to admit the well known fact that FBI were using Profiler Plus and his assertion without inquiry that FBI had ceased to use Profiler Plus demonstrated bias.
+ He was asked about the degree of acceptance of Profiler Plus in the community of Australian scientists using it and the responses of Applied
+Biosystems to reports of difficulties encountered during its use. He said this -
+
+A. Well, the forensic science community in Australia has isolated a problem with a Profiler Plus kit in early 1999 and there still is a problem with the kit.
+
+Q. You say there is, but the fact of the matter is that the users of it are still using it? 
+A. Yes.
+
+Q. And the users of it are still using it and saying that it is an accurate and reliable kit, or at least Mr Pearman and Mr Goetz say that? 
+A. They are still saying there is a problem with the kit.
+ Letters were tendered dealing with this matter. On 28 September 1999 Dr
+Peta Stringer, Secretary, Biology Specialist Advisory Group (Australia and New
+Zealand), a body which reports to the senior managers of the Australian and
+New Zealand forensic laboratories, wrote to Perkin Elmer Applied Biosystems to report the detection by laboratories of additional peaks under certain conditions. The letter mentioned an earlier report of the same problem and said that a reason which had been suggested by Perkin Elmer Applied Biosystems had been shown not to explain the appearance of the additional peaks. Dr
+Stringer thought that the problem was "lot specific" and suggested imperfect quality control of Profiler Plus kits. Certain technical measures were suggested. In a reply of 5 July 2000 Ms Rhonda K Roby, Senior Forensic
+Specialist, Human Identification Group, PE Biosystems wrote to Dr Stringer acknowledging the presence of "these low level artifacts" and stating that there had been an extensive investigation over several months but expressing satisfaction with the typing done with the kits concerned. The letter also stated that PE quality control procedures required that the artefacts be significantly less than DNA-generated peaks when the kits were used according to recommended conditions.
+ There was no evidence in the letters suggesting that the artefacts referred to were so great as to be likely to be confused with DNA-generated peaks so as to throw doubt on the appropriate assignment of alleles. (Even if that happened, of course, the laboratory concerned would simply not report a result at the relevant locus.) I thought that Dr Atchison was trying to convert a technical problem of the kind scientists and technicians routinely solve into a major problem throwing doubt on the reliability of Profiler Plus results.
+ The difficulty that is said to arise when laboratories do not know primer sequences relates to the subject of null alleles. One of the ideals of a good
+STR locus is a stable flanking region. "Stable" is a relative term and there may not be any flanking region that may not vary from the norm in a small number of individuals. I use the word "norm" to denote the base sequence which the manufacturer of the primers assumes occurs at the relevant place. Such variations as occur are said to result from mutations that take place at the time of conception. If a mutation occurs it affects every piece of DNA in the body in exactly the same way. A base sequence which changes in this way can be passed on to the subject's children.
+ Primers are designed to bind at sites where given sequences of bases ordinarily occur. If there is such a variation at any binding site the primer may not bind or may not fully bind unless the kit has been adapted to make allowance for the variation. If a primer does not bind no DNA will be amplified at the relevant allele. Assuming that amplification of the corresponding allele (from the other parent) works perfectly, the result will be the ultimate assignment of a single allele. This phenomenon of non- amplification of an allele is called a null allele. The terms "allelic dropout" and "allele dropout" are also used. The result so produced is indistinguishable from the single allele assigned where DNA is perfectly amplified at the two alleles of a locus but where they have the same value.
+ If the two samples being compared come from different donors having different alleles at the relevant locus, the first a homozygote and the second a heterozygote one allele of which has the same value as the homozygote and the other of which has dropped out, the test results will record a match, whereas if the primer had bound and the DNA at the second allele had amplified it would have registered an exclusion. If, on the other hand, the sample has come from the same donor it does not matter that the allele assigned may result from a homozygote or from allele dropout. The only important thing is the fact of the match.
+ The phenomenon is well known and accepted as a limitation in any system that employs PCR technology. That appears to include virtually if not literally every modern system used throughout the world. It certainly includes all systems produced by Perkin Elmer and the Promega Corporation, whose systems are used in the United States of American, Canada and elsewhere throughout the world. It includes FSS multiplex systems.
+ The phenomenon may affect systems differently, however, according to the mutation rates at the loci with which any individual system concerns itself.
+The rates of occurrence at any locus of homozygous alleles and mutated primer binding sites can be calculated from the results of parentage testing. It is appropriate for a laboratory producing test results for forensic purposes to monitor the rate at which homozygotes are assigned. If any is assigned at a rate significantly greater than that at which it might normally be expected to occur there may have been a significant incidence of allele dropout.
+ Dr McDonald spoke about mutation rates at some of the loci used by
+Profiler Plus. Asked about the mutation rate at vWA, he agreed that the
+Lazarak paper described action taken by Applied Biosystems to deal with mutated reverse binding sites at that locus. A further primer was added to the kit, designed to bind at mutated sites. He agreed that that had solved the problem. He was asked to agree, and did, that the paper went on to say that the primer had not been changed at the forward binding site because the mutation there was very rare. He was referred to a portion of the Lazarak paper, from which it appeared that the mutation rate at that site was .07 per cent, and was invited to agree that its rarity was a reasonable explanation why no change had been made to the forward primer. He said this - 
+Q. And that is a reasonable one in the circumstances, isn't it? 
+A. Well, I mean, considering the throughput of the laboratories that use this, in Dr Budowle's lab would be seeing it, you know, up to ten times a month. Mr
+Goetz would be seeing it once a month. So, you know, I mean, it depends, you know, on your view of things. I mean, if you are happy to get ten things wrong a month.
+ vWA is a locus widely used in other STR systems. If it were inherently unpredictable, leading to generally unreliable results, one would have expected a precise account of the problem to have been given in at least one published scientific paper. The only paper the Court was referred to was the
+Lazarak paper. Alternatively, one would not expect different manufacturers to be designing systems using that locus.
+ Assuming that Dr McDonald's calculations were correct and that that rate would produce one mutated sample per month at DAL and ten a month at FBI (Dr
+Budowle's laboratory) Dr McDonald's remark about getting things wrong at that rate was misleading. First, not every mutated binding site results in a failure to bind and a null allele. Depending on the nature of the mutation, partial binding may occur, producing partial amplification and a result which a scientist can recognise as erroneous. Such a result would not be counted.
+ Secondly, in forensic testing an exclusion at any locus renders irrelevant any possibility that a homozygote assigned at another locus may in truth be a null allele. So that phenomenon becomes a potential problem only if there is a match at every other locus. However, so discriminating are the loci used by
+Profiler Plus that it is most unusual to record an exclusion at only one locus, so rare in fact that Mr Goetz has never seen an instance of it. There is therefore a very high probability that a match at nine loci implies a match at all ten.
+ In his paper STR Allele Concordance Between Different Primer Sets - A
+Brief Summary, Dr Budowle reported on a study at thirteen STR loci, all of which are used in Profiler Plus. Kits from different manufacturers were used, differing according to manufacturer. They included several kits produced by
+Perkin Elmer and several manufactured by Promega Corporation. The paper refers to a study done by Kline and others in which six hundred samples were typed using two kits, Profiler Plus and a kit manufactured by Promega Corporation.
+The Promega kit typed one sample as having a single allele at vWA, whereas
+Profiler Plus correctly typed both alleles at that locus. Dr Budowle's paper concluded that the primer sets used did not produce significant levels of allele dropout.
+ Although no particular attack was made on Mr Goetz's results evidence of which was tendered in the present case, it is worth noting that no homozygote was assigned at vWA, the locus whose binding sites were said to be the most susceptible to mutation, for any of the seventeen samples tested.
+ I was not satisfied that mutations occurred at the primer binding sites of loci used by Profiler Plus at a rate sufficient to give rise to any concern about the reliability of results.
+ The question arose how a laboratory would use knowledge of primer sequences if it had them. Mr Goetz and Mr Pearman said that they would do nothing different if they knew them. Dr McDonald said this - ... it's not a sin to have a primer binding site mutation, the reality is these things happen all the time. The thing that's important is being able to recognize them and do something about them. The problem is if you don't know where the primer sites are it makes it virtually impossible to deal with it.
+ Dr Atchison said this - ... if I knew the sequence and I was using Profiler Plus and another scientist in Australia told me "I found this problem", I could react immediately and stop using the kit by comparing the sequences. I wouldn't have to refer it to
+Perkin Elmer to solve the problem, which might take some time.
+
+Q. Let's assume that another scientist in Australia told Dr Pearman, who was here earlier today and gave evidence yesterday, that there was a problem in the site in the kit, in one of the loci in the Profiler Plus? 
+A. Yes.
+
+Q. Dr Pearman would be immediately able to react in the same way as yourself, he would be able to stop using the kit or that site? 
+A. Well, he doesn't know there is a problem with the Profiler Plus kit, so he might be reacting to nothing.
+
+Q. He could be? 
+A. Yes, so-- 
+Q. The same investigation would be carried out, wouldn't it, would need to be carried out? 
+A. No, what you do is just compare the sequences of the primers. If they were the same, you stop doing case work immediately rather than waiting for some reply from a manufacturer.
+
+Q. Instead of doing the manual comparison of the list of sequences on one side of the page, that is the side of the page that you have written down the list of sequences from the person who reported the problem, and on the other side of the page the list of sequences known to you in your kit, instead of doing that comparison yourself you would have to wait for the people in the United
+States to do it? 
+A. Yes.
+
+Q. They could do it in the same time, except you would have to communicate to them? 
+A. They couldn't do it in the same time. You could do it instantaneously. You would have to wait for communications back and forwards.
+
+Q. That could be almost instant.
+
+A. You are relying on someone else somewhere else to evaluate it again.
+
+Q. You wouldn't trust that evaluation? 
+A. What I am saying is a scientist who is doing case work critical for court cases should react to these things straight away so he is not doing cases which could be wrong.
+ As I understood the defence contention, knowledge by a laboratory of primer sequences would enable a scientist to take individual action over a perceived primer binding problem rather than report the matter to Applied
+Biosystems and wait for it to react. Dr Atchison went on to say this - 
+Q. Let us assume with Dr Pearman, he would say to his workers, "Stop doing anything with Profiler Plus until we have confirmed that our primer sequences are not the same as the sequences being used by X who told us that he has a problem"? 
+A. He could do that. I'm not sure if that would be a good policy, but he could do that.
+
+Q. That would be a scientific one, wouldn't it? 
+A. Far better just to look at the sequences straight off.
+
+Q. I must confess I don't see how it causes it to be so difficult that you have to go to the manufacturer and ask him to make the comparison instead of you doing it yourself? 
+A. It is a question of whether the scientist is really interested in doing that immediately or waiting some time, however long it is.
+
+Q. It would be ill-advised scientifically to wait for however long and still go on with doing your case work; that is what you are saying? 
+A. Yes.
+
+Q. That is the limited disadvantage of not knowing? 
+A. That is the limitation of not knowing the sequences.
+ It seemed to me that this evidence fell a long way short of proof that it was necessary to know the primer sequences in order to test the reliability of
+Profiler Plus, which was what the defence was asserting when I stopped the trial. This evidence gave rise to no concern in my mind that Profiler Plus had not been validated or that it was apt to produce unreliable results.
+ Reliance was placed on the fact that Promega Corporation had recently decided to publish the primer sequences it used for amplification. However, I was satisfied, having read Promega Corporation's press release dated 2 March , that it did so for no scientific reason but to avoid the embarrassment of any repeat of the numerous court challenges that had been made in the
+United States to the receipt of evidence of results produced by systems which it marketed.
+ The accused drew attention to what were categorised as departures in DAL, and perhaps in testing laboratories generally, from standards mandated by
+Applied Biosystems.
+ Dr McDonald said this - 
+What is your understanding so far as the significance of the user manual as being standards that are required to be followed or near guidelines which can be varied but then necessarily validated in-house? 
+A. Well, I might say my personal view about what the company considers the situation to be changed yesterday. I mean it is apparent that people are changing various aspects of the protocols perhaps to suit their own laboratory situation or to, for example, you know, for financial reasons to extend the, you know, the usage of the kits, but there was nothing in the manual which indicated to me that the company considered that that was appropriate to do.
+In fact they make it a statement in the number of situations that they expect, you know, the kits to be used in accordance with their protocols. They identify two areas where they expect the laboratory to do their own areas. One of them is in the amount of DNA.
+ Dr McDonald went on to identify the other variable aspect of testing as minimum reportable peak heights.
+ Dr Atchison said that if Profiler Plus was validated, that validation held good only if the conditions obtaining during validation continued to be applied to casework. He regarded conditions dealt with in the Profiler Plus manual as mandated by Applied Biosystems. He gave this evidence.
+
+Q. Are you familiar with the area of it that is called Chapter 12, that has been produced in these proceedings, which purports to contain validation material? 
+A. Yes.
+
+Q. What do you say to the claim that that material in that chapter validates the system? 
+A. Again I can say it - if we take it at face value and say that is what they have done, and those were the results they obtained, then it validates the system as they have defined it. If you depart from that system in any way, then logically you can't use their validation studies to say how I am using it is valid.
+
+Q. Are you referring in particular to two aspects of the manual, namely and firstly the instruction that a certain amount of DNA ought to be used in the extraction process? 
+A. In the application process, not the extraction process.
+
+Q. Is that the area where we talk of one to two nanograms? 
+A. Yes.
+
+Q. That is the company's direction? 
+A. Yes, because that is how they have done their validation studies.
+
+Q. Similarly, the volume of the reaction material that the company suggests ought to be used is, what, 50? 
+A. 50 microlitres.
+
+Q. You are aware that that is routinely departed from by different laboratories? 
+A. Yes, and some laboratories use some samples of 50, and some at 25.
+
+Q. What do you say the effect of the combined departure from those two instructions may have on the efficacy of the results? 
+A. Actually, all I am saying is you can't then go back to the company's validation studies and say, "What I am doing is valid", because their system is directed at a different type of analysis.
+
+Q. Do you say their validation presupposes the use of the requisite amounts in those two areas we have just been referring to? 
+A. That is if you want to rely on the company's validation studies. You could go off and do your own complete validation studies again, but you can't do that when you have a kit.
+ The relevant parts of the portion of the Profiler Plus Users' Manual that was tendered is para 4.1.5.10. The heading is: Minimum Sample: Establish
+Quantity of DNA Needed to Obtain A Reliable Result. The text says that the
+PCR amplification kit has been "optimized to amplify and type approximately .0 - 2.5 mg of sample DNA reliably". The suggested minimum peak height threshold for detection and assignment of genotypes is 150 relative fluorescence units (RFU).
+ It appeared from the evidence of Mr Pearman that in another part of the manual Applied Biosystems suggest 50 microlitres as the quantity of reagent to be used in amplification.
+ It also appeared from Mr Pearman's evidence, which I accepted, that these criteria are routinely departed from in working laboratories throughout the world. Mr Goetz gave evidence to the same effect. In DAL and FSSA all DNA extracts are amplified, regardless of amount, and the ability to interpret a profile is based not on the amount of DNA present but on the strength of the profile produced at the end of the process. One reason for this is the difficulty in measuring precisely the amount of DNA present. I was satisfied that that approach was commonly adopted.
+ I was also satisfied that laboratories commonly report profiles where peak heights are less than 150 RFU. FSSA reports two peaks above 75 RFU and single peaks above 100 RFU. Mr Pearman explained his laboratory's approach in these words - 
+I think this is for two reasons. As I said, we have had considerable experience using fluorescent technology prior to the introduction of Profiler
+Plus, and we report the presence of alleles with the quadruplex down to 30
+RFUs, and we saw no reason why not to continue that same philosophy, if you like, with Profiler Plus, but for our validation studies settled on a level of RFUs rather than 30 - and there are a number of laboratories around the world that have lower thresholds than 150 as recommended by Perkin Elmer - and our validation studies looked at what level we would settle at and, as I said, as a result of those studies we settled at 75 RFUs.
+ The evidence of Mr Goetz was that DAL uses 25 microlitres of reagent when amplifying. Mr Pearman said that FSSA used 25 microlitres when amplifying the reference sample and 50 microlitres when amplifying the crime sample. I accepted the evidence of Mr Goetz that the use of such volumes of reagent gives reliable results which are, among other things, concordant with results reported by other laboratories. Mr Pearman's evidence was to much the same effect. He said that many laboratories used volumes less than the one set forth in the Profiler Plus Users' Manual. RCMP used as little as 10 microlitres for reference samples.
+ Exhibit H was a letter written by the Director, Applied Genetic Analysis,
+PE Biosystems to Mr Pearman in 2000. The letter commenced as follows - 
+Applied Biosystems publishes manuals and other pieces of literature to assist our forensic customers in the operation of the systems that we provide to them. When these publications contain recommendations they are simply that, a recommendation based upon our own experience and should not be construed as anything more than a guideline.
+
+We consider it important that laboratories conduct their own studies to validate the system in their own laboratory in their own hands. Each laboratory should conduct appropriate studies to show that the conditions and operational procedures they adopt provide reliable and consistent results.
+Each laboratory is different and may have different operational procedures.
+Laboratories may adopt conditions that are different from those that we recommend in our literature.
+ The letter went on to refer to the need to interpret cautiously peak heights of less than 150 RFU when the amount of DNA amplified is extremely low and quotes passages from the Profiler Plus Users' Manual, including the following - 
+Individual laboratories may find it useful to determine an appropriate minimum peak height threshold based on their own results using low amounts of input
+DNA. Typically, peak heights &gt;150 RFU are consistently obtained when approximately 250-500 pg of DNA is added to the PCR amplification.
+
+A laboratory may decide based on their own validation that a minimum peak height of either less than 150 or greater than 150 RFU may be appropriate. The value of 150 RFU is provided for guidance only.
+ I accepted that amounts of DNA, minimum reporting peaks and reagent quantities were dealt with in the Profiler Plus Users' Manual as suggested, not mandated, standards and that Applied Biosystems encouraged laboratories to adopt other criteria, provided they satisfied themselves that reliable results were thereby generated. I was satisfied that DAL had validated its use of
+Profiler Plus in the manner described by Mr Goetz. I rejected the opinion of
+Dr Atchison as outside the scope of his knowledge and experience and I concluded that Dr McDonald had no reason to express the concern he did.
+ Dr Atchison raised the results of a study demonstrating an occasion upon which wrong results were generated, namely Kline and others, Results from the NIST Mixed-Stain Study #2: DNA Quantitation, Differential Extraction and
+Identification of the Unknown Contributors. The paper reported on the typing of a number of samples by forty-five local, State, Federal and commercial laboratories in the United States. The samples included some from individual donors and some mixed. Thirty of the laboratories used Profiler Plus, but twenty-five of them used it in connection with some other system.
+ Dr Atchison said that the paper concluded that many participants gave the wrong results when dealing with mixed samples. The Crown disputed that that was a fair summary of the paper's conclusions. What the paper said was that many participants did not attempt fully to type one of the contributors to one of the mixed samples and that several participants to attempted to type it made one or more incorrect assignments. (My emphasis.) I did not think that Dr Atchison's summary of the conclusions reached by the authors was accurate. In any case, the paper did not say and did not enable the reader to deduce whether the mistypings resulted from the use of
+Profiler Plus or from any other system, whether used by itself or in conjunction with Profiler Plus. I concluded that the paper did not support Dr
+Atchison's assertion and gave rise to no reason to doubt the reliability of results produced by Profiler Plus.
+ Dr McDonald's position was that he had accepted in good faith Applied
+Biosystems' claim to have validated Profiler Plus and on that understanding had reported test results, knowing that courts and others would rely on them.
+There had been times when he had written enthusiastically about Profiler Plus, though he was reluctant to acknowledge it at the hearing. There were these questions and answers - 
+Q. It would be fair to say that the most widely used system for DNA detection and comparison is the profiler plus system? 
+A. I don't know about the profiler plus system but I would certainly go to fluorescent detection of short tandem repeats, so the generic use of detection of fluorescent short tandem repeats, you know, by laser driven system is by far the most widely used one.
+
+Q. But you do not go so far as to say profiler plus is the most widely used system? 
+A. I don't have specific information on it but it is certainly a widely used system.
+ Dr McDonald was shown a document his laboratory had produced under subpoena. These questions and answers followed - 
+Q. Correct me if I am wrong but I understand it to be an unpublished document of which you are the author? 
+A. That's correct.
+
+Q. Relating to DNA testing? 
+A. Yes.
+
+Q. In that document, which is dated 20 March this year, you wrote that the most common system in use, the most widely used system was the profiler plus system? 
+A. Yes, for forensic work, for DNA testing.
+
+Q. That is true? 
+A. That was what I have written and that is my understanding.
+
+Q. It is true? 
+A. It is quite probably true.
+
+Q. You have previously written that the profiler plus system is the most accurate DNA testing system available? 
+A. Am, I may well have. I suspect you are reading that, yes, because you have got some documentary evidence.
+
+Q. Whether I have or not, would it be true to say you have previously written what I have just said? 
+A. It is not something that would be inconsistent with something I have written.
+
+Q. That was your view? 
+A. It has been my view.
+
+Q. Nothing that you have seen or read anywhere has told you that it is not the most widely used system for testing DNA in the forensic setting? 
+A. In the forensic setting, no.
+
+Q. Nothing you have seen or read has suggested it is not the most accurate DNA system in use? 
+A. Now I would have to say I can't answer that yes affirmatively any more because those statements would have been made on the assumption that studies that had been done would have been done working in the confidence there was nothing in those studies to cause me to think differently.
+
+Q. They assert they have done the validation in those studies? 
+A. It is written in a number of publications they assert they have done the studies.
+ A substantial curriculum vitae was tendered to support Dr McDonald's opinion and my summary of his positions and experience is a brief extract of the more recent entries in that document. It mentioned criminal cases in which he had given evidence, one of which was R versus Pantoja, a trial which produced a conviction and an appeal. The reported appeal judgment is noted above. Dr McDonald gave evidence at the trial on behalf of the defence, having tested crime scene and reference samples and produced results significantly different from those relied upon by the Crown. On appeal Hunt CJ at CL dealt with an argument whether the conflict in the expert testimony was enough to raise a reasonable doubt about the appellant's guilt. His Honour concluded that such a doubt could safely be eliminated and referred to many criticisms of Dr McDonald's evidence, including what might be thought to have been the excessive caution which he exhibited in his interpretation of test results and a wholly eccentric result he obtained at one locus which was inconsistent with all the non-scientific evidence in the case.
+ I also detected excessive caution on Dr McDonald's part and I concluded that his evidence was unreliable where it differed from that of Mr Goetz and
+Mr Pearman. There is a significant difference between reliability and perfection, a difference of which I though Dr McDonald had lost sight.
+ For the most part my decision depended upon my acceptance of the evidence of Mr Goetz and Mr Pearman. It is therefore necessary to deal with a submission that they had made themselves advocates. This submission was made in writing - 
+The only evidence to support the contention that the evidence is reliable comes from two witnesses, Mr Goetz himself and Mr Pearman. Both witnesses are in part responsible for the adoption by all but one of the Australian laboratories in the field adopting the Profiler Plus System. Both regularly give evidence of opinions based on the assumption that the system is reliable.
+It follows that when called upon to justify that assumption they are prone to become advocates for the validity of the assumption.
+ Counsel referred to the judgment of Nader ADCJ QC in R versus Argue 1
+March 2001 unreported. The judgment was not put before the Court but it appeared from extracts set forth in counsel's written submissions that the question there raised was whether Profiler Plus had been accepted as valid by the scientific community. His Honour is said to have said this, referring to the evidence of Mr Goetz - ... I think Mr Goetz was a most impressive witness and I have been impressed with everything about his testimony; the way he gave it and its content, but in the very nature of the things, someone whose livelihood, as it were, is being made using system X, is not really the kind of objective witness as to the acceptability in the scientific community of a system that the court is looking for. I would like to see someone from, a senior person from a university who deals in this kind of thing perhaps. I am giving you the kind of evidence the court really needs at this stage in the development of this sort of thing, should come to the court and say, yes, this process is accepted by the scientific community as a whole".
+
+It is like getting someone from the Ford Motor Company to come along and say that the engines of Fords are very good. I know Mr Goetz doesn't work for
+Profiler Plus but his whole laboratory is geared to that. His life's work, so to speak, is involved with that and his confidence is put into it. I think I need more than that. I mean no disrespect to him but his opinions are not going to convince me in a forensic sense, they might in a private sense.
+ ...
+
+You see, I am not condemning the thing. I am not saying it is not acceptable.
+I am saying I don't have evidence before me, at the moment, of that objective kind, from a person who has no connection with the system; a person who can say "I'm absolutely impartial". When such a person comes forward of high enough standing in the scientific community to say it is an acceptable form of testing and so on, until that happens, how can I, as a mere lay Judge, in terms of science, make that decision on the basis of a person who works in the very thing you're arguing for? It was submitted that for the same reasons this Court should regard Mr
+Goetz as lacking "the perceived independence that the Court should require before it can be satisfied that the evidence is based on opinion which is reliable".
+ I rejected the submission. I was not prepared to conclude that Mr Goetz's evidence lacked objectivity merely because it derived from the use of a scientific system he was responsible for installing, maintaining and using.
+The Court routinely accepts evidence from professional witnesses who in effect stake their reputation on the reliability of the opinions they put forward. In my opinion far more is needed to demonstrate bias than that a witness gives evidence about results from a system with which he or she is intimately connected.
+ I thought that if applied the approach contended for might work another mischief. So specialised is the nature of typing DNA profiles by systems using the methods of extraction, amplification and interpretation of results by fluorescent technology in computerised equipment as in Profiler Plus that no scientist not actually engaged in the work is likely to understand sufficient detail of it to be able to give reliable evidence about it. There appeared no reason to suppose that there existed university staff or scientists other than those using the system in their daily work who might be able to give evidence of the detail the Court might expect. If the principle contended for were right, the result might very well be that those who knew about the system because they used it in their work would be unable to give evidence because the Court thought them unreliable, whereas the remaining members of the scientific community would know too little to qualify as experts for the purposes of <case>. Nobody would be able to give evidence.
+ I concluded for the foregoing reasons that the Profiler Plus system as used by DAL had been properly validated, that DAL had not failed to follow any technique mandated by Applied Biosystems, that the accuracy of results reported from testing by Profiler Plus should not be doubted because of any confusion between homozygotes and null alleles and that it was not necessary to know the primer sequences in order to test the reliability of the system. I concluded that the evidence proposed to be given by Mr Goetz was based upon his specialised knowledge, based on his training, study and experience.
+ I concluded that the evidence had substantial probative value because it was produced by a validated system shown to yield consistent results, produced by techniques approved by Applied Biosystems as to the amount of DNA required, the volume of reagent to be used and as to minimum reportable peak heights. I concluded that there was no reason to regard results so produced as lacking any probative value because of any lack of knowledge by DAL of primer sequences or possible confusion between homozygotes and null alleles. For the same reasons and because no attack was made on individual results by reference to objective evidence in the case, I concluded that there was no danger of unfair prejudice to the accused if the evidence were admitted.
+ 
+LAST UPDATED: 07/06/2001 * * * 

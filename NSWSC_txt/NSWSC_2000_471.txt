@@ -1,0 +1,321 @@
+
+
+Edge Technology P/L versus Lite-On Technology Corp [2000] NSWSC 471 (1 June )
+
+Last Updated: 16 October 2000 
+NEW SOUTH WALES SUPREME COURT 
+CITATION: Edge Technology P/L versus Lite-On Technology Corp <case> revised - 7/06/2000 
+CURRENT JURISDICTION: Equity 
+FILE NUMBER(S): 4809/99 
+HEARING DATE{S): 20/03/00, 21/03/00 
+JUDGMENT DATE: 01/06/2000 
+PARTIES: 
+Edge Technology Pty Limited (Plaintiff) 
+Lite-On Technology Corporation (Defendant) 
+JUDGMENT OF: Santow J 
+LOWER COURT JURISDICTION: Not Applicable 
+LOWER COURT FILE NUMBER(S): Not Applicable 
+LOWER COURT JUDICIAL OFFICER: Not Applicable 
+COUNSEL: 
+C Stephens, QC/ W McManus (Plaintiff) 
+P Durack (Defendant) 
+SOLICITORS: 
+A J Law & Co (Plaintiff) 
+Robert Seidler & Associates (Defendant) 
+CATCHWORDS: 
+CORPORATIONS LAW -- Statutory demand -- Offsetting claim versus attacking directly genuineness of demand debt -- Distinction in context of sale of goods with associated proceedings for breach of warranty under Trade Practices Act and [Sale of Goods
+Act](http://www.austlii.edu.au/au/legis/nt/consolact/soga128/) type warranties -- How offsetting claim tested for genuineness compared to how statutory demand tested for genuineness -- Use of statistical analysis in relation to testing genuineness of quantification of an unliquidated claim.
+
+ACTS CITED: 
+Corporations Law ss459F, 459G and 459H [Sale of Goods Act](http://www.austlii.edu.au/au/legis/nt/consolact/soga128/) [Trade Practices Act ](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) (Cth) 
+DECISION: 
+Statutory demand to be partially offset by offsetting claim.
+
+JUDGMENT: 
+REVISED -- 7 June, 2000 
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+IN EQUITY 
+SANTOW J 
+No. 4809/99 
+Edge Technology Pty Limited 
+Plaintiff 
+Lite-On Technology Corporation 
+Defendant 
+JUDGMENT June 2000 
+Table of Contents 
+Page 
+INTRODUCTION 
+FACTUAL BACKGROUND 
+THE CENTRAL ISSUE 
+The Test of `Genuine Dispute" 
+Is there a genuine dispute or offsetting claim? 
+Is the dispute "bona fide"? 
+Delay and absence of complaint 
+Conclusion 
+Other matters going to genuineness 
+Conclusion 
+Is the dispute concerning the demand debt "spurious, hypothetical, illusory or misconceived"? Alternatively, does the Plaintiff have a genuine offsetting claim? 
+What is the amount of the offsetting claim? 
+Increased Onsite Warranty Costs 
+Increased Repair Costs 
+Loss of Business on Sales of KTX Monitors 
+Conclusion 
+Loss of profit on sale of other KTX components 
+Second-hand sales 
+The sum of the offsetting claim 
+Extension of time under s459F(2)(i)(a) 
+OVERALL CONCLUSION 
+ORDERS AND COSTS 
+INTRODUCTION Applications to set aside statutory demands, despite their frequency, can still generate issues of legal difficulty or relative novelty. The present poses these questions: 
+The party seeking to set aside a statutory demand for unpaid purchase money claims damages for breach of warranty by separate action; does this claim "genuinely dispute" the demand debt or is it rather an "offsetting claim"? 
+If an offsetting claim, how is its genuineness challenged? Is it like disputing the genuineness of a statutory demand debt; where all that is required successfully to challenge the offsetting claim is come up with a plausible contention to the contrary of the offsetting claim which merely requires further investigation? Or rather is the onus for the challenger heavier; to show that the offsetting claim is frivolous, vexatious or merely colourable? and 
+How may an unliquidated claim for damages said to constitute an offsetting claim be challenged as to existence or quantum by statistical inference? By summons of 25 November 1999 the Plaintiff seeks to set aside a statutory demand. It was served by Lite-On Technology Corporation ("the Defendant" or "Lite-On") on Edge Technology Pty Limited ("the Plaintiff" or "Edge") on 5
+November 1999.
+ The Plaintiff contends, pursuant to ss459G and 459H of the Corporations
+Law that the debt asserted by the Defendant is the subject of a genuine dispute or offsetting claim and should be set aside.
+ The debt in this case arises out of delivery, by the Defendant to the
+Plaintiff, of a quantity of computer monitors. The dispute, said by the
+Plaintiff to be genuine, arises out of various alleged breaches of the contract of sale of the computer monitors and alleged contravention of the [Trade Practices Act ](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) (Cth) by the Defendant. What follows is based substantially on a factual narrative accepted by the parties 
+Factual Background On 8 November 1999 the Defendant served a statutory demand dated 5 November (the "Demand") on the Plaintiff. The Demand was supported by an affidavit of Ting-Nan Lee, sworn 5 November 1999.
+ The Plaintiff, by summons filed on 25 November 1999, seeks to set aside the
+Demand. The Summons is supported by an affidavit of Emily Ballantyne sworn 25
+November 1999, and a further affidavit of Andrew Reeves sworn 3 February 2000.
+ The Demand alleges that the Plaintiff owes the Defendant the sum of
+A$1,545,549.80 (converted from the invoiced amount of US$979,724), in respect of amounts allegedly outstanding in respect of 15 inch and 17 inch computer monitors supplied by the Defendant to the Plaintiff between 30 June 1999 and 3
+September 1999. (No issue arises out of the foreign currency of the claimed sum.) The Plaintiff says it has a genuine dispute and an offsetting claim against the Defendant in respect of the monitors. The Plaintiff asserts that the monitors as supplied exhibited a far higher failure rate than is acceptable in the industry. It is alleged that this has resulted in, and will result in, significant losses to the Plaintiff greater than the amount claimed by the
+Defendant. Its claim is for breach of contract, breaches of [Trade Practices
+Act](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) and breaches of the [Sale of Goods
+Act](http://www.austlii.edu.au/au/legis/nt/consolact/soga128/). It is asserted that the losses claimed are the clearly foreseeable consequences of the defects in the monitors.
+ On 17 March 2000 the Plaintiff commenced proceedings in the Federal Court of
+Australia against the Defendant in respect of this dispute. The Defendant's
+Australian solicitors have accepted service in Australia of the Plaintiff's
+Application and Statement of Claim. The Federal Court pleadings in draft form were set out at Annexure "F" to the affidavit of Andrew Reeves sworn 3
+February 2000 for the Plaintiff. The filed form of the Application particularises damages in excess of the amount sought by Lite-On in its statutory demand. It does so by way of estimate only under various heads including $1,382,400 for "Lost Profit on sales of KTX Monitors", clause 19 of the Application stating: "The Applicant is endeavouring to establish loss and damage, which will only be properly ascertained after the failure rate over a full year is established". The failure rate earlier stated by clause 19 of the
+Application for the Defendant's monitors is said to be, for the period 20
+October 1995 to 31 January 2000, approximately 16.9% while that from 1
+December 1999 to 31 January 2000 is said to be 8.9%.
+ Edge was a supplier of computer monitors, including KTX brand monitors, to retailers in Australia and New Zealand a number of years before the supply agreement the subject of these proceedings. In 1999 KTX brand monitors made up less than 50% of Edge's sales of computer monitors.
+ The supply agreement the subject of these proceedings, which was only concerned with the supply of KTX brand monitors, provided a very small percentage of Edge's requirements for KTX brand monitors.
+ Edge suffered a fall in sales of KTX brand monitors before any supply by
+Lite-On to Edge. The quantum of the fall and its significance is dealt with below.
+ Lite-On supplied monitors to Edge pursuant to a purchase order dated 27 May
+Under the terms of that order, payment was to be made within 60 days of the bill of lading in respect of Lite-On's supply to Edge on free-on-board terms.
+ By 7 July 1999 over US$200,000 worth of monitors had been delivered fob to
+Edge. Hence, by about 7 July 1999 over US$200,000 was due and payable to Lite-
+On. No payment was then made in circumstances where there had as yet been no problem of a failure rate identified by Edge.
+ At no time prior to the issue of the statutory demand was any complaint made to Lite-On about any failure rate. The Plaintiff says that the problem manifested itself from at least September 1999, whether or not communicated.
+ The Defendant says that at no time has the Plaintiff explained to the
+Defendant what the nature of the problem with the monitors is, and why it is asserted to be a manufacturer's responsibility. The Plaintiff disputes this.
+ The Plaintiff first sought acceptance of service by the Defendant's solicitors on 1 March 2000 in relation to the Federal Court proceedings.
+ Edge made an arrangement with Warranty Assistance Australia ("WAA") covering the monitors supplied by Lite-On under which, in consideration of a premium of $25,000, WAA would receive from customers any returns of monitors for faults, provide a customer a replacement monitor and send the monitor claimed to be faulty back to Edge for repair.
+ Lists of monitor faults said to be logged under the WAA on-site program were in evidence before this court (PX2 and DX7). The lists refer to monitor serial numbers in the description warranty number. The Defendant does not accept that the lists properly reflect the quantity of monitors that have been returned.
+ A Statement of Claim and an Application for Orders under [ss82](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/s82.html) and [87](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/s87.html) of the [Trade Practices Act ](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) (Cth) respectively were filed by the Plaintiff in the Federal Court of Australia registry on 17 March 2000.
+
+The CENTRAL Issue The Plaintiff asserts that there is a genuine dispute in respect of the contract under which the debt asserted by the Defendant's statutory demand is said to arise. In the alternative, the Plaintiff argues that there is an offsetting claim in equity as against the statutory demand amount.
+ There are two questions: does there exist a genuine dispute concerning the amount claimed by the
+Defendant for monitors supplied to the Plaintiff (A$1,545,549.80), and does there exist a genuine claim by way of counter-claim, set-off or cross-demand on behalf of the Plaintiff against the Defendant.
+ A further question, ancillary to the primary issue, is whether an extension of time for the Plaintiff to meet the Defendant's statutory demand should be ordered by this Court pursuant to section 459F(2).
+
+The Test of `Genuine Dispute" It is here again true (as it was in Goldspar Australia Pty Ltd versus KWA
+Design Group Pty Ltd [(1999) 17 ACLC 456)] that it "is not my task in the present proceedings to seek to resolve the competing claims of the Plaintiff and the Defendant": per Austin J at 462. Rather, it is to "resolve whether, for the purposes of s459(H)(1)(a), there is a genuine dispute between the Plaintiff and the Defendant about the existence or amount of the debt to which the Defendant's statutory demand relates": Austin J at
+Or alternatively, whether there is a genuine counter-claim, set-off or cross-demand against the Defendant and, if so, in what amount. In particular, how should it be quantified; at a nominal $1 or at a large figure and if the latter, how is the quantification to be arrived at? The latter question essentially asks whether the counter-claim or set-off is fictitious or merely colourable; Jesseron Holdings Pty Ltd versus Middle East Trading Consultants Pty
+Limited (No. 2) [(1994) 12 ACLC 490] In that context, to come up with a plausible contention to requiring further investigation which, if later established, would preclude there being an offsetting claim. That would not establish that the counter-claim or set-off was fictitious, or merely colourable. In that sense, the counter-claim or set- off is not the reciprocal of the statutory demand debt. Rather it is a means of offsetting the statutory demand debt with a genuine counter-claim or set- off.
+ I adopt the approach of the Full Federal Court in Spencer Constructions
+Pty Limited versus G & M Aldridge Pty Limited <case>; [(1997) 15 ACLC 1],001 at 1,011 <case>; , [(1997) 76 FCR 452] at 464; that a genuine dispute requires that "the dispute be bona fide and truly exist in fact" and that the "grounds for alleging the existence of a dispute are real and not spurious, hypothetical, illusory or misconceived". The same applies to the counter-claim or set-off. One asks: Is it bona fide, is it real and not spurious? I here adopt what was said by Thomas J in Re Morris Catering (Australia)
+Pty Ltd [(1993) 11 ACLC 919] at 922: "It is often possible to discern the spurious, and to identify mere bluster or assertion. But beyond a perception of genuineness (or the lack of it), the
+Court has no function. It is not helpful to perceive that one party is more likely than the other to succeed, or that the eventual state of the account between the parties is more likely to be one result than the other.
+
+The essential task is relatively simple - to identify the genuine level of a claim (not the likely result of it) and to identify the genuine level of an offsetting claim (not the likely result of it)" The evidentiary hurdle faced by the Plaintiff in disputing genuineness in such a case is not to try the claim but merely establish its genuineness. It is neither necessary nor appropriate that this Court attempt finally to determine the issues being here those raised by the Statement of Claim. The latter embraces claims under the [Trade Practices
+Act](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/). Thus
+Chadwick Industries (South Coast) Pty Limited versus Condensing Vaporisers Pty
+Limited (1994) 13 ACSR 37 at 39 per Lockhart J: "[The] court will not examine the merits of the dispute other than to see if there is in fact a genuine dispute. The notion of a "genuine dispute" in this context suggests to me that the court must be satisfied that there is a dispute that is not plainly vexatious or frivolous. It must be satisfied that there is a claim that may have some substance" That minimum hurdle must nonetheless be cleared. A dispute as to the statutory demand debt becomes genuine where, in denial of that alleged debt, there is a "plausible contention requiring further investigation"; Eyota Pty
+Limited versus Hanave Pty Limited [(1994) 12 ACLC 669] per
+McClelland CJ in Eq at 671-612. But importantly this "... does not mean that the Court must accept uncritically as giving rise to a genuine dispute, every statement in an affidavit "however equivocal, lacking in precision, inconsistent with undisputed contemporary documents or other statements by the same deponent, or inherently improbably in itself, it may be not having sufficient prima facie plausibility to merit further investigation as to [its] truth... or a `patently feeble argument, or an assertion of facts unsupported by evidence'.
+
+But it does mean that, except in such an extreme case, a Court required to determine whether there is a genuine dispute should not embark upon an inquiry as to the credit of a witness or a deponent whose evidence is relied on as giving rise to the dispute. There is a clear difference between, on the one hand, determining whether there is a genuine dispute and, on the other hand, determining the merits of, or resolving such a dispute." [at 671-2] If there be an offsetting claim, the amount of the offsetting total is the amount claimed by the Plaintiff in good faith, so long as that claim as so quantified is not fictitious or merely colourable: Jesseron Holdings Pty Ltd v Middle East Trading Consultants Pty Ltd [(1994) 14 ACLR 490] at 493; 13
+ACSR 455.
+
+Is there a genuine dispute or offsetting claim? The Plaintiff says that it has a genuine dispute about the statutory demand debt, or alternatively an offsetting claim against the Defendant in respect of the monitors. The Plaintiff says that the monitors as supplied exhibited a "far higher failure rate than is acceptable in the industry". It is said that this has resulted in, and will result in, significant losses to the Plaintiff greater than the amount claimed by the Defendant. The claim is for breach of contract, breaches of the [Trade Practices
+Act](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) and breaches of the [Sale of Goods
+Act](http://www.austlii.edu.au/au/legis/nt/consolact/soga128/).
+ For the demand to be set aside on the basis of the demand debt being genuinely disputed, it must be established by the Plaintiff that the dispute concerning its existence is bona fide and not spurious, hypothetical, illusory or misconceived: Spencer's Case (supra). In other words, there must be a plausible contention requiring further investigation which genuinely puts in dispute the debt which grounds the statutory demand. But the merits are not now to be determined beyond the preliminary testing as to whether there is a serious question to be tried. The alternative basis for the demand to be set aside or reduced by reason of an offsetting claim involves, as I have said, a different test. The question is not whether there is a genuine dispute in the above sense against the offsetting claim. The question is rather whether the "offsetting claim" can be shown to be "not frivolous or vexatious"; Chadwick
+Industries (South Coast) Pty Ltd versus Condensing Vaporisers Pty Ltd (1994) 13
+ACSR 37. That places a heavier onus on the party seeking to maintain its statutory demand, than if it merely had to establish the reciprocal of a genuine dispute against the offsetting claim.
+
+Is the dispute "bona fide"? The "bona fide" existence of the dispute finds some support in the filing and service of the Plaintiff's Statement of Claim in the Federal Court. To this, the Defendant submits that the grounds for that Statement of Claim and the Plaintiff's claim under the [Trade Practices
+Act](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) are not capable of supporting those claims.
+
+Delay and absence of complaint First, the Defendant points out that the complaint of the Plaintiff, now encapsulated in the Federal Court proceedings, arose only after and contemporaneously with the service of the statutory demand. Could it be said then that the absence of complaint by the Plaintiff prior to the issue of the statutory demand evidences a lack of bona fides in relation to the alleged dispute? My answer is, not necessarily; it turns on the circumstances which I consider below.
+ It must be born in mind in an application to set aside, that it is the debt the subject of the statutory demand to which the genuine dispute must relate.
+However, if in addition (or instead) an offsetting claim is relied on to reduce or eliminate the amount claimed under the statutory demand, then it is the genuineness of that offsetting claim that matters, not the genuineness of a dispute about that claim. If then, there be a genuine dispute in respect of that debt at the time the statutory demand is served upon the alleged debtor (5 November 1999), that is sufficient to ground an application under s459G and the relevant time for that purpose. However, the amount of any offsetting claim, including any accrued interest must be determined at the time the s459G proceeding is heard to set aside the demand; Equuscorp Pty Ltd v Perpetual Trustees WA Ltd <case>; [(1998) 16 ACLC 12] at 30. Absence of complaint before the service of the demand can be some evidence of a lack of bona fides in the alleged debtor's dispute and speak against s459G or s459H relief. But it is not ordinarily conclusive by itself.
+ The Plaintiff says that the problems with the Lite-on monitors were evident at least by September 1999. An E-mail dated 1 October 1999 from Mr Reeves to
+Mrs Ballantyne suggests that the Plaintiff was aware of the "major failure rate" on the monitors supplied by the Defendant. Furthermore it is acknowledged in that communication that the high failure rate could have detrimental consequences in the area of increased on-site warranty costs and brand value. The Federal Court proceedings were foreshadowed by Mr Reeves in his affidavit of 3 February 2000.
+ Such delay as there was between the supply of the monitors and the complaint arising from the Plaintiff can be explained, at least in part, by the lag time between the arrival of the product and its final distribution to consumers. That appears to be consistent with the submissions of both parties (the Defendant submitted that the monitors would not have reached the end-user market until early August 1999). There was no other evidence before me on exactly how much delay could properly be so explained.
+
+Conclusion I find that the delay was not to such extent as of itself to jeopardise the bona fides of the Plaintiff's `dispute'.
+
+Other matters going to genuineness Secondly, the Defendant submits that the Court should view the Plaintiff's dispute with "scepticism" on the grounds that there was a default on the payment of a significant sum of money at a time before any quality issue had been identified, though at a time when the computer monitors had been in the market only for a fairly short period of time. It is alleged by the Defendant that complaints from the Plaintiff about defective monitors to the Defendant began only after 5 November 1999 when the statutory demand was first served on the Plaintiffs.
+ While, as established above, there was a complaint in the mind of the
+Plaintiff at least as of 1 October 1999, it was acknowledged by the Plaintiff that at that time there was payment overdue to the Defendant, the date of first payment falling due being 7 September 1999.
+ However, while it is not asserted by the Plaintiff that the failure to make the required 7 September 1999 repayment was due to a genuine dispute, it is argued that the continuing failure to pay the debt the subject of the demand was due to a bona fide and genuine dispute of the debt on the part of the
+Plaintiffs. Furthermore, though there may (or may not) have been sufficient evidence to support a genuine dispute as at the time of the demand, the time for ascertaining the evidence grounding a dispute is as I have said the date of the hearing: Equuscorp Pty Limited versus Perpetual Trustees (supra) at 30.
+
+Conclusion The delay in voicing a dispute, while relevantly going to the issue of bona fides does not disqualify the Plaintiff's claim in this case.
+ Thirdly, the Defendant asserts that the Plaintiff has failed to produce to the Court vital information capable of enabling the genuineness or otherwise of the dispute to be properly tested. However, the purpose of these proceedings is not fully to ventilate the issues giving rise to the purported genuine dispute. The Plaintiff need only adduce that evidence necessary here to meet the lower threshold of a genuine dispute, not try it on its merits.
+Whether the Plaintiff's evidence goes far enough merely to establish that genuineness, I deal with below.
+
+Is the dispute concerning the demand debt "spurious, hypothetical, illusory or misconceived"? Alternatively, does the Plaintiff have a genuine offsetting claim? There are several matters of fact bearing on whether the dispute in the present case or the asserted offsetting claim is not genuine; that is, "spurious, hypothetical, illusory or misconceived". The question must be answered having regard to the evidence before the court at this time and on the basis that the contract has not been terminated. The Plaintiff says that the genuine dispute or offsetting claim arises from the assertion that the
+Defendant failed to supply goods satisfying a warranty (either express or implied) of merchantable quality and fitness for the purpose for which the monitors are employed. The requirement of fitness for purpose is, prima facie, implied by the [Trade Practices Act ](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) (Cth) and the [Sale of Goods
+Act](http://www.austlii.edu.au/au/legis/nt/consolact/soga128/) and expressed in the terms of the supply contract between the parties. That contract can be taken to be constituted by acceptance of the Plaintiff's purchase order of 27
+May 1999. The purchase order is a single sheet with the bare terms. These include "Warranty: 15 months warranty" but with no further elaboration.
+ The Defendant asserts that, for the Plaintiff to show that the offsetting claim is not "spurious, hypothetical, illusory or misconceived", the least that it should be required to do is to provide detailed particulars as to the defects said to give rise to the dispute or offsetting claim.
+ The threshold presented by the test to set aside a statutory demand does not however require of the Plaintiff a rigorous and in-depth examination of the evidence relating to the Plaintiff's dispute or offsetting claim. That is why cross-examination in contested statutory demand proceedings is limited:
+Hayne JA in Mibor Investments Pty Limited versus Commonwealth of Australia <case>; [(1993) 11 ACSR 362] at 364).
+While cross-examination is not precluded, it must go succinctly to an issue in the case. It would ordinarily not go to the merits nor to credit. Likewise, matters pertaining to rigorous pre-trial discovery would not be appropriate for argument in s459G proceedings.
+ I am satisfied that there is no basis for dismissing the Plaintiff's summons at the outset, on the ground advanced by the Defendant that there was insufficient evidence for this Court even to decide the s459G application. But that still leaves the issue of genuineness.
+ The mere fact that Federal Court proceedings have been initiated in respect of the contractual relationship between the Plaintiff and the Defendant does not foreclose that question in favour of the Plaintiff. One still needs to look in that forensic context at the available evidence and the arguments which rely on it, much as one would in an application for interim relief. This is to test if there be merely "an assertion of facts unsupported by evidence", or something of more substance than that. However, these proceedings are, as so framed, not a frontal attack on the debt claimed by the Defendant. Rather they are primarily by way of counter-claim, which the Plaintiff seeks to advance as an "offsetting claim" to be deducted from the debt the subject of the Defendant's demand, pursuant to s459H of the Corporations Law. That is why the Plaintiff relies on s459H in establishing an offsetting claim, rather than disputing the Defendant's debt in more direct fashion.
+ The Plaintiff's attempted offsetting claim against the Defendant's statutory demand starts with the assertion that there is a disproportionately high failure rate or incident rate amongst the Lite-on monitors. It is not essential here that the Plaintiff prove that there was a failure rate of such a nature as to establish an entitlement to relief. Rather the question is whether the evidence for that failure rate gives sufficient credence to the
+Plaintiff's assertion that it rises to the level of genuineness, so as to constitute something akin to a "serious question to be tried". This is both to ground the Plaintiff's alleged offsetting claim and to allow its quantification at the level claimed, or some lesser amount. Otherwise it must be quantified merely at a nominal $1, if incapable of quantification to the level where the amount claimed has a basis that is not frivolous or vexatious.
+The Plaintiff gives evidence that since mid-October 1999, it became aware, through its onsite warranty company, of an `extremely high rate' of returns of the Defendant's 15" monitors by customers to the onsite warranty company due to defects [Ballantyne affidavit, 25 November 1999, para 10]. The Plaintiff provided evidence to suggest that the annualised failure rates of 15" and 17" monitors supplied by the Defendant is 8.9% and 16.9% respectively [Reeves affidavit 3 February 2000 para 9-13].
+ There were a number of lists of faulty monitors adduced to the court in the proceedings. The first of these was Annexure "C" to the affidavit of Emily
+Ballantyne of 25 November 1999 A further list was tendered as PX2, being a list of faults obtained by subpoena from the Defendant served on the `on-site warranty company'. Curiously none of the monitors contained on the Annexure "C" list are included on the PX2 list. A further list was referred to in paragraph 4 of the affidavit of the Plaintiff's operations manager, Andrew
+Reeves of 3 February 2000 and attached at Annexure "A" to that affidavit. That list `updates' the list of Emily Ballantyne of 25 November 1999. Again, it does not seem that the Reeves list corresponds with the list comprising PX2 and DX7.
+ Nevertheless, the Defendant in these proceedings conceded that there is a "plausible contention requiring further investigation" that 161 monitors, being the subject of PX2 and DX7 have been returned between the period from 22
+September 1999 to 14 March 2000 [T, 55.35]. That can be taken to be an acknowledgment of the genuineness of that basis of claim, though not of course an admission beyond that.
+ The Defendant argues that its monitors met the `industry standard' for failure rate. In a letter from Warranty Assistance Australia to the Plaintiff [PX8], the warranty assistance company cites the figure of 5% failure rate as the industry standard for computer monitors. Furthermore, it was conceded by
+Ms Ballantyne that a failure rate of 1-2% would have no serious effect on the sale of KTX monitors by the Plaintiff [T, 29.35].
+ It is the Defendant's contention that the Plaintiff's method of calculation (as contained in the affidavit of Mr Reeves of 3 February 2000) of failure rate was flawed and that the failure rates of 8.9% to 16.9% supplied by the
+Plaintiff are incorrect. The Defendant asserts that the assumptions underlying the calculations and the relatively small amount of data on which they were based do not allow for accurate calculations of failure rate. While there is no error apparent in the mathematical calculations or method of the Plaintiff, there is room for argument as to whether, for example, the data chosen as a `sample' by the Plaintiff is representative, in the sense of truly indicating (or being capable of indicating) the state of the whole of the Defendant's monitors (ie the statistical `population'). Further there is room for argument about whether it is correct to assume that the failure rate is constant and will remain constant over the period during which the Defendant's monitors are on the market.
+ That said, there is not the evidence required from either side finally to decide the failure rate, nor is it necessary for me to do so. It is clear that, while the parties may wish at the later substantive proceedings to put on evidence, expert or otherwise, to support their competing assumptions and statistical interpretations, I am satisfied that the Plaintiff's contention concerning the failure rate of the monitors is not shown to be spurious. It thus provides sufficient basis as to ground a genuine offsetting claim.
+ The Defendant, however, submits that the quantum of the offsetting amount as outlined by the Plaintiff in the affidavit of Mr Reeves of 3 February 2000 should not be accepted.
+ The Defendant argues that the amount claimed as a cross-claim is unclear, there being conflicting evidence from the Plaintiff's witnesses as to the amount claimed. But that again is not the task of this Court finally to decide on its merits in s459G proceedings. So long as quantification can be made that is sufficiently supported by evidence as to establish its genuineness, that suffices, though final proceedings may see a different outcome. To the extent that there is a genuine claim sufficiently quantified as to give rise to an offsetting amount, the demand must be offset; s459H(4).
+ It remains to ascertain the amount of any offsetting claim, doing so as of now, when the s459G question is determined.
+
+What is the amount of the offsetting claim? Young J in Jesseron Holdings explains the process of deducting the offsetting claim. That is, if "the [Plaintiff] has a valid claim, the [Plaintiff] claims that that claim is worth $X, therefore I deduct $X from the amount of the creditor's claim": at 492. Young J continues: "It is well known that many claims are ambit claims, and not even the person making them has any real hope of recovering the maximum amount claimed. Often it is appropriate to work out what is the maximum likely amount to be recovered. However, it does not seem to me, although I have tried hard to fit this meaning into the subsection, that one can get this result. The "amount of the claim" is an expression which has a more or less defined meaning.... [it] means the amount claimed in good faith, so long as that claim is not fictitious or merely colourable": at 493 [emphasis added] The Defendant argues that the contention that the failure rate alleged by the Plaintiffs could lead to an offsetting claim in an amount greater than $1,000,000 is intrinsically implausible.
+ The Plaintiff for its part asserts a number of off-setting claims against the demand of the Defendant. These are set out in the Plaintiff's affidavits namely Emily Ballantyne of 25 November 1999 and Andrew Reeves of 3 February
+I need to consider each in turn.
+ First, there is an amount of $141,000 (being the sum in the Ballantyne affidavit) or $265,000 (being the sum in the Reeves affidavit) claimed, being the increased costs charged by the Onsite Warranty Company for the faulty monitors. During the proceedings, that amount was changed to $20,000 plus courier costs. It was conceded by both parties that the revised figure reflected a new warranty agreement reached between the Plaintiff and WAA.
+ Secondly, there is an amount of $7,500 (being the sum in the Ballantyne affidavit) or $15,000 (being the sum in the Reeves affidavit) said to arise out of increased repair costs made necessary by the Defendant's `breach'.
+ Thirdly, there is the largest amount claimed of some $1 million to $1.2 million (the sum in the Ballantyne affidavit) or $1,382,400 (the sum in the
+Reeves affidavit) being the estimated loss of profits said to relate to a decline in business caused by the Defendant's breaches. The Plaintiff estimates that the defective monitors will reduce sales on monitors sold by the Plaintiff from about 260,000 per year by one third. The total estimated loss is calculated on the basis of a margin of $12 per monitor.
+ Fourthly, the Plaintiff estimates that between $170,000 and $400,000 (amounts in the Reeves affidavit) will be lost by the Plaintiff as a result of declining sales in other products associated with the allegedly faulty products supplied by the Defendants.
+ Finally the Plaintiff says that it has lost the sum of $5,832 (in the
+Reeves affidavit) by selling the allegedly defective monitors to a second-hand retailer at a loss of $54 per monitor ($12 of which was lost profit per monitor).
+ The total off-setting claim argued by the Plaintiff is then between $1,561,720 and $2,068,200 (according to the Reeves affidavit [Reeves, affidavit 3 February 2000 at para 33]). It is also suggested by the Plaintiff that those amounts may rise "once the full effect on lost sales are determined, the New Zealand position is determined re returns, and other effects are calculated" [Reeves affidavit 3 February 200 at para 35]. The total amount claimed in the Statement of Claim filed by the Plaintiff before the Federal Court is $1,672,400 plus an amount "yet to be ascertained" for the lost profit on the sale of other KTX components.
+ These amounts are disputed by the Defendant on the following grounds.
+
+Increased Onsite Warranty Costs As at the time Emily Ballantyne swore her affidavit of 25 November 1999, the Plaintiff had an arrangement with WAA in respect of the provision of warranty services for KTX branded monitors to the Plaintiff. At that time and, as it is asserted by the Plaintiff, in response to foreseen increases in onsite warranty costs, the Plaintiff began negotiations with WAA in an attempt to reduce warranty costs.
+ The Ms Ballantyne's evidence is that there was a verbal arrangement entered into between the Plaintiff and WAA to the effect that the warranty on monitors that were less than 30 days old from the consumer's purchase date would be handled by the Plaintiff rather than by WAA as had been the previous arrangement. The Plaintiff would arrange replacement of the defective monitor.
+The new arrangement was said to have been instituted around 10 or 12 December .
+ The following evidence was given by way of oral evidence in chief by Ms
+Ballantyne for the Plaintiff: "Q. What fact had occurred that brought about this circumstance of changing the arrangement with Warranty Assistance Australia? 
+A. Well, a number of faulty monitors was becoming a problem for them and they were having difficulty keeping up with the replacements required and the failure rate was exceeding the agreed failure rate and rather than being charged a fairly substantial additional amount, I negotiated to look after those faulty monitors myself - ourselves.
+
+Q. And is there any further sum that has been sought from Warranty Assistance
+Australia Limited in relation to the monitor warranty repairs being in excess of the earlier agreed instant rate? 
+A Yes, they had charged us an additional $20,000 The additional charges were evidenced by an invoice dated 10 January 2000 issued by Warranty Assistance Australia on the Plaintiff for $20,000.00 being for "Works related to Monitor Warranty Repairs in excess of agreed incident rate" [PX4].
+ The Defendant concedes that there is a genuine offsetting claim in the amount of $20,000 in respect of the increased onsite warranty costs.
+
+Increased Repair Costs The Defendant does not argue with the Plaintiff's assertion that there is a plausible contention requiring further investigation in respect of the sum of $15,000 being the Plaintiff's increased repair costs [T, 60.20].
+
+Loss of Business on Sales of KTX Monitors It is argued by the Plaintiff that the level of faults apparent in the monitors supplied by the Defendant has had a detrimental effect on the sale of
+KTX monitors. A number of letters attached to Mr Reeves' affidavit of 3
+February 2000 are evidence of the reluctance of certain customers to continue to purchase KTX monitors. There was no evidence given to support the inference that the complaints from the customers of the Plaintiff were other than genuine. For present purposes, that evidence can be accepted, though it may well be later disputed at trial.
+ However, the Defendant claims that the Plaintiff's counter-claim, so far as it is based on loss of sales resulting from the alleged breaches by the
+Defendant, is without foundation. The Defendant alleges that there was a "very significant decline in the sale of KTX brand monitors throughout the course of ... at times where that decline couldn't be referable to any supply from
+Lite-on" [T, 56.30].
+ There are three reasons proffered by the Defendant as to why this court should not accept the Plaintiff's cross-claim of $1,382,400 for the loss of business on sales of KTX monitors as being genuine. In each case the Defendant advances no independent evidence of its own but relies on the Plaintiff's own evidence.
+ First, it is evident, says the Defendant, that a decline in sales of KTX monitors had occurred independently of the supply of monitors by the Defendant to the Plaintiff. Mr Reeves attached to his affidavit of 3 February 2000 charts showing the quantities of KTX monitors sold by the Plaintiff (at
+Annexure "E"). These figures show that there was a significant decline in the sale of KTX monitors by the Plaintiff in the year 1999 as compared to the two previous years. Furthermore, the figures show that the sales of KTX monitors for the October-December quarter of 1999 was down on sales during the same quarter in previous years. The sales over the whole of 1999 were down 56% (rounding to the nearest whole number) from the figures for the whole of the year 1998. The sales during the October-December quarter of 1999 were down a similar 56% (also rounded to the nearest whole number) compared with the sales during the same quarter of 1998. This strongly points to the fall in sales not being confined to the period after the sale agreement with Lite-On.
+ The Lite-on monitors complained of by the Plaintiff were delivered pursuant to a sale order of 27 May 1999. The delivery and on-sale of those monitors must have occurred, then, during the second half of 1999. If it were true that the decline in monitor sales experienced by the Plaintiffs over the year 1999 was almost exclusively attributable to the faulty monitors delivered by the
+Defendants, then one would expect to find that the drop in sales during the
+October-December 1999 quarter (and possibly the June-September 1999 quarter), being the first quarters in which the Defendant's monitors could be sold, to be significantly greater than the average decline in sales over the entire year. That is to say, if it were true that the sales of monitors in the first half of 1999 was on par with or only slightly below sales in the preceding quarters, one would expect that sales in the second half of the year would be very much below their actual figure in order that sales for the whole year be down some 56%.
+ Furthermore, it does not seem at all plausible to say that so large a proportion of the year's total sales occurred during the October-December period. The data provided for the years 1997 and 1998 show that the October-
+December period typically accounts for only about a quarter of the year's total sales. There is no reason why such should not be the case for 1999. I accept therefore that this indicates strongly in the Defendant's favour that the decline in sales of KTX monitors was not solely or even significantly connected to the delivery of faulty monitors by Lite-On.
+ Secondly, it is said by the Defendant that "the yearly sales of 260,000 cannot have been sales of the KTX brand monitors because we subsequently learnt of those figures from Mr Reeves and they are much less than 260,000" [T, 56.20]. It is evident, however, that Mr Reeves does use similar figures for estimated sales and that they do exceed the number estimated by Ms
+Ballantyne. At paragraph 27, Mr Reeves extrapolates from the sale of 21,379
+KTX monitors during October-December 1999 to an annual drop in sales of ,612 "if this trend continues over the full year". That drop he attributes to the actions of the Defendant. Given that Ms Ballantyne makes reference only to a drop in sales of around 30%, there would be total sales of around 300,000 monitors on Mr Reeves' estimate.
+ The figure calculated by Mr Reeves of a decline in sales of 108,612 is open to some question. The proposition of the Plaintiff is that 219 faulty monitors were supplied by Lite-on under the supply agreement beginning at the end of
+June 1999 and that this will result in lost sales of 108,612 monitors. There is not the evidence before this court to allow me to decide whether that estimate is an accurate figure. There is for example no expert evidence going to the projection of lost sales as a result of the delivery by the Defendant of faulty monitors. As I have said earlier however, it is not necessary that this court have before it all the evidence necessary for it to decide the final claim. Rather it must be satisfied merely as to its genuineness.
+ Finally and thirdly, the Defendant asserts that the number of faulty monitors delivered by the Defendant in the context of the total number of sales of KTX monitors could not have any real effect on overall sales. The
+Defendant does not accept that there were more than about 161 faulty monitors so delivered. Projecting a constant failure rate for the Lite-On monitors throughout one year (using the figure of 161 returns over a 210 day period) one reaches the figure of 280 returned monitors in the year. Total expected sales of KTX monitors over one year is around 190,000 (see Andrew Reeves affidavit 3 February 2000 at para 25). The Defendant asserts, given that Lite-
+On is a relatively small wholesale supplier to Edge, that even a relatively high failure rate of Lite-On product could not significantly influence sales of all KTX monitors [T, 59.50].
+ I accept that the cumulative effect of the foregoing is that it is implausible and extremely unlikely that the decline in overall monitor sales experienced by the Plaintiff during 1999 was due to the delivery by the
+Defendant of a number of defective monitors. I accept that the lost sales of ,612 monitors cannot be solely, or even significantly (on the evidence before this court) attributed to the delivery of the Defendant's monitors. The
+Defendant admits to only having 161 of its monitors returned in a 210 day period. According to the Defendant, the offsetting claim of $1,382,400 has, on the Plaintiff's own evidence, no real statistical basis, a proposition I accept. While I am not to determine that question on its merits, the evidence the Plaintiff has adduced does not suffice for me to be satisfied as to genuineness of the counterclaim to the level it has been quantified.
+ It is neither necessary nor appropriate for me to decide the level of sales of KTX monitors, given that I have concluded that the Plaintiff's asserted offsetting claim in this respect cannot in this respect be said to be genuinely asserted.
+ In place of the Plaintiff's offsetting claim, the Defendant argues that the amount of the Plaintiff's offsetting claim should be US$39,200. This is based on the following extrapolation (taken from that submitted by the Defendant and using 280 monitors as the yearly extrapolation): 
+Total identified returns as contended by the Plaintiff to up to 14 March 2000 =
+ monitors  ---|---|---  
+Number of Lite-On monitors sold (as asserted by the Plaintiffs [T, 57.40] =
+ monitors  
+Returns as a proportion of sales (see PX2 and DX7) =
+ returns/6637sales =
+ .4% of sales are returned  
+Period since selling began =
+
+End date [14.3.2000] - Start date [15.8.99] =
+ days  
+Number of monitors returned per day =
+ monitors/210 days =
+ .8 monitors per day  
+Number of monitors returned per day as a proportion of the total supply =
+ .8 monitors per day/6637 monitors =
+ .00012  
+Number of monitors returned per year =
+ .8 monitors per day x 365 days per year =
+ monitors per year  
+Failure rate of monitors over the year =
+ .00012 x 365 days =
+ .21%  
+Contract value of 280 monitors at average price asserted by Plaintiffs =
+ monitors x 140 US dollars per monitor =
+
+US$39,200 (assuming 280 not 276 returned monitors)  The Defendant's figure takes into account only the lost income on sales of monitors supplied by Lite-On. It does not take into account the claimed collateral loss in sales of KTX monitors across the board. Given my finding above that the Plaintiff's contentions as to the extent of that collateral loss could not be accepted as a genuine offsetting claim, it is appropriate that I adopt the Defendant's calculation as the appropriate offsetting claim for losses flowing directly from faulty monitors supplied by the Defendant.
+ Calculating the total lost sales, then (using the conversion rate from US to Australian dollars as at 5 November 1999 [see Ting-Nan Lee affidavit 5
+November 1999], the amount of the genuine offsetting claim in respect of lost sales of KTX monitors translated back into Australian dollars is: /0.6339 = A$61,839.41 
+Conclusion The amount of the offsetting claim allowable for lost sales of KTX monitors should, therefore, be $61,839.41. In so concluding I am satisfied that reduced to this level, the claim is not frivolous or vexatious as an offsetting claim.
+
+Loss of profit on sale of other KTX components The Plaintiff asserts that there is an offset from $170,000 to $400,000 being for loss of profit on the sale of KTX components aside from the monitors.
+ The only evidence before me to support the Plaintiff's cross-claim in respect of this amount is the Plaintiff's `belief' and `estimation' that the failure of KTX monitors has caused, and will in the future cause, loss of sales in other product lines with the KTX brand [see Reeves affidavit, 3
+February 2000 paras 30 and 31].
+ The only other evidence in support of this part of the claim was the letter of Graham Mew from Flinders University of 27 January 2000 in which he writes that the University "will not now purchase any KTX item including monitors, and seem reluctant to commit funds to purchase any Edge equipment". I do not consider this is sufficient evidence to establish the genuineness of a counter-claim so based for losses on other KTX equipment sales. There is no evidence beyond bar assertion as to whether the figure within the range of $170,000 or $400,000 as proffered by Plaintiff should be accepted. The statement of claim now filed by the Plaintiff before the Federal Court particularises this head of damage as "to be ascertained" [PX1, p.7]. There is no evidence at all (but only mere assertion) on which I could base a determination as to the amount genuinely claimed. In these circumstances it is not possible for this court to accept that there is a genuine offsetting claim in respect of loss of profits of other KTX components.
+
+Second-hand sales The Defendant does not cavil with the Plaintiff's assertion that there is a genuine counter-claim in respect of the sum of $5,800 being losses sustained by the Plaintiff by off-loading Lite-On monitors to a second hand peripherals dealer.
+
+The sum of the offsetting claim According to the Defendant's argument, upon adding up the off-setting claims, the total claim constituting a genuine dispute is $40,800 [T, 61.16].
+That sum is primarily made up of increased repair costs and some increased warranty costs on the Lite-On monitors.
+ According to my calculation, the total offsetting claim is estimated as follows: 
+Increased onsite warranty costs $20,000.00 ---  
+Increased repair costs $15,000.00 
+Loss of profit on sales on faulty KTX monitors $61,839.41 
+Loss of profit on sale of other KTX components $0.00 (ie no offsetting claim)  
+Second-hand sales $5,800.00 
+Total offset genuinely claimed $102,639.41 The Plaintiff's submissions in reply contains the following passage: "23. If contrary to what has been said in the primary submissions and above, the Court is not minded to provide a complete offset, then Edge submits that the substantiated amount should be set at US$200,000. That is put forward as the agreed fact of the amount due but unpaid as at 7 September 1999. As at that date, Edge had not identified any problem of a failure rate or any other basis upon which that payment should not have been made. Thus, although the
+Court at the time of hearing is dealing with a statute couched in the present tense, for the purpose of determining disputes, the Court could determine that sum as not in dispute. The Court would then vary the demand to be for
+US$200,000 in relation to which Edge seeks the time for compliance with the statutory demand to be varied pursuant to ss459F(2)(a).
+Alternatively, Edge offers to pay Lite-On US $200,000 within 21 days, on the following conditions. This would reduce the amount the subject of the statutory demand to US $779,724 (the "remaining balance"), The entitlement to the remaining balance would be determined in the Federal Court proceedings instituted by Edge against Lite-On. Lite-On must agree to return US $200,000 within 21 days of judgment on Edge's claim at first instance in the Federal
+Court, if the amount awarded to Edge is US $200,000 or more higher than the remaining balance of US $779,724. If Edge succeeds in an amount greater than
+US $779,724 but less than the amount originally set out in the statutory demand, Lite On must agree to pay the sum in excess of us $779,724." However, given my findings above, the proposition in the Plaintiff's para is not accepted and thus para 24 does not arise.
+
+Extension of time under s459F(2)(i)(a) The Plaintiff submitted that if this Court would not set aside the demand or at least so much of it as could be said to be the subject of a genuine dispute, it should be granted an extension of time to satisfy the statutory demand pursuant to s459F of the Corporations Law. The submission was that the time for meeting the demand should be extended to a time 21 days after the determination of the Federal Court proceedings.
+ The Defendant argues that the granting of an extension of time until after the outcome of the Federal Court proceedings for the Plaintiff to prove a bona fide genuine claim would be short cutting the bona fide requirement.
+The Defendant argued that "one should not have a hybrid situation where there is no bona fide dispute, but one achieving that result by adjourning it until after litigation" [T, 62.55].
+ That I have determined the question in relation to the s459G issue, does not in principle prevent me from making an extension order pursuant to s459F:
+David Grant and Co Pty Limited versus Westpac Banking Corporation <case>; [(1995) 184 CLR 265]; Graywinter Management Pty Ltd versus Deputy Federal Commissioner of Taxation [15 ACLC 299]; [22 ACSR 636.] However, in the circumstances, I am not inclined to order the extension of time sought by the Plaintiffs. In respect of the offsetting claim allowed, I have decided that the demand should be amended pursuant to s459H(4). In respect of the remaining amount of the demand, it would not be appropriate for this court to order that the time for compliance should be 21 days after the resolution of the Federal Court proceedings. By allowing the remaining amount of the demand to stand, I have decided that there is no genuine dispute or genuine offsetting claim at this time in respect of that amount, based on the limited evidence which the Plaintiff placed before me. It would be inconsistent, then, to order that the remaining amount of the demand need not be paid until the matter is finally resolved before the Federal Court. That would be to defer my decision in respect of the demand. It would make meaningless this Court's power to maintain so much of the demand as is not the subject of genuine offsetting claim or genuine dispute.
+
+OVERALL Conclusion I am satisfied that: the Plaintiff's offsetting claim is a genuine one not merely colourable, but only quantified at $102,639.41; the Plaintiff does not genuinely dispute the Defendant's statutory demand debt, as the Plaintiff's claim is rather as an offsetting claim dependent on separate Federal Court proceedings for breach of statutory warranty; there is no evidence of termination of the contract under which the Defendant claims its purchase price as would put that payment in genuine dispute; the genuineness and level of the Plaintiff's offsetting claim, being one for unliquidated damages, is tested by asking whether it is frivolous, vexatious or merely colourable; it is not sufficient merely to advance against it a plausible contention requiring further investigation; and in that way statistical analysis can be applied to the Plaintiff's claim for unliquidated damages, though with care; that is, to determine the genuineness of the alleged offsetting claim and its quantum being genuinely at that level, though not of course finally determined.
+ I find that the statutory demand served by the Defendant on the Plaintiff and dated 5 November 1999 should be varied pursuant to s459H(4) of the
+Corporations Law. The amount of the demand should be set at $1,545,549.80 less an offsetting claim (which I find to be genuine) quantified at $102,639.41. This leaves $1,442,910.40 being the "substantiated amount" as so determined. The time for payment of that demand is set at 21 days as from the entering of the orders set out below, having regard to s459F(2)(a)(ii).
+ It is inappropriate in the present circumstances to order that the time for meeting the demand be 21 days as from the final resolution of the matter in the Federal Court of Australia.
+ It need hardly be said that the outcome of these proceedings could not pre-empt the final hearing on the dispute raised by the Plaintiff in this case, which will be decided on the evidence then before the Court. The discrete issue argued here, being the determination of matters under ss459F,
+G and 459H of the Corporations Law, has been decided by reference to the limited evidence presently before this Court in accordance with the principles earlier set out.
+
+Orders AND COSTS I make the following orders:
+The Defendant's statutory demand of 5 November 1999 be varied pursuant to s459H(4) of the Corporations Law to the amount of $1,442,910.40 and is declared to have had effect, as so varied, as from the time the demand was served on the Plaintiff company.
+The time for payment of the statutory demand of 5 November 1999 be 21 days from the entering of these orders.
+
+I will invite the parties to address me on costs.
+ 
+LAST UPDATED: 09/06/2000 * * * 

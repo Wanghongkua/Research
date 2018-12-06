@@ -1,0 +1,84 @@
+
+
+R versus Rees [2000] NSWSC 544 (16 June 2000) 
+Last Updated: 16 October 2000 
+NEW SOUTH WALES SUPREME COURT 
+CITATION: R versus Rees <case> 
+CURRENT JURISDICTION: 
+FILE NUMBER(S): 70106/97 
+HEARING DATE{S): 8 June, 2000 
+JUDGMENT DATE: 16/06/2000 
+PARTIES: 
+Crown 
+Jason Lee REES 
+JUDGMENT OF: Bell J 
+LOWER COURT JURISDICTION: Local Court 
+LOWER COURT FILE NUMBER(S): 
+LOWER COURT JUDICIAL OFFICER: 
+COUNSEL: 
+L K Wells - Crown 
+J G Spencer - Accused 
+SOLICITORS: 
+SE O'Connor - Crown 
+Jeffreys & Associates - Accused 
+CATCHWORDS: 
+Admissibility DNA evidence 
+ACTS CITED: 
+S 137 [Evidence Act, ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) 
+DECISION: 
+JUDGMENT: 
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+CRIMINAL DIVISION 
+BELL J 
+Friday, 16 June, 2000 /97 - REGINA versus Jason Lee REES 
+JUDGMENT HER HONOUR: I was informed that it was the intention of the Crown to lead evidence as to the results of DNA testing of a stain located on a jogger belonging to the accused. Objection was taken to the admission of this evidence. Issue was taken as to the reliability of the reported result having regard to the quantity of DNA available for testing purposes.
+ The Crown agreed that it was appropriate that I hear evidence on the voir dire in order to determine this objection. I heard that evidence on 7 June
+The Crown called Ms Gill, forensic biologist and Mr Goetz, forensic biologist. Mr Spencer called Dr Atchison in the accused's case on the voir dire. On 8 June 2000 I ruled that the evidence would be admitted. These are my reasons for so ruling.
+ There has been evidence in the trial that a pair of Nike joggers was seized by police during the execution of a search warrant at the accused's premises on 18 November 1997. In the course of his interview with police the accused identifies the Nike joggers and agrees that he was wearing them on the day of the offence.
+ Christine Gill gave evidence that the Nike joggers were delivered to the
+Division of Analytical Laboratories (the DAL) on 28 November 1997. She inspected the shoes and observed a stain on the front right hand side of the right shoe. She subjected the stain to a screening test for blood. That test obtained a positive result. Other substances react to that chemical test including certain types of mud and some paints. Ms Gill swabbed the area of the stain and placed the swab into a DNA tube. Subsequently, on 25 February the DNA was extracted from the swab. It was quantified on 26 February
+Ms Gill did not perform the quantification but received a report as to the result. The amount of DNA reported was 0.3 nanograms per 20 microlitres.
+This was as far as testing of the sample was taken in 1998. Ms Gill said that there had not been enough DNA in the sample for a successful test to be undertaken at that time. The DNA testing then being used by the DAL was the DQ
+Alpha system.
+ Mr Goetz is a senior forensic biologist employed by the DAL at Lidcombe. He holds a bachelor of science degree with honours from the University of New
+South Wales.
+ In February 2000 Mr Goetz undertook DNA analysis of the swab taken from the
+Nike joggers using the Profiler Plus system. He obtained a result which showed that the DNA profile of the material taken from the jogger was the same as the
+DNA profile of a sample of blood taken from the deceased David Palin. The results of his analysis are set out in his report (Ex A).
+ The Profile Plus test targets types of differently sized DNA fragments located at particular sites on the chromosome. An electropherogram records in the form of a graph the alleles. They appear as peaks on that graph. Alleles may be heterozygous or homozygous. Homozygous alleles appear as a single peak on the graph and heterozygous alleles appear as two peaks.
+ When a small quantity of DNA is tested allowance needs to be made for the stochastic effect. This is a recognised phenomenon in sampling and admits of inaccurate results if the sample size is small. With test results obtained by use of Profiler Plus the stochastic effect need only be taken into account in assessing the reliability of what appear on the electropherogram as homozygous alleles. Where the analyst observes the regular appearance of a heterozygous allele (two peaks) one can be confident that the results are reliable. In this instance the sample taken from the jogger showed peaks identical in location and number to those observable on the electropherogram taken from the blood sample of the deceased.
+ Mr Goetz was examined concerning the reliability of the test results. He was taken to passages in the manual supplied with the Profiler Plus test. It recommends 1 to 2.5 nanograms of DNA as the optimal quantity for reliable testing. In this case it was estimated that the quantity of DNA available was .3 nanograms. Mr Goetz said that this did not mean one could not obtain reportable results with the use of lesser quantities of DNA. Mr Goetz had been in contact with forensic laboratories throughout Australia and overseas. Not one other laboratory adhered to the guidelines contained in the manual. A table setting out the results of Mr Goetz's enquires was in evidence. It shows that a number of laboratories undertake DNA testing on samples assessed as containing less than 0.3 nanograms of DNA.
+ Mr Goetz has had lengthy experience in the conduct of DNA analysis. As I understood his evidence very small amounts of DNA are capable of providing reliable results. One determines whether there was a sufficient quantity of
+DNA by reference to the results. In this case a full profile was obtained from the DNA taken from the sample on the Nike jogger. Mr Goetz has had experience in reading many electropherograms. He considered the results obtained in this case to be clear. He was able to discount unreliability due to the stochastic effect because only one of the peaks on the electropherogram was homozygous.
+That homozygous peak measured 180 RFUs. Homozygous alleles of 150 RFUs and above are reportable.
+ Mr Goetz was examined as to the validation procedures used by the DAL with respect to DNA testing. The DAL has participated in numerous trials with other laboratories. They have always found their results to be correct. The trials include "blind trials". The DAL is accredited by the National Association of
+Testing Authorities. Each analyst conducting DNA tests at the DAL must undergo one validation test per year. The DAL is itself tested every three years in connection with its NATA accreditation. These tests involve inspectors who are sent from other laboratories (usually within Australia) to examine the procedures in place at the DAL.
+ In Mr Goetz's view an interpretable result shown on the electropherogram evidences that there was sufficient DNA for test purposes. He reports the results of the testing of the Nike joggers with a high degree of confidence.
+ Dr Atchison, the manager, Molecular Biology, of the Victorian Institute of
+Forensic Medicine has impressive qualifications in the field of microbiology and molecular biology. He was attached to the State Forensic Science
+Laboratory in Victoria between 1980 and 1988. He initiated the development of
+DNA analysis techniques in 1986. Dr Atchison was asked for his opinion concerning the amount of DNA which was used to perform the test on the sample taken from the Nike jogger. He expressed the opinion that the amount of DNA in the sample was too low to obtain a reliable result.
+ Dr Atchison agreed with Mr Goetz that the stochastic effect could be discounted when dealing with heterozygotes provided one makes the assumption that the sample tested comes from one individual. On this assumption Dr
+Atchison took no issue with any of Mr Goetz's results save for the homozygote at site D13. He was not prepared to score this as a true homozygote. In his view there existed a possibility of a missed allele at that locus having regard to the sample size and the stochastic effect.
+ Dr Atchison does not use the Profiler Plus system. He has been asked to look at electropherographs on previous occasions. He has not interpreted electropherogram results.
+ Dr Atchison was critical of the circumstance that the guidelines issued by
+Perk and Elmer with the Profiler Plus kit were not used. The DAL tests with smaller samples of DNA than the recommended level of DNA for optimal results to be found in the manual. The DAL has set its own standards as to minimum peak height thresh-holds and these may vary from the recommendations contained in the manual. Dr Atchison was surprised to learn that other laboratories in
+Australia and elsewhere depart from the guidelines set out in the commercial kit.
+ As I have noted, Dr Atchison claims no experience in the use of the
+Profiler Plus testing procedure. This procedure is commonly used throughout
+Australia and in other countries in relation to the forensic testing of DNA samples. I accept Mr Goetz's evidence that laboratories in this country and overseas set their own standards which deviate from the guidelines in the manufacturer's kit.
+ Dr Atchison considered the possibility that the sample taken from the Nike jogger contained a mixture of DNA from two individuals. Given the small sample size he said that one might lose peaks and be left with the impression that the sample was derived from one source. Dr Goetz considered that if the DNA was from more than one individual one might expect to see more than two peaks at a locus.
+ Objection was taken to the admission of the evidence as to the results of
+DNA analysis on several grounds. Firstly Mr Spencer submitted that the analysis of DNA by means of the Profiler Plus test method had not reached a stage where it was sufficiently recognised as a reliable body of knowledge to admit of being the subject of opinion evidence. In this respect he referred me to Clark versus Ryan <case>; [(1960) 103 CLR 486.] The admission of opinion evidence based upon specialised knowledge is governed by [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s79.html) of the [Evidence Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) ("the
+Act"). The opinion rule does not apply to evidence of an opinion based wholly or substantially upon a person's specialised knowledge derived from his or her training, study or experience. I accept that Mr Goetz has specialised knowledge within the meaning of the section and that the opinion he expresses is based upon the same. I consider his opinion is admissible pursuant to [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s79.html) of the Act. In this regard I note the observations of Hunt CJ at CL in R v
+Pantoja [(1996) 88 A Crim R 554] at concerning the acceptance by courts of evidence of DNA testing as an acceptable scientific technique for the identification of the source of bodily tissues and R versus Pantoja (unreported) NSWCCA, 5 November 1998.
+ Mr Spencer submitted that I should exclude the evidence pursuant to [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s137.html) of the Act. It was his submission that the evidence of Dr Atchison raised concerns as to the reliability of the test result. The jury did not have the means of determining this issue and were likely to be overawed by Mr Goetz's report with its estimate as to the likelihood of such a match being 1 in 10 billion.
+ [S ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s137.html) requires a court to refuse to admit evidence adduced by the prosecutor if its probative value is outweighed by the danger of unfair prejudice to the accused. In R versus Lissoff <case> the Court (dealing with an issue not dissimilar to that raised in these proceedings) observed that the test posed by [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s137.html) of the Act: "requires a real risk of unfair prejudice to the accused by reason of the admission of the evidence. It is not sufficient to establish that the complexity or the nature of the evidence was such as to create a possibility that the jury could act in a particular way" [60].
+ The Court in that case rejected the proposition that a jury might be affected in a relevantly prejudicial way by scientific evidence where that evidence is contradicted by other scientific evidence. The resolution of conflicting evidence, including the conflicting evidence of experts, is the function of the jury.
+ I should note that Mr Spencer also submitted that the sample taken from the
+Nike jogger had been subjected to only a screening test with respect to the presence of human blood. The jogger was in a dirty condition and the screening test would produce a positive result in the presence of certain types of mud.
+There is no evidence that the DNA extracted from the swab taken from the Nike jogger comes from the blood (as distinct from other bodily fluids) of the deceased. The evidence established that mucous produced by coughing or sneezing might have been deposited on the jogger. Even if the Crown could establish that the DNA on the jogger came from the deceased it would not be possible to establish beyond reasonable doubt that it was deposited upon the jogger of the deceased during the fatal assault. The probative value of the evidence was thus submitted to be of relatively little weight.
+ The circumstance that the Crown is not able to establish that the DNA on the accused's jogger was extracted form a sample of blood (as distinct from other bodily fluids) may give this evidence somewhat less prominence in the circumstantial case it makes against the accused than if it were established to be DNA extracted from blood. This is not to say that the presence of DNA consistent with being that of the deceased on the jogger worn by the accused is without probative value. The evidence meets the test of relevance for the purpose of the Act. Mr Goetz's opinion is admissible. I see no unfair prejudice in leaving this evidence to the jury to consider together with the other circumstances upon which the Crown relies.
+ 
+LAST UPDATED: 19/06/2000 * * * 

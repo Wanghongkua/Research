@@ -1,0 +1,184 @@
+
+
+Saad versus Jeffcoat [2013] NSWSC 1585 (31 October 2013) 
+Last Updated: 1 November 2013 
+Supreme Court 
+New South Wales  
+Case Title: 
+Saad versus Jeffcoat  
+Medium Neutral Citation: <case>  
+Hearing Date(s): April 2013  
+Decision Date: October 2013  
+Jurisdiction: 
+Common Law  
+Before: 
+Button J  
+Decision: 
+Leave to appeal with regard to grounds two and three granted.  
+Appeal dismissed.  
+The plaintiff, Mr Saad, is to pay the costs of the defendant, Detective
+Senior Constable Jeffcoat, of the appeal.  
+Catchwords: 
+CRIMINAL PROCEDURE - appeal from orders pursuant to [Crimes (Forensic
+Procedures) Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2000277/) - no error in not reciting standard of proof repeatedly - no error in finding plaintiff a suspect - no error in suspecting plaintiff had committed an offence - leave to appeal granted - appeal dismissed  
+CRIMINAL PROCEDURE - whether power to order costs - no explicit power in statute - consideration of case law - power to order costs - costs order made  
+JUDGMENT
+This is an appeal against the decision of Truscott LCM to make a final order permitting the carrying out of a non-intimate forensic procedure upon the plaintiff in the form of a buccal swab.
+The plaintiff was the respondent to the application in the Local Court. The defendant before me was the Prosecutor in the Local Court. For ease of comprehension, except when I come to make orders, I shall refer to the parties as the Prosecutor and the respondent.
+
+Overview
+The following statutory structure was not in dispute between the parties at the hearing.
+The appeal is brought pursuant to [s 115A](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2000277/s115a.html) of the [Crimes (Forensic Procedures) Act 2000](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2000277/) ("the Act"). That provision permits appeals to this Court against the order under consideration. The appeal is to be dealt with as if it were an appeal against a sentence imposed in summary proceedings in the Local Court (by way of [Part 2](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2000277/index.html#p2) of Chapter 4 of the [Criminal Procedure Act 1986](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa1986188/)). [Sections 52(1)](http://www.austlii.edu.au/au/legis/nsw/consolact/cara2001219/s52.html) and [53](http://www.austlii.edu.au/au/legis/nsw/consolact/cara2001219/s53.html)(1) of the [Crimes (Appeal and Review) Act 2001](http://www.austlii.edu.au/au/legis/nsw/consolact/cara2001219/) provide that an appeal in such a case to this Court is as of right when founded on a question of law alone, or with leave when founded upon a question of fact or a question of mixed fact and law.
+The order was made pursuant to [Part 4](http://www.austlii.edu.au/au/legis/nsw/consolact/cara2001219/index.html#p4) of the Act. [Section 23](http://www.austlii.edu.au/au/legis/nsw/consolact/cara2001219/s23.html) of the Act is relevantly as follows: "23 Circumstances in which Magistrate or other authorised officer may order forensic procedure 
+An order may be made by a Magistrate under [section ](http://www.austlii.edu.au/au/legis/nsw/consolact/cara2001219/s24.html), or by an authorised officer under [section ](http://www.austlii.edu.au/au/legis/nsw/consolact/cara2001219/s32.html), for the carrying out of a forensic procedure on a suspect if: the suspect is not under arrest and has not consented to the forensic procedure.
+ ..."
+For the purposes of that section it was accepted by the parties that the respondent was not under arrest, and had not consented to the forensic procedure. It was alleged by the Prosecutor that he was a suspect as defined by the Act.
+A suspect is defined in [s 3](http://www.austlii.edu.au/au/legis/nsw/consolact/cara2001219/s3.html) of the Act as follows: "(a) a person whom a police officer suspects on reasonable grounds has committed an offence, a person charged with an offence, a person who has been summoned to appear before a court in relation to an offence alleged to have been committed by the person." (emphasis added)
+The Prosecutor alleged that the respondent fell within the definition in (a).
+As part of that assertion, the Prosecutor alleged that the respondent was a suspect of the offence of possession contained in [s 7](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/s7.html) of the [Firearms Act 1996](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/). That provision is relevantly as follows: "7 Offence of unauthorised possession or use of prohibited firearms or pistols 
+A person must not possess or use a prohibited firearm or pistol unless the person is authorised to do so by a licence or permit.
+
+Maximum penalty: imprisonment for 14 years.
+ ..." [Section 4A](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/s4a.html) of the [Firearms Act](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/) is as follows: "4A Meaning of "possession" of a firearm - proof of possession 
+Without restricting the meaning of the word possession, for the purposes of any proceedings under this Act, a firearm is taken to be in the possession of a person so long as it is in or on any premises owned, leased or occupied by, or in the care, control or management of, the person, unless the court is satisfied that: the firearm was placed in or on, or brought into or on to, the premises by or on behalf of a person who was lawfully authorised by or under this Act to possess the firearm, or the person did not know and could not reasonably be expected to have known that the firearm was in or on the premises, or on the evidence before it, the person was not in possession of the firearm.
+
+In this section, premises means any place, vehicle, vessel or aircraft."
+I shall come to the significance of [s 4A](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/s4a.html) of the [Firearms Act](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/) later in this judgment.
+The pertinent parts of [s 24](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/s24.html) of the Act are as follows: "24 Final order for carrying out forensic procedure 
+A Magistrate may order the carrying out of a forensic procedure if satisfied on the balance of probabilities: that the circumstances referred to in subsection (2) or (3) exist, and that the carrying out of such a procedure is justified in all the circumstances.
+ ...
+
+In the case of a non-intimate forensic procedure: there must be reasonable grounds to believe that the suspect has committed an offence, and there must be reasonable grounds to believe that the procedure might produce evidence tending to confirm or disprove that the suspect has committed the offence referred to in paragraph (a).
+
+In determining whether or not the carrying out of the forensic procedure is justified in all the circumstances, the Magistrate must balance the public interest in obtaining evidence as to whether or not the suspect committed the alleged offence against the public interest in upholding the suspect's physical integrity, having regard to the following: the gravity of the alleged offence, the seriousness of the circumstances in which the offence is alleged to have been committed, the degree to which the suspect is alleged to have participated in the commission of the offence, the age, cultural background and physical and mental health of the suspect, to the extent to which they are known, in the case of a suspect who is a child or an incapable person, the best interests of the child or person, such other practicable ways of obtaining evidence as to whether or not the suspect committed the alleged offence as are less intrusive, such reasons as the suspect may have given for refusing to consent to the carrying out of the forensic procedure concerned, in the case of a suspect who is in custody, the period for which the suspect has been in custody and the reasons for any delay in the making of an application for an order under this section, such other matters as the Magistrate considers relevant to the balancing of those interests."
+There was no dispute between the parties that, before making the order, the learned Magistrate had to be satisfied on the balance of probabilities of four things. 
+First, that a police officer believed on reasonable grounds that the respondent had committed an offence. That was founded upon the definition of "suspect" in [s 3](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/s3.html), and the reference to "suspect" in [s 24(3)(a)](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/s24.html) of the Act.
+Secondly, that there were reasonable grounds to believe that the respondent had committed the offence of possessing a prohibited firearm or pistol (by way of the combined operation of [section 24(3)(a)](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/s24.html) of the Act and [s 7](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/s7.html) of the [Firearms Act](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/)).
+Thirdly, that there were reasonable grounds to believe that "the procedure might produce evidence tending to confirm or disprove that the suspect [had] committed the offence" referred to above [(s 24(3)(b)](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/s24.html) of the Act).
+Fourthly, "that the carrying out of such a procedure [was] justified in all the circumstances" [(s 24(1)(b)](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/s24.html) of the Act), as informed by the factors in [s 24(4).](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/s24.html)
+The fourth matter based upon the combined operation of [ss 24(3)(b)](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/s24.html) and [24](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/s24.html)(4) does not form the foundation of any ground of appeal, and will not be discussed further.
+
+Position in the Local Court
+It is appropriate now to state the factual matters and submissions upon which the application in the Local Court was determined. Because there is no dispute about them, I shall quote from the judgment of her Honour in that regard. I have altered references to the parties and others for ease of comprehension.
+ "11. On 21 February [the Prosecutor] executed a search warrant upon premises occupied by the Saad family at an address in Bass Hill. The purpose of the search warrant was to locate prohibited firearms.
+The police located a plastic bag containing 2 prohibited firearms secreted in the roof cavity within easy access or reach of the manhole. One was a .44 calibre 'Colt' revolver and the other was a .25 calibre semi automatic pistol. Each firearm was fully loaded. Each firearm was accommodated inside a sock, the revolver in a 'mooks' brand sock and the pistol in a 'billabong' brand sock. There was also a brown cloth, which contained 6 rounds of ammunition for the revolver and 3 rounds for the pistol. The items were subjected to forensic examination.
+At the time the search warrant was executed the Respondent was spoken to at the premises. He stated that he was an occupier at the premises, residing there from 'time to time'.
+In the house, a bedroom said to be 'near the man-hole' - there is no evidence about the layout of the premises - contained two beds, clothing and some expired drivers licences and paper work in the name of [the respondent].
+The result of the forensic examinations of the items included the left thumb and right ring fingerprints of Milad Saad (the Respondent's brother) being located on the manhole cover and the plastic bag containing the firearms. Milad Saad's DNA was not identified on any of the other items. He was arrested on 29 February and interviewed by the police. He confirmed with police that he shared a room with his older brother [the respondent], he had no knowledge of the firearms and had never accessed the roof cavity of the premises. He confirmed that the persons who live in the house are his mother and father, himself, his brother and sister.
+The admissibility of this evidence was not subject to any objection and appears not to be controversial though I note Justice Fullerton's comments in
+LK versus Commissioner of Police <case> (20 May 2011) in which she remarks (para 26) that the Act is governed by the rules of evidence of the [Evidence Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/).
+Accordingly, what Milad Saad says is probably inadmissible and for the purposes of this application I rely on [the respondent's] statement to police that he occupies the premises and resides there from 'time to time'. As such, he has access to the roof cavity.
+A DNA profile of a male individual has been identified on the pistol. A
+Certificate of Analysis is Exhibit 2. It identifies that the pistol was swabbed on the trigger, slide and grip and magazine release and side plates. A mixture of DNA originating from at least 2 individuals was recovered. The major component is consistent with originating from an unknown male (individual 'A'). The minor component was too weak to determine the profile(s) of the individual contributors.
+[The Prosecutor] says that the profile of 'Individual' A' cannot be matched to the 'profiler system' as it does not match any offender on the data base. [The respondent's] DNA is not on the database. [The Prosecutor] says that Milad Saad has been excluded as a contributor to the profile of individual 'A'.
+In his Affidavit, [the Prosecutor] deposes 'the profile has been identified as originating from a male possibly a relative of Milad Saad'. He was asked questions about this statement. He says that an analyst at the laboratory gave him this information. [The Prosecutor] was unable to elaborate upon why the analyst formed this view.
+[The Police Prosecutor] said from the Bar Table that he had contacted the laboratory and was advised that there would be no evidence to that effect from the analyst in this application because the laboratory did not concern itself with possibilities and that it would only provide Certificates of Analysis upon testing items and comparing samples.
+Though the evidence has a particularly compelling flavour, the term 'possibility' and the uncertainty of the familial link of a 'relative' (as opposed to a brother) particularly in light of the Respondent belonging to a particular ethnic population in Australia, the evidence is such that I could not determine that there is some connection between Milad Saad's DNA profile and that of Individual 'A' to say that it was of such significance to make [the respondent's] DNA more likely or even possible than any other DNA of the same ethnicity found on the pistol.
+The suggestion that the profile of Individual A might possibly be a relative to Milad Saad is highly speculative, cannot be substantiated, explained or tested and as such lacks probative value.
+This is particularly so when the results of other items is taken into account. From the revolver the analyst recovered the DNA of at least 4 individuals, none of which a profile could be determined. The 'mooks' sock had the DNA of at least 3 individuals, one profile being sufficient to establish the profile of a male (individual B) and likewise the brown cloth had the DNA of at least 3 individuals including that of individual 'B' and an individual 'C'. The 'billabong' sock had the DNA of at least 3 individuals, the profiles of which could not be determined.
+Though I do not exclude the evidence as it was received without objection, I am unable to place any weight upon it in determining whether there are reasonable grounds to suspect that the Respondent has committed an offence.
+[The solicitor for the respondent] submits the comparison of the
+Respondent's DNA would merely prove or disprove that he is a suspect. That is, there are no reasonable grounds to suspect that the Respondent has committed the offence. That is, the fact that he from time to time resides at his family's address and would have access to the man-hole, is insufficient to grounds to suspect him of being involved in the offence.
+[The solicitor for the respondent] cross-examined [the Prosecutor] on why the Respondent's father was not sought for a DNA profile, to which [The
+Prosecutor] replied that it was a process of elimination. From that answer, I take it that the police do not differentiate between the Respondent and his father. They are both male, they both have access to the manhole (and for [the
+Prosecutor's] purposes are both relatives of Milad).
+There is no evidence that suggests the Respondent has ever been suspected of handling any firearm or committing any offence relating to any firearm let alone the subject pistol. The reasonable grounds to suspect the Respondent of possessing the firearm falls to the location of the firearm in a private house occupied by his family where he has access to the man-hole. Because the result of the analysis has identified male DNA, there is no basis to found a conclusion that any females of the household are suspects. It must be the
+Prosecution case that the Respondent jointly possesses the gun with his brother Milad." 
+Grounds
+Three grounds were notified and relied upon at the hearing: "1. The Magistrate erred in law by failing to apply the test required by
+Section 24(1) of the Crimes (Forensic Procedure) Act 2000.
+The Learned Magistrate erred at Law in finding there are reasonable grounds to believe that the Plaintiff is a suspect for the purposes of the
+Crimes (Forensic Procedure) Act 2000.
+The Learned Magistrate erred at Law in finding that there are reasonable grounds to believe that the Plaintiff has committed an offence."
+I shall deal with each of them in turn, providing extracts from the judgment of her Honour to the extent necessary. 
+Ground one
+It became clear at the hearing that this ground could be summarised as being an assertion that, in light of the fact that the learned Magistrate did not repeatedly use the phrase "on the balance of probabilities" when expressing the satisfaction of her Honour that various matters had been established, one should infer that her Honour applied the wrong test with regard to those matters.
+In particular, the submission of the respondent was that there was an inherent complexity in a judicial officer being required to be satisfied on the balance of probabilities (pursuant to the chapeaux of <case> of the Act) that there are reasonable grounds for believing that a certain state of affairs exists (whether that be pursuant to <case> of the Act, or pursuant to <case>(a)).
+Emphasis was placed upon the proposition that, in determining whether to permit intrusions upon the persons of citizens, judicial officers must not only apply the correct statutory test but also clearly demonstrate that they have done so.
+It was also submitted that the insertion of the phrase "balance of probabilities" in <case> well after the commencement of the original version of that section demonstrates that Parliament expects that magistrates will apply the test, and formulate their reasons with regard to it, with precision.
+The Prosecutor submitted in short that the learned Magistrate referred to the test explicitly and correctly at the beginning of the judgment of her Honour. It was emphasised that the opening words of [8] of the judgment were "Pursuant to s24 (1) a Magistrate may order the carrying out of a forensic procedure if satisfied on the balance of probabilities: ...", after which the Magistrate referred to the tests in the section. It was submitted that every subsequent reference to satisfaction about a particular matter in the judgment must be read as incorporating that initial and explicit statement of the applicable standard of proof with regard to the statutory tests.
+
+Determination
+As can be seen from the quote in the immediately preceding paragraph, at the beginning of the judgment, her Honour explicitly referred to the applicable standard of proof immediately before outlining the relevant tests.
+Magistrates are not required ritually to repeat the standard of proof being applied throughout their judgments, whether they be reserved or ex tempore.
+I have no difficulty in reading every reference by her Honour to satisfaction about a particular fact or state of affairs as implicitly incorporating a reference to the requisite standard of proof, in light of its explicit enunciation at the start of the judgment.
+And I am certainly not satisfied that her Honour applied some different, or lesser, standard of proof to the various questions for determination in the Local Court.
+Finally, I reject the submission that there is anything particularly complex about <case> of the Act, and that such complexity suggests that the learned Magistrate has failed to apply the appropriate standard of proof. 
+I respectfully reject ground one.
+
+Ground two
+This ground focused upon the need for satisfaction on the balance of probabilities that the respondent was a "suspect", as defined by <case>, as part of the necessary satisfaction of the matters contained in <case>.
+It is apparent from the judgment that her Honour did not explicitly address this matter as a separate question. However, it was made clear before me that the contention of the respondent is not that her Honour failed to consider the question. Rather, the ground is founded upon the proposition that the learned Magistrate considered it, but could not have been satisfied that a police officer suspected that the respondent had committed an offence on reasonable grounds.
+To the extent that that contention could be characterised as in truth raising a question of mixed law and fact, the respondent sought leave to argue it.
+The respondent submitted that the oral evidence at first instance established that the Prosecutor had engaged in a "process of elimination" with regard to seeking DNA profiles from persons: who are male; who had some degree of access to the premises; and whose profile was not retained on the DNA database.
+It was submitted that such an indiscriminate approach was not consistent with a suspicion held on reasonable grounds.
+Having said that, the respondent accepted that it was not for the police officer to determine whether his own suspicion was held on reasonable grounds. Rather, following through the interlocking sections, it was a matter for the evaluative judgment of the learned Magistrate as to whether such a suspicion was shown on the balance of probabilities to have been held on reasonable grounds.
+The respondent accepted that the analysis of the Magistrate with regard to the separate but related question of whether there were reasonable grounds to believe that the respondent had committed an offence (for the purposes of <case>(a)) could be considered by me in determining whether this ground founded upon <case> had been made out on the basis that it demonstrated a deficiency in analysis. Detailed submissions were made criticising that analysis. 
+The Prosecutor agreed that the analysis of the question that founds ground 2 was subsumed in the analysis of the subsequent question pursuant to <case>(a).
+He submitted that evidence sufficient to provide reasonable grounds for a suspicion will very often be less than that required to provide reasonable grounds for a belief.
+He submitted that a finding that there were reasonable grounds for a suspicion on the part of a police officer that the respondent had committed an offence was well open on the evidence, and that there was no error demonstrated, either in that finding or in the process of reasoning underlying it.
+
+Determination
+With regard to the separate but related question to which I have referred, her Honour found as follows: "28. In terms of 24(1)(a) I find that there are reasonable grounds to believe that the Respondent is a suspect of joint possession of the firearms with his brother Milad for the following reasons: 
+The location of the firearm in a private dwelling where a family unit lives is such that it is likely that an occupant of the house, as opposed to a visitor or a stranger has dominion over them.
+
+The Respondent is a member of that family unit and from time to time occupies the residence. He has ready access to the premises.
+
+The firearms were secreted in a manner and location to minimize the risk of identifying the persons exercising their dominion over the firearms, that is, consistent with protecting the occupants from being identified as being responsible for or in possession of the firearms.
+
+There is an identifiable profile of a male on the pistol; such DNA is not on the police database and the Respondent's DNA is not on the police database.
+
+There is multiple male DNA on the pistol and other items located indicating a total of at least 2 other identifiable individuals - there is no evidence whether that DNA has been run through the database, but [the
+Prosecutor] did say he suspected certain persons. There are a total of at least 4 individuals who have handled one or both of the firearms or items found in the bag.
+
+The Respondent and brother share a bedroom, if only from 'time-to-time'.
+
+The Respondent's brother's fingerprints were on the manhole and plastic bag containing the firearms supporting a finding that at least one occupant of the residence is in possession of the firearms. Due to the multiplicity of DNA it is likely that more than one male occupant is also in possession of them."
+Although her Honour did not explicitly deal with the question of satisfaction that the respondent was a suspect as defined in <case>, I respectfully agree with the joint approach of the parties that that finding was implicitly encompassed in the reasoning of her Honour with regard to the question in <case>(a).
+The combination of factors arising from the evidence and to which her Honour referred leads me to the view that it was well open for her Honour to find on the balance of probabilities that the suspicion of the Prosecutor that the respondent had committed an offence was held on reasonable grounds. That is so for the following reasons.
+First, to the extent that the analysis of the respondent sought to have me consider each piece of inculpatory evidence individually, I respectfully reject that approach. As with any circumstantial case, it is a matter of considering each undisputed or established fact in the context of all of the other such facts.
+Secondly, the question is whether it has been established that a suspicion (as opposed to a belief, a higher state of mind) is held on reasonable grounds (as opposed to being itself reasonable, perhaps a higher standard) on the balance of probabilities (as opposed to beyond reasonable doubt, unquestionably a much higher standard). In short, the test is not particularly stringent.
+Thirdly, it is true that the sixth factor is a matter that her Honour had previously said would be disregarded, in light of the question about the admissibility of hearsay statements in applications for forensic procedures, and the applicability of the rules of evidence generally (see for example, L versus Lyons; B and S versus Lyons <case>; <case>). It may well be that reference to that factor in the judgment was through oversight.
+But even disregarding that factor, I consider that it was well open to the evaluative judgment of her Honour to find, on the evidence before the Local Court, that it had been established on the balance of probabilities that the suspicion of the police officer that the respondent had committed the offence contained in [s 7](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/s7.html) of the [Firearms Act](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/) was held on reasonable grounds.
+I would grant leave to argue this ground. But in my opinion, it is not made out.
+
+Ground three
+The respondent sought leave to argue this ground. It was framed in similar terms to ground two.
+It was submitted that the necessity of establishing that there were reasonable grounds to believe that the respondent had committed an offence, pursuant to [s 24(3)(a)](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/s24.html), was a higher test than merely finding that the suspicion of a police officer was held on reasonable grounds.
+Thereafter, the respondent embarked upon a detailed analysis of the seven factors relied upon by her Honour.
+With regard to the first factor, it was submitted that her Honour had confused "possession" with "dominion". And it was submitted that her Honour should have noted that the firearms were secreted by way of a manhole above a room not connected with the respondent. It was also submitted that the Magistrate should have had explicit regard to the fact that persons who did live continuously at the premises, or even visited frequently, could have placed the items there, without the slightest involvement of the respondent.
+With regard to the second factor, complaint was made that her Honour had referred to the respondent having had "ready access to the premises", when in fact the evidence was that the respondent had admitted to the Prosecutor that he "resided at the premises from time to time".
+With regard to the third factor, it was submitted that the learned Magistrate had engaged in circular reasoning, in the sense of assuming that the mode of secretion showed that it was an occupant who had adopted it.
+With regard to the fourth factor, it was submitted that the fact that one's DNA profile is not on the database used by the police can hardly be a matter of inculpation.
+With regard to the fifth factor, it was submitted that this material should not have been taken to account, in that it was evidence conveyed to the Court informally; that is, neither by way of evidence in the witness box nor by way of affidavit.
+With regard to the sixth factor, the respondent made the point (to which I have already referred) that her Honour had previously indicated that the hearsay assertion that the respondent and his brother shared a room would not be taken into account. 
+With regard to the seventh factor, it was submitted that, even if it be the case that the brother of the respondent was implicated by way of the scientific evidence connecting him with the manhole cover and the plastic bag, that did nothing to implicate the respondent.
+In short, it was said that it was an error for her Honour to determine that the test in [s 24(3)(a)](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/s24.html) had been made out. 
+The Prosecutor submitted simply that satisfaction on the balance of probabilities that there were reasonable grounds to believe that the respondent had committed the relevant offence was reasonably open to the evaluative judgment of her Honour on the evidence as a whole.
+Separately, he argued that the broadened definition and onus reversal with regard to the offence-creating provision in [s 7](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/s7.html) effected by [s 4A](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/s4a.html) of the [Firearms Act](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/) made the submission of the respondent unsustainable.
+
+Determination
+The submissions and analysis of the respondent would have somewhat greater force if the question were whether one could be satisfied beyond reasonable doubt of the proposition that the respondent was guilty of the offence in question. In saying that, I do not seek to bind any subsequent determination of that question in the slightest. Rather, I merely seek to highlight the contrast between, on the one hand, proof of elements of an offence beyond reasonable doubt, and, on the other, proof on the balance of probabilities that there are reasonable grounds to believe that a person has committed an offence. Self-evidently, the latter test is a much less rigorous one.
+I do not consider that it is a matter of me, in some de novo sense, substituting my own opinion for that of the learned Magistrate. Rather, it is a matter, to the extent that the ground is based on a question of fact or mixed law and fact, of determining whether the finding of her Honour was reasonably open. There is nothing to suggest that an appeal founded upon matters of fact pursuant to [Part 5](http://www.austlii.edu.au/au/legis/nsw/consolact/cara2001219/index.html#p5) of the [Crimes (Appeal and Review) Act](http://www.austlii.edu.au/au/legis/nsw/consolact/cara2001219/) is to be determined de novo. Furthermore, such an interpretation of that Act would be quite anomalous with regard to the overall structure of criminal appeals in this State.
+I see no error in the analysis of her Honour, save with regard to the sixth factor, to which I have previously referred.
+But leaving that factor entirely to one side, I consider that it was well open to her Honour to be satisfied of the necessary components of the statutory test. 
+I have come to that view without reliance on the submission of the Prosecutor with regard to [s 4A](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/s4a.html) of the [Firearms Act](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/). I shall discuss that in a moment.
+It follows that I would not uphold ground three.
+
+Notice of contention of Prosecutor and related submission
+At the hearing, and as against the possibility that the appeal otherwise succeeded, the Prosecutor sought to rely upon a notice of contention. It was submitted that, even if error were established by the respondent, the order of the Magistrate could be maintained by way of [s 4A](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/s4a.html) of the [Firearms Act](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/).
+In a nutshell, the submission was that, although not relied upon by the Prosecutor at first instance, the findings underpinning grounds two and three could be amply justified, not only by the broadening of the offence effected by [s 4A](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/s4a.html), but also by way of the onus reversal that that provision brings to offences under [s 7.](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/s7.html)
+The respondent submitted that there would be procedural unfairness in me permitting such an argument to be made. He submitted that, if the Prosecutor had run its case in that way at first instance, the respondent might well have conducted his case quite differently. For example, if there had been any suggestion of an onus falling directly or indirectly upon the respondent, he might well have sought leave to give or call evidence, pursuant to <case>(b) of the Act. 
+I consider that there is merit in that submission of the respondent. Accordingly, I have determined the three grounds of appeal without reference to [s 4A](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/s4a.html) of the [Firearms Act](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/). The result is that the question of how [s 24](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/s24.html) operates with regard to an offence that features an onus-reversing provision (such as [s 7](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/s7.html) of the [Firearms Act](http://www.austlii.edu.au/au/legis/nsw/consolact/fa1996102/), or the well-known deeming provision with regard to supplying a prohibited drug in [s 29](http://www.austlii.edu.au/au/legis/nsw/consolact/dmata1985256/s29.html) of the [Drug Misuse and Trafficking Act 1985](http://www.austlii.edu.au/au/legis/nsw/consolact/dmata1985256/)) will not be determined in this judgment. 
+Costs
+There has been controversy in the past as to whether or not, in an appeal such as this, this Court has power to order costs against the losing party. On the authority of ASIC versus Sigalla (No 6)  <case>, Ronowska versus Kus (No 2)  <case> and ACP versus Munro <case>, I consider that I have the power to order costs. And I consider that costs must follow the determination of the appeal.
+
+Orders
+I make the following orders: 
+Leave to appeal with regard to grounds two and three granted.
+
+Appeal dismissed.
+
+The plaintiff, Mr Saad, is to pay the costs of the defendant, Detective
+Senior Constable Jeffcoat, of the appeal.
+ * * * 

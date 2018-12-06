@@ -1,0 +1,261 @@
+
+
+Clear Wealth Pty Ltd versus Kwong (No 2) [2012] NSWSC 1233 (5 October 2012) 
+Last Updated: 8 January 2013 
+Supreme Court 
+New South Wales  
+Case Title: 
+Clear Wealth Pty Ltd versus Kwong (No 2)  
+Medium Neutral Citation: <case>  
+Hearing Date(s): - 12 April 2012; 15 - 16 August 2012  
+Decision Date: October 2012  
+Jurisdiction: 
+Equity Division  
+Before: 
+Rein J  
+Decision:
+Judgment for the plaintiff against the defendants in the amount of $56,000 plus interest calculated in accordance with Practice Note SC Gen 16. 
+Order that first defendant hand over all copies of and delete from his computer, USB drives and hard drives all files containing client lists of the plaintiff, including but not limited to the following: Client database Aug .csv, Client database Aug 2010.xlsx and
+CustomerList4309902009Apr08095419.csv.  
+Catchwords: 
+INTELLECTUAL PROPERTY - confidential information - whether client lists were copied by the defendant - where client lists were found on defendant's computer - where client lists were accessed on defendant's home computer - whether defendant used this information to contact clients - where significant portion of defendants' new clients had transferred from the plaintiff - whether information was confidential - where client lists only available to employees of the plaintiff - held that defendants copied and used confidential information of the plaintiff  
+TRADE AND COMMERCE - restraints of trade - validity and reasonableness - whether clause a restraint of trade - where defendant by contractual clause agreed that restraints were reasonable - three month non-solicitation of employer's clients reasonable to protect the legitimate interests of the employer  
+DAMAGES - measure of damages for use of confidential information and breach of restraints - whether clients would have changed financial planners regardless of former employee's actions - where employer did not contact clients after employee had left - where employee did not inform clients of who would handle their accounts - 30 per cent discount to allow for by factors outside former employee's actions  
+JUDGMENT
+The plaintiff, Clear Wealth Pty Ltd ("Clear Wealth"), operates a business of providing investment advisory and financial planning services to clients and is an authorised representative of AMP Financial Planning Pty Ltd ("AMP").
+Mr Jason Kwong ("Mr Kwong"), the first defendant, was employed by Clear Wealth under a contract dated 30 May 2008. His contract was terminated not by reason of any fault or breach by him but due to the financial position of the plaintiff company. He was advised by letter on 11 April 2011 of the termination and he left the employ of the plaintiff on 30 June 2011.
+During Mr Kwong's employment by the plaintiff, he had a client list of between 1500 and 1800 clients, but many of them were clients with whom he had little or no contact. A few of the clients were ones he brought with him from another financial planning company for whom he had previously worked but the rest were part of a list given to him by Clear Wealth to manage.
+The contract of employment contained the following clauses (see Exhibit A4 at pp 1019 - 1031): "23 RETURN OF PROPERTY UPON TERMINATION OF EMPLOYMENT 
+You must return all of the Company's property to it upon the termination of your employment. You must also deliver to the Company the Client Files you have kept, made or maintained, unless otherwise agreed by the Company.
+Following termination of your employment, you will provide reasonable assistance and co-operation to the Company with any complaint or other issue which arises in relation to one of your Clients, so that the Company can deal with the issue or complaint.
+ CONFIDENTIAL INFORMATION 
+You will have access to the Company's and the Group's Confidential
+Information. Accordingly, you agree that you will not, either during or after your employment with the Company, use any Confidential Information for the benefit of any person or entity except the Company and the Group. You must keep confidential all Confidential Information and not disclose any
+Confidential Information to any person except: with the prior written consent of the Company;(b) to the Company's agents, employees or advisers in the proper performance of your responsibilities and duties; or(c) if you are compelled by law.
+
+You shall immediately deliver to the Company all Confidential Information capable of delivery: upon the termination of your employment; or at any time on the request of the Company, its officers or its authorised persons.
+
+These obligations will continue to apply after the termination of your employment, however caused, and are in addition to your duties of confidentiality at law or in equity.
+
+You must not copy, reproduce, or store in a retrieval system or database any
+Confidential Information, except in the proper performance of your duties and responsibilities as an employee of the Company.
+ RESTRAINT .1 Non-competition during employment 
+You agree that you will not, without the prior written consent of the Company, during your employment, either directly or indirectly in any capacity (including without limitation as principal, agent, partner, employee, shareholder, unit holder, joint venturer, director, trustee, beneficiary, manager, consultant or adviser) be engaged, concerned or interested in any business or activity which is competitive with any business carried on by the Company or which could or might reasonably be considered by others to impair your ability to act at all times in the best interests of the Company. It is your responsibility to notify the Company in writing of any proposed activity by you which may contravene this clause.
+ .2 Non-competition and non-solicitation after termination of employment 
+You agree that you will not, without the prior written consent of the Company, at any time after the termination of your employment, however that termination occurs, for the period set out in clause 26.2(b) and within the area set out in clause 26.2(c) directly or indirectly in any capacity (whether as principal, agent, partner, employee, shareholder, unitholder, joint venturer, director, trustee, beneficiary, manager, consultant or adviser) carry on, advise, provide services to or be engaged, concerned or interested in or associated with any business or activity which is competitive with any business carried on by the Company at the date of termination or expiry of your employment. This includes, but is not limited to, servicing any of the customers of the Company; canvass, solicit or endeavour to entice away from the Company any person who or which at any time during your employment or at the date of termination or expiry of your employment was or is a client or customer of or supplier to the Company or in the habit of dealing with the Company;(ii) solicit, interfere with or endeavour to entice away any employee of the Group; or(iii) counsel, procure or otherwise assist any person to do any of the acts referred to in clauses 26.2(ii) and 26.2(iii) [sic].
+
+The obligations under clause 19.2(a) [sic] will apply to you for a period of: months; (ii) 2 months; or (iii) 1 month.
+
+The obligations under clause 26.2(a) will apply to you anywhere within the area of: 
+Australia;(ii) New South Wales, Victoria and Western Australia;(iii)
+Victoria;(iv) Sydney, Melbourne and Perth;(v) Melbourne.
+ .3 Interpretation of clause 26.2 
+Clause 26.2 shall be construed and have effect as if it were the number of separate sub-clauses which results from combining the commencement of clause .2 with each sub-paragraph of paragraph (a) and combining each such combination with each subparagraph of paragraph (b) and combining each such combination with each sub-paragraph of paragraph (c), each such resulting sub- clause being severable from each other such resulting sub-clauses and it is agreed that if any of the resulting sub-clauses shall be invalid or unenforceable for any reason, such invalidity or unenforceability shall not prejudice or in any way affect the validity or enforceability of any other sub-clause.
+ .4 Ability to hold less than 5% of shares 
+Clauses 26.1 and 26.2 do not prevent you, however, holding shares listed on a recognised stock exchange provided you do not hold more than 5% of the issued capital of a company.
+ .5 Reasonability of restraints 
+You acknowledge that the restraints imposed on you both during and after the termination of your employment, under the terms of clauses 26.1 and 26.2 are reasonable to protect the legitimate commercial interests of the Company, and that the remuneration payable to you under clause 7 is fair and adequate compensation for the imposition of those restraints on you.
+ DEFINITIONS 
+For the purposes of this letter, unless expressly provided to the contrary, terms used have the meanings given in the Master Terms, and: "Confidential Information" means all information regardless of the manner in which it is recorded or stored, including but not limited to information in an electronic form, relating to the business interests, methodology or affairs of the Group, or any person or entity which the Group deals or is concerned with. Confidential Information includes but is not limited to: the Register, other customer registers, customer lists, customer files or data any other information relating to finances, systems, customers or clients, contacts, employees of the Company, remuneration, tax file numbers and intellectual property." (emphasis added)
+It was agreed that the reference to cl 19.2(a) in cl 26.2(b) was an error and that this should be rectified to read "cl 26.2(a)".
+There is no dispute that after he had received notice of termination from Clear Wealth, Mr Kwong set up a company called Your Life Now Pty Ltd ("YLN") (the second defendant), which he operated immediately on his departure from Clear Wealth. There is no dispute that a very significant number of clients of the plaintiff have become clients of YLN (see Exhibit A2 at pp 379 - 609). Indeed, it appeared to be common ground that by 30 October 2011, most of YLN's clients were former Clear Wealth clients (see Mr Cosworth's affidavit of 5 December 2011 at pars 17 and 54 - 61 and subparagraph 50(4) of the plaintiff's closing submissions dated 16 August 2012 ("PCS"), to which there was no response).
+The plaintiff claims that, before he left Clear Wealth, Mr Kwong copied client lists stored in Mr Kwong's Clear Wealth computer (and deleted those lists from his Clear Wealth computer) and, by means of a USB drive, loaded those lists onto his own computer and external hard drives at home. The plaintiff claims that those lists comprise information confidential to Clear Wealth and that Mr Kwong was precluded contractually from taking and from using those lists. The plaintiff also claims that Mr Kwong, in breach of an express contractual provision, conducted work on behalf of YLN within the period of three months after his departure.
+Mr Kwong, in response to Clear Wealth's case: in his affidavit of 15 December 2011, denied that he took any lists away with him from Clear Wealth at the time of his departure; admits he contacted clients of Clear Wealth on or after 1 October 2011 but denies that he did so utilising the lists of Clear Wealth which Clear
+Wealth asserts he took; and admits that he did carry out work for certain former Clear Wealth clients in the period 1 July 2011 to 31 September 2011, but contends that the clause in question is a restraint of trade and invalid. The clients for whom he did work were, it is agreed, six in number and include his brother, who was one of the clients that Mr Kwong had brought with him to Clear Wealth. One of the six is the owner of a business with a superannuation scheme and that had a large number of employees.
+The issues to be determined are the following: 
+Did Mr Kwong, in breach of his contractual obligations, download customer lists from Clear Wealth's computer shortly before he left the employ of Clear Wealth and take that data with him? 
+Did Mr Kwong utilise those customer lists to approach clients of the plaintiff? 
+In relation to the work performed by Mr Kwong for former clients of
+Clear Wealth in the period 1 July 2011 to 31 September 2011, was the clause prohibiting such work a valid restraint? 
+Even if Mr Kwong did not utilise lists copied by him, is his approach to clients a breach of the non-use of confidential information clauses? 
+If any of the questions above are answered favourably, how are damages to be assessed and what amount should be awarded to the plaintiff?
+The plaintiff, in its case, called Messrs Richard Cosworth (whose affidavit of 5 December 2011 was read), Michael Khoury (whose affidavits of 21 March 2012 and 11 April 2012 were read) and Brandon Lambley, who worked for Data Vault, an offsite back-up company which stored data for the plaintiff. The plaintiff also relied on an affidavit sworn 5 April 2012 of Mr Murray Fogarty of AMP on the issue of damages. Mr Fogarty was not available for cross examination but not through any fault of Clear Wealth or its solicitors, and I allowed his affidavit to be read over the opposition of the defendants. Mr Fogarty's affidavit annexed AMP "BOLR" valuations for Clear Wealth and YLN and an email sent by Mr Fogarty to both Messrs Cosworth and Kwong. The defendants relied on the affidavit of Mr Kwong (of 15 December 2011, 30 March 2012 and 10 April 2012) and the affidavits of Messrs Christopher Hamilton, Michael Goldrick, Graham Samuel Wine and Christopher Quinnell, all of whom were customers of Clear Wealth who Mr Kwong contacted after 1 October 2011 and who became clients of YLN and all of whom were cross examined. Mr Keith McDonell, who approached Mr Kwong in July 2011 (see Exhibit A1 at pp 338 - 340) and whose affidavit was read in the defendants' case, was not required for cross examination.
+
+Credibility of witnesses 
+The plaintiff's witnesses
+Mr J Smith of counsel for the defendants launched an attack on Mr Cosworth's credibility, based on the following matters: he submitted that Mr Cosworth's evidence about access to information within Clear Wealth was "internally inconsistent and changed whenever he thought it suited his interest: see T64.20 - T65.1, T65.40, T66.20 and T80.12" and that the Court should accept Mr Kwong's evidence that the information contained in client lists was "freely accessible by everyone in the office" (see par 13 of the defendants' closing submissions received 16 August 2012 ("DCS")); and he submitted that Mr Cosworth's explanation for not contacting clients of Clear Wealth - that AMP told him "not to include clients in the dispute" (see T74.30) - was inconsistent with Mr Cosworth's evidence at T73.13 and inconsistent with common sense.
+Dealing with subparagraph (1) above and Mr Cosworth's evidence at T64.20 - T65.1, the only discrepancy that is discernible is the very common use of language by owners of a small business, which suggests that the business and its assets and clients are their own. The other references do not support the conclusion contended for. Mr Cosworth made it clear that, once on the Clear Wealth computers, the client lists were available to the small number of persons employed by Clear Wealth, but the ability to obtain information from the AMP portal was restricted. The fact that all employees of Clear Wealth could access the company's client lists does not establish that the client lists were not confidential to Clear Wealth.
+Dealing with subparagraph (2) above, I do not think that there is an inconsistency between what Mr Cosworth said at T73.10 - 14, which was that he was dealing with clients when they called as part of a "reactive strategy" given that the number of planners had reduced from three to one, and what he said at T74.16 - 33. In the latter questions and answers, he is referring to the position "by about 7 August 2011" whereas his previous answer can be seen to be dealing with an earlier period. His statement at T80.12 that Mr Kwong did not have access to other financial planners' allocated clients through the AMP portal was not shown to be incorrect.
+I accept Messrs Cosworth, Khoury and Lambley as credible witnesses. 
+The defendants' witnesses
+The defendants called Messrs Kwong, Hamilton, Goldrick, Wine and Quinnell. The four last named witnesses were all customers of the plaintiff serviced by Mr Kwong who moved to YLN in October 2011.
+So far as Messrs Hamilton, Goldrick, Wine and Quinnell are concerned, I think that it is clear they were each provided with a pro forma affidavit by the defendants' solicitor and that the force of their avowed unwillingness to use Clear Wealth had Mr Kwong not been available (in the case of Messrs Wine and Goldrick) was undermined. That Mr Kwong accompanied his solicitor, Mr J Fai, when some of these witnesses were interviewed was entirely inappropriate, even more so when Mr Kwong had been directed not to speak to anyone (including his solicitor) about the case, except in connection with the mediation, as he was still under cross examination (see T182.32 - 36 and T195.5 - 16). Having said that, I accept that these Clear Wealth clients were not contacted by anyone from Clear Wealth after Mr Kwong had departed and that this was a relevant factor in their decision to move to YLN when Mr Kwong rang them.
+Mr R Notley of counsel appeared for the plaintiff on 11 and 12 August 2012 (taking over from Mr G Lucarelli of counsel), when the hearing was resumed following joint application on 13 April 2012 for the proceedings to be the subject of mediation and the subsequent failure of the mediation. Mr Notley submitted that Mr Kwong ought not be accepted as a reliable witness (see par 34 of the PCS) for reasons which very largely turn around the evidence relating to the removal of customer lists and their presence on Mr Kwong's computer. To determine whether or not Mr Kwong is a credible witness or not, it is necessary to descend into the detail of what was uncovered by Mr Khoury in his forensic investigations, supported by the evidence of Mr Lambley.
+
+Mr Khoury's report
+Mr Khoury is a forensic IT consultant and is head of the Ferrier Hodgson's Sydney Computer Forensic and Electronic Discovery Service practice group. He holds a Bachelor of Information Technology and holds various certificates. His expertise as a computer forensic expert was not challenged.
+Mr Khoury, after refusal by Mr Kwong to cooperate and the relisting of the matter, was given access to Mr Kwong's iPhone 4, Mr Kwong's home computer ("the Home Computer") and two USB devices owned by Mr Kwong: a Seagate Expansion portable 500GB drive ("the Seagate Drive") and a Western Digital MyBook Essential 1TB drive ("the WD Drive"). Mr Khoury also had access to a Clear Wealth desktop computer ("the Clear Wealth Computer"). Mr Kwong had had access to a computer at Clear Wealth (see Mr Cosworth's affidavit at par 71) and it was not disputed that the Clear Wealth computer to which Mr Khoury was given access was that used by Mr Kwong.
+There were two affidavits of Mr Khoury and annexed to his 21 March 2012 affidavit ("Mr Khoury's first affidavit") is a report of 12 March 2012, in which he expressed preliminary views which he confirmed in an email of 30 March 2012 and which he referred to in his affidavit of 11 April 2012 ("Mr Khoury's second affidavit").
+The following matters can be drawn from Mr Khoury's report and affidavits: 
+Mr Kwong used the Clear Wealth Computer on 29 and 30 June 2011 (that is, the last two days of his employment with Clear Wealth) (see Exhibit A7 at p and par 4 of Mr Khoury's second affidavit).
+
+Mr Kwong inserted USB drives into the Clear Wealth Computer on 29 June at 12.24pm and on 30 June 2011 at 11.33am (see Exhibit A7 at p 1844 and see par 4 of Mr Khoury's second affidavit).
+
+On 29 June 2011, Mr Kwong had placed a USB drive into the Clear Wealth
+Computer, which USB drive had files with a YLN name (and one with an AMP name) (see Exhibit A7 at p 1845 and par 4 of Mr Khoury's second affidavit).
+
+The USB drives which Mr Kwong handed over pursuant to orders made on 16
+March 2012 were not the same as those identified as having been inserted in
+June 2011 in the Clear Wealth Computer. The USB drives used to access the
+Clear Wealth Computer were in use on the Home Computer in December 2011: see annexures to Mr Khoury's first affidavit at Exhibit A7.
+
+Mr Khoury identified (at par 26 of his first affidavit and Exhibit A7 at
+Tab 8) six instances of documents (which Clear Wealth claimed had been taken from its computer) found on the Home Computer.
+
+The Seagate Drive and the WD Drive both had the following documents on them (see Mr Khoury's second affidavit at par 5): 
+Client database Aug 2010.csv ("the First Client Database"); 
+Client database Aug 2010.xlsx ("the Second Client Database"); and the following files were accessed from the Home Computer (see Mr Khoury's first affidavit at par 26 and Exhibit A7 at Tab 8): address book.xls ("the Address Book"); 
+CustomerList4309902009Apr08095419.csv ("the Customer List"); and 
+Xmas list 2009 JK update.xls ("the Xmas List").
+
+Mr Khoury noted at par 28 of his first affidavit that: "the document "CustomerList4309902009Apr08095419.csv" was accessed on Mr
+Kwong's home computer on 30 June 2011 at 7.28pm using an external storage device serial number 866A00C5".
+
+The Second Client Database is reproduced as Annexure B to Mr Khoury's second affidavit - it consists of two documents, one short document headed "Premium Clients" and one with more than 20 pages of clients of Clear Wealth.
+Evidence was also called from Mr Lambley, an employee of Data Vault, a Melbourne data storage company. He was asked by Clear Wealth shortly after Mr Kwong's departure to check to see whether data had been removed from the Clear Wealth computer system. Mr Lambley ascertained that "Clear Wealth Share Files" were deleted on or about 30 June 2011 (see Exhibit A5 at pp 1236 - 1256) and were deleted by 'Jason' (see T29 - T37, see also Mr Cosworth's affidavit at par 71). Mr Lambley was able to retrieve the deleted data and send it to Mr Cosworth. I infer that "Jason" was Mr Kwong. The Clear Wealth Share Files included the files identified in subparagraphs [21](6)(a) - (e) above (see for example Exhibit A5 at p 1237).
+The defendants called no expert evidence in reply.
+The forensic evidence on its face presents a compelling case that Mr Kwong copied Clear Wealth's customer list and client databases on 29 and 30 June 2011 onto a USB drive, took that USB drive home and placed the client list on his own computer, which he accessed at least in June 2011 and retained on his computer or hard drives.
+The contentions of the defendants in seeking to rebut the plaintiff's case were as follows: 
+Mr Kwong admits that he had the First Client Database and the Second
+Client Database documents on the Home Computer but says that he had offered to delete the files and that in any case there is no evidence that he accessed the files after June 2011: see par 4 of the DCS and see T169.18 - 23.
+
+Therefore the only relevant documents are the Customer List, the Xmas
+List and the three address books ("the Accessed Files").
+
+The only evidence that Mr Kwong accessed the Accessed Files is Mr
+Khoury's evidence that "files with those names had been accessed". Mr Kwong does not recall ever having done that and denies having any USB drives in the relevant period, so the Court should find that Mr Kwong did not have these files because: the onus is on the plaintiff to prove Mr Kwong did have those files; 
+Mr Kwong should be accepted as a truthful witness; 
+Mr Khoury's evidence was that it was possible for access date stamps on link files to be altered by an event other than an access to file; and there was no reason for Mr Kwong to keep these files "when he had ready access to the information, if he needed it, from the more up to date Customer
+List 2010".
+I make the following observations about these submissions: 
+I accept that there is no evidence of actual access to the First Client
+Database and the Second Client Database on the Home Computer after 30 June but the access on 29 and 30 June 2011 is itself relevant and important and Mr Kwong's evidence that he did not recall doing so, coupled with his denial that he had USB drives in the relevant period when there is evidence that he did have USB drives which he has not produced, discourage acceptance of his evidence. I do not accept the defendants' contention that the First
+Client Database and Second Client Database can be taken out of consideration.
+
+It is said (see DCS at par 4(b)) that Mr Khoury did not suggest that when USB drives were inserted into the computer, any documents were copied:
+T115.15. Mr Khoury, in accordance with his obligations as an expert, agreed that the fact of access did not establish that Mr Kwong copied documents. It is theoretically possible that Mr Kwong did not copy the documents but Mr
+Khoury did not say that he had not copied the documents.
+
+It needs to be borne in mind that Mr Kwong in his first affidavit (sworn December 2011) deposed to the fact that: he did not take a copy of the "client details" (defined in the affidavit as the client lists and registers of the plaintiff which were subject to the orders made on 9 December 2011) for his own purposes; he did not have any client details in his possession, custody or control (except as an annexure to Mr Cosworth's affidavit served on him in the proceedings); on his departure from the office on 30 June 2011, the client details were held and remained in and about the office of the plaintiff and on AMP's computer system; and he did not know what had become of the client details since termination of employment (see Exhibit A1 at p 283).
+
+It is true that Mr Kwong did admit in his affidavit of 30 April 2012 that he had the two client databases on his computer and did offer to return them (Exhibit 5) but he did so only after he had produced the Seagate and WD
+Drives to Mr Khoury, that is, at a time when he would have appreciated that what was on his computer and hard drives would be ascertained. He said (see his affidavit of 30 March 2012 at par 6) that the database documents were saved in a file directory with the name "E:/Jason/Education/Kaplan" but he gives no explanation of why they were stored there or how he had come to store them on his external hard drives.
+
+The question of whether Mr Kwong ought to be accepted as a truthful witness depends in part on whether his assertion that he did not appreciate until 28 March 2012 that he had the client databases is accepted. Mr Khoury's evidence is that files with the names of the Accessed Files were accessed. Mr
+Kwong denies that he did but offers no explanation as to who it might have been who did access them.
+
+The theoretical possibility that access date stamps on link files might be altered by activities other than actual access, for example by electrical fault, needs to be considered but it is, in my view, a highly unlikely explanation in the circumstances.
+I accept the defendants' submission that the onus of establishing that Mr Kwong did take the files which contained customer lists of Clear Wealth rests on Clear Wealth. In my view, the plaintiff has discharged that onus. I find also that Mr Kwong did delete the client list from the Clear Wealth Computer. His explanation for having done so (not advanced in his affidavit) was as follows (see T169.18 - T170.14): "Q.I suggest to you that what you did on the 29th or the 30th of June 2011 was to download each of these documents we have been looking at on to a USB and then delete it from your registry? 
+A.I didn't do that.
+
+Q.There was no reason whatsoever for you to take the trouble to start deleting from your registry client lists and other confidential client material, was there? 
+A.Yes, there was.
+
+Q.Had you received an instruction to do so? 
+A.No, I didn't.
+
+Q.Well, what possible reason do you suggest to this court you had to take the trouble to go through and start deleting confidential client lists from your registry? 
+A.The main reason for any deletions from my Jason directory was to delete personal files of mine, mostly photos that I had downloaded onto that directory because they were my personal files. Now, in the process of doing that there happened to be a few obsolete working files such as the ones you have printed out which were sitting there. I was working on them at various times during the three years I was with Clear Wealth. They were just downloads of reports, halfway worked through. Some of them have hardly, you know, never led to anything. They might have just been in progress documents and because they were obsolete I just deleted them along with my personal files.
+
+Q.In order to determine whether they were obsolete or not you would have had to have opened them? 
+A.No, I didn't because I knew from the file descriptions that they were obsolete.
+
+Q.But clients lists, even those prepared years earlier, can still be useful business tools for Clear Wealth couldn't they? 
+A.No, they can't.
+
+Q.Did you seek anyone's permission before deleting from your directory confidential client lists? 
+A.No, I didn't."
+Whilst I accept that Mr Kwong wanted to delete personal files of his own from the Clear Wealth Computer, I am unable to accept that Mr Kwong removed the Clear Wealth client lists because they were obsolete and accidentally loaded client lists on to his USB drive and then loaded them onto his home computer and or external hard drives. I find, on the balance of probabilities, that he loaded the client lists with the intent of assisting his new business to gain clients. I reach that conclusion based on these grounds: the client lists were lists that would be useful to him in contacting clients beyond the three month non-competition period; the client lists were removed from the Clear Wealth Computer and no convincing explanation for removal was given by Mr Kwong in his evidence; 
+Mr Kwong did not in his affidavit of 15 December 2011 (or any subsequent affidavit) describe the process by which he had removed material from the
+Clear Wealth Computer and copied material to a USB drive and then his computer or onto his external hard drives; at the time of the affidavit of 15 December 2011, he knew that the plaintiff was complaining that he had taken data. If he did not remember what he had taken, it was open to him to disclose that he had copied material and deleted material but was not sure what he had copied and deleted but he did not do so; and he had decided, he admitted, by the beginning of June 2011 not to buy a client list from AMP (T163 - T164) and by October 2011, most of his clients were former clients of Clear Wealth. Mr Kwong says that on leaving Clear
+Wealth he had not decided to try and obtain the business of Clear Wealth clients (or major Clear Wealth clients) (T166) and that this only occurred later, but taking the lists in June 2011 is inconsistent with that contention, and in forming a view as to whether he deliberately removed and copied client lists, the undisputed fact that almost all of his clients came from Clear
+Wealth is a relevant matter.
+Given my conclusion that Mr Kwong did take the client lists and that he did so intending to use them and that he had the means to access them, I am persuaded on the balance of probabilities that he did in fact make use of the lists to inform himself as to who were the more significant clients of Clear Wealth and to contact them. There is one piece of corroborative evidence, albeit limited, which is found at T149.3 and which I set out below: "Q.So there were five clients Duncan M, Johnny M, Barbara D, Keith & Karen
+McDonald [sic] and Chris O'K, using pseudonym, that were your friends and they became your clients as well at Clear Wealth? 
+A.Yes. There may be more. I'm not a hundred percent sure.
+
+Q.They're the ones that you've spoken about in your evidence, do you agree with that? 
+A.Yes.
+
+Q.You've not spoken about anyone else in terms of friends. You've spoken about relatives. In terms of friends they're the only ones you've spoken about? 
+A. I can't sure about that.
+
+Q.Just to be fair to you, are we talking dozens of other friends that might be clients or are we talking one or two? 
+A.It could be up to a few more.
+
+Q.Two? 
+A.Look I would say somewhere possibly between 1 and 5.
+
+Q.Are you able to bring to mind their names at least in code? 
+A.If you give me a list I could tell you.
+
+Q.Unaided by a list of clients you can't even bring to mind these clients who may be your friends, correct? 
+A.No, that's not correct. To bring it to mind very quickly in this situation I would prefer to have a list. If you gave me 5 minutes to sit down with a piece of paper I could easily provide you the names." 
+Even taking into account the passage of time, the clients who came with him to
+Clear Wealth were few in number and persons with whom he had had a long association and yet he said he wanted to see a list. Further, at T150.40 - 45, he said that there were no others, which was inconsistent with his claim shortly before that there were possibly more and then that there were between one and five.
+I am unable to accept Mr Kwong's evidence that he did not want to poach Clear Wealth's clients and I find on the balance of probabilities that he downloaded the client lists to assist him in establishing his new business and that he did make use of the lists for that purpose. 
+I must now deal with the question of whether the lists were confidential, whether there was any invalid restraint of trade and what damage has flowed from Mr Kwong's use of the lists.
+
+Confidentiality of the lists
+The employment contract defined confidential information to include "customer registers, customer lists, customer files or data or any other information relating to finance, systems, customers or clients, contracts..." (cl 32). The documents which Mr Kwong copied on to his home computer fell within the definition of confidential information. 
+By cl 23, Mr Kwong agreed that he would return all Clear Wealth's property to it on termination and by cl 24 he agreed he would not, during or after his employment, "use any confidential information for the benefit of any person or entity except the Company and the Group". Mr Kwong breached his contract of employment by making a copy of those lists and copying them to his computer. It was not contended that cl 23 or cl 24 were invalid or void as a restraint of trade. It is clear that customer lists can constitute information that is confidential to an employer and that it is entitled to protection. That is so even under the general law: see Forkserve Pty Ltd versus Pacchiarotta <case>.
+It follows that the plaintiff has established that Mr Kwong took client lists from Clear Wealth to which he was contractually not entitled. The removal and use of those lists constituted a breach of his contractual obligations.
+There was a further strand to the plaintiff's case on confidential information, which was that even if the Court was not persuaded that Mr Kwong did not make use of the lists on his computer at home in order to contact the customers he contacted in October 2011, he was still making use of the information. In Weldon & Co Services Pty Ltd versus Harbinson and Forkserve Pty Ltd versus Pacchiarotta, a distinction is drawn between an employee remembering the name of a client and writing down a list or even memorising the names. I think it is likely that Mr Kwong would be able to recall the names of some of his more substantial clients, but I doubt that he could recall all of the premium clients without recourse to a list, but I do not need to resolve that factual issue in view of my conclusion that, on the balance of probabilities, he did have recourse to the list to assist him in making the calls that he made.
+
+The non-solicitation clause
+By this clause, Mr Kwong agreed not to engage in any business or activity "which is competitive with any business carried on by the Company at the date of termination or expiry of your employment" and agreed not to service customers of Clear Wealth for a period of three months, or alternatively two months or alternatively one month.
+It is clear that Mr Kwong did carry on business through YLN which was competitive with Clear Wealth. It is clear that he engaged, through YLN (of which he was a director and shareholder), in work for a number of former clients of Clear Wealth in that period, although he says that he did not solicit that work.
+The defendants contend that the clause is too wide and goes further than protecting the legitimate interest of the employer: Koops Martin Financial Services Pty Ltd versus Reeves <case> at <case>. I agree that the clause as drafted is very wide but Mr Kwong, by cl 26.5, agreed that the restraints contained in the contract were reasonable and in any event the breach which Clear Wealth asserts, and which it has established, is very narrow - that is, the servicing of former customers of Clear Wealth within the three month period.
+In Cactus Imaging Pty Ltd versus Peters <case> and [97] per Meagher JA (Campbell and Young JJA agreeing) said: "[95] Expressions which describe the necessary relationship as one in which the employee is the "human face" of the employer do so to emphasise that the source of the influence must be the personal relationship which is likely to develop, or has developed, between the employee and customer as a result of dealings between them on behalf of the employer and its business. In
+Stenhouse Australia Ltd versus Phillips [[1973] 2 NSWLR 691] at 697; <case>; [[1974] AC 391] at 400; <case>; [[1974] 1 All ER 117] at 122 the privy council emphasised the distinction between the use of the employee's personal skill or experience, against which the employer is not entitled to be protected, and the use of some advantage or asset inherent in the business which can properly be regarded as the employer's property which might legitimately be protected from appropriation by an employee for his or her own purposes. In Miles versus Genesys Wealth
+Advisers Ltd [(2009) 201 IR 1]; <case>, this court adopted that statement of principle and described the relationship between a senior employee and customers with whom that employee had fostered close and productive relationships as being "to a substantial extent" the property of his employer notwithstanding that the relationship had also developed and been supported at least in part by the employee's own qualities of skill and experience: at [38], [41], [54] and [55].
+ ...
+ [97] These statements are not, however, to be understood as requiring that the employee be proved to be in a position to control whether the customer remain with or leave the business. The employer is entitled to protection against the use of "personal knowledge of and influence over" its customers, which the employee might acquire in the course of his or her employment, so as to undermine its customer connections: Herbert Morris Ltd versus Saxelby [[1916] 1
+AC 688] at 709; Lindner versus Murdock's Garage <case>; [(1950) 83 CLR 628] at 635, 636, 645, 647 and 654; <case>; [[1950] ALR 927] at 929-30, 930, 935-6, 936-7 and 940-1 (Lindner). It is against the "possibility" of its business connection being adversely affected by the use of that "personal knowledge and influence" that the employer is entitled to be protected: Lindner at CLR 636, 645 and [654; ALR 930], 935-6 and 940-1.
+Latham CJ (dissenting) summarised the relevant principle as follows (at CLR [636; ALR 930):] 
+Where an employee is in a position which brings him into close and personal contact with the customers of a business in such a way that he may establish personal relations with them of such a character that if he leaves his employment he may be able to take away from his former employer some of his customers and thereby substantially affect the proprietary interest of that employer in the goodwill of his business, a covenant preventing him from accepting employment in a position in which he would be able to use to his own advantage and to the disadvantage of his former employer the knowledge of and intimacy with the customers which he obtained in the course of his employment should, in the absence of some other element which makes it invalid, be held to be valid."
+In my view, the restriction on Mr Kwong directly or indirectly through a company servicing former clients of Clear Wealth for a period of three months was a reasonable restriction protective of the legitimate interests of Clear Wealth. I accept that Mr Kwong was not a senior person within Clear Wealth but the nature of his work was such as required him to be the "human face" of the company, in a relationship of trust and confidence with those clients whom he did look after. 
+It follows, in my view, that the restraint was valid at least to the extent of the breach and that Mr Kwong has therefore breached his contract in that regard as well.
+
+Loss
+It has been remarked that one of the reasons that injunctions are given in cases of this kind is because proof of damage can be very difficult: see, for example, Willis Australia Group Services Pty Ltd versus Griggs <case> at <case> - <case> per Brereton J. In relation to the copying of the client lists and their use by Mr Kwong, the plaintiff relies on evidence of the system AMP uses to value clients, "Buyer of Last Resort" or BOLR. In essence, the AMP undertakes to "buy" clients from AMP agents if they cannot find an agent willing to purchase their client list. AMP uses a formula to assess the amount payable: see Exhibit A2 at pp 360 - 378.
+The plaintiff has led evidence that as at 30 June 2011, Clear Wealth's client register had a BOLR value of $1,976,850 and as at 31 October 2011, it was $1,826,014, that is, a resultant drop of $150,836. The plaintiff points to the fact that most of YLN's clients as at 30 October 2011 had been Clear Wealth clients as at 30 June 2011. The plaintiff contends that the Court should infer that the loss to Clear Wealth was at least $150,000.
+Much of the contest about this approach centred on the evidence called by the defendants from former clients of Clear Wealth who had transferred to YLN following Mr Kwong's call to them in October 2011 and also Mr Cosworth's admission that he had not initiated any contact with any of the A-List clients in the period between 11 April 2011 and 30 October 2011. The defendants contended that it should be inferred that clients would have left Clear Wealth anyway and also that the differential between the Clear Wealth June BOLR and Clear Wealth October BOLR could have arisen for any number of reasons unconnected with the solicitation of Clear Wealth clients by Mr Kwong.
+The plaintiff submitted that if the Court is not minded to order Mr Kwong to pay Clear Wealth damages, the matter should be remitted for an account of profits to be taken - reference was made to the decision of Campbell J, as his Honour then was, in Mid-City Skin Cancer & Laser Centre Pty Ltd versus Zahedi-Anarak <case>; [(2006) 67 NSWLR 569] at 655, although there his Honour was dealing with the distinction between contractual breach and breach of an equitable duty. Clear Wealth's submission appears to be that if its evidence of damage is insufficient then the Court should approach the claim as one for loss of profits and remit the matter to an Associate Judge. I have some doubt that that approach is appropriate where a plaintiff seeks damages and its proof of loss is inadequate but in any event, whilst the task is not without its difficulties, I am of the view that the Court can determine damages here.
+The questions on damage are: 
+Has the plaintiff demonstrated on the balance of probabilities that it has suffered loss by reason of Mr Kwong approaching clients and YLN taking on those clients and by reason of conducting work for some former clients within the restraint period, in breach of Mr Kwong's contractual obligations? 
+What is the appropriate measure of damages?
+I am satisfied that Clear Wealth suffered loss by reason of Mr Kwong's breaches. Quantification of that loss is assisted, in my view, by reference to the AMP BOLR figures for Clear Wealth and for YLN, because: the figures cover the period of three months after Mr Kwong's departure from Clear Wealth; the very high percentage of clients of his as at 30 October 2011 who had been Clear Wealth clients as at 30 June 2011; and the fact that his aim clearly was to take over clients from Clear
+Wealth, as demonstrated by his actions.
+It needs to be borne in mind that some of the Clear Wealth clients serviced by Mr Kwong would or may have moved elsewhere and it is possible, although less likely except in the case of his brother and those who he brought to Clear Wealth from his previous employment, that some may have made their way to Mr Kwong had he not contacted them.
+In the outline of submissions provided at the commencement of the hearing, the plaintiff indicated (at par 33) that it would be seeking damages based on the BOLR value of the "poached" clients ($153,000), plus two years revenue stream ($76,500) less a discount for present value, producing a loss of $195,500.
+In closing submissions, however, Clear Wealth contended that its loss should be calculated as $150,000 since: there was a drop in Clear Wealth BOLR value between 30 June 2011 and 31
+October 2011 of $150,836; the BOLR value for YLN clients was $153,000 as at 31 October 2011; and the vast bulk of clients of YLN as at 31 October 2011 were former Clear
+Wealth clients.
+I did not understand there to be any dispute as to (1), (2) and (3) but the defendant contends that: the drop in Clear Wealth BOLR could not all be assumed to be as a result of YLN; one specific matter which should be taken into account is Mr Cosworth's failure to contact clients. His failure to contact clients was a commercial failure to develop a relationship that cannot be sheeted home to Mr Kwong or
+YLN; and it should be accepted that Clear Wealth clients would have made an independent decision to follow Mr Kwong.
+Although nothing was said in submissions, the YLN BOLR figure relied on by the plaintiff of $153,000 (in subparagraph [50](2) above) is erroneously ascribed to 31 October 2011. In fact, the BOLR figure for 31 October 2011 was $87,000: see Exhibit A1 at p 281F. The YLN BOLR figure for 30 November 2011 was $154,000 but nothing was said about the percentage of clients of YLN that had been Clear Wealth clients by that time.
+Using the correct YLN BOLR figure of $87,000, it cannot be said that all of the loss of Clear Wealth between July and October 2011 is attributable to YLN because YLN's BOLR is much less than the drop in Clear Wealth's BOLR.
+Since it was not disputed that most of YLN's clients had been Clear Wealth clients, I shall treat $80,000 of the BOLR as attributable to Clear Wealth clients. That figure must then be discounted to allow for the prospect that not all of the Clear Wealth clients who went to YLN would have stayed with Clear Wealth had Mr Kwong not contacted them.
+I propose to use a figure of 30 per cent as an allowance for leakage brought about by factors outside of the actions of Mr Kwong.
+In reaching that figure, I have taken into account: 
+The fact that none of the clients who Mr Kwong contacted after 1 October had left Clear Wealth before he rang them.
+
+That a few clients had contacted Mr Kwong in the three month period.
+
+The fact that Mr Kwong called the clients that he did call meant the question of whether the client might have rung Clear Wealth, been directed to
+Mr Cosworth, and been happy to stay on with Clear Wealth was never tested.
+
+That Mr Kwong did not tell his clients that Mr Cosworth would be handling their account. Mr Cosworth did not specifically ask him to do this (see Mr Cosworth's affidavit at par 75) but he did ask Mr Kwong to hand over clients serviced by him "in a successful way". Mr Kwong gave evidence that he had fulfilled the handover requirements as he understood them by inviting Mr
+Cosworth to meetings that he had scheduled with his clients (see T200.41 and
+T205.20 - 30). Mr Wine gave evidence that he was not told that fact and Mr
+Kwong did not assert that he had told existing Clear Wealth clients that he had (see T220.15 - 20) and Mr Goldrick said that Mr Kwong had told him that he was not sure who was taking over (see T226.18 - 22). I think the failure to mention to clients that Mr Cosworth would be the person handling the account reduced the prospect of customers staying with Clear Wealth because they would not be aware of the identity of their new relationship manager.
+
+That Mr Cosworth, whether justified in not doing so or not, did not contact clients of Clear Wealth himself and that at least one of the clients (Mr Wine), whom he did not contact, was disappointed not to have been contacted: see T221.18 - 21.
+Applying 30 per cent to the $80,000 figure, it follows that, for breach of use of the client lists, I find that the plaintiff has lost $56,000 and interest should run on that amount from 30 October 2011 in accordance with Practice Note SC Gen 16.
+I think the approach I have indicated should be treated as covering not only the breach of use of the information but also the breach of cl 24 in the three month period and no submission was made by Clear Wealth that there should be any separate amount for the three breaches.
+Mr Kwong should be required to: hand over all copies of the Clear Wealth client lists held by him; and delete from his computer, USB drives and hard drives all files which were obtained by him from Clear Wealth.
+
+Costs
+I will hear the parties on the issue of costs.
+ * * * 

@@ -1,0 +1,396 @@
+
+
+Solution 1 Pty Ltd versus Optus Networks Pty Limited & Ors [2010] NSWSC (17 September 2010) 
+Last Updated: 21 September 2010 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Solution 1 Pty Ltd versus Optus Networks Pty Limited & Ors <case> 
+This decision has been amended. Please see the end of the judgment for a list of the amendments.  
+JURISDICTION:  
+FILE NUMBER(S):  /247958  
+HEARING DATE(S):  , 7 & 8 September 2010  
+JUDGMENT DATE:  September 2010  
+PARTIES: 
+Solution 1 Pty Ltd - Plaintiff 
+Optus Networks Pty Limited - First Defendant 
+Optus Mobile Pty Limited - Second Defendant 
+Optus Internet Pty Limited - Third Defendant  
+JUDGMENT OF: 
+Hammerschlag J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+D.B. Studdy SC with C. Champion [Plaintiff] 
+J.A.C. Potts [Defendants]  
+SOLICITORS: 
+Rotstein Lockwood Reddy Lawyers [Plaintiff] 
+Minter Ellison [Defendants]  
+CATCHWORDS: 
+CONTRACT - construction - commercial agreement - under a Business Direct
+Channel Partner Agreement ("the Agreement") the defendants ("Optus") engaged the plaintiff to market and sell telecommunications products and services on its behalf - clause 27.3(a) ("the first clause") of the Agreement provided that Optus may terminate the Agreement by giving notice if the plaintiff breached any term of the Agreement - clause 27.3(b) ("the second clause") of the Agreement provided that Optus may terminate the Agreement for any reason and at any time in its absolute discretion by giving notice - Optus purported to terminate the Agreement by notice stating that it was under the second clause - the plaintiff contended that on its proper construction the notice was invalid because it was under the first clause and breach had not been established - IMPLIED TERMS - in the alternative the plaintiff contended that
+Optus was under an implied obligation to act in good faith in exercising its right to terminate under the second clause and had acted in breach of that obligation - HELD - on its proper construction the notice was under the second clause - Optus was under no obligation to act in good faith in exercising the right to terminate and if it was it had not breached it  
+LEGISLATION CITED:  
+CATEGORY: 
+Principal judgment  
+CASES CITED: 
+Toll (FGCT) Pty Ltd versus Alphapharm Pty Ltd (2004) 219 CLR 165 
+International Air Transport Association versus Ansett Australia Holdings Ltd (Subject to Deed of Company Arrangement) <case>; <case>; [(2002) Aust Contract Reports 90-143] 
+Vodafone Pacific Ltd versus Mobile Innovations Ltd <case>  
+TEXTS CITED:  
+DECISION: 
+Plaintiff's claim dismissed with costs. The injunction ordered on 29 July 2010 is dissolved  
+JUDGMENT:  - 1 - 
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+COMMERCIAL LIST  
+HAMMERSCHLAG J  SEPTEMBER 2010  /247958 SOLUTION 1 PTY LTD -V- OPTUS NETWORKS PTY LTD 
+JUDGMENT  
+INTRODUCTION HIS HONOUR: The Optus group of companies provides telecommunications services, including mobile telephone carrier networks, throughout Australia.
+The defendants are companies within that group.
+ Since about 2004 the plaintiff has carried on business from premises at
+Preston in the State of Victoria, selling products and services provided by
+Optus. Mr Taylan Atar is the plaintiff's Managing Director and Mrs Megan Atar is its Director of Operations.
+ On 19 February 2008, the parties entered into a written "Optus Business
+Direct Channel Partner Agreement" ("the Agreement") under which Optus engaged the plaintiff to market, on its behalf, fixed voice and fixed data services, mobile telephones, modems and related accessories. The Agreement defined the plaintiff as Partner and each of the defendants as an Optus Contracting
+Entity. I shall refer to the defendants collectively as Optus.
+ On 23 July 2010, Optus gave the plaintiff written notice (the "Notice") that with immediate effect the Agreement was terminated.
+ These proceedings concern the efficacy of the Notice.
+ 
+THE AGREEMENT The Agreement is a substantial document running, with annexures, to 91 pages. Under it the plaintiff is to provide marketing activities, deal with customer complaints, order and sell Optus products and facilitate the sale of
+Optus services, for an initial period of three years unless earlier terminated in accordance with the Agreement. Absent further agreement the Agreement will (if the Notice was not effective) expire on 19 February 2011.
+ The Agreement contemplates the plaintiff acting as Optus' agent to sign up customers for Optus services including mobile telephone services.
+ Clause 27.3 provides as follows: .3 Termination by Optus 
+Each Optus Contracting Entity may terminate this Agreement: at any time with immediate effect by giving notice to Partner if: 
+Partner breaches any term of this Agreement and that breach is: not capable of being remedied; or capable of being remedied but Partner fails to remedy the breach within 15 days of written notice from the Optus Contracting Entity requiring it to do so; or an Event of Default happens to Partner; for any reason and at any time in Optus' absolute discretion with immediate effect by giving Partner at least 120 days written notice, subject to clause 28.3(a); by giving Partner 7 days' notice if: the [Telecommunications Act, ](http://www.austlii.edu.au/au/legis/cth/consolact/ta1997214/), is amended or replaced; an Optus Contracting Entity's carrier licence is amended, terminated or replaced; or an Optus Contracting Entity is issued with a lawful direction of the
+ACMA, and the Optus Contracting Entity considers (in its reasonable opinion) that, as a consequence, this Agreement or the Marketing Activities are no longer viable or practicable; by giving Partner 7 days' notice if any other agreement between
+Partner and an Optus Contracting Entity is terminated for any other reason; in accordance with clause 14.7 (Dealer Code), by giving
+Partner 7 days written notice; in accordance with clause 18.5 (Failure to meet Target and/or
+KPIs) by giving Partner 60 days written notice, subject to clause .2(a); by giving Partner 7 days' notice if an Optus Contracting Entity considers that: carrying out Marketing Activities are detrimental to an Optus
+Contracting Entity's interests generally; or the Complaints to Sales Ratio exceeds the Acceptable Complaints to
+Sales Ratio.
+ Clause 27.4 provides as follows: .4 Termination by Partner 
+Partner may terminate this Agreement: if an: 
+Optus Contracting Entity breaches this Agreement and that breach is: not capable of being remedied; or capable of being remedied but the Optus Contracting Entity fails to remedy the breach within 15 days of written notice from Partner requiring it to do so; or 
+Event of Default happens to the Optus Contracting Entity; for any reason and at any time in Partner's absolute discretion by giving each Optus Contracting Entity 30 days written notice.
+ Clause 26.4(a) provides as follows: .4 Exclusions 
+Each Optus Contracting Entity excludes: all terms (including conditions and warranties) that would otherwise be implied into this Agreement; and Clause 35(a) provides as follows: . Entire Agreement 
+This Agreement (including the Schedules): constitutes the entire agreement between the parties and supersedes all prior representations and agreements in connection with its subject matter; and Clause 28 concerns the consequences of termination. It is lengthy and is not set out here but appears in Schedule A to this judgment.  
+BACKGROUND TO THE DISPUTE In about November 2009, tensions emerged in the parties' relationship.
+ Since about 2005 the plaintiff had been operating two websites via the domain name (or "URL") www.optussolutions.com.au. The websites displayed the
+Optus logo and the telephone number 1800 1 OPTUS. In November 2009, Optus demanded that the plaintiff remove all Optus trademarks and the reference to its name. After discussions the plaintiff removed the Optus logo and changed the telephone number to a numerical equivalent.
+ Tensions escalated somewhat when, on 6 May 2010, solicitors then (but no longer) acting for the plaintiff wrote to Optus asserting that Optus had breached the Agreement in relation to the appointment by Optus of a person who had previously been associated with the plaintiff as an Optus dealer. The letter called for a without prejudice meeting and reserved all of the plaintiff's rights including to produce a copy of the letter on the question of costs in a proceeding.
+ At around this time, Optus had been conducting internal investigations into possible fraudulent activity within the plaintiff's organisation.
+ On 19 May 2010, there was brought into existence by an Optus Senior Fraud
+Risk Investigator a document entitled "Final Investigation Report" ("the First
+Report"). The First Report concluded that there had been proffered to Optus a series of non-genuine customer contracts, upon which Optus had acted by activating services and by providing mobile phone handsets. The First Report made findings concerning the likelihood that a representative of the plaintiff had forged the customer's signature on the contracts and concerning the non- delivery to the customer of handsets provided by Optus. Optus had charged the customer for the activated services. The customer had complained to the
+Telecommunications Industry Ombudsman and Optus had settled the complaint by waiving the full account balance charged. The First Report mentioned that there was another investigation relating to a customer not receiving handsets in a transaction involving a named employee of the plaintiff, a third party salesman and a named non-authorised sub-dealer. It recommended that the matter be referred to the Victoria Police for further investigation of the assertion of forged contracts by a representative of the plaintiff and the alleged theft or misappropriation of handsets.  On 25 May 2010, Mr Luke Guanlao, an Optus Compliance Officer provided to Mr
+Phillip Wise, Sales Director of Optus' Small and Medium Business Division and
+Mr James Houston, National Channel Sales Manager for that division a document which provided a summary of breaches of the Agreement by the plaintiff concerning amongst others missing telephone handsets, inaccurate or fraudulent contract completion and customer complaints relating to the named unauthorised sub-dealer. The document proposed solutions including terminating the
+Agreement.
+ On 26 May 2010, a meeting took place at which were present Mr and Mrs Atar,
+Mr Wise, Mr Houston and Mr Nikolas Kalogirou, Optus' State Channel Sales
+Manager for the Small and Medium Business Division.
+ Mr Wise used the document which he had received from Mr Guanlao as the basis for discussion at this meeting.
+ Each person present gave evidence about the meeting. There was a substantial measure of agreement as to what was said. The principal difference concerns what Mr Wise said. Undoubtedly, Mr Wise made it clear that he thought that the earlier sending by the plaintiff of a lawyer's letter was not a productive course for the plaintiff to have taken. To illustrate his point, he gave an example of Cuba firing a missile at the United States, the latter retaliating and the dispute escalating. Mr and Mrs Atar gave evidence that his example included reference to America sending a "nuke" (presumably meaning a nuclear device). Mr Atar's recollection included a reference by Mr Wise to
+Cuba being part of America's territory. Reference was also made to the fact that Optus would have significant resources at its disposal in a contest. Mrs
+Atar says the term "deep pockets" was used in this context. Mr and Mrs Atar took these statements to imply a threat that if the dispute escalated Optus would obliterate the plaintiff.
+ Mr Houston denied that the term "nuke" was used. Mr Kalogirou had no recollection of the expression. Mr Wise denied it in his affidavit evidence and gave oral evidence that he did not have a recollection of using the term.
+Mr Wise denied using the term "deep pockets" but gave evidence that he said that if matters went legal Optus would have to defend. Mr Houston had no recollection of the phrase being used but recalled Mr Wise saying that it would get costly for everybody.
+ The evidence from the Optus side was that Mr Wise was seeking to convey that communication other than via lawyers was preferable. Mr Houston's evidence was that in no way was Mr Wise's example intended to be nor was it conveyed in a way that was antagonistic or aggressive. Mr Wise's evidence was that he wanted people to talk to each other and was trying to explain the importance of communication.
+ Another topic discussed at the meeting was Optus' concern that fraudulent activities were occurring in the plaintiff's organisation. Mr Atar's evidence was that this was only lightly touched upon. There was reference by Mr Wise to
+Mr and Mrs Atar being positive and optimistic and that with regard to fraud that they should be prepared to contemplate the darkest corners of their business and the worst things so that they could pull together an effective plan to combat fraud. At the meeting the plaintiff agreed to work on a plan to mitigate fraud within its organisation.
+ Both sides agreed that Mr Wise also said that Optus would not pay to buyback its own trademarks. However, a point of difference is whether Mr Atar first enquired what Optus was prepared to pay for the website. Mr Houston and
+Mr Wise gave evidence that he did. Mr Atar gave evidence that he did not. Mrs
+Atar could not recall Mr Atar asking the question.  Although in my view each witness gave an honest account of his or her recollection and perceptions, for the following reasons I prefer the evidence of Messrs Houston and Wise to that of Mr and Mrs Atar where they are inconsistent: a under cross-examination Mrs Atar accepted much of the Optus version as being accurate;  b I think it is unlikely that Mr Wise referred to Cuba as being part of
+America's territory as Mr Atar suggests. The statement is obviously incorrect, does not sit well with the example and I accept Mr Wise's evidence that it is not and has never been his understanding that Cuba is part of America's territory;  c I think it is more likely than not that Mr Atar did, contrary to what he suggests, ask what Optus was prepared to pay for the website. There is no apparent reason why Mr Wise would have said that Optus was not prepared to pay for its own trademarks apart from it being a response to Mr Atar enquiring what Optus would be prepared to pay;  d in the plaintiff's Commercial List Statement, the plaintiff pleaded that at the meeting, Optus had informed the plaintiff that if it sent another legal letter then Optus would "flatten" the plaintiff. This allegation was unsupported by the evidence.  In my view, albeit in a colourful, graphic and emphatic way, Mr Wise was doing no more than conveying that the plaintiff would be better served by communicating other than via lawyers and that co-operation was more satisfactory than conflict. I do not consider that what was conveyed even approached a threat of annihilation or harm.  On 1 June 2010, a further investigation report ("the Second Report") was brought into existence by Optus' Senior Fraud Investigator. The Second Report dealt with an allegation by a former Optus customer of being unlawfully signed on to Optus mobile services by a named unauthorised sub-dealer with the assistance of the plaintiff and also with an allegation that fraudulent service contracts had been proffered to Optus from a named third party through the plaintiff and that handsets had been obtained which had not been supplied to the customer. Amongst others, the Second Report recommended "clawback" of the full amount of loss to Optus due to non-compliance and other issues relating to the contracted services.
+ On 3 June 2010, Mr Kalogirou met with the plaintiff and was given a draft
+Fraud Prevention Policy document which they had prepared. Mr Kalogirou passed the Fraud Prevention Policy to, amongst others, Messrs Wise and Houston. On the same day the plaintiff sent a letter to Optus enclosing a copy of the
+Fraud Prevention Policy and asking for feedback.
+ On 18 June 2010, Optus sent a letter to the plaintiff in the following terms:  
+Solution 1 PTY LTD - contractual Compliance . Background 
+We refer to: a. the Optus Partner Agreement between Solution 1 Pty Limited (S1), Optus
+Mobile Pty Ltd, Optus Networks Pty Ltd and Optus Internet Pty Ltd (together,
+Optus) (Partner Agreement); and b. your meeting with Phillip Wise, Nik Kalogirou and James Houston on 26
+May 2010.
+
+Optus values its relationships with all of its channel partners, and aims to uphold the highest level of integrity and professionalism within its channel organisation.
+ . Conduct 
+It has come to our attention that S1 has engaged in the following conduct: a. Registered the domain name www.optussolutions.com.au without the consent of Optus; b. Failed to comply with Partner Resources, including but not limited to failing to comply with the Compliance and Contracts Bulletin distributed via the Partner Resources on 31 May 2010; c. Failed to comply with Optus' written and verbal instructions concerning the Marketing Activities (as defined); d. Engaged the services of a sub-dealer, namely Compello Mobile &
+Wireless Pty Limited, without the consent of Optus; e. Failed to address numerous customer complaints made in relation to the services provided by the unauthorised sub-dealer, Compello Mobile &
+Wireless Pty Limited; and . Breach 
+The conduct referred to above is in breach of the terms of the Partner
+Agreement. We refer you in particular to the following clauses of the Partner
+Agreement: a. Clause 22.6 - Domain names: "Before registering or otherwise using any domain name or URL in connection with its obligations under this Agreement,
+Partner must obtain prior Optus Consent in relation to the domain name or
+URL"; b. Clause 4.1(a)(iv) - Obligations: "Partner must provide (and ensure that each of its Personnel provides) the Marketing Activities in strict compliance with the Partner Resources"; c. Clause 4.1(a)(xii) - Obligations: "Partner must provide (and ensure that each of its Personnel provides) the Marketing Activities without engaging in any Improper Conduct" (Improper Conduct "includes, but is not limited to, any breach of this Agreement, fraud, harassment, offensive behaviour, any breach of relevant legislation, making false or misleading statements, or any other similar conduct described in the Optus Direct
+Marketing Code of Conduct"); d. Clause 4.3 - Instructions: "Partner must comply (and ensure that its
+Personnel comply with all reasonable written or verbal instructions issued by
+Optus from time to time concerning the Marketing Activities and the sale of
+Optus Products and Services as Optus' agent"; e. Clause 9.1(b) - Customer complaints: "Partner must comply with any
+Customer complaint handling procedures specified in the relevant Partner
+Resources, the Conduct and Complaint Management Procedures set out in Schedule (Conduct and Customer Complaint Management Procedures as amended from time to time), or as otherwise specified by Optus from time to time"; and f. Clause 29.3 - Sub-contracting: "Partner must not sub-contract any of its obligations under this Agreement without obtaining prior Optus consent".
+ . Steps to remedy .1 In accordance with clause 27.3(a)(i)(B) of the Partner Agreement, this letter is written notice from Optus that we require that S1 take the following steps to remedy the breaches outlined above within 15 days from the date of this letter: a. Deregister the domain name www.optussolutions.com.au; b. If S1 has not already done so, terminate the sub-dealer arrangements that S1 has with Compello Mobile & Wireless Pty Limited in relation to the provision of Marketing Activities of Optus Products and Services by Compello
+Mobile & Wireless Pty Limited c. Provide Optus with S1's customer complaint handling procedure.
+ d. Provide Optus in writing with a comprehensive action plan setting out the steps it has taken to remedy the breaches identified above and the steps it has taken or intends to take to ensure ongoing compliance with the terms of the Partner Agreement .2 On an ongoing basis, Optus also requires S1 to: a. Ensure compliance with the Compliance and Contracts Bulletin distributed via the Partner Resources on 31 May 2010, including: i. creating hardware delivery receipts to validate hardware deliveries to customers; and ii. conducting welcome calls to all customers (new or existing) to ensure satisfaction with the Optus product or service which was ordered.
+ b. Apply customer complaint handling procedures that are acceptable to
+Optus throughout the Term of the Partner Agreement; c. Provide all necessary cooperation and assistance to Optus in addressing any residual complaints in relation to services provided by
+Compello Mobile & Wireless Pty Limited; d. Ensure that Optus' consent is received prior to any assignment or sub-contracting of S1's obligations pursuant to the Partner Agreement; e. Ensure compliance with the Optus Code of Conduct and the [Do Not
+Call Register Act ](http://www.austlii.edu.au/au/legis/cth/consolact/dncra2006201/) (Cth) when conducting the Marketing Activities; and f. Ensure that [S1](http://www.austlii.edu.au/au/legis/cth/consolact/dncra2006201/s1.html) otherwise complies with its obligations under the Partner Agreement.
+
+If [S1](http://www.austlii.edu.au/au/legis/cth/consolact/dncra2006201/s1.html) fails to remedy the breaches outlined in 4.1 above within the stipulated timeframe, we reserve our right to terminate the Partner Agreement with immediate effect in accordance with clause 27.3(a)(i)(B) and otherwise take such further action as required without further notice.
+ 
+Yours sincerely 
+Phillip Wise 
+Sales Director, SMB Sales On about 25 June 2010, Optus deducted an amount $61,333.55 from the May commission that was paid to the plaintiff. This represented a clawback of commission which Optus asserted had been wrongly claimed by the plaintiff as relating to contracts which Optus had taken the view were fraudulent.
+ On 25 June 2010, solicitors for the plaintiff wrote three letters to Optus (Mr Wise).
+ The first was in the following terms:  
+Your Letter of 18 June 2010 
+We act for Solution 1 Pty Ltd and have been handed a copy of your letter to our client dated 18 June 2010 titled 'Solution 1 Pty Ltd - Contractual
+Compliance' ("Letter").
+ 
+We will send a separate letter to you shortly in respect of Optus' allegation in paragraph 2(a) of the Letter.
+ 
+In respect of the other allegations in your Letter, please provide us with the following information ("Information") so that we may obtain our client's instructions: a copy of the minutes of the meeting referred to in paragraph 1(b) of the Letter; and particulars for each allegation made in paragraphs 2(b), (c), and (e) of the Letter. In that regard, we refer you to the decision of
+Aura Enterprises Pty Limited versus Frontline Retail Pty Ltd <case>.
+
+Our client takes its obligations to Optus seriously and accordingly, we look forward to receiving the Information as soon as possible.
+
+All of our client's rights are reserved, including, without limitation, our client's rights to avail itself of the dispute resolution procedure set out in clause 31 of the Partner Agreement (as defined in your Letter), in respect of the Letter and Optus' allegations.
+ 
+Yours faithfully, 
+ROTSTEIN LOCKWOOD REDDY  The second was in the following terms: 
+Dear Sir, 
+Your Letter of 18 June 2010 
+We act for Solution 1 Pty Ltd and have been handed a copy of your letter to our client dated 18 June 2010 titled 'Solution 1 Pty Ltd - Contractual
+Compliance' ("Letter").
+
+The purpose of this letter is to respond to Optus' allegation that our client is in breach of clause 22.6 of the Partner Agreement (as defined in the
+Letter). We will write to you shortly in respect of the other allegations in the Letter.
+
+The Partner Agreement commenced on 20 February 2008. Prior to that date, the Optus Business Direct was operated by our client pursuant to the terms of an antecedent partner agreement ("Prior Partner Agreement").
+
+During the term of the Prior Partner Agreement, our client registered the domain name www.optussolutions.com.au ("Domain Name") and built a website accessible at the Domain Name to promote Optus products ("Website").
+
+We are instructed that: the Domain Name was first registered in 2005 with the knowledge of
+Optus; 
+Optus did not object to the registration of the Domain Name, or the building of the Website, during the term of the Previous Partner Agreement; the marketing plan submitted by our client to Optus in support of a three year term for the Partnership Agreement (which was subsequently agreed to by Optus) dealt in some detail with the integral part played, and that would continue to be played, by the Domain Name and Website in the on-going marketing of Optus products and services by our client; our client entered into the Partner Agreement under the impression, an impression fostered by the representations and conduct of Optus, that our client was authorised by Optus to continue to use the Domain Name and the
+Website in the on-going marketing of Optus products and services by our client; on many occasions since the Partner Agreement commenced, Optus has said and done various things that have strengthened our client's impression that our client was authorised by Optus to continue to use the Domain Name and the Website in the ongoing marketing of Optus products and services by our client. For example, as recently as: 
+November 2009, Optus reviewed the contents of the Website and requested that certain changes be made, but made no comment regarding the use of the
+Domain Name; 
+January 2010, Optus approved external building signage for our client's
+Optus Business Direct premises that prominently displays the Domain Name; and on or about 3 June 2010, Optus approved marketing copy for our client in respect of 'Club Clipsal' customers which displays the Domain Name and directs customers to a 'landing page' on the Website (specifically requested by
+Optus). Further, Optus has invited our client to submit that advertisement for a 'local area marketing' award.
+
+Our client has voluminous material evidencing the extent to which Optus has known, and approved, of the use of the Domain Name and Website since 2005.
+Such material includes, for example, quarterly marketing plans, 'local area marketing award' nominations, template customer letters prepared by Optus itself, business cards, email signatures included on hundreds of emails to
+Optus and promotional items (including coffee mugs, pens, mouse pads and thank you cards, all of which Optus has approved).
+
+As a result of Optus' conduct, our client has incurred substantial costs in maintaining and upgrading the Website and in structuring its business so that the Website is an integral part of that business. We are instructed that the use of by our client of the Domain Name and the Website has generated a substantial number of leads for Optus products and services, many of which have resulted in sales. It is clear that the de-registration of the Domain
+Name will adversely affect our client's promotion of Optus products and services and thereby damage our client's business.
+
+In light of the aforesaid, clause 22.6 of the Partner Agreement could not possibly have been intended to apply to the Domain Name already registered and in use prior to the signing of the Partner Agreement. Accordingly, our client utterly rejects the contention that it is in breach of clause 22.6 of the
+Partner Agreement.
+
+Any attempt by Optus to interfere with our client's use of this Optus approved marketing tool will be met by our client with an application to the
+Court.
+
+Clause 31 of the Partnership Agreement 
+If, notwithstanding the above, Optus determines to maintain its position that our client is in breach of section 22.6 of the Partnership Agreement, our client will avail itself of the dispute resolution procedure set out in clause of the Partner Agreement.
+
+Accordingly, please provide a response to this letter by 4.00pm, 30 June indicating either the withdrawal by Optus of the allegation of breach by our client of clause 22.6 of the Partner Agreement, or Optus' insistence that our client is in breach of clause 22.6 of the Partner Agreement. If Optus adopts the latter position, our client will then: immediately issue a notice pursuant to clause 31.2 of the Partner
+Agreement; and apply to the NSW Supreme Court for urgent interim relief restraining
+Optus from terminating the Partner Agreement on the basis of the alleged breach of clause 22.6 of the Partner Agreement. Such an application can be avoided if Optus were to agree that it will not issue a termination notice based on clause 22.6 of the Partner Agreement, other than in accordance with clause 31.2(d)(i) of the Partner Agreement.
+
+We look forward to receipt of your response by 4.00pm, 30 June 2010.
+
+Yours faithfully, 
+ROTSTEIN LOCKWOOD REDDY In the third letter, the plaintiff's solicitors required Optus to remit payment of the clawback amount pending resolution of their dispute following, amongst others, Optus providing copy of its "Fraud Investigation Report" in respect of each service to which the clawback amount related. The letter went on to state that if Optus refused to remit payment the plaintiff would invoke the dispute resolution procedure in the Agreement. Clause 31 is entitled
+Resolution of Disputes and provides a pre litigation dispute resolution mechanism which commences with the service of a Notice of Dispute.
+ On 28 June 2010, the plaintiff's solicitors served a Notice of Dispute.
+ On 30 June 2010, the plaintiff's solicitors wrote to Optus, amongst others, again asking for copy of the "Fraud Investigation Report".
+ On 1 July 2010, Optus wrote to the plaintiff's solicitors as follows: 
+Solution 1 Pty Limited 
+I refer to your facsimile dated 1 July 2010 which was sent to Phillip Wise and your facsimile to me dated 30 June 2010.
+
+Please ensure that all future correspondence in respect of your client is sent to me. I assume it is requirement of legal practitioners in Victoria, as it is under the Solicitors Rules in NSW, that they not contact another legal practitioners' client directly.
+
+In respect of your facsimile of 30 June 2010:
+I confirm that particulars in respect of the clawback will be provided shortly.
+Optus does not intend to provide you or your client with any internal investigation reports.
+You have requested details of your client's PIG Representative. I am instructed that the process of electing a PIG Representative has ceased. Optus would be content for your client to attend with the principal of another OBD
+Channel Partner of its choosing.
+I note you have not provided a copy of the document entitled "Commission
+Clawbacks - Rules of Engagement" as I requested. I assume your client no longer presses its claim in respect of that document.
+
+In respect of your facsimile of 1 July 2010 and your earlier letters dated June 2010:
+We note your client's position with respect to clause 2(a) of the letter from Optus dated 18 June 2010. Optus does not currently press its request that your client deregister www.optussolutions.com.au.
+Optus did not minute the meeting held on 26 May 2010.
+I note your request for "particulars" of the allegations contained in paragraphs 2(b), (c), (d) and (e) of Optus' letter of 18 June 2010. You have referred to the decision of Justice Brereton in Aura Enterprises Pty Limited v Frontline Retail Pty Limited. I note that this is a judgment with respect to the Franchising Code of Conduct. Your client is not a franchisee and therefore the Franchising Code of Conduct does not apply. In any event your client is well aware of the particulars you request, as is its previous legal representative.
+
+Yours faithfully 
+Lynette Rieper 
+Corporate Counsel On 2 July 2010, the plaintiff's solicitors wrote to Optus, amongst others, responding to the facsimile of 1 July 2010, in the following terms: 
+Our facsimile of 1 July 2010 
+We are instructed to respond as follows (adopting the numbering in your fax for ease of reference) Thank you. Our client will proceed on the basis that Optus has withdrawn its allegation that our client's registration of the domain name www.optussolutions.com.au was a breach of our client's obligations to Optus.
+ Noted.
+ Your interpretation of Aura Enterprises Pty Limited versus Frontline
+Retail Pty Ltd <case> ("Aura Decision") and its application to Optus' letter dated 18 June 2010 is misguided in that regard, we refer you to a the numerous cases cited in the Aura Decision in respect of the particulars required to be provided where a 'breach' notice is served and in respect of the 'reasonable recipient' test for the construction of contractual notices.
+Those cases were not confined to franchise agreements, and b Whitegum Petroleum Pty Ltd versus Bernadini Pty Ltd  <case> (at para 19).
+
+Our client and its previous legal representative are not "well aware" of the particulars that have been requested.
+
+Also, we confirm that Counsel who appeared on behalf of the plaintiff in the Aura Decision has been briefed by our firm in respect of this matter.
+
+Finally, we are instructed that if Optus seeks to rely on its alleged right of termination as foreshadowed in its letter of 18 June 2010, without having first provided our client with proper particulars in respect of Optus' letter of 18 June 2010 and no fewer than 15 days to respond after receipt of those particulars, our client will immediately apply to the NSW Supreme Court for urgent interim relief.
+
+All of our client's rights are expressly reserved.
+ On 7 July 2010, Optus wrote to the plaintiff providing particulars of the clawback amount and the reasons why Optus considered it was entitled to withhold commissions. The letter made reference to the allegedly fraudulent transactions.
+ On 13 July 2010, the plaintiff's solicitors responded, at some length, to
+Optus' letter of 7 July 2010. The plaintiff disputed Optus' entitlement to the clawback. The letter required Optus, by 10.00am on 16 July 2010 to refund the clawback amount, withdraw its allegations, pay $10,000 on account of interest foregone on the clawback amount and confirm in writing that it would not give effect to any future clawback otherwise than in accordance with the terms of the Agreement and the plaintiff's rights. The letter foreshadowed action to recover the amount plus interest and costs without further delay.
+ On 16 July 2010, the plaintiff's solicitors wrote to Optus' Corporate
+Counsel seeking confirmation that she had instructions to accept service.
+ On 23 July 2010, Optus sent the Notice to the plaintiff. It is in the following terms: 
+Dear Sir 
+Optus Business Direct Channel Partner Agreement . Termination of Optus Business Direct Channel Partner Agreement 
+I refer to the Optus Business Direct Channel Partner Agreement between
+Solution 1 Pty Limited ACN 063 307 639 (Solution 1) and Optus Networks Pty
+Ltd ACN 008 570 330, Optus Mobile Pty Ltd ACN 054 365 696 and Optus Internet
+Pty Ltd ACN 083 164 532 (together Optus) executed on or around 19 February (Agreement).
+
+Optus hereby notifies you that as a result of your client's recent non- compliance with the Agreement it is exercising its right to terminate the
+Agreement immediately in accordance with clauses 27.3(b) and 28.2(a) of the
+Agreement. Pursuant to clause 28.2(a)(i) the amount which is payable to
+Solution 1 is $0.00 (Termination Fee). Please note that in accordance with clause 28.2(b) Solution 1 has no right to any payment from Optus as a result of the termination except for the Termination Fee and that the Termination Fee is Solution 1's sole and exclusive remedy as a result of the termination.
+
+Pursuant to clause 28.1 of the Agreement the appointment of Solution 1 to provide Marketing Activities is now terminated and after today Solution 1 will have no entitlement to Commission, nor for the avoidance of doubt will
+Solution 1 have any entitlement to the ongoing payment of Trailing Commission in respect of Customers Activated by Solution 1 prior to the date of termination.
+ . Obligations on Termination 
+In accordance with clause 28.3 of the Agreement, Solution 1 must: cease carrying out Marketing Activities; cease using any Optus trademarks including the Approved Business Name; promptly return any Confidential Information and all other materials provided to Solution 1 by Optus; and immediately return any unsold Products.
+
+Please contact me if you have any questions.
+
+Yours sincerely 
+Optus Mobile Pty Limited, Optus Internet Pty Limited and Optus Networks Pty
+Limited 
+THE PROCEEDINGS By Summons sued out of this Court on 26 July 2010, the plaintiff obtained ex parte injunctive relief restraining Optus from giving effect to the Notice. The proceedings were adjourned to 29 July 2010. On that date the injunction was without contest extended until further order and the proceedings were stood over to 30 July 2010. On 30 July 2010 the proceedings were transferred to this List and were set down for final hearing to commence on 6 September 2010. On 12 August 2010, the plaintiff filed a Commercial List
+Statement and on 19 August 2010, Optus filed a Commercial List Response. On 1
+September 2010, the plaintiff filed an Amended Summons.
+ The hearing took place over two and a half days. Mr D B Studdy SC with Mrs
+C Champion of counsel appeared for the plaintiff. Mr J A C Potts of counsel appeared for Optus.
+ By its Amended Summons the plaintiff seeks as final relief:  a a declaration that the Notice is invalid;  b a declaration that Optus, in serving the Notice and seeking to give effect to it acted contrary to its duty to act in good faith; and  c an order that Optus, whether by its servants, agents or otherwise, be permanently restrained from seeking to give effect to the Notice.  A claim for damages was not pressed. A claim for a permanent injunction restraining Optus from ever relying on cl 27.3(a) of the Agreement was properly abandoned.
+ 
+IS THE NOTICE INVALID? The plaintiff puts that the Notice is invalid and of no legal effect because:  a on its proper construction it is not written notice under and within the meaning of cl 27.3(b) of the Agreement, but rather is a notice under cl .3(a); and  b as a notice under cl 27.3(a) it is invalid because that clause presupposes the establishment by Optus of a breach by the plaintiff and Optus has established no such breach.
+ The reasoning upon which its submission that the Notice is one under cl .3(a) is founded, is as follows:  a the Notice contains the words "as a result of your recent non-compliance with the Agreement";  b the "non-compliance" is reference to the breaches asserted in Optus' 18 June letter;  c that letter informed the plaintiff that if it failed to remedy the breaches outlined in par 4.1 thereof within the stipulated time frame, Optus reserved its right to terminate the Agreement with immediate effect "in accordance with clause 27.3(a)(i)(B) and otherwise take such further action as required without further notice" (emphasis added);  d it follows that that the Notice is to be construed as notice of termination under cl 27.3(a).
+ Optus did not take upon itself the burden of establishing, on the probabilities, that the plaintiff had breached the Agreement. It accepted that if the Notice is to be construed as one under cl 27.3(a), it lacks efficacy.
+ The plaintiff's submission proceeded (without demur on the part of Optus) on the premise that the Notice is to be construed according to accepted canons of contractual construction. Accordingly, the meaning of the words used in the
+Notice is to be determined by what a reasonable person would have understood them to mean. This requires consideration of the language used, the surrounding circumstances known to the parties, the purpose of the Notice and the objects which it was intended to secure: Toll (FGCT) Pty Ltd versus Alphapharm
+Pty Ltd (2004) 219 CLR 165 at 179; International Air Transport Association v
+Ansett Australia Holdings Ltd (Subject to Deed of Company Arrangement) [(2008) 212 ALR 47] at [8]. If the words used are unambiguous, the Court must give effect to them. If the language is open to two constructions, that will be preferred which will avoid consequences which appear to be capricious, unreasonable, inconvenient or unjust: Australian Broadcasting Commission v
+Australasian Performing Right Association Limited <case>; [(1973) 129 CLR 99] at 109.
+ The reasoning underpinning the plaintiff's submission is insupportable and the conclusion which it yields is unsustainable.
+ Even if it be accepted that the reference to "recent non-compliance" in the
+Notice is a reference to some or all of the breaches identified in the 18 June letter, this does not convert the Notice, which clearly and unambiguously states that it is being given in accordance with cl 27.3(b) and cl 28.2(a) of the Agreement, into a notice under cl 27.3(a). Clause 28.2(a) has no application to cl 27.3(a). In the Notice Optus exercised its election under cl .2. It had no such election on termination under cl 27.3(a). On termination under cl 27.3(a) (but not cl 27.3(b)) the restraint in cl 28.4 applies. No reasonable reader (especially one in the position of these parties with knowledge of the terms of the Agreement) would have read the Notice other than as conveying termination pursuant to cl 27.3(b).
+ The plaintiff's reasoning proceeds upon the misconception that because
+Optus, in terminating under cl 27.3(b) gave reasons (which reasons might have formed the basis for termination under cl 27.3(a)), its termination is one under cl 27.3(a). Further, it does not follow that because Optus earlier foreshadowed reliance on cl 27.3(a), that when it did ultimately terminate it did so under that provision though the Notice said otherwise. Moreover, nothing in the Agreement prevents Optus from relying on, as a reason for terminating under cl 27.3(b), a reason upon which it might have relied for terminating under cl 27.3(a).
+ The plaintiff's submission that the Notice is invalid as a matter of construction fails.
+ 
+GOOD FAITH The plaintiff puts that:  a there is to be implied into the Agreement a term that Optus will act in good faith towards the plaintiff in exercising its right to terminate under cl .3(b);  b Optus acted in breach of that term by giving the Notice in the circumstances in which it did; and  c Optus should accordingly be restrained from giving effect to the Notice.
+ There was no issue between the parties that if the plaintiff were to make out the first two propositions, the third follows.
+ 
+Implied Term? The plaintiff puts that the term contended for is an incident of every commercial contract. In support of this proposition it relied on Overlook v
+Foxtel <case>; [(2002) Aust Contract Reports 90-143] at <case> in which Barrett J said: 
+An additional term implied by law into commercial contracts is a term requiring the exercise of good faith in the performance of the contract. This is now in this State a legal incident of every such contract: Burger King
+Corporation versus Hungry Jack's Pty Ltd <case>
+It takes its place beside the terms referred to in Peters (WA) Ltd.
+ However, in Vodafone Pacific Ltd versus Mobile Innovations Ltd  <case> at <case>
+Giles JA in considering whether an implied term that a party would act in good faith and reasonably in exercising its powers under an Agent Service Provider
+Agreement (the "ASP Agreement") under which Mobile Innovations purchased mobile telecommunications services from Vodafone and resold them said: 
+The ASP Agreement was no doubt a commercial contract. It was not suggested that it fell within some other class of contract already carrying the implied term as a legal incident or which it should now be found to have that status.
+I do not think the law has yet gone so far as to say that commercial contracts are a class of contracts carrying the implied terms as a legal incident, and the width and indeterminacy of the class of contracts would make it a large step. However, I am content to assume, expressly without deciding, that unless excluded by express provision or because inconsistent with the terms of the contract, Vodafone was under an implied obligation to act in good faith and reasonably in exercising its powers under the ASP Agreement, specifically the power of determining target levels in cl 18.4. Whether the assumption might be justified by commercial contracts already carrying the implied term or now being found to have that status does not matter. I consider that the present case can be decided by addressing whether the implication of the term as a matter of law, as to the power conferred by cl 18.4 of the ASP Agreement, is precluded by expression of a contrary intent.
+ His Honour went on to conclude that the good faith term contended for was excluded by other provisions in the ASP Agreement.
+ I propose to follow the approach taken by Giles JA, namely to assume that unless excluded by express provision or because inconsistent with the terms of the Agreement, Optus was under an implied obligation to act in good faith in exercising its power under cl 27.3(b).
+ So far as the scope of the term is concerned, the plaintiff put that the good faith requirement required Optus to act honestly and reasonably, not to act arbitrarily, to exercise the degree of caution and diligence to be expected of an honest person of ordinary prudence, not to act for some ulterior motive, to recognise and have regard to the legitimate interests of both parties in the enjoyment of the fruits of the Agreement and to avoid action rendering the plaintiff's interests under the Agreement nugatory, worthless or seriously undermined. Optus did not put anything to the contrary.
+ In my view, the term contended for by the plaintiff is not to be implied because it is inconsistent with other provisions of the Agreement namely: a clause 27.3(b) which expressly entitles Optus to terminate for any reason, at any time and in its absolute discretion, indicating the exclusion of any constraint on Optus of the type contended for; and  b clause 26.4 which expressly excludes all terms that would otherwise be implied into the Agreement and accordingly excludes the implied term contended for.
+ I will nevertheless consider, on the hypothesis that a good faith term is to be implied, whether Optus breached it.  
+Lack of Good Faith?   The plaintiff does not suggest that Optus in any way acted dishonestly.
+Rather, it puts that it acted with the intention of harming the plaintiff, unreasonably, arbitrarily, without regard to the plaintiff's legitimate interests in the enjoyment of the fruits of the Agreement and in such a way as to render those interests nugatory, worthless or seriously undermined.
+ It puts that this conclusion is to be inferred from the threat of harm levelled at it at the 26 May 2010 meeting and the facts that at the time of the Notice:  a Optus no longer had any complaint about the URL, having told the plaintiff in its 1 July 2010 letter that it did not currently press its request for the plaintiff to deregister it;  b the plaintiff had on 3 June 2010 provided to Optus its proposed Fraud
+Prevention Policy in respect of which Optus had not provided any feedback; and  c Optus had failed and refused to provide the particulars of the allegations made in par 2(b), par 2(c), par (d) and par (e) of Optus' 18 June 2010 letter as requested by the plaintiff's solicitors in their letter dated 25 June 2010.
+ For the reasons which follow, in my view, the plaintiff fell significantly short of establishing that Optus acted other than in good faith.
+ I have already found that the plaintiff has not established a threat of harm at the 26 May 2010 meeting.
+ Mr Darren Adam, Optus' Commercial Director in its Small and Medium Business
+Division was the person responsible for the decision to give the Notice. He gave evidence as to his motivation for giving it. In my view he was entirely truthful and I accept his evidence.
+ He says that in late 2009 or early 2010 he first became aware, from Mr
+Martin Green, a Senior Fraud Risk Manager in Optus' Fraud and Risk Management team of complaints concerning the plaintiff which were being investigated by that team. He received the First Report and the Second Report and read the key findings. In about May 2010, in a conversation with Mr Guanlao and Mr Houston he was informed that there had been meetings with the plaintiff. Mr Houston said words to the effect: 
+We're not getting a lot of traction from them we need to address some of the issues and they're pushing back on a number of matters.
+ He says that his principal concern was the manner in which the plaintiff was transacting with Optus customers and the complaints that were ensuing as a result of it. He took the view that the plaintiff's solicitors' response to
+Optus' 18 June 2010 letter, including the threat of litigation indicated a lack of preparedness on the part of the plaintiff to deal with what he regarded as a reasonable request as to how the plaintiff should deal with
+Optus' customers. He says the decision to terminate was made based on the numerous frauds and the plaintiff's lack of preparedness to comply with policies which Optus had issued not just to the plaintiff but to all partners to try and remedy fraud. His evidence was that in light of the First Report and the Second Report, combined with the failure by the plaintiff to properly address the issues, he formed the view that there were systemic problems with the plaintiff's organisation which were not being satisfactorily addressed and as a result Optus did not wish to continue its business relationship with the plaintiff under the Agreement.
+ He acknowledged that he took the decision to send the Notice aware that there were outstanding requests for further particulars from the plaintiff.
+ Senior Counsel for the plaintiff accepted that as at 18 June 2010, Optus would have been entitled, in good faith, on the basis of the circumstances described in its letter of that date to have terminated the Agreement under cl .3(b). He put that the intervening withdrawal of the URL complaint, provision of the Draft Fraud Policy and refusal to provide further particulars changed things.
+ However, Mr Adam was motivated primarily by concerns related to reported fraudulent conduct and what he considered to be the failure by the plaintiff to take appropriate steps in relation to that conduct. Optus' 18 June 2010 letter was met by a stance (evinced in legal correspondence) in respect of which he honestly, and in my view was entitled, acting reasonably, to regard as unsatisfactory and as not allaying his concerns.
+ The Draft Fraud Policy did not deal with or propose any action directed to the conduct which had occurred and which Optus was asserting had been fraudulent. It was directed towards what might happen in the future. Optus' 18
+June 2010 letter identified concerns in relation to fraudulent conduct. The tussle about further particulars also did nothing to allay those concerns.
+Moreover, Optus responded to the plaintiff's request for further particulars in its 1 July 2010 letter by saying that the plaintiff was well aware of the particulars, as were its previous legal representatives. This was disputed by the plaintiff's solicitors in their letter dated 2 July 2010. Whether or not the plaintiff or its legal representatives were aware or unaware (which the evidence did not establish), the evidence certainly did not establish that
+Optus' view that the plaintiff and its previous legal representatives were so aware was not genuinely or reasonably held.  In any event, on 7 July 2010, Optus provided details in relation to the clawback and on 13 and 16 July 2010 the plaintiff's solicitors responded threatening legal action.
+ In these circumstances, Optus was in my view entitled and reasonably so, having regard to its own legitimate business interests, to take the view that it did not wish to continue its business relationship with the plaintiff under the Agreement.
+ The plaintiff has failed to establish that Optus' resort to termination under cl 27.3(b) was other than in good faith or unreasonable, let alone arbitrary, lacking in the caution and diligence to be expected of an honest person of ordinary prudence, for some ulterior motive, with the intention of harming the plaintiff, without regard to the plaintiff's legitimate interests or so as to render the plaintiff's interests under the Agreement nugatory, worthless or seriously undermined.  
+THE AMENDMENT At the end of the plaintiff's submissions in chief, no doubt as a consequence of debate, the plaintiff moved to amend the particulars of its allegation of bad faith by pleading as follows:  
+The Plaintiff's contention is that the Defendants have failed to act in good faith in issuing the notice of termination and seeking to give effect to it for the following reasons: 
+The Defendants, in informing the Plaintiff of the alleged breaches of the Agreement in their letter dated 18 June 2010, called on the Plaintiff to remedy those breaches within 15 days in accordance with clause .3(a)(i)(B); 
+By the 18 June 2010 letter, the Plaintiff understood that if it remedied the breaches within 15 days, that the Defendants would not terminate the Agreement; 
+That in the circumstances where: the Defendants informed the Plaintiff on 1 July 2010 that it did not currently press its allegation with respect to the Domain Name; the Plaintiff had provided its draft Fraud Prevention Policy on 3 June and had not subsequently been informed that the Policy did not adequately address the alleged breach; and the Plaintiff had requested particulars of the breaches alleged in paragraphs 2b to 2e of the 18 June 2010 letter,  the Plaintiff understood either that it had addressed the breaches to the
+Defendants' satisfaction or that it would be given a fair opportunity to do so before the Defendants would seek to terminate the Agreement.
+
+By issuing a notice purporting to terminate the Agreement with immediate effect pursuant to clause 27.3(b), the Defendants sought to rely on breaches which they had previously notified the Plaintiff as being capable of remedy pursuant to clause 27.3(a)(i)(B), thereby departing from their earlier position that they would not terminate the Agreement provided that the breaches had been remedied or that the Plaintiff had been given a fair opportunity to address the alleged breaches.
+ Optus objected to the amendment and I refused it. I said I would give reasons in this judgment.
+ The amendment raised for the first time questions of the plaintiff's understanding in respect of which the plaintiff had led no evidence. On the state of the evidence at the time the application was made, the proposed claim was accordingly bound to fail and it was not suggested that there should be an adjournment. Clearly, cross-examination of the plaintiff's witnesses had been executed without these questions of state of mind being in issue. Optus would have been entitled to seek production of documents relevant to the proposed to be asserted state of mind, including any relevant documents which might otherwise have been legally professionally privileged but in respect of which privilege would have been waived by the plaintiff putting in issue its state of mind. The plaintiff had had ample opportunity to frame its case and the amendment would undoubtedly have caused sufficient prejudice to Optus to warrant its refusal.
+ 
+CONCLUSION The plaintiff's claim is dismissed with costs.
+ The injunction ordered on 29 July 2010 is dissolved.
+ The exhibits are to be returned.
+
+SCHEDULE A Consequences of Termination  .1 No entitlement to Commission after date of termination  
+On termination of this Agreement, the appointment of Partner to provide the
+Marketing Activities will terminate. After the date of termination Partner will have no entitlement to Commission, nor for the avoidance of doubt will
+Partner have any entitlement to the ongoing payment of Trailing Commission in respect of Customers Activated by Partner prior to the date of termination.  .2 Termination payments  
+The parties agree that instead of providing 120 or 60 days notice (as applicable) to terminate the Agreement under clauses 27.3(b) or .3(f) respectively, Optus may elect to pay to Partner: in the case of a termination under clause 27.3(b), an amount equal to: ($950 x N) + (2 x S); or in the case of a termination under clause 27.3(f), an amount equal to: ($1,425 x N) + (3 x S), (where N = the average number of Net Adds over the previous 6 months of the Agreement and S = the average Sales Order Value over the previous 6 months of the Agreement), in which case termination will take effect immediately upon
+Optus providing written notice to Partner.
+ 
+Partner has no right to any payment from Optus as a result of an Optus
+Termination except for any Termination Fee that Optus elects to pay. Partner acknowledges and agrees that the Termination Fee is Partner's sole and exclusive remedy as a result of an Optus Termination.
+ .3 Obligations on termination  
+Upon termination of this Agreement: each Party must pay the other Party any amount owed to the other Party under this Agreement within 90 days of termination; 
+Partner must: cease carrying out the Marketing Activities; cease using Optus' trade marks (if any), including any Approved Business
+Name (if applicable); and promptly return to each Optus Contracting Entity:  any Confidential Information of that Optus Contracting Entity; and all other materials provided by that Optus Contracting Entity to Partner including any Partner Resources, data and documents; and  in relation to any unsold Products:  immediately return to Optus any unsold Products that are in a saleable condition and Optus will refund to Partner the price paid by Partner in respect of those unsold Products; and  if Partner fails to comply with paragraph (A), allow Optus (or procure a third party to allow Optus) to enter the premises at which those Products are stored and retake possession of them;  
+Optus will immediately cancel or reallocate the Dealer Code(s) allocated to Partner by Optus; and the provisions of this Agreement that either expressly or by implication continue, will continue.  .4 Restraint 
+From and on termination of this Agreement (except if Optus terminates the
+Agreement under clause 27.3(b) or clause 27.3(c): 
+Partner must not do any of the following things during the Restraint
+Period without obtaining prior Optus Consent: directly or indirectly carry on a Restrained Business in the
+Restraint Area, alone or in partnership or joint venture with anyone else; directly or indirectly be concerned with or interested in a
+Restrained Business in the Restraint Area in any capacity including as trustee, principal, agent, shareholder or unit holder, subject to paragraph ; or solicit or persuade a Customer or client of a member of the
+Optus Group, or a person who was a Customer or client of a member of Optus
+Group in the 12 month period before the date of termination of this Agreement, to stop or reduce its business with that member of the Optus Group; nothing in this clause 28.4 (Restraint) prevents Partner or a
+Related Body Corporate of Partner, holding less than 5% of the issued shares or units of a body corporate or a unit trust listed on an official stock exchange, or being regarded as holding that under the Corporations Act .5 Separate and independent obligation  
+Each of the restraint obligations imposed on Partner by clause 28.4 resulting from the combinations of Restrained Businesses,
+Restraint Period and Restraint Areas, is a separate and independent obligation from the other restraint obligations imposed, but they are cumulative in effect.  .6 Severability  
+If any part of an undertaking in clause 28.4 (Restraint) is unenforceable, it may be severed without affecting the enforceability of the rest of that undertaking or the other undertakings.  .7 Relief  
+Partner acknowledges that:  monetary damages alone would not be adequate compensation to Optus for
+Partner's breach of clause 28.4 (Restraint); and 
+Optus may seek an injunction from a court of competent jurisdiction if:  
+Partner breaches clause 28.4 (Restraint) or threatens to do so; or 
+Optus has reason to believe Partner will breach clause 28.4 .
+ .8 Definitions  
+In this clause 28 (Consequences of Termination):  "Restraint Area" means:  the Territory for the past 6 months of the Term;  the Territory as notified by Optus from time to time during the currency of the Agreement; or the cities and towns in which Partner has provided the Marketing
+Activities.
+ "Restrained Business" means:  the business of providing Marketing Activities for a telecommunications carrier or carriage service provider; or the business of providing Marketing Activities for a telecommunications carrier, carriage service provider or an Internet services provider; or the business of providing Marketing Activities for a telecommunications carrier, carriage service provider, Internet services provider or provider of products and services that are related to telecommunications, carriage or Internet services.
+ "Restraint Period" means:  in the case of a termination under clause 27.3(g), 3 months; and in any other case:  months; months; or months, following termination of the Agreement.
+ 
+AMENDMENTS:  /09/2010 - after the word "founded" add the word "is". - Paragraph(s) 49  
+LAST UPDATED:  September 2010 * * * 

@@ -1,0 +1,88 @@
+
+
+Lime Telecom Pty Ltd versus Powertel Limited [No.2] [2008] NSWSC 362 (14 March )
+
+Last Updated: 23 April 2008 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Lime Telecom Pty Ltd versus Powertel Limited <case>  
+JURISDICTION:  
+FILE NUMBER(S):  /07  
+HEARING DATE(S):  and 14 March 2008  
+JUDGMENT DATE:  March 2008  
+EX TEMPORE DATE:  March 2008  
+PARTIES: 
+Lime Telecom Pty Ltd ACN 107 797 213 (Plaintiff) 
+Powertel Limited ACN 001 760 103 (Defendant)  
+JUDGMENT OF: 
+McDougall J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+P Menadne (Plaintiff) 
+CRC Newlinds SC / P Newton (Defendant)  
+SOLICITORS: 
+Shields Lawyers (Plaintiff) 
+Heidtman & Co Lawyers (Defendant)  
+CATCHWORDS: 
+CONTRACT - limitation of liability - whether limits liability for damages for repudiation.  
+LEGISLATION CITED:  
+CASES CITED: 
+Darlington Futures Limited versus Delco Australia Pty Limited <case>; <case>; [(1965) 114 CLR 481]  
+TEXTS CITED:  
+DECISION: 
+See paragraphs [35], [37] and [38] of the judgment.  
+JUDGMENT:  
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+COMMERCIAL LIST  
+McDOUGALL J   March 2008 (ex tempore - revised 14 March 2008)  /07 LIME TELECOM PTY LIMITED versus POWERTEL LIMITED [No.2] 
+JUDGMENT HIS HONOUR: In the reasons that I gave ex tempore yesterday, on the cases that had been advanced in respect of the separate questions to which I referred, I concluded that the third of those separate questions should be answered "no", and that in those circumstances the form of the fourth question dictated that it should be answered "does not arise." Mr Newlinds of Senior Counsel, for Powertel, asked to be heard further in respect of the fourth question. It became apparent that the third and fourth questions, as they had been formulated, were not effective to give rise to the real issues that the parties hoped to have determined in this hearing.
+Accordingly, and with the agreement of, or at least without objection from, either party, I suggested that the third and fourth questions be reformulated to read as follows: . Is clause 14.4 of the standard form agreements effective to exclude the defendant's liability for damages in these proceedings? . Is clause 14.5 of the standard form agreements effective to limit the defendant's liability for damages, and if so to what extent? On that basis, the answer to question 3 will remain as I indicated it should, but there is a useful purpose to be served by question 4 because it raises the issue of the construction and application of clause 14.5.
+ It will be recalled that clause 14.4 seeks to exclude the liability of either party for any breach other than one specified in the agreement, where there would otherwise be a claim for losses of the kinds described occasioned by the causes described.
+ By contrast, clause 14.5 purports to limit the liability of one party to the other. The limitation is "in respect of any claims in [sic] arising out of or in connection with this agreement whether in contract, negligence or any other tort, under statute or otherwise." I observed in my reasons given yesterday that clause 14.5 presumably was intended to operate to the extent that clause 14.4 did not. Although the question was further argued this morning, that still seems to me to be correct. If clause 14.4 operates, then for any claim that falls within its terms there is no liability and thus no need to limit liability. It can only be for claims not excluded by clause 14.4 (and not the subject of express reference elsewhere in the standard terms - a matter itself contemplated by clause 14.4) that clause 14.5 has any work to do.
+ Thus, the starting point of the analysis is that clause 14.5 may be invoked where a claim escapes the net of clause 14.4. The question that then arises is: does clause 14.5 on its proper construction apply to a claim not in respect of some breach of, or negligence etc in connection with the performance of, an agreement, but in respect of repudiation? In this context, it is necessary to recall that although in general terms the parties spoke of an agreement or a contract, the admitted position on the pleadings is that there were in fact some 25 separate contracts between
+Powertel and Lime for the provision of services.
+ Clearly, that admitted position was correct. Mr Neghabian's evidence indicated that on a number of occasions he requested, on behalf of Lime, that
+Powertel supply Lime with particular services. Powertel agreed to do so.
+ It is common ground that each time there was such a request and such an agreement the standard terms applied. It is clear from the standard terms that every time an application for service is accepted, a separate contract comes into existence in relation to the service requested and agreed to be provided.
+For example, clause 1.1 refers to an agreement to supply and acquire "the
+Service." The word "Service" is defined to mean "the relevant telecommunication service identified in the Application for Service." Again, clause 3.1 provides that whenever an application for service is signed and submitted and accepted in writing, it "will form a separate contract for the supply and acquisition of the relevant service" and that the standard terms (described as "this Agreement") are then "incorporated into each contract." On that basis, it seems to me that the agreed position on the pleadings is entirely consistent both with the evidence and with the relevant provisions of the standard terms.
+ Thus, although in general terms the parties talked and I gave reasons in terms of a repudiation of a contract, there were in fact some 25 contracts, each of which was repudiated, and in each case that repudiation was accepted.
+There are thus some 25 contracts as to which the operation of, among other things, clauses 14.4 and 14.5 must be considered.
+ None of this makes any difference to my conclusions based on the operation of clause 14.4. The analysis that I gave, whether it be right or wrong, applies to each contract negotiated on the standard terms.
+ Nor, I think, does it have dispositive significance in the analysis of clause 14.5. The significance of clause 14.5 is that it applies, pursuant to each separate contract, to each agreement for the supply of services. But whether there were one overarching contract (as at one stage Mr Newlinds submitted) or 25 separate contracts, the construction of clause 14.5 should not vary and in my view will not vary.
+ A striking feature of clause 14.5 is that the limit of liability is the lesser of $1 million or the aggregate amount paid or payable under the particular contract to which reference is made. That is because although clause 14.5 uses the words "this Agreement", it is apparent from clause 3.1 that that is to be taken to apply to each separate contract for the supply of services.
+ Thus, if clause 14.5 applies, the limit of liability for either party will vary according to the time at which a breach occurs. If a breach occurs on day one, when nothing or very little is paid or payable, then on the application of clause 14.5 there would be minimal damages for that breach. On the other hand, if the breach occurred well through the minimum term, when substantial amounts had been paid, it would be otherwise. Whether the aggregate amount paid or payable is ever likely to approach the alternative figure of $1 million, in respect of any individual contract, is something that I cannot tell.
+ For the reasons that I gave yesterday, I think it is correct to say that the approach to the construction of exclusion clauses is that stated by the
+High Court of Australia in Darlington Futures Limited versus Delco Australia Pty
+Limited <case>; [(1986) 161 CLR 500], and the earlier decisions of that Court referred to: in particular, the decision in Sydney Corporation versus West <case>; [(1965) 114 CLR 481] and H and E Van der Sterren versus Cibernetics (Holdings) Pty
+Limited [(1970) 44 ALJR 157.] In my view, the principles stated by their Honours as being applicable to the proper construction of clauses seeking to exclude liability are equally applicable to clauses seeking to limit liability. The contract under consideration in Darlington Futures involved both a clause purporting to exclude liability, and a clause seeking to limit it. As their Honours said at , one question was whether the exclusion clause "protects the appellant from the consequences of what otherwise would be breaches of contract." That was the question that their Honours answered by reference to the principles that I have stated.
+ Their Honours turned to the limitation clause at 511. They referred to the view of the Full Court of the Supreme Court of South Australia (from which the appeal had been brought) that the limitation clause "had no application for claims arising out of conduct which is outside the scope of the agreement and the relationship between the parties established by it." Their Honours said that this construction placed "a more restrictive interpretation on the clause than its language will naturally bear." They noted in particular that the clause "is expressed to comprehend claims arising out of or in connection with the relationship established by the agreement." They said that an unauthorised transaction may nonetheless have a sufficient connection with the relationship established by the agreement to fall within the terms of the clause. Thus, their Honours held that it did apply to limit the broker's liability in that case.
+ That reasoning focuses attention on the words "connection with" in clause .5 (I think that the preposition "in" may safely be assumed to have been intended to precede those words.) It is clear that words such as "in connection with" may indicate a very broad or wide degree of relationship between the matters that they govern: in the one case claims, and on the other hand the agreement. The operative width of the words is generally to be determined having regard to the facts and circumstances of the particular case, of course paying prime regard to the wording of the agreement in question.
+ It needs to be remembered, as I have said, that clause 14.5 appears to operate only where clause 14.4 does not. It needs to be remembered also that repudiation of a contract may be said, without any straining of the English language, to be something that occurs "in connection with" that contract. For the reasons that I gave yesterday, I thought that the words "in connection with" in clause 14.4 should not be extended to apply to a claim for damages for repudiation.
+ The effect of clause 14.5, if applicable, is to limit damages in the way that I have noted. Further, and as I have noted, that may mean that merely nominal damages are payable early on in the course of the agreement.
+Effectively, then, if clause 14.5 is to be construed to apply to repudiatory conduct, the result may well be, depending upon the time at which the repudiatory conduct occurs, that the innocent party recovers either nominal or at best minimal damages.
+ In my view, the Court should be slow to give such a construction to the clause. It would mean in effect that what the parties had not succeeded in doing through the front door of clause 14.4, they would have succeeded in doing through the back door of clause 14.5. If one applies the observations of
+Walsh J in Van der Sterren at 158, that back door approach to exclusion of liability may create an absurdity by permitting what, on the proper construction of clause 14.4, should not have achieved; and it may have enabled the parties, notwithstanding the failure of clause 14.4, to defeat the main object of the contract.
+ It is to be noted that clause 14.5 differs somewhat in its wording from clause 14.4. Clause 14.4 refers to liability "for or in respect of any consequential loss, indirect loss, loss of profits of any kind, loss or corruption of data, interruption to business, loss of customers or customer losses, loss of revenue and economic loss of any kind." Clause 14.5 applies in respect of "claims." In my view, on its proper construction, clause 14.5 should be read down, to avoid the anomaly to which I have referred, so that it applies to claims in respect of the provision or non provision of services pursuant to the agreement, or the performance or non performance of obligations under the agreement, but not to the circumstance of total repudiation.
+ On that basis, I think, clause 14.5 does not apply to what I have found is a case of repudiation, and the fourth question as amended should be answered "no." On that basis, the alternative posed by the fourth question - what is the amount of any applicable limitation - does not need consideration. In any event, it is something to be considered (if what I have just said is wrong) on a case by case basis under each of the 25 contracts, and the parties wisely have not sought to take me to the mass of material that might establish the aggregate amount paid or payable under each of those 25 contracts.
+ Before I conclude, I wish to add one thing that I should have said yesterday. I referred to Mr Neghabian's evidence as to certain matters, and as to my acceptance of it. I should have noted that it was possible that Mr
+Neghabian's evidence on one particular matter - non receipt of the notice apparently given or said to have been given on 21 May 2007 - was inconsistent with some evidence given by Powertel's witnesses Messrs Velten and Mallett.
+ It is implicit in what I said yesterday, but I should make explicit, that to the extent that there was any relevant conflict between this aspect of Mr
+Neghabian's evidence and the evidence of Messrs Mallett and Velten, I prefer
+Mr Neghabian's evidence.
+ I accept that Mr Mallett's evidence was supported to some extent by a diary note that he said he made which referred to the breach notice. However, I suspect that in making the note in that form he was using the reference to breach notice as in effect a shorthand way of encompassing the obligations that he thought Lime then owed.
+ Further, as to Mr Mallett's evidence, I found it very difficult to understand what he agreed he had said in relation to the question of an extension of time. I do not accept that Mr Neghabian's request for an extension of time was inconsistent with his evidence that he had received no breach notice. In context, the extension that he was seeking was not of the time that might have been applicable under a breach notice, but from the payment date of Friday originally propounded by him.
+ Thus, to clarify what I said yesterday, I accept Mr Neghabian's evidence on those points notwithstanding the contrary evidence (to the extent that properly analysed it was contrary) of Messrs Mallett and Velten.
+ For the reasons given yesterday and today, I direct that the amended preliminary questions be answered as follows:  (a): No.  (b): Yes.  : Up until 7 September 2007.  : No.  : No.
+ Lime seeks its costs of the proceedings to date. Powertel opposes that on the basis that there have been offers made and it will not be known until any damage sustained by Lime has been quantified whether Lime has bettered the offers made.
+ Had there been no question of offers, the proper order would have been that costs follow the event. In this case the event is the outcome of the preliminary determination. However, in circumstances where there may be a question of a relevant offer of compromise or Calderbank offer, the proper course, having noted what I would have done but for that question is to reserve the costs of the separate questions.
+ I stand the proceedings over for directions before the List Judge on Friday March 2008.
+ 
+LAST UPDATED:  April 2008 * * * 

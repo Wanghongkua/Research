@@ -1,0 +1,104 @@
+
+
+Global Medical Solutions Australia Pty Ltd versus Axiom Molecular Pty Ltd [2012] NSWSC 1517 (7 December 2012) 
+Last Updated: 18 January 2013 
+Supreme Court 
+New South Wales  
+Case Title: 
+Global Medical Solutions Australia Pty Ltd versus Axiom Molecular Pty Ltd  
+Medium Neutral Citation: <case>  
+Hearing Date(s): and 5 December 2012  
+Decision Date: December 2012  
+Jurisdiction: 
+Equity Division - Commercial List  
+Before: 
+Stevenson J  
+Decision: 
+Defendants must show plaintiff un-redacted list  
+Catchwords: 
+PRACTICE AND PROCEDURE - search orders - secret documents - redacted list - undertaking  
+Cases Cited: 
+Global Medical Solutions Australia Pty Ltd versus Axiom Molecular Pty Ltd <case> 
+ICAP Australia Pty Ltd versus Moebes <case> 
+Lenark Pty Ltd versus TheChairmen1 Pty Ltd (No 2) <case> 
+NAK Australia Pty Ltd versus Starkey Consulting Pty Ltd <case>  
+Category: 
+Interlocutory applications  
+Parties: 
+Global Medical Solutions Australia Pty Ltd (plaintiff) 
+Axiom Molecular Pty Ltd (first defendant) 
+Mathew Farag (second defendant) 
+Sally-Ann Cornelius (third defendant) 
+Christopher Quinn (fourth defendant) 
+Andrew Winthorpe (fifth defendant) 
+John O'Brien (sixth defendant)  
+Representation - Counsel: 
+Counsel: 
+J P Durack SC with S Keizer (plaintiff) 
+C Amato (defendants)  - Solicitors: 
+Solicitors: 
+Jones Day (plaintiff) 
+Minter Ellison (defendants)  
+File Number(s): 
+SC 2012/295084  
+Publication Restriction: 
+Nil  
+EX TEMPORE JUDGMENT
+This application arises out of a search order made on 21 September 2012 by McDougall J. The background to the matter is set out in his Honour's judgment delivered that day: Global Medical Solutions Australia Pty Ltd versus Axiom Molecular Pty Ltd <case>
+The plaintiff engages in what it describes as a "specialised medical supplies and operations business". The first defendant is, according to the plaintiff's claim, a subsidiary of The Zuellig Group Incorporated, which the plaintiff alleges is its competitor or potential competitor. The first defendant was incorporated in November 2011 and was then known as Zuellig Molecular Australia Pty Limited.
+The plaintiff alleges that the first defendant is a "start up medical supplies and operations business" which competes with the plaintiff and which was established with that object. 
+The five personal defendants were employees of the plaintiff. The second defendant was the plaintiff's Managing Director. The third to sixth defendants were the plaintiff's Sales Director, Service Manager, Nuclear Operations Manager and Brisbane Head of Operations, respectively.
+The personal defendants are now employed by the first defendant as part of its senior management.
+The plaintiff claims that the five personal defendants have diverted to their new employer, the first defendant, business opportunities that they were bound to exploit for the plaintiff's benefit.
+The plaintiff also claims that the first defendant has received confidential information (including customer lists) of the plaintiff and that the third defendant must have known (at least through the second defendant) that the information was confidential.
+McDougall J found that the plaintiff had a strong prima facie case that the personal defendants had breached their fiduciary, contractual and, in some cases, statutory duties to the plaintiff by diverting aspects of the plaintiff's business to the first defendant, to the detriment of the plaintiff, to the direct benefit of the first defendant and to the indirect benefit of themselves. It is in those circumstances that McDougall J made a search order.
+A very large number of hard and soft copy documents were seized from the defendants' premises. I am told that 10 terabytes, or 100 million documents, were received; primarily I infer in electronic form.
+The parties were unable to agree on a regime for inspection of documents by the plaintiff. Accordingly, the plaintiff filed a Notice of Motion seeking orders implementing an inspection regime. That Notice of Motion came before Sackar J on 9 November 2012. After argument the parties formulated orders which his Honour made on that date.
+The dispute before me arises from the attempted implementation by the parties of those orders. It is necessary, to understand the nature of the application with which I must deal, to appreciate the structure of those orders.
+First, the Independent Computer Expert ("ICE") appointed by the Court was to generate, and to deliver to the defendants' solicitors, a list of all soft copy documents described as "Disk 11" and the "Oreo Documents".
+Second, that list was to contain specific information; for example, in regard to emails, the list was to contain the names of the sender, the addressee, the time and date, subject, attachments and so on.
+Third and critically, if the defendants considered that "the descriptions of any of the documents on the list or lists themselves" revealed information that was privileged or was "secret information", then within three business days of the receiving the lists, the defendants were to provide the ICE with a redacted version of the list with the allegedly privileged and "secret" information masked.
+The parties' agreement, and thus the orders, did not specify what might properly be characterised as "secret information". The transcript of the argument before Sackar J on 9 November 2012 suggests that the parties had in mind "confidential" information presumably of a "commercial in confidence" type.
+However that may be, what information in the description of the documents (and I emphasise the matter for consideration is the descriptions of the document, not the documents themselves) could properly be described as "secret" in this case must be considered in the context of the nature of the allegations made by the plaintiff. In my opinion, document descriptions containing information which is, or might be, relevant to the serious allegations made by the plaintiff could hardly be described as containing information which is "secret" for the purpose of this case.
+Further, the expression used is "secret information"; not "private", "personal" or "irrelevant" information.
+Fourth, the orders provided that if (as happened) the defendants did consider that the document descriptions revealed "secret" or privileged information, and they provided the ICE with a redacted list removing those items, then the ICE was to provide a copy of that redacted list to the plaintiff's solicitors who were at liberty to provide that list to the plaintiff.
+The orders made no provision for the plaintiff's legal advisors (as opposed to the plaintiff) to be given, in the meantime, a copy of the un-redacted list (although it appears from the form of the orders that this may have been the parties' intention). In any event, the plaintiff's legal advisors do have a copy of the un-redacted list; indeed it was in evidence before me on the hearing of this application (albeit subject to an order that it remain confidential and not be shown to the plaintiff). 
+Fifth, if the plaintiff or its advisors "do not accept" the redaction or wished the plaintiff itself to be able to inspect the un-redacted list they could "bring the matter before the Court by issuing an appropriate notice of motion". It is a such a Notice of Motion with which I am concerned.
+Sixth, within five business days of the provision to the ICE of the redacted list to the plaintiff's legal advisors, the parties were to exchange proposals for what were described as "Cut Down Measures" (that is, measures to eliminate documents unlikely to be relevant). 
+On Friday 16 November 2012, the ICE sent to the defendants' solicitors a list of the documents contained on "Disk 11" and the "Oreo Documents". That list contained 63,652 documents. That list was the first of a number of lists that the parties expect to receive from the ICE.
+The defendants had three business days (that is, to Wednesday 21 November 2012) to assess whether the document descriptions contained any "secret" or privileged information. By agreement that time was extended to Friday 23 November 2012.
+The method adopted by the defendants' legal team to analyse the documents was described in an affidavit sworn by Mr Gary Ulman, on 4 December 2012. Mr Ulman is the solicitor on the record and a partner at Minter Ellison.
+Mr Ulman said: - "On Monday 19 November 2012, a team of four junior lawyers and one senior lawyer in my employ, began the process of reviewing the 63,000 plus entries on the [relevant list] for information which is privileged or secret.
+
+They did so by searching the [relevant list] for references to various keywords and marking as secret the following: emails that involved a Symbion or Zuellig email address (neither of which are parties to the proceedings); the names of customers, suppliers or consultants used by [the first defendant]; the names of projects or places which are sensitive to [the first defendant]; and information in relation to personal (non-work related) interests of the defendants which we were instructed was secret."
+More detail of the process undertaken by Minter Ellison was given in oral evidence by Ms Shelley Scott, the senior lawyer to whom Mr Ulman referred. 
+No doubt because of the bulk of the material (the 63,652 document descriptions comprise 3,002 A4 pages in an exhibit before me) and the limited time available (five working days) no one sat down to read through each of the document descriptions. Key words were used to identify, in the descriptions of the documents, information that was allegedly privileged (as it turns out there was only one such document, which I will deal with later) and "secret". 
+Those key words were provided by the defendants. In effect, the defendants determined, by use of such key words, what information they contended to be "secret". The team of four junior lawyers interrogated the document descriptions using those key words over a four day period and thereby determined what document descriptions, on the face of it, contained "secret information".
+The object of the use of key words was to identify, for example: - allegedly unrelated parties (for example, "Symbion" and "Zuellig", or a relative or relatives of one or more of the defendants) whose affairs are said to be "secret" and in respect of whom "secret" matters would be revealed by the revelation of the document description; names of customers, suppliers or consultants used by the first defendant, the identity of which is said to be "secret" and would be revealed by the document descriptions; the names of projects or places "sensitive" to the first defendant (and thus said to be "secret") the identity of which would be revealed by the document descriptions; "personal" documents; and documents falling into various other categories (for example, "Tax" , "Financials", "TGA", "recruitment", particular addresses and so on), the description of which was said to constitute "secret information".
+Ms Scott, on the fifth day, then did what she described as "spot checks", necessarily at random, by way of review. As a result of Ms Scott's review, a number of documents were removed from the "secret category".
+The redacted lists were sent to the ICE and to the plaintiff's legal advisors on or about 23 November 2012. On that list 26,260 of the 63,652 items were redacted for secrecy; about 41 percent of the items. As I mentioned, eight items were redacted for "privilege" although it turns out there were eight copies of the one document. 
+In the meantime, the time for the parties to exchange Cut Down Measures had expired. The defendants' solicitor sent a proposal for Cut Down Measures to the plaintiff's solicitors on 30 November 2012. The plaintiff's solicitors have not yet made a corresponding proposal. 
+It is in those circumstances that the plaintiff applies for an order: - "That the defendants' solicitors do immediately provide to the plaintiff's solicitors, who are to be at liberty to disclose same to the plaintiff, a version of [the relevant lists] provided to them by the ICE on 16 November ...which: contains no redactions for privilege, or alternatively contains only such redactions for privilege as the Court determines are appropriate; and contains no redactions for secrecy."
+As the plaintiff's legal advisors have the un-redacted list, in effect what the plaintiff's legal advisors are seeking is the Court's leave to provide the plaintiff with the un-redacted list so that, amongst other things, instructions can be taken relevant to the Cut Down Measures exercise.
+Mr Durack SC, who appears with Mr Keizer for the plaintiff, drew my attention to examples of documents labelled as "secret" on the redacted lists which, by reference to the full description of those documents occurring on the un-redacted list, do not appear on the face of things to have a secret character. In some cases it is clear that the information in the description could not possibly be "secret" on any view of that term.
+It is obvious to me, from what was revealed in the relatively cursory analysis of the redacted list which took place (albeit over a day and a half) the process adopted by the defendants' legal team has miscarried, in the sense that the redaction process has travelled far beyond what can be sensibly justified. In making that comment I make no criticism of the defendants' legal team. It may well be that the size of the task, the bulk of the material and the very limited time of which the task was to be completed meant that there was no feasible alternative process. In particular I should add I found Ms Scott an impressive witness who gave her evidence clearly and with candour.
+I am not in a position to make any comprehensive assessment about the extent to which it can be fairly said that "secret" information is revealed in the document descriptions. Such assessment would require consideration of each, or many, of the 26,260 allegedly "secret" descriptions in the light of the particular circumstances said to render such descriptions "secret". That task could take days.
+Further, in the context of the claim by the plaintiff that the first defendant is competing with the plaintiff, has appropriated for itself business opportunities of the plaintiff, and has, through the individual defendants, become privy to confidential information of the plaintiff (including the identity of the plaintiff's customers) it is not, in my opinion, for me to make relatively uninformed decisions about whether the particular names, addresses or other information should properly be withheld from the plaintiff.
+It seems clear that the problem that has arisen was not anticipated by the parties when they prepared the regime, the subject of the orders of 9 November 2012. The transcript before Sackar J suggests that the defendants' then concern was that a description of the subject matter of a document (for example an email) might itself reveal a confidential matter. As it turns out, the regime laid down on 9 November 2012 is not adequate to deal with the practicalities that have arisen.
+It is not possible, in the time available, for the Court to craft a solution for the parties that can be certain to adequately balance their competing interests. What must be borne in mind, as I have endeavoured to emphasise, is that the matter for consideration is no more than the descriptions of the documents made by the ICE in accordance with the parties' instructions. No question arises at the moment of the plaintiff inspecting the documents themselves.
+The context in which the debate occurs is that a search order has been made in a case where the Court has a requisite level of satisfaction that the plaintiff has, on the face of it, a strong case that the defendants have misused business opportunities and confidential information of the plaintiff. 
+To a very large extent, in my opinion, it would subvert the operation of the search order if the plaintiff were to be deprived of the opportunity to see the full description of the documents in question in order to, amongst other things, make an informed decision about the appropriate Cut Down Measures to be implemented. 
+I also bear in mind that, generally, "imposing restrictions on the ability of lawyers to speak to their clients and disclose to their clients information produced to them is undesirable", per Brereton J in NAK Australia Pty Ltd versus Starkey Consulting Pty Ltd <case> at <case>.
+Further, as Ball J observed in ICAP Australia Pty Ltd versus Moebes <case> at <case>: - "...solicitors and counsel must act on the instructions of someone; and normally the person or persons giving those instructions should be entitled to see all the documents available to their advisors so that they can understand the basis of any advice given to them."
+In my opinion, those observations have particular force in a case such as the present.
+In relation to the one document description said to be privileged, that document is described as being an email from Ms Sarah Turner who I am told by Ms Amato (who appears for the defendants) is General Counsel at Symbion, an entity with some relationship to the first defendant. The email is sent to the second defendant at an email address of the first defendant. I do not consider that the document description contains privileged information.
+The title of the email is "Have you told AON about Canarvon? You need insure it". Ms Amato told that me "Canarvon" is a reference to a street address. 
+So far as the document description reveals, Ms Turner was advising the second defendant, and thus the first defendant to insure those premises. In my opinion she was not giving legal advice. Accordingly, disclosure of the document description will not disclose the substance of any legal advice given.
+In all the circumstances, I propose to grant the plaintiff's legal advisors leave to show the un-redacted list to the plaintiff. 
+Ms Amato submitted that if the un-redacted list was to be provided to the plaintiff, disclosure should be limited to the Australian director of the plaintiff and that that director should give an express undertaking to the Court, in terms that are recorded in MFI 2. In particular, Ms Amato submitted that the un-redacted list should not be shown the plaintiff's director or directors resident in the United States for fear that such directors may not be amendable to effective sanction, were the information in the list to be misused.
+Mr Durack opposed such a restriction and said that instructions in relation to these proceedings were being obtained from, amongst others, the US based director.
+So far as the proposed undertakings are concerned, the parties, including the plaintiff, are of course already bound by the implied undertaking given to the Court to only use information obtained in these proceedings for the purpose of these proceedings (for example, see Black J in Lenark Pty Ltd versus TheChairmen1 Pty Ltd (No 2) <case> at <case>).
+Nonetheless, I do think it is appropriate to require the persons within the plaintiff to whom the un-redacted list is to be shown, give some express undertakings to the Court. 
+I will circulate a proposed formal undertaking and invite submissions about it. 
+I do not propose to impose any restriction on who, within the plaintiff, sees the un-redacted list, provided that each such person gives the undertaking I have mentioned. 
+I will now hear the parties as to the particular orders which should be made. I also order that the exhibits be returned. * * * 

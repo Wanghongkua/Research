@@ -1,0 +1,505 @@
+
+
+Chameleon Mining NL versus International Litigation Partners Pte Limited [2010]
+NSWSC 972 (31 August 2010) 
+Last Updated: 2 September 2010 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Chameleon Mining NL versus International Litigation Partners Pte Limited <case> 
+This decision has been amended. Please see the end of the judgment for a list of the amendments.  
+JURISDICTION:  
+FILE NUMBER(S):  /267410  
+HEARING DATE(S):  , 18, & 19 August 2010  
+JUDGMENT DATE:  August 2010  
+PARTIES: 
+Chameleon Mining NL - Plaintiff 
+International Litigation Partners Pte Limited - First Defendant 
+Andrew Hugh Jenner Wily - Second Defendant 
+David Anthony Hurst - Third Defendant 
+Cape Lambert Resources Limited - Fourth Defendant  
+JUDGMENT OF: 
+Hammerschlag J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+R.M. Smith SC with M.A. Jones [Plaintiff] 
+I.M. Jackman SC with R.C.A. Higgins [First, Second and Third Defendants] 
+C.R.C. Newlinds SC with J.C. Giles [Fourth Defendant]  
+SOLICITORS: 
+Swaab Attorneys [Plaintiff] 
+Blake Dawson [First, Second and Third Defendants] 
+Lavan Legal [Fourth Defendant]  
+CATCHWORDS: 
+CORPORATIONS - [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) [sections
+D](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s761d.html), [761E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s761e.html), [763A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s763a.html), [763B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s763b.html), [763C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s763c.html), [764A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s764a.html), [766A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s766a.html), [766C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s766c.html), [765A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s765a.html), [924A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s924a.html), [925A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s925a.html) - under a litigation funding deed ("the Deed") the first defendant agreed to fund litigation by the plaintiff on specified terms and conditions - the plaintiff purported to rescind it relying on provisions of the [Corporations
+Act 2001](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) which enable it to do so if the arrangement constitutes the issue of a financial product by a person not licensed to do so - the first defendant does not hold an Australian financial services licence - whether the arrangement is a financial product as defined - whether it is a derivative - whether under it the first defendant manages financial risk - held the arrangement is not a financial product and the plaintiff was not entitled to rescind it 
+CONTRACTS - construction of commercial contracts - Deed provides that on
+Resolution of the funded proceedings the first defendant funder is entitled to share in any Resolution Sum paid and to repayment of the Legal Costs funded ("the Funding Fee") - Deed also provides for the payment to it of an Early
+Termination Fee upon a Change in Control of the plaintiff - a Change in
+Control occurred - common cause that if the Deed is on foot the first defendant is entitled to the Early Termination Fee - whether on the proper construction of the instrument the funder is entitled also to the Funding Fee - held the first defendant is not entitled to the Funding Fee as well  
+LEGISLATION CITED:  [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth)  [Corporations Regulations ](http://www.austlii.edu.au/au/legis/cth/consolreg/cr2001281/) (Cth)  
+CATEGORY: 
+Principal judgment  
+CASES CITED: 
+Toll (FGCT) Pty Ltd versus Alphapharm Pty Ltd (2004) 219 CLR 165 
+International Air Transport Association versus Ansett Australia Holdings Ltd (Subject to Deed of Company Arrangement) and others <case>; <case>; <case>; <case> 
+Wilkie versus Gordian Runoff Ltd <case>; <case>; [[2009] 1
+AC 1101](/cgi-bin/LawCite?cit=%5b2009%5d%201%20AC%201101 "View LawCiteRecord" )  
+TEXTS CITED:  
+DECISION: 
+Plaintiff's purported rescision ineffective. Event of Default under the Charge established. Receivers validly appointed. The Funder's entitlement limited to right to immediate payment of the Early Termination Fee upon Change in
+Control.  
+JUDGMENT:  - 1 - 
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+COMMERCIAL LIST  
+HAMMERSCHLAG J  AUGUST 2010  /267410 CHAMELEON MINING NL -V- INTERNATIONAL LITIGATION PARTNERS
+PTY LIMITED & ORS 
+JUDGMENT 
+BACKGROUND  HIS HONOUR: The plaintiff ("CHM") is a mining company whose shares are listed on the Australian Stock Exchange. The first defendant ("the Funder") is a litigation funder based in Singapore.  In November 2007, CHM commenced proceedings in the Federal Court of
+Australia against Murchison Metals Ltd and others, claiming compensation for alleged breaches of statutory and fiduciary duties ("the Proceedings").
+ 
+The Chameleon Litigation Funding Deed On 28 October 2008, CHM and the Funder entered into an arrangement embodied in an instrument described as the Chameleon Litigation Funding Deed ("the
+Deed") under which the Funder agreed to provide litigation funding for the
+Proceedings.
+ Under cl 3 of the Deed, upon Resolution of the Proceedings, the Funder is entitled to:  a Repayment of the Legal Costs paid by it in accordance with cl 2.1; and  b Payment of the Funding Fee (as defined in cl 1).  "Legal Costs" is defined in cl 1 to mean: all costs associated with procuring the legal files from the previous
+Solicitor on the record for CHM in the Proceedings and all future agreed legal costs and disbursements incurred by CHM and Funder in relation to or incidental to the Proceedings, or any Appeal, including without limitation solicitors fees and disbursements, counsel's fees and disbursements and expert witness fees, the provision of $250,000 by way of security for costs for security paid prior to this deed, and the provision of any Security for Costs or monies payable for Adverse Cost Orders arising in the Proceedings, or any
+Appeal, unless otherwise agreed between CHM and the Funder "Funding Fee" is defined in cl 1 to mean: the higher of: 
+Three (3) times the sum of the Costs incurred by the Funder under clause .1 or the Percentage Payment.
+ "Percentage Payment" is defined in cl 1 to mean: % of the Resolution Sum should a Resolution agreement occur at any time prior to the earlier of 1 February 2009 or the third security for costs payment in the Proceedings; % of the Resolution Sum should a Resolution agreement occur at any time thereafter (a) but prior to the earlier of 31 May 2009 or 45 days prior to the hearing date of the Proceedings; % of the Resolution Sum should a Resolution agreement occur at any time thereafter (b) but prior to the earlier of 30 November 2009 or 45 days prior to the hearing date of the Proceedings; and % of the Resolution Sum should a Resolution agreement occur at any time after 31 March 2010 "Resolution" is defined in cl 1 to mean: when all or any part of the Resolution Sum is received and where the
+Resolution Sum is received in parts, a "Resolution" occurs each time a part is received "Resolution sum" is defined in cl 1 to mean: the gross amount received by CHM or the Lawyers, whether by way of settlement, judgment or otherwise of the Proceedings, including any interest and Legal Costs recovered pursuant to a Costs Order Clause 4 of the Deed provides as follows: 
+Early Termination .1 Should there be a Change in Control of CHM, the Funder's obligations pursuant to this Deed terminate effective immediately.
+ .2 Should clause 4.1 come into effect the Funder is entitled to immediate payment by CHM of the Early Termination Fee.
+ "Early Termination Fee" is defined in cl 1 to mean:  a payment by CHM to the Funder or its nominee of an amount equal to the
+Legal Costs (including Security for Costs) expended by the funder up to the date of termination pursuant to clause 4.1 and a further amount equivalent to the higher of the value of 20% of the share capital of CHM at the strike price of its shares by the acquirer of the Charge in Control or the Change in
+Control or $9 million "Change in Control" is defined in cl 1 to mean:  any direct or indirect change in Control of a company (whether through merger, sale or shares or other equity interests, or otherwise) through a single transaction or series of related transactions, and whether from one or more transferors to one or more transferees I will later refer to a number of other terms in the Deed. It is accordingly convenient to provide the entire instrument. It appears as
+Schedule A.  
+The Charge Simultaneously with the Deed, CHM executed a Deed of Fixed and Floating
+Charge ("the Charge") under which it charged all of its assets and property (both real and personal), undertaking and rights whatever and wherever situated presently or in the future held by it ("Charged Property") as security for the payment of all money owed under the Deed and performance of all its other obligations to the Funder.
+ The Charge contains provisions entitling the Funder, upon the occurrence of an Event of Default (as defined), to appoint receivers to the Charged
+Property. Under cl 10.2(b)(1) and cl 10.2(b)(2) of the Charge respectively, an
+Event of Default occurs if CHM defaults to pay when payable any money owed to the Funder or defaults in the performance or observance of any obligation owed or undertaking given to the Funder.
+ Clause 7.1(a)(1) of the Charge provides relevantly as follows: .1 Prohibition on dealing with the Charged Property ... the Mortgagor must not, without the Mortgagee's consent: sell, assign, lease, charge, encumber, surrender, grant any interest in or power over or otherwise in any manner deal or agree or attempt to deal with any Charged Property or any interest in any Charged Property  
+Events leading up to the present dispute The Proceedings went to trial during September and October 2009. Judgment was reserved.
+ In December 2009, CHM settled its claims against a number of the parties, but not Murchison. It received $6,000,000 pursuant to that settlement and paid the whole of it over to the Funder on account of its obligations under the
+Deed.
+ Judgment against Murchison remains reserved. It is not known when it will be delivered.
+ Late in 2009 tensions developed between CHM and the Funder, primarily, it seems, in connection with monies received in relation to some other, but related, litigation which the Funder had funded.
+ Tensions escalated in 2010 when oral settlement discussions took place directly between Murchison's solicitors and the Funder. Apparently Murchison indicated to the Funder that it might be prepared to pay a particular amount in settlement which CHM regarded as inadequate. The parties had different views as to how any settlement proposal from Murchison should be handled.  The Funder sought to invoke the provisions of cl 13.2 of the Deed which provides that a disagreement between the Funder and CHM as to the appropriate terms for settlement is to be referred to a senior counsel for advice, by which advice the parties are to be bound. CHM took the position that it would not agree to be bound by any view until its dispute with the Funder (apparently in relation to the proceeds from the other litigation) was resolved. It also took the position that there had been an earlier oral arrangement that offers below a particular threshold would not be entertained.
+The parties' exchanges included some colourful language.
+ On 20 July 2010, CHM wrote to Piper Alderman (who throughout were CHM's solicitors on the record in the Proceedings and the Lawyers under the Deed) notifying the immediate withdrawal of authority of the Funder to instruct and direct lawyers with respect to the Proceedings or to negotiate an outcome of them. CHM formally instructed Piper Alderman to desist from taking any instructions from the Funder, taking the view that the appointment of a senior counsel pursuant to cl 13.2 of the Deed was premature until a formal offer had been received and fully considered by the board of CHM. An impasse was reached.
+ An exchange of emails followed. By 27 July 2010 the impasse had not been resolved.  On 30 July 2010, the parties received a requisition from the learned presiding Judge in the Proceedings which necessitated the preparation of a document to be provided to his Honour. The Funder complained that it had a right which had been denied to have input into the response to the requisition. Senior counsel who had been briefed in the Proceedings apparently settled the response.
+ Very late in July 2010, CHM began negotiating with the fourth defendant ("Cape Lambert") the terms of a strategic alliance intended to provide CHM with both funding and mining expertise. Draft terms sheets were prepared and exchanged.
+ During the course of the negotiations with Cape Lambert, CHM's Managing
+Director Mr AJ Karam disclosed to it the existence of the Deed. A copy was provided. He also disclosed the amount which had been paid to the Funder under the settlement earlier referred to.
+ On 4 August 2010, solicitors for the Funder wrote to CHM asserting, amongst others, that CHM was in breach of the Deed. Relevantly, it was asserted that
+CHM had breached the Deed by seeking to terminate the retainer of Piper
+Alderman without consultation with the Funder as required by cl 8.3 of the
+Deed, by instructing Piper Alderman to act contrary to CHM's obligation to consult with the Funder and keep it informed of the progress of the
+Proceedings pursuant to cl 8.1 of the Deed and by refusing to comply with its obligations under cl 13.2 of the Deed to discuss the terms of a settlement offer made and if agreement could not be reached, to progress through the dispute resolution process provided in cl 13.2.  CHM and Cape Lambert signed a Terms Sheet on 10 August 2010. The Terms
+Sheet provided that upon its acceptance by CHM, Cape Lambert would be entitled to appoint directors constituting 50 per cent of the board of CHM. It provided for a facility of $6,500,000 to be made available to CHM to be drawn down as one tranche. The Terms Sheet makes it clear that the facility is to be used to discharge the Funder's security and provides for CHM to give Cape Lambert a first-ranking fixed and floating charge over its assets, subject to the discharge of the Charge.
+ Immediately after the Terms Sheet was signed, CHM notified the Funder of the transaction and that a Change in Control of CHM within the meaning of cl 1 (and as contemplated by cl 4) of the Deed had occurred. It asserted that as
+Cape Lambert had not acquired any shares pursuant to the terms of the transaction, the Early Termination Fee under cl 4.2 of the Deed was $9,000,000. The letter stated: 
+On 13 July 2010 CHM formally requested the Funder to account to them and provide details with respect to the Six Million Dollars (AUD$6,000,000) paid (by direction) to CHM by the Funder. We note that such account has not yet been provided by CHM by the Funder. Accordingly, CHM requests that you provide confirmation of all amounts ILP claims are owing under the Funding Agreement and the fixed and floating charge granted by CHM to ILP.
+ On 10 August 2010, CHM also wrote to the Funder (referred to as ILP), amongst others, as follows: 
+CHM now raises the following matters: The Board of CHM consider that a serious issue arises as to whether ILP is entitled to any payment under the Funding Agreement. This includes ILP's entitlement to the Early Termination Fee (as defined in the Funding
+Agreement).
+ ILP is in the business of litigation funding. This is plainly suggested in ILP's name and by its conduct.
+ Pursuant to [section
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s911a.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (CA), a person who carries on a financial services business in Australia must hold an
+Australian Financial Services Licence (AFSL) covering the provision of the financial services. We advise that a search of the ASIC register has been carried out in the course of Cape Lambert resources Ltd undertaking its due diligence from which it appears that ILP has neither an AFSL nor an exemption from ASIC exempting ILP from this requirement.
+ In the circumstances, CHM gives notice of its rescission of the Funding
+Agreement pursuant to [section
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s925a.html) of the CA.
+ As you may be aware, pursuant to [sections
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s925e.html) and [925F](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s925f.html) of the CA, ILP, as a non-licensee is not entitled to rely on the Funding
+Agreement, nor is it entitled to recover by any means (including, for example, set-off or a claim on a quantum meruit) any brokerage, commission or other fee for which CHM would, but for [section
+F](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s925f.html), have been liable to ILP under or in connection with the Funding Agreement.
+ Without a right to receive any payment, CHM sees no basis upon which ILP can either assert that CHM is in default of the Funding Agreement or that IPL has any entitlement whatsoever, to appoint a Receiver.
+ Please explain the basis upon which IPL considers it is entitled to any fee in circumstances where it is un-licensed.  On 11 August 2010, the Funder appointed the second and third defendants as receivers ("the Receivers") to CHM under the Charge.  
+THESE PROCEEDINGS  On 11 August 2010, CHM approached the Court on an urgent basis for interim relief. The next day, after a contest, the Court (Einstein J) granted an injunction restraining until further order the Receivers from acting.
+ Given the clear commercial urgency of this dispute, not least of all because trading in CHM shares was suspended as a result of the Receivers' appointment, on 16 August 2010 I set the matter down for final hearing to commence at 2.00pm on 17 August 2010. The final hearing concluded during the afternoon of 19 August 2010.  Mr R M Smith SC together with Mr M A Jones of counsel appeared for CHM. Mr
+I M Jackman SC together with Ms R C A Higgins of counsel appeared for the
+Funder and the Receivers. Cape Lambert was represented by Mr C R C Newlinds SC and Mr J C Giles of counsel.
+ The only affidavit evidence read was that of Mr Karam. He was cross- examined by counsel for the Funder and the Receivers.  By its second amended summons, CHM seeks declarations that: a the appointment of the Receivers was invalid and an order restraining them from acting;  b the Deed was validly rescinded pursuant to [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s925a.html) of the [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth);  c the Funder has no entitlement to payment of the Funding Fee;  d upon payment to the Funder of an amount equal to the total monies paid by the Funder to CHM's benefit under the Deed, the plaintiff is entitled to immediate discharge of the Charge; and  e on the proper construction of the Terms Sheet, the security contemplated by it (a first ranking fixed and floating charge) is to be granted only on the discharge of the Charge and that draw down under it is conditional upon the provision to Cape Lambert of that security. In the alternative, it seeks rectification of the Terms Sheet so as to have this effect.
+ The summons further seeks an order for an accounting to determine the total monies paid by the Funder to its benefit and an order that the Funder redeem the Charge upon payment of that amount. In the alternative it seeks an order that the Funder's entitlement under the Deed is limited to the Early
+Termination Fee and that the Funder redeem the Charge upon tender by CHM of the Early Termination Fee.  By cross summons, Cape Lambert seeks declarations that the Funder's entitlements under the Deed are limited to the Early Termination Fee and that on payment of that amount the Funder must discharge the Charge.
+ 
+THE ISSUES 
+Rescission [Section
+A(1)(a)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s924a.html) of the [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) ("the Act") provides: 
+Agreements with certain unlicensed persons 
+Subdivision B applies to an agreement entered into by a person (in this section and Subdivision B called the non-licensee) and another person (in this section and Subdivision B called the client) (not being a financial services licensee) that constitutes, or relates to, the provision of a financial service by the non-licensee if: the agreement is entered into in the course of a financial services business carried on by the non-licensee; and the non-licensee does not hold an Australian financial services licence covering the provision of the financial service, and is not exempt from the requirement to hold such a licence.
+ [Section
+A(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s925a.html) (which is in subdivision B) provides: 
+Client may give notice of rescission 
+Subject to this section, the client may, whether before or after completion of the agreement, give to the non-licensee a written notice stating that the client wishes to rescind the agreement.
+ [Section
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s925e.html) provides: 
+Agreement unenforceable against client 
+This section: applies while both of the following are the case: the client is entitled to give a notice under [section
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s925a.html); a notice so given will result under [section
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s925b.html) in rescission of the agreement; and applies after the agreement is rescinded under [section
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s925b.html); but does not otherwise apply.
+
+The non-licensee is not entitled, as against the client: to enforce the agreement, whether directly or indirectly; or to rely on the agreement, whether directly or indirectly and whether by way of defence or otherwise.  CHM (supported by Cape Lambert) challenges the validity of the appointment of the Receivers on the ground that CHM was, by virtue of these provisions, on August 2010 entitled to rescind the Deed and that the Funder was and is not entitled to enforce it directly or indirectly.
+ 
+Events of Default Initially, CHM contended that the Funder was not entitled to appoint the
+Receivers because no Event of Default under the Charge had occurred (or for that matter has yet occurred).
+ However, in its submissions in reply CHM conceded (as it had to) that an
+Event of Default under the Charge had occurred when CHM had during the negotiation of the Terms Sheet, in breach of its obligation under cl 11.1 of the Deed to keep confidential the existence and terms of the Deed and not disclose it to any person other than its legal and financial advisers, or as required by law, disclosed the existence and terms of the Deed to Cape
+Lambert.
+ In reply CHM submitted for the first time (although to my observation somewhat faintly) that reliance by the Funder on this Event of Default as entitling the appointment of the Receivers was not in good faith because the remedy was out of proportion to the default. It put that the appointment was accordingly nevertheless bad.
+ Counsel for the Funder and the Receivers correctly pointed out that had this contention been foreshadowed earlier, evidence could and would have been led to neutralise it. CHM did not put anything to the contrary and no party suggested that there should be an adjournment to enable the Funder to meet the contention. In the circumstances I do not consider that it is open to CHM to rely on it. Even if it was, a finding that reliance on this breach (which to my mind is not a trivial one) lacks good faith on the part of the Funder, is not fairly open on the evidence. It follows that the Funder has established an
+Event of Default.
+ Although in the circumstances it is not necessary to deal with other Events of Default alleged by the Funder, in my view it established a number of others.
+ Firstly, cl 4.2 of the Deed entitles the Funder to immediate payment of the
+Early Termination Fee. That fee in the present case is an amount equal to the
+Legal Costs and a further amount of $9,000,000. To this point, the Funder has not given an account to CHM for the Legal Costs. The Funder has been paid $6,000,000 which the parties agree is to be deducted from the amount CHM must pay in respect of the Early Termination Fee. The Early Termination Fee will thus not be less than $3,000,000. The Early Termination Fee became payable immediately upon the Change in Control.
+ CHM puts that: a under cl 17.4 (an express good faith obligation) and at general law the
+Funder has an obligation to provide to CHM an account which quantifies the costs component of the Early Termination Fee;  b cl 4.1 read with the definition of Early Termination Fee contemplates only one payment;  c the Funder has not provided CHM with the account;  d it follows that the Funder has no entitlement under cl 4.1 to the immediate payment of the Early Termination Fee.
+ I do not accept this submission. I do not think that the obligation to pay even the costs component of the Early Termination Fee depends on the Funder providing any account. The Funder's obligation in cl 2.1 to pay the Legal
+Costs is dependant on written notification (presumably from the Lawyers on behalf of CHM or CHM itself). That information is available in both cases to
+CHM without the Funder having to provide it. Even if the obligation depended on the provision of such an account, the definition of Early Termination Fee contemplates the payment of two amounts, one for the Legal Costs and the other being the higher of 20 per cent of strike price of the shares changing hands or $9,000,000 and in any event, cl 15.3 provides that words denoting the singular number are to include the plural and vice versa so that the payment referred to in the definition is to read as comprehending more than one. On the assumption that having not yet informed CHM of the amount of the Legal
+Costs, the Funder could not assert that a failure to pay the Legal Costs amount constitutes a breach of the Deed or an Event of Default under the
+Charge, it is not disputed that at least $3,000,000 must be paid in any event.
+In my view, the Funder was entitled to immediate payment of that amount and
+CHM's failure to pay it was and remains an Event of Default. It is not presently necessary to deal with what the consequences would be of a failure on the part of the Funder to provide CHM with a discharge figure upon CHM seeking to redeem. It is to be observed that to this point CHM has taken the incorrect position that the Deed has been rescinded.
+ Next, there was a clear disagreement between CHM and the Funder as to the appropriate terms for settlement of the Proceedings. In those circumstances
+CHM had an obligation under cl 13.2 of the Deed to agree to a panel of senior counsel from whom one would be briefed by the Lawyers. It refused to proceed in accordance with cl 13.2. This too was an Event of Default. I also consider that CHM's failure to consult with and consider the views of the Funder with respect to answering the learned Judge's requisition was a breach (perhaps rather trivial) of its obligation under cl 8.1 of the Deed. I further consider that its withdrawal of Piper Alderman's authority was a breach of cl 8.3 of the Deed.
+ Finally, entry into the Terms Sheet was in my view an Event of Default because under it CHM agreed, contrary to cl 7.1 of the Charge, to deal with
+Charged Property or an interest in it by agreeing to grant a charge over the same property to Cape Lambert without the Funder's consent. CHM put that it did not under the Terms Sheet agree to charge Charged Property because the
+Terms Sheet makes it clear that a charge would only be granted to Cape Lambert on discharge of the Charge so that at that point the property over which Cape
+Lambert's charge would extend would not be Charged Property under the Charge.
+This submission is unsustainable. The property comprehended in the definition of Charged Property in the Charge is or includes the property over which the
+Cape Lambert charge would be given. The Terms Sheet had immediate contractual effect. That this is so is clear from the fact that it brought about the
+Change in Control. Even if CHM's obligation to give Cape Lambert a charge was conditional upon the earlier discharge of the Charge, the Terms Sheet constituted an agreement to do that upon fulfilment of the condition. This was a breach of cl 7.1 of the Charge, and accordingly an Event of Default.  The validity of the appointment of the Receivers thus turns on whether CHM validly rescinded the Deed under [s
+A(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s925a.html) of the Act.
+ If CHM validly rescinded, the Funder is (because of [s
+E)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s925e.html) not entitled to enforce the Deed so as to recover the Early Termination Fee.
+CHM accepts that it would nevertheless be liable to repay the balance (if any) remaining of the Legal Costs which the Funder has paid to its benefit, after taking the $6,000,000 already paid into account. CHM apparently accepts that it would have to pay any shortfall to obtain redemption of the Charge, even if the rescission was effective.
+ 
+Operation of the Deed It is not in issue that there has been a Change in Control of CHM within the meaning of that term in the Deed.
+ CHM and Cape Lambert contend that if the Deed is enforceable, the Funder's entitlement is limited to the right to receive the Early Termination Fee and that the Funder must redeem the Charge on tender of it. The Funder contends that it is entitled to receive both the Early Termination Fee and, upon
+Resolution of the Proceedings, the Funding Fee as well.
+ This turns on the proper construction of the Deed in the events that have occurred.
+ If the Funder is entitled to no more than the Early Termination Fee, CHM intends to seek to tender the amount to obtain redemption of the Charge, but not otherwise.
+ 
+Construction and rectification of the Terms Sheet There did not seem to be any issue that both CHM's right to draw down and its obligation to provide security under the Terms Sheet are conditional upon discharge of the Charge. The parties did not address the claim for rectification.
+ 
+WAS CHM ENTITLED TO RESCIND THE DEED? It is not in dispute that the Funder does not hold and has never held an
+Australian financial services licence.
+ 
+Other relevant sections of the Act [Section
+A(1)(b)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s766a.html) provides, relevantly: 
+When does a person provide a financial service? 
+For the purposes of this Chapter ... a person provides a financial service if they: deal in a financial product (see [section
+C)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s766c.html) [Section
+C(1)(b)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s766c.html) provides, relevantly: 
+Meaning of dealing 
+For the purposes of this Chapter, the following conduct (whether engaged in as principal or agent) constitutes dealing in a financial product: issuing a financial product [Section
+A(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s763a.html) provides: 
+General definition of financial product 
+For the purposes of this Chapter, a financial product is a facility through which, or through the acquisition of which, a person does one or more of the following: makes a financial investment (see [section
+B)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s763b.html); manages financial risk (see [section
+C)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s763c.html); makes non-cash payments (see [section
+D).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s763d.html) 
+This has effect subject to [section
+E.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s763e.html) [Section
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s763b.html) provides: 
+When a person makes a financial investment 
+For the purposes of this Chapter, a person (the investor) makes a financial investment if: the investor gives money or money's worth (the contribution) to another person and any of the following apply: the other person uses the contribution to generate a financial return, or other benefit, for the investor; the investor intends that the other person will use the contribution to generate a financial return, or other benefit, for the investor (even if no return or benefit is in fact generated); the other person intends that the contribution will be used to generate a financial return, or other benefit, for the investor (even if no return or benefit is in fact generated); and the investor has no day-to-day control over the use of the contribution to generate the return or benefit.
+ [Section
+C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s763c.html) provides: 
+When a person manages financial risk 
+For the purposes of this Chapter, a person manages financial risk if they: manage the financial consequences to them of particular circumstances happening; or avoid or limit the financial consequences of fluctuations in, or in the value of, receipts or costs (including prices and interest rates).
+ [Section
+A(1)(c)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s764a.html) provides: 
+Specific things that are financial products (subject to Subdivision D) 
+Subject to Subdivision D, the following are financial products for the purposes of this Chapter: a derivative [Section
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s761e.html) provides, relevantly: 
+Meaning of issued, issuer, acquire and provide in relation to financial products 
+General 
+This section defines when a financial product is issued to a person.
+It also defines who the issuer of a financial product is. If a financial product is issued to a person: the person acquires the product from the issuer; and the issuer provides the product to the person.
+
+Issuing a financial product 
+Subject to this section, a financial product is issued to a person when it is first issued, granted or otherwise made available to a person.
+
+Subject to this section, a financial product specified in the table is issued to a person when the event specified for that product occurs: 
+When particular financial products are issued 
+Item 
+Financial product 
+Event  ---  superannuation product the person becomes a member of the fund concerned  
+RSA product the account concerned is opened in the person's name  
+A 
+FHSA product the person becomes the holder (within the meaning of the [First Home Saver
+Accounts Act ](http://www.austlii.edu.au/au/legis/cth/consolact/fhsaa2008273/)) of the FHSA product  derivative the person enters into the legal relationship that constitutes the financial product  margin lending facility the person enters into the legal relationship that constitutes the margin lending facility, as the client under the facility  [emphasis added]  Section 761D(1) provides:  
+Meaning of derivative 
+For the purposes of this Chapter, subject to subsections (2), (3) and (4), a derivative is an arrangement in relation to which the following conditions are satisfied: under the arrangement, a party to the arrangement must, or may be required to, provide at some future time consideration of a particular kind or kinds to someone; and that future time is not less than the number of days, prescribed by regulations made for the purposes of this paragraph, after the day on which the arrangement is entered into; and the amount of the consideration, or the value of the arrangement, is ultimately determined, derived from or varies by reference to (wholly or in part) the value or amount of something else (of any nature whatsoever and whether or not deliverable), including, for example, one or more of the following: an asset; a rate (including an interest rate or exchange rate); an index; a commodity.
+ Section 761D(3)(b) provides:  
+Subject to subsection (2), the following are not derivatives for the purposes of this Chapter even if they are covered by the definition in subsection (1): a contract for the future provision of services Section 765A(1)(h)(i) provides:  
+Specific things that are not financial products 
+Despite anything in Subdivision B or Subdivision C, the following are not financial products for the purposes of this Chapter: any of the following: a credit facility within the meaning of the regulations (other than a margin lending facility) [Regulation .1.06(1)](http://www.austlii.edu.au/au/legis/cth/consolreg/cr2001281/s7.1.06.html) of the [Corporations Regulations ](http://www.austlii.edu.au/au/legis/cth/consolreg/cr2001281/) (Cth) provides: 
+Specific things that are not financial products: credit facility 
+For subparagraph 765A (1) (h) (i) of the Act, each of the following is a credit facility: the provision of credit: for any period; and with or without prior agreement between the credit provider and the debtor; and whether or not both credit and debit facilities are available; and that is not a financial product mentioned in paragraph 763A (1) (a) of the Act; and that is not a financial product mentioned in paragraph 764A (1) (a), (b), , (f), (g), (h) or (j) of the Act; and that is not a financial product mentioned in paragraph 764A (1) (i) of the Act, other than a product the whole or predominant purpose of which is, or is intended to be, the provision of credit; Regulations 7.1.06(3)(a) and (b)(ix) and (x) provide: 
+In this regulation: credit means a contract, arrangement or understanding: under which: payment of a debt owed by one person (a debtor) to another person (a credit provider) is deferred; or one person (a debtor) incurs a deferred debt to another person (a credit provider); and including any of the following: a financial benefit arising from or as a result of a loan; assistance in obtaining a financial benefit arising from or as a result of a loan;  
+The parties' contentions CHM puts that the Deed is an agreement entered into by the Funder (as the non-licensee) with it (as the client) that constitutes or relates to the provision of a financial service entered into in the course of a financial services business carried on by the Funder within the meaning of <case>(a) on the basis that the Funder thereby dealt in a financial product as contemplated by <case>(b).
+ It puts that the Deed is a financial product because it is a facility through which it made a financial investment or manages financial risk within the meaning of <case>(a) and <case>(b) of the Act and is within the specific things that are financial products described in <case>, namely a derivative within par (c) of that section.
+ It puts that by the Deed, CHM "manages financial risk" as contemplated by s
+C(a), by shielding itself against the possibility of incurring legal costs but failing to recover sufficiently or at all against Murchison.
+ In addition to taking issue with these propositions, the Funder puts that the Deed is not a derivative because it is a contract for the future provision of services within the meaning of <case>(b) and that it is not a financial product because it is a credit facility within the meaning of <case>(h)(i) and Regulation 7.1.06.
+ A faint and perfunctory submission was put by the Funder that CHM had not shown that the Deed was entered into in the course of a financial services business carried on by the Funder, that is, that this type of transaction was not in the course of a business being carried on by it. The submission was not developed and may be briefly disposed of. In his affidavit evidence Mr Karam deposed to dealings with Mr Lindholm (of the Funder) leading up to the making of the Deed which leaves no room for any doubt that the Funder was in the business of providing litigation funding and that Mr Lindholm engaged in conduct intended to induce CHM to use the services which the Funder provided.
+There is also evidence of the Funder having funded other proceedings by CHM in this Court. I am satisfied that it was in the business of doing the type of transaction presently under consideration.
+ 
+Consideration In my opinion, the Deed is not a derivative. Section 761D(1)(c) requires the amount of the consideration or the value of the arrangement ultimately to be determined, derived from or vary by reference to (wholly or in part) the value of something else. The word "ultimately" in the subsection plainly qualifies the words "determined, derived from or varies by reference to" (there being no comma before the words which follow the words in parentheses).
+ This is no doubt because it is in the nature of a derivative that the value of the arrangement will (as the word "ultimately" connotes) in every case be affected by (and hence derived from) the value of something else. The Deed does not have this invariable operation, as the facts in the present case demonstrate. The amount of the Early Termination Fee on the particular Change in Control here is not determined or derived from, nor does it vary by reference to the value of, something else.
+ There is, to my mind, a further and fundamental problem with CHM's submission. CHM is the client referred to in <case>, and in that capacity purported to rescind an arrangement whereby it was issued with a financial product. By <case>, the financial product concerned is a facility through which CHM says it made a financial investment. Section 763B provides for when a person makes a financial investment which in all cases involves an investor giving money or money's worth to another person and envisages that contribution being used or intended to be used in a particular way. That is not this case. Here, it seems to me, if anyone is making a financial investment, it is the Funder, not CHM. The Funder pays Legal Costs and may receive a possible enhanced return.
+ I do not consider that the Deed can properly be described as a contract for the future provision of services as contemplated by <case>(b) of the Act.
+The Recitals record that the Funder has agreed to provide investigative and management expertise but the Deed does not seem to contain any covenant obliging the Funder to do so. This aspect of the Deed is at best an adjunct to the main object of the arrangement, which is the payment of money.
+ I also do not consider that the Deed is a financial product by which CHM manages financial risk as contemplated by <case>(a) of the Act.
+ Whilst in one sense the Deed has the effect of minimising one category of financial risk for CHM (namely, the risk that it will incur expense in pursuit of Murchison which will be wasted if no or an insufficient Resolution Sum is received), on no realistic view can it be said that the Deed is a financial product whereby CHM manages that risk.
+ Rather, the object of the Deed is to enable CHM to prosecute the
+Proceedings by having the Funder pay Legal Costs and perhaps (as the Recitals describe) provide investigative and management expertise to assist in the
+Proceedings. The object of the Deed is to facilitate CHM vindicating its claim against Murchison, not to manage the risk of possible failure in that endeavour.
+ What is more, under cl 4 of the Deed, as part of the quid pro quo for the funding, CHM undertakes a risk of a significant payment which is unrelated to the ultimate fate of the Proceedings. As well, under cl 10.1 the Funder may in its sole discretion (and without reference to the outcome of the Proceedings) terminate the Deed. These are not the characteristics of a financial risk management instrument.
+ I do not accept the Funder's submission that the Deed is a credit facility within <case>(h)(i) and Regulation 7.1.06 (which is set out above) and therefore not a financial product because:  a the Deed does not operate so as to defer payment of any debt owed by CHM to the Funder or result in CHM incurring a deferred debt to the Funder;  b CHM does not incur a debt to the Funder as a result of the Funder paying the
+Legal Costs and it does not incur any personal obligation to repay the amount funded; and  c the payment by the Funder of the Legal Costs is not an advance and the Deed does not contain provisions under which CHM incurs a personal obligation to repay.  
+Conclusions The Deed is not an agreement to which <case> applies, and CHM had no entitlement to give a notice of rescission. Its attempt to rescind was of no effect.
+ It follows that: a the Funder is entitled to enforce the Deed according to its tenor;  b the Charge is effective to secure performance of CHM's obligations under the
+Deed;  c the Receivers were validly appointed; and  d the injunction granted by Einstein J restraining them must be discharged.  
+OPERATION OF THE DEED  The Funder puts that a Change in Control entitled it to immediate payment of the Early Termination Fee without affecting its entitlement under cl 3.1 of the Deed. CHM puts that the Funder's only entitlement is to the Early
+Termination Fee.
+ To determine the effect of the Deed in the events that have occurred, the
+Court must have regard to the language used, the surrounding circumstances known to the parties, the purpose of the transaction and the objects which it was intended to secure: Toll (FGCT) Pty Ltd versus Alphapharm Pty Ltd (2004) 219
+CLR 165 at 179; International Air Transport Association versus Ansett Australia
+Holdings Ltd (Subject to Deed of Company Arrangement) and others <case>; <case>. A commercial contract should be given a business-like interpretation. The nature and extent of the commercial aims and purposes of the agreement or parts of it are part of the essential background circumstances: McCann versus Switzerland
+Insurance Australia Ltd <case>; [(2000) 203 CLR 579] at 589; Codelfa Construction Pty Ltd versus State Rail Authority <case>; <case> at <case> and following. The whole of the instrument has to be considered. Preference is given to a construction supplying a congruent operation to the various components of the whole of an instrument: Wilkie versus Gordian Runoff Ltd <case>; [(2005) 221 CLR 522] at 529.
+ Recently, in Chartbrook Ltd versus Persimmon Homes Ltd <case>; [[2009] 1
+AC 1101](/cgi-bin/LawCite?cit=%5b2009%5d%201%20AC%201101 "View LawCiteRecord" ) at 1112 <case> Lord
+Hoffmann said:  
+There is no dispute that the principles on which a contract (or any other instrument or utterance) should be interpreted are those summarised by the
+House of Lords in Investors Compensation Scheme Ltd versus West Bromwich Building
+Society <case>; [[1998] 1 WLR 896], 912-913.
+They are well known and need not be repeated. It is agreed that the question is what a reasonable person having all the background knowledge which would have been available to the parties would have understood them to be using the language in the contract to mean. The House emphasised that "we do not easily accept that people have made linguistic mistakes, particularly in formal documents" (similar statements will be found in Bank of Credit and Commerce
+International SA versus Ali <case>; [[2002] 1 AC ] , ; Kirin-Amgen Inc versus Hoechst Marion Roussel Ltd <case>; [[2005] 1
+All ER 667] , 681-682 and Jumbo King Ltd versus Faithful Properties Ltd <case>; [(1999) 2 HKCFAR 279] , 296) but said that in some cases the context and background drove a court to the conclusion that "something must have gone wrong with the language". In such a case, the law did not require a court to attribute to the parties an intention which a reasonable person would not have understood them to have had.
+ It should be pointed out that the Deed contains a number of obvious errors.
+The reference in cl 3.6 to cl 8.1 should be a reference to cl 10.1. The references in cl 6.3 to cl 4.1 and cl 4.2 should be references to cl 6.1 and cl 6.2. The definition of Early Termination Fee includes the superfluous and meaningless words "the Charge in Control".
+ The Deed does not expressly state, as one might have expected it to do, whether upon a Change in Control resulting in the Funder's entitlement to the
+Early Termination Fee, the Funding Fee will or will not be payable if there is a later Resolution.
+ The Funder puts that nothing in the plain meaning of the words of cl 3.1 and cl 4.1 indicates that if one applies the other does not. It puts that each provides for an entitlement which depends on the occurrence of a different event and each has a different underlying object. Clause 3.1 is to reward the
+Funder for the risk it undertakes, cl 4.1 is intended to discourage a Change in Control of CHM.
+ In further support of its construction it puts that:  a cl 4.1 refers to the Funder's obligations (rather than the Deed itself) terminating effective immediately which indicates that the Funder continues to have all other rights and entitlements under the Deed after a Change in
+Control;  b cl 3.2 is an irrevocable direction for payment of any Resolution Sum to be made to the Lawyers and cl 3.3 irrevocably authorises them to hold that part of the Resolution Sum due to the Funder under the Deed on trust for it and the balance on trust for CHM. The statements of irrevocability indicate that cl .1 will continue to operate;  c cl 3.4 and cl 3.5 provide protection for the Funder if any part of the
+Resolution Sum is received, not by the Lawyers, but by CHM, which obligations survive any termination of the Deed save for a termination pursuant to cl 8.1 (meaning cl 10.1). These provisions indicate that other provisions of the Deed continue to operate, except where the termination is pursuant to cl 8.1 (meaning cl 10.1).
+ For the following reasons I consider that the words of cl 4.1 and cl 4.2 read in the context and operation of the Deed as a whole, mean that upon a
+Change in Control, the Funder's only entitlement (or right) is to receive the
+Early Termination Fee.
+ In my view, in saying that the Funder is entitled to immediate payment of the Early Termination Fee, cl 4.2 of the Deed means it is entitled only to that fee. Put another way, the words of cl 4.2 mean that the Funder's entitlement (that is, its entire entitlement), is to payment of the Early
+Termination Fee.
+ Under cl 4.1, upon a Change in Control the Funder's obligations pursuant to the Deed terminate, effective immediately. This has the effect that all of its obligations terminate. The Funder accepted as much. The Funder's contention that this leaves unaffected all of its rights under the Deed brings with it the consequence that where it has rights which have corresponding obligations it would retain the rights but not have any corresponding obligations. Thus, for example, the Funder would have the right under cl 6.1 to require an appeal to be lodged, but shorn of the corresponding obligation in that clause to pay the Legal Costs and disbursements in connection with the appeal; it would have the right to require CHM to adhere to its obligation of confidentiality under cl 11 but would be relieved of its own corresponding obligation under that clause; and it would have the right to require CHM to act in good faith under cl 17.4 but be relieved of its own obligation to do so under that clause. This is hardly a commercial or sensible operation.  With respect to cl 6.1, counsel for the Funder put that it would still work without the Funder being obliged to pay the Legal Costs of an appeal which it (and only it) wished to be brought because CHM could legitimately not (and in practice would not) bring the appeal if the Funder refused to pay the Legal
+Costs. This is an untenable submission because under cl 6.1 CHM would have the binding contractual obligation to bring the appeal.
+ With respect to cl 11.1, counsel put that the Funder's covenant of confidentiality would be discharged, but the Funder would be under an equitable obligation of confidentiality. This too is an untenable submission given the express termination under cl 4.1 of the Funder's obligations. There was no debate about cl 17.4.
+ This demonstrates that the Funder's construction does not result in the congruent operation of the Deed as a whole.
+ CHM put that the effect of cl 4.1 was really to terminate the Deed and therefore the Funder's entitlement under cl 3.1 on the basis that the word "obligations" in the clause should be read as meaning "rights and obligations". However, this does not accord with the plain meaning of the words used. Upon a Change in Control all of the Funder's rights are not terminated. Indeed, in that event it obtains one new right (which does not involve any corresponding obligation), namely the right to immediate payment by CHM of the Early Termination Fee.  The Funder's construction results in further anomalies.
+ Firstly, under cl 2.1 the Funder agrees to pay the Legal Costs. Legal
+Costs is defined to mean all future agreed legal costs and disbursements incurred in relation to and incidental to the Proceedings or any Appeal. Under cl 3.1 the Funder is entitled to repayment of the Legal Costs paid by it in accordance with cl 2.1. Read with the definition of Legal Costs, this contemplates that the Funder will pay legal costs incidental to the
+Proceedings or any Appeal. The Recitals make it clear that CHM has requested and the Funder has agreed to provide funding to assist in prosecuting the proceedings (presumably to finality unless earlier resolved or withdrawn). The
+Funder's contention is that the Deed operates to the effect that the Funder ceases to have any obligation to pay Legal Costs upon a Change in Control but nevertheless retains an entitlement to share in the Resolution Sum. More than simply ceasing to be obliged to further fund, the Funder becomes immediately entitled to payment of a significant sum of money by CHM. It seems to me that this is inimical to the principal object of the transaction, namely that the
+Funder will fund the Proceedings and be rewarded by sharing in a successful outcome.
+ In my view, the express termination of all the Funder's obligations under the Deed brings with it the necessary implication that all its entitlements other than that expressly provided for in cl 4.2 are terminated as well.
+Correspondingly, the Funder's entitlement under cl 3.1 to payment of the
+Funding Fee depends on receipt of a Resolution Sum which presupposes prosecution of the Proceedings to a judgment or settlement, the Legal Costs of which will be funded by it. It has no such entitlement without the corresponding obligation to do that which facilitates receipt of the
+Resolution Sum out of which that entitlement will come.
+ Secondly, one of the components of the Early Termination Fee is an amount equal to the Legal Costs expended by the Funder up to the date of termination pursuant to cl 4.1. Clause 3.1 entitles the Funder to repayment of the Legal
+Costs as well as payment of the Funding Fee. If both cl 4.1 and cl 3.1 operate the Funder, anomalously, recoups in effect its Legal Costs twice.
+ I do not consider that any reasonable person in the position of the parties to the Deed would have taken the language of the Deed to mean that cl .1 and cl 4.1 were concurrent rather than mutually exclusive entitlements.
+ In my view the Early Termination Fee can only sensibly and commercially be explained as a payment representing the parties' assessment of the entire value of the arrangement to the Funder upon a Change in Control and accordingly a payment in substitution for its other entitlements under the
+Deed.
+ It may be accepted that one of the underlying purposes of cl 4 is to discourage a Change in Control of CHM. The disincentive or "poison pill" (as it is sometimes described) is the significant payment to be made if a Change in Control occurs.
+ The payment undoubtedly also recognises that a Change in Control may not serve the Funder's interests, if, for example, new controllers take a pessimistic view of CHM's prospects in the Proceedings and give up.
+ However, on its construction the Deed remains operative despite the Early
+Termination Fee having to be paid immediately, and where new controllers (as may well be the case now) have the same view that the old ones did and act no differently with respect to the Proceedings.
+ The size and particularly the immediacy of the Early Termination Fee indicate an entitlement in substitution for, and to the exclusion of, that in cl 3.1.
+ It seems to me that cl 3 and cl 4 deal respectively with two (of the four) separate and mutually exclusive ways in which the funding arrangement is effectively brought to an end. The other two are cl 10.1 which entitles the
+Funder to terminate its obligations under the Deed and cl 10.5 which entitles
+CHM to terminate the Deed for the Funder's breach.
+ In each of the following four scenarios the Funder receives a payment, and each has logical and commercially rational consequences: a receipt of a Resolution Sum before any termination of the Funder's obligations - the Funder receives repayment of the Legal Costs and the Funding
+Fee (cl 3.1);  b Early Termination - the Funder receives the Early Termination Fee, which includes an amount equivalent to the Legal Costs and a further amount based on the share capital of CHM if there is a strike price or $9,000,000 - whichever is the higher (cl 4);  c Termination by the Funder of its obligations under the Deed - the Funder receives payment of the Legal Costs out of any Resolution Sum later received (cl 10.1 - cl 10.4); and  d Termination of the Deed by CHM for the Funder's breach - the Funder remains liable to meet its accrued obligations (being to pay any outstanding Legal
+Costs incurred up to the date the notice of termination becomes effective) and is entitled to repayment of Legal Costs incurred up to the date of the
+Termination of the Deed out of any Resolution Sum later received (cl 10.5).
+ The respective provisions which give rise to these entitlements each operates separately and to the exclusion of the others. So viewed all the provisions of the Deed (including cl 4.1 and cl 4.2 as between themselves) operate congruently, commercially and rationally.
+ Notably, only under cl 4 does the Funder receive anything other than out of a Resolution Sum, an additional indication that after it receives the Early
+Termination Fee, the Deed has no further work to do. Another characteristic which sets cl 4 apart is that a Change in Control can occur without the participation or concurrence of any party and, indeed, in circumstances where
+CHM opposes it. All other forms of termination are within the control of one of the parties to the Deed.
+ The irrevocable directions and authorisations in cl 3.2 and cl 3.3 are in aid, and in aid only, of the Funder's entitlement under cl 3.1. They have no operation if cl 3.1 has none. On the construction I have found, the Funder has no entitlement under cl 3.1. The irrevocable authorisations and directions accordingly have no field of application.
+ It follows that the Funder has no entitlement under cl 3.1 and CHM is entitled to redemption of the Charge upon payment of the amount owing as at the date of tender to which the Funder is entitled on the basis that it was, upon the Change in Control, entitled to immediate payment only of the Early
+Termination Fee.
+ 
+CONCLUSION CHM's challenge to the appointment of the receivers has failed. The injunction ordered by Einstein J on 11 August 2010 is dissolved.
+ CHM and Cape Lambert have succeeded in relation to the construction and the operation of the Deed for which they have contended and appropriate declarations will be made.
+ The parties are to bring in short minutes reflecting this outcome, I will hear them with respect to the future conduct of these Proceedings and on costs.
+ The exhibits are to be returned.
+ 
+ANNEXURE A 
+FUNDING DEED 
+Parties  INTERNATIONAL LITIGATION PARTNERS PTE LTD of ("IFP" or "the Funder") of Level 30, Six Battery Road, Singapore 049909 or its nominee/assignee; and  CHAMELEON MINING NL ("CHM") ACN 098 773 785 c/- of BMAX Property, Level 20, 109 Pitt Street, Sydney NSW Australia 2000.  
+Recitals 
+A CHM has requested that the Funder provide litigation funding to CHM for its Legal Costs in relation to the Proceedings. 
+B CHM has requested that the Funder provide investigative and management expertise to assist in the Proceedings. 
+C The Funder has agreed, on the terms and conditions set out in this DEED, to provide funding, and management and investigation expertise and other related and agreed matters to CHM to assist in investigating the Claims and to prosecute the Proceedings. 
+D CHM acknowledges that the Funder has, by virtue of its obligations and entitlements (including to receive a percentage of The Resolution Sum) set out in this DEED, an interest in the Claims and the Proceedings.
+
+Operative clauses . Definitions and Interpretation 
+In this DEED: "Adverse Costs Order" means any costs order made against CHM in the
+Proceedings including any GST, arising on or after the date of this deed; "Appeal" means any appeal or appeals from a judgement or order in the
+Proceedings; "Change in Control" means any direct or indirect change in Control of a company (whether through merger, sale or shares or other equity interests, or otherwise) through a single transaction or series of related transactions, and whether from one or more transferors to one or more transferees; "Claims" means the claim or claims CHM has against the Respondent(s); "Control" means the ability directly or indirectly to cast 30% or more of the votes that may be cast at a general meeting of the members of the company or the ability to appoint 50% or more of directors of the company; and
+Controlled and Controlling have a corresponding meaning.
+ "Cost Order" means any cost order made in favour of CHM in the
+Proceedings; "Early Termination Fee" means a payment by CHM to the Funder or its nominee of an amount equal to the Legal Costs (including Security for Costs) expended by the funder up to the date of termination pursuant to clause 4.1 and a further amount equivalent to the higher of the value of 20% of the share capital of CHM at the strike price of its shares by the acquirer of the Charge in Control or the Change in Control or $9 million.
+ "Funding Fee" means the higher of: 
+Three (3) times the sum of the Costs incurred by the Funder under clause 2.1 or the Percentage Payment.
+ "Fixed and Floating Charge" means the Fixed and Floating Charge between
+CHM and the Funder executed on the date of this Deed.
+ "Lawyers" means any firm of solicitors appointed by CHM (and agreed by the
+Funder) to conduct the Proceedings on behalf of CHM; "Legal Costs" means all costs associated with procuring the legal files from the previous Solicitor on the record for CHM in the Proceedings and all future agreed legal costs and disbursements incurred by CHM and Funder in relation to or incidental to the Proceedings, or any Appeal, including without limitation solicitors fees and disbursements, counsel's fees and disbursements and expert witness fees, the provision of $250,000 by way of security for costs for security paid prior to this deed, and the provision of any Security for Costs or monies payable for Adverse Cost Orders arising in the
+Proceedings, or any Appeal, unless otherwise agreed between CHM and the
+Funder; "Percentage Payment" means: % of the Resolution Sum should a Resolution agreement occur at any time prior to the earlier of 1 February 2009 or the third security for costs payment in the Proceedings; % of the Resolution Sum should a Resolution agreement occur at any time thereafter (a) but prior to the earlier of 31 May 2009 or 45 days prior to the hearing date of the Proceedings; % of the Resolution Sum should a Resolution agreement occur at any time thereafter (b) but prior to the earlier of 30 November 2009 or 45 days prior to the hearing date of the Proceedings; and % of the Resolution Sum should a Resolution agreement occur at any time after 31 March 2010; "Proceedings" means Federal Court of Australia proceedings no. NSD 2355 of and/or any other proceedings which arise from the Claims; "Repayment Date" means the later of: the date of receipt of the Resolution Sum, if any, as cleared funds; the finalisation of Proceedings, whether by way of settlement, judgment or otherwise; or the expiration of the time for filing an Appeal; "Resolution" means when all or any part of the Resolution Sum is received and where the Resolution Sum is received in parts, a "Resolution" occurs each time a part is received; "Resolution Sum" means the gross amount received by CHM or the Lawyers, whether by way of settlement, judgment or otherwise of the Proceedings, including any interest and Legal Costs recovered pursuant to a Costs Order; "Defendants" means those Defendants identified in the Proceedings.
+ "Security for Costs" means any amount ordered by the court in the
+Proceedings or agreed by the Funder as security for the Respondents costs, that arises on or after the date of this deed; "Trust Account" means the account entitled "NSW Trust Account" at Piper
+Alderman Lawyers referred to in clause 3.1.
+ . Funding .1 The Funder hereby agrees to pay the Legal Costs, such payment to be made within 28 days of receipt of written notification requiring payment and supported, as and when reasonably required by the Funder, with copies of substantiating documentation, unless otherwise agreed to by the Funder and
+CHM.
+ . Funding Fee and Legal Costs Entitlement .1 Upon Resolution of the Proceedings, the Funder will be entitled to: 
+Repayment of the Legal Costs paid by it in accordance with clause 2.1; 
+Payment of the Funding Fee.
+ .2 CHM irrevocably directs that: payment of any Resolution Sum be made to the Lawyers; and the Lawyers are to immediately pay any Resolution Sum into a separate trust account kept for that purpose.
+ .3 CHM irrevocably authorises the Lawyers to hold that part of the Resolution
+Sum due to the Funder under this DEED on trust for the Funder and the balance on trust for CHM; .4 If, notwithstanding clause 3.2, CHM directly or indirectly receives all or any part of the Resolution Sum, CHM will pay it over, together with the reasonable market value of any non monetary component of the Resolution Sum received, to the Lawyers to be paid into the trust account referred to in clause 3.2 and dealt with on the terms of this DEED; .5 If any part or all of the Resolution Sum is not money, CHM will, as soon as the part or all of the Resolution Sum is received, pay to the Lawyers an amount equal to the reasonable market value of the non monetary component of the Resolution Sum so received; .6 The obligation in clause 3.4 and 3.5 are continuing obligations and survive any Termination of this DEED save for a Termination pursuant to clause .1; .7 On the Repayment Date, CHM irrevocably authorises the Lawyers to forthwith pay out of the Trust Account referred to in clause 3.2 all amounts, to repay
+Legal Costs paid by the Funder under clause 2.1 to an account directed by the
+Funder; .8 in addition to any Legal Costs to be repaid to the Funder in accordance with clause 3.6, CHM irrevocably authorises the Lawyers to pay to the Funder the Funding Fee on the Repayment Date, to an account directed by the Funder; .9 Notwithstanding clauses 3.7 and 3.8, CHM will not be required to pay any amount to the Funder under either clause in excess of the Resolution Sum; . Early Termination .1 Should there be a Change in Control of CHM, the Funder's obligations pursuant to this Deed terminate effective immediately.
+ .2 Should clause 4.1 come into effect the Funder is entitled to immediate payment by CHM of the Early Termination Fee.
+ . Charge over the property of CHM .1 In consideration for entering into this Deed CHM grants the Funder a fixed and floating charge on the terms set out in the Fixed and Floating Charge dated x.
+ .2 Any debt owed pursuant to this clause 4.1 of the deed is Secure Monies pursuant to the fixed and floating charge dated * 28 October, 2008.
+ . Appeal .1 If there is a final judgment in the Proceedings which is not in favour of
+CHM and the Funder wishes an appeal to be lodged, then CHM will instruct the
+Lawyers to lodge and prosecute the appeal/appeals in the name of CHM. The
+Funder will pay the Legal Costs and disbursements in connection with the appeal/appeals.
+ .2 If there is a final judgment in the Proceedings in favour of CHM and a
+Respondent appeals, then the Funder may elect to fund the legal Costs and disbursement of the appeal/appeals. If the Funder so elects, CHM will instruct the Lawyers to defend the appeal/appeals in the name of CHM.
+ .3 If the Funder funds an appeal/appeals pursuant to clauses 4.1 or 4.2 then an additional 5% will be added to the Percentage Payment in respect of each appeal so funded.
+ . Warranties .1 CHM warrants that they are the legal and rightful plaintiff in the
+Proceedings or any Appeal.
+ .2 CHM warrants that there is no creditor holding a charge, lien or encumbrance over property of the CHM, including over the Resolution Sum; .3 CHM warrants they will not cause, permit or assert any charge, lien or other encumbrance or right over or otherwise attaching to the Resolution Sum after the date of this DEED, except with the prior written consent of the
+Funder which consent may be withheld by the Funder at its discretion; .4 CHM warrants that there is no information in its custody, possession or control materially relevant to the outcome of the Proceedings or any Appeal or the potential for any judgment sum to be recovered, which has not been disclosed to the Funder.
+ .5 If, after the date of this DEED, CHM becomes aware of any information which has or may have a material impact on the Claims, the Proceedings, or any
+Appeal or the potential for any Resolution Sum to be recovered, CHM will immediately inform the Funder of that information; .6 CHM warrants that CHM's directors are aware of this funding DEED and agree that the Funder can give a written direction to CHM or the Lawyers holding the
+Resolution Sum in its trust account requiring it to pay directly to the Funder any amounts owing by CHM to the Funder in satisfaction of the Funder's obligations to CHM under this DEED; .7 CHM will provide a board resolution, duly passed, with supporting board minutes authorising CHM to enter into this DEED.
+ .8 CHM warrants that it has received independent legal advice in connection with this DEED.
+ . Representatives and Conduct of Proceedings .1 CHM undertakes to and will: keep the Funder advised of the progress and status of the Proceedings or any Appeal; consult with and consider the views of the Funder in relation to any material issues arising from the conduct and/or progress of the Proceedings or any Appeal; and provide such information from time to time to the Funder as may reasonably be required in relation to the Proceedings or any Appeal.
+ .2 CHM agrees to disclose to the Funder, upon such information coming to its knowledge, all information received from time to time which may have a material impact on the Proceedings or any Appeal or which relates to any takeover of CHM; .3 CHM will make all reasonable efforts, if appropriate, to authorise the
+Funder to: appoint, instruct and direct the Lawyers (including counsel and experts); to pursue the claim and the Proceedings or any Appeal; and to negotiate an outcome of the Proceedings or any Appeal; on its behalf; .4 CHM, at its own cost, will provide to the Lawyers, upon request, all documents and information in the possession, control or power of CHM relevant to the Claims and the Proceedings or any Appeal; .5 CHM, and its directors, officers, principals and owners if required, will at its own cost, provide to the Lawyers, upon request, all written statements of evidence in relation to the Claims; .6 CHM, and its directors, officers, principals and owners if required will, at its own cost, attend upon the Court to give evidence in relation to the
+Claims.
+ . Term .1 Subject to the following Termination provisions, this DEED will continue until all obligations by CHM and the Funder pursuant to this DEED have been satisfied, and the Resolution Sum (if any) has been disbursed in accordance with this DEED.
+ . Termination 
+Termination by the Funder .1 The Funder is entitled, at its sole discretion, to terminate its obligations under this DEED, other than accrued obligations, by giving 7 days written notice to CHM that the DEED and the Funder's obligations are terminated; .2 If the Funder terminates its obligations pursuant to clause 10.1 then it will not be entitled to any payment pursuant to the Funding Fee but it will continue to be entitled to receive payment pursuant to clause 3.7 from any
+Resolution Sum. CHM will notify the Funder upon receipt of money referred to in this clause. The obligations in this clause survive any Termination of this
+DEED; .3 All obligations of the Funder under this DEED cease on the date the
+Funder's termination becomes effective, save for obligations accrued to that date; .4 The accrued obligations of the Funder referred to above comprise payment of any outstanding Legal Costs incurred up to the date the notice of termination becomes effective.
+
+Termination by CHM .5 If the Funder commits a serious breach of this DEED and does not remedy the breach within 30 days after receiving written notice from CHM requiring it to do so, CHM may terminate this DEED forthwith by written notice to the
+Funder; 
+If this DEED is terminated by CHM pursuant to the above clause 10.5, then: the Funder remains liable for the obligations referred to in clause .4; and the Funder remains entitled to repayment of Legal Costs incurred up to and including the date of termination pursuant to clause 3.6; and 
+CHM will not be required to pay the Funding Fee under clause 3.7.
+ . Confidentiality .1 CHM and the Funder agree to keep confidential the existence and terms of this DEED and will not disclose the existence and terms of this DEED to any person other than their legal and financial advisers or as required by law.
+CHM and the Funder shall keep confidential all discussions, disclosures and information they have obtained by reason of this DEED.
+ . Notices .1 Any notice or other communication of any nature which must be given, served or made under or in connection with this DEED: must be in writing in order to be valid; is sufficient if executed by the Party giving, serving or making the same or on its behalf by any attorney, director, secretary, other duly authorized officer or solicitor of such Party; will be deemed to have been duly given, served or made in relation to a person if it is delivered or posted by prepaid registered post to the address, or sent by telex or facsimile to the number of that person set out herein (or at such other address or number as is notified in writing by that person to the other Party from time to time).
+ will be deemed to be given, served or made;  in the case of prepaid registered post on the third day after the date of posting;  (in the case of facsimile) on receipt of a transmission report confirming successful transmission; and  (in the case of delivery by hand) on delivery.
+ . Dispute Resolution 
+General Disputes .1 Except for disagreements arising between the Funder and CHM relating to the appropriate terms for settlement of the Proceedings, if a dispute arises out of or relates to this DEED, or the breach, termination, validity or subject matter thereof, or as to any claim in tort, in equity or pursuant to any domestic or international statute or law, the parties to the DEED and to the dispute expressly agree to settle the dispute by expert determination administered by the Australian Commercial Dispute Centre ("ACDC").
+
+A Party claiming that a dispute has arisen, must give written notice to the other Party to the dispute specifying the nature of the dispute.
+ 
+On receipt of the notice specified in clause 13.1(a), the parties to the dispute must within seven (7) days of receipt of such notice seek to resolve the dispute.
+ 
+If the dispute is not resolved within seven (7) days or within such further period as the parties agree, then the dispute is to be referred to.
+ 
+The expert determination pursuant to clause 13.1 shall be conducted in accordance with expert determination guidelines of the ACDC which set out the procedures to be adopted, the process of selection of the expert and the costs involved and such terms are hereby deemed incorporated.
+
+This clause shall not merge upon completion.  
+Dispute regarding Settlement Terms .2 In recognition of the fact that the Funder has an interest in the
+Resolution Sum and the efficient and effective prosecution of the Proceedings, where there is a disagreement between the Funder and CHM as to the appropriate terms for settlement of the Proceedings, CHM and the Funder irrevocably agree that: the Lawyers will brief Senior Counsel, from a panel agreed to between the Funder and CHM, to provide an advice as to whether the proposed settlement is reasonable having regard to all the circumstances; the legal costs of obtaining the advice referred to in clause 13.1(a) shall be met equally by the Funder and CHM; and 
+The advice of Senior Counsel will be final and binding on both CHM and the Funder; .3 In determining whether a proposed settlement is reasonable having regard to all the circumstances, Senior Counsel may proceed as he feels fit to inform himself before forming and delivering his opinion but any such determination shall include the following considerations: the strengths and weaknesses of the Claims; the quantum of the Claim and any difficulties which might exist in proving that quantum; the recoverability of a judgment sum from the Respondent or any one of them; the extent to which further Legal Costs incurred in the proceeding are likely to be recoverable from the Respondent or any one of them; any other matter Senior Counsel considers relevant.
+ . Governing Law .1 This DEED will be governed by and constructed in accordance with the law for the time being in force in New South Wales and the Party, by agreeing to enter into this DEED, will be deemed to have submitted to the non-exclusive jurisdiction of that State.
+ . Interpretation 
+In this DEED: .1 The expression "person" includes an individual, a body politic, a corporation and a statutory or other authority or association (incorporated or unincorporated); .2 a reference to any Party includes that Party's executors, administrators, successors substitutes and assigns, including any person taking by way of novation; .3 words denoting the singular number include the plural and vice versa; .4 headings are for convenience only and do not affect interpretation; .5 where the day on which or by which any act, matter or thing is to be done under this document is not a business day, that act, matter or thing must be done on the immediately preceding business day; .6 month means a calendar month.
+ . GST .1 Definitions 
+In this clause the following expressions shall have the following meanings: 
+ATO means the Australian Taxation Office; 
+BAS means a business activity statement; 
+GST has the same meaning as the expression "GST" has in the GST Act; 
+GST Act means [A New Tax System (Goods and Services Tax) Act, ](http://www.austlii.edu.au/au/legis/cth/consolact/antsasta1999402/); 
+Input Tax Credit has the same meaning as the expression "input tax credit" has in the GST Act; 
+Supply has the same meaning given to the term "supply" in the GST Act; 
+Taxable Supply has the same meaning given to the term "taxable supply" in the GST Act; .2 Entitlement to Input Tax Credits 
+Notwithstanding the any term or condition to the contrary herein or any rule of law or equity to the contrary, the Funder is not liable for or required to pay the GST applicable to any Legal Costs or any other Taxable
+Supply made under or pursuant to this DEED including without limitation the
+Supply of legal services.
+ 
+CHM must not claim any Input Tax Credit for the GST paid or payable with respect to any Legal Costs or any Taxable Supply made under or pursuant to this DEED including without limitation the Supply of legal services unless such a claim is made by CHM for and on behalf of the Funder for the benefit for the Funder pursuant to clause 15.3 .3 Claiming Input Tax Credits 
+CHM must, when legally entitled to do so, lodge with the ATO a BAS on a quarterly basis during the period of this DEED.
+ 
+In the event that CHM is entitled to any Input Tax Credit for the GST paid or payable with respect to any Legal Costs or any Taxable Supply made under or pursuant to this DEED including without limitation the Supply of legal services, then: 
+CHM hereby assigns to the Funder the amount of any such Input Tax
+Credit to which it is entitled; 
+CHM must include the amount of the GST that has been paid or is payable with respect to such Taxable Supply in its BAS for the relevant quarter and claim such amount as an Input Tax Credit; 
+CHM must pay to the Funder the amount of the Input Tax Credit to which
+CHM is entitled claimed in its BAS within 7 days upon receipt of the refund from the ATO or in the event that the ATO credits the amount of any such Input
+Tax Credit to which CHM is entitled against any other tax liability of CHM then within 7 days of notification by the ATO that such a credit has been made.
+ . Miscellaneous .1 The written terms of this DEED constitute the entire DEED between the parties.
+ .2 Neither CHM nor the Funder intend to be partners, joint venturers or fiduciaries with or to each other. Nothing in this DEED shall constitute CHM and the Funder as partners, joint venturers or fiduciaries.
+ .3 There will be no variation or amendment to the terms of this DEED except in writing executed by each of CHM and the Funder.
+ .4 CHM and the Funder will act in good faith toward each other and be just and faithful in their dealings with each other in all matters arising out of or connected with this DEED, and save as provided for in this DEED, will not do or permit to be done anything likely to deprive any party of the benefit for which the party entered this DEED.
+ .5 CHM will use best endeavours to cause any Resolution Sum to be received or recovered as quickly as possible and particularly any settlement or judgment in respect of the claims.
+ .6 If this DEED or any part thereof is annulled, avoided or held unenforceable, CHM will forthwith do all things necessary, including without limitation executing any further or other DEED or instrument, to ensure that the Funder receives any remuneration, entitlement or other benefit to which this DEED refers or is contemplated by this DEED. CHM irrevocably agrees that production of a copy of this DEED shall be conclusive evidence of CHM's obligations as set out in this clause.
+ .7 CHM will not seek any order from any court that may detrimentally affect the Funder's rights under this DEED other than with the consent of the Funder and other than as arises out of any breach by the Funder.
+ .8 If CHM acts in breach of this DEED, clauses 2, 3, and 8 will continue to apply to any payment received by CHM in respect of the Claims.
+ . Notices .1 All notices given under this DEED shall be in writing and may be served personally, by post, facsimile or by email.
+
+The address for service of the Funder is: 
+C/- Piper Alderman Lawyers 
+Attn: Amanda Banton 
+Level 23 Farrer Place 
+Sydney NSW 2000 
+Email: abanton@piper-alderman.com.au 
+Facsimile: - (02) 9253.9900 .2 The address for service of CHM is: 
+Chameleon Mining NL 
+C/- BMAX Property 
+Attn: Anthony Karam, Director 
+Level 20 Pitt Street 
+Sydney NSW 2000 
+Tel: (02) 8226 3302 
+Facsimile: (02) 8226 3305 
+Email: akaram@alphawealth.com.au .3 Notices shall be deemed to be received on the day after they are posted and the day they are transmitted by facsimile or email.
+ . Acknowledgment .1 By executing this DEED CHM acknowledges that the Funder recommended to
+CHM that CHM first obtain legal advice as to its meaning and effect.
+
+Executed as a deed on 2008 
+Executed by ) 
+INTERNATIONAL LITIGATION 
+PARTNERS PTE LTD ) Signed: under Power of Attorney dated 1 January 2008 
+Witness: Signed: A. Banton 
+Executed by ) 
+CHAMELEON MINING NL ) Signed: Anthony Karam - Director 
+Signed: Ben Elias - Director 
+Witness: Signed: A. Banton 
+AMENDMENTS:  /09/2010 - Incorrect solicitors recorded for the first, second and third defendants - Paragraph(s) Cover sheet  
+LAST UPDATED:  September 2010 * * * 

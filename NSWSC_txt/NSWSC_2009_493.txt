@@ -1,0 +1,168 @@
+
+
+Ontario Teachers' Pension Plan Board & Anor versus Macquarie Infrastructure
+Investment Management Ltd & Anor [2009] NSWSC 493 (5 June 2009) 
+Last Updated: 9 June 2009 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Ontario Teachers' Pension Plan Board & Anor versus Macquarie Infrastructure
+Investment Management Ltd & Anor <case>  
+JURISDICTION: 
+Equity Division 
+Commercial List  
+FILE NUMBER(S):  /08  
+HEARING DATE(S):  /05/09  
+JUDGMENT DATE:  June 2009  
+PARTIES: 
+Ontario Teachers' Pension Plan Board (First Plaintiff) 
+Golden Apple Infrastructure Inc (Second Plaintiff) 
+Macquarie Infrastructure Investment Management Ltd (First Defendant) 
+Macquarie Infrastructure Group International Ltd (Second Defendant)  
+JUDGMENT OF: 
+Einstein J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+Mr J Stoljar SC, Mr D Sulan (Plaintiffs) 
+Mr M Pembroke SC, Mr J Williams (Defendants) 
+Mr N Bender (Baker & McKenzie)  
+SOLICITORS: 
+Atanaskovic Hartnell (Plaintiffs) 
+Mallesons Stephen Jaques (Defendants) 
+Baker & McKenzie  
+CATCHWORDS: 
+Notice to Produce 
+Discovery  
+LEGISLATION CITED:  
+CATEGORY: 
+Procedural and other rulings  
+CASES CITED: 
+Alister versus R (1984) 154 CLR 404 
+National Employers' Mutual General Insurance Association versus Waind and Hill <case> 
+R versus Saleam <case>; [(1989) 21 FCR 306] ; [88 ALR 90] 
+White & Tulloch versus White [(1995) 127 FLR 105]; [(1995) Fam LR 696] ; [(1995) FLC 92-640],  
+TEXTS CITED:  
+DECISION: 
+See paragraphs 12 - 33  
+JUDGMENT:  
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+COMMERCIAL LIST  
+Einstein J  
+Friday 5 June 2009  /08 Ontario Teachers' Pension Plan Board & Anor versus Macquarie
+Infrastructure Investment Management Ltd & Anor 
+JUDGMENT 
+Overview of the critical issue Although there are number of notices of motion before the Court the critical issue which separates the plaintiffs and the defendants concerns the reach of any extant entitlement which the plaintiffs may have to obtain documents from the defendants.
+ 
+Factual background A reasonable understanding of the nature of the case which the plaintiffs seek to establish may be obtained from the following suggested factual background which the plaintiff puts forward: i. The first plaintiff is a Canadian corporation. It administers the
+Ontario Teachers' Pension Plan. A large number of active and retired teachers belong to the Plan. The Plan has in excess of A$100 billion in net assets.
+ ii. The second plaintiff is a subsidiary of the first plaintiff. The plaintiffs are jointly described as "Teachers".
+ iii. The first defendant (MIIML) is: a. the trustee of the Western Sydney Orbital Funding Trust; b. the trustee of the registered managed investment schemes known as the
+Macquarie Infrastructure Trust (I) and the Macquarie Infrastructure Trust ;
+ c. the responsible entity of the said Trusts; and d. a controlled entity of Macquarie Group Limited.
+ iv. The second defendant (MIGIL) is a Bermudan registered mutual fund company.
+ v. On or about 14 February 2003 MIIML (in its own capacity and in its capacity as the trustee for the Trusts), and another entity, Macquarie
+European Infrastructure plc (MEI), entered into the Western Sydney Orbital
+Funding Trust - Reset Convertible Notes Deed Poll (Deed Poll) which provided for the issue of, and contained the terms that governed, the Reset Convertible
+Notes (ReCNs).
+ vi. On or about 14 February 2003 Teachers were issued with 300
+ReCNs. Teachers were issued with further ReCNs in satisfaction of various interest payments over the Deed Poll subsequently. Immediately prior to redemption of the ReCNs on 15 November 2006 Teachers held 796 ReCNs. As at that date the face value and accrued interest on the ReCNs was
+A$504,743,041.72.
+ vii. The Deed Poll includes the following express terms: a. MIIML must forthwith notify Teachers in writing of the occurrence of a
+Trigger Event and specify whether the Trigger Event is a MIG Trigger Event or a Project Trigger Event (clause 4.3(a) of Schedule 1 (page 43) of the Deed
+Poll); b. a notice issued by MIIML pursuant to the preceding sub-paragraph must include reasonable particulars of the relevant Trigger Event and copies of all material documents evidencing or relating to the Trigger Event sufficient for the holder of the ReCNs to determine the nature of the Trigger Event and the circumstances in which it occurred (clause 4.3(b) of Schedule 1 (page 43) of the Deed Poll); c. MIIML must promptly provide to the Holder such further information relating to the subject of a notice under clause 4.3(a) of the Deed Poll as the Holder may reasonably require in writing (clause 4.3(c) of Schedule 1 (page 43) of the Deed Poll); d. a Project Trigger Event includes a Stakeholder Approval Event (clause .8 of part B of Annexure 5 of Schedule 1 (page 82) of the Deed Poll); e. a Stakeholder Approval Event is the public announcement on the
+Australian Stock Exchange (ASX) or otherwise by the MIG Entities of a proposal to be submitted to the holders of Stapled Securities in the MIG Entities for their approval, including approval to: i. dispose of assets referred to in Chapter 10 of the ASX Listing
+Rules; or ii. redeem, buyback or reduce capital (clause 3 of part B of
+Annexure 5 (pages 86 and 87) of Schedule 1 of the Deed Poll; f. if a Project Trigger Event occurs and is subsisting, Teachers may serve a Holder Exchange Notice on MIG to redeem all of the ReCNs and exchange them for Stapled Securities in the MIG Entities (clause 4.2(a)(i) of Schedule
+S1 (page 42) of the Deed Poll); and g. if a Holder Exchange Notice is served on MIG, MIIML must among other things redeem and cancel the ReCNs for an amount equal to the aggregate of its face value and any accrued interest on that ReCN and any additional amount (clause 4.8(a) of Schedule 1 (pages 45 and 46) of the Deed Poll).
+ viii. From 2 December 2004 MIGIL had novated to it the rights, obligations and liabilities of MEI under the Deed Poll.
+ ix. On 24 August 2006 MIG announced (the 24 August Announcement) that it: a. had entered into a memorandum of understanding and exclusivity arrangement with Macquarie Infrastructure Partners (MIP) to sell 50 percent of its interest in its four US toll roads subject to conditions including MIG security holder approval at the upcoming annual general meeting (the MIP
+Transaction); b. intended to initiate an on-market buyback for a maximum of $500 million in securities to commence at 10.00am on 3 October 2006 (the Buyback).
+ x. Teachers contends, and the defendants deny, that the 24 August
+Announcement, to the extent it referred to the MIP Transaction: a. was a public announcement on ASX or otherwise by the MIG Entities a proposal to be submitted to the holders of Stapled Securities in the MIG
+Entities for their approval to an acquisition or disposal of assets referred to in chapter 10 of the ASX List Rules; and thereby, b. was a Stakeholder Approval Event, a Project Trigger Event and, thereby, a Trigger Event.
+ xi. Teachers further contends that if MIIML had performed the Deed
+Poll by notifying Teachers forthwith of the occurrence of the said Trigger
+Event, Teachers would on or shortly after 24 August 2006 have served a Holder
+Exchange Notice requiring MIIML to convert the ReCNs to Staples Securities in the MIG Entities.
+ xii. Further, on 3 October 2006 MIG released to the ASX an announcement (3 October Announcement) to the effect that Teachers' entitlement to confer the ReCNs would arise once MIG lodged with the ASX the notice of meeting containing a proposal to be voted on by MIG Security Holders in relation to: a. the MIP Transaction; or b. an increase in the maximum limit of $500 million in securities concerning the Buyback, such increase have the effect that MIG would be required to seek the approval of its security holders.
+ xiii. Again, Teachers contends, and the defendants deny, that the 3
+October Announcement, to the extent it referred to the MIP Transaction was: a. a public announcement on ASX or otherwise by the MIG Entities of a proposal to be submitted to the holders of Stapled Securities in the MIG Entities for their approval to an acquisition or disposal of assets referred to in chapter of the ASX Listing Rules; and, thereby; b. a Stakeholder Approval Event, a Project Trigger Event and, thereby, a
+Trigger Event.
+ xiv. Teachers further contends that if MIIML had performed the Deed
+Poll by notifying Teachers forthwith of the occurrence of the further Trigger
+Event Teachers would, on or shortly after 3 October 2006 have served a Holder
+Exchange Notice requiring MIIML to convert the ReCNs to Stapled Securities in the MIG Entities.
+ xv. On or about 31 October 2006 MIIML notified Teachers of a number of Stakeholder Approval Events which, it contended, had occurred on 31 October .
+ xvi. On 13 November 2006 Teachers notified MIG that it required MIG to convert its ReCNs to Stapled Securities in the MIG Entities in accordance with clause 4.2(a)(i) of the Deed Poll.
+ xvii. On 15 November 2006 MIIML redeemed and cancelled the ReCNs to satisfy the aggregate face value and accrued interest on the ReCNs of
+A$504,743,041.72 for the Exercise Price of A$3.0581425 resulting in the issue to Teachers of 165,048,894 Staples Securities.
+ 
+The case management of the discovery/notice to produce parameters to date Matters dealing with case management concerning discovery were before
+Hammerschlag J on 18 March 2009. As will appear from what follows, his Honour then indicated that documents which were in existence as at a particular point in time and which indicated what had happened with respect to the transactions, [vide the state of development of the contemplated transactions referred to in the memorandum of understanding] should be produced.
+ Almost immediately following that indication his Honour answered a question from Mr Pembroke as to whether what was proposed would require 'looking back' as follows: "It may. We may have to work out a regime. We may have to work something out, Mr Pembroke, as far as that is concerned." In the result as the orders made on 18 May 2009 make clear, Hammerschlag J required that the defendants give discovery of documents: "which evidence the state on 24 August 2006 and 3 October 2006 of all transactions which were contemplated in the Memorandum of Understanding referred to in the first dot point of the AXS. Release dated 24 August 2006".
+ As the transcript on that occasion makes clear Mr Pembroke asked whether the
+Court had in mind draft action for the MIP Transaction in the form on or immediately prior to 24 August or 30 October 2006. His Honour responded by saying inter alia: "That is all I propose to order with respect to discovery at this time. I am leaving that question open Hammerschlag J then made clear that although it had not yet been asked for, he intended to give the plaintiffs leave to serve a notice to produce. In the result the notices of motion for present consideration generally sought to set aside the plaintiffs later notice to produce and to set aside various subpoenas also later issued to outside parties.
+ Naturally the determination of precisely which documents may require to be discovered is often a close one. Equally where questions are left open for further examination and ultimately recur for consideration, the matter being remaining interlocutory must be dealt with.
+ Importantly the whole of the issue which has had to be revisited on the current strongly contested motions concern 'relevance' and to a certain extent a suggestion of oppression even extending to an abuse of process. The defendants contend that to require them to provide the vast panoply of documents now sought would be an inappropriate exercise of the Court's discretion bearing in mind the parameters of any such requirement.
+ 
+The principles Whilst it is true that the current environment has arisen in relation to challenges to the plaintiffs notice to produce it may be thought that there is a certain artificiality in taking ones eye off the general case management parameter which would normally require the principles concerning what are and are not discoverable documents to be the lodestar determining the issue.
+ Nonetheless and approaching the matter in purist fashion, it is convenient to note the statements of principle by Brereton J in Portal Software
+International Pty Ltd versus Bodsworth <case> His Honour identified the test for relevance in the context of subpoenas or notices to produce as follows (at [23] - [25]): 
+It is necessary, then, to appreciate what is the test of "relevance" in the context of a subpoena. In many of the cases, it had been described as "apparent relevance", in the sense that the documents, production of which is sought, must bear some apparent relevance to an issue in the proceedings. In
+Waind and Hill, Moffitt P described the concept in these terms: 
+Production of a document on subpoena by a stranger is only required if the document is sufficiently relevant to the action in the sense that it is likely to add in the end, in some way or other, to the relevant evidence in the case.
+
+In White versus Tulloch [(1995) 127 FLR 105]; [ [(1995) Fam LR 696](/cgi-bin/LawCite?cit=%281995%29%2019%20Fam%20LR%20696 "View
+LawCiteRecord" )](http://www.lexisnexis.com:80/au/legal/search/runRemoteLink.do?service=citation&langcountry=AU&risb=21T6633791909&A=0.9161270148178772&linkInfo=F%23AU%23Fam+LR%23year%251995%25page%25696%25decisiondate%251995%25vol%2519%25sel2%2519%25sel1%251995%25&bct=Aparent) ; [(1995) FLC 92-640], the Full Court of the Family Court referred to the test in terms of documents having "a sufficient apparent connection to justify their production or inspection". But perhaps the most instructive description is that of Beaumont J in Arnotts, in which his Honour said that the test of adjectival relevance was satisfied if the material had apparent relevance and was established if the documentation called for "could possibly throw light on the issues in the main case". In a slightly different but related context, the test has been put in terms that a subpoena has a legitimate forensic purpose if it appears to be "on the cards" that the documents sought will materially assist the defence in a criminal proceeding [Alister versus R (1984) 154 CLR 404 at 414 (Gibbs CJ), R versus Saleam [ [(1989) 16 NSWLR 14](/cgi- bin/LawCite?cit=%281989%29%2016%20NSWLR%2014 "View LawCiteRecord" )](http://www.lexisnexis.com:80/au/legal/search/runRemoteLink.do?service=citation&langcountry=AU&risb=21T6633791909&A=0.5057323329955372&linkInfo=F%23AU%23nswlr%23year%251989%25page%2514%25decisiondate%251989%25vol%2516%25sel2%2516%25sel1%251989%25&bct=Aparent) at 18].
+ 
+Thus it is plainly not the question at this (first) stage whether the documents, production of which is sought, will definitely advance the case of the parties issuing the subpoena, nor whether they will be admissible in evidence at the trial. It is sufficient that they could "possibly throw light" on the issues in the substantive proceedings, or that it appears to be "on the cards" that they will do so. What are the issues in the proceedings will appear from the pleadings (where there are pleadings), the affidavits, and the legal principles which govern the claims for relief in the substantive proceedings.
+ The formula covering "documents that are in existence as at a particular occasion which indicate what has happened with respect to the transactions the subject of development of the contemplated transactions referred to in the memorandum of understanding" may be thought to exhibit the possibility of ambiguity. More particularly the answer given by Hammerschlag J to Mr
+Pembroke's question [transcript 18 March 2009 line 10] "But would that require looking back," was, "It may...".
+ Before proceeding further it has to be noted that aside from the central question of construction relating to what are the essential elements of the definition of 'Stakeholder Approval Event' within the meaning of the Deed
+Poll, there is also a matter of fact for consideration.
+ The factual issue concerns whether the proposal referred to in the subject announcement/s were sufficiently well-developed or certain to be characterised as "proposals to be submitted" to MIG security holders, such that its announcement was indeed a 'Stakeholder Approval Event" to be so submitted.
+ 
+Dealing with the matters which remain for decision concerning the notice to produce It appears that KPMG was likely assessing the proposal contemplated by the August Announcement to determine whether it was fair and reasonable to security holders. Presumably it could only have arrived at any conclusion in respect of this issue after a careful consideration of the proposal as it was formulated at the time of KPMG's initial engagement (8 September 2006) or report (10 October 2006).
+ It will be recollected that the defendants have been ordered to give discovery of all documents which evidence, among other things: 
+The state on 24 August 2006 and 3 October 2006 of all transactions which are contemplated in the Memorandum of Understanding referred to in the fifth dot point of the first defendant's release to the ASX dated 24 August 2006.
+ The "proposal" contemplated by the 24 August Announcement was promulgated in the Memorandum of Understanding referred to in the said order above. In determining whether the proposal was fair and reasonable to MIG security holders KPMG would likely have had regard to, among other things, documents evidencing the transactions contemplated in the memorandum of understanding.
+That is in substance what they sought in their engagement letter, and what was provided to them for the purposes of their report (see Appendix 2 to the KPMG
+Report).
+ However as is apparent from what follows in the rulings, certain of the documents sought in the notice to produce seem clearly to fall outside the legitimate ambit of the issues to be litigated.
+ 
+Paragraph 12 The plaintiffs have agreed to restrict paragraph 12 such that it is limited to documents which "record the seeking or giving of" the relevant approval.
+That approach represents a reasonable compromise in the circumstances and is accepted and to be the subject of the relevant order to be made 
+Paragraph 13 This paragraph is disallowed. It seeks voluminous documents relating to the underlying sale of the toll road interests. It appears to be aimed at obtaining documents which are irrelevant to any the issue.
+ 
+Paragraph 16 The documents sought in paragraphs 16 are to be provided only to the extent that they were created on or after 5 September 2006 
+Paragraph 17 The documents sought in paragraph 17 to be provided only to the extent that they were created on or after 5 September 2006 
+Paragraphs 18 The documents sought by the plaintiffs in paragraph 18 of the notice to produce suffer from: i. the vice that there is insufficient definition limiting the extent to which the defendants may need to go to provide such documents; ii. the width of the information requirements set out in appendix 2 of the KPMG communication of 8 September 2006.
+ It is appropriate to set aside paragraphs 18 of the notice to produce.
+ 
+Paragraph 19 The position with respect to paragraph 19 is somewhat different. The vice concerning the failure to define the extent to which the defendant may need to go to provide such documents is no longer present. That notwithstanding, a mere glance at the information requirements [cf court documents volume 1 tab ] points up how inappropriate production of most of those information requirements would be in relation to the current issues to be litigated.
+ However in so far as the documents called for involve the material described in the penultimate bullet point on page 11 reading: "Copies of Board minutes/due diligence meetings /presentations etc which outline the current Proposed Transaction and reasoning" that material should be produced but limited to the documents called for in the notice to produce.
+ 
+Paragraph 20 In my view the plaintiffs are only entitled to the documents described in appendix 2 of the letter from Macquarie Infrastructure Partners Inc of 15
+September 2006 [on page 2] as "Copy of financial model including details as to particular assumptions and the basis of the selection thereof".
+ 
+Paragraph 21 Subject to excising the words 'or prior to', the defendants are to provide the documents sought in this paragraph subject to a condition. The condition will require the plaintiffs to pay the reasonable costs of the defendants in complying with the requirement to provide these documents. Ultimately those costs will be costs of the proceedings.
+ 
+Paragraph 22 The defendant's are to provide the documents sought in this paragraph subject to the same condition as is stipulated in relation to paragraph 21.
+ 
+Remaining matters During the hearing of the motions the subpoena issued to the Chairman of
+Baker McKenzie on 1 April 2009 was set aside and an order was made that Baker
+McKenzie's costs of and occasioned by the subpoena and the appearances in court in relation thereto be paid by the plaintiffs.
+ Insofar as the remaining challenges to subpoenas are concerned the parties tended to address on the basis that the same submissions were put forward as had to be dealt with in terms of the central challenge by the defendants to the nominate paragraphs of the notice to produce. The usual rule that the party answering a subpoena is entitled to its reasonable costs will apply.
+ Presumably the parties, suitably tutored by the approach taken in the above reasons, will be in a position to bring forward short minutes of order to cope with all of the outstanding issues.
+ 
+Reserved ruling An objection was taken to the meaning of certain paragraphs of the affidavit of Ms Pickford of 28 May 2009. Paragraph 25 c of that affidavit was not read. The balance of the materials which were the subject of objection are allowed.
+ 
+Short minutes The parties are to bring in short minutes of order. Costs will be determined by the production of written submissions which will be determined on the papers.
+ 
+LAST UPDATED:  June 2009 * * * 

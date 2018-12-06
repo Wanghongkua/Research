@@ -1,0 +1,273 @@
+
+
+BB Retail Capital Pty Ltd versus Alexandria Landfill Pty Ltd [2014] NSWSC 1363 (3 October 2014) # [![\[AustLII\]](1363.1.gif)](http://www.austlii.edu.au/) Supreme Court of
+New South Wales Decisions [[Index](index.html)] [[Search](/cgi-bin/sinoform.pl)] [[Download](1363.rtf)] [[Help](/help/cases-help.html)] * * * 
+BB Retail Capital Pty Ltd versus Alexandria Landfill Pty Ltd [2014] NSWSC 1363 (3 October 2014) 
+Last Updated: 8 October 2014 |
+
+Supreme Court 
+New South Wales  
+Case Title: 
+BB Retail Capital Pty Ltd versus Alexandria Landfill Pty Ltd  
+Medium Neutral Citation: <case>  
+Hearing Date(s): September 2014  
+Decision Date: October 2014  
+Jurisdiction: 
+Equity Division - Commercial List  
+Before: 
+Stevenson J  
+Decision: 
+Notes converted at the rate in terms of issue and level of "organic debt" determined  
+Catchwords: 
+CONTRACT - construction - variation of contract - convertible notes - whether plaintiff's convertible notes were converted at the rate specified in the terms of issue or whether the parties "otherwise agreed" - whether particular debt comprised "organic debt"; PRACTICE AND PROCEDURE - Blatch versus Archer principle - whether inference available as to defendants' expert instructions  
+Cases Cited: 
+Blatch versus Archer <case>; <case>; <case>; 88
+ALJR 44 
+Federal Commissioner of Taxation versus Roberts & Smith <case>; <case>; [76 NSWLR 603] 
+Gerard Cassegrain & Co Pty Limited versus Cassegrain <case> 
+Pacific Carriers Ltd versus BNP Paribas <case>; <case>; CLR 165  
+Texts Cited: 
+J W Carter, The Construction of Commercial Contracts, (2013, Hart Publishing)  
+Category: 
+Principal judgment  
+Parties: 
+BB Retail Capital Pty Limited (Plaintiff) 
+Alexandria Landfill Pty Limited (First Defendant) 
+Ian Raymond Malouf (Second Defendant)  
+Representation - Counsel: 
+Counsel: 
+N Hutley SC with J Williams and T Russell (Plaintiff) 
+B W Walker SC with K Smark SC and D Healey (Defendants)  - Solicitors: 
+Solicitors: 
+Gilbert & Tobin (Plaintiff) 
+HopgoodGanim (Defendants)  
+File Number(s): 
+SC 2013/68976  
+JUDGMENT 
+Introduction
+By a deed made between the plaintiff, BB Retail Capital Pty Ltd ("BBRC"), the first defendant, Alexandria Landfill Pty Ltd ("ALF"), and the second defendant, Mr Malouf on 1 December 2010 ("the December Deed"), BBRC became the holder of $30 million of convertible notes issued by ALF. The notes matured on 1 January 2013 and converted into preference shares in ALF. The dispute between the parties relates to the number of preference shares to which BBRC was entitled to be issued on conversion of its convertible notes.
+BBRC claims that it was entitled to be issued with the number of preference shares dictated by the conversion formula in cl 7.5(a) of the Terms of Issue of the convertible notes. The defendants accept that $10 million of BBRC's convertible notes were converted into preference shares at that rate. However, the defendants claim that the remaining $20 million of BBRC's notes converted on a "$1.00 for 1 share" basis.
+To the extent that BBRC's convertible notes were to convert to preference shares in accordance with the formula in cl 7.5(a) of the Terms of Issue, it is necessary to determine the amount of "Organic Debt" in the ALF group on the conversion date (1 January 2013), since this is an integer in the conversion formula. Resolution of this issue will yield the number of preference shares to which BBRC was entitled upon conversion.
+I have been greatly assisted by the written and oral submissions I have received from Mr Hutley SC, who appeared with Mr Williams and Mr Russell for BBRC, and Mr Walker SC, who appeared with Mr Smark SC and Mr Healey for the defendants. Much of what follows is drawn, with gratitude, from those submission.
+The proceedings were conducted with admirable economy. Many issues alive in the pleadings were, shortly before the hearing, either resolved or not pressed. The Court Book, originally comprising six volumes, was reduced to one volume. The hearing, scheduled for three days, was concluded in one day.
+At the outset of the hearing, both parties filed amended pleadings to reflect the significant narrowing of issues.
+A question of costs arises in relation to those amendments. I will deal with that issue at the conclusion of these reasons.
+
+Decision
+The conclusion to which I have come is that BBRC's $20 million convertible notes converted into preference shares at the rate specified in cl 7.5(a) of the Terms of Issue, and not on a "$1.00 for 1 share" basis.
+So far as concerns the remaining disputes about "Organic Debt", my conclusion is that one of the amounts said by BBRC to comprise "Organic Debt" did so, and that the others did not.
+It is common ground that, in these circumstances, ALF has issued insufficient shares to BBRC (and to two other note holders who are not parties to these proceedings) and too many shares to Mr Malouf. A calculation will now need to be made of the number of shares that should have been issued to BBRC and Mr Malouf.
+
+Factual background
+ALF is the ultimate holding company of Dial-A-Dump Industries Pty Ltd which conducts waste collection, transportation, disposal and recycling operations. ALF owns and operates a recycling and waste facility at Eastern Creek. The site was acquired from Valad Funds Management Ltd in 2006. Valad provided vendor finance for the purchase.
+Mr Malouf is the managing director and company secretary of, and the holder of all ordinary shares in, ALF.
+
+The Deed Poll
+On 5 January 2009, a Deed Poll was made by ALF, Mr Malouf and others in relation to the issue of convertible notes by ALF.
+The Deed Poll recited that: "[ALF] may from time to time issue Convertible Notes on the terms and conditions contained in this document and the Terms of Issue."
+Clause 2 of the Deed Poll provided: "(a) Each Convertible Note is a debt obligation of [ALF] constituted by, and owing under, this document...
+
+Each Convertible Note is issued on, and subject to, the provisions of this document, including the Terms of Issue." 
+The Terms of Issue
+Clause 7.1 of the Terms of Issue provided that: "Unless [ALF] and a Note Holder otherwise agree, a Convertible Note may not be converted other than in accordance with this clause 7." (emphasis added)
+The critical issue which divides the parties is whether by reason of the documents executed on 1 December 2010, and in particular the December Deed, ALF and BBRC "otherwise agreed" for the purpose of cl 7.1.
+Clause 7.2 of the Terms of Issue provided that the maximum aggregate face value of the convertible notes to be issued would be $70 million.
+Clause 7.4 of the Terms of Issue provided that convertible notes would convert to "fully paid preference Shares" in ALF which would rank in priority to all other shares on a winding up but pari passu with all other shares for dividends and other entitlements.
+Clause 7.5(a) dealt with "Conversion" and was in the following terms: "A Note Holder will receive on Conversion Preference Shares so that its holding in [ALF] is represented by the formula A/B where: 
+A is the Face Value of the Note Holder's Convertible Notes; and 
+B is $280 million (being the agreed value of the Group) less any Organic Debt.
+
+Under no circumstances will a Note Holder receive less that 1/280 million ownership in the Group for each $1.00 Face Value."
+Thus, what was contemplated by the Terms of Issue was that, absent early redemption, note holders would, in due course, acquire at least a 70/280 (that is 25 per cent) interest in ALF. 
+Further, each note holder would receive no less than a number of shares equal to the dollar value of its notes. Thus, BBRC would receive a minimum of 10 million shares for its $10 million notes and 20 million shares for its $20 million notes.
+By cl 7.12(g) of the Terms of Issue, Mr Malouf warranted that: "[H]e will endeavour to have the Group open a waste transfer station and refuse tip at Eastern Creek, have the Group borrow money for the establishment of that facility, and retire that debt by the Maturity Date [that is 1 January ]".
+Thus, what was also contemplated was that the Group borrowings used to establish the facility (a component of "Organic Debt", which I discuss in more detail below) would be retired by the date on which the notes were to convert to shares. In that event, the denominator in the calculation of A/B in cl 7.5(a) would remain $280 million, and each note holder would receive one share for each dollar of convertible note held (that is "$1.00 for 1 share"). If, however, and as has happened, there was in existence "Organic Debt" on the Maturity Date, the denominator in the calculation would decrease and thus the number of shares to which the note holder was entitled would increase.
+As I have said, ALF does not now dispute that the conversion rate for BBRC's $10 million notes is to be calculated in accordance with cl 7.5(a). As ALF now accepts that there was some "Organic Debt" on the Maturity Date (see [111] below), BBRC was entitled to receive more than 10 million preference shares for its $10 million notes. However, ALF contends that, in December 2010, and particularly by reason of the December Deed, the parties agreed to vary the conversion formula for BBRC's $20 million notes, so that those notes converted on a "$1.00 for 1 share" basis, regardless of the state of "Organic Debt".
+Clause 8.1 of the Terms of Issue provided that: "Unless [ALF] and Note Holder otherwise agree, a Convertible Note may not be redeemed other than in accordance with this clause 8."
+That provision is significant because, as is common ground, by the December Deed, ALF and BBRC did "otherwise agree" for the purpose of this clause.
+
+Events thereafter
+On the date of the Deed Poll, 5 January 2009, ALF issued $20 million of convertible notes to Valad in partial satisfaction of the debt owed to Valad on the acquisition of the Eastern Creek site. 
+Between 5 January 2009 and 14 December 2009, ALF issued further convertible notes to other investors (not including BBRC). These became known as the "Tranche 1" notes. The proceeds of the Tranche 1 notes were principally used to repay Valad.
+Between 18 February 2010 and 18 November 2010, ALF issued further convertible notes to other investors (again not including BBRC). These became known as the "Tranche 2" notes. 
+In late 2009, Dial-A-Dump published a "Disclosure Statement" (which, in the December Deed, BBRC acknowledged had been provided to it) in respect of "Tranche 2" which stated, under the heading "Conversion of the Note to Equity": "Should the investor decide to convert the loan to equity then they will be issued shares at the rate of $1.00 per share in replacement of the loan amount."
+In late 2010, ALF required further funds to redeem the remaining convertible notes held by Valad. ALF approached Westpac Banking Corporation for a further loan of $22 million. Westpac required a first mortgage over the Eastern Creek land.
+On 8 November 2010, Mr Malouf met Mr Brett Blundy from BBRC to discuss a potential investment by BBRC in ALF.
+On 14 November 2010, Mr Blundy sent an email to Mr Malouf with a $30 million investment proposal on behalf of BBRC. The proposal comprised two parts. First, a $20 million note on the same terms as the proposed Westpac funding with a "predetermined exit" in the form a put option to be exercisable by BBRC. The second part was a $10 million note on the same terms as the existing note holders.
+On 17 November 2010, Mr Blundy sent Mr Malouf a "Draft Term Sheet" in respect of the proposed $20 million note which stated, under the heading "Conversion": "Rate of Conversion: the note will convert to equity at a rate of $1.00 per share per $1.00 of the value of the note."
+On 18 November 2010, Mr Malouf replied attaching a further "Terms Sheet/Heads of Agreement" which included: "The signatories...have agreed...
+ On 24th November 2010 [BBRC] will pay and subscribe for $10 Million in
+T2 Convertible Notes in [ALF].
+ BBRC will make additional payments as subscriptions totaling $20 Million in
+T2 Convertible Notes in [ALF] on the following dates th November 2010 $5,000,000 
+St January 2011 $5,000,000 st February 2011 $3,000,000 st March 2011 $3,000,000 st April 2011 $1,000,000 th May 2011 $3,000,000".
+In the proceedings, BBRC objected to these documents on the basis they were part of negotiations and not receivable. Mr Hutley and Mr Walker agreed, however, that the documents could form part of the Court Book and be dealt with in this judgment.
+ALF relied on these documents to support its contentions as to the proper construction of the December Deed and submitted that, although they formed part of the negotiations leading up to execution of the December Deed, they constituted "objective background facts which were known to both parties and the subject matter of the contract" (per Mason J in Codelfa Construction Pty Ltd versus State Rail Authority  <case>; [149 CLR 337] at 352). I do not see the documents this way. In my opinion they constitute "statements...of the parties which are reflective of their actual intentions and expectations" (per Mason J in Codelfa at 352) and are not admissible.
+In any event, for the reasons I explain below, I see these documents as being equivocal in relation to the critical question.
+
+The 1 December 2010 documents
+On 1 December 2010, BBRC, ALF and Mr Malouf (and other parties) executed a number of documents.
+
+The December Deed
+By cl 10 of the December Deed, BBRC agreed to subscribe for the $10 million notes and the $20 million notes. These were described as the "BBRC Convertible Notes" and were to be issued in the following tranches: 
+Tranche A - $10 million - to issue on 30 November 2010 
+Tranche B - $20 million - to issue as follows: as to $5 million on 30 November 2010 as to $5 million on 21 January 2011 as to $3 million on 21 February 2011 as to $3 million on 21 March 2011 as to $1 million on 21 April 2011 as to $3 million on 20 May 2011.
+The notes stated to be issued on 30 November 2010 were, in fact, issued on 1 December 2010.
+Clause 10 provided: "(a) Subject to satisfaction of the conditions precedent set out in clause b), BBRC must subscribe for BBRC Convertible Notes [that is all of the $30 million convertible notes referred to above]. Upon subscription [Mr Malouf] must procure that the BBRC Convertible Notes are issued pursuant to the [Terms of Issue], the Deed Poll and the terms of this deed. Upon subscription, the
+BBRC Convertible Notes must be subscribed for and issued on those terms and the terms of this deed and on the basis that BBRC enjoys the benefits of the [Terms of Issue], the Deed Poll and the warranties in the [Terms of Issue] in the [tranches outlined above].
+
+Any subscription by BBRC for the BBRC Convertible Notes is conditional upon: the consent of the existing Noteholders to BBRC obtaining a first priority registered mortgage over [certain land]; a registered mortgage over [that land] in favour of BBRC; and execution of the Priority Deed by each party to that deed." (emphasis added)
+ALF relied upon the passages emphasised in cl 10(a) in support of its argument that, by the December Deed, BBRC and ALF "otherwise agreed" for the purpose of cl 7.1 of the Terms of Issue.
+By cl 4 of the December Deed, Mr Malouf gave BBRC the option to require him to purchase the "Specified Option Preference Shares" for a fixed exercise price of $29,966,285 ("the Put Option").
+Clause 4.1 provided: "In consideration of the subscription by BBRC for the BBRC Convertible Notes, [Mr Malouf] irrevocably grants to BBRC the option to require [Mr Malouf] to purchase the Specified Option Preference Shares for the Exercise Price [$29,966,285]."
+The expression "Specified Option Preference Shares" was defined as: "Twenty million preference shares in the issued capital of [ALF]."
+The above provisions were contained in the December Deed under the heading "Operative Part".
+On the page of the December Deed immediately preceding the "Operative Part", the following appeared: "Background BBRC will be the legal and beneficial owner of the Specified Option
+Preference Shares in the issued capital of [ALF] upon conversion of BBRC
+Convertible Notes with a face value of $20 million.
+ [Mr Malouf] has agreed to grant the Put Option to BBRC on the terms and conditions set out in this deed.
+
+This deed witnesses that in consideration of BBRC subscribing for the BBRC Convertible Notes in [ALF] to the face value of $30 million and among other things, the mutual promises contained in this deed the parties agree as set out in the Operative part of this deed."
+Although not so named, these passages are, in effect, recitals to the December Deed (and were so described in the course of submissions).
+ALF relies upon the material described as "Background" as evidence that BBRC and ALF "otherwise agreed" for the purpose of cl 7.1 of the Terms of Issue. Indeed, in its written submissions, ALF said that such an agreement was "manifested in the Background recital". Mr Walker's oral address focussed on this aspect of the December Deed.
+The December Deed also contained a "Supplementary Option Provision" in cl 4.3 in the following terms: "a) Subject to clause 4.3c), if, prior to the Maturity Date, [Mr Malouf] dies, suffers total incapacity or, in BBRC's reasonable opinion, ceases to be in active direct management control of the operational, financial and strategic direction of the Business Enterprise, BBRC may elect to require the BBRC
+Convertible Notes to be redeemed on the Maturity Date in accordance with clause 8.2 of the [Terms of Issue]. This right is without prejudice to BBRC's rights under clause 8.3 of the [Terms of Issue].
+ b) Subject to clause 4.3c), if, after the Maturity Date, [Mr Malouf] dies, suffers total incapacity or, in BBRC's reasonable opinion, ceases to be in active direct management control of the operational, financial and strategic direction of the Business Enterprise, BBRC may exercise the Put Option at a price equal to the amount of the Exercise Price less $9,194 per day for each day between the date of exercise of the Put Option and 1 July 2015."
+This provision is important because, as I have mentioned, it is common ground that, by its terms, the parties did "otherwise agree" for the purpose of cl 8.1 of the Terms of Issue (see [26] and [27] above).
+Clause 1.6 of the December Deed provided: "If there is any inconsistency between the terms of this deed and the [Terms of Issue] or the Deed Poll, this deed prevails to the extent of any inconsistency."
+Clause 15.6 provided: "This deed states all the express terms of the agreement between the parties in respect of its subject matter. It supersedes all prior discussions, negotiations, understandings, arrangements and agreements, express or implied in respect of its subject matter." 
+The Priority Deed
+On 1 December 2010, BBRC, ALF and Denarke Pty Ltd (the trustee for note holders) executed a Priority Deed which, in substance, gave BBRC priority over other note holders for the "First Priority Amount" of $20 million over certain "development land" at Eastern Creek during construction.
+
+Deed of Accession 
+On 1 December 2010, BBRC also executed a Deed of Accession by which it obtained the benefit of the existing security trust in favour of all note holders, including the first registered mortgage over the waste facility land.
+
+The Call Option
+By further deed executed by BBRC, ALF and Mr Malouf, BBRC gave Mr Malouf an option to require BBRC to sell to Mr Malouf the "Specified Option Preference Shares" (defined in the same terms as in the December Deed). The Call Option was for a different price, and exercisable at a different time than the Put Option contained in the December Deed. The Call Option appears to have no continuing significance as on the same day it was executed, 1 December 2010, Mr Malouf executed an "Acknowledgment and Waiver in Relation to Call Option Deed" under which he "unconditionally and irrevocably" waived his right to exercise the Call Option. The circumstances in which this occurred were not made clear at the hearing.
+
+Applications for issue of convertible notes
+On 1 December 2010, BBRC also executed applications for the convertible notes to be issued pursuant to the December Deed.
+Certificates issued for convertible notes was as follows: December 2010 $10 million December 2010 $5 million January 2011 a further $5 million February 2011 $3 million March 2011 $3 million April 2011 $1 million May 2011 $3 million
+Convertible notes were issued to BBRC is accordance with this timetable. 
+Each of the Certificates stated: "The Convertible Notes are issued with the benefit of the rights and subject to the restrictions and obligations contained in the Deed Poll dated [23
+December 2008] [sic] and the Terms of Issue which form Schedule [1] to that
+Deed Poll (as each may be amended from time to time). Note Holders are entitled to the benefit of, and are bound by, and are taken to have notice of, all of the provisions of the Deed Poll and its schedules, including the Terms of Issue."
+Although the Certificates referred to a deed poll of 23 December 2008, it was common ground, as I understand it, that the reference was intended to be to the Deed Poll of 5 January 2009.
+Further, although the Certificates made no reference to the December Deed, BBRC accepted (and indeed relied upon the fact that) the December Deed altered, to some extent, the terms on which the convertible notes were issued to BBRC.
+
+Events thereafter
+On 4 November 2011, Mr Malouf wrote to all convertible note holders stating that a delay in the commencement of the Eastern Creek facility had resulted in ALF carrying a greater amount of debt for a longer period than anticipated. Mr Malouf said that there would likely be debt remaining at the time of conversion, and asked note holders to agree to a variation of the Terms of Issue so that notes would convert at 110 per cent of their face value rather than pursuant to the formula in cl 7.5(a) of the Terms of Issue. Note holders did not agree to that proposal.
+A year later, on 30 November 2012, Mr Malouf wrote to all convertible note holders stating that, because of delays and additional costs in developing the Eastern Creek facility, the level of "Organic Debt" was well above levels originally forecast for 31 December 2012. Mr Malouf proposed an amendment to the Terms of Issue so that upon conversion each note holder would be issued with one share for each $1.00 value of notes held plus a cash payment of 15 per cent of the face value of the convertible notes. BBRC rejected this proposal.
+On 20 December 2012, Mr Malouf put a revised proposal to all convertible note holders. That proposal was that note holders be issued with one preference share for each $1.00 of convertible notes held, plus a proportionate share of the 10.3 million notes being redeemed, plus a 15 per cent uplift in cash or further shares, plus an additional 7.5 per cent bonus in cash or additional shares. Many note holders accepted that offer. BBRC rejected it.
+On 31 December 2012, ALF resolved to issue 78,122,411 preference shares to convertible note holders (including BBRC) on conversion of their notes. That number was derived in accordance with Mr Malouf's 20 December 2012 proposal, and not in accordance with cl 7.5(a) of the Terms of Issue. The number of preference shares issued to BBRC was 37,857,858. That figure was calculated in the same manner as was the case for other note holders. No distinction was made between the $10 million notes (Tranche A referred to at [41] above) and the $20 million notes (Tranche B referred to at [41] above).
+
+The issues 
+Following the amendments made to ALF's case at the outset of the hearing, and what BBRC said were consequential amendments to its case, the following issues remain.
+First, at what rate did the $20 million of convertible notes subscribed to by BBRC (that is the "Tranche B" notes) convert to preferences shares? In substance, the question is whether the parties "otherwise agreed" for the purpose of cl 7.1 of the Terms of Issue that those notes not convert in accordance with the formula at cl 7.5(a) of the Terms of Issue but, rather, on a "$1.00 for 1 share" basis.
+The second issue is the level of "Organic Debt" of the ALF group as at 1 January 2013. 
+The construction issue - principles
+There was no dispute before me as to the principles that should be adopted in relation to the construction of the various documents to which I have referred.
+The matter is, of course, to be determined objectively by reference to what a reasonable person would have understood the terms to mean; see, for example, most recently Newey versus Westpac Banking Corporation  <case> at <case> per Gleeson JA (with whose conclusions Basten and Meagher JJA agreed) citing the familiar cases of Pacific Carriers Ltd versus BNP Paribas  <case>; [218 CLR 451]; 88 ALJR 44 where French CJ, Hayne, Crennan, Kiefel JJ said at [35]: "...this Court has reaffirmed the objective approach to be adopted in determining the rights and liabilities of parties to a contract. The meaning of the terms of a commercial contract is to be determined by what a reasonable businessperson would have understood those terms to mean. That approach is not unfamiliar. As reaffirmed, it will require consideration of the language used by the parties, the surrounding circumstances known to them and the commercial purpose or objects to be secured by the contract. Appreciation of the commercial purpose or objects is facilitated by an understanding 'of the genesis of the transaction, the background, the context [and] the market in which the parties are operating'. As Arden LJ observed in Re Golden Key Ltd, unless a contrary intention is indicated, a court is entitled to approach the task of giving a commercial contract a businesslike interpretation on the assumption 'that the parties...intended to produce a commercial result'. A commercial contract is to be construed so as to avoid it 'making commercial nonsense or working commercial inconvenience'." (citations omitted)
+So far as concerns recitals, Professor Carter summaries the position as follows: "Under the modern law, the only general principal in relation to recitals is that they are part of the contract. Their precise role in construction depends on what - in the circumstances - they are intended to achieve, and the relationship intended by the parties between the recitals and the operative part of the document. Difficulties in reconciling a recital with the operative part of a document are resolved under general principals, rather than by applying formal rules, such as that recitals are necessarily subordinate, to be taken into account only in cases of ambiguity. Moreover, any idea that the operative part necessarily prevails over a recital has never been applied consistently." J W Carter, The Construction of Commercial Contracts, (2013,
+Hart Publishing) at [13-37], (citations omitted).
+In Franklins Pty Ltd versus Metcash Trading Ltd  <case>; [76 NSWLR 603] where Campbell JA (with whom Allsop P and Giles JA relevantly agreed) observed at [390]: "That a recital can be looked at as part of the surrounding circumstances of the contract still leaves room for the rule...that where the recital is in conflict with the true interpretation of an operative provision (according to the modern standards of interpretation), the operative provision prevails.
+Strictly speaking, that is not so much a rule of construction as a reflection of the fact that recitals are not operative provisions in a contract." 
+The construction issue - application
+As I have mentioned, the Terms of Issue provided for two occasions upon which the parties could "otherwise agree"; in cl 7.1 (as to the manner in which "Convertible Notes" would convert to "Conversion Preference Shares"), and in cl 8.1 (as to the manner in which a convertible note could be redeemed).
+It is common ground that the effect of cl 4.3 of the December Deed (see [52] and [53] above) is that the parties did "otherwise agree" for the purpose of cl 8.1 of the Terms of Issue.
+In cl 4.3 of the December Deed, the parties did not, in terms, state that they did so "otherwise agree". However, in cl 4.3 the parties made specific reference to cll 8.2 and 8.3 of the Terms of Issue and made provision for redemption which is plainly different from, and inconsistent with that in the Terms of Issue. Pursuant to cl 8.1 of the Terms of Issue, convertible notes could not be redeemed otherwise than in accordance with cl 8. The provision for redemption by BBRC provided for in cl 4.3 of the December Deed (in effect, if Mr Malouf ceased to have active direct management of ALF) was quite different to that in cl 8 of the Terms of Issue.
+Mr Walker accepted that the provision in cl 4.3 "necessarily meant" that the parties had "otherwise agreed" for the purpose of cl 8.1 of the Terms of Issue.
+ALF submitted that the terms of the December Deed also revealed that, so far as concerns BBRC's $20 million notes (but not so far as concerns its $10 million notes) the parties had "otherwise agreed" for the purposes of cl 7.1 of the Terms of Issue. That is, ALF submitted that the parties had, as a matter of fact, agreed to vary the terms on which BBRC's $20 million notes would convert from that specified in cl 7.5(a) of the Terms of Issue to a rate "$1.00 for 1 share". The effect of the agreement for which ALF contended was that the parties had agreed that any "Organic Debt" of ALF as at 1 January 2013 would not be taken into account on conversion.
+As I have said, the focus of ALF's argument was on the "Background" recital to the December Deed which, for convenience, I will set out again here (incorporating the defined term "Specified Option Preference Shares" and omitting the repetition of the words "in the capital of the Company" which arises from such incorporation): "1. BBRC will be the legal and beneficial owner of the [twenty million preference shares] in the issued capital of [ALF] upon conversion of BBRC
+Convertible Notes with a face value of $20 million.
+[Mr Malouf] has agreed to grant the Put Option to BBRC on the terms and conditions set out in this deed."
+ALF submitted that this provision compelled the conclusion that the parties had agreed that, upon conversion of BBRC's $20 million notes, it would thereby be entitled to only 20 million shares in ALF; that is, to use Mr Walker's words, that 20 million preference shares in ALF would "exhaust the conversion".
+I do not accept this submission.
+By cl 10 of the December Deed, the parties agreed that the notes for which BBRC was subscribing would be issued pursuant to, amongst other documents, the Terms of Issue.
+The language used by the parties in cl 4.3 of the December Deed (the effect of which was to "otherwise agree" for the purpose of cl 8.1 of the Terms of Issue) show that they were conscious of the need to be quite specific about any agreement they had reached the effect of which was to vary the terms on which the notes would issue. 
+In my opinion, had the parties intended to vary cl 7.5(a) of the Terms of Issue (the consequences of which could be profound from either parties' point of view) they would done more than insert into the December Deed the "Background" recital and would have made plain their intention in the body or "Operative part" of the December Deed.
+The structure of the December Deed makes clear, in my opinion, that the parties did not intend that the recitals have any independent operative effect. That is made clear by the second recital, adjacent to the words "This deed witnesses" (see [49] above) which states, in terms, that the parties' agreement is "as set out in the Operative part of this deed". The operative part of the deed follows, under the heading "Operative part". Although cl 1.3(a) states that headings are "for convenience only and do not affect the interpretation of this deed", the heading "Operative part" is in my opinion available to identify what the parties meant when they referred, in the second recital, to that term.
+In any event, examination of the recitals themselves demonstrates that the parties did not intend them to have operative effect, let alone to constitute an agreement to depart from the terms of cl 7.5(a) of the Terms of Issue.
+The statement in the Background recital that BBRC "will be" the beneficial owner of 20 million preference shares in ALF on conversion of its $20 million notes is followed immediately in the same recital with the statement that Mr Malouf had granted BBRC the Put Option; which was in respect of the same number of shares. That is the context in which the critical statement appears.
+It is common ground that the minimum number of preference shares that could be issued to BBRC in respect of the $20 million convertible notes was 20 million shares. Upon conversion, BBRC was bound to have the shares that it could require Mr Malouf to purchase, pursuant to the Put Option.
+In those circumstances, the "Background" recital is, in my opinion, no more than a statement by the parties as to what, inevitably, would occur in the future and thus what, inevitably, would be available to be the subject of the Put Option. The parties were doing no more than acknowledging that, as a matter of fact, once BBRC's $20 million convertible notes were converted, it would hold 20 million shares which, if it chose, it could put to Mr Malouf pursuant to the Put Option.
+As BBRC submitted, it is understandable that the parties agreed that BBRC's Put Option would be in respect of 20 million shares. Not only was this the minimum number of preference shares which could be issued to BBRC in respect of the $20 million convertible notes, it was expected to be the actual number of shares that would be issued on conversion. As I have mentioned, Mr Malouf gave a warranty in cl 7.12(g) of the Terms of Issue that he would endeavour to retire the group's debt by the Maturity Date of the notes (see [23] above). Accordingly, it appears that the expectation of the parties was that there would be no debt in the ALF group at the time of conversion, and in particular, no "Organic Debt".
+The "Background" recital was thus both an accurate and appropriate statement by the parties of what they expected to be the position on conversion. 
+As I have mentioned, cl 10(a) of the December Deed provided that the convertible notes issued to BBRC were issued on the terms "of this deed" as well as on the terms in the Deed Poll and the Terms of Issue.
+However, the reference in cl 10(a) to "the terms of this deed" is readily explicable by the fact that, under cl 10, BBRC was obliged to subscribe for convertible notes in specified amounts and on specified future dates. Further there was at least one provision of "this deed" (namely cl 4.3) which the parties agreed would be a variation from the provisions in the Terms of Issue.
+Assuming their admissibility, contrary to my finding at [38], I do not see the term sheets exchanged by Mr Blundy and Mr Malouf on 17 and 18 November 2010 (see [35] and [36] above) taking the matter any further. It is true that, on 17 November 2010, Mr Blundy referred to a "rate of conversion" as being "$1.00 per share per $1.00 of the value of the note". However Mr Malouf's term sheet referred to both the proposed $10 million and $20 million convertible notes as being "T2 Convertible Notes", clearly a reference to the Tranche 2 notes as offered to other investors through Disclosure Statement Tranche 2 (referred to at [31] above). The defendants accept that the Tranche 2 notes issued to other investors and the $10 million notes issued to BBRC, convert on the basis of cl 7.5(a) of the Terms of Issue. That being so, as BBRC submits, the short hand description of the conversion rate in the November 2010 term sheets cast no light on whether or not the parties had reached any agreement to modify cl 7 of the Terms of Issue so far as concerns BBRC's $20 million notes.
+ALF also sought to develop a submission that the Put Option in the December Deed formed part of some kind of "exit strategy" on the part of BBRC and that this notion formed part of the "commercial purpose and surrounding circumstances" of the transaction. In my opinion, this takes the matter no further. As Mr Hutley submitted: "...identifying parts of the [December Deed] as involving exits or the outcome of an exit strategy simply cannot help. What was arranged as part of an entire transaction was an array of benefits and detriments, the content of which can only really be determined for a precise analysis of the terms."
+Although there was some reference in ALF's submissions as to the "suite of documents" executed on 1 December 2011, I see nothing in any other of those documents as providing any basis for a conclusion that the parties "otherwise agreed" for the purpose of cl 7.1 of the Terms of Issue.
+For those reasons, my conclusion is that BBRC's $20 million notes converted into preference shares at the rate specified in cl 7.5(a) of the Terms of Issue.
+ "Organic Debt"
+As I have mentioned, "Organic Debt" is an integer in the conversion formula in cl 7.5(a) of the Terms of Issue.
+The Terms of Issue drew a distinction between "Organic Debt" and "Project Debt".
+"Organic Debt" was defined in the Terms of Issue as follows: "'Organic Debt' means any amounts borrowed by any member of the Group for the general business of the Enterprise, including existing bank debt of about $50 million and any debt used to complete the purchase and establishment of the waste site at Eastern Creek".
+"Project Debt" was defined to mean: "...any amounts borrowed by any member of the Group to fund activities which are not funded by Organic Debt."
+The definition of "Organic Debt" referred to the "Enterprise" which was defined to mean: "...the ordinary conduct of the Business of the Group including: the bin collection and plant hire business, including growth of that business by utilisation of the Eastern Creek site; hectares of land at St Peters, contained in Lot 11 DP 1013168 and Lot 1
+DP 10110128 and the associated waste transfer station and tip; and hectares of land (being the Security Land), waste transfer station and tip at Eastern Creek capable of receiving up to 2 million tons of waste per annum."
+The Terms of Issue provided no definition of "Business".
+Incorporation of the definition of "Enterprise" into that of "Organic Debt", deletion of inessential details and the addition of parenthetical guide posts ("(1)" and "(2)") yields the following convenient rendition of the definition: "Organic debt means: any amounts borrowed by any member of the Group for the general business of the ordinary conduct of the Business, including existing bank debt of about $50 million; and any debt used to complete the purchase and establishment of the waste site at Eastern Creek."
+The distinction drawn by the parties between "Organic Debt" and "Project Debt" suggests that they intended to distinguish monies borrowed for a "project" (presumably, other than the completion and purchase of the site at Eastern Creek, which is the second limb of the definition of "Organic debt") from other borrowings. However, no submissions were addressed on this topic, nor any evidence adduced which might throw light on what "projects" the parties had in mind.
+The somewhat awkward expression in the first limb of the definition of "Organic Debt" ("the general business of the ordinary conduct of the business of the Group"), is as Mr Walker submitted, somewhat idiosyncratic and such as to render unhelpful authorities dealing with provisions said to be similar.
+In my opinion, reasonable business people in the position of the parties would regard the first limb of the definition of "Organic Debt" as having no more precise a meaning as borrowings for the "general business" of the Group other than borrowings used to purchase Eastern Creek or used for any other "project". 
+It is now common ground that, as at 1 January 2013, there was "Organic Debt" of approximately $92.5 million.
+The parties are divided as to whether a further amount of $27.7 million should also be characterised as "Organic Debt".
+I shall deal with each of the borrowings in respect of which there is a continuing dispute.
+ $7.5 million loan from Mr Malouf
+By a Loan Facility Agreement dated 16 September 2008 Mr Mark Ellis agreed to loan ALF $7.5 million. By a Deed of Assignment of Loan Agreement, ALF assigned that agreement to Mr Malouf.
+The 16 September 2008 Loan Facility Agreement did not state the purpose for which the $7.5 million was advanced to ALF; nor did it limit the use to which ALF could use that sum.
+In those circumstances, BBRC submitted that the loan "was available to use by ALF for the ordinary conduct of its business" and should therefore be considered as "Organic Debt".
+I do not accept that submission. 
+It may be that the $7.5 million was available to be used by ALF for the ordinary conduct of its business. But the evidence does not enable me to draw any conclusion as to whether the amount was borrowed "for" that purpose.
+Subject to the submission made by BBRC arising from an expert report prepared for ALF by Mr Wayne Lonergan of Lonergan Edwards & Associates Limited (see below), I cannot conclude whether or not this loan comprises "Organic Debt".
+ $4.2 million loan from Carlewie Pty Ltd
+No loan agreement between ALF and Carlewie was drawn to my attention.
+However, Mr Williams, who presented this aspect of the argument on behalf of BBRC, drew attention to a submission made by ALF to the Australian Taxation Office dated 6 February 2011 in which ALF stated: "Carlewie Pty Ltd had provided asset, banking and security support during the early development years of the [ALF] Group, and it was partly in this way that intercompany loans had accumulated in prior years."
+In an advice to Dial-A-Dump, Price Waterhouse Coopers ("PWC") stated that Carlewie "has extended two debts to ALF" one of which was: "The 'trading debt' - through the ordinary course of business, ALF, or one of its subsidiary entities, has been extended debt funding from Carlewie...".
+PWC stated that: "Our advice is based on our understanding of the facts and assumptions as summarised below. In the event that our understanding is incorrect, or incomplete, please contact us as our advice may be invalid or necessitate reconsideration (upon your request)."
+ALF has not adduced evidence that PWC had misapprehended the status of the Carlewie debt.
+In those circumstances, I am satisfied that it was an amount borrowed by ALF "through the ordinary course of business" and thus an amount borrowed for ALF's "general business" or the "ordinary conduct" of ALF's business and thus "Organic Debt".
+ $1.3 million loan from Good River Properties Pty Ltd 
+I was informed by Mr Williams, that although there was a discovery category seeking documents relating to the purpose of ALF's borrowings, ALF did not produce any documentation in respect of the Good River Properties loan.
+This loan is referred to in the expert reports of Mr Lonergan, prepared for ALF, and Mr Andrew Ross, from KordaMentha prepared for BBRC.
+Mr Ross said that: "The information provided to me does not allow me to determine whether these loans were provided to the Group for any specific purpose."
+Mr Lonergan referred to this loan (and the $7.5 million loan from Mr Malouf and the $4.2 loan from Carlewie) as "related party loan liabilities...owing by ALF at both the time of issue and conversion of the Convertible Notes". Mr Lonergan stated that he considered that there were "reasonable commercial grounds to exclude the above liabilities in determining the quantum of Organic Debt". Mr Lonergan then set out his reasons, which ALF now accepts are not to the point.
+In these circumstances, Mr Williams submitted that, in the absence of any contrary evidence from ALF, I can and should infer from the manner in which Mr Lonergan expressed himself that his instructions from ALF were that these borrowings were for the general business of the group (and thus were "Organic Debt").
+Mr Williams invited to me draw this inference by reason of the well known observation of Lord Mansfield in Blatch versus Archer <case>; [(1774) 1 Cowp 63] at 970 that: "It is certainly a maxim that all evidence is to be weighed according to the proof which it was in the power of one side to have produced, and in the power of the other to have contradicted."
+In Gerard Cassegrain & Co Pty Limited versus Cassegrain [[2013] NSWCA 453] at [[26]](/cgi-bin/LawCite?cit=%5b2013%5d%20NSWCA%20453#para26), Beazley P said of Blatch versus Archer: "That case is authority for the proposition that where material evidence is peculiarly within a party's knowledge, it may be sufficient for the opposing party to adduce slight evidence on the issue".
+I do not see how, by application of Blatch versus Archer, or otherwise, I could draw such an inference. All that Mr Lonergan stated about his instructions was that the three loans to which he referred were "related party loan liabilities". He developed an argument, based on his own construction of the definition of "Organic Debt", as to why the Malouf, Carlewie and Good River Properties loans were not "Organic Debt". ALF now accepts that the premise for Mr Lonergan's conclusions (his construction of the definition) was wrong and does not advance any submission based on his conclusions.
+ALF has adduced evidence of its instructions to Mr Lonergan, in that Mr Lonergan's report annexed his letter of instructions from ALF's solicitors. That letter refers to the Malouf and Carlewie loans, but not the Good River Properties loan. I infer, from the language used by Mr Lonergan, that at some time after the letter of instructions, he also received some instructions about the Good River Properties loan (namely that it was a "related party loan liability"). But I do not see what else I could infer about those instructions. No doubt ALF knows whether or not it instructed Mr Lonergan that the Good River Properties loan was for "general business" purposes. But I can only speculate about what that knowledge was and what instructions, if any, it gave Mr Lonergan about that matter. I do not consider I can draw any inference one way or the other.
+I am not able to say whether the loan from Good River Properties loan is, or is not "Organic Debt". Nor do I think Mr Lonergan's report casts any further light on Mr Malouf's loan.
+
+Borrowings to raise funds to redeem convertible notes
+ALF borrowed $6 million from Mr Mark Ellis, $4.5 million from Ms Larissa or Ms Raelynn Malouf, and $1.3 million from Ralph Lauren Pty Ltd. These borrowings were used by ALF to redeem Tranche 1 convertible notes (see [29] above).
+The Tranche 1 convertible notes were, in turn, issued for the purpose of repaying the vendor finance provided by Valad (see [11] above).
+The Valad debt was used to complete the purchase of the Eastern Creek site and was therefore itself "Organic Debt".
+Thus, the borrowings in question were used to refinance a refinance of an "Organic Debt".
+BBRC submitted that a borrowing to refinance an "Organic Debt" must, itself be a "Organic Debt".
+I do not accept that submission. The loan from Valad was "Organic Debt" because it fell within the second limb of the definition of "Organic Debt" (being used to complete the purchase and establishment of Eastern Creek). The question of whether a refinance of such a debt (let alone a refinance of a refinance) is itself "Organic Debt" will depend upon whether that refinance falls within the first limb of the definition of "Organic Debt" (an amount borrowed for the "general business" of ALF or in the "ordinary conduct" of ALF's business). 
+For that reason, I do not find the "refinancing principle" referred to in Federal Commissioner of Taxation versus Roberts & Smith <case>; [(1992) 37 FCR 246] per Hill J at 257, (to which Mr Williams referred) to be relevant.
+Whether the circumstances in which these loans were raised would or would not be an amount borrowed for the "general business" of ALF or in the "ordinary conduct" of ALF's business would depend on the circumstances in which the Valad debt was repaid and in which the re-financing of that debt took place. My attention has not been drawn to any evidence which enables me to come to any conclusion about that. In those circumstances, I am not able to say whether these borrowings fall within the first limb of the definition of "Organic Debt". BBRC has failed to satisfy me that they did.
+
+Bank overdraft - $5.5 million
+The bank overdraft (which I infer was from Westpac) of $5.5 million comprised two components. The first is a $2.9 million short term funding facility utilised for redeeming convertible notes. It is agreed that the question of whether or not this borrowing was "Organic Debt" is to be determined in accordance with my conclusion concerning the borrowings to raise funds to redeem convertible notes referred to in the preceding paragraphs.
+It follows that I am not satisfied that this borrowing is "Organic Debt".
+I am informed that the balance of $2.6 million from the bank overdraft is now agreed to be "Organic Debt".
+
+Conclusion as to "Organic Debt"
+BBRC has established that the $4.2 million loan from Carlewie was "Organic Debt". Otherwise, BBRC has failed to establish that any of the disputed amounts are "Organic Debt".
+
+The proper construction of cl 8.2(b) of the Shareholders Agreement of 31 December 2012
+This issue, to which I have not previously referred, was resolved prior to the commencement of the hearing. It is common ground that I should make the following declaration: "A declaration that the first defendant is obliged under clause 8.2(b) of the
+Shareholders Agreement made on or about 1 January 2013 between the plaintiff, the first defendant and the second defendant (amongst others) to make a quarterly payment to the plaintiff by way of dividend or to accrue an amount by way of loan by the plaintiff pending accrual of income, on each 1 April, 1
+July, 1 October and 1 January after 1 January 2013, in an amount equal to at least 11% per annum of the subscription amount of preference shares in the first defendant held by the plaintiff." 
+Costs of the amendments of 29 September 2014
+At the commencement of the hearing, Mr Walker sought leave to file a Further Amended Response to Amended Commercial List Statement, a Further Amended Commercial List Cross-Claim Statement and a Reply to the Second Further Amended Commercial List Cross-Claim Response. The effect of these amendments was to withdraw a claim formerly made by ALF for rectification of the December Deed. In substance that claim was based on the term sheets exchanged between Mr Blundy and Mr Malouf on 17 and 18 November 2010, to which I have referred. 
+Mr Walker accepted that ALF should pay BBRC's costs thrown away by those amendments.
+Mr Williams, for BBRC, then sought leave to file a Second Further Amended Commercial List Cross-Claim Response and a Second Further Amended Reply. There was a dispute before me as to what, if any, order should be made as to the costs of those amendments.
+The effect of the amendments made by BBRC was to withdraw claims for misrepresentation and estoppel. Those claims, essentially, arose out of the same facts as those relied on by ALF to found its rectification claim. In substance, if not in precise effect, the pleading amendments made by BBRC were a consequence of those made by ALF. In those circumstances, my opinion is that I should make no order concerning the costs of the amendments made by BBRC.
+
+Conclusion
+I invite the parties to confer and agree on the orders that should be made to give effect to these reasons.
+ * * * 

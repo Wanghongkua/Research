@@ -1,0 +1,569 @@
+
+
+Fuji Xerox versus CSG Limited [2010] NSWSC 1258 (23 November 2010) 
+Last Updated: 24 November 2010 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Fuji Xerox versus CSG Limited <case>  
+JURISDICTION: 
+Equity Division 
+Commercial List  
+FILE NUMBER(S):  /281890  
+HEARING DATE(S):  /11/10, 2/11/10, 3/11/10, 4/11/10, 5/11/10, 08/11/10 and 09/11/10  
+JUDGMENT DATE:  November 2010  
+PARTIES: 
+Fuji Xerox Australia Pty Limited (Plaintiff) 
+CSG Limited (Defendant)  
+JUDGMENT OF: 
+McDougall J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+R M Smith SC / M S Henry (Plaintiff) 
+N J O'Bryan AM SC / D R Sulan (Defendant)  
+SOLICITORS: 
+Corrs Chambers Westgarth (Plaintiff) 
+DLA Phillips Fox (Defendant)  
+CATCHWORDS: 
+CONTRACT - termination - breach - where plaintiff entered into dealer agreements with defendant - where plaintiff terminated agreements for breach of essential terms - whether defendant failed to meet target quotas - whether plaintiff estopped from relying on failure to meet target quotas - whether misuse of confidential information - whether conflict of interest arising from negotiation and making of Canon agreements - whether uncertainty in terms - construction of conflicts of interests provisions - whether defendant's marketing of Canon products constituted breach - where defendant alleges wrongful repudiation - whether breach by plaintiff - whether plaintiff's termination in breach of any implied obligation of good faith or motivated by improper purpose - construction - parties' post termination obligations under dealer agreements. 
+EQUITY - "unclean hands" - whether plaintiff disentitled to relief on discretionary grounds. 
+PROCEDURE - notice to produce - privileged documents - legal advice - reasons for ruling - [Evidence Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ea199580/) [ss ](http://www.austlii.edu.au/au/legis/nsw/consolact/ea199580/s118.html), [122](http://www.austlii.edu.au/au/legis/nsw/consolact/ea199580/s122.html).  
+LEGISLATION CITED:  [Evidence Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ea199580/)  
+CATEGORY: 
+Principal judgment  
+CASES CITED: 
+Austra Tanks Pty Ltd versus Running [[1982] 2 NSWLR 840] 
+Butt versus M'Donald (1896) 7 QLJ 68 
+Hospital Products Limited versus United States Surgical Corporation <case>; <case>; <case>; <case>; <case> 
+Shepherd versus Felt and Textiles of Australia Limited <case>; <case>; <case>; [(2009) 74 NSWLR 618]  
+TEXTS CITED:  
+DECISION: 
+Declaratory and other relief granted.  
+JUDGMENT:  
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+COMMERCIAL LIST  
+McDOUGALL J   November 2010  /2010 FUJI XEROX AUSTRALIA PTY LIMITED versus CSG LIMITED 
+JUDGMENT HIS HONOUR: On 6 March 2007, the plaintiff (FXA) made a number of agreements with the defendant (CSG). Each agreement appointed CSG or its subsidiaries (for convenience, I will generally refer to the defendant and its subsidiaries by the initials "CSG") as a "dealer" in a specified "territory". One of those dealer agreements related to the territory of Brisbane. Another related to the territory of Maroochydore. FXA contends that it has terminated those two agreements, in pursuance of a contractual right to do so for breaches of specified essential terms. CSG denies that it breached the essential terms, and thus that the terminations were valid. It contends that, in those circumstances, FXA has repudiated each agreement and that it has itself, in reliance on that repudiation, terminated each agreement. FXA seeks orders compelling CSG to perform what FXA says are CSG's obligations arising on termination of each agreement. 
+The issues  The real issues in dispute, except issues as to damages, have been largely agreed. I set them out: . Did CSG breach any of the following terms of the dealer agreements: clauses 3.1.1, 3.1.2, 14.1.1, 14.1.4, 14.1.10 (and paragraph 1 of Schedule 5), .1.12, 16.1.3, 16.1.6, 16.3, 30.1.2, 30.1.4, 30.1.6, 37.2.2 and 38? This involves consideration of the following sub-issues: 
+First, did CSG fail to meet its target quotas for Brisbane and
+Maroochydore for the calendar year 2009? This involves consideration of the following issues: did FXA set target quotas for Brisbane or Maroochydore in the 2009 calendar year; if yes to (i), what purchases of equipment and accessories did CSG make for the Brisbane and Maroochydore territories in the 2009 calendar year; relevant to (ii), are consumables and spares purchased by CSG from FXA to be included in the target quotas; if CSG did not reach the target quota(s) for the 2009 calendar year, is
+FXA, by its conduct pleaded in paragraph 7 of the Further Amended Commercial
+List Response (including its alleged failure to supply stock in accordance with CSG's instructions), estopped from relying upon that breach as a ground for termination; has FXA waived CSG's obligation to meet the target quota for either the
+Brisbane or Maroochydore territories in the 2009 calendar year? 
+Secondly, did CSG breach any obligation owed to FXA in respect of
+Confidential Information (within the meaning of the dealer agreements) when entering into the Canon agreements (which appear at DM 2 tabs 5-7)? 
+Thirdly, did the negotiation by CSG or the entry into the Canon agreements give rise to a conflict of interest within the meaning of the dealer agreements, as alleged in paragraphs 15 - 20 of the Second Further Amended
+List Statement? This involves the following issues: the proper construction of the Canon agreements and their commercial effect; are any of clauses 14.1.10, 29.1.4, 38 and Schedule 5 of the dealer agreements ("the conflict of interest clauses") void for uncertainty; if no to (ii), is FXA's reliance upon the conflict of interest clauses of the dealer agreements in so far as those clauses operated to prevent CSG from becoming a Canon dealer outside the territories identified in schedule 1, item 4 of the dealership agreements an unlawful restraint of trade at law or under the [Restraints of Trade Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/rota1976216/) .
+
+Fourthly, did CSG's marketing of Canon products on its website (accessible on the internet anywhere in the world) after 11 May 2010 constitute a breach of clause 14.1.4 and/or clause 14.1.10 (and paragraph 1 of Schedule 5) of the dealer agreements? This involves the following sub-issues: what was published CSG's website at the relevant times; and whether clause 14.1.10 (and paragraph 1 of Schedule 5) are void for uncertainty? 
+Fifthly, did CSG engage in misleading and deceptive conduct within the meaning of clause 14.1.12 of the dealer agreements as alleged in FXA's letter to CSG dated 28 June 2010? 
+Sixthly, was CSG's conduct in negotiating and entering into the Canon agreements in breach of clauses 3.1.1, 14.1.1 and / or 14.1.10 (and paragraph of Schedule 5) of the Dealership Agreements or conduct that gave rise to a potential conflict of interest within the meaning of clause 29.1.4 of the
+Dealership Agreements? This involves the following sub-issues: i. whether CSG promised to churn FXA's market share in the Brisbane Territory to Canon; ii. whether the promise to churn FXA's market share was a breach of the obligation to actively promote the sale of FXA's product under clause 3.1.1 of the Dealership Agreements; iii. whether CSG knew or intended that FXA would terminate the Dealership
+Agreements; and iv. whether CSG had a potential or actual conflict of interest between maximizing the bounty payable under the Implementation Agreement and its obligations under clauses 30.1.4 and 37.2.2 of the Dealership Agreements.
+ . Was FXA in breach of the dealer agreements when it purported to terminate those agreements? This involves the following sub-issues: whether FXA planned to acquire and acquired Upstream or otherwise planned and intended to compete against CSG in the Brisbane territory or in the other markets in which CSG operated; if so, whether FXA's conduct in (a) above was in breach of clause 29.1.4 of the dealer agreements; did the dealer agreements contain the implied terms of good faith pleaded at paragraph 6 of the Further Amended Cross-Claim.
+ if yes to (c) above: i. in terminating the dealer agreements, was FXA motivated by a collateral or improper purpose, as pleaded at paragraph 19 of the Further Amended First
+Cross-Claim Commercial List Cross-Claim Statement; and ii. if so, was FXA in breach of its obligation of good faith in terminating the dealer agreements on 24 August 2010 by reason of such motivation; if yes to (b) or (d)(ii), is FXA disentitled to the relief sought in paragraph 3-5 of the Further Amended Summons? . Is FXA, by application of the equitable doctrine of 'unclean hands', disentitled to the relief sought in paragraph 3 - 5 of the Further Amended
+Summons? . What are the parties' post-termination obligations under clauses 29, and 37 of the dealer agreements (including whether FXA is entitled to demand the execution of documents by CSG for the purpose of novating maintenance contracts?) Those portions of the otherwise agreed issues that are underlined were not agreed. Nothing turns on that, because the parties did not address as to why those matters did (or did not) arise.
+ An issue as to misleading or deceptive conduct on the part of CSG was "pleaded", but ultimately not pressed by FXA.
+ In dealing with the issues (to the extent that they remain "live"), I shall not set out in any detail the parties' competing submissions. I take that course because there is some urgency to the resolution of the issues: so that the parties know where they stand, and how they should deal with their customers. I had the benefit of comprehensive and helpful written submissions, to which Mr Smith of Senior Counsel (who appeared with Mr Henry of Counsel for
+FXA) and Mr O'Bryan of Senior Counsel (who appeared with Mr Sulan of Counsel for CSG) spoke. Each had the opportunity to reply to the other's submissions.
+I have given detailed consideration to the written and oral submissions. I trust that I will not be taken as either intending or perpetrating any discourtesy to counsel if, for the reason I have given, I do not refer to their submissions in detail in these reasons.
+ 
+Rulings on privilege On the fourth day of the hearing, 4 November 2010, Mr Smith called on notices to produce that required production of legal advice obtained by CSG.
+Five written advices (four by Mr O'Bryan and one by Mr Glick of Senior
+Counsel) were produced. They were dated (in order) 15 December 2009, 24
+February 2010, 11 March 2010, 15 March 2010 and 6 May 2010.
+ It was apparent that, prima facie, each advice was privileged. However, I ruled that privilege had been lost in respect of the whole of the advices of February 2010, 11 March 2010 and 6 May 2010; and in paras 2 to 12 of the advice of 15 March 2010. I ruled that privilege had not been lost in the remainder of that advice, nor in the advice of 15 December 2009. The parties accepted that I would give reason for that ruling in my reasons for judgment, as I now do.
+ It was common ground that: the claim for privilege, and the submissions as to loss of privilege, were to be resolved by application of the relevant provisions of the [Evidence Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ea199580/) ; and prima facie, each of the advices was a "legal advice" that would attract privilege pursuant to [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s118.html) of the [Evidence
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/).
+ The fact of obtaining, and substance of, some of the advices had been disclosed by CSG to Macquarie Bank Limited or one of its subsidiaries in the course of "due diligence" undertaken by Macquarie in connection with a proposed capital raising. One of the questions with which
+Macquarie was concerned was the enforceability of the restraint of trade provisions in cl 14.1.4 of the dealer agreements. CSG stated to Macquarie that it had obtained the advice of senior counsel that cl 14.1.4 was void, as an illegal restraint of trade, to the extent that it operated outside the relevant territory.
+ In those circumstances, in my view, privilege was lost by [s (2)](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s122.html) of the [Evidence
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/), read in conjunction with [s (3)(a).](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s122.html)
+I do not think that Mr O'Bryan seriously contested this conclusion.
+ The remaining matter on which, in my view, privilege had been lost related to the question of "commercially reasonable cooperation" under cl 30.1.4 (see at [51] below). It was part of CSG's case that at all material times it, through its relevant senior officers, genuinely believed that commercially reasonable cooperation included, as an element, that it be paid the value of what is in effect the MIF to which cl 30.1.4 relates. That was said to be relevant, among other things, both to the estoppel argument with which I deal below and to another estoppel argument, which has disappeared as an issue. It has disappeared as an issue because, although I gave leave for CSG to amend to "plead" it, I revoked that leave on the application of FXA for reasons that are explained in my judgment of 5 November 2010. Nonetheless, that second estoppel argument was a live issue at the time I ruled on the question of privilege.
+ The advice of 15 March 2010, dealt, among other things, with the question of cooperation. I took the view that it was inconsistent for CSG to assert its state of mind (through the state of mind of its relevant senior officers) as to the content of the obligation to provide "commercially reasonably cooperation", and at the same time to maintain privilege in legal advice on that very question. See Mann versus Carnell <case>; <case>.
+ For those reasons, I ordered that the advices be produced, to the extent set out to FXA's legal representatives.
+ 
+Background; some more acronyms  FXA's business includes the importation and distribution of "multi-function devices", or MFDs. MFDs are machines based on photocopier technology. They have the ability to copy, print and scan documents. In recent years, they are able to perform at least the copying and printing functions in colour. Some
+MFDs, which are described as "web-enabled", are able to scan documents to email. From time to time, retail customers who acquire an FXA MFD do so with the aid of finance provided by an associated company of FXA, Fuji Xerox
+Finance Limited (FXF).
+ To the extent that it is relevant, FXA and FXF (which are run in tandem, each having as its managing director Mr Nick Kugenthiran) are wholly owned subsidiaries of Fuji Xerox Asia Pacific Pte Limited (FXAP), a company incorporated in Singapore. The ultimate holding company of FXAP is Fuji Xerox
+Company Limited, a company incorporated in Japan. That company is controlled by Fuji Film Holdings (which owns 75% of its issued share capital) and Xerox
+Corporation (which owns the remaining 25%).
+ CSG is a public listed company. Its business activities include "print services": the sale, service and maintenance of MFDs. CSG sells MFDs, pursuant to dealer or distributor arrangements, in various parts of Australia. It does so through sales agents who are independent agents, not employees, and who operate on a commission - only basis.
+ FXA divides its customers into at least three "tiers". Tiers 1 and 2 comprise government and very large commercial users. FXA deals directly with them, through its own agents. Tier 3 customers are described as "small to medium enterprises" (SMEs; sometimes, in the evidence, the alternative acronym "SMB" is used).
+ When an FXA MFD is "sold" (and I use the generic term "sale" to encompass outright sale, and other arrangements such as lease or hire purchase), the customer enters into a "full service management agreement" (known in the industry as an "FSMA"). In some cases, the cost of providing service and maintenance (excluding consumables) is fixed as part of the rental payments made by the customer to the financier (who may be FXF or a third party financier), or by the customer. In other cases, the charge is payable separately, and is usually fixed on a "cost per copy" basis. The evidence suggests that, for dealers such as CSG, the greater profit comes from the FSMA rather than on the sale. The income stream derived from FSMAs is known as "annuity income".
+ Machines that have been sold (and that are the subject of FSMAs) are known as "machines in (the) field", or MIF. MIF (which appears to be used in the singular and, indiscriminately, as the equivalent of a collective noun) is important, because repeat sales, and therefore fresh streams of income from
+FSMAs, are derived from "churning" MIF. In the jargon of the trade, a MIF is said to be "churned" when it is replaced by a new MFD; and it may be churned by being replaced with another MFD of the same brand, or churned to a competing product.
+ In December 2009, FXA's main competitors were Canon, Ricoh and Konica
+Minolta. Their respective market shares (in relation to MFDs) were about 25% for FXA, 15% for Canon, 16% for Ricoh and 14% for Konica Minolta. The balance of the market was filled by other, and relatively minor, players.
+ MIF is jealously guarded, and equally zealously attacked. The simplest way for a distributor or dealer to increase its share of the market to be increased is by attacking a competitor's MIF. Thus, distributors and dealers guard jealously details that might identify customers whose MFDs are due to be churned. If the competitor does not know that a customer has an MFD that is due for churning, it is very difficult for the competitor to seek to take that customer's business.
+ CSG has been an FXA dealer, in one territory or another, for some time.
+Indeed, at the same time as the Brisbane and Maroochydore dealer agreements were made, FXA and CSG entered into dealer agreements for the territories of
+Toowoomba, Cairns and Darwin. (CSG had been an FXA dealer in Darwin for about years prior to 6 March 2007.) For some time, CSG has sought to expand its print services business so that it services all Australian capital cities. It sought on a number of occasions to become a FXA dealer in capital cities other than Brisbane and Darwin. FXA has rejected those overtures. It seems that FXA was concerned at being too dependent on any one dealer, and thus decided to limit dealers so that no one dealer accounted for more than about 25% of FXA's MFD business. (By this time,
+CSG and another dealer, Quality Image, between them accounted for about 50% of
+FXA's MFD business.) The relationship between CSG and FXA became strained when, in about mid , CSG bought the issued shares in ATI Pty Ltd (ATI). ATI conducted a national "managed print services" (referred to in the industry as "MPS") business. ATI was one of a number of businesses known in the industry as "agnostic" because they were not tied to any particular brand of MFDs or printers (such as FXA) but, rather, used whatever it thought was appropriate, or whatever its customers themselves used.
+ FXA realised (as did CSG) that, consequent upon CSG's acquisition of ATI,
+FXA and CSG would be competitors in the MPS business in some regions. CSG prepared "rules of engagement" to handle conflicts. FXA did not agree to those rules.
+ CSG renewed it expansion proposals to FXA in the first half of 2009. It wanted to expand into Sydney and Melbourne, selling MFDs as an FXA dealer and providing MPS to customers. Again, FXA rebuffed those proposals. It seems that
+FXA may have been motivated not only by the "25% limit" to which I have referred, but also because it was developing, or at least considering, a strategy of dealing direct in the major metropolitan markets, using its own sales agents rather than independent dealers such as CSG.
+ Accordingly, CSG sought other opportunities for growth. In December 2009, it agreed to acquire 90% of Konica Minolta Business Solutions (KMBS), the New
+Zealand distributor of Konica Minolta products, and 100% of an associated finance company, Leasing Solutions Limited (LSL). CSG advised FXA of the acquisitions, and said that it intended to utilise LSL in connection with its
+Australian business. CSG understood that FXA would not view kindly its acquisition of KMBS.
+ Also in December 2009, CSG acquired an option to buy the shares in a company known as Onesource Australia Holdings Pty Ltd, which in turn held the issued shares in a company known as Imagetec Solutions Australia Pty Ltd . Imagetec was the Australian distributor of "Develop" MFDs (a second brand of Konica Minolta). CSG says that it did so because it was concerned that FXA might terminate the dealer agreements, because of the
+KMBS/LSL transaction. If that happened, CSG would not have MFDs to sell to its customer base. Thus, it says, it wished to be able to get its hands on Develop
+MFDs.
+ In general terms, where a dealer such as CSG sells an MFD to a customer, a number of separate transactions are involved. First, FXA sells the MFD to the dealer. Second (where finance is involved), the dealer sells the MFD to the financier. Third (again where finance is involved), the financier enters into what it is convenient to call a rental agreement with the customer. Fourth, the dealer enters into an FSMA with the customer. If no financier is involved, the second and third steps are replaced by a sale from the dealer to the customer, but the dealer and the customer still enter into an FSMA.
+ Where an FXA MFD is sold by a dealer, there is no direct relationship between FXA and the customer. Thus, unless the financier is FXF, FXA has no access to the customer's details. Without that access, it is unable to approach the customer, at the appropriate time, to seek to persuade the customer to churn the MFD for a new one. On the other hand, because the dealer has the customer's details, it is able to do so.
+ It is thus very much to FXA's advantage, where sales are to be financed, for FXF to be the financer. There is some suggestion in the evidence that FXA was inclined to be more generous in its assessment criteria than third party financiers.
+ 
+The Canon agreements In mid April 2010, CSG started to negotiate with Canon Australia Ltd to become a Canon dealer in Sydney, Melbourne, Adelaide, Perth and
+Canberra. Those negotiations bore fruit. On 11 May 2010, Canon and CSG entered into three agreements: a "Channel Partner Accreditation Agreement" (in effect, a dealership agreement); an "Implementation Agreement"; and a "Subcontracting Agreement".
+ The partner agreement (as I will call the first of those agreements) provided for CSG to become, and to describe itself as, a "Canon Accredited
+Partner" (which appears to be an elaborate term for "dealer").
+ By the implementation agreement, Canon agreed, among other things, to give
+CSG the option to become both Canon's subcontractor in respect of Canon's
+Brisbane customers and "a Brisbane Dealer". CSG understood that its entry into the partner and other agreements was likely to provoke FXA to terminate the
+Brisbane dealer agreement (and perhaps others). CSG wanted to become a Canon dealer in Brisbane if that happened, and hence the option.
+ By the subcontracting agreement, Canon appointed CSG (and an associated company) to perform Canon's service obligations owed to Canon's customers in
+Sydney, Melbourne, Adelaide, Perth and Canberra.
+ Each of the three agreements was said to be confidential, and accordingly the exhibit in which they are to be found was marked "confidential". It will be necessary to refer to some of the features of the agreements (over and above the broad descriptions just given), but I shall do so in a way that does not disclose anything that could properly be regarded as confidential.
+ The detail of the negotiations, and the structure and terms of the agreements in which the negotiations were consummated, were the subject of detailed submissions. I shall return to those subjects in dealing with the question of conflict of interest.
+ 
+Relevant terms of the dealer agreements There is no material difference between the Brisbane and Maroochydore dealer agreements.
+ Each dealer agreement included some sort of "explanatory memorandum", which was said to "provide general explanation and guidance of the role and content" of the agreement, but "by way of introduction only". The "purpose of the...
+dealer agreement" was described as follows: 
+The objective of this Fuji Xerox dealer agreement is to optimise sales revenue, profitability and after-sales service through a tied dealer network where all Fuji Xerox dealers offer customers outstanding performance consistent with the Fuji Xerox brand image. To achieve this, we must ensure that we consistently meet our customer obligations and internal service standards.
+
+This agreement, outlining the required levels of performance from all parties, is based on the key factors necessary to help ensure success across a national dealer network. It requires a consistently high standard of performance from both Fuji Xerox and our dealers and recognises that a successful dealer network encompassing excellent performance standards will maximise the value of your business and ours.
+
+The performance of both the Fuji Xerox dealer network and each individual dealer are a critical part of Fuji Xerox's overall distribution strategy. This agreement formalises Fuji Xerox's expectations of its dealers and Fuji Xerox's support.
+ The appointment was effected by cl 2.1, which also specified that the appointment was not exclusive: .1 Appointment. Subject to Clause 2.2 (Account Changes), Fuji Xerox appoints the Dealer from the date of execution hereof as an Authorised Dealer for the products specified in the dealer price books published by Fuji Xerox ("the Products") in respect of the territory specified in Item 4 of the
+Schedule 1 ("the Territory"). Nothing in this Agreement prevents Fuji Xerox from appointing other dealers or agents, or itself supplying any goods and services, within the Territory.
+ Nothing turns on cl 2.2.
+ Cl 3 set out "General Obligations". The first two obligations are relevant: .1 General Obligations. The Dealer must: .1.1 actively, promote, demonstrate and solicit the sale and maintenance of the Products within the Territory; .1.2 purchase from Fuji Xerox the target quota of Products set out in
+Schedule 3 ("the Target Quota") and appropriate quantities of consumables relative to the Dealer's MIF as determined by Fuji Xerox (acting reasonably); Schedule 3 reads: 
+TARGET QUOTA 
+To be determined for the 2007 year as provided in the Agreement by reference to dealership purchase revenues target from 1st January 2006 - 31st
+December 2006 of: 
+Revenue Target = $6,802,000 
+The Dealer's revenue for the purpose of comparison to the Revenue Target is to be calculated by adding the sum of ex tax purchases of equipment, accessories and software purchased directly from FXA or in the case of ES/LF purchases, through Triangle Corporation. Spares, consumables, paper, supplies, extended warranties or equipment purchased from resellers or other distributors will not be included.
+ Clause 5 dealt with "Target Quota Review". It reads: 
+Target Quota Review 
+The Target Quota is subject to review by Fuji Xerox and the Dealer on an annual basis as determined by Fuji Xerox. In the event that the parties do not review the quota or cannot agree upon a new target quota within a reasonable time (as determined by Fuji Xerox), the Target Quota will be determined by
+Fuji Xerox by reference to the average increase over the previous three years or if there is no such average, ten (10) percent.
+ Clauses 7.1 and 7.2 made it clear that FXA would sell to CSG at prices set out in the dealer price book published by FXA from time to time, but that CSG was free to negotiate whatever prices it could for sale to its customers (or to financiers on the customers' behalf). It is not necessary to set out those clauses, but I note that the evidence suggests that from time to time, either to meet competition or for some other good reason, FXA would approve a "special price".
+ Clause 14 set out "Specific Obligations", the first group of which (cl .1) were described as "Standard Obligations". To the extent that cl 14.1 was relied upon, it reads: .1 Standard Obligations. The Dealer warrants, acknowledges and covenants that for the term of this Agreement it will: ...
+ .1.4 not market itself or through any entity in which it has an interest any product of a similar or competitive nature to any Product or service any competitor's product whatsoever except where otherwise agreed in writing by Fuji Xerox; ...
+ .1.7 at the written request of Fuji Xerox, provide Fuji Xerox with copies of the Dealer's standard customer contract templates; and within a reasonable time of a written request from Fuji Xerox, insert into the Dealer's standard customer contract templates, language reasonably required by Fuji
+Xerox to protect Fuji Xerox's legitimate business interests; ...
+ .1.10 conduct its business in accordance with the ethical and other commercial standards set out in Schedule 5.
+ The relevant part of Sch 5 reads: 
+SCHEDULE 5 
+BUSINESS ETHICS . Personal Investment. Dealers shall not be involved in any activity, including personal investment, which is or gives the appearance of conflict of interest with the business of Fuji Xerox.
+ . Other Parties. Dealers engaging contractors, carriers, suppliers, consultants, customers and other persons having business with the company, shall conduct such activities in the best interests of Fuji Xerox without favour or preference.
+ . Gifts and Hospitality. Dealers (in this paragraph including their family members) must not offer or accept: (a) gifts, and/or, entertainment, beyond levels consistent with the concept of normal business hospitality; or (b) favours which could give rise or appear to give rise to an obligation.
+ . Offers to Customers. Dealers must not make cash payments to
+Dealer customers. No payments or gifts may be made with the intent to secure preferential action. Gift favours or entertainment offered to customers, suppliers or business contracts should be consistent with not exceeding the bounds of normal business hospitality or the more restrictive policy sought to be imposed by any particular counterparty.
+ . Xerox Corporation Securities. Dealers shall not deal with Xerox
+Corporation securities or purchase them except for investment.
+ . Political Contributions. The Dealer must not make any political contribution to any political party, committee, officeholder or candidate for any office of government by the Dealer.
+ . Anti-competitive Behaviour. The Dealer must independently determine the prices and terms of sale of its products and services, and must not make any arrangement or understanding with a competitor or potential competitor or engage in any conduct with the purpose or effect of decreasing competition in the market.
+ . Compliance with Government Standards. When Fuji Xerox competes for or accepts government contracts or subcontracts, the Dealer must ensure that all government contracting laws and regulations are complied with, and that the Dealer to the extent possible complies with all goods and services specifications, and any other governmental requirements.
+ Clause 16 imposed obligations of confidentiality in respect of "Confidential Information". Since cl 16.1.6 was relied upon in the notice of termination, I set it out: 
+Confidentiality .1 Obligation of Confidence. A party which receives confidential information from the other party (respectively "the Recipient") and "the
+Disclosing Party") must: ...
+ .1.6 maintain and on request by the Disclosing Party provide a list of all the employees, agents and subcontractors and any other party to whom
+Confidential Information of the Disclosing Party has been disclosed.
+ The expression "Confidential Information" is a defined term. I set out the definition: "Confidential Information" means all information that a party receives or acquires relating to the business or financial affairs which is labelled confidential or which is imparted in circumstances or contains information because of which a reasonable person would assume there existed an obligation of confidence in relation to the information.
+ Clause 29.1 entitled either party to terminate for cause. I set out so much of cl 29.1 as is relevant: .1 Termination for Cause. Either party ('the Terminating Party") may, immediately terminate this Agreement in whole or in part by notice in writing to the other party ("the Defaulting Party"), if the Defaulting Party: .1.1 is in breach of any of its material obligations under this Agreement, and if the failure or breach is capable of remedy, has failed to rectify that failure or breach within twenty (20) Business Days after receipt of written notice from the Terminating Party; .1.2 is in breach of any of its material obligations under this Agreement and the breach is not capable of remedy, or is capable of remedy but concerns an Essential Term of this Agreement; ...
+ .1.4 has a potential conflict of interest and has not to the reasonable satisfaction of the Terminating Party put in place measures which sufficiently reduce or eliminate the potential for that conflict of interest occurring; or .1.5 being the Dealer: .1.5.1 has not met the Target Quota for any twelve (12) month period; Clause 30 described the effect of termination. So far as is relevant, it reads: .1 Effect of Termination. Upon expiration or termination of this
+Agreement for any reason, all rights of the Dealer under this Agreement cease and the Dealer must: ...
+ .1.2 immediately return any Fuji Xerox Confidential Information and
+Fuji Xerox Material which is in the possession or control of the Dealer; ...
+ .1.4 provide commercially reasonable co-operation to Fuji Xerox and any intended alternative dealer in establishing an alternative dealer in the
+Territory (which may include the assignment or novation of existing Customer maintenance contracts under clause 37.2.1); ...
+ .1.6 immediately provide all information requested by Fuji Xerox in relation to all sales of the Products or the performance of Maintenance by the
+Dealer (including without limitation all customer names, addresses, and the applicable customer contracts).
+ It was common ground that the cross-reference in cl 30.1.4 to "clause .2.1" should be read as a cross-reference to cl 37.2.2.
+ Clause 31.1 specified "without limitation" that certain terms of the agreement were "essential". They included cls 3, 14, 16 and 37.
+ Clause 36 described the relationship between the parties. I set it out: 
+Relationship 
+The relationship between the parties is: in relation to the Products, that of buyer and seller; and, for Authorised Service Providers, that of an independent contractor. Unless this Agreement expressly states otherwise, nothing in the Agreement is intended to create a relationship of partnership: agency; franchisor and franchisee; or employer and employee amongst the parties and it is the express intention of the parties that any such relationship is denied.
+ Clause 37 dealt with assignment and novation. There was no right to assign with the consent of the other party; and CSG was not to assign a customer agreement without the consent of FXA (not to be unreasonably withheld or delayed).
+ Clause 37.2.2 provided another consequence of termination under cl 29.1. It reads: .2.2 in the event that Fuji Xerox terminates this Agreement under .1, Fuji Xerox may at its option: require that the Dealer assign to Fuji
+Xerox or Fuji Xerox nominated third party, any or all Customer maintenance and
+Software licence agreements (but not lease or rental agreements) in respect of the Products which are in effect at the effective date of termination.
+ Clause 38 dealt with conflict of interest. It reads: 
+Conflict of interest 
+If a conflict of interest or potential conflict of interest arises, the
+Dealer must notify Fuji Xerox immediately of the nature and extent of that conflict of interest or the potential conflict of interest.
+ 
+Termination of the dealer agreements  On 28 June 2010, FXA wrote to CSG. It stated that it had the right to terminate each of the dealer agreements, and said that it would do so on 12
+July 2010. In fact, termination was delayed, so that the parties could have "without prejudice discussions" to see if they could resolve their differences. They were unable to do so.
+ On 24 August 2010, FXA wrote to CSG, giving notice of immediate termination of the Brisbane and Maroochydore dealer agreements. It relied on the following asserted breaches: 
+CSG's failure to meet its target quota for each territory for the 2009 calendar year (said to engage, separately, cl 29.1.5.1 and cl 3.1.2, the latter being specified as an essential term by cl 31.1); the existence of a potential or actual conflict of interest (said to give rise both to a direct breach of cl 29.1.4 and to a breach of cl 14.1.10 - another essential term - read in conjunction with sch 5); engaging in misleading or deceptive conduct (this is no longer pressed); failure to provide information in accordance with cl 16.1.6 (another essential term); failure actively to promote and solicit sale of FXA MFDs within the territories (relying on cl 3.1.1 - another essential term); and breach of cl 14.1.4 (another essential term) by "marketing" Canon products on CSG's website.
+ The letter made various demands on CSG, including that it comply with its obligations under cl 30.1.
+ On 6 September 2010, CSG's solicitors DLA Phillips Fox wrote to FXA's solicitors Corrs Chambers Westgarth. They stated, among other things, that: 
+FXA had no right to terminate the Brisbane and Maroochydore dealer agreements. The termination constituted repudiation of [those] agreements by
+FXA, which repudiation has been accepted by CSG.
+
+Accordingly, [those] agreements are at an end.
+ 
+The witnesses in the case FXA called: 
+Mr Kugenthiran (who, as I have said, was the managing director of FXA and FXF); 
+Mr Adrian Slater, who was its commercial operations manager; his responsibilities included managing FXA's dealers and sales agents; 
+Mr Stephen Young, its commercial manager; his responsibilities included analysing revenue and sales data; and 
+Mr Nick John, a translator who translated certain documents from
+Japanese into English.
+ Messrs Kugenthiran, Slater and Young were cross-examined. Mr John was not.
+ There was one aspect of Mr Kugenthiran's evidence that troubled me. In his primary affidavit (sworn 23 September 2010), he dealt at para 154 with "information which is confidential to FXA and commercially sensitive". Those documents were collected in his confidential exhibit NK-2. However, it appeared, the exhibit had been prepared not by Mr Kugenthiran but by FXA's inhouse counsel, Mr Lincoln Glendining. Mr Kugenthiran accepted, in substance, that he did not himself read the documents, but relied on Mr Glendining to do so so as to identify the alleged confidentiality and sensitivity. Although Mr
+Kugenthiran said that he "glanced through" the documents, he made it clear that this was done "to familiarise myself", not to assess their confidentiality (see, generally, T170.19-172.27).
+ I accept that it may have been appropriate for Mr Kugenthiran to ask a subordinate (such as Mr Glendining) to identify documents for which a claim for confidentiality could properly be made. I do not accept that it was appropriate for Mr Kugenthiran to swear to the confidentiality of the documents without having satisfied himself of the truth of the assertion (or, more accurately, without having satisfied himself that there were proper grounds for the assertion).
+ However, I do not think that Mr Kugenthiran acted in this way in an attempt to mislead the Court. On the contrary, I am satisfied, based on the whole of his evidence, that he thought: that it was appropriate to seek advice from Mr Glendining on the question of confidentiality; and in effect, that if Mr Glendining were satisfied that a claim for confidentiality could properly be made, then it was appropriate to do so.
+ Otherwise, and despite the attack that Mr O'Bryan made on Mr Kugenthiran's credibility, I think that Mr Kugenthiran sought to give accurate evidence to the best of his ability. He impressed me as a careful and precise witness, with what appeared to be a good recall of relevant events. Considering his evidence as a whole, and taking into account both the specific challenge based on para 154 of his affidavit and the other matters on which Mr O'Bryan relied,
+I am satisfied that I can accept Mr Kugenthiran as a witness of truth.
+ In my view, the same applies to Mr Slater. Again, Mr O'Bryan attacked his credibility. Again, in my view, Mr Slater was a careful witness who sought to give truthful evidence, and who appeared to have a good grasp of relevant events. I am not persuaded by Mr O'Bryan's submissions to the contrary. I accept Mr Slater as a witness of truth.
+ No attack was made on Mr Young's credibility. I accept him as a witness of truth.
+ Mr O'Bryan also attacked FXA for what he characterised as deficiencies in the production of documents. He complained that documents had been produced late and without explanation. For example, documents were produced during the course of the hearing that, he submitted, were plainly covered by notices to produce served some weeks before the commencement of the hearing. He submitted that: those matters should be taken into account in assessing such evidence as there was of FXA's "well-developed strategies and plans to put direct agents into the Brisbane market before CSG's announcement of the Canon arrangement" (closing written submissions, para 141); and they should also be taken into account in assessing the credibility of
+Mr Kugenthiran: it reflected poorly, Mr O'Bryan submitted, "upon Mr
+Kugenthiran's credibility as a witness and the seriousness with which FXA undertook its obligations to search for and produce relevant documents to CSG" (ibid, para 150).
+ The reality is that these proceedings were brought on with a great deal of haste. There was no discovery: either generally or by category. Instead, the parties proceeded by issuing targeted notices to produce. The issues in the case shifted, as documents were produced. Each party had a significant burden in preparing its case for hearing. It is not surprising, in those circumstances, that there may have been deficiencies in the initial responses to notices to produce.
+ However, it does not follow that there was some deliberate strategy on the part of FXA or its witnesses to deprive CSG of vital information. If that were so, then the documents would not have been produced only late, and during the hearing; they would not have been produced at all. True it is that in some cases the production was triggered by calls made in the course of cross- examination. But if a deliberate strategy had been made to hold documents back, those calls would have been treated in the same way as were the notices to produce.
+ I do not regard these matters (upon which Mr O'Bryan expended both significant time in cross-examination and significant attention in his written submissions) as having any substantial impact on my assessment of the credibility of FXA's witnesses.
+ I note that Mr O'Bryan made a submission, relying on Jones versus Dunkel <case>; [(1959) 101 CLR 298], based on
+FXA's failure to call witnesses whom Mr O'Bryan submitted could have given relevant evidence. Jones versus Dunkel assists in the drawing of inferences where, apart from the failure to call a witness (or to ask questions on a particular topic of a witness who has been called), there is a basis in the evidence for drawing that inference. It has no further relevance, and in my view has little (if anything) to do with the resolution of the disputed issues of fact in this case.
+ CSG called two witnesses: 
+Mr Denis Mackenzie, its managing director; and 
+Mr Kevin McLaine, its chief financial officer.
+ I do not regard Mr Mackenzie as a reliable witness. From time to time, he denied matters, only to be obliged to recant his denial when shown contemporaneous documents. On numerous occasions, he found it difficult to give direct and responsive answers to questions. Specifically, he persistently avoided questions, when, in my view, he thought that to give a direct and honest answer might have been adverse to CSG's case. He was given to foisting non-responsive and self-serving comments on counsel.
+ To the extent that Mr Mackenzie's evidence goes to any disputed question of fact, I do not regard it as having substantial probative value. Nor do I regard it as having substantial probative value in so far as Mr Mackenzie sought to explain or justify those of CSG's actions that were impugned.
+ To some, although considerably lesser, extent, Mr McLaine's evidence suffered from the last two characteristics that I have listed in relation to
+Mr Mackenzie's evidence. On balance, however, and taking those matters into account, I conclude that in general Mr McLaine sought to give accurate evidence; and in general, I think, I should accept that he did so.
+ 
+Issue 1(a): target quotas 
+Were target quotas set? The first question is whether a target quota had been fixed for the calendar year 2009 for the Brisbane and Maroochydore dealerships. Clause 5 of each dealer agreement provided for the target quota to be reviewed by FXA and
+CSG "on an annual basis as determined by" FXA. If there were no review, or no agreement, within a reasonable time (again, as determined by FXA), then FXA was to determine the target quota taking specified matters into account.
+ For the calendar year 2008, target quotas were fixed by FXA and notified to
+CSG in writing. In each case, the notification stated both a "Revenue Target" and the method of its calculation. It also dealt with other matters. For
+Brisbane, the target quota for 2008 was $9,400,000.00, and for Maroochydore, it was $1,400,000.00. In each case, the written notification was signed (so as to indicate acknowledgement) on behalf of CSG.
+ No equivalent document was produced for the calendar year 2009. Mr Slater (who was responsible for setting target quotas) said (para 11 of his affidavit made on 22 September 2010) that: 
+Dealer's targets for the calendar year 2009 were the same as the targets for each dealer in the calendar year 2008.
+ That bald and conclusory statement, unsupported by any documentary or other admissible evidence of the process leading to the fixing of the targets for , was admitted only as evidence of Mr Slater's understanding.
+ Mr Smith submitted that the very fact that Mr Slater had such an understanding was some evidence that the fact, or state of affairs, so understood existed. I am not sure that this is correct; and if that understanding were the only evidence of the setting of a target quota, I would accept Mr O'Bryan's submission that FXA had failed to prove the targets for .
+ However, there was some further evidence. On 26 March 2010, Mr Slater sent an email to Mr David Ward, who was CSG's general manager. The email attached two spreadsheets. One set out the targets proposed for 2010. The second set out, according to the email, "some historical data as a guide". That spreadsheet stated the targets and revenues for each of the 2007, 2008 and target years. For 2009, it showed the Brisbane target as $9,400,000.00 and the Maroochydore target as $1,400,000.00.
+ The email concluded: 
+Have a look at the numbers David, I'm happy to discuss any of them.
+Schedule 3 letters will be sent to you only (not anyone else) once they are agreed.
+ There is no evidence of any discussion between Messrs Slater and Ward. Mr
+Ward was not called to give evidence. No doubt as a result, it was not put to
+Mr Slater that there had been some discussion in which Mr Ward contested the proposition that the 2009 targets were as stated in the relevant spreadsheet.
+ This material operates in two ways. First, it is a business record which, of itself, is capable of proving the matters stated in it (in circumstances where, as I have said, Mr Slater, the author of the email, was the person responsible for setting target quotas). Second, the failure of CSG to reply, disputing the assertion that any target quota had been fixed for 2009 (let alone, at the figures stated in the relevant spreadsheet) is some evidence that CSG did not regard the spreadsheet as incorrect.
+ On 30 April 2010, FXA sent two letters to CSG: one relating to the Brisbane dealer agreement and the other relating to Maroochydore. Each letter was addressed to Mr Mackenzie and was signed by Mr Slater.
+ The Brisbane letter reads, so far as it is relevant: ...
+
+As you know, the Target Quota for the Brisbane Dealership for the 12 month period ending December 2009 (inclusive) was $9,400,000. We are concerned that with $7,549,592 of purchases against a target of $9,400,000, CSG Limited has failed to meet the Target Quota for the period 1 January to 31 December 2009 and therefore may be in breach of its obligations under the Brisbane Dealer
+Agreement.
+
+The figure of $7,549,592 is inclusive of adjustments made by us based upon information provided by CSG to reflect the reallocation of purchases between
+CSG's various dealerships in 2009. If CSG does not agree with the accuracy of these results, please advise us in writing within 7 days of the date of this letter providing detailed supporting evidence of any proposed adjustment. If we do not receive such information, we will assume that you accept the accuracy of the dealership's purchases set out above.
+
+Please also advise us within 7 days of the date of this letter of any other matters that you wish FXA to take into account when considering its options in relation to CSG's apparent failure to meet the Target Quota for the
+Brisbane Dealership.
+
+In the meantime, FXA reserves its rights in relation to this suspected breach by CSG of its obligations under the Brisbane Dealer Agreement, including but not limited to its right to terminate that agreement.
+ ...
+ The Maroochydore letter reads, so far as it is relevant: ...
+ 
+As you know, the Target Quota for the Maroochydore Dealership for the 12 month period ending December 2009 (inclusive) was $1,400,000. We are concerned that with $590,226 of purchases against a target of $1,400,000, CSG Limited has failed to meet the Target Quota for the period 1 January to 31 December and therefore may be in breach of its obligations under the Maroochydore
+Dealer Agreement.
+
+The figure of $590,226 is inclusive of adjustments made by us based upon information provided by CSG to reflect the reallocation of purchases between
+CSG's various dealerships in 2009. If CSG does not agree with the accuracy of these results, please advise us in writing within 7 days of the date of this letter providing detailed supporting evidence of any proposed adjustment. If we do not receive such information, we will assume that you accept the accuracy of the dealership's purchases set out above.
+
+Please also advise us within 7 days of the date of this letter of any other matters that you wish FXA to take into account when considering its options in relation to CSG's apparent failure to meet the Target Quota for the
+Maroochydore Dealership.
+
+In the meantime, FXA reserves its rights in relation to this suspected breach by CSG of its obligations under the Maroochydore Dealer Agreement, including but not limited to its right to terminate that agreement.
+ ...
+ CSG responded by letter of 11 May 2010 (addressed to Mr Kugenthiran and signed by Mr Mackenzie). As Mr Mackenzie agreed, CSG had had the benefit of legal advice, and the letter had been drafted by its lawyers.
+ In relation to "recent correspondence on schedule 3 targets" (i.e. target quotas) the letter made "the following points": 
+CSG runs a centralised purchasing function and believes that it is only proper to regard the total volume across all 'Territories'. Darwin and
+Toowoomba dealerships cannot be excluded.
+ 
+The 12 months to December 2009 was impacted by the heavy purchasing CSG made in October - December 2008. This was a result of FXA increasing prices effective from early 2009. This price rise came as the market was contracting due to the global financial crisis.
+ 
+If not for those purchases in late 2008, it is likely that CSG would have met the 2009 schedule 3 targets.
+ 
+On a 12 month basis from April 2009 to March 2010, CSG is ahead of schedule 3 targets with volumes of $15.8m compared to schedule 3 targets of $15.7m.
+ 
+Our Queensland regional dealerships have suffered from the changes in the /09 Queensland Government Contract or SOE agreement where equipment pricing and FSMA support from FXA is now so minimal that dealers can no longer afford to put sales resources to this business.
+ 
+We have invested heavily in Toowoomba, Cairns and Sunshine Coast dealerships to improve and enhance FXA's image and those initiatives are expected to pay dividends this year.
+ 
+Our Brisbane based sales people were recognised as the top three FXF sales people in the country last year.
+ It is conspicuous that, of all the points made by Mr Mackenzie, he did not assert that target quotas had not been fixed for the calendar year 2009.
+On the contrary: in the third and fourth dot points, Mr Mackenzie appeared to recognise that there were in fact schedule 3 targets fixed for 2009.
+ Mr O'Bryan referred to the process set out in cl 5, and submitted there was no evidence of any review by FXA and CSG. However, the clause does not proceed on the basis that target quotas can be reviewed only by, or following a meeting of, the parties. If the parties do not review the target quota then it is to be determined by FXA. In making that determination,
+FXA is required to refer "to the average increase over the previous three years or if there is no such average, ten (10) percent". The clause does not on its proper construction specify that the target quota must be increased from year to year in accordance with the matters to which reference must be made. It would be open to FXA to conclude that any increase should be less than one determined by reference to those matters; or, indeed, that there should be no increase at all.
+ In my view, the evidence is sufficient to show that FXA did determine that there should be no increase from 2008 to 2009, and accordingly did fix target quotas as stated in the relevant spreadsheet accompanying the email of 26
+March 2010 and as stated in the letters of 30 April 2010. To the extent that it matters, I conclude (from CSG's failure to dispute the assertions of the setting of a target quota for each dealership for 2009) that it understood that the quotas had been fixed as Mr Slater said.
+ 
+Were the target quotas met? The next question is whether CSG met the target quotas so set. FXA's case, based on Mr Young's evidence, was that CSG's purchases fell well short of the targets. He said that there were purchases of $7.59 million of product for
+Brisbane and $570,000.00 of product for Maroochydore.
+ Mr O'Bryan attacked vigorously the methods used by Mr Young to reach those figures (including various adjustments that he made). I have the greatest difficulty in understanding why this particular attack was launched. Mr
+McLaine's evidence (second affidavit, sworn 28 October 2010) confirmed that if sales of consumables were excluded (as FXA contended they should be), FXA's purchases for each dealership for 2009 fell well below the applicable target.
+Mr McLaine's figures differed from Mr Young's: slightly higher purchases for
+Brisbane, and somewhat lower purchases for Maroochydore. Nothing turns on this.
+ 
+Are consumables included? The real dispute, on the question of whether or not CSG had met the target quotas that I have found were set, was whether consumables should be taken into account. That requires attention to: the terms of cl 3.1.2; the definition of "Products" in cl 2.1 (confirmed by cl 45(v)); and the terms of sch 3.
+ Mr O'Bryan submitted, and I do not think that it was contested, that the dealer price books referred to in cl 2.1 specified products including consumables (or, in the language of sch 3, spares, consumables, paper and supplies). Thus, Mr O'Bryan submitted, the obligation imposed by cl 3.1.2 was, at least prima facie, to purchase at least the target quota amount of all such "products".
+ As to sch 3, Mr O'Bryan submitted that the words "purchased from other dealers" in the last sentence of the relevant part of sch 3 (set out at [43] above) qualified not just the preceding word "equipment", but all the preceding words in that sentence. Thus, Mr O'Bryan submitted, it was only spares etc (if I may be compendious) purchased from resellers or other distributed that were not to be taken into account in determining whether CSG had met its target quotas for 2009.
+ I do not think that this construction is correct. The obligation in cl .1.2 is to purchase from FXA the target quota of Products set out in sch 3 together with appropriate quantities of consumables. That definition draws a distinction between those Products that are the subject of the target quota obligation and other Products - consumables - that are not. The obligation extends not to all Products but only to those Products that are described in
+Sch 3.
+ The first sentence of the relevant portion of sch 3 indicates (although it does not expressly state) that the "Products" to which it applies are "equipment, accessories and software purchased directly from FXA or... through
+Triangle Corporation" (Triangle Corporation is an entity related to FXA which supplies specialist products, including some known as "wide format".) That de facto definition of relevant "Products" is then followed by a de facto exclusion, of spares, consumables etc. If the words "purchased from resellers or other distributors" qualified each of the kinds of the "Product" "preceding them, they would be otiose, because cl 3.1.2 makes it clear that the obligation is to buy Products from FXA to at least the value of the target quota. Clause 3.1.2 has the effect that material bought otherwise than from
+FXA, even if it is otherwise capable of being regarded as "Product", is not relevant to the obligation to meet the target quota fixed from time to time.
+ The distinction between Products other than consumables on the one hand, and Products that are consumables on the other, is made by cl 3.1.2. That distinction informs the construction of the relevant portion of Sch 3.
+ For those reasons, I conclude that, in determining whether CSG met its target quotas for 2009, purchases (whether from FXA or otherwise) of spares, consumables and the other matters mentioned in the second sentence of the relevant portion of sch 3 are not to be taken into account.
+ 
+Reasons for any shortfall  Mr O'Bryan submitted that, even if a target quota had been fixed for each dealership and, on the proper construction of the relevant provisions of the agreement, had not been met, there were two reasons why FXA could not rely on that failure. Those reasons were (to take them out of order): that FXA had contributed to any shortfall, because of stock shortages and delays in delivering product to CSG during 2009; and an estoppel.
+ The first point is untenable. It is clear that, from time to time, CSG complained FXA about difficulties in obtaining stock. For example, an email of October 2009 says that "the stock shortages are ridiculous", and that there are "customers who have waited two months". However, no attempt was made to demonstrate that such stock shortages as were proved were of such magnitude as to prevent FXA from achieving its target quotas. I will not refer in detail to the evidence, some of which was confidential. It is sufficient to note that Mr
+Slater carried out a detailed analysis of CSG's stock records. That analysis showed that for 2009, unfilled orders for Brisbane amounted to about $226,000.00; from Maroochydore, to about $112,000.00; and, in total, about $338,000.00. Those figures fall far short of the actual deficit for each dealership. That aspect of Mr Slater's evidence was not controverted, and was not challenged in cross-examination.
+ The estoppel argument is no more persuasive. It is said that FXA never told CSG how it was travelling compared to its target quotas, and did not indicate that it might terminate the dealer agreements by reason of breach of cl 3.1.2.
+ In substance, Mr Mackenzie's affidavit evidence, taken at its highest, demonstrates no more than that he assumed that FXA would not exercise any right that it might have to terminate under cl 3.1.2 because no one told him that it might do so. In cross-examination, he conceded the following matters: he did not know during 2009 that CSG might not, or would not, meet its target quotas; he sought no assurance that FXA would not terminate if CSG did not meet its target quotas; he did not during 2009 turn his mind to the question of whether CSG would or might meet its target quota; he assumed that CSG had met its target quota because of some information given to him about the "Par Club"; but he knew that target quota and Par Club were different, and that among other things they related to different periods.
+ In short, there is no evidence of any representation or other conduct of, or that can be sheeted home to, FXA which caused CSG, through Mr Mackenzie, to think that FXA would not terminate if an entitlement to do so arose under cl .1.2. A fortiori, there was no reliance by CSG, through Mr Mackenzie, on any such conduct.
+ 
+Conclusion  Accordingly, I conclude that for each of Brisbane and Maroochydore, CSG did fail to meet its target quota for the calendar year 2009, and thus that it breached cl 3.1.2 of each dealer agreement.
+ 
+Issue 1(b): misuse of confidential information  This issue was not withdrawn. However, FXA's closing outline of submissions did not identify misuse of confidential information as one of the seven breaches of the dealer agreements that entitled FXA to terminate (see paras 111 to 118). In those circumstances, I propose to do no more than record, and accept, Mr O'Bryan's submission that: the relevant decision makers for CSG were Messrs Mackenzie and
+McLaine; each of them specifically denied making any relevant use of the confidential information in question; their denials were not challenged; and accordingly, FXA had not made good its case on this issue.
+ 
+Issues 1(c), (f): conflict of interest arising from the negotiation and making of the Canon agreements  It is convenient to deal with these issues together.
+ 
+First question: are the relevant terms void for uncertainty?  Mr O'Bryan submitted that the relevant provisions of the dealer agreements (cls 29.1.4 and 38; and also, to the extent that it was relied upon, sch 5 in so far as it was called up by cl 14.1.10) were insufficiently certain to be enforceable. Mr Smith submitted to the contrary.
+ There was some dispute as to the formulation of the appropriate test. Mr
+O'Bryan said that the question was whether the provisions in question are "insufficiently certain to be enforced". He relied on Sackville AJA (with whom
+McColl and Macfarlan JJA agreed) in Ross versus Ice TV  <case>, citing Wootten J in Austra Tanks Pty Ltd versus Running [[1982] 2 NSWLR ]
+at 843. It is worth setting out in full the passage from the judgment of
+Wootten J to which Sackville AJA referred: ...
+ 
+A number of different situations give rise to problems of uncertainty in contracts. Without attempting to be exhaustive, they include the following.
+Firstly, the parties may use language which is intractably meaningless. I say "intractably" because courts will not lightly accept defeat in the search for meaning. Secondly, the parties may have failed to say anything about a matter that is essential to their contract. As far as express words go, the matter is completely uncertain. Thirdly, the parties may have dealt with a matter, and the words may have meaning: the problem is that they have more than one meaning. Unless the agreement was vitiated by mistake, the courts will decide which is the most reasonable meaning to attach to the words in all the circumstances.
+
+A fourth situation is where the parties deal with a matter, but instead of defining their obligations precisely or presently, use words which call for some inquiry. A matter may be left for determination by some nominated authority, even by one of the parties themselves; or for calculation by reference to future events or information not presently available; or for determination by reference to some standard. In all these cases the fundamental approach is id certum est quod certum reddi potest - the contract is good if the inquiry for which the words call is one which will lead to a sufficiently certain result. Even a reference, express or implied, to what is "reasonable" will provide sufficient certainty where there is an adequate standard by which reasonableness can be judged, although it has been held inadequate to define a restraint of trade merely by reference to a reasonable distance: Peters Ice Cream (Vic) Ltd versus Todd <case>; <case>; [(1968) 118 CLR 429] at 436-437. Again, it is worth setting out in full his
+Honour's words: 
+But a contract of which there can be more than one possible meaning or which when construed can produce in its application more than one result is not therefore void for uncertainty. As long as it is capable of a meaning, it will ultimately bear that meaning which the courts, or in an appropriate case, an arbitrator, decides is its proper construction: and the court or arbitrator will decide its application. The question becomes one of construction, of ascertaining the intention of the parties, and of applying it. Lord Tomlin's words in this connection in Hillas & Co. Ltd. v. Arcos Ltd. ought to be kept in mind. So long as the language employed by the parties, to use Lord
+Wright's words in Scammell (G.) & Nephew Ltd. v. Ouston is not "so obscure and is incapable of any definite or precise meaning that the Court is unable to attribute to the parties any particular contractual intention", the contract cannot be held to be void or uncertain or meaningless. In the search for that intention, no narrow or pedantic approach is warranted, particularly in the case of commercial arrangements. Thus will uncertainty of meaning, as distinct from absence of meaning or of intention, be resolved.
+ I do not see any relevant distinction between the two approaches. It is implicit in what Wootten J said, and explicit in what Barwick CJ said, that if meaning can be given to words by the orthodox processes of construction, then that is what impugned provision means, and (subject to questions of mistake and the like) that is the obligation to be performed.
+ In this case, there is no inherent uncertainty in the words (which appear throughout the relevant contractual provisions) "conflict of interest". In context, they mean a conflict between the obligations owed by FXA to CSG, or by CSG to FXA, on the one hand and the interest of FXA or CSG, as the case may be, on the other.
+ Mr O'Bryan submitted that the dealer agreements did not make CSG a fiduciary of FXA. Since Mr Smith did not contend to the contrary, I am content to assume, without deciding, that this is so. The dealer agreements were entered into by each party in the pursuit of its legitimate self-interest, in the expectation that performance would be to its benefit. It was inevitable,
+Mr O'Bryan submitted, that if one party were to pursue its legitimate commercial interests under the contract, this could only be at the expense of, so as to cause conflict with, the interests of, the other. He instanced the situation where (he said) it was FXA's interest to sell products to CSG at as high a price as possible, so as to maximise its profit on the sale; but in
+CSG's interest to pay as low a price as possible (so as to maximise its profit on resale). That was an unhelpful example, because the question of pricing is dealt with explicitly by cls 7.1 and 7.2. Although, as I have mentioned, CSG from time to time sought a special price from FXA, there was no evidence that
+FXA had declined to accede. On the one occasion in the evidence where this happened (the "Colorado" transaction, to which I will refer later in these reasons), FXA did indeed offer a discount off the relevant dealer price book figures.
+ In any event, it is in my view clear that the words "conflict of interest" do not refer to conflicts that are inherent in the proper performance by each party of the dealer agreements. That is so because, as Mr O'Bryan submitted, the parties could not be supposed to have contracted on the basis that either might terminate the dealer agreement because of a "conflict of interest" that was a necessary or foreseeable consequence of its due and otherwise lawful performance.
+ On the other hand, it is evident that conflicts may arise between the interest that one party has in the due performance by the other of its obligations under the contract, and activities of that other undertaken outside, or beyond the limits of, the contract. For example, as cl 3.1.1 makes clear, the primary interest of FXA was the promotion, sale and maintenance of its products within each territory. Put in the language of the industry, FXA's interest was to have CSG perform its obligations under each dealer agreement so that FXA's MIF in each territory was maintained and enhanced. Suppose CSG had exercised the Imagetec option, and thereby (putting aside corporate veils) had become entitled to distribute Develop MFDs within the territories. CSG's interest as distributor of Develop MFDs would require it to promote the sale of those MFDs not just outside, but also within, the territories. Indeed, because of its knowledge of the customers and the characteristics of the MIF in the territories, CSG would be well placed to churn those customers to
+Develop. On the other hand, CSG's obligations to FXA under the dealer agreements (including, but not limited to, under cl 3.1.1), and FXA's interest in the due performance of those obligations, would require CSG to promote the sale of FXA MFDs at the expense of FXA's competitors, including Develop. That would be a clear conflict of interest, and clearly within the words of the relevant clauses.
+ I conclude that the relevant clauses of the dealer agreements are sufficiently certain, both as to what they catch and what they do not catch, to be enforced.
+ 
+Second question: unlawful restraint of trade Mr O'Bryan submitted that, on the proper construction of the relevant provisions, they applied only to actual or potential conflicts of interests within the territories. If that were not so, he submitted, then they amount to unlawful restraints of trade (for example, because they might prevent CSG from becoming a Canon dealer, or for that matter a dealer in any competing products, outside the territories).
+ The better view of the conflict of interest clauses is that, as I have indicated, they do not apply to conflicts at large. For example, on any view
+CSG was entitled to become a distributor of competing MFDs in areas outside the territories, and to pursue those distributorships with all proper commercial zeal, even though to do so might take market share away from, and hence injure the economic interests of, FXA. In this context, it is worth noting that it is common ground that the restraint of trade set out in cl .1.4 does not extend beyond the territories; it would be extraordinary if that agreed (and as a matter of construction correct) position could be subverted through the conflict of interest clauses.
+ However, I am not prepared to conclude that the conflict of interest clauses cannot apply to any activity whatsoever undertaken by CSG outside the territories. It is sufficient to say, as I have indicated already, that conflicts of interests that are caught by the clause relate to activities undertaken by one party which subvert the legitimate interests and expectations of the other party in the due performance of the former party's obligations under the dealer agreements.
+ 
+Third question: conflict arising from negotiation of Canon agreements  Mr Smith submitted that cl 3.1.1 was equivalent to a "best endeavours" or "best efforts" obligation, so as to attract the principles stated by Gibbs CJ in Hospital Products Limited versus United States Surgical Corporation <case>; <case>; [(1931) 45 CLR 359] at 378 (Dixon J) for the proposition that an obligation to use best endeavours to sell another's goods "necessarily includes an obligation not to hinder or prevent the fulfilment of its purpose". A "best endeavours" obligation does not require superhuman or unreasonable efforts.
+The person subject to it "is required to do all he reasonably can in the circumstances to achieve the contractual object, but no more".
+ Mr Smith submitted that conflict arose because, in the course of negotiations with Canon, CSG (which then expected that FXA would terminate the dealer agreements) promised to churn FXA's MIF in Brisbane to Canon. It is my view clear that Mr Mackenzie did offer to do this in the course of the negotiations; and I regard his attempts to suggest otherwise as disingenuous.
+ Messrs Mackenzie and McLaine appreciated that Canon wanted to increase its market share. The obvious inference, supported by Canon's records produced on subpoena, is that it would seek to do so at the expense of its competitors: specifically, FXA, "the number one".
+ According to Canon's records, Mr Mackenzie (or someone else on behalf of
+CSG) said the following in a meeting held on 27 April 2010: 
+CSG would like to acquire 10,000 MIF from Canon, outside Brisbane; 
+CSG had a 30% share of the Brisbane Tier 3 market for MFDs; 
+CSG wanted to acquire Canon's Brisbane MIF; 
+The more MIF CSG could acquire, the better from its point of view; 
+CSG had 6000 MIF and churned about one-third each year (the notes suggest "6000 MIF in Brisbane", which is plainly wrong; the figure applies to
+CSG's MIF throughout Australia); 
+CSG would be able to increase Canon's sales by 4500 units annually, together with additional units churned from FXA; 
+CSG expected FXA to terminate the Queensland dealerships if CSG reached agreement with Canon; that was "almost certain".
+ In substance, each of those matters (which as I have said is shown by
+Canon records) was confirmed by either Mr McLaine or Mr Mackenzie in the course of cross-examination, with the exception of a limited dispute as to the fifth matter which I have noted.
+ Before a second meeting, to be held on 29 April 2010, Mr MacKenzie said in an email to Mr McLaine (dated 28 April 2010): 
+I am going to tell them [Canon] tomorrow that they need to GIVE us the
+Brisbane MIF if we commit to churn our Darwin and Brisbane MIF to Canon.
+
+They need to give us something for doing that.
+ According to Canon's records of the meeting of 29 April 2010, Mr Mackenzie committed to transfer FXA's Brisbane MIF to Canon (again, there is a confusion as to the number). Mr Mackenzie conceded, with the qualification as to the number, that it was possible that this was said; and added, in my view disingenuously, that he did not know that Canon wanted to hear a commitment to churn.
+ I interpose a comment dealing with objections taken by CSG to the tender of Canon's records (produced on subpoena), some of which I rely on in making findings of fact as to the negotiations and dealings between Canon & CSG.
+With one qualification, the documents on their face fall within [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s69.html) of the [Evidence
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) and are admissible as proof of the truth of the facts asserted in the "previous representations" contained in them. It is at most a matter of weight that the authors were not called; and I have noted above that much of what is contained in those documents was confirmed by Mr Mackenzie or Mr McLaine. The qualification to which I referred above relates to a notation placed at the foot of one document (at p688o of Exhibit PX8) purporting to identify the author of the handwritten notes above it. I do not think that that notation was pressed; if it was, I reject it.
+ It may be noted that, in the implementation agreement, Canon agreed to sell a certain number of MFDs to CSG for a specified price (the precise details should be kept confidential), with the price to be reduced by an incentive payment, or rebate, of a specified amount for each FXA MIF which CSG churned to Canon.
+ That both Canon and CSG understood that it was a fundamental importance to
+Canon that CSG should churn FXA's MIF to Canon is shown by their documents.
+ Mr Smith submitted that CSG's commitments to churn FXA MIF to Canon involved actual, or at least potential, conflict with its duties under cl .1.1. I do not think that this is correct. Clause 3.1.1 imposed obligations on CSG for as long as the dealer agreements remained in force. It would be in
+CSG's interest to continue to promote the sale of FXA products up until (as it expected would happen) FXA terminated the dealer agreements. That is because to do so would maintain or build up the stock of MIF that could, following termination and the exercise of the Brisbane option, be churned, for reward, to Canon. If MFDs were ripe to be churned, a delay in doing so might cause the customer to look elsewhere. Retaining the MIF, even though to do so would delay a subsequent churn to Canon, would avoid potential loss of the customer.
+ Mr Smith submitted that the very existence of the Brisbane option, and the potential benefit of the rebate for each machine churned, would create at least potential conflict because it might cause CSG to delay churning machines until it was in a position to exercise the Brisbane option.
+ There is an answer to this. CSG retained independent contractors as sales agents to sell on its behalf in the territories. Those agents were remunerated only by commission. Mr McLaine's evidence, which on this point I accept, was that it was those agents who controlled the churn, because it was they who had direct contact with the customers, and knowledge of the customers' requirements. In those circumstances, Mr O'Bryan submitted, the agents would act in their own self-interest by churning all customers who were ripe to be churned, because that was how they earned their living. I accept that submission. I note that there is no evidence of any instruction, directive or suggestion from CSG to those agents that they should slow down, or delay, churning their customers' machines. Nor is there any evidence that CSG attempted to churn FXA products to Canon prior to the exercise of the Brisbane option. On the contrary, CSG's records show that from May to August 2010 (the period from entry into the Canon agreements to termination of the dealer agreement), CSG bought more FXA products than it had done during the corresponding months of 2009.
+ Mr Smith submitted, further, that a conflict arose because the commitments to churn FXAs MFDs to Canon once the dealer agreements were terminated and FXA exercised the Brisbane option were in direct conflict with CSG's obligations under cl 30.1.4 (and, if applicable, cl 37.2.2).
+ Mr O'Bryan submitted that there could be no such conflict, because CSG did not believe that the effect of those clauses was to require it to transfer its
+MIF in the territories without being paid a reasonable commercial value in exchange.
+ CSG was advised that whatever "commercially reasonable co-operation" might mean, it did not require CSG to cooperate in novating customer contracts to
+FXA without being paid the substantial commercial value of those contracts.
+There was some evidence that the value of MIF might range from $1,000.00 to $3,000.00 per unit. I deal with, and reject, this argument below; but I accept that this was the effect of the advice given to CSG, and that CSG was entitled to rely upon it.
+ However, the question of conflict of interest is not resolved by reference to subjective factors. The question is whether, on the facts as they are known, there was a conflict (or potential conflict) of interest. Was there a conflict between the commitments given by CSG to Canon, to churn FXA's
+Brisbane MIF to Canon upon exercise of the Brisbane option, and the relevant obligations (on their proper construction) imposed on CSG by the Brisbane dealer agreement? If, as I conclude below, those obligations on their proper construction require CSG to use commercially reasonable cooperation to attempt to procure the novation of customers to FXA (or a dealer nominated by FXA), and do not entitle CSG to require, as a component or condition of that operation, valuable consideration, then clearly the obligation, so construed, is in direct conflict with the promises or commitments given by CSG to FXA to churn the very same customers to Canon.
+ Mr O'Bryan submitted, further, that cl 30.1.4 applied only where FXA established an alternative dealer in the territory, and that, because FXA in fact took over the territory and sold direct there (through its own sales agents) there was no requirement to assign. For the reasons I give below, I do not accept that submission. But even if it were to be accepted, it does not follow that the commitments given by CSG to FXA, to churn FXA's MIF to Canon on exercise of the Brisbane option, were not in conflict with cl 30.1.4. It was not settled - at least, to CSG's knowledge - that FXA would deal direct, rather than through another dealer, in the Brisbane territory following termination. The question of actual or potential conflict is to be decided at the time the conduct alleged to constitute conflict is committed, and the relevance of what in fact happened in the future does not bear on that assessment.
+ Stepping back from the detail for a moment: in substance, what CSG undertook to Canon was that it would take from FXA the benefit of the MIF that
+CSG had maintained and built up for it in Brisbane, pursuant to the dealer agreement, and give the benefit of that MIF to Canon. How it could be argued that such an undertaking was not in conflict with the legitimate expectations and interest of FXA under the Brisbane dealer agreement is something that I have difficulty in understanding.
+ For the reasons that I have given, I conclude that there was a conflict of interest between CSG's commitments to Canon, to churn FXA's MIF to Canon on exercise of the Brisbane option, and CSG's termination obligations owed to FXA under the Brisbane dealer agreement.
+ FXA did not become aware of the facts relating to this conflict until after proceedings were commenced. Accordingly, it did not rely upon the conflict in its notice of termination. Mr Smith had submitted, when seeking leave to amend to rely upon conflicts arising from CSG's negotiations and agreements with Canon, that it would be open to FXA to rely upon those matters in support of the termination, even though they had not been specified in the notice. He referred to the decision in Shepherd. Mr O'Bryan did not, then or later, submit to the contrary.
+ Mr Smith relied on a further conflict, based on out of territory sales.
+The evidence suggested that from time to time, CSA sold MFDs to a customer in its Brisbane territory that had offices or branches outside that territory.
+When this happened, and the customer had a need for MFDs in those other offices or branches, CSG would supply those also, with the consent of FXA. Mr
+Smith submitted that, once CSG became a Canon dealer outside of the Brisbane and Maroochydore territories, it would not follow up opportunities for out of territory sales of FXA products, but would, instead, seek to persuade those customers to take Canon products.
+ I do not accept that submission. I have noted about Mr McLaine's evidence to the effect that it was the sales agents who controlled the churn of MFDs, through their knowledge of the customers and their requirements. Further, Mr
+McLaine said, when an out of territory sale occurred, it was (as one might expect) run by the territory from which it occurred. In the case of Brisbane, that meant, in effect, that the relevant agent would secure the sale of FXA
+MFDs both within the territory and to offices and branches outside it. Those sales agents, in Mr McLaine's words, "controlled the churn". They only had FXA products to sell. They had neither any interest in selling, nor any ability to sell, Canon products outside the territory.
+ In this context, Mr Smith referred to what I have called the Colorado transaction. Colorado was a Tier 3 customer of CSG's in Brisbane. It ordered a number of FXA MFDs through a sales agent, Mr Mathew Manton. One of those MFDs was to be delivered within the territory. Others were to be delivered outside: that is to say, they were out of territory sales.
+ It appears that some financiers regarded Colorado as a credit risk.
+However, FXF seems to have had more liberal lending criteria.
+ Mr Smith's case was that Mr McKenzie instructed Mr Manton not to approach
+FXF, and accordingly the sale did not proceed. Mr Manton appears to have claimed "the com[mission] he missed out on... he would have received if it went through fxf [sic]" (email from Mr Declan Ramsay, CSG's Brisbane sales manager, to Mr Ward of 23 August 2010). The email also asserted that Mr Manton had been "told by Dennis that he would be looked after as he should not be penalised for what CSG have done".
+ Mr Smith submitted, based on this, that Mr Mackenzie had instructed Mr
+Manton not to approach FXF for finance, and that this was part of a plan to delay the churn of Colorado's MFDs until after the Brisbane option was exercised. That was put to Mr Mackenzie, and he denied it. In this case, I accept his evidence.
+ Mr Manton appears to have begun the churning (or attempting to churn)
+Colorado's machines in late June 2010. By 12 July, he had obtained an order which was subject to finance; and an FSMA had been signed on the basis, presumably, that finance would be approved. Mr Manton had sought, and obtained, special pricing from FXA to enable the transaction to go ahead.
+ It seems that Mr Manton approached a number of finance companies, but without success. There is no evidence that he approached FXF. As I have said,
+Mr Smith suggested that this was because Mr Mackenzie had instructed him not to do so.
+ Mr Mackenzie denied giving any such instruction. He said, in substance, that FXF had earlier indicated that it would not entertain any finance proposals from CSG (and in this case, no one seemed to suggest that any relevant distinction was to be drawn between CSG and its sales agents). Mr
+Mackenzie was correct in this. On 17 May 2010, FXF wrote to CSG (Mr
+Kugenthiran was the author of the letter and it was addressed to Mr McLaine).
+The letter stated, among other things, that: 
+FXF does not propose to accept (or consider) finance proposals by CSG in relation to the Brisbane dealership that are received by CSG after close of business on the date of this letter.
+ Mr Kugenthiran did point out that FXF would honour existing approvals, process approvals already submitted, and deal with terminations of leases in the appropriate way.
+ Although the evidence did not explicitly cover the point, I would infer that CSG's management and sales agents became aware of FXF's stance shortly after 17 May 2010.
+ Those matters provide an obvious explanation of the failure to approach
+FXF for finance. Even if Mr Mackenzie had given a direction to Mr Manton not to approach FXF, that could hardly have been unreasonable, given FXF's stated attitude.
+ I do not find, in the circumstances of the Colorado transaction, any evidence that CSG was seeking to delay churning FXF MFDs until after it exercised the Brisbane option. On the contrary, I accept Mr O'Bryan's submission that the circumstances of the Colorado transaction show that in
+July 2010, CSG was seeking to churn Colorado's FXA MFDs, both within and without the territory, by replacing them with new FXA MFDs.
+ The second breach on which Mr Smith relied was failure, on the part of
+CSG, actively to promote the sale of FXA's products in the territories after May 2010. The only evidence to which Mr Smith pointed, as supporting that allegation of breach, was the evidence relating to the Colorado transaction.
+For the reasons that I have just given, I do not accept that the evidence shows failure to promote. On the contrary, as I have said, it is consistent with the proposition that, at least during July 2010, CSG was still seeking to promote of FXA products.
+ In those circumstances, I conclude that if, as a matter of intellectual analysis, there were some possibility of a conflict of the kind outlined by Mr
+Smith, it was not a conflict that, on the evidence, would arise. There was no actual conflict. Nor could there be a "potential conflict", because, by definition, potentiality must have the ability, in some circumstances, to mature into actuality. The factual circumstances that I have recited indicate that this would not happen. Any "conflict" existed (if at all) only at the level of abstract theory.
+ Before I move on from these issues, I will note that the apparent disputes in their statement were not pursued in final addresses, and accordingly I have dealt with them as they are stated.
+ 
+Issue 1(d): marketing of Canon products on CSG's website Although this was listed in FXA's closing written submissions as one of the seven breaches (in fact, the seventh) on which FXA relied to justify its termination, it was not separately addressed in those submissions. Mr Smith did refer to it in oral submissions, to the extent that he outlined the seven breaches, each of which, he said, was sufficient to justify termination.
+However, the submission (T464.25-.31) did no more than indicate the nature of the breach. It was not developed.
+ In those circumstances, there is considerable force in Mr O'Bryan's characterisation of this breach as one that was but "faintly suggested".
+ In support of the suggested breach, FXA's solicitors, in a written submission made only after I had reserved judgment, referred to two scanty pieces of evidence. The first was an internal CSG document: an email of 16
+June 2010 apparently attaching a document described as "2010 Canon CSG
+Marketing Initiative". The second was a document which purported to be a screenshot of CSG's website which referred, among other things, to Canon products. Although the screenshot (if that is what it is) was undated, it would appear to relate to a time before 24 August 2010, because it related to
+FXA products as well as Canon products.
+ There was no evidence that, from the time when that material was put up on
+CSG's website up until the time of exercise of the Brisbane option (which I will call "the relevant period"), any customer of CSG's in Brisbane or
+Maroochydore contacted it and sought to order Canon equipment rather than FXA equipment. There was no evidence that, during the relevant period, CSG had
+Canon equipment available for sale in Brisbane or Maroochydore (although, no doubt, it could have shipped such product in from other regions). More importantly, there was no evidence that, during the relevant period, CSG in fact sold or attempted to sell Canon equipment to any customer in the Brisbane or Maroochydore territories. On the contrary, if the Colorado transaction is any guide to what was happening during the relevant period, CSG was still seeking diligently to sell FXA's products.
+ In circumstances where CSG was a Canon dealer throughout much of mainland
+Australia, it is very difficult to see how the mere fact that it referred to this, and advertised Canon products on its website, could have given the appearance of any relevant conflict of interest with the business of FXA. In this context, it was common ground that the effect of the provisions relating to conflict of interest was, either as a matter of construction or by application of the doctrine of restraint of trade, that they had no effect outside the territories.
+ Mr Smith did not trouble to address on why the material to which I have referred could reasonably have suggested to a prospective customer, during the relevant period, that CSG was able or prepared or willing to sell Canon products within Brisbane or Maroochydore. I do not propose to explore any further a question that he effectively left in the position that I have described.
+ In those circumstances, I conclude that FXA has not established that whatever (if anything) CSG did after 11 May 2010 to market Canon products on its website amounts to a breach of the relevant clauses of the dealer agreement.
+ 
+Issue 1(e): misleading or deceptive conduct As I have noted, this issue is no longer pressed.
+ 
+Issue 2: breach by FXA 
+Clause 29.1.4 In essence, CSG's case was that FXA itself breached cl 29.1.4 of the dealer agreements because it intended to compete, either directly or by appointing other dealers, within the territories. It is not necessary to go to the detail with which CSG sought to support this case, because there are two fundamental flaws. The first is that CSG's dealership was not exclusive in either territory. The concluding sentence of cl 2.1 reads: 
+Nothing in this Agreement prevents Fuji Xerox from appointing other dealers or agents, or itself supplying any goods and services, within the
+Territory.
+ CSG pointed to no reason why FXF should be deprived of the right thus reserved to it.
+ The second flaw is that cl 29.1.4 does not impose an obligation to avoid potential conflicts of interest (contrast, for example, cl 14.1.10 read in conjunction with sch 5, which imposes just such an obligation on CSG). Clause .1.10 gives one party a right of termination if: the other party is in a position of potential conflict of interest; and the other party has not put in place measures, to the reasonable satisfaction of the first party, to minimise or avert that conflict of interest.
+ In short, in the circumstances in which it operates, cl 29.1.4 gives a right of termination. CSG has never exercised, or purported to exercise, that right. Indeed, it never got to first base: it did not call on FXA to take the appropriate steps to reduce or eliminate the potential conflict of interest.
+ 
+Duty of good faith  The next question relates to the alleged implied duties of good faith. The "pleaded" implied terms are as follows (para 6 of the amended cross-claim list statement): . The Dealer Agreements contained implied terms that: 
+FXA would act reasonably in exercising its rights, including any rights to terminate the agreement; 
+FXA would act in good faith in exercising its rights, including any rights to terminate the agreement; 
+FXA would act for a proper purpose in exercising its rights, including any rights to terminate the agreement.
+ (the implied terms) 
+Particulars 
+The terms were implied as a matter of law.
+ It is unnecessary to review the jurisprudence on implied obligations of good faith and reasonableness. I start with the proposition, expressed by
+Allsop P (with whom Ipp and Macfarlan JJA agreed) in United Group Rail
+Services Ltd versus Rail Corporation NSW <case>; <case>, "that good faith, in some degree or to some extent, is part of the law of performance of contracts". As his Honour recognised at [72], the concept of good faith encompasses "[t]he notion of fidelity to the bargain". This in turn may be seen "as founded, at least in part, on the requirement of a party to do all things necessary to enable the other party to have the benefit of the contract". Contracts are to be performed (or, it was put in the older cases, pacta sunt servanda).  For better or for worse, CSG contracted with FXA on the basis that FXA could compete, directly or through dealers or agents, in the territories.
+There is no reason for limiting that right by reference to considerations of good faith. Nor can the exercise of that right amount to an improper purpose for the purpose of analysing, and characterising, FXA's actions.
+ The same may be said of a right to terminate for essential breach. It is not difficult to see why a party to a contract, confronted with a breach of a term agreed to be essential, would want to have an immediate and unqualified right of termination. To qualify that right by reference to notions of good faith or reasonableness may subvert the clear purpose for which the right was given.
+ The steps taken by FXA to recover its Brisbane and Maroochydore territories were in my view taken in response to the announcement of CSG's agreements with Canon. FXA perceived, in the situation that then existed, a significant conflict of interest. Although I have found that the conflict that it perceived did not exist, the reality is that a far more serious conflict did exist. There can be no doubt that, had FXA known of the conflict that I have found did exist, it would have taken steps to terminate. It would have been justified in doing so. The essence of the conflict was no more and no less than a scheme hatched up between CSG and Canon for CSG to divert FXA's
+MIF in the territories to Canon: to the substantial detriment of FXA and the substantial benefit of Canon (and CSG).
+ In my view, FXA was motivated not by the ulterior purpose alleged, but by a desire to protect itself in the face of the threat that it perceived to exist following the announcement of CSG's agreements with Canon.
+ I do not need to decide whether the dealer agreements did contain the implied terms alleged by CSG. It is unnecessary to do so. Even if those terms were to be implied into the dealer agreements, they have not been engaged.
+ 
+Collateral purpose  That leaves the related question of collateral purpose. The collateral purpose alleged is (para 19 of the cross-claim list statement): . In terminating the Dealer Agreements, FXA was motivated by a collateral or improper purpose: to restrict CSG from expanding its business operations by requiring CSG to deliver up its customer list and information in respect of the Brisbane and
+Maroochydore dealership; and/or to promote FXA's strategy to deal directly in major metropolitan areas of
+Australia and not through dealers (such as CSG) or agents.
+ I do not find that FXA was motivated by the purpose alleged in para (a).
+As I have said, its purpose, in terminating the dealer agreements, was to protect its MIF in the territories from attack by Canon. (I deal at [204] and [205] below with the question of who "owns" MIF.) It had a legitimate interest in doing so.
+ As to the purpose alleged in para (b): the right to compete (including by dealing directly) in the Brisbane and Maroochydore territories was expressly reserved by cl 2.1. Even if FXA had the strategy alleged, its ability to implement that strategy was preserved by cl 2.1.
+ I conclude that FXA was not in breach of the dealer agreements, and that its termination of them was neither in breach of any implied obligation of good faith nor motivated by an improper purpose. Further, it follows from my findings on the first issue that FXA's notice of termination was valid, and that it did not thereby repudiate the dealer agreements.
+ 
+Issue 3: unclean hands  For the reasons that I have just given, there is no aspect of FXA's conduct that would justify the refusal of specific performance on discretionary grounds.
+ 
+Issue 4: obligations after termination  FXA relied on both cl 30.1.4 (which is engaged simply by expiration or termination of the dealer agreements "for any reason") and cl 37.2.2 (which is engaged by termination for cause). In addition, FXA seeks specific performance of the obligation under cl 30.1.6 (again, an obligation engaged by expiration or termination "for any reason") to provide information in relation to sales, maintenance agreements and the like.
+ It is convenient to start with cl 30.1.6. The only answer offered by CSG was that termination was the result of FXA's repudiation, and thus that FXA could not take advantage of its own wrong to assert its right under cl 30.1.6.
+My conclusion, that FXA's termination was valid, disposes of that contention.
+Likewise, to the extent that CSG relied on the doctrine of unclean hands, my finding that there was no relevant impropriety on FXA's part disposes of that contention.
+ I turn to cl 37.2.2. The first point taken was that the only requirement of cl 37.2.2 was one to assign, not one to novate. It was common ground that the FSMAs between CSG and its customers were not capable of assignment. In those circumstances, Mr O'Bryan submitted, cl 37.2.2 could not found the order for novation that FXA sought.
+ Clause 37.2.2 does not operate in a factual or contractual vacuum. As to the former: FXA and CSG had substantial industry experience (as I have mentioned, CSG had been FXA's distributor in Darwin for about 20 years when the dealer agreements were made). They should be taken to have understood (and, if they had taken legal advice, would have understood) that the FSMAs were not in law capable of assignment. It should not be thought that they intended to create a meaningless and unenforceable obligation.
+ As to the latter: cl 30.1.4 refers to cl 37.2.2 (as I have said, it is common ground that the cross-reference in cl 30.1.4 to cl 37.2.1 is incorrect). Clause 30.1.4 shows, objectively, that the parties intended that the right and obligation given by cl 37.2.2 was for FXA to require and for CSG to effect "assignment or novation of existing Customer maintenance contracts".
+In my view, cl 30.1.4 justifies reading the relevant words of cl 37.2.2 as: ...require that the Dealer assign or novate to Fuji Xerox or Fuji Xerox nominated third party, any or all Customer maintenance and Software licence agreements (but not lease or rental agreements) in respect of the Products which are in effect at the effective date of termination.
+ The next argument relates to the parenthesised words "(but not lease or rental agreements)".
+ Mr O'Bryan submitted that a number of agreements were, in truth, lease or rental agreements. It is not necessary to deal with the whole of his submissions on that point, because the orders sought by FXA related to only two categories of agreement. The first category was FSMAs. In terms, each FSMA is an agreement between the customer and CSG for the provision of service and maintenance in accordance with its terms. There is no suggestion that it contains any element of lease or rental.
+ The second category of agreement is what is known as an FXF "Docu/mation agreement". In terms, that is an agreement between FXF, CSG and the customer.
+That agreement achieves three things: 
+FXF agrees to rent the described equipment to the customer; 
+FXF appoints or constitutes CSG as its agent to collect rental payments from the customer; and 
+CSG agrees to deliver, install, service and maintain the equipment for the customer.
+ Relevantly, Docu/mation agreements are both rental agreements (as between
+FXF and the customer) and service and maintenance agreements (as between CSG and the customer). In their former capacity, they would fall within the parenthesised words in cl 37.2.2. In their latter capacity, they would fall within the preceding words ("Customer Maintenance... Agreements").
+ What is sought is the assignment or novation of maintenance contracts between CSG and its customers. The Docu/mation agreement includes such a contract. There is no reason why the requirement to assign or novate should not encompass that contract, even if it is recorded in a document that also includes a rental agreement.
+ Of course, for a novation to be effective, it would require FXF's consent.
+There is no reason to think that this consent would be withheld; not surprisingly, the proposed deed of novation for Docu/mation agreements provides for its execution by FXF as a party.
+ Clearly enough, if the obligation to assign is read as including an obligation to novate, the requirement to novate cannot be absolute. It requires the customer's consent. I express no view as to whose obligation it would be to procure that consent. But on any view, considerations of good faith in the performance of contracts, as discussed in United Group, would require CSG to do those things that lay in its power to enable FXA to have the benefit of cl 37.2.2. (See, in this context, Griffiths CJ in Butt versus M'Donald QLJ 68 at 70 - 71. It is arguable that the principle stated by his
+Honour is wider than the classic statement of Lord Blackburn in Mackay versus Dick [(1881) LR 6 App Cas 251] at 263, but that need not be explored in these reasons.) I turn to cl 30.1.4. Mr O'Brien submitted that cl 30.1.4 was not engaged, because FXA had not appointed an alternative dealer (and, on the evidence, did not intend to do so). The purpose of cl 30.1.4 is to enable FXA and any intended alternative dealer to establish that alternative dealer in the territories. The word "dealer" is not defined. In context, it must refer to a person who deals in FXA's "Products" as defined in cl 2.1. FXA deals in such goods because it distributes them throughout Australia. If, in addition, it sold them directly (through sales agents) in the territories, it would deal in them in that way also. Clearly, the parties contemplated that FXA might itself sell goods in the territory (see cl 2.1). Why would they think that, in the event of termination, FXA might not sell goods itself in the territory, rather than through another dealer? Why would they not intend the obligations of cl .1.4 to extend when FXA did take the latter course, as well as when it took the former? In general terms, the purpose of the dealer agreements, from FXA's perspective, was to maintain and build up FXA's business in the territories - in particular, its MIF. The evident purpose of cl 30.1.4 (and of cl 30.1.6) is to protect FXA's MIF in the territories upon the termination of the agreements. That purpose is as much applicable where FXA itself becomes the dealer as it is where FXA appoints a third party as dealer.
+ In my view, the construction for which Mr O'Bryan contends is subversive of that purpose. And the language used - in particular, "establishing an alternative dealer in the Territory" - is not so intractable as to require that in context, the word "dealer", although it may include anyone but FXA, necessarily excludes FXA.
+ The second point raised by Mr O'Bryan was that FXA had not sought CSG's cooperation. The obligations contained in cl 30.1.4 are not in terms conditioned on a request for cooperation. But even if they were, it is crystal clear what CSG's response would have been. Assuming that there were such a pre-condition to the obligation to provide commercially reasonable cooperation, it is evident, from CSG's attitude and actions, that FXA should be taken to have been dispensed from satisfying that condition: Peter
+Turnbull and Company Pty Limited versus Mundus Trading Company (Australasia) Pty
+Limited <case>; [(1954) 90 CLR 235.] Next, Mr O'Bryan submitted, the reference to "commercially reasonable cooperation" meant that FXA should pay the value of what he described as "CSG's MIF" as the price of novation. It could not be the case, he submitted, "that commercially reasonable co-operation could involve CSG having to give away to FXA, for no consideration, the Brisbane MIF" (written closing submissions, para 262).
+ That submission raises the question of who "owns" MIF. It depends on the proposition that the MIF in question is indeed CSG's. That proposition is inconsistent with the terms of CSG's promise or commitment to Canon: to churn
+FXA's MIF following exercise of the Brisbane option. It is clear that, in the negotiations between Canon and CSG, both Canon and CSG regarded the MIF to be churned as FXA's.
+ That characterisation of the MIF does a number of things. First, it indicates that (at best, from CSG's perspective) the same MFDs may be regarded in one sense as the MIF of FXA, or Canon, or whosoever's machines they are; and also as the MIF of the dealer who sold and services them. (Further as between a distributor and its sales agents, it may be the latter who assert some claim to "own" the MIF.) Second, it demonstrates that, according to the understanding of the industry, FXA has a very real interest in protecting "its" MIF. Third, it indicates that the question of valuable consideration is not all one way.
+ CSG's business was derived from its association with FXA. The purpose of the Brisbane dealer agreement was to maintain and build up FXA's market share in Brisbane. The purpose of cl 30.1.4 (and cl 30.1.6) is to protect that market share once the dealer agreement comes to an end. It would be inconsistent with the achievement of that purpose to impose some additional obligation to pay for the benefit of cl 30.1.4: particularly where what is to be paid is to be quantified (if it can be quantified) on the sole basis that it is "commercially reasonable".
+ In truth, I think, the words "commercially reasonable" describe the kinds of effort that CSG is required to make in performance of its obligations under cl 30.1.4, not to terms that it may exact as a condition for the performance of those obligations.
+ Mr O'Bryan made a number of submissions as to the terms of the proposed deeds of novation. In essence, what is required is a judgment that their terms are "commercially reasonable". If all parties execute the deed of novation, the effect would be that from the effective date thereof CSG ceases to be the maintenance contractor and the "New Contractor" takes its place. CSG is released from the effective date, but remains liable for anything it did or omitted to do before the effective date. There are releases and indemnities to give effect to that scheme, and representations and warranties which seem to me to go no further than might reasonably be required. There is a provision that each party is to bear its own costs of the deed. That does not seem to me to be unduly onerous, given that the only costs will be the administrative costs of procuring execution.
+ In my view, the terms of the proposed deeds are "commercially reasonable".
+ 
+Conclusion and orders  FXA has made good its claim that it has terminated the Brisbane and
+Maroochydore dealer agreements for cause. CSG's cross-claim fails. FXA is entitled in substance to the relief claimed by prayers 1 to 5 of the second further amended summons. I say "in substance" because the declarations sought as to the termination of the agreement rely, in the alternative, on FXA's notice of termination of 24 August 2010 and CSG's notice of termination of 6
+September 2010. For the reasons I have given, the former was effective.
+ The parties did not address specifically the question of costs, although prima facie FXA should have its costs of the proceedings to date. I will however reserve liberty to apply in respect of costs.
+ It is also at least possible that problems may arise in the implementation of the orders for specific performance. Liberty to apply should be reserved in respect of those orders.
+ In addition, the proceedings should be given a date for directions so that directions can be given in relation to the outstanding issue of damages.
+ I make the following orders: 
+Declaration in terms of prayer 1 of the second further amended summons, omitting therefrom the words "or alternatively its termination notice dated 6 September 2010;" 
+Declaration in terms of prayer 2 of the second further amended summons, omitting therefrom the words "or alternatively its termination notice dated 6 September 2010;" 
+Declaration in terms of prayer 3 of the second further amended summons; 
+Order that the obligations described in prayer 3 of the second further amended summons be specifically performed and put into execution.
+
+Order in terms of prayer 5 of the second further amended summons.
+
+Reserve liberty to apply in respect of orders (4) and (5).
+
+Reserve liberty to apply in respect of costs.
+
+Stand proceedings over to the directions list on 26 November 2010 for directions as to the balance of the proceedings.
+ 
+LAST UPDATED:  November 2010 * * * 

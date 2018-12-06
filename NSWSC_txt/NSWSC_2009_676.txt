@@ -1,0 +1,473 @@
+
+
+Sam Management Services (Aust) Pty Ltd versus Bank of Western Australia Ltd [2009] NSWSC 676 (17 July 2009) 
+Last Updated: 27 July 2009 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Sam Management Services (Aust) Pty Ltd versus Bank of Western Australia Ltd <case>  
+JURISDICTION: 
+Equity Division 
+Expedition List  
+FILE NUMBER(S):  /09  
+HEARING DATE(S):  - 17, 19, 30 June and 1 July 2009  
+JUDGMENT DATE:  July 2009  
+PARTIES: 
+Sam Management Services (Aust) Pty Ltd (Plaintiff) 
+Bank of Western Australia Ltd (Defendant)  
+JUDGMENT OF: 
+Rein J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+B Rayment QC, S Balafoutis (Plaintiff) 
+R Dick, C Withers (Defendant)  
+SOLICITORS: 
+Lenehan & Co (Plaintiff) 
+Blake Dawson (Defendant)  
+CATCHWORDS: 
+CONTRACTS - particular parties - bank and customer - Bank required to act reasonably and fairly to customer by virtue of Code of Banking Practice - whether Bank's refusal to agree to partial refinance and release of securities was unreasonable and unfair - whether implied term that Bank would agree to permit partial refinance - whether any utility in declaration - held Bank had not acted unreasonably and was not required to agree to partial refinance  
+LEGISLATION CITED:  
+CATEGORY: 
+Principal judgment  
+CASES CITED: 
+Attorney-General of Belize versus Belize Telecom Ltd <case> 
+BP Refinery (Westernport) Pty Ltd versus Shire of Hastings (1977) 180 CLR 266 
+Codelfa Construction Pty Ltd versus State Rail Authority of New South Wales <case>; <case> 
+Mediterranean Salvage & Towage Ltd versus Seamar Trading & Commerce Inc <case> 
+Neeta (Epping) Pty Ltd versus Philips <case>; <case>; <case>; [(1977) 139 CLR 231] 
+Secured Income Real Estate (Aust) Ltd versus St Martin's Investments Pty Ltd <case>; [(1979) 144 CLR 596]  
+TEXTS CITED: 
+Meagher, Gummow and Lehane's Equity Doctrines & Remedies, 4th ed (2002),
+LexisNexis Butterworths 
+Sykes and Walker, The Law of Securities, 5th ed (1993), Law Book Co  
+DECISION: 
+Proceedings dismissed with costs.  
+JUDGMENT:  
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+EXPEDITION LIST  
+Rein J  
+Date of Hearing: 15 - 17, 19, 30 June and 1 July 2009 
+Date of Judgment: 17 July 2009  /09 Sam Management Services (Aust) Pty Ltd versus Bank of Western
+Australia Ltd 
+JUDGMENT  REIN J: These proceedings are brought by the plaintiff ("SMS") as a customer of the defendant bank ("the Bank''), in the context of a consolidated loan facility in the order of $25 million given by the Bank to
+SMS. SMS claims that the Bank has acted in breach of an express term of the loan agreement or alternatively in breach of an implied term of the loan agreement that the Bank would permit SMS to refinance part of the debt with another lender and obtain release of some of the securities held by the Bank.
+SMS claims that it requested the Bank to permit partial refinancing and that the Bank refused to allow SMS to do so. SMS also claims that the refusal to allow it to partially refinance its debt constitutes a 'clog' on the equity of redemption. Mr Rayment QC appears with Mr Balafoutis of counsel for SMS and Mr
+Dick of counsel appears with Mr Withers of counsel for the Bank.  The matter was expedited and is of some urgency due to the inability of the
+Bank to take action in relation to its security pending the outcome of these proceedings.  
+Background  I shall set out first the uncontested factual background to the dispute.  SMS is a company owned and controlled by Mr Usama Marzouk ("Mr
+Marzouk"). Mr Marzouk left most of the dealings between SMS and the Bank to
+Mr John Panagopoulos known as Mr Poulos. Mr Poulos is a finance broker operating as Lion Pacific Finance and he had introduced SMS to the Bank.  The relevant officers of the Bank were a Mr Rod Baptist and his assistant Ms
+Matina Polly. The Bank initially lent SMS money in relation to only one of
+SMS's investments but by 2007 SMS had a number of consolidated loans. By letter of 15 May 2007 the Bank offered, on terms contained in and accompanying the letter, to provide SMS with consolidated loan facilities totalling $24, ,000, which was accepted by SMS the same day.  The loan was subject to extensive terms and conditions but relevantly for present purposes are the following provisions:  INTRODUCTION .1 Facility Documents 
+The terms and conditions upon which we enter into the Facilities with you and any Guarantor are contained in the Facility Documents.
+
+The Facility Documents comprise: the Agreement; the Security; any agreement relating to the priority of any 
+Security; any Risk Management Agreement; any other document or agreement which we and you agree is a Facility Document; and any agreement or instrument created under or contemplated by the above documents or agreements or which amends or varies any of them.
+
+The Facility Documents contain the entire agreement upon which the
+Facilities are offered to you and should be read together.
+
+The Agreement will, unless you and we otherwise agree, supersede all previous offers and arrangements between us, you and any Guarantor relating to the provision of the Facilities by us to you.
+ .2 Facility Review 
+We have the right to review the Facilities and the conditions of the
+Facilities including pricing and the security for the Facilities in accordance with this clause 1.2: annually; if you have breached any undertaking to us; an Event of Default or Potential Event of Default has occurred; or at such other times as we determine, (each a "Facility Review").
+
+If, following a Facility Review, we determine in our absolute discretion, that there has been an adverse change in the Total Outstanding
+Amount, your creditworthiness, security position or the value of any Security
+Property, we may: give you written notice ("Conditions Notice") informing you of the revised conditions which Will apply to the Facilities; or give you written notice ("Security Notice") requiring you to: provide additional security to secure the Total Outstanding Amount, which may include depositing with us such amount that we may require; pay to us such amount to reduce the Total Outstanding Amount to the amount we specify; or do both (A) and (B); or give you a Conditions Notice and a Security Notice.
+ ...
+ OVERDRAFT FACILITY .1 Drawings 
+Subject to the Facility Documents, we agree to permit utilisation of an
+Overdraft Facility by way of overdraft on receipt of your cheque drawn on the relevant Overdraft Account or in any other manner specified or agreed by us in relation to that Overdraft Account.
+ .2 Interest 
+Interest on an Overdraft Facility accrues each day on its end of day
+Outstanding Amount at the Interest Rate applicable to that Facility.
+
+You must pay to us all accrued interest monthly in arrears unless otherwise specified in the Facility Terms.
+
+If the Outstanding Amount under an Overdraft Facility exceeds the Facility Limit or its Sublimit, interest will accrue on the difference between the Outstanding Amount and the Facility Limit or Sublimit, as applicable, at the Excess Overdraft Rate.
+
+Each debiting will be deemed to be a fresh utilisation of the relevant Overdraft Facility.
+ ...
+ PAYMENTS .1 Manner of payments 
+All payments to us under the Facility Documents must be made: in immediately available funds (if AUD) or same day funds (if in another currency); in the same currency as the Drawing to which it relates or the AUD
+Equivalent of that amount, c) not later than 10am on the due date (or, if that is not a Business Day, on the next Business Day unless that day fails in the following month or after the relevant Facility Expiry Date, in which case, on the previous Business
+Day); to the account nominated by us to you or in such other manner as we direct from time to time; and in full without set off or counter claim and without any deduction in respect of Taxes unless prohibited by law.
+ .2 Amounts payable on demand 
+If any amount payable under a Facility Document is not expressed to be payable on a specified date, that amount is payable by you on demand by us.
+ .....
+ INTEREST AND FEES .....
+ .2 Obligation to pay interest 
+If you do not pay any amount under the Agreement (including any principal, interest, fees and Costs) on the due date for payment, interest accrues at the Overdue Rate on the unpaid amount from and including its due date for payment to but excluding the date on which the unpaid amount is paid in full.
+ 
+You must pay to us all accrued interest under this clause 11.2 on demand by us. We may debit any of these amounts to any account you hold with us before asking you to pay.
+ .3 Capitalisation 
+Amounts payable under clause 11.2 which are not paid when due for payment may be added to the overdue amount by us at intervals we determine from time to time, or, if no determination is made, monthly.
+ 
+Interest is payable on the increased overdue amount at the rate and in the manner set out in clause 11.2.
+ .....
+ UNDERTAKINGS .....
+ .2 Information Undertakings 
+You must: give to us all information specified in the Facility 
+Terms; provide to us as soon as practicable (and in any event not later than 120 days) after the end of each financial year copies of the consolidated and unconsolidated accounts (audited, if required by us) (including statements of financial performance and financial position) of you and each Guarantor; if requested by us, provide to us as soon as practicable (and in any event not later than 90 days) after the end of each financial half year copies of the consolidated and unconsolidated unaudited accounts (including statements of financial performance and financial position) of you and each
+Guarantor; if requested by us, provide to us monthly cashflow projections for the period requested by us; if requested by us, provide to us actual to projected cashflow analysis, aged creditors and debtors list and management accounts within 30 days after the end of each quarter; give us on demand the information and documents which we request from time to time in connection with: the Facilities and the Facility Documents; and your business, property or financial condition and your Related Entities (including copies of tax returns); .....
+ EVENTS OF DEFAULT .1 Events 
+An Event of Default occurs, whether or not it is in your power to prevent it, if: you do not pay on time any amount payable by you under any Facility
+Document in the manner required under it; at any time the Outstanding Amount in relation to a Facility exceeds its Facility Limit or applicable Sublimit; you do not comply with any other obligation under a Facility Document and if that non compliance is capable of rectification it is not rectified within 7 Business Days (or any other longer period agreed by us) of its occurrence; any present or future monetary obligation of you to any person is not satisfied on time (or at the end of any applicable period of grace) or becomes prematurely payable or can be rendered prematurely payable, by the giving of notice, lapse of time or fulfilment of a condition; .....
+ .2 Consequences 
+If an Event of Default has occurred we may at any time give you notice: specifying a new Final Repayment Date or a new Facility Expiry Date for a Facility, which may be the day we give the notice to you or any other later day; declaring the Total Outstanding Amount is either: payable on demand; or immediately due for payment; .....
+ .3 Consequences: interest 
+In addition to any other consequences under the Facility Documents, if: an Event of Default under clause 16.1 (a) or 16.1 (b) has occurred; or any other Event of Default has occurred and we have notified you of its occurrence and the default has not been remedied within 7 Business Days of the notice, then you must pay interest on the Total Outstanding Amount calculated at the Overdue Rate from the date of the occurrence of the relevant Event of
+Default in the case of clause 16.3(a) and from the date of the notification given by us in the case of clause 16.3(b). This interest shall accrue and be capitalised in the manner specified in clause 11.3.
+ .....
+ MISCELLANEOUS .1 Debiting of accounts 
+We are irrevocably authorised by you, at our discretion, to debit any amounts including interest, fees and Costs due to us actually or contingently to any of your accounts with us, regardless of whether the account balance is put in debit and regardless of whether a Facility Limit or a Sublimit is exceeded.
+ .....
+ CODE OF BANKING PRACTICE .1 Application 
+If the Code of Banking Practice applies to the Agreement, then this clause applies but not otherwise, and: shall have effect notwithstanding any other provision of the
+Agreement or a Facility Document, but shall only affect the Agreement and Facility Documents to the extent the Code of Banking Practice applies and not otherwise.
+ .....
+ DEFINITIONS .1 General definitions 
+Agreement means the agreement constituted by the acceptance by you on the Offer Letter.
+
+Facility Terms means the document attached to the Offer Letter headed "Facility Terms".
+
+Overdraft Account means an account established with us for the purpose of an Overdraft Facility.
+
+Overdraft Facility means any overdraft facility specified in the
+Facility Terms.
+
+Security Property means the property the subject of any Security.
+ The Code of Banking Practice (referred to in clause 20) includes, relevantly, the following provision:  "2.2 we will act fairly and reasonably towards you in a consistent and ethical manner. In so doing we will consider your conduct, our conduct and the contract before us." As at May 2007 SMS had the following facilities forming part of the consolidated loan with the Bank: a limited fixed interest rate facility ("the Concord facility"); a commercial advance facility with redraw capacity in the amount of $2 million ("the Restructure facility"); a commercial advance facility in the amount of $1 million relating to a block of land at Chuwar, Queensland ("the vacant block facility"); a commercial advance facility for $1.45 million agreed to expire on or about 20 October 2007 ("the Bassett Lane facility"); a similar facility agreed to expire on or about 17 October 2007 for $2.63 million ("the Ingleburn facility"); a $4.66 million facility ("the Claremont Meadows facility") an interest rate management facility ("the Risk Management facility").
+ Although two of the facilities were to expire in October 2007 and a third to expire in March this year, some have as long as 2012 to run.
+ In August 2007 the Bank agreed to provide a further facility in respect of land at Thagoona for $1 million but SMS did not in fact utilise the facility.  
+The dispute  SMS did not, at the end of October 2007, pay back the amount then due on the Bassett Lane facility or the Ingleburn facility ("the expired facilities") but by arrangement with the Bank these facilities were extended on a month to month basis. By April 2008 Mr Baptist had, for reasons which I shall detail, become concerned about Mr Marzouk and SMS and on 11 April 2008 he wrote to SMS in the following terms:  "Further to my recent discussions with John Poulos of Lion Pacific
+Finance, I wish to advise that Sam Management Services (Aust) Pty Ltd is in breach of its undertakings with respect to provision of the above information which was required to be to hand by 31st March, 2008. As non receipt of this information denies the Bank the opportunity of assessing the historic performance of the Borrower, and whether you have complied with the Interest
+Coverage Ratio (ICR) requirement attendant to the facilities, we were relying on the deposit funds lodged with the Bank to provide comfort. The recent transfer of $250,000 of this amount to your operating account means that we have a significantly reduced level of comfort around this aspect of performance.
+ 
+Additionally, two property transactions that you had previously advised were to transact and repay Bank debt, thereby impacting the ICR coverage ratio, were not concluded, and at this stage we can not see where debt reduction is to be achieved in relation to the group borrowings without the advance of further funds.
+ 
+As such, we advise that the Bank believes it would be in the best interests of both parties that you seek refinance of the total facilities currently conducted with BankWest. We are prepared to provide sufficient time for this to be achieved in a structured fashion, and request that within 30 days of the date of this advice you provide evidence of refinance approval from another institution with settlement to be undertaken within a reasonable time frame after this date. Failure to provide evidence of refinance will result in the margin attendant to all of the facilities being increased by an amount of 1% per annum, with subsequent additional re-pricing considered monthly in light of any further delays.
+ 
+It is unfortunate that an ongoing relationship between the parties cannot be sustained, however we require a degree of certainty from our clients in regards to their commitments and undertakings, and despite the tolerance of your specific circumstances shown by the Bank, we feel that you have not shown us a similar level of care and consideration." 
+See Exhibit A1: TB180.
+ A few weeks earlier Mr Baptist had written to SMS noting that a fee due to a valuer had been outstanding for more than six months: see Exhibit A1: TB178.
+The reference to accounting information was to accounting information that was required to be provided by SMS to the Bank and which I deal with separately later.
+ Looking at the correspondence which passed between the Bank and SMS or Mr
+Poulos after 11 April, there emerges a picture of a customer who, having been told by the Bank that it must seek to refinance elsewhere, endeavours to do just that. There is nothing in the correspondence which suggests that from
+April 2008 to the present day SMS has ever sought the Bank's agreement to a partial refinancing. The Bank has, through correspondence, been informed of attempts by SMS to refinance with St George Bank but, so far as the correspondence is concerned, prior to 6 February 2009, it was never advised of any attempt or desire to effect a partial refinance with any other bank. SMS, however, asserts that the Bank was informed in May 2008 by Mr Marzouk and Mr
+Poulos on separate occasions of a desire to effect a partial refinance with another Bank (Challenger Bank is said to be the other bank but its identity, on SMS's case, was not revealed to the Bank) and that Mr Baptist told them that it was not an option available to SMS; and further that this option was rejected by Mr Baptist again in August 2008 when raised by Mr Marzouk in conversation with him. The total value of the securities held by the Bank are agreed to be substantially in excess of the amount loaned and hence the maximum Loan Value Ratio required by the Bank has not been exceeded.
+ SMS relied on the following affidavits in support of its case: affidavit of Mr Marzouk of 26 February 2009 ("Mr Marzouk's first affidavit"); affidavit of Mr Marzouk of 26 May 2009 ("Mr Marzouk's second affidavit"); affidavit of Mr Poulos of 26 February 2009 ("Mr Poulos' first affidavit"); affidavit of Mr Poulos of 26 May 2009 ("Mr Poulos' second affidavit"); affidavit of Mr Poulos of 4 June 2009 ("Mr Poulos' third affidavit").
+ The Bank relied on the following affidavits in support of its case: affidavit of Mr Baptist of 31 May 2009 ("Mr Baptist's first affidavit"); affidavit of Mr Baptist of 2 June 2009 ("Mr Baptist's second affidavit"); affidavit of Ms Karen Louise Ford of 1 June 2009; affidavit of Ms Polly of 31 March 2009 ("Ms Polly's first affidavit"); affidavit of Ms Polly of 1 June 2009 ("Ms Polly's second affidavit"); affidavit of Ms Maria Lee Ballesteros of 1 June 2009.
+ In his first affidavit Mr Marzouk sets out at para 15 a conversation he claims to have had with Mr Baptist in August 2008: "[Baptist]: I want you to reduce your facility by $5 to $6 million.
+ [Marzouk]: No problem. Give me a partial discharge of the company and release those assets that you want paid off and I will refinance with another bank.
+ [Baptist]: In your dreams. We won't do that.
+ [Marzouk]: What can I do? If you don't release the security, I can't raise you the funds." Mr Poulos, in his first and second affidavits, made no reference to his having had any conversation with Mr Baptist on the topic of a partial refinancing. However in his third affidavit Mr Poulos referred to a conversation he claims to have had with Mr Baptist in May 2008: "[Poulos]: [Mr Marzouk] tells me that you won't allow him to refinance some of the facilities and release some of the securities. We have an indicative to refinance part of the facilities. Is that right? [Baptist]: Yes, that's right. We want him to refinance everything or nothing. The bank is not willing to release securities for partial refinance." Mr Marzouk, in the course of cross examination, referred for the first time to his having had a conversation with Mr Baptist in May 2008 (in addition to the asserted conversation in August 2008), in which he requested the Bank's agreement to a partial refinance and Mr Baptist refused: see T106.15 - .49.  The thrust of Mr Marzouk's evidence and Mr Poulos' evidence is thus: that in May 2008 Mr Poulos sought from Challenger Bank an indication of whether it would be willing to lend money to SMS to enable SMS to refinance part of its facility with the Bank; that Challenger Bank replied positively by fax; that in May 2008 Mr Marzouk rang Mr Baptist to ask whether the Bank would agree to a partial refinance and Mr Baptist refused to entertain the idea; that Mr Poulos rang Mr Baptist who confirmed that the Bank would not be willing to permit a partial refinance; and that in August 2008 Mr Marzouk asked Mr Baptist if the Bank would agree to a partial refinancing and Mr Baptist indicated that it would not.
+ In support of this scenario Mr Poulos produced an application to Challenger
+Bank for a $4.6 million loan: see Exhibit D. I shall say more about that document later. Mr Poulos was not able to produce the faxed response from
+Challenger Bank - he said that he did not retain responses for very long as they would quickly date. He did not produce the email by which the application was forwarded to Challenger Bank, saying that he was not asked to obtain it: see T156.30 - .32.
+ Mr Baptist accepts that prior to April 2008 he had asked SMS to reduce their facility by $5 to 6 million. Mr Baptist agrees that Mr Marzouk did contact him in August 2008. He set out his version of the conversation with Mr
+Marzouk at paras 53 and 54 of his first affidavit (and see cross-examination at T237 - T244) and accepts that Mr Marzouk said: "No problem. Give me a partial discharge of the company and release those assets that you want paid off and I will refinance with another bank." Mr Baptist says that he recalls replying: "It is not the defendant's practice to release security other than in exchange for a reduction in its secured facilities. We will not give a release of secured debt without assurance of payment." The Bank has filed no cross claim against SMS. It does, however, seek to establish that SMS was in default of its obligations to the Bank partly to support its position that it was entitled as at 11 April 2008, and continuing, to insist that SMS find an alternative source of finance and to show that it has acted reasonably in its dealings with SMS and hence that it is not in breach of the Code of Banking Practice.  There are a number of matters that are relevant to the question of whether the Bank has acted reasonably towards SMS in not agreeing in August 2008 to a partial refinancing, if that was sought, and there is a further significant matter that arose in September and October 2008 that is relevant to the Bank's position after that date: the failure of SMS to repay the amount due on the expired facilities at the end of October 2007; the failure of SMS to pay the valuer's fee as required under the loan agreement; the failure of SMS to provide accounting information by the requisite date; the failure of SMS to provide any detail to the Bank as to what securities it wanted released in return for what refinancing and coupled with that, the failure of SMS to provide to the Bank a copy of any proposed refinance arrangement; and the further matter, which I will, for convenience, describe as "the $250,000 overdraft" point.
+ An argument was advanced by Mr Rayment that the Bank was not entitled to rely on these other matters but in my view the Bank is entitled to put these matters before the Court in the context of SMS asserting that the Bank has breached its obligation to act reasonably and SMS's contention that in effect the Bank had caused SMS to be in default because it did not make the $250,000 available as a facility.
+ 
+The express term: the Code of Banking Practice clause 2.2  The Code of Banking Practice applies if the plaintiff's business employs less than 20 people. Mr Marzouk's evidence coupled with the PAYG tax slip: see
+Exhibit C, establishes on the balance of probabilities that SMS employs less than 20 people.
+ I find that the Code of Banking Practice applies and that therefore there is imposed on the Bank an obligation "to act fairly and reasonably" towards
+SMS, having regard to SMS's conduct and its own and having regard to the terms of the loan agreement.  
+The implied term  For a term to be implied it must, under Australian law, meet the criteria set out in BP Refinery (Westernport) Pty Ltd versus Shire of Hastings (1977) CLR 266 at 283 and adopted in Secured Income Real Estate (Aust) Ltd versus St
+Martin's Investments Pty Ltd <case>; <case>; [(1982) 149 CLR 337], and see Mediterranean Salvage & Towage Ltd versus Seamar
+Trading & Commerce Inc <case> and
+Attorney-General of Belize versus Belize Telecom Ltd  <case> on the latest enunciation of the approach taken in the United Kingdom which places less emphasis on these individual requirements. For a term to be implied it must be: reasonable and equitable; necessary to give business efficacy to the loan agreement so that no term will be implied if the loan agreement is effective without it; be so obvious it goes without saying; be capable of clear expression; not contradict any express term of the loan agreement.
+ In my view the requirement that a lender release some security before all of the debt is repaid is not necessary to give business efficacy and not so obvious that it goes without saying. It is relevant too that the parties have reduced their agreement to a comprehensive and detailed written form. If no term is implied the consequence is that all security remains with the Bank until all the debt is paid off: see Mediterranean Salvage & Towage Ltd v
+Seamar Trading & Commerce Inc <case> I do not think it at all obvious that a lender should be required to agree to return some security when only some of the consolidated debt is paid off, and the loan agreement operates entirely effectively without such a term. The loan agreement required all of the securities listed at [8] to be provided for the loan: see clause 5 of the offer letter at Exhibit A1: TB82 - the proposed implied term is inconsistent with that provision. SMS seeks to argue that because it was a requirement of the agreement that the loan not exceed 60% of the valuation of the properties the inverse is true, i.e. that if the loan was less than 60% of the security held, the customer could demand return of securities held. I do not think this follows. I do not need to consider the other aspects but I think it is relevant to note that if as SMS contends, the refusal to permit partial release of security involves conduct that is unfair or unreasonable, it would be covered by the Code of Banking Practice term so that the Code of Banking Practice term covers much of the same field as the proposed implied term and that would support the contention that there is no need in terms of reasonableness and equity to imply the term contended for by
+SMS.  
+The $250,000 'overdraft'  SMS's argument in relation to the non-payment of the 'overdraft', or 'excess' as the Bank calls it, is that the Bank in fact agreed to create a new facility for $250,000, the terms of which were never determined and that its failure to provide that facility has caused SMS to go into default (see the plaintiff's Reply to Defence to Amended Statement of Claim of 15 June 2009).
+SMS also contends that even if it were required to repay the 'overdraft' amount the overdraft was not part of the 'facility', as defined in the Banking
+Agreement General Terms, and its failure to pay could not be a breach of the loan agreement.  Mr Poulos says he had a conversation with Mr Marzouk in August 2008: "[Mr Marzouk]: I need extra funds of $250,000. I need these funds so that I can develop properties in Morningside, Ipswich and Chuwar to the point where I can sell them and reduce the debt with BankWest. I will use the money for engineers and council fees. I cannot afford to spend money on that and also on interest. Can you ask Rod Baptist for additional funds of $250,000? [Mr Poulos]: OK. I can ask for that." 
+See Mr Poulos' first affidavit at para 5.
+ Mr Poulos says that shortly after this conversation, he had a conversation with Mr Baptist: "[Mr Poulos]: I've been speaking to [Mr Marzouk] who is trying to sell some properties to reduce the debt. He can sell a few properties but he needs to spend money on them so they are suitable to sell. He has properties in
+Morningside, Chuwar and Ipswich and he needs to spend money on engineers and council fees and other work. He told me that he doesn't have enough funds to do that and pay interest on the existing facilities.
+
+So he needs additional funds of $250, 000.
+ [Mr Baptist]: That is fine. I'll see what I'll do and I'll come back to you." 
+See Mr Poulos' first affidavit at para 6.
+ Mr Poulos says Mr Baptist called him a few days later and said: "Yes, we can do it. What I will do is make arrangements to cover the interest payments so that [Mr Marzouk] can use the funds that he would have used for the interest payments to develop those properties.
+ 
+I'm going to New Zealand on holiday but I will arrange it before I go." 
+See Mr Poulos' first affidavit at para 7.
+ Mr Poulos says that he was told by Mr Marzouk that the Bank had debited
+SMS's Commonwealth Bank ("CBA") account with interest payments and that as a result he (Mr Poulos) rang the Bank and spoke to either Mr Baptist or another bank officer who he did not identify and said: "[Mr Poulos]: Sam has just told me that the bank has deducted money from Sam's
+Commonwealth bank account. The agreement was that BankWest would be setting up a separate account for the purpose of paying the interest. You would not be taking the money out of the Commonwealth bank account.
+
+S/he said: That shouldn't happen. I will fix it." 
+See Mr Poulos' first affidavit at para 10.
+ Mr Poulos says that a few weeks later he received a call from Ms Polly and had the following conversation: "[Ms Polly]: Sam has not paid the money back yet. Can you call him and ask him to pay the money.
+ [Mr Poulos]: It's only been two weeks since Rod made the advance. [Mr Marzouk] would not have asked for the money if you needed repayment in two weeks.
+Nobody goes out and asks for money for two weeks.
+ [Ms Polly]: This is an excess position. The bank has a right to ask for the money back." 
+See Mr Poulos' first affidavit at para 12.
+ Mr Baptist's version of his conversation with Mr Poulos in what he thought was late August 2008 is: "[Mr Poulos]: [Mr Marzouk] needs all his available cash to meet surveyors, DA approvals and other expenses and he has no available cash to meet his interest obligations to the Bank for the next two weeks.
+
+In addition he said: 
+I know this is a last minute request, and [Mr Marzouk] realises that he has insufficient funds to meet his obligations unless the Bank grants the extension, however, has requested that I ask for a two week [sic] regardless.
+ [Mr Baptist]: I have no intention of progressing a formal funding request because as previously advised the Bank wants [Mr Marzouk] to refinance all of its facilities with another Bank and you have said that the refinancing of [Mr
+Marzouk's] facilities is imminent.
+
+In addition I said: 
+I think I can arrange a short term overdraft account to carry the position on the basis that refinance is going to occur in the short term. I will organise an overdraft account to cover [Mr Marzouk's] upcoming interest obligations for a period of two weeks, but no longer." 
+See Mr Baptist's first affidavit at para 56.
+ Ms Polly's version of what she said to Mr Poulos is: "On or about 21 September 2008, I had a telephone conversation with Mr
+Poulos to the following effect: [Ms Polly]: [Mr Marzouk] has not paid the money back yet. Can you find out when he's going to pay the money back? 
+In this conversation, my reference to the "money" was a reference to the amount required to repay the overdraft account.
+ [Mr Poulos]: Yeah, yeah, I know, I have spoken to [Mr Marzouk] and he's promised me he's going to do the transfer." 
+See Ms Polly's first affidavit at para 21.
+ 
+At para 22 of her first affidavit she denies Mr Poulos' account.  The following facts emerge from the documentary evidence: 
+On 2 September 2008 at a time when according to information provided by SMS to the Bank, SMS was in the process of negotiating a refinancing with
+St George Bank of all of its facilities with the Bank, Mr Poulos made a request in writing: "[SMS] is today issuing a cheque payment [of] $246,000 to the Council for the property under contract for sale.
+
+To avoid any short fall in respect of the [C]ouncil fees or the loan repayments to the Bank is requested for the Bank to defer DDR for 2 weeks to enable of sufficient funds via rentals to be deposited to clients [sic] CBA account.
+
+In the meantime we have commenced necessary arrangements for the refinance of this client's current BankWest facilities.
+
+We are confident that with in [sic] the next 20 days will be able to have in hand an approval.
+
+The valuations for the shopping centres and the QLD properties have been ordered.": see Exhibit A1: TB202 - 203.
+
+Mr Baptist wrote back: "This will be a credit decision, as it is over my delegation. We will research and come back to you. I [seek] authorisation to collect the $5,000 fee, as this will hopefully placate the decision makers.": see Exhibit A1: TB204.
+
+Mr Baptist sought approval from Mr Tingle of "a temporary overdraft limit of $155K for 2 weeks, pending receipt of usual rental payment in relation to two shopping centres. Excess will clear in full from these payments. The client needs to expend $246K by way of council fees and contributions in order to obtain a determination in relation to the potential sale of the unencumbered Morningside site in Brisbane, which was optioned several months ago. Regardless of this sale progressing or not, the client will refinance its total exposure with the Bank by 15 November, as per
+Greg's recent approval (latest CRFA attaches for information). As we are charging the client a $5k extension fee, and the expired facilities have an additional 1% pa impost, I'd prefer to charge the requested $155k at the same rate, rather than the unarranged rate.": see Exhibit A1: TB205 - 206.
+
+Mr Tingle wrote to Mr Baptist: "Temp OD of $155K is approved to expire 19 September 2008.
+
+I assume this will be loaded on [the overdraft account], however will leave the system mechanics for you and your team to resolve.": see Exhibit A1:
+TB207.
+
+On 2 September Ms Polly emailed Mr Poulos: "The requested interest you have asked to be postponed for collection equates to approx $155k. For ease of operations and to ensure no excess rates are charged we have approved a temporary overdraft to collect the interest that falls due between now and Sept 19 expiring 19th Sept. The standard overdraft reference rate will apply until then.
+
+Please ensure funds are available in the CBA account for us to collect on the th Sept so we can collect funds to clear the overdraft on expiry.": see
+Exhibit A1: TB208.
+
+On the same day Ms Polly instructed Ms Ballesteros to arrange for temporary overdraft on an account which I shall refer to as "the overdraft account" for $155,000 "to expire 19th Sept". She instructed her to redirect interest on the account where interest is raising between now and 19 September "to collect interest from the above account rather than the CBA direct debit": see Exhibit A1: TB209.
+
+On 8 September Mr Poulos sent to the Bank detailed information about the proposed refinancing by St George Bank: see Exhibit A1: TB211.
+
+On 18 September Ms Polly contacted Mr Poulos requesting payment: see
+Exhibit A1: TB216.
+
+On 24 September a Ms Joanna Sun, an Assistant Relationship Manager at the Bank, wrote to Mr Tingle with a copy to Ms Polly noting that "the client has advised that he does not know why the funds are not in the [Bank's] account as transfer was processed on 19/09/2008" and that SMS is currently inquiring with CBA about the matter: see Exhibit
+A1: TB217.
+
+On 25 September 2008 Ms Polly appears to have phoned Mr Poulos asking for payment of funds: see Exhibit A1: TB219. On the same day Ms Polly emailed Mr Poulos: "We wish to advise that funds have not yet been received to clear the account excess of $176,444.52. Unless the transfer has occurred by midday today, default letters will be issued to the client with consideration to charge default rates on the entire facility.": see Exhibit A1: TB220.
+
+Ms Polly emailed Mr Tingle at the same time: see Exhibit A1: TB221.
+
+On 26 September Ms Polly wrote to SMS confirming that $176,444.52 was outstanding and requiring the excess to be cleared before 30 September and warning that default rates would be applied: see Exhibit A1: TB230.
+
+On 1 October Ms Polly noted that the excess remained uncleared and said: "Please provide a copy of the approval from St George and advise of when we expect the account refinanced.  
+If I am to avoid charging default rates on the whole facility I need to provide some comfort to credit.": see Exhibit A1: TB231.
+
+On 8 October Mr Poulos sought on behalf of SMS "this month's DDRs that are due between the 8th and the 17th for Sam
+Management Services to be deferred and activate [sic] on 20th.": see Exhibit
+A1: TB233.
+
+Ms Polly wrote to Mr Poulos noting: "Interest has bounced on the $3,000,000 loan account. Please advise when we collect funds from [SMS's] CBA account to clear the excess.
+
+Please note interest will be charged at excess rate on the excess amount of $21,395.49 (currently 19.31%) until the excess is cleared.": see Exhibit A1:
+TB234.
+ There followed further correspondence between the Bank and Mr Marzouk and
+Mr Poulos culminating in a letter of 13 January 2009 to Mr Marzouk from Ms
+Polly summarising the defaults that had not been rectified and the amount by which each account was overdrawn: see Exhibit A1: TB252.
+ On 2 January 2009, Ms Ballesteros prepared a schedule of amounts due totalling $175,705.55: see Exhibit A1: TB251. On 15 January at a meeting, Mr
+Marzouk handed over cheques which are clearly related to the schedule of interest, one for $111,517.54, one for $875 and one for $1,184.04: see para 37 of Mr Marzouk's first affidavit. For reasons which are not at all clear those cheques were not deposited by the Bank until April 2009. It is clear that not all interest was paid on 15 January because the amount of $62,123.92 was not paid and the schedule of interest calculations did not include the interest deferred and paid out of the overdraft account. By January 2009 the amount owing on the overdraft account was $186,370.20. As at 29 May 2009, this amount had reduced to $106,886.05: see Exhibit KF8 to Ms Ford's affidavit.
+ SMS contends that the amounts now calculated as owing by SMS and totalling over $1 million (see Exhibit 1) are inflated because of use of the default interest rate. Whether that is so or not SMS did not pay the amount due on the overdraft account when it was due and payable.  
+Credibility of Mr Marzouk and Mr Poulos  SMS's case on all the issues, draws no support from the correspondence passing between SMS and the Bank, but is entirely dependent on the evidence of
+Mr Marzouk and Mr Poulos. I do not think that Mr Marzouk and Mr Poulos are reliable witnesses and for the following reasons: 
+Mr Marzouk never referred to a May 2008 request of Mr Baptist to permit partial refinancing in either of his two affidavits.
+
+Mr Poulos never referred to any conversation with Mr Baptist on this topic until his third affidavit.
+
+Both Mr Marzouk and Mr Poulos gave weak explanations as to why such an important matter had been omitted from these affidavits: see Mr Marzouk at
+T110 and Mr Poulos at T162.1 - .9.
+
+Mr Poulos says that he had a written response from Challenger Bank offering a partial refinance: see para 6 of Mr Poulos' third affidavit, but Mr
+Marzouk said the response from Challenger Bank was verbal: see T109.47 and
+T112.43 - .46, and that Mr Poulos told him that it was: see T143.14. Mr
+Marzouk had never seen the application to Challenger Bank: see T109.49, and at
+T134.30 he said he never asked to see it. Mr Poulos produced no email forwarding the application to Challenger Bank and nothing on the document indicates to whom the document was sent or that it was sent. Neither the application nor the email were produced by SMS in answer to a Notice to
+Produce for Inspection dated 2 June 2009: see Exhibit 2. Mr Poulos said that he had not produced the email with the application because he was not asked to do so. The email was not tendered when the hearing resumed on 30 June.
+Although Mr Rayment foreshadowed (at T192.40) the possibility that a subpoena would be issued to Challenger Bank, no subpoena to Challenger Bank was called on by SMS and there was no corroboration of Mr Poulos' evidence (except by Mr
+Marzouk) that an application was made to Challenger Bank or answered positively.
+
+There is no written communication from Mr Marzouk or Mr Poulos to the Bank by which a request for agreement to partial refinance was sought (on
+SMS's position as advanced in this case), yet this would have been a matter of considerable importance.
+
+SMS's version of events is that after having made oral requests in
+May and August, neither Poulos nor Marzouk put SMS's request in writing or complained in writing about the Bank's refusal to countenance a partial refinance. There is evidence that Mr Poulos put everything in writing (see Ms
+Polly's evidence at T359.46 - T360.11) and yet he did not send to the Bank a letter or email confirming that SMS has obtained an offer of partial refinance, or seeking further consideration or a reconsideration of the claimed proposal for partial refinance. Mr Poulos and Mr Marzouk gave no convincing explanation of why, in the face of what they believed was the
+Bank's unreasonable blanket refusal, no attempt was made to put the details of the proposed refinancing to the Bank.
+
+In his affidavits, Mr Marzouk gave no evidence that St George Bank had refused to proceed with the loan or as to the reasons for that. At T140 he gave evidence that the application with St George Bank had not been approved and when asked why he had said nothing about it in his affidavits he said he was not asked to put it in: see T141.29. He could give no explanation as to why no documents had been produced by SMS concerning the withdrawal of St
+George Bank. At an earlier point (see T116 - T117) he had said that he was not happy with the St George Bank conditions in May.
+
+Mr Poulos was taxed with the absence of any communication to the
+Bank in May 2008 of the indicative offer from Challenger Bank. He parried this with an assertion that he did not think it appropriate to reveal commercially sensitive details of what SMS had obtained from Challenger Bank. That explanation was, in my view, undermined by the fact that he did send to Mr
+Baptist details of correspondence sent by St George Bank to SMS, which included details of the St George Bank offer: see Exhibit A1: TB211 - 212.
+Nor did Mr Poulos tell Mr Baptist, on his evidence, the identity of the proposed lender. Further, Mr Marzouk agreed (at T120.7 - .9) that it was Mr
+Poulos' practice "to keep the Bank updated as to the status of any refinancing proposal". At T167.15 - .20 he said that after March/April 2008 he felt that his advice to the Bank should be in writing.
+
+Mr Marzouk read the evidence of Mr Poulos before giving evidence in the proceedings: see T113.34 - T114.22, and Mr Marzouk said he had spoken to
+Mr Poulos before he put on his second affidavit and that they had discussed dates: see T111 - T113. The late evidence from Mr Poulos about a conversation in May 2008 with Mr Baptist was echoed by Mr Marzouk in cross examination but the absence of earlier reference and the fact that Mr Marzouk had discussed matters with Mr Poulos prior to the case only reinforces the unimpressive quality of this evidence.
+
+Mr Marzouk was not a good witness. There are instances of him not answering questions, for example: see T113.46 - T114.24, and of providing inconsistent answers, for example at T76 he said he did not known up to early that the Bank required a reduction in the overall debt of $5 to 6 million but he had agreed at T76.30 that they did; see also T93.21 - .26, T99.14 -
+T100.16, T100.7 - .45 and T110.49 - T111.15 for further examples of these matters.
+
+I deal later with the issue of the properties which SMS was proposing to sell. Mr Marzouk and Mr Poulos' assertion that Mr Marzouk did not promise to apply proceeds of the sale of the Cannon Hill property is inconsistent not only with Mr Baptist's evidence but with the objective fact that documents relevant to that property were forwarded to Mr Baptist. Mr
+Marzouk admitted that he had told the Bank that he would be selling the Cannon
+Hill property but he denied that this was in the context of SMS reducing the debt to the Bank.
+
+The evidence of both Mr Marzouk and Mr Poulos on the issue of the $250,000 overdraft to which I referred above was weak and unconvincing. SMS has failed to produce any contemporaneous document supportive of its claims and the documents support the Bank's version of events.
+
+Mr Poulos says that he did not receive a copy of Ms Polly's email of 2 September 2008 (see Exhibit A1: TB208) confirming that the temporary overdraft account was only available to SMS until 19 September 2008. I do not accept Mr Poulos' evidence. He had written requesting the deferral of payment.
+If he had had no response it would be extraordinary if he did not follow up with the Bank the fate of his request and yet there was no follow up. I infer that there was no follow up because Mr Poulos did receive the email and knew that the Bank had agreed to defer interest. There was evidence that there were no problems with his receipt of emails at that time: see T185.29 - T186.8. I note that Mr Poulos' version of events has him not receiving an email that on the evidence was sent and has him receiving another document (the Challenger
+Bank indicative approval) for which there is no corroborative evidence.
+
+When Mr Poulos was confronted with the contents of his own email which was quite inconsistent with his assertion that he did not receive Ms
+Polly's email of 2 September, he asserted that his email did not relate to the request for a $250,000 facility which he said was an independent request: see
+T182.8 - .20. I do not accept that as a truthful account. A necessary consequence of it would be that Mr Poulos was seeking $500,000 from the Bank, not $250,000, and it is clear that only relief against approximately $155,000 interest was sought in late August - early September 2008 and only that amount was agreed by the Bank in September to be deferred.
+
+Mr Marzouk and Mr Poulos claimed that there was no pressure on SMS to pay the monies in early September 2008 that were the subject of the deferral request. I did not find their evidence credible in all the circumstances and I note that the email from Mr Poulos of 2 September appears to indicate a very pressing need for the deferral of interest: see [38(1)] above. At T176 Mr Poulos said he understood the Council fees (and related fees) to be due and that he understood that Mr Marzouk was concerned that if he paid fees of $246,000 and he paid the forthcoming interest payments under his facilities "he was going to be strapped for cash". Mr Poulos, having given those answers, then sought to resile from them with a "correction" that the $250,000 for Council's fees, surveyors and engineers were not due and payable.
+He then went even further and said "it wasn't that they had to be paid", but to help make the sale that the Bank wanted, he needed to pay these things; "not that he had to", and see at T177 where he reinforced this evidence. The first answer he gave is entirely consistent with the email he sent (see [38(1)] above) and Mr Baptist's version of their first conversation but the "correction" is not.
+
+Mr Poulos said that he did not hear Mr Baptist say at the meeting in August 2008 that the Bank did not want to do business any further with SMS.
+It is unlikely that he would not have been aware of such a comment and I think he says that he did not hear it because it is inconsistent with his assertion that the Bank were interested in progressing the relationship with SMS: see
+T168 - 169.
+
+Mr Poulos emphasised on several occasions his amazement and surprise at the attitude of the Bank. He said, for example, that the Bank's attitude after March/April 2008 was "extremely outside his comprehension": see
+T167.17. My impression is that this was a feigned response, tailored to the quite false case mounted by SMS through Mr Poulos and Mr Marzouk that it was a dutiful customer which would have met all of its obligations but for the unreasonable conduct of the Bank. The only thing surprising, in my view, is that Mr Poulos and Mr Marzouk could have viewed the Bank's determination to end the relationship as unexpected.
+ 
+Credibility of Ms Polly  Ms Polly was extensively cross examined but in my view her credit was not impugned in the slightest. She seemed to me to be an entirely honest witness whose testimony ought be accepted. When she was uncertain of something she said so and she admitted that she could not now recall why she did not in fact proceed to debit SMS's CBA account on 19 September. She believes that she must have been told by Mr Poulos close to 19 September that the funds would not be there and it seems clear that the funds were not there on 19 September since the monies were not repaid on 19 September or at any time until 2009 and then not in full. I find her explanation entirely plausible and I accept it.
+ I accept Ms Polly's account wherever it is in conflict with Mr Poulos' account. I do so not only because I have confidence in her reliability as a witness generally and do not have confidence in Mr Poulos' reliability as a witness, but because her version is consistent with what passed between the
+Bank and Mr Poulos in writing and what was in fact done by the Bank. Although
+I have doubts about Mr Baptist's evidence in one respect, to which I shall refer, I otherwise accept his evidence where it is in conflict with Mr Poulos and Mr Marzouk.
+ Ms Polly accepted that Mr Marzouk, in her discussion with him, appeared to her to have had a misunderstanding as to the need for repayment on 19
+September but she told him the Bank's position and she said, and I accept as truthful, that she told Mr Marzouk he should speak to Mr Poulos. If Mr Marzouk did speak to Mr Poulos, Mr Poulos never contacted Ms Polly to assert that the arrangements made did not require SMS to repay the overdraft amount on 19
+September. There is no letter or email making any such assertion. There is no letter chasing up the facility documents that would, on Mr Poulos' version, have been needed. Mr Poulos claimed that the reason he did not follow up on the email (on the basis that on his version he had had no response) was that
+SMS had the previous year asked for a $250,000 "excess position" and that had been granted: see T189.10. Given that the relationship was quite different in
+September 2008 to what it had been in the previous year, this is hardly likely, but more significantly there were clearly demands for payments by the
+Bank of which I find Mr Poulos was aware, and I do not accept that he said anything about those demands other than that Mr Marzouk was aware he needed to obtain the funds and would have them. I think that Ms Polly's acceptance that
+Mr Marzouk had not been told of the true position in relation to the overdraft account was overly charitable to Mr Marzouk and it is more likely that Mr
+Poulos told Mr Marzouk exactly what he had done: see T141.42 - T142.12, and Mr
+Marzouk tried whatever tactic he could to buy time given SMS's and his own financial position as evidenced by SMS's inability to meet interest payments.
+Ms Polly's letter of 26 September 2006 (see Exhibit A1: TB230) and email to Mr
+Poulos (see Exhibit A1: TB231) did not prompt any letters or emails of protest or dispute. What followed was in fact another request for temporary relief: see Exhibit A1: TB233.  
+Conclusion in relation to the $250,000 overdraft  It is clear beyond doubt that Mr Poulos, on behalf of SMS, sought by email on 2 September 2008 a deferral for two weeks of the interest due to be taken by way of direct debit that was until 19 September. The Bank acceded to this request by granting a temporary overdraft for $155,000. When the money was not paid on 19 September the Bank held off taking action and agreed to a similar deferral in relation to interest for October 2008.
+ The Bank permitted SMS to pay interest that was otherwise due by utilisation of the overdraft account. That overdraft account was not specifically mentioned in the definition of the "Facility Documents" but it was an account which SMS established with the Bank which the Bank agreed to permit utilisation of in a manner agreed (see clause 3.1 at [6] above) and hence was an account established for the purpose of an overdraft facility specified in the Facility Terms. I accept that the definitions are somewhat circular but I think on a fair and purposive reading of the loan agreement the account in question was an overdraft facility contemplated by and for the purposes of the loan agreement. The submissions on behalf of SMS pointed to the need for the Court to interpret contracts in accordance with practical expectations of ordinary businessmen and I think that that principle is applicable here: see Port Jackson Stevedoring Pty Ltd versus Salmond and Spraggon
+Pty Ltd <case>; <case>; [(2004) 218 CLR 451] at 462.
+ If I am wrong in that view, the interest due on the loan facility was merely the subject of an agreement for deferral and remained due and payable as part of the facility. I do not accept that this argument cannot be advanced by the Bank without leave being granted to the Bank to reopen its case as asserted in SMS's written submissions responding to the Bank's written submissions after the hearing was completed and in respect of which submissions I had granted leave. I think there is much force in the Bank's point that since the argument that the monies owing on this account were not an obligation under the facility was raised at a very late stage (and not raised in the Reply to the Defence to the Amended Statement of Claim), the
+Bank should not be precluded from responding to it.
+ I reject SMS's contention that the Bank agreed to provide it with a new facility the terms of which it has never revealed. The email from Ms Polly of September 2008 (see Exhibit A1: TB208) is destructive of this argument. The failure of SMS to repay the excess on 19 September or to subsequently pay the deferred out interest were defaults and the Bank advised on 21 November 2008 (see Exhibit A1: TB239) that default rates would apply after 31 December 2008.  
+Credibility of Mr Baptist  Mr Baptist's credit was also attacked. It was contended that I should not accept his denial of the conversation with Mr Poulos in May and Mr Marzouk in
+August. Overall I did not regard the cross examination of Mr Baptist as damaging to him but in relation to the conversation with Mr Marzouk in August
+I was left in some doubt as to his veracity as I shall endeavour to explain. I also thought he was somewhat evasive in answering questions to do with his connection with Mr Poulos (involving a personal investment of Mr Baptist): see
+T196 - T197.
+ As at August 2008 the only plan for something other than a full refinance by another bank advanced by SMS was that by which SMS sought a further $5.45 million: see Exhibit A1: TB195 - 196. The Bank in clear terms rejected that by its letter of 27 August 2008: see Exhibit A1: TB199. SMS has produced no evidence of any approval by a bank of a partial refinance in August 2008 and
+Mr Marzouk, in his alleged conversation with Mr Baptist, gives no details. Mr
+Baptist accepted that Mr Marzouk did say "give me a partial discharge of the
+Company and release those assets that you want paid off and I will refinance with another bank" and that his response was as set out in [22] above. Mr
+Baptist seemed to accept at T244 that there was a lack of clarity in what he said to Mr Marzouk.
+ If that was his response it was anodyne, and Mr Rayment accepted that it could not be regarded as unreasonable. Mr Rayment, however, submitted that Mr
+Baptist's evidence that that is what he said should not be accepted. Cross examination of Mr Baptist undermined Mr Baptist's credibility on this point as he asserted that the words set out at [22] were a response to a request that the Bank release security without having received payment of the outstanding debt on the relevant property: see T241 - T242, but then agreed that he had not understood Mr Marzouk to be saying that: see T243.40.
+ Further, Mr Baptist said at para 53(b) of his first affidavit "It was never my intention to allow partial repayment" and at para 26 of his affidavit of 2
+June 2009 when dealing with Mr Poulo's affidavit of 29 May 2009, he said: "I have reviewed the affidavit of Mr Poulos dated 29 May 2009. I am certain that I never had the conversation with Mr Poulos described in paragraph 8 of his affidavit. If the plaintiff had formally proposed to the defendant that it reduce its loan facilities and receive a discharge of some part of the security held by the bank, the bank would have considered that request. At a minimum, the defendant would have needed to know (a) how much the facility would be reduced, (b) what security the plaintiff proposed to have discharged and (c) the time frame involved. The defendant would have required any reduction of part of the facility to be implemented together with a plan for the overall reduction of the entire facility. Because no such proposal was ever made to the defendant, it was never considered." The matters to which Mr Baptist refers in para 26 of his affidavit are matters that I accept would be necessary items of information to be provided.
+The second last sentence is a statement as to the Bank's attitude to partial refinancing - i.e. that unless the partial refinancing was part of a full refinancing the Bank would not agree to it. This and the comment at para 53(b) come close to the position that Mr Marzouk asserts was communicated to him, although in less colourful language.
+ In one sense, the factual contest about what Mr Baptist and Mr Poulos said becomes less important because by paras 26 and 53(b), Mr Baptist makes clear the Bank's position. Given the unreliability of Mr Marzouk and Mr Poulos I am not satisfied that there was any request for partial refinancing in May.
+Insofar as August is concerned, the position is more difficult particularly given the unreliability of SMS's witnesses and my doubt as to whether any partial refinancing was ever seriously in prospect, but I shall proceed on the basis that Mr Marzouk asked about partial refinancing and that Mr Baptist said words to the effect: "Not unless the partial refinancing is part of a program of full refinancing." recognising that neither he nor Mr Marzouk asserts that that was said by him, but also recognising that the statements he makes in his affidavit is a reflection of the Bank's position. The Bank's entitlement to take such a position in the circumstances can then be considered.  
+Reasonableness of the Bank's conduct  I think it is very material to a consideration of the Bank's conduct that
+SMS had not repaid the expired facilities in October 2007.
+ Mr Baptist's evidence was that in late 2006 or early 2007 he had a conversation with Mr Poulos in which Mr Poulos told him that Mr Marzouk was selling properties including one the Bank had no mortgage over, i.e. a property at Cannon Hill in Queensland and that the proceeds would be applied to reduce SMS's debt to the Bank. Mr Marzouk said that he did sell Cannon Hill for $1.4 million and that he did not use the proceeds to reduce the debt: see
+T97.45.
+ Mr Marzouk said SMS had sought extra time to repay the expired facilities in October 2007: see T92, and that he told the Bank he would try to sell those properties. He said he did not at that time ask the Bank to agree to a refinancing: see T93. He was emphatic that he did not agree with the Bank to reduce the debt by $5 to 6 million which the Bank had asked him to do, but rather only that he would try to do so: see T80 - T82. Mr Poulos' response to the letter of 11 April 2008 from the Bank (at Exhibit A1: TB181 - 183) did not raise the possibility of a partial refinance.
+ There is evidence from Mr Baptist that at some time in 2007 Mr Poulos provided him with put and call option contracts for the Cannon Hill property and one at Karalee: see para 9 of Mr Baptist's second affidavit and see T82.40 - .49. The provision of those contracts makes sense in the context of Mr
+Marzouk having assured the Bank that he would be selling properties to reduce the debt and does not make sense if he did not.
+ Mr Baptist said at para 12 of his second affidavit that in approximately
+April 2008 he had a conversation with Mr Poulos in the following terms: "[Mr Baptist]: When does [Mr Marzouk] intend selling these properties as per our previous discussion? How much longer am I supposed to wait? You have been telling me for months now that [Mr Marzouk] is going to sell properties.
+ [Mr Poulos]: [Mr Marzouk] has to get the relevant approvals in place. These guys have entered into a contract for call and put options, they have to get their finance together." I accept Mr Baptist's evidence of that conversation and that Mr Poulos and
+Mr Marzouk led him to believe that the proceeds of the two properties would be utilised to reduce the debt. It is clear no proceeds of any properties sold were applied to reduce the debt to the Bank. It is also clear that the Bassett
+Lane and Ingleburn properties were never sold.  By clause 14.2 the SMS was required to provide, at the latest 120 days after the end of the financial year, copies of the consolidated and unconsolidated accounts of SMS and each Guarantor. The Bank was entitled to require the accounts. Clause 7 of the letter of offer referred to accounts being requires 180 days after the end of the financial year. I shall treat the more generous period as the requisite period.
+ There was another clause which required accounts to be provided by the end of December 2007. SMS did not provide the accounts by 31 December 2007. Mr
+Marzouk's evidence (which was not challenged) is that SMS's accountant embezzled money from SMS and decamped, and that SMS could not comply.
+ Mr Poulos wrote to Ms Polly on 12 December 2007 and told her the 2007 financials should be ready by March 2008. On 18 December 2007, Ms Vicky Ye, an
+Assistant Relationship Manager, wrote to Mr Poulos saying that the review was due by the end of December 2007 and that "we can use the 2006 financials together with the tenancy schedule to perform this review." She asked for the updated tenancy schedule which was provided on 8 January 2008: see Exhibit A1:
+TB173 - 174.
+ The failure of SMS to provide the relevant accounting information constituted a breach of the loan agreement but the Bank, until 11 April 2008, seemed to be understanding of the problem and to have indicated that immediate delivery was not imperative. Mr Poulos did not, in his email of 12 December , promise delivery of the accounting information by March 2008, but said that it "should" be ready.
+ I think it is understandable that the Bank expected the information by
+March 2008 at the latest, but the Bank had not complained that it could not undertake the review without the accounts before 11 April 2008 and in the light of the earlier correspondence, the Bank seems to have excused SMS from providing the accounting information anytime earlier than the end of May 2008 - when it was, it appears, provided. I would not regard the Bank's reliance on the failure to provide accounting information until May 2008 as now constituting a default as justified.  There is no dispute that SMS was required to pay for a valuation fee on one of the properties which had been outstanding for six months, that a demand was made for it to be paid by letter of 1 April 2008 and the Bank threatened SMS that it would debit its account with the fee if it was not paid. I infer that the fee was paid either directly or in this fashion: see Exhibit A1: TB178.
+SMS was therefore in breach of the obligation, but the Bank did not treat the failure as triggering the default provision. I do not think the Bank is justified in relying on this failure as a default but it is of some relevance in the context of SMS's conduct and the Bank's response to it.
+ SMS claims that the Bank promised that SMS's obligation to make interest repayments under the loan agreement would not arise until after the Bank had provided SMS with a notice specifying the amount payable as interest, that the
+Bank failed from time to time to provide SMS with such a notice and that it would be inequitable to treat a non-payement of interest since November 2008 as late or involving any default. SMS relies on the evidence of Mr Poulos that he had a conversation with Ms Ballesteros to the following effect: "[Mr Poulos]: [Mr Marzouk] is cancelling the direct debit authorities because of all the mistakes that have been made. From now on I need you to send me rollover notices showing the interest payable and [Mr Marzouk] will then pay the interest.
+ [Ms Ballesteros] OK, John. I will send you the advices from now on." 
+See Mr Poulos' first affidavit at para 15.
+ Ms Ballesteros (whose credit was not attacked) is employed by the Bank as a
+Relationship Support Officer and works under the supervision of Ms Polly. Ms
+Ballesteros said that she had no authority to agree to the cancellation of any direct debit authority and would not have agreed to it. Any request to cancel direct debit authorities had to be in writing she said. Ms Ballesteros says she did agree with Mr Poulos that she would organise rollover notices showing interest payable to be sent to SMS, and that she did do so.
+ Ms Ballesteros denied that she had been told by Mr Poulos that SMS had cancelled the direct debit authorities but she discovered that when the Bank received returned items: see T327.45. There is evidence she did send notices of the interest rollovers: see Exhibit A1: TB244, 245, 250 and 251.
+ I do not accept that Ms Ballesteros promised that interest payments need not be made until after the Bank had provided SMS with a notice or that Mr
+Poulos told Ms Ballesteros that SMS was cancelling the direct debit authorities because of mistakes. I am not persuaded that Mr Poulos had the conversation he says he had or that Ms Ballesteros had the authority to agree to such a course which was, even on Mr Poulos' version, not put as a request but rather as an advice that "[Mr Marzouk] is cancelling the direct debit authorities".  The critical point which SMS's case seems to ignore is that by November SMS had failed to repay the expired facilities and the fact that the Bank did not press for immediate repayment was an indulgence. It does not really matter whether the repayments were to come from the sale of these properties or other properties owned by SMS or Mr Marzouk (or by way of refinance, if Mr
+Marzouk had wanted that in late 2007 which he said he did not want), nor does it matter in this context whether Mr Marzouk promised to sell other properties or not - what is important is that from November 2007 to April 2008, SMS had not put itself in a position to repay the two facilities and by April the Bank was not prepared to allow that situation to continue. Mr Marzouk's letter of 6
+February 2009 (see Exhibit A1: TB281) in which he asserted that SMS was under no obligation to reduce the debt and referring to SMS's "willingness to help" the Bank proceeds on a convenient but erroneous view of the position, which seems to have been maintained by him and Mr Poulos in the case.  The Bank did not in its correspondence formally assert that SMS was in default prior to October 2008 and it did not claim entitlement to terminate the relationship based on the failure of SMS to repay the two expired facilities (or failure to pay the valuation fee or the failure to provide accounting information) as at April 2008. It is likely that this latitude was given by reason of a perception on the part of the Bank's officers that if they took the steps that the Bank was entitled to take, this would have made it less likely that a new financier would be found willing to take over the
+SMS debt (see Ms Polly at T364.5 - .10 and T367.30 - .35 and T348.30). I am not persuaded that the Bank, which for its own reasons studiously avoided treating its customer as in default of the loan agreement until the end of (it did not end rolling over the expired facilities until 4 January ), can now assert that SMS was in default as at April 2008. That does not mean, however, that the Bank would have been acting unreasonably in not permitting a partial refinance in August 2008. It is also relevant that SMS led the Bank to believe that it was able to effect a full refinance and it never told the Bank that it could not achieve such. Nor has SMS credibly demonstrated that it was or is unable to obtain a full refinance on terms, and could not do so now.
+ By its submissions SMS asserts that it was unfair and unreasonable of the
+Bank to refuse to release securities because it required SMS to refinance the expired facilities but would not make the underlying securities available to support the refinance and that it was not reasonably necessary for the Bank's own protection to keep all securities because the Bank's valuation ratio was well beyond its required 60%.
+ On SMS's own case it did not seek agreement to a partial refinance at any time before May 2008 and on my finding did not do so before August 2008. In the period October 2007 to April 2008 the Bank was requesting SMS to repay the debt on the expired facilities (as SMS was obliged to do) and there is no question of any refusal of the Bank to agree to a partial refinance - none was in contemplation: T93.21 - .50.  In my view, as at August 2008, there was nothing unreasonable in the Bank requiring SMS to refinance all of its debt with another institution, and by
+December 2008 this was even more obviously so because on 19 September 2008 SMS failed to pay the deferred interest in the overdraft account as agreed, and again in late October 2008 it did not repay the additional deferred interest.
+It has not repaid the full amount at any time since. It has not paid back the money due on the expired facilities in October 2007 or since 4 January 2009.
+It has not repaid the amount due in respect of the facility which expired in
+March this year. I do not need to determine how much SMS owes on all the facilities, but Ms Ford by her evidence demonstrated that with default rates it exceeded $1 million as at 1 June 2009.  I agree with the submission on behalf of SMS (see para 43 of the plaintiff's written submissions dated 1 July 2009) that whether the Bank was acting unfairly and/or unreasonably must be assessed by reference to all the facts and circumstances. I reject the submission that the expired facilities had not been repaid because of the Bank's failure to act fairly and reasonably. Nothing the Bank did between October 2007 and August 2008 caused or contributed to the expired facilities not being repaid, on the contrary the
+Bank granted SMS indulgence until April and then further indulgence as SMS set about, so far as the Bank was informed, endeavouring to obtain a full refinance.
+ SMS has not at any time either before or during the case articulated a proposal for partial refinancing. Leaving all the other matters aside, without a proposal as to which properties are sought to be released, the Court is unable to say whether the Bank would, in refusing to accede to the proposal, be acting in breach of the duty to act reasonably. It follows in my view that even were I to have regarded the Bank's requirement that SMS refinance all of its debt as potentially unreasonable, in the absence of a specific proposal from SMS there would have been no utility in the Court making any declaration: see the discussion in Meagher, Gummow and Lehane's Equity Doctrines &
+Remedies, 4th ed (2002), LexisNexis Butterworths at [19-130] and the cases there cited, including Neeta (Epping) Pty Ltd versus Philips <case>; [(1974) 131 CLR 286.] Such a declaration has no context and provides no guidance to either party as to whether the Bank is justified or not justified in refusing to accede to the request.  
+Clog on the equity of redemption  Equity would not permit any fetter or clog upon the equity of redemption of a property which a mortgagee holds as security. The mortgagor having repaid the loan has a right to recover the property and attempted restrictions on that right are generally inoperative: see Lift Capital Partners Pty Ltd v
+Merrill Lynch <case> at <case> - [137] per Barrett J and see Sykes and Walker, The Law of Securities, 5th ed , Law Book Co at pp 69 - 79. In Lift Capital Barrett J explained the history of the principle and reiterated its more modern incarnation: "[136] I accept that questions about fettering the equity of redemption should be approached generally in the manner indicated by Young J in the
+Westfield Holdings case, approved by other judges of this court at first instance in Re Modular Design Group Pty Ltd and Wily versus Endeavour
+Healthcare Services Pty Ltd (No 5) and noted without adverse comment by the
+Full Court of the Supreme Court of South Australia in Epic Feast Pty Ltd v
+Mawson KLM Holdings Pty Ltd. It cannot be said today that a contractual provision freely assented to by a mortgagor is void or unenforceable just because it allows the mortgagee to acquire the mortgaged property or to resist that mortgagor's attempt to redeem. The susceptibility of such a provision to equitable intervention is, however, well established. In a given case, equity will prevent reliance on the provision by the mortgagee if that reliance is unconscientious because of some factor associated with the formation of the contract or something distinct from mere changed circumstances or supervening event operative at the time of reliance.
+ [137] In determining whether reliance is unconscientious, regard must be had to the nature of the bargain, the circumstances in which it was made and the circumstances in which the mortgagee seeks to assert the mortgagor's promise to defeat the right to redeem."  There are two reasons why the principle has no application here.
+First, the Bank does not seek to fetter SMS from redeeming its property, what it seeks to do is have SMS repay the loan and it relies on a contractual provision that entitles it to retain all security until the debt is paid, that does not prevent SMS retaking the unencumbered title on payment of the debt.
+There is no specific allocation in the loan agreement of any particular security to a particular portion of the debt.
+ The Bank asserts a second basis, namely that SMS was in default of its obligations under the loan facility since October 2007. As I have indicated, I am not persuaded that SMS was, in a technical sense, in default until this year, but since the principle is one of an equitable nature, which focuses on whether there has been unconscientious behaviour on the part of the mortgagee
+I think that the failure of SMS to repay the amounts due on the expired facilities in October 2007 coupled with unfulfilled promises to reduce the debt by other means would be sufficient to rebut any assertion of unconscientious conduct. Further, the failure to repay the overdraft in
+October or at least November 2008, and following its failure after 4 January to repay the amounts due under the expired facilities, did put SMS in default and reinforces my view that there has been no unconscientious behaviour on the part of the Bank and no clog or fetter on the equity of redemption.
+ Further, SMS, even on its own case, has not asked the Bank to release any particular security to permit refinancing of some of the facilities - therefore no particular security over which there is claimed to be a clog has been identified.
+ 
+Conclusion  I conclude:  
+SMS established that as at August 2008 the Bank was not prepared to consider a plan for partial refinancing that was not part of a full refinancing.
+
+Accepting that the Bank made known its position to SMS, SMS did not make any request for partial refinancing that identified which securities it was seeking release of in return for what refinancing arrangement.
+
+I am not satisfied that as at August 2008 there was any partial refinancing option available to SMS from any lender that it was considering or seeking to pursue.
+ 
+In my view the Bank has not acted unreasonably. On the contrary, it has given SMS more latitude than could be expected. My conclusion in this regard is founded on the following findings: 
+SMS's failure to repay the expired facilities meant that the Bank was entitled to require repayment of those facilities whenever it wished.
+
+SMS promised to reduce its debt by sale of properties but it has not done so.  
+SMS agreed to refinance the whole of the facility. It has not yet done so but it has not established why it has not been able to do so and it did not at any relevant time inform the Bank that it could not do so.
+
+SMS sought in September 2008 (by Mr Poulos) a deferral of interest of effectively $155,000 and the Bank acceded to that request. That amount was repayable on 19 September. SMS sought a further extension in relation to
+October interest. SMS's total indebtedness on that overdraft account was $186,370.20 as at January 2009. SMS was required to repay that money. As at 29
+May 2009 the amount owing had reduced to $106,886.05: see Exhibit KF8 to Ms
+Ford's affidavit.
+
+I find that in circumstances where the Bank was promised reduction of the debt in December 2007 and in which it was told that SMS was in the process of refinancing of the whole of the debt from May to December 2008, neither of which has occurred, the Bank has acted reasonably towards SMS, in not at any time prior to the end of 2008 demanding repayment of all of the facilities.
+ Even had I come to the view that the Bank would not have been justified in refusing to agree to a partial refinance there would be no utility in a declaration in the terms sought by SMS without a clear proposal as to the amount of the proposed refinancing and the securities in respect of which a release was being sought.
+ It follows that in my view the proceedings should be dismissed and the plaintiff should be ordered to pay the defendant's costs.
+ 
+LAST UPDATED:  July 2009 * * * 

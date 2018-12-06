@@ -1,0 +1,716 @@
+
+
+McMILLAN & ANOR versus DIRECTOR-GENERAL OF COMMUNITIES NSW [2009] NSWSC (18 November 2009) 
+Last Updated: 20 November 2009 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+McMILLAN & ANOR versus DIRECTOR-GENERAL OF COMMUNITIES NSW <case>  
+JURISDICTION: 
+Administrative Law  
+FILE NUMBER(S): 
+No 30069 of 2009  
+HEARING DATE(S):  and 16 October 2009  
+JUDGMENT DATE:  November 2009  
+PARTIES: 
+Nathan McMILLAN & ANOR versus 
+DIRECTOR-GENERAL OF COMMUNITIES NSW  
+JUDGMENT OF: 
+Hall J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+P: M Allars 
+D: J Griffiths SC/M Nagy  
+SOLICITORS: 
+P: Bruce Stewart Dimarco 
+D: Crown Solicitors Office  
+CATCHWORDS: 
+ADMINISTRATIVE LAW - [Liquor Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/) - validity of disturbance complaint under [Part ](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/index.html#p5)
+Division 3 of the Act - nature of a "complaint" - what verification of a complaint requires - formal affirmation of complaint - not verification of underpinning factual matters - whether conference convened on the basis of "complaints" was pursuant to valid exercise of power under [s.80](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s80.html) of the Act - whether excess of jurisdiction - decision under [s.80(3)](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s80.html) of the Act to extend the conference to include additional licensees of licensed premises - whether rules of procedural fairness apply to such a decision - an extension decision is a procedural decision not affecting substantive rights or interests - no breach of rules - no jurisdictional error re conference or extension decisions - no breach of procedural fairness in inspectors under the Casino, Liquor and Gaming Control Authority Act 2007 or police or council officers communicating with Director of Director's delegate in light of the statutory scheme established by the [Liquor
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/) - Director and delegate not in position of "accusers" - secrecy provisions in s.17 of the
+Casino, Liquor and Gaming Control Authority Act no breached by disclosure by
+Director of trading figures to competition licensees - such disclosure made in the discharge of statutory functions - interpretation of secrecy provisions  
+LEGISLATION CITED:  [Administrative Decisions (Judicial Review) Act ](http://www.austlii.edu.au/au/legis/cth/consolact/adra1977396/)  [Australian Human Rights Commission Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ahrca1986373/)  [Casino Control Act ](http://www.austlii.edu.au/au/legis/vic/consolact/cca1991166/) (Vic) 
+Casino, Liquor & Gaming Control Authority Act 2007  [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth)  [Crimes Act 1914](http://www.austlii.edu.au/au/legis/cth/consolact/ca191482/) [Greyhound Racing Act ](http://www.austlii.edu.au/au/legis/nsw/repealedact/gra2002175/)  [Health Care Complaints Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/hcca1993204/)  [Health Insurance Commission Act ](http://www.austlii.edu.au/au/legis/cth/numact/hica1973283/)  [Income Tax Assessment Act ](http://www.austlii.edu.au/au/legis/cth/consolact/itaa1936240/) (Cth)  [Liquor Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/)  [Liquor Act ](http://www.austlii.edu.au/au/legis/nsw/repealedact/la1982107/)  [National Health Act ](http://www.austlii.edu.au/au/legis/cth/consolact/nha1953147/)  [Oaths Act 1900](http://www.austlii.edu.au/au/legis/nsw/consolact/oa190079/) 
+Public Sector Employment & Management Act 2002  [Racial Discrimination Act ](http://www.austlii.edu.au/au/legis/cth/consolact/rda1975202/)  [Sex Discrimination Act ](http://www.austlii.edu.au/au/legis/cth/consolact/sda1984209/)  [Supreme Court Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/)  [Taxation Administration Act ](http://www.austlii.edu.au/au/legis/cth/consolact/taa1953269/) (Cth)  
+CASES CITED: 
+Ainsworth versus Criminal Justice Commission <case>; [(1992) 175 CLR 564] 
+Aristodemou versus Temby & Independent Commission Against Corruption (New South
+Wales Supreme Court, unreported, Grove J, 14 December 1989) 
+Australia and New Zealand Banking Group Ltd versus Nguyen <case> 
+Awad versus Health Care Complaints Commission <case> 
+Azed Development Pty Limited versus Frederick & Co Limited (In liq) [(1994) 14
+ACSR 54](/cgi-bin/LawCite?cit=%281994%29%2014%20ACSR%2054 "View LawCiteRecord" ) 
+Bond versus Australian Broadcasting Tribunal (No 2) <case>; [(1952) 86 CLR 1] 
+Cassaniti versus Tax Agents' Board of NSW <case> 
+Consolidated Press Holding Ltd versus Commissioner of Taxation <case>; <case>; <case>; [(1986) 69 ALR 445] 
+Glynn versus Independent Commission Against Corruption [(1990) 20 ALD 214] 
+Greyhound Racing NSW versus Cessnock & District Agricultural Association <case> 
+Hammond versus Commonwealth <case>; <case>; <case> 
+Morgan & Wanless versus Independent Commission Against Corruption (New South
+Wales Supreme Court, unreported, Sperling J, 31 October 1995) 
+OK versus Australian Crime Commission <case> 
+Pioneer Concrete (Vic) Pty Limited versus Trade Practices Commission <case>; [(1982-1983) 152 CLR 460] 
+Project Blue Sky versus Australian Broadcasting Authority <case>; [(1998) 194 CLR 355] 
+Re Australian Institute of Marine and Power Engineers versus the Secretary,
+Department of Transport <case> 
+Re Macquarie University; ex parte Ong [(1989) 17 NSWLR 113] 
+Re Minister for Immigration and Multicultural and Indigenous Affairs; ex parte
+Lam [(2003) 214 CLR 1] 
+Re Polites; ex parte Hoyts Corp Pty Limited <case>; <case> 
+Simionato Holdings Pty Ltd versus Federal Commissioner of Taxation (No 2) (1995) 95
+ATC 4720 
+Smith versus Director of Liquor and Gaming <case> 
+Stollery versus Greyhound Racing Control Board <case>; [(1972) 128 CLR 509] 
+Victoria versus Builders' Labourers Federal [(1982) 52 CLR 25]  
+TEXTS CITED:  
+DECISION: 
+The declaratory relief sought in paragraphs 1, 3, 4, 5 and 6 of the Summons is refused. The Summons, in those respects, is dismissed. 
+The order in the nature of prohibition sought in paragraph 7 of the Summons is refused and the Summons, in that respect, is dismissed. 
+The order sought in paragraph 8 of the Summons is refused and the Summons, in that respect is also dismissed.  
+JUDGMENT:  
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+COMMON LAW DIVISION 
+ADMINISTRATIVE LIST 
+HALL J 
+WEDNESDAY 18 NOVEMBER 2009 
+No 30069 of 2009 
+NATHAN McMILLAN & ANOR versus DIRECTOR GENERAL OF COMMUNITIES NSW 
+JUDGMENT 
+HIS HONOUR: 
+Introduction These proceedings raise a number of issues concerning the statutory processes prescribed by the [Liquor Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/) ("the
+Act") for dealing with "disturbance complaints".
+ The Commissioner of Police purportedly made a complaint pursuant to s.79(1) of that Act to the Director-General of Liquor and Gaming that the quiet and good order of the neighbourhood of certain licensed premises in Manly were being unduly disturbed.
+ Manly Council purportedly also made a complaint under that provision.
+ The Steyne Hotel and the Shore Club Hotel were two hotels named in the police complaint.
+ The plaintiffs are the licensees of those two hotels which have a common ownership.
+ A decision was made by the then Director General (Mr Albert Gardner) to convene a conference pursuant to s.80 of the Act. Subject to the provisions of s.81 of that Act, the Director is empowered to take action on a disturbance complaint. One possible action is the imposition of a condition or conditions on a licence held in respect of licensed premises.
+ The plaintiff licensees challenge the validity of the police and council complaints and of a decision made with respect to the convening of the abovementioned conference. The plaintiffs also seek relief in respect of trading figures in relation to the Steyne Hotel disclosed by the Director to licensees of certain other hotels referred to in the police complaint.
+
+The proceedings The proceedings were commenced by way of summons. In it the plaintiffs seek judicial review of two decisions made by a delegate of the Director of Liquor and Gaming. The Director at the relevant times was Mr Albert Gardner. His delegate was Mr Darryl Freeman.
+ The first plaintiff, Nathan McMillan, is the licensee of the Steyne Hotel,
+Manly. The second plaintiff, Marc Bennie, is the licensee of the Shore Club
+Hotel, South Steyne.
+ The first decision challenged in the proceedings, referred to in submissions as the conference decision, was a decision to convene a conference pursuant to the provisions of s.80 of the Act. The conference was to be held on 28 August 2009 for the purpose of hearing submissions relating to "complaints" or what were referred to in the Plaintiffs' Written
+Submissions as "applications". The complaints, as earlier stated, were purportedly made pursuant to s.79(1) of the Act.
+ A decision by the Director's delegate, also challenged in these proceedings, was a decision to extend the conference to include the Shore Club
+Hotel, Manly. This decision was referred to in submissions as the "extension decision".
+ Mr Gardner, at all relevant times, was vested with power under s.79, s.80 and s.81 of the Act, powers which were delegated by him to Mr Freeman.
+
+Background 
+The new [Liquor Act](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/) The [Liquor Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/) commenced on 1 July 2008. It replaced the former [Liquor Act ](http://www.austlii.edu.au/au/legis/nsw/repealedact/la1982107/). The position of Director (or, as in this case, his delegate) has prescribed functions including those referred to in [Part ](http://www.austlii.edu.au/au/legis/nsw/repealedact/la1982107/index.html#p5),
+Regulation and Control of Licensed Premises in the Act. The Director holds statutory office under Part 1A of the Public Sector Employment &
+Management Act 2002.
+
+The statutory functions of the Director The functions of the Director were formerly performed within the Department of Arts, Sport & Recreation. On 27 July 2009, that Department was absorbed into the Department of Communities NSW. Accordingly, references in the Act to the "Director" are to be now understood as referring to the Director-General of the new department, the Department of Communities NSW. The Office of
+Director of Liquor, Gaming & Racing ceased on that date.
+ In his affidavit affirmed on 14 September 2009, Mr Gardner, who now holds the office of Director of Compliance, Office of Liquor, Gaming and Racing,
+Communities NSW, confirmed that on 1 July 2009, the functions that had been previously conferred on the Director or Liquor and Gaming were conferred on the Director-General of Communities NSW, pursuant to the Public Sector
+Employment & Management (Departmental Amalgamations) Order 2009.
+ On 29 July 2009, the Director-General of Communities NSW delegated specific functions under the Act to the position of Director of Compliance who, as I have stated, is presently Mr Gardner.
+ The Director is a senior office holder in the Office of Liquor, Gaming & Racing ("OLGR"). That office is operated as a section or unit within the
+Department of Communities NSW. It provides support to the Casino, Liquor &
+Gaming Control Authority established under the Casino, Liquor & Gaming
+Control Authority Act 2007 ("the Casino Act").
+
+Administrative procedures for dealing with disturbance complaints In his affidavit affirmed on 14 September 2009, Mr Owen Rogerson,
+Compliance Officer at OLGR, stated that, within that Office there is a
+Disturbance Complaint Unit. It provides administrative assistance in the handling of disturbance complaints under s.79 of the Act.
+ The Disturbance Complaint Unit is staffed by two clerks and Mr Rogerson.
+The Unit reports to Mr Freeman who holds the position of General Counsel.
+ The Unit handles approximately 100 complaints a year. Following receipt of a complaint, it is dealt with by a procedure that includes the following steps:- 
+The complaint is assessed to determine whether it fulfils the criteria set out in s.79 of the Act.
+
+It is then recorded on a database.
+
+The complaint is then allocated to a case officer.
+
+The case officer drafts correspondence to the licensee, complainant and any other relevant party informing them of the complaint and inviting the "parties" to resolve the issue informally as, for example, by way of mediation.
+
+The case officer reports to the Director's delegate on the progress of the complaint.
+
+If the matter is resolved informally, then undertakings by the licensee may be sufficient to resolve the issue, otherwise it may proceed to a conference.
+ Mr Rogerson explained that when a complaint is received from either the police or a local council, he assumes that informal resolution has been attempted by either of those bodies and that the complaint is then made as a last resort.
+ Section 20 of the Casino Act provides for the appointment of members of the staff of the Department of Communities NSW to be inspectors for the purpose of the gaming and liquor legislation.
+ The inspectors are referred to as "compliance officers". They conduct inspections of licensed premises in order to determine whether there has been compliance with, or contravention of, the gaming and liquor legislation. Their powers include powers to require information and records, powers of entry and search, powers to inspect and seize things and power to require answers to questions.
+ Compliance officers and police routinely share information about licensing matters. According to Mr Gardner, in addition to the establishment of databases with consolidated data from various sources including the New South
+Wales Police Service and the OLGR, compliance officers often provide police with copies of what are referred to as "premises reports". These capture information about particular licensed premises which have been inspected.
+ Mr Gardner's evidence was that compliance officers and police may conduct joint operations. Compliance officers may assist police with a police operation or police officers may assist with an OLGR operation.
+ Where a compliance officer issues a penalty notice, the OLGR has carriage of any resulting criminal proceedings. Where a police officer issues a penalty notice, then police are responsible for any resulting criminal proceedings.
+
+Factual background The first plaintiff is the licensee of the hotel licence for the Steyne
+Hotel. McHugh Holdings Pty Limited is the business owner and operator of the
+Steyne Hotel located at 75 The Corso, Manly as well as of the Shore Club
+Hotel, which is located at South Steyne, Manly. The General Manager of McHugh
+Holdings is Robert Doran.
+
+The police complaint In the affidavit of Robert Doran sworn 6 August 2009, reference is made to a meeting which Mr Doran attended on 6 February 2009 with Superintendent
+Darcy, Brett Roeder, Licensing Sergeant and the first plaintiff, Mr McMillan.
+He stated (at [45]) that at the meeting, Superintendent Darcy informed him that he had initiated a disturbance complaint pursuant to s.79 of the Act.
+ On 17 March 2009, Mr Doran attended a further meeting with Superintendent
+Darcy together with other representatives from police. Superintendent Darcy informed him on that occasion that the complaint was then currently being prepared and that it would be directed at the Steyne Hotel and that police would be seeking a 12.30 am close for the hotel.
+ On 14 July 2009, the first plaintiff was served with a letter dated 13 July from Mr Freeman, addressed to him as the licensee of the Steyne Hotel,
+Manly, informing him that the Director had received disturbance complaints from the Commissioner of Police and from Manly Council and that the Director had convened a conference under s.80 before him as the Director's delegate, to be held on 28 August 2009. The letter enclosed an agenda for the conference together with:- 
+An undated letter from Superintendent Darcy dated stamp received on 29
+May 2009 by the Director.
+
+A minute prepared by Sergeant Roeder dated 14 April 2009.
+
+A statutory declaration signed by Superintendent Darcy on 14 April .
+ In addition, there was also enclosed with Mr Freeman's letter, the following documents:- 
+A letter dated 8 May 2009 from Henry Wong, General Manager of Manly
+Council to the Director.
+
+A letter dated 17 July 2009 from Lisbeth Lawsen to the Director.
+
+A statutory declaration signed by Henry Wong on 8 May 2009.
+ Enclosed with the letter and the abovementioned enclosures were CD-Roms of documents and a DVD of video surveillance material.
+ On 14 July 2009, the second plaintiff was served with a copy of Mr
+Freeman's letter dated 13 July 2009, its enclosures and the CD-Rom and DVD material.
+ Thereafter, there was correspondence between Mr Doran, on behalf of the plaintiffs, and the Director. Mr Doran, inter alia, sought particulars as to the issues to be addressed at the conference convened under s.80.
+ The plaintiffs responded to Mr Freeman's abovementioned letters of 13 July by challenging the validity of the complaints made by the Commissioner of
+Police and Manly Council and the validity of the conference and extension decisions.
+ In both cases, the complaints were made by way of a pro forma complaint document entitled "Disturbance complaint, [Liquor Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/) - [s.79](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s79.html)".
+ The police complaint included a statutory declaration by David Darcy,
+Superintendent of Police, Manly Police Station. The statutory declaration was completed by him on behalf of "the Commissioner of Police or an appointed delegate".
+ The council complaint included a statutory declaration by Henry To Wong,
+General Manager of Manly Council. The statutory declaration was completed by him as "a person authorised by the local consent authority in relation to the licensed premises".
+ In the police complaint, the relevant statutory declaration stated that the quiet and good order of the neighbourhood had been unduly disturbed. The neighbourhood was identified as "Steyne Hotel, 75 The Corso, Manly". The reason for the disturbance was identified by a tick being placed in two boxes set out in paragraph 3 of the statutory declaration, that is, that the disturbance was said to have arisen because of:- • The manner in which the business of the above licensed premises is conducted.
+ • The behaviour of persons after they have left the above licensed premises.
+ Mr Doran stated in his affidavit sworn 6 August 2009 (paragraph [51]), that he received the statutory declaration made by Superintendent Darcy on 14 May with an attached undated letter from Superintendent Darcy, but date stamped received by the OLGR on 29 May 2009 and a minute prepared by Sergeant
+Roeder dated 14 April 2009, served on the plaintiffs under cover of Mr
+Freeman's letter of 13 July 2009, on 14 July 2009. The letter also enclosed an agenda for the conference fixed for 28 August 2009.
+ Mr Doran stated that the material marked as RD-2 to his affidavit, which comprised Mr Freeman's letter dated 13 July 2009, the other documents referred to in the preceding paragraph (which he termed the police complaint) and material in support of the complaint were all served on 14 July 2009. Exhibit
+RD-2 comprises four volumes of documents.
+ Mr Doran also stated that the council complaint documents were served on the plaintiffs under cover of a letter dated 13 July 2009 from Mr Wong,
+General Manager of Manly Council. A conference was appointed for 28 August
+Exhibit RD-3 comprises the council complaint and supporting material.
+ In the council complaint, the same two bases were relied upon as the reasons for the claimed disturbance to the quiet and good order of the neighbourhood which was identified as being the "Manly LGA".
+ In his abovementioned affidavit, Mr Doran made the following observations concerning the police complaint and the council complaint:- 
+The police complaint contained a statement by Simon Munt, OLGR
+Inspector, which connected surveillance film, penalty notices, compliance notices and orders to reports made in relation to the Steyne Hotel. It also annexed confidential information said to have been provided to OLGR in response to a notice of produce (referred to in Exhibit M to his affidavit).
+
+In relation to the council complaint, the material in support included surveillance and related commentary by OLGR inspectors. The surveillance and commentary material was referred to in the documents exhibited to his affidavit and marked RD-3.
+ Certain of the abovementioned documents will be discussed below.
+
+The Council complaint The council complaint is behind Tab 84 of Volume 2 of the plaintiffs' bundle of documents and [section ](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s1.html) of
+RD-3.
+ A further letter written by Mr Henry Wong, General Manager, dated 8 May and addressed to Mr Gardner was headed "Disturbance Complaint - [s.79](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s79.html) of the [Liquor Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/)" (Tab 85,
+Volume 2, Plaintiffs' tender bundle). It stated:- "On behalf of Manly Council, I make a formal disturbance complaint under [Section ](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s79.html) of the [Liquor Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/), and seek the following for all licensed premises within the Manly LGA:- • a closing time of 2.00 am or earlier; • a strict enforcement of Responsible Service of Alcohol (RSA); • compulsory financial membership to the Manly Liquor Licensing
+Accord." The letter referred to a resolution made at the Ordinary Meeting of Council on 20 April 2009 that a complaint under [s.79](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s79.html) be made in conjunction with the then current [s.79](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s79.html) complaint lodged by police. The letter went on to state:- "The disturbance complaint relates to the quiet and good order of the neighbourhood of the licensed premises in the Manly LGA being unduly disturbed because of the manner in which the business of these licensed premises are conducted and the behaviour of persons after they have left these licensed premises." The letter enclosed a report detailing the Council's complaint.
+ Mr Wong, in the letter, formally requested a joint meeting "... with yourself and Superintendent Darcy to discuss this disturbance complaint".
+ The plaintiffs contended that, in this respect, a meeting was being requested in the absence of the licensees to discuss the complaint, presumably in advance of any conference.
+ The plaintiffs contended that the description inserted by Mr Wong in the statutory declaration "Manly LGA" is one that cannot constitute "licensed premises" for the purposes of [s.79(1)](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s79.html) and s.[79](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s79.html)(2).
+ Mr Wong's statutory declaration was, on one view of it, signed by Jo
+Bramma, Public Officer, Manly Council on 7 May 2009, the day before Mr Wong is said to have made the declaration (on 8 May 2009). The witness was a Justice of the Peace, Ms Lawsen.
+ A question was raised in the submissions for the plaintiff as to whether the statutory declaration had been properly executed under the [Oaths Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/oa190079/), and whether, in any event, Jo Bramma had delegated authority of the Council to make the declaration.
+ On 25 June 2009, Mr Wong, as General Manager of the Council, wrote to Mr
+Freeman in his capacity as delegate of the Director of Liquor and Gaming in relation to the "s.79 disturbance complaint". He stated "following your request for further information to support Manly Council's Disturbance
+Complaint pursuant to [s.79](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s79.html) of the [Liquor Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/), I attach the following as Appendices to our submission of 8 May 2009". The letter then refers to Appendices 1 to 5, which include a range of material including CCTV footage, log book entries of incidents etc.
+ The plaintiffs contended that the most glaring defect in the statutory declaration purportedly in support of the complaint was its failure to express or indicate what the licensed premises were in relation to which the complaint was being made. It simply referred to "Manly LGA".
+ It was also contended that, as with the police complaint, the council complaint failed to verify what is the neighbourhood. It was also said there was a deficiency in failing to identify the matter under [s.79(1)(a)](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s79.html) or (b).
+ It was submitted that this defect was not rectified by the attachments as [s.79(2)](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s79.html) requires that a complaint be verified. Accordingly, the plaintiffs submitted, the verification of the complaint must be a verification as to what are the "licensed premises" and the matters under [s.79(1)(a)](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s79.html) and/or (b) that are asserted to be the reasons for the complaint.
+ The contention, accordingly, was that if there was no valid complaint, then there can be no valid exercise of power under s.80(1) of the Act. Without a complaint under Division3, the Director had no power of his own motion to convene a meeting.
+ Whilst a complainant is not required to express a complaint under s.79(1) in the manner of a pleading in court proceedings, it does, in my opinion, need to be expressed in terms that identify specific licensed premises. That is a matter of considerable importance. Firstly, the complaint must identify the alleged source of any undue disturbance. Secondly, the relevant neighbourhood is determined by reference to the licensed premises. Thirdly, a complaint provides a potentially affected licensee with notice of a complaint which may impact adversely in terms of possible action under s.81. The council complaint did not identify the licensed premises in the statutory declaration. I will return to the question of the validity of the council complaint below.
+ The report in support of the complaint maintained the general approach as recorded in the executive summary "Manly Council seeks the following for all licensed premises within the Manly LGA".
+
+The statutory declaration The statutory declaration made on 8 May 2009 (Plaintiffs' tender bundle,
+Volume 2 at p.368), was signed by Mr Wong and was witnessed by a Justice of the Peace.
+ The fact that there is another signature on the statutory declaration apparently made on 7 May 2009 does not detract or invalidate the declaration made by Mr Wong who had the express authority of the Council: Plaintiffs' tender bundle, Volume 1 at p.70). His making of the declaration was a lawful exercise of delegated power.
+ Mr Wong had executed an instrument of appointment and delegation as General
+Manager in favour of Mr Bramma on 30 January 2009. However, that, of course, did not detract or remove Mr Wong's general authorisation to act on the
+Council's behalf. I, accordingly, conclude that the council complaint was one that was made by Mr Wong on the Council's behalf.
+
+Statutory provisions The relevant provisions of Part 5 are set out below. The provisions of s.3(1)(a) and (b) of the Objects of Act are also reproduced.
+ Section 3, Objects of Act, provide, inter alia, as follows:- "3. Objects of Act 
+The objects of this Act are as follows:- to regulate and control the sale, supply and consumption of liquor in a way that is consistent with the expectations, needs and aspirations of the community, to facilitate the balanced development, in the public interest, of the liquor industry, through a flexible and practical regulatory system with minimal formality and technicality, ..." Part 5 of the Act contains six specific provisions directed to various aspects relevant to the regulation and control of licensed premises. Division of Part 5 is entitled "Disturbance complaints". The provisions of s.79, s.80 and s.81, which comprise Division 3, are central to the present proceedings and, accordingly, the terms are reproduced below:- "Division 3 Disturbance complaints . Making of complaint 
+A person may complain to the Director that the quiet and good order of the neighbourhood of licensed premises are being unduly disturbed because of: the manner in which the business of the licensed premises is conducted, or the behaviour of persons after they leave the licensed premises (including, but not limited to, the incidence of anti-social behaviour or alcohol-related violence).
+
+Such a complaint must be in writing and be made or verified by statutory declaration.
+
+A complaint under this section may only be made by any of the following persons (referred to in this Division as the complainant): a person authorised in writing by 3 or more persons residing in the neighbourhood of the licensed premises or a person who is such a resident and is authorised in writing by 2 or more other such residents, the Commissioner of Police, a person authorised by the local consent authority in relation to the licensed premises, a person who satisfies the Director that his or her interests, financial or other, are adversely affected by the undue disturbance to which the person's complaint relates.
+
+A complaint may relate to more than one licensed premises.
+
+In the application of this Division to an on-premises licence that relates to a catering service: a reference to licensed premises does not include private domestic premises, and a reference to the business of the licensed premises is a reference to the business of providing catering services on licensed premises (other than private domestic premises) under the licence.
+ . Director may convene conference 
+If the Director receives a complaint under this Division, the Director may convene a conference to hear submissions relating to the complaint.
+
+A conference may relate to more than one complaint.
+
+A conference convened in relation to licensed premises the subject of a complaint may be extended to include any other licensed premises if the
+Director is satisfied: that the evidence given in support of the complaint would support a complaint against the other licensed premises, or that, assuming that the complaint is shown to be justified, action taken in relation to the licensed premises the subject of the complaint will be ineffective unless similar action is taken in relation to the other licensed premises.
+
+Any licensed premises to which a conference is extended as referred to in subsection (3) is, for the purposes of this Division, taken to be the subject of a complaint under this Division.
+
+Notice of the time and place of the conference is to be given to all complainants and the licensee or licensees as specified by the Director.
+
+The conference is to be presided over by the Director and the procedure at the conference is to be determined by the Director.
+ . Decision by Director in relation to complaint 
+The Director may, after giving each complainant present and the licensee (if present) a reasonable opportunity to be heard in relation to a complaint under this Division: impose a condition on the licence concerned, or adjourn the conference subject to implementation and continuation of undertakings given by the licensee, or issue a warning to the licensee, or take no action.
+
+The conditions that may be imposed on a licence include, but are not limited to, conditions relating to any one or more of the following: noise abatement, prohibition of the sale or supply of liquor before 10 am and after 11 pm, prohibition of, or restriction on, activities (such as promotions or discounting) that could encourage misuse or abuse of liquor (such as binge drinking or excessive consumption), restricting the trading hours of, and public access to, the licensed premises, requiring the licensee to participate in, and to comply with, a local liquor accord.
+
+The Director is to take the following matters into consideration before making a decision under subsection (2): the order of occupancy between the licensed premises and the complainant, any changes in the licensed premises and the premises occupied by the complainant, including structural changes to the premises, any changes in the activities conducted on the licensed premises over a period of time.
+
+For the purposes of subsection (3), complainant does not include a complainant who is the Commissioner of Police or a person authorised by the local consent authority." The procedure for determining disturbance complaints under the [Liquor
+Act 2007](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/) is significantly different from that which was prescribed under the [Liquor Act ](http://www.austlii.edu.au/au/legis/nsw/repealedact/la1982107/) ("the Act"). Under the 1982 Act, specific functions for investigating and determining disturbance complaints were conferred on separate bodies, whereas under the 2007 Act, the relevant functions are brought within the office of the Director of the 2007 Act.
+ Under the 1982 Act, the Liquor Administration Board (which comprised a licensing magistrate and other persons appointed by the Minister) dealt with disturbance complaints pursuant to the provisions of s.104 of that Act. A right of appeal to the Supreme Court on a question of law was prescribed: s.146(1).
+ Under the 2007 Act, a decision of the Director under s.81 is a decision which is subject to review by an administrative body, namely, the Casino,
+Liquor and Gaming Control Authority: s.153(1)(c).
+ The differences in the statutory regimes were relied upon by the defendant in the present proceedings. It is sufficient to note here that, in contrast to the procedures concerning disturbance complaints in the 1982 Act, the proceedings under the provisions of Part 5 Division 3 of the 2007 Act, do not involve adversarial proceedings and a conference held under s.80 is not analogous to inter partes contested proceedings in a court or in an administrative tribunal.
+
+The licensed premises The licence held by the first plaintiff in respect of the Steyne Hotel authorises the sale and supply of liquor from the hotel with very little restriction so far as trading hours are concerned. The licence permits 24 trading from Monday to Saturday and trading from 5.00 am to midnight on
+Sundays. That, however, is subject to Schedule 4 of the Act.
+ Schedule 4 contains special licence conditions, details of which were set out in paragraph 41 of Mr Doran's affidavit sworn 6 August 2009. The Steyne
+Hotel is required, by Schedule 4, to comply with such conditions.
+ The licence held by the second plaintiff in respect of the Shore Club Hotel is not so liberal. It permits trading from 10.00 am to 2.00 am from Monday to
+Saturday and from 10.00 am to midnight on Sundays.
+ In the neighbourhoods of the Steyne Hotel and the Shore Club Hotel, there are residential premises. Accordingly, there is a potential for disturbance from persons who attend the hotels as patrons to whom liquor is supplied. The
+Act provides a mechanism whereby potential conflict arising from extended trading hours may be addressed and, if possible, resolved.
+ Issues concerning the need for liquor to be sold and supplied to members of the public on licensed premises over extended hours and the merits or otherwise of the complaints do not arise for consideration in the present proceedings. It follows that, in relation to any claims, assertions or allegations made in the police complaint and in the council complaint, no findings expressly or impliedly are made in this judgment, they being matters for the Director's consideration and not for this Court. The matters raised in the complaints are, accordingly, referred to in this judgment for the purpose of providing context in which the grounds relied upon by the plaintiffs may be considered.
+ The grounds relied upon raise a number of questions of law. The plaintiffs' entitlement to the relief claimed depends upon whether one or more of those grounds are made out.
+
+Grounds for relief 
+Ground 1: Conference decision - excess of power? 
+Plaintiffs' contentions and submissions There were three bases for this ground, they being:- 
+That the conference decision was made in excess of power under s.80(1) of the Act because:- the Police application was not a "complaint" for the purposes of s.79 of the Act; the Council application was not a "complaint" for the purposes of s.79 of the Act; the power under s.80(1) to convene a conference is conditioned upon the receipt by the Director of a valid complaint under s.79.
+ The plaintiffs' contended that, for there to be a valid decision under s.80(1) to convene a conference, there must be a valid complaint being a complaint that is made in conformity with the provisions of s.79. The complaints by police and by Manly Council in this case, it was argued, failed to conform with the requirements for a valid complaint. Accordingly, there was no valid decision to convene a conference made under s.80(1).
+ Ms Allars of counsel for the plaintiffs contended that, where, as in this case, both matters specified in s.79(1)(a) and/or (b) are relied upon in a disturbance complaint, a statement of the reasons that establish or support those matters is essential. Otherwise, a complaint will not be a valid one.
+The reasons and the identity of the licensed premises, it was argued, must be recorded as part of the complaint.
+ It was submitted in relation to the police complaint that Superintendent
+Darcy's statutory declaration, though ticking the boxes in paragraph [3] "...
+did not verify that it is the behaviour of persons after they leave the [Steyne Hotel], which results in the quiet and good order of the neighbourhood being unduly disturbed".
+ It was further submitted that Superintendent Darcy's statutory declaration did "... not identify the manner in which the business of the [Steyne
+Hotel] is conducted, so as to result in the quiet and good order of the neighbourhood being unduly disturbed": Plaintiffs' Written Submissions, paragraph 4.10.
+ It was claimed that the alleged defects were not removed even if other documents could be taken as incorporated into Superintendent Darcy's statutory declaration by his use of the expression "See attached report". The combined material did not, it was contended, identify the manner in which the business of the Steyne Hotel was conducted so as to result in the claimed disturbance. The police complaint did not describe "a connection between the behaviour of patrons leaving the Steyne Hotel and disturbance of the neighbourhood" (Written Submissions, paragraph 4.16).
+ In her oral submissions, Ms Allars submitted that the phrase "because of" in s.79(1) emphasised the need for a connection to be demonstrated with the matters specified in s.79(1)(a) and (b). In this respect, it was contended "... what is required is a description of how ... the manner in which the business is conducted must have a causal connection to the quiet and good order of the neighbourhood, which is referred to in the statutory declaration" (transcript, 15 October 2009, p.35).
+ Whilst there was reference to extended trading hours in the police complaint, those hours of trading were not said to be causally related to any possible relief from the disturbance (transcript, p.36). It was argued that, what should have been identified in the complaint were "... what aspects of the business of the Steyne Hotel were causative of the undue disturbance of the quiet and good order of the neighbourhood" (transcript, p.36).
+ As to Superintendent Darcy's expression of opinion to the effect that earlier closing of the Steyne Hotel would reduce the rate of violence, it was contended "... that opinion does not describe a connection between the behaviour of patrons leaving the Steyne Hotel and disturbance of the neighbourhood": Plaintiffs' Written Submissions, paragraph 4.16.
+ It was further contended that the police complaint failed to identify the "neighbourhood of the licensed premises whose quiet and good order is being unduly disturbed": Plaintiffs' Written Submissions, paragraph 4.18.
+
+Verification of a complaint under s.79 A similar statutory requirement for verification of a complaint as that specified in s.79 was required by the former provisions of the [Health Care
+Complaints Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/hcca1993204/). The section provided:- "23(3) However, the Commission must not investigate a complaint unless the complainant verifies the complaint by statutory declaration." The provisions of [s.23(3)](http://www.austlii.edu.au/au/legis/nsw/consolact/hcca1993204/s23.html) were considered in Awad versus Health Care Complaints Commission <case>
+In that case, I referred to and applied the approach taken in Azed
+Development Pty Limited versus Frederick & Co Limited (In liq) [(1994) 14
+ACSR 54](/cgi-bin/LawCite?cit=%281994%29%2014%20ACSR%2054 "View LawCiteRecord" ) where the Court (Hayne J) considered the requirement for verification prescribed by s.493E(3) of the Corporations Law. The issue for determination related to a statutory demand that was required to be accompanied by an affidavit that verified the debt or debts due and payable by the company upon which the demand was made. Hayne J drew the distinction between "verify" in the sense of "prove or demonstrate by good evidence or otherwise substantiate matters" and "verify" used in the sense of "a formal affirmation.
+ The former provisions of [s.23(3)](http://www.austlii.edu.au/au/legis/nsw/consolact/hcca1993204/s23.html) of the [Health Care Complaints
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/hcca1993204/) permitted a complaint to be made by specified persons certain of whom could not have had first hand knowledge of the facts relevant to a complaint. The position in that respect is similar to the provisions of s.79(3) of the Act which, as earlier noted, specifies the persons, or classes of persons, who have standing to make a complaint. They include the Commissioner of Police and a person authorised by the local consent authority in relation to the licensed premises.
+ The requirement under s.79(2) that a complaint be in writing and be made or verified by statutory declaration is, in my opinion, similar in nature at least in one respect to that which existed under the former provisions of [s.23(3)](http://www.austlii.edu.au/au/legis/nsw/consolact/hcca1993204/s23.html) of the [Health Care Complaints
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/hcca1993204/).
+[Section ](http://www.austlii.edu.au/au/legis/nsw/consolact/hcca1993204/s79.html) does not require either a complaint that is made by a statutory declaration or a written complaint which is separately verified, to substantiate the factual matters relied upon in support of a complaint. The requirement for verification in the section is, in my opinion, one in the nature of a formal affirmation of the complaint in the sense stated by Hayne J in Azed . The contrary was not argued and, indeed, I understand Ms Allars accepted that [s.79(2)](http://www.austlii.edu.au/au/legis/nsw/consolact/hcca1993204/s79.html) should be so understood and construed.
+ Accordingly, a complaint made under [s.79](http://www.austlii.edu.au/au/legis/nsw/consolact/hcca1993204/s79.html), in my opinion, is one that formulates or expresses a complaint or grievance as to one or more of the matters specified in [s.79(1)](http://www.austlii.edu.au/au/legis/nsw/consolact/hcca1993204/s79.html) and is verified by way of formal affirmation. On that basis, a [s.79](http://www.austlii.edu.au/au/legis/nsw/consolact/hcca1993204/s79.html) complaint does not need to be formulated in the manner or with the precision or particularity of a pleading in civil proceedings. A general allegation or contention in the nature of a complaint which sufficiently identifies [s.79(1)](http://www.austlii.edu.au/au/legis/nsw/consolact/hcca1993204/s79.html) matters, will, in my opinion, suffice.
+
+Was the police complaint a "complaint" under s.79 of the Act? The provisions of the Act do not prescribe a formal process for the making of a disturbance complaint. A complaint is unlike a claim or an application in judicial proceedings where the elements of a cause of action or the grounds relied upon are required to be identified with a degree of precision. A complaint under s.79(1) is not in the nature of a claim or demand. It does not, as was formerly the case under the 1982 Act before the former Liquor
+Administration Board, involve "show cause" proceedings.
+ A complaint must be in writing and it must be verified in accordance with s.79(2). It may only be made by the persons specified in s.79(3). These include a person authorised by three or more residents in the neighbourhood or two or more residents, a person who satisfies the Director that his or her interests (as specified) are adversely affected or by the Commissioner of
+Police or a person authorised by a local consent authority.  In accordance with its ordinary dictionary meaning, a complaint is no more than a statement of dissatisfaction or protest that something is wrong or amiss, the Act not requiring a s.79 complaint to be framed as an accusation based on specified facts or contentions.
+ The statutory declaration in the police complaint identifies both s.79(1)(a) and (b) as the alleged bases for the undue disturbance to which the complaints are said to relate. The documents accompanying the statutory declaration and which were relied upon as material forming part of the complaint, in my opinion, sufficiently identified "the manner in which the business of the licensed premises is conducted", the word "manner" simply meaning "the way in which something is done or happens", or the "customary mode of acting": Oxford English Dictionary.
+ Under the Act, the business of licensed premises must be operated under, and in accordance with, the conditions of its licence, namely, the requirements or restrictions: s.11(1). Accordingly, a hotel business conducted on licensed premises must not, for example, be operated so as to exceed the standard trading period prescribed by s.14, unless otherwise permitted by the terms of the licence.
+ What is authorised or permitted in respect of licensed premises has a direct influence on the manner in which the business is conducted. The police complaint was framed on the basis that the business of the Steyne
+Hotel was conducted on an extended trading hours basis until 4.30 am, that such operations were associated with undue disturbance upon the bases stated in s.79(1)(a) (and s.79(1)(b)). The documents accompanying the complaint referred to a number of matters concerning the manner in which the business of the hotel was conducted. These arose out of, or were associated with, the hotel's trading hours.
+ The police complaint, in my opinion, adequately identified the manner in which the business of the Steyne Hotel was conducted, namely, the serving and sale of liquor on the premises during extended trading hours beyond 2.30 am until 4.30 am. It essentially maintained that those operations were associated with a disturbance to the quiet and good order of the relevant neighbourhoods.
+ Section 79(1)(a) of the Act, which refers to disturbance arising because of the "manner in which the business of the licensed premises is conducted", does not refer to discrete disturbance creating activities which may be carried out by a business. The section conveys a more general notion of the conduct of the business involving the sale and supply of liquor. The distinction between "business" and "activity" is one that is made by the
+Act itself (see, for example, s.45(3) and (5)). Section 79(1) employs the former term, not the latter.
+ Section 49(8)(b) reflects the fact that extended trading is an aspect of the business of licensed premises which itself can, without further specificity, be associated with undue disturbance. That section restricts the granting of an extended trading authorisation where "the extended trading period" will result in the "frequent undue disturbance of the quiet and good order of the neighbourhood of the licensed premises".
+ Accordingly, the Act itself in s.49(8)(b) recognises undue disturbance arising from (being the result of) the fact of extended trading. The provisions of s.79(1)(a) do not refer to disturbance from specific or individual business "activities". Like the provisions of s.49(8)(b), they comprehend the notion of the conduct of the "business" on licensed premises (which, in this case, must be taken as including extended trading).  Viewed in this light, I do not consider it incumbent upon a complainant to identify in a complaint under s.79(1) the factual matters that explain what particular activities in the extended trading period caused the alleged disturbance or how they caused it. Extended trading is itself a fact and one that the legislature in s.49(8)(b) has recognised can result in "undue disturbance".
+ The letter accompanying the statutory declaration referred to
+Superintendent Darcy's contention that underpinning the complaint were high levels of intoxication, increased aggression and increased assault rates within the Steyne Hotel following the abandonment of the Manly After Hours
+Venue Management Plan ("MAHVMP"). He asserted that the Steyne Hotel was "...
+the greatest contributor to alcohol related violence and crime in Manly" (p.2).
+ The particular box set out in the statutory declaration concerning the complaint in relation to s.79(1)(b) was ticked, ie, "the behaviour of persons after they leave the licensed premises (including, but not limited to, the incidence of anti-social behaviour or alcohol related violence)".
+ The issue raised in the police complaint in this respect referred to the fact that patrons of the Steyne Hotel and of other licensed premises in Manly who attended during extended trading hours had been creating disturbance in the streets of the neighbouring areas. Reference was made to the need for all licensed premises in Manly to adopt "... a transport solution that addresses the issue of drunk patrons moving north on foot through back streets after closing" (p.2).
+ Superintendent Darcy's Commander Statement dated 30 March 2009 (Exhibit
+RD-2, Volume 1, p.273) noted that, in the context of extended trading hours, there was an absence of alignment between hotel closing hours with an effective public transport service.
+ The report of Sergeant Roeder purported to identify the "source" of complaints in relation to the Steyne Hotel and the Shore Club Hotel in the following terms:- "... The main source of complaint is the disturbance to the neighbourhood by intoxicated people walking along the streets between 12 midnight and 5.00 am on Friday, Saturday and Sunday mornings ..." The contention made on the plaintiffs' behalf, namely, that Superintendent
+Darcy's statutory declaration did not verify all the matters required in order to meet the elements of a complaint in s.79(1) (paragraph 4.9 of the
+Plaintiffs' Written Submissions) is, with respect, in my opinion, without foundation.
+ A complaint under s.79 is not to be analysed in the way of an information or indictment that pleads a statutory offence, involving a number of constituent "elements".
+ The police complaint referred, in the context of extended trading, to factual circumstances said to have been associated with aggressive and unlawful conduct and that were otherwise associated with neighbourhood disturbances. In this way, the police complaint asserted in sufficiently clear terms that the neighbourhood of the Steyne Hotel was being unduly disturbed by reason of matters falling within s.79(1)(a) and (b). In summary, the following matters about the complaint are noted:- • The statutory declaration of Superintendent Darcy was entitled "Disturbance Complaint" [Liquor Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/) - [s.79](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s79.html).
+ • The statutory declaration was expressed to be in the nature of a complaint. Superintendent Darcy stated in it that he was making this complaint" in his capacity as a police officer.
+ • The statutory declaration asserted that the quiet and good order of the neighbourhood of "Steyne Hotel, 75 The Corso, Manly had been unduly disturbed because of" the matters in the two ticked boxes against descriptions that reflected the terms of [s.79(1)(a)](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s79.html) and (b).
+ • The statutory declaration (in particular, paragraphs [4] to [10] inclusive) was extended by the reference "see attached report" to incorporate the report of Sergeant B Roeder that accompanied it.
+ • Superintendent Darcy's letter, which accompanied the statutory declaration, expressly contended that the return to 4.30 am trading by, inter alia, the Steyne Hotel from and after 14 December 2008 was associated with "an instantaneous return to high intoxication levels, increased aggression and increased frequency of brawls ..." (p.1).
+ • In Superintendent Darcy's accompanying letter, the Steyne Hotel was asserted to be "the greatest contributor to alcohol related violence and crime in Manly ..." (p.2).
+ The documentary materials relating to the police complaint and sent by the Director or his delegate to the plaintiffs were also relied upon as identifying matters relevant to the complaint. A fair reading of them, in my opinion, further elucidated the substance of the police complaint.
+ The terms of the statutory declaration, in my opinion, constituted a complaint within the meaning of [s.79(1).](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s79.html)
+The specific matters raised were asserted to have been linked to extended hours trading to 4.30 am. Significant levels of intoxication, aggression, violence and disturbance were said to have resulted from the hotel's business being conducted on such an extended basis.
+
+The issue of description of the neighbourhood of the Steyne Hotel Contrary to the submissions made on behalf of the first plaintiff, I am of the opinion that the police complaint adequately identified the particular "neighbourhood" of the Steyne Hotel. "Neighbourhood" means a "nearby or surrounding area, the vicinity ..." by reference to a given point: Oxford
+English Dictionary. The contention for the first plaintiff was that
+Superintendent Darcy's statutory declaration "does not identify the neighbourhood of the Steyne Hotel ...". It was also contended that the accompanying documents also failed to identify the neighbourhood, those documents referring to "Manly" and "Manly Local Area Command".
+ As has been noted above, the documents constituting the police complaint identified the Steyne Hotel as "licensed premises" for the purposes of [s.79(1)](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s79.html) and did so by the description of the first plaintiff's hotel both by name and by address. It was also named in the first, second and third last paragraphs of Superintendent Darcy's letter as allegedly related to the problems identified in the complaint. It is also specifically referred to in the penultimate and last paragraphs of p.2 of that letter.
+ The memorandum of Sergeant Roeder further identified the Steyne Hotel under the heading "Issue" and thereafter under the heading "Comment" in the context of the discussion of the particular problems of disturbance.
+ I do not consider that, on a proper reading of the statutory declaration by which the complaint was made, that it can be said that the police complaint was one made by an "identification of the whole suburb" as was submitted for the plaintiffs. It identified the neighbourhood by reference to the Steyne
+Hotel itself, the neighbourhood being the nearby or surrounding area to it.
+ The police complaint, in my opinion, adequately identified the Steyne
+Hotel as licensed premises about which a complaint within [s.79(1)](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s79.html) was made. The complaint stated that the hotel's operations conducted during extended hours was linked to undue disturbance to the neighbourhood of the hotel upon the basis of the matters in [s.79(1)(a)](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s79.html) and (b). The complaint, in my opinion, was expressed in terms that characterised it as one within those provisions and was, accordingly, a valid complaint.
+
+The council complaint I do not consider that the council complaint can be regarded as falling within the terms of [s.79(1).](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s79.html)
+Those provisions indicate clearly enough that a complaint must be directed at one or more licensed premises, the identity of which is sufficiently referenced in the prescribed statutory declaration or associated materials.
+There is no such identification in the statutory declaration made on 8 May nor in the correspondence to which reference has been made or the other materials supplied with the "complaint". The drafting of the documents appears to have proceeded upon the basis that a complaint under [s.79(1)](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s79.html) may be expressed so as to comprehend all licensed premises within a specified area. For reasons discussed later in this judgment, the terms of [s.79(1)](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s79.html) indicate otherwise.
+ I am of the opinion that the council complaint was defective in substance in failing to identify any licensed premises by an appropriate description. I refer to my earlier remarks in this respect. I have also borne in mind in this respect the principles enunciated in Project Blue Sky Inc v
+Australian Broadcasting Authority <case>; [(1998) 194 CLR 355], 388 to 391. The defect in the council complaint in this respect, however, does not, in my opinion, have any practical outcome. The police complaint, for reasons I will shortly state, sufficiently identified the licensed premises as including both the Steyne Hotel and the Shore Club
+Hotel. Alternatively, the extension decision was, for reasons set out below, a valid decision thereby attracting the provisions of [s.80(3).](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s80.html)
+The Director, accordingly, is entitled to convene a conference under [s.80(3)](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s80.html) in relation to both those licensed premises.
+
+Ground 2: Extension Decision - excess of power under s.79 of the
+Act The argument for the plaintiffs was that the extension decision was made in excess of the Director's jurisdiction under s.79 of the Act because:- 
+The power under s.80(3) to extend a conference is conditional upon a conference having been validly convened in relation to licensed premises; and 
+The Conference was not validly convened under s.79.
+ It was argued that the Director had no power to make the extension decision because the conference decision was invalid. I have determined above that the conference decision was validly made.
+ The Director's delegate, Mr Freeman, confirmed in his letter dated 4
+August 2009 that he had exercised the power vested in him under s.80(3)(b) to extend the conference to the Shore Club Hotel and certain other licensed premises in Manly.
+ A decision to convene a complaint under s.80(1) is a discretionary decision for the Director or his or her delegate. When a complaint within the terms of s.79(1) is received, it may be examined and assessed as the
+Director/delegate considers appropriate.
+ Convening a conference under s.80(1) is not an essential, mandatory or a compulsory step under Division 3. There are no conditions prescribed by the
+Act to be fulfilled before a conference may be convened. No basis has been established in the present case for impugning the exercise of the Director's discretion to convene the conference. The power to do so is a broad one and, as I have stated, is entirely discretionary in nature. Having determined, as I have, that the police complaint was validly made under s.79(1), it was then open to the Director or his delegate to convene a conference.
+
+Ground 3: The extension decision - denial of procedural fairness The plaintiffs allege that, in making the extension decision, the
+Director's delegate denied the second plaintiff procedural fairness in failing to give him an opportunity to be heard before any such decision was made.
+ In the present case, the relevant principles of procedural fairness are to be considered in the statutory context created by the provisions of the Act, including in particular, those in Division 3.
+ In the defendant's written submissions (paragraph 49), it was contended that the police and/or the council complaints related to more than one licensed premises (including the Shore Club Hotel). On this basis, the
+Director contended, no extension decision was necessary. I will deal with this aspect before proceedings with Ground 3.
+
+Did the police complaint relate to one or a number of hotels? The statutory declaration of Superintendent Darcy incorporated by reference the report of Sergeant Roeder of 14 April 2009 and was clearly intended to be read in conjunction with that report. The documents comprising the "section 79 Complaint Application Form", read as a whole, make it clear that the police complaint related, not only to the Steyne Hotel but also to the seven other premises named in Sergeant Roeder's report.
+ In his letter of 4 August 2009, Mr Freeman wrote to the solicitors for the plaintiffs and stated:- "I had formed the view, that all the premises listed in the agenda were premises against which the Police were lodging a complaint. If that view is incorrect, then I am satisfied that, pursuant to [section (3)(b)](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s80.html) of the [Liquor
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/), the complaint should be extended to include those other premises listed in the agenda (and referred to in the complaint)." The statutory declaration of Superintendent Darcy, as earlier noted, specifically identified, in paragraph 3, the Steyne Hotel and did not refer there to any other hotel. However, the accompanying letter written by him, expressly refers to other hotels in Manly as part of the problem he was addressing.
+ Sergeant Roeder's report was also signed off by Superintendent Darcy on that date. The latter report under the heading "issue" refers to the complaint "... in relation to the Steyne Hotel and other licensed premises in the Manly Local Area Command".
+ Sergeant Roeder's report stated that Manly Police had compiled a complaint brief of evidence "primarily against the Steyne Hotel". He went on to state, "However, Police believe the disturbance to the neighbourhood is a collective problem where the majority of incidents occur between midnight and 5.00 am on
+Saturday and Sunday mornings. Police respectfully request that Director of
+Liquor, Gaming and Racing consider the following licensed premises to be involved in the complaint along with the Steyne Hotel". The seven hotels identified by name included the Shore Club Hotel.
+ The letter written by Mr Freeman as the delegate of the Director of Liquor and Gaming and advising that a conference had been arranged for Friday 28
+August 2009 had attached to it a document entitled "agenda for the conduct of a conference under [s.80](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s80.html) of the [Liquor
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/) concerning [s.79](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s79.html) complaint Manly premises". The agenda provided for a response "from each licensed premises who was a party to the complaint". The "order of response" listed eight hotels including the Shore Club Hotel and the Steyne
+Hotel.
+ The provisions for making a complaint under [s.79](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s79.html) are part of an Act expressly designed to produce a flexible and practical regulatory system with minimal formality and technicality: see s.3(1)(b),
+Objects of Act.
+ I am of the opinion that the documents constituting the complaint, Exhibit
+RD-2, read as a whole, were a complaint under s.79(1) to the effect that the quiet and good order of the neighbourhood of the two licensed premises in question, namely, the Steyne Hotel and the Shore Club Hotel, were being unduly disturbed. I have reached this conclusion having regard to the documents themselves and to the fact that the provisions of s.79(1) do not require the strictness or precision of a pleading as in civil proceedings. Section 79 being part of the flexible and practical regulatory system established by the
+Act, the police complaint, in my opinion, sufficiently identified it as relating to the Steyne Hotel and the Shore Club Hotel.
+
+The extension decision In the event that I am wrong in this last stated conclusion, I proceed to consider and determine the contention that the extension decision was one made in excess of power and involved a denial of procedural fairness.
+ Section 80(4) is directed to ensuring the efficacy or effectiveness of any action that may be taken under s.81 in relation to the licensed premises. It also operates, for the purposes of Division 3, so that the other licensed premises are to be regarded as subject to the complaint in question and, accordingly, to any action that may be taken by the Director under s.81.
+ The second plaintiff contended that the power of the Director's delegate to extend the conference was subject to an implied obligation to afford procedural fairness in the exercise of that power.
+ Ms Allars relied upon the following facts:- 
+That there are no provisions in the Act expressly excluding the principles of procedural fairness in relation to the exercise of the powers under s.80 and s.81 
+That s.80(5) provides for the giving of notice of the time and place of a conference to licensees 
+That s.80(1) envisages that there will be an opportunity for them to make submissions.
+ It was argued that, as a minimum content of procedural fairness, a reasonable opportunity to present a case required notice that an extension decision was under consideration. Mr Freeman did not notify the second plaintiff that he was contemplating an exercise of the power under s.80(3) to extend the conference to the Shore Club Hotel (Plaintiffs' Written
+Submissions, paragraph 6.4).
+ In oral submissions, Ms Allars contended that Mr Freeman should have written a letter to the licensee of the Shore Club Hotel and said "I've got a conference. It concerns the Steyne Hotel, but I'm considering extending the disturbance proceedings and the conference to you as licensee of the Shore
+Club. I think I may be satisfied under (s.80)(3)(b)). Is there anything you would like to say about whether or not action taken in relation to the Steyne will be ineffective unless similar action is taken in relation to you" (transcript, p.38). Ms Allars added, in submissions, "it is just a simple opportunity to have a say ...".
+ In answer, the Director General contended, inter alia, that the decision to extend was not one that, of itself, deprived the second plaintiff of a right, interest or legitimate expectation of a benefit. The extension decision, in other words, was not one that had a direct and immediate effect on rights or interests: Kioa versus West <case>; [(1985) 159 CLR 550], 584 per Mason J.
+ The Director-General relied upon the principle that, where a decision- making process involves different steps or stages before a final decision is made, it is necessary to look at the decision-making process in its entirety in order to determine whether it entails procedural fairness at those earlier stages: Ainsworth versus Criminal Justice Commission <case>; [(1992) 175 CLR 564] at 578.
+ It cannot, of course, be suggested (and it has not been in the course of submissions) that the extension decision involved any pre-determination of a matter that will ultimately fall for decision under s.81. Unless and until a decision and action is taken under s.81, there is simply no final or operative decision by the Director. In the period between convening a conference and a decision under s.81 of the Act, the plaintiffs and others have a right to be heard: s.81(1).
+ Section 81, in contrast to s.79(1) and s.80(3), is directed to substantive or operative decisions, namely, those that may affect current licenses by the imposition of further or new conditions. Section 81 expressly refers to the making of a decision by the Director. Section 81(3) requires the Director to take specified matters into consideration when making a decision on conditions that may be imposed on a licence under s.81(2).
+ The extension decision was made under s.80(3). That provision authorises the extension of a conference in relation to licensed premises the subject of a "complaint" so as to include any other licensed premises if the Director is satisfied of either matter specified in s.80(3)(a) or (b). In the present case, the basis relied upon for extending the conference was s.80(3)(b):- "Assuming that the complaint is shown to be justified, action taken in relation to the licensed premises the subject of the complaint will be ineffective unless similar action is taken in relation to the other licensed premises." In Greyhound Racing NSW versus Cessnock & District Agricultural
+Association  <case>, a question arose as to whether a decision made by the appellant at an early point in the process (claimed as one not to allocate 104 race dates in the financial year commencing 1 July 2006), was a decision that had that effect.
+Basten JA (with whom Beazley and Hodgson JJA agreed) at [43] held that it was, in fact, a decision in relation to the reduction of expenditure, an exercise of a function under the [Greyhound Racing Act ](http://www.austlii.edu.au/au/legis/nsw/repealedact/gra2002175/). Basten
+JA, at the abovementioned paragraph, described the decision as arguably a "preliminary decision not affecting rights or interests and not subject to review pursuant to [s.69](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/s69.html) of the [Supreme Court Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/) ...".
+ In my opinion, it cannot be said that a decision in the course of an assessment of a complaint to extend the scope of a conference under the Act was one that affected the substantive rights of anyone. It was a decision of a procedural nature under the Act related to the convening of a "conference".
+ A conference convened under s.80 is effectively a meeting held for the purpose of examining matters concerning a complaint and to permit submissions to be made. It is a step in the process before any decision or action can be taken by the Director or delegate under s.81. It is true that an extension decision may become a means by which a decision and action at a later stage may affect a licensee. However, that outcome can only occur at the conclusion of an assessment of a complaint (including the convening of a conference) and only after the opportunity provided for in s.81(1) has been afforded to a complainant and a licensee.
+ I, accordingly, am of the opinion that Ground 3 is without substance.
+
+Ground 4: Conference - appearance of bias 
+The bases for Ground 4 There were three bases for this ground:- 
+Persons in the position of accuser also acted as decision-maker. In these proceedings, those persons were said to be Mr Gardner and Mr Freeman.
+
+Pre-judgment, by the formation of concluded views on matters central to the s.80 conference on the part of Mr Gardner and Mr Freeman.
+
+Mr Freeman had a direct relationship and contact with Mr Robert Doran, the licensee of the Steyne Hotel, who was his client.
+ In relation to (1), it was asserted that Mr Gardner and Mr Freeman had assumed the role of accusers at two levels. First, in relation to investigations and procedures (including reports and penalty notices) concerning the plaintiffs in relation to alleged activities at the Steyne
+Hotel and the Shore Club Hotel. Second, in relation to the preparation of the police complaint and the council complaint.
+
+Reports, penalty notices and licensee of the two hotels The plaintiffs contended that, at the time the conference decision and the extension decision were made, the Director (Mr Freeman) or his delegate (Mr Gardner) simultaneously had occupied the position of "accuser" and decision-maker in relation to the disturbance complaint.
+ It was submitted that the Director or his delegate were involved in relation to the plaintiffs' hotels in the following capacities:- • As prosecutor of penalty notices in respect of alleged breaches of the
+Act.
+ • As assisting or supporting the complainants in the making of the disturbance complaint(s).
+ • As decision-maker in relation to the conference decision and the extension decision.
+ Ms Allars, in her oral submissions observed that Mr Gardner sent out covering letters containing the penalty notices that gave rise to criminal proceedings against the plaintiffs. This occurred in the relevant period of the preparation of the disturbance complaints and the making of the decision to convene the conference.
+ In Ebner versus Official Trustee <case>; [(2000) 205 CLR 337], Gleeson CJ, McHugh, Gummow and Hayne JJ at [4] observed:- "The application of the principle (as to decision-making by an independent and impartial tribunal) in connection with decision makers outside the judicial system must sometimes recognise and accommodate differences between court proceedings and other kinds of decision making ..." The matters relied upon by the plaintiffs as supporting the claimed apprehension of bias were related to the performance of certain functions and activities by the Director or the Director's delegate as earlier described.
+These may be summarised as:- • Enforcement functions under the Liquor & Gaming Control Authority
+Act 2007 including communications with inspectors in the course of, the preparation of, and the bringing of prosecutions for breaches of the Act allegedly occurring in the course of business conducted on the premises of the
+Steyne Hotel and the Shore Club Hotel. These activities and communications were said to place the Director or the Director's delegate in the position of "an accuser".
+ • Communication by or on behalf of the Director or the Director's delegate with police and council personnel with respect to the police complaint and the council complaint.
+ The plaintiffs' contention, accordingly, was that the plaintiffs' "accusers" (Mr Gardner, Director of OLGR until 27 July 2009 and Mr Freeman) were acting as decision-makers and that this meant that there was evidence of pre-judgment by each of them.
+ In the Plaintiffs' submissions in reply (paragraph 4.4), it was contended:- "... The Plaintiffs say that the Director has been actively involved in issuing penalty notices, premises reports, and in making ex parte communications to assist the complainants to strengthen their cases in the disturbance proceedings ... The logical connection between this conduct, and the feared deviation by the Director and the Director's delegate from deciding the case upon its legal and factual merits, resides in the accuser and the judge being the same person." 
+Premises reports and penalty notices • Factual matters It is necessary to refer to the nature of the evidence relied upon as supporting the submission that the then Director, Mr Gardner, acted in the capacity as a prosecutor against the plaintiffs in respect of the subject hotels.
+ In Volume 1 of the Plaintiffs' Bundle of Documents, a number of documents were relied upon. The content of these documents were conveniently summarised by Ms Allars in her Plaintiffs' Note to Court in which the pending criminal proceedings against Mr McMillan and Mr Bennie are set out in summary form. I reproduce below that summary.
+
+Pending Criminal Proceedings against Nathan McMillan and Marc Bennie 
+Steyne Hotel (Nathan McMillan) 
+Date of Notice 
+Charge 
+Contested 
+Date of Hearing  ---|---|---  /12/08 
+Licensee Fail to Comply with Conditions of Licence (service of more than 4 drinks per customer) 
+Yes 
+Directions Hearing - 25 August 2009 (brief served) - hearing listed for 20
+November 2009  /12/08 
+Licensee Fail to Comply with Conditions of Licence (service of more than 4 drinks per customer) 
+Yes 
+Directions Hearing - 25 August 2009 (brief served) - hearing listed for 20
+November 2009  /12/08 
+Licensee Permit Intoxication on Licensed Premises 
+Yes 
+Directions Hearing - 25 August 2009 (brief served) - hearing listed for 29
+November 2009 but vacated at request of OLGR  /12/08 
+Licensee Fail to Comply with Conditions of Licence (RSA Register) 
+Yes 
+Directions Hearing - 25 August 2009 (brief served) - hearing listed for 15
+December 2009  /01/09 
+Licensee Permit Intoxication on License Premises 
+Yes 
+Directions Hearing - 25 August 2009 (part brief served) - hearing listed for November 2009  /04/09 
+Licensee Fail to Comply with Conditions of Licence (doors left open) 
+Yes 
+Directions Hearing - 25 August 2009 - hearing listed for 14 December 2009  /6/09 
+Licensee Permit Intoxication on Licensed Premises 
+Yes 
+Directions hearing - 20 October 2009 - hearing date to be set down  
+Shore Club (Marc Bennie) 
+Date of Notice 
+Charge 
+Contested 
+Date of Hearing  ---|---|---  /06/09 
+Licensee Permit Intoxication on Licensed Premises 
+Yes 
+Directions hearing - 13 October 2009 - hearing listed for 15 February 2010  /06/09 
+Licensee Permit Intoxication on Licensed Premises 
+Yes 
+Directions hearing - 13 October 2009 - hearing listed for 15 February 2010  It will be seen that, in respect of the nine charges listed in Table 5, five relate to the alleged offence of Licensee Permit Intoxication on
+Licensed Premises under s.78(2) of the Act.
+ A report by Mr Simon Munt, Inspector in the NSW OLGR dated 20 March 2009 (Plaintiffs' bundle of documents, Volume 1, Tab 37), records the fact that he had conducted covert audits of the Steyne Hotel, Manly between 11 May 2007 and March 2009. He stated that on each occasion he identified persons "...
+displaying signs of intoxication and engaged in anti-social behaviour in and around the Hotel". This statement includes a report on each of those occasions together with operation order reports and supporting photographic evidence.
+ Mr Munt stated that, in relation to individual alleged breaches, he issued penalty notices.
+ He also recorded that on 5 March 2009, he attended the Steyne Hotel, Manly and spoke with the licensee. At that time, he made a formal request to examine records relating to the hotel's liquor operations pursuant to s.26 of the
+Casino Act. He subsequently issued a Notice to Produce to formalise his request.
+ On 13 March 2009, he took possession of the required records.
+
+Submissions Counsel for the plaintiffs' observed that Mr Freeman and Mr Gardner communicated with, supervised and directed inspectors appointed under s.20 of the Casino Act.
+ Under the supervision of Mr Gardner, it was contended, the inspectors occupied offices within the OLGR and exercised the power under s.26 of the
+Casino Act to inspect and seize items on the premises of the Steyne Hotel and the Shore Club Hotel. They also conducted covert surveillance and audited licensed premises with a view to issuing penalty notices initiating criminal proceedings in respect of their licences.
+ Reliance was also placed on Mr Gardner's provision of premises reports in respect of the Steyne Hotel to NSW Police. These reports, it was said, formed the basis for the issue of penalty notices against the first plaintiff. Mr
+Gardner and inspectors operating under his supervision, accordingly, participated in the issue of penalty notices charging the first plaintiff with offences under the Act.
+ In relation to the Shore Club Hotel, it was observed that Mr Gardner and
+Mr Freeman participated in the issue of penalty notices charging the second plaintiff with offences, by sending penalty notices issued by inspectors.
+Reference was made, in particular, to a covering letter dated 1 July 2009 signed by Mr Gardner enclosing a penalty notice dated 18 June 2009. A further covering letter dated 18 July 2009, signed by Mr Gardner, enclosed a penalty notice dated 21 June 2009.
+ The submission for the plaintiffs was to the effect that a person who acts as both accuser and as "decision-maker" does so contrary to a central aspect of the bias rule that he or she ought not participate in the making of a decision reached in relation to a charge made. Reliance was placed, inter alia, upon the decisions in Stollery versus Greyhound Racing Control Board <case>; [(1972) 128 CLR 509]; Rendell v Release on Licence Board [(1987) 10 NSWLR 499], 507 and
+Re Macquarie University; ex parte Ong [(1989) 17 NSWLR 113.] To so act, it was observed, gave an appearance of pre-judgment and, hence, an appearance of bias. A person is in the position of accuser when he or she is, in substance, a complainant regarding the conduct of a person who is subject to such inquiries and charges: Plaintiffs' submissions with references to plaintiffs' bundle, paragraph 7.4.
+ Mr Griffiths for the defendant submitted that it was difficult to see how
+Mr Gardner's role can be challenged in circumstances where it has never been suggested that he would be involved in determining whether or not action should be taken under s.81 against the licensees. He ceased being the Director on 27 July 2009 when the office was abolished and its functions were taken over by the Director-General of Communities, NSW, Ms Carol Mills.
+ Mr Griffiths, in oral submissions, further observed that it is difficult to comprehend how the complaint of apprehended bias could be made against Mr
+Gardner in respect of either of the two decisions in question (the conference decision and the extension decision), given that he was not the decision- maker of either of them. Mr Freeman was the person who made both decisions.
+There was no material in evidence which would indicate that Mr Gardner was influencing in any way Mr Freeman's decisions in those two respects.
+ The mere fact that Mr Gardner was the Director and Mr Freeman was the
+General Counsel within the OLGR could not give rise to any inference of influence or have any bearing upon Mr Freeman's decisions.
+ In relation to Mr Freeman's two decisions, Mr Griffiths submitted that both related to matters of procedure. They were not substantive decisions like a decision to impose a condition on a license.
+ Mr Griffiths further argued that there was, in effect, something of an irony that the conference decision and the extension decision were being challenged when, in effect, they were both designed to afford procedural fairness, namely, to give relevant persons or parties the opportunity "to have their say". In that respect, he submitted (transcript, 16 October 2009, p.72):- "... Far from decisions bearing with them adverse consequences that have a direct and immediate prejudicial effect, they are decisions that are designed to provide procedural fairness ..." He contended that it is difficult to speak in terms of apprehended bias with decisions of that nature.
+ In relation to Mr Freeman, it was submitted for the defendant that there was no evidence to support a charge of apprehended bias in the sense that he had a closed mind or was not open to persuasion. Reference was made to the range of functions vested in the Director and his or her delegates. A reasonable apprehension of bias, it was submitted, cannot arise where a public officer performs relevant statutory duties and powers. Reliance in this respect being placed upon the Court of Appeal's decision in Greyhound Racing
+NSW (supra).
+ The Director's role and the statutory powers under Part 5, Division 3 in relation to disturbance complaints are to be considered in light of the
+Director's other statutory functions and powers. These are to be found in the following parts of the Act:- 
+Part 4, Division 1, Licence Applications and Granting of Licences, s.43 - Authority or Director may require further information.
+
+Part 4, Division 2, Miscellaneous Provisions relating to licenses and licence-related authorisations, s.54 - Director may impose licensing conditions.
+
+Part 5, Division 5, Late hour entry declarations, s.90 - Director may vary or revoke late hour entry declaration.
+
+Part 5, Division 6, Miscellaneous offences and regulatory controls, s.101 - Director may restrict or prohibit sale or supply of undesirable liquor products; s.102 - Director may restrict or prohibit undesirable promotion of liquor.
+
+Part 8, Local liquor accords, s.132 - Eligible parties to liquor accord (includes the Director); s.133 - Establishing local liquor accord.
+
+Part 9, Disciplinary action, s.138 - Director may carry out inquiries and investigations in relation to proposed complaint.
+
+Consideration of Ground 4 The provisions referred to in the preceding paragraph provide for a range of roles the Director holds in relation to the performance of functions of significance. They include licence applications, the power of the Director to impose conditions on licenses, the power to pursue regulatory controls and procedures in inquiries that can lead to disciplinary complaints and disciplinary action.
+ The provisions of s.138 of the Act confer upon the Director, as the relevant statutory office holder, significant powers to carry out investigations and inquiries into disciplinary complaints made under Part 1, inter alia, in relation to licensees. Section 138(2) provides for the
+Commissioner of Police to inquire into, and report to, the Director on such matters as the Director may request concerning a licensee (and specified others). The Director also has compulsory powers to acquire information under s.138(3).
+ It is not difficult to envisage a situation whereby the Director in any one period of time may be investigating or requiring an investigation of licensed premises under Part 9 of the Act, whilst also being required to deal with a disturbance complaint concerning the same premises under Part 5. The scheme of the Act is such that the Director is both expected and required to carry out all relevant functions, including the assessment of disturbance complaints and, if considered appropriate, the convening and chairing of a conference held under Division 3. That, of course, is the position in the present case.
+ In Greyhound Racing NSW (supra), Basten JA (with whom Beazley and
+Hodgson JJA agreed) stated:- "111. His Honour commenced his consideration of this issue with a statement of principles concerning apprehended bias under the general law ...
+However, the proper starting point must be the statutory scheme under which the Appellant operates. It is that scheme, rather than any principle of necessity, on which the Appellant relied to justify the procedures adopted in relation to the allocation of dates for race meetings, in exercise of its function under [s (2)(d)](http://www.austlii.edu.au/au/legis/nsw/repealedact/gra2002175/s9.html) of the [Greyhound Racing
+Act](http://www.austlii.edu.au/au/legis/nsw/repealedact/gra2002175/)." His Honour proceeded to examine the key features of the legislative scheme in that case and in that respect observed:- "113. Secondly, it is clear that the majority of the functions of the
+Appellant involve decisions relating to specific greyhound racing clubs, including the exercise of functions with respect to registration of greyhound racing clubs, distribution of money received from TAB Limited and the allocation of dates for greyhound races. It is self-evident that decisions made in exercise of these functions will affect the interests of individual clubs and, in relation to the distribution of money and the allocation of dates, could affect the interests of all clubs. It is at least unlikely that the legislature intended that members nominated as representatives of sections of the industry, and likely to have associations with individual participants within the industry, would thereby be precluded from fulfilling their statutory responsibilities as members of the Appellant." Later in the judgment, his Honour also observed:- "117. As with any other general law principle, not subject to constitutional constraints on the legislature, a statutory provision may override its effect. Indeed, the very content of natural justice, in a statutory context, is well understood as depending upon the statutory rules: see, eg, Kioa versus West, 159 CLR at 584-585 (Mason J) and at 609 (Brennan J) ...
+ . The general law principles have frequently been expounded in cases involving courts or quasi-judicial tribunals. However, those principles should not be translated, without adaptation, to the circumstances of statutory administrative decision-makers: see Ebner versus Official Trustee in
+Bankruptcy <case>; <case> (Gleeson
+CJ, McHugh, Gummow and Hayne JJ), a passage quoted with approval by Gleeson CJ and Gummow J in Minister for Immigration and Multicultural Affairs versus Jia
+Legeng [(2001) 205 CLR 507] at [99] ...
+ . In my view the statutory scheme is inconsistent with the conclusion that a person would, in the circumstances of the present case, have a reasonable apprehension of bias in relation to a decision with respect to the allocation of racing dates which discriminated between clubs, and allocated dates in the Hunter region to two clubs who had officers who were members of the Appellant, whereas the club which missed out, namely Cessnock, did not. There are a number of reasons for this conclusion." His Honour then proceeded to identify the particular reasons referred to in paragraph [119] of the judgment.
+ The short answer to what might be referred to as the "accuser/decision- maker" point is that there is no basis for impugning Mr Gardner's role in relation to the performance of his statutory functions in the circumstances of the present case where it has not been suggested that he will be involved in determining whether or not action should be taken under s.81 against the plaintiff licensees.
+ The performance by the Director of his statutory role and functions, as discussed above, arises under a broad-ranging statutory scheme which requires the Director to deal with disturbance complaints, either personally or by way of his or her delegate. I do not consider, in the particular circumstances of the present case, that Mr Gardner's or Mr Freeman's involvement in the investigations, inquiries and processes leading to the charges referred to in the schedule set out in paragraph [162] have been shown to be incompatible with the performance of the Director's statutory responsibilities arising under Division 3. The observations of Basten JA in Greyhound Racing which indicates that there are circumstances in which a reasonable apprehension of bias will not arise where a public officer performs relevant statutory duties and powers are, I believe, apposite to the present case.
+Those observations are, in my opinion, applicable to Ground 4.
+ The evidence in the proceedings is that the relevant decision-maker under s.81 will be the present Director, Ms Mills, not Mr Freeman. On the analysis of Division 3, the only decision that can affect substantive rights on a disturbance complaint is one taken under s.81.
+
+Legal Services provided by Mr Freeman The plaintiffs also rely upon the fact that Mr Freeman took instructions and acted as legal advisor for Mr Doran, the General Manager of Operations of both of the plaintiffs. The legal services provided by him related to the preparation of a Will in March 2006, a conveyance of a property at Surry Hills in April 2008 and the conveyance of another property in Erskineville in
+November 2008.
+ The submission was that the relationship of legal representative and client, where the client, Mr Doran, is the most senior administrator of the licensees the subject of the Conference, gives rise to an appearance of bias by association.
+ I consider that there are fundamental difficulties associated with the point raised concerning the legal services provided by Mr Freeman.
+ Firstly, as has been submitted on behalf of the defendant, a previous relationship of legal advisor and client does not, of itself, generally disqualify the advisor from sitting in proceedings before a tribunal or court to which the former client was a party. Secondly, the critical matters include the nature of the relationship with the client, the ambit of the advice given and the issues for determination in the tribunal or court proceedings: see
+Re Polites; ex parte Hoyts Corp Pty Limited <case>; [(1991) 173 CLR 78] at 87 to 88.
+ Mr Griffiths, in his submissions, contended that the plaintiffs had not articulated, what he referred to as the second limb of the test in Ebner, namely, the logical connection between the relationship of legal advisor and client and the deviation from the course of deciding the complaint on its merits.
+ I do not consider that the nature of the past association between Mr Doran and Mr Freeman provides any basis in the circumstances of the present case for the submissions made. More is required than the bare assertion of a past relationship of legal representative and client between Mr Freeman and Mr
+Doran.
+ I do not consider that there is any basis upon which it could be said a reasonable apprehension of bias could arise from the provision of the legal services to which I have referred.
+ The Director, Ms Mills, in any event, has, by her letter of 9 October , confirmed that she will convene the conference. Accordingly, if there ever was any basis for a contention of apprehended bias based on the provision of past legal services (and I do not consider that there was), that issue is no longer operative in the circumstances in which Ms Mills, not Mr Freeman, will preside over the conference.
+ For the reasons stated above, I do not consider that the three bases relied upon in support of the contention of an apprehension of bias have been made out. I, accordingly, do not consider that there is any substance to
+Ground 4.
+
+Ground 5: Whether denial of procedural fairness because of communications between defendant and complainant The plaintiffs, in support of this ground, relied upon what was referred to in submissions as the ex parte communications between Mr Gardner and/or Mr
+Freeman and Superintendent Darcy and Mr Wong following lodgement of the police complaint and the council complaint.
+ In support of this submission, reliance was placed upon the matters set out in the plaintiffs' written submissions in paragraphs 7.15 to 7.19 and 7.21 to 7.22.
+ I have earlier set out in relation to Ground 4 the various roles, functions and powers conferred on or vested in the Director and the contentions as to procedural fairness (and the assertion as to a denial of procedural fairness) which are to be considered in the context of the statutory scheme established by the Act. Those observations are also relevant to Ground 5.
+ It is clear, as earlier stated, that no final or operative decision affecting rights or interests can or will occur until affected parties have had an opportunity to attend the conference convened under s.80(1) and are afforded the procedural fairness provided for in that section, in particular, the opportunity to make submissions in relation to the complaint.
+ The statutory scheme does not evidence, nor on the facts of the case do general principles indicate, any requirement for a licensee of premises to be informed of any or every communication that is made between a complainant and the defendant or those officers of the defendant including statutory officers exercising statutory powers.
+ The nature of the communications are set out in Mr Rogerson's affidavit at paragraphs [18] to [25].
+ It has not been established that any of the communications disclosed by Mr
+Rogerson were in a context or of a character that would in any way support a denial of procedural fairness as asserted in relation to Ground 5.
+Accordingly, I do not consider that there is any substance to this ground.
+
+Ground 6: Whether there was a denial of procedural fairness in respect of the conduct of the conference I have earlier observed that all parties accepted that a licensee of licensed premises must be accorded procedural fairness in accordance and consistent with the provisions of s.80 of the Act.
+ What is required in the particular circumstances of each case will vary and the application of the principles of procedural fairness will, accordingly, be tailored to the circumstances of each case. In this respect, the defendant relied upon the decision of the High Court in Re Minister for
+Immigration and Multicultural and Indigenous Affairs; ex parte Lam [(2003) CLR 1] at [37] per Gleeson CJ and at [48] per McHugh and Gummow JJ.
+Much will depend upon the nature of the statutory scheme and the relevant provisions of the Act in relation to it.
+ I have earlier observed in relation to Ground 1 (the validity of a complaint under s.79), that there is no basis in law for a complaint under
+Division 3 to be treated as equivalent to a charge in criminal proceedings or an issue in civil proceedings. There is no requirement, in my opinion, for a potentially affected person to be provided, in advance of a conference convened under s.80, with particulars as in civil proceedings, there being no charge or lis between any parties. The position in this respect is not unlike that which arises in inquisitorial proceedings which it has been held are not shackled by the formal rules as to particulars that apply in civil proceedings: Dainford versus Independent Commission Against Corruption [(1990) ALD 207 (Young] J, as his Honour then was). See also Moss versus Brown [(1979)
+NSWLR 114](/cgi-bin/LawCite?cit=%281979%29%20NSWLR%20114 "View LawCiteRecord" ), 129 to 130; Bond versus Australian Broadcasting Tribunal (No 2) [(1988) 19
+FCR 494](/cgi-bin/LawCite?cit=%281988%29%2019%20FCR%20494 "View LawCiteRecord" ); Aristodemou versus Temby & Independent Commission Against Corruption (New South Wales Supreme Court, unreported, Grove J, 14 December 1989);
+Glynn versus Independent Commission Against Corruption [(1990) 20 ALD ]
+per Wood J at 218 and Morgan & Wanless versus Independent Commission Against
+Corruption (New South Wales Supreme Court, unreported, Sperling J, 31
+October 1995).
+ Accordingly, I do not, with respect, accept that the plaintiffs have been denied procedural fairness insofar as the complaints fail to contain allegations and do not particularise the precise factual matters said to form the basis for the complaints (see plaintiffs' submissions, paragraph 8.4). The claimed failure to provide particulars does not, in my opinion, in the circumstances of the case, constitute a denial of procedural fairness.
+ In the present case, as noted earlier, the plaintiffs have been provided with a substantial amount of material that has been produced in support of the police complaint and that which is said to be relevant to the hotels in question. Exhibits RD-2 and RD-3 respectively contain supporting material in respect of the police complaint and council complaint. In particular, that material includes a list of additional license conditions that are sought in terms of the police complaint. The Director will be required, following a reasonable opportunity for affected persons to be heard in relation to the complaint, to make a decision under s.81 of the Act, including, in particular, as to whether or not any action as authorised by that provision is to be taken.
+ Complaint was made in the submissions for the plaintiffs that "voluminous evidence" has been served in support of the police complaint. In particular, reference was made to the compilation of video surveillance evidence relating to at least six licensed premises in addition to the Steyne
+Hotel and the Shore Club Hotel.
+ It has been submitted on behalf of the defendant that adequate time has been permitted and that what is reasonable depends on the circumstances of each case.
+ It has also been contended for the defendant that the material that has been served in support of the complaint "... discloses significant issues affecting public amenity and safety in the vicinity of the licensed premises the subject of the complaint, including street violence, noise, public drunkenness and public urination and vomiting ..." (paragraph 90).
+ The defendant also relied upon the fact that the plaintiffs had been provided with in excess of six weeks to prepare for the conference that had originally been appointed and that, by the time of the hearing in the present proceedings, had had the benefit of a period of three months and that, accordingly, the plaintiffs have had adequate time to deal with the material bearing upon the complaints made. I accept that submission.
+ In relation to procedures at the conference, the defendant relies upon the fact that the plaintiffs have been invited to make written submissions.
+Additional time will be permitted at the conference for oral submissions although time limits have been set in that respect.
+ The evidence indicates that there is no procedure proposed to be followed at the conference which will preclude any required flexibility. The Director has a broad discretion vested in her in respect of procedural aspects of the conference. On 13 October 2009, the Director wrote to the licensees of the premises, the subject of the conference, and advised that she would keep the procedure of the conference under review in order to ensure that a fair hearing was afforded. Such an assurance undermines the plaintiffs' position in relation to Ground 6. As the conference has been postponed, the plaintiffs have now had the benefit of additional time to that referred to in paragraph [216] to examine the materials served in support of the police complaint.
+ I do not consider that it has been established that there has been any denial of procedural fairness on the basis of Ground 6. For the reasons set out above, I do not consider that there is any substance to that ground.
+
+Ground 7: Alleged contempt of court The submission for the plaintiffs was that the Director's decision to convene a conference would interfere with the due administration of justice and constitute a contempt of Court. It was contended that the Director's delegate proposed to consider at the conference evidence before him relating to s.79(1)(a) of the Act and that this included evidence obtained by inspectors pursuant to s.26 of the Casino Act, in circumstances where criminal proceedings are pending against the plaintiffs in respect of the alleged breaches of the Act concerning the same subject matter: Plaintiffs' submissions, paragraph 9.1.
+ I have set out in paragraph [162] details concerning the proceedings in relation to particular charges made against the plaintiffs. These charges are said to be pending in Manly Local Court. As noted earlier, five relate to charges of permitting intoxication on licensed premises.
+ It has submitted on behalf of the plaintiff that the proceedings in the
+Local Court are contested proceedings in which the plaintiffs rely on defences under s.73(4) and (5) of the Act. Evidence relevant to establishing those defences concern the steps the plaintiffs took to prevent intoxication on the licensed premises, and whether those steps were reasonable. It was said that statements of evidence in the police complaint traverse these issues.
+ Mr Allars submitted that, where inquisitorial proceedings traverse matters which are the subject of pending criminal proceedings, they should be conducted in confidential session lest the inquiry acts in contempt of court.
+Additionally, such civil proceedings should not be determined until the criminal proceedings are disposed of.
+ Ms Allars also contended that the matters which are the subject of the conference, in particular those pertinent to s.79(1)(a), are "inextricably bound up with the subject matter of the penalty notices": Plaintiffs'
+Submissions, paragraph 9.8.
+ Reliance was placed upon authorities that deal with the case of inquisitorial proceedings that intersect on matters that are the subject of criminal proceedings: Huston versus Costigan (1982) 45 ALR 55. In the latter case, Toohey J observed that the Royal Commission in that case had adopted safeguards such as restricting the publication of evidence.
+ Reliance was placed upon the absence of undertakings by Mr Freeman to adopt such safeguards and that, accordingly, the conference proceedings should be stayed until the disposition of the charges against the plaintiffs.
+Otherwise, discussion at the conference may trespass on such matters.
+ The plaintiffs' submission, accordingly, was that the conference should be restrained in the manner envisaged by Toohey J in Huston (supra).
+ Mr Griffiths, in reply, submitted that the relevant question was whether "there is an actual interference with the administration of justice, or a real risk, as opposed to a remote possibility", that justice will be interfered with: Victoria versus Builders' Labourers Federal [(1982) 52 CLR ] at per Gibbs CJ (with whom Mason and Murphy JJ agreed). A "theoretical tendency" was not enough: Hammond versus Commonwealth <case>; [(1982) 152 CLR 188], 196.
+ The defendant also argued that the legislative scheme anticipates both enforcement and complaint resolution procedures may take place at the same time.
+ It was also contended that the plaintiff's submissions were based on a misunderstanding of the nature of a conference under s.80 and that it was quite unlike proceedings of a Royal Commission in which coercive powers may be exercised. In relation to a conference, the Director had no power under s.80 to compel persons to attend or to answer questions or to provide submissions on any matter. Attendance and participation, it was noted, was voluntary.
+Accordingly, a licensee participating in the conference could choose which issues or questions raised he or she wished to respond to. In a conference, the Director did not receive "evidence" in the way that a court, tribunal or
+Royal Commission does. The compulsory nature of proceedings of a Royal
+Commission in the context of possible contempt by Gibbs CJ in Hammond at 198 were relied upon as were the observations in that case of Deane
+J at 206.
+ Mr Griffiths, in his written submissions, contended that a conference under s.80 was akin to the situation that arose in Sage versus Australian
+Securities and Investments Commission <case> in which Goldberg J declined to grant an interlocutory injunction restraining the respondent from conducting a hearing for a banning order under [s.920A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s920a.html) of the [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth).
+Criminal proceedings were pending against the applicant and both the banning order and criminal proceedings related to the conduct of the applicant in relation to the financing of certain property developments. Reliance was placed upon dicta at [24] and [26].
+ In the latter paragraph, Goldberg J observed:- "... If the banning order hearing proceedings and the applicant participates in it, it is problematic as to the extent to which he will participate in it. The applicant can either give evidence, make submissions or perhaps even call for persons who have made written statements which will be before the delegate to be present for cross-examination. In this context, he may well have to present what will be seen as his defence to the criminal proceeding as an answer or response to the banning order proposal. However, he will not be compelled to give evidence or to participate in any way. It will not, inevitably, impinge upon the applicant's 'right to silence'. It will be a matter for him as to whether he presents any evidence at the banning order hearing." In Sage (supra), the presence of coercive powers were "critical", although it was noted that the proceedings involved a private hearing.
+However, Goldberg J referred also to the undesirable impact of delaying the banning order hearing, given that it would permit the applicant to continue to provide financial services. The injunction was refused.
+ Mr Griffiths also relied, on the question of whether there was "a real risk" that justice would be interfered with, upon Mr Freeman's letter of 4
+August 2009 (Tab 99, Volume 2, pp.392 to 393).
+ The Plaintiffs' Submissions in Reply (paragraph 6) refer in some detail to the principles that determine an improper interference with the due administration of justice in circumstances were there is a parallel of administrative or inquisitorial inquiry: Hammond (supra) per Deane J,
+Pioneer Concrete (Vic) Pty Limited versus Trade Practices Commission <case>; [(1982-1983) 152 CLR 460],
+Cassaniti versus Tax Agents' Board of NSW <case> at <case> and
+OK versus Australian Crime Commission <case> at <case>.
+ Ms Allars contended that the risk of interference with the conduct of criminal proceedings will be more pronounced where the identity of the prosecutor and the investigating body is the same, or where they are connected in some way.
+
+Consideration of Ground 7  Whilst the relevant principles have been well established in the case law, it is of particular importance in the application of those principles in the present case to have regard to both the subject matter of the penalty notices and to the assurance given in Mr Freeman's letter of 4 August 2009. Added to these matters, is the nature of the conference proceedings and the absence of any coercive powers exercisable against the plaintiffs in the conference, which could impact upon their right of silence.
+ In Hammond (supra), the plaintiff had been charged on an information that he was a party to a conspiracy to commit an offence against the law of the Commonwealth (s.86(1)(a) of the [Crimes Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca191482/) (Cth)) for which, if convicted, he would have been liable to be imprisoned for three years.
+ A Royal Commission had been established to inquire into a number of matters including whether malpractices had occurred in the handling of meat.
+ Evidence had been called before the Commission in respect of the alleged conspiracy for which the plaintiff was awaiting trial.
+ Gibbs CJ (with whom Mason and Murphy JJ agreed) held that, for the plaintiff to succeed in obtaining an injunction to prevent him being examined before the Royal Commission on events surrounding the alleged conspiracy, he had to establish:- 
+That there was a real risk, as opposed to a remote possibility, that justice would be interfered with if the Commission proceeded in accordance with its then stated intention.
+
+That the tendency of the proposed actions to interfere with the course of justice was a practical reality - a theoretical tendency was not enough (at p.196).
+ In that case, it was determined that there was a real risk of interference with the administration of justice. This arose from the fact that the compulsory powers in the Commission could be employed to require the plaintiff to answer questions that would be put to him and pressed. Examination in detail of the circumstances of the alleged offence was held to be very likely to prejudice the plaintiff in his defence, even though the hearing was to be conducted in private.
+ In Hammond (supra), Gibbs CJ referred to the intended course of action which the Royal Commission had indicated it wished to pursue, namely, to question the plaintiff on the circumstances related to the offence charged. In the present case, the intended course of action in relation to the police complaint and of the Director has been stated in clear terms.
+ Mr Rogerson, in his affidavit affirmed on 14 September 2009, stated that, on 3 August 2009, he requested Sergeant Roeder to review the police material to ascertain whether any of it related to criminal proceedings against the plaintiffs. On 4 August 2009, Sergeant Roeder told him:- "There is some information in the police complaint which relates to the other proceedings. Police will identify that material and will not rely on it in the complaint proceedings." (paragraph 24 of Mr Rogerson's affidavit) On 4 August 2009, Mr Freeman advised Bruce Stewart Dimarco, solicitors for the plaintiffs (p.2):- "Pending criminal charges and contempt of court 
+It is my view that any consideration of any matters currently before the
+Courts should be excluded from this conference. Prior to the commencement of the conference, I propose to advise the complainants that no reference should be made to or reliance placed upon matters currently before any Court.
+
+If either prior to or at the conference you become aware or [sic] any complaint raising issues concerning such matters, I would appreciate it if you bring it to my attention at the conference.
+ ..." This Court should act upon the evidence as to such assurances which are intended to effectively quarantine matters associated with the outstanding charges from the [s.80](http://www.austlii.edu.au/au/legis/cth/consolact/ca191482/s80.html) conference and that the Director will control and conduct the conference on that basis. Those circumstances, in my opinion, are very different from those in Hammond (supra) and effectively remove any risk of interference in the administration of justice.
+ I am of the opinion that the plaintiffs have not established a basis for the qualified relief they seek based on Ground 7.
+
+Ground 8: Error of law - breach of s.17 of the Casino, Liquor &
+Gaming Control Authority Act The error of law contended for is said to arise from the Director's delegate disclosing to licensees, other than the first plaintiff, the first plaintiff's trading figures. To do so was said to be a breach of the provisions of s.17 of the Casino Act.
+ Section 17(1) of that Act prohibits a person who acquires information, in the exercise of functions under the Casino Act or the Act, from directly or indirectly divulging the information to another person except in the exercise of functions under those Acts.
+ The first defendant provided trading figures to Inspector Munt on 13 March , under objection. The documents were produced in response to a notice to produce issued by Inspector Munt on 5 March 2009. The notice required the first plaintiff to produce liquor sales analysis (hourly sales) and stock sale reports for 7, 14, 21 and 28 February 2009 with a break-down by the hour from .00 am to 3.00 am on those days.
+ Inspector Munt annexed the trading figures to a statement of evidence made by him dated 20 March 2009 (Attachment SM-13) which he provided to
+Superintendent Darcy in support of the police complaint.
+ On or about 14 July 2008, the Director is said to have disclosed Inspector
+Munt's statement of evidence, including the trading figures, to seven other licensees, without notice to or consent from, the first plaintiff. It was contended that the trading figures were not divulged by the Director in the exercise of functions under either the Casino Act or the [Liquor
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/).
+Accordingly, the disclosure was said to be unlawful in that it was in breach of s.17(1) of the Casino Act.
+ The plaintiffs did not claim that the allegedly unlawful disclosure infected the validity of the conference. However, separate relief was sought in the summons in respect of the disclosures pursuant to [s.65](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/s65.html) of the [Supreme Court Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/) to the effect that the defendant perform his duty under s.17(1) of the Casino Act by taking steps to recover from the other licensees the documents which contained the first plaintiff's trading figures.
+ The defendant, in reply, contended that the plaintiffs had not disclosed how it was that the Director's disclosure of the trading figures in the service of the material in support of the police complaint was a breach of s.17 of the Casino Act.
+ Reference was made to the decision of this Court in Smith versus Director of
+Liquor and Gaming <case> in which it was held that the defendant had failed to afford the plaintiffs in that case procedural fairness, on the fact that he had not provided complete
+COPS records to the plaintiffs.
+ In the present matter, it was said that the defendant provided the trading figures to each of the subject licensed premises to ensure that, applying the approach in Smith (supra), each hotel was apprised of the material relied upon by the complainants.
+ Accordingly, so the submission went, the information in question was therefore disclosed in the exercise of functions under the gaming and liquor legislation within the meaning of s.17(1) of the Casino Act. The information was provided in order to meet the requirements of procedural fairness in the performance of powers under Division 3 of [Part ](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/index.html#p5) of the [Liquor
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/).
+ In the Plaintiffs' Submissions in Reply (paragraph 7.1), it was contended that the disclosure of the trading figures to other licensees was a breach of [s.17](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s17.html) by reason of the fact that it was not made in the exercise of functions under the gaming and liquor legislation. The inspector, it was argued, had no function under either the [Liquor
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/) or the
+Casino Act of obtaining a licensee's trading figures under compulsion by exercise of its coercive powers under s.26, and then disclosing that information to third parties who are competitors. Accordingly, it was submitted that the Director and his delegate acted outside the scope of their functions under the abovementioned legislation in disclosing the information.
+The disclosure did not, it was argued, form part of any function connected with the conduct of the disturbance complaints, or any other purpose of the [Liquor Act](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/).
+ Ms Allars contended that [s.17](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s17.html) imposed a duty of secrecy "somewhat more stringent than the usual duty of secrecy" (t.110). It was asserted that none of the exceptions provided for apply to the disclosure made in this case.
+
+Consideration of Ground 8 As I have referred to earlier, s.17 of the Casino Act provides that a person who acquires information in the exercise of functions under the gaming and liquor legislation must not, directly or indirectly make a record of, or divulge the information to another person, except in "the exercise of functions under the gaming and liquor legislation".
+ The requirement that officers of departments of government observe secrecy regarding information obtained by virtue of the office they hold is one to be found in Commonwealth legislation: [Taxation Administration Act ](http://www.austlii.edu.au/au/legis/cth/consolact/taa1953269/), s.3C; [Australian Human Rights Commission Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ahrca1986373/), [s.49](http://www.austlii.edu.au/au/legis/cth/consolact/ahrca1986373/s49.html); [Sex Discrimination Act ](http://www.austlii.edu.au/au/legis/cth/consolact/sda1984209/), [s.92](http://www.austlii.edu.au/au/legis/cth/consolact/sda1984209/s92.html); [Racial Discrimination Act ](http://www.austlii.edu.au/au/legis/cth/consolact/rda1975202/), [s.27F](http://www.austlii.edu.au/au/legis/cth/consolact/rda1975202/s27f.html); [National Health Act ](http://www.austlii.edu.au/au/legis/cth/consolact/nha1953147/), [s.135A.](http://www.austlii.edu.au/au/legis/cth/consolact/nha1953147/s135a.html)
+These legislative provisions are often designed to ensure that information acquired by a government agency is used only for the purposes of that agency.
+ As Pagone J said in Australia and New Zealand Banking Group Ltd v
+Nguyen <case> in the context of s.151 of the [Casino Control Act ](http://www.austlii.edu.au/au/legis/vic/consolact/cca1991166/) (Vic):- "... Secrecy provisions like those found in s.151 reflect an important and fundamental public policy. The policy seeks to balance (a) the importance of the free flow of information to those authorised to receive it, or empowered to require it, with (b) the secrecy and confidentiality of that information being maintained. Indeed, the latter may be seen as facilitating the former because it is the certainty of the secrecy that encourages the supply of full and accurate information. ..." One such provision, which has been the subject of judicial consideration, is s.16 of the [Income Tax Assessment Act ](http://www.austlii.edu.au/au/legis/cth/consolact/itaa1936240/) (Cth).
+Section 16(2) contains a prohibition upon the disclosure of information, subject to the important exception where the information is divulged in the performance of the officer's duties (s.16(2A)).
+ The wording of s.17 of the Casino Act uses more general wording than that of secrecy provisions present in the taxation legislation. It should be noted that there is a difference in the phrase "in the exercise of functions" and "in the performance of the person's duties as an officer".
+ In Canadian Pacific Tobacco Co Ltd versus Stapleton <case>; [(1952) 86 CLR 1], Dixon CJ considered the scope of s.16(2) of the [Income Tax
+Assessment
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/itaa1936240/). At that time, s.16(2) included the exception which is now found in s.16(2A). It then provided:- "An officer shall not either directly or indirectly, except in the performance of any duty as an officer and either while he is, or after he ceases to be an officer, make a record of, or divulge or communicate to any person any such information so acquired by him." Dixon CJ said that the words in the exception should be given a wide interpretation. His Honour said (at 6-7):- "The exception governs all that is incidental to the carrying out of what is commonly called 'the duties of an officer's employment'; that is to say, the functions and proper actions which his employment authorises." This passage has been adopted and applied in later cases, including by
+Lockhart J in Consolidated Press Holding Ltd versus Commissioner of Taxation <case>; [(1995) 57 FCR 348] at 352 and
+Von Doussa J in Simionato Holdings Pty Ltd versus Federal Commissioner of
+Taxation (No 2) (1995) 95 ATC 4720. In the latter case, his Honour concluded in relation to <case> that steps taken by a taxation officer to maximise the return to creditors, including the Commonwealth, were steps taken in the performance of his function and duty as an officer.
+ In FCT versus Nestle Australia Ltd <case>; [(1986) 69 ALR 445], the Full Federal Court considered whether <case> rendered documents in the possession of the Commissioner relating to his investigation of the taxpayer's affairs immune from the processes of discovery and inspection. The Full Court stated (at 950):- "The 'duty' of an officer extends beyond the performance of work of an administrative nature such as processing returns, making assessments, considering and dealing with objections, conducting investigations into the affairs of taxpayers and matters of this nature. It includes the occasions on which he is required by the judicial process to produce documents or give evidence in courts, by affidavit or viva voce, concerning the affairs of some other person which he has acquired as an `officer', where the proceedings are referable to the imposition, assessment or collection of revenue..."  In Re Australian Institute of Marine and Power Engineers versus the
+Secretary, Department of Transport <case> the meaning of the exception "in the performance of any duty as an officer" was considered. In the course of the decision, Gummow J observed (at [35]):- "The functions and proper actions authorised, and indeed required, by the engagement of an officer in the defined sense, include observance and compliance with obligations arising at common law and in equity, save as excluded or supplanted by statute ... These general law obligations would include those of care and skill ... and confidentiality ... Also included, in my view, in the exception is what is appropriate to discharge or satisfy requirements or duties imposed pursuant to procedures existing under statutes other than the Tax Act."  His Honour accordingly found that the receipt of a request under [s.13(1)](http://www.austlii.edu.au/au/legis/cth/consolact/adra1977396/s13.html) of the [Administrative Decisions (Judicial Review) Act ](http://www.austlii.edu.au/au/legis/cth/consolact/adra1977396/) led to the imposition of a duty or requirement to prepare and furnish a statement upon the decision maker. If, in discharging that duty, the decision maker divulges information as prohibited by [s.16](http://www.austlii.edu.au/au/legis/cth/consolact/adra1977396/s16.html),
+Gummow J held that this would constitute performance of a duty as an officer and would therefore fall within the exception.
+ Section 135A of the [National Health
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/nha1953147/) prohibits disclosure of information, and is similar to the provisions of s.17 of the
+Casino Act, in that it creates an exception where disclosure occurs in the performance or exercise of duties or functions under the [National Health
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/nha1953147/) or the [Health Insurance Commission Act ](http://www.austlii.edu.au/au/legis/cth/numact/hica1973283/). The provision was considered by the Federal Court in Martin and Ridgeway versus the
+Pharmacy Restructuring Authority <case>, in which the Authority gave a pharmacist information concerning an application made by another pharmacist for approval for relocation. Davies J stated at [11]:- "However, the sub-section does not preclude an officer from making a disclosure in the performance of duties or in the exercise of powers or functions under the Act. It follows that neither the Authority nor any officer of the Authority was precluded by the subsection from giving to the applicants such information about the application for relocation as it was required to satisfy the principles of procedural fairness which applied in their case. See
+Canadian Pacific Tobacco Co Ltd v. Stapleton <case>; [(1952) 86 CLR 1] at 6-7; Commissioner of Taxation v. Nestle Australia Ltd <case>; [(1986) 12 FCR 257] at 262." The present case, as discussed earlier, involves the interaction between two pieces of legislation: the Casino Act and the [Liquor
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/).
+Information obtained by Inspector Munt pursuant to his statutory power contained in s.26 of the Casino Act, was divulged by the Director in the exercise of the functions prescribed by the [Liquor
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/). The functions of the Director as provided by the [Liquor
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/) include the determination of disturbance complaints including the convening of conferences in relation to such complaints. It was in connection with these particular functions that the Director disclosed the trading data to licensees. That disclosure enabled licensees to be aware of a basis of the complaint against them and to be in a position to provide submissions in accordance with [s.81.](http://www.austlii.edu.au/au/legis/nsw/consolact/la2007107/s81.html)
+As was the case in Martin and Ridgeway versus the Pharmacy Restructuring
+Authority (supra), the provision of information was necessary to ensure that the requirements of procedural fairness were met. Having regard to the approach taken in the abovementioned authorities in relation to secrecy provisions, it is clear that the phrase "in the exercise of functions" must be given a wide interpretation.
+ In light of the specific exception provided for in s.17 of the Casino
+Act and the matters to which I have referred, I am of the opinion that the disclosure in this case can be properly considered as ancillary to the performance of the Director's statutory functions, and as, accordingly, falling within the exception to the prohibition on disclosure. On that basis, there is no ground for the relief sought in the present proceedings.
+
+Orders I direct the parties to produce short minutes of order to give effect to the conclusions expressed in these reasons for judgment. Subject to the findings made as to the invalidity of the council complaint in relation to which relief is sought in paragraph 2 of the Summons, the orders that I presently intend to make will include orders in the following terms or to the following effect:- 
+The declaratory relief sought in paragraphs 1, 3, 4, 5 and 6 of the
+Summons is refused. The Summons, in those respects, is dismissed.
+
+The order in the nature of prohibition sought in paragraph 7 of the
+Summons is refused and the Summons, in that respect, is dismissed.
+
+The order sought in paragraph 8 of the Summons is refused and the
+Summons, in that respect is also dismissed.
+ In relation to costs, I will hear any submissions the parties may wish to make.
+ Liberty to either party to apply on short notice.
+ 
+LAST UPDATED:  November 2009 * * * 

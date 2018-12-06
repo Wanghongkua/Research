@@ -1,0 +1,170 @@
+
+
+Carbotech-Australia Pty Ltd versus Yates [2008] NSWSC 1151 (10 October 2008) 
+Last Updated: 10 November 2008 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Carbotech-Australia Pty Ltd versus Yates <case>  
+JURISDICTION: 
+Equity Division  
+FILE NUMBER(S):  /05  
+HEARING DATE(S):  October 2008  
+EX TEMPORE DATE:  October 2008  
+PARTIES: 
+Carbotech-Australia Pty Ltd (P1) 
+Ground Consolidation Pty Ltd (P2) 
+Minova International Pty Ltd (P3) 
+Ian Kenneth Yates (D1; XD1 in XC1; XD2 in XC2; XP1 in XC3) 
+Donna Yates (D2; XD2 in XC1; XD3 in XC2; XP2 in XC3) 
+Eligild Pty Ltd (D3; XD3 in XC1; XD4 in XC2; XP3 in XC3) 
+Ron Godfrey Nielsen (D4; XD4 in XC1; XD5 in XC2; XP4 in XC3) 
+SES Resources Pty Ltd (D5; XP1 in XC1; XD6 in XC2) 
+SES 2005 Pty Ltd (D6; XP2 in XC1; XD7 in XC2) 
+Wombat Holdings Pty Ltd (D7; XD5 in XC1; XD8 in XC2; XP5 in XC3) 
+Global Resins Pty Ltd (D8; XP3 in XC1; XD9 in XC2; XD3 in XC3) 
+SES International Ltd (D9; XP4 in XC1; XD10 in XC2) 
+Mark Weston (D10; XD6 in XC1; XD1 in XC2; XD6 in XC3) 
+Era Polymers Pty Ltd (D11; XD7 in XC1; XP1 in XC2) 
+Era Polymers Holdings Pty Ltd (D12; XD8 in XC1; XP2 in XC2) 
+Geoffrey David Mellon (D13; XD9 in XC1; XD11 in XC2; XD9 in XC3) 
+SES Holdings Plc (D15; XP5 in XC1; XD13 in XC2)  
+JUDGMENT OF: 
+Brereton J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+Mr W G Muddle SC w Mr S A Goodman & Mr J A Arnott (Ps) 
+Mr I K Yates (in person) (D1-3) 
+Mr A J Bulley w Mr C J M Palmer (D4, 7) 
+Mr J K Kirk (D5, 6, 8, 9, 15) 
+Mr C D Freeman (D11, 12)  
+SOLICITORS: 
+Clayton-Utz (Ps) 
+Cameron & Myers (D4, 7) 
+Allens Arthur Robinson (D5, 6, 8, 9, 15) 
+Photios Vouroudis & Co (D11,12)  
+CATCHWORDS: 
+PROCEDURE - SUBPOENAS - plaintiffs seeking access to documents produced under subpoena by former solicitors of defendants - whether question of access to subpoenaed material determined under common law, [Evidence Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/), or Uniform
+Civil Procedure Rules, r 1.9 - CLIENT LEGAL PRIVILEGE - whether documents subject to client legal privilege - where substantial volume of documents produced to Court with no evidence of authors' purpose(s) - inspection by
+Court - necessity for proper evidence of purpose - whether client legal privilege lost due to communications being in furtherance of criminal or fraudulent act - whether person providing advice must know criminal or fraudulent purpose - meaning of "furtherance" of a criminal or fraudulent act - WAIVER - where some documents over which privilege is claimed were exhibited to affidavits read in proceedings - whether the defendants have waived privilege over those documents  
+LEGISLATION CITED:  [Evidence Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/), [ss ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s118.html), [125](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s125.html) 
+Uniform Civil Procedure Rules, r 1.9, Pt 33  
+CATEGORY: 
+Procedural and other rulings  
+CASES CITED: 
+A G Australia Holdings Ltd versus Burton <case>; <case>; <case>; <case>; CLR 49 
+Finers (a firm) versus Miro [[1991] 1 All ER 182] 
+Gamlen Chemical Co (UK) Ltd versus Rochem Ltd [[1983] RPC 1] 
+Gamlen Chemical Co (UK) Ltd versus Rochem (Court of Appeal (Civil Division), 7
+December 1979, unreported (Goff LJ)) 
+Hooker Corporation Ltd versus Darling Harbour Authority <case> 
+National Employers' Mutual General Association versus Waind & Hill [[1978] 1
+NSWLR 372] 
+O'Rourke versus Darbishire [[1920] AC 581] 
+R versus Cox & Railton <case> 
+Ryder versus Frohlich <case> 
+Watson versus McLernon <case>; [(2005) 55 ACSR 519] 
+Zemanek versus Commonwealth Bank of Australia (FCA, 2 October 1997, unreported)  
+TEXTS CITED: 
+A V Ritchie et al, Ritchie's Uniform Civil Procedure NSW (2005) LexisNexis  
+DECISION: 
+Privilege claimed by SES and ERA defendants over documents produced by Sparke
+Helmore and Phillips Fox lost due to fraud exception. All parties may have access  
+JUDGMENT:  
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION  
+BRERETON J  
+Friday, 10 October 2008  /05 Carbotech-Australia Pty Ltd & ors versus Ian Kenneth Yates & ors 
+JUDGMENT (ex tempore) HIS HONOUR: The plaintiffs seek access to certain documents, which have been produced to the Court in response to subpoenas for production by two law firms who, for the sake of convenience, may be called Sparke Helmore and
+Phillips Fox. The Yates defendants and the SES defendants oppose that access, asserting that the documents in question are the subject of client legal privilege. As well as disputing that the documents are so privileged, the plaintiffs contend that, even if otherwise entitled to client legal privilege, they are deprived of it by the criminality or fraud exception; and further that, at least in respect of some of them, privilege has been waived.
+ In the substantive proceedings, the plaintiffs Carbotech Australia and
+Ground Consolidation ("GroundCon") claim injunctive relief and equitable compensation against the defendants on the basis that GroundCon's former employees Mr Yates, Mr Nielsen and Mr Mellon - while they or at least some of them remained employees of GroundCon - planned, and executed at least in part, with the knowing assistance of the SES defendants and the ERA defendants and other associates, a scheme to set up new entities, in which various of the defendants were to have interests, to compete with GroundCon, and exploit for their benefit a commercial opportunity of GroundCon (namely, a contract which it held to supply secondary support services to Springvale Coal) and
+GroundCon's intellectual property or confidential information (in the form of the recipe or formula for its product Bevedol/Bevedan). The plaintiffs contend that the defendants, or at least some of them, commenced to embark on this course from about July 2004, once it had became apparent that a proposed management buy-out of the contracting business of GroundCon would not proceed, and continued until July 2005, when the plaintiff obtained and executed Anton
+Piller orders.
+ During that period, or at least some of it, Sparke Helmore acted for SES and
+Mr Yates in connection with advice on a restraint negotiated between GroundCon and Mr Yates in late 2004, when he sold his seven and a half per cent shareholding in GroundCon to Minova, and in connection with a shareholders' agreement for the company Global Resins, which it was planned would market the defendants' competing polyurethane resin product. Phillips Fox acted for the
+SES companies in connection with a shareholders' agreement for SES Resources, the company that was planned to offer the defendants' competing secondary support services. Each of those firms has produced documents, in respect of certain of which the Yates defendants and the SES defendants assert a claim of client legal privilege. Access has already been granted to some of the documents produced which were not the subject of a claim for privilege, and others which, though originally said to be privileged, have since been released from the claim.
+ As I have foreshadowed, the plaintiffs dispute that the claim for privilege has been sustained, and additionally contend that the documents are disentitled to privilege by reason of the allegedly improper purpose in furtherance of which they are said to have been brought into existence, and that (in respect of some) any claim for privilege has been waived - they having been admitted into evidence, apparently without objection, as exhibits to the affidavits of Mr Mellon and Mr Weston who have given evidence in the plaintiffs' case.
+ There are therefore essentially three questions: the first is whether a claim for client legal privilege prima facie has been established; the second is whether the documents are disentitled to privilege by the fraud or criminality exception; and the third is whether privilege has been waived.
+ 
+Are the questions pertaining to privilege to be resolved according to the [Evidence Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) or the common law? Before turning to those issues, however, it is necessary, at least to some extent, to resolve whether the questions pertaining to privilege are to be resolved according to the [Evidence Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/), or according to the common law.
+ The decision of the High Court of Australia in Esso Australia Resources Ltd v Commissioner of Taxation of the Commonwealth of Australia <case>; CLR 49, establishes that the [Evidence
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) applies only to the adducing of evidence in the course of a hearing, and not to ancillary processes such as discovery. It must follow that the Act does not apply, of its own force, to claims for privilege in respect of the production and inspection of documents on subpoena.
+ In order to overcome the dichotomy that would otherwise result, the 
+Uniform Civil Procedure Rules ("UCPR") incorporate the [Evidence
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) test so far as discovery of documents is concerned, by using the terms 'privileged documents' and 'privileged information' and defining them by adopting the [Evidence Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) provisions. However, there is no equivalent provision in respect of production of documents on subpoena. UCPR, r 1.9, provides a procedure by which objection may be taken to the production of documents required to be produced inter alia by a subpoena upon grounds that the documents are "privileged documents", again defined by reference to the [Evidence
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/). But this rule relates to the production of documents, and not the inspection of documents already produced. As Mr Kirk has pointed out in the course of argument, r 1.9(3) - providing, as it does, that a person may object to producing a document - is addressed only to an objection by the person required to produce the document, and not an objection or claim for privilege by someone else in respect of a document so produced.
+ A number of cases seem to have proceeded on the basis that r 1.9 has the effect of applying the provisions of the [Evidence
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) in the present circumstances. In Re Bauhaus Pyrmont Pty Limited (in liq) <case> and Ryder versus Frohlich <case>, it does not appear that any attention was directed to the distinction between producing a document to the Court, and granting access for the purposes of inspection to a document already produced. In ML Ubase Holdings
+Co Limited versus Trigem Computer Inc <case>,
+I treated an application for access to documents produced on subpoena as if it were an objection to production of documents on the ground that the documents were privileged documents under r 1.9, again without attending to that distinction. In Westpac Banking Corp versus 789TEN Pty Ltd <case>; [(2005) 55 ACSR 519], Tobias JA observed that r 1.9 had the effect of reproducing former Supreme Court Rules, Part 36, r 13(2), and said that those provisions governed the issue as to whether the Court should or should not have compelled the production of the relevant documents. Again it does not seem that attention was given to the distinction between inspection after production, and the act of production itself. But, in Cassaniti versus Paragalli <case>; [(2006) 229 ALR 416], Barrett J recognised the distinction between r 1.9's focus on an objection made at the time at which production of a document was required, as opposed to the time at which an application for access to a document already produced is under consideration, and at least left open the possibility that the common law might apply in the latter situation.
+ The distinction to which I have referred is a well-recognised one, as it has been at least since National Employers' Mutual General Association v
+Waind & Hill [[1978] 1 NSWLR 372], which explained the three steps in the process of complying with the subpoena: first, the production of the document to the Court in answer to the subpoena; secondly, the interim use which might be made of the document, such as the granting of access for the purposes of inspection, at which stage typically any questions of privilege are agitated; and, thirdly, the tender of the document into evidence. Nowadays, the third stage is governed by the provisions of the [Evidence
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/). The first stage is governed by r 1.9, which authorises an objection on the ground of a claim for privilege to production of a document - contrary, I should add, to the suggestion in Ritchie's Uniform Civil Procedure NSW, at [33.9.5] - and applies the [Evidence
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) to such an objection.
+ But neither the Act nor the Rules apply to the second stage, and it follows that the common law continues to apply to the second stage. Inconvenient as this result may be, I do not think that inconvenience can be used, as it were, to apply the statutory provisions "derivatively" to the second stage: to do so would run contrary to the High Court's decision in Esso Australia Resources v
+Commissioner of Taxation.
+ In this respect, I think it is also to be borne in mind that [Part ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/index.html#p33) of the Rules adopts the uniform subpoena rules. Were it not for r 1.9, the note in Ritchie's would have been correct, and a claim for privilege would have been no answer to the requirement to produce documents to the Court in answer to the subpoena, though it would have been relevant on any application for access. In those circumstances, I do not think r 1.9 can be given a more extensive operation than its words naturally bear.
+ Accordingly, I will approach this case on the basis that the common law applies, although ultimately I am far from convinced that the provisions of the [Evidence
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/) would result in any different outcome and I shall - lest I be wrong in my first view - advert to them where appropriate.
+ 
+Are the documents entitled to client legal privilege? I turn, then, to whether the documents in question are prima facie entitled to client legal privilege. Such privilege attaches to a confidential communication between client and lawyer for the dominant purpose of obtaining legal advice or assistance.
+ In Barnes versus Commissioner of Taxation <case>; [(2007) 242 ALR 601], the Full Court of the Federal Court (Tamberlin, Stone and
+Siopsis JJ) observed, in respect of the evidence tendered before it on a similar application (at [16]): 
+This affidavit falls far short of providing any adequate basis for claiming privilege in respect of any individual document. It consists of assertions, conclusions and generalised comments. The documents referred to are from a number of sources. The Further and Better Particulars of Statement of Claim furnished by the appellants refer to several different persons or entities who are said to have been originators of the documents. However, no evidence has been adduced from any of those persons. Most notable of all is the absence of any evidence from Mr Calder. In this context, the fact that Mr
+Barnes' affidavit does not clarify the reason why any specific document came into existence means that the Court is left to consider the documents on their face and determine as best it can whether the documents are privileged. This is unsatisfactory.
+ Although, at an earlier stage, the Registrar had made directions for the service of affidavits setting out the claims for privilege, and although the
+SES defendants, I am told, at one stage served such an affidavit, ultimately they did not read it, simply tendering two schedules - which did no more than describe the dates, senders and recipients of the relevant documents -and about two reams of documents for the Court to inspect. The Yates defendants did read an affidavit of their former solicitor, who could have had no personal knowledge of the purpose of creation of the relevant documents, and they too tendered a ream or two of documents for the Court to peruse.
+ As the full Federal Court said, "this is unsatisfactory", not only because it requires the Court to undertake the exercise of perusing an extensive amount of documentation to infer their dominant purpose, unassisted by evidence of those who might sensibly cast light on it, but also because it deprives the party opposing the claim of privilege of an opportunity to test it, and of knowledge of the material that is put before the Court for it to consider. There is also the general undesirability of the Court being compelled to consider material which it has been asked to, and may, exclude from evidence.
+ The memoranda of costs issued by Sparke Helmore, both to one of the SES companies and to Mr Yates, sufficiently establish that there was a solicitor/client relationship between Sparke Helmore, Mr Yates and one or more of the SES companies. I do not think that anything turns on the circumstance that various different SES companies may have been party to communications with Sparke Helmore from time to time. They were a single associated group, with a common intent, and communications with each would be covered by the retainer made principally by any one of them on behalf of the group generally.
+Similarly, the retainer letter between Phillips Fox and SES establishes a solicitor/client relationship between SES and Phillips Fox.
+ Although I am conscious that the plaintiffs are entitled to expect a rather rigorous approach to be adopted by the Court in circumstances where they are deprived from the opportunity of themselves testing the claim or making submissions in respect of the documents, in this case the exercise involved two substantial volumes of documents. I have not read every one of those documents. I have read fully those to which specific reference was made in the course of argument. I have scanned lightly over the others, but I have perused the schedules - both those tendered by the SES defendants and that annexed to
+Mr Cameron's affidavit - to satisfy myself of the dates at which, and between whom, the relevant communications took place. Having regard to the dates on which they were brought into existence, their description - and I omit any reference to their asserted purpose - on the face of the schedules, and the parties between whom they took place, the probabilities are overwhelmingly that they were made for the purposes of obtaining legal advice or assistance from the relevant firm of solicitors. Indeed, the rhetorical question might be asked, for what purpose could any of those communications have taken place, other than obtaining legal advice or assistance from the relevant firm? Accordingly, subject to the questions that arise in respect of the criminality or fraud exception and waiver, the documents the subject of the claims are entitled to privilege, both at common law and, if it were relevant, under [Evidence
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/), [s .](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s118.html) 
+Has client legal privilege been lost due to the crime/fraud exception? I turn then to the criminality and fraud exception. It is well established that a communication in furtherance of a criminal or fraudulent purpose is not entitled to privilege at law [R versus Cox & Railton [(1884) 14 QBD ];
+O'Rourke versus Darbishire [[1920] AC 581].] For this purpose, the concept of fraud is not limited to legal fraud and extends to employees who, during their employment and in breach of their duty of fidelity, engage in a scheme secretly using their employer's time and money to take its customers and employees and make a profit from them in a competing business built up to receive themselves on leaving the employers service [Gamlen
+Chemical Co (UK) Ltd versus Rochem Ltd [[1983] RPC 1], 8, approved in
+Gamlen Chemical Co (UK) Ltd versus Rochem (Court of Appeal (Civil Division), 7
+December 1979, unreported (Goff LJ)); Barclays Bank plc versus Eustice <case>; [[1995] 4 All ER 511]; Watson versus McLernon [[2000] NSWSC 306], [115] (Hodgson CJ in Eq)].
+ Moreover, it matters not that the lawyer may be unaware of the clients nefarious purpose. In R versus Cox & Railton, 165, Stephen J said:  
+The question, therefore, is, whether, if a client applies to a legal adviser for advice intended to facilitate or to guide the client in the commission of a crime or fraud, the legal adviser being ignorant of the purpose for which his advice is wanted, the communication between the two is privileged? We expressed our opinion at the end of the argument no such privilege existed.  (See also Finers (a firm) versus Miro [[1991] 1 All ER 182], 187 (Dillon LJ); Gamlen Chemical Co versus Rochem (CA)). Insofar as the observations of Hill J in Zemanek versus Commonwealth Bank of Australia (FCA, 2 October 1997, unreported), suggest otherwise, it seems to me that the weight of authority favours the observations of Stephen J in R versus Cox & Railton, and that in principle they are to be preferred: it is the client's purpose, not the solicitor's knowledge of it, that is determinative.
+ It was argued by Mr Kirk for the SES defendants that, insofar as [Evidence
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/), [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s125.html), were applicable, one should focus on the purpose of the author of the relevant document, so that (at least implicitly) where the lawyer was the author, it was the lawyer's purpose and knowledge that was relevant. I do not think that examination of [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s125.html) sustains that argument. In particular, [s (1)(b)](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s125.html) makes patent that it is sufficient that either the client or the lawyer or both knew, or ought reasonably to have known, that the communication or the contents of the document was made or prepared in furtherance of a deliberate abuse of power. The section, overall, requires a conclusion as to whether the relevant communication was in furtherance of the commission of the fraud or an offence, viewed objectively rather than from the state of knowledge of either of the parties in particular. But, as at common law, it will, at least ordinarily, be the purpose of the client that is relevant.
+ It is clear that it is insufficient to deny a communication the privilege to which it might otherwise be entitled that it merely be relevant to, or might disclose, a fraud or crime: for that consequence to follow, it must be in furtherance of the fraudulent or criminal purpose. So much is plain in the words of [Evidence
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/), [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s125.html), and that is also the position at common law [Butler versus Board of Trade [[1971] Ch 680](/cgi-bin/LawCite?cit=%5b1971%5d%201%20Ch%20680 "View LawCiteRecord" ); cf Watson versus McLernon, in which Hodgson CJ in Eq contemplated a number of possible tests (at [112]- <case>; [(2002) 58 NSWLR 464], Campbell
+J, as his Honour then was, though dealing primarily with questions of confidentiality as opposed to privilege, observed (at [198]): 
+In the context of the related principle, that legal professional privilege does not protect communications made for an illegal or improper purpose (R v
+Cox & Railton [(1884) 14 QBD 153)] it is established that there must be a prima facie case established that the communications came into existence for the improper purpose, before the privilege is shown not to apply. See Attorney-General (NT) versus Kearney <case>; [(1985) 158 CLR 500] at 516, 517, 525; Re Moage Ltd; 
+Sheahan versus Pitterino [(1998) 82 FCR 10] at 18-19.
+ What is contemplated by the concept of a communication being in furtherance of the commission of a fraud or an offence was considered by Hodgson CJ in Eq in Watson versus McLernon, where his Honour concluded (at [116]): 
+The next question is, what would amount to furtherance of such a purpose?
+I accept that a purpose of merely concealing previous dishonest conduct, and avoiding adverse consequences, such as penalties or claims for damages, which could flow therefrom, would not amount to furtherance of the improper purpose.
+The policy of the law is to encourage people to get legal advice so that they can be aware of their rights in relation to such matters. However, if the person seeking advice proposes to continue the dishonest conduct, in this case to go on using the opportunities and information dishonestly acquired, in a business competing with the employer in such a way as would be likely to damage the employer, and proposes to use legal advice to assist in this purpose, then in my opinion that would be sufficient to amount to a furtherance of the improper purpose.
+ In other words, if the client is obtaining legal advice in the context of an ongoing dishonest or fraudulent undertaking, so that the advice will or may impact upon or inform the client in the course of that undertaking, it will be regarded as being in furtherance of the improper purpose.
+ On the present application, the SES defendants and the Yates defendants responsibly made an admission - expressly limited for the purposes of the present application - that there were, within the meaning of [Evidence
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/), [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s125.html), reasonable grounds for finding that the scheme alleged against them was engaged in and embarked upon, and was fraudulent in the relevant sense. Their argument was limited to whether the relevant communication could be said to be in furtherance of that scheme.
+ I accept that, for example, merely to seek advice in respect of the scope of a restraint of trade would not be in furtherance of an improper purpose - for a number of reasons, including that to breach such a restraint after the end of employment would not necessarily involve any such fraudulent impropriety as would be caught by [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s125.html), although it may be a breach of contract or covenant - nor would be obtaining advice or assistance in connection with negotiating the terms of such a restraint. But, if the context of seeking that advice were an ongoing scheme while still in employment to set up a competing business in competition with the employer or to take the employer's commercial opportunities, then it would be in furtherance of the fraudulent purpose. The SES defendants relied on
+Butler versus Board of Trade as showing that it was insufficient that solicitors merely advise that, if the client takes a certain course, he might incur serious consequences. But it is important to note that, at several points in the judgment of Goff J, reference is made to the very limited evidence that was before the Court, and that nothing more was able to be inferred than that the solicitor provided such advice spontaneously and of her own motion. As his
+Lordship said (at 687): 
+On the information before me, the letter was nothing but a warning volunteered - no doubt wise, but still volunteered - by the solicitor that if her client did not take care, she might incur serious consequences, which she described.
+ In the context of an ongoing scheme to compete fraudulently with the employer by using the employer's commercial opportunities or formulas, persisted in until the Anton Piller orders were made in July 2005, communications with lawyers did not cease to be in furtherance of the scheme just because, in the absence of the scheme, they could have been permissibly undertaken. Advice could permissibly have been sought in respect of the scope of the restraint, and advice could permissibly have been sought by SES in respect of the incorporation of an Australian subsidiary, the preparation of a shareholders' agreement, and the establishment of a secondary support services business in Australia. But when the context in which that advice is sought is the scheme to which I have referred, then those were all steps in furtherance of the implementation of that scheme. Indeed, the incorporation of the company, the preparation of the shareholders' agreement and the establishment of the secondary services business were essential elements of the scheme.
+ Accordingly, in my view the plaintiffs have established that the communications with the two firms of solicitors concerned, and the documents prepared by those firms, which are the subject of the claim for privilege, were in furtherance of a fraudulent purpose for the purposes of the relevant test, and are not entitled to privilege at law, and would not be entitled to privilege by reason of [Evidence
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/), [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ea199580/s125.html), were it applicable.
+ I hasten to add that what I have said, of course, involves no ultimate conclusion as to whether the fraudulent scheme to which I have referred will be established. In that respect, what I have said is based on what I have described as the responsible admission that there are reasonable grounds for such a conclusion on the evidence at this stage, not that such a conclusion is by any means inevitable.
+ 
+Has client legal privilege been waived? Although it is probably not strictly necessary, I shall deal with the question of waiver. The documents in respect of which it was said that there was a waiver were, as I have foreshadowed, exhibited to the affidavits of Mr
+Mellon (a former employee of GroundCon, who became an employee of SES) and Mr
+Weston (an employee of SES), both of whom themselves were defendants, but have settled with the plaintiff and, pursuant to that settlement, gave evidence in the plaintiff's case.
+ It is a fair inference that the documents exhibited to their affidavits were simply retained by them, and were not handed over to the plaintiff with the knowledge, consent, approval or authority of the relevant defendants. I would not draw any inference of waiver from the circumstance in which the documents apparently came into the possession of the plaintiffs.
+ When the SES defendants became aware of the plaintiff's possession of those documents - through their inclusion in the proposed tender bundle - an objection to their admission, on the basis that they were privileged, was notified, and the documents were then segregated and put into a separate tender bundle. Although the exhibits to Mr Mellon and Mr Weston's affidavits were admitted without objection, that was in circumstances where - as counsel for the SES defendants say and counsel for the plaintiffs does not dispute, and I accept - he was under the apprehension that the opportunity to debate the claim for privilege and those documents was preserved, they having been placed in a separate volume of the tender bundle which had not itself been tendered.
+ In Hooker Corporation Ltd versus Darling Harbour Authority [(1987) 9 NSWLR ],
+Rogers J held (at 541) that where a litigant is bound by a Court to comply with an accelerated compulsory discovery process and inadvertently or unintentionally includes a protected document in the list of documents, which is subsequently produced and inspected, the privilege which would otherwise attach to the document will not necessarily be held to have been waived by the litigant, and the Court must reconcile the requirement for the speedy resolution of disputes and the interests of justice and decide whether it is fair in all the circumstances of the case to allow the plaintiff client privilege to be maintained. Given the conclusions I have reached on the other issues, it will suffice if I say in this respect that in my view it would be fair in all the circumstances of the case to allow the claim of privilege to be maintained, if it were only the question of waiver that were in issue. But, as I understand it, all the documents in tender bundle 14 are also documents which will be covered by the conclusion I have reached in respect of the criminality and fraud exception, and in those circumstances they too would not be entitled to privilege.
+ 
+Orders The documents the subject of the dispute were tendered on the voir dire and marked VD 26 (documents produced by Sparke Helmore), VD 27 (documents produced by Phillips Fox), and VD 29 (documents produced by Sparke Helmore subject to claim for privilege by Mr Yates). I direct that all parties may have access to the documents comprised in VD 26, 27 and 29, including photocopy access.
+ 
+LAST UPDATED:  November 2008 * * * 

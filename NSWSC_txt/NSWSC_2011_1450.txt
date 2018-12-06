@@ -1,0 +1,578 @@
+
+
+OneSteel Manufacturing Pty Ltd -v- BlueScope Steel (AIS) Pty Ltd [2011]
+NSWSC 1450 (29 November 2011) 
+Last Updated: 13 December 2011 
+Supreme Court 
+New South Wales  
+Case Title: 
+OneSteel Manufacturing Pty Ltd -v- BlueScope Steel (AIS) Pty Ltd  
+Medium Neutral Citation: <case>  
+Hearing Date(s): & 23 August and 17,18,19,20,25,26 & 27 October 2011  
+Decision Date: November 2011  
+Jurisdiction: 
+Equity Division - Commercial List  
+Before: 
+Hammerschlag J  
+Decision: 
+Plaintiff's Summons is dismissed  
+Catchwords: 
+CONTRACT - ss 31, 40 and 50 [Sale of Goods Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/) - contract for the supply and purchase of iron ore - construction of provision entitling buyer to request seller not to load shipments - whether seller's concurrence required - whether buyer breached contract by refusing delivery - provision entitling buyer to reduce level of purchases where caused by requirement for buyer to reline its blast furnace and provided reduction was reasonably proportional to reductions of purchases from other iron ore suppliers - whether buyer exercised its rights under the provision - whether reduction was reasonably proportional - BREACH - whether purchaser breached contract by not being ready and willing to deliver - whether buyer dispensed with requirement for purchaser to be ready and willing - DAMAGES - whether seller suffered damages where it was not ready and willing to deliver - measure of damages - mitigation - whether seller failed to mitigate damages - construction of limitation provision  
+JUDGMENT 
+INTRODUCTION 
+HIS HONOUR: By Sale and Purchase Deed made on 30 December 2004 ("the Deed") and amended on 22 August 2008 ("the Amendment Deed"), the plaintiff ("OneSteel") agreed to sell and the defendant ("BlueScope") agreed to purchase iron ore fines on specified terms and conditions. Except where it is necessary to distinguish between the two instruments, I shall refer to them collectively as the Deed. 
+OneSteel sues BlueScope for damages, asserting that BlueScope was obliged to purchase and pay for seven identified scheduled shipments of iron ore fines, and that in breach of those arrangements BlueScope declined to do so. BlueScope proffers a number of answers, the principal one being that it was entitled, under the terms of the Deed, to decline to take the shipments. 
+Despite the parties' initial estimate of four days, the hearing took nine days. It commenced on Monday 22 August 2011 and was adjourned on 23 August 2011, on the application of OneSteel which wished to reconfigure its damages claim. The hearing resumed on 17 October 2011 and concluded on 27 October 2011. 
+Close to 3000 pages of documents were tendered and there was extensive cross-examination of witnesses. It is not feasible to refer to every conceivably relevant document. Documentary references are limited to those necessary to facilitate a proper understanding of these reasons. 
+The parties provided the Court with written submissions and there was extensive oral argument. I have had regard to all the arguments. I do not, however, propose to restate all of them. 
+FACTUAL BACKGROUND 
+The Parties 
+OneSteel and BlueScope are substantial commercial entities listed on the Australian Stock Exchange. They both manufacture steel. 
+BlueScope operates steelworks at Port Kembla, New South Wales. The works include a sinter plant which processes iron ore fines (particles of less than 6mm) in preparation for blast furnacing. Unlike iron ore lumps (of between 6mm and 31mm), which can be fed directly into a blast furnace, fines must first either be converted into pellets or be sintered. Sintering involves the blending and fluxing of iron ore fines with flux materials, mainly limestone, by combustion. The fused material is termed sinter. 
+The steelworks also include two blast furnaces, designated respectively as furnaces no. 5 and no. 6. Typically blast furnaces need to be relined every 15-20 years. No. 5 was built in 1972 and relined in 1991. 
+In addition to its contract with OneSteel by way of the Deed for the purchase of iron ore fines, BlueScope also had long term contracts for the purchase of iron ore from BHP Billiton Ltd ("BHP") and Companhia Vale do Rio Doce of Brazil ("Vale"). 
+OneSteel operates a blast furnace at Whyalla, South Australia. It also mines and sells raw materials, particularly iron ore fines. 
+Both OneSteel and BlueScope were once part of the BHP Group. Their parent companies were demerged from the BHP Group in 2000 and 2003 respectively. 
+BHP owned the vessel the "Iron Chieftain" which it used to ship iron ore from Whyalla to Port Kembla and to ship coal in the opposite direction. The Iron Chieftain is a Handimax class vessel and has a carrying capacity of about 46,500 wet metric tonnes (WMT). 
+When OneSteel's parent separated from BHP, BHP sold the Iron Chieftain to CSL Australia Pty Ltd (a company related to Canada Steam Ship Lines Inc of Montreal). By Contract of Affreightment Charter Party dated 28 November 2003 ("the Charter Party"), OneSteel's parent chartered the vessel from its new owner. Under the Charter Party the ship owner agreed to receive and carry a specified tonnage of iron ore in bulk (lump or fines) from Whyalla to Port Kembla and a specified tonnage of coal in bulk from Port Kembla to Whyalla fairly evenly spread throughout the year in round voyages between the two ports. 
+At relevant times, OneSteel had long term contracts for the sale of iron ore to steel mills in China operated by Rizhao Steel Holding Group Co Ltd, Shanxi Haixin Iron & Steel Group Ltd, Tangshang Guofeng Iron & Steel Co Ltd, and Hebei Jinxi Iron & Steel Co Ltd (collectively "the Chinese customers"). OneSteel also sold iron ore on the spot market. 
+The Deed 
+On 30 December 2004 the parties entered into the Deed. 
+The Deed is a substantial document running, with attachments, to over fifty pages. Although it will contribute to the prolixity of this judgment, it is reproduced in its entirety as a Schedule to this judgment. I have taken this course because, amongst others, many of the provisions in it (including those central to this dispute) refer to other provisions, the parties' submissions canvassed provisions going well beyond those which are central to the dispute and both addressed submissions as to how the Deed operates as a congruent instrument. 
+Under cl 4.1(a) of the Deed, for each Contract Year of the Term, OneSteel was entitled to supply to BlueScope up to the Maximum Tonnage of iron ore (1,081,000 WMT) on a DEQ Port Kembla basis and BlueScope was obliged to purchase any iron ore so offered, subject to and upon the terms of the Deed. 
+Under cl 4.1(b) of the Deed, while OneSteel was under no obligation to supply BlueScope with any minimum amount of iron ore, it warranted that it would not, to the extent it was within its legal rights to control the activities of the Iron Chieftain, use the vessel during the Term for any other seaborne trade other than the coal trade from the east coast of Australia to Whyalla or the iron ore trade with BlueScope from Whyalla to Port Kembla without the consent of BlueScope, which consent was not to be unreasonably withheld. Under cl 4.1(c), the parties agreed that there was no obligation on OneSteel to use the Iron Chieftain to deliver the iron ore under the Deed and OneSteel was free to use other Vessels, subject to the nomination and acceptance provisions in the Deed. 
+Clause 4.1(d) of the Deed, which is pivotal to this dispute, is in the following terms: 
+If the Seller has scheduled DEQ Port Kembla Shipments of Iron Ore to the
+Buyer and the Buyer requests the Seller for any reason (other than pursuant to
+Clause 6.4) to either not load the Vessel at all or not load the Vessel to the full Practical Loaded Capacity of the Vessel, then the Buyer shall: subject to clause 12.8, pay any Dead Freight in respect of that
+Shipment; and advise the Seller whether the Buyer wishes to take the foregone tonnage at a later time (on either a FOB Whyalla Port or DEQ Port Kembla basis) and the Seller shall respond to the Buyer's request within a reasonable time (for the avoidance of doubt, the Seller is not obliged to agree to any such request but will not unreasonably withhold its agreement).
+Clauses 5 and 6 of the Deed deal with iron ore specification, non-conformance, and other quality issues. Clause 7 deals with price. Clause 12 deals with iron ore movement and delivery for DEQ Port Kembla sale and purchase. Clause 12.3 deals with shipping arrangements and schedules. Clause 12.8 deals with the payment by BlueScope to OneSteel of Dead Freight incurred by OneSteel as a result of OneSteel loading at the Load Port. 
+Clause 12.8(c), which is also pivotal to the present dispute, provides as follows: 
+The Seller is aware that it is likely that during the Term of this Deed that the Buyer will reline its No. 5 Blast Furnace and may undertake related work on Buyer's sinter plant (the Works) and may wish, in Buyer's absolute discretion (but reasonably proportionally with the Buyer's other iron ore fines suppliers), to reduce its level of purchases of Iron Ore from the Seller during or around that period of the Works. Seller acknowledges and agrees that any such reduction related to the Works is not a breach of this Deed and Buyer will not be liable to Seller for any cost, expense, loss (including loss of profits) or damage suffered by Seller as a result of Buyer reducing its level of purchases, but will be liable for Dead Freight that is not mitigated by
+Seller in accordance with this Deed. In the event that the Buyer does wish to so reduce its purchases the Seller will use its reasonable endeavours to mitigate the Dead Freight charges which would be payable by the Buyer to the
+Seller in respect of any Dead Freight Events during or around the Works period and will also liaise with the Buyer to assist the Seller in reducing Dead
+Freight.
+
+Events Leading Up To The Amendment Deed 
+In 2004, BlueScope was conscious that blast furnace no.5 would need to be shut down and relined ("the furnace reline"). It had originally planned to do the furnace reline in September 2007 but decided in late 2006 to delay it because the steel industry was booming. 
+On 23 October 2006, BlueScope announced that the furnace reline would commence in March 2009. 
+By about April 2008, BlueScope's sinter plant was apparently not meeting its budgeted rate of production and BlueScope was accumulating an excessive stockpile of fines, so much so that it had run out of room in its storage yards. It was also in contemplation that the Iron Chieftain would need to go to dry dock for a while for maintenance. BlueScope therefore decided to reduce its iron ore intake from OneSteel. 
+At about this time, the spot price for iron ore was significantly higher than that payable under the Deed. Mr Timothy Jansen, BlueScope's Commodity Manager, put together a proposal for the deferral of three shipments of iron ore. The proposal, if implemented, would have the effect of speeding up the recycle time of the Iron Chieftain which would allow OneSteel to receive an extra load of coal before the end of the financial year. It would also allow OneSteel to sell the iron ore which would have been loaded on those three shipments at a higher spot price. The benchmark price for hard coking coal was increasing. According to Mr Jansen, OneSteel suggested that four shipments rather than three be deferred. 
+The parties contemplated ballasting four voyages (nos. V192, V194, V196 and V198) which were to be loaded between 19 April and 15 June 2008 and replacing them with four shipments to be made between 22 December 2008 and 30 June 2009. 
+In addition they discussed varying the then current schedule of proposed shipments by including three additional proposed voyages (nos. V226, V228 and V230). 
+On 29 May 2008, BlueScope announced that the furnace reline was scheduled to take 105 days and would take place in the first half of 2009. 
+On 30 May 2008, Mr Graeme Barkway, OneSteel's Manager Marketing, sent a proposed amendment to the Deed and a draft voyages schedule for the Iron Chieftain (from Whyalla to Port Kembla carrying fines) to Mr Jansen. 
+The schedule provided for five deliveries between 14 January 2009 and 21 March 2009 (nos. V218, V220, V222, V224 and V226) and for two deliveries between 7 June 2009 and 25 June 2009 (nos. V228 and V230). It included the notation "No deliveries in April or May due to Blast Furnace re-line". 
+By email dated 5 June 2008 to Mr Graham Moretti, OneSteel's Mines & Export, Supply Chain Planning & Marine Manager, Mr Jansen suggested one adjustment to the schedule. He suggested that V226 (which was scheduled to arrive on 21 March 2009) be shifted so as not to arrive in late March 2009 but rather be deferred to late May 2009, on the basis that the furnace reline would have commenced in March 2009 and BlueScope's yard would be very constrained at that time. 
+On 6 June 2008 Mr Moretti sent an email to Mr Jansen attaching an adjusted voyages schedule for 2008/2009 making the change requested by Mr Jansen. 
+The Amendment Deed 
+The parties executed the Amendment Deed on 22 August 2008. 
+The relevant terms of the Amendment Deed are the following: 
+This amendment (the "Amendment Deed") is issued in reference to the sale and purchase deed of agreement between BlueScope Steel (AIS) Pty Limited ("the
+Buyer") and OneSteel Manufacturing Pty Limited ("the Seller") dated 30
+December 2004 ("the Deed").
+
+Both parties agree to vary the terms and conditions of the Deed as follows in respect of four (4) shipments of Iron Ore - to be ballasted between Whyalla and Port Kembla - being OneSteel Voyage Nos. 192, 194, 196 and 198, and also in respect of four (4) shipments of Iron Ore - to be sold to the Buyer on a
+DEQ Port Kembla basis on revised price and payment terms - being OneSteel
+Voyage Nos. 202, 204, 206 and 208 otherwise the conditions of the Deed remain unamended. Terms used in this Amendment Deed have the same meaning as in the
+Deed unless otherwise stated.
+ . TERM OF DEED 
+Notwithstanding the terms of the Deed that govern the Term of this Deed, it is agreed to extend the Term such that it expires on 30 June 2009. The period between 1 July 2008 and 30 June 2009 shall be called Contract Year 2008/2009.
+
+In respect of clause 3.2 dealing with the renewal of term, it is agreed that all references to 21 st December 2008 be replaced with 30 June 2009 and all references to 21 st June 2008 be replaced with 31 st December 2008.
+ . OBLIGATIONS TO SUPPLY & PURCHASE 
+Notwithstanding the terms of the Deed that govern the supply and purchase of
+Iron Ore delivered during the Contract Years 2007/2008 and 2008/2009, it is agreed that the Deed is varied in respect that OneSteel Voyage Nos. 192, 194, and 198 (due to be loaded aboard the vessel on or about between 19 April and 15 June 2008) ("the Ballasted Shipments") will be ballasted from
+Whyalla to Port Kembla. The Seller agrees to pay the Dead Freight in respect of the Ballasted Shipments.
+
+The Seller agrees to supply four (4) replacement shipments ("Replacement
+Shipments") in Contract Year 2008/2009 in addition to the number of shipments that would have been supplied between 1 July 2008 and 21 December 2008. The
+Replacement Shipments will be made between 22 December 2008 and 30 June 2009 to a schedule mutually agreed between the parties.
+
+The Buyer agrees to waive its right to purchase on a FOB Whyalla Port basis any shortfall from the Maximum Tonnage of Iron Ore accrued in the Contract
+Year 2007/2008.
+ ...
+
+The Amendment Deed applies only to the Ballasted Shipments, Replacement
+Shipments, Shipments and Nominated Shipments. All other shipments of Iron Ore will continue to be governed in full by the terms of the Deed. Except as modified in this Amendment Deed, all other terms of the Deed apply to the
+Ballasted Shipments, Replacement Shipments, Shipments and Nominated Shipments.
+To the extent that any provisions of the Deed are inconsistent with this
+Amendment Deed, this Amendment Deed prevails over the provisions of the Deed.
+
+Events Leading Up To BlueScope's Requests That The Iron Chieftain Not Be Loaded 
+On 17 September 2008, Mr Brendan Gore, OneSteel's Sales Manager Non Steel Products, sent an email to Mr Jansen in the following terms: 
+Tim, 
+The attached Iron Chieftain delivery plan is the outcome of recent discussions with CSL regarding the upcoming dry-docking of the vessel. Changes have arisen because: 
+CSL now desire to dry-dock in China rather than Singapore. (with [sic] resultant longer transit times to and from) 
+The repairs are more substantial than first thought. (45 days dry-dock now planned) 
+Vessel must depart Whyalla at the latest 10th November, 2008.
+
+Vessel expected to return to Whyalla around 5th February, 2009 (87 days) 
+The above changes have necessitated some adjustments to the previous delivery program in the second half of the year.
+
+Please review the attached plan and advise of any concerns or issues.
+
+Thanks and regards, 
+Brendan
+It attached the following "delivery plan": 
+Voyage Number 
+Vessel 
+Cargo 
+Cargo Weight 
+Discharge Port 
+Discharge Port Notice of Readiness 
+Discharge Port Completion of Discharge 
+Cycle (days)  ---|---|---|---|---|---  - 2009  
+Iron Chieftain 
+Iron Ore fines ,929 
+Pt Kembla Bulk berth /07/2008 11:00 .4  
+Iron Chieftain 
+Iron Ore fines ,260 
+Pt Kembla Bulk berth /07/2008 2:42 .7  
+Iron Chieftain 
+Iron Ore fines ,095 
+Pt Kembla Bulk berth /08/2008 2:12  
+Iron Chieftain 
+Iron Ore fines ,824 
+Pt Kembla Bulk berth /09/2008 2:12  
+Iron Chieftain 
+Iron Ore fines ,349 
+Pt Kembla Bulk berth /09/2008 21:48 /09/2008 21:48 .8  
+Iron Chieftain 
+Iron Ore fines ,459 
+Pt Kembla Bulk berth /09/2008 21:48 /09/2008 21:48  
+Iron Chieftain 
+Iron Ore fines ,459 
+Pt Kembla Bulk berth /10/2008 21:48 /10/2008 21:48  
+Iron Chieftain 
+Iron Ore fines ,459 
+Pt Kembla Bulk berth /10/2008 21:48 /10/2008 21:48  
+V217 coal to Whyalla will be the last voyage before the Iron Chieftain goes to dry dock 
+Was 80 day gap, now 103 days.
+ 
+Departs from Whyalla 10th November 
+Dry Docking longer and in China, not Singapore  
+Returns to Whyalla 5th February 
+Iron Chieftain 
+Iron Ore fines ,459 
+Pt Kembla Bulk berth /02/2009 8:00 /02/2009 8:00 
+Iron Chieftain 
+Iron Ore fines ,459 
+Pt Kembla Bulk berth /02/2009 8:00 /02/2009 8:00  
+Iron Chieftain 
+Iron Ore fines ,459 
+Pt Kembla Bulk berth /03/2009 8:00 /03/2009 8:00  
+Iron Chieftain 
+Iron Ore fines ,459 
+Pt Kembla Bulk berth /03/2009 8:00 /04/2009 8:00  
+No deliveries in April & early May due to Blast Furnace re-line 
+Iron Chieftain 
+Iron Ore fines ,459 
+Pt Kembla Bulk berth /05/2009 8:00 /05/2009 8:00 
+Iron Chieftain 
+Iron Ore fines ,459 
+Pt Kembla Bulk berth /06/2009 8:00 /06/2009 8:00  
+Iron Chieftain 
+Iron Ore fines ,459 
+Pt Kembla Bulk berth /06/2009 8:00 /06/2009 8:00  -2009 Summary: 
+Number of voyages = 15  
+Expected total cargo sent = 711,047
+On the same day, Mr Jansen responded by email saying, relevantly, "Thanks for the update. I have asked our operations people to review and revert with any comments or concerns". 
+It may be observed that under the schedule there are no deliveries from the end of October 2008 until February 2009. 
+By the end of October 2008 the period of turbulence on world financial markets, which became known as the Global Financial Crisis or GFC, had commenced. It was obvious to BlueScope that its iron ore needs may decline in the short term because demand for steel would recede. 
+Almost immediately, BlueScope started considering the possibility of cancelling scheduled shipments of iron ore from OneSteel in the period February to June 2009. 
+Against this background, Mr Jansen sought the advice of Mr Tony Spajic, one of BlueScope's in-house lawyers, as to its contractual entitlement under the terms of the Deed to cancel scheduled shipments. He received written advice from Mr Spajic on 5 November 2008. In the advice, Mr Spajic provided an analysis of the operation of various terms of the Deed including cls 4.1(d) and 12.8. 
+On 27 November 2008, Mr Jansen wrote to Vale informing them that BlueScope had been forced by current market conditions to slow down production levels and that, with very high iron ore inventory expected to accumulate in its yards, significant pressure would be placed on the timing of all shipments. 
+Mr Jansen prepared a briefing paper dated 2 December 2008 entitled FY09 Raw Material Wind-Back Strategy. The paper includes the following: 
+Purpose of the Paper 
+To outline the plan and commercial strategy to reduce our FY09 commitments for iron ore and coal (and the associated freight) to facilitate a reduction in hot metal production of approximately 500,000 tonnes in response to the current market situation.
+
+Key Assumptions and Issues: 
+Iron production reduced to 13,000 tonnes per day.
+
+No.5 Blast Furnace shuts down on 25 January 2009 and No.6 Blast furnace operates at 7,000 tonnes per day (average) to 30 June 2009.
+
+Issue in terms of issuing formal notices under raw materials contracts to mitigate commercial exposure if we have not made any public announcement or
+ASX disclosure.
+The paper foreshadowed a reduction in purchases of pellets, lumps and fines. In respect of fines, it foreshadowed cancellation of four iron ore shipments from OneSteel totalling 190,000 tonnes and three shipments from BHP equivalent to 90,000 tonnes. 
+BlueScope's directors met on 5 December 2008. Mr Paul O'Malley, Managing Director and CEO, gave a presentation which included noting a significant decline in market conditions. The Board appointed a subcommittee to approve any proposals by management to bring forward the start date for the furnace reline. 
+On 8 December 2008, Mr Jansen prepared a further briefing paper. Its stated purpose was to outline the impact of the reduction in hot metal production on BlueScope's iron ore deliveries from OneSteel and to summarise the current status of contract renewal negotiations. 
+The paper included the following: 
+FY2009 Deliveries 
+As a result of the reduction in FY2009 steelmaking production at Port Kembla
+Steelworks, a response plan has been developed on how we most effectively reduce our iron ore purchases.
+
+For Onesteel, this plan requires an initial reduction of 4 shipments (190lt) [sic] that are scheduled for delivery during February and April 2009.
+
+Our current contract expires on 30 June 2009, having been extended by 6 months by agreement in June 2008. This contract allows BlueScope Steel to request ballast voyages of the Iron Chieftain for any reason if we do not require iron ore. Our commercial exposure in such circumstances is limited to payment of dead freight (approx A$266k per voyage), for which OneSteel has an obligation to seek to mitigate.
+
+The Iron Chieftain is currently in dry dock in China for maintenance and we are not receiving any OneSteel iron ore before the scheduled deliveries in
+February 2009.
+
+The contract does not specify a specific notice period should we require a ballast voyage. However, it is recommended that we provide as much notice as possible so that OneSteel have time to reallocate the iron ore sales to other customers. More notice will also improve the chances of OneSteel finding alternative business for the iron Chieftain, thereby reducing our dead freight liability.
+
+The Iron Chieftain is scheduled to perform three (3) more shipments during May and June 2009.
+
+Recommendation: 
+It is recommended that we provide OneSteel formal notice of our requirement to drop at least 4 shipments of iron ore during February and April 2009, and that further reductions maybe required subject to market and OPUP circumstances.
+On 9 December 2009, a subcommittee of BlueScope's directors resolved to delegate to Mr O'Malley authority to decide the timing of the commencement of the furnace reline. On the same day, Mr O'Malley notified Mr Noel Cornish, BlueScope's Head of Australian and New Zealand Manufacturing Businesses, that Mr Cornish was authorised to bring forward the shut down of blast furnace no. 5. 
+On 10 December 2008, BlueScope announced a Trading Update to the Australian Stock Exchange. It included reference to the outlook for the second half of Financial Year 2009. It referred to challenging market conditions, resulting in reduced production volumes, so that steel making, painting and coating would be aligned to expected lower market demand. In relation to blast furnace no. 5, it went on to say the following: 
+For the Port Kembla Steelworks this will result in reduced steel-make of approximately 1.0mt in FY 2009. Blast Furnace No.5 will be shut in January , due to reduced demand, ahead of the scheduled reline. Some reline activity will be undertaken during January and February. The main reline activity will take place during March to June 2009 as planned, as will the sinter plant upgrade. The reduction in steel-make related to early shut down of Blast Furnace No.5 and the reline will be approximately 680kt as previously advised. Lower production at the Port Kembla Steelworks will result in a pro- rata reduction in coking coal purchases whilst discussions are progressing on the reduced iron ore arrangements.
+The 8 December 2008 briefing paper was submitted for input to Mr Lawrence McDonald, BlueScope's then Manager Finance, Iron & Slab. On 11 December 2008 he provided an updated version to Mr Jansen which included a recommendation of "CEO to CEO contact Pre-Christmas to advise of BlueScope's intention to drop four shipments", on the basis that the material was surplus to requirements, noting the reduction in BlueScope's "steelmake" in the second half of the financial year in response to market conditions. The paper included a question and answer section (inserted by Mr McDonald). It was envisaged that, amongst others, the following question might be asked by OneSteel and answered by BlueScope: 
+Q: Are you treating us fairly with other suppliers? 
+A: We are talking to all of our suppliers regarding reductions in our raw material requirements. The position with each supplier is relevant to the specific circumstances of the changes that we are making in our ironmaking operations and the impact on our reline and sinter plant upgrade projects.
+On 19 December 2008, Mr Jansen and Mr Carberry (BlueScope's Commodity Manager Raw Materials and Energy) spoke to Mr Barkway and advised him of BlueScope's need "to drop an initial four shipments" that financial year. 
+Mr Jansen prepared a briefing paper which recorded the conversation and that BlueScope's requirement had been confirmed in writing. 
+The Requests Not To Load 
+On 19 December 2008, Mr Carberry on behalf of BlueScope wrote to OneSteel as follows ("the December request"): 
+Re: BlueScope Steel Request for Ballast Voyages 
+Deed of Supply of Iron Ore dated 30 December 2004 (the Deed) 
+BlueScope Steel is shutting down #5 blast furnace in January 2009. At this stage, #5 blast furnace will be shut down until at least June 2009. Further, hot metal production will be significantly reduced.
+
+Accordingly, BlueScope Steel's demand for iron ore has reduced and, as a result, BlueScope Steel requests that the Iron Chieftain is not loaded with any iron ore for the following voyages as contemplated under clause 4.1(d) of the Deed:
+Voyage 218
+Voyage 220
+Voyage 222
+Voyage 224 
+We further advise in accordance with clause 4.1(d)(ii) that BlueScope Steel does not wish to take the foregone tonnage at a later date.
+
+We note clause 4.1(d)(i) and look forward to working with OneSteel to mitigate the impact of dead freight charges on BlueScope Steel.
+
+Please call either Tim Jansen or myself should you wish to discuss this further.
+On 7 January 2009, Mr Barkway responded on behalf of OneSteel as follows: 
+Re: Deed for Supply of Iron Ore dated 30 December 2004 (the Deed) - BlueScope Steel Request for Ballast Voyages 
+Your letter dated 19 December 2008 requesting that the Iron Chieftain Voyage
+Nos. 218, 220, 222 and 224 be ballast shipments refers. [sic] 
+We have duly considered your request, made in accordance with clause 4.1(d) of the Deed, and wish to advise OneSteel, exercising its right under clause .3.6 of the Deed does not accept your request.
+
+As you are aware, Amendment Deed No. 3 included an agreed extension of approximately six (6) months to the term of the Deed, to accommodate your iron ore requirements and incorporates the Voyages that you now request as ballast shipments.
+
+I would also like to draw your attention to a set of Customer/Supplier
+Principles agreed between BlueScope SteeI and OneSteel endorsed at the MD/CEO level which precludes any change in committed arrangements between the parties without the prior arrangement of the other.
+
+We can appreciate the challenges that the current market conditions present to
+BlueScope Steel, as it does OneSteel and we wish to continue our strong relationship during and beyond this difficult economic period.
+On 29 January 2009, Mr Mark Parry and Mr Andrew Roberts of OneSteel met with Mr Oscar Gregory and Mr Noel Cornish of BlueScope. OneSteel produced a file note of the meeting. Its contents include the following: 
+With respect to OSW iron ore shipments 
+The request to ballast 4 shipments was pre a further 150kt of capacity out and this will have further flow on impacts to iron ore and coal.
+
+BSL are of the opinion that they are only liable to make good freight component and that they are not compelled to take the volume and/or make good any loss.
+
+OST referenced the protocols in place between OST and BSL re honouring commitments and off takes. BSL stated that this does not apply to iron ore.
+
+OST reiterated our legal position that BSL were compelled to take the volume and sought any suggested options for addressing the issue. None were forthcoming.
+
+OST tabled the option of on selling the ore on BSL's behalf and BSL making good the difference in returns that OST would incur. BSL would not entertain this given they do not believe that they are contractually obligated to take the volume and/or compensate OST for any resultant losses if they did not.
+
+OST sought confirmation from BSL that they did not require the four shipments as per their previous written notification. This was given. OST also sought confirmation that BSL would not seek to accuse OST of breaching the contract if they now looked to place these tonnes elsewhere. BSL confirmed that they would not seek to do so and that OST was free to take whatever decisions if sought as necessary to sell the iron ore from these shipments.
+
+BSL stated that they had no room to accept delivery of the ore even if they believed were contractually compelled to do so.
+
+Both parties stated that the respective legal teams would now need to work through the correct interpretation of the contract.
+
+BSL will revert on requirement for final three scheduled iron ore shipments in /09 financial year (most likely in April).
+ ...
+
+Actions agreed by A Roberts and M Parry after the Meeting: 
+GB to commence placing volume of ore from four ballast shipments onto export market.
+ (OSW is an acronym for OneSteel Whyalla)
+The shut down of blast furnace no. 5 was brought forward by about six weeks to 18 January 2009. The shutdown was anticipated to last 145 days, that is, to 12 June 2009. In the event, although the furnace reline was completed sometime in June 2009, the "blow in date" (that is, commencement of blasting) was 21 August 2009. 
+On 6 February 2009, Mr Barkway on behalf of OneSteel wrote to Mr Carberry on behalf of BlueScope as follows: 
+BlueScope Steel Request for Ballast Voyages 
+Deed for Supply of Iron Ore dated 30 December 2004 
+I refer to our recent communications regarding the supply of iron ore pursuant to the terms of the "Supply and Purchase Deed" that was entered into by
+OneSteel and BlueScope on 30 December 2004 (the Deed).
+
+As you know, by letter dated 19 December 2008 BlueScope requested that
+OneSteel ballast Voyage Nos. 218, 220, 222 and 224 (as those shipments were referenced in the Shipping schedule agreed between OneSteel and BlueScope in
+June 2008 (the June Schedule)) and OneSteel declined this request.
+Subsequently at a meeting between Noel Cornish and Oscar Gregory of BlueScope and Andrew Roberts and Mark Parry of OneSteel on 29 January 2009, BlueScope confirmed that it will not accept these four shipments.
+
+By refusing to accept voyages 218, 220, 222 and 224 (the Cancelled Shipments),
+BlueScope is in breach of its obligations pursuant to the Deed and will be liable to compensate OneSteel for all loss and damage suffered as a result.
+The purpose of this letter is to provide BlueScope with further details of the breach claimed by OneSteel and its anticipated loss.
+
+The matters set out below are without prejudice to OneSteel's right to raise and rely upon any additional grounds or matters in the future in respect of
+BlueScope's breach or the basis upon and extent to which 
+BlueScope is liable to compensate OneSteel.
+
+Breach 
+Pursuant to the terms and conditions of the Deed, BlueScope agreed to purchase iron ore from OneSteel during the term of the Deed (which was due to expire on December 2008). Supply of such iron ore was made in accordance with shipping schedules submitted by OneSteel to BlueScope pursuant to clause .3.5.
+
+In May 2008 the parties agreed to amend the Deed by entering into "Amendment
+No.3". By the terms of Amendment No.3, the term of the Deed was extended to 30
+June 2009 and the terms relating to supply and purchase of iron are shipments amended.
+
+In particular, pursuant to the terms of Amendment No.3, the parties agreed that: certain shipments would be ballasted and OneSteel would pay "Dead Freight" in respect of them; and 
+OneSteel would sell four "Replacement Shipments" to BlueScope.
+
+Pursuant to their obligations in Amendment No.3, in June 2008 the parties agreed the June Schedule including the supply of the Cancelled Shipments.
+
+In breach of the terms of the Deed as amended by Amendment No.3, BlueScope has purported to cancel the Cancelled Shipments and has indicated that it will be considering its position in relation to the remaining shipments identified in the June Schedule.
+
+OneSteel understands it is BlueScope's position that BlueScope is entitled to cancel any of the shipments set out in the June Schedule pursuant to subclause .1 (d) of the Deed. OneSteel rejects this contention for the following reasons: the obligations imposed upon the parties by Amendment No.3 in respect of the Cancelled Shipments are absolute obligations. Amendment No.3 specifies that the Cancelled
+Shipments "will" be made between 22 December 2008 and 30 June 2009; pursuant to Amendment No.3, all of clause 4 of the Deed (including subclause 4.1 (d)) is replaced by the terms in the second row of the table in Amendment No.3; even if clause 4 of the Deed were not replaced in full by the terms in the second row of the table in 
+Amendment No.3 (which is denied): it is an express term of Amendment No. 3 that, to the extent that any terms in the Deed are inconsistent, Amendment No.3 will prevail. If (which is denied) BlueScope has a right to cancel shipments pursuant to subclause 4.1 (this is inconsistent with the obligation in Amendment No.3 that shipments "will" be made in accordance the [sic] June Schedule and hence subclause 4.1 does not apply to the June Schedule; subclause 4.1 (d) only applies in relation to schedules issued by
+OneSteel pursuant to clause 12.3.5 of the Deed. The June Schedule was agreed by the parties pursuant to Amendment No.3, such that it is outside the operation of subclause 4.1 (d).
+
+Even if BlueScope's contention that subclause 4.1 (d) does apply to the June
+Schedule is correct (which OneSteel denies for the reasons listed above): the plain words of subclause 4.1 (d) make it clear that BlueScope is entitled merely to "request" cancellation of shipments. It does not entitle
+BlueScope to unilaterally decide to cancel shipments; a number of other clauses in the Deed are inconsistent with BlueScope's position that BlueScope is entitled to cancel any of the shipments set out in the June Schedule or indeed any other shipments and therefore support the view that under subclause 4.1 (d) BlueScope is entitled merely to "request" cancellation of shipment and is not entitled to unilaterally decide to cancel shipments. These clauses include: clause 12.8(c) which allows BlueScope to reduce its purchase or iron ore during the blast furnace reline, without breaching the Deed; 
+Clause 15.1 (b) which permits OneSteel to terminate the Deed if BlueScope does not accept any shipment; and 
+Clause 12.3.6 which states that "for the avoidance Of doubt, [BlueScope] will not be able to require a ballast voyage by the Iron Chieftain".
+
+Having regard to the above, BlueScope was not entitled to cancel voyage 218, was not entitled to cancel any of the other shipments prescribed by the June
+Schedule (including the Cancelled Shipments and other voyages identified), and is in breach of the Deed.
+
+Losses and damages 
+A party which has suffered loss as a consequence of a breach of contract is entitled to be restored to the same position that it would have been in but for the breach. In the circumstances, OneSteel is entitled to recover its lost profits and Dead Freight associated with BlueScope's breach.
+
+As BlueScope would be aware, at present OneSteel is unable to sell the iron ore that is the subject of voyage 218 (or any of the other voyages) to a third party for a price equivalent to the price payable by BlueScope pursuant to the
+Deed. Accordingly. OneSteel's lost profits in respect of each voyage will ultimately be the difference between the net price that OneSteel is able to obtain for the iron ore and the price that BlueScope was required to pay for it pursuant to the Deed.
+
+In relation to Dead Freight, OneSteel will calculate this in accordance with usual practices.
+
+Based on BlueScope's confirmation at the meeting of 29 January 2009 of
+BlueScope's refusal to accept the Cancelled Shipments, OneSteel has begun taking steps to mitigate Its losses. By way of illustration, I attach a table setting out OneSteel's preliminary calculations in relation to its anticipated mitigated losses associated with BlueScope's refusal to accept the Cancelled
+Shipments and Dead Freight for those voyages. I will provide you with final calculations of the loss suffered by OneSteel once it is known.
+
+In light of the information contained in this letter, OneSteel's senior representatives offer to meet with BlueScope's senior representatives to discuss and resolve by mutual agreement the shipments in dispute.
+
+As indicated in my previous correspondence, OneSteel wishes to resolve this dispute amicably. However, if BlueScope maintains its current position that it will not compensate OneSteel for the cancelled voyages, 
+OneSteel intends to pursue recover of its losses through formal avenues. In this respect, OneSteel reserves all of its rights under the Deed and at law generally.
+
+Yours sincerely, 
+For and on behalf of OneSteel Manufacturing Pty Limited.
+
+Manager Marketing OneSteel Whyalla
+Attached to the letter was a schedule entitled Anticipated Claim containing a damages calculation. It is not necessary to reproduce it here. 
+Voyage 218 was to have departed Whyalla on 10 February 2009. 
+On 17 February 2009, Mr Carberry on behalf of BlueScope wrote to OneSteel as follows: 
+Re: BlueScope Steel Request for Ballast Voyages 
+Deed for Supply of Iron Ore dated 30 December 2004 (the Deed) 
+I refer to your letter dated 6 February 2009.
+
+BlueScope Steel does not consider that it is in breach of the Deed as alleged in your letter or at all.
+
+In short, and without being exhaustive of all of the matters that we might raise: 
+Clause 4.1(d) entitles BlueScope Steel to request for any reason that
+OneSteel does not load the Iron Chieftain with iron ore. The terms of clause .1(d) and the construction of the Deed do not give OneSteel any discretion to refuse that request; 
+BlueScope Steel's only liability to OneSteel for not taking iron ore in the circumstances contemplated by clause 4.1(d) is payment of dead freight; 
+Amendment Deed No 3 makes limited changes to the Deed in respect of the expiry date of the Deed and scheduling of shipments. Amendment Deed No 3 does not by its terms expressly or impliedly override the ability of BlueScope
+Steel to exercise its rights under clause 4.1(d).
+
+BlueScope Steel is entitled to cancel the voyages as advised in its letter of December 2008 and accordingly sees no reason to compromise its rights under the Deed.
+
+However, given the extensive and mutually beneficial relationships between us, we are prepared to discuss in greater detail the terms of the Deed insofar as they support our decision to exercise our rights under clause 4.1(d). Please let me know if you are prepared to meet on this basis.
+On 18 March 2009, Mr Carberry on behalf of BlueScope wrote to OneSteel as follows ("the March request"): 
+Re: BlueScope Steel Request for Ballast Voyages 
+Deed for Supply of Iron Ore dated 30 December 2004 (the Deed) 
+Further to our letter dated 19 December 2008, in which we requested that the
+Iron Chieftain Voyage Nos. 218, 220, 222 and 224 be ballast shipments, in response to continued deterioration in steel market conditions we have made further reductions to our hot metal production at our Port Kembla Steelworks.
+
+Regrettably, the impact on BlueScope Steel's demand for iron ore means that we must further reduce our purchases of iron ore fines from OneSteel. As such, we request that the Iron Chieftain is not loaded with any iron ore for the remaining term of our Deed (being 30 June 2009) and that the following voyages be ballast voyages as contemplated under clause 4.1(d) of the Deed:
+Voyage 226
+Voyage 228
+Voyage 230 
+We further advise in accordance with clause 4.1(d)(ii) that BlueScope Steel does not wish to take the foregone tonnage at a later date.
+
+We note clause 4.1(d)(i) and look forward to working with OneSteel to mitigate the impact of dead freight charges on BlueScope Steel.
+
+Please do not hesitate to contact me should you wish to discuss this matter further.
+On 18 May 2009, BlueScope's solicitors wrote to OneSteel's solicitors as follows: 
+We act for BlueScope Steel Limited and have been instructed to respond to your letter of 4 May 2009.
+
+We have been provided with a copy of your client's letter to our client dated February 2009 and note that our client has responded in its letter of 17
+February 2009.
+
+We do not propose at this stage to traverse in detail the respective arguments which arise in relation to the interpretation of clause 4.1(d) of the Deed or
+Amendment Deed No.3. Our client maintains its position that, regardless of the terms of Amendment Deed No.3, clause 4.1(d) of the Deed entitles it to request that a particular shipment not be loaded and that your client is obliged to comply with that request.
+
+Our client was accordingly entitled to request that shipments numbered 218, , 222 and 224 not be loaded. Our client was also entitled to make the same request in respect of Voyages 226, 228 and 230. We are instructed to confirm that our client will not purchase the ore which was the subject of those
+Voyages.
+
+In respect of Dead Freight, your client has not provided any information as to whether or not the Iron Chieftan made or will make the Voyages to Port Kembla which were scheduled as being 218, 220, 222, 224, 226, 228 and 230. Please confirm when the Voyages took place or are scheduled to take place. Please also let us know the basis upon which your client contends that our client has an obligation to pay Dead Freight in respect of the cancelled Voyages.
+
+For the reasons set out above and in our client's letter of 17 February 2009 addressed to your client, our client denies any further liability to your client, excluding any Dead Freight liability properly incurred by our client, and will strongly defend any legal proceedings your client may commence.
+During this period, BlueScope negotiated reductions of intake of iron ore fines from BHP Billiton and Vale. The extent of those reductions, as well as the reduction of intake from OneSteel, is set out in the following table: 
+Summary of the reduction of iron ore intake  ---|---|---|---|---|---  
+BHP 
+Vale 
+OneSteel 
+Total  
+Wet Tonnes 
+Fines 
+Fines 
+Fines 
+Fines  
+Amount iron ore fines that BlueScope Steel was contractually obliged to take in the 2008/2009 financial year .561Mt .540Mt .710Mt .811Mt  
+Amount of iron ore fines taken to 1 July to 1 January 2009  (1 April to 1 January 2009 in case of Vale) .461Mt .409Mt .368Mt .238Mt  
+Amount of iron ore fines taken in the period 1 January to 20 June 2009 .682Mt .000Mt .000Mt .682Mt  
+Total iron ore fines taken by BlueScope Steel in the 2008/2009 financial year .143Mt .409Mt .368Mt .920Mt  
+Amount of iron ore fines not taken -0.418Mt -0.131Mt -0.342Mt -0.891Mt  
+RELEVANT PROVISIONS OF THE [SALE OF GOODS ACT 1923](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/)  [Section 31](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/s31.html) of the [Sale of Goods Act 1923](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/) ("the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/)") provides as follows: 
+Payment and delivery are concurrent conditions 
+Unless otherwise agreed, delivery of the goods and payment of the price are concurrent conditions, that is to say, the seller must be ready and willing to give possession of the goods to the buyer in exchange for the price, and the buyer must be ready and willing to pay the price in exchange for possession of the goods.
+[Section 40](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/s40.html) of the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/) provides as follows: 
+Liability of buyer for neglecting or refusing delivery of goods 
+When the seller is ready and willing to deliver the goods and requests the buyer to take delivery, and the buyer does not within a reasonable time after such request take delivery of the goods, the buyer is liable to the seller for any loss occasioned by the buyer's neglect or refusal to take delivery, and also for a reasonable charge for the care and custody of the goods: 
+Provided that nothing in this section shall affect the rights of the seller where the neglect or refusal of the buyer to take delivery amounts to a repudiation of the contract.
+[Section 52](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/s52.html) of the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/) provides as follows: 
+Damages for non-acceptance 
+Where the buyer wrongfully neglects or refuses to accept and pay for the goods, the seller may maintain an action against the buyer for damages for non-acceptance.
+
+The measure of damages is the estimated loss directly and naturally resulting in the ordinary course of events from the buyer's breach of contract.
+
+Where there is an available market for the goods in question, the measure of damages is prima facie to be ascertained by the difference between the contract price and the market or current price at the time or times when the goods ought to have been accepted, or if no time was fixed for acceptance, then at the time of the refusal to accept.
+
+THE DISPUTE 
+During the course of the hearing, both parties continually modified and refined their respective positions. What appears below is a distillation of the positions they finally took. 
+OneSteel's Case 
+By the December request, BlueScope declined to take delivery of shipment nos. V218, V220, V222 and V224. These four shipments are described in the Amendment Deed as the Replacement Shipments. I will use the same description. 
+By the March request, BlueScope declined to take delivery of shipment nos. V226 V228 and V230. I shall refer to these as the three shipments. 
+I shall refer to the Replacement Shipments and the three shipments together as the seven shipments. 
+There is no dispute that each of the seven shipments was a scheduled shipment as contemplated by cl 4.1(d) of the Deed. 
+OneSteel claims that by refusing delivery, BlueScope breached the Deed and wrongly refused to accept and pay for the goods within the meaning of [s 52(1)](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/s52.html) of the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/). 
+OneSteel claims as damages the difference between the contract price under the Deed and the market or current price of the iron ore fines at the time or times when it says BlueScope ought to have accepted them. This is the measure described in [s 52(3)](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/s52.html) of the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/). 
+BlueScope does not dispute that there was an available market for iron ore fines at the relevant times. There is no dispute as to the combined tonnage involved. OneSteel's evidence as to contract price, market price and Freight Rate was not challenged. Leaving aside any adjustments required to convert US dollars to the Australian equivalent at particular dates, these figures yield a loss of US$11,240,856 which OneSteel claims as damages. 
+BlueScope's Answers 
+BlueScope answers firstly, that cl 4.1(d) of the Deed entitled it to request OneSteel not to load the seven shipments. It says that the December request and the March request were valid requests for OneSteel not to load, and that its only obligation was to pay Dead Freight in accordance with cl 4.1(d)(i). 
+Next, it submits that the December request and the March request were notifications of the exercise of its discretion under cl 12.8(c) to reduce its level of purchases of iron ore from OneSteel by eliminating the seven shipments. 
+Next, it submits that OneSteel has no claim unless it establishes that it was ready and willing, against payment, to deliver the iron ore when the date for each shipment arrived, because the Deed remained on foot and payment and delivery were concurrent obligations. It says that OneSteel was not ready and willing to deliver because it had no iron ore fines meeting the description of the goods under the Deed available for delivery on the dates for each shipment. 
+Next, it submits that because OneSteel did not have iron ore fines available for delivery on the dates for shipment (having neither mined nor blended it) OneSteel has not established that it has, by any breach committed by BlueScope, suffered any damage. OneSteel saved the cost of delivering and blending and it still has ore, albeit in the ground. 
+Next, it submits that OneSteel failed to mitigate its damage because under its contractual arrangements with its long term Chinese customers it could have insisted that they take the iron ore fines which BlueScope did not take, but did not do so. 
+Finally, it says that any liability for damages which it may be found to have is, under cl 24.1(g) of the Deed, capped at A$10M because any breach in not taking delivery was "non-wilful". 
+OneSteel's Responses To BlueScope's Answers 
+OneSteel says that, on its proper construction, cl 4.1(d) did not permit BlueScope to avoid its obligation to take any shipment without OneSteel's concurrence. 
+With respect to the Replacement Shipments, it says additionally that the Amendment Deed varied the Deed by removing cl 4.1(d) so far as it applied to them. 
+It disputes that the December request and the March request were valid exercises by BlueScope of the discretion under cl 12.8(c). 
+In answer to BlueScope's contention that it was not ready and willing to deliver, it says that BlueScope is precluded, for procedural reasons, from making this assertion. [Pt 14](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/index.html#p14), r 14.11(d) of the Uniform Civil Procedure Rules (2005) ("UCPR") provides as follows: 
+If it is a condition precedent necessary for a party's case in any pleading that: ...
+ the party is ready and willing, or was at material times ready and wiling, to perform an obligation, a statement to the effect that the condition has been satisfied is taken to be implied in the party's pleading.
+OneSteel says that it is taken to have made an implied statement that it was ready and willing to deliver. It says that BlueScope, in its Commercial List Response, did not traverse this allegation and is taken to have admitted it by virtue of UCPR r 14.26 which provides, relevantly, that an allegation of fact is taken to be admitted unless the opposite party traverses it. 
+It says that in any event BlueScope, by its conduct, dispensed OneSteel from its obligation to be ready and willing to deliver. 
+OneSteel says that it has suffered loss to the extent of the difference between the contract price and the market price on the date of each breach, irrespective of whether it was in a position to deliver on the dates for delivery. It says that the measure described in [s 52(3)](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/s52.html) of the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/) still applies. 
+In response to BlueScope's submission that it failed to mitigate, it submits that in the circumstances which prevailed at the time it would have been commercially unreasonable and unproductive to have insisted on its Chinese customers taking the iron ore which BlueScope did not take. 
+As to cl 24.1(g) of the Deed, OneSteel submits that the clause does not apply because BlueScope's breach was not "non-wilful". 
+OPERATION OF CLAUSE 4.1(d) 
+There are two questions for determination, both of which are questions of contractual construction. 
+The first is whether, upon a request by BlueScope under cl 4.1(d) not to load the Vessel, it is relieved, apart from the obligation to pay Dead Freight, from any obligation to take and pay for the shipment concerned. 
+The second, which arises only if BlueScope is relieved, is whether cl 4.1(d) was removed from the Deed by the Amendment Deed so far as it applied to the Replacement Shipments. 
+The Legal Principles 
+The meaning of words used in the Deed and Amendment Deed is to be determined by what a reasonable person would have understood them to mean. This requires consideration of the language used, the surrounding circumstances known to the parties, the purpose of the transaction and the objects which it was intended to secure: Toll (FGCT) Pty Ltd versus Alphapharm Pty Ltd (2004) 219 CLR 165 at 179; International Air Transport Association versus Ansett Australia Holdings Ltd (Subject to Deed of Company Arrangement) <case>; [(2008) 242 ALR 47] at 529. 
+If the words used are unambiguous, the Court must give effect to them. A court is not justified in disregarding unambiguous language simply because the contract would have a more commercial and businesslike operation if an interpretation different to that dictated by the language were adopted; Jireh International Pty Ltd versus Western Export Services Inc  <case> at <case>; Western Export Services Inc versus Jireh International Pty Ltd  <case>
+If the language is open to two constructions, that will be preferred which will avoid consequences which appear to be capricious, unreasonable, inconvenient or unjust: Australian Broadcasting Commission versus Australasian Performing Right Association Ltd <case>; [(1973) 129 CLR 99] at 109. 
+Consideration 
+I will deal first with the operation of cl 4.1(d) in its unamended form and then with the effect of the Amendment Deed. 
+OneSteel submitted that a request pursuant to cl 4.1(d) did not absolve BlueScope from the obligation to take the scheduled deliveries. 
+It put that the word "requests" in its usual and ordinary meaning denotes asking for, soliciting or begging for something, and that the object of such a request is free to either accede to it or to decline it. On this footing, if OneSteel declined the request not to load, OneSteel remained entitled to proceed to load and BlueScope remained obliged to accept and pay for the delivery. 
+It put that a construction which absolved BlueScope from taking the scheduled deliveries with impunity, except for the payment of Dead Freight, was uncommercial, unreasonable, capricious and did not supply a congruent operation to the various other components of the Deed. It put that such a construction would enable BlueScope, by utilising requests under cl 4.1(d), to undermine "the fundamental right" of OneSteel to supply up to the Maximum Tonnage in any (or for that matter every) Contract Year at the prices under the Deed. It put that, to the knowledge of both parties, the Dead Freight Rate under the Deed was higher than OneSteel's freight costs in respect of the Iron Chieftain under the Charter Party and that OneSteel would accordingly be disadvantaged if requests not to load had the effect contended for by BlueScope. 
+It put that to give cl 4.1(a) such operation would enable BlueScope to circumvent other provisions in the Deed which envisage supply being reduced, shipments being ballasted or eliminated but which give OneSteel greater protection. It identified cls 6.4, 12.3.6, 12.8(c), 13.1 and 14.2 as such provisions. 
+OneSteel's submissions are unsustainable. 
+The ordinary meaning of the words leaves no room for reading in a requirement that OneSteel must accede to the request not to load before it has any effect. Clause 4.1(d) is activated by a request not to load a scheduled shipment wholly or partially. Upon the request being made, certain consequences follow without OneSteel having to respond. They are that tonnage is "foregone" and that subject to cl 12.8, BlueScope must pay Dead Freight in respect of the shipment the subject of the request. 
+If BlueScope makes a request not to load, it must advise OneSteel whether it wishes to take the foregone tonnage at a later time. In contrast to the request not to load (which requires no response), OneSteel must respond to any request to take the foregone tonnage. 
+OneSteel is not unfettered in its response to a request to take the foregone tonnage. It must not unreasonably withhold its agreement. If OneSteel were, as it suggests, free to decline the initial request not to load, there is no rational explanation or field of operation for the fetter on its entitlement not to agree to a request by BlueScope to take the foregone tonnage later. 
+BlueScope may request OneSteel not to load "for any reason (other than pursuant to cl 6.4)". These words would have no work to do if OneSteel was free to decline the initial request, whatever the reason BlueScope had for making it. 
+Clause 4.1(a) entitles OneSteel to offer to supply and obliges BlueScope to purchase "subject to and upon the terms of the Deed". Clause 4.1(d) is one of those terms. OneSteel does not have any right to supply under the Deed shorn of this limitation. The proposition that it provides an opportunity to BlueScope to undermine OneSteel's "fundamental right" to supply is circular because that right has the inbuilt limitation of cl 4.1(d). OneSteel's position entails reading that specific limitation out of the contract. 
+When BlueScope makes a request not to load a scheduled shipment, it may later not get the foregone tonnage even if it wants it so long as OneSteel does not act unreasonably in withholding its agreement. A request not to load entails BlueScope taking a commercial risk. 
+Any differential between the freight rates payable, respectively, under the Charter Party and the Deed is but one commercial consideration. OneSteel no doubt has other commercial benefits under both instruments. The Charter Party is a complex document providing for freight rates, demurrage rates, dispatch rates and escalation. It relates not only to iron ore shipments but also coal shipments. It provides for substitute vessels. 
+It is not for the Court to weigh the importance of conditions which the parties have chosen to put into their contracts; Bowes versus Chaleyer <case>; [(1923) 32 CLR 159] at 191 per Higgins J. 
+The submission that cl 4.1(d) does not operate congruently with other clauses of the Deed is also unsustainable. The clause is not unclear or ambiguous and there is no difficulty in giving it operation according to its plain meaning and at the same time giving the other specified clauses operation according to their plain meaning. 
+Giving cl 4.1(d) the operation contended for by BlueScope does not result in any ability on its part to circumvent other provisions in the Deed identified by OneSteel. Each of those other provisions has a different field of operation and different commercial consequences, as the following analysis reveals. 
+Clause 6.4 provides a regime for the suspension of shipments or termination of the Deed for reasons concerned with non-conforming shipments. Clause 4.1(d) expressly excepts reasons pursuant to cl 6.4 from the reasons for which BlueScope may make a request under cl 4.1(d) not to load. The provisions work congruently. 
+Clause 12.3.6 concerns changes to a schedule which has been established in accordance with cl 12.3.5. Clause 12.3.2 requires the parties to liaise with each other in respect of shipping arrangements and shipping schedules in order to best utilise the Iron Chieftain and any other Vessels selected by OneSteel for the provision of transport of the iron ore for BlueScope's consumption of iron ore and OneSteel's consumption of coal. Unlike cl 4.1(d), cl 12.3.6 appears to be concerned only with the Iron Chieftain. 
+OneSteel puts that cl 12.3.6 is incongruent with cl 4.1(d) because whilst the former makes it clear that BlueScope cannot require a ballast voyage in the Iron Chieftain's schedule, a request under cl 4.1(d) may necessitate such a voyage. In my view, this does not entail incongruity. A request not to load does not necessarily involve a ballast voyage if OneSteel is otherwise able, nevertheless, to utilise the Iron Chieftain. By contrast with cl 4.1(d), if OneSteel agrees to a ballast voyage in the schedule, BlueScope must pay any additional costs incurred by OneSteel as a result of the change which includes, but is not limited to, Dead Freight. Clause 12.3.6 also does not involve the potential commercial detriment that BlueScope might forego any tonnage. 
+Unlike cl 4.1(d), cl 12.8(c) applies in limited circumstances and does not only apply to scheduled shipments. It makes no provision for taking foregone tonnage. The two provisions are not incongruent. 
+Clause 13 concerns force majeure . It suspends the obligations of the affected party (not including any obligation to pay money). Unlike cl 4.1(d), cl 13.4 provides for shipments that would have been made but for the existence of the intervening event to be made at a time mutually agreed by both parties and as soon as practicable following termination of the intervening event. It provides that the Term shall be extended for such period as is necessary to achieve the intent of the clause. Clause 13.5 also provides for termination of the Deed if force majeure continues for longer than four months. 
+Clause 14.2 provides for BlueScope to reduce its level of purchases to the extent required where BlueScope is required by any Government Authority or by law to change, vary or alter the emission standards or levels, emission contents or emission targets at its sinter plant and if OneSteel's iron ore can be shown with reasonable certainty to be a major contributor to the emissions, targets, standards, contents or levels of the emissions. It also provides for either party to terminate the Deed without penalty on one month's written notice if the reductions last longer than three months. 
+It may well be that a single set of circumstances potentially activates more than one provision, and involves potentially different outcomes. This does not make the provisions incongruent. 
+I turn to the effect of the Amendment Deed on cl 4.1(d). 
+The Amendment Deed, in its final paragraph, provides that except as modified by it, all other terms of the Deed apply to the Replacement Shipments. It provides that to the extent that any provisions of the Deed are inconsistent with it, it prevails over the provisions of the Deed. 
+The question is whether the provisions of the Amendment Deed are inconsistent with the provisions of the Deed so as to oust the application of cl 4.1(d) with respect to the Replacement Shipments. 
+OneSteel puts that inconsistency is revealed because the statement in cl 4 of the Amendment Deed that the Replacement Shipments " will be made between 22 December 2008 and 30 June 2009 to a schedule mutually agreed between the parties" connotes certainty that the Replacement Shipments will occur. It puts that this is in tension with the ability of BlueScope to require OneSteel not to load them. It puts that a further indication of inconsistency is that the Amendment Deed operates at a higher level of particularity than the Deed, dealing with individual, special and identified shipments. 
+It submits that there are commercial considerations which make the continued operation of cl 4.1(d) in relation to the Replacement Shipments unreasonable and capricious. It puts that the existence of a right on the part of BlueScope to require the Replacement Shipments to be ballasted, when those shipments replace the Ballasted Shipments which BlueScope was obliged to accept (because they had already been scheduled) "would turn [the] bargain on its head". It draws attention to the fact that, under the Amendment Deed, BlueScope receives the benefit of revised price and payment terms in respect of voyage nos. 202, 204, 206 and 208 and to the fact that OneSteel was obliged to offer the Replacement Shipments. 
+For its part, BlueScope points to the fact that OneSteel agreed to pay the Dead Freight in respect of the Ballasted Shipments, the commercial explanation for which is that the Iron Chieftain's voyage time would be shortened and OneSteel would be able to receive an extra load of coal prior to July 2008 at a more favourable price and could also sell the iron ore at higher spot prices than under the Deed. The ballasting of the shipments, on its own, accordingly represented a commercial benefit to OneSteel. 
+It is neither appropriate nor feasible to attempt to divine the respective commercial motivations of the parties or to engage in the exercise of trying to weigh all potential commercial benefits and disadvantages to each party of the arrangements reflected in the Deed as amended by the Amendment Deed as a means of, or to call in aid in, construing the words of those instruments. 
+For the following reasons I do not consider that there is any inconsistency between the Deed and the Amendment Deed so as to eliminate the operation of cl 4.1(d) in relation to the Replacement Shipments. 
+The second paragraph of the Amendment records that both parties agree to vary the terms and conditions of the Deed in respect of four shipments nos. 192, 194, 196 and 198, and also in respect of four shipments to be sold to the Buyer on a DEQ Port Kembla basis on revised price and payment terms - being nos. 202, 204, 206 and 208 and that " otherwise the conditions of the Deed remain unamended" . There is no reference to the Deed being amended in relation to the Replacement Shipments. 
+The Amendment Deed clearly and directly modifies cl 4.1(d)(i) by requiring OneSteel rather than BlueScope to pay Dead Freight and it modifies cl 4.2 by BlueScope waiving its right to purchase on a FOB Whyalla Port Kembla basis, any shortfall from the Maximum Tonnage accrued in the Contract Year 2007/2008. The same cannot be said with respect to cl 4.1(a), that is, there is no clear and direct modification of it. 
+The Amendment Deed records that the Replacement Shipments are in addition to the number of shipments that would have been supplied between 1 July 2008 and 21 December 2008. It could hardly be suggested that cl 4.1(d) would not have applied to those shipments, even though the Amendment Deed refers to them as shipments that would have been supplied. They would not have been supplied if BlueScope had made requests not to load them. Similar considerations apply to the Amendment Deed where it says that the Replacement Shipments will be made. In so providing, the Amendment Deed imposes no greater degree of certainty of delivery on the Replacement Shipments than the Deed itself imposes on other scheduled shipments. The Replacement Shipments remain shipments otherwise to be supplied and delivered in accordance with the Deed. Once their schedule has been mutually agreed, they become scheduled shipments to which cl 4.1(d) applies. 
+In my view the application to the Replacement Shipments of cl 4.1(d) of the Deed is not inconsistent with anything in the Amendment Deed. Accordingly, the Amendment Deed did not derogate from BlueScope's entitlement to request OneSteel not to load the Replacement Shipments under cl 4.1(d). 
+The result is that OneSteel's claim must fail. 
+Although it is not necessary to consider BlueScope's other answers, I will nevertheless do so on the assumption that BlueScope's refusal to take the seven shipments was, contrary to my finding, in breach of the Deed. 
+The Operation Of Clause 12.8(c) 
+For ease of reference it is appropriate to set out the terms of cl 12.8(c) of the Deed. 
+Clause 12.8(c) provides as follows: 
+The Seller is aware that it is likely that during the Term of this Deed that the Buyer will reline its No. 5 Blast Furnace and may undertake related work on Buyer's sinter plant (the Works) and may wish, in Buyer's absolute discretion (but reasonably proportionally with the Buyer's other iron ore fines suppliers), to reduce its level of purchases of Iron Ore from the Seller during or around that period of the Works. Seller acknowledges and agrees that any such reduction related to the Works is not a breach of this Deed and Buyer will not be liable to Seller for any cost, expense, loss (including loss of profits) or damage suffered by Seller as a result of Buyer reducing its level of purchases, but will be liable for Dead Freight that is not mitigated by
+Seller in accordance with this Deed. In the event that the Buyer does wish to so reduce its purchases the Seller will use its reasonable endeavours to mitigate the Dead Freight charges which would be payable by the Buyer to the
+Seller in respect of any Dead Freight Events during or around the Works period and will also liaise with the Buyer to assist the Seller in reducing Dead
+Freight.
+In order to avail itself of this provision, it is incumbent on BlueScope to establish that: it exercised the discretion conferred on it by cl 12.8(c); the reduction in the purchases related to the Works; the reduction was of purchases during or around the period of the Works; and the reduction was reasonably proportional with BlueScope's other iron ore fines suppliers.
+In my view, BlueScope has established only that the reduction was during or around the period of the Works. It has failed to establish any of the other requirements. 
+The Works took place between January and August 2009 and the seven shipments were to take place between 10 February 2009 and 20 June 2009. This satisfies the requirement that the reduction was during or around the period of the Works. 
+To establish that it had exercised the discretion, BlueScope ultimately relied on only the terms of the December request and the March request themselves. It put that on their face, objectively viewed, they manifested the exercise of that discretion. It accepted that if this was not the case, it would not have established that it had exercised the discretion. 
+Clause 4.1(d)(i) refers to cl 12.8. Clause 12.8(c) in turn requires "the Seller [to] use its reasonable endeavours to mitigate the Dead Freight charges". On this basis, BlueScope put that where the December request and the March request refer to cl 4.1(d)(i) and to working with OneSteel to mitigate the impact of Dead Freight charges, this discloses reliance by BlueScope on cl 12.8(c). In relation to the December request it put in addition that the reference to the shutting down of no. 5 blast furnace evinced reliance by BlueScope on cl 12.8(c). 
+In my view neither letter conveys to the reader an exercise by BlueScope of the discretion in cl 12.8(c). 
+Both requests use the language of, and make express reference to, the Iron Chieftain not being loaded as contemplated under cl 4.1(d) of the Deed. Neither makes any reference to cl 12.8, let alone cl 12.8(c). Neither states that it is a notice of intention to reduce purchases under cl 12.8(c). 
+Even if the reader were to have taken the letters to have referred to cl 12.8, that provision deals with Dead Freight Events and the Dead Freight Charge Rate, notions which play a role in various other provisions of the Deed. This hardly conveys with any degree of clarity or indeed at all, the exercise of a power conferred only by cl 12.8(c). 
+In its letter to BlueScope dated 6 February 2009, OneSteel made reference to cl 12.8(c) as being a clause which allows BlueScope to reduce its purchases during the furnace reline. Notwithstanding this, none of BlueScope's subsequent correspondence made any reference to, or purported to rely on, cl 12.8(c). 
+The requirement that the reduction had to be related to the Works means, in my view, that there had to be some causal connection between the Works and the reduction, that is, that objectively viewed, the Works must have played some not insignificant part in bringing about the reduction. 
+The evidence, however, does not establish the existence of the necessary causal connection. The reduction was caused by the GFC. The commercial reasons which made that reduction necessary became apparent to BlueScope at a time at which the furnace reline was not immediately imminent. The furnace reline was brought forward to match the period of the reduction. The furnace reline in no way caused that reduction. Perhaps, this is one reason why neither the December request nor the March request prayed in aid cl 12.8(c). 
+With respect to reasonable proportionality, as appears from the table earlier referred to, the reduction suffered by BHP amounted to only 16.32 per cent of its annual intake. The reduction suffered by Vale amounted to 24.26 per cent of its annual intake. Yet the reduction suffered by OneSteel amounted to 48.17 per cent of the annual intake. This is hardly reasonably proportional across all of BlueScope's fines suppliers. Even if one aggregates the positions of BHP and Vale on a non-weighted basis, they suffered a combined reduction of only 17.70 per cent. 
+BlueScope put that whatever the figures, they should be regarded as reasonably proportional because it could not realistically, in the light of its contractual arrangements with BHP Billiton and Vale, have achieved a greater reduction of intake from them. It also put that if the reductions were not reasonably proportional, it should be held to have breached the Deed only to the extent of the lack of reasonable proportionality. 
+I do not accept these submissions. 
+Proportionality relates only to the extent of a reduction in supply and involves an arithmetical comparison. If because of its contractual relationships with other fines suppliers BlueScope could not achieve a reasonably proportional reduction, it could not get the benefit of absolution from breach which cl 12.8(c) would otherwise give it. 
+There is no twilight zone between breach and non-breach. A reduction is only not a breach of the Deed if it is reasonably proportional with BlueScope's other iron ore fines suppliers. If the reduction imposed on OneSteel did not meet the requirements of the Deed, BlueScope was in breach. OneSteel's damages from the breach are the whole extent of the reduction, not just part of it. 
+The consequence is that BlueScope has failed to establish an entitlement to rely on cl 12.8(c). 
+READY AND WILLING TO PERFORM? 
+I do not accept OneSteel's submission that because of UCPR [Pt 14](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/index.html#p14) r 14.11(d) read with r 14.26, BlueScope must be taken to have admitted an implied statement by OneSteel that it was at material times ready and willing to perform. 
+UCPR [Pt 14](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/index.html#p14) applies only to proceedings commenced by statement of claim or in which a statement of claim has been filed. These proceedings were commenced by Summons and Commercial List Statement. More importantly, however, it would be unfair to preclude BlueScope from raising this issue given the way in which the proceedings were conducted by OneSteel. 
+OneSteel's initial case was that it sold the iron ore, which BlueScope refused to take, to other identified buyers at lower prices and it claimed the difference. The amount claimed was somewhat greater than it claims now. Effective cross-examination of OneSteel's witnesses by Mr Gleeson SC exploded this case. It was established that the sales upon which OneSteel was relying were not made in substitution for the cancelled sales to BlueScope. This led to the adjournment of the proceedings to allow OneSteel the opportunity of rearticulating its damages claim. OneSteel then sought to establish that there had been deliveries, partially in fines and partially in lump, of material that might have been delivered to BlueScope, but this case too was exploded. OneSteel had every opportunity to lead evidence on the subject. 
+More than that, from the outset, BlueScope made it clear that it did not accept, but rather challenged, the proposition that OneSteel had the iron ore to deliver, let alone that it had delivered it elsewhere. Although BlueScope did put that at the relevant times it suited OneSteel for commercial reasons not to deliver elsewhere the fines which it would have delivered to BlueScope, the substance of BlueScope's submission that OneSteel was not ready and willing to deliver was that OneSteel did not have fines available to deliver. In the end (correctly in my view in light of the way the evidence fell) OneSteel did not even assert that it had fines available to deliver at the relevant times. Clearly, OneSteel was not in a position to deliver at the time of the shipments. 
+To hold, as OneSteel would suggest, that BlueScope has in the circumstances admitted that OneSteel was in fact ready to deliver would be a fiction and profoundly unfair. 
+The only question which remains is whether BlueScope relieved OneSteel of the obligation to be in that position. 
+Both under [s 31](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/s31.html) of the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/) and at common law, delivery of the goods and payment of the price are concurrent obligations. The seller must be ready and willing to deliver and the buyer must be ready and willing to pay for the goods. 
+Somewhat intriguingly, the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/) does not make express provision for the well established principle that where one party intimates to the other that it is useless for the other to fulfil his obligation and the other acts on the intimation, the party to whom the intimation is given is dispensed from a nugatory tender of performance; see Peter Turnbull and Co Pty Ltd versus Mundus Trading Co. (Australasia) Pty Ltd <case>; [(1954) 90 CLR 235] at 417 and following per Brennan J and 456 and following per Gaudron J. 
+Both parties accepted (correctly, in my view) that the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/) is to be read as recognising that the obligation to be ready and willing to deliver is subject to this exception. Where one party dispenses with the necessity for the other to be ready and willing, the latter is treated as having been ready and willing. 
+In my view, BlueScope unequivocally conveyed to OneSteel that a tender of delivery on the proposed dates for shipment would have been empty and futile and thereby dispensed with OneSteel having to be ready and willing to deliver. 
+The December letter and the March letter not only made it clear that OneSteel should not load but stated that BlueScope did not wish to take the foregone tonnage at a later date. 
+At the meeting on 29 January 2009, OneSteel sought confirmation from BlueScope that it did not require the four shipments, which confirmation was given. BlueScope also confirmed that it would not seek to accuse OneSteel of breaching the contract if they looked to place the tonnage elsewhere and that OneSteel was free to take whatever decisions it saw as necessary to sell the iron ore from those shipments. 
+BlueScope put that the communications at the meeting amounted to a dispensation only if OneSteel sold the iron ore elsewhere. This submission is unsustainable. Not only were the confirmations given by BlueScope entirely inconsistent with holding OneSteel to its obligation, it could hardly be suggested that if OneSteel did not sell elsewhere, the tender to BlueScope was not still empty and futile. After all, BlueScope stated that they had no room to accept delivery of the ore even if they believed they were contractually compelled to do so. 
+Through its solicitors' letter dated 18 May 2009, BlueScope maintained the position that OneSteel was obliged to comply with the request not to load. 
+It was not suggested that if BlueScope had not refused delivery OneSteel would not have delivered. There was no suggestion that it had ever previously failed to deliver. BlueScope conveyed an attitude that it was not going to accept delivery of the goods and OneSteel acted upon what was communicated, thereby dispensing it of the obligation to be ready and willing to deliver. This is unaltered by the fact that the contract was kept alive. It did not have to behave as if the contract was to be duly performed and to make arrangements for the delivery to BlueScope of cargo which it had every reason to believe BlueScope would not lift; see Bulk Oil (Zug) A.G. versus Sun International Ltd and Sun Oil Trading Co (No. 2) [[1984] 1 Lloyd's Rep 531] at 546 per Bingham J. 
+DAMAGE? 
+The measure of damages for breach of contract to which a plaintiff is entitled can differ according to the wrong. The general principle is that damages for breach of contract are awarded to put the plaintiff in the position that it would have been in had the defendant performed its contractual obligations; see Tabcorp Holdings Ltd versus Bowen Investments Pty Ltd <case>; <case> - [71]. 
+When it comes to a breach of contract consisting in the failure of a purchaser to accept and pay for goods and the goods are of a type for which there is a ready market, the usual measure is the difference between the contract price and the market price. This is reflected in [s 52(3)](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/s52.html) of the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/). 
+In Ruxley Electronics and Construction Ltd versus Forsyth [[1994] 3 All ER 801] at 806, Staughton LJ referred to two available methods of measuring loss being the difference in value method and the cost of restoration method. His Lordship went on to say: 
+The difference in value method is available, and will often be appropriate, when the building or chattel which has been damaged, or which does not answer to the contract, is of a kind that is commonly available. In such a case the cheapest way to make good the loss will often be to sell the building or chattel in question and buy another which, as the case may be, is not damaged or does answer the specification in the contract. The difference in value method seeks to reflect the financial consequences of such a notional transaction. Hence the rules as to damages when there is a contract for the sale of a marketable commodity. I say that the transaction is notional, because the loser is not obliged to sell his building or chattel and purchase another; I have never heard it suggested that he is. He merely recovers damages measured on the loss that he would have suffered if he had done so.
+OneSteel did not establish that it had mined iron ore, let alone that it had blended it and had it available for delivery on the dates of the seven shipments. It may be assumed that it has not mined it (so that it still has it in the ground) and has saved the expense of mining, blending and storing it. 
+Does this mean that OneSteel has not established that it suffered any loss by BlueScope's refusal to take delivery? 
+In the present case, although the parties' contract was for the sale of a marketable commodity, at the time of the breach, the seller, OneSteel, did not have the commodity. It had the means to produce the commodity by mining and blending it but it had not done so. 
+The question is whether OneSteel has proved loss by proving that the contract price of the marketable commodity (had it produced it) under the contract as at the date of the breach was lower than the market price, even though it did not at that date have the marketable commodity to sell. The parties referred the Court to no authority directly on point. 
+In my view, OneSteel has sufficiently proved its loss because the goods concerned were a readily marketable commodity. 
+OneSteel did not itself have to mine and blend the goods to deliver to BlueScope. It could just have easily bought them in for delivery. The principles as to damages are the same for non-delivery as they are for non-acceptance. The measure of damages to which a buyer is entitled when the seller fails to deliver is also the difference between the contract price and the market price, the essential requirement being that the buyer should be able to go out and buy equivalent goods: see McGregor on Damages , 18 th ed (2009) Thomson Reuters at 20-066. This is because the goods in question are marketable. Correspondingly, the price at which OneSteel could have bought the goods in, is the same market price. The economic detriment suffered by OneSteel as a consequence of the breach remains the difference between the contract price and the market price. 
+If it be relevant, as at the date of the breach, OneSteel had raw materials available to produce the goods the subject of the parties' contract and no doubt would have had the goods available for delivery had BlueScope been ready and willing to pay for them against delivery. It was not in this position only because BlueScope had, in anticipation of delivery, breached and repudiated the contract. If BlueScope had at that time refused to take delivery, OneSteel would have had goods for which there was a ready market and market price. 
+With respect to marketable commodities, I do not think that there is any difference in principle between the situation where the seller owns the raw materials and was to produce the goods but does not do so because of the buyer's anticipatory breach, where the seller can buy the goods in for on-sale or where the seller actually has them available for delivery. Where the seller has them available for delivery he is not obliged to sell them: see Ruxley Electronics and Construction Ltd versus Forsyth at 806. 
+The market price for goods produced or made by a seller will reflect and incorporate the cost of production and necessary ancillary expenses. Measured as at the date of the breach, the quantum of damages is thus the same whether the seller produces the goods or not. 
+It may be that the seller is ultimately advantaged by an increase in the market price or disadvantaged by a decrease in the market price if it produces and sells the goods later. But this is no less the case where the seller has the goods available for delivery as at the date of the breach. The seller can sell them or it can keep them, the measure remains the same. The seller recovers damages measured on the loss that he would have suffered if he had done so. 
+Additionally, I see no basis for the imposition on the wronged party of a requirement to prove the value of the raw materials which remain in its possession only because of the breach. 
+There is no reason why the prima facie method of assessing damages provided in [s 52(3)](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/s52.html) of the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/soga1923128/) should be displaced in this case. 
+THE FAILURE TO MITIGATE? 
+OneSteel was under a duty to mitigate, that is, to take reasonable steps to minimise any damages arising from BlueScope's breach. The onus is on BlueScope to show that OneSteel has not done so and to show the extent to which it has not done so; TCN Channel 9 Pty Ltd versus Hayden Enterprises Pty Ltd [(1989) 16 NSWLR 130] at 156 and following. 
+BlueScope submitted that OneSteel failed to mitigate its loss by not exercising options under its contractual arrangements with the Chinese customers to require them to take the iron ore which BlueScope did not take. 
+In my view, far from establishing that BlueScope's conduct in not requiring the Chinese customers to take the iron ore was unreasonable in the circumstances, in my view, OneSteel acted entirely reasonably in not taking this course. 
+Mr Andrew Roberts, OneSteel's Chief Executive Mining Consumables and Marketing, gave evidence, which I accept, to the following effect: 
+There was no prospect at all that any of the Chinese customers would accept delivery of an additional shipment of iron ore if OneSteel sought to enforce its option. Those customers were already seeking to delay or avoid non- optional shipments. In circumstances in which previously agreed shipments were being cancelled or delayed, I considered that it would be fruitless and commercially risky to try and sell an additional shipment.
+
+If OneSteel had sought to enforce the option to make an additional shipment of iron ore, it would have been likely to damage the long term commercial relationship between OneSteel and that customer, as each of the contracts with the Chinese customers had a 10 year term. I thought the customer would be likely to form the view that OneSteel was being unreasonable in seeking to make an additional optional shipment at the sellers' discretion during a collapse in the global markets.
+
+Even if OneSteel had sought to enforce an option, I thought the most likely outcome would be that the Chinese customer would not agree but more importantly they not would put into place a Letter of Credit. OneSteel's policy at the time (and now) was that it would not load and sail a vessel with iron ore (as title to the product passes when it is loaded over the vessel's railing) unless a letter of credit was in place to secure payment for the shipment. The practice of loading and shipping a vessel of iron ore without an [sic] Letter of Credit in place would be a very real and significant commercial risk to OneSteel particularly in the economic environment at the time.
+The Chinese customers were suffering the same negative effects of the GFC as was BlueScope. This induced BlueScope to reduce its iron ore intake. Yet at the same time BlueScope suggests that it was incumbent on OneSteel to impose on its Chinese customers an obligation to take the shortfall which BlueScope had resolved it would not take. Its position is untenable. 
+CLAUSE 24.1(g) 
+Under cl 24.1(g) of the Deed, damages are capped at a maximum of AUD$10M in respect of any liability, loss or damage due to wilful breach. If, by refusing to take the seven shipments, BlueScope had breached the Deed, its breach cannot properly be described as non-wilful. Non-wilful, in the present context, connotes inadvertence or unconsciousness; see Lewis versus Ogden [(1984) 153 CLR 682] at 688. 
+Before the December request, BlueScope had taken comprehensive legal advice and would have been acutely aware of the possible consequences of cancelling the shipments. After the December request, OneSteel responded by way of its 6 February 2009 letter which made it clear that it took the view that cl 4.1(d) did not entitle BlueScope to refuse to take the shipment and that cl 12.8(c) did not apply. 
+If BlueScope's refusal to take delivery of the seven shipments is a breach, it can hardly be described as inadvertent or unconscious. The cap in cl 24.1(g) accordingly does not apply. 
+CONCLUSION 
+OneSteel's Summons is dismissed. 
+I will hear the parties on costs. 
+The exhibits are to be returned. [Schedule A ](http://www.caselaw.nsw.gov.au/assets/main/lib150003/onesteelvbluescopecontract1.pdf) * * * 

@@ -1,0 +1,136 @@
+
+
+Global Medical Solutions Australia Pty Ltd versus Axiom Molecular Pty Ltd [2013] NSWSC 86 (12 February 2013) 
+Last Updated: 19 March 2013 
+Supreme Court 
+New South Wales  
+Case Title: 
+Global Medical Solutions Australia Pty Ltd versus Axiom Molecular Pty Ltd  
+Medium Neutral Citation: <case>  
+Hearing Date(s): February 2013  
+Decision Date: February 2013  
+Jurisdiction: 
+Equity Division - Commercial List  
+Before: 
+Stevenson J  
+Decision: 
+Notice of motion dismissed with costs  
+Catchwords: 
+PRACTICE AND PROCEDURE - search orders - variation  
+Legislation Cited: 
+Uniform Civil Procedure Rules  
+Cases Cited: 
+Aristocrat Technologies Australia Pty Limited versus Global Gaming Pty Limited <case> 
+Global Medical Solutions Australia Pty Limited versus Axiom Molecular Pty Limited <case> 
+WEA Records Limited versus Visions Channel 4 Limited [[1983] 2 All ER 589]  
+Texts Cited: 
+P Biscoe, Freezing and Search Orders: Mareva and Anton Piller Orders, 2nd ed 
+Category: 
+Interlocutory applications  
+Parties: 
+Global Medical Solutions Australia Pty Ltd (respondent / plaintiff) 
+Axiom Molecular Pty Ltd (first defendant) 
+Mathew Farag (second defendant) 
+Sally-Ann Cornelius (third defendant) 
+Christopher Quinn (fourth defendant) 
+Andrew Winthorpe (fifth defendant) 
+John O'Brien (sixth defendant) 
+The Zeullig Group Incorporated (applicant / interested party)  
+Representation - Counsel: 
+Counsel: 
+J P Durack SC with S Keizer (respondent / plaintiff) 
+P Brereton SC with J Giles (applicant / interested party)  - Solicitors: 
+Solicitors: 
+Jones Day (plaintiff / respondent) 
+Corrs Chambers Westgarth (applicant / interested party)  
+File Number(s): 
+SC 2012/295084  
+Publication Restriction: 
+Nil  
+EX TEMPORE JUDGMENT 
+Introduction 
+This is an application by a third party to vary the terms of a search order. The application arises out of a search order made on 21 September 2012 by McDougall J. The background to the matter is set out in his Honour's judgment delivered that day: Global Medical Solutions Australia Pty Ltd versus Axiom Molecular Pty Ltd <case> 
+Background 
+The plaintiff engages in what it describes as a "specialised medical supplies and operations business". The first defendant was incorporated in December 2011 and was then known as Zuellig Molecular Australia Pty Ltd.
+The plaintiff alleges that the first defendant is a start-up medical supplies and operations business which competes with the plaintiff and was established with that object. 
+The five personal defendants were employees of the plaintiff. The second defendant, Mr Farag, was the plaintiff's Managing Director. Mr Durack SC who appeared with Mr Keizer for the plaintiff informed me that Mr Farag resigned from the plaintiff on 9 November 2011. The third to sixth defendants were the plaintiff's Sales Director, Service Manager, Nuclear Operations Manager and Brisbane Head of Operations, respectively. Mr Durack informed me that they resigned from the plaintiff on 16 April, 6 April, 2 August and 27 July 2012, respectively. A Mr Simon, now the CEO of the first defendant, resigned from the plaintiff on 2 November 2011. Mr Simon is not a defendant.
+The personal defendants are now employed by the first defendant as part of its senior management.
+The plaintiff claims that the five personal defendants have diverted to their new employer, the first defendant, business opportunities that they were bound to exploit for the plaintiff's benefit.
+The plaintiff also claims that the first defendant has received confidential information (including customer lists) of the plaintiff and that the third defendant must have known (at least through the second defendant) that the information was confidential.
+McDougall J found that the plaintiff had a strong prima facie case that the personal defendants had breached their fiduciary, contractual and, in some cases, statutory duties to the plaintiff by diverting aspects of the plaintiff's business to the first defendant, to the detriment of the plaintiff, to the direct benefit of the first defendant and to the indirect benefit of themselves. It is in those circumstances that McDougall J made a search order.
+The application before me is made by The Zuellig Group Incorporated ("ZGI"). ZGI is the ultimate holding company of the first defendant. It seeks to vary the search order by excising from its operation any information on a laptop and computer server to which I will refer below. ZGI foreshadowed bringing this motion on or about 14 December 2012. The motion was filed on 28 December 2012 and was made returnable on 3 January 2013. The motion came before Sackar J as vacation judge and was then fixed for hearing on 11 February 2013, that is yesterday, before me.
+In my opinion, for the reasons that follow, the notice of motion should be dismissed.
+The search order was executed at, amongst other places, premises in George Street, Sydney ("the George Street Premises"). The evidence before McDougall J on 21 September 2012 described this as "the First Defendant's address".
+The material seized at the George Street Premises included information on a laptop ("the Laptop") and a computer ("the Server") located at the George Street Premises.
+When the order was executed information on the Laptop and the Server "was separated on request by the independent lawyer for reasons that some of the data may have entanglements with persons of no relevance in the Zuellig Group": see the report of the Independent Computer Expert of 2 October 2012.
+The Independent Computer Expert stored the information on something known as "Disk 1". Disk 1 contains 143,073 items; 74,676 emails and 68,397 files.
+In accordance with a regime partly agreed by the parties and partly the subject of orders of the Court, on about 13 December 2012 the Independent Computer Expert produced a "Fourth Soft Copy List" which contains a description of each of the documents on Disk 1.
+ZGI contends that a large number of the documents on Disk 1 are likely to be commercially sensitive, privileged, confidential or private to ZGI, other members of the Zuellig Group or to members of the Zuellig family. ZGI contends that a high percentage of the documents on Disk 1 are likely to be unrelated to the defendants or to the dispute with the plaintiff. For its part the plaintiff accepts that Disk 1 "may contain much material that is wholly irrelevant to the proceedings, or material which, even if relevant, may be confidential": see ninth affidavit of Mr Philip Hoser, par 41(g). 
+ZGI seeks to vary the orders by excising from the operation the information on Disk 1 on the basis that: - 
+ZGI solicitors, Corrs Chambers Westgarth ("Corrs"), undertake to hold
+Disk 1 for a period of 12 months (or, I infer, for such longer period as is necessary to accommodate the duration of the proceedings); and the material on Disk 1 remains available to respond to a "targeted" subpoena issued by the plaintiff, if the plaintiff so chose.
+The plaintiff presses for inspection of, in the first instance, the Fourth Soft Copy List and submits that issues as to relevance and confidentiality can be dealt with by agreed "cut down measures" implemented once the list has been inspected.
+
+The George Street Premises 
+The George Street Premises are located on level six of a building in George Street. The signage in the foyer of the building and on the sixth floor states that the relevant occupant is "Zuellig Healthcare Holdings Australia". A banner behind the reception desk reads "The Zuellig Group".
+Indirect evidence of Mr Peter Williams (I will refer to Mr Williams further below) was to the effect that the George Street Premises were originally leased by Zuellig Healthcare Holdings Australia Pty Ltd for the use of a number of persons involved in an unrelated acquisition; and that when the first defendant was established in December 2011, part of the space on the George Street Premises was made available to Mr Simon and later to others.
+According to an affidavit of Ms Emma Shelston (one of the solicitors on the plaintiff's legal team and who was present when the order was executed), there is at the George Street Premises one large office apparently used by Mr Simon and Mr Farag, a separate office said to be occupied by Mr Williams, another office used by an employee of the first defendant, a communal boardroom and kitchen and another meeting/office room.
+The Laptop was, at relevant times, in Mr Williams' office. The Server is located in a separate space in the premises near the kitchen.
+
+The Zuellig Group
+The Zuellig Group of companies operates a large portfolio of businesses across 17 countries in the Asia Pacific focusing principally on healthcare, agribusiness and agricultural material-handling equipment. There are more than 27 companies in the group of which employs more than 14,000 people. ZGI itself is incorporated in the Bahamas and is, as I have said, the ultimate holding company of the group and of the first defendant. ZGI is privately owned by the Zuellig family, who are based in Switzerland.
+
+Peter Williams
+Mr Peter Williams is a senior group executive in the Zuellig Group. He is a director of 27 companies in the group including the immediate holding company of the first defendant (Axiom Molecular Australia Holdings Pty Ltd). He is, however, not a director of the first defendant. Mr Williams resides in Sydney and has an office in the George Street Premises which Ms Shelston identified as being separate to that used by Mr Simon and Mr Farag.
+For reasons which have not been explained, Mr Williams, although evidently present in Sydney, did not give evidence directly. Material from Mr Williams was received (without objection) on information and belief in an affidavit sworn by a partner of Corrs, Mr Bradley Woodhouse.
+In those circumstances, I must exercise some care in reaching any conclusion as to the reliability or completeness of the material put forward by ZGI about Mr Williams.
+There is however, evidence to suggest that Mr Williams' role in relation to the first defendant, and the issues which arise between the plaintiff and the defendant, may have been broader than is set out in Mr Woodhouse's affidavit.
+Mr Woodhouse deposed: - "Mr Williams informs me that he is not involved in the day-to-day operations of that company and that, since that company was incorporated, he has spent "less than 3%" of his time on matters associated with it. He also informs me that he does not recall performing any particular function in relation to the company, although he believes that he has received and read some emails from the company's employees and may have read some reports about the company's performance. He informs me that those responsible for the management of that company do not report to him.
+
+Mr Williams informs me that he recalls being copied in on emails from Axiom
+Molecular employees to the ZGI Chief Financial Officer, and believes he may have sent emails in relation to organising overseas conferences. Mr Williams informs me that he cannot recall at any time being engaged in any email correspondence with Axiom Molecular employees in relation to Axiom Molecular operational matters."
+I have been taken to descriptions in a number of emails passing to and from Mr Williams or copied to him. Those descriptions come from a document prepared by the Independent Computer Expert concerning "Disk 11", being the material dealt with in my judgment of 7 December 2012. One result of my judgment of 7 December 2012 was to cause the plaintiff to see a document setting out the description of each of the emails in Disk 11.
+Included in those email descriptions is an email from Mr Farag copied to Mr Williams on 11 November 2011 (that is just two days after Mr Farag resigned from the plaintiff). There are emails to and from Mr Williams concerning such things as "Zuellig Nuclear medicine business-fees and next steps", "Zuellig Molecular-draft business plan", "Radiopharmacy proposal", "Zuellig server", Zuellig molecular business plan and financial projections", "molecular business plan and financial projections", "molecular funding", "PET technology and threats". In that regard it will be recalled that the name of the first defendant was originally Zuellig Molecular Australia Pty Ltd. 
+There are also emails passing to and from Mr Williams which deal with the "UQ deal" and "University of Queensland". Mr Durack informed me that the "UQ" likely stands for "University of Queensland". A serious matter of contention in the litigation is the plaintiff's claim that the defendants have appropriated or sought to appropriate for themselves a business opportunity of the plaintiff connected with the University of Queensland.
+I must exercise much care at this stage in reaching any conclusions about matters of substance in the proceedings. However, the descriptions on those emails suggest to me a real possibility of Mr Williams' involvement in at least some central aspects of the matter.
+
+The Laptop
+Mr Woodhouse gave evidence that Mr Williams had informed him that he, Mr Williams, works solely from his Laptop when at the George Street Premises; and that Mr Williams receives on his laptop emails and documents related to most or all of the different parts of the Zuellig Group as well as emails and documents relating to the Zuellig family's affairs. 
+Mr William told Mr Woodhouse that he did not use the Server for file storage and that when he created stored files using his laptop he stored these either on the laptop itself or in his Drop Box account so he could access them remotely. Mr Williams said he also uses the laptop for personal purposes.
+
+The Server
+Mr Woodhouse gave the following further evidence as to matters relayed to him by Mr Williams: - "Mr Williams informs me that he is not aware of Axiom Molecular using the
+Server to store files or for email, and that he has never been asked by any
+Axoim Molecular representative for permission to do so.
+
+Mr Williams informs me that Michael Drouhin of Brennan IT is responsible for the maintenance of the Server. On 21 December 2012, I spoke with Michael
+Drouhin of Brennan IT. During the course of that conversation, he advised me that: he is responsible for maintaining the Server, and has been for approximately the last 2 years; as far as he is aware, he is the only user with "administrator" access rights to the Server; it is not possible to access the Server or store information on the Server without having user credentials; only a person with "administrator" access rights is able to create new user credentials; he has not created any new user credentials for the Server in the last 2 years."
+As to the second of those two paragraphs, as the first defendant was only incorporated in December 2011 and as none of the individual defendants left the plaintiff before November 2011, the material emanating from Mr Drouhin suggests that none of them, and indeed no one else on behalf of the first defendant, has ever had access to the server. However, there are suggestions in the evidence before me inconsistent with this conclusion.
+For example, Ms Shelston gave evidence that on the day that the order was executed Mr Simons said to her that the "computer server is shared by a number of companies in the Zuellig group and Axiom [the first defendant]". 
+Further, Mr Charlton, one of the solicitors on the defendant's legal team, swore an affidavit of 6 November 2012 in which he stated that "Axiom shares an office and server with a related company, Zuellig Healthcare Holdings Australia Pty Limited". That statement was repeated to Sackar J in submissions on 9 November 2012.
+There is no evidence of any other server or computing facility at the George Street Premises; nor is there evidence of the first defendant conducting business other than at the George Street Premises.
+In those circumstances, notwithstanding the indirect evidence from Mr Drouhin, I am not able to conclude at this stage that there has been no relevant access by the defendants to the Server.
+
+Mr Woodhouse's interrogation of Disk 1
+Mr Woodhouse said that he had conducted a search of the emails on Disk 1 for the terms "Axiom", "Molecular", "Moleqular", and the names of the individual defendants. He said that the result was that out of a total of 74,676 emails, there were only 1,772 emails containing any of those terms, representing 2.37 per cent of the emails.
+However, as Mr Hoser pointed out in his affidavit, there are a number of other obvious words that could be used to interrogate the relevant data base such as "GMS", "Simon", "ZM" or "Zuellig Molecular", "University of Queensland" and "UQ".
+In those circumstances, although Mr Woodhouse's exercise suggests that the number of documents on Disk 1 directly relevant to these proceedings may not be high, I cannot safely come to a conclusion that it is as low as Mr Woodhouse's affidavit suggested.
+
+Timing of the ZGI Application
+ZGI foreshadowed this application at a time when revelation of the contents of the Fourth Soft Copy List (containing descriptions of the 143,073 documents on Disk 1) by the Independent Computer Expert was imminent. There was no suggestion in the evidence, or submissions, that ZGI was not aware of the making of the search order in September 2012 or the progress of the litigation. It seems to me that it is highly improbable that it was not aware, at least to some degree, of those matters.
+It must have been obvious to ZGI that the plaintiff would wish to see the documents on Disk 1 and that there would be an issue about that matter. The result is that the Independent Computer Expert has now prepared the Fourth Soft Copy List; that exercise cannot be undone. 
+As the plaintiff points out, unlike any other ex-parte orders, a search order once executed is effectively spent: See Sir John Donaldson MR in WEA Records Ltd versus Visions Channel 4 Ltd [[1983] 2 All ER 589] at 594. Here, not only has the search (including the material on the Laptop and the Server) occurred; the fruits of the search have been processed by the Independent Computer Expert to produce the Fourth Soft Copy List. Were the present application to be granted, that would have been a waste of time and money. 
+The preparation of the Fourth Soft Copy List must mean that the task of sorting out the wheat from the chaff in the list, for example by putting to one side obviously irrelevant material, will be far less daunting (albeit doubtless large) than it would have been had this application been made earlier. I regard this as a significant factor.
+
+Search order
+Mr Brereton SC, who appeared with Mr Giles for ZGI, reminded me of the intrusive nature of search orders and the well-known need for judicial restraint in this area. Mr Brereton submitted, and I accept, that search orders are drastic and extreme, and represent relief at the limit of the Court's civil jurisdiction: See P Biscoe, Freezing and Search Orders: Mareva and Anton Piller Orders, 2nd ed (2008) at [7.2]. On the other hand, the plaintiffs make very serious allegations and satisfied McDougall J to the requisite standard that the remedy was appropriate in the circumstances. 
+Conclusion
+I accept that there is much to be said for the making of the order sought. The object of a search order is after all to preserve evidence - see Uniform Civil Procedure Rules r 25.20(c) - and the material on Disk 1 is now, effectively, preserved; it will be retained by Corrs.
+It is also true, however, as Mr Brereton emphasised, that it is open to the plaintiff to serve a "targeted" subpoena on Corrs based on the issues now defined in the pleadings (notwithstanding that a search order, when made, is not necessarily limited to searching for documents relating to the "precise causes of action known": see Allsop J, as his Honour then was, in Aristocrat Technologies Australia Pty Ltd versus Global Gaming Pty Ltd <case> at <case>).
+However, the material satisfies me that there is a reasonable basis to suppose that, although many, if not most, of the documents on Disk 1 may prove irrelevant to the plaintiff's existing claims, there may well be included in the Disk 1 documents of relevance, perhaps of vital relevance, to those claims. 
+I find the matters to which I have referred under the heading "Timing of the ZGI Application" to weigh heavily in the balance.
+As I have said, there is a list produced by the Independent Computer Expert of documents in Disk 1. It seems to me likely that production of that list to the plaintiff's legal advisers will enable the parties to readily work out what documents are plainly irrelevant to the issues in the proceedings and to devise a regime (similar to that already in place concerning other aspects of this matter) to resolve any issues of privilege, confidentiality and the like which arise.
+I do not underestimate the magnitude of the task of working through the number of documents involved. The matter is finely balanced. However, my conclusion is that this is the appropriate way forward and that the notice of motion should be dismissed. 
+I order: - that the notice of motion of ZGI of 28 December 2012 is dismissed with costs.
+ that the exhibits be returned forthwith. Any exhibits returned must be retained intact by the party or person that produced the material until the expiry of the time to file an appeal or until any appeal has been determined.
+ * * * 

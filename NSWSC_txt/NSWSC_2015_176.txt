@@ -1,0 +1,395 @@
+
+
+New South Wales Land and Housing Corporation versus Australia and New Zealand
+Banking Group Limited [2015] NSWSC 176 (9 March 2015) 
+Last Updated: 10 March 2015 
+Supreme Court 
+New South Wales  
+Decision: 
+Defendant liable to plaintiff; Cross-defendants liable to defendant/cross- claimant  
+Catchwords: 
+CONTRACTS - Construction and interpretation - Rectification - Mistake -
+Correction of misnomer of beneficiary of bank guarantee  
+JUDGMENT 
+Summary
+Builders are regularly required to provide bank guarantees to secure their obligations under building contracts. This case is about the legal consequences of an innocent error where the builder gave the bank the wrong name for the beneficiary of the guarantees so that, if taken literally, the beneficiary does not exist.
+The plaintiff is the New South Wales Land and Housing Corporation (the "Corporation"). The Corporation is constituted as a body corporate by [s 6](http://www.austlii.edu.au/au/legis/nsw/consolact/ha2001107/s6.html) of the [Housing Act 2001](http://www.austlii.edu.au/au/legis/nsw/consolact/ha2001107/) . The Corporation claims that it is the intended beneficiary of two guarantees (the "guarantees") issued by the defendant, ANZ Banking Group Limited ("ANZ") at the request of ANZ's customer, the first defendant, Nebax Constructions Australia Pty Ltd (In liquidation) ("Nebax"). ANZ cross-claims against Nebax and five other cross-defendants (including Nebax's former director Mr Daniel Simic ("Mr Simic")) for indemnity in respect of any liability ANZ may have to the Corporation under the guarantees. The guarantees were issued in favour of the nonexistent "New South Wales Land & Housing Department".
+Mr D Talintyre of Counsel appeared for the Corporation. Mr S.B. Docker of Counsel appeared for ANZ. Mr A. Fernon of Counsel appeared with Mr G. Farland of Counsel for Mr Simic and the other cross-defendants, with the exception of Nebax. On an earlier occasion, the Court granted leave to ANZ to proceed against Nebax, whose liquidator decided not to defend the proceedings.
+The cross-defendants, for whom Messrs Fernon and Farland appeared, accepted that if ANZ was liable to the Corporation under the guarantees, then their clients were liable to indemnify ANZ. Therefore, the only question for determination by the Court is whether ANZ is liable to the Corporation under the guarantees. The answer to that question is "yes".
+
+The facts
+Most of the facts were not in dispute and I find them to be as follows. As to facts in dispute or about which there was doubt, I have set out in this narrative my reasons for any finding I have made.
+The Corporation was established by [s 6](http://www.austlii.edu.au/au/legis/nsw/consolact/ha2001107/s6.html) of the [Housing Act 2001](http://www.austlii.edu.au/au/legis/nsw/consolact/ha2001107/) : Establishment of New South Wales Land and Housing Corporation 
+There is constituted by this Act a body corporate with the corporate name of the New South Wales Land and Housing Corporation.
+
+The affairs of the Corporation are to be managed by the Director-General.
+
+Any act, matter or thing done in the name of, or on behalf of, the
+Corporation by the Director-General, or with the authority of the Director-
+General, is taken to have been done by the Corporation.
+
+The Corporation is, for the purposes of any Act, a statutory body representing the Crown.
+
+The Corporation is subject to the direction and control of the Minister.
+ (repealed) 
+The Corporation may exercise any of its functions, and may otherwise act, in the name of the Department.
+
+The Corporation and the Department are, to the maximum extent possible, to act in a complementary manner, so as to achieve a unified administration of this Act.
+In September 2009 on a form headed "New South Wales Land and Housing Corporation" and addressed to "The Director, NSW Land and Housing Corporation" Nebax submitted a tender for a project described as "BG2J8 3-7 Karowa Street, Bomaderry".
+On 21 October 2009 a letter was sent to Nebax on the letterhead of "Housing New South Wales" which included: 
+Dear Sir/Madam 
+RE: Housing New South Wales Nation Building Economic Stimulus Plan Tender for
+Design, Develop & Construction - BG2J8 3-7 KAROWA ST BOMADERRY 
+On behalf of the New South Wales Land and Housing Corporation (Housing NSW), we refer to your revised tender dated 13 October 2009 and confirm that Nebax
+Constructions has been selected as the preferred tenderer in relation to the
+Design; Development and Construction of 10 x 1 bed and 6 a 2 bed units at 3-7
+Karowa St Bomaderry (the Project).
+
+The purpose of this letter is to: 
+Advise Nebax Constructions that Housing NSW intends to enter into a formal contract with Nebax Constructions to carry out the work contemplated by the
+Contract (Works); ...
+
+Entering into a contract 
+Housing NSW intends to enter into a building contract with Nebax Constructions to carry out the Works, subject to final agreement with Nebax Constructions as to the final terms of the contract. ...
+A letter dated 21 December 2009 on the letterhead of "Housing New South Wales" was sent to Nebax which included: 
+Dear Sir 
+Re: Housing New South Wales Nation Building Economic Stimulus Plan Extension
+Authority to Carry Out Early Works - Project No. BG2J8 - 3-7 Karowa St
+Bomaderry 
+On behalf of the New South Wales Land and Housing Corporation (Housing NSW), we refer to correspondence dated 21 October 2009 and the Early Works Term nominated there-in.
+ ...
+
+The remaining terms of the agreement within the correspondence dated 21
+October 2009 shall continue to apply.
+A letter dated 4 March 2010 on the letterhead of "Housing New South Wales" was sent to Nebax and included: 
+Dear Sirs 
+JOB NO. BG2J8 C-71561 AT BOMADERRY 
+LETTER OF ACCEPTANCE 
+I am pleased to inform you that with respect to BG2J8 C-71561 at Bomaderry (3-7 Karowa Street), the New South Wales Land and Housing Corporation accepts your tender dated 13 October 2009, letter dated 21 December 2009 revising price and undated acceptance of the Principal's letter of 21 October 2009, acceptance dated 15 February 2010 of the Principal's letter of 21 December , document dated 22 December 2009 regarding milestone payment schedule and clarifications document dated 20 October 2009, for the work broadly described as the demolition of existing dwellings and the design and construction of x1BR and 6x2BR dwellings in the abovementioned Job No for the total lump sum ...
+
+The Formal Instrument of Agreement is ready for execution by you as soon as possible and in this regard you should contact Lisa Hobourn of Housing NSW
+Legal Service Branch to arrange an appointment to attend this office for the signing of the Contract documents. A draft copy of the Formal Instrument of
+Agreement is enclosed herewith.
+ ...
+
+In accordance with clause 5 of the General Conditions of Contract and Special
+Condition 39, the Principal requires security in the sum of $146,965.06.
+Please provide original Bankers Certificate(s) totalling this amount at the time of the execution of the Contract documents. I enclose the Principal's form of Bankers Certificate of Undertaking to be used. The option of providing security by retention from progress payment is not available. The Certificate is to be executed under the Bank's Power of Attorney.
+The enclosed draft "Form of Instrument of Agreement" referred to the agreement being made with "The New South Wales Land and Housing Corporation (ABN 24 960 729 253) a statutory authority constituted pursuant to [s 6(1)](http://www.austlii.edu.au/au/legis/nsw/consolact/ha2001107/s6.html) of the [Housing Act 2001](http://www.austlii.edu.au/au/legis/nsw/consolact/ha2001107/) and having its principal office at 223-239 Liverpool Road, Ashfield in the State of New South Wales (the "Principal")". The specified ABN was and remains registered to the Corporation.
+The Corporation's draft form of Banker's Certificate enclosed with the letter of 4 March 2010 (the "draft Banker's Certificate") set out a form of guarantee which included: [DRAFT ONLY - Please use Bank letterhead - if the Certificate is prepared with an expiry date then it will not be accepted by the Corporation] 
+UNCONDITIONAL BANKERS CERTIFICATE 
+Bank's Reference: 
+BY: [insert name of bank and ABN] (hereinafter called "the Bank") 
+TO: NEW SOUTH WALES LAND AND HOUSING CORPORATION (ABN 24 960 729 253) trading as Housing NSW (ABN 45 754 121 940) 223-239 Liverpool Road, Ashfield (hereinafter called "the Principal") 
+SECURITY DEPOSIT BY: NEBAX CONSTRUCTIONS AUSTRALIA PTY LIMITED (ABN 84 101 054 ) (hereinafter called "the Contractor") 
+JOB NO: BG2J8 C-71561 - BOMADERRY (3-7 Karowa Street) - MATTER NO: 20092540
+The ABN given in the draft Banker's Certificate for the Corporation was and remains registered to the Corporation. The ABN given in the draft Banker's Certificate for Housing NSW was also correct. However registration of this latter ABN was cancelled from 1 July 2010. A quite different ABN - 84 608 917 940 - was, as at March 2010, registered in respect of the trading name "Department of Human Services Housing NSW" and from 1 July 2011 was and remains registered to "Department of Family and Community Services - Housing NSW".
+On 4 March 2010 the "Formal Instrument of Agreement" was executed by the parties (the "Building Contract") and included: 
+AGREEMENT made this 4th day of March 2010 
+BETWEEN the NEW SOUTH WALES LAND AND HOUSING CORPORATION (ABN 24 960 729 ) a statutory authority constituted pursuant to [section (1)](http://www.austlii.edu.au/au/legis/nsw/consolact/ha2001107/s6.html) of the [Housing Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ha2001107/) and having its principal office at 223-239 Liverpool Road, Ashfield in the State of New
+South Wales ("the Principal") of the one part.
+
+AND NEBAX CONSTRUCTIONS AUSTRALIA PTY LIMITED (ABN 84 101 054 068) a company carrying on business at 27/7-9 Production Road Taren Point 2229 in the
+State of New South Wales ("the Contractor") and being the holder of licence number 189744C of the other part.
+
+RECITALS 
+A By tender dated 13 October 2009 the Contractor offered to carry out the demolition of existing dwellings and the design and construction of 10x1BR and x2BR dwellings at BOMADERRY (3-7 Karowa Street) - Job No. BG2J8 C-71561 ("the
+Works") for the Principal.
+
+B. The Principal has caused a site plan, Drawings and Specification describing the Works to be prepared.
+
+C. The Principal wishes to engage the Contractor to carry out the Works.
+
+The specified ABN set out next to the Corporation's name was and remains registered to the Corporation.
+Between at least October 2009 and April 2010 the Corporation was trading as "Housing NSW". So much is apparent from the documents referred to in paragraphs [8], [9], [10] and [12] above.
+In April 2010 Ms Adele Hanna was employed by ANZ at its Caringbah Business Centre (the "Branch"). At that time she was ANZ's senior relationship manager for Nebax and had previously had many dealings with Mr Simic. She knew Nebax operated a construction business and regularly obtained contracts from various entities and government departments. It was not unusual for Mr Simic to contact Ms Hanna and request the urgent provision on the same day of a bank guarantee in relation to a construction contract which Nebax had obtained. Ms Hanna was cross-examined and I accept her evidence.
+On 12 April 2010 Nebax entered into a facility with ANZ. The facility letter described the purpose of the facility to be "Bank Guarantee requirement various contracts".
+On 16 April 2010 Mr Simic visited the Branch and had a conversation with Ms Hanna in words to the following effect: 
+Mr Simic: Adele, I require two bank guarantees for Nebax. Nebax has just obtained a contract from Housing NSW, they need to be each made out to New
+South Wales Land & Housing Department trading as Housing NSW and each for $73,482.53 
+Ms Hanna: Looking at the accounts you may need to change some of the facilities.
+After making some adjustments to Nebax's facilities, Ms Hanna set about preparing the guarantees. She did this by entering the details given to her by Mr Simic into a template on her computer, which then created the documents to be printed. Two materially identical guarantees were prepared, each for $73,482.53. I shall reproduce the relevant parts of one of them in the following paragraphs of these reasons.
+In April 2010 ANZ's guarantees comprised three documents. The first and second were originals of the guarantee. One was to be retained by ANZ. The other was to be provided to the beneficiary of the guarantee (described in the documents as the Favouree or Principal). The guarantees were executed by Ms Hanna on behalf of ANZ and included: 
+AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED 
+ABN 11 005 357 522 
+ORIGINAL - TO BE PROVIDED TO THE FAVOUREE 
+BANK GUARANTEE 
+Guarantee No: 108783 
+Favouree To: New South Wales Land & Housing Department Trading As Housing
+NSW ABN 45754121940 (The Principal) 
+Business name or trading name For: Nebax Constructions Australia Pty Ltd ACN (The Customer) 
+Description of contract agreement Australia and New Zealand Banking Group Limited ("ANZ") asks the Principal to accept this bank guarantee ("Undertaking") in connection with a contract or agreement between the Principal and Customer for Job Number: P0409021, Bombaderry - Design & Construct 3-7 Karowa Street Contract Number BG2J8 
+Amount: In consideration of the Principal accepting this Undertaking and its terms, ANZ undertakes unconditionally to pay the Principal on written demand from time to time any sum or sums up to an aggregate amount not exceeding ,482.53 AUD ("Amount") 
+ANZ will pay the Amount or any part of it to the Principal upon presentation of this original Undertaking (accompanied by a written demand) at any ANZ branch located within Australia without reference to the Customer and even if the Customer has given ANZ notice not to pay the money, and without regard to the performance or non-performance of the Customer or Principal under the terms of the contract or agreement.
+
+By accepting this Undertaking, the Principal acknowledges and agrees that ANZ may rely entirely on any demand or notice as presented to it and has no responsibility or obligation to investigate the authenticity or correctness of the matters stated in a demand or notice, the signatures on the same, the positions of such signatories or the capacity or entitlement of the Principal to give and execute the demand or notice.
+
+Any alterations to the terms of the contract or agreement or any extensions of time or any other forbearance by the Principal or Customer will not impair or discharge ANZ's liability under the Undertaking.
+ ...
+
+This Undertaking is personal to the Principal. The Principal cannot assign, transfer, charge or otherwise deal with its rights under this Undertaking and
+ANZ will not recognise any purported assignment, transfer, charge or other dealing 
+This Undertaking will be governed by the laws of New South Wales ("Governing
+Jurisdiction").
+
+Dated this Friday, 16 April 2010 
+Executed by Adele Hanna, Relationship manager at Caringbah, New South Wales for and on behalf of Australia and New Zealand Banking Group Limited ABN 11 357 222.
+
+In these reasons I shall refer to the section of the guarantees which I have highlighted above as the "Description".
+The third document was an "Indemnity and Application for Guarantee" to be retained by ANZ (the "Indemnity"). One of these was prepared by Ms Hanna for each guarantee, executed by Mr Simic on behalf of Nebax and included: 
+To the Manager Serial Number: 108783 
+AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED 
+A.B.N. 11 005 357 522 /452 Flinders Street 
+Melbourne VIC 3000 
+Dear Sir/Madam 
+To facilitate my/our business transactions with (a) 
+New South Wales Land & Housing Department Trading As Housing NSW ABN (The Favouree) I/we ask the Bank to execute a guarantee or security in your standard form (from time to time), unless we have attached or provided you with the form of guarantee that we request you to issue under this request, for an amount not exceeding ,482.53 (b) in all 
+AUD 
+In consideration of the Bank giving such a guarantee or security, I/we ask you to pay to the Favouree and to debit to my/our account without prior reference to me/us any sum or sums, not exceeding the amount stated above, which the Favouree may claim from you under the guarantee or security or may require on its termination by you. The
+Bank will not be responsible in any way for the correctness of any amount or amounts claimed or required.
+ ...
+
+I/We acknowledge that the Bank will only deliver completed guarantees to me or us, completed in terms of this application.
+
+I/We also acknowledge that Bank will not normally deliver completed guarantees to the named Favouree or Principal on my/our behalf.
+
+If I/we provide the guarantee to the named Favouree or Principal then by this act I/we acknowledge that the details on the guarantee are entirely to my/our satisfaction.
+
+If, under exceptional circumstances, I/we request that the Bank arrange delivery of the complete guarantee direct to the named Favouree or Principal on my/our behalf, I/we acknowledge that the Bank will only do this after they have provided me/us with a copy of the form of guarantee that they intend to issue and I/we have acknowledged in writing to the Bank that the form of the guarantee is acceptable to me/us.
+
+Signed For and on Behalf of: 
+Nebax Constructions Australia Pty Ltd ACN 101054068 
+In these reasons I shall refer to the Indemnity when in fact identical forms were completed for each of the guarantees.
+The Indemnity and the guarantees used the words "New South Wales Land & Housing Department Trading As Housing NSW ABN 45754121940". The difficulty that has given rise to these proceedings is that while the ABN was the ABN for Housing NSW (see paragraph [13] above) there never was or has been a "New South Wales Land & Housing Department" (emphasis added). At all material times there was and is the 'New South Wales Land & Housing Corporation" (emphasis added).
+Mr Simic gave Ms Hanna both the name of the intended beneficiary of the guarantees and the details of the contract in respect of which they were required. She incorporated this latter information in the Description. On the basis of Ms Hanna's own evidence, the fact that the information includes sequences of numbers and the inherent probability of the situation, the Court is satisfied that Mr Simic provided Ms Hanna with that information in written form. However, the Court finds that Mr Simic did not give Ms Hanna either a copy of the Building Contract or the draft Banker's Certificate because both of these had the Corporation's correct name. It is highly unlikely Ms Hanna, as a careful bank employee, would have made an error in the Corporation's name if either of those documents had been given to her.
+Nevertheless, Ms Hanna understood that the guarantees were being entered into in relation to a construction contract to which Nebax was a party. She also understood that the words "Job Number P0409021, Bombaderry - Design & Construct 3-7 Karowa Street Contract Number BG2J8" were intended to be a reference to that contract. Furthermore, she would still have issued the guarantees if she had been given the name "New South Wales Land & Housing Corporation" for the Favouree and Principal.
+After the Indemnity and guarantees were completed and executed that same day (16 April 2010), Mr Simic left the Branch with the two original guarantees. Nebax then provided these to the Corporation.
+On 2 October 2013 the Corporation wrote to ANZ: 
+Dear Sir/Madam 
+LETTER OF DEMAND 
+TWO BANKERS CERTIFICATES DATED: 16 APRIL 2010 
+CONTRACTOR: NEBAX CONSTRUCTIONS AUSTRALIA PTY LTD (IN LIQUIDATION) 
+JOB NO: BG2J8 C-71561 AT BOMADERRY 
+You are advised that the Contractor, Nebax Constructions Australia Pty Ltd (in
+Liquidation) is in default of the abovementioned construction contract.
+
+The New South Wales Land and Housing Corporation hereby demands payment of the amount of $146,965.06 pursuant to the abovementioned certificates.
+
+In accordance with the Conditions of the Bankers Certificate(s) you are required to pay the amount of $146,965.06 by way of a bank cheque made payable to New South Wales Land and Housing Corporation to be forwarded to my office.
+On receipt of this cheque formal advice will follow for the original Banker's
+Certificate to be released to you. Alternatively please arrange with this office for a date and time to effect an exchange of documents at a branch in
+Ashfield.
+On 9 October 2013 ANZ's solicitors responded: ...
+
+Would you kindly explain why the New South Wales Land and Housing Corporation
+ABN 24960729253 may claim the benefit of the Bank Guarantees issued in favour of New South Wales Land & Housing Department trading as Housing NSW ABN .
+
+We note that: the Bank Guarantees were issued in favour of the New South Wales Land &
+Housing Department trading as Housing NSW ABN 45754121940; the new entity trading as 'Housing NSW' is the Department of Family and
+Community Services ABN 84608917940; and the party calling upon the Bank Guarantees is the New South Wales Land and
+Housing Corporation ABN 24960729253.
+By letter dated 1 November 2013 the Corporation responded to ANZ's solicitors, including: 
+The contracting entity was always New South Wales Land and Housing Corporation ("the Corporation"). The wording of the bank guarantees confirm that it was contracts with the Corporation that were secured by the guarantees. The ABN of the Corporation's then trading name, Housing NSW, was correct at the date of the guarantees. The trading name is irrelevant, as the contracting entity was always the Corporation. The fact that Housing NSW is now the trading name of another branch of the NSW Government is also irrelevant. The only discrepancy in the transaction was a typographical error on the part of ANZ by describing the Corporation as 'Department' instead of 'Corporation'. The Corporation is the contracting entity and is also the party calling on the guarantees, and it is entitled to claim the benefit of the guarantees. I look forward to receiving arrangements for payment of the amounts guaranteed.
+On 5 December 2013 ANZ's solicitors responded by saying that ANZ did "not accept that a call has been made on the Bank Guarantees".
+The Corporation commenced these proceedings by summons filed on 23 June 2014.
+On 5 February 2015 (the day before the hearing) the Corporation's solicitor attended the Ashfield branch of the ANZ where he presented the assistant manager of that branch with the two original bank guarantees and a letter from the Corporation addressed to the ANZ dated 5 February 2015 which included: 
+New South Wales Land and Housing Corporation hereby demands payment of the amount of $146,965.06 pursuant to the abovementioned Bank Guarantees, the originals of which are presented for inspection at the Ashfield Branch of the
+ANZ Bank today by arrangement.
+
+The parties' submissions - the Corporation
+The Corporation put two alternative submissions. The first submission was in support of the first prayer for relief in the summons: 
+A declaration that in the Defendant's guarantees dated 16 April 2010 and numbered 10873 and 10871 the words "New South Wales Land & Housing
+Department trading as Housing NSW ABN 4574121940", in the description of the
+Principal, be construed as describing the Plaintiff.
+The submission in support of the declaration was that the Corporation had been misdescribed in the guarantee. That misdescription was a misnomer which the Court has jurisdiction to correct. The words "New South Wales Land & Housing Department Trading As Housing NSW ABN 45754121940" were no more or less than an inaccurate description of the Corporation. It was clear the party named in the guarantees was intended to be the Corporation and the misnomer was immaterial because ANZ would have given the guarantees even if the Corporation had been properly described.
+The Corporation's second submission was in support of its alternative prayer for relief in the summons: 
+In the alternative, that the guarantees issued by the Defendant dated 16 April and numbered 108783 and 108781 be rectified by substituting for the words "New South Wales Land & Housing Department trading as Housing NSW ABN )", in the description of the Principal, the words "New South Wales
+Land and Housing Corporation".
+This alternative submission was that the guarantees could be rectified. The Corporation contended that it was the clear intention of the Corporation and Nebax that the Corporation was to be the beneficiary of the guarantees. Similarly, it was clearly the intention of Nebax and ANZ that the beneficiary of the guarantees was to be the party with whom Nebax had the building contract under which the guarantees were required. There was no doubt that party was the Corporation.
+
+The parties' submissions - ANZ
+ANZ's submissions were more in the nature of an interpleader. Its commercial difficulty was obvious. It was by no means clear that it was legally obliged to honour the guarantees. If it honoured the guarantees when it was not legally required to do so, then it would not be entitled to indemnity from the cross-defendants.
+The matters raised by ANZ were: * (1) The Corporation bore the onus of demonstrating that it was the legal entity entitled to demand payment under the guarantees.
+* (2) Identification of the parties to a contract is to be made in accordance with the objective theory of contract.
+* (3) The surrounding circumstances - including the ABN registrations - did not permit a finding to the effect that the Corporation was intended to be the beneficiary of the guarantees. There was no evidence the Corporation was trading as Housing NSW on 16 April 2010.
+* (4) Insofar as the surrounding circumstances included the Building Contract, there was no evidence that Ms Hanna, being the relevant person at ANZ, had any knowledge of such a contract.
+* (5) The requirement for strict compliance with the bank guarantees means that the entity calling on the bank guarantees must correspond exactly with the description of the Principal in them. That has not occurred in this case. It could not be said that the error if it be such, in describing the Principal, was unmistakeably clear or an obvious typographical error.
+* (6) Rectification of the guarantees was not possible because the Corporation could not demonstrate any common intention with ANZ. There was no communication between them. ANZ's subjective or actual intention (in this case Ms Hanna's) was to issue the guarantees in the name given to her by Mr Simic and that is what she did.
+
+The parties' submissions - the cross-defendants (other than Nebax)
+The cross-defendants (other than Nebax) submitted: * (1) Because of their status as being equivalent to cash and claimable on the production of documents, strict compliance with the terms of the guarantees was necessary before any liability pursuant to them could arise.
+* (2) The Corporation was not the named beneficiary on the guarantees.
+* (3) The named beneficiary could never claim under the guarantees because Housing NSW with ABN 45 754 521 940 was cancelled on 1 July 2010.
+
+Construction - general observations
+At the outset it is useful to make some general observations before descending into the particulars of the argument.
+The present dispute requires the Court to construe the guarantees. The guarantees are a contract and ordinary contractual principles apply. Nevertheless, the guarantees are only one of the contracts which form part of the facts of this case and are themselves the product of other contracts. This last point is important for the resolution of the issues.
+The contractual framework is: * (1) The contract between ANZ and Nebax as evidenced by the Facility Letter (see paragraph [17] above) whereby ANZ agreed to provide bank guarantees which Nebax might be required to provide under contracts to which Nebax was a party.
+* (2) The contract between the Corporation and Nebax evidenced by the Building Contract (see paragraph [14] above) which included special condition 39:
+SECURITY 
+Clause 5 of the General Conditions of Contract 9AS 4902) is deleted.
+
+If required, security must be provided by the Contractor for the purpose of ensuring the due and proper performance of the Contract and of satisfying the obligations of the Contractor under the Contract. If required, security must be in the form of an unconditional undertaking to pay on demand, in a form and by a financial institution approved in writing by the Principal. Insurance bonds, cheques or cash are not acceptable. For the purpose of given unconditional undertakings, the Principal has approved banks, building societies and credit unions listed by the Australian Prudential Regulation
+Authority ("APRA") as being regulated by APRA. Lists of APRA regulated financial institutions are on the APRA website at www.apra.gov.au.
+
+The contract between ANZ and Nebax as evidenced by the Indemnity (see paragraph <case> ("Griffin"). The standby letters of credit in that case were, in commercial terms, indistinguishable as to their purpose from the guarantees in the case at bar. The parties in that case were in common cause as to certain matters relevant to the construction of the standby letters of credit, a joint approach from which the Court of Appeal did not demur:
+Mr Hutley SC, who appeared with Mr Giles for the appellants, accepted that the primary Judge was correct to observe (at [58]) that the Letters of
+Credit are stand alone instruments. Thus in determining the rights of the
+Beneficiary (Griffin) to call on the Letters of Credit and the obligations of the Issuing Bank (ICICI Bank) to pay under them, regard is not to be had to any provision of the Sale Agreement between Griffin and the Account Party . This principle is stated, in the context of performance guarantees, in Wood Hall Ltd versus The Pipeline Authority <case>; 141
+CLR 433 at 450-451 (Gibbs J, Barwick CJ and Mason J agreeing); 457 (Stephen
+J); 461 (Murphy J). The principle is founded on the importance of a letter of credit being the equivalent of a cash payment: see S McCracken and A Everett,
+Everett and McCracken's Banking and Financial Institutions Law (7th ed, 2009,
+Lawbook Co) at [14.060].
+Secondly, both the Sale Agreement and Letters of Credit must be construed by reference to what a reasonable business person would have understood the terms to mean. Subject to the principle stated in the previous paragraph, this requires consideration of the language used by the parties, the surrounding circumstances known to them and the commercial purpose or objects to be secured by the contract: Electricity Corporation versus Woodside Energy Ltd <case>; <case> (French
+CJ, Hayne, Crennan and Kiefel JJ). It is to be noted that the language, surrounding circumstances and commercial purpose or objects of the Sale
+Agreement are different from those of the Letters of Credit.
+I will adopt a similar approach in this case. In determining the entitlement (if any) of the Corporation to call on the guarantees and the obligation of ANZ to pay under them, regard is not to be had to any provision of the Building Contract. So much is apparent from the terms of the guarantees themselves, which include that ANZ pay under the guarantees "without regard to the performance or non-performance of the Customer or Principal under the terms of the contract or agreement" (which in this case can only be the Building Contract).
+Next, again applying the approach in Griffin, the guarantees must be construed by reference to what a reasonable business person would have understood the terms to mean. Subject to the principle stated in the previous paragraph, this requires consideration of the language used by the parties, the surrounding circumstances known to them and the commercial purposes or objects to be secured by the contract. It is to be noted that the language, surrounding circumstances and commercial purposes or objects of the Building Contract are different from those of the guarantees.
+Because it is seminal and formed the basis of the Court of Appeal's approach in Griffin, I conclude these general observations with the relevant passage from the decision of the High Court in Electricity Generation Corporation versus Woodside Energy Ltd  <case>; [(2014) 251 CLR 640] (per French CJ, Hayne, Crennan and Kiefel JJ):
+Both Verve and the Sellers recognised that this Court has reaffirmed the objective approach to be adopted in determining the rights and liabilities of parties to a contract. The meaning of the terms of a commercial contract is to be determined by what a reasonable businessperson would have understood those terms to mean. That approach is not unfamiliar. As reaffirmed, it will require consideration of the language used by the parties, the surrounding circumstances known to them and the commercial purpose or objects to be secured by the contract. Appreciation of the commercial purpose or objects is facilitated by an understanding "of the genesis of the transaction, the background, the context [and] the market in which the parties are operating".
+As Arden LJ observed in Re Golden Key Ltd, unless a contrary intention is indicated, a court is entitled to approach the task of giving a commercial contract a businesslike interpretation on the assumption "that the parties ...
+intended to produce a commercial result". A commercial contract is to be construed so as to avoid it "making commercial nonsense or working commercial inconvenience".
+
+Construction - the principles: misnomer and absurdity
+A "misnomer" is an error in naming something or someone. The Corporation based its misnomer case on the analysis of the Full Court of the Supreme Court of Western Australia in Kingstream Steel Ltd versus Stemcor UK Ltd  <case> ("Kingstream"). In that case a commercial transaction was secured by a letter of credit which was payable on the sighting of various documents. One of those was a guarantee to be issued by "An Feng Kingstream Steel Limited". One guarantee was issued on a letter headed "An Feng Kingstream Steel Co Ltd" and another guarantee was issued by a letter headed "An Feng Kingstream Ltd". It was accepted that there was no company with either of those names.
+In its judgment in Kingstream the Full Court resolved the problem in this way (emphasis added): In our view the misdescription of the guarantor in the first two documents is simply that, and an error of that kind is not fatal to the validity of the guarantee. Counsel for the applicant argued that because of the misdescription in the first and second guarantees, those guarantees were executed by a non- existent company. He relied primarily on Black versus Smallwood <case>; [(1966) 117 CLR 52.] That case concerned a proposed company that had not been incorporated at the date of execution of a document for the sale of land. The document was executed by the signatories in the belief that the company had been incorporated and that they were directors of it. The question that arose in that case was whether the signatories were personally liable in those circumstances. The court held that, because the company on whose behalf the signatories had purported to sign did not exist, the signatories were not parties to the contract. Their signatures had been made as part of the company's signature. They were not parties to the contract as agents or otherwise and there was no basis upon which they could be held liable upon it.
+ That case can be readily distinguished from the present where the respondent sought and obtained a guarantee from an existing company but that company was misdescribed in the guarantee. The company referred to in subcl 4 of the contract did exist. All that happened was that when the first guarantee came to be prepared the word "Co." was mistakenly inserted into its name and, when the second guarantee came to be prepared, the word "Steel" was mistakenly omitted from its name. That was, in each case, simply a misnomer made in circumstances in which it must have been plain to all who were concerned with the document that it was the applicant which was the guarantor there referred to. Even if there had been any doubt at all about that fact then this must have been laid to rest by the fact that the applicant was identified by its address, fax number and telephone number. In those circumstances it seems to us plainly to be arguable that the Court is, as a matter of construction, at liberty to correct the misnomer. (See Whittam versus W J Daniel & Co Ltd [[1962] 1 QB 271] at 277; F Goldsmith (Sicklesmere) Ltd versus Baxter [[1970] Ch ] and
+Nittan (UK) Ltd versus Solent Steel Fabrication Ltd [(1981) 1 Lloyd's Rep .)]
+It is important to note that the judgment in Kingstream was not dealing with a final determination of the issues. It was an interlocutory appeal against the decision of a Master on a summary judgment application. The Master had concluded that there was a very strong case that the misdescription in the guarantees could be corrected either as a misnomer or by rectification. Similarly, because of the nature of the appeal the Full Court confined its decision to the conclusion that correction by misnomer was plainly arguable.
+Despite the nature of the appeal in Kingstream, the Full Court's approach is instructive. Applying the language in paragraph [17] of the judgment in Kingstream, I respectfully express the test for misnomer which will be corrected by construction as whether the misnomer was the product of a mistake made in circumstances in which it would have been plain to all who are concerned with the relevant document as to who the party was that was referred to in the document. Stating the principle in that way is supported by the authorities referred to by the Full Court and in the leading contract texts.
+Whittam versus W.J. Daniel & Co. Ltd [1961] 1 QB 271 is a decision of the English Court of Appeal comprising Donovan and Danckwerts LJJ. The plaintiff had issued a writ against "W.J. Daniels & Company (a firm)" claiming damages for personal injuries in the course of her employment. An amendment of the writ was allowed by substituting "W.J. Daniel & Co. Ltd" as defendant. That company applied to have the writ struck out on the ground that the amendment substituted a new defendant against whom the plaintiff's claim had become statute barred. The Court of Appeal agreed with the decision at first instance that, on the facts, there was no reasonable doubt as to the identity of the proposed defendant and that it was a case of mere misnomer and not the substitution of a new defendant. Donovan LJ expressed his conclusion (at 277) as: ... if the test is whether there was reasonable doubt as to the identity of the proposed defendant, I should say there was none, and that this is a case of mere misnomer. Devlin L.J. prescribes the test to be applied in cases such as the present in Davies v. Elsby Brothers Ltd.2 in these terms2: "I think that the test must be: how would a reasonable person receiving the document take it? If, in all the circumstances of the case and looking at the document as a whole, he would say to himself: 'Of course it must mean me, but they have got my name wrong,' then there is a case of mere misnomer. If, on the other hand, he would say: 'I cannot tell from the document itself whether they mean me or not and I shall have to make inquiries,' then it seems to me that one is getting beyond the realm of misnomer. One of the factors which must operate on the mind of the recipient of a document, and which operates in this case, is whether there is or is not another entity to whom the description on the writ might refer." 
+Applying that test, there could have been no doubt in the mind of the present company when they got the writ that it was they whom the plaintiff intended to sue, and that she had simply got the name wrong.
+F. Goldsmith (Sicklesmere) Ltd versus Baxter [[1970] 1 Ch 85] ("Goldsmith") was a case where F. Goldsmith (Sicklesmere) Ltd had bought some land. One of the shareholders in the company gave his solicitors the name of the company as Goldsmith Coaches (Sicklesmere) Ltd and the property was conveyed to the company in that name. Subsequently an agreement for sale of part of that land was made between Goldsmith Coaches (Sicklesmere) Ltd as vendor and the defendant as purchaser. The defendant's solicitors discovered that there was no company registered in the name of Goldsmith Coaches (Sicklesmere) Ltd and, notwithstanding a reconveyance of the land in the correct company name, the defendant refused to complete the contract on the basis that there was no vendor and therefore no contract.
+Stamp J concluded that since a contract was to be construed by reference to the surrounding circumstances or in light of the known facts, it was clear that Goldsmith Coaches (Sicklesmere) Ltd was an inaccurate description of F. Goldsmith (Sicklesmere) Ltd.
+His Lordship expressed his conclusion (at 91): 
+Looking at the memorandum alone, and without regard to the surrounding circumstances, I find that the person - the persona ficta said to be the vendor has the following characteristics: (1) it is named Goldsmith Coaches
+Ltd.; (2) its registered office is said to be at Sicklesmere; it has an agent called Brewster who claims to act for it; (4) it is the beneficial owner of "Shelley." 
+Applying the rule that a contract is to be construed by reference to the surrounding circumstances, or in the light of the known facts, I find: (1) there is no limited company which in law has the name Goldsmith Coaches
+Ltd., but the plaintiff company is often known as "Goldsmith
+Coaches" and carries on business as a bus and coach contractor, and does so at
+Sicklesmere; (2) the plaintiff company's registered office is at Sicklesmere, in the very place at which it carries on the bus and coach business; (3) the plaintiff company has an agent called Brewster; and (4) it is the beneficial owner of "Shelley." I find in addition that there is no other company having those characteristics. Applying this process, if it be permissible, I conclude beyond peradventure that Goldsmith Coaches (Sicklesmere) Ltd. is no more nor less than an inaccurate description of the plaintiff company, F. Goldsmith
+Ltd.
+ ...
+His Lordship also observed (at 93): 
+I should perhaps add this: the name of the company on behalf of which Mr.
+Brewster signed the memorandum was a matter of indifference to the defendant, provided only that the vendor could be identified with certainty. There was in my judgment no lack of the necessary consensus. It does not lie in the defendant's mouth to say that he paid cash under a contract with a non- existent person. The plaintiff company is entitled in my opinion to have the contract specifically performed, but the claim for rectification is in my judgment misconceived. Either the plaintiff company was a party to the contract, or there was no contract, and I cannot rectify a non-existent contract.
+Nittan (UK) Ltd versus Solent Steel Fabrication Ltd trading as Sargrove Automation (1981) 1 Lloyd's Rep 633 is a decision of the English Court of Appeal. Solent Steel manufactured metal products and was insured for product liability by Cornhill Insurance Co Ltd ("Cornhill"). Solent Steel subsequently took over the assets, but not the liabilities, of Sargrove Electronic Controls Ltd and began to do business under the business name of Sargrove Automation. When Cornhill adjusted Solent Steel's existing insurance policy to meet the requirements of the newly acquired business, Cornhill issued an endorsement that the insured was "deemed to include Sargrove Electronic Controls Ltd". The plaintiff sued Solent Steel for damages arising from a malfunction in equipment supplied by Solent Steel. That action was settled and damages paid. Solent Steel claimed indemnity under its policy from Cornhill. Cornhill sought to rely on an exclusion clause in the policy. Solent Steel contended that Cornhill could not rely on the exclusion clause because it only applied in respect of goods supplied by Sargrove Electronic Controls Ltd.
+At first instance it was held that in the absence of any rectification Cornhill could not rely on the exclusion clause. As there was no case for rectification Cornhill had to suffer the consequences of their mistake in describing the insured incorrectly. That decision was unanimously reversed on appeal. Lord Denning MR held (at 637): 
+On the whole of the evidence it is quite clear that the head office of
+Cornhill made a mistake. They put in "Sargrove Electronic Controls Limited", a name which they had taken from some brochures which had been sent forward to them. Whereas the more accurate description would have been "Sargrove
+Automation": because that was the business which they were insuring - "Sargrove Automation" being the name under which Solent Steel Fabrications Ltd carried on the electronics side of their business. So the head office of
+Cornhill made that mistake in description.
+ ...
+
+It seems to me that the meaning of the document was clear. The words "Sargrove
+Electronics Limited" were just a misnomer: and the correct description was well-known to all to be "Sargrove Automation", a division of Solent Steel
+Fabrications, which was the insured party.
+Similarly, Brightman LJ said (at 639): 
+The reference to Sargrove Electronic Controls Ltd was clearly a misnomer. All concerned knew that this limited company was not the insured, or one of them.
+The insured was Solent Steel. All concerned knew that the business of Solent
+Steel had been expanded to include the manufacture of electronic apparatus ...
+
+In my opinion, in construing a document, the Court is at liberty, as a matter of construction, to correct a misnomer. A misnomer is not, in my view, necessarily a mistake which requires the equitable remedy of rectification.
+The misnomer may be a mere clerical error. A simple example would be the use in a conveyance of the expression "the vendor" where clearly "the purchaser" was intended. It is not necessary to rectify the conveyance to enable it to be read and take effect as the parties plainly intended. The words "Sargrove
+Electronic Controls Limited" are used three times in the endorsement of May
+The words mean "Solent Steel trading as Sargrove Automation" - that is to say carrying on the business of manufacturers of electronic apparatus as stated in the wording of the earlier endorsement.
+Griffiths LJ agreed (at 641): 
+Accordingly, for the reasons given by my Lords and for this reason, I would regard the phrase "Sargrove Electronic Controls Limited", where it is used in the memorandum, as a mistake - a misnomer - and it was clearly intended to be read as Sargrove Automation, a division of the insured. Accordingly I agree that rectification is not necessary and the matter can be dealt with by regarding the mistake as a mere misnomer.
+Professor Gerald McNeel in The Construction of Contracts Interpretation, Implication, and Rectification 2nd Edn, Oxford University Press, 2011 treats the topic with eloquent brevity: 
+Misnomer .08 Where the court, on examining all the evidence, concludes that an obvious mistake is made in naming a party it will correct the description as a matter of construction. In Re Howgate and Osborne's Contract Kekewich J changed the forename "William" in a conveyance to "Edward Thomas". The same principle is applied in cases such as Lombard Finance Ltd versus Brookplain
+Trading Ltd where a corporate name was mis-described.
+Sir K. Lewison and D. Hughes, The Interpretation of Contracts in Australia, Law Book Co, 2012 discuss the topic at pages 407 - 414 by reference to these statements of principle: 
+As part of the process for construction the court has power to correct obvious mistakes in the written expression of the intention of the parties. Once corrected, the contract is interpreted in its correct form.
+
+The mistake to be corrected must be a mistake in expression. It may be a mistake in spelling or grammar; a mistake in the naming of persons referred to; the omission of words or the inclusion of words; or the use of the wrong words.
+The learned authors make clear a fundamental point with which I respectfully agree, namely that the process of correction of an error, including a misnomer, is still an exercise in interpretation. In doing so they draw attention to the decision of the Full Federal Court in Maddestra versus Penfolds Wines Pty Ltd <case>; [(1993) 44 FCR 303], in which a guarantee for the debts of the principal debtor named as "Retail Equity Limited" was construed as a guarantee of the debts of "Retail Equity Pty Ltd". The Court said (at 306): 
+In our view, it is permissible, in order to construe the Deed of Guarantee, to have regard to the credit application and to the evidence of Mr. Cole, which the appellants do not dispute in any relevant respect. That evidence, although it might be said to go to the nature of the negotiations that preceded the agreement recorded in the Deed, establishes "objective background facts which were known to both parties and the subject matter of the contract"; Codelfa
+Constructions Pty. Ltd. versus State Rail Authority of NSW <case>; [(1982) 149 CLR 337] at 352. This evidence shows that it was Retail Equity Pty.
+Ltd. that sought credit from the respondent with respect to goods supplied to four of its liquor stores and that the appellants, as directors of that company, were prepared to guarantee payment by it in return for the provision by the respondent of credit to it. When the Deed of Guarantee is read against this background, we think the reference in it to "Retail Equity Limited" must be understood as a reference to "Retail Equity Pty. Ltd.". The appellants argued that cases like F. Goldsmith (Sicklesmere) Ltd. versus Baxter [(1970) 1 Ch ] in which an inaccurate description of a company was corrected by the process of interpreting the contract are different from cases like the present where the question concerns the identification of the content of the obligations imposed by a contract rather than the identification of a party to a contract.
+However, reference to the surrounding circumstances in which a contract was entered into is as readily available for construing the contract and identifying the content of those obligations and persons other than the parties to the contract as it is for the purpose of identifying the parties: in neither exercise does any question of rectification arise. Ex parte Whelan [(1986) 1 QdR 500] at 502-503.
+Finally, the learned authors (at 94) state the fundamental proposition that one of the basic exceptions to the parol evidence rule is that evidence is admissible to identify the parties to the contract (citing Gilberto versus Kenny <case>).
+Quite apart from the principles relating to misnomer, a related body of law in relation to contractual interpretation that may be called in aid in the present case are the authorities dealing with the avoidance of absurdity. When the misnomer refers to a non-existent entity then the principles in relation to correcting misnomer and avoiding absurdity represent two different solutions to the same problem, although, it must again be emphasised that both approaches are examples of the application of the fundamental principles of contractual interpretation.
+I respectfully adopt as an accurate statement of the principles in relation to avoiding absurdity what fell from Leeming JA in National Australia Bank Ltd versus Clowes  <case> and Macfarlan JJA agreeing):
+In my view, the Bank's submission should be accepted because of the
+Bank's first point. In my opinion this is a clear case where the literal meaning of the contractual words is an absurdity, and it is self-evident what the objective intention is to be taken to have been. Where both those elements are present, as here, ordinary processes of contractual construction displace an absurd literal meaning by a meaningful legal meaning. As this
+Court observed in Westpac Banking Corporation versus Tanzone Pty Ltd  <case>; [(2000) 9 BPR 17,521] at <case>, the principle is premised upon absurdity, not ambiguity, and is available even where, as here, the language is unambiguous.
+The applicable principles are conveniently found in Noon versus Bondi Beach
+Astra Retirement Village Pty Ltd <case> at <case>, where Giles JA said, with the agreement of Macfarlan JA: "The process of construction may bring a marked divergence from the text. In
+Wilson versus Wilson <case>; [(1854) 5 HL Cas 40] 'John' was read as 'Mary' in a will. In Fitzgerald v
+Masters <case>; [(1956) 95 CLR 420] 'inconsistent' was read as 'consistent' in a contract for sale. As a recent illustration in McHugh Holdings Pty Ltd versus Newtown Colonial
+Hotels Pty Ltd  <case>; [(2008) 73 NSWLR 53] 'lessor' was read as 'lessee' in a lease. This is often because a mistake is obvious on the face of the instrument and in Chartbrook
+Ltd versus Persimmon Homes Ltd <case>; [[2009] 1
+AC 1101](/cgi-bin/LawCite?cit=%5b2009%5d%201%20AC%201101 "View LawCiteRecord" ) Lord Hoffmann, with whom Lords Hope, Rodger and Walker and Baroness Hale relevantly agreed, accepted that there must be a clear mistake on the face of the instrument and it must be clear what correction ought to be made in order to cure the mistake. But in Fitzgerald versus Masters at 437 it was explained 'the rejection of repugnant words, the transposition of words and the supplying of omitted words' is a consequence of 'the rule that the intention of the parties is to be ascertained from the instrument as a whole and that this intention when ascertained will govern its construction'. Ascertaining the intention of the parties, of course, is in accordance with the principles of contract construction abovementioned."
+In the same case, Young JA referred at [179] to Brereton J's decision in
+Saxby Soft Drinks Pty Ltd versus George Saxby Beverages Pty Ltd  <case>; [(2009) 14 BPR 27,213] in which the word "shorter" was read as "longer".
+This principle is distinct from rectification in equity. As Lord St
+Leonards said in Wilson versus Wilson  <case>; [(1854) 5 HL Cas 40] at 66-67; <case>; [10
+ER 811] at 822: "Now it is a great mistake if it is supposed that even a Court of Law cannot correct a mistake, or error, on the face of an instrument: there is no magic in words. If you find a clear mistake, and it admits of no other construction, a Court of Law, as well as a Court of Equity, without impugning any doctrine about correcting those things which can only be shown by parol evidence to be mistakes - without, I say, going into those cases at all, both Courts of Law and of Equity may correct an obvious mistake on the face of an instrument without the slightest difficulty."
+True it is that that principle requires a very strong level of conviction that a mistake has been made. To use the language of Dixon CJ and Fullagar J in Fitzgerald versus Masters  <case>; [(1956) 95 CLR 420] at 426-427, it must be "clearly necessary in order to avoid absurdity or inconsistency", and, as this Court said in Miwa Pty Ltd v
+Siantan Properties Pty Ltd <case> at <case>, the test of absurdity is not easily satisfied. But that demanding test is in my view satisfied in this case. The principle is not confined to linguistic errors such as "inconsistent" being read as "consistent" or "shorter" being read as "longer". The principle extends to obvious conceptual errors, such as "lessor" being read as "lessee" as in McHugh Holdings Pty Ltd versus Newtown
+Colonial Hotel Pty Ltd  <case>; [(2008) 73 NSWLR 53], or words denoting a mortgage of company title flat being read as a mortgage of the shares in the company which entitle their owner to that flat. In all those cases, it is perfectly clear what legal meaning is to be given to the literally absurd words.
+
+Construction - resolution
+The construction of the guarantees may be resolved by application of the principles of interpretation which I have discussed above in a number of ways. However, they all come to the same end. Whatever approach is used the same answer is dictated by one feature of the guarantees, being the Description, which I set out again for convenience: 
+Description of Contract/Agreement Australia and New Zealand Banking Group
+Limited ("ANZ") asks the Principal to accept this bank guarantee ("Undertaking") in connection with a contract or agreement between the
+Principal and Customer for Job Number: P0409021, Bombaderry - Design &
+Construct - 3/7 Karowa Street, Contract No: BG2J8.
+There is no doubt about the identity of ANZ. Nor is there any doubt that "The Customer" in the guarantees is Nebax. Who then is the Principal when there is no entity described by the words "New South Wales Land & Housing Department Trading As Housing NSW ABN 43754121940"? A reasonable business person, without going outside the four corners of the guarantees, would understand that question to be resolved by ascertaining who was the other party with Nebax to the contract identified in the Description. Sensibly and correctly, no party before me suggested that contract could be anything other than the Building Contract. Engaging the principle that evidence can be admitted to identify a party to or the subject matter of an agreement, the Building Contract establishes beyond doubt according to its terms that the other party to that contract with Nebax was the Corporation.
+The short conclusion in the preceding paragraph can be expanded by reference to the general principles set out in Electricity Corporation or the more specific principles concerning misnomer or avoiding absurdity. I shall undertake that in what follows.
+Since the fundamental task of interpretation is to determine objectively the intention of the parties to the contract, the first question is to identify the parties and the contract. All of the parties understandably focussed on the guarantees. This led to discussion of how it was impossible to determine the intention of the Corporation, which had played no part in the creation of the guarantees, or the more metaphysical problem of identifying the parties when the very issue was the identity of one of them.
+The guarantees are, in fact and law, unilateral contracts. So much is apparent from the fact that ANZ's obligation is expressed to be "in consideration of the Principal accepting this Undertaking and its terms". That complies precisely with Lord Diplock's famous definition of a unilateral contract in United Dominions Trust (Commercial) Ltd versus Eagle Aircraft Services Ltd [[1968] 1 All ER 104] at 445. They are unconditional bonds to pay money on demand.
+For the purposes of interpretation the point is that the guarantees are the result of the performance of the Indemnity, whereby ANZ agreed to issue the guarantees at the request of Nebax on certain terms. As such, the question of the identity of the Principal must be answered by reference to ANZ's and Nebax's intention as evidenced by the Indemnity and the guarantees. Who did ANZ and Nebax intend to be the Principal in the guarantees which were the product of the Indemnity?
+Putting it another way, the fact that the guarantees are the product of the Indemnity is the critical surrounding circumstance in construing the guarantees.
+Analysing the matter in this way, the language in the Indemnity makes it clear that the commercial purpose of the guarantees is to facilitate a "business transaction" with the named Favouree, who becomes the Principal in the guarantees. The "business transaction" is better described in the guarantees in the Description.
+The surrounding circumstances known to both Nebax and ANZ were: * (1) Nebax was a construction company which frequently entered into contracts that required Nebax to provide guarantees. In other words, the provision of such guarantees was a feature of the market in which Nebax operated.
+* (2) Nebax had a facility with the ANZ which had, as one of its express purposes, the providing of guarantees by ANZ to parties with whom Nebax had a contractual relationship.
+* (3) Nebax had a contract which Mr Simic intended to identify by the description given by Mr Simic to Ms Hanna and which Ms Hanna recorded as the Description.
+* (4) The guarantees were required pursuant to that contract.
+The Court concludes that a reasonable business person taking into account the matters referred to in paragraphs [72] and [73] above would have understood the reference in the guarantees to "New South Wales Land & Housing Department trading as Housing NSW ABN 45754121940" as being intended to be a reference to the party with whom Nebax had the contract which answered the description "Job Number: P0409021, Bombaderry - Design and Construct 3/7 Karowa Street. Contract No: BG2J8". That reasonable business person would be left in no doubt that contract was the Building Contract, being the contract which Nebax had with the Corporation and that, therefore, the party which Nebax and ANZ had intended to describe as the Principal was the Corporation.
+The same result follows if the more specific principles in relation to misnomer are applied. I summarised the test in paragraph [49] above. One further comment is necessary. Insofar as the test requires that the identity of the correct party must be obvious or plain to all those who are concerned with the document, that can be conveniently assessed by asking what would have happened if the allegedly correct state of affairs had been asserted to the parties at the time.
+Given that no piece of paper generated by any party in the process up to and including the Building Contract ever referred to the New South Wales Land and Housing Department and there never has been such an entity, there can be no doubt that when Mr Simic gave that name to Ms Hanna, Mr Simic made a mistake. Ms Hanna, unwittingly, perpetuated that mistake in both the Indemnity and the guarantees produced pursuant to the Indemnity. If someone had pointed out at the time to Mr Simic and Ms Hanna that the name given by Mr Simic to Ms Hanna for the Favouree and Principal was wrong, it would have been plain or obvious to both of them that it was meant to be Nebax's counterparty to the Building Contract. It is no objection to this analysis that Ms Hanna did not know the correct name of the Corporation because that is something which, if the mistake had been drawn to her attention, she could easily have found out by asking Mr Simic either to tell her from his own knowledge or by producing the Building Contract.
+A further and alternative way in which the Court reaches the same conclusion is by the application of the principles to avoid absurdity. To adopt the language of Leeming JA in Clowes cited in paragraph [64] above, this is a clear case where the literal meaning of the contractual words is an absurdity, and, it is self-evident what the objective intention is to be taken to have been. It is an absurdity because the literal description of the Favouree and Principal in the Indemnity and guarantees refers to a non-existent entity with the result that the Indemnity and guarantees have no legal effect. That is an absurd outcome because it is clear that the entire process of Mr Simic attending at the Branch, providing the information to Ms Hanna, Ms Hanna producing the Indemnity and guarantees and Mr Simic and Ms Hanna duly executing those documents all points to their intention that the Indemnity and guarantees were intended to have legal effect. The description of the Favouree and Principal in the Indemnity and guarantees respectively, taken literally, renders that whole process, which was otherwise an unremarkable, everyday commercial transaction, a solemn farce.
+In addition to the literal meaning of the contractual words being an absurdity, it is self-evident from the language of the Indemnity and guarantees what the objective intention is to be taken to have been. The Description clearly demonstrates that the Favouree and Principal was intended by ANZ and Nebax to be the entity with which Nebax had entered into the contract which matched the Description.
+
+Construction - resolution: objections
+Having reached the conclusions which are set out in the preceding section of this judgment, I now turn to the key submissions raised by the parties which are contrary to the conclusions I have reached. There are five such objections.
+First, ANZ submitted that Kingstream was distinguishable for three reasons: * (1) It concerned a letter of credit and not a guarantee.
+* (2) It concerned the identity of the issuing party and not the beneficiary.
+* (3) It was an interlocutory appeal where the issue was only whether misnomer is arguable.
+
+The first two bases are irrelevant. I have taken account of the third. I have not treated the decision as binding upon me (it could not be even if it related to a final judgment) but rather as a persuasive example of how the principles can be applied to a materially similar case.
+Second, much emphasis was laid on those cases which said there had to be strict compliance with the terms of the guarantee or letter of credit. An archetypal example of the many cases to that effect drawn to the Court's attention was United Bank Ltd versus Banque Nationale de Paris [1991] 2 SLR(R) 60 ("UBL") in which Chow Hick Tin J held that a bank was entitled to reject documents where the relevant letter of credit was issued in favour of Pan Associated Ltd whereas the letter of credit was negotiated on behalf of Pan Associated Pte Ltd. Despite evidence that it was not possible in Singapore for two companies with the names of Pan Associated Ltd and Pan Associated Pte Ltd to co-exist, in the absence of obvious typographical errors (of which this was not an example) the negotiating or issuing bank was entitled to reject the documents unless the name of the beneficiary was the same on the tendered documents as on the letter of credit.
+The Court has already noted that the requirement for strict compliance in the present case arises from the term of the guarantees themselves. The Court does not dispute the correctness of decisions such as UBL or other cases to similar effect. But this case does not engage those principles.
+The guarantees required the originals of the guarantees to be produced "accompanied by a written demand". There can be no doubt that on its proper construction "written demand" means a written demand by the Principal. In this case the originals of the guarantees have been produced accompanied by a written demand by the Corporation. The question is whether the Corporation is the Principal. This requires the Court to answer the question whether "New South Wales Land & Housing Department Trading As Housing NSW ABN 45754121940" on its proper construction means the Corporation.
+Cases such as UBL are of no assistance. This is because the question of construction in this case raises an issue which must be determined before the application of the contractual requirement of strict compliance between what the guarantees said had to be done and what was in fact done. The Court's conclusion is that, on the proper construction of the guarantees, the demand by the Corporation was the demand by the Principal required by the guarantees. Having determined the question of construction, the contractual requirement of strict compliance is engaged and shown to be satisfied.
+The third objection was that there was no evidence that the Corporation was trading as Housing NSW at the date of the guarantees. There are two answers to this: * (1) It is not necessary for the Corporation to have been trading as Housing NSW at the date of the guarantees. That is because the Building Contract, which the Court is satisfied is the contract referred to in the Description, was made by the Corporation simpliciter and was not expressed to be by the Corporation trading in any particular capacity.
+* (2) In any event the Court, if it were necessary, does find that the Corporation was trading as Housing NSW as at 16 April 2010 at least in relation to the project which was the subject of the Building Contract. See paragraph [14] above.
+The fourth objection was that there was no evidence that Ms Hanna knew of the Building Contract. That is strictly correct given that what she knew was the incorrect name of Nebax's counterparty to the contract in relation to which the Indemnity was agreed and the guarantees were sought. That, however, is irrelevant for the purpose of construing the Indemnity and guarantees because it reflects no more than her (and, therefore ANZ's) subjective state of mind. The objective theory of contract does not take that into account. ANZ's objective intention is demonstrated from the terms of the Indemnity and guarantees to the effect that the Principal was Nebax's counterparty to the contract referred to in the Description.
+Fifth, it was submitted that to the extent that the named beneficiary was "Housing NSW ABN 45754121940", the guarantees could never be called upon after the cancellation of that registration in July 2010. That objection is irrelevant when, as the Court has found, the proper construction of the description of the Principal in the guarantees is the Corporation simpliciter. The Court does not have to consider, and expresses no view, on the question of whether the trading name and ABN number were essential terms in the description of the Principal and whether any demand under the guarantees would have to have been made by the Corporation expressly describing itself as such. Whether the Corporation could reactivate the ABN registration for the purposes of making the demand is not a matter that was canvassed before the Court.
+
+Rectification - some observations
+Given the conclusion I have reached on the question of construction, it is strictly unnecessary to deal with the case brought for rectification. However, out of deference to the parties' arguments, I will express my brief conclusions on this aspect of the case.
+In short, I accept the Corporation's submission that the present case is on all fours with the circumstances considered by the Full Court of the Supreme Court of Queensland in Elders Lensworth Finance Limited versus Australian Central Pacific Limited [(1986) 2 QdR 364.] I respectfully adopt as correct the statement of legal principles set out in the judgment of Derrington J (at 368-369), with whom Kelly ACJ and Moynihan J agreed: 
+There is little controversy as to the legal principles on rectification which have application here. The rectification sought must be in accord with the intention of both parties at, in the present case, the time of execution of the guarantee: Pukallus v. Cameron [(1982) 59 A.L.J.R. 906], 909 and the cases cited therein. Where the parties to a contract expressly agree to the terms of a written document without any representation or assertion by either as to its legal consequences, it is not a ground for rectification that neither party may have perceived what a particular term would produce or what its financial consequence would be: Lewis Construction (Engineering) Pty.
+Ltd. v. Southern Electric Authority of Queensland [(1976) 50 A.L.J.R.
+],
+Of course, the respondents' claim is that there was a common intent as to the legal consequences of the guarantee. It is not necessary that the parties should have communicated to each other the terms of their mutual agreement, for all that is necessary is that the parties should have a common intention at the time of the contract: Australasian Performing Right Association Ltd.
+v. Austarima Television Pty. Ltd. [[1972] 2 N.S.W.L.R. 467], 473;
+Hooker Town Developments Pty. Ltd. v. Director of War Service Homes [(1973) A.L.J.R. 320] at pp. 323, 324; Pukallus v. Cameron <case>; [(1982) 56 A.L.J.R. 907], 909; and Bishop Gate Insurance Australia Ltd. v.
+Commonwealth Engineering (N.S.W.) Pty. Ltd. [[1981] 1 N.S.W.L.R. 429] or, as here, the guarantee. However, there must be an identical corresponding contractual intention on each side, manifested by some act or conduct from which one can see that the contractual intention of each party met and satisfied that of the other. There must be seen to exist objectively a consensual relationship between the parties and not merely one which remained undisclosed in the course of the negotiations: ibid. Moreover, rectification requires "convincing proof" that the written document does not embody the final intention of the parties, and the omitted ingredient must be capable of such proof in precise terms: Pukallus v. Cameron (supra) at p. 909;
+Australian Gypsum Ltd. and Australian Plaster Co. Ltd. v. Hume Steel Ltd.
+ <case>; [(1930) 45 C.L.R. 54], 64; Slee v. Warke <case>; [(1949) 86 C.L.R. 271], 281.
+I also particularly rely on the Full Court's emphasis, first, on the search for the parties' common intention to be determined by what Derrington J described as the "effective intention" and, second, on the relevance of the degree to which the specific identity of the party concerned was important to the other party (see per Derrington J at 369 and 370-371).
+For the reasons I have already stated (see paragraphs [68] to [71] above), the relevant intention is that of Nebax (in the person of Mr Simic) and ANZ (in the person of Ms Hanna). For this reason I do not accept ANZ's contention that rectification was not possible because there was no common intention demonstrable between the Corporation and ANZ. Similarly, I do not accept ANZ's submission that rectification was impossible because Ms Hanna's undoubted subjective intention was to issue a guarantee in the name she was given by Mr Simic. Owing to Mr Simic's mistake, there is no doubt that both Mr Simic and Ms Hanna subjectively intended to write the words "New South Wales Land & Housing Department Trading As Housing NSW ABN 45754121940". However, while that is some evidence towards a finding as to what their common contractual intention was, it does not dispose of the question. That is particularly so in these proceedings, where Ms Hanna readily and understandably accepted that the identity of the Principal was a matter of indifference to her (and, therefore, to ANZ).
+Having regard to the matters set out in paragraphs [72] and [73] above, the Court finds that ANZ and Nebax's common intention, or the effective intention to use the language of Derrington J, was for the guarantees to support Nebax's building contract referred to in the Description. ANZ and Nebax intended the Principal to be Nebax's counterparty to that contract. The Court is fortified in this conclusion by Ms Hanna's indifference to the precise identity of the beneficiary of the guarantee. Her (the Bank's) effective intention was to provide a guarantee in support for and compliance with its customer's contract identified in the Description.
+Finally, I should note that, with respect, I do not accept Stamp J's initially attractive suggestion in Goldsmith (see paragraph [51] above) that rectification will not be available if, contrary to the circumstances of the case at bar, the identity of a party cannot be determined as a matter of construction. There are two reasons for my respectful disagreement.
+First, as a matter of theory for rectification the Court is entitled to have regard to a wider range of material (including evidence of subjective intention) than what is available to it in the objective construction of a contract. There may be insufficient evidence for construction but sufficient for rectification. Second, if the requisite common intention can be found, rectification will relate back to the time of execution of the instrument. It follows the fact that there may be no contract but for the rectification is no bar to rectification: Issa versus Berisha [[1981] 1 NSWLR 261.]
+Finally, I note that ANZ and the active cross-defendants have accepted that their respective liabilities will arise if the Court finds, as it has, that the Corporation is the Principal referred to in the guarantees. In those circumstances there is no need for the Court to take the next step of ordering rectification of the guarantees. Nevertheless, the Court finds that the prerequisites for the making of an order for rectification are satisfied. If it were to be suggested that leaving the guarantees in an unrectified state would be a potential source of confusion or difficulty, then in the exercise of the Court's discretion I would order the guarantees to be rectified (see the discussion as to this approach to rectification in cases of construction in J.D. Heydon, M.J. Leeming and P.G. Turner, Meagher, Gummow and Lehane's Equity Doctrines and Remedies, 5th Edn, LexisNexis Butterworths, 2015 at [27-105]).
+
+Conclusion
+The Court finds that on its proper construction "New South Wales Land & Housing Department Trading As Housing NSW ABN 45754121940" in the guarantees and Indemnity means the Corporation. The Corporation has complied with the terms of the guarantees by presenting the originals accompanied by a written demand from the Corporation at an ANZ Branch located within Australia. ANZ is therefore liable to pay the Corporation in accordance with the guarantees. The active cross-defendants have accepted that in that event they are liable to ANZ.
+The proceedings will be stood over to enable the parties to formulate orders to give effect to these reasons. I will also give the parties an opportunity to prepare submissions as to costs to the extent they are unable to be agreed.
+ 
+Amendments March 2015 - Minor renumbering changes, no change to content.
+ March 2015 - Paragraph 45 - Keifel changed to Kiefel * * * 

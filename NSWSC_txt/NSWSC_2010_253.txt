@@ -1,0 +1,280 @@
+
+
+Yu & anor versus Brownvalley Investments Pty Ltd & ors [2010] NSWSC 253 (1 April 2010) 
+Last Updated: 8 April 2010 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Yu & anor versus Brownvalley Investments Pty Ltd & ors <case>  
+JURISDICTION: 
+Equity Division  
+FILE NUMBER(S):  /280505  
+HEARING DATE(S):  & 3 November 2009  
+JUDGMENT DATE:  April 2010  
+PARTIES: 
+Na Min Yu (first plaintiff) 
+Jing Qi Yao (second plaintiff) 
+Brownvalley Investments Pty Ltd (first defendant/cross-claimant) 
+Commonwealth Bank of Australia (second defendant/first cross-defendant) 
+Anthony Lawrence Braunthal (third defendant) 
+Wayne Snelson (fourth defendant/third cross-defendant) 
+Helmut Klein-Beernink (fifth defendant/fourth cross-defendant) 
+Luke Atkins (sixth defendant) 
+Ian Burt (seventh defendant) 
+Bai Shan Li (eighth defendant) 
+Michael Lee (ninth defendant) 
+Donald Lehane Smith (tenth defendant) 
+Golden Harvest Co Pty Ltd (eleventh defendant/second cross-defendant) 
+Global Assets & Resources Pty Ltd (twelfth defendant) 
+Project People Pty Ltd (thirteenth defendant) 
+Golden Harvest Ltd LLC (fourteenth defendant)  
+JUDGMENT OF: 
+Brereton J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+Mr T Hall (sol) (plaintiffs) 
+Mr A Paterson (first defendant) 
+Mr D McLure (second defendant) 
+Mr Bai Shan (aka Jack) Li (in person) (eighth defendant) 
+Mr Michael Lee (in person) (ninth defendant)  
+SOLICITORS: 
+Hall Partners (plaintiffs) 
+Fetter Gdanski (first defendant) 
+David Cohen Solicitor (second defendant) 
+Lloyd & Lloyd Solicitors (eighth defendant)  
+CATCHWORDS: 
+BANKING AND FINANCE - Bank guarantee - notice of - effect of unauthorised delivery to favouree - not a negotiable instrument - not money - held, unauthorised delivery does not give favouree title to guarantee - AGENCY - ostensible authority - whether possession of bank guarantee sufficient to confer ostensible authority to deliver same to favouree - held, more than mere possession is required to indicate authority to deal  
+LEGISLATION CITED:  [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) [s (10)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1324.html), [s
+H](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1317h.html), [s
+HA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1317ha.html)  
+CATEGORY: 
+Principal judgment  
+CASES CITED: 
+Central Newbury Car Auctions Ltd versus Unity Finance Ltd <case>; [(1872) LR 10 CP 354], 362 
+Farquharson Brothers & Co versus King & Co [[1902] AC 325] 
+Fox versus Martin [(1895) 64 LJ Ch 473]] 
+Fry versus Smellie [[1912] 3 KB 282] 
+Jerome versus Bentley & Co <case>; [(1758) 1 Burr 452] 
+Moorgate Mercantile Co Ltd versus Twitchings [[1977] AC 890] 
+Weiner versus Gill [[1905] 2 KB 172], 182  
+TEXTS CITED:  
+DECISION: 
+The plaintiffs are not entitled to an injunction restraining calling on or payment of the bank guarantee. The plaintiffs are entitled to judgment against
+Golden Harvests for damages for breach of contract. The first defendant is entitled to judgment against Golden Harvests and Mr Snelson for AU$550,000 less the amount it recovers under the bank guarantee, and against Mr Klein-
+Beernink for AU$700,000, plus interest from 1 February 2009, less the amount it recovers under the bank guarantee.  
+JUDGMENT:  
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+EXPEDITION LIST  
+BRERETON J  
+Thursday 1 April 2010  /280505 Na Min Yu & anor versus Brownvalley Investments Pty Ltd & ors 
+JUDGMENT HIS HONOUR: Golden Harvests LLC is a Nevada corporation, and Wayne
+Snelson is its President and sole director. On 7 July 2007, the first defendant Brownvalley Investments Pty Ltd agreed with Golden Harvests that it would place moneys (eventually AU$552,000) with Golden Harvests for investment purposes, secured by a bank guarantee, in return for which Golden Harvests would repay to Brownvalley AU$648,000.
+ The plaintiffs Na Min Yu and Jing Qi Yao, together with the eighth defendant
+Bai Shan (Jack) Li, are the registered partners of a New South Wales firm called United Antler Corp (Antler). On 16 July 2007, Antler agreed with Golden
+Harvests to procure a US$500,000 bank guarantee - in the belief that the guarantee was for the purpose of evidencing their financial capacity only, and that they would retain the original so that it could not be cashed - in return for which Golden Harvests would pay Antler a total of US$80,000. On 31 July , the plaintiffs procured the issue of such a bank guarantee from the second defendant Commonwealth Bank of Australia (CBA), on the security of their term deposit of AU$630,000 with CBA, in favour of Brownvalley.
+ Despite the plaintiffs' understanding that they were to retain the original bank guarantee, in fact, in circumstances to be described, the original bank guarantee was delivered to Brownvalley. Needless to say, Brownvalley was not repaid in accordance with its agreement with Golden Harvests, and on 30
+October 2007, Brownvalley presented the guarantee to the bank and demanded payment. Some negotiations ensued, and in order to avoid immediate payment, and in the hope that the funds might be repaid by Golden Harvests in the interim, a replacement bank guarantee was procured, and Brownvalley for the time being withdrew its demand for payment. Subsequently, a series of further bank guarantees, each in substitution for the previous one, were issued, the fifth on 4 June 2008 expiring on 4 September 2008 for a sum of AU$550,000.
+ Prior to 4 September 2008, Brownvalley determined to call on the fifth guarantee and presented it to CBA for payment. It now appears that the funds advanced by Brownvalley to Golden Harvests have been lost. The plaintiffs claim, primarily, a perpetual injunction restraining Brownvalley and CBA from calling on and paying the fifth guarantee. The main issues are: * whether, as the plaintiffs allege, the original bank guarantee came into possession of Brownvalley without their authority or consent, * if so, whether in those circumstances Brownvalley was not entitled to the benefit of that guarantee, and * whether, in any event, that affects the enforceability at the suit of
+Brownvalley of the fifth guarantee.
+ Alternatively, the plaintiffs sue Golden Harvests for breach of its promise to return the guarantee and Mr Snelson on what is said to be a promise by him personally to indemnify them in respect of any loss. The plaintiffs discontinued claims against the fifth defendant Helmut Klein-Beernink (an apparent officer of Golden Harvests), the seventh defendant Ian Burt, the ninth defendant Michael Li (the son of Jack Li), the tenth defendant Donald
+Lehane Smith, and the thirteenth defendant Project People Pty Limited. They ultimately settled with the eighth defendant Jack Li, upon terms that there be judgment for Mr Li.
+ Brownvalley cross-claims against CBA for damages for misleading and deceptive conduct said to be constituted by a representation made by the bank's officer to the effect that the identity of the bank's customers and the state of any contractual relationship with them was not a matter about which
+Brownvalley, as favouree, needed to be concerned. Brownvalley also brought cross-claims against Golden Harvests, Mr Snelson and Mr Klein-Beernink.
+ 
+Background The underlying transactions were encompassed in two Memoranda of
+Understanding (MOUs) prepared by Golden Harvests, one with Brownvalley, and the other with Antler. Neither MOU really illuminates the ultimate destination or beneficiary of the invested funds, nor the workings of the so-called "Private Placement Programme" - if indeed there were any such programme. Like not a few of the documents in evidence emanating from Golden Harvests, they contain many words but little meaning.
+ On 7 July 2007, unbeknownst to the plaintiffs, Brownvalley and Golden
+Harvests entered into an MOU pursuant to which Brownvalley agreed to provide
+US$460,000 cash to Golden Harvests, and Golden Harvests agreed to provide to
+Brownvalley within a week a bank guarantee in the sum of US$500,000, and within a month US$540,000 cash - whereupon Brownvalley was to return the bank guarantee. This MOU was signed on behalf of Golden Harvests by Mr Snelson (described as President) and Helmut Klein-Beernink (described as Program
+Provider).
+ On 16 July 2007, unbeknownst to Brownvalley, Antler entered into a MOU with
+Golden Harvests pursuant to which Antler agreed to provide a US$500,000 bank guarantee, and Golden Harvests agreed to provide to Antler within a week
+US$40,000, and within a month another US$40,000 and also to return the bank guarantee. Also on 16 July 2007, the "board" of Antler, comprising the plaintiffs and Jack Li, adopted a resolution (entitled, and in the evidence referred to as, the "Corporate Resolution") to utilise funds on deposit with
+CBA to the extent of US$500,000 for "private placement in a high-yield programme", and to grant the necessary authority and powers (to use corporate bank accounts, enter into fee agreements, to receive and distribute all profits, enter into agreements etc) to Jack Li "together with the assistance of Luke Atkins and Donald Lehane Smith". It was further provided that the "appointed officer" (Jack Li) shall have authority to negotiate all details and sign the final contract with the bank officers. Jing Qi Yao, Na Min Yu,
+Bai Shan Li and Luke Atkins signed a minute of this resolution.
+ Mr Jack Li's evidence as to the surrounding events was ultimately uncontradicted and unchallenged, and the following is based on it. In late
+July, Mr Atkins told him that CBA would not allow Antler to obtain as bank guarantee in favour of itself (as had originally apparently been envisaged), but that Golden Harvests had arranged for National Australia Bank's trading corporation, Brownvalley, to provide the credit line for the Private Placement
+Programme, and that Antler needed to procure a bank guarantee of US$500,000 in favour of Brownvalley, the original of which Antler would continue to hold for safe-keeping, with only a coloured copy to be given to Brownvalley. "As long as you hold the original bank guarantee, Brownvalley nor anyone else can redeem the bank guarantee", said Mr Atkins. Mr Lee conveyed that to the plaintiffs, who replied: "Okay. We will issue the bank guarantee to
+Brownvalley. We understand that we need to hold on to the original document of the bank guarantee, Brownvalley will not be able redeem it. We do not see a problem with that". On or around 31 July 2007, Mr Atkins told Mr Lee that he would accompany him to CBA to collect the original guarantee, take it home to make a coloured copy and notarise it, scan it and email it to "the PPP Trade
+Platform", and then return the original for safe-keeping. Mr Lee conveyed that to the plaintiffs, who said: "Please attend to collect the original bank guarantee on our behalf. We have authorised Luke Atkins to collect the original bank guarantee for the purpose of copying the document and returning the original bank guarantee to us".
+ On 31 July 2007, CBA at the request of Jing Qi Yao, Na Min Yu and Bai Shan
+Li trading as Antler, issued a bank guarantee in the sum of US$500,000 in favour of Brownvalley. In form, the guarantee is expressed to be security for the obligations of "Jing Qi Yao and Na Min Yu and Bai Shan Li trading as
+United Antler Corporation", described as "Customer", but where provision is made for insertion of a description of the secured obligations, it states "Proof of capacity for the United Antler Corp's transaction with reference to
+Bai Shan Li".
+ On 31 July, Mr Atkins and Mr Jack Li attended at the CBA's Martin Place office to collect the guarantee. A bank officer Jaylin Mao handed Mr Atkins the original guarantee. On 2 August, Mr Lee received an email from Mr Atkins confirming that the latter had an envelope with three certified copies of the bank guarantee, and the original, which had been laminated "so nobody can copy it or make a forgery", which he would drop into town for Mr Li soon. On 2
+August, Mr Lee's son Michael collected the laminated guarantee - purportedly and to all appearances the original, but in truth a coloured copy - and three coloured copies, all of which were thereafter retained by Jing Qi Yao.
+ What happened thereafter must mostly be deduced from the evidence of
+Brownvalley's principal, Mr Braunthal. On 1 August 2007, Mr Snelson sent him an email attaching a colour copy of the guarantee and stating that the original was being couriered to Mr Snelson and was due to arrive, pending Mr
+Braunthal's decision about where it should be kept. The email also stated that
+Luke Atkins was the representative of Antler, an ex-banker and magistrate "who was called in to resolve the issues we kept having with CBA". That email enclosed an earlier email from "United Antler Group" to Mr Snelson, apparently attaching a copy of the guarantee and stating "... trust this is what is required to commence MoU".
+ On 14 August 2007, Mr Snelson delivered the original bank guarantee to
+Brownvalley's solicitor. Mr Braunthal instructed his solicitors to make some inquiries about the identity of the various parties. Mr Simon Thomas of
+Brownvalley's solicitors had a conversation with Ms Alexis Hartley of CBA, to the following effect: 
+THOMAS: Has Bank Guarantee no. G282811 been duly and properly issued by the Commonwealth Bank? 
+HARTLEY: Yes it has.
+
+THOMAS: Does it matter whether or not my client has any contractual relation with the persons named as customer on the bank guarantee? 
+HARTLEY: No, the persons named as customer are merely the persons from whom the Commonwealth Bank seeks repayment. Your client should only be concerned with the identity of the Commonwealth Bank not with the identity of the persons named as customer.
+
+THOMAS: So it does not matter if the persons named as customer were a third party to any agreement involving my client? 
+HARTLEY: No, it wouldn't matter.
+
+THOMAS: What is the significance of the word "contract" in the phrase "The customer is required to provide security to the Favouree for the performance of obligations under a contract for ...", and is the actual description of the contract determinative of the validity of the bank guarantee? 
+HARTLEY: The description is required merely for identification purposes.
+The Bank Guarantee is an unconditional undertaking and the Commonwealth Bank is obliged to pay the Favouree the amount guaranteed under the bank guarantee regardless of the description of the contract.
+
+THOMAS: Is the bank guarantee unconditional and irrevocable? 
+HARTLEY: That is correct. All that Brownvalley Investments Pty Ltd needs to do to require payment by the Commonwealth Bank of the sum guaranteed under the bank guarantee is to put in writing that it demands partial or whole payment and should give instructions for payment accordingly.
+ Mr Braunthal nonetheless obtained some information about Antler, through Mr
+Snelson. Mr Snelson also forwarded to him, on 16 August, a copy of the
+Corporate Resolution. On 21 August 2007, Golden Harvests, Mr Snelson and Mr
+Klein-Beernink executed a deed, entitled "Acknowledgement and Undertaking" and addressed to Brownvalley, which was subsequently provided to Brownvalley, by which they jointly and severally acknowledged, undertook, agreed and represented that: * they had procured a bank guarantee from Antler as security for Brownvalley's entitlements under the MOU; * subject to advancing US$460,000 Brownvalley would be entitled to receive a payment of US$540,000 by 26 October 2007; * in the event that payment was not received, Brownvalley may call up and cash the bank guarantee without reference to Antler or Golden Harvests and retain the full proceeds on account of the payment; * they had a separate arrangement with Antler pursuant to which the bank guarantee had been procured and may be applied for the purposes of the
+Memorandum of Understanding and to the full extent required, and Antler had agreed and consented to Brownvalley calling up and cashing in the bank guarantee without notice if it did not receive the payment [of US$540,000]; and 
+We jointly and severally agree to be responsible for all costs, liability, loss or damage suffered or incurred by you as a result of any breach or default of the MOU and this Acknowledgement and Undertaking and in respect of the BG, and all ancillary matters and transactions associated therewith.
+ Also on 21 August, Mr Snelson proposed that Brownvalley's investment be varied to AU$552,000, and the repayment to AU$648,000. On 22 August, Mr
+Braunthal, writing on the letterhead of Brownvalley, directed transfer of
+AU$552,000 from his own bank account to the account of Golden Harvests.
+ Brownvalley did not receive the repayment to which it was entitled under its MoU with Golden Harvest within a month of 22 August, and as the bank guarantee was to expire on 3 November 2007, Brownvalley on 30 October 2007 presented it to CBA and demanded payment. Jaylin Mao at CBA informed Jack Li of this on or about 1 November, querying the authenticity of the claim because she had been given to understand that Antler was to retain the original. Mr Li maintained that that was so, but when he and Jing Qi Yao took the laminated copy to the bank on 2 November, it was confirmed that it was in fact a copy.
+ On 1 November, an email was sent to Mr Atkins on behalf of Antler, reporting that they had just been informed that Brownvalley had attempted to cash the guarantee; Mr Atkins responded to the effect that "you have the original and that's the end of the story".
+ Following an intervention by Mr Snelson on 8 November, which included a promise that Golden Harvests would repay AU$700,000 in lieu of AU$648,000, an undertaking by CBA to pay on the initial guarantee if there were any issue with the replacement guarantee, and an assurance that Antler would provide a replacement guarantee, Brownvalley accepted a substituted guarantee on 19
+November 2007. Further replacement guarantees were substituted, in anticipation of the expiry of the predecessor guarantee, on 5 February 2008, 2
+May 2008, and 4 June 2008, the last expiring on 4 September 2008. On 3
+September 2008, Brownvalley presented the fifth guarantee to the CBA and demanded payment under it. The CBA would have honoured the payment, but for an interlocutory injunction obtained by the plaintiffs.
+ 
+Was delivery of the bank guarantee to Brownvalley authorised? At no time were there any direct dealings between Antler and Brownvalley.
+Indeed, each proceeded on the basis that the other was essentially irrelevant.
+So how did Brownvalley come to possess the original guarantee? The evidence of Jack Li, which in this respect was neither challenged nor contradicted, was that he entrusted the original bank guarantee to Mr Atkins upon terms that it would be copied, and the original returned. The overwhelming inference from the evidence summarised above is that Mr Atkins, instead of retaining a copy and returning the original, in fact retained the original and provided it to Mr Snelson, who in due course provided it to
+Brownvalley. At the very least, therefore, Mr Atkins exceeded his actual authority by delivering the original bank guarantee to Mr Snelson.
+ Nor in my judgment did Mr Atkins have ostensible authority to deliver the bank guarantee to the favouree. It is true that he was in a sense "armed" with the bank guarantee, but it is well-established that merely entrusting a person with the muniments of title is not of itself enough to give that person ostensible authority to deal with the title; for such circumstances to create apparent authority there must be something more - some indication of authority to deal with the subject matter over and above mere possession [Weiner versus Gill [[1905] 2 KB 172], 182; Cole versus North Western Bank <case>; [(1872) LR 10 CP 354], 362; Farquharson Brothers & Co versus King & Co [[1902] AC 325]; Fry versus Smellie [[1912] 3 KB 282]; Jerome v
+Bentley & Co [[1952] 2 All ER 114];
+Central Newbury Car Auctions Ltd versus Unity Finance Ltd [[1957] 1 QB 371]; Moorgate
+Mercantile Co Ltd versus Twitchings  [[1977] AC 890], 902-4]. Thus, even where a share certificate and an executed share transfer is given to an agent, but dealt with by the agent - in excess of authority - by deposit with a bank as security for an advance to the agent, the bank acquires no title against the true owner [Fox versus Martin [(1895) 64 LJ Ch 473].] As to whether there was anything in addition to mere possession of the guarantee, Brownvalley invoked two matters. First, Brownvalley emphasised that the plaintiffs and Jack Li were partners and co-owners of Antler.
+However, I do not see how the partnership adds anything to the argument, since
+Mr Atkins was not one of the partners, and Mr Li's authority is not in issue.
+Secondly, Brownvalley points to the "Corporate Resolution", and its references to the "assistance of Mr Luke Atkins". A copy of the Corporate
+Resolution did reach Brownvalley, via Mr Snelson. Its terms are somewhat ambiguous: while it refers to the "assistance" of Mr Atkins, who is described in it as "Consultant and Adviser", it does not nominate him as an agent; in this respect his status under it is quite distinguishable from that of Jack
+Li, who was described as "the appointed officer". In that context, I do not think that the Corporate Resolution, together with possession of the guarantee, cloaked Mr Atkins with authority to deliver it to the favouree. Mr
+Atkins' authority extended, at the highest, to assisting Mr Li.
+ In any event, Brownvalley did not receive the original guarantee from Mr
+Atkins, but from Mr Snelson, of Golden Harvests, who certainly had no actual authority to deliver it to Brownvalley, and there was no act of holding out by the plaintiffs to give Mr Snelson ostensible authority to do so.
+ It follows that the delivery of the original guarantee to Brownvalley was unauthorised. What then are the consequences? 
+Brownvalley was not entitled to enforce the original guarantee There was some confusion in the argument between the doctrine of nemo dat quod non habet, and that of bona fide purchaser for value without notice. The former is concerned with the passage of legal title: if legal title does not pass, no question arises for consideration of the bona fide purchaser doctrine. But if legal title passes, then the transferee takes subject to the equities, unless it is a bona fide purchaser for value without notice. Which of these is applicable depends in part on the characterisation of a bank guarantee - whether it is a chattel transferable by delivery, or a negotiable instrument, or the equivalent of money.
+ In the case of moneys, the relevant principle is that if money is transferred by a thief or a fraudster or an agent in excess of authority, and is intercepted before it comes into currency, the true owner can recover it; but where it is paid as money for valuable consideration to a person without notice of the absence of authority, it cannot be recovered, because it has passed into currency <case>; [(1758) 1 Burr 452], 457; Lipkin Gorman versus Karpnale [[1991] 2 AC 548].] Here, even if the bank guarantee were regarded as money's equivalent, it had not yet passed into currency: it retained its separate identity and had not been cashed. As it had not been received in due course from the true owner, it could be intercepted and recovered. Such a result would not be inconsistent with the commercial character of a bank guarantee. Nor would it be inconsistent with the commercial equivalence of a bank guarantee to cash. Indeed, it would treat a bank guarantee no differently from cash: the recipient of money is not entitled to its benefit if it is received from a thief, or from an agent in excess of authority - unless it has passed into currency.
+ A different position pertains in respect of negotiable instruments. If the bank guarantee were a negotiable instrument, then its delivery to Brownvalley conveyed title, but only insofar as Brownvalley was not other than a bona fide purchaser for value without notice. Despite the argument advanced by Mr Hall to the effect that no consideration moved from Brownvalley - because
+Brownvalley did not itself pay any funds, the funds advanced apparently being drawn from the account of its director Mr Braunthal - in my judgment
+Brownvalley was not a volunteer. The payment by Mr Braunthal, albeit from his own account, was in performance of Brownvalley's obligations under the MOU, and would have created a reciprocal obligation by Brownvalley to Mr Braunthal, presumably on loan account.
+ Notwithstanding that as a matter of commercial practice, a bank guarantee is frequently treated as if it were equivalent to money, it is not money, any more than is a cheque or a bill of exchange: it is a promise to pay upon certain conditions being satisfied. And a bank guarantee is not a negotiable instrument; it operates only in favour of the favouree. Because it does not have the quality of negotiability, it is not akin to a cheque. It follows that receipt by the favouree of a bank guarantee does not automatically entitle the favouree to the benefit of the guarantee, but does so only if it is delivered by the true owner (or its duly authorised agent). Thus, whether or not
+Brownvalley acquired a good legal title depends upon whether the immediate prior possessor (relevantly Mr Snelson) had title or right to transfer it. It follows from the above that Mr Atkins, and a fortiori Mr Snelson, had no such authority.
+ Accordingly, I would therefore not have accepted that Brownvalley should be regarded as on notice of the excess of authority, and had legal title passed I would not have concluded that Brownvalley was other than a bona fide purchaser for value without notice. But, because the guarantee was not delivered by the true owners or their authorised agent, Brownvalley never acquired legal title to it.
+ 
+The effect of the subsequent guarantees The next issue is whether any defect in the enforceability of the initial guarantee affects the enforceability of the replacement guarantees, in particular the fifth. The plaintiffs say that the replacement guarantees were, in a practical sense, "forced" upon them, in that they would lose their funds if they did not give a replacement guarantee.
+ After Brownvalley first called on the first guarantee, negotiations ensued.
+Assurances were given by Golden Harvests that Brownvalley's funds would be repaid. In order to avoid the imminent loss, the plaintiffs procured the issue of a replacement bank guarantee. The background to this was at least a hope that Golden Harvests would source the funds to repay Brownvalley in the meantime. The procuring of the replacement guarantee was facilitated by Mr
+Snelson, and by Mr Jack Li and his son Michael.
+ On 5 November 2007, Mr Li sent an email to CBA: 
+United Antler Corp would like to issue a new Bank Guarantee to Brownvalley
+Investments Pty Ltd, valid from November 6th, 2007 to February 5th, 2008.
+
+We would like all other details on the Bank Guarantee to remain unchanged from the previous BG....
+ Mr Braunthal was adamant (to Mr Snelson) that he would only accept such an arrangement if there was no chance of the replacement guarantee being withdrawn; it was against that background that CBA gave an undertaking that it would honour the original guarantee if there were any issue about the replacement.
+ Jack Li provided to Antler a letter dated 13 November 2007, as follows: 
+Na Min Yu's deposit in the UAC account as an investment capital is AUD $330,000.00, I will personally arrange protection methods for her capital. If any one party breaches the contract which causes said capital to be withdrawn from account. Golden Harvest Ltd will deposit emergency funds into UAC account to be returned to Na Min Yu. Only under the condition that no one interferes with the investment plan aside from Na Min Yu herself, this Letter of Promise becomes active. I guarantee the safety of Na Min Yu's investment capital, and
+I am willing to make this promise. Hereby signed, Bai Shan Li. 13 November .
+ On 16 November, Mr Michael Li sent an email to Mr Snelson: 
+CBA has received all signatures including from the overseas director mailing it in from Hong Kong.
+
+CBA will express mail the original BG to Brownvalley first thing on
+Monday. They will also provide us with a copy that I will scan and email to you fior your reference.
+ Mr Snelson onforwarded that email to Mr Braunthal As has been mentioned, this process of issuing a replacement guarantee was repeated at intervals thereafter, shortly prior to the expiry of the predecessor guarantee.
+ In distinction from the initial guarantee, the plaintiffs executed the second and subsequent guarantees knowing and intending that they be delivered to Brownvalley, as they were. No question of irregularity in their delivery arises. The fifth guarantee, which is that now presented and relied on by
+Brownvalley, was regularly received from the true owners.
+ The second further amended statement of claim articulates no basis on which the subsequent guarantees might be unenforceable by Brownvalley. In her oral evidence, Na Min Yu said that she was forced to sign the subsequent guarantees, against her will; that she signed the subsequent guarantees "really against my will, because I knew the original was missing"; she explained what she meant by this as being that she signed it because she has been told (by Jack Li and Mr Snelson) that if she did not, "then the money would be taken away"; and that they signed the subsequent guarantees "for fear that we might lose the money". She was aware that there was some risk that the guarantees might be called on. When she signed the second guarantee, she was overseas. Jing Qui Yao said that when they signed the second guarantee, they knew that it would be given to Brownvalley "but we didn't have any choice" because otherwise the moneys would be immediately called up by Brownvalley.
+ There is no evidence of any agreement or understanding that the replacement guarantees were "without prejudice", that the rights of the plaintiffs in respect of the initial guarantee were to be preserved. Essentially, in return for a deferral of the risk of their exposure, the plaintiffs gave a new guarantee. In so doing, they entertained some hope that the moneys would be recovered and the problem dissipate as a result, but nonetheless appreciated that they were confirming a solemn and important undertaking.
+ Even if some vitiating conduct in respect of the subsequent guarantees were established against Jack Li (which is difficult to reconcile with the resolution of the proceedings in his favour), or against Mr Snelson, there is no basis for attributing it, or notice of it, to Brownvalley. There is no basis for impugning the enforceability of the fifth guarantee, or for restraining Brownvalley from making demand under it, or CBA from paying on it.
+ It follows that the plaintiffs' claims against Brownvalley and CBA fail and must be dismissed. Brownvalley has foreshadowed a claim under the plaintiffs' undertaking as to damages, given in connection with the interlocutory injunction. Prima facie, Brownvalley has been kept out of its money during the pendency of the injunction, and I will direct an inquiry as to damages accordingly.
+ 
+The plaintiffs' claims against Mr Snelson and Golden Harvests The second further amended statement of claim contains claims against
+Golden Harvests and Mr Snelson for damages, and for an order pursuant to [ss (10)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1324.html), [1317H](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1317h.html) and/or 1317HA (presumably, of the (CTH) [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/)), to the effect that they reimburse to the plaintiffs such amount as CBA might pay to
+Brownvalley pursuant to the guarantee.
+ Neither the pleadings, nor the submissions, much elaborated the claim against Golden Harvests. However, it can at least be said that, in breach of the terms of the Antler/Golden Harvests MOU, Golden Harvests has failed to return the bank guarantee and to make the payments totalling US$80,000 to which the plaintiffs were contractually entitled, and the plaintiffs are entitled to judgment against Golden Harvests for damages for breach of that obligation, in which respect their loss equates to the amount they will be liable to reimburse to CBA in respect of the guarantee, plus US$80,000.
+ The plaintiffs also allege that Mr Snelson personally guaranteed to the plaintiffs return of the guarantee, by a Statutory Declaration made by him on September 2008, relevantly as follows: 
+Without prejudice and not implying or admitting liability for any matter whatsoever, given our primary business client did not complete their advised and contracted purchase in June/July 2008 of a very high value Security from my company and in full respect of the Untied Antler Corporation Directors and their very sensitive situation. I have obtained approval in writing and signed to release funds to Brownvalley Investments (BVI) (so that
+BVI can voluntarily release their legal hold on the Antler provided BG). Our best efforts target date for this transfer of funds from the international account to BVI is approximately 10 September 2008.
+ 
+I also confirm that we are operating under great duress and delay in such matters due to the specific threats that have been directed at us from Mrs Na
+Min Yu of Antler acting on her own accord for matters we believe are unwarranted given our personal support to keep Antler capital losses to nil.
+Where, if such threats are carried out the resultant actions in our estimation shall have a gross and unfair damage or loss of my personal and company's reputation, time, financial and commercial standing, and future income opportunities. Therefore, a detrimental and possible total impact to the very offer of voluntary support that we reconfirm in this declaration.
+ ...
+ 
+If the BG or its cash equivalent of AUD$550,000 is not returned intact to
+Antler from BVI then we hereby offer to underwrite this amount via a replacement Agreement with and for Antler plus an additional AUD$10,000 if there is an early termination of the linked Antler Term Deposit. In order to support this declaration, I will use proceeds from active or pending business projects, or failing that will liquidate private assets that can be drawn from property, or privately held trusts. I confirm that I have placed a redemption request with the portfolio manager for the Golden Harvests Trust 1 where from the redemption value provided to me indicate that my calculations of my held value is well in excess of the amount required to meet this offer.
+ 
+So, on revised plans, my personal view is that Antler will see their BG returned intact on or before 11 September 2008 subject to the availability of proceeds of one or more of a) sale of the high value security, b) successful transfer of funds from the international account, c) liquidation of one or more of my personal assets, d) proceeds from one of my existing and separate commercial transactions that are presently in progress.
+ However, this Statutory Declaration was made on 8 September 2008, after
+Brownvalley had presented the fifth guarantee. Assuming that aspects of it could be considered promissory in form, nonetheless it was unsupported by any consideration. I do not see how it gives the plaintiffs a remedy against Mr
+Snelson.  
+Brownvalley's cross-claim Brownvalley sues CBA on the fifth guarantee. CBA always intended to pay on the guarantee if Brownvalley duly presented it; it did not pay only because it was restrained by order of the court from so doing. There is no reason to suppose that once the injunction is dissolved CBA would not pay on the guarantee, and in those circumstances it does not appear necessary or appropriate to give judgment against CBA. In view of the conclusions I have reached on the plaintiffs' claims, the second limb of Brownvalley's cross- claim against CBA, for misleading and deceptive conduct, does not require resolution, but I shall touch upon it, lest a different view prevail in respect of the fifth guarantee.
+ The conversation set out in par 14 above is not in dispute; the issue is whether it conveyed any relevant misrepresentation. Brownvalley alleges that if the Plaintiffs' allegations about the first bank guarantee be correct, then contrary to what was conveyed by the conversation: * The initial guarantee was not duly and properly issued by CBA; * Brownvalley had reason to concern itself with the identity of the persons named as customer; * It was relevant that Brownvalley had no contractual relationship with the persons named as customer; * The reference to the contract was not merely for the purpose of identification; and * The guarantee was not unconditional and irrevocable.
+ However, in my view: * There was nothing irregular or improper about the issue by CBA of the initial guarantee, and the statement that it was duly and properly issued by CBA was in no way misleading.
+ * The identity of the customer is irrelevant to the enforceability of the guarantee at the suit of the favouree, except insofar as the customer may be the original true owner. The conversation must be seen in the light of the wording of the guarantee and its references to "security for the obligations of" Antler, and to the "contract". The context of the conversation was one that Mr Thomas was seeking to ascertain whether his client had to concern itself with the existence of any contract between itself and the persons named as customer. In that context, it was not inaccurate or misleading for CBA to make statements to the effect that the favouree need not be concerned about the underlying arrangements with the customer. The possibility that the guarantee might be stolen, or fraudulently obtained from the true owners, or without their authority, was not the subject of the discussion.
+ * In the same context, it was not misleading to convey that it was not relevant that Brownvalley had no contractual relationship with the persons named as customer. It was not any underlying contract, but the absence of authority for delivery of the guarantee, that potentially created a problem of enforceability.
+ * Likewise, it was not relevantly misleading to convey that the reference to the description of the contract was for identification purposes only. Any problem arose not from the reference to or description of the contract, but to the manner in which the guarantee was obtained from the true owner. The reference to and description of the contract made no difference to this.
+ * The guarantee was unconditional and irrevocable. Any obstacle to payment arose not from any condition in or revocability of the guarantee, but from the absence of authority for its delivery. Neither party to the conversation would have contemplated that its subject matter covered the eventuality that the original guarantee might be obtained from the customer and delivered to
+Brownvalley by deception.
+ Accordingly, I would in any event have dismissed Brownvalley's cross-claim against CBA.
+ Brownvalley also cross-claimed against Golden Harvests, upon its contractual undertaking to repay, and against Mr Snelson and Mr Klein-
+Beernink, upon alleged guarantees of Golden Harvests. Golden Harvests and Mr
+Snelson have filed submitting appearances. Mr Klein-Beernink did not appear to oppose the relief sought against him, and indicated that he would not take part in the proceedings.
+ Pursuant to the Golden Harvests/Brownvalley MOU, Golden Harvests promised to repay Brownvalley AU$648,000. In the events that happened, this repayment was due on or about 26 October 2007. Golden Harvests did not repay that sum, or any of it.
+ On or about 20 December 2007, Golden Harvests issued on its letterhead and under its seal a "Corporate Promissory Note" signed by Mr Klein-Beernink and
+Mr Snelson, which provided as follows: 
+AUD$700,000.00 
+ON OR BEFORE 31 JANUARY 2008 FOR VALUE RECEIVED BY AND ON BEHALF OF GOLDEN
+HARVESTS, LTD (ghl) (CUSTODIAN), WE PROMISE TO PAY AGAINST THIS CORPORATE
+PROMISSORY NOTE TO THE ORDER OF BROWNVALLEY INVESTMENTS PTY. LTD, ... THE SUM OF AUD$700,000.00 (SEVEN HUNDRED THOUSAND
+AUSTRALIAN DOLLARS) WITH EFFECTIVE PAYMENT TO BE MADE IN $AUD WITHOUT
+DEDUCTUION FOR ANY TAXES, IMPOSTS, LEVIES OR DUTIES PRESENT OR FUTURE OF ANY
+NATURE.
+
+THIS PROMISE IS FULLY BOUND TO AND BY ALL THE TERMS AND CONDITIONS OF THE
+MUTUAL AGREEMENT OF 7 JULY 2007 AND AGREED BY ALL PARTIES FOR A GHL LEVERAGED
+FINANCIAL INSTRUMENT FACILITY AS THE PRIMARY PURPOSE OF THE FUNDS.
+
+Corporate Resolution & Personal Binding Promise Agreed by: 
+Mr Helmut Klein-Beernink (Director, Golden Harvests, Ltd LLC) 
+Mr Wayne Snelson (President and Company Secretary, Golden Harvests,
+Ltd LLC) (SEAL OF GOLDEN HARVESTS LTD LLC) In the circumstances, the appropriate inference is that this Promissory
+Note was issued in consideration for Brownvalley agreeing to accept a replacement bank guarantee rather than pursuing a call for payment on the initial guarantee. Pursuant to it, the signatories were bound to pay
+Brownvalley AU$700,000 on 31 January 2008, in substitution for the repayment obligation under the original MOU. That payment was not, and still has not been, made.
+ Accordingly, prima facie Brownvalley is entitled to judgment against
+Golden Harvests, Mr Snelson and Mr Klein-Beernink, for AU$700,000 and interest from 1 February 2008. However, two matters must be taken into account. The first is that on 22 June 2009, a partial settlement of the proceedings was negotiated between Brownvalley, Golden Harvests, and Mr Snelson, whereby it was agreed that (1) Golden Harvests and Mr Snelson would pay Brownvalley
+AU$100,000 within seven days, (2) the cross-claim against them was to be limited to AU$550,000 plus costs, (3) those costs were agreed at AU$15,000 to be paid by 31 July 2009, (4) Golden Harvests and Mr Snelson would file submitting appearances, and (5) Brownvalley would not obtain or enforce any judgment in respect of the sum referred to in (2) until the conclusion of the proceedings on the plaintiffs' claim, and if Brownvalley received any amount from CBA in respect of the bank guarantee it would be appropriated towards such sum. The second is that in any event, as the Acknowledgement and
+Undertaking of 21 August 2007 reinforced, Brownvalley would have to give credit for any amount recovered under the bank guarantee.
+ Accordingly, Brownvalley is entitled to judgment against Golden Harvests and Mr Snelson for AU$550,000, less the amount it recovers under the bank guarantee, which will presumably be AU$550,000. Against Mr Klein-Beernink,
+Brownvalley is entitled to judgment for AU$700,000, plus interest from 1
+February 2009, less the amount it recovers under the bank guarantee.
+ 
+Conclusion My conclusions may be summarised as follows.
+ Neither Mr Atkins nor Mr Snelson had actual or ostensible authority to deliver the original initial bank guarantee to Brownvalley. Brownvalley received the initial guarantee otherwise than in due course from the true owners or their authorised agent, and was not entitled to enforce it.
+ However, the plaintiffs knew and intended that the second and subsequent guarantees be delivered to Brownvalley. Despite their protestations that they had no practical choice but to sign them, no vitiating conduct on the part of
+Brownvalley, which could affect its entitlement to enforce the fifth guarantee, has been established. The plaintiffs are not entitled to have
+Brownvalley restrained from making demand on the fifth guarantee, nor CBA from paying on it.
+ The plaintiffs are entitled to judgment against Golden Harvests for damages for breach of its contractual obligation to return the bank guarantee and to make the payments totalling US$80,000, in which respect their loss equates to the amount they will be liable to reimburse to CBA in respect of the guarantee (presumably AU$550,000), plus US$80,000. However, the 8 September 2008
+Statutory Declaration was unsupported by consideration and does not establish an enforceable personal obligation of Mr Snelson to indemnify the plaintiffs.
+ CBA would have paid on the bank guarantee but for the interlocutory injunction, and may be expected to do so once the injunction is dissolved; in those circumstances it is not appropriate to give judgment against it. Had it become necessary to resolve the question, I would not have accepted that the representations made by CBA's officer in respect of the guarantee were, in context, misleading or deceptive.
+ Brownvalley is entitled to judgment against Golden Harvests and Mr Snelson for AU$550,000, less the amount it recovers under the bank guarantee, which will presumably be AU$550,000. Against Mr Klein-Beernink, Brownvalley is entitled to judgment for AU$700,000, plus interest from 1 February 2009, less the amount it recovers under the bank guarantee. Given the likelihood that the guarantee will be paid very shortly after this judgment is given, I will direct that the parties bring in short minutes which can then accommodate payments made and address any question of interest.
+ As to costs, I will also afford the parties an opportunity to address the issue, but prima facie (1) the plaintiffs should pay Brownvalley's costs, including the costs which Brownvalley is ordered to pay to CBA; (2)
+Brownvalley should pay CBA's costs; (3) Golden Harvests should pay the plaintiffs' costs, including the costs which the plaintiffs are ordered to pay to Brownvalley; and (4) Mr Klein-Beernick should pay Brownvalley's costs.
+ At this stage, my orders are:
+Order that the interlocutory injunction granted on 10 September 2008 and subsequently continued be dissolved.
+Otherwise, direct that the parties bring in short minutes to give effect to these reasons.
+ . Adjourn the proceedings to a date to be fixed for short minutes.
+ 
+LAST UPDATED:  April 2010 * * * 

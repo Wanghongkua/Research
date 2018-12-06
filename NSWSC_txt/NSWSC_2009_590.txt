@@ -1,0 +1,633 @@
+
+
+Lime Telecom Pty Limited versus Powertel Limited [2009] NSWSC 590 (26 June )
+
+Last Updated: 29 June 2009 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Lime Telecom Pty Limited versus Powertel Limited <case>  
+JURISDICTION: 
+Equity Division 
+Commercial List  
+FILE NUMBER(S):  /07  
+HEARING DATE(S):  /06/09, 2/06/09, 5/06/09, 12/06/09  
+JUDGMENT DATE:  June 2009  
+PARTIES: 
+Lime Telecom Pty Limited (Plaintiff) 
+Powertel Limited (Defendant)  
+JUDGMENT OF: 
+Einstein J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+Mr P Menadue (Plaintiff) 
+Mr D Studdy SC (Defendant)  
+SOLICITORS: 
+Shields Lawyers (Plaintiff) 
+Baker & McKenzie  
+CATCHWORDS: 
+Plaintiff supplier of prepaid and international telephone calling clients in
+Australian market 
+Defendant supplier of telecommunications services in Australia repudiates contractual arrangements by disconnecting services it had provided to the plaintiff 
+Principles governing the awarding of damages 
+Plaintiff's damages claim for loss of gross profit and for loss of goodwill 
+Consideration of lost revenue and gross margin 
+Industry standard approach compared with capitalisation of future maintainable earnings approach 
+Evidence that plaintiff use best endeavours to retain their business and goodwill and in doing so offered credits to clients in hope that customers would remain customers of plaintiff 
+No exactness can be achieved in the task of awarding compensation for future economic loss 
+Identifying and categorising vast goodwill as constituting customer loyalty in subject products 
+Consideration of types of loyalty from customers being regarded as valuable assets  
+LEGISLATION CITED:  
+CATEGORY: 
+Principal judgment  
+CASES CITED: 
+Bennett versus Minister of Community Welfare <case>; [(1992) 176 CLR 408]; [(1992) 107 ALR 617] 
+Benward Pty Ltd & Ors versus Metal Deck Roofing Pty Ltd & Ors <case> 
+Chaplin versus Hicks, <case>; <case>; <case>; [(1990) 169 CLR 638] ; [92 ALR 545] 
+Mallett versus McMonagle [[1970] AC 166] 
+Multi-Malls Inc versus Tex-Mall Properties Ltd [(1980) 108 DLR (3d) 399] 
+Penvidic Contracting Co Ltd versus International Nickel Co of Canada Ltd [[1976] 1
+SCR 267](http://scc.lexum.umontreal.ca/en/1975/1976scr1-267/1976scr1-267.html "View Case" ) 
+Prior versus McNab <case>; <case> 
+Wood versus Grand Valley Railway Co [(1915) 51 SCR ](http://scc.lexum.umontreal.ca/en/1915/0scr51-283/0scr51-283.html "View
+Case" )  
+TEXTS CITED: 
+Waddams 'Damages: Assessment of Uncertainties' 11 [(1988) 13 Journal of
+Contract Law, 55]  
+DECISION: 
+Award of damages to be made to the plaintiff: see reasons paragraph 181 and 
+JUDGMENT:  
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+COMMERCIAL LIST  
+Einstein J  
+Friday 26 June 2009  /07 Lime Telecom Pty Ltd versus Powertel Ltd 
+JUDGMENT 
+Facts The plaintiff ("Lime") is a supplier of pre-paid national and international telephone calling cards in the Australian market.
+ Amir Neghabian ("Mr Neghabian") has been the business manager of Lime since
+February 2004. Not only has Mr Neghabian directed and managed the business of
+Lime on a daily basis since its inception, his wife, (the sole director and shareholder) has always accepted Mr Neghabian's decisions on strategic and day-to-day matters.
+ Mr Neghabian graduated from the University of Western Sydney, with a
+Bachelor of Commerce degree, majoring in e-commerce. Mr Neghabian's study included programming computers and designing and developing software packages.
+ Lime offered its first products to the market in about July 2004. The calling cards are distributed through various channels but mainly through retail outlets. These outlets on-sell the cards to end-users. The retail outlets which have sold the calling cards of Lime and its competitors include newsagencies, supermarkets, convenience stores, tobacconists and kiosks.
+ Details of the services provided by Lime and the telephone numbers involved at the relevant times are described. In summary, an end-user having purchased a calling card would activate it and use it as follows: 
+The end-user accesses a unique personal identification number ("PIN") written on the card but which is covered by a seal by scratching off the seal.
+
+The end-user then dials a number (the Transit Mapping Number) (see paragraph 10(b) below) depending upon their location.
+
+The end-user is then connected to Lime's telephone system ("the
+Voice Gateway"). The Voice Gateway produces an interactive voice response ("IVR") which asks the customer to dial in his/her PIN. If the end-user dials in the correct PIN, then the IVR tells the end-user how much credit he/she has left on the card and instructs him/her to dial the required local or international number.
+
+Upon entering the required number, the end-user's call is then routed through the Voice Gateway to the end-user's destination number. The cost of the call is deducted from the credit on the card.
+
+Once the credit on the card has reached zero, then the Voice
+Gateway stops accepting any further calls. End-users have the option of adding more credit to the card by calling Lime's customer service centre.
+ On the left hand side of the back of the card are fifteen telephone numbers starting with the one for Sydney and ending with one for Wollongong. An end- user in Sydney dials the Sydney number. The end-user is then connected to the
+Voice Gateway. The end-user then dials in his/her PIN in response to the request from the IVR. The PIN appears beneath the third numbered paragraph on the back of the card. Assuming the PIN was entered correctly and there was available credit on the card, the end-user would then dial the required local or international number (see instructions under paragraph 4 on the back of the card). The call would then be routed through the Voice Gateway.
+ In mid 2004 Lime obtained 13 call collection numbers from Soul
+Communications (the "Soul Communication Numbers"). Soul Communications is a telecommunications provider. The Soul Communication Numbers were printed on the calling cards Lime distributed to the market before August 2005. The Soul
+Communications Numbers collected calls from end-users and passed them through the ISDN channels to the Voice Gateway. The Soul Communication Numbers served the same function as the 12 Transit Mapping Numbers subsequently provided by the defendant ("PowerTel"). As at 29 May 2007 Lime had not cancelled the Soul
+Communication Numbers and they were, therefore, still operative.
+ The defendant PowerTel Ltd ("PowerTel") is a supplier of telecommunications services in Australia.
+ From about September 2004 until about 29 May 2007 PowerTel supplied telecommunications services to Lime. The services listed immediately below were the subject of written agreements: 
+PowerTel ISDN Service.
+ 
+PowerTel Transit Mapping Service.
+ 
+PowerTel 13/1300/1800 Reach Service.
+ 
+PowerTel Teleconferencing Service.
+ 
+PowerTel Long Distance Service.
+ 
+PowerTel Business Line Service.
+ Between about 18 September 2004 and 18 April 2007, PowerTel and Lime entered into 20 agreements for the supply of telecommunications services.
+ As at 29 May 2007 Lime was selling calling cards for domestic and international calls with a value of $2, $5, $10, $20, $30, $35, $40 and $50.
+The most popular was the $10 card.
+ The key services that PowerTel provide to Lime were ISDN channels and the
+Transit Mapping Service. Immediately prior to 29 May 2007, the ISDN channels and the Transit Mapping Service were the principal means by which an end- user's calls were brought into the Voice Gateway. The other means was via the
+Soul Communications Numbers.
+ 
+ISDN services By 29 May 2007, Lime had received eight ISDN 30 channels from PowerTel. A channel service means a user can simultaneously run 30 incoming and/or outgoing calls. The service was discontinued by PowerTel on 29 May 2007. On 26
+June 2007 the service was replaced by Primus.
+ 
+Transit mapping service By 29 May 2007, Lime had received 12 Transit Mapping Numbers. The Transit
+Mapping Service collected calls from end-users and passed them through the
+ISDN channels to the Voice Gateway. The service was discontinued by PowerTel on 29 May 2007.
+ access numbers By 29 May 2007, Lime had obtained four 1300 access numbers from PowerTel, which were used as follows: 794 379 (Customer Support line) -- this line allowed distributors, retailers and end-users anywhere in Australia to access Lime's customer support centre. This facilitated ordering new cards, payment of invoices, recharging of existing cards and support services. The number was ported to Optus on 19 June 2007.
+ 138 035 (Customer Support line) -- this line had the same purposes as the line in sub-paragraph (a) above. By 29 May 2007 this number appeared on about 20% of Lime's cards. The number was ported to Telstra on 15
+June 2007.
+ 780 197 (access to the Voice Gateway) -- this line allowed end-users from anywhere in Australia to access the Voice Gateway to make domestic or international calls. Because end-users were charged a surcharge for using this service, most end-users who wanted to place calls to national or international destinations usually dialled the Transit Mapping Numbers or the 1800 numbers (see paragraph 18 below). The number was ported to Primus on May 2007.
+ 787 393 (number on-sold by Lime) -- this number was provided by Lime to another customer. This produced only a very small amount of income for Lime.
+ access numbers Lime had two 1800 access numbers -- those lines (although only one was in use, the other being a back up) allowed end-users to access Lime's telephone system without paying the initial cost of a local call to their service provider. The number (1800 185 353) did not give access to Lime's customer call centre. The number was ported to Optus on 12 June 2007.
+ 1800 090 373 -- Lime obtained this from Primus in April 2007. By 29 May the number appeared on Lime's Yeoboseyo card which targeted the South
+Korean market 
+Business phone services Lime provided some business customers with their outgoing calls. This was a very minor part of Lime's business.
+ 
+Lime's office phone services (02 8905 6500) PowerTel provided Lime with an ISDN 10 channel which was used for incoming and outgoing office calls from Lime's North Sydney office. The number did not appear on the calling cards. The number was given to carriers and external parties and was printed on Mr Neghabian's business card. The existing service was replaced by a new office telephone service, with the same telephone number, from another company (MyTel) on about 8 June 2007.
+ A line (9964 9672) previously used to receive facsimiles was used for a period after 29 May 2007 to make calls.
+ 
+Some outbound calls from the Voice Gateway Since about the beginning of 2006, Lime's Voice Gateway has been connected to about 10 carriers which carried outbound calls over either the internet or
+ISDN. Lime seldom used PowerTel to route outbound calls to international numbers. The vast majority of Lime's domestic outbound traffic was routed through PowerTel's ISDN channels and carried over PowerTel's network to destination numbers.
+ Just prior to 29 May 2007 Lime's main competitors provided end-users with the same basic service as Lime. End users from the retail outlets mostly purchased the cards of Lime's competitors.
+ Just prior to 29 May 2007, Lime had approximately 34 cards with different brands in the marketplace.
+ Since about October 2006, Yickham Industries Limited, a company in China, printed Lime's cards. Orders were placed on a weekly basis.
+ Prior to 29 May 2007, Sydney was the only city in which Lime used its own sales representatives to visit retail outlets. There were three representatives who were paid a commission of about 10 per cent. In Sydney
+Lime also sold its cards to a few distributors but the main one was Mr John
+Bitar. The distributors on-sold the cards to retailers. In particular, Mr
+Bitar on-sold to retailers in Sydney and other cities. He also provided cards to his cousin in Melbourne. There were other agents and individuals who called at Lime's North Sydney office, purchased cards at a wholesale price and then on-sold them to retailers.
+ In Melbourne, in addition to Mr Bitar's cousin, Lime sold its cards to another distributor, ARZ Trading Pty Ltd. These distributors also sold to some retailers in Perth and Adelaide.
+ Lime also sold cards to distributors and direct to retailers in other capital cities but the volume was much less than in Sydney and Melbourne.
+ Lime also sold cards on a wholesale basis to about ten entities that ran on-line businesses selling cards Australia wide. End-users could order the cards of Lime and its competitors on-line. The end-user did not receive a card. After payment by credit card, the end-user received an email with all relevant details to allow him/her to use the services of Lime or its competitors.
+ Orders for Lime's calling cards were affected by a combination of distributors and retailers contacting the North Sydney office by telephone, on-line retailers sending emails, end-users contacting the North Sydney office by telephone and sales representatives receiving orders from retailers direct when they visited them.
+ 
+Impact of the 29 May 2007 disconnection The disconnection on 29 May 2007 had a dramatic impact on Lime's business.
+The disconnection rendered all of the phone cards almost entirely useless ("the Dead Cards") which: 
+Had been sold to end-user customers.
+ 
+Were still in the hands of Lime, distributors or retailers.
+ That is because numbers printed on the cards no longer worked ("the Dead
+Numbers"): 
+All of the transmit mapping numbers.
+ 
+The 1800 (Voice Gateway) number.
+ 
+The two 1300 (Customer Support) numbers.
+ Usually, the only functioning number on cards was the Primus 1300 Number to access the Voice Gateway that few customers used.
+ Thus end-user customers could not: 
+Call their destination numbers (via the 12 transit mapping numbers or 1800 number).
+
+Contact Lime's customer support service (via the two 1300 numbers) to complain or find out why their cards did not work or purchase, repurchase or recharge their cards.
+ Further, Lime had no means of contacting most end-user customers. It did not know their identities, addresses or telephone numbers. It had always depended upon those customers contacting Lime if they had a problem. However, because of the disconnection, the customers could not do that.
+ Also, because the two 1300 customer support numbers were disconnected, Lime could not receive telephone calls from distributors or retailers: 
+Wanting to complain or find out what had happened to Lime.
+
+Wanting to order new stock.
+ 
+Wanting to pay invoices.
+ As a consequence of the disconnection, Lime could not even receive incoming calls on its office line. That is because the incoming business line was a customer service number. The only calls that could be made on the office number after 29 May 2007 were out-going calls (although PowerTel disconnected that service after one week).
+ In the three years prior to disconnection, Lime experienced a dramatic increase in sales revenue. Its sales revenue went from: $1,315,299.00 during the year to 30 June 2005.
+ $1,817,805.00 during the year to 30 June 2006.
+ $4,598,542.00 during the year to 30 June 2007 (despite the disconnection on 29 May 2007).
+ But sales revenue was only $5,496,918.00 during the year to 30 June 2008.
+ Other figures reveal that: 
+In the month of July 2006, Lime's sales revenue was only $142,704.00; but 
+By the month of May 2007, it had increased to $664,233.00.
+ But immediately after the disconnection, sales revenue decreased to: $379,396.00 in June 2007.
+ $299,701.00 in July 2007.
+ $271,071.00 in August 2007.
+ $252,258.00 in September 2007.
+ $426,872.00 in October 2007.
+ It was not until May 2008 that sales approached their previous level (ignoring expected sales growth). In that month, sales were $622,977.00.
+ Eventually, by early-2008, after various changes, the services that
+PowerTel had provided Lime were being provided by Soul Communications and
+Primus Communications. Those organisations provided it with ISDN channels, call collection numbers, 1800 numbers and 1300 numbers.
+ 
+Lime's efforts to remedy the situation After the disconnection, Mr Neghabian adopted a number of ad hoc solutions to save the business. These included: 
+Porting to Optus the 1800 (Voice Gateway) number and 1300 (main customer support) number on the Dead Cards. The 1800 (Voice Gateway) number was ported to Optus on 12 June 2007. After that, end-user customers could use the 1800 number printed on Dead Cards to make calls to destination numbers through the Voice Gateway. The 1300 (main customer support) number was ported to Optus on 19 June 2007. Thereafter distributors, retailers and end-user customers could use that number to call Lime's customer service centre.
+
+Porting to Telstra the 1300 (secondary customer support) number on the Dead Cards. That number (1300 138 035) only appeared on about 20% of
+Dead Cards. It was ported from PowerTel to Telstra on 15 June 2007.
+Thereafter, distributors, retailers and end-user customers could use that number to call Lime's customer service centre.
+
+Getting customers to use Soul Communications call collection numbers instead of PowerTel transit mapping numbers. Soul Communications call collection numbers rarely appeared on Lime's phone cards in the two years before 29 May 2007. But after disconnection Lime tried to provide customers with those numbers by: contacting them direct and telling them the numbers (though that was usually impossible due to resource and/or information constraints) and ordering new cards with those numbers. The new cards did not arrive from China until 11 June 2007.
+
+Using a Primus 1800 (Voice Gateway) number that was available.
+Lime had a Primus 1800 number that appeared on a small quantity of Lime phone cards distributed before 29 May 2007. After disconnection, Lime tried to provide customers with that number via the solutions in (c) above.
+ Lime also had to obtain new office lines. They were available from 8 June
+As a result, from that time it had five office lines available.
+ Apart from these steps, Mr Neghabian and his staff undertook a number of other tasks, including: 
+Stopping distributors and retailers selling Dead Cards.
+ 
+Recovering Dead Cards in the market place.
+ 
+Ordering and distributing new cards.
+
+Dealing with an very large number of customer complaints.
+ Nevertheless, because most cards were still in the hands of end-users (who were usually unknown) or about 1,000 retail outlets distributed through-out
+Australia, that was a task which soon proved impossible.
+ 
+Hearing on separate questions  On 13 March and 14 March 2008, McDougall J heard and determined certain separate questions. His Honour gave two separate judgments answering the questions as follows.
+ Question 1: When the defendant stopped providing telecommunication services to the plaintiff: "Was the defendant contractually entitled to do so under the
+Standard Form Agreements applying to those services?" The answer was "no".
+ "Did the defendant breach clause 1.1 of the Standard Form
+Agreements applying to the services?" The answer was "yes".
+ Question 2: If the defendant did breach the Standard Form Agreements, how long did that breach continue for? The answer was "up until 7 September 2007".
+ McDougall J said in his first judgment, at 3: "The significance of that date is that on any view, if the agreements had not come to an end earlier, they came to an end then by reason of an election made by Lime and communicated to PowerTel, based on what Lime said was
+PowerTel's repudiatory conduct." His Honour was referring to a letter dated 12 September 2007 [sic] from
+Lime's solicitors to the solicitors for PowerTel terminating the Standard Form
+Agreements for repudiation.  His Honour found that PowerTel's conduct was repudiatory: "I conclude that PowerTel's conduct in purporting to determine all (save one) of the agreements on 29 May 2007, and in denying Lime the right to continue to receive performance thereafter, was repudiatory." [paragraph 25] "In my view [the parties] did not, by clause 14.4, intend to encompass the situation that in fact arose: namely, that PowerTel should decide, wrongfully and without any shred of contractual justification, to abandon altogether its obligations to make those services available." [see paragraph 35] Question 3: Is Clause 14.4 of the standard form agreements effective to exclude the defendant's liability for damages in these proceedings? The answer was "no".
+ Question 4: Is clause 14.5 of the standard form agreements effective to limit the defendant's liability for damages, and if so to what extent? The answer was "no".
+ The present tranche of the proceedings deal with the quantification of damages incurred by the plaintiff from PowerTel's repudiatory conduct.
+ 
+Principles governing awarding of damages A breach of a commercial contract enables the innocent party to bring an action for damages for loss of advantage or opportunity that the contract would have provided.
+ In Sellars versus Adelaide Petroleum NL <case>; [(1994) 179 CLR 332], the Court held [at 349] per Mason CJ, Dawson, Toohey and
+Gaudron JJ that: 
+In the realm of contract law, the loss of a chance to win a prize in a competition resulting from breach of a contract to provide the chance is compensable, notwithstanding that, on the balance of probabilities, it is more likely than not that the plaintiff would not win the competition...
+ 
+This approach is not confined to contracts relating to games of chance, sporting contests or other competitions... So in The Commonwealth of
+Australia versus Amann Aviation Pty Ltd <case>; [174 CLR 64]],
+Mason CJ and Dawson J, ... Brennan J... and Deane J... concluded that a lost commercial advantage or opportunity was a compensable loss, even though there was a less than 50 per cent likelihood that the commercial advantage would be realised. Damages for breach of contract were assessed by reference to the probabilities or possibilities of what would have happened.
+ Lord Diplock had explained the principle in 1970 in Mallett versus McMonagle [[1970] AC 166] at 176: 
+The role of the court in making an assessment of damages which depends upon its view as to what will be and what would have been is to be contrasted with its ordinary function in civil actions in determining what was. In determining what did happen in the past a court decides on the balance of probabilities. Anything that is more probable than not it treats as certain.
+But in assessing damages which depend upon its view as to what will happen in the future or would have happened in the future if something had not happened in the past, the court must make an estimate of what the chances are that a particular thing will or would have happened and reflect those chances, whether they are more or less than even, in the amount of damages which it awards.
+ Dealing specifically with the plaintiffs' entitlement to recover the value of a lost opportunity, even if its chance of materialising was less than 50 per cent, Waddams 'Damages: Assessment of Uncertainties' 11 [(1988) 13
+Journal of Contract Law, 55] at 60-61 explains the matter thus: 
+In Chaplin versus Hicks, [[1911] 2 KB 786], the plaintiff was one of 50 persons shortlisted for 12 positions. The defendant, in breach of contract, deprived her of the opportunity of being interviewed, and she was not appointed. The decision of the English Court of Appeal upholding a jury award for the value of the lost chance has been widely followed in Commonwealth jurisdictions. Again where the defendant negligently permits an action to become statute barred, (Kitchen versus Royal Air Force
+Association [[1958] 1 WLR 563 (CA)]; Prior v
+McNab [(1976) 78 DLR (3d) 319 (Ont]
+HC) or fails to take steps that would have given to the plaintiff's land a chance of profitable rezoning (Multi-Malls Inc versus Tex-Mall Properties Ltd [(1980) 108 DLR (3d) 399](/cgi- bin/LawCite?cit=%281980%29%20108%20DLR%20%283d%29%20399 "View LawCiteRecord" ), affd [128 DLR (3d) 192n (Ont] CA), the plaintiff recovers damages, even though the chance of success of the action, or of the rezoning application, may have been 50 per cent or less. It is reasonably clear in these cases that the plaintiff has lost something of real value: an action with a 40 per cent chance of success has a real 'settlement value'; land with a 40 per cent chance of profitable rezoning is more valuable than land without it. The principle here is not, strictly speaking, one of apportionment. The defendant is liable for the full loss caused, but valuation of that loss requires the consideration pf probabilities. In the land rezoning case it is very clear that this is the proper approach, because evidence could often be adduced to show that the land had a certain market value without the chance of rezoning, and a higher market value with it. The defendant's wrong deprives the plaintiff of the difference. It is not necessary, however, that there should be any sort of actual market: in Chaplin versus Hicks, the plaintiff could not in fact have sold her opportunity, but it was sufficient that she had been deprived of 'a right of considerable value, one for which many people would give money'. [Fletcher Moulton LJ at 797]...
+ 
+The principle of measuring compensation according to the value of an opportunity, even if less than 50 per cent, was recognised in the Amman case... in the context of a claim for reliance expenses, where other uncertainties were the probability that the government would have cancelled the contract lawfully even if it had not repudiated it, and the possibility that the contract would have been renewed on favourable terms after its expiry. The plaintiff received compensation for these possibilities, even though in respect of each an outcome favourable to the plaintiff could not be shown to have been more probable than not. In Sellars versus Adelaide Petroleum
+NL, the High Court of Australia adopted the same approach to valuation of a loss of commercial opportunity in a case arising under the Trade Practices
+Act.
+ The passage from the joint judgment in Sellars at 355 reads: ... the general standard of proof in civil actions will ordinarily govern the issue of causation and the issue whether the applicant has sustained loss or damage. Hence the applicant must prove on the balance of probabilities that he or she has sustained some loss or damage. However, in a case such as the present, the applicant shows some loss or damage was sustained by demonstrating that the contravening conduct caused the loss of a commercial opportunity which had some value (not being a negligible value), the value being ascertained by reference to the degree of probabilities or possibilities. It is no answer to that way of viewing an applicant'' case to say that the commercial opportunity was valueless on the balance of probabilities because to say that is to value the commercial opportunity by reference to a standard of proof which is inapplicable.
+ As Waddams (supra) observed at 66: 
+This two-step analysis ensures compensation according to probabilities, as in Chaplin versus Hicks. The plaintiff established first that she had lost 'a right of considerable value'; it then followed inevitably that the court must give due compensation for the loss, and that the compensation would be measured according to the probability of success.
+ The resultant standard of proof analysis is explained by Waddams at 66 as follows: 
+It should be noted also that the conclusion reached in Sellars does not necessarily imply that the burden of proof on the question of quantification is any less than the usual standard of proof on the balance of probabilities: the result may be explained by saying that the plaintiff did prove (on the balance of probabilities) the value of the chance he had lost, that value depending on probabilities.
+ Further, it is clear that the mere fact that damages cannot be assessed without difficulty and uncertainty does not relieve the court from its undoubted responsibility of attempting to assess those damages as best it can - per Deane J in Amann at 125 - who cites the following passage from the judgment of Dixon and McTiernan JJ in Fink versus Fink <case>; [(1946) 74 CLR 127] at 143: 
+Where there has been an actual loss of some sort, the common law does not permit difficulties of estimating the loss in money to defeat the only remedy it provided for breach of contract, an award of damages.
+ However, Deane J in Amann explained one caveat of importance at 125-126: 
+There are, however, extreme cases in which curial procedures are simply inadequate to determine whether there was any real or significant chance that an alleged benefit would actually have been obtained but for the repudiation or breach of contract or to assess the intrinsic worth of a particular suggested "benefit". The profit which one experienced commercial person may see as lying at the end of some commercial undertaking might be seen as an inevitable and disastrous loss by another. What seems to one person to be a benefit may be thought by other and wiser people to be valueless or even a detriment. The nature of what would have been obtained if the contract had been performed may be so completely speculative that "it is quite impossible to place any value" upon it... In such cases, recovery of other than nominal damages by the plaintiff will depend either upon the applicability of principles of restitution to enable the direct recovery of a benefit obtained by the defendant or upon the presumption of value referred to in the following paragraph to enable the recovery of wasted expenditure.
+ The same point was made by Latham CJ and Williams J in Fink versus Fink (supra at 134): 
+The damage arising from loss of opportunity to obtain a benefit may be so dependent upon a number of contingencies as to be negligible (Sapwell versus Bass [[1910] 2 KB 486).] The Court must then do the best that it can to assess the value of the loss (Waddams supra at 60 citing Wood versus Grand Valley Railway Co [(1915) 51 SCR ](http://scc.lexum.umontreal.ca/en/1915/0scr51-283/0scr51-283.html "View
+Case" ) at 289; Penvidic Contracting Ltd versus International Nickel Co of Canada
+Ltd [[1976] 1 SCR ](http://scc.lexum.umontreal.ca/en/1975/1976scr1-267/1976scr1-267.html "View Case" ) at 280): 
+If the plaintiff proves that the defendant has caused a loss, the impossibility of proving the precise value of the loss "cannot relieve the wrongdoer of the necessity of paying damages". The court, whether judge or jury, will do "the best it can". The plaintiff must prove what she can reasonably be expected to prove, and will suffer if she fails to adduce relevant evidence within her control, but where the uncertainty is not of the plaintiff's making, and she has suffered a real loss, the court will attempt to assess it, however difficult the task. [emphasis added] In Sellars, Brennan J points out at 365 that 'in the progress of events a point is reached at which it can be said that the plaintiffs had a substantial prospect of acquiring the benefits they were seeking.
+ Brennan J then at 365-367 refers to the way in which a court views the material bearing on the relevant issues: 
+As the existence and assessment of the value of a valuable opportunity usually depend on an evaluation of hypothetical situations or future possibilities, it is clear that the manner in which a plaintiff discharges the onus of proving his case is different from the manner in which he would discharge it if an issue depended upon the existence of historical facts. In
+Malec versus J C Hutton Pty Ltd <case>; [(1990) 169 CLR 638], Dawson J and I observed: 
+Hypothetical situations of the past are analogous to future possibilities: in one case the court must form an estimate of the likelihood that the hypothetical situation would have occurred, in the other the court must form an estimate of the likelihood that the possibility will occur. Both are to be distinguished from events which are alleged to have actually occurred in the past.
+
+We cited what Lord Diplock said in Mallett versus McMonagle: [the above cited extract is then set out] 
+In Malec at 95 Deane, Gaudron and McHugh JJ said: 
+When liability has been established and a common law court has to assess damages, its approach to events that allegedly would have occurred, but cannot now occur, or that allegedly might occur, is different from its approach to events which allegedly have occurred. A common law court determines on the balance of probabilities whether an event has occurred. If the probability of the event having occurred is greater than it not having occurred, the occurrence of the event is treated as certain; if the probability of it having occurred is less than it not having occurred, it is treated as not having occurred. Hence, in respect of events which have or have not occurred, damages are assessed on an all or nothing approach. But in the case of an event which it is alleged would or would not have occurred, or might or might not yet occur, the approach of the court is different. The future may be predicted and the hypothetical may be conjectured.
+
+These observations relate not so much to the standard of proof as to the way in which a court views the material bearing on the issues for determination. They can affect the determination not only of the issues of loss and its assessment but also the issue of causation.
+ Dealing more particularly with causation, Brennan J observes at 367-368: 
+But what is the standard of proof in cases where the issue of causation depends on competing hypotheses? There is no reason why the balance of probabilities should not be the standard of proof required to establish both causation and the existence of a loss, though that standard is inappropriate to the assessment of the amount of a loss where the assessment is merely an evaluation of future possibilities.
+ 
+In Bennett versus Minister of Community Welfare, Gaudron J. said: 
+It might be said that, where questions of causation depend on hypothetical considerations, allowance should be made, as in the assessment of damages, for the possibility that some event would not have occurred.
+Possibilities, if they are not fanciful, must be taken into account, at least in a general way, when ever causation or the related issue of prevention is in issue. But questions of that kind are not answered 'maybe' or, even, 'more probably than not'. They are answered 'yes' or 'no' depending on the probabilities for or against. In this respect, they are indistinguishable from the question whether an event happened where possibilities are taken into account but, once the question has been answered, those possibilities have no further bearing on the matter.
+
+I respectfully agree. Unless it can be predicated of an hypothesis in favour of causation of a loss that it is more probable than competing hypotheses denying causation, it cannot be said that the plaintiff has satisfied the court that the conduct of the defendant caused the loss. Where a loss is alleged to be a lost opportunity to acquire a benefit, a plaintiff who bears the onus of proving that a loss was caused by the conduct of the defendant discharges that onus by establishing a chain of causation that continues up to the point when there is a substantial prospect of acquiring the benefit sought by the plaintiff. Up to that point, the plaintiff must establish both the historical facts and any necessary hypothesis on the balance of probabilities. A constant standard of proof applies to the finding that a loss has been suffered and to the finding that that loss was caused by the defendant's conduct, whether those findings depend on evidence of historical facts or on evidence giving rise to competing hypotheses. In any event, the standard is proof on the balance of probabilities.
+ 
+Although the issue of a loss caused by the defendant's conduct must be established on the balance of probabilities, hypotheses and possibilities the fulfilment of which cannot be proved must be evaluated to determine the amount or value of the loss suffered. Proof on the balance of probabilities has no part to play in the evaluation of such hypotheses or possibilities: evaluation is a matter of informed estimation.
+ The principles then appear to include at least the following: . The plaintiff must prove a breach of a relevant contractual term.
+ . The plaintiff must further prove that the breach has caused the loss of the chance of a commercial advantage or opportunity.
+ . The usual onus and standard of proof applies regarding loss or damage and causation of such loss or damage.
+ . In this class of case, the plaintiff will show that some loss or damage has been sustained by showing that the defendant's relevant breach caused the loss of a commercial advantage or opportunity which had some real (not negligible) value - that value being measured or determined by reference to the degree of probabilities or possibilities. The defendant is liable for the full loss caused, but valuation of that loss requires the consideration of probabilities or possibilities inherent in the plaintiff's succeeding had the plaintiff been given the chance that the contract promised.
+ . The lost commercial advantage or opportunity is a compensable loss even though there may have been less than 50% likelihood that the commercial advantage would be realised. And in contradistinction to the requirement to establish on the balance of probabilities the issue of a loss caused by the defendant's conduct, hypotheses and possibilities the fulfilment of which cannot be proved must be evaluated to determine the amount or value of the loss suffered. In this area evaluation becomes a matter of informed estimation, proof on the balance of probabilities having no part to play in the evaluation of such hypotheses or possibilities.
+ . Extreme cases do arise in which curial procedures are inadequate to: 
+Determine whether there was any real or significant chance that an alleged benefit would actually have been obtained but for the contractual breach; 
+Assess the intrinsic worth of a particular suggested 'benefit'.
+ In particular - the nature of what would have been obtained had the contract been performed, may be so completely speculative that it is quite impossible to place any value upon it - the damage arising from the lost opportunity may be so dependent upon a number of contingencies as to be negligible.
+ In such cases, nominal damages only will often be appropriate. Recovery beyond nominal damages will depend either upon the applicability of restitutionary principles to enable the direct recovery of a benefit obtained by the defendant or upon the presumptions of value (referred to by Deane J in
+Amann at 126-127) to enable the recovery of wasted expenditure.  It is clear from the judgment of McDougall J that breach and causation have been established. [The real difficulty in identifying the appropriate damages to which the plaintiff is entitled inheres in the difficulties in understanding the figures put before the Court by the plaintiff and sought to be explained by the experts of the respective parties].
+ Accounting experts were retained by both parties: Mr Geoffrey Vince for the plaintiff and Mr Jonathan Rowell for the defendant. Unfortunately, on the day prior to Mr Rowell giving evidence, he became ill. In consequence, the proceedings were stood over for 1 week whilst the defendant arranged for Ms
+Wright [who had already had some involvement in relation to Mr Rowell's work as his superior] to step into the expert's role.
+ 
+Respective experts' reports before the Court In the result, the Court received the following reports.
+
+Mr Vince's first report that outlined the plaintiff's methodology of calculating damages ("Vince First Report") dated 30 October .
+
+Mr Rowell's report that outlined the defendant's methodology of calculating damages and responded to Mr Vince's first report ("Rowell Report") dated 27 April 2009.
+
+Mr Vince's second report that responded to Mr Rowell's report ("Vince Second Report") dated 18 May 2009.
+
+The joint statement of the independent accounting experts ("Joint Report") which supplements each expert's respective reports dated 1
+June 2009.
+
+The affidavit of Mr Vince made on 5 June 2009 [which affidavit and the accompany report dated 2 June 2009 deals with the issue of credits given out by Lime to dissatisfied customers post-disconnection] ("Vince Third
+Report").
+
+The affidavit of Ms Wright made on 10 June 2009 [which affidavit and the accompanying report concurred with the finding and opinions of Mr
+Rowell in both of his Reports and the Joint Report and whose summary of her understanding of the latest positions of Mr Rowell with whom she concurred and with Mr Vince with whom she did not concur was annexed to the affidavits] ("Wright Affidavit").
+ 
+Dealing with the damages claim The plaintiff's damages claim has three components: 
+Loss of gross profit during the month of June 2007.
+
+Loss of gross profit during the year to 30 June 2008.
+
+Loss of goodwill assessed as at 30 June 2008.
+ In assessing the loss of gross profit, two components were considered by the parties in their respective experts' reports: 
+Lost revenue.
+
+Gross margin.
+ To assess the loss of goodwill, two approaches have been adopted by the plaintiff and questioned by the defendant: 
+Industry standard approach.
+
+Capitalisation of future maintainable earnings.
+ Also, there was also a great deal of contention regarding the giving of a large amount of credits by the plaintiff to its customers following the disconnection of its services by the defendant. Although, not a separate limb of damage sought by the plaintiff, this issue permeates both the notion of lost profits and loss of goodwill.
+ 
+Loss of gross profit during the month of June 2007 In the Joint Report, the experts have agreed that: 
+In June 2007, the revenue shortfall was $157,737.00.
+
+The gross margin for the budget year including June 2007 was 15.29%.
+
+Based on the above data, the loss figure for June 2007 is $182,726.00 plus interest at Supreme Court rate of $35,870.00 totalling $218,726.00.
+ 
+Loss of gross profit during the year to 30 June 2008 Both parties have presented a bevy of scenarios. The four scenarios are summarised in the table below: 
+Scenario 
+Party 
+Revenue 
+Gross Margin 
+Lost Profits  ---|---|---  
+Vince Primary Approach 
+P1 $3,787,413.00 .70% $847,794.00  
+Defendant Scenario 1 
+D1 $0.00 .29% $201,207.00  
+Defendant Scenario 2 
+D2 $2,092,166.00 .29% $366,670.00  
+Vince Variation 
+P2 $2,938,790.00 .70% $718,701.00  It is useful to begin with a guide to interpretation of this table: "Scenario" refers to the name of the approach adopted by a party.
+ "Party" refers to a reference marking given to each scenario.
+For example, P1 means that the scenario is the plaintiff's primary contention.
+D2 means that the scenario is the defendant's secondary contention.
+ "Revenue" refers to the revenue that was lost because of the disconnection according to the scenario.
+ "Gross Margin" refers to the gross profit margin assigned by the given scenario.
+ "Lost Profits" is the loss of gross profit figure calculated, based on the revenue and gross margin figures in each scenario after interest is applied.
+ The plaintiff has relied upon the "Vince Primary" (P1) as their primary contention with the "Vince Variation" (P2) as the secondary contention.
+ The defendant has relied upon "Defendant Scenario 1" (D1) as its primary contention with "Defendant Scenario 2" (D2) as its secondary contention.
+ Each of these scenarios will be analysed in turn.
+ 
+Vince Primary Approach The plaintiff's flagship approach is contained in the Vince First Report dated 30 October 2008.
+ In June 2006, Mr Neghabian prepared a budget forecast for the next four years ("the June 2006 Budget"). Under his primary approach, Mr Vince expresses the view that, without the disconnection, Lime would have achieved the June Budget forecast for the year to 30 June 2008.
+ In his analysis, Mr Vince compares budgeted revenue ($9,284,331.00) to actual revenue ($5,496,918.00) for the year ending 30 June 2008. On that basis, he assesses the loss, based on a budgeted 17.70% gross margin, as $742,608.00 (plus interest of $105,186.00) making up a total of $847,794.00.
+ Mr Vince was strongly cross-examined by the defendant's counsel regarding the reasonableness of his approach and conceded that he did not have specific evidence regarding forecasted revenue growth (transcript 141.47-142.28) or the .70% gross margin (transcript 158.31-40).
+ Mr Vince's justification for the incompleteness of supporting evidence in cross-examination was put as follows: 
+Q. I want to suggest to you, in light of the absence of all of that material you're not able to assess the reasonableness of any underlying inputs which might have been given to produce the numbers in this forecast? 
+A. I accepted the forecast on the basis that in the previous the budgets were prepared well prior to the disconnection. The actual budgets for , in terms of sales revenue were in fact actually at least achieved, if not surpassed, albeit for the disconnection. And by analysing the results that occurred in the 2007 financial year it was clear that the budget had been prepared from a reliable basis, albeit that it's a small business and small business doesn't often have the intricacies of preparing detailed budgets. So
+I was happy to accept the fact that as sale had increased by in excess of 150% from 2006 to 2007 that a reduction in sales growth from 2007 to 2008 of 95% was not unreasonable under the circumstances. And also by looking at the sales that had actually taken place during the year ended 30 June 2008, seven I'm sorry, the growth in the sales that had taken place. So although the information you're asking for was not presented to me there was an analysis of the information that was available. (transcript 142.30-46) Mr Vince, "a very candid... transparently honest witness" (transcript .35) according to the defendant, with whose view I concur, has highlighted the important point that small businesses do not have the luxury of producing detailed budgets.
+ Mr Vince's proposition noting that the previous budges were prepared well prior to the disconnection should be kept firmly in mind. Ultimately, the exercise of determining a loss of profit figure must include a discount by way of a reduction for exigencies. The matter simply forms part of the court's proper approach in exercising its responsibility in attempting to assess damages as best it can: Amman and Fink supra.
+ The Court accepts as pervasive the circumstantial evidence that: 
+In the 11 months before disconnection, Lime's actual sales exceeded the budget forecast. Mr Neghabian forecasted revenue of $3,993,286.00. However, Lime achieved $4,215,909.00 ($222,623.00 above budget).
+
+Further, that during the 2007 financial year (which included the disconnection), Lime's total sales revenue grew by 152%. For Lime to stay on budget for the 2008 financial year, it was said by the plaintiff that it only had to achieve a 95% growth in sales (in contrast to the 152% that it achieved).
+ Nevertheless, it is appropriate to treat with the other competing scenarios put forward.
+ 
+Defendant Scenario 1 The defendant's first approach is contained in the Rowell Report dated 27
+April 2009. It is a direct response to the Vince Primary Approach.
+ Mr Rowell takes the average revenue during the three months before disconnection on 29 May 2007 and then estimates that (without the disconnection) Lime's revenues would have remained static during the 2008 financial year. Applying a 15.29% gross margin agreed upon in the Joint
+Report, he assessed the loss as $176,243.00 for the year plus interest of $24,964.00 totalling $201,207.00.
+ This approach is shortly dealt with. The Joint Report at paragraph 14 clearly states: 
+Mr Vince and Mr Rowell agree that, at the date of the disconnection,
+Lime's monthly revenues were growing and that it is reasonable to assume that
+Lime's revenues should have continued to have grown during the year ended 30
+June 2008 absent the disconnection.
+ In fact, Appendix H of the Rowell Report displays a graph where a line representing Lime's actual revenue over time trends upwards rather than flat lining.
+ Ms Wright conceded that Lime's financial performance had a growth trajectory during cross-examination: 
+Q. And there upon Lime Telecom resumed a growth trajectory didn't it? 
+A. Yes.
+ 
+Q. And the best explanation for it resuming that growth trajectory was that it was recovering from the disconnection and was resuming its - and was fulfilling its usual growth potential? 
+A. I think that's a reasonable assumption.
+ 
+Q. So you'd agree with me that that line, the straight line, which is on - going up quite dramatically, that is a fairly good indicator of the growth potential of Lime Telecom? 
+A. Yeah, that's the actual performance of that, yeah, for that period.
+(transcript 193.3-193.14) 
+Defendant Scenario 2 The defendant's second approach is also contained in the Rowell Report in direct response to the Vince Primary Approach.
+ The Defendant's Scenario 2 is identical to the Defendant's Scenario 1 save that Mr Rowell assumes that Lime's revenues, absent the disconnection, would have continued to grow at a rate consistent with its average actual quarterly revenue growth for the two quarters ending 28 February 2007 and 31 May 2007.
+This is in contrast with Defendant Scenario 1 involving zero revenue growth.
+Applying a 15.29% gross margin rate as he did in Defendant Scenario 1, Mr
+Rowell assessed the loss as $321,177.00 plus interest of $45,493.00 totalling $366,670.00.
+ Prima facie, this analysis, unlike Mr Vince's primary approach, is grounded more solidly on actual figures rather than budgeted figures subject to vigorous attack by the defendant. That notwithstanding, there remain issues that undermine its accuracy and reliability.
+ Mr Rowell relies heavily on three months of accounting data to criticise
+Mr Vince's primary approach. Paragraph 4.2.16 of his report stated, "[Lime's] budget was becoming harder to achieve". Paragraph 4.2.17 seeks to justify that argument by emphasising that the actual revenue figures of March, April and
+May 2007 fell short of budget.
+ There are two sub-issues that can be raised in relation to Mr Rowell's methodology regarding revenue calculations.
+ First, is it was acknowledged by both parties that it is would be difficult for Lime to forecast sales on a month-to-month basis: 
+Q. So that it's not quite correct is it to say that the 2008 forecast were going to be or likely to be met because the forecast had been met in 2007 year where in effect there had been times during the 2007 year where Lime had not actually achieved its forecast? 
+A. In my opinion, it would have been awfully difficult for Lime to forecast its sales on a month-to-month basis. And I appreciate that it did and because of the way they have accounted for their income and expenses, the monthly reporting is not as accurate as a large corporation would be, therefore when you compare actuals to budget, relying on a month to month information that's there, I didn't feel was appropriate and I looked at it on the basis of an annual position. And on annual year to date position, it was clearly in excess of its budgets and I focused more on that aspect than clearly looking at a relatively short period of time.
+
+Q. All right... (transcript 145.40-146.4) It is also evident from paragraph 31 of the Joint Report that there was a mismatch between revenues and expenses: "Mr Rowell now understands and agrees with Mr Vince that Lime's MYOB accounting records do not accurately match Lime's cost of sales with its monthly revenues and consequently Lime's monthly gross profit percentages do not accurately reflect the monthly gross profit of Lime's business".
+ Second, the three months mobilised by Mr Rowell involved two out of only three months in the 2006-2007 financial year where Lime was not performing to budgeted standards in the revenue sense. Ms Wright admitted this during cross- examination: 
+Q. Now scenario 2 relies very heavily upon a three-month period just before disconnection doesn't it? 
+A. Yes it does.
+ 
+Q. And it relies very heavily as a consequence on two months which are
+March and April of 2007 when Lime Telecom was below budget, correct? 
+A. Yeah, I believe it's based on the average of the three: March, April and May.
+ 
+Q. But March and April were the only two months in the previous 11 months that Lime Telecom was below budget, correct? 
+A. I believe July - sorry - I'm referring back to appendix E, the same one
+I was looking at before. I believe July 2007 was also below budget.
+ 
+Q. I'm actually talking about before disconnection. But before disconnection in the 11 months before disconnection the only two months that
+Lime Telecom was below were March and April of 2007, correct? 
+A. Sorry I misspoke before, when I said July 07 I meant July 06; I was just referring to appendix E. It looks like there was one previous month when it was also below budget. (transcript 187.28-40) A glance at Appendix E of Mr Rowell's report indicates that there were months where revenues significantly exceeded budgeted figures, for instance
+October and November 2006 and February 2007.
+ In brief, a major flaw in the defendant's analysis lies in the financial data relied upon. The defendant relies on financial data where: 
+The month on month accounting records do not accurately reflect the company's financial performance by nature.
+
+The sample taken does not accurately reflect the company's financial performance in a historical sense.
+ On the other hand, the plaintiff's analysis: 
+Acknowledges that monthly records are not congruent to the matching principle and adopts a longer-term view accordingly using Mr
+Neghabian's budget.
+
+By adopting a longer-term view, avoids using figures that may result in a distorted view of the company's financial health.
+ There was further contest regarding the appropriate gross margin rate used to calculate lost profits. Mr Rowell expresses the view that, without the disconnection, Lime would have had a gross profit margin of 15.29% during the financial year (as stated on paragraph 45 of the Joint Report). On the other hand, Mr Vince adopts the June 2006 Budget estimate of 17.70% for the same period.
+ Lime's actual gross profit margins were 21.34% in the 2005 financial year, .67% in 2006 financial year, 15.29% (agreed by the experts) in the 2007 financial year (Joint Report paragraph 43), and then 13.75% in the 2008 financial year (Rowell Report Appendix F).
+ Obviously, the disconnection contributed to the low figure for 2008.
+Indeed, Lime's gross profit margins were negative 26.55% in June 2007, negative 6.40% in July 2007 and negative 6.63% in August 2007 (Rowell Report
+Appendix F).
+ Mr Neghabian also gave evidence about specific expenses that Lime incurred as a consequence of the disconnection. It is important to emphasise that the plaintiff never alleged these expenses as independent heads of damages.
+However, they corroborate Mr Vince's conclusion that the disconnection had a significant impact on Lime's gross profit margin in the 2008 financial year.
+ These expenses are tabulated below: 
+Expense classification 
+Amount  
+Cost of giving extra credit $338,250.00  
+Additional cost of casual workers who put Soul Communications stickers on Dead
+Cards $15,000.00  
+Cost of obtaining replacement cards from China 
+Unquantified  
+Additional payment for Optus 1800 number $13,786.87  
+Additional payment for Primus 1300 Number $12,552.00  
+Increased sales commission to John Bitar of 5% during 2008 financial year $87,829.00  
+Cost of computer system crashing $70,000.00  Mr Neghabian was cross-examined about the extra credit, and then only on the basis that it should not have been given. The issue of the extra credits is covered later.
+ The defendant submitted that the 15.29% figure was justified because: 
+Of the downward trend in its annual gross margin over time from .34% in the 2005 financial year to 15.29% in the 2007 financial year.
+
+Lime's 2007 financial year gross margin prior to the disconnection was 4.90% short of its budgeted gross margin of 20.19% as conceded by Mr Vince (transcript 146.26-32).
+ However, Mr Vince calculated that if Lime had not given a significant portion of the extra credits, its gross profit margin would have been as high as 19.24% for the year ending 30 June 2008 (see Vince Third Report paragraph ).
+ Presumably, if it had given no extra credits, its gross profit margin would have been even higher. Furthermore, Mr Vince's calculation does not include the other expenses referred to above.
+ Hence, the finding is that if such adjustments regarding expenses were to be made, Mr Vince's 17.70% gross profit margin would have been achieved but for the disconnection, especially in light of the fact that these adjustments represent true figures and not speculative forecasts.
+ "Extrinsic factors" play a nebulous role in Mr Rowell's analysis. In the
+Joint Report (paragraph 65 and 66), he states that: "Lime's loss of profit range does not make any allowance for the possible impact of extrinsic factors on the actual financial performance of
+Lime subsequent to the disconnection. That is, it does not make any allowance for factors, unrelated to the disconnection, which may have been contributing to either deterioration or a decline in the growth of Lime's business subsequent to the disconnection". (paragraphs 65 and 66) Similarly, in his first report, Mr Rowell says that he "had regard to the existence of any extrinsic factors, unrelated to the disconnection, which might have been affecting the financial performance of the business" (Rowell
+Report paragraph 3.1.8).
+ However, Mr Rowell admits that he cannot identify any such negative extrinsic factors. As Mr Vince notes, "no evidence is provided that any extrinsic factors had any effect on Lime's business during the period in question" (Vince Second Report paragraph 34).  Mr Vince also points out that Mr Rowell does not mention possible favourable factors in paragraph 33 of the Vince Second Report including: 
+Recharge income (which does not require the payment of commissions) growing at a faster rate 
+Changes in technology reducing network access charges 
+The installation of new technology, such as the automated voice response system 
+Favourable movements in foreign exchange.
+ 
+Vince Variation Mr Vince adopts the same methodology as Mr Rowell, but moves each of the two quarters forward one month so that they end on 31 March 2007 and 30 June
+For June 2007, he uses a sales figure of $537,133.00 comprising actual sales of $379,396.00 plus the $157,133.00 revenue loss that Mr Vince and Mr
+Rowell have agreed occurred.
+ Applying a 17.70% gross margin, Mr Vince calculated the loss as $629,532.00 plus interest of $89,169.00 totalling $718,701.00. If Mr Rowell's .29% gross margin were deployed, the loss would have been $425,147.00 plus $60,219.00 interest totalling $485,366.00 (see paragraph 63 of the Joint
+Report).
+ Nevertheless, the plaintiff maintains that Mr Vince's primary approach is its preferred loss of gross profits figure for the financial year ending 30
+June 2008.
+ In the Joint Report, at paragraph 22, Mr Rowell accepts that the Vince
+Variation is "not unreasonable" and is an "alternative method" to estimate
+Lime's loss although he maintains that his own method (the Defendant's
+Scenarios) provide a better basis for calculation.
+ In my view that Mr Vince's primary approach remains the most appropriate.
+Although the Variation ameliorates to a certain extent, Mr Rowell's heavy reliance on two months prior to disconnection where Lime did not achieve its budget forecast, Mr Rowell's methodology remains flawed in that the Variation still uses a short time frame involving month to month accounting figures that may not accurately reflect the plaintiff's financial status.
+ 
+Award of damages for lost profits As mentioned earlier, there are two components one of which the experts have already agreed upon.
+ The first component, which both experts agreed upon, is for the loss of profits during the month of June 2007 (the month immediately following the disconnection). This amount has been calculated as $218,726.00 including interest and will be awarded in full to the plaintiff.
+ The second concerns the appropriate figure regarding the loss of profits during year to 30 June 2008 to reflect Mr Vince's primary approach, which has prevailed. In my view, subject to the requirement to reduce for exigencies, this second loss of profits figure should be $847,794.00 as earlier set out in the Vince Primary Approach (P1).
+ This exigency discount, judging by the deficiency of evidence presented by the plaintiff to justify its claim will be 50%. This takes the figure of damages for loss of profits during the year ended 30 June 2008 to $423,897.00 (as 50% of $847,794.00).
+ Therefore, the total amount awarded to the plaintiff for loss of profits arising from the disconnection is the sum of $218,726.00 and $423,897.00, that is $642,623.00.
+ 
+Extra credits issue In dealing with the customer complaints, Mr Neghabian and his staff encountered a large number of customers who demanded extra credit for the inconvenience they had suffered from the disconnection. If a client expressed dissatisfaction, Lime often offered to give the extra credit as compensation.
+ The plaintiff has assessed the total amount of credits given to customers from 15 June 2007 to 28 February 2008 to be $615,598.43. The provision of that credit increased Lime's cost of sales by $338,250.00 because it had to pay telecommunications carriers an additional amount to carry the extra traffic.
+This figure is derived as the aggregate of the credits displayed in Exhibit 7 of Mr Neghabian's affidavit of 18 May 2009.
+ The defendant submitted that the plaintiff's failure to adduce material evidence regarding the distribution of the extra credits means that the appropriate approach is to concentrate on the actual financial results of Lime prior to disconnection free of Mr Neghabian's assertions. The defendant submitted in final address that it was "commercially irrational" to hand out such a large amount of credits (transcript 221.25).
+ Indeed, as the plaintiff has pointed out, Lime has never put forward the extra credit amount as an additional head of claim. In addition, neither expert has included the issue in their respective reports. Nevertheless, the principled approach is to deal with this issue as it arises.
+ I accept that the plaintiff was in a state of extremis upon the defendant disconnecting the services provided to the plaintiff.
+ Mr Neghabian's evidence is accepted when he makes clear that the lodestar, which governed his approach, was to do everything humanly possible to save his business: "...we were doing anything in our best to keep the business and the good will of the business and not let this business to die in our hands because this is the business that I built from scratch..." (transcript 59.17-19) It was clear from Mr Neghabian's cross-examination that an important strategy which he oversaw, was to ask precious, if any, questions of dissatisfied customers but instead to offer credits to such clients in the hope that the customer would remain a customer of the plaintiff: "I was seeing the business is getting to the edge of, you know, discontinuation and I had no choice to create a goodwill out of this business.
+I have to give this credit to the people to make sure that they will as long term customers." (transcript 64.45-48) In hindsight, Mr Neghabian saw the whole operation as successful because clients kept coming back to use Lime's services: 
+Q. And just hand the money out seven or eight months later without now being able to give the particular details for any particular account while you gave that money out? 
+A. Because we saw that customers - it's just the thing that it's quite obvious that we saw the customer was happy with that amount of compensation, they keep coming back and using our service now. (transcript 73.25-30) The practice of liberally applying credits is seen to have been a reasonable and necessary practice in the unusual circumstances in which obtained. Lime was simply not in a position to conduct the checks and balances that the defendant submitted ought to have been done.
+ 
+Goodwill claim The third component of the plaintiff's damages claim is for loss of goodwill as at 30 June 2008.
+ In Benward Pty Ltd & Ors versus Metal Deck Roofing Pty Ltd & Ors <case>, Palmer J said: "No exactness can be achieved in the task of awarding compensation for future economic loss - to a considerable degree, it depends upon an impression and a sense of balance." (paragraph 70) In that case, the plaintiff, a printing firm, had lost some major customers due to a business interruption. Palmer J applied the capitalisation method for assessing goodwill and said: "If the relationships [with customers] had been retained, even if only for a number of years, it is highly probable that the net profits of the
+Plaintiffs' business would have increased more substantially than they have without those relationships and that the Plaintiffs' business would, consequently, have had a greater value than it does today." (at paragraph 53) Relevant to this case Palmer J also said in passages: "...it is unrealistic to assume that the plaintiffs lost no other customers besides Nokia SEA, Optus and Stenmark. The plaintiffs have not identified such customers but they say that the difference between sales budgeted and sales actually achieved for the financial year ended 30 June 2000 demonstrates that other customers must have been lost. This is inherently probable, given the competitiveness of the printing industry and the severity and length of the disruption to the plaintiffs' business." (at paragraph 54) "Mr Jugmans [the defendant's expert] conceded that such a disruption would have had an effect on the goodwill of the Plaintiffs' business for a period of twelve to eighteen months but said that he had made no allowance for this effect because it was 'not permanent'. I do not think that it is reasonable to eliminate from the category of compensable economic loss proven substantial damage to goodwill of a business simply on the basis that it is 'not permanent', in the sense that, sooner or later, the plaintiff will probably get their business back to the position it was in before the damage to goodwill was inflicted. The reality is that if damage to the goodwill had not been inflicted the plaintiffs would not have had to spend time, money and effort simply to get back to the position they were in immediately before the damage; the plaintiffs would have forged ahead without interruption in building up the value of the goodwill of the business. Today, they would very probably have had a business more valuable than it is." (paragraph 55). His
+Honour's judgment was confirmed on appeal: see Trio Insulations Pty Limited v
+Metal Deck Roofing Pty Limited  <case> It is contended by the plaintiff that on 30 June 2008, Lime was still suffering a loss of goodwill due to the disconnection in that, because of the disconnection, Lime was, on that date, "still a less than valuable business than it otherwise would have been". The defendants deny that claim.
+ Mr Vince assesses Lime's loss of goodwill as at 30 June 2008 in the range of $1,690,949.00 to $1,838,543.00 in his First Report.
+ Before analysing the approaches taken in quantifying goodwill, an important issue that arises is whether the plaintiff's business possessed goodwill in the first place. The parties have taken markedly opposing viewpoints.
+ 
+Evidence of goodwill The key points that the plaintiff put forward as evidence of a loss of goodwill suffered were: 
+Lime operates in a competitive market in which it is easy for customers to switch loyalties 
+As a consequence of the disconnection, around 134,000 customers (with credit of about $400,000.00) could not use their cards. Mr Neghabian estimated, in cross-examination, that about 70,000 customers were seriously affected (transcript 50.45, 51.35).
+
+When Lime re-established its 1300 (customer support) lines, it was deluged with calls from a very large number of irate customers.
+
+For many months after the disconnection, Lime's sales were half or less.
+
+Lime gave a significant amount of credit to disgruntled customers, which, according to the plaintiff, demonstrated the value that it placed on maintaining customer loyalty. Mr Neghabian gave evidence that many customers had used its services since 2004 (transcript 73.15).
+
+After the disconnection, Lime had to establish a new marketing campaign (with numerous new brands) to win customers because its existing brands were tarnished in the marketplace.
+
+As at 30 June 2008, Lime's actual sales were still far below those predicted in the June 2006 Budget. The budget predicted sales of $9,284,331.00 for the year to 30 June 2008. Actual sales were $3,787,413.00 below that.
+
+Mr Rowell's Scenario 2 accepts that Lime would continue to suffer lost sales, due to the disconnection, after 30 June 2008. He predicts that the losses would last until at least April 2009 (see Appendix H of the
+First Rowell Report).
+ Mr Vince clarified that the goodwill that was lost constituted customer loyalty in Lime's products: 
+Q. You haven't been able to actually say, for instance, there are a group of assets within the Lime business which have been either permanently or substantially destroyed, diminished or impaired have you? 
+A. I would have thought its customers would have been the asset that has been diminished. (transcript 168.34-38) ...
+ 
+Q. May I ask just one question, do you treat a loss of revenue as a loss of goodwill? 
+A. No they're two separate issues, but they are related.
+ 
+Q. Well the loyalty of customers, do you treat as in the same bracket as the goodwill assessment? 
+A. Yes your Honour. (transcript 169.11-17) The defendants have sought to refute any claim of goodwill loss by contending directly in submissions or indirectly through cross-examination of the plaintiff's witnesses that: 
+The plaintiff is unable to identify specific customers whose loyalty has been lost. Mr Vince acknowledged this (transcript 168.40-42).
+
+The key factor behind a customer's decision to purchase a calling card is price and that Lime's campaign of giving bonus credits is its acknowledgment of the importance of price. Mr Neghabian categorically denied this proposition in cross-examination (transcript 97.39-44).
+
+Lime produces a large number of "almost generic" cards (transcript 217.1-2) that do not bear any references to the plaintiff company itself - barring one card (transcript 92.24-25).
+
+The plaintiff's loss of goodwill claim is a "doubling up" of what was already calculated by its loss of profits claim. Mr Vince flatly denied this line of reasoning (transcript 168.6-9).
+ The defendant's contentions will be addressed here.
+ Firstly, I accept the evidence that Lime operates in an industry where there is an ocean of customers with widely dispersed holdings of credits for calling card services. With approximately 70,000 customers affected in very short period of time, according to Mr Neghabian, attempting to keep even more than a nominal amount of detail about each customer would be prohibitive in terms of both cost and time.
+ I also accept Mr Neghabian's evidence that Lime is a company pursuing a strategy of competing primarily on service quality as opposed to cost (transcript 88.26-27, 117.21-22). The plaintiff's relatively sound financial situation up till the point of disconnection (in exceeding its budgeted revenue forecasts) and its recovery afterwards vindicates Mr Neghabian's denial that cost is necessarily the governing factor of a purchase. In addition, the engaging of advertising campaigns involving bonus credits, I accept, was merely the plaintiff's responding to the actions of its competitors, as opposed to deliberately attempting to undercut its competitors considering that the plaintiff would only engage in the practice if "if you can actually afford it": 
+Q. So you'd say, "Here's a $50 card and $5 of additional credit or X minutes of time free of charge"? 
+A. That's right.
+ 
+Q. You'd do that from time to time, and you did that quite extensively in the 2007 year, didn't you? 
+A. That's right. That was part of the package that were offering.
+ 
+Q. The purpose of doing that was to try and grow your business, promote your business? 
+A. Not necessarily.
+ 
+Q. What was the purpose of doing it then, Mr Neghabian? 
+A. It was just, I actually bought it as unfortunate things, because it was, it's happened that it becomes some sort of, like you know, it was introduced by the competitor and then we didn't want to lose that aspect.
+ 
+Q. You thought you had to follow what your competitors were doing? 
+A. If you can actually afford it. (transcript 81.22-40).
+ The third contention about the "generic" cards was made presumably to make out an underlying proposition that there is no customer loyalty towards the plaintiff itself because the cards (save one) do not identify the "Lime" brand. In my view, this contention unnecessarily confines the notion of "customer loyalty" (which I accept as a key point regarding goodwill assessment).
+ Posit the following example: A customer purchased a Lime product, for example, "Another Indian" and was thoroughly satisfied with the quality of service. If the customer purchased "Another Indian" again this is clearly customer loyalty. It may not be customer loyalty to the company behind the card itself (in the direct sense), but it is still customer loyalty to the card produced by the plaintiff - regardless of which "brand" of card is purchased by the end user.
+ This loyalty, although not directed at the plaintiff itself is clearly a valuable asset of the company. There is a probable future economic benefit from that loyalty because the customer is more likely to purchase more of the plaintiff's cards, which in turn, manifests as revenue from the sale of those further cards. The plaintiff obviously controls access to the future revenue.
+The transaction that gave rise to the benefit (the initial dealing of the card) has already occurred.
+ The fact that Mr Neghabian spent considerable hours and considerable money on giving extra credits to disgruntled customers indicates that he was well aware that customer loyalty existed regarding the plaintiff's products.
+ Lastly, in regards to the "doubling up" claim, it is important to regard the nature of the goodwill itself. Considering that the goodwill identified is essentially customer loyalty, the important question is how the loss of goodwill actually manifests. Benward, by its facts, (at paragraph 53 extracted above) points up that loss of goodwill of that nature manifests in the form of lost revenues and profits.
+ In fact, in cross-examination, the defendant's expert Ms Wright conceded that whether loss of goodwill was in fact a capitalisation of loss of profits was merely a "matter of semantics".
+
+Q. If a company has customers who would've stayed with it for five years, but no more, and had lost those customers due to a breach of contract, isn't that a loss of good will? 
+A. I - just to come back to what I said before, when there - when there's a defined period, I would calculate that as a loss of profits and not a loss of good will.
+ 
+Q. But really that's just a matter of semantics; isn't it? 
+A. Well we're trying to put the company back in the position it would've been, so I suppose it's semantics in that that's what we're trying to do. If you want to call it loss of profits or call it goodwill, what we're trying to do is figure out the financial impact to the company. (transcript .50-197.11) It is also important to note that there was also a concession by Ms Wright that the defendant's experts did not consider themselves as qualified to assess goodwill.
+
+Q. Mr Rowell has said that he didn't regard himself as qualified to assess loss of goodwill. Are you aware of that? 
+A. I'm aware of that.
+ 
+Q. And you also regard yourself as not qualified to assess loss of goodwill? 
+A. Yes, I regard myself as not an expert in the industry of phone cards specifically.
+ 
+Q. And that is the basis upon which you're not prepared to assess goodwill? 
+A. My experience includes the use of valuation technology - sorry techniques but does not include analysis of the market and industry and goodwill and brand value associated with the phone card industry. (transcript .40 -184.1) This fact places some considerable doubt upon the veracity of the defendant's claim that there was no loss of goodwill.
+ 
+Industry standard approach The primary method that Mr Vince used was what he advocated as the "industry standard approach".
+ In early 2008, Lime received an offer from Tel.Pacific Limited ("Tel.Pacific") to purchase its business referred to as the "Business Sales
+Agreement". As Mr Neghabian indicates, in his second affidavit, Tel.Pacific provided Lime with a draft contract and subsequently sent an email dated 5
+March 2008.
+ That email, from Mr Barry Chan, said the "agreed" purchase price was subject to board approval after Tel.Pacific had established whether it could achieve a 10.00% EBITDA on revenue. If the EBITDA was achieved then, "as written on the draft contract our deal and payment terms will be based on revenues on the Tel.Pacific switch".
+ According to the email, the offer was to purchase Lime's business for a certain multiplier of "Switch Revenue". Switch Revenue is revenue grossed up to include commissions. The plaintiff contended that that multiplier was .50%. In Lime's case, Mr Vince grossed up reported revenue by 40.00% or .00% to establish switch revenue in two separate scenarios A and B.
+ In his first report, Mr Vince calculated Lime's loss of goodwill, as at 30
+June 2008, by comparing actual switch revenue for the 2008 financial year with the switch revenue it would have achieved with no disconnection. Then he applied the 27.50% multiplier to the switch revenue figures.
+ The findings are tabulated below: 
+Amounts calculated .00% gross up (Scenario A) .00% gross up (Scenario B)  ---  
+Goodwill (no disconnection) $4,065,105.00 $4,408,722.00  
+Goodwill (disconnection) $2,374,156.00 $2,570,179.00  
+Difference (goodwill loss) $1,690,949.00 $1,838,543.00  In cross-examination, Mr Vince conceded that the email from Mr Chan did not make any reference to a multiplier of 27.50% (transcript 163.39-41, .22-23) but rather that Appendix A of the Business Sales Agreement refers to a maximum multiplier of 25.00% for switch revenues above $10,000,000.00 (transcript 164.25-46).
+ Notwithstanding this absence of 27.50% in the agreement, it is clear from the email of Mr Chan that a $2,000,000.00 purchase price negotiated between the parties (excluding GST) is 27.50% of $7,270,000.00 and not 2.75% of that amount.
+ Further cross-examination yielded concessions that Mr Vince did not: undertake an analysis of the Australian calling card industry (transcript .19-22), assess Lime's market share (transcript 165.27-28) or make an independent valuation of Lime's business after 29 May 2007 (transcript .38-40). The defendants further submitted that due to a mathematical error,
+Mr Vince miscalculated Lime's EBITDA for the purposes of the Tel.Pacific offer.
+ Despite these concessions, the defendant's expert, Ms Wright, in her cross-examination, made the following concessions: 
+Q. Although a contract may not have been entered into as a consequence of that [i.e. the email], that provides a firm basis for what sort of prices are being paid in the industry doesn't it? 
+A. Subject to the due diligence limitation (transcript 203.11-14) 
+MENADUE: If Lime Telecom could obtain a 10% EBITDA then this particular email would be a firm basis for assessing values in the industry, wouldn't it? 
+A. Well, it's one example. I think you need several examples to say that it's an industry standard but it appears to be one example being used in this particular industry. (transcript 203.39-43) 
+Capitalisation of future maintainable earnings As a crosscheck to his goodwill analysis, Mr Vince applied a
+Capitalisation of Future Maintainable Earnings method. He estimated that, without the disconnection, EBITDA for the 2008 financial year would have been $1,151,304.00 (paragraph 57 of Vince First Report). He then chose capitalisation rates of 3 and 4 times EBITDA.
+ The figures he has calculated regarding the value of goodwill on 30 June under this method are displayed below (extracted from paragraph 58 of
+Vince First Report): 
+Capitalisation rate 
+Value of goodwill  x EBITDA $3,453,911.00  x EBITDA $4,605,215.00  Although those two figures are reasonably close to the valuations under the industry standard approach, it is but "a crosscheck" and not "a primary valuation method". Mr Vince acknowledged this in his cross-examination: 
+Q. I'm sorry.
+ 
+A. However, that calculation was included as a comparison basis, not as the main basis of a valuation. I do rely - as I said, I only put it in for comparative purposes, and I rely on the basis of the Lime offer, and the calculation of the switch fee income phase as determining the value. This is more a crosscheck on a different basis.
+ 
+Q. But the figures you've used as a crosscheck are very sensitive, aren't they? 
+A. Yes, they are.
+ 
+Q. So that for instance if you reduced your multiple from 3% to 2% (sic) it would bring down the value down to about 2.9 million? 
+A. Yes, it would. (transcript 176.44-177.7) 
+Award of damages for loss of goodwill The quantification of damages for loss of goodwill must account for the fact that goodwill, as an intangible asset, may be inherently difficult to quantify even with comprehensive financial records let alone the situation here where there involved evidentiary difficulties.
+ The principled approach is to factor in such a difficulty in calculating goodwill and to award the lower calculation put forward by the plaintiff in its Scenario A of $1,690.949.00 subject to the exigency discount.
+ This exigency discount, taking into account the evidentiary issues in the plaintiff's case, will be 50%. The figure of loss of goodwill to be awarded to the plaintiff is $845,475.00 (as 50% of $1,690,949.00 to the nearest dollar).
+ 
+Total amount to be awarded to the plaintiff Subject to any appropriate adjustments concerning further interest [as to which submissions will be taken], the total amount of damages to be awarded to the plaintiff are as follows: 
+Component 
+Amount  
+Loss of gross profit during the month of June 2007 $218,726.00  
+Loss of gross profit during the year to 30 June 2008 $423,897.00  
+Loss of goodwill assessed as at 30 June 2008 $845,475.00  
+Total $1,488,098.00  
+Short minutes of order The parties will be given an opportunity to address on costs and on the propriety of an allowance for interest adjustments.
+ *
+ 
+LAST UPDATED:  June 2009 * * * 

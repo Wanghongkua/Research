@@ -1,0 +1,91 @@
+
+
+Aquawest Pty Ltd versus Twynham [2017] NSWSC 652 (25 May 2017) 
+Last Updated: 1 June 2017 
+Supreme Court 
+New South Wales  
+Decision: 
+The amended summons is dismissed. 
+The Plaintiff to pay the Defendant's costs of the appeal.  
+Catchwords: 
+APPEAL - Local Court - Breach of contract - Appeal as of right on a question of law - whether question of law or fact - whether question of mixed law and fact - no error of law.  
+CONTRACTS - general contractual principles - construction and interpretation of contracts - meaning of punctuation mark - meaning of forward slash - whether interpretation of punctuation in a clause in a contract is a question of law.  
+JUDGMENT
+By Summons filed on 24 March, the plaintiff sought leave to appeal from the decision of Magistrate Stewart of 25 February 2016.
+By Amended Summons filed 31 May 2016, the plaintiff converted its appeal to an appeal asserting only errors of law: 
+A. ... in not finding that, on a proper construction of the Credit Account
+Application (the "Contract"), a director of a Customer who signed the Contract was personally liable for the performance of that Customer's obligations under the Contract. 
+A. ... when determining whether the Contract was signed by the Defendant in his personal capacity, by having regard to the subjective intentions of the
+Defendant. 
+A. ... in not finding that, on a proper construction of the Contract, the
+Defendant signed the Contract both in his personal capacity and on behalf of
+Chatoyer Holdings Pty Ltd.
+If the errors identified are not errors of law, the appeal fails.
+The Defendant filed a Notice of Contention on 3 June 2016 contending that the decision of the Court below should be affirmed on grounds other than those relied upon by the Court below, but did not seek a discharge of variation of any part of the decision. I do not need to deal with this Notice of Contention in order to dispose of this appeal.
+
+Background facts
+In February 2013, the Plaintiff entered into a credit contract titled "Credit Account Application" ('the Contract') with Chatoyer Holdings Pty Ltd ('Chatoyer') by which the plaintiff would provide irrigation services and equipment to Chatoyer. The contract was signed on behalf of Chatoyer by the Defendant to these proceedings.
+Above the signature of the Defendant were printed the following words: 
+I certify that the above information is true and correct and that I am authorised to make this application for credit. I have read and understand the
+TERMS AND CONDITIONS OF TRADE (overleaf or attached) of Aquawest Pty Ltd T/A
+Aquawest Plumbing & Irrigation Specialists which form party of, and are intended to be read in conjunction with this Credit Account Application and agree to be bound by these conditions. I authorise the use of my personal information as detailed in the Privacy Act clause therein. I agree that if
+I am a director/shareholder (owning at least 15% of the shares) of the
+Customer I shall be personally liable for the performance of the Customer's obligations under the contract.
+The Defendant, at the time he signed the contract, was a director of Chatoyer, but as borne out by the evidence at the first hearing it could not be shown that he held at least 15% of the shares in Chatoyer.
+After a series of part payments (the last one being in February 2014), $54,600.00 remained outstanding to the Plaintiff. In late March 2014, administrators were appointed to Chatoyer. In May 2014, Chatoyer went into liquidation.
+The Plaintiff commenced proceedings against the Defendant in the Dubbo Local Court, claiming the outstanding amount plus interest. The proceedings were heard by Magistrate Stewart on 12 November 2015, and judgment was delivered with reasons on 25 February 2016. The proceedings were dismissed with costs.
+The primary issue before the Magistrate was the meaning of the claim 'I agree that if I am a director/shareholder (owning at least 15% of the shares) of the Customer I shall be personally liable for the performance of the customers' obligations under the Contract' which appeared in bold type in the Contract. In particular, the Magistrate was asked to determine whether the Defendant in these proceedings had signed the document as personally guaranteeing the line of credit extended to Chatoyer.
+It is the Magistrate's findings in relation to that clause of the Contract that give rise to this appeal. The key issues were whether the phrase was ambiguous, and whether and in what circumstances it created a personal guarantee. His Honour noted that there were three potential interpretations of the clause as to when an obligation to guarantee the debt could occur: * (1) A shareholder (owning at least 15% of the shares) of the Customer, but not a director of the Customer.
+* (2) A shareholder (owning at least 15% of the shares) of the Customer, and also a director of the Customer.
+* (3) A director of the customer, but not a shareholder of the Customer (or a shareholder owning fewer than 15% of the shares in the Customer).
+The Magistrate in his judgment described the Contract as 'a very ambiguous document' and 'poorly drafted for a number of reasons'. In particular, the Magistrate found the phrase in question to be 'truly ambiguous'. He stated: 
+Due to the ambiguity of the credit application I cannot be satisfied that the director Paul Twynham signed that document as a personal guarantee. As I indicated, there was no separate signing provisions for the guarantee and his signature would well and truly be simply someone who is accepting the terms and conditions. The fact that he has accepted those terms and conditions and indicated that he clearly read that document before signing it may give rise to liability for the other matters that I have raised which are not the subject of the proceedings today. 
+But, under the circumstances, I cannot be satisfied that he signed the document as a person offering to guarantee the debt owed to Aquawest.
+
+These proceedings
+The appeal before me has been brought pursuant to the [Local Court Act 2007](http://www.austlii.edu.au/au/legis/nsw/consolact/lca2007131/) which provides: Appeals as of right 
+A party to proceedings before the Court sitting in its General Division who is dissatisfied with a judgment or order of the court may appeal to the
+Supreme Court, but only on a question of law.  ...
+In accordance with that section, the first factor I must consider in relation to this case is whether the appeal can properly be described as a question of law.
+
+Plaintiff submission on whether appeal concerns a question of law
+The Plaintiff submitted that the issue of proper construction of that clause in the Contract is a question of law. In making that submission, the Plaintiff relied on the decision of Knox CJ in Life Assurance Co of Australia Ltd versus Phillips <case>; [(1925) 36 CLR 60] at 68. Counsel for the Plaintiff also cited from the judgment of Isaacs J in that case at 79: 
+Once there is established the full mutual expression of the agreement in
+English words, the construction of the document is, as Lindley LJ says, a pure matter of law.
+It was argued, in effect, that the proper construction of the operative provision is not an argument about interpretation of words or terms (which, it was conceded, would be a question of fact) but a matter of construction of a term of a contract, and therefore a question of law. The matter of construction in issue was the construction that ought be given to the forward-slash ('/') between the words 'director' and 'shareholder' in this sentence: 
+I agree that if I am a director/shareholder (owning at least 15% of the shares) of the Customer I shall be personally liable for the performance of the Customer's obligations under this contract.
+The Plaintiff argued that the question of how that punctuation mark affects the phrase as a whole is a question of construction of a term in the contract, and therefore a question of law.
+
+Defendant submissions on whether the appeal concerns question(s) of law
+Counsel for the Defendant submitted that ground 1A was not a question of law. He outlined that there was a need for a two-step process for the analysis of ground 1A of the appeal. This meant that the question of construction being considered was a mixed question of fact and law. The question of fact is whether the forward slash operates as conjunctive ('and') or inclusive-disjunctive ('or'). The question of law is the effect of that punctuation in the context of that clause of the contract. He argued that, based on the judgment of Isaacs J in Phillips (at 78), the first consideration is a question of fact, and the second consideration is a question of law.
+The passage upon which the defendant relies is as follows: 
+A document purporting to be a contract may be ambiguous. But the term "ambiguity" is itself not inflexible. It may arise from doubt as to the construction in their totality of the ordinary and in themselves well- understood English words the parties have employed. That is true construction.
+Or it may arise from the diversity of subjects to which those words may in the circumstances be applied. That is rather interpretation of terms. Or again, it may arise from obscurity as to the full expression in ordinary language of some abbreviated term or arbitrary form that has been adopted. That again is interpretation of terms. Very different consequences attach according as the ambiguity rests in construction or in interpretation. Lindley LJ in Chatenay v Brazilian Submarine Telegraph Co employs the same word "construction" for both ideas, but keeps the ideas distinct. He says:-- "The expression 'construction,' as applied to a document, at all events as used by English lawyers, includes two things: first, the meaning of the words; and, secondly, their legal effect, or the effect which is to be given to them. The meaning of the words I take to be a question of fact in all cases, whether we are dealing with a poem or a legal document. The effect of the words is a question of law." The "meaning of the words" is what I call interpretation, whether the words to be interpreted into ordinary English are foreign words or code words or trade words or mere signs or even ordinary English words which on examination of surrounding circumstances turn out to be incomplete. Their effect when translated into complete English is construction. If that distinction be borne in mind very little difficulty remains. 
+As to construction, there is always one and only one true meaning to be given to fully expressed words. Sir Montague Smith, speaking for the Judicial
+Committee in McConnel versus Murphy, said:-- "In questions of difficult interpretation, not only two, but frequently many constructions may be suggested. And, after all, there must be one true construction; and if that true construction can be arrived at with reasonable certainty, although with difficulty, then it cannot properly be said that there are two meanings to the contract." Once there is established the full mutual expression of the agreement in English words, the construction of the document is, as Lindley LJ says, a pure matter of law.
+This distinction (between "interpretation" and "construction") has however been criticised in obiter comments by the High Court in Collector of Customs versus Agfa-Gavaert Ltd <case>; [(1995) 186 CLR 389] at 396-397 commented: 
+This distinction seems artificial, if not illusory. The meaning attributed to individual words in a phrase ultimately dictates the effect or construction that one gives to the phrase when taken as a whole, and the approach that one adopts in determining the meaning of individual words of that phrase is bound up in the syntactical construction of the phrase in question ... 
+If the notions of meaning and construction are interdependent ... then it is difficult to see how meaning is a question of fact while construction is a question of law without insisting on qualification, concern and construction that is currently absent from the law.
+The difficulty the court identified in that case in which clearly they were discussing the distinction between questions of fact and law, is that the issue on appeal was whether the Full Court erred in finding that it is an error of law to construe a phrase in a legislative instrument by giving a trade meaning to some of the words in the phrase and the ordinary meaning to the rest of the words in the phrase. The High Court observed that there is no universally applicable test for distinguishing questions of law and fact (at 349). The Court confirmed (at 395) the five general propositions identified by the Federal Court in Collector of Customs versus Pozzolanic Enterprises Pty Ltd (1993) 43 FCR 280 (at 289): . The question whether a word or phrase in a statute is to be given its ordinary meaning or some technical or other meaning is a question of law:
+Jedko Game Co Pty Ltd versus Collector of Customs  [(1987) 12 ALD ];
+Bruths versus Cozens <case>; [[1973] AC .]  . The ordinary meaning of a word or its non-legal technical meaning is a question of fact: Jedko Game Co Pty Ltd versus Collector of Customs ; New
+South Wales Associated Blue-Metal Quarries Ltd versus Commissioner of Taxation <case>; [(1956) 94 CLR 509] at 512;
+Life Assurance Co of Australia versus Phillips <case>; [(1925) 36 CLR 60] at 78; Neal versus Department of Transport <case>; [(1980) 3 ALR 97] at 107-108.  . The meaning of a technical legal term is a question of law: Australian
+Gas Light Co versus Valuer-General <case>; [(1940) 40 SR 126] at 137-138; Lombardo versus Commissioner of Taxation (Cth) [(1979) 40 FLR ]
+at 215.  . The effect or construction of a term whose meaning or interpretation is established is a question of law: Life assurance Co of Australia versus Phillips at 79.  . The question whether facts fully found fall within the provision of a statutory enactment properly constructed is generally a question of law: Hope v Bathurst City Council <case>; [(1980) 144 CLR 1] at 7 per Mason J with whom Gibbs, Stephen, Murphy and Aickin
+JJ agreed; Australian National Railways Commission versus Collector of Customs at 379 (Sheppard and Burchett JJ).
+It was submitted by the defendant that symbols such as the forward slash in the clause in question should be considered a "category two" of the Pozzolanic categories, and therefore on the same basis as the type of interpretation that needs to be applied to the ordinary meaning of a word or its non-legal technical meaning. It is therefore a question of fact what the forward slash means, as opposed to a question of construction which is the next task the Magistrate had to do in interpreting the clause in its entirety having made a factual finding about the ambiguity of the role of the forward slash, and was one which was a question of law.
+
+Consideration
+The arguments of the defendant have some force, but problematic to the characterisation of the subject forward slash as category two of Pozzolanic propositions is that a forward slash is not a word, but a form of punctuation creating relationship between "director" and "shareholder" in the context of rights and liabilities contained in the contract clause. The phrase "director/shareholder" is a composite one - the forward slash may be conjunctive or disjunctive. It is arguable that its interpretation gives rise to a constructional choice.
+"Director/shareholder" may mean: * (1) Director or shareholder - this is the construction put forward by the appellant.
+* (2) Director and shareholder.
+* (3) Director and/or shareholder.
+The defendant would urge me to find that the Magistrate hearing the matter, having been unable to determine as a matter of fact which of these alternatives is appropriate, then went on to decide as a matter of construction that the inability to solve that issue (as a question of fact) affected his ability to construe the clause at all, combined with the need for it to be construed contra proferentum given its nature was to create a guarantee on the part of the signatory.
+I accept that is the analysis that the Magistrate undertook and therefore I accept the defendant's submission that the appeal ground 1A is, in effect, an question of mixed fact and law and accordingly as leave to appeal has not been sought, the appeal must fail.
+If I am wrong about that, ground 1A of the appeal grounds would fail in any event because, consistent with the submissions of the defendant on this appeal and as submitted in written submissions provided to the Magistrate on the hearing and as ultimately determined by the Magistrate in his judgment (at p 4), it is not clear due to the ambiguity of the contract that the director, Paul Twynham, the defendant in the proceedings, signed the contract as a personal guarantee.
+I note that the plaintiff maintained a position during the appeal that the clause was not ambiguous. The adoption of this position was surprising, given that at trial, the plaintiff appears to have run the case on the basis of an interpretation of the subject clause different to the one it now suggests this court should make. I cannot accept that submission. The Magistrate was correct to conclude that the clause is truly ambiguous. As submitted by the defendant, there is nothing wrong with the Magistrate's approach. The Magistrate's decision is consistent with the application of proper principles concerning the construction of guarantees where there is ambiguity. In construing the clause and the guarantee as a whole, the Court's task is to construe it in its commercial setting in accordance with the surrounding circumstances known to both parties, Codelfa Constructions Pty Ltd versus State Rail Authority of New South Wales  <case>.
+It is not necessary to deal with any other aspects of the appeal.
+The Court orders that: * (1) The Amended Summons is dismissed.
+* (2) The Plaintiff is to pay the Defendant's costs of the appeal.
+ * * * 

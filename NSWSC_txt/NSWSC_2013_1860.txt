@@ -1,0 +1,68 @@
+
+
+Centennial Mandalong versus Delta Electricity (No.2) [2013] NSWSC 1860 (16
+December 2013) 
+Last Updated: 17 December 2013 
+Supreme Court 
+New South Wales  
+Case Title: 
+Centennial Mandalong versus Delta Electricity (No.2)  
+Medium Neutral Citation: <case>  
+Hearing Date(s): 
+On the papers  
+Decision Date: December 2013  
+Jurisdiction: 
+Equity Division - Commercial List  
+Before: 
+McDougall J  
+Decision: 
+Plaintiff entitled to further relief sought. See at [31] for form of declaration made.  
+Catchwords: 
+CONTRACTS - interpretation - where carbon charges levied on methane emissions - whether certain emissions attributable to coal sold - no question of principle  
+JUDGMENT
+HIS HONOUR: The plaintiff (Centennial) produces coal from its Mandalong Mine in New South Wales, and sells some of that coal to the defendant (Delta). Centennial is obliged to pay carbon charges under the [Clean Energy Act 2011](http://www.austlii.edu.au/au/legis/cth/numact/cea2011119/) (Cth) and related legislation. Centennial claimed that the price payable for coal sold by it to Delta should be increased to reflect the amount of carbon charges incurred by Centennial that were attributable to that coal. Delta disputed Centennial's claim. On 17 October 2013 I gave judgment ([2013]) NSWSC 1505) in which I held, in effect, that in principle, carbon charges incurred by Centennial could be passed along under the price adjustment formula of the contract. 
+Accordingly, I granted declaratory relief, the effect of which was to establish that in principle, carbon charges incurred by Centennial were to be taken into account as part of Government Charges Per Tonne for the purposes of the price adjustment formula. 
+The remaining question 
+The remaining question is to identify the carbon charges that are to be taken into account in adjusting the price of coal sold by Centennial to Delta. Since carbon charges are levied (relevantly) on methane emissions from the Mandalong Mine, the answer to the question requires identification of the methane emissions that, adapting the words of the price adjustment formula, are attributable to coal sold by Centennial to Delta. 
+At this point, I note that the contract provided for "Technical Disputes" to be referred to an expert for "determination" (cl 16.5). The expression "Technical Dispute" is defined to mean "any dispute or disagreement... arising out of or in connection with [the contract] which relates to technical or scientific facts or issues". To my mind, identification of the emissions that are "attributable" to coal sold by Centennial to Delta under the contract is a matter that could and should have been referred for expert determination, as a Technical Dispute. However, although I raised that possibility with the parties, they chose not to take that course, but to ask the court to decide the matter. 
+The parties accept that in principle a prorating exercise carried out by comparing coal sold to Delta in any given year with total coal sold in that year, would be appropriate. In Delta's case, its acceptance of that position is on the basis that it flows from what I have already decided. 
+It is common ground between the parties that, as I found in my earlier reasons at [8] to [18], there are various sources of methane emissions from Centennial's mining operations at Mandalong. They are: the pre-draining of methane gas from areas that are to be mined; the construction of roads within the mine, both to define panels that are to be mined and to enable men and equipment to move through the mine (and in the course of which saleable coal is produced); the process of longwall mining itself; what I referred to as the stockpiling of mined coal; and goafs: mined areas which are left void, and into which methane is pumped so that its concentration is above the combustible level.
+There is a sixth source of emissions, which I mention only to put to one side. It is a fan ventilating Centennial's nearby mine at Cooranbong. Since the parties agree (as in any event I would have concluded) that these emissions are not to be taken into account, there is no need to explain them. 
+It was common ground that emissions from the first three categories identified at [6] above - predraining, roads and longwall mining - were to be taken into account. (Again, in Delta's case, its agreement to that position is on the basis that it flows from what I have already decided.) The disputed sources of emissions are, therefore, what have been called stockpiles, and from goafs. 
+I approach the resolution of the remaining dispute on the basis of the written submissions that the parties, having had an opportunity to consider my reasons, have put before me. I do not think it necessary to invite the parties to put further submissions. 
+Stockpiles 
+I start with emissions from what have been called stockpiles. 
+The first point to note is that, although the term "stockpiles" was used during the hearing and in my earlier reasons, stockpiles are an aspect of what is called "post-mining activities". That is a term used in the National Greenhouse and Energy Reporting (Measurement) Determination 2008 (Cth) (the determination). The determination is a legislative instrument made under [s 10(3)](http://www.austlii.edu.au/au/legis/cth/consolact/ngaera2007403/s10.html) of the [National Greenhouse and Energy Reporting Act 2007](http://www.austlii.edu.au/au/legis/cth/consolact/ngaera2007403/) (Cth), which is part of the family of legislation pursuant to which carbon charges are imposed, assessed and payable. [Section 3.4(6)](http://www.austlii.edu.au/au/legis/cth/consolact/ngaera2007403/s3.4.html) of the determination provides that the formula set out in <case>.17 "must be used for estimating fugitive emissions of methane that result from post-mining activities related to a gassy mine". Post-mining activities include the handling, stockpiling, processing and transportation of coal extracted from the mine (see <case>.8). Mandalong is a gassy mine. 
+Section 3.17 of the determination provides that fugitive emissions from post-mining activities are to be estimated by multiplying the total tonnage of run of mine coal produced from a mine in any given year by 0.014. 
+Centennial submitted that the effect of the determination was that the emissions thus estimated to be referable to post-mining activities were a direct function of the production of coal. It submitted that those estimated emissions should be taken into account for the purpose of calculating "Government Charges Per Tonne" in the price adjustment formula. 
+Delta submitted (correctly) that the coal produced and sold to it was transported directly from the mine, and that no coal was supplied to it from stockpiles. Thus, Delta submitted, emissions from stockpiles were not attributable to coal produced and sold to it, and should be excluded from the calculation of Government Charges per Tonne. 
+Further, Delta submitted, carbon charges referable to activities (such as stockpiling) that occurred after coal had been produced for delivery to it (and, indeed, quite independently of that production and delivery) should be excluded. That followed, Delta submitted, because such charges could not be regarded as in any way attributable to coal produced and sold to it. 
+In my view, the position for which Centennial contends is correct. Delta's submissions focus on emissions from stockpiles. However, the relevant charges are not, strictly speaking, assessed by reference to some statutory calculation of emissions from stockpiles. The determination imposes a blanket charge on post-mining activities, by reference to the total production of coal in any given year. Thus, the determination applies to coal sold to Delta as much as to any other coal produced. 
+The charge imposed on estimated emissions from post-mining activities is an unavoidable and necessary incident of the production of coal. To put it another way, the very fact of production of coal generates a liability for the charge in respect of post-mining activities. And, as I have said, that liability is generated in respect of all coal produced, including for sale to Delta. 
+Thus, consistent with the approach that I took to the general question of carbon charges in my earlier reasons, I conclude that charges attributable to estimated emissions from post-mining activities, in accordance with the determination, are to be taken into account in calculating the Government Charge Per Tonne for the purposes of the price adjustment formula.
+
+Goafs 
+I turn to emissions from goafs. 
+The evidence is that goafs are the voids produced by the process of longwall mining. The mining machine moves through a panel of coal and extracts it. The roof above the longwall mining machine is supported while it is working in any particular area. As the machine moves forward, to the end of the panel, the roof will, to some extent, collapse. The machine leaves a small amount of coal at the far end of the panel. The machine is removed from the panel. The end from which mining operations in the panel started is then sealed up. Because methane will leak into and out of the goaf thus created, the risk of explosive combustion must be managed. That is done by pumping methane (from pre-draining and other sources) into the goaf. The purpose is to achieve a concentration which is well above the level at which methane is explosively combustible in air. 
+However, goafs are not hermetically sealed. Methane pumped into a goaf will breathe in and out through strata, pores and fissures in the coal and surrounding material. 
+To the extent that methane escapes from a goaf, it will be collected and exhausted from the mine along with other methane emitted during the course of mining operations such as the construction of mines and the process of longwall mining itself. 
+Centennial submitted that the emission of methane from goaf was a necessary incident of coal mining operations. Thus, it submitted, emissions from goafs should be taken into account for the purpose of calculating Government Charges Per Tonne.
+Delta submitted that emissions from goafs were not attributable to coal sold and delivered to it under the contract. There was no obvious link, it submitted, between emissions from goafs and the sale of physical coal. 
+In my view, again, the position for which Centennial contends is correct. The process of mining necessarily releases methane that is trapped in the coal seams and enclosing rock strata. Those emissions are dealt with in various ways. Some are diverted and pumped into the goafs. Others are exhausted to the surface. Methane that is pumped into goafs will escape in certain conditions (and methane in areas outside goafs will drain into them in certain conditions). When methane escapes from goafs, it will be collected and measured. But the methane that is thus collected and measured is, necessarily, methane that has been released by the production of coal. 
+I accept that some of the methane thus released may be referable to coal produced in any earlier year. But equally, some of the methane that is released during the production of coal in a current year will be stored in a goath rather than released. Necessarily, the process of estimating emissions involves some inexactitude, as I said at [100] of my earlier reasons. 
+Accordingly, I conclude that Centennial is entitled to the second declaration that it seeks. 
+Other issues 
+There may be subsidiary issues that arise, for example in relation to what Delta, in its written submissions, called "trueing up" the amount of carbon charges passed on for any given year. That process is necessary, because Centennial's liability to pay carbon charges is satisfied in part by the purchase of emission units during any given year, and in part by assessment, in respect of any shortfall between the value of those units and the actual quantities of emissions recorded, at the end of the year. The parties' position was that they would be able to work out the mechanism of that trueing-up process. Since their confidence derived from the fact that they have been able to do so in respect of another mine operated by Centennial from which it sells coal to Delta, that confidence seems to be well-placed. I will leave it to the parties to deal with that matter. 
+Costs
+Centennial sought its costs. Delta accepted that, on the basis of my reasons, Centennial should have its costs. 
+Further orders 
+I make the following further orders: 
+Declare that the plaintiff is entitled to require the amount of the "Government Charges Per Tonne" to be adjusted under cl 12.3(c) of contract ("the Contract") between the plaintiff and the defendant for charges ("Carbon Charges") incurred by the plaintiff under the [Clean Energy Act ](http://www.austlii.edu.au/au/legis/cth/numact/cea2011119/) (Cth) or the
+Clean Energy (Unit Shortfall Charge - General) Act 2011 (Cth) in respect of covered emissions from the plaintiff's Mandalong Mine reportable under the [National Greenhouse and Energy Reporting Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ngaera2007403/) (Cth) (excluding emissions measured at the Cooranbong fan) as represented by the formula: 
+Carbon charges incurred in the year 
+X run of mine tonnes of coal sold and delivered to the defendant under the
+Contract in the year total run of mine tonnes of coal mined from the Mandalong Mine in the year.  ---  
+Order the defendant to pay the plaintiff's costs.
+
+Direct that the exhibits be handed out.
+ * * * 

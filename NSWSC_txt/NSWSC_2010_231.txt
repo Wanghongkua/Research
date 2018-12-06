@@ -1,0 +1,405 @@
+
+
+Everest Capital Limited as Trustee of the EBI Income Fund versus Trust Company
+Limited & Ors [2010] NSWSC 231 (12 March 2010) 
+Last Updated: 30 March 2010 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Everest Capital Limited as Trustee of the EBI Income Fund versus Trust Company
+Limited & Ors <case>  
+JURISDICTION: 
+Equity  
+FILE NUMBER(S):  /042555  
+HEARING DATE(S):  -11 March 2010  
+JUDGMENT DATE:  March 2010  
+EX TEMPORE DATE:  March 2010  
+PARTIES: 
+Plaintiff: Everest Capital Limited as Trustee of the EBI Income Fund  st Defendant: Trust Company Limited  nd Defendant: Permanent Custodians Limited  rd Defendant: Australia & New Zealand Banking Group Limited  th Defendant: ANZ Nominees Limited 
+Cross-defendant: ECL in its capacity as responsible entity of the EAIT Direct
+Investment Fund Limited  
+JUDGMENT OF: 
+White J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+Plaintiff: J Sheahan SC with N Bender  st & 2nd Defendants: I M Jackman SC with J Hewitt  rd & 4th Defendants: R M Foreman 
+Cross-defendant: F Gleeson SC  
+SOLICITORS: 
+Plaintiff: Mallesons  st & 2nd Defendants: Middletons  rd & 4th Defendants: Minter Ellison 
+Cross-defendant: Watson Mangioni  
+CATCHWORDS: 
+TRUSTS - trust not a registered managed investment scheme under Corporations
+Act - trust deed incorporated by reference Corporations Act, Part 2G.4 - trust deed allowed trustee to voluntarily retire and appoint new trustee - trust deed empowered unitholders to direct trustee to retire on unanimous resolution - trustee also a unitholder and appointed custodian to hold units - validity of unitholder's requisition for meeting - resolutions purported to remove trustee and appoint new trustee - unitholders had no power to remove trustee as distinct from directing trustee to retire - trustee ceases to hold office when delivers deed of retirement not on unitholders' direction to retire - inappropriate resolution does not render requisition invalid - trustee to amend resolution to conform to direction to retire - meeting requisition invalid because not made by registered unitholder - trustee not estopped from disputing validity of resolution - trustee not required to convene meeting pursuant to invalid requisition - trustee not entitled to vote by virtue of
+Corporations Act, <case> incorporated into trust deed - trustee's custodian prohibited from voting by s253E because associate of trustee and s16(1)(a) does not apply - resolution to direct trustee to retire need be passed unanimously only by vote of unitholders attending and entitled to vote - unitholders have no power to appoint new trustee - trustee entitled to appoint new trustee if directed to retired  
+LEGISLATION CITED:  [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth)  [Trustee Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/)  
+CASES CITED: 
+ING Funds Management Ltd versus JP Morgan Nominees Australia Ltd <case>; <case>; [(2001) 52 NSWLR 383] 
+Totally & Permanently Incapacitated Veterans' Association of NSW Ltd v
+Gadd <case>; <case>; [(1937) 59 CLR 641] 
+MK & JA Roche Pty Ltd versus Metro Edgley Pty Ltd <case> 
+Public Trustee versus Smith <case> 
+Commonwealth versus Verwayen (1990) 170 CLR 394 
+DKLR Holding Co (No 2) Pty Ltd versus Commissioner of Stamp Duties [[1980] 1
+NSWLR 510] 
+Re Transphere Pty Ltd [(1986) 5 NSWLR 309] 
+Heine Management Ltd versus Australian Securities Commission [(1993) 12 ACSR ] 
+Aberdeen Railway Co versus Blaikie Brothers [[1843-1860] All ER 249] 
+Southern Wine Corporation Pty Ltd (in liq) versus Perera <case>; [(2006) 33 WAR 174]; (2006) FLR 354; [(2006) 61 ACSR 40]  
+TEXTS CITED:  
+DECISION: 
+Direct counsel for the parties to bring in short minutes of order in accordance with reasons.  
+JUDGMENT:  
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+EXPEDITION LIST  
+WHITE J  
+Friday, 12 March 2010  /042555 Everest Capital Limited as Trustee of the EBI Income Fund v Trust Company Limited & Ors 
+JUDGMENT HIS HONOUR: These proceedings concern a unit trust known as the EBI Income Fund, which I will refer to as "the Fund" or "the Trust". The plaintiff, Everest Capital Limited ("ECL"), is the trustee. There are two unitholders. The first defendant, Trust Company Limited ("Trust Company") is registered as the holder of 91,942,695 units, representing approximately 73 per cent of the issued units. The register describes its holding those units as custodian of the Alternative Investment Trust. The second defendant, Permanent Investment Management Limited ("PIML"), is the responsible entity of the Alternative Investment Trust. The remaining units, representing approximately 27 per cent of the issued units, are registered in the name of ANZ Nominees Limited ("ANZ Nominees"). The register describes ANZ Nominees as holding those units as custodian for the EAIT Direct Investment Fund ("EDIF"). ANZ Nominees holds those units under a Sub-custody Agreement on trust for Australia and New Zealand Banking Group Limited ("ANZ Banking Group"), which has entered into a Custody Agreement with ECL.  These proceedings concern the validity of requisitions for a meeting of unitholders of the Fund. PIML purportedly convened such a meeting to be held at noon today pursuant to the provisions of [s
+C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s252c.html) of the [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth), which are incorporated by reference into the trust deed of the Fund. The Fund is not itself a registered managed investment scheme, but clause 1.3 of the trust deed provides: "1.3 [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) prior to registration 
+The Trustee must comply with the following provisions of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) as far as the circumstances admit as if the Trust was a Registered Scheme and the
+Trustee was the Responsible Entity of that scheme namely: 
+Chapter 2C (Registers); and [Part
+G.4](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p2g.4) (Meetings of Members of Registered Managed Investment Schemes)." The resolutions proposed to be put to the meeting to be convened today are, first, that ECL be removed as the trustee of the Fund pursuant to the trust deed and the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/), and, secondly, that PIML be appointed as trustee, if the first resolution is passed. ECL contends that neither resolution is authorised by the terms of the trust deed. It also contends that the meeting purportedly convened for today has not been validly convened because the wrong party made the first requisition for the holding of a unitholders' meeting and, as the first requisition was invalid, ECL says that neither PIML nor Trust Company is entitled to convene the meeting pursuant to [s
+C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s252c.html) by reason of ECL's failure to call a meeting on the original request.
+ An issue arises as to whether at any such meeting, assuming resolutions to the effect of those sought to be put can be put, ANZ Nominees can vote in respect of the units of which it is the holder.
+ 
+Summary of Conclusions Partly to avoid suspense, but partly also because the delivery of these reasons will be interrupted by other matters, I will express my conclusions before giving my detailed reasons.
+ I have concluded, first, that the first proposed resolution, namely, that
+ECL be removed as trustee, should not be construed as a resolution pursuant to clause 13(b) of the trust deed that the trustee be directed to retire. The first resolution was not intended to be so construed by PIML nor Trust
+Company. The unitholders do not have the power to remove the trustee, as distinct from a power to direct the trustee to retire. A direction that the trustee retire would not ipso facto result in the vacation of the trustee's office. The trustee does not cease to hold office until it delivers a deed of retirement, which it would be obliged to do if a resolution were passed by the requisite majority directing the trustee to retire. Notwithstanding this conclusion, the trustee should amend the proposed resolution 1 to make it conform to a resolution the unitholders could pass pursuant to clause 13(b) directing the trustee to retire.
+ Next, I have concluded that the unitholders have no power to appoint a replacement trustee and that resolution 2 should not be put.
+ Next, the requisition of 23 December 2009, purportedly given by PIML, is invalid because PIML is not the registered unitholder. I have concluded that
+ECL is not estopped from disputing the validity of the requisition on that ground. It follows that the notices purportedly given by PIML pursuant to [s
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s252b.html) or [s
+C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s252c.html), as those provisions are incorporated in the trust deed, and the notice purportedly given by Trust Company pursuant to [s
+C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s252c.html), are invalid. ECL is not required to convene the meeting for noon today pursuant to PIML's requisition. However, the meeting requisitioned by Trust
+Company on 2 March 2010 should be convened as soon as practicable, and at that meeting ECL should submit the proposed first resolution amended to a resolution directing the trustee to retire. It should convene that meeting as soon as practicable pursuant to the undertaking it has proffered to do so.
+ I have also concluded that in order for such a resolution to be validly passed, it need be passed unanimously only by those unitholders attending and entitled to vote at the meeting and not by all unitholders. The provisions of [Part
+G.4](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p2g.4) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) incorporated into the trust deed, which apply as if the Trust were a registered management investment scheme and the trustee were the responsible entity of that management investment scheme, include, so I have found, [s
+E.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html)
+I have also concluded that on the proper construction of [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html),
+ANZ Nominees, which is the sub-custodian for ECL as responsible entity of
+EDIF, is not entitled to vote. Thus, the resolution under clause 13(b) will be validly passed if passed on the vote of Trust Company. In that event, ECL will be entitled to reappoint a replacement trustee pursuant to clause 13(a) of the trust deed.
+ These are my reasons for those conclusions.
+ 
+The Trust Deed The Fund was established by a trust deed dated 6 December 2006. Clause 2.3 provides that each asset of the Fund is vested in and is held by the trustee on behalf of the unitholders. The trust deed provides for the allotment, issue, transfer, redemption and cancellation of units. Clause 2.4(a) names
+Everest Capital Investment Management Limited ("ECIML") as the initial unitholder. ECIML is a wholly owned subsidiary of ECL. Clause 8.5 provides: "8.5 Interested dealings by Trustee 
+The Trustee or an officer or employee or associate of the Trustee may: be a Unitholder; act in any capacity including without limitation as a representative, delegate or agent of the Trustee or any Unitholder; have an interest in or enter into a contract or transaction with: the Trustee or an associate of the Trustee; any Unitholder; or any other person, including one whose shares or other securities form an asset of the Fund; or hold or deal in or have any other interest in an asset of the Fund, and may retain and is not required to account for any benefit derived by doing so." I take the following description of events between the inception of the trust deed and 31 July 2009 from the submissions of Mr F Gleeson SC of counsel who appeared for ECL in its capacity as responsible entity of EDIF. (I might observe that pursuant to orders made by Brereton J on 1 March 2010, ECL appeared at the hearing separately represented in its capacity as trustee of the Fund and as responsible entity of EDIF.) Mr Gleeson's description of the historical events was not queried by any other party. He said: "Historical structures . Between its inception and 30 January 2009, all of the units in the
+Fund were held by Everest Capital Investment Management Limited (ECIML) as responsible entity of AIT (which at that time was known as the Everest Babcock & Brown Alternative Investment Trust). ECIML is a wholly owned subsidiary of ECL. . In January 2009, unitholders in AIT were asked to make an election to either: a. remain as unitholders in AIT; or b. exchange their units in AIT for units in the Everest Alternative
+Investment Trust (EAIT), a new registered managed investment scheme with
+ECL as responsible entity.
+ . Approximately 1000 unitholders representing 48,499,951 units or 27% of AIT (by value) made a positive election to move to EAIT. . On 5 February 2009, ECIML was replaced by PIML as the responsible entity of AIT. . On 31 July 2009, by way of in-specie distribution, each existing
+EAIT unitholder received 1 unit in EDIF for every EAIT unit they owned." I have already set out in these reasons clause 1.3 of the trust deed.
+Clause 1.4 provides: "1.4 Directions of Unitholders 
+Whilst and so long as the number of Unitholders in the Trust is three or less, the Trustee must, to the maximum extent permitted by law and notwithstanding any other provision of this deed, act on the unanimous direction of the Unitholders to the intent that the Unitholders exercise day to day control over the operation of the Trust." Clauses 13 and 16 provide: "13 Retirement or Removal of Trustee 
+The Trustee may retire on not less than one month's (or such shorter period as the Unitholders may agree) notice to the Unitholders. On retirement, the Trustee may appoint another person in writing to be the Trustee.
+
+The Trustee must retire if directed to do so by a unanimous resolution of
+Unitholders.
+
+On retirement or removal the Trustee must give the new trustee or responsible entity all books, documents and records relating to the Trust.
+
+Any proposed replacement trustee must execute a deed by which it covenants to be bound by this Trust Deed as if it had originally been a party to it.
+ ...
+ Meetings .1 Meetings 
+The Trustee may convene a Meeting at any time. The provisions of the schedule and the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) apply to a
+Meeting.
+ .2 Resolution by Postal Ballot 
+A resolution of Unitholders of the Trust may be passed by the Unitholders completing, signing and returning copies of a written resolution which has been sent by the Trustee within a period specified by the Trustee.
+
+In respect of such a resolution a Unitholder has the number of votes determined in accordance with [section
+C(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253c.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/). The value of a Unitholder's total interests must be determined at such time as the
+Trustee specifies.
+ .3 Passing of resolution 
+A resolution passed at a Meeting held in accordance with this deed or by postal ballot under clause 16.2 is binding on all Unitholders." In interpreting the trust deed, the headings are provided for convenience only and do not affect the interpretation of the deed (clause 1.2 ).
+ 
+Requisitions of Meeting of Unitholders On 23 December 2009, PIML gave notice to ECL as trustee of the Fund as follows: "Request for meeting of members of EBI Income Fund 
+Pursuant to the trust deed of the EBI Income Fund (the Trust) and [section
+B(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s252b.html) of the [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) ([Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/)), the undersigned, the legal [sic] registered holder of more than 50% of the units in the Trust, gives the trustee of the Trust notice that it requires the calling of a meeting of the members of the Trust at which the following resolutions be considered and voted on: . Resolution 1 - Removal of Everest Capital Limited as trustee 'THAT, Everest Capital Limited ACN 092 753 252 be removed as the trustee of the EBI Income Fund (the Trust) pursuant to the Trust's trust deed and the [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth)'; and . Resolution 2 - Appointment of Permanent Investment Management
+Limited as trustee 'THAT, subject to Resolution 1 being passed, Permanent Investment
+Management Limited ABN 45 003 278 831 be appointed as the trustee of EBI
+Income Fund (the Trust) pursuant to the Trust's trust deed and the [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth)".
+
+We request that the trustee of the Trust please confirm within 5 business days of receipt of this notice that, in accordance with [section
+B(6)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s252b.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/), it will call the meeting within 21 days of receipt of this notice and that the meeting will be held within 2 months of receipt of this notice." Apart from the potential application of clause 1.4, the trust deed contains no provision for unitholders, as distinct from the trustee, to convene a meeting of unitholders. [Section
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s252b.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/), pursuant to which PIML purportedly gave its notice of 23 December 2009, provides: "252B Calling of meetings of members by responsible entity when requested by members 
+The responsible entity of a registered scheme must call and arrange to hold a meeting of the scheme's members to consider and vote on a proposed special or extraordinary resolution on the request of: members with at least 5% of the votes that may be cast on the resolution; or at least 100 members who are entitled to vote on the resolution.
+
+The request must: be in writing; and state any resolution to be proposed at the meeting; and be signed by the members proposing to move the resolution.
+ ...
+
+The responsible entity must call the meeting within 21 days after the request is given to it. The meeting is to be held not later than 2 months after the request is given to the responsible entity." ECL contends that the notice of 23 December 2009 was ineffective for a number of reasons. First, it contends that the first proposed resolution for the removal of the trustee is not within the power of the unitholders. The only power of unitholders in the trust deed is to direct the trustee to retire, not to remove it. ECL contends that even if a unanimous resolution directing the trustee to retire were passed pursuant to clause 13(b), although it would be obliged to comply with such a resolution, the act which would cause it to cease to hold office would be its act of retiring, not the resolution of unitholders directing it to do so. ECL contends that on retirement, it can appoint a replacement trustee pursuant to the second sentence of clause 13(a).
+ Secondly, ECL contends that the notice of 23 December 2009 was ineffective because the proposed second resolution would be ineffective, as the unitholders have no power to appoint a new trustee.
+ Thirdly, it says that a notice under [s
+B(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s252b.html) must be given by a member. Notwithstanding PIML's assertion in its letter that it was the "legal" [sic] registered holder of more than 50 per cent of the units, in fact the registered holder of the units is Trust Company, not PIML.
+ECL ultimately did not submit that a meeting could not be convened under [s
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s252b.html) because the proposed resolutions were neither special resolutions, nor extraordinary resolutions within the meaning of that section.
+ ECL did not convene a meeting of unitholders pursuant to PIML's notice of December 2009. Initially it responded by saying that as the Fund was not a registered scheme, meetings could not be requisitioned under [s
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s252b.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/), but only under the trust deed. In response, PIML said that pursuant to clause 1.3(b), despite the Trust not being a registered managed investment scheme, the trustee is required to call a meeting of unitholders of the Trust in accordance with [Part
+G.4](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p2g.4) of the Act. In ECL's initial response it also said that the Trust's trust deed did not contain trustee replacement provisions of the type the proposed resolutions envisaged, and that the only resolution unitholders could pass was in relation to a trustee's retirement. In reply, PIML said that: "In relation to the resolutions sought to be put at the meeting, we note that whilst on retirement the Trustee may appoint another person, there is no provision in the Trust Deed for the Trustee to appoint another person if it is removed or replaced by a unanimous resolution of unitholders of the Trust." PIML was there distinguishing between retirement on the one hand and removal and replacement of the trustee on the other. On 1 February 2010 ECL wrote to PIML as follows: "Request for meeting of members of EBI Income Fund ('Fund') 
+We refer to your letter dated 22 January 2010.
+
+We acknowledge that members of the Fund have the right, in certain circumstances, to request that the trustee call a meeting of members and we are prepared to call a meeting to vote on your proposed resolution to direct the trustee of the Fund to retire.
+
+However, we do not see how your stated objective of having Permanent
+Investment Management Limited appointed as the trustee of the Fund by the fund's members can be achieved, primarily for the following two reasons: 
+A valid direction to the trustee of the Fund to retire requires a unanimous resolution of all members. Everest Capital Limited, in its capacity as responsible entity of the EAIT Direct Investments Fund (EDIF), does not currently intend to vote the units held by it in favour of a proposed resolution to direct the trustee of the Fund to retire.
+
+The trust deed of the Fund does not contain a power of members to appoint a new trustee. In circumstances where the trustee retires (including where directed to retire by the Fund's members), the trust deed provides for the appointment of the new trustee by the outgoing trustee.
+
+In light of these issues, we propose to meet with you and our respective lawyers at your earliest convenience to discuss your request before calling the meeting and incurring the Fund expenses involved in doing so.
+
+If you would like to proceed with your request we will call a meeting of members to vote on a resolution to direct the trustee of the Fund to retire.
+As members do not have the power to appoint a new trustee, we would not ask members to vote on the second resolution you proposed.
+
+Please let us know how you would like to proceed. We are prepared to meet with you on any day of this week to discuss your request." PIML did not respond to this letter by asking ECL to do what it offered to do, namely, to call a meeting to vote on what ECL had described as "your proposed resolution" to direct the trustee of the Fund to retire. Instead, it said in a letter of 5 February 2010: "2.1 Your assertion that the incumbent trustee has the right to appoint a new trustee in any circumstances where it retires (voluntarily or not), or is removed, is incorrect.
+ .2 We reiterate our letter of 22 January 2010. If Everest were to voluntarily retire as trustee of the Fund, the Deed provides that it may appoint its successor. This provision is permissive and is neither mandatory nor inconsistent with the right of unitholders to replace a trustee at a meeting called pursuant to [section
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s252b.html) of the Act. There is no provision in the Deed for Everest to appoint a successor if it is removed or replaced by a resolution of the Fund's unitholders." It also said that if appointed as replacement trustee of the Fund, PIML intended to call for and vote at a meeting of unitholders to remove and replace the current trustee of the Everest Babcock & Brown Income Fund, ("EBBIF") which is described as a downstream investment of the Fund. It stated that ECL is currently the trustee of EBBIF. That is the only particular purpose identified in the correspondence for the proposal to remove ECL as trustee.
+ On 10 February 2010 ECL responded. It stated: "We note that Permanent Investment Management Limited, as a member of the
+Fund, disagrees in material aspects with Everest's analysis of the provisions of the trust deed ..." 
+It foreshadowed applying to the Court for judicial advice.
+ On 17 February 2010 PIML wrote to ECL stating again that it was the "legal" registered holder of more than 50 per cent of the units in the Trust. It asserted that ECL had failed to call the meeting of members of the Trust within 21 days as stipulated in [s
+B(6)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s252b.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/). It purportedly called itself a meeting of members of the Trust to be held at noon on 12 March 2010 to consider the same two resolutions. It purportedly acted in that respect pursuant to [s
+C(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s252c.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/). [Section
+C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s252c.html) relevantly provides: "252C Failure of responsible entity to call meeting of the scheme's members 
+Members with more than 50% of the votes carried by interests held by the members who make a request under [section
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s252b.html) may call and arrange to hold a meeting of the scheme's members and distribute the statement (if any) if the responsible entity does not do so within 21 days after the request is given to the responsible entity.
+
+The meeting must be called and the statement is to be distributed in the same way--so far as is possible--in which meetings of the scheme's members may be called by the responsible entity and information is distributed to members by the responsible entity. The meeting must be held not later than 3 months after the request is given to the responsible entity.
+
+To call the meeting the members requesting the meeting may ask the responsible entity under [section ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s173.html) for a copy of the register of members. Despite paragraph 173(3)(b), the responsible entity must give the members requesting the meeting the copy of the register without charge.
+
+The responsible entity must pay the reasonable expenses the members incurred because the responsible entity failed to call and arrange to hold the meeting and to make the distribution (if any). The responsible entity must not pay those expenses from the scheme's assets." In the same letter, PIML requested a copy of the register of members. In the correspondence, PIML asserted that ECL could not vote at the meeting in respect of the 27 per cent of the units in the Trust to which ECL is entitled in its capacity as responsible entity of EDIF. PIML asserted that if the resolution to remove ECL as trustee of the Fund was passed, ECL could not appoint a new trustee but the other unitholders could do so. The reason PIML contended and contends that ECL cannot vote the units to which it is entitled as responsible entity of EDIF is [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html), which is found in Div 6 of [Part
+G.4.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p2g.4)
+That section provides: "253E Responsible entity and associates cannot vote if interested in resolution 
+The responsible entity of a registered scheme and its associates are not entitled to vote their interest on a resolution at a meeting of the scheme's members if they have an interest in the resolution or matter other than as a member. However, if the scheme is listed, the responsible entity and its associates are entitled to vote their interest on resolutions to remove the responsible entity and choose a new responsible entity.
+
+Note: The responsible entity and its associates may vote as proxies if their appointments specify the way they are to vote and they vote that way (see [subsection
+A(2)).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253a.html)" ECL disputes that either clause 1.3 or clause 16 incorporates the provisions of [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) as if the reference to the responsible entity were a reference to the trustee and as if the reference to the registered scheme were a reference to the
+Trust. ECL also contends that in any event, for a resolution to be validly passed under clause 13(b) it must be passed by all unitholders.
+ On 17 February 2010, ECL filed a summons seeking judicial advice as to the validity of PIML's requisition and how it should respond to it. On 19 February , I directed that Trust Company, PIML and ANZ Nominees be joined as defendants and that the summons be amended to seek declarations as to the questions on which judicial advice was sought. That was done. Trust Company and PIML filed a cross-summons seeking declarations in respect of the matters for which they contend. The case has proceeded on the competing claims for declarations and not as an application for judicial advice.
+ On 19 February 2010, Mallesons Stephen Jaques, who were retained to act for
+ECL, wrote to Middletons, who were retained to act for PIML, restating ECL's position in relation to the notices given by PIML. In Mallesons Stephen
+Jaques' letter of 19 February 2010, they stated: "If the court resolved in your client's favour, the Trustee would of course seek immediately to put the resolutions to members as requested.
+However, we note that there are deficiencies in the documents provided by your client to date which have the effect that your client's objectives cannot be achieved under those documents.
+
+In this regard, we attach a copy of the register of members of the Fund.
+You will note that Trust Company Limited as the custodian of the Alternative
+Investment Trust, and not Permanent Investment Management Limited, is the registered holder of units in the Fund. Accordingly, the Notice (and the original requisition of a meeting dated 23 December 2009) have been executed by the incorrect party and are therefore invalid." In the Statement of Facts filed on 17 February 2010 in support of the application for judicial advice, ECL had stated that the two unitholders of the Fund were PIML, which it said held 73 per cent of the units, and ECL, which it said held the balance of the units as responsible entity of EDIF.
+That was mistaken.
+ On 22 February 2010, Trust Company purportedly gave notice pursuant to [s
+C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s252c.html) repeating the call for the holding of a meeting of the members of the Trust at noon on 12 March 2010 to consider the same two resolutions as were the subject of PIML's notices. The notice of 22 February 2010 is ineffective. If PIML's notice pursuant to [s
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s252b.html) was effective, then there would be no reason that its notice of 17 February under [s
+C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s252c.html) was not also effective. On the other hand, if PIML's first notice was ineffective, it would not be made effective by Trust Company giving notice under [s
+C.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s252c.html)
+The latter notice would be ineffective because there would have been no failure by ECL to comply with the notice under [s
+B.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s252b.html) On 2 March 2010, Trust Company gave notice under [s
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s252b.html) of the same two resolutions. That notice requested ECL to confirm that it would call a meeting within 21 days of receipt of the notice and convene the meeting to be held within two months.
+ ECL's position, expressed in its letter of 19 February 2010, and repeated on 5 March 2010 by Mallesons Stephen Jaques, is that it would immediately schedule a meeting of unitholders and put the resolutions proposed by PIML and
+Trust Company if the Court accepted the construction of the trust deed advanced by those parties. The first and second defendants accept that PIML was not entitled to give the notice under [s
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s252b.html) on 23 December 2009 because it was not the registered unitholder. They accept that Trust Company and not PIML was the "member" within the meaning of [s
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s252b.html) entitled to make a request under that section (see ING Funds Management Ltd v
+JP Morgan Nominees Australia Ltd <case>; <case>).
+ The first and second defendants contend that there is an estoppel which precludes ECL from taking that point.  
+Validity of First Proposed Resolution I turn to the validity of the first proposed resolution. Clause 13(a) deals with voluntary retirement by the trustee. Clause 13(b) deals with compulsory retirement if directed by a unanimous resolution of unitholders. Clause 13(c) describes what must happen on "retirement or removal" of the trustee.
+ It was agreed there was no power for the unitholders to remove the trustee, except the power to direct retirement under clause 13(b). Counsel for the first and second defendants submitted that the first resolution should be understood as a resolution directing the trustee to retire under clause 13(b).
+ Nonetheless, counsel contended that if the resolution were passed under clause 13(b) directing the trustee to retire, the passing of that resolution would by its own force bring about the removal of the trustee. Thus it was said that it would not then be open to the trustee to appoint another person to be the trustee in its place pursuant to clause 13(a), because that appointment can only be made "on retirement", and compulsory retirement would be effected by the passage of the resolution.
+ I do not agree with this construction of clause 13 as to when the trustee's retirement takes effect. There is a clear distinction between retirement which is operative from the trustee's signing the necessary instrument to retire, and removal. Under [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/s8.html) of the [Trustee Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/) , subject to the terms of the trust instrument, the trustee may retire from a trust in accordance with that section.
+ On the other hand, there is a well established jurisdiction of the court to remove a trustee.
+ PIML and Trust Company did not intend the first resolution to operate as a direction to the trustee to retire. The proposal by ECL in its letter of 1
+February 2010 to call a meeting to vote upon a resolution to direct the trustee to retire was not taken up.
+ As I read the correspondence which followed, the first and second defendants sought to maintain the position that the unitholders could remove the trustee by force of the resolution itself. This would create a gap or lacuna which the defendants contend could be filled by the unitholders replacing the trustee with their own nominee. In my view, that involves a misconstruction of clause 13.
+ I am also of the view that power of a trustee to appoint another person in writing to be trustee "on retirement" operates both in the case of a voluntary retirement under clause 13(a) and a compulsory retirement under clause 13(b).
+The fact that the power of the trustee to appoint a replacement is physically found in clause 13(a) is not sufficient to limit the operation of that sentence to a case of a voluntary retirement under clause 13(a).
+ But the fact that the proposed resolution inappropriately sought removal, rather than directing a trustee to retire, does not on that account render invalid the notice convening the meeting for the putting of that resolution.
+ In NRMA Ltd versus Snodgrass <case>; [(2001) 52 NSWLR 383], Mason P, with whom Meagher and Sheller JJA agreed, said (at [22]) that the court should exercise restraint in construing notices of meeting and in precluding members from exercising such limited powers as they possess as regards company governance, and that notices should be construed with regard to the possibility that ambiguities can be debated and modified.
+ In Totally & Permanently Incapacitated Veterans' Association of NSW
+Ltd versus Gadd [(1998) 28 ACSR 549] at 554,
+Young J (as his Honour then was) said that where a shareholder had requisitioned the holding of a general meeting, the directors had a duty to call the requisitioned meeting if defects in the notice could be cured by simple procedural amendment, so as to put in a proper form a resolution which it would be within the powers of the shareholders to pass.
+ In the present case, the first and second defendants contended at the hearing that the proposed resolution was to be understood as a resolution directing the trustee to retire in accordance with clause 13(b). The trustee has indicated its willingness to put such a resolution to the meeting. In my view, a resolution in those terms should therefore be put to a meeting of unitholders, and the proposed first resolution should be amended accordingly.
+ 
+Validity of Second Proposed Resolution I do not consider that the unitholders have power to appoint a trustee.
+There are no express words which would confer such a power on the unitholders.
+No implication to that effect is necessary. That is necessarily so, given my conclusion that the last sentence of clause 13(a) confers a power on the trustee to appoint another person in its place if the trustee is directed to retire by unitholders under clause 13(b).
+ But even if that construction is wrong, there would still be no basis for implying a power by the unitholders to appoint a replacement trustee. There is no necessary implication to that effect. If there were a vacancy which the trustee itself could not fill, the vacancy could be filled by the court ([Trustee Act](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/), [s ).](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/s70.html) Accordingly, in my view, resolution 2, if passed, would be invalid and should not be put.
+ The fact that one of the proposed resolutions could not properly be put is not a sufficient reason for not convening a meeting to put the first resolution as amended.
+ 
+Which Notice is Effective? Conventional Estoppel The first and second defendants rely upon a conventional estoppel to support the validity of the requisition of 23 December 2009 given by PIML which was not the registered holder of the units. The defendants contend that both ECL and PIML acted on the assumption that they were the registered holders of the units held for the EDIF and the AIT managed investment schemes.
+ So far as PIML is concerned, it asserted wrongly in its requisition of 23
+December 2009 that it was the registered holder. ECL also assumed this to be the fact until about 19 February 2010. It also assumed that it was the registered holder of the units held for the EDIF registered managed investment scheme. Thus on 1 February 2010, ECL said that it did not currently intend to vote the units which it held.
+ On 10 February 2010, ECL noted that PIML "as a member of the Fund" disagreed with ECL's analysis of the trust deed.
+ PIML gave its purported notice under <case> as the "legal registered holder" of more than 50 per cent of the units in the statement of facts filed by ECL. ECL's statement of facts in support of the summons seeking judicial advice wrongly stated that PIML and ECL were the holders of the units.
+ PIML's request for a copy of the register seems to have resulted in ECL or its solicitor noting that PIML was not the member. Although PIML was advised of this fact on 19 February 2010, it was not until 2 March 2010 that Trust
+Company gave notice under <case>.
+ I accept that, until about 19 February 2010, both ECL and PIML were under the common misapprehension that PIML was the registered holder of the units.
+That is not enough to give rise to a conventional estoppel.
+ In Waterman versus Gerling Australia Insurance Co Pty Ltd <case>; [(2005) 65 NSWLR 300], Brereton J (at [96]) correctly observed that conventional estoppel is not distinct from, but is a subspecies of, estoppel in pais, and is encompassed by the statements of principle in Grundt versus Great
+Boulder Proprietary Gold Mines Limited <case>; [(1937) 59 CLR 641.] In Grundt versus Great Boulder Proprietary Gold Mines Limited, Dixon J said (at 674): "The principle upon which estoppel in pais is founded is that the law should not permit an unjust departure by a party from an assumption of fact which he has caused another party to adopt or accept for the purposes of their legal relations. This is, of course, a very general statement. But it is the basis of the rules governing estoppel." Reliance and detriment are necessary ingredients of a conventional estoppel (MK & JA Roche Pty Ltd versus Metro Edgley Pty Ltd <case> at <case>). It must be shown that some action or inaction on the part of the parties sought to be estopped caused the party seeking the benefit of the estoppel to hold or continue to hold its belief and thereby act to its detriment (Public Trustee v Smith <case> at <case>- <case>).
+ As Deane J said in Commonwealth versus Verwayen (1990) 170 CLR 394 at 444, the party sought to be estopped: "...must have played such a part in the adoption of, or persistence in, the assumption that he would be guilty of unjust and oppressive conduct if he were now to depart from it." I infer that had ECL, which had custody of the register, informed PIML of
+PIML's mistake, at an earlier time, PIML would have sought to correct its mistake earlier than it did by directing Trust Company to serve notice under s
+B. But PIML has not been put to any significant disadvantage, and it is not unjust or oppressive for ECL now to take the point that the notice was given by the wrong party.
+ That is because on 1 February 2010, ECL offered to call a meeting promptly to put the only requisition which I have found could properly be put. That offer was not accepted. Instead, PIML sought to insist on the terms of the resolutions as framed by it for removal of the trustee, apparently to create a lacuna which might provide a basis for the alleged implication that the unitholders could replace the trustee upon the trustee's being removed.
+ The fact that the parties were in dispute as to whether ECL could vote on that resolution, and that ECL maintained its position that it could do so does not affect the fact that ECL offered to do promptly all that PIML was entitled to insist on in terms of what was to be put to a meeting. PIML rejected that opportunity. In those circumstances, it is not oppressive or unjust that ECL be able to maintain this ground of invalidity.
+ Nor has PIML identified a "significant disadvantage" if the assumption is departed from. The disadvantage identified by the first and second defendants in submissions is the delay in a replacement trustee assuming management of the Trust's affairs.
+ Counsel submitted that this delay might affect a vast multiplicity of transactions which a new trustee might engage in by dealing with trust assets, or in the making of distributions, or otherwise. Counsel submitted that time lost is irrecoverable as opportunities might be lost forever.
+ However, there was no evidence about this. No-one from PIML gave evidence as to what a replacement trustee might wish to do differently. The only matter raised in the evidence that goes to this question is PIML's stated reason for seeking ECL's removal as trustee, namely, that if PIML were appointed in ECL's place, it intends to call for and vote at a meeting of unitholders to remove and replace ECL as trustee of the EBBIF.
+ There is no evidence that the slight delay will have any effect on a timetable for that to be done. The delay will only be slight because ECL stated on 19 February 2010 and repeated on 5 March 2010 and reaffirmed in its submissions that it would immediately schedule a meeting of unitholders and put the resolutions proposed by PIML and Trust Company to unitholders if the court accepted the construction of the trust deed advanced by PIML.
+ Having put that position as trustee, ECL could not, as the responsible entity of EDIF, dispute that a meeting to be convened on short notice was ineffective if fewer than 21 days' notice is provided. That is to say, the notice given by Trust Company on 2 March 2010 convening a meeting of unitholders is to be called promptly by ECL to put the only resolution that can properly be put.
+ 
+Can ANZ Nominees Vote? To be effective, a resolution under clause 13(b) directing the trustee to retire must be passed by a unanimous resolution of unitholders. The question is whether that means all of the unitholders or only those unitholders attending and entitled to vote. If the latter, the question is whether ANZ
+Nominees, as holder of the units as sub-custodian for ECL as responsible entity of EDIF, is entitled to vote. The questions whether, either through clause 1.3(b) or the second sentence of clause 16.1, the provisions of <case> apply, and whether under clause 13(b) what is required is a unanimous resolution of all unitholders or only of those entitled to vote, are intertwined.
+ ECL disputes that <case> applies, but contends that even if it does apply, the section does not preclude ANZ Nominees from voting. If <case> applies by virtue of clause 1.3(b), it applies as if the Trust was a registered scheme and ECL was the responsible entity of that scheme.
+ It is convenient to deal with the question of whether ANZ Nominees would be precluded from voting if <case> applies, because if the section would not in any event preclude ANZ Nominees from voting, the question of the incorporation of the provision by reference, and the question of what is required for a unanimous resolution under clause 13(b), would be moot.
+ The first and second defendants put the case in two ways. First, they say that whilst it is accepted that the person with the right to vote is the registered holder of the units, namely ANZ Nominees, nevertheless in exercising the right to vote ANZ Nominees is acting under a Sub-Custody
+Agreement. They say (and this is clearly established) that ECL is entitled to direct ANZ Banking Group as custodian how to vote, and ANZ Banking Group must direct its sub-custodian, namely, ANZ Nominees, to vote accordingly.
+ ANZ Nominees holds the units on trust for ANZ Banking Group, which in turn holds them on a sub-trust for ECL, which in turn holds those units on trust for the members of EDIF. ECL undoubtedly holds the units on an active trust and is beneficially entitled to the units subject to the interests of the members of EDIF. The interests of the members of EDIF are imposed on, not carved out of, ECL's interest (DKLR Holding Co (No 2) Pty Ltd versus Commissioner of Stamp Duties [[1980] 1 NSWLR 510]; Re
+Transphere Pty Ltd [(1986) 5 NSWLR 309] at 311).
+ The relationship between ECL and ANZ Banking Group is not merely a relationship of trustee and beneficiary, but also of principal and agent.
+Clause 4.1 of the Custody Agreement provides that the custodian is to act promptly in accordance with all proper instructions of the client, and must not effect any transactions involving the assets of which it is custodian unless it has received proper instructions from the client and must only give effect to those transactions in accordance with such instructions. This is consistent with [s
+FB(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601fb.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/).
+ ECL's written consent was required to units in the Fund being placed in the name of ANZ Nominees as sub-custodian (see clause 5.1). It may be inferred that such consent was given.
+ ANZ Nominees was required to act on ANZ Banking Group's instructions. ECL, through ANZ Nominees as sub-agent and as head trustee, could exercise the voting rights attaching to the units. The fact the voting rights attach to units which are held by ANZ Nominees does not alter the fact that it is ECL who is entitled to the benefit of the units as responsible entity of EDIF, and to the rights attaching to them including the right to vote.
+ I agree with the submission for the defendants that even if ANZ Nominees is not ECL's associate, ECL is not entitled "to vote [its] interest".
+ ECL as trustee of the Fund undoubtedly has an interest in the proposed resolution other than as a member. If [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) applies it is not entitled to vote through its agent, or sub-agent or nominee, in whose name its interest in the units and the voting rights attached to the units are held.
+ On the assumption which I make for present purposes that [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) is incorporated by reference, the second way in which the matter is put is that ANZ Nominees is ECL's associate and therefore cannot vote its interest.
+ECL relies on [s (2)(c)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s12.html) and [s (1)(a)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s15.html) or (c) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/). [Section (2)(c)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s12.html) provides:  "12 References in Chapters 6 to 6C, and other references relating to voting power and takeovers etc.
+ ...
+
+For the purposes of the application of the associate reference in relation to the designated body, a person (the second person) is an associate of the primary person if, and only if, one or more of the following paragraphs applies: ...
+ the second person is a person with whom the primary person is acting, or proposing to act, in concert in relation to the designated body's affairs." A "designated body" includes managed investment scheme [(s (5)).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s12.html) [Sections ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s15.html) and [16](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s16.html) provide:  "15 General 
+The associate reference includes a reference to: a person in concert with whom the primary person is acting, or proposes to act; and a person who, under the regulations, is, for the purposes of the provision in which the associate reference occurs, an associate of the primary person; and a person with whom the primary person is, or proposes to become, associated, whether formally or informally, in any other way; in respect of the matter to which the associate reference relates.
+
+If the primary person has entered, or proposes to enter, into a transaction, or has done, or proposes to do, any act or thing, in order to become associated with another person as mentioned in an applicable provision of this Division, the associate reference includes a reference to that other person.
+ Exclusions 
+A person is not an associate of another person by virtue of [section ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s12.html) or [subsection (1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s15.html), or by virtue of [subsection (2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s15.html) as it applies in relation to [section ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s12.html) or [subsection (1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s15.html), merely because of one or more of the following: one gives advice to the other, or acts on the other's behalf, in the proper performance of the functions attaching to a professional capacity or a business relationship; one, a client, gives specific instructions to the other, whose ordinary business includes dealing in financial products, to acquire financial products on the client's behalf in the ordinary course of that business; one had sent, or proposes to send, to the other an offer under a takeover bid for shares held by the other; one has appointed the other, otherwise than for valuable consideration given by the other or by an associate of the other, to vote as a proxy or representative at a meeting of members, or of a class of members, of a body corporate.
+
+For the purposes of proceedings under this Act in which it is alleged that a person was an associate of another person by virtue of paragraph 13(b) or (e), the first mentioned person is not taken to have been an associate of the other person in relation to a matter by virtue of that paragraph unless it is proved that the first mentioned person knew, or ought to have known, at that time, the material particulars of that matter." If [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) is picked up by clause 1.3(b) of the trust deed, and has a modified application such that the Fund is taken to be a registered scheme, that modified application must flow through to the associate reference in [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s12.html), such that the Fund is to be taken to be a managed investment scheme. In any event, if [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) is applicable, [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s15.html) applies.
+ Although the object or purpose of ANZ Nominees, if it votes its units, would presumably be to act on the directions of ECL conveyed to it through ANZ
+Banking Group, that object or purpose is sufficiently common to ECL's object or purpose that the giving of the direction would result in them acting in concert (Heine Management Ltd versus Australian Securities Commission [(1993) 12
+ACSR 578] at 594).
+ However, ECL submitted in reliance on Heine Management Ltd versus Australian
+Securities Commission, that the associate reference is excluded by [s (1)(a)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s16.html) in that in voting in accordance with ECL's directions, ANZ Nominees would be, and would merely be, acting on ECL's behalf in the proper performance of functions attaching to a business relationship.
+ Counsel for the first and second defendants did not submit that there was no relevant business relationship between ANZ Nominees as sub-custodian and
+ECL. I think that is correct and that there is such a business relationship, even though the contractual relationship is not direct.
+ Mr Jackman SC who appeared with Mr Hewitt for the first and second defendants said that if [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s16.html) were engaged, it necessarily followed that ANZ Nominees would be acting on behalf of ECL, and therefore [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html), assuming its applicability, would apply directly, because ECL would be voting through its agent.
+ I agree with that submission. But the present question has to be addressed on the assumption (an incorrect assumption, in my view) that [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) would restrict a responsible entity's voting only if it is voting itself, or if its associate is voting, and not if it votes through an agent.
+ In Heine Management Ltd versus Australian Securities Commission, Hayne J said (at 594-595):  "It was submitted on behalf of Heine Management that National Nominees was acting on behalf of ABN-Amro Bank in the proper performance of the functions attaching to a business relationship. Clearly the reference in [s (1)(a)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s16.html) to acting in the proper performance of the functions attaching to a professional capacity is intended to direct attention to the position of persons such as solicitors or accountants acting on behalf of their clients.
+However, equally clearly, it is intended to take the exclusion beyond such cases by referring to acting in the proper performance of the functions attaching to 'a business relationship'. It would be unwise to attempt to offer anything in the nature of a definition of what is 'a business relationship' for the purposes of [s (1)(a).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s16.html)
+However, these parties had, and have, a business relationship and one of the functions of that relationship was that National Nominees would carry out the instructions of ABN-Amro Bank (or the instructions of NAB as formulated by its customer, ABN-Amro Bank). Thus, in my view, National Nominees was acting on behalf of another (whether that other is NAB or ABN-Amro Bank does not matter) and was doing so in the proper performance of the functions attaching to the business relationship formed between the nominee company and either or both of the two banks concerned. It follows that I consider that [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s16.html) applies to exclude the conclusion that National Nominees was an associate of
+ABN-Amro Bank.
+ 
+The consequences of that conclusion are startling. It means that a placee could direct the vote of its nominee on the resolution to approve the placement but, so long as the relationship between placee and nominee was a matter of business and that the direction about voting was given as a consequence of that relationship, the placee and its nominee are not associated. The apparent oddity of this result flows from the fact that definitions created for the purposes of the Corporations Law (and predecessor legislation) and which have as one of their central purposes the aggregation of the interests of those who control shares, rather than any aggregation of the separate interests of a nominee party that happens to have separate parcels of shares controlled by several different entities, have been taken across to a deed between parties to be used for purposes other than the purposes for which the provisions are contained in the Corporations Law." The startling consequences of the conclusion to which his Honour there came and the apparently odd outcome are not confined to the case then in hand. Nor do they arise only because the deed there being construed used definitions contained in the Corporations Law for different purposes.
+ For example, one can readily see that the construction of [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s16.html) there adopted would prima facie permit a ready avoidance of <case> of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) if a director of a company caused the company to give a charge to a professional trustee company to hold the charge on trust for the director. On the reasoning in Heine Management Limited versus Australian Securities Commission (and leaving aside the avoidance of the associate reference by the concept of agency) the purpose of <case> would be readily avoided.
+ It does not appear that any argument was addressed in Heine Management
+Limited versus Australian Securities Commission about the words "merely because" in [s .](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s16.html) In my respectful view, the effect of those words is that if a putative associate would be an associate of the principal for reasons other than its carrying out acts on the principal's behalf in the proper performance of functions attaching to the professional capacity or business relationship, the exclusion in [s (1)(a)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s16.html) does not apply.
+ Here there is an anterior relationship which makes ANZ Nominees the associate of ECL before ANZ Nominees acts under the sub-custodian agreement by voting the units. It is ECL's associate because it proposes to act in accordance with ECL's directions in relation to any matter arising out of its holding of the units, and thereby proposes to act in concert with ECL.
+ Mr Gleeson SC, who appeared for ECL in its capacity as a responsible entity of EDIF, submitted that such a construction deprives [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s16.html) of any likely utility as a person coming within para (a) would always propose to act in concert with the principal and thereby become an associate before actually doing so.
+ I do not think that is correct. The type of case to be excluded under [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s16.html) can be gleaned from paras (b)-(d), which appear to be premised on a person who might otherwise be an associate not having a prior relationship with the principal in relation to the subject matter of the associate reference.
+ For this reason in my view [s (1)(a)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s16.html) does not apply. If [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) applies, ANZ Nominees would not be entitled to vote for the additional reason that it is an associate of ECL and is thereby precluded from voting.
+ As I have said, the question of whether [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) is applicable through clause 1.3(b) or the second sentence of clause 16.1, and the question whether a unanimous resolution of unitholders means a unanimous resolution of all unitholders, or a unanimous resolution of those attending a meeting and being entitled to vote, are intertwined. If [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) is incorporated by reference, one can more readily construe clause 13(b) as requiring a unanimous resolution only of those unitholders entitled to vote.
+ ECL contended that the fact the trust deed permits the trustee to be a unitholder, and the fact that directions can be given under clause 1.4 to the trustee by unitholders unanimously, meaning all unitholders, coupled with the requirement for unanimity in clause 13(b), are inconsistent with the incorporation of [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) through clause 1.3(b) or clause 16.
+ For their part, PIML and Trust Company contended there is nothing in the fact that unitholders unanimously can give directions and nothing in the fact that the trustee can hold units that precludes the incorporation of [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) as a provision regulating the voting at meetings.
+ Except where a trust deed otherwise provides or the beneficiaries give their informed consent, a trustee may not put itself in a position where its interest or duty, or its duties to different beneficiaries, conflict, or where there is a significant possibility of conflict. A transaction entered into in breach of this principle is voidable, and equity will not enquire whether the transaction was as good or better a deal as that which the beneficiaries could obtain from other persons (Aberdeen Railway Co versus Blaikie Brothers [[1843-1860] All ER 249] at -253).
+ This rule is clearly modified by clause 8.5 of the trust deed which permits conflicting engagements. A different rule is also provided in the case of responsible entities of managed investment schemes by [s
+FC(1)(c)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601fc.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/). A responsible entity is required to act in the best interests of members, and where there is a conflict to give priority to members' interests over its own.
+That principle is not reflected in express terms in the trust deed. [Section
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html), where it applies, modifies [s
+FC(1)(c)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601fc.html) in the case of a responsible entity who or whose agents or associates is a member, by precluding the voting of its interests.
+ In Southern Wine Corporation Pty Ltd (in liq) versus Perera <case>; [(2006) 33 WAR 174]; (2006) FLR 354; [(2006) 61 ACSR 40], Steytler
+P, with the agreement of McLure and Pullin JJA, said (at [21]):  "[21] It seems plain enough that, when read in its context and having regard for its legislative history, [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) was designed to ensure that the responsible entity, in voting on a resolution, would not put its own interest, arising independently of its membership of the scheme, ahead of that of other members, to their potential detriment. It is, of course, true that the section is not limited in its operation to cases of an actual conflict of interest. The section provides that the responsible entity cannot vote its interest on a resolution where it has any interest in the resolution or matter other than as a member. However, there could have been no other purpose behind that provision than that of removing the potential for a conflict of interest." The fact that the trust deed in the present case permits the trustee to have conflict of interest and does not (at least expressly) import the obligations of [s
+FC(1)(c)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601fc.html) to ECL as the trustee of the Fund, does not mean that [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) is inapt to the circumstances of the Fund. To the contrary, the amelioration for which [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) provides of the departure from established fiduciary principles, is prima facie appropriate to a trust.
+ ECL submitted that the statutory obligations in [s
+FC(1)(a)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601fc.html)-(c), and in particular, the statutory obligation imposed by [s
+FC(1)(c)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601fc.html), make it clear that the circumstances do not admit of [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) applying, with the result that only Trust Company could vote on the proposed resolution to remove ECL as trustee of the Fund. This would disenfranchise the unitholders in the EDIF. The submission is that if ECL can vote, it is bound to give priority to the interests of the EDIF scheme members. I take it that the submission is that thereby ECL would not have a significant possibility of conflict between its duty to the unitholders of the Fund and its personal interest as trustee, and that therefore the purpose of [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) is not engaged in the present circumstances.
+ However, such a conflict would still exist, and in my view, [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html), as I consider it should be construed, has the purpose not only of preventing a responsible entity of a managed investment scheme from voting where its interest and duty conflict, but where it has a conflict of duties. Such would be the present case if ECL could direct ANZ Nominees' vote. The fact that it could direct the vote not in its personal capacity, but as responsible entity of EDIF, would not avoid that conflict.
+ I accept that where directions are given to the trustee under clause 1.4, they must be given by all of the unitholders acting unanimously. But that fact does not indicate that a unanimous resolution under clause 13(b) must be a unanimous resolution of all unitholders. Rather, it poses the question. It does not resolve it.
+ In any event, and notwithstanding the submissions of Mr Jackman SC and Mr
+Hewitt, who appear for PIML and Trust Company, to the contrary, I do not consider that the power to give direction to the trustee under clause 1.4 extends to the giving of directions to require the trustee to retire, as that goes well beyond the concept of the day-to-day control over the operation of the Trust. But even if the power under clause 1.4 does extend that far, there is still an alternative procedure in clause 13(b) for the removal of the trustee.
+ ECL submitted that if [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) applied, and if clause 1.4 did not authorise a direction to the trustee to retire, then when the Trust was established there would be no mechanism for the only unitholder at that time to compel the trustee to retire. The initial unitholder at that time was ECIML, a wholly owned subsidiary of ECL and its associate. If [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) applied, it could not vote under [s (b)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s13.html), and there would be no unitholder who could do so.
+ That is correct, but it is a theoretical consideration only. It would not be expected that ECIML would act contrary to its holding company's wishes. If the holding company wished to resign as trustee, it could do so voluntarily.
+ It is true that the directors of ECIML might consider that it was in the interests of the members of the scheme for which it was the responsible entity to change trustees. But if its parent did not agree, it could prevent any such resolution, after a meeting was called for the removal of the trustee, by exercising its voting power as shareholder of ECIML to remove the directors.
+ In a practical sense, the power under clause 13(b) would only be intended to be used if there were new or additional unitholders.
+ The trust deed should be construed to operate in a changing environment to achieve a reasonable construction and to give effect to the settlor's or the parties' expressed intentions. It is an important consideration that the relationship is one of trust.
+ In my view, the court should lean in favour of a construction, if otherwise open on the language, to give effect to or to preserve fiduciary obligations, and to ameliorate a departure from them.
+ In my view, the proposition that if ECL cannot vote, the members of EDIF would thereby be disenfranchised, is not a sufficient reason to exclude the application of [s
+E.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html)
+That is rather the obverse of the fact that ECL faces a conflict between its position as trustee of the Fund and its duties as responsible entity of EDIF.
+The "disenfranchisement" of EDIF scheme members is the result of ECL holding positions which give rise to conflicting duties.
+ It was also submitted that if PIML were appointed as trustee, as is sought in the second resolution, and if [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) applies, PIML could itself be removed on the vote of ECL, assuming the unanimous resolution required by clause 13(b) does not require the votes of both unitholders.
+ It is true that that would follow on the argument of PIML as to the absence of power of the outgoing trustee to appoint a replacement trustee. But
+I have rejected that argument, and there is no reason to suppose that ECL would appoint as new trustee a person who would be the agent or associate of either it or PIML.
+ It was also submitted that if [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) were incorporated by reference, it would not apply to a resolution by postal ballot under clause 16.2, and that it should therefore be concluded that the section was not intended to apply to a resolution at a meeting under clause (b).
+ In one sense, the submission assumes what it sets out to prove. I am far from persuaded that if [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) is incorporated by reference as being applicable to a meeting under clause (b) that it would not also apply to a resolution by postal ballot under clause 16(b). But if that were the position, it would not follow that clause (b) should be construed as to require a unanimous resolution of all unitholders.
+ Mr Sheahan SC, who appeared with Mr Bender for ECL as trustee of the Fund, referred to the fact that the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) identifies expressly what classes of members are required to carry a resolution on a particular matter.
+ For example, in [s
+B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s252b.html), reference is made to the per centage of members entitled to vote. In contrast, in [s
+D](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s257d.html), dealing with member approval for selective buy backs, [s
+D(1)(b)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s257d.html) refers to resolutions by all ordinary shareholders.
+ The fact that Parliament identifies expressly those members whose votes are or are not to be counted towards particular resolutions, and the trust deed does not, raises the ambiguity in clause 13(b), but does not answer it.
+ One difficulty of reading clause 13(b) as requiring a unanimous vote of all unitholders would be the unlikelihood of unanimity being required if the number of unitholders were increased as the trust deed contemplates may be done. However, it is fair to say that the trust deed was not drawn with a view to there being substantial increases in the number of unitholders, as if that were to be done, and the number of unitholders went beyond 20 such that registration was required under [s
+ED](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ed.html), then wholesale changes would be required. Notwithstanding that, it is a matter of some weight that if there were more unitholders, there would be obvious further difficulties in requiring unanimity under clause 13(b).
+ Mr Sheahan submitted that whether [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) applies is to be determined by clause 1.3 and not the second sentence of clause 16.1. He submitted that the more specific provisions under clause 1.3 apply in relation to the trustee's complying with provisions concerning the calling of meetings. Whilst both clauses apply to meetings, he said the more specific provisions under clause 1.3 deal with the question of the application of [s
+E.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) [Section
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) is not expressed in terms of requiring a trustee to do something or to refrain from doing something. I accept that under clause 1.3 the trustee must comply with provisions in [Part
+G.4](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p2g.4) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) which impose limitations on its powers, as well as those provisions which impose obligations or prohibitions, and that therefore the application of the provisions is "as far as the circumstances admit". I agree that whether [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) applies should be determined under clause 1.3 as being the more specific provision.
+ Nonetheless, I consider that the circumstances do admit of [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s253e.html) as being applicable to meetings called under [Part
+G.4.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p2g.4)
+The section being applicable, it informs the construction of clause 13(b) as to who can vote.
+ I conclude that it is only those unitholders who are entitled to vote under [Part
+G.4](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p2g.4) whose votes are to be considered in determining whether a resolution is passed unanimously under clause 13(b).
+ It was not submitted that if there were only one remaining unitholder who could vote, for that reason alone a resolution passed by that unitholder would not be unanimous.
+ For these reasons, I have concluded that at the meeting to be convened to consider the first resolution proposed by Trust Company, ECL is not entitled to vote, and that if the first resolution is passed by Trust Company it will be validly passed. In that event, ECL will be required to retire, but will not be immediately removed. It will be entitled to appoint a replacement trustee.
+ I direct counsel for the parties to bring in short minutes of order at .30am on Tuesday, 16 March 2010.
+ 
+LAST UPDATED:  March 2010 * * * 

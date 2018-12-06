@@ -1,0 +1,685 @@
+
+
+Nab Ltd and Ors versus Market Holdings Pty Ltd (In liq) and Ors [2001] NSWSC (9 April 2001) 
+Last Updated: 19 April 2001 
+NEW SOUTH WALES SUPREME COURT 
+CITATION: NAB Ltd & Ors versus Market Holdings Pty Ltd (In liq) & Ors <case> 
+CURRENT JURISDICTION: Equity Division 
+Corporations List 
+FILE NUMBER(S): 4964/2000 
+HEARING DATE{S): 22 and 23 February 2001 
+JUDGMENT DATE: 09/04/2001 
+PARTIES: 
+National Australia Bank Ltd (P1) 
+National Markets Group Ltd (P2) 
+National Australia Financial Management Ltd (P3) 
+Australian Market Automated Quotation (Ausmaq) System Ltd (P4) 
+Glenn L L Barnes (P5) 
+Francis J Cicutto (P6) 
+David M Krasnostein (P7) 
+Kevin F Courtney (P8) 
+Russell A McKimm (P9) 
+Donald Argus (P10) 
+Market Holdings Pty Ltd (In liquidation)(D1) 
+John Sheahan (D2) 
+Idoport Pty Ltd (D3) 
+Investors Buying Service (IBS) Pty Ltd (D4) 
+John Malcolm Maconochie (D5) 
+JUDGMENT OF: Young J 
+LOWER COURT JURISDICTION: Not Applicable 
+LOWER COURT FILE NUMBER(S): Not Applicable 
+LOWER COURT JUDICIAL OFFICER: Not Applicable 
+COUNSEL: 
+J T Gleeson SC and R A Dick (P) 
+S Finch SC and L V Gyles (D2) 
+N C Hutley SC, M Dicker and W V McManus (D3-5) 
+SOLICITORS: 
+Freehills (P) 
+Piper Alderman (D2) 
+Withnell Hetherington (D3-5) 
+CATCHWORDS: 
+CORPORATIONS [134]- Proxies- Joint debt- Whether each creditor can nominate separate proxy. CORPORATIONS [238][259]- Creditors voluntary winding up-
+Appointment of chairman- How determined. CORPORATIONS [337]- Validation-
+Substantial injustice- Factors involved. MEETINGS [7]- Chairman- How appointed. WORDS & PHRASES- "Convene".
+
+ACTS CITED: 
+Corporations Law, ss 9, 477, 495, 497, 503, 532, 1322 
+Corporations Law Regulations 1990, Regulations 5.6.17(2), 5.6.19(1), 5.6.20, .6.21(2), 5.6.28, 5.6.29 
+Maintenance & Champerty Abolition Act 1993, ss 4 and 6 
+DECISION: 
+See paras 176, 177, 187, 188, 270, 271, 272, 273.
+
+JUDGMENT: 
+THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+CORPORATIONS LIST 
+YOUNG J 
+MONDAY 9 APRIL 2001 /2000 - NATIONAL AUSTRALIA BANK LTD V MARKET HOLDINGS PTY LTD (IN LIQUIDATION) 
+JUDGMENT HIS HONOUR: In National Australia Bank Ltd versus Market Holdings Pty Ltd <case>; [(2000) 35 ACSR 572]; [18 ACLC 844], I held that although the first defendant was in liquidation, the second defendant was not validly appointed its liquidator. I indicated that a further meeting of creditors would need to be held to appoint a liquidator. I gave some directions and extended statutory time limits for this to be done.
+ On 29 November 2000, the meeting was purportedly held. It is claimed by the defendants that the meeting validly appointed the second defendant, John
+Sheahan, as the company's liquidator. The plaintiffs contest that assertion and have brought these proceedings for declarations of invalidity and for appointment of a liquidator by the Court. They seek in the alternative, that the Court remove Mr Sheahan from office.
+ The third to fifth defendants, one John Maconochie and companies associated with him, have filed a cross claim seeking declarations of validity, orders under <case> of the Corporations Law and, if necessary, an order of the Court appointing Mr Sheahan as the liquidator of the first defendant.
+ A further cross-claim by the second defendant, Mr Sheahan, for approval of him entering into certain transactions has been postponed until after these reasons are delivered and digested by the parties.
+ The issues that arise in these proceedings may be summarized under the following headings and sub-headings which I will summarize and then discuss the facts and the law relating to each of the matters in turn.
+ The issues are:
+Did the creditors' meeting of 29 November 2000 of the first defendant validly appoint the second defendant as its liquidator? To answer this question, I must consider: 
+Whether Mr Maconochie was validly appointed chairman of the meeting; 
+This, in turn, gives rise to several sub-issues, namely: what is meant by "convening" a creditors' meeting? was Mr Maconochie entitled to act as interim chairman? was Mr Maconochie entitled to second his nomination as chairman? 
+Was Mr Maconochie entitled to declare himself elected as chairman? 
+Who was entitled to attend and vote at the meeting. In particular: were the plaintiffs entitled to appoint proxies to represent them at the meeting and if so, were those proxies entitled to vote? were the plaintiffs entitled to participate in the meeting? was Mr Maconochie entitled to attend and vote? was Fiona Maconochie entitled to represent the fourth defendant at the meeting? 
+Was Mr Maconochie entitled: to declare himself elected as chairman; or to determine that the first or any other plaintiff was not entitled to vote at the meeting? 
+Did the meeting cease to be a valid meeting before Mr Sheahan was declared elected as liquidator? 2. If the answer to question 1 would, apart from <case> of the Corporations
+Law be "No", should that section be applied to alter that result? 3. If the answer to question 1 is "Yes", should Mr Sheahan be removed as liquidator? 4. If the answer to question 1 is "No", should - 
+Mr Sheahan; or some other person be appointed as liquidator, and if so, which person? This question involves many sub-issues, the principal ones being: 
+What is the standard for independence of a liquidator? 
+Does the unique position of the Company with its Commercial List litigation and the necessity to fund it, require modification of the position stated in 4(a)? 
+How does the law of Champerty and Maintenance affect the position, if at all? 
+On the facts, should Mr Sheahan be the liquidator of the company? 
+Is the solution to the present problem to appoint Mr Sheahan as joint liquidator with another qualified person? 5. What is the result of this litigation? These questions pose a number of very difficult matters of law. However, if this matter proceeds to the Court of Appeal or higher, as it probably will, there will be no need for the Appeal Judges to look at material before the
+Court on Question 4. This is because if the earlier questions are answered favourably to the Maconochie interests, Question 4 arises in the form, "Should
+Mr Sheahan be removed as liquidator?" and if the NAB parties succeed on the earlier questions, Question 4 will arise in the form "Should Mr Sheahan be appointed liquidator?" In each case counsel say that the question raises the same considerations.
+ I heard the evidence and oral argument in these proceedings on 22 and 23
+February 2001. Mr J T Gleeson SC and Mr R A Dick appeared for the plaintiffs,
+Mr N C Hutley SC, Mr M Dicker and Mr W V McManus appeared for the Maconochie interests and Mr S Finch SC and Mr L V Gyles appeared for the liquidator. In addition to oral argument, I was much assisted by written submissions from all counsel in both disk and hard copy form. Although I resist this luxury in cases involving lesser sums, I was in the present case also appreciative of receiving two lever arch files in which the great majority of the relevant authorities and statutes had been photocopied.
+ During these reasons, I will refer to submissions under the name of the senior counsel who presented them, even though, I am sure that the others in the various teams made valuable contributions.
+ For brevity, I will refer to John Malcolm Maconochie and John Sheahan respectively simply as "Mr Maconochie" and "Mr Sheahan" and refer to the other dramatis personae as follows:- 
+Austmaq - Australian Market Automated Quotation (Ausmaq) System Ltd 
+IBS - Investor Buying Services (IBS) Pty Ltd 
+Idoport - Idoport Pty Ltd 
+LOC - The litigation direction committee set up under the funding agreements 
+Market Holdings (or "the company") - Market Holdings Pty Ltd 
+NAB - National Australia Bank Ltd 
+NAB parties - the plaintiffs 
+NAFML - National Australia Financial Management Ltd 
+Negubo - Negubo Pty Ltd (Trustee of the Maconochie Family Trust) 
+NMG - National Markets Group Ltd The commercial reality of the present proceedings is that they are ancillary to proceedings between most of the same parties which are currently being heard by Einstein J in the Commercial List of this Division and which are expected to take at least the remainder of this year to hear. I will refer to such proceedings merely as "the Commercial List proceedings". The fact that goes to the core of the present proceedings is that a foreign corporation, called in these reasons "the Funder", has entered into arrangements with Mr
+Maconochie, the company and Idoport to fund the plaintiffs in the Commercial
+List proceedings for reward to the Funder. It is clear that without such an arrangement, or some similar arrangement, the Commercial List proceedings would be beyond the resources of such plaintiffs.
+ It is beyond the scope of the present case to delve deeply into the
+Commercial List proceedings. However, as will appear, it is necessary to identify the causes of action in those proceedings.
+ The Commercial List proceedings are made up of two actions being heard together in the Commercial list, 50113/1998 and 50026/1999. The (third further amended) statement of claim in the former proceedings (which appear to be the principal proceedings) filed by Idoport and Mr Maconochie alleges that in July , NAB and others made representations to the plaintiffs in those proceedings, in trade and commerce which were misleading or deceptive. There are also claims for breach of contract and breach of fiduciary duty.
+ Mr Hutley SC submitted that the reason for these proceedings is not to maximise the return of NAB, but to bring to an end the proceedings against
+NAB. I should note this and not permit any collateral advantage. He says that this aim is quite clearly established by the plaintiffs' refusal to accept a tender for payment of costs and that this refusal exemplifies NAB's actions.
+He thus says that the Court should approach the application of NAB with caution. These proceedings are not really about what might be recovered under
+NAB's cross-claim. NAB has no interest in the sole asset of the company being recovered. In reality, NAB's approach is one of pure opportunism. There is no possibility of the claim ever being paid, even if NAB obtains a verdict.
+ Before considering the questions in detail, it is necessary to set out the background facts. I do so from the summary provided by NAB's counsel, but they are really not essentially in dispute.
+ Since November 1996, Market Holdings has had no business other than its conduct as a co-plaintiff in the Commercial List proceedings.
+ Mr Maconochie, a director of Market Holdings, had a meeting with Mr Sheahan in the middle of 2000 in Sydney. Shortly prior to his meeting with Mr
+Maconochie, Mr Sheahan contacted or was introduced to Mr Maconochie.
+ On 21 June 2000, Mr Sheahan entered into written heads of agreement with the Funder - in which Mr Sheahan was described as "the future liquidator of Market
+Holdings"; which provided inter alia for the payment of a success fee to the Funder in relation to "litigation" and that the Funder would support a "reasonable percentage of 1% of gross recoveries for the liquidator in his negotiations with Mr Maconochie".
+ On 28 August 2000, the directors of Market Holdings signed the financial statements of Market Holdings for the year ended 30 June 2000 and stated that as at 28 August 2000 there were reasonable grounds to believe that the company would be able to pay its debts as and when they became due and payable based on the continued financial support of all creditors.
+ On 7 September 2000 Mr Maconochie signed a report as to affairs in respect of Market Holdings for the purposes of a creditors' voluntary winding up. On the same day the directors of Market Holdings resolved that Sheahan Coope Lock be requested to provide professional assistance, including the convening of members' and creditors' meetings to place the company into liquidation. Also on the same day an account was opened with Bank of Western Australia in the name of Idoport, with Mr Maconochie and Mr Sheahan as signatories, apparently for the receipt of funds from the Funder.
+ Between 7 September 2000 and 18 September 2000 Mr Sheahan apparently entered into an agreement with Market Holdings, or its directors, for the year ended 30 June 2000, in relation to the protection of certain assets of Market
+Holdings, and in relation to his duties if appointed as liquidator and the provision of funds to be made available to him as liquidator to perform his duties.
+ On 18 September 2000 the members of Market Holdings resolved by special resolution to place the company into voluntary liquidation and to appoint Mr
+Sheahan as liquidator.
+ Also on 18 September 2000 there was a purported meeting of creditors of
+Market Holdings at which it was resolved: that Mr Sheahan be appointed liquidator; that Mr Sheahan be remunerated in accordance with the agreement reached between him and the Funder.
+ On 21 or 22 September 2000 (during the NSW Olympic vacation) Mr Sheahan, purportedly as liquidator of Market Holdings, made an ex parte application to
+Justice Austin to approve Mr Sheahan entering into agreements referred to in an affidavit of Mr Sheahan sworn 20 September 2000, under section 477(2B) of the Corporations Law (these are proceedings No 4034 of 2000).
+ On 22 September 2000 Justice Austin ordered that notice of proceedings No of 2000 be given inter alios to the defendants in the Commercial List proceedings, which notice was given on 25 September 2000. Justice Austin adjourned the proceedings to 3 October 2000. On 27 September 2000 the solicitors for NAB and NMG sought from Mr Sheahan's solicitors an explanation of his conduct over the commencement of, and disclosures made, in those proceedings.
+ On 28 September 2000 at a purported meeting of creditors of Market Holdings (attended by Mr Maconochie, IBS and Mr Sheahan), it was resolved that Mr
+Sheahan "as liquidator" be given approval pursuant to <case>(2B) of the
+Corporations Law to enter into a partnership agreement between Market
+Holdings, Idoport, Messrs Sheahan and Maconochie and a participation agreement between the Funder, Market Holdings and Mr Sheahan. Market Holdings, Idoport and IBS are related companies.
+ On 29 September 2000 NAB and NMG applied in proceedings No 4034 of 2000 for an interlocutory injunction restraining Mr Sheahan from exercising any powers under the agreements, the subject of those proceedings. However, on the same day Mr Sheahan's solicitors discontinued those proceedings and so informed the solicitors for NAB and NMG. They did not mention the resolution of the purported creditors meeting the previous day.
+ On 29 September 2000 NAB and NMG commenced proceedings No 4091 of 2000 against Market Holdings and Mr Sheahan, seeking, inter alia, a declaration that Mr Sheahan had not been validly appointed as liquidator of Market
+Holdings. The hearing of those proceedings was fixed on 3 October 2000 for 19
+October 2000.
+ On 13 October 2000 Mr Sheahan, purportedly as liquidator of Market Holdings commenced proceedings in the Supreme Court of South Australia (No 983 of 2000) for the issue of examination summonses for the examination and production of documents under ss 596B and 597(9) of the Corporations Law against Messrs
+Mackinnon, Breeze, Krasnostein, Barnes, Cicutto and Argus (all of whom are defendants who have filed witness statements in the Commercial List proceedings) and Ms Lomas and Flavel (each of whom has filed witness statements for NAB and NMG in the Commercial List proceedings) and Mr
+Matrenza.
+ On 18 October 2000 a purported meeting of the committee of inspection of
+Market Holdings approved payment of professional fees to counsel and a payment of $49,500 to Sheahan Coope Lock. On 18 October 2000 Idoport paid to Sheahan
+Coope Lock an amount of $49,500 "on account". The tax invoice of Sheahan Coope
+Lock contained a description of the firm's fee of $49,500 as payment of liquidator's remuneration for the period 7 September 2000 to 15 October 2000.
+ On 20 October 2000 the proposed examinees in the South Australian proceedings sought an undertaking that Mr Sheahan would not prosecute the
+South Australian proceedings until 26 October 2000 (when my judgment in proceedings No 4091 of 2000 was expected) and sought further information in relation to the disclosure made by Mr Sheahan to the Court in those proceedings.
+ On 20 October 2000 Mr Sheahan provided the requested undertakings. No information was provided by Mr Sheahan in relation to his disclosure of information to the South Australian Supreme Court.
+ On 26 October 2000 in proceedings No 4091 of 2000 I delivered reasons for judgment and held that the creditors' meetings of Market Holdings on 18
+September 2000 and 28 September 2000 were invalid by reason of the failure to give notice of the meetings to NAB and NMG as creditors.
+ On 26 October 2000, following the judgment in proceedings No 4091 of 2000,
+Mr Sheahan indicated that he proposed to discontinue the South Australian proceedings as soon as that may be convenient.
+ On 27 October 2000 I made orders in proceedings No 4091 of 2000 including an order pursuant to <case>(d) of the Corporations Law that the time within which Market Holdings shall call and hold the meeting of creditors of the company pursuant to <case> be extended until 24 November 2000. Hamilton J subsequently extended this time to 29 November 2000.
+ On 6 November 2000: 
+Market Holdings was given notice that NAB and NMG claimed to be creditors of Market Holdings by reason of: costs orders made in their favour in the Commercial List proceedings on 3
+February 1999 and 9 July 1999; costs orders made by the Court of Appeal in relation to proceedings No of 2000 on 18 October 2000; costs orders made by me in their favour in proceedings No 4091 of 2000 on 27 October 2000; their cross claim against Market Holdings in the Commercial List proceedings; 
+Market Holdings was given notice that each of NAFML, AUSMAQ, and Messrs
+Barnes, Cicutto, Krasnostein, Courtney, McKimm and Argus claimed to be creditors of Market Holdings by reason of costs orders made in their favour in the Commercial List proceedings as referred to in (a)(i).
+ The South Australian proceedings were apparently discontinued by notice of discontinuance filed 15 November 2000.
+ On 20 November 2000 the NAB parties received notice of the meeting of creditors of Market Holdings to be held on 29 November 2000.
+ On 21 November 2000 Withnell Hetherington, solicitors for Market Holdings wrote to Freehills, the solicitors for the NAB parties, and enclosed (on instructions from Idoport) their trust account cheque for $256,977.58 payable to Freehills with a letter of that date in payment of the costs orders claimed by the NAB parties. The payment was made subject to the reservation of rights, under protest and subject to the variation of the parties' respective entitlements.
+ On 23 November 2000 Freehills returned the cheque under cover of a letter of that date on the basis that it did not amount to a tender of payment of the
+NAB parties claims for costs as set out in their notice dated 6 November 2000.
+ On 23 November 2000 the NAB parties sought information from the directors of Market Holdings in writing in relation to the affairs of Market Holdings, the circumstances concerning the winding up and matters concerning Mr Sheahan as proposed liquidator and requested that Mr Sheahan attend the creditors' meeting. No substantive response was received from the directors in relation to these matters.
+ Also on 23 November 2000 the NAB parties informed Mr Sheahan, by letter, that they were concerned about Mr Sheahan's conduct in relation to Market
+Holdings to date and his ability to act as liquidator in an impartial way and requested information from Mr Sheahan in relation to his prior involvement with Market Holdings, arrangements relating to Market Holdings, the South
+Australian proceedings and of his intentions as liquidator and that he attend at the creditors' meeting on 29 November 2000. No response was received from
+Mr Sheahan prior to the meeting of creditors on 29 November 2000, and the meeting was not attended by Mr Sheahan. When Mr Sheahan responded on 4
+December 2000, it was through his solicitors.
+ On 24 November 2000 Withnell Hetherington, enclosed under cover of a letter of that date, their cheque in the amount of $256,977.58 which was "tendered on behalf of both Idoport and Market Holdings on the same basis as previously set out in our letter of 21 November 2000".
+ On 27 November 2000 the NAB parties rejected the purported tender or offer of the cheque and returned the cheque to Withnell Hetherington.
+ On 28 November 2000 Idoport, apparently, paid into Court a trust account cheque in the amount of $256,977.58 under Part IV of the [Trustee Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/).
+ On 28 November 2000 and in accordance with a request by Withnell
+Hetherington, proxies and informal proofs of debt and supporting documentation for each of the NAB parties was lodged with Withnell Hetherington.
+ The creditors' meeting was held on 29 November 2000. An agenda for the meeting was provided to the attendees at the meeting by Mr Maconochie or the directors of Market Holdings. The proceedings at the meeting were professionally recorded and a transcript made which all parties accept. Thus, the facts as to what occurred at the meeting are not in dispute.
+ It is expedient to set out some excerpts from the transcript.
+ It commences with Mr Maconochie saying, "Good Morning. This meeting will now be convened. This is a meeting of the creditors of Market Holdings Pty Ltd in liquidation. My name is John Maconochie. The meeting is being convened pursuant to section 497 of the Corporations Law and a notice of meeting dated November, 2000. ...
+ "The company has appointed myself, John M Maconochie, to chair the meeting, subject to section 497(8) of the Corporations Law. The directors have also appointed myself, John M Maconochie, to attend the meeting pursuant to section (5)(b) of the Corporations Law. ..." Mr Maconochie then called for the persons in attendance to identify themselves. Mr Madden indicated that he represented National Australia Bank,
+Mr Lovell, solicitor, represented NAFML, Mr Healy, solicitor, represented
+Ausmaq, Francis J Cicutto, Glenn Barnes and David Krasnostein, Mr Steele, solicitor, held proxies for Russell McKimm, Kevin Courtney and Donald Argus.
+The various solicitors were each partners of Freehills.
+ Fiona Maconochie announced that she represented IBS and Mr Maconochie said that he represented Idoport and was also present in his own right.
+ The only other persons present were people assisting the major participants, the transcript recorder and two representatives of the firm of
+Deloittes Touche Tohmatsu, a member of which was intended to be nominated as liquidator by the plaintiffs' interests.
+ Shortly afterwards, Mr Lovell raised an objection to Mr Maconochie acting as chairman.
+ Mr Maconochie responded, "We haven't got to the point where a Chairman of the meeting has been elected. At this point, the situation is that the company has nominated myself, as the director of the company, to convene the meeting." Discussion then ensued as to the right of the plaintiffs' interests to attend the meeting. There is no need to detail this discussion. Mr Maconochie then obtained agreement from all present that there was no objection to the date, time and place of the meeting. He then said, "... in order to determine the election of the Chairman of the meeting, it's necessary to make a determination of who is entitled to be present as or on behalf of a creditor and the respective entitlements." Mr Lovell took a point of order that it was first necessary to take nominations for chairman.
+ The relevant parts of the transcript are then as follows: "Mr Lovell: I still raise the point of order that the time for that to be debated is or the person to ask that question is the Chairman of the meeting.
+We don't have a Chairman at this time.
+
+Mr Maconochie: Well, I think at this stage, Mr Lovell, what the meeting is endeavouring to do is to substantiate the entitlements to vote for the position of Chairman and that's been the purpose of going through the proxies and the claims and the documentation that's been put forward in support. So this is on the same subject.
+
+Mr Madden: Could I raise a point of order, Mr Chairman. No documents have been tendered to the meeting with respect to the claims of Investor Buying Services and in respect of yourself, Mr Maconochie. Are those documents to be tendered? 
+Mr Maconochie: We will come to that point in a moment. The point is noted and we will get to that in a moment, if we may. It's important that I be able to make - I'm required to make a determination as to the entitlement to vote for the position of Chairman and it seems to me that cost agreements are relevant to that determination.
+
+Mr Lovell: Point of order. Are you there taking the position as interim
+Chairman for the purpose of the election of the Chairman? 
+Mr Maconochie: Well, the answer is yes.
+
+Mr Lovell: Are you intending to nominate for the position of Chairman? 
+Mr Maconochie: We will come to that in a moment, Mr Lovell. The position is that, as I have already stated, the directors have and the company has convened this meeting and we're moving through on the agenda, which is agenda item 2, for the election of a Chairman for the meeting. Prior to the election of a Chairman of the meeting, it's required to determine the entitlements to vote on the election of the Chairman. ...
+
+Mr Lovell: I press my objection that it is not for you to determine with respect to the entitlements of voting...".
+ Other proxies for the NAB interests took the same objection.
+ Mr Maconochie, however, continued to direct attention as to whether there was any evidence that NAB's interests were in fact creditors. Mr Madden inserted into the discussion the problem that in my former judgment I had mentioned that there was evidence that Mr Maconochie's debt and IBS' debt had in fact been assigned. Mr Maconochie replied: "My recollection is that there were comments to the effect, and I'll just check what Young J said. The short answer is those debts have not been assigned, but we will just look up for the purpose of the record of the meeting." There was then reference to the former judgment and Mr Maconochie continued: "For the record, those debts of
+Maconochie and IBS have not, whatever the evidence that was presented, I'm not aware what it was, have not been assigned." Mr Steele then asked some questions as to the alleged debt from Idoport.
+ At the end of this discussion on page 1354, Mr Maconochie said: "At this stage, I'm required to make a determination as to who is entitled to vote for the position of ...". Mr Lovell interjected "Point of order here. You're not the Chairman. My client objects to you undertaking any determination. You are not the Chairman of the meeting. Your status is that of interim Chairman, if that is what you are seeking to hold yourself out as. The point of order is that you cannot determine the identity of the creditors and their entitlement to vote." Various others agreed with Mr Lovell who then reiterated that what should happen is that there should be nominations for the position of
+Chairman. Mr Maconochie then called for such nominations. Mr Madden was nominated by the plaintiffs' interests and Fiona Maconochie nominated John
+Maconochie and he seconded that nomination. Mr Lovell then said: "Point of order. I object to you, Mr Maconochie, being the interim Chairman on the basis that you have nominated yourself to be Chairman of the meeting." Mr Maconochie then said this: "What has been asked for is the nominations of people nominating to be Chairman. The Freehills parties have nominated Mr
+Madden and the other parties have nominated Mr Maconochie for the position of
+Chairman of the meeting and I have seconded that nomination as proxy holder for Idoport and in my own capacity. There has to be a determination of creditors and entitlements to vote on this question and I've noted the objections.
+ "The position of Idoport and the tender and payment of money into the court is a matter of law as to whether the people claiming to be creditors for the costs amount in the total of $256,977.58 is actually a claim that can be substantiated, given that it has been paid into court. It seems to me that it is a matter for the - the amount having been paid into court and it's available and as I understand it is able to be claimed and paid from the court to the claimants, that no debt exists and that those claimants are not creditors of the company.
+ "If that be the case, then those claimants are not entitled to either be present on behalf of - are not entitled to vote for the appointment of
+Chairman. In relation to the cross-claim, I have viewed the documents that have been tendered in support of the cross-claim. In relation to the National
+Bank documents, they have included extensive documentation as to the
+Commercial List proceedings, which have given rise to the cross-claim. May I say that it's clear that cross-claim has arisen out of the original claims in the Commercial List proceedings by the co-plaintiffs and there's been a counterclaim against that cross-claim, greatly in excess of that cross-claim and that those claims by the Freehills parties are being hotly and vigorously disputed. At this stage, it's not clear as to the outcome of that. For the purposes of this meeting, my determination is that none of the Freehills parties in relation to the costs claims and in relation to NMG and NAB in relation to the cross-claim are in fact entitled to vote for the position of
+Chairman.
+ "So that my determination on that issue is that Mr Maconochie shall be the
+Chairman of the meeting, subject to a vote of the people who I've ruled who I believe are entitled to vote and those people are Investor Buying Services, represented by Ms Fiona Maconochie; myself in my own capacity; and myself as a proxy holder for Idoport Pty Ltd." At this point Mr Maconochie was interrupted by Mr Lovell, but he pressed on saying: "In relation to the other claim, the Freehills claimants, their claims to be creditors in relation to the cross-claims are rejected as having no substance.
+I may also note that monies have been tendered and paid into the court and that it would just be a matter for them to collect that payment and in relation to the cross-claim, at this stage, given that the proceedings are being hotly and vigorously disputed in the court and that there are counterclaims greatly in excess of that cross-claim, that a just estimate could not be made as to the amount of that claim and, accordingly, a nil amount would be given to that cross-claimed amount. In relation to the cost issue, for the reasons I've already given, a nil amount is given to the cost claims by the Freehills parties." Mr Lovell then said: "Point of order. You've heard the objections that I have made on behalf of National Markets Group as to the determination by you,
+Mr Maconochie, as interim Chairman. You've heard the objection that I have made concerning, as interim Chairman, your nominating for the position of
+Chairman." 
+Mr Maconochie: "Correction, I haven't nominated, I have been nominated and
+I've seconded the nomination. I think that's the correct summation of the proceedings." 
+Mr Lovell: "Your position as accepting the nomination, I move that the meeting should adjourn and an application should be made under section 547 of the
+Corporations Law to the court to direct and appoint a person to act as
+Chairman of the meeting on the basis that the parties cannot agree who is to chair and on the basis that there is no right in yourself to determine the identity of the creditors or their entitlements to vote and in ignoring our rights ...".
+
+Mr Maconochie: "Well, Mr Lovell, your objections are noted and your assertions also are noted. At this stage, I call for a show of hands for the people who
+I've determined may vote for the positions ...".
+ At p 1360, Mr Maconochie said: "I call on Fiona Maconochie to show hands in the first instance." Ms Maconochie said: "For the record, I show that I am supporting Mr Maconochie's nomination on behalf of IBS." 
+Mr Maconochie: "Thank you. On behalf of myself and Idoport, I support the nomination of Mr Maconochie for Chairman. I've noted the objections of the
+Freehills parties. Mr Maconochie has been elected as Chairman of the meeting." With these facts I turn to answering the questions I posed earlier. It is probably convenient to deal with each of the sub-issues and then go back to the question.
+
+QUESTION 1 (a) Was Mr Maconochie validly appointed chairman of the meeting? 
+When is a Creditors' Meeting convened? It will have been noticed that at the meeting, Mr Maconochie kept referring to what he was doing as the process of "convening" the meeting. The significance of this term becomes clear when one examines the submissions of
+Mr Lindsay, SC who was Mr Hutley SC's predecessor in this matter and who made written submissions for the Maconochie interests before the oral hearing commenced.
+ Mr Lindsay, SC put that - 
+Section 497 of the Corporations Law, by sub-sections (1) and (2), requires the Company to "convene" a meeting of creditors. That obligation is mandatory.
+Sub-sections (1) and (2) each use the word "shall". Sub-section (4)(b) imposes a liability on a person involved in a contravention of those sub-sections by the company. Sub-sections (5) and (6) impose obligations on officers of the company to participate in the meeting convened by the company.
+
+Although: (i) section 497(8) provides that the creditors "may" appoint to preside at the meeting one of their number or the director specifically appointed by the Company under the section to attend the meeting; and (ii)
+Regulation 5.6.17(2) of the Corporations Law Regulations 1990 provides that "the persons present and entitled to vote at a meeting must elect one of their number to be Chairperson of the meeting", the legislation makes no express provision for how "the creditors" or "the persons present and entitled to vote" are to be identified or how are they are to proceed to "appoint" or "elect" a chairman.
+
+Although Regulation 5.6.17(2) is inconsistent with <case> (insofar as it purports to limit the identity of a chairman to a "person present and entitled to vote" without acknowledging the availability of a director appointed pursuant to section 497(5), and insofar as it uses the word "must" in contra- distinction to the word "may" in section 497(8)) and must be invalid to the extent of any such inconsistency, nothing substantial appears to turn on the inconsistencies in this case. That is because the Law and the Regulations are both silent as to the procedure antecedent to election of a chairman and Mr
+Maconochie bore the dual character of a director and a creditor of the company.
+
+The concept of the company "convening" a meeting for the purpose of section 497 necessarily required the company to superintend the business of the meeting until such time as there could be an orderly election of a chairman.
+
+In a case where there was a fundamental difference between competing groups of people who claimed to be "creditors" of the company, and the company disputed the entitlements of some of the people who made claims against it, its obligation in "convening" a meeting was to adopt a procedure which allowed there to be an orderly determination of "the persons present and entitled to vote" for the position of chairman and to permit that chairman thereafter to preside at the meeting in circumstances in which the procedures adopted were transparent and could, accordingly, be the subject of adjudication by the
+Court if need be.
+
+The company, through the medium of Mr Maconochie acting as "interim chairman" complied with its obligations under section 497 to "convene" the meeting.
+
+The facts that Mr Maconochie acted as interim chairman and, in that capacity, made determinations necessary for the meeting to proceed in an orderly way cannot give rise to any finding of invalidity of the meeting.
+ It is indeed a strange use of the word "convene" to give it the extended meaning that Mr Lindsay SC proposes. The basic meaning of the word means "come" (con) "together". I have not found any judicial consideration of the word in Australia, England and New Zealand and the only Irish case is R v Smith (1838) 1 Jebb & Sy 621.
+ The United States authorities treat the word as the formal act of authorising the meeting and not extending to the preliminary talk when the people attending the meeting have in fact come together, Thus, in Associated
+Theatres Inc versus Wade <case>; [487 F (2d) 1221], 1222 (Tex CA) (1973) it was held that a court was convened as soon as the chief justice designates the three judges to form the court. See also Re Lamb [169 A (2d) 822], 830 (1961).
+ While the textbooks on the law of meetings, such as Horsley's Meetings (Butterworths, Sydney, 1998) 4th edition, do not analyse what is involved in the convening of a meeting, they assume that the meeting is convened by notice sent out by the proper authority. This accords with the time honoured practice when there is a formal motion at the meeting for the reading of the notice convening or that it be taken as read.
+ In my view, for the purposes of <case> of the Corporations Law, the directors' authority to "convene" ceases at the time when the notices of meeting are sent out. It was thus no part of the act of convening the meeting that Mr Maconochie was performing when he purported to act as interim chairman.
+
+The status of " interim chairman" The only useful authority on this question appears to be the judgment of
+Hoffmann J, as he then was, in Re Bradford Investments Ltd [[1991] BCLC ], also reported [[1990] BCC 740.] I will use the BCLC report but put the page reference to the
+BCC report in brackets. The background is sketched at page 228 (743) where
+Hoffman J said: "The first business of the meeting was to elect a chairman. On this, art 62 provides that the chairman, if any, of the board should preside as chairman at every general meeting. In this case there was no board and no chairman. The article then goes on to say that, in that event, the members present shall choose one of the directors present to be chairman. Once again, there were no directors present. Finally the article says that, in that case, if no director be present and willing to take the chair the members present shall choose one of their number to be chairman. That raised difficulty because there was a dispute over which of the persons present were entitled to participate in the choice of chairman." In the Bradford case, Mr Porter, the directors' solicitor, declared he would act as temporary chairman for the purpose of supervising the election of a proper chairman. The opposing solicitor objected on the basis there was no such entity as a temporary chairman. Mr Porter nonetheless insisted and invited nominations. He ruled that the ordinary shareholders were not entitled to vote, but that preference shareholders were entitled to vote, and on that basis he declared Mr Dodds, who had been nominated by the preference shareholders, as chairman of the meeting.
+ The case is accordingly, fairly close to the instant because there was a disputed election of chairman, the result of which depended upon assessment of entitlement to vote. At p 229 (744), Hoffmann J accepted that it is difficult to give the articles, and the rules of meetings generally, effect in the present sort of situation. He said: "It is difficult to give the articles full effect without producing some form of anomaly or potential infinite regression. It would be wrong to give them a construction which made the outcome of the meeting depend upon who was sufficiently forceful to assume control as temporary chairman. ... On the other hand, I find it equally difficult to construe the articles as meaning that, in order to avoid that consequence, one has to allow a state of anarchy to prevail in which the votes of any soi disant member has to be accepted." The Judge's solution was that one should accept that it is necessary for someone to take interim control of the meeting. It was also necessary for that person to make a determination as to who was entitled to vote for the position of chairman. If that determination was correct, then the meeting was valid, if incorrect then the meeting would be invalid. In the instant case, Mr Porter had properly determined the entitlement to vote and accordingly the meeting validly elected directors.
+ His Lordship's decision, with respect, appears eminently sensible, the only drawback being that it could make it very awkward for people who have lost in the first round to make a commercial decision as to whether they should withdraw from the meeting or participate. However, mostly the facts will be so black and white that this problem will not arise. It also accords with what is notorious practice, that is, that when a community is having a meeting, a prominent member of the community usually calls for order and says something like "Ladies and Gentlemen we have to elect a chairman of the meeting" and waits for a response. Usually this will prompt someone to make a nomination of chairman and the usurper declares the election of chairman and thereafter the meeting validly proceeds. Of course, in 99 cases out of 100 there is no real dispute as to who should chair the meeting. However, in the other 1% of cases, such as the present, it is vital.
+ Accordingly, there was no objection to Mr Maconochie performing the function of interim chairman as such. I must now pass to the other sub- questions.
+
+Was Mr Maconochie's nomination duly seconded? The custom at many meetings is that motions are not put unless they are both moved and seconded. That custom may become part of the rules of the meeting. However, where the custom has not become a rule, there is no requirement that a motion be seconded: Re Horbury Bridge Coal, Iron &
+Wagon Co [(1879) 11 Ch D 109.] Again, unless the custom of the meeting otherwise provides, or unless the matter is completely non-contentious, it is no part of the chairman's function to move motions. This includes seconding motions.
+ However, as I understand the position, this rule is only one which goes to ethics and is relevant when one is assessing whether a chairman has acted impartially. As I said in Re Vector Capital Ltd [(1997) 23 ACSR ], , "It is not appropriate an impartial chairman should move motions." There will, of course, be many situations where an impartial chairman will aid the meeting by formulating the motion and may even move that motion from the chair and there are another category of non-contentious motions which can be moved from the chair in order to speed up the meeting process. However, it is even then preferable for the chairman to suggest the motion and have someone else move it by saying, "May I have a motion that ...". However, the mere fact that the chairman moves the motion, if he or she is otherwise qualified to move a motion, does not affect its validity. The same thus applies where the chairman seconds someone else's motion.
+ In R versus Nance (1740) 7 Mod 337; [87 ER 1277], the election of mayor of Grampound was contested. Pierce, who was the senior burgess present, presided. Pierce and Nance nominated themselves: Pierce then withdrew. Moore was also nominated and the burgesses chose Nance. Pierce declared him elected and he was sworn in as mayor. Nance's election was challenged, inter alia, on the ground that he had nominated himself. The Full Court of King's Bench held that that was no proper objection, and thus upheld the right of people to nominate themselves for election. Thus, Horsley (op cit) at [6.4] at p 50 says: "In the absence of rules to the contrary, eligible persons may nominate themselves or second such a proposal, and may vote for themselves." 
+There is accordingly nothing in this point.
+
+Was Mr Maconochie entitled to chair the meeting? It is now abundantly clear that a chairman of a meeting must act impartially. "It is the duty of the chairman, and his function, to preserve order, and to take care that the proceedings are conducted in a proper manner, and that the sense of the meeting is properly ascertained with regard to any question which is properly before the meeting": National Dwelling Society v
+Sykes [[1894] 3 Ch 159], 162. The chairman has his or her powers for the purpose of facilitating the meeting and must exercise such powers only for that purpose: Link Agricultural Pty Ltd versus Shanahan <case>; [(1998) 28 ACSR 498], 512-513.
+ Those overriding principles are abundantly clear. However, there are also a series of particular principles which apply to contested elections. These originally derive from municipal election cases but are of general application.
+ In R versus Owens [(1859) 28 LJ QB 316], the mayor of Bewdley had ceased to be a member of the borough council but was presiding at the election of an additional councillor. The mayor declared himself duly elected. The Court of Queen's Bench set this aside. Lord Campbell
+CJ said at 317: "Upon the maxim that no man shall be judge in his own cause, I am of opinion that a returning officer cannot be allowed, in the election at which he presides, to return himself." There is no doubt that these principles, although originating in ancient cases of mayoral elections, apply to-day. In Re Amalgamated Engineering
+Union [(1963) 4 FLR 325], 327, Joske J said with respect to a Union election: "...no one may be judge in his own cause or preside over his own election.
+This is a fundamental provision of election law and it is essential that it be observed. A candidate is a person vitally interested in the election and if he is at the same time taking part in its conduct it is impossible to avoid the suspicion that he will conduct it in his own interest." Another modern application of the principles is provided by Dickason v
+Edwards <case>; [(1910) 10 CLR 243], 253.
+ Mr Hutley SC does not deny the applicability of the principles just discussed. However, he says that, in the present case, as the Maconochie interests were the only ones entitled to vote, the principles are irrelevant, because it is clear that they only apply to contested elections. He says that, indeed on the true construction of section 497(8) only Mr Maconochie could be chairman.
+ Mr Hutley SC submits that R versus Owens (supra) applies where there is a there is a reasonable and sensible possibility of the chairman advancing his interests by the judgment he makes. If, then, there is no reasonable and sensible possibility of this occurring, there is no infringement. In fact, that was the position here.
+ This must be so in a number of cases. It is not at all unusual at a meeting where by custom a particular person is always elected chairman of a meeting, for that person to declare himself or herself elected unopposed. Thus, in a church where it is customary that the minister or pastor chair the annual meeting, there is no objection at all for the minister to say "We need a nomination for chairman" and for someone to say "I move you be chairman" and then, with no dissent, the minister declare himself elected.
+ However, Mr Hutley SC's main point is that only the Maconochie people were entitled to vote for chairmen, and as they were all of the same mind, the matter was uncontentious. This point can only succeed if Mr Hutley SC succeeds on the arguments raised under question 1(b). If he does not, then I will need to consider in question 3 whether <case> of the Corporations Law should apply.
+ Mr Hutley SC, thus submits, that, in the circumstances of the present case,
+Mr Maconochie's appointment as chairman and nomination is not bad even though he was also the returning officer, since there were only two votes. There was no reasonable possibility that Mr Maconochie would have to form a view involving his judgment.
+ Mr Gleeson SC, says that there are four reasons why Mr Maconochie was not entitled to declare himself elected as chairman, viz: he was not entitled to move the resolution for his appointment as chairman in his role as interim chairman; he failed to act impartially as chairman in determining voting rights; he wrongfully rejected the claims of the plaintiffs; and he wrongfully accepted the claims of himself, IBS and Idoport as creditors.
+ The last two of these matters will be dealt with in section 1(b). The first point is based on what I said in Re Adams International Food Traders Pty Ltd [(1988) 13 NSWLR 282], but really has already been disposed of by what I said in answer to 1(a)(iii). The nomination of a person as chairman is not considered to be a motion, but is part of the rights of a voter and so what I said as to chairmen moving resolutions in Adams' case is inapplicable.
+ So far as the second point is concerned, it assumes that Mr Maconochie was as interim chairman, or as de facto interim chairman, subject to the same duties as a chairman. This is almost certainly correct and Owens' case supports it. As Mr Maconochie was a nominee for chairman, he could not also act as interim chairman and make a determination as to the result of the meeting's vote as to who was to preside at the meeting.
+ It follows that Mr Maconochie's election as chairman was invalid.
+ Accordingly, I answer question 1(a) "No", but that answer is, of course, subject to the answers to 1(b) and 3.
+ (b) Who was entitled to attend and vote at the meeting? Mr Hutley SC truly submits that prior to investigating Mr Maconochie's conduct, one has first to establish who was present and entitled to vote because if no-one was, that may affect the analysis of the conduct of the meeting. Accordingly, I will now perform this exercise.
+ Each of Mr Maconochie, IBS and Idoport claim to be creditors of Market
+Holdings. It is necessary to consider the claims that were made at the meeting for this status.
+ Mr Maconochie put forward to the meeting what he called an "informal proof of debt" which claimed $107,238.87 as an unsecured loan. IBS tendered a similar document alleging an unsecured loan of $26,519.60. Idoport, in its informal proof of debt, claimed $256,977.58 being an amount which it had loaned to the company on an unsecured basis on 20 November 2000, so that the joint liability of the company and Idoport for costs in litigation to the NAB parties could be paid into Court to discharge such obligation.
+ The challenge to the debts of Mr Maconochie and IBS is on the basis that they had been assigned before the meeting.
+ To examine this proposition it is necessary to look at a series of confidential documents dealing with the funding of the Commercial List litigation. I will do so as briefly as possible and endeavouring not to mention any commercially sensitive details.
+ Essentially, subject to certain conditions precedent, the Funder was to advance certain moneys to Negubo for onlending to Idoport. One of those conditions was that Mr Maconochie and IBS would each assign debts owing to them, by the company, to the Funder. They executed such deeds on 1 September
+The deeds were executed by counterparts being executed by the Funder and the assignor. Although each of the relevant agreements provided that the deed could be made up of counterparts each duly executed, the mechanical means adopted by the lawyers for the Maconochie interests was to merely sign the signature page of the document and append it to the identical document which had been signed by other parties. On 7 September 2000, Mr Maconochie sent to
+Mr Davis, solicitor of Adelaide, the signed agreements including the deeds of assignment. On 8 September 2000, Mr Davis, apparently acting as agent of the
+Funder, delivered to Mr Maconochie, care of Mr Garnsey QC in Sydney, what was said to be a full set of original executed documents. Mr Davis requested that
+Mr Maconochie deliver all the documents together with original execution pages to the Sydney office of Piper Alderman so that they could be stamped.
+ On 22 September 2000, Ms Taylor of the Adelaide office of Piper Alderman, the firm of which Mr Davis was a partner, sent to Ms Selth of the Sydney office of that firm, the two original deeds of assignment for stamping. They were not stamped because Ms Selth advised that in her opinion they did not require stamping and that she had confirmed this with the revenue authorities.
+ In these circumstances Mr Gleeson SC argues that the deeds of assignment had become effective as at 8 September 2000. He says that this view is reinforced by the fact that the Funder paid over a large sum of money which it was only obliged to do after the deeds had become effective.
+ On the other hand, Mr Hutley SC submits that the deeds had never become effective. He says that the deeds required counterparts and that meant that someone had to sign the whole agreement, not merely that signature pages of identical documents had been completed. Until that had occurred, the deeds had not come into existence. Furthermore, sending the documents to a solicitor for stamping was not an exchange.
+ Mr Hutley SC points to clause 8 of the deed of assignment which reads as follows: "8. Counterparts .1 This agreement may be executed in any number of counterparts. A counterpart may be a facsimile.
+ .2 Together all counterparts make up one document.
+ .3 If this agreement is executed in counterparts, it takes effect when each party has received the counterpart executed by each other party." Mr Hutley SC submits that particularly 8.3 contemplates an exchange and that the deed does not come into effect until there is an exchange. He points to the solemnity with which exchange is viewed from cases such as Eccles v
+Bryant [[1948] Ch 93.] Thus, Mr Hutley SC attacks the deeds on two fronts: (a) that what might be called the doctrine of synecdoche does not apply to documents; and (b) that there has been no exchange. I will deal with these when dealing with sub- question 1(b)(iii).
+ The facts so far as the Idoport claim is concerned, are that in the previous litigation before me and in the Commercial List proceedings various orders for costs were made in favour of the present plaintiffs or some of them. The total of these costs was some $256,977.58. It was clearly signalled to the Maconochie interests that the plaintiffs would be alleging that these costs would enable them to prove as creditors in the Market Holdings liquidation.
+ To avoid this consequence, Idoport advanced money to the solicitors for
+Market Holdings to pay to Freehills the amount claimed for costs. Freehills, on at least two occasions declined the cheque. Whether because it was not legal tender or otherwise, does not matter. Whereupon the solicitors for the
+Maconochie interests paid the money into Court together with a document saying that the payment in was pursuant to the [Trustee
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/). It has not been taken out of Court by Freehills.
+ The Maconochie interests claim that by virtue of this payment: (a) the plaintiffs ceased to have any claim to be creditors pursuant to any of the orders for costs; and (b) Idoport had a claim for a debt against Market
+Holdings for which it could prove. The payment from Idoport's funds appears to have been made on 20 November 2000.
+ It must be remembered that the company went into liquidation as at 18
+September 2000. What is here being considered is a meeting held on 29 November
+No argument was presented to me as to the date at which one must be a creditor in order to participate. Ordinarily, a person is entitled to vote at a meeting as a creditor if he or she or it is a creditor as at the date of the meeting. However, where a meeting is convened under <case> there is an argument that one looks to the date of the convening of the original meeting as to who was a creditor. As I say, there was no argument on the point. My view is that what must be established is that a person is a creditor as at the date of the meeting.
+
+Were the plaintiffs entitled to vote by proxy at the creditors' meeting? The NAB parties make two claims to be creditors of the company: (a) because of their cross-claims in the Commercial List proceedings; and (b) because of orders for costs obtained in various pieces of litigation in this
+Court.
+ As to (a), Mr Maconochie determined that no just estimate could be made of the claims of NAB and NMG based on their cross claim filed in the Commercial
+List proceedings, and that a nil value should be ascribed and hence that they were not entitled to vote at the meeting. The effect of Mr Maconochie's determination was to ascribe a nil value to the cross claim. The reasons given by Mr Maconochie for these determinations were that there had been a "counterclaim" against the cross claim, "greatly in excess of that cross-claim and that those claims by the Freehills parties are being hotly and vigorously disputed. At this stage it's not clear as to the outcome of that".
+ Mr Gleeson SC submits that these determinations by Mr Maconochie were incorrect and invalid. The position taken by Mr Maconochie stood in defiance of my determination in proceedings 4091 of 2000. He further submits that the mere existence of the claim by Market Holdings and/or Idoport in the
+Commercial List proceedings which, if successful, would or might outweigh the cross claim of NAB and NMG was not a sound reason for Mr Maconochie to fail to make a just estimate of these claims of NAB and NMG. Mr Maconochie took no cognisance of the cross claim of NAB and NMG for $31 million by valuing the cross claim at nil. Indeed it was precisely this reasoning which was rejected by the Court in its decision in proceedings 4091 of 2000 (at para 41).
+Similarly, the determinations of Mr Maconochie at the meeting as to the claim and "counterclaim" of Market Holdings and Idoport were to the same effect as the contentions of Market Holdings in proceedings 4091 of 2000 that NAB and
+NMG were not its creditors by reason of the possibility of a set off at law or under section 553C of the Corporations Law. Indeed, these contentions were rejected by the Court in its decision in No 4091 of 2000 (at paras 33-41).
+Accordingly, the determinations made by Mr Maconochie which had the effect of denying NAB and NMG the right to vote at the meeting on the basis of their cross claims should be rejected by the Court and declared invalid.
+ In my view these submissions are substantially correct. Indeed, even Mr
+Sheahan in evidence admitted that the better view was that the NAB parties were creditors in respect of the cross claims, but that their debts should be valued at $1. That "better view" is certainly the correct view.
+ However, as to (b), the submission of Mr Hutley SC is almost certainly correct.
+ Mr Maconochie determined that by reason of "the tender and payment of moneys ($256,977.58) into Court" by Idoport, the NAB parties were not creditors of Market Holdings in relation to the costs orders.
+ Mr Gleeson SC submits that this determination by Mr Maconochie was incorrect and invalid. He puts this for a number of reasons.
+ First, he submits, the claims by the NAB parties based on the costs orders were for unliquidated debts: Ex p Ruffle; In re Dummelow [(1873) LR 8 Ch
+App 997.] A claim for an unliquidated debt cannot be discharged by mere payment, but by accord and satisfaction only: Davys versus Richardson [(1888) QBD 202] at 204-205 (a case involving a payment into court); John
+Laing Construction Ltd versus Dastur [[1987] 3 All ER 247] at 250 (also a case involving payment into court); see also F A Mann, The Legal
+Aspect of Money 5th ed (Clarendon, 1992) at page 75.
+ Thus, he puts, the claims of the NAB parties based on the costs orders cannot be met by a plea of tender or payment into Court: Greenwood v
+Sutcliffe [[1892] 1 Ch 1] at 10; Chitty on Contracts 28th ed (Sweet &
+Maxwell, London, 1999) para 22-084.
+ Mr Gleeson SC submits that there has been no accord or agreement by the
+NAB parties to discharge the obligation of Market Holdings to pay the costs orders on the terms set out in the letter dated 6 November 2000. Nor has there been any satisfaction by Market Holdings (or Idoport) which could amount to the consideration which makes an accord operative: British Russian Gazette and Trade Outlook Ltd versus Associated Newspapers Ltd [[1933] 2 KB 616] at 643. The
+NAB parties did not accept the Withnell Hetherington trust account cheque provided to Freehills. It was returned. Nor did the payment of moneys into
+Court by Idoport under the [Trustee Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/) amount to a satisfaction or discharge of the debts.
+ He also put an alternative, that there has been no valid tender of the amounts claimed by the NAB parties in the 6 November 2000 letter because: the payment was not made by the due date: (Chitty on Contracts, para -089); the provision of a cheque to a solicitor, even where the solicitor is authorised expressly or by implication to receive a legal tender is not a valid tender. He relied on Blumberg versus Life Interests and Reversionary
+Securities Corp [[1897] 1 Ch 171] at 172-173; [[1898] 1 Ch 27.] However, this authority is probably no longer fully applicable in Australia after George versus Cluning (1979) 28 ALR 57; see also
+Re Parker [(1985) 79 FLR 338]; the payment of moneys into Court under [Part
+IV](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/index.html#p4) of the [Trustee Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/) did not amount to a valid tender. Further, the payment into Court did not fall within the provisions of [Part
+IV](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/index.html#p4) of the [Trustee
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/) as there was no relevant trustee, and the cheque or its proceeds were not money belonging to a relevant trust.
+ In any event, a payment into Court under [Part
+IV](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/index.html#p4) of the [Trustee
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/) is not and cannot operate as a discharge of the debt (cf [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/s95.html) of the [Trustee
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/)).
+ Furthermore, in relation to the costs orders relied on by the NAB parties for which Market Holdings was solely liable to make payment (the costs orders made by myself and the Court of Appeal in No 4091 of 2000) the payment into
+Court by Idoport could not have been made at the request of, or with the approval of, Market Holdings as Mr Sheahan was prevented from acting on behalf of the company by the declaration in order 3 made on 27 October 2000 and the directors were prevented from acting on behalf of the company by <case>.
+ Even if (which is denied) a valid tender had been made, a refusal of that tender (whether for a good or bad reason, or for no reason at all) does not eliminate the debt in question. The relationship of creditor and debtor as between the NAB parties and Market Holdings still subsists: Australian Mid-
+Eastern Club Ltd versus Yassim [(1989) 1 ACSR 399] at 403;
+Occidental Life Insurance Company of Australia Ltd versus Life Style Planners Pty
+Ltd <case>; [(1992) 9 ACSR 171] at 172.
+ Mr Lindsay SC put a similarly technical argument. He submitted: 
+The plaintiffs' contentions misconceive the true nature of an order for costs, which at its highest is an order permitting a party to the order to apply for assessment of costs, by way of an indemnity for a liability for costs, and does not give rise to a debt until after the issue a certificate pursuant to [Pt ](http://www.austlii.edu.au/au/legis/nsw/repealedact/lpa1987179/index.html#p11) of the [Legal Profession Act ](http://www.austlii.edu.au/au/legis/nsw/repealedact/lpa1987179/). See
+Cachia versus Hanes <case>; [(1994) 179 CLR 403] at 410; [Supreme Court Rules ](http://www.austlii.edu.au/au/legis/nsw/consolreg/scr1970232/) [Pt ](http://www.austlii.edu.au/au/legis/nsw/consolreg/scr1970232/index.html#p1) r8 (definition of "assess"), [Pt
+A](http://www.austlii.edu.au/au/legis/nsw/consolreg/scr1970232/index.html#p52a) rr 6 and 8; and [Legal Profession Act ](http://www.austlii.edu.au/au/legis/nsw/repealedact/lpa1987179/) [section ](http://www.austlii.edu.au/au/legis/nsw/repealedact/lpa1987179/s3.html) (definition of "costs") and [Pt ](http://www.austlii.edu.au/au/legis/nsw/repealedact/lpa1987179/index.html#p11), especially [section ](http://www.austlii.edu.au/au/legis/nsw/repealedact/lpa1987179/s173.html) (definition of "costs"), [section ](http://www.austlii.edu.au/au/legis/nsw/repealedact/lpa1987179/s182.html) (effect of non-disclosure), [section ](http://www.austlii.edu.au/au/legis/nsw/repealedact/lpa1987179/s184.html) (costs agreements) [section ](http://www.austlii.edu.au/au/legis/nsw/repealedact/lpa1987179/s189.html) (statutory rights), [section ](http://www.austlii.edu.au/au/legis/nsw/repealedact/lpa1987179/s192.html) (bills of costs), [section ](http://www.austlii.edu.au/au/legis/nsw/repealedact/lpa1987179/s202.html) (application for assessment of party/party costs), [section ](http://www.austlii.edu.au/au/legis/nsw/repealedact/lpa1987179/s203.html) (how application made), [sections ](http://www.austlii.edu.au/au/legis/nsw/repealedact/lpa1987179/s208.html), [208F](http://www.austlii.edu.au/au/legis/nsw/repealedact/lpa1987179/s208f.html) and [208H](http://www.austlii.edu.au/au/legis/nsw/repealedact/lpa1987179/s208h.html) (assessment of party/party costs) and [sections
+J](http://www.austlii.edu.au/au/legis/nsw/repealedact/lpa1987179/s208j.html), [208JAA](http://www.austlii.edu.au/au/legis/nsw/repealedact/lpa1987179/s208jaa.html) and [208K](http://www.austlii.edu.au/au/legis/nsw/repealedact/lpa1987179/s208k.html) (enforcement of assessment).
+
+Furthermore, insofar as the plaintiffs rely upon interlocutory costs orders (albeit in proceedings in the Commercial List) there is at least a doubt about whether the beneficiaries of the costs orders could proceed to an assessment without the leave of the Court: [Supreme Court Rules ](http://www.austlii.edu.au/au/legis/nsw/consolreg/scr1970232/) section
+A r9(1).
+
+None of the costs orders upon which the plaintiffs seek to rely has given rise to a certificate under [Pt ](http://www.austlii.edu.au/au/legis/nsw/repealedact/lpa1987179/index.html#p11) of the [Legal Profession Act ](http://www.austlii.edu.au/au/legis/nsw/repealedact/lpa1987179/) or even an application for assessment. Accordingly, they have given rise to no debt enforceable against the company.
+
+There is no realistic prospect that the costs orders on which the plaintiffs rely will ever give rise to a certificate in favour of the plaintiffs or any of the plaintiffs. This is because: 
+Idoport (which was jointly and severally bound with the company in respect of the Commercial List costs orders upon which the plaintiffs rely) not only tendered to the plaintiffs the full amount of the costs claimed by the plaintiffs in Freehills' letter of 6 November 2000, but also paid the money into Court to abide the order of the Court, before the date of the meeting.
+
+If, and to the extent that, it may be necessary or appropriate to apply principles relating to the tender of money, the payment of money into Court to abide the order of the Court demonstrated that the tender of money by Idoport on behalf of itself and the Company was a valid tender: Australian Mid-
+Eastern Club Ltd versus Yassim (supra) at 403; Alcatel Australia Ltd versus PRB
+Holdings Pty Ltd [(1988) 27 ACSR 708] at -714. Those principles do not have direct application because they relate to a tender of money in respect of an existing debt. Here, however, money was tendered, and unconditionally made available to the plaintiffs, before any debt, or a relationship of creditor and debtor, had come into existence.
+
+A reservation by Idoport of its statutory entitlements to apply for an assessment of costs and to recover from the plaintiffs the amount of any overpayment to them, does not (particularly in circumstances in which the moneys were paid into Court) invalidate the tender: Australian Mid-
+Eastern Club Ltd versus Yassim (supra) 403.
+
+There is no basis upon which the plaintiffs can properly themselves expect to obtain a certificate under the [Legal Profession Act ](http://www.austlii.edu.au/au/legis/nsw/repealedact/lpa1987179/), [Pt .](http://www.austlii.edu.au/au/legis/nsw/repealedact/lpa1987179/index.html#p11)
+This is because, as an integral part of any application made for assessment they would have to comply with section [203(3)](http://www.austlii.edu.au/au/legis/nsw/repealedact/lpa1987179/s203.html) (which requires an application for assessment to contain a statement that there is no reasonable prospect of settlement by mediation) and they would be unable, accordingly, to justify their continued refusal to accept the full amount of the moneys claimed by them as costs.
+
+Another obstacle in the path of any attempt by the plaintiffs to obtain a costs certificate is the fact that most (if not all) of them have never been under any liability to pay or bear costs, and did not in fact pay any costs, so as to give rise to an entitlement to obtain an indemnity (under costs orders) from Idoport and the company.
+
+Yet another obstacle in the way of any attempt by the plaintiffs to obtain a costs certificate is the possibility that such entitlements as the plaintiffs might have to costs orders against the company will be ordered to be set off against their liabilities for costs to Idoport and the company in continuing the proceedings between them: Wentworth versus Wentworth (Young J, unreported, 12 December 1994). At the time of the meeting Idoport and the company had a claim to costs, based on costs orders, against all the plaintiffs. That claim was in the process of being assessed under the [Legal
+Profession Act ](http://www.austlii.edu.au/au/legis/nsw/repealedact/lpa1987179/), [Part .](http://www.austlii.edu.au/au/legis/nsw/repealedact/lpa1987179/index.html#p11)
+A certificate was issued on 6 December 2000 in the sum of $28,480.78. That amount has since been paid.
+
+The correct conclusion is that the plaintiffs were not creditors of the company by reason of any costs orders.
+
+Even if the plaintiffs would otherwise have to be regarded as "contingent creditors" (McPherson, The Law of Company Liquidation 4th ed (1999) pp -547) regard must be had to the fact that a major contingency (that is, the issue of a costs certificate) could not reasonably be expected to occur. And so, by that line of reasoning, they must be regarded as not having been creditors of the company.
+
+Even if (contrary to the first cross claimants' submissions) the plaintiffs, or any of them, were properly to be regarded as "creditors" the fact is that (in circumstances in which most of them were under no liability to pay, and did not pay, costs and, furthermore, all of them could recover their costs from moneys paid into Court) they could have suffered no prejudice from their not being afforded voting rights at the meeting and, accordingly, section 1322 of the Corporations Law should be applied in favour of the cross claimants.
+ It is unnecessary to delve deeply into the technical matters raised by these arguments. However, some matters may be dealt with without doing so.
+First even on Mr Lindsay SC's argument, the NAB parties were contingent creditors. Secondly, the NAB parties were entitled to have their status assessed by an impartial chairman.
+ Thus, in my view, the NAB parties were entitled to be treated as contingent creditors.
+ I will deal with the submission about <case> in my answer to question 2.
+ Mr Hutley SC seeks to outflank this position. He submits that the cost orders, even if they were debts were joint debts. The NAB creditors put up separate proxies in respect of a joint debt. This they cannot do. If there is a joint debt, there must be a proxy jointly appointed. If this were not so, one would have the situation where the same debt would rank twice for voting, with resulting prejudice to all other creditors.
+ His detailed submission was that an order for costs in these circumstances gives rise to joint debts; see AWU versus Bowen <case>; [(1946) 72 CLR 575] and Re Thompson [(1995) 61 FCR 544] at 553B.
+Each of the persons representing the NAB interests who presented proxies,
+Messrs Healy, Steele, Madden and Lovell claimed to represent some of the joint creditors. Each made a claim in the full amount. They had no right to vote individually, as proxies.
+ On the face of the proxies, they were propounding debts in total of approximately $620,000. The plaintiffs, to the extent they are joint creditors, are not each entitled to attend and vote. They can collectively appoint a proxy but cannot severally appoint proxies to vote (Regulations .6.28 and 5.6.29. Form 532 Appointment of Proxy.): individually each plaintiff is not "a person entitled to attend and vote" at the meeting.
+ It thus follows therefore, absent the appointment of one person as proxy for each joint debt, there is no person present as proxy for those joint debtors. Thus, there was no-one present on behalf of the joint debtors who was entitled to vote and the joint debtors were therefore not present.
+Consequently, to the extent that they were joint debts: there was no-one present whose position was in any way effected by the course taken.
+ In my view, these submissions are clearly correct.
+ Mr Hutley SC notes that Mr Maconochie did not reject the NAB parties on this ground. He, however, submits, relying on Johns versus ASC <case>; [(1992) 178 CLR 408] at 426, that proper rejection for wrong reasons are valid. I am prepared to accept this submission in the current circumstances, even though it is probably too broadly expressed; see Australian Broadcasting
+Tribunal versus Saatchi & Saatchi Compton (Vic) Pty Ltd [(1985) 60 ALR ], .
+ Accordingly, whilst the NAB parties were entitled to be treated as contingent creditors, they were not entitled to be represented by several proxies as they purported to do.
+
+Were the plaintiffs entitled to participate in the creditors' meeting? It follows that the NAB interests should have been permitted to participate at the meeting, even though their voting power may have been limited to $1. They were not entitled to be represented by several proxies.
+However, had this been pointed out to them, as all the proxies were partners of Freehills, some accommodation might have been able to be arranged on this issue.
+
+Were the Maconochie interests entitled to participate in the creditors' meeting? It is expedient to deal with the claims of the Maconochie interests to be creditors in two parts: (a) Mr Maconochie and IBS; and (b) Idoport.
+ As to (a), the vital issue is whether the debts of these parties had been assigned before the meeting. If there had been such an assignment then, unless something else was established, neither Mr Maconochie nor IBS were entitled to attend or vote at the meeting.
+ I would note that Mr Gleeson SC submitted that neither Mr nor Ms
+Maconochie were able at the meeting to give any adequate explanation as to the facts and circumstances which led to services allegedly provided by them to the company giving rise to a debt in the first place. However, I will merely note this and put it to one side.
+ I have already noted when dealing with the facts appertaining to question (b) that Mr Hutley SC bases his opposition on two matters: (a) non- application of the synecdoche principle; and (b) non-exchange.
+ Synecdoche as a term of speech denotes part of something representing the whole, such as the expression "all hands on deck" meaning that all personnel must come up on deck. Normally, in law the delivery of part of something will denote the delivery of the whole. Thus, where a fee simple was to be transferred in olden times, the transferor would pick up a clod of the earth and hand it to the purchaser saying "I give this to you and your heirs". Where someone has a grocer's shop with 5000 tins of baked beans the baked beans are transferred by delivery, by the vendor picking up a can and handing it to the purchaser in the name of the whole; see eg Commissioner of Stamps versus Frost <case>; [(1926) 28 WALR 81], noted in [(1927) 1 ALJ 46.] Mr Hutley SC does not attack the legal synecdoche doctrine so far as it applies to the above examples, but says that because of clause 8 of the deed of assignment it was necessary for there to be an exchange of the whole document.
+ Mr Hutley SC took me through the relevant documentation which is as follows: 
+Clause 3 of the deed of assignment says: "with effect from the date of this deed". It is signed but not dated.
+
+Mr Maconochie's facsimile to L Reytenbagh dated 1 September 2000 in which he says he is "ready to exchange".
+
+Facsimile from Piper Alderman, Sydney to Piper Alderman, Adelaide on 7
+September 2000. This was not sent by Mr Maconochie.
+
+Letter Piper Alderman to Mr Maconochie of 8 September 2000 which sought delivery for the purposes of stamping (see also Mr Maconochie's reply). As to this, it is to be remembered that the current law on stamp duties contained in [sections (2)](http://www.austlii.edu.au/au/legis/nsw/consolact/da199793/s12.html) and [295](http://www.austlii.edu.au/au/legis/nsw/consolact/da199793/s295.html)(1) of the [Duties Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/da199793/) makes a transfer liable for duty upon first execution rather than upon exchange of counterparts. The agency of Piper Alderman Sydney was to receive the documents for stamping. This had nothing to do with exchange which is an act in law which requires an intent to do an act - the effect contemplated; see Eccles v Bryant (supra) at 99; Sindel versus Georgiou <case>; [(1984) 154 CLR 661], 667; <case>; [58
+ALJR 515], 516.
+See also Butterworths Conveyancing Service, Volume 1 para [10110]-[10111].
+
+The facsimile from Mr Maconochie to Mr Davis (on J A Evenelt letterhead) of 13 September 2000 which says that the originals have been "lodged at Piper
+Alderman Sydney".
+
+The evidence of Mr Maconochie at the creditors' meeting of 29 November where he says that the assignment had not taken place.
+
+The letter from Piper Alderman (Mr Davis) to Mr Maconochie of 15
+September concerning the umbrella agreement.
+
+The letter from Piper Alderman, Adelaide to Piper Alderman, Sydney dated 22 September 2000.
+ Mr Hutley SC submits that the above documentary sources establish that there was no relevant intention on the part of Mr Maconochie, on behalf of himself and IBS, to assign the debts.
+ The legal principles governing this sort of problem are contained in the cases which are discussed in the 7th Australian edition of Cheshire and
+Fifoot's Law of Contracts (Butterworths, Sydney, 1997) [3.42].
+ The approach to such a problem is that clauses of this nature are construed as indicating a permissible method of acceptance but not the sole method of acceptance. Even if one cannot so construe the relevant clause, if both parties have acted on the basis that a contract has come into existence, then the informal acceptance is treated as a counter offer which is then accepted by conduct.
+ In the instant case I would consider that the proper construction of clause 8 is that exchange of the whole documents is merely one of the approved methods of contracting and not necessarily the only method. The parties' conduct, particularly the advance of the moneys, shows that the signature page was sufficient to constitute counterparts of the document.
+ So far as exchange is concerned, much the same argument applies. In addition, in the instant case the parties were using the same lawyers and their conduct means that a court can only draw the inference that they all intended that the transaction would have efficacy when all the relevant documents were handed over to the joint solicitors, whether that be in the first instance for stamping or otherwise.
+ Accordingly, in my view the assignments took effect on 8 September and this meant that neither Mr Maconochie nor IBS was a creditor at the date of the creditors' meeting on 29 November 2000.
+ The Idoport situation is different.
+ The basis of the claim of Idoport as creditor was identified by Mr
+Maconochie at the meeting as arising from subrogation, following the payment of moneys into Court by Idoport. Mr Hutley SC developed this theme.
+ Mr Gleeson SC submitted that even if the actions of Idoport discharged the unliquidated debts: the payment into Court by Idoport did not create a right of subrogation in contract, restitution or equity and hence did not give rise to a relationship of creditor and debtor as between Idoport and Market Holdings; even if Idoport could have become a creditor it was not entitled to vote at the meeting as it did not have any provable debt as at the date of winding up of Market Holdings (18 September 2000) in accordance with <case> of the
+Corporations Law; it is most questionable whether a claim for subrogation amounts to a provable debt which can be asserted in a proof of debt. This is because subrogation is an equitable doctrine and a proof of debt would have to be in the normal course a claim at law: Re Trivan Pty Ltd [(1996) 14 ACLC ](/cgi-bin/LawCite?cit=%281996%29%2014%20ACLC%201654 "View LawCiteRecord" ) at 1658.
+ Accordingly, Mr Gleeson SC submits, the Court should find and declare that the payment into Court by Idoport on 28 November 2000 did not discharge any of the debts owed by Market Holdings to the NAB parties, or any of them, and thus
+Idoport was, at any time material to the meeting, not a creditor of Market
+Holdings.
+ The transaction between Idoport and Market Holdings has never been laid out for me to see. I doubt, however, whether it raises a question of subrogation at all, at least of the classic type referred to in Ashburner on
+Equity, 2nd edition (Butterworths, London, 1933) p 243 or Jordan, Chapters on Equity 6th ed (1947) p 63 (now reprinted as Jordan, Select Legal Papers (Legal Books, Sydney 1983)). Even if one takes the avant garde view of subrogation, there is no equity raised to cure an unjust enrichment. Further, this is not a case of transfer of debt as it is the debtor who is assigning, not the creditor.
+ However, even if one assumes all the arguments put by Mr Gleeson SC as valid, one still gets the fact that on 20 November, on Mr Maconochie's say so,
+Idoport advanced a sum of money which was paid into Court in purported satisfaction of claims for costs against both the company and Idoport. There is little material to show the terms of this advance. It may well be that there is a Quistclose trust in respect of it (see Barclays Bank Ltd v
+Quistclose Investments Ltd [1970] AC 567). However, at common law, there may well be a debt from Market Holdings to Idoport.
+ If this transaction was effective, NAB's debt would have disappeared and a new debt to Idoport substituted. If the transaction were ineffective, there would be no effect on the NAB parties' debt and either an additional debt or a
+Quistclose trust would arise in favour of Idoport. Further, the whole transaction may be affected by the fact that the company was in liquidation at the time of the alleged agreement to make a loan.
+ None of these matters was ventilated as there was no independent person to make an adjudication. It may be that Idoport was a creditor: it is just not possible to say on the material before the Court, nor was it a matter that should have been considered except by an impartial chairman or interim chairman.
+
+Was Fiona Maconochie entitled to participate in the creditors' meeting? The same issues arise here as with the alleged debt to Mr Maconochie.
+Apart from the point that it is quite unclear how the initial IBS debt was incurred, the same was subject to the identical assignment that took place in the case of Mr Maconochie.
+ It follows that this sub-question should be answered, "No".
+ (b) From the answers to the sub-questions, the persons entitled to be at the meeting were the assignees of the Maconochie and IBS debts, perhaps Idoport and the NAB parties. These last mentioned parties needed to have been represented by a single proxy and their voting power should have been limited to the value of their contingent debt.
+ (c) Mr Maconochie as chairman From what I have already said, Mr Maconochie was entitled to seek to act as interim chairman, but, once a decision had to be made as to eligibility of voting, he was not an impartial person to decide the question. Even if this were wrong, in accordance with the decision in Re Bradford Investments Ltd , his decisions were reviewable. If he did not act in accordance with law and natural justice, the whole meeting might fail.
+ Mr Hutley SC relies on what Hodgson CJ in Eq said in Vincent, White & Associates Pty Ltd versus Vouris [(1998) 28 ACSR 93], 101 that if the chairman cannot make a just estimate of the debt relied upon by a putative creditor, the chairman is justified in declining to let that person participate in the voting (see also Re Oriel Homes Pty Ltd [(1997) 15
+ACLC 564], 566).
+ With respect, the answer to that argument is that the point where a chairman can assess a just estimate of a creditor's claim was never reached because there was no fair impartial chairman to make such assessment.
+ The above analysis has shown that difficult questions arose for determination at the meeting which should have been made by an impartial person. Mr Maconochie usurped the position of chairman and made more than one incorrect ruling. In my view, there was no valid election of chairman and no valid assessment of the right to vote.
+ (d) Did the meeting cease to be a valid meeting before Mr Sheahan was purportedly elected as liquidator? It follows from what I have already said that it is necessary for the validity of a meeting that there be a chairman; see Colorado Construction
+Pty Ltd versus Platus [[1966] 2 NSWR 598], 600;
+Kelly versus Wolstenholme [(1991) 4 ACSR 709], 712. Thus, as there was no chairman at the meeting there was no valid meeting and no valid resolutions could be passed thereat.
+ No question arises in this case as arose in Cornwall versus Woods [(1846) Notes of Cases 555], 560 about any acquiescence.
+ It follows that this sub-question must be answered, "Yes." 
+ANSWER TO QUESTION 1 Having considered the sub-questions, I must revert to the main question, "Did the Creditors' Meeting of 29 November, 2000 of the first defendant validly appoint the second defendant as its liquidator? In view of my answers to the sub-questions, the main question must be answered, "No." 
+QUESTION 2 This involves a consideration of <case> of the Corporations Law.
+ The Maconochie interests submit that if there was some legal or technical objection which meant that it was not open to Mr Maconochie, as a director and/or creditor of the company, to be elected as chairman of the meeting or that Mr Sheahan was not validly elected as liquidator, the provisions of section 1322 should be applied to cure the "irregularity".
+ For the NAB parties, Mr Gleeson SC put that the determinations made by Mr
+Maconochie and the resolutions moved by him prior to his purported election as chairman of the meeting and afterwards were deliberate acts which were not procedural irregularities under <case>(b). In this he relies on my decision in Re PW Saddington & Sons Pty Ltd [(1990) 2 ACSR 158.] Accordingly, he submits, the determinations and resolutions the subject of complaint in these proceedings are invalid unless Market Holdings can obtain the benefit of a curing order under <case>. That would require Market
+Holdings to satisfy the Court of the matters in <case> which it cannot do.
+ Mr Gleeson SC then gives details of five particular ways in which he says the NAB parties are detrimentally affected by Mr Maconochie's actions, viz: being deprived of all voting rights at the meeting, including being deprived of voting superiority within regulation 5.6.19(1), or voting superiority or veto power within regulation 5.6.21(2); being deprived of the opportunity of appointing a chairman different to Mr
+Maconochie who may have acted impartially and made a correct just estimate of the claims of the NAB parties; being deprived of an opportunity to apply to the Court under <case> for a
+Court appointed chairman; being deprived of an opportunity to call and rely upon for a poll under regulations 5.6.19 and 5.6.20; being deprived of an opportunity to apply to the Court under <case> in the event the person presiding at the meeting exercised a casting vote in the circumstances referred to in <case>.
+ The decision in the Saddington case was followed in Western Australia in McGellin versus Mount King Mining NL [(1998) 144 FLR 288], 307, though it has not been universally approved; see eg Re Pembury Pty Ltd [(1991) 4 ACSR 759]; [1993] Qd R 125 (Qd SC). Whether or not it be completely correct, the fact that rival parties are employing technical arguments in a commercial war on the advice of experienced lawyers means that a court will be less likely to consider it just that one side should have relief under the section if it proceeded on wrong advice.
+ I do not consider that I need to evaluate the strengths and weaknesses of these complaints. It is enough to say that, clearly, Mr Maconochie's course of action was deliberate and well planned, the NAB parties were in some ways detrimentally affected and it would not be a proper exercise of discretion now to allow the Maconochie interests to retain the benefits of their deliberate strategy.
+ It must always be remembered that, in making a decision as to what is just or otherwise under <case>, the Court must consider the position of all relevant parties, not just the situation of the applicant. As Bowen CJ in Eq said in the converse case, in Re Compaction Systems Pty Ltd [(1976) 2
+ACLR 135],150: "... it is insufficient to show that there may be some prejudice to a member if, on a consideration of the whole matter, the overwhelming weight of justice, as it were, is in favour of making the order." 
+See also Re Australian Continental Resources Ltd [(1975) 10 ACTR ], , where Blackburn J said that what the Court needs to do is to consider the relative gains or losses of the parties involved.
+ A subsidiary section 1322 submission was raised with respect to the ruling that the NAB parties were not entitled to participate in the meeting On this,
+Mr Lindsay SC submitted that even if the plaintiffs, or any of them, were properly to be regarded as "creditors," the fact is that (in circumstances in which most of them were under no liability to pay, and did not pay, costs and all of them could recover their costs from moneys paid into Court) they could have suffered no prejudice from their not being afforded voting rights at the meeting and, accordingly, section 1322 of the Corporations Law should be applied in favour of the cross claimants.
+ In my view section 1322 of the Corporations Law does not operate to validate any of the invalid part of the meeting, nor should I give any relief under that section.
+
+QUESTION 3 In view of the answer to Questions 1 and 2, this does not arise.
+
+QUESTION 4 The parties have approached this question on the basis that it matters little whether the question the Court is posing is "Who should be appointed liquidator" or "Should Mr Sheahan be removed as liquidator?' Even if that proposition is not correct for every case, it may be correct in the instant case as the Maconochie interests assert that Mr Sheahan is the appropriate person to be appointed as liquidator and, at least on one version of the facts, they are the majority interest.
+ (a) Standard of Independence for Liquidators It is first expedient to examine the principles that must be applied to the appointment and removal of liquidators.
+ All counsel agree that the summary of the law given in the 4th edition of
+McPherson, The Law of Company Liquidation (op cit) pp 290-4 sets out the basic principles that should be applied.
+ What the Court looks for in a liquidator is a person who can deal with the disputes that will inevitably arise in the liquidation in a fair and just way.
+The duties of a liquidator in this aspect of his or her task may be considered briefly under three heads, the duty to be independent, the duty to act impartially and the duty to avoid conflict between duty and interest or duty and duty. The duties owed by a liquidator in a court winding up and a liquidator in a creditors' voluntary winding up are analogous; see McPherson (op cit) at p 294; Re Intercontinental Properties Pty Ltd [(1977) 2 ACLR ]
+at 491; Re Mecirt Holdings Pty Ltd [(1998) 16 ACLC 1148] at 1151.
+I will briefly consider these three aspects of duty.
+ The authorities truly say that it is necessary for a liquidator not only to be independent, but also to be seen to be independent: Re Chevron
+Furnishers Pty Ltd; QAI versus Harris [(1993) 12 ACSR 565] at 570.
+Usually this means that the liquidator must have no prior or other involvement either with the company in liquidation, its directors and major shareholders, or one of its creditors so that he or she could not fairly and impartially carry out his or her duties as liquidator requiring him or her, in broad terms, to act in the best interests of the general body of creditors; Re
+Chevron Furnishers Pty Ltd at 570; Re National Safety Council of Australia
+Victorian Division <case>; [[1990] VR 29](/cgi-bin/LawCite?cit=%5b1990%5d%20VR%2029 "View LawCiteRecord" ) at 34; Re Queensland Stations Pty Ltd [(1991) 9 ACLC 1341] at 1344;
+Re Giant Resources Ltd [1991] 1 Qd R 107; Re Club Superstores Australia
+Pty Ltd [(1993) 10 ACSR 730.] Although this principle has been slightly eroded by three practices: (a) the practice to permit a company which has consulted an insolvency accountant about its future and has been advised to go into liquidation to nominate that accountant as liquidator; (b) the practice to permit a voluntary liquidator to be appointed who has given financial advice to the directors; and (c) the practice to permit creditors to nominate a liquidator in an ordinary winding up in insolvency, the general rule still applies.
+ While the duty of independence incorporates the requirements that the liquidator be impartial, the duty of impartiality is established as a separate and distinct duty of a liquidator. The liquidator must maintain an even and impartial hand between all the individuals or corporations whose interests are involved in the winding up, namely, the creditors and members: Re Contract
+Corp (Gooch's case) [(1872) LR 7 Ch App 207] at 211; Re Intercontinental Properties Pty Ltd (supra) at 491; Re
+Allebart Pty Ltd (in liq) [[1971] 1 NSWLR 24] at 28, -31.
+ Further, the authorities insist that a liquidator must ensure that he does not place himself or herself in a position where there is, or might be a conflict between the liquidator's duty to creditors and members and the liquidator's personal interest. McPherson, (op cit) pp 292-293 points out that the application of the conflict of duty and interest rule means that liquidators have a duty not to profit from their office otherwise than to the extent expressly allowed by law and must not enter into contracts with the company; see eg Re Timberland Ltd <case>; [(1979) 4 ACLR 259]; Re Gertzenstein Ltd [[1937] Ch 115.] In the Timberland case (supra) at p 286, Marks J made the strong point that, in at least some respects, a liquidator is in the same position as a judge. It is clear to his reference to the decision of LW Street J in Duffy v Super Centre Development Corp Ltd [[1967] 1 NSWR 382], 383 that this thinking was directed to the decisions that a liquidator makes as the de facto or de jure delegate of the Court, but it is hard to draw the line as to where this aspect of a liquidator's task stops and another commences. It certainly includes duties such as determining whether to admit or reject a proof of debt. See also Tanning Research Laboratories Inc versus O'Brien <case>; [(1990) 169 CLR 332] at -339, 341; Re Chevron Furnishers Pty Ltd (supra) at 569.
+ As Mr Gleeson SC submits, the judicial duty in this context at least includes the obligation not to act in circumstances where the "judge" has a not insubstantial, direct, pecuniary, or proprietary interest in the outcome of the decision making process; see Ebner versus Official Trustee in Bankruptcy <case>; [(2000) 75 ALJR 277], 287 [58].
+ There was some debate as to whom the liquidator owes his or her duties.
+Clearly one of the beneficiaries is the Court and through the Court the public and the creditors generally. However, the proposition was put by Mr Gleeson SC that the liquidator owed duties to each creditor. It is difficult to see authorities which would support this submission. Indeed the reasoning in cases such as In re Peters; Ex Parte Lloyd [(1882) 47 LT 64], 65 and
+Leon versus York-O-Matic Ltd [[1966] 1 WLR 1450] tell against it. The duty is to the creditors as a whole, though, sometimes a single creditor may be able to complain to the Court that that duty is not being carried out.
+ Although what I have to decide is whether or not I should appoint Mr
+Sheahan as liquidator, the considerations on such issue are no higher than those when the Court is deciding whether to remove a liquidator. In such cases, the authorities show that the Court routinely removes a liquidator or suggests that the liquidator resign where it appears there is a lack of independence or impartiality or when a conflict of interest and duty arises or appears to have arisen, pursuant to its powers under <case>: see City &
+Suburban Pty Ltd versus Smith <case>; [(1998) 28 ACSR 328] at 338, 339; Citrix Systems Inc versus Telesystems Learning Ltd (in liq) [(1998) 28 ACSR 529] at -537.
+ In Re Biposo Pty Ltd [(1995) 17 ACSR 730] at 734, after consideration of the relevant authorities, I held that the question to be considered when an application was made to remove a liquidator was whether, in the interests of the public, the removal of the liquidator would be for the general advantage of persons interested in the winding up. See also Re Ross
+Wood & Sons Pty Ltd [(1997) 23 ACSR 291.] I also noted in Re Biposo Pty Ltd that (a) the court should look to the conduct, both before and after the liquidation commenced, in cases where the essential attack is that the conduct of the liquidator has demonstrated a lack of independence (p 732); and (b) the Court will be less likely to discharge a liquidator towards the end of the winding up, after he has become acquainted with the affairs of the company, than it would early in the winding up (p 734).
+ The essential question in such an application is whether it would be perceived by a reasonable observer that the liquidator has manifested a tendency to favour certain interests at the expense of others: Re Biposo Pty
+Ltd at 735.
+ Messrs Lindsay SC and Hutley SC rely on the decision of Santow J in
+Advance Housing Pty Ltd (in liq) versus Newcastle Classic Developments Pty
+Ltd [(1994) 14 ACSR 230] at 232-234, that there must be a real, not just theoretical possibility of conflict; see also Re Club Superstores Australia
+Pty Ltd [(1993) 10 ACSR 730], 735.
+There is no doubt about this proposition and, indeed, the Advance Housing case was followed in Re Bisposo.
+ The Maconochie interests say that when the Court applies the principles enunciated in the above cases and others, such as Re Central Spring Works
+Australia Pty Ltd <case>; <case>; [(2000) 34 ACSR 169], there is no basis for an order for the removal of Mr
+Sheahan as liquidator. They put that, to paraphrase the Corporations Law section 503, there has been no "cause shown" for his removal.
+ It is at this stage that I must refer to the submissions of Mr S Finch SC who appeared for Mr Sheahan. He submits that the Court needs to examine the transactions with which Mr Sheahan was associated in the "real world". When looking at the case in this way, it is grossly unrealistic to treat the NAB parties as creditors of the company whatever may be their strict legal status.
+ Mr Finch SC puts that the important matters are: 
+The fact that the company was wound up on 18 September 2000; 
+The Company ought to be in liquidation; 
+The Company has only one asset, being a chose in action against the NAB parties; 
+The company has no prospect of realising that asset without external funding; 
+The terms of the funding will need to be approved by the Court; 
+The terms of the funding have been approved by all who benefit by it; 
+There is no doubt that Mr Sheahan has already performed a considerable amount of work for the benefit of the company.
+ (b) Does the situation of the Commercial List proceedings bear on the duty of a liquidator? There is no doubt that the present is a very special case because of the
+Commercial List proceedings. Both counsel have provided extensive submissions on the present point. In summary, Mr Hutley SC says that the facts and circumstances of the present case mean that, in the interest of creditors generally, other factors must give way to the appointment of Mr Sheahan as liquidator. On the other hand, Mr Gleeson SC says that this factor is of relatively little significance.
+ Mr Hutley SC submits that when all is said and done, the NAB parties are not in any real commercial sense creditors of the company. They are persons whose interests are diametrically opposed to the company as the Commercial
+List proceedings show. The only real creditors are the Maconochie interests and they have shown that they want Mr Sheahan to be the liquidator and that it is only if Mr Sheahan is involved with the present Funder that there is any hope that there will be any recovery at all. The attempts of the NAB parties in the guise of creditors should be put aside.
+ However, Mr Gleeson SC says that the hearing of the Commercial List proceedings commenced in September 1998. The company has been able to prosecute those proceedings since that time, notwithstanding that it has been dormant during that time and its only "asset" has been the prosecution of those proceedings. No funding flowed from the Funder until September 2000.
+ Mr Gleeson SC says that it is common knowledge that there are a number of litigation funders in Australia, indeed a number are mentioned in cases under section 477(2B) of the Corporations Law including Re Tosich Construction Pty
+Ltd [(1997) 143 ALR 18]; Elfic Limited versus Macks  <case> and Re Imobridge Pty Ltd (2000) [18 ACLC 29] at para 44. Mr Sheahan does not appear to have explored that market. There is no evidence that others would not be interested, including on terms that do not compromise the creditors of Market Holdings as the current arrangements do. If the Market
+Holdings case is a good case, presumably funding would in the normal commercial way be accessible.
+ Indeed, there is no evidence that Mr Maconochie does not have other funding possibilities or that the Funder would not fund the litigation if Mr
+Sheahan was not liquidator. There is no reason to think it would not, given its due diligence and the view it has formed. It would be odd in the circumstances if it had a different view. It would suggest that the Funder seeks a liquidator who will have regard to his or her own interests as opposed to the interests of all creditors.
+ Mr Gleeson SC puts that two inferences may be drawn from the way in which
+Mr Sheahan is to be remunerated under the heads of agreement in light of his "hands off" role. First that he is to receive a success fee as a "packager" of the deal; not as liquidator. Secondly that he would not want to explore alternative funding sources having regard to the fact that alternative funders are unlikely to give Mr Sheahan a percentage of the net recoveries.
+ An independent liquidator will assess the assets and liabilities of Market
+Holdings. In order to do so, he or she will approach the creditors to ascertain if they will fund an investigation. The Funder, unlike a creditor in ordinary circumstances, has already conducted its investigation and formed a view. It is hard to see why it would not assist/fund an investigation. Section of the Corporations Law may enable it to receive preferred creditor status.
+ There is no reason why one creditor, namely the Funder, should be entitled to obtain its nominated liquidator because the appointment of that person is (for some reason) a condition of funding. Even more so, where that person is partial.
+ The funding arrangements before the Court in proceedings 4034 of 2000 described the "Liquidator" as "the liquidator for the time being of Market
+Holdings". Mr Sheahan's appointment is not a condition of the funding arrangements.
+ Mr Gleeson SC's principal point was that the structure of the arrangements made by Mr Sheahan were to allow the Idoport action against the NAB parties to be funded in a technically correct manner via Market Holdings and that any independent liquidator looking only to the interests of the creditors of
+Market Holdings would not have become involved in such arrangements.
+ Mr Gleeson SC also makes the point that, under cross-examination, Mr
+Sheahan showed remarkably little knowledge of what causes of action were involved in the Commercial List proceedings. I would agree with this observation. Mr Gleeson SC also submits that this leads to two inferences: (a) that it would not prejudice the Commercial List proceedings if another liquidator became involved in them on behalf of Market Holdings; and (b) that
+Mr Sheahan has virtually left the control of the Commercial List proceedings to Mr Maconochie. I would draw each of those inferences.
+ I will examine the law of Champerty and Maintenance in [section (c).](http://www.austlii.edu.au/au/legis/nsw/consolact/da199793/s4.html) The matters raised under the present heading are important commercial issues. No matter what my decision on them, the submissions made must be borne in mind when making the final assessment of the answer to Question 4. The Commercial
+List proceedings and their unique nature lead to the probability of any funding agreements being in an unusual form. However, I am not satisfied on the materials before me that the way in which Mr Sheahan approached the matter is the only or even the preferable manner of obtaining funding for the
+Commercial List proceedings.
+ Indeed, my view is that, in participating in the arrangements that were made, Mr Sheahan has displayed partiality to the Maconochie interests which goes beyond what this Court expects of its liquidators.
+ (c) Champerty and Maintenance The law of Champerty and Maintenance commences somewhere in the mists of time. However, its operation is nowadays confined by the Maintenance and
+Champerty Abolition Act, 1993. That legislation by section 4 abolished the action in tort on account of conduct known as maintenance (including champerty). However, section 6 made it clear that the legislation did not "affect any rule of law as to cases in which a contract is to be treated as contrary to public policy as otherwise illegal." The effect of section 6 and of corresponding legislation in other jurisdictions has been considered by the Court in recent years: see Roux v
+Australian Broadcasting Commission <case>; [[1992] 2 VR 577], 605-9; Magic Menu Systems Pty Ltd versus AFA Facilitation Pty
+Ltd [(1997) 72 FCR 261], 267 et seq and Re William Felton & Co Pty Ltd ACLC 1294.
+ In the Magic Menu case at p 268, the Full Federal Court (Lockhart,
+Cooper & Kiefel JJ) said: "The ability of Courts to treat agreements for maintenance as contrary to public policy, and therefore illegal, remains unaffected by the statutory provisions. ... The giving of financial assistance to a litigant by a non- party will not however conclude the question as to whether it is unlawful on this ground.... Questions of public policy with which the Courts will be concerned...are those which have regard to litigation and its funding in the contemporary world." Mr Finch SC puts that there is no abuse of process in the instant case and that no rule of public policy is infringed.
+ On the other hand, Mr Gleeson SC says that, whilst there may be no abuse if the case were simply one where a creditor or even an outsider were funding an action by an insolvent company who could not afford to proceed with it out of its own resources, the present is not such a case. He puts that the real vice of the situation is that Idoport is using the process of the law of liquidation and joining its action with that of the company to ensure funding by an outside party that otherwise would be plainly illegal.
+ As to the words "plainly illegal" in the previous paragraph, no-one has argued the contrary to Mr Gleeson SC's submission that the Idoport funding would, divorced from Market Holdings, be an illegal contract.
+ Mr Gleeson SC fleshes out his submissions with the following points:
+The documents reveal that there were three stages in the funding process: 
+The original tranche of funding under the Umbrella Agreement, where funds were supplied from the Funder via Idoport not subject to Court approval and non recourse save from the proceeds of the litigation; 
+Three further payments via Idoport; 
+The Partnership/ Participation Agreement under which: 
+The Funder funds Idoport and the company; 
+The Funder has substantial rights to control the litigation, eg it has two votes out of four on the LOC; 
+The Funder receives a large share of the proceeds.
+ Mr Gleeson SC's analysis is close to the truth. The arrangement is much more than a creditor funding a liquidator's action where the creditor may obtain a preferential repayment of its debt, but otherwise the control of the litigation and the receipt of its proceeds is with an independent liquidator.
+The fact that the arrangement assists in what appears to be otherwise illegal litigation funding makes the matter worse for the Maconochie parties.
+ The whole of the circumstances may come before the judge who hears the issues on the adjourned cross-claim for Court approval of the arrangement. I thus should not make a finding as to whether or not the arrangement is against public policy. However, it is plainly close to the line and I need to bear in mind that the liquidator is prepared to enter into such an arrangement.
+ (d) On the facts, should Mr Sheahan be liquidator of the Company? I must now turn to the facts and contentions on this issue. My treatment of these might be a little difficult for the reader of these reasons who is not aware of the contents of the confidential documents tendered in the case.
+I have performed the best balancing act I can in the circumstances between making these reasons complete on their face and preserving commercial confidentiality.
+ The submission that should be considered first is that Mr Sheahan is disqualified from being the liquidator because of section 532 of the
+Corporations law and that no leave should be granted to negative the operation of that section.
+ Mr Gleeson SC put that by reason of Mr Sheahan being a co-signatory to the
+Idoport bank account and Mr Sheahan's role on the LOC, Mr Sheahan is an officer of Idoport within the meaning of the definition of "officer" (sub- paras (b)(i), (ii) and (iii)) in section 9 of the Corporations Law.
+ Section 532(2)(c)(i) of the Corporations Law prohibits the appointment, without leave or without approval of the creditors (section 532(5)), of a person as liquidator where the person is an officer of a related body corporate (s 532(6)(a)).
+ Market Holdings and Idoport are related bodies corporate by reason inter alia of each company being a subsidiary of Negubo (section 50).
+ This is not an appropriate case for leave under section 532(2) because Mr
+Sheahan's role as an officer of Idoport is an important aspect of his inability to conscientiously and impartially exercise his discretions as liquidator of Market Holdings.
+ The answer that Mr Finch SC put to this submission was that Mr Sheahan was a member of the LOC only as the liquidator for Market Holdings. He also submits that the construction which Mr Gleeson SC puts on the word "officer" in section 9 of the Corporations is unworkably wide.
+ In my view, Mr Gleeson SC's submissions are technically correct. If this were the only problem, and the matter was unconnected with the funding issues generally, I would probably give leave for Mr Sheahan to act. However, it is closely connected and I must examine the whole of the relevant facts.
+ Mr Gleeson SC put that there are 11 matters additional to the ground for disqualification of Mr Sheahan under section 532(2) which support the removal of Mr Sheahan as liquidator.
+ First, the entry by Mr Sheahan into the heads of agreement dated 21 June and the terms of that agreement.
+ As to this, the submission is that the heads of agreement referred to Mr
+Sheahan "in his position of the future liquidator of Market Holdings". The
+Court should infer that Mr Sheahan signed this agreement with the Funder after meeting with Mr Maconochie in Sydney and after agreeing to arrange or investigate for Mr Maconochie the funding of the Commercial List proceedings (the "litigation" referred to in the heads of agreement). Accordingly, by entering into the heads of agreement Mr Sheahan became compromised. The heads of agreement represented an initial step in Mr Sheahan facilitating funding of litigation for the plaintiffs in the Commercial List proceedings, whose interests in that litigation were diametrically opposed to the interests of creditors of Market Holdings, the NAB parties.
+ The terms of the heads of agreement confirmed that Mr Sheahan could not be independent or impartial in any future liquidation of Market Holdings. The agreement appears to contemplate Mr Sheahan acquiring a personal pecuniary interest in the Commercial List proceedings which was the only significant asset of Market Holdings. Mr Sheahan's entry into the heads of agreement in advance of him being appointed liquidator and determining, following proper investigation, whether the Commercial List proceedings should be pursued, placed Mr Sheahan in a position of conflict and partiality. There was no prospect of Mr Sheahan being an independent liquidator or appearing to be independent.
+ Secondly, the entry by Mr Sheahan into the partnership agreement and the participation agreement.
+ Thirdly, the fact that on or about 7 September 2000 a bank account was opened by Idoport, with Mr Sheahan and Mr Maconochie as signatories, for the purpose, apparently, of receiving funds provided by Efficiency Investment BV and that Mr Sheahan's firm was engaged by Market Holdings from that date: which created, or gave the appearance of creating, a nexus between Mr
+Sheahan and Idoport; which represented a further step, prior to appointment, of Mr Sheahan on a course adverse to the NAB parties; which constituted arrangements inconsistent with, at least, the appearance of independence and impartiality.
+ Fourthly, the timing, conduct and circumstances surrounding the application made by Mr Sheahan, purportedly as liquidator of Market Holdings, before Austin J in proceedings No 4034 of 2000: his purported appointment as liquidator occurred on 18 September 2000; the application was made ex-parte to the Supreme Court for approval to enter into agreements, pursuant to section 477(2B), on 21 or 22 September , supported by an affidavit sworn within 2 days of his alleged appointment; the application was made during the Olympic vacation. Without a proper explanation by Mr Sheahan, the Court should infer that an urgent ex-parte application to the vacation judge was made by Mr Sheahan because he hoped to obtain approval for long term agreements without the NAB parties becoming aware; the inference in (c) is compelling when regard is had to the circumstances in which the directors of Market Holdings resolved to take steps to place the company into voluntary liquidation. That occurred on 7 September 2000, only 9 days after the statement by the directors on 28 August 2000 that they had grounds to believe that the company could pay its debts as and when they fell due. The debts which it is alleged by Mr Maconochie were called up after 28
+August 2000, but before 7 September 2000 (Ex LC1 at 590) had existed in the books of Market Holdings for some 4 years (Ex LC1 at 595-596) and were allegedly owed to parties related to Market Holdings, namely Mr Maconochie and
+IBS. The explanation given by Mr Maconochie at the meeting on 29 November 2000 as to the reasons for the change in position is utterly unconvincing; the inference in (c) is more compelling when regard is had to the discontinuance of the proceedings following the order of Austin J that the NAB parties be notified; the inference in (c) is even more compelling when regard is had to the failure of Mr Sheahan to disclose to the NAB parties, when he notified them of the discontinuance, that the approval, the subject of the application before
+Austin J, had been obtained, by the alternative method of a creditors meeting, the previous day; the matters in (a)-(f) reflect the conduct of a liquidator who has prejudged the asset and liability position of the company and who is partial to the interests associated with the plaintiffs in the Commercial List proceedings and against the interests of certain of the creditors of the company.
+ Fifthly, the timing, conduct and circumstances surrounding the purported meeting of creditors of Market Holdings on 28 September 2000: the meeting on 28 September 2000 (of which Mr Sheahan was chairman) took place after Mr Sheahan had been ordered by Austin J to give notice of his application in proceedings No 4034 to the NAB parties and after the solicitors for the NAB parties had, the day before the meeting (27 September 2000), sought from Mr Sheahan's solicitors an explanation of his conduct; no explanation was given by Mr Sheahan in response to that request; the purported creditors meeting was then held on 28 September 2000 at which it was resolved by the creditors to approve the entry by Mr Sheahan into the partnership Agreement and the participation agreement; on 29 September 2000 Mr Sheahan discontinued proceedings No. 4034 of 2000, the same day as NAB and NMG applied in those proceedings for an interlocutory injunction restraining Mr Sheahan from exercising any powers under the agreements the subject of those proceedings; the matters in (a)-(d) reveal that, in the absence of proper explanation,
+Mr Sheahan engaged in a course of conduct the purpose of which was to facilitate approval of agreements without the knowledge or intervention of the
+NAB parties, which conduct was partial, lacking the independence required of a liquidator, and reflected prejudgment.
+ Sixthly, the timing, conduct and circumstances surrounding the commencement by Mr Sheahan, purportedly as liquidator of Market Holdings, of proceedings No 983 of 2000 in the Supreme Court of South Australia for the issue of examination summonses for the examination and production of documents under sections 596B and 597(9): the South Australian proceedings were commenced on 13 October 2000 at which time proceedings No 4091 of 2000 had been commenced by NAB and NMG against Market Holdings and Mr Sheahan seeking inter alia, a declaration that
+Mr Sheahan had not been validly appointed as liquidator of Market Holdings; the South Australian proceedings were commenced apparently prior to Mr
+Sheahan as liquidator investigating the existing information and material in the possession of Market Holdings relating to the Commercial List proceedings; the South Australian proceedings were commenced against officers and former officers of NAB and its related companies; of the nine proposed examinees in the South Australian proceedings, six were defendants in the Commercial List proceedings. All but one of the proposed examinees have filed substantial witness statements in the Commercial
+List proceedings; there was no disclosure to the NAB parties by Mr Sheahan or his legal representatives of the South Australian proceedings, notwithstanding that the proceedings were commenced on 13 October 2000 and the final hearing in proceedings No 4091 of 2000 took place on 19 October 2000 before me; there was no application either prior to the commencement of the South
+Australian proceedings or at all by Mr Sheahan to examine any officer of
+Market Holdings (under <case>); the matters in (a)-(f) confirm Mr Sheahan's lack of independence, his partiality in favour of the directors of Market Holdings and the Maconochie interests and his bias against the NAB parties.
+ Seventhly, Mr Sheahan's conduct in November 2000 in failing to answer detailed written inquiries made of him in relation to concerns as to interest, lack of independence and partiality: the inquiries were contained in the letter dated 23 November 2000 from
+Freehills to Piper Alderman. The questions were reasonable, having regard to
+Mr Sheahan's previous conduct; 
+Mr Sheahan failed to respond to the letter before the meeting on 29
+November 2000 at which his appointment as liquidator was to be considered; 
+Mr Sheahan's response through his solicitor's letter dated 4 December 2000 recognised the existence of concerns in relation to his independence as liquidator of Market Holdings but failed to address in any way those concerns; the fact that the letter of 4 December 2000 identified that Mr Sheahan required particulars from NAB before considering whether to respond to NAB's inquiries confirmed his inability to act impartially and revealed that Mr
+Sheahan was treating the NAB parties as entity with whom he was in conflict; by reason of the inquiries contained in the letter dated 23 November 2000 requiring an explanation, Mr Sheahan's response through his solicitors placed
+Mr Sheahan in an impossible situation. He could not in those circumstances be expected to act or at least appear to act objectively and impartially as liquidator and the creditors of Market Holdings are entitled to nothing less:
+Tracker Software International Inc versus Smith [(1997) 24 ACSR 644] at 649.
+ Eighthly, the failure of Market Holdings in November 2000 to provide to the NAB parties any substantive response to the written inquiries made about
+Mr Sheahan's independence: the questions in the schedule to the letter dated 23 September 2000 to the directors of Market Holdings were reasonable, having regard to the circumstances of the winding up of Market Holdings and the previous conduct of
+Mr Sheahan; the failure by Market Holdings and its directors to respond to the questions amounted to a lack of candour as to the purpose of the appointment of Mr Sheahan and the knowledge of the directors of arrangements with Mr
+Sheahan and of Mr Sheahan's intentions as liquidator; the inference the Court should make is that a response to the inquiries would have confirmed Mr Sheahan's lack of independence and his partiality in favour of Market Holdings and the Maconochie interests, to the prejudice of the NAB parties.
+ Ninthly, Mr Sheahan's non-attendance at the meeting of creditors of Market
+Holdings on 29 November 2000 notwithstanding that requests were made of both him and Market Holdings for him to attend, and the absence of any satisfactory explanation as to his non-attendance: 
+Mr Sheahan was on notice of NAB's concerns as creditor. His non-attendance at the meeting made clear that he did not wish to address and/or allay these concerns; by his non-attendance at the meeting, Mr Sheahan represented that he was not concerned with gaining the acceptance or approval of him as liquidator by
+NAB as creditor; accordingly, the impossible situation of Mr Sheahan, referred to above, equally pertains to Mr Sheahan's non-attendance.
+ Tenthly, the answers provided by Mr Maconochie at the meeting of creditors of Market Holdings on 29 November 2000 in relation to questions about Mr
+Sheahan: the answers provided by Mr Maconochie were generally to the effect that questions from the NAB parties pertaining to Mr Sheahan's independence (in particular, Mr Sheahan's relationship and dealings with directors of Market
+Holdings prior to 28 August 2000) should be asked of Mr Sheahan; the position was entirely unsatisfactory as Mr Maconochie gave no substantive response in relation to questions as to Mr Sheahan's relationship and arrangements with the directors, the commencement of the South Australian proceedings, Mr Sheahan's intentions in relations to commencing new examination proceedings, in circumstances where he was aware that Mr Sheahan was not at the meeting to address such questions; 
+Mr Maconochie's answers coupled with Mr Sheahan's non-attendance and failure to answer written inquiries suggest a purpose of ensuring that there was no disclosure to the NAB parties of matters going to Mr Sheahan's independence, impartiality and personal interest in the Commercial List proceedings; 
+Mr Maconochie's statement that "Mr Sheahan was not asked to come to the meeting because the directors did not consider his presence necessary" must be construed against Mr Maconochie as meaning that the directors and Mr
+Sheahan were not concerned to address any of the valid concerns held by the
+NAB parties as creditors about Mr Sheahan's independence and intentions in relation to the liquidation; the lack of transparency of Mr Maconochie's answers at the meeting is illuminated by his statement - "I mean, I think if the liquidator was not acting in the interests of either the company or the creditors or people who claim to be creditors, then that would be a significant matter for the liquidator in terms of his professional practice and his standing"; the fact was, as Mr Maconochie well knew, that there were "significant matters" for Mr Sheahan to address at the creditors meeting which matters had been raised in previous correspondence with the solicitors for Mr Sheahan and the directors of Market Holdings; 
+Mr Maconochie's answers to the effect that the NAB parties should ask questions of Mr Sheahan rather than himself serve to heighten concerns about the lack of independence and impartiality of Mr Sheahan, where additional serious issues such as the payment by Idoport to Mr Sheahan of the amount of $49,500 in October 2000 were raised for the first time at the meeting on 29
+November, as was the existence of an agreement between Mr Sheahan and Market
+Holdings or its directors which related inter alia to the performance of his duties if appointed as liquidator. These additional matters could have been put to Mr Sheahan and addressed by him had he attended at the meeting.
+ Eleventhly, the payment on or about 18 October 2000 by Idoport to Mr
+Sheahan's firm of $49,500 "on account", which was in respect of fees charged for liquidator's remuneration from 7 September 2000 to 15 October 2000: the receipt of these moneys by Mr Sheahan from Idoport, the only substantial debtor of Market Holdings was wholly inappropriate; the payment covered a period of 11 days prior to his purported appointment; the payment was approved by a purported committee of inspection the day before I was to hear proceedings No 4091 of 2000; the payment and receipt of the moneys makes, or has the potential to make,
+Mr Sheahan beholden to Idoport, an entity which has no interest in the winding up of Market Holdings; the payment and receipt further exemplifies the lack of independence and lack of impartiality of Mr Sheahan.
+ Where the above submissions refer to facts, it seems to me that these facts should be found accordingly: indeed there is no contention that things are otherwise. Where Mr Gleeson SC asks me to draw inferences, I acknowledge that such inferences are open to be drawn.
+ Mr Lindsay SC and Mr Hutley SC put that, contrary to submissions of the plaintiffs, Mr Sheahan is not, and has not at any material time been, by virtue of superseded and conditional funding agreements or otherwise, a "partner...of an officer of the Company" within the meaning of the
+Corporations Law section 532(2)(c)(v). If, however, he did fall within that provision it would nevertheless be open to the Court to grant leave for him to act as liquidator of the Company under section 532(2) and the first cross claimants apply for such (if any) leave as may be necessary.
+ They further put that in weighing the competing interests of the persons who claim to have an interest in the affairs of the company as "creditors" the Court should also bear in mind the interests of the members of the company, whose interests would be best served by a liquidator able to protect and pursue the company's principal asset (its chose in action against NAB and
+NMG). Mr Sheahan was their nominee, and no basis has been established for a finding that he would not discharge the duties of a liquidator with independence and integrity. There need be no attack on the integrity of the plaintiffs' nominees for liquidators to recognise, as must be recognised, that they and their firm have a long-standing and major commercial connection with the plaintiffs which must disqualify them from appointment.
+ I have not lost sight of the powerful submission that the NAB parties are not in any real sense creditors of the company who are activated by seeing to it that they are repaid their debt to an insolvent company. There is probably a lot in the submission for the Maconochie parties that the principal purpose of this litigation is to stifle the Commercial List proceedings.
+ On the other hand, the Maconochie interests are not really using the law of liquidation in its ordinary way either. They are latching on to the fact that one company in their group is insolvent as a vehicle for funding litigation which they probably would not otherwise be able to run.
+ In these circumstances, I consider that I should offset these collateral factors and merely focus on the key issue. If one treats this as an ordinary winding up in insolvency, should Mr Sheahan be appointed liquidator or not? To make it clear that I have not forgotten the key commercial issue that arises when an answer to that question is attempted, Mr Hutley SC says that there is only one possibility of funding, that possibility involves Mr
+Sheahan, without that possibility, there is no way that the company can pay any of its debts.
+ On the other hand, Mr Gleeson SC puts that there are many funders in the market, this Funder has done its own due diligence and found it commercially viable to proceed, so, probably, would any other funder and liquidator at arm's length.
+ Mr Hutley SC's riposte is that NAB, a large and powerful corporation, has clearly indicated that it will proceed against any other funder who becomes involved and this will frighten any other funder away.
+ Mr Gleeson SC says that any such threats would not affect an independent liquidator or a funder which does its due diligence. Here Mr Sheahan has already put himself in a position where he was beholden to the Funder and virtually controlled by it. The fact, if it be the fact, that he is now willing not to press for his success fee may be laudable, but it tells against his suitability that he was ever willing to accept such a fee.
+ I have, of course, carefully looked at all the facts, not only the commercially vital facts recently mentioned. I have also been influenced by the fact that, in cross-examination, Mr Sheahan did not appear to be on top of the Commercial List proceedings and gave the impression that he was leaving it to others to conduct that litigation. I was also not impressed with the way in which the background facts show that there were at least two attempts by Mr
+Sheahan to obtain apparent forensic advantages without notification to interested parties. Liquidators must ensure that they hold the balance equally and not seek such advantages.
+ I have taken those commercial arguments strongly into consideration as they are most important. However, it seems to me that a completely independent professional liquidator will be well able to assess what is best in the interests of the company's creditors generally and in the public interest.
+ (e) Should there be joint liquidators, including Mr Sheahan? I suggested during the hearing that the solution to the problem may be that Mr Sheahan should continue as liquidator with a joint liquidator either as nominated by the NAB parties or else an independent person. This suggestion was embraced by counsel for Mr Sheahan and for the Maconochie interests, but strenuously opposed by the NAB parties.
+ Mr Gleeson SC's submission in opposition basically was that it is not practical for joint liquidators to be appointed; they would need to confer and make decisions on all issues, a time-consuming and expensive exercise which may require Court supervision if the liquidators do not agree on the proper course of action: cf Meagher JA in NEC Information Systems Australia Pty
+Limited versus Lockhart [(1991) 4 ACSR 411] at 421.
+Indeed, he puts that it has never been the role of one joint liquidator to act as a watchdog over a co-liquidator: Re Obie Pty Limited (No. 4) [(1984) 8
+ACLR 967.] In any event, he puts that Mr Sheahan should not be included as one of a team of liquidators. His unsuitability is demonstrated by the fact that he legally and practically has committed himself to the Funder on its preferred terms, which include the Market Holdings action being pooled with the Idoport action. If Mr Sheahan was appointed joint liquidator, it would be virtually impossible for independent consideration to be given to whether that choice of funder, and that pooling structure, is in the best interests of Market
+Holdings.
+ Indeed, there is no objective reason why Mr Sheahan is central to the arrangements. His evidence was that he had little understanding of the Market
+Holdings or Idoport Pty Limited actions and that the Funder (with Piper
+Alderman) undertook an extensive due diligence with Mr Maconochie prior to committing funding. He was not involved in the due diligence exercise and has obtained no independent legal advice. He is unable to even state the basis of the claims. Further, the Funder and Mr Sheahan have effectively delegated to
+Mr Maconochie control of the litigation.
+ Mr Gleeson SC says this is a far cry from the situation where there is a partially completed administration involving diverse issues in respect of which the liquidator has intimate knowledge: Re Obie Pty Limited (No 4) at 971.
+ On consideration of these matters, I have concluded that I should not appoint joint liquidators.
+
+ANSWER TO QUESTION 4 The Court should appoint a liquidator other than Mr Sheahan.
+
+QUESTION 5 - What, then, is the result of this litigation? It follows from the above, particularly from my answer to question 4 that the company is in liquidation, but lacks a liquidator. There are good reasons to pass over the choice of the Maconochie interests.
+ The Court should pass over the choice of the NAB parties to ensure that an independent liquidator in every sense of the word is appointed. The next firm on my list is Ferrier Hodgson and I would propose, subject to his consent, to appoint as liquidator Brian Raymond Silvia, a very experienced liquidator with that firm.
+ I will hear counsel on costs once there has been a chance to digest these reasons. I will formally stand the matter over to my list for mention at 9.50 am on Tuesday 24 April, 2001.
+ 
+LAST UPDATED: 09/04/2001 * * * 

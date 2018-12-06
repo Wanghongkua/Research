@@ -1,0 +1,47 @@
+
+
+Future Revelation Ltd versus Medica Radiology & Nuclear Medicine Pty Ltd [2013] NSWSC 1741 (18 September 2013) 
+Last Updated: 16 April 2014 
+Supreme Court 
+New South Wales  
+Case Title: 
+Future Revelation Ltd versus Medica Radiology & Nuclear Medicine Pty Ltd  
+Medium Neutral Citation: <case>  
+Hearing Date(s): September 2013  
+Decision Date: September 2013  
+Jurisdiction: 
+Equity Division - Corporations List  
+Before: 
+Brereton J  
+Decision: 
+Declaration that registrations in personal property register are not ineffective by reason that when registered the secured party was identified on the register by its ABN and not by its ACN.  
+Catchwords: 
+CORPORATIONS - Registration - Security interests registered on the Personal
+Properties Security Register with reference to ABN instead of ACN - defect not "seriously misleading".  
+JUDGMENT (EX TEMPORE)
+HIS HONOUR: By originating process filed in Court by leave today, the plaintiff Future Revelation Ltd, the assignee pursuant to a deed dated 31 July 2013 of security interests granted to it by the first defendant Medica Radiology and Nuclear Medicine Pty Ltd, entitled "A$ facility agreement", a general security deed between Suncorp, Medica and the second defendant MRN Employees Pty Ltd, and a specific security subordination deed between the third defendant Australian Healthcare Investment Company Ltd, Medica and Suncorp, claims, primarily, a declaration that registrations in the Personal Properties Security Register ("PPSR") in respect of collateral under those deeds are effective, notwithstanding what is said to be a defect in them.
+Finance was provided by Suncorp to the defendants on 4 June 2013. The security interests so granted were registered on 4 and 5 June 2013. The twenty-day period prescribed by (Cth) [Corporations Act 2001](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/), [s 588FL(2)(b)(ii)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s588fl.html), expired on 24 June 2013. Since July 2013, the defendants have been in default in respect of interest payments under the facility. 
+Pursuant to (Cth) Personal Property [Securities Act 2010](http://www.austlii.edu.au/au/legis/nsw/consolact/sa2010139/) ("PPSA"), <case>, a financing statement must include certain details of the secured party. Pursuant to the (Cth) [Personal Property Securities Regulations 2010](http://www.austlii.edu.au/au/legis/cth/consolreg/ppsr2010465/), the details which must be so included in respect of a Body Corporate include a hierarchy, depending on the nature of the Body Corporate and which identifier details exist in respect of it. Thus, if the secured party is a Body Corporate, the ACN must be entered. These are mandatory requirements, such that it might be argued that if not included there is no "financing statement" within the meaning of the PPSA. 
+In the present case, when the security interests were registered, the ABN of Suncorp instead of its ACN, was provided. PPSA, <case>, states that a registration with respect to a security interest that provides particular collateral is ineffective because of a defect, if and only if, there is a seriously misleading defect in any data relating to the registration, or there is a defect of the kind mentioned in <case>. 
+The suggested defect in this case is not one of a kind mentioned in <case>. The question then is whether it is "seriously misleading". That term is not defined in the PPSA, nor is there any guidance in respect of its meaning in the explanatory memorandum or the second reading speech. However, as is well-known, the PPSA is modelled on and derived from similar legislation in Canada and New Zealand and, as was observed in Maiden Civil (P&E) Pty Ltd versus Queensland Excavation Services Pty Ltd <case>, the Commonwealth Parliament in enacting legislation that was modelled on the New Zealand and Canadian legislation should be taken to have intended approaches and interpretations applied by the Courts of those countries to their legislation to apply in Australia. A similar view has been taken in New Zealand. 
+Canadian case law suggests that the test for whether a defect is "seriously misleading" is whether it will result in the registration not being disclosed on a search [see Re Lambert (1994) 7 PPSAC (2d); GMAC Leaseco Ltd versus Moncton Motor Home & Sales [(2003) 227 DLR (4th) 154] at [58]]. That makes sense, as the purpose of registration is to enable the existence of the security interest in the collateral to be searched and ascertained. A person searching in the PPSR is likely to be concerned with the identity of the grantor and/or the collateral. In terms of searching the PPSR, while there is facility to search by reference to the identity of the grantor and the collateral, there is no facility to search by reference to the identity of the secured party. 
+In the present case, a search by reference to the identity of the collateral or the grantor would have disclosed the relevant security interest. Such a search would have identified clearly enough the secured party, namely Suncorp, even though its ABN and not ACN was stated. In my view, it is very clear that this defect was not seriously misleading or indeed for that matter misleading at all. Accordingly, it seems to me by operation of <case> that the registration is not ineffective by reason of the defect that has been identified.
+The present application is made in circumstances where there has been default under the relevant facilities and a meeting is imminent, one of the potential outcomes of which might be the appointment of a voluntary administrator or in due course some other form of administration of the defendants. Notice of the present application has not been given to the defendants at this stage, although pursuant to the orders I have pronounced notice will be given and an opportunity reserved to apply to set aside or varying the orders I have made. In reality the persons who would have an interest in contending that the registration was ineffective are not so much the defendants themselves, but the unsecured creditors or perhaps any administrator or liquidator of the defendants. In those circumstances, it seems to me that the appropriate course is to reserve leave to them to apply, as was done when extending the registration time in Cardinia Nominees Pty Ltd <case> and Black Opal IP Pty Ltd <case>
+The significant distinction between the present case and those cases include first that whereas in those cases it appeared that the defendants were almost certainly well and truly solvent, in the present case that is not so at all. On the other hand, in those cases what was involved was an extension of time pursuant to [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/), [s 588FM](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s588fm.html), for the security interests to be registered, whereas in the present case what is involved is simply confirming that a registration made within time was not ineffective by reason of a minor defect. 
+Nonetheless, it seems to me that a liquidator, administrator or unsecured creditor could claim that their interests were affected by the order made, and for that reason it is appropriate that liberty be reserved to them to apply to set aside or vary the orders. 
+It is for those reasons that I make the following orders: 
+Declare that the registrations in the personal property register identified in the schedule to the originating process are not ineffective by reason that when registered the secured party SunCorp/Metway Limited was identified on the register by its ABN and not by its ACN.
+
+Reserve liberty to any administrator, deed administrator, liquidator, or unsecured creditor of the defendants or any of them to apply to vary or set aside this order if any winding up of the defendants or any of them commences or an administrator is appointed to the defendants or any of them under [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) [s436A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s436a.html), s[436B](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s436b.html), or s[436C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s436c.html), or the defendants or any of them executes a deed of company arrangement within six months of 4 June 2013.
+
+Order that the originating process and these orders be served on each of the defendants by 5pm on 18 September 2013.
+
+Grant leave to the defendants to apply by interlocutory process filed no later than 1 October 2013 pursuant to UCPR r 36.16(2)(b) for the setting aside or variation of these orders, such motion to be made returnable in the
+Corporations List Judge's motions list on 14 October 2013.
+
+Direct that in the first instance service on the defendants may be effected by facsimile transmission of a sealed copy thereof on 02.8904.1146.
+
+Proceedings are adjourned to 14 October at 9.45 am in the Corporations
+List Judge motions list.
+ * * * 

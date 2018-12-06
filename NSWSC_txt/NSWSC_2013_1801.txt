@@ -1,0 +1,777 @@
+
+
+Australia and New Zealand Banking Group Ltd versus Pola [2013] NSWSC 1801 (6
+December 2013) 
+Last Updated: 9 December 2013 
+Supreme Court 
+New South Wales  
+Case Title: 
+Australia and New Zealand Banking Group Ltd versus Pola  
+Medium Neutral Citation: <case>  
+Hearing Date(s): September 2013 - 16 October 2013; final submissions 22 November 2013  
+Decision Date: December 2013  
+Jurisdiction: 
+Equity Division - Commercial List  
+Before: 
+Stevenson J  
+Decision: 
+Bank in breach of its duty under [s ](http://www.austlii.edu.au/au/legis/qld/consolact/pla1974179/s85.html) of the [Property Law Act ](http://www.austlii.edu.au/au/legis/qld/consolact/pla1974179/) (Qld);
+Cross-Claims otherwise dismissed; Bank otherwise entitled to relief it seeks  
+Catchwords: 
+BANKING - banker and customer - mortgagee in possession exercising power of sale - duty under [s ](http://www.austlii.edu.au/au/legis/qld/consolact/pla1974179/s85.html) of the [Property Law Act ](http://www.austlii.edu.au/au/legis/qld/consolact/pla1974179/) (Qld) - whether Bank failed to take reasonable care to ensure that the mortgaged property was sold at the market value  
+TRADE PRACTICES - [s ](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/s52.html) of the [Trade Practices Act ](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) (Cth) - [Fair Trading Act ](http://www.austlii.edu.au/au/legis/qld/consolact/fta1989117/) (Qld) - whether advertisements were misleading or deceptive or likely to mislead or deceive - whether any misleading or deceptive representations were made  
+TORTS - duty of care - whether agent acting on behalf of mortgagee in possession owes a duty of care to a mortgagor  
+JUDGMENT 
+Introduction
+The plaintiff ("the Bank") seeks possession of two rural properties in New South Wales, known as "Morella" and "North Star", owned by the defendant, Mr Laurence Pola. The Bank also seeks from Mr Pola judgment in an amount in the order of $2.1 million.
+Mr Pola does not dispute that, but for the set off to which I refer below, the Bank is entitled to this relief. Mr Pola accepts that, apart from the cross-claim in which that set off is propounded, he has no other basis upon which to resist the claims made by the Bank for possession of Morella and North Star and for debt.
+The set off arises from a claim that Mr Pola and his wife, Mrs Silvia Pola, make against the Bank arising out of the sale in 2010 by the Bank, as mortgagee exercising power of sale, of another rural property then owned by Mr and Mrs Pola in southern Queensland. That property is known as "Kilcummin/Cawildi".
+
+Representation of Mr and Mrs Pola
+The hearing of these proceedings commenced on 30 September 2013. Until 16 October 2013, Mr and Mrs Pola were represented by Mr R J Wright SC and Mr Blount.
+Thereafter Mr Blount appeared, alone, for Mr and Mrs Pola.
+As submissions in these proceedings took place both before and after 16 October 2013, I will refer to those made by Mr Wright SC as well as those of Mr Blount, as appropriate.
+
+The Property - an introduction
+Mr Pola purchased Kilcummin in 1967. Mr and Mrs Pola purchased Cawildi, which adjoins Kilcummin, in 1979 or 1980. The two properties are farmed as an aggregation. I shall refer to them, together, as "the Property".
+The Property is located adjacent to the township of Dirranbandi in the Condamine-Balonne catchment area of the Murray-Darling Basin. More particularly, the Property is located in what is known as the "Lower Balonne" region of that catchment. The Property is some 11,200 hectares in area, of which some 336 hectares is irrigated. A further 150 hectares is partly developed for future irrigation use. Some 547 hectares is designated as a "storage and surge area" designed to capture overland water flow. The balance is used for dry area farming and grazing. The Balonne River forms the eastern boundary of the Property. The Culgoa River passes through the Property, roughly from east to west.
+The Property has the benefit of certain water rights (which I will describe in greater detail below) including the right to draw water from the Balonne River and the right to take overland flow water from the Lower Balonne Water Management Area. Overland flow water approaches the Property from the north when water is released from the Beardmore Dam, and then a weir at St George, both upstream from the Property, causing the Culgoa River and other adjacent rivers to flood.
+The irrigated areas of the Property are used to grow, principally, cotton. The balance of the Property is used for grazing and growing non-irrigated crops, including wheat.
+
+The nature of the claim made by Mr and Mrs Pola
+As I have said, Mr and Mrs Pola's claim concerns the manner in which the Bank exercised its power of sale over the Property. 
+The Bank took possession of the Property in December 2009. It offered the Property for sale by auction on 17 August 2010. The Property was passed in at auction. The Bank negotiated with the highest bidder at the auction and sold the Property to that highest bidder by contract dated 13 September 2010.
+The Bank advertised and sold the Property as an aggregation; "in-one-line". 
+The fundamental criticism that Mr and Mrs Pola make of the Bank is that it did not endeavour to sell, separately, one of the water rights attaching to the Property to the Commonwealth of Australia which, in early 2010, was expressing interest in purchasing such water rights as part of its "Restoring the Balance in the Murray-Darling Basin" water purchase program.
+Mr and Mrs Pola rely on a number of causes of action.
+First, they allege a contravention by the Bank of its duty to take reasonable care to ensure that the Property was sold at market value pursuant to [s 85(1)](http://www.austlii.edu.au/au/legis/qld/consolact/pla1974179/s85.html) of the [Property Law Act 1974](http://www.austlii.edu.au/au/legis/qld/consolact/pla1974179/) (Qld).
+Second, Mr and Mrs Pola allege a contravention by the Bank and its agents (whose identity I will discuss below) of [s 52](http://www.austlii.edu.au/au/legis/qld/consolact/pla1974179/s52.html) and <case> of the [Trade Practices Act 1974](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) (Cth) ("TPA") (and the equivalent provisions in the [Fair Trading Act 1989](http://www.austlii.edu.au/au/legis/qld/consolact/fta1989117/) (Qld) ("FTA")) in relation to certain aspects of the advertising of the sale of the Property.
+Finally, Mr and Mrs Pola allege breach of duty by those agents concerning the marketing and advertising of the Property.
+
+The agents
+The Bank engaged the third cross-defendant, Elders Rural Services Ltd, as its agent in relation to the sale of the Property.
+In turn, Elders retained the seventh cross-defendant, Agrimas Pty Ltd, to manage the marketing and sale of the Property. Agrimas is a company associated with Mr Richard Allpass. Mr Allpass was the auctioneer of the Property on 17 August 2010.
+The Bank also retained the eighth cross-defendant, Devbar Pty Ltd, to assist with the sale. Mr Brendan Devine represented Devbar.
+Where convenient, I shall refer to these parties, together, as "the Agents".
+
+Other individuals involved
+The Bank officer with control of Mr and Mrs Pola's account was Mr Philip Ashe. Occasionally, in Mr Ashe's absence, Mr Gerald Byrne managed Mr and Mrs Pola's account.
+Mr Ashe, on behalf of the Bank, engaged Mr Peter Lloyd to act as a consultant in relation to the sale.
+Mr Stuart Pola, Mr and Mrs Pola's son, was engaged by the Bank to manage the Property after the Bank went into possession in December 2009.
+Mr and Mrs Pola engaged Mr Rod Saal, an agricultural and rural consultant, to assist them in relation to the sale process.
+Mr Vaughan Houlahan was the ultimate purchaser of the Property from the Bank.
+
+The witnesses
+Apart from experts, I heard evidence from Mr and Mrs Pola, Mr Ashe, Mr Allpass and Mr Devine.
+I find that each witness did his or her best to give honest and direct evidence. 
+For obvious reasons, Mr and Mrs Pola presented as distressed in the extreme at the circumstances that have led to their departure from the Property, which they farmed for 45 years. Nonetheless, they gave their evidence carefully, forthrightly and with dignity.
+Each of Messrs Ashe, Allpass and Devine have had, in their particular roles, extensive experience dealing with rural properties in southern Queensland. Each explained their role so far as concerns the sale of the Property candidly and openly.
+Mr Lloyd did not give evidence. Mr Lloyd is now 83 years of age, in very poor health and effectively confined to his home in Brisbane. He is mentally alert, but very frail. He was unable to come to Court. It was not, however, suggested he could not have sworn an affidavit, nor, if necessary, have given evidence by video link. 
+It was submitted on behalf of Mr and Mrs Pola that, in those circumstances, I should infer Mr Lloyd could not give evidence that would have assisted the Bank's case. In view of the undisputed evidence of Mr Lloyd's age and physical health, I am not prepared to draw that inference. However, in Mr Lloyd's absence, I must treat with great care evidence given by Mr Allpass, in particular, of opinions expressed to him by Mr Lloyd as to the best strategy of marketing the Property.
+
+The water rights
+I have mentioned that the Property enjoys water rights entitling it to draw water from the Balonne River and to take overland flow water.
+The irrigation infrastructure on the Property designed to take advantage of these two entitlements is depicted in the diagram annexed to these reasons (Annexure A).
+The area identified as "[S1"](http://www.austlii.edu.au/au/legis/qld/consolact/fta1989117/s1.html) represents the storage area (being a ring dam with a capacity in the order of 2200 megalitres ("ML")) for water drawn by pump from the Balonne River. The adjacent area marked "Stage 1" represents the area able to be irrigated from the "[S1"](http://www.austlii.edu.au/au/legis/qld/consolact/fta1989117/s1.html) storage. Stage 1 is gravity fed from [S1](http://www.austlii.edu.au/au/legis/qld/consolact/fta1989117/s1.html), surrounded by levy banks and has an area of 161 hectares.
+Approximately a kilometre and a half to the north of the "Stage 1" irrigated area is the "Stage 2" irrigated area. That area, which comprises a further 175 hectares of irrigated land, also surrounded by levy banks, is depicted in the box labelled "irrigated" to the west (or left on the diagram) of the box marked Stage 2. To the north of that irrigated area are the areas depicted as "S2" (with a capacity 2000 ML), "[S3"](http://www.austlii.edu.au/au/legis/qld/consolact/fta1989117/s3.html) (with a capacity of 5300 ML) and "[S4"](http://www.austlii.edu.au/au/legis/qld/consolact/fta1989117/s4.html) (with a capacity of 800 ML) on the diagram. S2 is a "surge" area designed to capture overland water flow. It is surrounded on its northern, western and southern sides by a dam wall. Areas [S3](http://www.austlii.edu.au/au/legis/qld/consolact/fta1989117/s3.html) and S[4](http://www.austlii.edu.au/au/legis/qld/consolact/fta1989117/s4.html) are storage areas, fed from S2, and are surrounded by dam walls on all sides.
+The areas to the east (or right on the diagram) and west (or left on the diagram) of the area marked "irrigated" (marked "Stage 2 Protected future irrigation land" and "Potential future irrigation land (Levee approved not developed)" respectively) represent land partly developed for future irrigation use, but not yet available for such use. This area comprised some 1080 hectares.
+
+Drawing from the Balonne River
+On 26 March 2010, the Queensland State Government amended its Condamine and Balonne Resource Operating Plan 2008 (the "ROP") to include the Lower Balonne. Implementation of the ROP in the Lower Balonne had been delayed as a result of litigation, which I describe in more detail below, in the Supreme Court of Queensland. However, a draft of the ROP had been published in December 2008 and its likely implementation known in the district well before that. 
+As a result of the extension of the ROP to the Lower Balonne, the two water entitlements associated with the Property with which these proceedings are principally concerned were created.
+Prior to the implementation of the ROP in the Lower Balonne area on 26 March 2010, there was attached to the Property Water Licence 39378Q that permitted water harvesting (by pump) from the Balonne River. 
+On extension of the ROP to the Lower Balonne area on 26 March 2010, Water Licence 39378Q was replaced by Water Allocation 1518.
+Unlike Water Licence 39378Q, Water Allocation 1518 was not attached to the Property and could be traded separately.
+Water Allocation 1518 has a "nominal volume" of 1930 ML. That represents an estimate of the average amount of water likely to be delivered to the Property annually by reason of Water Allocation 1518. It is not a cap on the amount of water that may be drawn; nor does it represent the limit of entitlement to draw water. As I will describe below, "nominal volume" is an integer in the calculation of the value of water rights (see [197] below).
+Water Allocation 1518 also has an "instantaneous volumetric limit" of 8360 ML at any time. The effect of this limit is that, at any one moment, there can be no more than 8360 ML of water stored on the Property. Such water is to be drawn from the Balonne River and, as the infrastructure stood at the relevant time, stored at [S1](http://www.austlii.edu.au/au/legis/qld/consolact/fta1989117/s1.html) or utilised at the 161 hectare "irrigated" area, Stage 1.
+It was a further condition of Water Allocation 1518 that water taken under it was "stored conjunctively with overland flow water" taken under any other authority referrable to the Property.
+It was common ground that the effect of this last provision was that no more than 8360 ML of water (from any source) could be stored on the Property at any one time.
+
+The overland water flow licence
+The other licence with which these proceedings are concerned is Water Licence 602026. That water licence permits the taking of overland flow water from the Lower Balonne Water Management Area; in effect, all overland flow from the north east.
+That licence was also created on the extension of the ROP to the Lower Balonne area, and is attached to the Property. There was no earlier equivalent licence.
+As the infrastructure on the Property stood at the relevant time, such overland flow was to be captured at the surge area S2, stored in the dams [S3](http://www.austlii.edu.au/au/legis/qld/consolact/fta1989117/s3.html) and S[4](http://www.austlii.edu.au/au/legis/qld/consolact/fta1989117/s4.html) and used to irrigate crops in the 173 hectare "irrigated" area to the west (left on the diagram) of Stage 2.
+The creation of Water Licence 602026 represented a restriction on the use that could be made at the Property of overland water flow.
+Hitherto there was no limit (apart from the physical capacity of the infrastructure on the Property) on the amount of water that could be captured and used on the Property from overland water flow.
+Water Licence 602026 introduced two restrictions. First, that water could only be drawn at a rate of 114 ML per day, and then only when there was a passing flow of water at St George Weir of 4000 ML per day. Second, there was the overall instantaneous volumetric limit (for the storage and use of water at any one time) of 8360 ML (to be stored "conjunctively" with the water harvested under Water Allocation 1518).
+
+Multi Year Volumetric Limits
+The ROP introduced a "Multi-year accounting water sharing rule".
+The background to that rule was set out in a Consultation Report published in March 2010 by the Queensland Department of Environment and Resource Management ("DERM") as follows: "Most unsupplemented water allocations in the Lower Balonne Water Management
+Area have been established with a condition stating they are managed under an instantaneous volumetric limit water sharing rule. The instantaneous volumetric limit is the maximum volume of water that may be taken and stored at any time under the water allocation. Water taken under the water entitlement may only be stored on the parcels of land described by the administrative plan referenced in the conditions on the water allocation.
+
+Prior to being able to subdivide, amalgamate or trade, water allocation holders will need to apply to remove the instantaneous volumetric limit condition and add a condition stating that the allocation is managed under a multiyear accounting water sharing rule. The multiyear accounting water sharing rule allows the water allocation holder to take water during announced periods up to a volume according to accounting rules which ensure the long- term average annual take of unsupplemented water is not exceeded."
+Thus, were Water Allocation 1518 to be traded, an application would have to be made to DERM to remove the instantaneous volumetric limit condition attaching to the water allocation and to add a multi-year accounting condition.
+The Consultation Report continued: "Hydrology modelling on a case-by-case basis is required to determine what the amended volumetric limit, maximum rate of take and flow conditions will be.
+There is no set formula available which would apply to all water allocations in moving to a multiyear account. This is because volumetric limits, maximum rates of take and flow conditions for water allocations managed under a multiyear accounting rule are based on opportunity of access to flows, rather than the infrastructure used to store the water. Opportunity of access to flows will vary throughout the Lower Balonne system due to the complex hydrology.
+
+Although the volumetric limit of a water allocation managed under a multiyear accounting rule will differ from the instantaneous volumetric limit that was stated on the allocation, the water allocation's share of the resource (the nominal volume) will not change - that is, long-term access to water under the water allocation will not change as a result of management under a multiyear accounting rule. In changing to management under a multiyear accounting rule, water allocation holders will be able to trade their entitlement and reconfigure infrastructure...
+
+If an allocation holder wishes to change a condition on a water allocation from management under an instantaneous volumetric limit to management under a multiyear accounting rule, then an application process applies. The application process may require the allocation holder to provide a hydrology report prepared by a suitably qualified professional to support the application."
+As emerges below, these matters are relevant to the steps that it would have been necessary for the Bank to take, were it to seek to separately trade Water Allocation 1518.
+Further, as I discuss below, in April 2010 there was confusion amongst some irrigators as to how the multi-year accounting rule would operate in practice. That led to the Commonwealth extending, twice, the closing date for tenders for the purchase by it of water rights in the Lower Balonne.
+
+Circumstances leading to the sale 
+On 7 September 2007 the Bank made an advance of $6.7 million to Mr and Mrs Pola and granted them a $500,000 overdraft facility. Those facilities were secured by a first registered mortgage over the Property.
+Mr and Mrs Pola made default under those facilities and, on 22 April 2008, the Bank served letters of demand.
+Thereafter Mr and Mrs Pola, unsuccessfully, sought to refinance their debt to the Bank.
+Mr and Mrs Pola tried to sell the Property. It was listed for auction on 29 October 2009. There were no registered bidders. No offers were made.
+On 3 December 2009 Mr and Mrs Pola surrendered possession of the Property to the Bank. The Bank appointed Mr and Mrs Pola's son, Mr Stuart Pola, as caretaker of the Property pending its sale.
+On 4 December 2009 Mr Ashe wrote to his colleagues: "We have possession of [the Property] ... with minimal drama. We have arranged for Stuart Pola (son) to act as caretaker of the properties and this will negate the need to appoint a Receiver and Manager. This is a softer option for the Bank and one that will minimise any adverse publicity in the area but will still present the Bank with all the controls but at a lesser cost. The properties will be effectively mothballed but necessary maintenance and care of livestock etc will be attended to. Day to day decisions will be the responsibility of Stuart but any expenditure will have to be confirmed through
+Elders in Dirranbandi (to be appointed as the selling agent) and Peter Lloyd (ex KPMG/McGrath Nichol and Elders of Dirranbandi) who is being retained on a consultancy basis."
+On 21 December 2009 the Bank retained Elders. The Bank appointed Elders as agent to sell the Property on behalf of the Bank and also appointed Elders to "act as a pastoral house" for the purposes of the [Property Agents and Motor Dealers Act 2000](http://www.austlii.edu.au/au/legis/qld/consolact/paamda2000355/) (Qld). Elders' retainer specified that the Property would be sold by auction and that Elders would receive a two per cent commission payable on settlement.
+At around this time, Mr Ashe had between 90 and 100 files in his portfolio. He agreed he was too busy to deal with the detail of the marketing of the Property; he delegated that task to Mr Lloyd, Elders, Mr Allpass and Mr Devine.
+Mr Lloyd was approximately eighty years of age at the time. He had been an experienced receiver and had worked at KPMG and McGrath Nichol. After his retirement, he did work for the Bank, amongst other banks. There was, however, no evidence that Mr Lloyd had any particular experience in the sale of tradeable water allocations.
+Mr Allpass and Mr Devine had extensive experience in the sale of rural assets, including irrigated aggregations, such as the Property, in southern Queensland. However, their experience was confined to the pre-ROP market in which the capital value of water entitlements was realised by offering the real estate for sale as irrigated land; that is, with water rights attached. Neither had experience in selling separately tradeable water allocations.
+On 21 January 2010 Mr Ashe, Mr Lloyd, Mr Allpass and Mr Devine inspected the Property.
+Following that meeting Mr Allpass circulated a note of "issues arising" from the visit which included: "● Compile as much concise information as possible avoid talking potential.
+ ● Use overlay maps and aerials, building up from boundaries and water courses.
+ ● Show on overlay, water harvest sites, rivers and overland flows.
+ ● Look at dry land farming capacity.
+ ● Current irrigated areas and development areas...
+ ● Water licence types...
+ ● Pumping capacity, storage capacity, storage type ie. ring tank etc...
+ ● Update valuation report".
+On 27 January 2010 the Bank retained Taylor Byrne Valuers to value the Property. Earlier, in May 2008, the Bank had also retained Taylor Byrne to value the Property. Taylor Byrne then opined that the Property was valued at $9.2 million, inclusive of all water entitlements.
+Mr Ashe's letter of instruction to Taylor Byrne sought "specific comment" on a number of the matters mentioned by Mr Allpass in his note of 22 January 2010 as being "issues arising" from the 21 January 2010 visit to the Property (including overland water flows, current irrigated cultivation sites, potential irrigation sites and water licences).
+Mr Innes of Taylor Byrne inspected the Property on 11 February 2010. His report, which the Bank received on 17 March 2010, valued the Property as at 11 February 2010.
+On 14 February 2010 there was a minor flood on the Property.
+On 22 February 2010 Mr Allpass sent Mr Ashe a report: suggesting 22 April 2010 as an auction date for the Property; recommending a five week advertising campaign commencing on 8 March ;
+ stating that Mr Devine was arranging for an agronomist to prepare a report on soil types and crop suitability at the Property; and stating that he expected to have an information memorandum, advertisements and brochures ready for Mr Ashe's approval within a week.
+On 1 March 2010 Mr Allpass sent Mr Ashe a "[s]uggested advertising schedule for your approval". On the same day, Mr Ashe approved an advertising budget in the order of $29,000.
+On 3 March 2010 the Supreme Court of Queensland dismissed an administrative law challenge to the ROP (Munya Lake Pty Ltd versus Chief Executive, Dept of Natural Resources and Water <case> per White J).
+That decision cleared the way for the implementation of the ROP.
+On the same day of the decision, the Queensland Minister for Natural Resources, Mines and Energy published the following media release: "A Supreme Court decision handed down today gives the State Government the opportunity to finalise a much needed resource operations plan for water users in the Lower Balonne catchment area of south-west Queensland.
+
+A resource operations plan (ROP) is part of the Queensland Government's water planning process and defines water allocations, trading and operating rules and water monitoring for a specific plan area.
+
+The government finalised a ROP for the upper and middle parts of the Condamine catchment in December 2008, however the plan's provisions for the Lower
+Balonne area were deferred when the owner of a property near St George challenged the plan's draft water entitlements.
+ 'The government can now set about finalising the Lower Balonne part of the
+Condamine and Balonne ROP', Minister for Natural Resources, Mines and Energy
+Stephen Robertson said.
+ 'The community has been waiting for this ROP for a number of years. A draft was released for public consultation back in 2007'.
+ 'It's important the plan now be finalised without further delay to provide certainty for water users and the environment of the Lower Balonne', Mr
+Robertson said.
+
+At present, the Lower Balonne is the only major catchment in the Murray-
+Darling Basin that does not have secure tradable water entitlements.
+ 'Finalising the ROP will also allow the Commonwealth to commence negotiations to purchase water allocations from willing sellers under its water buyback program'.
+ 'This is important, recognising that a draft plan for the whole Murray-Darling
+Basin is expected to be released by the Commonwealth Government in mid 2010',
+Mr Robertson said."
+The announcement thus foreshadowed that, in light of the decision of the Supreme Court of Queensland, the Queensland Government would extend the ROP to the Lower Balonne and drew attention to the fact that this meant that the Commonwealth could then implement its water buyback program in the Lower Balonne. 
+On 4 March 2010 Mr Allpass' office sent Mr Ashe draft "editorial" material for use in the proposed advertising campaign.
+Part of the proposed "editorial" material included: "With no significant vegetation restrictions, Mr Devine said the aggregation includes approximately 336ha of developed irrigation country, 150ha of party [sic] developed irrigation land, 930ha protected future irrigation land and ha of mixed open and semi open grazing country including substantial areas of high quality dryland farming soils.
+
+Mr Devine said the irrigation country has been very well developed. 'Under the proposed Balonne Draft Resource Operations Plan, [the Property] will benefit from substantial water harvesting and nominal entitlements from the Balonne
+Minor and Culgoa Rivers', he said."
+On 6 March 2010 there was a second, and major, flood at the Property that destroyed the cotton crop, caused significant infrastructure damage and led to the postponement of the auction then scheduled for 22 April 2010.
+On 8 March 2010 Mr Devine reported to Mr Ashe and Mr Lloyd: "Our attention is now on Dirranbandi, hoping there is not too much grief from this once in a 100 year flood...
+ [The Property] will be a minimum of two months before we can get around and also the grass country starts to recover".
+On the same day Mr Ashe sent an email to Mr Devine, Mr Allpass and Mr Lloyd: "Spoke with Peter Lloyd this morning and fully agree that the auction needs to be postponed to a date to be sent".
+On 11 March 2010 an advertisement for the sale of the Property was published, endorsed with a prominent notice "Postponed Due to SWQ Floods, Future date to be announced".
+On 15 March 2010, the then Minister for Climate Change, Energy Efficiency and Water, Senator Wong, published a media release in the following terms: "New water purchase tender announced for the Lower Balonne catchment 
+The Minister for Climate Change, Energy Efficiency and Water, Senator Penny
+Wong today announced a new $100 million water purchase tender in Queensland's
+Lower Balonne, to commence on 22 March 2010.
+
+The Lower Balonne purchaser tender is part of the Australian Government's $3.1 billion Restoring the Balance in the Murray Darling Basin water purchase program that is returning water to the Basin's rivers and wetlands.
+ 'The best way to improve the health of the Basin's rivers is by reducing how much water we take from them', Senator Wong said.
+ 'The fastest way to reduce how much we take from the rivers is by purchasing from the many willing sellers throughout the Basin'.
+
+As always, water entitlements offered to the Commonwealth for sale are subject to value-for-money assessment in the context of prevailing market prices, competing offers and potential environmental benefit.
+ 'The Lower Balonne system has been identified as a high priority for environmental water recovery. Water purchases made through this tender will deliver tong-term benefits by providing additional water to key environmental assets such as the Culgoa Floodplain and the Ramsar-listed Narran Lakes'.
+
+The path has been cleared for water entitlements in the Lower Balonne to be traded separately from land following a decision by the Supreme Court of
+Queensland. This has enabled the Queensland Government to introduce legislation into the Parliament that will finalise the Resource Operations
+Plan (ROP) governing the Lower Balonne.
+ ...
+
+The new tender will close on 16 April 2010, or 10 working days after the ROP is finalised, whichever is later. This will allow licence holders to fully assess the implications of the new ROP before finalising their tender bids.
+ ...
+
+As at 28 February 2010, the Australian Government has secured the purchase of billion litres of water entitlements for the Murray Darling Basin's rivers and wetlands, worth some $1.27 billion.
+
+Copies of the guidelines and the application form for people willing to sell their water will be available at www.environment.gov.au/waterpurchasing on
+March 22 or can be obtained at that time by calling 1800 218 478."
+As I have mentioned, the tender was, ultimately, extended to 21 May 2010.
+On behalf of Mr and Mrs Pola it was submitted: "The entry of the Commonwealth bolstered the existing water market in the
+Condamine/Balonne River system which took into account not only the value that might be derived from using the water to irrigate, either efficiently or inefficiently, but also the environmental value of the water. The Commonwealth not only established the environmental value of the water, it also underpinned the market so that anyone with a water allocation or seeking a water allocation knew that there was a market and knew that the value of a water allocation could be ascertained then and into the future".
+Mr Ashe agreed that he understood that he needed not only formally to approve the Agents' actions, but also needed to supply them with information. As at 15 March 2010 Mr Ashe understood: the Commonwealth had a view that there were prevailing water markets for water entitlements; the Lower Balonne was a priority area for environmental water recovery; and the path to sale of water allocations to the Commonwealth had been cleared by the Supreme Court of Queensland.
+However, Mr Ashe did not: find out when, in relation to the Commonwealth water buyback of March to
+May 2010, guidelines and the application form became available; obtain a copy of the guidelines or application; ask Mr Devine or Mr Allpass to obtain a copy of the guidelines or application; follow up on the Commonwealth announcement; ask the Agents to give him any advice on the ROP; ask the Agents to give him any advice of the impact of separately tradable water allocations on the Property; or supply the information which he received on 12 April 2010 concerning
+Water Allocation 1518 or Water Licence 602026 (see [121] below) to Mr Allpass or Mr Devine.
+Mr Ashe relied on Mr Allpass and Mr Devine to follow up on the Commonwealth's announcement and to research the impact of the Commonwealth's announcement. He did not, however, communicate his reliance directly to Mr Allpass or Mr Devine.
+On 17 March 2010 Mr Innes sent the Bank his valuation of the Property as at 11 February 2010 (on which date the ROP was yet to be implemented; the challenge to the ROP the subject of the decision of the Supreme Court of Queensland in the Munya Lake case had not then been determined).
+In the covering letter to the valuation, Mr Innes said: "It is pertinent to note that [the Property] has been valued on an 'in-one- line' basis, i.e. inclusive of land, structures and irrigation licences.
+Following the implementation of the [Resource Operating Plan] for the
+Condamine and Balonne River system, it will be possible to sell the water licences separately from the land. As you would be aware, currently the
+Federal Government is in the process of 'buying back' water licences along the
+Murray Darling Basin, and depending upon the value set for water allocations in the Lower Balonne Water Management Area, greater value may be realised in selling the [the Property] on a 'piecemeal' basis i.e. selling the water and land separately.
+
+Until such time as a sale or sales of water allocation takes place, it is difficult to quantify what the impact in selling the property 'piecemeal' may be. In the event the Valuer is advised of sales of water taking place along the Condamine and Balonne River system, which provide a benchmark as to water values in the area, we will provide guidance as to the possible values to be realised for [the Property], if sold on that basis."
+Because Mr Innes valued the Property at 11 February 2010, he valued the Property and its associated water rights as an aggregation; that is, on an in-one-line basis.
+When the report was prepared and sent to the Bank, on 17 March 2010, there had been very significant developments since 11 February 2010. The Supreme Court of Queensland decision of 3 March 2010 had cleared the way for the extension of the ROP to the Lower Balonne, the proposed implementation of that extension had been announced, and the Commonwealth had announced its proposal to tender for water licences in the Lower Balonne.
+Mr Innes drew attention to those matters in his letter and said that "depending on the value set for water allocations" in the Lower Balonne, "greater value may be realised" by selling "the water and land separately".
+As Mr Ashe agreed he understood that Mr Innes was raising, as a real prospect for the Bank's consideration, the separate sale of water rights associated with the Property.
+Mr Innes said that it would be difficult to quantify the impact of selling the Property "piecemeal" and that if he became aware of sales of water allocations which might provide a "benchmark" he would provide to the Bank "guidance" as to the possible values to be realised in relation to water rights associated with the Property.
+Mr Ashe heard no further from Mr Innes. He gave evidence that, not having heard from Mr Innes, he assumed Mr Innes had not come across any proven sales such as would provide a benchmark of the kind described. In those circumstances, Mr Ashe said he assumed that there were no proven sales that could be taken into account.
+On the other hand, the Taylor Byrne valuation stated that: "This valuation assumes all water entitlements referred in this report are utilised on the property, are unencumbered, and will continue to be renewed on the same terms and conditions. They form an integral part of the valuation and any changes could result in significant changes in value. If water entitlements referred to in this report change, this valuation should be referred back to the Valuer for review and comment."
+Although Mr Ashe knew of the changes to the water entitlements associated with the Property as a result of the extension of the ROP to the Lower Balonne, he did not refer Taylor Byrne's valuation back to Mr Innes for further consideration.
+In fact, despite Mr Innes's comments, Mr Ashe formed the tentative view on or about 17 March 2010 that it would be unwise to sell separately any water allocations. In coming to that tentative view, Mr Ashe said he relied upon knowledge gained from his long career at the Bank, although he accepted he had no qualifications as either a real estate agent or valuer. Mr Ashe also knew that there had been a market for water allocations and catchments other than the Lower Balonne for approximately two years prior to March 2010.
+In his affidavit evidence, Mr Ashe said: "I formed the view that it would be unwise to separately sell any water rights allocations for the following reasons: first, I observed from the contents of the file maintained by [the Bank] that one of the main reasons Mr and Mrs Pola found themselves in financial difficulties was because of prolonged drought conditions which affected [the
+Property] prior to 2007; secondly, the market for the buyback of water allocation rights [in the
+Lower Balonne] was entirely untested and unknown at that time; thirdly, the sale of any water allocation rights, even at a substantial price, may well have resulted in a greater deterioration in the overall market value of [the Property]; and fourthly, the irrigated portion of the property was in part used to grow cotton, which is heavily reliant on abundant irrigation."
+Mr Ashe said he did discuss with Mr Lloyd the value of the water stored at the Property in situ. He said at no stage did he discuss with Mr Lloyd "the likely value of any separate sale of water allocation rights" but: "What I did discuss with [Mr Lloyd] was the prospect of getting the property sold without water allocations".
+Mr Ashe never resiled from the tentative view formed on or about 17 March 2010. Nor did he provide a copy of Taylor Byrne's letter of 17 March 2010, or otherwise disclose its contents, to the Agents because he understood Mr Innes had merely raised "possibilities, not giving information that we were seeking".
+Mr Ashe said: "In summary, I did not consider there was any or any sufficient justification to potentially depress the realisable value of [the Property] by selling off some or all of the available water allocation rights. Particularly as I had no reliable information concerning the likely value of the water rights or, more importantly, the effect any sale of water rights would have on the residual land value. I also took into account the water intensive farming activities necessary for a successful cotton crop and the historical drought conditions that impacted on the property. I also recall that the opportunity to offer water allocation rights to the Federal Government for sale was short lived and, as such, there was insufficient time in any event to undertake any rational assessment of the economic benefits in offering water rights for separate sale".
+From the outset, Mr Allpass and Mr Devine formed the view that the best marketing strategy was to sell the Property as an aggregation; in-one-line.
+Mr Allpass was particularly influenced by the emphatic view he said Mr Lloyd had expressed on the subject, which was to the effect that there was "no chance" that the Property should be marketed otherwise than in-one-line. As Mr Lloyd did not give evidence, I do not know upon what basis he came to this conclusion. As I have mentioned, there was no evidence that he had any experience in selling irrigated aggregations in a market where water allocations were separately tradeable.
+Mr Allpass gave this evidence: "Q. Is this fair to say: based some of the answers you gave before, that you decided on the marketing strategy before you found out about the...
+
+A. Yes.
+
+Q. ...water tender buyback, and that was to sell in one lot? 
+A. Yes.
+
+Q. That was at the time when all of the water licences and water entitlements were attached to the land? 
+A. Yes, yes.
+
+Q. You didn't change that strategy after you found out about the Commonwealth tender? 
+A. No.
+
+Q. Or after the ROP came into effect? 
+A. Yes."
+Mr Devine gave this evidence: "Q. Mr Devine, in 2010, March to August when you were marketing the Polas' assets, you have agreed that you didn't have any idea of the value of the water allocation if separately sold? 
+A. Yes.
+
+Q. And you didn't seek any advice as to what that value might have been, did you? 
+A. No.
+
+Q. And you didn't recommend to the bank that they seek advice? 
+A. No.
+
+Q. And being unclear as to the market for separately tradeable water allocations, you didn't seek any advice as to the market, did you? 
+A. No. I didn't...
+
+Q. And you didn't - I am sorry, did that answer the question whether you sought advice or not? 
+A. Well, I - I just thought because I was in - I have been in the industry for such a long time.
+
+Q. You didn't need to seek advice? 
+A. No.
+
+Q. But you had no experience, I think you agreed with me, of selling separately tradeable water allocations, did you? 
+A. If there has been no sales, how can you get advice? 
+Q. No, you had no experience of selling separately tradeable water allocations, did you, as in the period between March to August 2010? 
+A. Yes.
+
+Q. You were unclear as to the market...
+
+A. Yes.
+
+Q. ... for separately tradeable water allocations at that time? 
+A. Yes.
+
+Q. And you didn't seek any advice as to the market for separately tradeable water allocations at that time, did you? 
+A. That's right.
+
+Q. No, you mean? 
+A. Yeah, yeah, I didn't get any advice.
+
+Q. Aware of your lack of experience, your lack of idea of the value of the water allocation if sold separately and your lack of clarity as to the market, you didn't raise those matters with anyone from Elders or the bank, did you? 
+A. No.
+
+Q. Indeed, you had no information available to you which would indicate one way or other what would be the best way of marketing the separately tradeable water allocation, did you? ...
+
+A. No.
+
+Q. And what you did was you went ahead as if the separately tradeable water allocation was attached to the land, is that right? 
+A. That's right.
+
+Q. And you marketed the property as if the changes which occurred in March had not occurred? ...
+
+A. That's right, yes."
+On 18 March 2010 Mr Devine reported to Mr Ashe, Mr Lloyd and Mr Allpass that he had conducted an aerial inspection of the Property in the preceding days and that: "The property will be a basket case for some months with oblivious [sic] damage to fencing, irrigation etc not to mention the pasture will be a mud paddock."
+On 22 March 2010 the Commonwealth published its "Tender Guidelines" for water buyback in the Lower Balonne. The Guidelines stated that the Lower Balonne catchment had been ranked by the Commonwealth as "high priority for environmental water recovery" (emphasis in original). 
+The Guidelines also stated that there was a "Price Benchmark" as follows: "The per/ML price benchmark for an allocation is set with reference to the estimated market value of the allocation, the average annual volume of water that the Commonwealth expects to receive from the allocation, the environmental benefits expected from the purchase of the allocation, and other relevant costs and risks. The Department [of Environment, Water, Heritage and the Arts] draws upon expert advice on the market value of allocations in the
+Lower Balonne in setting price benchmarks."
+The Tender Guidelines set out the procedures to be followed in relation to tenders and attached a form of "Application to sell permanent water entitlements to the Commonwealth 2009 - 2010".
+Meetings were organised in the Lower Balonne to educate irrigators, and others, as to the impact of the extension of the ROP to the Lower Balonne and the implications of the Commonwealth's buyback tender.
+Mr Stuart Pola, as the de facto caretaker of the Property, was in the habit of sending Mr Ashe weekly reports of his activities on the Property. At the end of March 2010 Mr Pola reported to Mr Ashe that on 24 March 2010 he: "Went to Smart River meeting - water selling to government".
+On 26 March 2010, the ROP was extended to the Lower Balonne. Mr and Mrs Pola, and the Bank, were not formally notified of this fact by DERM until (at the earliest) 12 April 2010 (see below). 
+On 31 March 2010 DERM organised an information session at St George concerning the Commonwealth's "water buyback" scheme. Mr Ashe learned of this meeting when he received an email from DERM on 15 April 2010. 
+On 12 April 2010 DERM wrote to Mr and Mrs Pola advising them that the ROP had been extended to the Lower Balonne and enclosing "Notices of Decision" of the grant of Water Allocation 1518 and Water Licence 602026.
+That letter was "cc'd" to Mr Ashe and the Bank, presumably because the Bank's interest in the Property as mortgagee was noted in DERM's records.
+The evidence does not reveal when, precisely, Mr and Mrs Pola and Mr Ashe received DERM's letter of 12 April 2010. I infer it was received within a day or two of its date.
+As at the date of DERM's letter, the Commonwealth's water purchase tender in the Lower Balonne was due to close on 16 April 2010.
+On 13 April 2010 the Commonwealth announced that the tender would be extended (from 16 April 2010) for two weeks to 30 April 2010.
+In a media release, Senator Wong said that a number of factors had contributed to that decision including that at the information session of 31 March 2010 to which I referred at [120] above: "Lower Balonne irrigators... asked for more information about how the multi- year accounting rule would apply to irrigators' entitlement."
+On 15 April 2010 DERM sent a circular email to, amongst others, Mr Ashe, referring to the 31 March 2010 information session at St George and attaching: "... information that applies to the current instantaneous volumetric limit and the proposed multi-year volumetric limit for unsupplemented water allocations in the Lower Balonne."
+So far as concerns the Property, the document stated that the multi-year volumetric limit for the two relevant water entitlements was 2394 ML for Water Allocation 1518 and 4237 ML for Water Licence 602026.
+On 20 April 2010 the Bank registered a mortgage over Water Allocation 1518.
+On 25 April 2010 Mr Lloyd circulated the minutes of a meeting he had with Mr Allpass on 21 April 2010 to Messrs Ashe, Allpass and Devine stating that the postponed auction date: " ... needs to take into consideration that settlement will need to be given [sic] at least 2 months before Summer planting is to commence in November".
+Mr Lloyd was referring to the fact that the cotton crop at the Property would have to be planted in time for the summer season. Mr Pola said that he invariably caused the cotton crop to be planted at the Property no later than 15 October in each year. Mr Lloyd's note assumed that a purchaser of the Property would wish to use its irrigated land to grow cotton, would wish to catch the 2010/2011 season and would thus wish to secure the Property in time to put the cotton in on time to meet the season.
+Shortly prior to 30 April 2010, the Commonwealth announced that its water purchase tender for the Lower Balonne was to be extended to 21 May 2010 and stated: "The extension to the closing date of the tender is necessary so that the
+Queensland Department of Environment and Resource Management (QDERM) may provide further information to irrigators on the implications of the multi- year accounting rule for their licences.
+
+Both irrigators and the Australian Government need to be assured that tender bids accurately represent licence holdings under the new multi-year accounting rule. The extension of the tender will provide extra time for irrigators to finalise their bids, in light of full information on the impact of the rule on the future uses of their licences...
+
+To date there has been strong interest from irrigators wishing to sell their allocations to the Australian Government through the Queensland Lower Balonne tender."
+On 4 May 2010 Mr Saal, on behalf of Mr and Mrs Pola, wrote to Mr Ashe at the Bank: "The Commonwealth has invited Lower Balonne landholders to sell their irrigation water entitlements to it. The time for expressions of interest has been extended to 21st May 2010. I think there is a good prospect of selling some of the [Property] water entitlements to the Commonwealth and substantially reduce the mortgage debt.
+
+Water allocation 1518... might be sold to the Commonwealth to reduce the mortgage debt. I believe that the range of selling prices is $1,700 per Ml - $2,500 per Ml. The sale of the above entitlement or part of it will not significantly reduce the productive capacity of [the Property]. Recent calculations by the Queensland State Government department responsible for these entitlements confirm that the overland flow entitlement on [the
+Property] is 8,360 Ml per 'flow event'. That figure is 1,700 megalitres more than that was previously notified by the Department. Thus, the sale of water allocation 1518 (or part of it) would be offset by the increased overland flow entitlement.
+
+If the mortgage debt was reduced was selling the whole or part of the water harvesting entitlement 1518, then there appears to be a very good prospect of refinancing the balance of the ANZ mortgage debt and bringing the current problems to an end for the ANZ Bank and the Polas.
+
+The purpose of this letter is to ask the ANZ Bank to consider this opportunity. It provides a chance which was not previously available for the resolution of the mortgage issues. The chance is only available until 21st May
+I doubt that the retention of the water harvesting rights will make a significant difference to as [sic] land sale price at a mortgagee auction. It would, however, make a very serious difference to the prospects of reducing the debt and then discharging the mortgage by refinancing.
+
+Would you please let me have an urgent response?"
+Mr Saal sent that letter to Mr Ashe under cover of an email sent at 11.03am.
+At 11.59am (56 minutes later) Mr Ashe replied: "We have read the attached correspondence and given the matter due consideration. While a sale of part of the water allocation may bring about some debt reduction, there is still no guarantee that Mr and Mrs Pola will be able to arrange refinance for the residual debt. In the circumstances, we advise that [the Bank] is not willing to agree to the proposed sale and that it will be progressing with the mortgagee sales of ... [the Property]."
+I refer further to this somewhat peremptory response below (see [256] below).
+By June 2010 repairs to the infrastructure on the Property following the 6 March 2010 flood had been effected. Mr and Mrs Pola do not dispute that, as mortgagee in possession, the Bank took all reasonable steps to cause those repairs to be effected and otherwise to restore the Property to its pre-flood condition. Once those repairs were effected, the marketing campaign was prepared.
+It was common ground that, at this time, the market for property in the Lower Balonne region was slow.
+A valuer called by Mr and Mrs Pola, Mr Mark Harrison, said that as at 1 October 2010: "The general market for property in the Lower Balonne has been slow with very few transactions occurring since late 2007, early 2008 ... There are a significant number of properties on the market in both the grazing and irrigation sectors and attracting very little interest from buyers."
+Another valuer, Mr Shaun Hendy, in a report served by the Bank but, in circumstances to which I refer below, tendered on behalf of Mr and Mrs Pola, said: "The market was very slow, sales volumes had declined to almost a standstill for assets that were considered less than institutional quality. Economic conditions were also such that there was a negative impact on local investment sentiment. Grazing properties had been particularly affected dropping from the highs of 2007/08".
+However, both Messrs Harrison and Hendy opined that the introduction of the ROP had made some difference to market sentiment. 
+Thus, Mr Harrison said: "Interestingly, there has been some renewed interest in the sector with the amount of water available and the release of the Resource Operating Plan has given some surety to the irrigation enterprise."
+Mr Hendy said: "In the Lower Balonne during 2010 there was a degree of optimism that had not been felt for some time, in regards to being able to produce a crop, as irrigators then had water. There were some producers having to conduct repairs as a consequence of the flood, however this was generally offset by the production possibilities for the next two seasons being very good.
+
+With good production possibilities, vendors were not reducing asking prices as above average returns were being forecast. However there were still no buyers in the general market willing to meet vendor expectations."
+On 9 June 2010 Mr Lloyd recommended that the auction campaign commence on 24 June 2010. By the end of June 2010 a revised advertising budget had been set and an auction date of 17 August 2010 selected.
+The Property was advertised widely in the Australian Financial Review, Queensland Country Life, The Land and The Australian, as well as in the local newspaper, the Balonne Beacon ("the Advertisments"). Mr and Mrs Pola make no complaint about the length or breadth of the advertising campaign. Mr and Mrs Pola's complaint is about the omission from the Advertisements of any reference to the water entitlements associated with the Property, and in particular, to the separate tradability of Water Allocation 1518.
+The Advertisements were in the form annexed to these reasons (Annexure B).
+As can be seen, the Advertisements were headed "Mortgagee Exercising Power of Sale", referred to the Property as being irrigated, and to "centuries of alluvial flows" and gave details of the water storage capacity on the Property. They also referred to "cotton gin", thus implying its proximity to the Property. However, the Advertisements did not mention Water Allocation 1518, Water Licence 602026, or any other water entitlements associated with the Property.
+Mr and Mrs Pola claim that the Advertisements were deficient in that, to adopt the language used in Mr Wright's opening submissions: "... they did not draw attention in any way to the fact that separately tradeable Water Allocation 1518 existed or was to be offered for sale together with [the Property] nor did they mention the significant rights and benefits inherent in Water Licence 602026 which was attached to the land."
+Each of Mr Ashe, Mr Allpass and Mr Devine said that they believed that it would be well known in the market place that an irrigated property would have water entitlements and that the water allocation changes brought by the extension of the ROP to the Lower Balonne would also be well known in the market. Mr Devine said that those changes had been "talked about for so long in the district". Mr Allpass said he thought "[t]he market was very much a locally based market at that time", although he later added that "irrigation farmers in Australia have a very strong level of knowledge in general of what's going on".
+
+The brochure
+Elders also produced a brochure which contained the following information concerning irrigation licences, irrigation development and water: "IRRIGATION LICENCES 
+Under current proposed Balonne R.O.P, [the Property] benefit[s] from substantial overland flow and nominal allocation entitlements from the Balonne
+Minor and the Culgoa Rivers. Present licences allow 10,500 ML capacity.
+Overland flow gravity fills a significant portion of the main 5,300 ML ring tank.
+
+IRRIGATION DEVELOPMENT 
+Current approx 5,300 ML plus drains stored. Stage 1: Field area, 161 ha approx (400 acres); storage 2,200 ML... pumping from the Balonne...
+
+Stage 2: Filed area, 175 ha approx (432 acres); storage 5,300 ML + surge area ,800 ML...
+
+WATER ● Permanent water Balonne Minor River with weir plus the Culgoa River ● Semi-permanent holes in creeks ● Unequipped new bore (pumping capacity estimate 800 gal per hour) ● Small earth dams and water troughs ...
+
+AGENTS COMMENT: Possibly the best mixed farming, grazing and irrigation opportunity in a long time! [The Property] is being sold bare of livestock and plant. Irrigation country currently being worked."
+The brochure emphasised the irrigated nature of the Property. It referred to the "irrigation licences" but, wrongly, described the ROP as being "proposed". It referred to "substantial overland flow and nominal allocation entitlements" without referring, in terms, to Water Allocation 1518 or Water Licence 602026.
+
+The Information Memorandum
+Mr Allpass and Mr Devine also prepared an Information Memorandum that was approved by Mr Ashe on 9 July 2010.
+The Information Memorandum stated, on its cover, "Mortgagee Exercising Power of Sale".
+The Introduction to the Information Memorandum stated: "'Kilcummin - Cawildi' 
+An Agricultural Blue Chip in the Making! 
+In the passing parade of quality properties, great opportunities come and go.
+ 'Kilcummin' & 'Cawildi' is one such quality agricultural offering that offers a diversity of income options plus considerable value adding-expansion opportunities.
+
+The fundamentals of water, security of Title and soil fertility are inherent in this offering and will drive production and capital growth in a growing world food market.
+
+Currently enjoying an excellent season. Your timing is possibly as good as it is going to get if you were to buy now." (emphasis in original).
+The Information Memorandum described the "Classification of Country" as including 336 hectares of "flood protected developed irrigation land" and described the Property's "Irrigation Development" as follows: "Stage 1: Irrigation development comprises heavy black soils well suited for irrigation purposes, with approximately 161 ha. developed to flood irrigation and 56 ha. developed storage dam.
+
+Stage 2: Situated in the cental portion of the properties, this stage comprises approximately 175 ha. of levelled irrigation development and 130 ha.
+of storage dam, with 170 ha. partly formed surge area and 190 ha. open surge area. Areas to the east of the development have been pulled and burnt in readiness for future development..."
+So far as water is concerned the document stated: "Natural water supplies are provided from holes in the Balonne Minor, Tobee and Quart Pot Creeks, Culgoa River and Oakey Creek.
+
+Permanent water supplies are available in the Balonne Minor River and the
+Culgoa River...
+
+A borehole is located just to the south of the western woolshed...
+
+A series of small earth dams and water troughs are situated throughout the properties..." [Section 13](http://www.austlii.edu.au/au/legis/qld/consolact/paamda2000355/s13.html) of the document dealt with Water Licences as "attached".
+The Information Memorandum then annexed two letters sent by DERM to Mr Devine on 16 and 22 June 2010. Those letters attached copies of the relevant water entitlements.
+The 16 June 2010 letter read: "I wish to advise that this office has records of; ● Two (2) Water Entitlements 175747 & 185855, plue One (1) Riparian Water
+Access 169350 attaching to the land described as Lot 9 on Plan BLM985.
+ ● Please note, that licence 39378Q, which attached to Lot 10 on Plan SP108587 and Lot 9 on Plan BLM985 has now been converted to a water allocation under the Balonne Condamine Resource Operating Plan 2010, as Lot 1518 on Crown
+Plan AP7858 (not attached to land).
+ ● Overland Flow Works Notification Acknowledgments 400803, 400806, 400811 & 400812 are also attached to the lands described as Lot 10 on Plan
+SP108587 and Lot 9 on Plan BLM985."
+The 22 June 2010 letter included: "It has come to our attention that an additional water licence 602026 for the taking of overland flow water has been issued to this client under schedule 13 of Condamine and Balonne Resource Operation Plan amended 2010.
+
+This license is attached to the lands described as Lot 10 on Plan SP108587 and
+Lot 9 on Plan BLM985 and was not detected by our database at the time of the original search request.
+ ● Two (2) Water Entitlements 175747 & 185855, plus One (1) Riparian Water
+Access 169350 attaching to the land described as Lot 9 on Plan BLM985.
+ ● Please note, that licence 39378Q, which attached to Lot 10 on Plan SP108587 and Lot 9 on Plan BLM985 has now been converted to a water allocation under the Balonne Condamine Resource Operating Plan 2010, as Lot 1518 on Crown
+Plan AP7585 (not attached to land).
+ ● Overland Flow Works Notification Acknowledgements 400803, 400806, 400811 & 400812 are also attached to the lands described as Lot 10 on Plan
+SP108587 and Lot 9 on Plan BLM985."
+The enclosures to those two letters, including Water Allocation 1518 and Water Licence 602026, were also attached to the Information Memorandum.
+The inclusion of the two letters from DERM to Mr Devine of 16 and 22 June 2010 (and their annexures) constituted the only reference in the Information Memorandum to Water Allocation 1518 and Water Licence 602026.
+DERM's letter of 16 June 2010 to Mr Devine stated, accurately, that Water Allocation 1518 was "not attached to land".
+Mr Wright relied upon that statement as demonstrating that the Information Memorandum conveyed that Water Allocation 1518 was not offered as part of the sale.
+I do not accept that submission. A fair reading of the Information Memorandum is that the Property was offered with the Water Licences "attached" to [section 13](http://www.austlii.edu.au/au/legis/qld/consolact/paamda2000355/s13.html) of the Information Memorandum. Apart from a photograph of a water storage area, the first document "attached" to [section 13](http://www.austlii.edu.au/au/legis/qld/consolact/paamda2000355/s13.html) was DERM's letter of 16 June 2010. That attachment made clear, in my opinion, that one of the "Water Licences" that was being offered for sale was Water Allocation 1518. The statement in DERM's letter of 16 June 2010 that that water allocation was "not attached to land" would not convey to the reasonable reader of the Information Memorandum that Water Allocation 1518 was not being offered for sale with the Property. Rather it would convey, as was the fact, that that water allocation was offered for sale but was not "attached to land"; that is, was tradeable.
+The only reference to Water Licence 602026 was that contained in DERM's letter of 22 June 2010 to Mr Devine. Mr Wright criticised this as being an "obscure" reference to the "most valuable right" attached to the Property. That submission was based upon Mr Pola's evidence that, in his experience, overland water flow was the most reliable source of irrigation water on the Property; that is, more reliable than water drawn from the Balonne River under Water Allocation 1518.
+No doubt the Information Memorandum could have placed greater emphasis on Water Allocation 1518 and Water Licence 602026. However, a fair reading of the Information Memorandum as a whole makes clear that those two water entitlements were offered for sale as part of the Property.
+
+Inspections
+Mr Devine said that eight prospective purchasers inspected the Property.
+He said that not one of those prospective purchasers expressed an interest in purchasing Water Allocation 1518 separately from the Property or of purchasing the Property with a view to on-selling Water Allocation 1518 (whether to the Commonwealth or another irrigator).
+Mr Wright relied upon this fact as demonstrating that the advertising campaign had been defective, in the manner that I have outlined.
+
+Events leading up to the auction
+On 11 August 2010 newly elected Prime Minister Gillard made a public commitment to the water buyback. On 11 August 2010 The Australian reported: "Julia Gillard has unveiled an open-ended water buyback plan to save the
+Murray-Darling Basin.
+
+The plan would... cost taxpayers at least $1.1 billion above the $3.1bn already committed to the nation's largest river system...
+
+The government has already bought back 900 billion litres, spending $1.4bn of the $3.1bn allocated for the purpose...
+
+Ms Gillard signalled that the government expected the [Murray-Darling Basin
+Authority] would call for an increase in the planned water buyback quota. She said it was inevitable that the report would call for more water to be purchased, but she said she was determined to do what was necessary to implement the Murray-Darling Basin plan.
+
+The Prime Minister said any additional funds would be allocated in a manner consistent with the government's budget rules, meaning the water buyback program would continue beyond 2014..."
+On 13 August 2010 the Bank's solicitors forwarded to Mr Ashe an "updated draft" contract for the sale of the Property which "incorporated some amendments around the converted water allocation".
+No earlier drafts of the contract were in evidence.
+The "updated draft" of 13 August 2010 described the Property as: "Lot 10 on SP 108587, Lot 9 on CP BLM 985 and Water Allocation 1518 on CP AP ".
+On 16 August 2010 Mr Ashe wrote to Mr Allpass informing him that the Bank had fixed the reserve price for the auction at $8.5 million (the figure in Mr Innes's valuation of 11 February 2010).
+The auction took place on 17 August 2010. There was only one bid: $3 million. The Property was passed in on the auctioneer's bid of $6 million.
+Mr Devine negotiated with Mr Houlahan, the only person to bid at the auction, and with other prospective purchasers. On 20 August 2010 Mr Devine reported to Mr Ashe: "I have now managed to get Vaughan and Leslie Houlihan [sic] our only bidders at the Kilcummin/Cawildi auction from $5.25 to $6 million dollars.
+
+I did speak to a Peter Gates [who had not attended the auction but to whom Mr
+Devine had provided a copy of the Information Memorandum] who called about inspecting the property and told him we had interest in the low six million dollar bracket but he did not seem concerned if he missed out. I have also spoken to the Ray White agent Scott Wilson who is acting on behalf of a Steve
+Hamilton of Toowoomba. They did hint an offer of $5.5 million but have yet to formalise that.
+
+I have spoken to all the other prospects who had inspected the property and to date have not had any competing interest."
+On 23 August 2010 Mr Devine reported to Mr Ashe: "The Hoolahan [sic] family completed a second inspection yesterday at
+Kilcummin. There has been no other interest to date. I plan to contact all the people who inspected the property again over the next few days."
+Mr Devine said that his further contact with the parties who had inspected the Property engendered no further interest.
+On 25 August 2010 Mr Devine wrote to Mr Ashe listing 13 individuals to whom a brochure and Information Memorandum had been supplied. He wrote: "Please find latest feedback in relation to Kilcummin/Cawildi prospects. All parties felt that 7.65 mil was too dear under the present climate.
+
+The only genuine operator is Vaughan Houlahan."
+On 2 September 2010 Mr Saal wrote to Mr Ashe's assistant manager, Mr Byrne, requesting a "period of grace to gain a sale" until 31 December 2010.
+Mr Byrne replied that: "[The Bank] is willing to give this matter further consideration. Could you please prepare a more detailed brief and submit to myself for further analysis.
+
+Please note however, that Elders are still in negotiation with registered bidders from the auction. Should this process elicit an offer that is acceptable to [the Bank] in its absolute discretion, then this will be accepted."
+On 13 September 2010 the Bank exchanged contracts with Mr Houlahan to sell the Property to him for $6.1 million. Settlement took place on 20 October 2010.
+
+The valuation evidence 
+Generally
+Valuation reports from five valuers were before the Court. Only two of those valuers were called to give evidence, and be cross-examined. Those valuers were Mr Harrison (part of whose evidence I referred to at [139] above) and Mr David Purtle; both called on behalf of Mr and Mrs Pola.
+Mr Purtle expressed an opinion about the separate value of Water Allocation 1518. I rejected that part of Mr Purtle's report as expressed an opinion about the value of Water Licence 602026 (Australia and New Zealand Banking Group Ltd versus Pola  <case>
+Mr Harrison inspected the Property on 1 October 2010 (after the Bank had exchanged contracts to sell to Mr Houlahan, but before the sale to Mr Houlahan had settled) and valued the Property as at 15 September 2010. Mr Harrison expressed an opinion as to the value of the Property in-one-line, the separate value of Water Allocation 1518, and the value of the Property without Water Allocation 1518 (but with all other water entitlements, including Water Licence 602026).
+At the conclusion of his cross-examination of Mr Harrison, Mr Lucarelli, who appeared for the Bank, announced that the Bank did not propose to adduce any valuation evidence.
+Mr Wright thereupon tendered two reports of Mr Hendy (part of whose evidence I referred to at [140] to [143] above). The Bank had previously served those reports pursuant to [Uniform Civil Procedure Rules](http://www.austlii.edu.au/au/legis/nsw/consolreg/ucpr2005305/) r 31.28. Accordingly, Mr Wright submitted, they were admissible by reason of UCPR r 31.29. I admitted those reports provisionally, reserving to Mr Lucarelli the right to argue, in final submissions, that the reports were not receivable under UCPR r 31.29. Mr Lucarelli made no such submission.
+The first of the reports of Mr Hendy tendered by Mr Wright was a retrospective valuation of the Property as at 13 September 2010 in-one-line, a valuation of the separate value of Water Allocation 1518, and of the Property without Water Allocation 1518.
+The second of Mr Hendy's reports tendered by Mr Wright answered the following questions (posed by the Bank's solicitors): "If you had been asked to provide a valuation of the tradeable Water
+Allocation 1518 at any time prior to 11 May 2010: 
+A. on the basis of the information available at that time, prior to 11 May , could you have expressed any reliable or accurate opinion as to the value of the Water Allocation 1518?; and 
+B. if so: - what would that opinion have been?; and - would that opinion have been qualified or conditional and if so what would have been the qualifications or conditions?" (emphasis in original).
+An earlier valuation by Mr Hendy of the Property as at 13 July 2010 in-one-line, commissioned by a prospective purchaser of the Property was already in evidence as part of the Court Book.
+Mr Innes's report as at 11 February 2010 (referred to at [74] above) was also admitted into evidence as part of the Court Book.
+In these circumstances, the evidence of Mr Innes and Mr Hendy was not tested in cross-examination.
+
+Summary of the valuations
+The opinions expressed by the various valuers are summarised in the following table (which also records the average price of "offers pursued" by the Commonwealth during the May 2010 tender): 
+Innes at 11 February 2010 
+Hendy at 13 July 2010 
+Harrison at 15 September 2010 
+Hendy retrospective to 13 September 2010 
+Hendy: what advice would have given March - May 2010 
+Purtle at 15 September 2010 
+Average price offers pursued by Commonwealth in May 2010 tender  ---|---|---|---|---|---  
+Sale in-one-line $8.5m $8.15m $8.575m $7.0m 
+WA 1518 $1500 per ML = $2.895m $910 to $1120 per ML = $1.76 to $2.16m $1200 to $1600 per ML = $2.316m to $3.088m $1400 per ML = $2.702m $1433.30 per ML = $2.765m  
+Excluding WA 1518 $7.9m $5.36m
+Mr Hendy's valuation of Water Allocation 1518 as at 13 September 2010 represented a 30 per cent discount on his "willing buyer and willing seller" valuation to account for the "true market circumstances". The basis for this opinion was that, as at 13 September 2010, there was no current Commonwealth tender for water in the Lower Balonne on foot or foreshadowed, and that, therefore, the only prospective purchaser of Water Allocation 1518 was a "private non-government entity, [that] would likely only be attracted by an arbitrage opportunity".
+
+Water Allocation 1518
+It was common ground that, following the extension of the ROP to the Lower Balonne, tradeable water entitlements in the Lower Balonne (such as Water Allocation 1518) had a market value expressed as dollars per ML of the water able to be drawn under the entitlement.
+It was also common ground that the overall value of any particular water entitlement is calculated as the product of that value and the "nominal volume" of the water entitlement. The nominal volume of Water Allocation 1518 was 1930 ML.
+As can be observed from the table at [194], the valuers' opinions as to the value of Water Allocation 1518 ranged from $910 per ML (Mr Hendy's discounted figure to take account of "true market circumstances" as at September 2010) to $1600 per ML; ie $1.76 million to $3.088 million. It was common ground before me that, at the relevant time (April/May 2010, when the Commonwealth tender was on foot) the value of Water Allocation 1518 was in the range of $2.3 million to $3 million.
+The Commonwealth reported that the "average price of offers pursued" (which I read to mean the average price paid) in the May 2010 Lower Balonne tender" for "unsupplemented" water allocations (such as Water Allocation 1518) was $1433 per ML. That figure, if applied to the nominal volume of Water Allocation 1518 (1930 ML) suggests that the Commonwealth would have paid something in the order of $2.765 million for it.
+
+Mr Harrison's valuation
+I have mentioned that Mr Harrison's valuation was based on his inspection of the Property on 1 October 2010.
+It follows from Mr Harrison's conclusions, summarised in the table above, that he was of the opinion that: the total value of the Property when considered on a piecemeal basis (that is considering Water Allocation 1518 separately from the balance) was $2.22 million more than the value of the Property as an aggregation ($10.795 million - $8.575 million = $2.22 million); and on the other hand, the value of the Property without Water Allocation was only $675,000 less than the value of the Property as an aggregation ($7.9 million compared with $8.575 million).
+I found these conclusions surprising. It seemed to me to be somewhat counterintuitive that the Property would be worth $2.045 million more on a piecemeal basis than as an aggregation but that the value of the Property was diminished only by $675,000 if considered without Water Allocation 1518. 
+The cross-examination of Mr Harrison by Mr Lucarelli revealed that there were a number of significant difficulties with his valuation approach.
+First, and perhaps most significantly, Mr Harrison assumed that if Water Allocation 1518 was sold, thus depriving Stage 1 of the Property of its access to the Balonne River, Stage 1 could still be used for irrigation using overland water flow.
+Mr Harrison gave this evidence: "Q. You accept, don't you, that there is no physical infrastructure as at
+October 2010 to move any water from Stage 2 to Stage 1; you accept that, don't you? 
+A. There was no water to move Stage 1 to Stage 2 either so, you know, there was - it's an assumption that I have made based on that instruction that I was given or asked - asked to prepare an assumption based on that - that scenario.
+
+HIS HONOUR 
+Q. Can I just follow the reasoning processes? You have assumed that somehow or other you could still maintain... the two...
+
+A. Correct.
+
+Q. ... separated irrigated areas? 
+A. That's correct."
+That assumption was contradicted by the evidence of both Mr and Mrs Pola, that if Water Allocation 1518 was sold, Stage 1 would have to be abandoned as an irrigation area.
+Further, Mr Harrison: did not know what an instantaneous volumetric limit was and confused it with a multi-year volumetric limit; did not appreciate that there was any limit on the amount of water that could be stored on the Property (save for the actual physical storage capacity of the Property); did not know the nature of the conjunctive storage condition attached to the water rights and confused it with a multi-year volumetric limit; and "lumped together" (to use Mr Lucarelli's expression) 1080 hectares of land as "protected future irrigation" without appreciating (not having carried out a full inspection of the Property) that parts of these areas were levy bank protected and parts were not.
+Mr Harrison's report (although based on his inspection on 1 October 2010) was prepared on 8 June 2012.
+Mr Harrison said his valuation of Water Allocation 1518 was based on one "available" transaction. 
+The "transaction" to which Mr Harrison referred was the sale by an entity known as Culgoa Cotton Pty Ltd to the Commonwealth of its water licence. Mr Harrison relied on the Culgoa Cotton sale on the basis of information given to him by a person associated with that entity. However, other evidence in the proceedings revealed that the Culgoa Cotton sale did not occur in the May 2010 tender round but, rather, in the following year, 2011.
+Thus, not only did Mr Harrison express conclusions that appeared to me to be unlikely to be accurate, his methodology was shown to be deficient and a fundamental piece of information upon which he relied shown to be wrong.
+In those circumstances, I am not prepared to accept Mr Harrison's opinions.
+
+Mr Hendy's valuations
+In his valuation of 13 July 2010, commissioned by prospective purchasers of the Property prior to the 17 August 2010 auction, Mr Hendy expressed the opinion that the Property was then valued at $8.15 million.
+In Mr Hendy's retrospective valuation, prepared in December 2012 and in which he made no reference to his earlier valuation, he expressed the opinion that, as at 13 September 2010 (only two months after the date at which his first valuation spoke) the Property was valued at $7 million in-one-line and $5.36 million excluding Water Allocation 1518.
+In the circumstances I have described, Mr Hendy was not cross-examined.
+Mr Wright submitted that Mr Hendy's retrospective valuation revealed that he was endeavouring to reconcile his earlier opinion to the fact of the sale by the Bank of the Property on 13 December 2010 for $6.1 million. In final submissions, Mr Blount submitted that I should "not accept" Mr Hendy's retrospective valuation at all.
+As it was Mr Wright who tendered Mr Hendy's retrospective report, I found these submissions somewhat curious.
+In any event, I consider that there was no substance to them.
+Mr Hendy's retrospective valuation is a carefully reasoned document which, including annexures, is 110 pages in length. The report exposes, in great detail, the process of reasoning whereby Mr Hendy came to his opinion.
+It is true that Mr Hendy said that his valuation of $7 million reflected a sale process "with duress".
+He said: "It is therefore my opinion, that if a sale has to be achieved, by an 'anxious vendor', mortgagee in possession or otherwise, price expectations need to be lowered. Often discounts of 20% to 30% are commonly required to achieve a sale in difficult market conditions.
+
+My valuation has factored in the condition of the property as at 13 September which is a discount on value compared to better presented, less distress [sic] assets. The effect not allowed for is the requirement to achieve a sale in a relatively short time. This residual discount may be 10% to 20%.
+
+With a normal market range of $6,800,000 to $7,400,000, this could reflect a new range of $5,700,000 to $6,600,000."
+In my opinion, a fair reading of those points is that, Mr Hendy's opinion was: that when a vendor is "anxious" to sell, a 20 per cent to 30 per cent discount on value may result; it was necessary to take into account the condition of the Property and apply a discount "compared to better presented, less distress [sic] assets"; this led to a "normal market value range" of between $6.8 million to $7.4 million (which Mr Hendy rounded to $7 million); and the market value of the Property should not allow for a requirement for a sale "in a relatively short time"; but had he made such an allowance he would have reduced his opinion as to value to a range between $5.7 million (a discount of 16 per cent of his figure of $6.8 million) to $6.6 million (a 10 per cent discount on his figure of $7.4 million); thus reconciling his "normal market value" to what he knew to be the sum achieved by the Bank of $6.1 million.
+I accept Mr Luccarelli's submission that Mr Hendy's valuation reveals that he undertook proper and detailed analysis of the productive capacity of the Property without Water Allocation 1518 and that, in contrast to Mr Harrison, he: methodically worked out the residual value of the irrigated land based on what he saw as the relative unreliability of overland water flow rights alone, and did so by an extensive review of comparable properties; was aware of the fact that a sale of Water Allocation 1518 would render
+Stage 1 unavailable for irrigation; methodically worked out, based on overland flow and hydrological modelling, what the residual productive capacity of the aggregation would be; based on a hydrology report of a Mr Don Best, considered and reached conclusions as to the extent to which the irrigation capacity of the Property could be expanded; and appropriately differentiated the balance of the Property (the grazing land) into arable and non-arable areas and applied different values to each.
+In those circumstances, I accept Mr Hendy's opinion as to the value of the Property as at 13 September 2010 on an in-one-line basis ($7 million), and its then value excluding Water Allocation 1518 ($5.36 million).
+
+The Bank's duty [Section 85](http://www.austlii.edu.au/au/legis/qld/consolact/pla1974179/s85.html) of the [Property Law Act 1974](http://www.austlii.edu.au/au/legis/qld/consolact/pla1974179/) (Qld)
+Mr and Mrs Pola contend that in selling the Property pursuant to its power of sale as mortgagee, the Bank acted in breach of its duty under [s 85](http://www.austlii.edu.au/au/legis/qld/consolact/pla1974179/s85.html) of the [Property Law Act](http://www.austlii.edu.au/au/legis/qld/consolact/pla1974179/) (Qld). [Section 85(1)](http://www.austlii.edu.au/au/legis/qld/consolact/pla1974179/s85.html) provides: "It is the duty of a mortgagee..., in the exercise of a power of sale conferred by the instrument of mortgage or by this or any other Act, to take reasonable care to ensure that the property is sold at the market value."
+The High Court of Australia considered the application of [s 85](http://www.austlii.edu.au/au/legis/qld/consolact/pla1974179/s85.html) in Commercial and General Acceptance Ltd versus Nixon <case>; [(1981) 152 CLR 491.]
+In that case, Gibbs CJ said (at 494 and 495): "Although a mortgagee is not a trustee of the power of sale for the mortgagor, it is nevertheless clear that in conducting a sale of the mortgaged property he is not entitled to sacrifice the interest of the mortgagor in the surplus of the proceeds of the sale. It is equally clear that the mortgagee must exercise the power in good faith.
+ ...
+
+The duty of a mortgagee exercising a power of sale in Queensland is clear; it is to take reasonable care to ensure that the property is sold at market value."
+In the same case, Brennan J said (at 521): "The duty relates to the acts which are to be done... If an omission is made in doing what ought reasonably to be done to ensure a sale at market value, the duty is not performed..."
+However, as was common ground before me, the statutory duty "to take reasonable care to ensure that the property is sold at the market value" does not: " ... detract from the common law principle that the mortgagee may sell at the time chosen [by it] and does not have to wait until a time when a better price may be obtained".
+ (Investec Bank (Aust) Ltd versus Glodale Pty Ltd  <case>; <case> per
+Neave, Redlich JJA and Forrest AJA).
+Similarly, in an earlier case, Mullins J said in Australia and New Zealand Banking Group Ltd versus Alirezai  <case> (at [194]): "The duty imposed by [s (1)](http://www.austlii.edu.au/au/legis/qld/consolact/pla1974179/s85.html) of the [[Property Law
+Act](http://www.austlii.edu.au/au/legis/qld/consolact/pla1974179/) (Qld)] does not detract from the general law requirement that a mortgagee is entitled to sell at the time of the mortgagee's choice and without waiting for a time which a selling owner might consider more propitious: Henry Roach (Petroleum)
+Pty Ltd versus Credit House (Vic) Pty Ltd <case>; [[1976] VR 309], 313."
+Thus, in ascertaining what steps a mortgagee ought reasonably to have taken, or what acts a mortgagee ought reasonably to have done, to ensure sale at market value, those steps or acts would not, at least usually, include steps which would result in the sale occurring otherwise (for example, later) than "at the time chosen" by the mortgagee and would not, at least usually, include steps which would inevitably result in delay. Nor would those steps or acts include ones the taking of which would not have enabled the mortgagee to come to an informed decision as to the course to take (to ensure that the property was sold at market value) without delay.
+It was common ground that, once a breach of [s 85](http://www.austlii.edu.au/au/legis/qld/consolact/pla1974179/s85.html) is established, it is not necessary to show a causal link between the particular breach and loss, and that at that point "the question [is] whether the sale price could be equated with the market value of the property" (Investec versus Glodale at [74]).
+Thus, as long as it is established that a mortgagee failed to take a step that was reasonably necessary "to ensure" market price was achieved, it is not necessary to prove that, as a matter of fact, the taking of that step would have ensured market price was achieved. Nor is it necessary for the mortgagor to prove that some identifiable individuals would have offered to purchase, or actually purchased, the property for any particular price had there been no breach of the duty: Sablebrook Pty Ltd versus Credit Union Australia Ltd  <case> at <case> per Applegarth J; Nixon versus Commercial and General Acceptance Ltd [[1980] Qd R 153] at 634 - 5 per McPherson J.
+It is necessary, however, for the mortgagor to show that the steps it contends the mortgagee should have taken to ensure the property was sold for market value would, had they been taken, have led the mortgagee (acting conformably with its duty under [s 85)](http://www.austlii.edu.au/au/legis/qld/consolact/pla1974179/s85.html) to take a different path than the one actually taken. Otherwise, the step not taken would not have made a difference to the overall outcome of the sale and thus could not have been one necessary to comply with the duty.
+
+Generally
+Where the mortgagee itself lacks the required knowledge, experience or expertise to make a properly informed decision as to the process of selling the property to ensure that it is sold at the market value, to discharge its duty, it is required to obtain and act upon the opinions and advice of others who have the required knowledge, experience or expertise (see Commercial and General Acceptance Ltd versus Nixon at 524 and Investec versus Glodale at [59] - <case> was a case concerning the application of [s 420A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s420a.html) of the [Corporations Act 2001](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth), which is in similar, although not precisely the same, terms as <case>. In that case, Mandie J held that where a property has attached to it assets or rights which are potentially valuable but not readily transferable, in order to discharge its duty, the mortgagee must: consider and, if necessary, make enquiries and obtain advice on how the property or the benefit of the rights or assets might be passed on to a purchaser; and properly ascertain the market value of the property with and without those rights (at [100]).
+Where there are alternative modes of sale that could be adopted, the mortgagee is required to take all reasonable care in the analytical process and the selection of the mode of sale (Florgale Uniforms Pty Ltd versus Orders <case>; <case> per Dodds-Streeton J). This requires consideration of all "the different available means of sale and weighing the prices... [and] necessarily involves the exercise of judgment": Florgale Uniforms at [442] - [443]. 
+Whether the mortgagee has discharged its duty will depend on the circumstances of the case, the value and nature of the property involved, the mortgagee's expertise in relation to the type of property, relevant expert advice and other relevant variables in a realistic commercial context (see Florgale Uniforms at [443] and also Investec versus Glodale at [62]). 
+A sale below the estimated market value does not of itself point to the conclusion that reasonable care to ensure the property sold at market value was not taken (see Investec versus Glodale at [4] and Florgale Uniforms at [410]). However, "if it is proved that the price obtained is substantially below the true value, that may be some evidence that proper steps were not taken": Stone versus Farrow Mortgage Services (in liq) <case> at <case>, cited with approval in Stockl versus Rigura Pty Ltd  <case> at <case>.
+
+Advertising 
+Attracting potential buyers by way of advertising the property is required in cases of property offered for sale by a mortgagee by public auction (see Commercial and General Acceptance Ltd versus Nixon at 500 and 505, Stockl at [34], Kyuss Express at [94] and [101]).
+The mortgagee's advertising of the sale must: be by appropriate means and at appropriate times so as to maximise the interest of potential purchasers (Pendlebury versus Colonial Mutual Life Assurance
+Society Ltd <case>; [(1912) 13 CLR 676] at 683, Jeogla Pty Ltd versus Australia and New Zealand Banking
+Group Ltd <case>; <case>); be accurate and without material omissions (Commercial and General
+Acceptance Ltd versus Nixon at 495 and Pendlebury at 683 - 4); and not improperly emphasise the sale as a "mortgagee sale" so as to be likely to depress the level of offers (Stockl at [46]).
+The vice in inadequate or defective advertising is not necessarily cured by the fact that the mortgagee's entire marketing process included additional information available from the agent that correctly disclosed the position. A potential purchaser who was relevantly misled, and who would have had to make further enquiries in order to ascertain the correct position, may well have been dissuaded from doing so by the defective advertising. Mr Wright submitted that this is essentially the obverse of what is known as "first contact deception" or being drawn into the "marketing web" in misleading advertising cases (see, for example, Australian Competition and Consumer Commission versus Telstra Corporation Ltd <case>; [(2004) 208 ALR 459] at 340 - 1). 
+The Polas' case against the Bank
+In the final iteration of their Cross-Claim (the Third Further Amended Statement of Cross-Claim, filed pursuant to leave granted on the date of final submissions: 22 November 2013) Mr and Mrs Pola allege that, in order to discharge its statutory duty under <case>, the Bank should have: obtained valuations or "appropriate estimates" of Water Allocation 1518, and of the Property without Water Allocation 1518 "having regard to all of the rights and benefits inherent and attaching to [it]", including Water Licence ;
+ retained a "suitably qualified agent or expert" to advise on the separate sale of Water Allocation 1518; offered the Property for sale in a "proper manner" so as to achieve its sale at market value by: offering Water Allocation 1518 for sale to the Commonwealth either before or after offering the Property for auction without Water Allocation ; and/or offering Water Allocation 1518 for sale to a private purchaser either before or after offering the Property for auction without Water Allocation ; and/or offering Water Allocation 1518 and the Property for auction as separate lots; and/or offering Water Allocation 1518 and the Property for auction as separate lots, and then if they failed to sell at market value, offering them as one lot; if not offering Water Allocation 1518 and the balance of the Property for sale separately, ensured that the advertising for the Property disclosed that: 
+Water Allocation 1518 was for sale; and/or 
+Water Allocation 1518 was separately tradeable; and/or the nominal volume of the volumetric limit of Water Allocation 1518; and/or the fact that the Commonwealth was in the market for water allocations in the Lower Balonne; and/or the existence of Water Licence 602026 and the fact that it was for sale as part of the Property; and/or the existence of a groundwater irrigation stock intensive licence and a stock and domestic supply ground water licence; and/or the existence of a storage capacity of 10,500 ML and the fact that there was no applicable annual volumetric limit and the storage could be refilled an indefinite number of times annually provided the conditions for water harvesting specified in Water Allocation 1518 and Water Licence 602026 were met; and after the auction on 17 August 2010, reviewed the advertising, identified the omissions and deficiencies alleged and taken the steps referred to in (a), (b) and (c) above or properly readvertised the Property.
+In relation to the matters in (a) and (b), I am satisfied that each of Messrs Ashe, Lloyd, Allpass and Devine turned their minds to the question of whether, in light of the extension of the ROP to the Lower Balonne, and the Commonwealth's expressed interest in purchasing water allocations, the Bank should sell Water Allocation 1518 separately from the balance of the Property (see [104] to [112] above).
+However, the consensus of opinion between Messrs Ashe, Lloyd, Allpass and Devine was that this option should not be pursued for two reasons.
+First, as the ROP had only just been extended to the Lower Balonne, there was, it was thought, no available sales evidence to provide any guide to the Bank as to what price should be sought for Water Allocation 1518.
+Second, it was not known how long the process of tendering to the Commonwealth would take, it being apprehended that delays associated with the tender would cause the Bank to lose the opportunity of selling the Property prior to the commencement of the 2010/2011 cotton season.
+Mr Allpass said that Mr Lloyd was particularly firm in his opinion that the Property should be offered for sale in-one-line and not on a piecemeal basis (see [110] above).
+However, the fact is that no attempt was made by anyone on behalf of the Bank to investigate whether there was a market price for water allocations such as Water Allocation 1518 and, if so, what that market price was. For his part, Mr Ashe assumed that if sales evidence became available, Mr Innes would notify him of it (see [101] above).
+Neither the Bank nor the Agents investigated whether a valuation of Water Allocation 1518 could be obtained, let alone attempted to actually commission such a valuation. 
+Nor was any attempt taken by or on behalf of the Bank to investigate the likely timing of the Commonwealth's response to the submission to it by the Bank of a tender to purchase Water Allocation 1518.
+No one on behalf of the Bank took any steps to investigate what price should be sought for the separate sale of Water Allocation 1518, or what the likely timing of the Commonwealth's response would be.
+Mr Wright submitted that neither the Bank nor the Agents made any rational assessment of the economic benefit of the separate sale of Water Allocation 1518 and conducted no due diligence in relation to the possible sale of that water allocation to the Commonwealth. Mr Wright submitted that, notwithstanding the extension of the ROP to the Lower Balonne, and the announcement by the Commonwealth of its desire to purchase water entitlements thereby rendered separately saleable, the Bank proceeded as if nothing had happened, and as if it were selling "a pre ROP irrigation property".
+I see substance in this submission. My conclusion is that the Bank, and the Agents simply assumed, but did not investigate, that a market price for the separate sale of Water Allocation 1518 could not be ascertained in a timely fashion, or perhaps at all; and that in any event, there was insufficient time to seek to participate in the tender with the Commonwealth.
+I conclude that a step the Bank could, and should, reasonably have taken to ensure it obtained market price for the Property was to obtain a valuation of Water Allocation 1518 and advice from an appropriate qualified person. I find Mr Ashe's peremptory rejection of Mr Saal's suggestion of 4 May 2010 (see [133] to [135] above) to have been unreasonable. 
+As to what the Bank should have done, having obtained such advice, Mr and Mrs Pola's pleadings allege a myriad of alternatives (see [244] above); offering Water Allocation 1518 to the Commonwealth before or after offering the balance at auction; offering Water Allocation 1518 to a private purchaser before or after offering the balance at auction; offering Water Allocation 1518 and the balance separately at auction and if separate sale at market value did not result, offering the aggregation as one lot at auction.
+Mr Blount submitted that: "a. The Bank offered the assets for sale in a single line attracting a single bid of $3m. By offering the assets for sale in a single line, the Bank did no more than repeat the failed marketing strategy pursued by the Polas culminating in their failed auction of 30 October 2009. The difference being that the Bank's auction of 17 August 2010 occurred in circumstances where Mr
+Allpass was instructed above all else to get a result for the Bank.
+ b. The Bank did not offer Water Allocation 1518 to the Commonwealth either under the Commonwealth's water buyback program or by offering the water allocation to the Commonwealth outside the water buyback program. Had it been considered, offering water allocation 1518 to the Commonwealth and waiting for an outcome before proceeding to deal with [the Property] may have taken time.
+That is the graveman of the Bank's case. But there was no reason why the
+Bank/Agents should not simply have auctioned [the Property] as a predominately grazing or dry land farm with smaller irrigation area on 17 August 2010, achieving the market value for those assets and substantially reducing the
+Pola's [sic] mortgage debt. The Bank and its agents could have retained water allocation 1518 for separate sale to the Commonwealth or to a private purchaser. It was unreasonable for the Bank to fail to consider this approach or to offer the assets for sale in this way. The Bank was distracted from the performance of its statutory duty by its zeal, as acknowledged by Mr Allpass, 'to get a result'."
+This passage suggested that Mr and Mrs Pola's case was, ultimately, that as Water Allocation 1518 had become separately tradeable, the Bank should have determined to sell it separately from the balance of the Property (to the Commonwealth, or to a private a purchaser) and should have concurrently marketed, and put to auction, the balance of the Property (including the overland flow Water Licence 602026 but without Water Allocation 1518).
+At a directions hearing after receipt of that submission, but prior to allocation of a final date for oral submissions, I enquired of Mr Blount whether this was Mr and Mrs Pola's case.
+In his submissions in reply, Mr Blount said that the submission set out at [258] above was "a brief submission in reply to the Bank's hypothetical [submission], that any attempt to sell Water Allocation 1518 to the Commonwealth would have resulted in uncertainty and [un]reasonable delay" and said that the "Pola's [sic] detailed reply to the Bank's hypothetical" was set out later in that submission.
+However, in a later passage from the submissions the point was repeated. Mr Blount submitted: "... the Bank could have auctioned [the Property] with Water Licence 602026 as a predominately grazing property or dry land farm with smaller irrigation area on 17 August 2010, substantially reducing the Polas' debt and retaining Water
+Allocation 1518 for separate sale at market value to the Commonwealth or a private purchaser."
+Despite again raising the matter with Mr Blount during final oral submissions on 22 November 2013, I remain unclear whether what is set out in that submission is what, at the end of the day, Mr and Mrs Pola say the Bank should have done.
+However that may be, and assuming the Bank should have further explored the possibility of separately selling Water Allocation 1518, and should have obtained expert advice on the subject, the question arises as to what would have happened, had the Bank taken this course.
+That is: 
+What would have happened had the Bank sought a valuation of Water
+Allocation 1518? 
+What would have happened had the Bank determined to give detailed and measured consideration to selling Water Allocation 1518 to the Commonwealth or some other purchaser, and, as a separate exercise, to market and auction the balance of the Property (with the overland flow Water Licence 602026, but without Water Allocation 1518)? 
+What conclusion would the Bank have reasonably come to as to whether it was better to pursue a separate sale of Water Allocation 1518, rather than sell the Property and its associated water entitlements in-one-line? 
+How long would it have been before the Bank could reasonably have come to a conclusion about these matters? 
+How long was it necessary for the Bank to wait before determining an appropriate course to adopt, especially bearing in mind: first, that the 2010/2011 cotton crop would have to be planted by
+October 2010 and therefore, that a prospective cotton farming purchaser would wish to be in possession of the Property by then (or miss the season); and second, that the Commonwealth's tender was only open for a limited time (until 16 April 2010, extended to 30 April 2010 and then to 21 May 2010) and that the timing of any further tender by the Commonwealth was not known.
+The Bank did not actually become aware of the extension of the ROP to the Lower Balonne until on or shortly after 12 April 2010, when Mr Ashe received a copy of DERM's letter to Mr and Mrs Pola (see [121] above).
+However, assuming the Bank should have learned earlier of that event (from, for example, press reports), questions arise as to how quickly the Bank (and its advisors) should have absorbed the implications of the separate tradability of Water Allocation 1518 and decided to brief an appropriate expert; and within what time the Bank would have received such advice.
+The only evidence as to what advice the Bank would have received, had it sought advice from a "suitably qualified agent", is the second of the two reports from Mr Hendy served by the Bank, but tendered against the Bank by Mr Wright (see [188] above).
+Assuming (as Mr Lucarelli invited me to, for the sake of argument) that the Bank should have retained an expert within a week of the announcement of the extension of the ROP on 26 March 2010 (that is by 2 April 2010) and assuming, again for the sake of argument, that the expert was able to produce a report within a further seven days (that is, by 9 April 2010), what would then be the position?
+Assuming, as I must (there being no alternative evidence), that the valuer was Mr Hendy, or that a hypothetical valuer would give evidence to the same effect as Mr Hendy, the result would have been (contrary to the actual expectations of Messrs Ashe, Allpass and Devine) that the Bank had available to it an opinion as to the value of Water Allocation 1518; namely between $1200 and $1600 per ML (see the table at [194] above). Application of that value to the nominal volume of Water Allocation 1518 yields a value range between $2.316 and $3.088 million.
+However, Mr Hendy said that, had he been asked to express this opinion at this time, he would have qualified the opinion as follows.
+First, Mr Hendy said that he would have advised that, in order to assess whether Water Allocation 1518 should be offered for sale at this price, it would be necessary to assess the potential impact on the "production capability" of the Property of such a sale.
+Mr Hendy said: "[Assessment of the potential impact of a sale of Water Allocation 1518 on the production capability of the Property] would generally have required a hydrology report and a valuation. If you could engage a hydrologist, a period of approximately 3-4 months would be required to assess the benefit of being part of such a transaction".
+Thus, Mr Hendy's opinion was that it would be between three and four months before reports necessary to make an assessment of the impact of the sale of Water Allocation 1518 on the value of the Property would be available.
+That is, had the Bank taken the course Mr and Mrs Pola contend it should, and on the (highly optimistic) assumptions I have made at [269] above as to when the expert valuer's opinion would be to hand, it would have been faced with advice in mid April 2010 that it could not assess whether it (and thus the Polas) would be better off selling the Property in-one-line or piecemeal for three or four months; that is (on these assumptions), not until July or August. 
+Mr Lloyd advised the Bank that the auction of the Property should take account of the fact that the likely purchaser would wish to proceed with "summer planting" by November 2010 and should thus take place in August 2010 (see [130] above). That advice was consistent with Mr Pola's evidence that his invariable practice was to plant the cotton crop on the Property at 15 October each year (see [131] above). It is also consistent with the fact that the ultimate purchaser, Mr Houlahan, did wish to plant a cotton crop in the "summer planting", and was allowed possession of the Property before final completion of the sale for that purpose.
+When those circumstances are taken into account, my conclusion is that the three or four month delay to which I have referred, alone, would have justified the Bank in deciding to eschew further pursuit of the separate sale of Water Allocation 1518. 
+But the matter does not end there.
+The evidence reveals that there were a number of other steps that it would have been necessary for the Bank to take in order to sell Water Allocation 1518 to the Commonwealth, or any other party.
+It is probable, if not inevitable, that any expert consulted by the Bank would have advised the Bank about these matters.
+First, even if the Bank were minded to participate in the Commonwealth tender without knowing what impact separate sale of Water Allocation 1518 would have on the value of the Property, it would have been necessary for the Bank to apply to DERM to remove the instantaneous volumetric limit on Water Allocation 1518 and to cause there to be added to Water Allocation 1518 a condition that the allocation be managed under a multi-year accounting water sharing rule (see [54] to [59] above).
+DERM had no formula for the calculation of the volumetric limit on entitlements when transitioning to multi-year accounts. Each case was dealt with on a case-by-case basis. The evidence suggests that it may have been necessary for the Bank to provide a hydrology report from a suitably qualified professional to support the application.
+Further, were the Bank minded to explore the possibility of a separate sale of Water Allocation 1518, it would have been necessary to remove from that water allocation the conjunctive storage condition associated with Water Licence 602026.
+I have mentioned that it was a condition of Water Allocation 1518 that water taken under it was to be "stored conjunctively" with water taken under Water Licence 602026 (see [46] above).
+This was known as the "overland flow hook".
+The Consultation Report (referred to at [55] above) stated: "Many water users in the Lower Balonne Water Management Area store water taken from a watercourse and water taken from overland flow in the same storage.
+This practice is referred to as 'conjunctive use' of a storage...
+
+Water taken under a water allocation may be conjunctively stored with overland flow water that is licensed, or authorised under... the water resource plan.
+If the associated water allocation is traded away and therefore no longer stored in that storage, additional capacity to take overland flow could be created, enabling long-term growth in take from the system. This is inconsistent with the no growth requirement of [the] water resource plan."
+In order to free the Property of the "overland flow hook" it would have been necessary for the Bank to submit to DERM a "certified report" for the purposes of cl 128 of the ROP, namely a report by a Registered Professional Engineer containing an "accurate representation" of the infrastructure at the Property, how the infrastructure operates and the ability for the infrastructure to take overland flow water (cl 33 of the ROP).
+In order to participate in the May 2010 tender, it would have been necessary for the Bank to have taken all of these steps, and to have had time to consider their outcome, by 21 May 2010.
+It appears to me that it is almost certain that the Bank could not have achieved this. Certainly, Mr and Mrs Pola have adduced no evidence to show it could.
+In April/May 2010 the Commonwealth had announced only one water purchase tender for the Lower Balonne catchment; that originally expiring on 16 April 2010 and extended to 30 April 2010 and then 21 May 2010. Although the Commonwealth had made clear that the tender was part of a larger program, which would involve future tenders in the Lower Balonne, none had then been announced. I see no basis in the evidence to conclude that either the Bank or the Agents could reasonably have known or predicted when the next tender might be. In fact, it was in November 2010; but so far as the evidence reveals, that was not known in April/May 2010. 
+In my opinion, the Bank's duty under <case> did not require it to defer exercise of its power of sale, or defer including Water Allocation 1518 in such sale, until it was known when the next tender would take place.
+Even if it would have been possible for the Bank to have undertaken all the steps necessary to make an informed decision as to the benefit of exploring the separate sale of Water Allocation 1518, and assuming that the Bank had submitted a tender to the Commonwealth by 21 May 2010, it would then have to decide whether, concurrently with engaging in the tender process with the Commonwealth, it should continue a marketing campaign for the Property.
+If the Bank had submitted a tender to the Commonwealth in respect of Water Allocation 1518, it would have to disclose that fact to the market during any ongoing advertising campaign for the sale of the Property.
+The Bank would have then been faced with a choice.
+First, it could have continued to advertise the Property for sale in-one-line, but with the caveat that, ultimately, the Property might be offered for sale without Water Allocation 1518.
+Mr Allpass and Mr Devine both gave evidence that they would have advised the Bank against engaging in a marketing campaign for the Property in which Water Allocation 1518 was included in the sale "unless sold prior to auction".
+Mr Allpass and Mr Devine gave evidence that, in their opinion, the marketing of the Property subject to the possible earlier sale of Water Allocation 1518 would have deterred prospective purchasers and would send to the market a confusing message as to what, ultimately, would be offered for sale.
+That evidence struck me as inherently probable. It was, in any event, not contradicted by any evidence adduced by Mr and Mrs Pola.
+The only alternative for the Bank would have been to defer further marketing of the Property until such time as the result of the tender to the Commonwealth was known. In my opinion, adoption of that course would almost certainly have led to a loss of the opportunity to sell the Property in time for an incoming purchaser to put in a cotton crop for the 2010/2011 cotton season.
+The further question arises as to the likely fate of any tender made by the Bank to the Commonwealth for Water Allocation 1518.
+Assuming Mr Hendy's opinion had been sought and obtained, the Bank would have been faced with advice that Water Allocation 1518 was valued at between $1200 and $1600 per ML.
+I accept Mr Lucarelli's submission that, in those hypothetical circumstances, the Bank would have been bound to submit a tender at the highest end of that range, that is at $1600 per ML (particularly as Mr Saal had on behalf of Mr and Mrs Pola advocated a range of $1700 per ML to $2500 per ML: see [133] above). 
+A tender at that price would probably have been rejected. 
+Mr Purtle's evidence established that the average price of offers pursued by the Commonwealth during the May 2010 tender in the Lower Balonne was $1433.30 per ML; a good deal less than $1600 per ML.
+The form of the Commonwealth's Tender Guidelines suggests, strongly, that the Commonwealth would not have been prepared to negotiate, within the May 2010 tender process, about price.
+Those guidelines made clear that the Commonwealth would only assess tender applications after the tender closing date and that sellers would not be permitted to change the prices of their offers unless their tender was withdrawn and a new tender submitted prior to the tender closing date. If the Commonwealth rejected an offer on the grounds of price (and this could only happen after the tender process had closed) a further tender could be submitted but only "as a new application on the new form".
+For those reasons, I accept Mr Lucarelli's submission that there is nothing in the Tender Guidelines to suggest that tenders were open to negotiation; the tenders were to be a "blind tender".
+
+Conclusion as to the separate sale of Water Allocation 1518
+For all these reasons, my conclusion is that this aspect of Mr and Mrs Pola's claim fails.
+Had the Bank given further consideration to the separate sale of Water Allocation 1518, and sought the opinion of an expert in the water allocation market (such as Mr Hendy), it would have received advice that would have justified it in not pursuing the option further.
+Thus, the failure by the Bank to take the course advocated on behalf of Mr and Mrs Pola would have made no difference to the ultimate marketing and sale approach taken by the Bank and did not amount to a breach by the Bank of its duty under <case>.
+
+The marketing of the Property in-one-line - the Advertisements
+The form of the Advertisements used during the marketing campaign is set out in Annexure B.
+As I have mentioned, Mr and Mrs Pola do not complain about the length or breadth of the advertising campaign conducted by the Agents on behalf of the Bank (see [145] above).
+Mr and Mrs Pola contend that the Advertisements should have disclosed the matters set out at [244(d)] above.
+Mr and Mrs Pola criticise the following aspects of the Advertisements: they did not say that Water Allocation 1518 was being sold in addition to the balance of the Property; they did not say that Water Allocation 1518 was separately tradeable; the rights and benefits of Water Allocation 1518 were not set out; they did not disclose that the Commonwealth had in place an ongoing program and funding for the acquisition of water allocations in the Lower
+Balonne catchment; they did not say that the Property had the benefit of Water Licence which gave it rights to harvest water via overland flow; they did not disclose that the Property had the benefit of two other licenses, namely groundwater irrigation stock licence 17547 and stock and domestic supply ground water licence 185855; although they referred to a licensed storage capacity of 10,500 ML, they did not refer to the maximum storage capacity authorised by various works notifications from DERM (namely 13,425 ML) or the fact that there was no annual limit on the amount of water that could be extracted; and they displayed words such as "mortgagee auction" or "mortgagee exercising power of sale" which it is alleged gave rise to an expectation in potential purchasers that the Property would be sold for less than its market value.
+Both Mr Allpass and Mr Devine emphasised in their evidence what they perceived to be a danger of including too much information in any advertisements for the Property.
+Mr Allpass said in cross-examination: "In our considered opinion the knowledge of the water aspects of the property were well covered in a very broad brushed approach in the ads. Ads originate to draw to attention and enquiry, they are not intended to be complete information by any means. In fact, the more information you put in an ad, generally speaking, the less response you get to it. An ad is there to generate enquiry so that we can find out what aspect of that property people want to talk about. Then we - if it is water people are focused on, when we receive an enquiry about a property that is generally covered in the contents of an ad, we seek to get enquiry for further information".
+In his affidavit evidence, Mr Allpass said: "... supplying a voluminous amount of detail and information in any print advertisement is anathema to the proper marketing of a property. One only has a few seconds to capture the interest of a potential purchaser in a print advertisement. The focus should be upon a picture, with white space around the picture, and a few words in order to draw the eye and to emphasise a few key aspects".
+However, Mr Allpass went on to say: "In the case of [the Property], the features to emphasise were the location of the properties, their grazing attributes, their water entitlements, the country and their capacity for dry land farming. The advertisements are a 'snapshot' of properties". (emphasis added).
+Mr Wright confronted Mr Allpass with this evidence and suggested to him that the Advertisements did not emphasise, or even mention one of the "key aspects" nominated by Mr Allpass, namely the Property's "water entitlements".
+Mr Allpass said that, when referring to the Property's "water entitlements" in the above evidence he was "alluding to the existence of irrigation stored water which obviously leads on to the other aspects".
+Mr Allpass then gave this evidence: "Q. You know... the difference between water entitlements and irrigation stored water, don't you Mr Allpass? 
+A. Yes.
+
+Q. You didn't intend using, when you used the words 'their water entitlements'... to refer to water stored on the property, did you? 
+A. Yes.
+
+Q. I suggest to you, Mr Allpass, that you were referring to water allocation and water licence 602026 by the words 'water entitlements'? 
+A. It might infer that the purpose of the ad was to capture interest or generate enquiry. The purpose of the ad is to generate enquiry and to ask for more information you are asking me for now.
+
+Q. The point is you believed when you wrote in a paragraph in your affidavit that the words should emphasise the water entitlements in relation to [the
+Property] in any advertisement of that property, didn't you? 
+A. I said the mention of water inferred water entitlements."
+It may be that, as Mr Allpass said, the reader of the Advertisements for the sale of the Property would have inferred, from the reference to significant water storage, that the Property enjoyed water entitlements. 
+However, what Mr Allpass said in his affidavit evidence was that a "key aspect" of the Property that advertisements for sale should emphasise was the "water entitlements" themselves.
+I do not accept Mr Allpass's affidavit reference to "water entitlements" was an "allusion" to water stored on the Property. What he said was quite clear. "Water entitlements" are such entitlements as the owner of the Property has to water passing over or through the Property. Water stored on the Property is something quite distinct.
+It is equally clear that the Advertisements do not comply with Mr Allpass's own protocol.
+As I have said (see [147] above), the Advertisements refer to the Property as being irrigated and having "centuries of alluvial flows". They contain a picture of a crop under irrigation. But they do not refer at all to Water Allocation 1518, and its tradability. They do not refer to Water Licence 602026; or to the other, arguably less significant water licences.
+No doubt, as the Bank and the Agents submitted, a reader considering the purchase of a very large and expensive farming property on which there is irrigation in all probability would assume the Property enjoyed water entitlements. 
+But a prospective purchaser, looking about in the market, considering a number of possibilities, and weighing up whether to consider purchasing the Property, rather than another property, may well have been tempted to investigate further, had details of the water entitlements featured in the advertisements. Conversely, such prospective purchaser may well have been deterred or deflected from further consideration of the Property in the absence of those details.
+In this context, and unlike the position in relation to their claims under the TPA, FTA and in negligence, Mr and Mrs Pola do not have to prove that, as a matter of fact, the absence of any reference to the water entitlements made any difference to any particular purchaser (see [233] and [234] above).
+All they need to establish is that inclusion of such details was a step that ought reasonably to have been taken to ensure achievement of market value.
+It seems to me to be obvious that a step, or an act, that ought reasonably to have been done in this case to ensure that the Property sold at market value was to do exactly what Mr Allpass said should be done: emphasise (amongst other things) its water entitlements.
+The Bank, through its Agents, did not take this step.
+I find this to be a breach of the Bank's duty under <case>.
+It follows that Mr and Mrs Pola are entitled to damages representing the difference between the price achieved at auction by the Bank ($6.1 million) and the market value of the Property.
+For the reasons I have set out above (at [213] to [224] above) I accept Mr Hendy's evidence as to the market value of the Property if it were to be sold in-one-line; namely that it was at the relevant time $7 million.
+Accordingly, Mr and Mrs Pola are entitled to damages against the Bank for the difference: $900,000.
+In due course, I will hear argument as to whether, and if so, what interest should be awarded on that sum.
+In view of that conclusion, it is not necessary for me to consider Mr and Mrs Pola's alternative submission that, following the "failure" of the auction, the Bank should have re-considered the manner in which the Property had been marketed.
+It is also not necessary for me to consider Mr and Mrs Pola's claim that, by publishing the Advertisements, the Bank engaged in misleading or deceptive conduct. That claim was barely pressed against the Bank in final submissions. It would, in any event, have failed for the reasons the corresponding claim against the Agents fails (see below).
+
+The case against the Agents
+Mr and Mrs Pola bring two distinct cases against the Agents.
+First, Mr and Mrs Pola allege that the Agents acted contrary to the proscription in [s 52](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s52.html) of the TPA (and the equivalent section of the FTA) by approving, participating in and/or procuring the publication of the Advertisements which, it is alleged, "were deceptive and/or misleading or were likely to deceive or mislead the relevant market for the sale of the particular Mortgaged Assets advertised".
+Second, Mr and Mrs Pola contend that the Agents owed and acted in breach of a duty of care to ensure that: the Advertisements were "accurate in all respects and identified the key features" of the Property; and the Property was sold at its market value.
+In my opinion, each of these claims fail, substantially for the reasons advanced in the submissions of Ms Horvath, who appeared for Elders, and of Mr Heath, who appeared for Mr Allpass.
+Much of what follows is, I wish to acknowledge, drawn from those submissions.
+ [Trade Practices Act](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) claim 
+No representations pleaded
+As Ms Horvath submitted, Mr and Mrs Pola were "undeniably critical of the Advertisements".
+Mr and Mrs Pola's pleadings, however, do not contain any allegation that, by engaging in the conduct complained of, the Agents made any representations, whether to the "relevant market" or at all.
+The relevant paragraph from Mr and Mrs Pola's Cross-Claim contains a list of the shortcomings alleged in the Advertisements (to the effect of the corresponding claim made against the Bank and referred to at [244(d)] above), namely that the Advertisements: did not state that Water Allocation 1518 was included in the sale of the
+Property; did not state that Water Allocation 1518 was separately tradeable; did not set out the rights and benefits of Water Allocation 1518; did not state that Water Allocation 1518 could be sold to the
+Commonwealth under its tender process; did not state that the Property had Water Licence 602026 giving it the right to harvest water via overland flow; did not refer to the fact that the Property had groundwater irrigation stock licence 17547 and stock and domestic supply ground water licence 185855; referred to the licence storage capacity of 10,500 ML but not to the maximum storage capacity authorised by works notifications from DERM (13,425
+ML) or the fact that there was no annual limit to the amount of water that could be extracted; and displayed words such as "mortgagee auction" or "mortgagee exercising power of sale" giving rise to an expectation that the Property would sell for less than its market value.
+However, these complaints do not identify any representation, whether express or implied or inferred, said to be contained in the Advertisements.
+For example, as Ms Horvath pointed out, Mr and Mrs Pola did not plead that the Advertisements contained a representation that: 
+Water Allocation 1518 was not being sold as part of the Property; 
+Water Allocation 1518 was not separately tradeable; the property did not receive any rights or benefits from Water
+Allocation 1518; 
+Water Allocation 1518 was not able to be sold to the Commonwealth under one of the Commonwealth tenders; the Property had no entitlement to harvest water from overland flow; the Property did not have a groundwater irrigation stock licence or a stock and domestic supply of ground water; the Property only had 10,500 ML of water storage capacity; the Property had an annual cap on the amount of water that could be harvested; or the Property would be sold for less than market value because it was being sold as mortgagee in possession.
+In Mr Wright's opening submissions and Mr Blount's closing submissions, only one alleged representation was identified, namely, that the Advertisements represented that only the Property, and not Water Allocation 1518, was offered for sale.
+Assuming it is appropriate that I deal with such an un-pleaded allegation, I do not accept it. I do not accept that any such representation arises from the Advertisements. 
+As I have earlier stated, the Advertisements: stated that the Property had had "centuries of alluvial flows"; stated that a feature of the Property was "Choice Mixed Farming/Grazing,
+Irrigation = Versatility"; referred to a "cotton gin" thus implying its proximity to the Property; stated that the Property was in the "Balonne River" region; stated that a feature of the Property was "alluvial soils, irrigation, dry land farming"; and stated that the Property had a 10,500 ML capacity and that "currently approx 5,300 ML" was "stored".
+Further, the Advertisements contained photographs, including one of a crop under irrigation.
+The Advertisements did not, it is true, refer to Water Allocation 1518. But I fail to see how it could be said that the Advertisements represented that any water entitlement associated with the Property was not included in that which was offered for sale. On the contrary, my opinion is that a fair reading of the Advertisements (especially taking into account the matters at [352]) is that they represented that all water entitlements associated with the Property were included in the proposed sale. In my opinion, no reader of the Advertisements could fail to understand that this was so.
+
+Causation
+There is, in any event, no evidence as to what damage Mr and Mrs Pola suffered "by" the omission in the Advertisements of any specific reference to Water Allocation 1518 (see [s 82](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/s82.html) of the TPA). Unlike the position under [s 85](http://www.austlii.edu.au/au/legis/qld/consolact/pla1974179/s85.html) of the [Property Law Act](http://www.austlii.edu.au/au/legis/qld/consolact/pla1974179/) (Qld) (see [233] and [234] above), under the TPA and FTA, Mr and Mrs Pola must show a causal connection between proscribed acts and any loss suffered.
+As Ms Horvath submitted, implicit in Mr and Mrs Pola's case were the following unproven assumptions: that there were other prospective purchasers of the Property other than those who in fact expressed interest; and that had the Advertisements referred, in terms, to Water Allocation , one or more of such other prospective purchasers would have contacted the Agents, attended the auction and been prepared to pay "market value" for the Property.
+There is no evidence of any such matters and I see no basis upon which I can infer that there was.
+For those reasons, Mr and Mrs Pola's TPA claim (and any equivalent FTA claim) must fail.
+
+Duty of care
+Mr Heath submitted that there is no Australian authority that establishes that an agent, acting on behalf of a mortgagee in possession, owes a duty of care to a mortgagor.
+In final submissions, Mr Blount accepted the correctness of that submission.
+Mr Blount submitted that there can be circumstances where an agent who commits a wrongful act in the course of the agency is personally liable to a third person who suffered loss or damage, notwithstanding that the act was expressly authorised or ratified by the principal. Mr Blount referred to such cases as Bennett versus Bayes <case>; <case> at <case> per McMurdo J. In those cases the agent had particular, identified, dealings with the purchaser that the Court held gave rise to the particular duty found. For example, in Seirlis, McMurdo J referred to observations made by Marks J (with whom Murphy and Beach JJ agreed) in Norris versus Sibberas <case>; [[1990] VR 161] at 174 - 5 to the effect that a vendor's agent might, in given circumstances, owe a duty to take reasonable care not to make misstatements to prospective purchasers.
+It is understandable that, in particular circumstances, an agent for a vendor or mortgagor, who makes statements or representations to a purchaser or mortgagee might be held to owe that party a duty to take care concerning those statements or representations.
+But that is not this case.
+It is not claimed that the Agents made misrepresentations or inaccurate statements to Mr and Mrs Pola. Indeed, so far as the evidence reveals, the Agents made no statements at all to Mr and Mrs Pola which caused them to take, or not take, any step. In fact, the only communication of any substance between Mr and Mrs Pola and any of the Agents was when Mrs Pola rang Mr Devine to complain about an aspect of the Advertisements no longer at the heart of the Polas' case (namely their reference to mortgagee sale).
+Although each case must undoubtedly turn on its own facts, it is by no means obvious to me why, as a matter of generality, an agent of a mortgagee in possession would have a duty of care to the mortgagor (other than to refrain from making misrepresentations).
+In this respect, Mr Heath drew attention to the observations of Mason J in Commercial and General Acceptance Ltd versus Nixon at 505: "The mortgagor, lacking knowledge of what passed between the mortgagee and the agent, may encounter difficulty in proving negligence on the part of the agent, who in any event is acting primarily as the agent of the mortgagee and in accordance with his instructions. It is the mortgagee who has the most direct relationship with the mortgagor and who should be expected to have a clearer perception of his obligations to the mortgagor than the agent."
+In Caltex Refineries (Qld) Pty Ltd versus Stavar <case>; [(2009) 75 NSWLR 649], the High Court has rejected: "... any particular formula or methodology or test the application of which will yield an answer to the question whether there exists in any given circumstance a duty of care, and if so, its scope or content..." (at [102]).
+His Honour also observed that when considering "whether in novel circumstances the law imputes a duty" the: "... proper approach is to undertake a close analysis of the facts bearing on the relationship between the plaintiff and the putative tortfeasor by references to the 'salient features' or factors affecting the appropriateness of imputing a legal duty to take reasonable care to avoid harm or injury." (at [102]).
+His Honour said that the following list of "salient features" provides: "... a non-exhaustive universe of considerations of the kind relevant to the evaluative task of imputation of the duty and the identification of its scope and content." (at [104]).
+His Honour's list of "salient features" was: "(a) the foreseeability of harm; the nature of the harm alleged; the degree and nature of control able to be exercised by the defendant to avoid harm; the degree of vulnerability of the plaintiff to harm from the defendant's conduct, including the capacity and reasonable expectation of a plaintiff to take steps to protect itself; the degree of reliance by the plaintiff upon the defendant; any assumption of responsibility by the defendant; the proximity or nearness in a physical, temporal or relational sense of the plaintiff to the defendant; the existence or otherwise of a category of relationship between the defendant and the plaintiff or a person closely connected with the plaintiff; the nature of the activity undertaken by the defendant; the nature or the degree of the hazard or danger liable to be caused by the defendant's conduct or the activity or substance controlled by the defendant; knowledge (either actual or constructive) by the defendant that the conduct will cause harm to the plaintiff; any potential indeterminacy of liability; the nature and consequences of any action that can be taken to avoid the harm to the plaintiff; the extent of imposition on the autonomy or freedom of individuals, including the right to pursue one's own interests; the existence of conflicting duties arising from other principles of law or statute; consistency with the terms, scope and purpose of any statute relevant to the existence of a duty; and the desirability of, and in some circumstances, need for conformance and coherence in the structure and fabric of the common law."
+Of those "salient features", Mr and Mrs Pola rely upon but one, namely that listed at (d).
+Thus, Mr and Mrs Pola allege that the duty of care arose because, in all the circumstances, they were "unable to protect their own interests and were vulnerable to harm" arising from the conduct of the Agents.
+A party may be vulnerable if it is not in a position to protect itself against the effects of another's negligence (see, for example, Perre versus Apand Pty Ltd at [50] per McHugh J).
+Conversely, if a plaintiff has taken, or could have taken steps to protect itself from the conduct in question, and was not induced by the impugned party's conduct from taking such steps, there is no reason why the law should step in and impose a duty on the defendant to protect the plaintiff from the risk of pure economic loss (Perre versus Apand Pty Ltd at [118] per McHugh J).
+In order to demonstrate vulnerability, it is necessary to show more than that the plaintiff was likely to suffer loss if reasonable care was not taken (see, for example, Raging Thunder Pty Ltd versus Bank of Western Australia Ltd  <case> In a practical sense, a lack of ability to control or influence the events giving rise to loss will inform the question of whether Mr and Mrs Pola were vulnerable in the relevant sense (see, for example, Owners -Strata Plan No 61288 versus Brookfield Australia Investments Ltd  <case> at <case> and [36] per Basten JA). 
+On behalf of Mr and Mrs Pola, Mr Blount submitted: "It is difficult to conceive of a more economically vulnerable plaintiff than a mortgagor who has failed financially and who has surrendered possession of assets worth many millions to a mortgagee which retains power and control over the assets to the exclusion of the mortgagor".
+However, the "power and control" over Mr and Mrs Pola's assets was not that of the Agents, but, rather, the Bank.
+The Bank owed Mr and Mrs Pola a statutory duty to take reasonable care to ensure that the Property was sold at market value. The Bank also owed Mr and Mrs Pola an equitable duty to act in good faith (see, for example, Pendlebury at 679).
+To the extent that the Bank failed to perform those duties, Mr and Mrs Pola have redress against the Bank.
+Elders and Messrs Allpass and Devine were acting as agents for the Bank. Their obligation was to act in the Bank's interests; not those of Mr and Mrs Pola. Such vulnerability as Mr and Mrs Pola had was to the Bank's conduct (albeit by its agents); not to the Agents conduct as such.
+In those circumstances, and in the absence of any allegation of direct contact between the Agents and Mr and Mrs Pola such as would render Mr and Mrs Pola separately vulnerable to the Agents' conduct, my conclusion is that the Agents did not owe Mr and Mrs Pola a duty of the kind contended for.
+
+Causation 
+In any event, there is no evidence that any of the conduct of the Agents of which Mr and Mrs Pola complain has caused them to suffer any loss.
+Again, unlike the agreed position under [s 85](http://www.austlii.edu.au/au/legis/qld/consolact/pla1974179/s85.html) of the [Property Law Act](http://www.austlii.edu.au/au/legis/qld/consolact/pla1974179/) (Qld), Mr and Mrs Pola must show a causal connection between breach of duty and loss (see [Civil Liability Act 2003](http://www.austlii.edu.au/au/legis/qld/consolact/cla2003161/) (Qld), [s 11).](http://www.austlii.edu.au/au/legis/qld/consolact/cla2003161/s11.html)
+Insofar as Mr and Mrs Pola contend that the Agents should have advised the Bank to obtain advice from a "suitably qualified expert" and otherwise to give consideration to the separate tradability of Water Allocation 1518, for the reasons I have set out above, my conclusion is that had such advice been given, and had the Bank consulted someone with Mr Hendy's qualifications, it would have concluded that it was justified in adhering to its preliminary decision to market the sale of the Property in-one-line.
+So far as Mr and Mrs Pola complain about the manner in which the Agents advertised the Property, for the reasons I set out above in the context of the TPA claim, I am not satisfied that Mr and Mrs Pola have shown that the absence of any reference in the Advertisements to Water Allocation 1518 would have made any difference to the result.
+
+Apportionment
+Each of the Agents pleaded that the TPA, FTA and negligence claims made against them by Mr and Mrs Pola were apportionable claims for the purposes of <case> of the TPA and [s 28](http://www.austlii.edu.au/au/legis/qld/consolact/cla2003161/s28.html) of the [Civil Liability Act](http://www.austlii.edu.au/au/legis/qld/consolact/cla2003161/) (Qld), respectively.
+During argument, it was agreed that this issue would be deferred until these reasons were published. 
+In light of my findings, my preliminary view is that I need not now deal with this issue. I will, however, hear submissions from the parties on this point.
+
+Conclusion
+Mr and Mrs Pola have established that the Bank acted in breach of its duty under [s 85](http://www.austlii.edu.au/au/legis/qld/consolact/pla1974179/s85.html) of the [Property Law Act](http://www.austlii.edu.au/au/legis/qld/consolact/pla1974179/) (Qld) in respect of the advertising of the Property and are entitled to damages flowing from that breach.
+Otherwise, Mr and Mrs Pola's cross-claim against the Bank fails.
+Mr and Mrs Pola's cross-claims against the Agents fail.
+The Bank is otherwise entitled to the relief it seeks. 
+I invite the parties to bring in short minutes to give effect to these reasons.
+ [Annexure A ](http://www.caselaw.nsw.gov.au/caselawwr/assets/main/lib150027/2013nswsc1801annexurea.pdf) [Annexure B ](http://www.caselaw.nsw.gov.au/caselawwr/assets/main/lib150027/2013nswsc1801annexureb.pdf) * * * 

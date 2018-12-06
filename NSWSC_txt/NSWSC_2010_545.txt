@@ -1,0 +1,510 @@
+
+
+Australian and New Zealand Banking Group Limited versus Richard Kay Liebmann [2010] NSWSC 545 (25 May 2010) # [![\[AustLII\]](545.1.gif)](http://www.austlii.edu.au/) Supreme Court of New
+South Wales Decisions [[Index](index.html)] [[Search](/cgi-bin/sinoform.pl)] [[Download](545.rtf)] [[Help](/help/cases-help.html)] * * * 
+Australian and New Zealand Banking Group Limited versus Richard Kay Liebmann [2010] NSWSC 545 (25 May 2010) 
+Last Updated: 31 May 2010 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Australian and New Zealand Banking Group Limited versus Richard Kay Liebmann <case>  
+JURISDICTION: 
+Equity Division 
+Commercial List  
+FILE NUMBER(S):  /298624  
+HEARING DATE(S):  /05/10, 25/05/10  
+EX TEMPORE DATE:  May 2010  
+PARTIES: 
+Australian and New Zealand Banking Group Limited (Plaintiff) 
+Richard Kay Liebmann (Defendant)  
+JUDGMENT OF: 
+Einstein J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+Mr T Thawley (Plaintiff) 
+Mr MB Duncan (Defendant)  
+SOLICITORS: 
+Kemp Strang (Plaintiff) 
+Norton Smith & Co (Defendant)  
+CATCHWORDS: 
+Banking 
+Whether or not enforceable loan contracts came into existence between ANZ and defendant equity partner of Coudert Brothers Australia [CBA Partnership] and later equity partner of Coudert Brothers LLP [CBLLP] then a limited liability partnership registered under the Partnership Law of the State of New York trading under that name-Powers of Attorney 
+Defendant claim that power of attorney pursuant to which a partner of the firm purported to sign transaction documents on defendants behalf was invalid 
+Whether the party liable to repay any alleged debt under the facilities was
+CBLLP 
+Whether in circumstances where the loan funds were paid directly to CPLLP, consideration sufficient to support the loan contract flowed from the ANZ to the defendant 
+Whether the loan agreements void for uncertainty 
+Estoppel by convention 
+Equitable estoppel 
+Misleading or deceptive conduct 
+Fiduciary duties 
+Laches 
+Mitigation 
+Unconscionability  
+LEGISLATION CITED: 
+Conveyancing Act 1901  [Fair Trading Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/fta1987117/)  [Powers of Attorney Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/poaa2003240/) 
+Trade Practices Act (1974) Cth  
+CATEGORY: 
+Principal judgment  
+CASES CITED: 
+Attorney General of New South Wales versus World Best Holdings Ltd <case>; [(2005) 63 NSWLR 557] 
+Breen versus Williams (1995) 186 CLR 71 at 113, 137-138 
+Concrete Constructions Pty Ltd versus Nelson <case>; [(1990) 169 CLR 594] 
+Con-Stan Industries Australia Pty Ltd versus Norwich Winterthur Insurance
+Ltd <case>; [(1986) 160 CLR 226] at 244-245 
+Dunlop Pneumatic Tyre Co Ltd versus Selfidge & Co Ltd <case>; <case> 
+GEC Marconi Systems Pty Limited versus BHP Information Technology Pty Limited <case>; <case> 
+National Australia Bank Limited versus Landy Chen-Conway & Anor <case> 
+Orr versus Ford <case>; <case>; <case>; [(2001) 207 CLR 165] at 198, 214 
+Poricanin versus Australian Consolidated Industries Limited <case> at <case> to <case>; [(2002) 54 NSWLR 503] 
+Vukic versus Luca Grbin; Estate of Zvonko Grbin <case> 
+Walton Stores (Interstate) Limited versus Maher <case>; [(1988) 164 CLR 387] 
+White & Carter (Councils) Ltd versus McGregor <case>; [[1962] AC 413]  
+TEXTS CITED: 
+Meagher, Heydon and Leeming, Meagher Gummow and Lehane's Equity Doctrines and
+Remedies (4th ed, Butterworths LexisNexis, 2002). 
+Young, Croft and Smith, On Equity (Lawbook Co, 2009).  
+DECISION: 
+Defendant liable to the plaintiff for repayment of the loans with interest and costs.  
+JUDGMENT:  
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+COMMERCIAL LIST  
+Einstein J  
+Tuesday 25 May 2010 ex tempore 
+Revised 27 May 2010  /298624 Australian and New Zealand Banking Group Limited versus Richard
+Kay Liebmann 
+JUDGMENT 
+The proceedings The proceedings before the Court are brought by the Australia and New
+Zealand Banking Group Ltd seeking to recover repayment of loans said to have been made to the defendant Mr Liebmann at relevant times, a practising solicitor in New South Wales.
+ Mr Liebmann rejects liability for the subject loans relying on a variety of defences.
+ 
+Background The bank's case is that the following loans were made to Mr Liebmann: i. in 2001 ("2001 Loan") when Mr Liebmann was an equity partner of
+Coudert Brothers Australia ("CBA Partnership"); and ii. in 2002 ("2002 Loan") when Mr Liebmann was an equity partner in
+Coudert Brothers LLP ("CBLLP"), then a limited liability partnership registered under the Partnership Law of the State of New York trading under that name.
+ iii. That enforceable loan contracts came into existence between ANZ and Mr Liebmann (personally), on the terms constituted by the 2001 Agreement and the 2002 Agreement, respectively.
+ The 2001 Loan to Mr Liebmann was for the purpose of Mr Liebmann subscribing the advance for capital in the CBA Partnership. Other loans were made to other partners for the same purpose at the same time. In turn, the CBA Partnership lent the advance to CBLLP.
+ [See: "Facilities and Conditions, Partners Capital Subscription Facility to Coudert Brothers Australia" dated 28 December 2001 ("2001 Agreement") at
+ECB 172 especially at 173] The 2002 Loan to Mr Liebmann is contended by the bank to have replaced and extended the 2001 Loan. The 2002 Loan was for the purpose of enabling Mr
+Liebmann to subscribe directly for capital in CBLLP.
+ [See: "Facilities and Conditions, Partners Capital Subscription Facility to Coudert Brothers LLP" dated 20 December 2002 ("2002 Agreement") at ECB 235 especially at 236] Mr Liebmann has not repaid the loans made to him. ANZ seeks repayment of the loans, with interest and costs.
+ The primary issue is whether Mr Liebmann has a contractual liability to repay to ANZ the loans made to him. However the bank also relies upon a number of alternative claims in the event that there is no contractual liability for repayment of the loans. The alternative claims are put forward relying upon causes of action for an estoppel by convention and/or relying upon representation causes of action.
+ It is efficient to directly travel into the bank's case with precision and in due course to deal with the defendant's case. I proceed accordingly The bank's contention is that it was agreed that the 2001 Loan was deemed to have been paid under the 2002 Agreement. Mr Liebmann's personal liability in respect of both loans is, therefore, now governed by the 2002 Agreement: see
+ECB 237, ECB257 at paragraph 5. Nevertheless, it is necessary to examine both the 2001 Agreement and the 2002 Agreement.
+ 
+The 2001 Agreement The evidence establishes the following: i. On or about 28 December 2001: a) Mr Liebmann executed a Power of Attorney (witnessed by Marianne
+Liebmann), appointing Mr Noble his attorney with power, inter alia, to execute the "Transaction Documents", to deliver the "Transaction Documents" to any person and to do everything that the attorney thinks fit to give effect to the "Transaction Documents" or any transaction contemplated by them ("Power of
+Attorney"): ECB167. The "Transaction Documents" were defined as: . Partners' Capital Contribution Facility Letter of Offer from ANZ Bank to Coudert Brothers Australia dated December 2001 - "Annexure A - Drawdown
+Notice".
+ . Partners' Capital Contribution Facility Letter of Offer from ANZ
+Bank to Coudert Brothers Australia dated December 2001: "Annexure B -
+Irrevocable Authority and Direction".
+ b) Mr Noble accepted, for the CBA Partnership as its managing partner, the Agreement: ECB 172 at 186.
+ c) Mr Liebmann, by his attorney (Mr Noble) executed a document entitled "Annexure A - Drawdown Notice" ("2001 Drawdown Notice"): ECB211 at 213.
+ d) Mr Liebmann, by his attorney (Mr Noble) executed "Annexure B -
+Irrevocable Authority and Direction" ("2001 Irrevocable Authority and
+Direction") to the CBA Partnership: ECB217 at 218.
+ e) A document entitled "Annexure C - CBLLP Irrevocable Authority and
+Direction and CBLLP Acknowledgement" was executed by Mr Noble for the CBA
+Partnership and by another person for CBLLP: ECB219.
+ ii. The 2001 Agreement included (at ECB 173-4, emphasis added): 
+We are pleased to outline the facilities and conditions for the
+Equity Partners of the Partnership.
+ 
+In this letter: ...
+ "Equity Partners" means those equity partners of the Partnership as at 31 December 2001 and who are listed in Schedule One [which include Mr
+Liebmann - see: ECB187] ...
+ "Facility" means the commitment by us to provide loans in accordance with the conditions set out in this letter of offer as amended, varied, replaced or novated from time to time.
+ "Participating Equity Partner" means an Equity Partner whose request for a drawdown has been accepted by us and paid in accordance with clause 4.1 and whose loan has not been fully repaid "the Partnership" means Coudert Brothers Australia, being an
+Australian partnership conducting business in Australia and consisting of the
+Equity Partners and various non-equity partners from time to time.
+ ...
+ 
+This Partner capital contribution Facility is to enable the Participating
+Equity Partners to subscribe for capital in the Partnership. These funds will then be on lent by the Partnership to Coudert Brothers Worldwide.
+ 
+An Equity Partner may utilise this facility by signing a drawdown notice in accordance with the drawdown condition below. When we accept a drawdown notice a separate loan will then be made to that partner on the terms set out in this letter. 
+Neither the Partnership nor any other Participating Equity Partner nor
+Coudert Brothers Worldwide will be under any liability in relation to any loan made to a Participating Equity Partner under this facility. The Partnership's liability under this Facility will be limited to: payment of all fees payable in connection with this Facility; compliance with the terms set out in this letter as applying to the
+Partnership; compliance with each Irrevocable Authority provided to the Partnership by a Participating Equity Partner; and provision of the CBLLP Irrevocable Authority to Coudert Brothers Worldwide in accordance with clause 4.4(c).
+ iii. The "Facility Summary" noted that the purpose of the loan facility was "to facilitate partners subscribing for capital in the
+Partnership". The obligations of the CBA Partnership were set out in clause 1.
+The terms applicable to drawdown of each "Participating Equity Partner Loan" were set out in clause 2. The fact that the Participating Equity Partners liability in respect of each loan was several and not joint was set out in clause 3 (ECB176, emphasis added): . Several Liability of Participating Equity Partners 
+Except in respect of the obligations of the Partnership under this
+Facility, the obligations and rights of the Participating Equity Partners in respect of the Facility and under and in respect of this letter and any loan agreement arising thereunder are several only and: only the relevant Participating Equity Partner will be liable to make payments to us in respect of the loan made to him or her under the Facility; ...
+ iv. Clause 4 set out the "Additional Participating Equity Partner
+Loan Conditions". That clause included (ECB177, 178, emphasis added): .1 Payment of drawn funds 
+Each request for a drawdown may be accepted by us paying the amount of the Participating Equity Partner loan to the Partnership or as the
+Partnership directs.
+ ...
+ .2 Repayment and interest ...
+
+If the Partnership fails to make a payment of interest, fees and other outstanding amounts when due in respect of a loan, the Participating
+Equity Partner to whom that loan has been made must forthwith upon written notice from us pay to us that interest and those fees and other outstanding amounts in respect of the loan to that Participating Equity Partner.
+ ...
+ .4 Support 
+Each Participating Equity Partner must, prior to receiving any drawdown, provide to us: a copy of the Irrevocable Authority and Direction in the form in Annexure
+B ("Irrevocable Authority") to the Partnership in a form satisfactory to us.
+The form of Irrevocable Authority and Direction set out in Annexure B is acceptable unless we advise the Partnership otherwise; ...
+ v. The Specific Conditions (First Edition 1997) which apply to the facility are at ECB1. The applicable General Conditions (Third Edition 2001) ("General Conditions") are at ECB196. Events of default are set out in clause of the General Conditions (see ECB201-2, 208). The consequence of default are set out in clause 11 of the General Conditions and include in clause (2)(a), the ability on the part of the Bank to terminate some or all of its obligations under the 2001 Agreement. These apply also to the 2002 Agreement.
+ The 2001 Drawdown Notice is directed to the Bank: ECB 211. It includes the following (emphasis added): 
+RICHARD LIEBMANN - PARTNERSHIP CAPITAL SUBSCRIPTION FACILITY 
+I, the person referred to in Item 1 [Richard Liebmann] below being or about to become an Equity Partner in the Partnership described in Item 2 below ("Partnership") hereby request a drawdown under the Partner's Capital
+Subscription Facility as described in the Letter of Offer dated 28 December .
+ 
+The amount of the drawdown requested is as set out in Item 3 [US$99,750] below.
+ 
+I acknowledge that: . On your acceptance of this request a loan will be made to me on the terms set out in the letter of offer.
+ . I have read the terms of the letter of offer including: the Partnership Capital Subscription Facility letter of offer ("the
+Facility letter"); the General Conditions 2001; and 
+Specific Conditions.
+ . I have provided to the Partnership an Irrevocable Authority in accordance with the requirements set out in clause 4.4 of the Facility letter.
+ . I will be personally liable to pay accrued interest, fees and other outstanding amounts on, and to repay, the loan made to me consequent upon acceptance of this drawdown request and to pay interest and charges on that loan. This liability will arise whether or not the Partnership complies with the Irrevocable Authority given by me to the Partnership.
+ . I direct you to pay the amount drawn down under the loan to the
+Partnership or as it may direct.
+ . As set out in the Facility letter you may accept instructions on all matters relating to the loan to I be made to me from the office of managing partner of the Partnership or any person to whom he or she may delegate that authority.
+ ...
+ . I confirm that the representations in clause 5 of the General
+Conditions Second Editions 2001 are made by me and are true and correct on the drawdown date ...
+ 
+The 2002 Agreement The evidence before the Court further establishes the following: i. On or about 20 December 2002: a) Mr Calov, as the Sydney Office Managing Partner, accepted the 2002
+Agreement: ECB235 at 248.
+ b) Mr Liebmann executed a document entitled "Annexure A - Drawdown
+Notice" ("2002 Drawdown Notice"): ECB257.
+ c) Mr Liebmann executed a document entitled "Annexure B - Irrevocable
+Authority and Direction" ("2002 Irrevocable Authority and Direction"): ECB260.
+ ii. The 2002 Agreement is similar in many respects to the 2001
+Agreement. However, it is between the Bank and CBLLP. Thus, it provided: 
+We are pleased to outline the facilities and conditions for the Equity
+Partners of the Partnership.
+ 
+In this letter: "Equity Partners" means those equity partners of the Sydney office of the Partnership as at 31 December 2002 and who are listed in Schedule One [which included Mr Liebmann, see ECB249] together with other equity partners of the Sydney office of the Partnership from time to time.
+ "Facility" means the commitment by us to provide loans in accordance with the conditions set out in this letter of offer as amended, varied, replaced or novated from time to time.
+ "Participating Equity Partner" means an Equity Partner whose request for a drawdown has been accepted by us and paid in accordance with clause 4.1 and whose loan has not been fully repaid.
+ "the Partnership" means a New York limited liability partnership registered under Section 121­1500(a) of the Partnership Law of the State of
+New York, and trading under the name of "Coudert Brothers LLP".
+ 
+This Partner capital contribution Facility is to enable the Participating
+Equity Partners to subscribe for capital in the Partnership.
+ 
+An Equity Partner may utilise this facility by signing a drawdown notice in accordance with the drawdown condition below. When we accept a drawdown notice a separate loan will then be made to that partner on the terms set out in this letter.
+ 
+Neither the Partnership nor any other Participating Equity Partner will be under any liability in relation to any loan made to a Participating Equity
+Partner under this facility. The Partnership's liability under this Facility will be limited to: payment of all fees payable in connection with this Facility; compliance with the terms set out in this letter as applying to the
+Partnership; and compliance with each Irrevocable Authority provided to the
+Partnership by a Participating Equity Partner iii. The 2002 Agreement contained a "Facility Summary". That summary included: 
+Replacement Facility 
+Other than in respect of Peter West and Max Einfeld, this facility is a replacement for the facility provided by ANZ Banking Group Limited to the
+Coudert Brothers Australia partnership pursuant to a facility letter dated 28
+December 2001 ("the CBA Facility"). Loan made to Participating Equity Partners under the CBA Facility ("the CBA Loans") will be deemed to be in all respect to be loans drawdown under this facility and all amounts owing under the
+Drawdown Notices provided under the CBA Facility will be deemed to have been provided under this facility. All transactions involving the loan to Peter
+West and Max Einfeld under the CBA Facility will continue to be dealt with under and governed by the terms and conditions of that facility.
+ iv. Under the 2002 Agreement (as with the 2001 Agreement) the obligations of the partners for their respective loans was several: clause 3.
+Thus, clause 3 provided: . Several Liability of Participating Equity Partners 
+Except in respect of the obligations of the Partnership under this
+Facility, the obligations and rights of the Participating Equity Partners in respect of the Facility and under and in respect of this letter and any loan agreement arising thereunder are several only and: only the relevant Participating Equity Partner will be liable to make payments to us in respect of the loan made to him or her under the Facility; neither the Partnership, nor any other partner of the Partnership, will: have any liability in respect of any loan (or any interest accrued thereon but unpaid) made pursuant to this letter, the Facility or any loan agreement arising under any of the foregoing to any other Participating Equity Partner; or be responsible for the obligations of any other Participating Equity
+Partner in respect of any loan made pursuant to this letter, the Facility or any loan agreement arising under any of the foregoing; failure of a Participating Equity Partner to perform his or her obligations in respect of the loan made to that Participating Equity Partner under this Facility or otherwise in respect of this Facility does not relieve any other Participating Equity Partner from any of his or her obligations; and each Participating Equity Partner may separately enforce his or her rights in respect of loans made to it under the Facility.
+ v. The 2002 Agreement included: .1 Payment of drawn funds 
+Each request for a drawdown may be accepted by us paying the amount of the
+Participating Equity Partner loan to the Partnership or as the Partnership directs.
+ ...
+ .2 Repayment and interest ...
+
+If the Partnership fails to make a payment of interest, fees and other outstanding amounts when due in respect of a loan, the Participating Equity
+Partner to whom that loan has been made must forthwith upon written notice from us pay to us that interest and those fees and other outstanding amounts in respect of the loan to that Participating Equity Partner. ...
+ .4 Support 
+Each Participating Equity Partner must, prior to receiving any drawdown, provide to us: a copy of the Irrevocable Authority and Direction in the form in Annexure
+B ("Irrevocable Authority") to the Partnership in a form satisfactory to us.
+The form of Irrevocable Authority and Direction set out in Annexure B is acceptable unless we advise the Partnership otherwise; a written acknowledgment from the Partnership in the form of Annexure C that it has received and will comply with the Irrevocable Authority.
+ vi. The Specific Conditions (First Edition 1997) which apply to the facility are at ECB1. The applicable General Conditions (Third Edition 2001) ("General Conditions") are at ECB196. Events of default are set out in clause of the General Conditions (see ECB201-2, 208). The consequence of default are set out in clause 11 of the General Conditions and include in clause (2)(a), the ability on the part of the Bank to terminate some or all of its obligations under the 2001 and 2002 Agreements.
+ The 2002 Drawdown Notice states (ECB257, emphasis added): 
+Richard Liebmann - PARTNERSHIP CAPITAL SUBSCRIPTION FACILITY 
+I, the person referred to in Item 1 below [Richard Liebmann] being or about to become an Equity Partner in the Partnership described in Item 2 below ("Partnership") hereby request a drawdown under the Partner's Capital
+Subscription Facility as described in the Letter of Offer dated 20 December
+Terms used in this drawdown notice that are defined in the letter of offer have, unless the context otherwise requires, the same meanings as in the letter of offer.
+
+The amount of the drawdown requested is as set out in Item 3 [US$15,000] below.
+
+I acknowledge that: . On your acceptance of this request a loan will be made to me on the terms set out in the letter of offer.
+ . I have read the terms of the letter of offer including: the Partnership Capital Subscription Facility letter of offer (lithe
+Facility letter"); the General Conditions 2001; and 
+Specific Conditions.
+ . I have provided to the Partnership an Irrevocable Authority in accordance with the requirements set out in clause 4.4 of the Facility letter.
+ . I will be personally liable to pay accrued interest, fees and other outstanding amounts on, and to repay, the loan made to me consequent upon acceptance of this drawdown request and to pay interest and charges on that loan. This liability will arise whether or not the Partnership complies with the Irrevocable Authority given by me to the Partnership.
+ . I acknowledge that loans made to me under the CBA Facility [being the facility provided by the ANZ pursuant to the 2001 Agreement, see
+ECB237] will be deemed to have been provided to me under the Facility letter and will be deemed to be in all respects loans drawn down under the Facility letter.
+ . I direct you to pay the amount drawn down under the loan to the
+Partnership or as it may direct.
+ . As set out in the Facility letter you may accept instructions on all matters relating to the loan to be made to me from the office of managing partner of the Partnership or any person to whom he or she may delegate that authority.
+ ...
+ . I confirm that the representations in clause 5 of the General
+Conditions Second Editions 2001 are made by me and are true and correct on the drawdown date ...
+ Accordingly, it is clear that enforceable loan contracts came into existence between ANZ and Mr Liebmann (personally) and that Mr Liebmann's personal liability in respect of both loans is now governed by the 2002
+Agreement: see ECB 237, ECB257 at paragraph 5.
+ On 16 August 2005, the equity partners of CBLLP passed a resolution ("Resolution") amending the partnership of CBLLP and authorising the executive board of it to take such actions as were necessary in order to sell all of the assets of any or all offices of the "Firm": ECB277. After the resolution,
+CBLLP ceased to do business and filed for bankruptcy under Chapter 11 of the
+United States Bankruptcy Code.
+ On 15 September 2005, the Bank wrote a letter to the CBA Partnership and the persons listed in Schedule 1 (including Mr Liebmann) (ECB280) in relation to the 2002 Agreement. In the letter, the Bank indicated its view that the
+Resolution constituted a material adverse event under clause 7.2 of the relevant agreement and under one or more of the events of default under the
+General Conditions, including clauses 10(1)(h), 10(1)(k) or 10(4) of the
+General Conditions: ECB201.
+ 
+The evidence given by the witnesses 
+Mr Brailey Evidence was called by the bank from Mr Brailey. In my view, he was a witness whose credit should be accepted. Although it had become necessary for him to replace another witness in explaining relevant bank records and certain procedures, he was in a position to do so. The cross-examination by the defendant's counsel failed to further the defendant's case. The witness was taken through a number of documents. It was put to him that there had been negotiations in relation to the transaction between particular partners of
+Norton Smith and officers of the ANZ Bank in relation to the 2001 loan agreement. The cross-examiner sought to put to the witness that there had been "a mate's deal". That question was rejected. On a number of occasions questions put to the witness were simply disallowed as irrelevant.
+ 
+Ms Reddy Evidence was also given by video link by Ms Reddy who had, in December , been an assistant manager reporting to Mr Harvey, a manager in the corporate banking division. At that time Mr Harvey had been responsible for
+ANZ's file relating to CBA, which included the capital contribution loans provided by ANZ to partners of CBA in December 2001.
+ Her role in relation to the 2001 loans included, amongst other things, assisting Mr Harvey to negotiate and arrange the terms of the 2001 loans, collating and checking what she referred to as the "executed letter of offer" dated 28 December 2001 and what she referred to as the "executed annexures to the letter of offer" to that letter, ensuring that the 2001 loan documents had been approved by ANZ's internal legal department and arranging for the 2001 loans to be drawn down. Her further evidence was as follows i. The 2001 Loan Documents included, among other things, the drawdown notice being Annexure "A" to the Letter of Offer ("the Drawdown
+Notice").
+ ii. By reason of my position and experience within ANZ's Corporate Banking division, I was aware that it was the policy of ANZ that a drawdown of a loan in ANZ's professional firm portfolio was not to be authorised unless and until
+ANZ had received the properly executed loan documents including the relevant drawdown notice signed by or on behalf of the individual partner.
+ iii. Before I authorised the drawdown of the 2001 Loans I made sure that
+ANZ had received the executed 2001 Loan Documents and that they had been approved by ANZ's internal legal department. Annexed hereto and marked "A" is a true copy of a Diary Note I prepared on about 2 January 2002 in which I recorded that process.
+ iv. I would not under any circumstances have authorised any drawdown of the 2001 Loans by an individual partner unless and until the executed 2001
+Loan Documents including the Drawdown Notice containing the acknowledgements and representations had been signed by or on behalf that partner.
+ v. I was aware that ANZ required the benefit of those acknowledgments and representations in order to protect ANZ's position in the event of default in repayment under the 2001 Loans.
+ vi. If any Drawdown Notice had not been signed by or on behalf of a partner, I would have returned the Drawdown Notice to CBA for execution by or on behalf of the partner and I would not have authorised the drawdown until the Drawdown Notice had been signed.
+ vii. In about mid January 2002, I left ANZ and from that point on, I was no longer involved with the Coudert File.
+ viii. In about July 2003, I returned to ANZ's Corporate Banking Division in Sydney and in about July 2007, I moved to ANZ's Corporate Banking division in Melbourne.
+ It is true that the Court during the presentation of the respective cases elected to reserve on whether or not so much of paragraph 5 of Ms Reddy's affidavit as purported to refer to "the executed letter of offer" was to be received or to be rejected.
+ In my view, that portion of that paragraph is appropriate to be rejected, but the balance of the affidavit makes clear that the witness would not, under any circumstances, have authorised any draw down of the 2001 loans by a particular partner unless and until the executed 2001 loan agreements including the draw down notice containing the acknowledgements and representations had been signed by or on behalf of that partner. Her evidence was accepted as reliable in that respect. Generally although she had not been able to recall certain of the matter is put to her she impressed me as doing the very best she could do recall the events of the time.
+ 
+Mr Liebmann Mr Liebmann was also called, and it is instructive to examine his evidence which included a number of critical concessions: i. Under cross-examination, he accepted that he had been a solicitor for something in excess of thirty years. His evidence was that he had held an unrestricted practising certificate probably for twenty of those years. He gave evidence that his current principal area of practice was in the practice of commercial and corporate law. He had previously also had certain other areas of practice, including the area of taxation and the area of entertainment.
+ ii. He candidly accepted that he had been principally involved in commercial and corporate law for some twenty-odd years.
+ iii. It was put to him that he is involved in advising major corporations or medium sized corporations, and his answer was that his work ranges from all sizes and variants.
+ iv. He accepted that from time to time his work involved complex circumstances. He accepted that he is capable of reading complex legal documents and of understanding them. He accepted that when he swore his affidavits he took great care to ensure that they were accurate.
+ v. He was asked whether or not where he had set out a conversation in those affidavits he considered carefully the words that he used in that conversation, and he answered in the affirmative.
+ vi. He was content that the contents of what he wrote were true and correct.
+ vii. He had borrowed money before for non-business purposes, that being to purchase a house and, as I understood it, a one car loan. The mortgage was to purchase a house.
+ viii. He was asked whether he understood in relation to that transaction that he was borrowing money from the bank, and he said that he had taken legal advice at the time. He was asked whether, independently of that legal advice, he had understood that he was borrowing money from the bank. He repeated that he had taken legal advice as to his obligations.
+ ix. He was again asked whether he understood that he was borrowing money from the bank.
+ x. Ultimately he was asked: "Did you understand that you were giving a mortgage for purchasing a property and that you were borrowing money from the bank?" xi. And he answered in the affirmative.
+ xii. He was then asked why he had not answered the first question put to him by counsel for the bank the three times he had asked it, and the answer was: "Because I answered it. I said that I took legal advice when I borrowed money from that bank." xiii. He was asked whether he understood when he purchased that house that the bank would require him to sign certain documents, and he indicated that that was the case.
+ xiv. The following further cross-examination took place: "Q. And you understood that the bank would not lend you the money unless you signed those documents, is that correct? 
+A. Yes.
+
+Q. And you intended that the bank would lend you the money once it received the documents you signed? 
+A. Correct.
+
+Q. Now, Mr Liebmann, you understood, did you not, that in order to become an equity partner in the Coudert Brothers Australia partnership you needed to make a capital contribution? 
+A. Yes.
+
+Q. And you understood that in relation to becoming an equity partner in the
+Coudert Brothers LLP partnership you also needed to make a capital contribution, is that correct? 
+A. That was my belief.
+
+Q. And you understood that in order to fund that capital contribution it was necessary for you to borrow money, is that correct? 
+A. Yes.
+
+Q. Where do you say that the money that you were to contribute to the partnership was coming from? 
+A. It was coming from the bank but it was being lent to the partnership.
+
+Q. Do you seriously suggest that the ANZ bank was lending you money by giving it to the partnership? 
+A. No, I didn't say that. What I said was that I believed that the bank was lending it to the partnership." xv. Questions were asked in relation to page 257 of the electronic Court book. Mr Liebmann accepted that he had seen this document which is entitled "To Australia and New Zealand Banking Group Limited, Richard Liebmann
+Partnership Capital Subscription Facility". This was in the following terms: 
+ANNEXURE A - DRAWDOWN NOTICE 
+CLAUSE 2.1(a) 
+To: Australia and New Zealand Banking Group Limited 
+Corporate & Institutional Banking - City Region /20 Martin Place 
+SYDNEY NSW 2000 
+Richard Liebmann - PARTNERSHIP CAPITAL SUBSCRIPTION FACILITY 
+I, the person referred to in Item 1 below being or about to become an
+Equity Partner in the Partnership described in Item 2 below ("Partnership") hereby request a drawdown under the Partner's Capital Subscription Facility as described in the Letter of Offer dated 20 December 2002. Terms used in this drawdown notice that are defined in the letter of offer have, unless the context otherwise requires, the same meanings as in the letter of offer.
+ 
+The amount of the drawdown requested is as set out in Item 3 below.
+ 
+I acknowledge that: . On your acceptance of this request a loan will be made to me on the terms set out in the letter of offer.
+ . I have read the terms of the letter of offer including: the Partnership Capital Subscription Facility letter of offer ("the
+Facility letter"); the General Conditions 2001; and 
+Specific Conditions.
+ . I have provided to the Partnership an Irrevocable Authority in accordance with the requirements set out in clause 4.4 of the Facility letter.
+ . I will be personally liable to pay accrued interest, fees and other outstanding amounts on, and to repay, the loan made to me consequent upon acceptance of this drawdown request and to pay interest and charges on that loan. This liability will arise whether or not the Partnership complies with the Irrevocable Authority given by me to the Partnership.
+ . I acknowledge that loans made to me under the CBA Facility will be deemed to have been provided to me under the Facility letter and will be deemed to be in all respects loans drawn down under the Facility letter.
+ . I direct you to pay the amount drawn down under the loan to the
+Partnership or as it may direct.
+ . As set out in the Facility letter you may accept instructions on all matters relating to the loan to be made to me from the office of managing partner of the Partnership or any person to whom he or she may delegate that authority.
+ . I will initially direct all enquiries in relation to any loan made to me by you consequent upon accepting this drawdown request to the office managing partner of the Partnership who will then on my behalf seek any necessary information from you.
+ . As at the date of this notice I am solvent and can pay my debts as and when they fall due.
+ . I confirm that the representations in clause 5 of the General
+Conditions Second Editions 2001 are made by me and are true and correct on the drawdown date.
+ . I acknowledge that: 
+I am fully aware that fluctuations in the exchange rate of currencies occur from time to time. These fluctuations may mean the amount of Australian dollars required to buy US dollars to meet my liability to repay this Facility in US dollars could be significantly more than the Australian dollar equivalent of the amount of US dollars drawn on the drawdown date; it is not your role or responsibility to advise me in relation to, monitor, manage or in any way take steps designed to protect my exposure to loss as a result of fluctuations in the exchange rate of currencies from time to time. You are not obliged to notify me of fluctuations in exchange rates. I accept total responsibility for these matters; and you cannot be held responsible or liable in any way for any losses suffered by me resulting from me drawing down a loan in foreign currency under the Facility or any other associated foreign currency dealings.  
+Item 1 Name of Party Requesting Drawdown 
+Richard Liebmann 
+Item 2 Partnership Name 
+The Partnership, as that term is defined in the Facility letter.
+
+Item 3 Drawdown Details . The drawdown date is 31 December 2002.
+ . The amount of the drawing is US$15,000.00.
+ . The amount is to be credited to the following account or as the
+Partnership may direct: 
+Bank................................................................
+ 
+Account Name:..................................................
+ 
+BSB:.................................................................
+ 
+Account Number:...............................................
+ xvi. Mr Liebmann was asked to turn to page 259, where he would see his signature and he accepted that that was the case. He was asked to read the document to himself. He was then asked in relation to paragraph 1 the following: "Q. Could you read paragraph 1?" and he read out aloud: "On your acceptance of this request a loan will be made to me on the terms set out in the letter of offer." "Q. And did you understand the 'me' to be a reference to you? 
+A. Actually, I don't know what I really intended by that document because of the fact that when the first 2001 loan was made I didn't sign that document." xvii. He was then asked to answer the question and he answered the question this way: "Yes, I answer your question in the affirmative." xviii. He was then asked to read paragraph 4 of the document. Paragraph 4 of the document read as follows: "I will be personally liable to pay the accrued interest on the fees and other outstanding amounts on and to pay the loan made to me consequent upon acceptance of this draw down request and to pay interest and charges on that loan. This liability will arise whether or not the partnership complies with the irrevocable authority given by me to the partnership." xix. The cross-examiner then asked the following question and received the following answer: "Q. You understood by that that you would be personally liable to pay the loan, is that correct? 
+A. I understood that I would be personally liable to pay the loan, to repay the loan, if the partnership did not pay it and that the bank had made its efforts to recover those monies from the bank." xx. The further cross-examination included: "Q. Your evidence is, I take it, that you understood that the partnership would repay the loan on your behalf? 
+A. Absolutely. It was a fundamental requirement of the whole facility.
+
+Q. But at the same time you understood that if the partnership failed to repay the amount on your behalf you would be liable to pay that amount of money? 
+A. Yes.
+
+Q. And is it true that you knew that before you entered the 2001 loan, is it not? 
+A. No, my expectation on the 2001 loan was in fact that the agreement was between the bank and the partnership and that the partnership had given a direct undertaking to the bank that it would repay the loan.
+
+Q. But, Mr Liebmann, if the partnership for one reason or another did not repay the loan, you knew that it was you who was going to have to repay it? 
+A. As a person of last resort, yes." 
+The defence to the contract claim Mr Liebmann raises the following specific issues in his defence to the contract claim: i. Whether the power of attorney pursuant to which Mr Noble purported to sign the 2001 transaction documents on behalf of Mr Liebmann was invalid.
+ ii. Whether the party liable to repay any alleged debt under the facilities was CBLLP rather than Mr Liebmann.
+ iii. Whether, in circumstances where the loan funds were paid directly to
+CBLLP, consideration sufficient to support the loan contracts flowed from ANZ to Mr Liebmann.
+ iv. Whether, the loan agreements are void for uncertainty.
+ 
+Dealing with these defences seriatim 
+Validity of the Power Attorney In final address the defendant's counsel submitted that the power of attorney signed by Mr Liebmann in relation to the 2001 agreement was invalid since it was executed as a deed poll, and this was not in line with the [Powers of Attorney Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/poaa2003240/).
+Specifically, it was said that the concept of deed poll is completely separate from a deed.
+ The plaintiff made several points in reply to the defendant's submission that the power of attorney did not comply with the [Powers of Attorney Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/poaa2003240/). I accept the plaintiff's submissions in this area as of substance. As the plaintiff contended, the Act came into force on 16 February 2004 by virtue of section 2, and only has very limited retrospective application under section Furthermore, as the plaintiff's counsel contended: i. The defendant's counsel did not identify any section of the Act which it was contended was not complied with.
+ ii. At the time of the transactions in question, the relevant provisions for the swearing of a deed as at 2001 and 2002 were contained in the Conveyancing Act 1901, in sections 38 and part 16 of that Act.
+ iii. Only section 38 of the Conveyancing Act 1901 is relevant to the questions in this case. In particular, subsections 38(1) and 38(3) required attention, and those subsections dealt with an argument not raised by the defendant's counsel.
+ In his affidavit of 19 June 2009 Mr Liebmann asserted that the power of attorney was invalid because "it was never sealed". However, the power of attorney (appearing at Electronic Court Book pages 167-171) is signed by Mr
+Liebmann, is witnessed and is expressed to be "[e]xecuted as a Deed Poll" and bears the words "[s]igned, sealed and delivered". This is sufficient to constitute proper execution of a deed.
+ For the above reasons, the attack on the validity of the power of attorney is rejected.  In any event, the 2002 Agreement was signed by Mr Liebmann himself, not under power of attorney. It is the 2002 Liebmann Agreement which now governs
+Mr Liebmann's contractual liability with respect to both the 2001 Loan and the Loan.
+ 
+Was CBLLP the party liable to repay any alleged debt under the facilities? This contention is to be rejected in light of the terms of the 2001
+Agreement and 2002 Agreement referred to above. Particular reference is made to: i. the terms stated in the 2001 Agreement at ECB173 ii. clause 3(a) of the 2001 Agreement; ECB176 iii. clause 4.2(c) of the 2001 Agreement: ECB177 iv. clause 4 of the 2001 Drawdown Notice: ECB211 v. the terms stated in the 2002 Agreement at ECB236 vi. clause 3(a) of the 2002 Agreement; ECB239 vii. clause 4.2(c) of the 2002 Agreement: ECB240 viii. clause 4 of the 2002 Drawdown Notice: ECB257 The fact that the Partnership may have had an obligation to make repayments in certain circumstances did not operate to discharge Mr Liebmann's liability.
+ 
+Whether, in circumstances where the loan funds were paid directly to CBLLP, consideration sufficient to support the loan contracts flowed from ANZ to Mr Liebmann? It is immaterial to Mr Liebmann's legal liability to make repayment that the monies were in fact advanced not to Mr Liebmann but directly to CBA or
+CBLLP. This is entirely consistent with the directions contained in paragraph of the 2001 Loan Drawdown Notice, and paragraph 6 of the 2002 Loan Drawdown
+Notice, which were signed by or on behalf of Mr Liebmann. It is a regular occurrence that a borrower directs payment of loan proceeds to a third party.
+ The consideration received by Mr Liebmann under the 2001 Liebmann Agreement and the 2002 Liebmann Agreement was the benefit of the moneys advanced under those agreements. These were applied, at Mr Liebmann's direction, to discharge liabilities of Mr Liebmann in respect of partnership capital contributions to
+CBA and CBLLP respectively, or to confer upon Mr Liebmann the benefit of being able to make those contributions and thereby access the benefits of equity partnership.
+ <case>; [(2005) 214 ALR 392] where it the full High Court put the matter thus at [66].
+
+The first respondent advanced one other consideration argument - that the lender conferred no benefit on the first respondent, and that the first respondent "was not a party to any consideration". This argument is fallacious. Consideration must move from the promisee (the lender); it need not move to the promisor (the first respondent)] [See also Dunlop Pneumatic Tyre Co Ltd versus Selfidge & Co Ltd <case>; [[1915]
+AC 847] per
+Viscount Haldane at 858: 
+A second principle is that if a person with whom a contract not under seal has been made is to be able to enforce it consideration must have been given by him to the promiser or to some other person at the promises request....
+ 
+Are the loan agreements void for uncertainty? Neither the 2001 Liebmann Agreement nor the 2002 Liebmann Agreement is void for uncertainty. cf: State of NSW versus Banabelle <case>; <case>.
+Each agreement comprises the express terms set out in the documents particularised at paragraphs 2A and 3A, respectively, of the Amended Statement of Claim. The terms and nature of the contractual relationship so created are sufficiently unambiguous to satisfy the requirements of contractual formation.
+ 
+General defences of Mr Liebmann In respect of all claims, Mr Liebmann raises the following issues: i. First, the "Fiduciary Duty Issue", namely: a) whether ANZ was a partner in the business conducted by Mr Liebmann (and his partners); b) whether ANZ (as a partner) breached a fiduciary duty to Mr Liebmann by failing to act diligently and in a timely manner.
+ ii. Secondly, whether he is entitled to rely upon ANZ's failure to take proceedings against CBLLP or prove as a creditor in the Chapter 11 proceedings as conduct estopping ANZ from making the claims.
+ iii. Thirdly, whether ANZ is guilty of laches.
+ iv. Fourthly, whether ANZ failed to mitigate its loss.
+ v. Lastly, whether the "terms of the facility documents and particularly clause 10(i) of the General Conditions" are "unenforceable by reason of being unconscionable under the Trade Practices Act"? 
+Breach of fiduciary duty Mr Liebmann has alleged that ANZ constituted itself a partner in the businesses conducted by Mr Liebmann and his then partners and, in that capacity, owed fiduciary duties to Mr Liebmann.
+ The allegation of partnership rests on the contention that ANZ carried on its business with a view to profit and involved the provision of sums which, together with fees and interest, "were designed to be repaid out of a share of the profits of a business or businesses conducted by Mr Liebmann and his partners until about 28 November 2003 as Participating Equity Partners of
+CBLLP".
+ This contention must be rejected. ANZ was and remained a financier to the partnership (and to the individual partners) and did not thereby become a partner in the business conducted by the partners. That is, ANZ and the partners were not carrying on business in common with a view of profit.
+ Because ANZ was not Mr Liebmann's partner, it is not necessary to determine what the scope of any fiduciary duty may have been. Even if it were necessary, none of the duties pleaded by Mr Liebmann could constitute a fiduciary duty;
+Mr Liebmann has asserted breach of a series of positive "fiduciary duties" to act in his interests. However, a fiduciary relationship only gives rise to proscriptive duties, namely to avoid a conflict of interest and to avoid obtaining an unauthorised benefit or advantage. [Breen versus Williams (1995) 186
+CLR 71 at 113, 137-138; Pilmer versus Duke Group Ltd (in liq) <case>; [(2001) 207 CLR 165] at 198, 214; Rexstraw versus Johnson <case> at <case> to [123]] 
+Equitable estoppel Mr Liebmann has pleaded that, by reason of ANZ's failure to make "effective demand" of the partners prior to the bar date (31 January 2007) for claims against CBLLP in its Chapter 11 Bankruptcy in the United States, ANZ is estopped from making its current claim against Mr Liebmann. Mr Liebmann says that, by 28 November 2003, he had no interest in CBLLP and had no notice of any demand at the time he retired from that partnership.
+ However, Mr Liebmann has not identified any sufficiently unambiguous representation by ANZ) or any alleged conduct of ANZ which induced Mr Liebmann to make an assumption from which it would be unconscionable for ANZ to depart.
+ 
+Laches Mr Liebmann has pleaded that ANZ did not demand payment under the facilities at the time he ceased to be a partner or at any time prior to the claims against CBLLP becoming barred on 31 January 2007 pursuant to the entry by CBLLP into Chapter 11 Bankruptcy.
+ Laches may operate as an equitable defence to an equitable (but not legal) claim. The defence is, therefore, of limited relevance; it is only relevant to
+ANZ's equitable estoppel claim <case>; [(1989) 167 CLR 316] at 340; Meagher, Heydon and Leeming, Meagher Gummow and
+Lehane's Equity Doctrines and Remedies (4th ed, 2002) at [36-005]; Young,
+Croft and Smith, On Equity (2009) at [17.100]].
+ Mr Liebmann needs to demonstrate either that ANZ acquiesced in Mr
+Liebmann's conduct or that its delay either caused Mr Liebmann to alter his position in reasonable reliance on ANZ's alleged acceptance of the status quo or otherwise permitted a situation to arise which it would be unjust to disturb [Meagher, Heydon & Leeming, Meagher, Gummow & Lehane's Equity
+Doctrines & Remedies (4th ed, 2002) at [36-005]].
+ Neither matter can be established. As to acquiescence, ANZ pursued its claims. Whether or not its attempted communications reached Mr Liebmann, there is no question that ANZ did not acquiesce in its loan not being repaid.
+ At all times from at least 29 August 2005 Mr Liebmann well knew that his loan had not been repaid and no explanation was given to him of how it would be: Affidavit of 19 June 2009, paragraphs 81, 84, 87. Mr Liebmann had no expectation that it would be repaid by the partnership.
+ From this point, Mr Liebmann made no attempt to contact ANZ or provide it with updated contact details.
+ Despite an extensive cross-examination, Mr Brailey was not challenged on this issue - cf: Poricanin versus Australian Consolidated Industries Limited [[1977] 2 NSWLR 419] at 426, 427.
+ It is inherently unlikely that Mr Liebmann had left the firm when these calls were made; otherwise, the person answering the call would not have taken a message. It is inherently unlikely that his messages were not passed on to
+Mr Liebmann.
+ Mr Sutherland sent an email to Mr Liebmann on 18 November 2005, copied to
+Mr Brailey: ECB288. Whether or not the email was received by Mr Liebmann, ANZ was entitled to assume Mr Liebmann read this email.
+ Mr Sutherland provided to Mr Brailey Mr Liebmann's contact details on 30
+November 2005: ECB289.
+ On 15 September 2005, ANZ wrote to each of CBA and CBLLP (and the people listed in the letters) noting that the Resolution passed by CBLLP on 16 August constituted a material adverse event under cl 7.2 of each agreement and one or more of the events of default under the General Conditions: ECB280, .
+ Throughout late 2005, Mr Brailey left telephone messages for Mr Liebmann at his then firm on approximately two to five occasions, but his telephone calls were not returned. ANZ was told, on 23 December 2005, that Ms Harpur had sent an email to those partners whom she understood had not repaid their respective loans: ECB291.
+ By letter to Mr Liebmann dated 11 January 2006, ANZ extended the time for repayment of the loans to 13 February 2006: ECB295. Mr Liebmann says that he did not see this letter, that it was addressed to him at Norton White Lawyers and he was no longer at that address and that he cannot explain why it was not forwarded to him.
+ Whether or not Mr Liebmann knew of these communications, or attempted communications, need not necessarily be decided. However, I accept that on the balance of probabilities would seem unlikely that there was a comedy of errors of such proportions as to permit a finding that he was in fact unaware. In any event and even if he knew of none of them, which is unlikely, he did know he had not repaid his loans and he did nothing to contact ANZ to determine or discuss the position. It is the debtor's obligation to pay a debt, not the creditor's obligation to demand payment <case> at <case>, [67], per Brereton J].
+ 
+Mitigation Mr Liebmann has pleaded that ANZ has failed at any time since Mr Liebmann left the partnership on 28 November 2003 to make any effort to mitigate its loss.
+ ANZ's claim is for recovery of a liquidated debt, not an unliquidated claim for damages. It follows that the question of a duty to take reasonable steps to mitigate loss does not arise. [White & Carter (Councils) Ltd v
+McGregor <case>; [[1962] AC 413]; Hexiva Pty Ltd versus Lederer <case> at <case>, per Brereton J].
+ 
+Unconscionability Mr Liebmann asserts that the "terms of the facility documents and particularly clause 10(i) of the General Conditions" are "unenforceable by reason of being unconscionable under the Trade Practices Act". There is no clause 10(i).
+ Although Mr Liebmann does not specify which provision he relies upon, it is assumed to be one of those found in Part IVA of the Trade Practices Act.
+Whichever provision is relied upon (and assuming for present purposes it could apply to the facts of this case (which is not admitted)), none of the conduct in this case could fall within the concept of "unconscionability" within the meaning of Part IVA.
+ Unconscionability is a concept which requires a high level of moral obloquy or circumstances which are highly unethical <case>; <case>, per Spigelman CJ].
+ The present case involves little, if anything, more than a standard commercial transaction in which a sophisticated borrower does not wish to repay his loan.
+ 
+The alternative claims by ANZ Although it is strictly unnecessary to examine the alternative claims by
+ANZ, bearing in mind the nature of the issues it is appropriate to deal with those claims.
+ In short were it not for this Court's contractual finding that Mr Liebmann is responsible for repayment of loans, ANZ has succeeded in its contentions under cover of its following alternative claims.
+ 
+Estoppel Claims ANZ contends for an estoppel by convention to the effect that: i. in entering into the transactions, ANZ and Mr Liebmann proceeded upon the "2001 Assumptions" and the "2002 Assumptions"; ii. to the knowledge of the other, each accepted the truth of those assumptions, which were intended to govern the legal relationship between them; and iii. to Mr Liebmann's knowledge, ANZ advanced the loans upon those assumptions and ANZ would suffer detriment if Mr Liebmann resiled from those assumptions, such that it would now be unconscionable for him to do so.
+ [See: Con-Stan Industries Australia Pty Ltd versus Norwich Winterthur
+Insurance (Australia) Ltd <case>; [(1986) 160 CLR 226] at 244-245; Forrest versus Appleyard <case> at <case> (Brereton J); GEC Marconi Systems Pty Limited versus BHP Information Technology
+Pty Limited <case>; <case>.
+ The 2001 Assumptions are: i. that the 2001 Loan was made to the defendant; ii. that the defendant was personally liable for repayment of the Loan, together with accrued interest, fees and other outstanding amounts.
+ The 2002 Assumptions are: i. that the Loans (being the 2001 Loan and the 2002 Loan) were made to the defendant; ii. that the defendant was personally liable for repayment of the
+Loans, together with accrued interest, fees and other outstanding amounts; iii. that each of the terms pleaded in paragraph 4 of the Amended
+Statement of Claim constituted terms of an agreement between the plaintiff and the defendant.
+ It is clear that both parties adopted the assumptions in making the loans.
+ ANZ also contends for an equitable estoppel: i. by reason of the 2001 Loan Drawdown Notice and the 2002 Loan Drawdown
+Notice, respectively, Mr Liebmann made the 2001 Representations and the 2002
+Representations; ii. ANZ relied to its detriment upon the representations by making the 2001 Loan and the 2002 Loan; iii. it would be unconscionable (or unconscientious) to permit Mr
+Liebmann to depart from the representations, such that he is now estopped from denying the truth or accuracy of the representations and from asserting that the loans were not made to him or that he has no liability in respect of the loans.
+ <case>; [(1988) 164 CLR 387] at 428-429 (Brennan J); Meagher, Heydon & Leeming,
+Meagher, Gummow & Lehane's Equity: Doctrines & Remedies (4th ed, ) at [17-050]; Vukic versus Luca Grbin; Estate of Zvonko Grbin  <case> at <case> (Brereton J).] The essence of the doctrine of equitable estoppel is that in all the circumstances it would be unconscionable (or unconscientious) for the defendant to depart from a representation made or an assumption induced by him and upon which the plaintiff has relied to his or her detriment - see, for example: Giumelli versus Giumelli <case>; [(1999) 196 CLR 101] at 123.
+ Common sense demands the conclusion that the false representation played a role in inducing the plaintiff to enter into the contract. The very structure of the loans required that drawdown notices be received from the relevant equity partners, seeking the loans. It is clear that loans would not have been made in the absence of them. The acknowledgments and representations in the drawdown notices were clearly objectively important to ANZ when providing unsecured loans to individual partners with several liability.
+ In any event, ANZ did in fact rely on the representations: Affidavit of Ms
+Reddy, 2.11.09 at [7]-[11]; ECB 223.
+ The unconscionability which attracts the intervention of equity is the defendant's failure, having induced or acquiesced in the adoption of the assumption or expectation with knowledge that it would be relied on, to fulfil the assumption or expectation or otherwise avoid the detriment which that failure would occasion: Walton Stores (Interstate) Limited versus Maher <case>; [(1988) 164 CLR 387] at 423 (Brennan J).
+ 
+Misleading or deceptive conduct As with the estoppels claims, this claim only arises if Mr Liebmann succeeds in defending ANZ's contractual claim.
+ ANZ says that: i. by reason of the 2001 Loan Drawdown Notice and the 2002 Loan Drawdown
+Notice, respectively, Mr Liebmann made the 2001 Representations and the 2002
+Representations; ii. the 2001 Representations and the 2002 Representations were made in trade or commerce within the meaning of the [Fair Trading Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/fta1987117/) ("FTA"); iii. if the matters pleaded by Mr Liebmann in the Commercial List
+Response are correct, the 2001 Representations and the 2002 Representations were misleading or deceptive in contravention of [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/fta1987117/s42.html) of the FTA; iv. ANZ relied upon the representations in making the 2001 Loan and the 2002 Loan and thereby suffered loss, namely all monies advanced together with interest, charges and costs.
+ v. The conduct was in trade or commerce because it is an aspect or element of activities or transactions which, of their nature, bear a trading or commercial character.
+ <case>; [(1990) 169 CLR 594] at 604.] For the reasons outlined in relation to the estoppel claim, it is clear the representations were made and relied upon. Loss has been suffered because the
+Loans have not been repaid 
+Orders The orders of the Court are: 
+Order that the defendant pay to the plaintiff the sum of $US165,696.39.
+ 
+Order that this order be entered forth with.
+ 
+Costs Following the delivery on 25 May 2010 of the extent tempore judgment <case>, the court invited submissions from the parties in relation to costs.
+ The plaintiff seeks: i. an order that the defendant pay the plaintiff's costs of the proceedings on an indemnity basis; ii. alternatively, an order that the defendant pay the plaintiff's costs of the proceedings on the ordinary basis up to 31 March 2009 and on an indemnity basis from 1 April 2009.
+ The plaintiff's primary contention - that indemnity costs ought be ordered for the whole proceedings - is founded upon the contractual arrangements between the plaintiff and the defendant.
+ 
+The principles  The relevant principles were set out in National Australia Bank Limited v
+Landy Chen-Conway & Anor <case> and may be summarised for present purposes as follows: i. a lender may rely upon its contractual entitlement to costs so as to claim an order other than on an ordinary basis; ii. nevertheless, the order for costs continues to be at the discretion of the court.
+ The plaintiff expressly sought an order for indemnity costs in the Amended
+Statement of Claim filed (cf: National Australia Bank Limited versus Landy Chen-
+Conway & Anor <case> at <case>).
+ Paragraph 3 of the "Relief Claimed" seeks: "Costs on an indemnity basis." Paragraph 10 of the pleadings includes: "In these circumstances, the defendant is indebted to the plaintiff ... in the sum of US$145,892.82 ... together with further interest and costs calculated in accordance with the Agreements." The contractual entitlement to indemnity costs is to be found in the
+General Conditions which commence at ECB196. An entitlement to "costs" of "enforcing or protecting our rights under the transaction documents" arises under clause 7(1): ECB200. An entitlement to "costs" incurred "directly or indirectly because of termination" arises under clause 7(2). An entitlement to "costs" incurred or suffered "because of, or in connection with, an event of default" arises under clause 11(5): ECB202.
+ The word "costs" is defined at ECB207-8 to "include ... (e) legal costs (calculated on a full indemnity basis) ..." 
+The offer of compromise  By letter dated 31 March 2009, the plaintiff served (by facsimile) an offer of compromise made in accordance with UCPR r20.26 which offer was open for acceptance for 31 days. The offer was that the plaintiff would accept "the sum of US$75,000 exclusive of costs in full and final settlement of its non-costs claim against the defendant" By reason of UCPR r42.14(2), the plaintiff is entitled, unless the court otherwise orders, to indemnity costs from 1 April 2009 (and on the ordinary basis to 31 March 2009) because the judgment in fact obtained was "no less favourable" than the offer.
+ 
+Decision The offer of compromise was accompanied by a detailed letter which went into chapter and verse of the reasons why the bank contended that each of the defendant's allegations were specious and could not be substantiated.
+Importantly the letter further addressed the duties to the court where a solicitor of the Supreme Court is concerned: that is to say suggesting that there was no reasonable basis for the defendant to swear an affidavit deposing that the allegations of fact contained in the affidavit were true. In the same letter ANZ's solicitors referred the defendant's solicitors to [section ](http://www.austlii.edu.au/au/legis/nsw/consolact/lpa2004179/s345.html) of the [Legal Profession Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/lpa2004179/) which states: 
+A law practice must not provide legal services on a claim or defence of a claim for damages unless a legal practitioner associate responsibly for the provision of these services concerned reasonably believes on the basis of provable facts and a reasonably arguable view of the Lord that the claim or the defence (as appropriate) has reasonable prospects of success.
+ For the reasons detailed by ANZ's solicitors in the above letter they expressed the view that they did not believe that a legal practitioner could form such a belief in relation to the proposed amended defence.
+ In all of the circumstances the principled exercise of the relevant discretion is to order that the defendant pay the plaintiff's costs of the proceedings on the ordinary basis up to 31 March 2009 and on an indemnity basis from 1 April 2009.
+ 
+Orders as to costs The Court orders that the defendant pay the plaintiff's costs of the proceedings on the ordinary basis up to 31 March 2009 and on an indemnity basis from 1 April 2009.
+ *
+ 
+LAST UPDATED:  May 2010 * * * 

@@ -1,0 +1,182 @@
+
+
+Goodman Holdings versus Hughes [2009] NSWSC 682 (8 July 2009) 
+Last Updated: 22 July 2009 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Goodman Holdings versus Hughes <case>  
+JURISDICTION: 
+Equity Division 
+Commercial List  
+FILE NUMBER(S):  /09  
+HEARING DATE(S):  July 2009  
+EX TEMPORE DATE:  July 2009  
+PARTIES: 
+Goodman Holdings Pty Limited (Plaintiff) 
+Richard Peter Hughes (First Defendant) 
+Manuden Consulting Pty Ltd (Second Defendant)  
+JUDGMENT OF: 
+McDougall J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+R J Weber SC (Plaintiff) 
+S A Kerr / T J Breakspear (Defendants)  
+SOLICITORS: 
+Blake Dawson Lawyers (Plaintiff) 
+Lexxon Lawyers (Defendants)  
+CATCHWORDS: 
+ARBITRATION - judicial review of award - whether arbitrator exceeded jurisdiction - whether 'manifest error on the face of the award' - whether arbitrator failed to give reasons.  
+LEGISLATION CITED:  [Commercial Arbitration Act ](http://www.austlii.edu.au/au/legis/nsw/repealedact/caa1984219/)  
+CATEGORY: 
+Procedural and other rulings  
+CASES CITED: 
+Ballantyne and Sullivan versus Electricity Trust (SA) <case>; <case> 
+Promenade Investments Pty Ltd versus State of New South Wales <case>; [(1950) 81 CLR 418]  
+TEXTS CITED:  
+DECISION: 
+See paragraphs [55] to [57] of the judgment.  
+JUDGMENT:  
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+COMMERCIAL LIST  
+McDOUGALL J   July 2009 (ex tempore - revised 9 July 2009)  /09 GOODMAN HOLDINGS PTY LTD versus RICHARD HUGHES 
+JUDGMENT HIS HONOUR: This is an application for leave to appeal from the final award of an arbitrator, the Hon MJR Clarke QC, made on 12 December 2008. The application is brought pursuant to [s 38](http://www.austlii.edu.au/au/legis/nsw/repealedact/caa1984219/s38.html) of the [Commercial Arbitration Act 1984](http://www.austlii.edu.au/au/legis/nsw/repealedact/caa1984219/) (the Act). The basis of the application is that there is a manifest error of law on the face of the award in two respects. Alternatively, the plaintiff (Goodman) says, the matters relied upon constitute technical misconduct for the purposes of the Act.  
+Factual background  It is convenient to set out the factual background by adopting paragraphs 1 to 5 of the arbitrator's interim award made on 23 May 2007: . The Claimants (Hughes) and the Respondent (Goodman) entered into a
+Deed of Settlement (the Deed) on 1 October 2003. In this deed they recorded the terms upon which they resolved a dispute between them concerning the amount of money payable to Hughes under a consultancy agreement dated 2 March .
+ . Put shortly, Goodman was required to pay to Hughes an amount of money in each year in accordance with calculations set out in the Deed and based upon the value of a property being Moorabbin Airport on 30 June 2000, , 2002 and 2003.
+ . The Deed also provided for the valuation process, nominating Mr
+Brown (Brown) as the Valuer and directing him to carry out valuations of the property as at each of those dates. There were also specific directions as to how the valuation was to be carried out, to some of which I will refer later.
+ . In accordance with his instructions Brown presented a valuation report relating to the year ending 30 June 2000 on 16 March 2004, valuing the property at $22,300,000.00 (this value was later varied but it is presently unnecessary to state his ultimate value).
+ . Hughes was not happy with the valuation and he instructed another valuer, Mr Dudakov (Dudakov) to analyse it in order to determine whether it had "inherent flaws". Dudakov duly determined that it did and, in accordance with the clause 3.9 of the Deed, Hughes instituted this arbitration.
+ By the interim award, the arbitrator decided what seemed to him to be the fundamental issues submitted to him for consideration. In the events that happened, the parties procured the valuer to make a new valuation and it was that new valuation that was the subject of the final award.  
+The contractual background The deed of settlement to which the arbitrator referred was made on 1
+October 2003. By it, the parties to these proceedings agreed to settle certain proceedings in the Industrial Relations Commission of New South Wales-defined in the deed, and in it referred to as "the Proceedings".
+ By cl 3.1 of the deed, the plaintiff agreed to pay to the first defendant (Mr Hughes) certain sums of money. I set out cl 3.1: .1 Goodman shall pay to Hughes the following amounts within the time limits set out in clause 4 below: the sum arrived at by subtracting $13,789,238 from the Value of Moorabbin at 30 June 2000 and dividing the result by 100; the sum arrived at by subtracting $14,311,500 from the Value of Moorabbin at 30 June 2001 and dividing the result by 100; the sum arrived at by subtracting $14,080,095 from the Value of
+Moorabbin at 30 June 2002 and dividing the result by 100; and the sum arrived at by subtracting $9,373,500 plus Capital Expenditure incurred during the period 30 June 1998 to 30 June 2003 (such figures to be provided by Goodman and verified by Mr Gregory Goodman or Mr Dale Farnham by statutory declaration) from the Value of Moorabbin at 30 June 2003 and dividing the result by 100.
+ By cl 3.2(i), the "Value of Moorabbin as at 30 June 2000" was defined to mean a value at that date derived by the process agreed in cl 3.2. By cls 3.2 , (v) and (vi) the provisions of cl 3.2(i) were adopted, with appropriate changes, to determine the "Value of Moorabbin" as at 30 June 2001, 2002 and .
+ Clauses 3.3 to 3.8 made provision for the procedures of the valuation.
+ Clause 3.9 provided what was to happen if a party was dissatisfied with a valuation, and severely limited the rights of the parties in that respect.
+Clause 3.9 reads as follows: .9 Once a valuation for a particular year is completed, if any of the
+Parties genuinely believe that the Valuer's reasoning or calculation methodology is inherently flawed, and they have obtained a letter from an independent valuer to the effect that he or she is of the view that the
+Valuer's reasoning or calculation methodology is inherently flawed, the concerned party may refer that matter to arbitration for determination.
+
+The party taking issue with the valuation must give written notice to the other parties specifying the way in which it is alleged that the Valuer's reasoning or calculation methodology is inherently flawed. The notice must include a copy of the supporting letter from an independent valuer referred to above.
+
+Within 7 days of receipt of the notice referred to in (a), the parties must attempt to agree on a suitable arbitrator. If the parties are unable to agree on a suitable arbitrator, the parties shall approach the Institute of
+Arbitrators and Mediators Australia for a suitable arbitrator nominated and the parties agree to accept that nomination.
+
+The parties shall endeavour to ensure that the arbitration takes place as soon as is practically possible after an arbitrator is either chosen by the parties or nominated pursuant to (b) above.
+
+The decision of the arbitrator shall be final.
+ It was pursuant to cl 3.9 that the dispute ultimately resolved by the final award was referred to the arbitrator.
+ Clause 12 of the deed dealt with "governing law and jurisdiction". It reads as follows: . GOVERNING LAW AND JURISDICTION 
+This Deed is to be construed according to the laws of New South Wales and the parties submit to the exclusive jurisdiction of the Courts in New
+South Wales in relation to any dispute which may arise concerning the interpretation or enforcement of its provisions.
+ Clause 13 of the deed dealt with costs. It reads as follows: . COSTS 
+Each part will bear its own costs both in connection with this Deed and of the proceedings.
+ I should note at this stage that the application for leave to appeal is directed not at the arbitrator's substantive award - determining the valuation of Moorabbin as at 30 June 2000 - but at his award of costs in favour of Mr
+Hughes and the second defendant (Manuden).
+ 
+The statutory regime [Section ](http://www.austlii.edu.au/au/legis/nsw/repealedact/caa1984219/s38.html) of the Act deals with judicial review of arbitrators' awards. It reads as follows: Judicial review of awards 
+Without prejudice to the right of appeal conferred by subsection , the Court shall not have jurisdiction to set aside or remit an award on the ground of error of fact or law on the face of the award.
+
+Subject to subsection (4), an appeal shall lie to the Supreme
+Court on any question of law arising out of an award.
+
+On the determination of an appeal under subsection (2) the
+Supreme Court may by order: confirm, vary or set aside the award, or remit the award, together with the Supreme Court's opinion on the question of law which was the subject of the appeal, to the arbitrator or umpire for reconsideration or, where a new arbitrator or umpire has been appointed, to that arbitrator or umpire for consideration, and where the award is remitted under paragraph (b) the arbitrator or umpire shall, unless the order otherwise directs, make the award within 3 months after the date of the order.
+
+An appeal under subsection (2) may be brought by any of the parties to an arbitration agreement: with the consent of all the other parties to the arbitration agreement, or subject to [section ](http://www.austlii.edu.au/au/legis/nsw/repealedact/caa1984219/s40.html), with the leave of the Supreme Court.
+
+The Supreme Court shall not grant leave under subsection (4) (b) unless it considers that: having regard to all the circumstances, the determination of the question of law concerned could substantially affect the rights of one or more parties to the arbitration agreement, and there is: a manifest error of law on the face of the award, or strong evidence that the arbitrator or umpire made an error of law and that the determination of the question may add, or may be likely to add, substantially to the certainty of commercial law.
+
+The Supreme Court may make any leave which it grants under subsection (4) (b) subject to the applicant complying with any conditions it considers appropriate.
+
+Where the award of an arbitrator or umpire is varied on an appeal under subsection (2), the award as varied shall have effect (except for the purposes of this section) as if it were the award of the arbitrator or umpire.
+ [Section ](http://www.austlii.edu.au/au/legis/nsw/repealedact/caa1984219/s34.html) of the Act deals with costs. I set it out:  Costs 
+Unless a contrary intention is expressed in the arbitration agreement, the costs of the arbitration (including the fees and expenses of the arbitrator or umpire) shall be in the discretion of the arbitrator or umpire, who may: direct to and by whom and in what manner the whole or any part of those costs shall be paid, settle the amount (or any part of the amount) of costs to be so paid, or arrange for the assessment of those costs (or any part of them), and award costs to be assessed or settled as between party and party or as between legal practitioner and client.
+
+Any costs of the arbitration (other than the fees or expenses of the arbitrator or umpire) that are directed to be paid by an award are to be assessed (except to the extent that they have been settled by the arbitrator or umpire).
+
+A provision in an arbitration agreement (being an arbitration agreement that provides for the reference of future disputes to arbitration) is void if: it is to the effect that a particular party, or the parties, to the agreement shall in any event pay their own costs of the arbitration or any part of those costs, or except in so far as it relates to a right of indemnity or a right of subrogation-it is to the effect that a particular party to the agreement shall in any event pay the costs of any other party or any part of those costs.
+
+If no provision is made by an award with respect to the costs of the arbitration, a party to the arbitration agreement may, within 14 days of the publication of the award, apply to the arbitrator or umpire for directions as to the payment of those costs, and thereupon the arbitrator or umpire shall, after hearing any party who wishes to be heard, amend the award by adding to it such directions as the arbitrator or umpire may think proper with respect to the payment of the cost of the arbitration.
+
+Where a sum of money has been paid into the Court in accordance with the rules of court in satisfaction of a claim to which an arbitration agreement applies, the arbitrator or umpire shall, in exercising the discretion as to costs conferred on the arbitrator or umpire by subsection , take into account both the fact that money was paid into the Court and the amount of that payment.
+
+Where in accordance with rules of court an offer of compromise has been made in relation to a claim to which an arbitration agreement applies, the arbitrator or umpire shall, in exercising the discretion as to costs conferred on the arbitrator or umpire by subsection (1), take into account both the fact that the offer was made and the terms of the offer.
+
+An arbitrator or umpire shall, in exercising the discretion as to costs conferred on the arbitrator or umpire by subsection (1), take into account any refusal or failure by a party to the arbitration agreement to comply with the provisions of [section .](http://www.austlii.edu.au/au/legis/nsw/repealedact/caa1984219/s37.html) 
+The issues Mr Weber of Senior Counsel, who appeared for Goodman on the hearing of these proceedings, submitted that the arbitrator erred in a number of respects. First, he submitted, the arbitrator exceeded his jurisdiction by deciding the proper construction of cl 13. Secondly, Mr Weber submitted, the arbitrator erred in holding that cl 13 did not express "a contrary intention" for the purposes of [s (1)](http://www.austlii.edu.au/au/legis/nsw/repealedact/caa1984219/s34.html) of the Act. Thirdly, Mr Weber submitted, the arbitrator failed to give adequate reasons in relation to costs. This was so for two reasons. The first was that the arbitrator did not explain why Mr Hughes and Manuden should have any costs order at all in their favour. The second was that he did not explain adequately the amount of $200,000 that comprised his award on the question of costs.  
+The first issue: alleged excess of jurisdiction Mr Weber relied on the terms of cl 12 of the deed. By that clause, he submitted, it was for the courts of this State, and not for an arbitrator, to resolve any dispute concerning the interpretation of any provision of the deed. That extended, he submitted, to cl 13.
+ Mr Kerr of counsel, who appeared with Mr Breakspear of counsel for Mr
+Hughes and Manuden, submitted that the Court should not entertain the clause argument because it had not been put to the arbitrator. The only written submissions that Goodman put to the arbitrator dealt with the operation of cl
+So far from submitting that the arbitrator had no jurisdiction to determine the effect of cl 13, those submissions put that cl 13 operated as a bar to the making of the costs order sought by Mr Hughes and Manuden. I set out para 17 of those submissions: . Clause 13 of the Deed provides that each party is to bear its own costs "in connection with this Deed". There can be no doubt that the arbitration is in connection with the Deed, it is after all the Deed which authorises the arbitration. The expression "in connection with" is of wide import. It needs to be interpreted in context but in essence requires a connection between two or more things. In this case the connection between the arbitration and the Deed is obvious. There is no power to award costs.
+ Mr Kerr very properly informed the Court that some additional submissions had been put orally to the arbitrator, but that those submissions related not to the cl 12 point but to the amount of costs sought. Unfortunately, there is no available transcript of those submissions.
+ If Goodman had not relied upon cl 13 as it did before the arbitrator, I would not think that its failure to raise the cl 12 point before him would necessarily stand in the way of the grant of leave today. In this context, I would take into account the fact that what is involved is a question of law, and that no further evidence would have been relevant to it. See for example
+Suttor versus Gundowda <case>; [(1950) 81 CLR 418] at 437-438. However, in this case, not only did Goodman fail to submit to the arbitrator that he had no power to determine the proper construction and application of cl 13, it in effect urged him to do so, for the purpose of rejecting the costs application that had been made to him. I have to say that it seems to me to be less than meritorious now to submit that the arbitrator erred in law, because of cl 12, in accepting the invitation implicitly extended to him by para 17 of the submissions to which I have referred.
+ For those reasons alone, I would not grant leave to appeal based on the alleged failure to comply with cl 12: more accurately, on the alleged jurisdictional error said to flow from that clause.
+ In any event, I think, the argument is misconceived. By cl 12, what is referred to the courts is disputes which may arise concerning the interpretation or enforcement of the provisions of the deed. But that general clause appears in a context which includes a specific reference of particular kinds of dispute - should they arise in the future - to arbitration. In circumstances where (as [s ](http://www.austlii.edu.au/au/legis/nsw/repealedact/caa1984219/s34.html) of the Act makes clear) an arbitrator has prima facie power to determine the question of costs, and in circumstances where (as Goodman now submits) cl 13 is relevant to the existence of that power, it does not seem to me to be correct to say that the operation of cl 13 was not a matter properly to be considered by the arbitrator in connection with any costs application made to him.
+ 
+Second issue: did cl 13 bar the costs order? I turn to the second issue: the proper construction of cl 13. In this context, it is necessary to note that I am not - at this stage at least - dealing with an appeal from the arbitrator's award. I am considering whether or not to grant leave to appeal. (Having said that, I should note that the parties very sensibly agreed that if I were to grant leave then I should proceed to determine the appeal.) What Goodman must show is that there was a manifest error of law on the face of the award, insofar as it dealt with the question of costs. It is always unwise to substitute judicial exegesis for the wording of a statute, but the authorities on [s (5)](http://www.austlii.edu.au/au/legis/nsw/repealedact/caa1984219/s38.html) make it clear that, in deciding whether to grant leave, (and in deciding whether for that purpose whether there is a manifest error of law), the courts should exercise a considerable degree of restraint, and should not embark upon detailed scrutiny of the particular case. See, for example, the decision of
+Kirby P in Natoli versus Walker [(1994) 217 ALR 201] at -215, and the decision of Sheller JA in Promenade Investments Pty Ltd v
+State of New South Wales [(1992) 26 NSWLR 203] at 226.
+ In this case, the question for the arbitrator, and the question in respect of which he is said to have erred in a manifest fashion, arises from the phrase "costs ...in connection with this deed". Mr Weber submitted, correctly, that the words "in connection with" are capable of denoting a very wide relationship between the two things to which they apply - in this case, costs on the one hand and the deed on the other. He submitted that the arbitration was something that occurred under, or by reason of, and in accordance with, the provisions of, the deed; and thus that costs relating to the arbitration were costs in connection with the deed.
+ Mr Kerr submitted that the true extent of the connection conveyed by the words was essentially a matter of context. In this particular contractual context, he submitted, there was ample support for the view taken by the arbitrator - namely, that the costs in question were costs relating to the preparation of the deed and not future costs.
+ Further, Mr Kerr submitted, if cl 13 were to be given the effect ascribed to it by Mr Weber, then it was void by reason of [s (3)(a)](http://www.austlii.edu.au/au/legis/nsw/repealedact/caa1984219/s34.html) of the Act.
+ The arbitrator dealt with the parties' submissions, as to the operation of cl 13, at paras 26 to 30 of his final award: . If can be accepted that [s34](http://www.austlii.edu.au/au/legis/nsw/repealedact/caa1984219/s34.html) of the [Commercial Arbitration
+Act](http://www.austlii.edu.au/au/legis/nsw/repealedact/caa1984219/) permits an order for costs to be made "subject to a contrary intention" in the arbitration agreement. The respondent claims that such an intention is to be found in the Deed.
+ . That appears, according to the respondent, in clause 13. This clause is in the following terms - "Each party will bear its own costs both in connection with the Deed and the proceedings" . The respondent claims that this arbitration is clearly in connection with the Deed and clause 13 prohibits the making of a costs order.
+ . The claimant points out that 'proceedings' are defined in Recital C to the Deed as being the proceedings No. 6152 of 2001, in the Industrial
+Relations Commission of New South Wales and there is no basis in the Deed for the word to be given a wider meaning.
+ . It is clear to me that clause 13 was designed to cover the costs of the preparation of the Deed and the costs of proceedings in the Industrial
+Relations Commission. It does not, however, in context, relate to any of the arbitrations which may occur in relation to valuations.
+ If it were necessary to decide the question - that is, if this were an appeal and not an application for leave to appeal - I would conclude that the arbitrator did not err. It seems to me that there is a sufficient context in the deed itself to suggest that what the parties were looking at was the question of costs up until the date of execution of the deed and not future costs. Thus, for example, clause 13 explicitly refers to not only costs in connection with the deed but also to costs of the proceedings.
+ Further, clause 13 appears in an agreement that contains provision for referral of certain kinds of dispute - should they arise - to arbitration. It is plain that the parties had the benefit of competent legal advice. They must be taken to have been aware of the provisions of [s ](http://www.austlii.edu.au/au/legis/nsw/repealedact/caa1984219/s34.html) of the Act (given that they contemplated the possibility of an arbitration that would be governed by the Act). Had they intended to circumvent the operation of [s ](http://www.austlii.edu.au/au/legis/nsw/repealedact/caa1984219/s34.html), one might have expected that they would deal with it specifically in cl 3.9, and not through the remote and general provisions of cl 13. Perhaps they did not seek to do so because they were mindful of [s (3)(a)](http://www.austlii.edu.au/au/legis/nsw/repealedact/caa1984219/s34.html) of the Act.
+ But it is not necessary to go so far. It is sufficient to say, essentially for the same reasons, that even if the arbitrator's view were wrong, it could not be said to be manifestly wrong.
+ In any event, I think, Mr Kerr's alternative submission, based on [s (3)(a)](http://www.austlii.edu.au/au/legis/nsw/repealedact/caa1984219/s34.html), must be accepted. Mr Weber submitted that the arbitration agreement was not one for the reference of future disputes to arbitration. He submitted that there had been a present dispute as to fees, which dispute had been agitated in the Proceedings and was resolved by the deed. Thus, he submitted, any arbitration pursuant to cl 3.9 would be an arbitration in respect of that present dispute.
+ I do not accept those submissions. The deed provided how it is that the parties have resolved their dispute. One of the matters on which they agreed was that Goodman would pay Hughes amounts in accordance with cl 3.1, at times in the future. Those times were defined by cl 4.1 as being "within 45 days of completion of the valuation for the relevant year".
+ The amount of the fee for any particular year was not fixed by cl 3.1. What cl 3.1 did was fix a mechanism for ascertaining the amount of the fee. True it is that the execution of that mechanism might produce a fee as to which there was no dispute. But, until the mechanism had been followed through, the fee would not be payable. Clause 4 makes that clear, including because of the provision for interest in cl 4.2 (by which the right to interest accrues from the date on which the fee is payable under cl 4.1).
+ Further, the mechanism contemplated that there might be a dispute as to a valuation for a particular year. If that dispute proved to be of a kind that activated cl 3.9, then there was a right to go to arbitration. Until that right was activated, then again the fee would not become payable.
+ The disputes that were referred to arbitration were potential disputes as to a valuation to be carried out in the future - after the date the deed was made. Clearly enough, there could be no present dispute until a valuation was made and a party, having considered it, genuinely believed that it was based on inherently flawed reasoning or calculation methodology.
+ Thus, I think, disputes of the kind referred to arbitration by cl 3.9 are necessarily "future disputes" in the context of the arbitration agreement. For those reasons, were it necessary to do so, I would conclude that if, contrary to what I have said, cl 13 did have the operation for which Mr Weber contends, it would be void by virtue of [s (3)(a)](http://www.austlii.edu.au/au/legis/nsw/repealedact/caa1984219/s34.html) of the Act.
+ 
+Third issue: alleged want of reasons  I turn to the alleged failure to give reasons. There were, as I have indicated, two limbs to this submission. One related to the question of whether Mr Hughes and Manuden should have any costs order in their favour at all. The other related to the arbitrator's quantification of those costs.
+ It is plain that the way the dispute as to costs was submitted to the arbitrator was based (from the point of view of Mr Hughes and Manuden) on the proposition that costs should follow the event. That is clear from the written submissions on their behalf: 
+COSTS FOLLOW THE EVENT . In paragraph 12 of the interim award, the arbitrator identifies the "two major flaws" asserted by the Claimants in the arbitration. In paragraphs , 27 and 28 of the interim award, the arbitrator answers the first of those questions in favour of the Claimants.
+ . Consideration of the second question commences at paragraph 31. At paragraph 47, the arbitrator, by way of summary, confirms that the two major flaws earlier identified had been made out by the Claimants.
+ . Whilst the Respondent had sought, in effect by way of cross complaint, to raise issues in the arbitration, those were rejected by the arbitrator at paragraphs 45 and 46.
+ . Consequently, the determination by the arbitrator was one by which he accepted the issues raised by the Claimants, and rejected those raised by the Respondent. Consequently, it was the Claimants who were successful in the arbitration. As such, in the ordinary course, an award for costs should be made in favour of the successful party.
+ It was, presumably, those written submissions that Goodman sought to address in its written submissions or in its oral submissions to the arbitrator. (It was not clear whether the written submissions were exchanged, or whether they were served in sequence - one after the other.) The written submissions took no issue with the proposition that costs should follow the event. Further, if the oral submissions were limited to the question of quantum, then it would seem that they too did not quarrel with the basic proposition.
+ The obligation of an arbitrator to give reasons extends to reasons for the making of costs orders. See the decision of Einstein J in Panmal
+Constructions Pty Ltd versus Warringah Formwork Pty Ltd  <case> at <case>.
+ However the extent of the obligation to give reasons - for an arbitrator, or for a court, or for any other body charged with the decision of disputes to which the obligation to give reasons attaches - has to be assessed by reference to the dispute tendered for decision. It is not ordinarily necessary for a court, in giving reasons for the decision of a dispute, to deal with every matter that was agreed, or common ground, between the parties; or to deal with matters that are not relevant to its decision; or to deal with matters beyond the ambit of the dispute that it was asked to resolve. No greater obligation should attach to an arbitrator.
+ In this case, it appears to have been common ground that the general principle, that costs follow the event, applies as much to arbitrations as it does to proceedings in court. In any event, as Mr Kerr and Mr Breakspear pointed out in their written submissions, there are authorities to that effect: Berbette Pty Ltd versus Hansa <case>; [[1976] VR 385] and Ballantyne and Sullivan versus Electricity Trust (SA) [(1994) 62 SASR 133.] Further, and again as they point out, there being a presumption in favour of the correctness of an award as to costs where those costs follow the event, as a matter of policy appeals as to costs should be discouraged: Garner versus Rohanna Pty Ltd [[1999] WASCA 178] at [[15]](/cgi-bin/LawCite?cit=%5b1999%5d%20WASCA%20178#para15).
+ As I have said, it would seem that the essential dispute submitted for the arbitrator was whether, by reason of cl 13, he had any power at all to order costs. I accept that it was also submitted to him that, if he did, the quantum of the costs claimed was excessive.
+ In those circumstances, I do not think that the arbitrator erred by failing to address the fundamental proposition that the starting point (leaving aside cl 13) was that, ordinarily, costs follow the event.
+ That proposition had been stated in the written submissions for Mr Hughes and Manuden. It had not been traversed in the written submissions for Goodman nor, so far as the Court is aware, in the oral submissions for that party.
+ What was a live matter for the arbitrator was the effect of cl 13. He dealt with that, and as I have said, did not do so in a way that involved any manifest error of law.
+ Thus, insofar as this aspect of the challenge is based on the failure to give reasons as to why Mr Hughes and Manuden should have costs at all, it cannot be sustained.
+ As to quantum, the arbitrator's reasons were brief. He said at para 33 of the final award: . Notwithstanding, the claim is for just over $83,066 for solicitor's professional costs and just under $200,000 for out of pocket expenses including $40,000 for counsel's fees. These figures are set out in a Statutory
+Declaration declared by the claimant's solicitor. The claimant does not, however, seek the whole amount as he accepts that, on assessment, it is usual for only a percentage of the claim to be allowed. In the circumstances I allow $200,000.00.
+ The background to para 33 is to be found in the statutory declaration to which the arbitrator referred, being a declaration made by the solicitor Mr
+Wheeler. That declaration was read, or tendered, without objection. Mr Wheeler was not required for cross-examination on it. There was no evidence in answer to it. In summary, Mr Wheeler said that: the total amount of legal professional fees paid and payable (apart from disbursements) would be in round figures, $83,000; in addition, there would be disbursements (including counsel's fees and other matters) of, in round figures, $200,000; the hourly rate at which he charged his work was, on information and belief from an expert costs assessor, reasonable; likewise, in his experience, the hourly rate charged by counsel was reasonable; the hourly rate charged by the valuer was reasonable (particularly taking into account that it was the same rate as that charged by the valuer appointed by the parties jointly); and if the matter were to go to assessment, the percentage allowable would "normally range from 70 to 80 percent although sometimes the percentage goes above 90 percent" (this also was stated on information and belief from the costs assessor to whom I have referred).
+ As will be seen from para 34 of the final award, the arbitrator took that evidence into account. He was entitled to do so. Indeed, I would have thought, it would have been an error had he failed to do so given that, it was tendered and admitted unopposed, and was unchallenged and uncontroverted.
+ In those circumstances, it seems to me, the arbitrator did not need to do more than he did in concluding that the gross amount of fees and disbursements incurred by Mr Hughes and Manuden was, arithmetically, the total of the amounts declared by Mr Wheeler.
+ The arbitrator then noted that only a percentage of the claim would be likely to be allowed on assessment. Arithmetically, the figure of $200,000 that he allowed is 70 percent (give or take a relatively small amount) of the total amount of the claim. Since the unchallenged evidence before him was that there was a range of 70 percent to 80 percent, going on occasions as high as percent, I do not think that he needed to do more than adopt the lower end of the range - as he did - for the purpose of quantifying the amount. More particularly, I do not think that he erred, so as to deny natural justice to
+Goodman, by reasoning as he did.
+ In my view, the challenge to the quantification of the amount likewise fails.
+ 
+Technical misconduct I turn to the question of technical misconduct. Mr Weber accepted that it stood or fell with the challenges based on manifest error of law. It is unnecessary in those circumstances to do anything more than to say that it is irrelevant and should not have been articulated as part of the claim.
+ 
+Conclusion and orders The consequence is that each of the suggested challenges to the final award fails. Leave should not be granted. I order that the summons filed on 8
+January 2009 be dismissed. I will hear the parties on costs.
+ I order the plaintiff to pay the defendants' costs of the proceedings.
+ I order that the exhibits remain with the file for 28 days and be dealt with thereafter in accordance with the rules.  
+LAST UPDATED:  July 2009 * * * 

@@ -1,0 +1,50 @@
+
+
+Secure Logic Pty Ltd versus Noble [2016] NSWSC 1525 (28 October 2016) 
+Last Updated: 31 October 2016 
+Supreme Court 
+New South Wales  
+Decision: 
+Plaintiffs' notice of motion of 5 October 2016 dismissed with costs  
+Catchwords: 
+PRACTICE AND PROCEDURE - independent computer expert - whether plaintiff should have leave to engage independent computer expert as its own expert - whether granting such leave would result in defendant in effect being compelled to make premature disclosure and sidestepping Practice Note SC Eq 11  
+JUDGMENT
+A dispute has arisen in these proceedings as to whether the plaintiffs, together "Secure Logic", should have leave to engage Mr Nick Klein, a forensic IT specialist hitherto described in these proceedings as "the Independent Computer Expert" as its own expert witness for the purpose of the proceedings.
+In my opinion, such leave should not be given.
+Secure Logic provides managed information and securities services to public and private entities in Australia, and elsewhere.
+The first defendant, Mr Noble, was until June 2016, employed by Secure Logic as its Chief Operating Officer, based in Malaysia. The second defendant is a company associated with Mr Noble.
+The third defendant, Mr Pankhurst, was until May 2016, employed by Secure Logic as a Business Development Manager.
+Secure Logic's submissions before me focused on Mr Noble's conduct. I will do the same.
+Mr Pankhurst appeared before me in person, and generally supported Mr Noble's position.
+Secure Logic alleges, amongst other things, that in May 2016, Mr Noble disclosed confidential information of Secure Logic to a competitor, downloaded other confidential information of Secure Logic to his personal computer and otherwise misused Secure Logic's confidential information.
+Secure Logic suspended Mr Noble's employment on 25 May 2016 and, on 15 June 2016 commenced these proceedings seeking urgent interlocutory relief against both Mr Noble and Mr Pankhurst to restrain them from publishing, disclosing or using its confidential information.
+In the meantime, on 3 June 2016, Mr Noble, through his solicitors, wrote to Secure Logic's solicitors complaining that Secure Logic had engaged in covert surveillance of his computer activity at Secure Logic and stating that he had engaged his own forensic IT specialist, Ferrier Hodgson.
+On 14 June 2016, Secure Logic's solicitors responded by proposing that Ferrier Hodgson be appointed "Independent Computer Expert" as if it had been appointed as such in the course of a search order pursuant to [Pt 25](http://www.austlii.edu.au/au/legis/nsw/consolreg/ucpr2005305/index.html#p25) of the [Uniform Civil Procedure Rules 2005](http://www.austlii.edu.au/au/legis/nsw/consolreg/ucpr2005305/) and seeking various undertakings from Mr Noble.
+Mr Noble objected to Ferrier Hodgson being appointed as an Independent Computer Expert.
+In an affidavit before me Mr Noble said: "I did not want to give the undertaking referred to... because I wished to retain Ferrier Hodgson as my own expert... I considered that, if Ferrier
+Hodgson became the 'Independent Computer Expert', I would not be able to use them as an expert witness in the case, for which they had already been engaged."
+Consequently, Secure Logic commenced these proceedings the following day, 15 June 2016.
+Ultimately, on 17 June 2016, consent orders were made restraining Mr Noble and Mr Pankhurst from publishing, disclosing, using or reproducing what was described as "Secure Logic Confidential Information".
+The orders also appointed Mr Klein as "Independent Computer Expert" and required Mr Noble to deliver to Mr Klein all his computer devices and the information contained thereon.
+Mr Noble complied with that order and, on 1 August 2016, Mr Klein produced a report which has been made available to the Court and to the parties.
+There was no dispute before me that the material that Mr Noble produced to Mr Klein included very much more than the "Secure Logic Confidential Information". It included privileged communications between Mr Noble and his legal representatives, Mr Noble's own private and confidential information and documents not relevant to any fact in issue in these proceedings.
+The parties have since exchanged pleadings.
+Now, by notice of motion filed on 5 October 2016, Secure Logic seeks leave to engage Mr Klein as its own expert and proposes a regime whereby Mr Klein must disclose to Mr Noble's solicitors what documents he proposes to disclose to Secure Logic, and to give Mr Noble an opportunity to object on the basis of privilege, confidentiality or relevance.
+In support of the orders sought, Mr Flynn, who appeared with Mr Hallahan for Secure Logic, emphasised that Mr Klein, as an expert, is bound by, and is taken as understanding his obligations under the Expert Witness Code of Conduct. Mr Flynn emphasised that there are "not degrees of independence", that Mr Klein was "not our expert" and that there was no reason to doubt that Mr Klein would act professionally and consistently with his duties.
+So much may be accepted. I have not the slightest reason to doubt Mr Klein's professional integrity.
+Mr Flynn also pointed to the further cost that Secure Logic will incur if they must now retain their own expert.
+However, I see two difficulties with Secure Logic's application.
+The first is that, thus far, Mr Klein has played the role of an Independent Computer Expert, just as if there had been a search order and he had been appointed in that capacity for that purpose.
+As Mr Fitzpatrick, who appeared for Mr Noble submitted, thus far Mr Klein's role has been akin to that of a court appointed expert.
+Neither Mr Flynn nor Mr Fitzpatrick was able to point to any case where a party has been permitted to use an Independent Computer Expert (or any other independent expert) as its own expert. I am not aware of any such case.
+That is not surprising, as the later appointment of an Independent Computer Expert (or any other independent expert) as an expert for one of the parties might give rise to a perception, in the forensic accounting profession, or more widely, that the appointment of an Independent Computer Expert might be a prelude to a wider, and more lucrative role in the proceedings. That may have unforeseeable and, perhaps, undesirable consequences. In my opinion, it is desirable that persons appointed as independent experts (in the sense of not being retained exclusively by either party) understand that their role will be so confined and not just a step along the way to a retainer by one party or the other.
+Of course, I do not mean to suggest that Mr Klein harboured any such ambition. There is no such suggestion.
+Further, a party may be less inclined to consent to the appointment of an independent expert if there is a risk that that expert will later be retained by the other party.
+The second point is that, as Mr Fitzpatrick pointed out, in the event that I acceded to Secure Logic's application, that would effectively provide to Secure Logic disclosure (via provision by Mr Klein) "of the entire content of all devices which could possibly be relevant to the proceedings (and some which may not be)". As Mr Fitzpatrick submitted, this would be a collateral result of interlocutory orders obtained on an urgent basis.
+As is, I hope, now well known, Practice Note SC Eq 11 provides that, in this division, disclosure is not available until the parties have served their evidence unless there are exceptional circumstances necessitating disclosure. Were I to make the orders sought by Secure Logic, it will have successfully circumvented the Practice Note.
+Mr Flynn submitted that this problem could be dealt with as a separate issue and by the parties agreeing on categories for disclosure. But that submission does not meet the point that, absent "exceptional circumstances", the Practice Note requires that there be no requirement for disclosure, whether in agreed categories or not.
+
+Conclusion
+For those reasons the plaintiffs' notice of motion of 5 October 2016 should be dismissed with costs.
+ 
+Amendments October 2016 - [27] grammatical error corrected * * * 

@@ -1,0 +1,119 @@
+
+
+Lime Telecom Pty Ltd versus Powertel Limited [No.1] [2008] NSWSC 324 (13 March )
+
+Last Updated: 23 April 2008 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Lime Telecom Pty Ltd versus Powertel Limited <case>  
+JURISDICTION:  
+FILE NUMBER(S):  /07  
+HEARING DATE(S):  and 14 March 2008  
+JUDGMENT DATE:  March 2008  
+EX TEMPORE DATE:  March 2008  
+PARTIES: 
+Lime Telecom Pty Ltd ACN 107 797 213 (Plaintiff) 
+Powertel Limited ACN 001 760 103 (Defendant)  
+JUDGMENT OF: 
+McDougall J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+P Menadne (Plaintiff) 
+CRC Newlinds SC / P Newton (Defendant)  
+SOLICITORS: 
+Shields Lawyers (Plaintiff) 
+Heidtman & Co Lawyers (Defendant)  
+CATCHWORDS: 
+CONTRACT - refusal to continue to provide services - whether repudiation - exclusion clauses - whether sufficient to exclude liability for damages for repudiation.  
+LEGISLATION CITED:  
+CASES CITED: 
+Darlington Futures Ltd versus Delco Australia Pty Ltd <case>; [(1986) 161 CLR 500] 
+H & E Van Der Sterren versus Cibernetics (Holdings) Pty Limited <case>; [[1996] 1 VR 538] 
+Peter Turnbull & Company Proprietary Limited versus Mundus Trading Company
+Proprietary Limited <case>; <case>; [(1965) 114 CLR 481]  
+TEXTS CITED:  
+DECISION: 
+See paragraph [37] of the judgment  
+JUDGMENT:  
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+COMMERCIAL LIST  
+McDOUGALL J   March 2008 (ex tempore - revised 14 March 2008)  /07 LIME TELECOM PTY LTD versus POWERTEL LIMITED [No.1] 
+JUDGMENT HIS HONOUR: From about September 2004 until 29 May 2007 the defendant supplied telecommunications services to the plaintiff (Lime). The plaintiff used those services in connection with its business; for today's purposes, neither the nature of the services nor the nature of the business are relevant save to say that termination of the provision of the services on May 2007 caused a very substantial interruption to Lime's business.
+ It is common ground that although there were numerous contracts, each in relation to a particular service, at all material times the contracts were governed by the standard form of agreement for supply of services proffered by
+PowerTel to its customers including Lime. It will be necessary to return to some of those terms.  
+Factual background PowerTel invoiced Lime monthly for services supplied in the preceding month.
+Each invoice stipulated, in accordance with the standard terms, that the previous month's charges stated in it were payable 30 days from the date of the invoice. It is clear that Lime rarely, if ever, complied with that payment obligation according to its terms.
+ On 1 May 2007, PowerTel sent Lime an invoice claiming a total of $73,667.09.
+That amount was made up of the current month's charges of $34,908.17 and the previous month's charges of $38,758.92. The invoice stated that the payment due date was 30 May 2007.
+ The previous month's charges had been included in an invoice dated 1 April
+Those charges were said to be payable by 30 April 2007. In keeping with what appears to have been Lime's general attitude towards its payment obligations, the April 2007 invoice also included an amount ($44,918.68) due under the previous month's invoice.
+ It seems that Mr Velten, the financial services manager of PowerTel, had become disenchanted with Lime's payment history. It is apparent from the evidence that on numerous occasions PowerTel had given Lime notices, in a form permitted by the standard terms to be given, threatening that unless overdue amounts were paid, services would be terminated or suspended.
+ Such a notice is said to have been given on 21 May 2004. I say "said to have been given" because the only evidence that it was in fact given is evidence of entries in PowerTel's computer system, and evidence of procedures which would suggest that, the computer records being as they are, the notice in question was generated and posted according to PowerTel's usual business procedures.
+ Mr Amir Neghabian, who is the business manager of Lime and has been since
+February 2004 when it commenced to carry on business, swore that no notice dated 21 May 2007 had been received by Lime. His evidence was that he personally cleared Lime's mail box almost every day, save perhaps when he was absent on business. He said that there was but one key to the mail box and that he carried the key at all times.
+ Although there was a challenge to this aspect of Mr Neghabian's evidence, I accept it. It is plain that Mr Neghabian was very much aware of the relevant provisions of the standard terms, and very much aware of what might happen if
+Lime failed to comply with a breach notice. In my view, looking at the matter objectively, had Mr Neghabian received the breach notice said to have been sent on 21 May 2007, he would have acted as he had done on many occasions in the past by causing Lime to pay the amount due. His evidence that Lime could and would have done so was not challenged and I accept it.
+ 
+PowerTel's case  To jump ahead: PowerTel says that it sent the breach notice; that Lime failed to comply with the breach notice; and that PowerTel relied on that non- compliance to terminate all agreements (save for one, which is presently irrelevant) between it and Lime for the provision of telecommunications services. Although right up until final submissions on this hearing PowerTel maintained that it was contractually entitled to terminate those agreements,
+Mr Newlinds SC, who appeared with Mr Newton of counsel for PowerTel, conceded on the evidence that PowerTel was not entitled to terminate the agreements when on 29 May 2007 it purported to do so.  
+The issues today  In light of Mr Newlinds' concessions, the real question that remains for decision revolves around an exclusion clause - cl 14 - in the standard terms.
+Before I turn to that, I should however set out the questions that, by order of the Court made on 30 November 2007, are to be decided today: 
+QUESTIONS . When the Defendant stopped providing telecommunications services to the Plaintiff: was the Defendant contractually entitled to do so under the Standard Form
+Agreements applying to those services? or did the Defendant breach clause 1.1 of the Standard From Agreements applying to those services? . If the Defendant did breach the Standard Form Agreements, how long did that breach continue for? . Is clause 14 of the Standard Form Agreements effective to exclude the Defendant's liability for damages in these proceedings? . If the answer to Question 3 is "yes", to what extent does clause 14 limit the Defendant's liability for damages? For reasons indicated by the transcript, the third issue was amended so that, as appears, it refers to exclusion rather than limitation of liability.
+ Mr Newlinds accepted that the first issue must be answered "no" as to paragraph (a) and "yes" as to paragraph (b); and that the second issue should be answered to the effect that the breaches continued up until about 7
+September 2007. The significance of that date is that on any view, if the agreements had not come to an end earlier, they came to an end then by reason of an election made by Lime and communicated to PowerTel, based on what Lime said was PowerTel's repudiatory conduct.  
+The standard terms  The clauses of the standard terms to which reference need to be made are relatively few. By cl 1.1, PowerTel agreed to supply and Lime agreed to acquire the defined Service "in accordance with the terms of this Agreement".
+By cl 6.1, Lime agreed to pay the charges for that Service "in compliance with the payment terms in cl 7". By cl 7.3, Lime was obliged to pay "all fees and charges by the Due Date". The "Due Date" had been earlier defined as "30 days from the Invoice Date". Although "Invoice Date" is itself a defined term, it is unnecessary to set out the definition.
+ Clause 12 of the standard terms dealt with suspension and termination.
+PowerTel relied (at least up until Mr Newlinds made the concessions to which I have referred) on cl 12.2(a). That clause reads as follows:  .2(a) you have failed to make a payment by the due date and you fail to make such payment within 5 Business Days of receipt of a notice requiring you to do so, except to the extent that such amount is permitted to be withheld pursuant to the Billing Dispute Procedures; Consistent with its heading, cl 12 also dealt with suspension of the agreement. Mr Newlinds relied on cl 12.4(e): .4(e) a Competition Notice which affects the subject matter of this
+Agreement is issued, or PowerTel reasonably believes that the ACCC is likely to issue such a Competition Notice, or a Regulator or court determines that any part of this Agreement contravenes the Telecommunications Acts or the
+Trade Practices Act; Clause 14 dealt with limitation of liability. Although the debate really only centres on cl 14.4 and 14.5, I think it important to set out the whole of cl 14: . LIMITATION OF LIABILITY .1 To the extent permitted by law, the supply of Services under this
+Agreement will be governed exclusively by the terms of this Agreement (including its Schedules) and all other terms, conditions, warranties, undertakings, inducements or representations whether express, implied, statutory or otherwise relating in any way to the supply of Services under this Agreement are excluded.
+ .2 Where any act of Parliament implies in this Agreement any term, and that act of Parliament voids or prohibits provisions under a contract, which exclude or modify the operation of such term, the term is deemed to be included in this Agreement.
+ .3 To the extent permitted by law, our liability for breach of any condition or warranty implied by law which cannot lawfully be excluded, whether in contract, negligence (or any other tort), under any statute or otherwise, is limited to one of the following remedies at our discretion: if the breach relates to services, the resupply of the Services or the payment of the cost of resupplying the Services; or if the breach relates to goods, the repair or replacement of the goods or the payment of the cost of such repair or replacement.
+ .4 Except as otherwise expressly provided in this Agreement (which includes your express liabilities for charges and payments under clause 7) and to the extent permitted by law, a party has no liability to the other party in connection with this Agreement for or in respect of any consequential loss, indirect loss, loss of profits of any kind, loss or corruption of data, interruption to business, loss of customers or customer losses, loss of revenue and economic loss of any kind, whether in contract, negligence or any other tort under any statute or otherwise.
+ .5 To the extent permitted by law, the aggregate liability of a Party to the other Party in any 12 month period in respect of all claims in arising out of or connection with this Agreement, whether in contract, negligence or any other tort, under any statute or otherwise, will not in any circumstances exceed the lessor of: the aggregate amount paid or payable by you to us under this
+Agreement; and $1 million.
+ ("Liability Cap") 
+The competing submissions on cl 14.4 Mr Newlinds submitted that PowerTel's conceded breach of each of the agreements (with the irrelevant exception to which I referred earlier) was excused by cl 14.4. Thus, he submitted, the third issue should be answered "yes", with the consequence that Lime's proceedings must be dismissed.
+ Mr Menadue of counsel, who appeared for Lime, submitted that nothing in cl - in particular, cl 14.4 - permitted PowerTel to escape the consequences of repudiatory conduct. He submitted that the clause should not be construed so as to enable PowerTel, by deliberate breach, to deprive Lime of the whole benefit of the contract but at the same time escape any liability for that.  
+Did Powertel repudiate the agreements?  One preliminary question that is thereby raised is therefore as to the characterisation of PowerTel's conduct. Mr Newlinds submitted that even though there were breaches, they were based (as I find was the case) on a misconception of PowerTel's rights under cl 12.2(a). He ultimately abandoned any submission that that honest although erroneous belief was sufficient to deprive PowerTel's conduct of any repudiatory quality. Ultimately, Mr Newlinds accepted that for a subjective belief to be relevant on the question of consideration, it must be a belief that had some reasonable basis.
+ In the present case, cl 12.2(a) is quite clear. The right to terminate under it arises if payment is not made within five business days of receipt of a breach notice. Mr Velten, who as I have said made the decision, was of the view that the right accrued five business days after the issue of the notice.
+Indeed, some ground for that may be found in the draft form of notice, which is said to have been settled by PowerTel's internal lawyers. At one point, that draft form of notice refers (correctly) to termination within five days of receipt. In another part it refers to termination within five days from issue. In neither case does it stipulate business days; but it appears to have been accepted by all at PowerTel that the reference to days should be taken as a reference to business days.
+ Mr Newlinds accepted that, on the basis of the evidence as to PowerTel's business practices, even if I were to conclude that the notice had been generated and put into the post, it could not have been received by Lime at a time sufficiently early to permit termination pursuant to cl 12.2(a) on 29 May
+That concession, although correctly made, fades away somewhat given as
+I have said that I accept Mr Neghabian's evidence that the notice was not in fact received.
+ I might add that there is a provision of the standard terms (clause 23.16) as to when notices are taken to have been received. In essence, absent evidence to the contrary, a notice is taken to have been received on the third business day after it was posted. If PowerTel were to rely on that then, again, and leaving aside Mr Neghabian's evidence of non-receipt, there was no right of termination as at 29 May.
+ This is of some significance, because there is no doubt that on 29 May and again on 30 May (and at the most favourable, from PowerTel's perspective, 30
+May was the last date for payment), Mr Neghabian offered payment in full of all amounts owing. Mr Neghabian gave unchallenged evidence, which I accept, that Lime had the capacity to make that payment on that occasion. The effect of Mr Velten's response to Mr Neghabian's requests was to deny Lime the opportunity to pay by what on any view was no later than the ultimate due date. Were it necessary to do so, I would conclude, based on the decision of the High Court of Australia in Peter Turnbull & Company Proprietary
+Limited versus Mundus Trading Company (Australasia) Proprietary Limited <case>; [(1954) 90 CLR 235], that PowerTel was in no position to take advantage of Lime's non-payment as at 29 and 30 May 2007.
+ Thus, I conclude that PowerTel's conduct in purporting to determine all (save one) of the agreements on 29 May 2007, and in denying Lime the right to continue to receive performance thereafter, was repudiatory.
+ 
+The operation of clause 14.4 The question of the ambit of cl 14 in general, and cl 14.4 in particular, was addressed by both Mr Newlinds and Mr Menadue. Both referred me to the decision in Darlington Futures Ltd versus Delco Australia Pty Ltd <case>; [(1986) 161 CLR 500.] In that case, the Court considered the approach to be taken to the construction of exclusion clauses. Their Honours rejected the application of any doctrine of fundamental breach. They said at 510 "that the interpretation of an exclusion clause is to be determined by construing the clause according to its natural and ordinary meaning, read in the light of the contract as a whole, thereby giving due weight to the context in which the clause appears including the nature and object of the contract, and, where appropriate, construing the clause contra proferenti." Consistent with the Court's earlier decision in Sydney Corporation versus West <case>; [(1965) 114 CLR 481], their
+Honours said at 511 that it was legitimate to inquire whether the parties intended to exclude liability for actions that were taken quite outside the scope of the contract.
+ Again, in an earlier decision of the Court which was referred to with apparent approval in Darlington Futures at 510, Walsh J said that "the terms of exclusion clauses must sometimes be read down if they cannot be applied literally without creating an absurdity or defeating the main object of the contract.... But such a modification by implication of the language which the parties have used in an exception clause is not to be made unless it is necessary to give effect to what the parties must be understood to have intended". See H & E Van Der Sterren versus Cibernetics (Holdings) Pty Limited [(1970) 44 ALJR 157] at 158. I note that Barwick CJ and Kitto J agreed with Walsh
+J in that case.
+ The principles were considered, in the context of a bill of lading, by the
+Appeal Division of the Supreme Court of Victoria in Kamil Export (Aust) Pty
+Ltd versus NPL(Australia) Pty Ltd <case>; [[1996] 1 VR 538.] In that case, Marks J (with whom Fullagar J agreed and
+Ormiston J "substantially" agreed) reviewed the authorities to that time at considerable length. His Honour concluded in substance (at 552) that an exemption clause could not apply to defeat the main object of the contract unless it were clearly and unambiguously expressed to do so, and that were the only logical operation that might be given to it. Thus, his Honour said, "the question is ordinarily whether, on the proper construction of the contract, it can be said that the language of the exemption clearly applies to the event or kind of event which has actually happened, notwithstanding that its effect may defeat the object of the...contract".
+ It is necessary to return to the precise language of clause 14. Clause 14.1 specifies one object of the clause: to ensure that the supply of services under the agreement will be governed exclusively by the terms of the agreement and that all other terms will be excluded so far as possible. Clause 14.2 preserves the position in respect of obligations out of which it is not possible to contract. Clause 14.3 likewise picks up liability except to the extent that it is not possible to contract out, and purports to limit the liability of PowerTel for the breach of any condition or warranty implied by law.
+ Against that background, clause 14.4 seeks to exclude all liabilities "whether in contract, negligence or any other tort under any other statute or otherwise" to the full extent permitted by law. Of course, it preserves express liabilities that are caught by the contract: for example, Lime's obligation to pay interest on overdue amounts under clause 7.4.
+ The liability that is excluded by clause 14.4 is liability "in connection with this agreement" for losses of the kinds referred to. Those losses include loss or corruption of data, interruption to business and loss of customers. It is clear that PowerTel intended to exclude liability for all specified losses (including those to which I have drawn attention) whether they arose by reason of breach of contract, negligence, some other tortious cause or some statutory wrong.
+ The liability cap in clause 14.5 operates against that background.
+Presumably, although it is not clear, it is intended to arise in respect of any claim arising out of or in connection with the agreement other than one excluded by clause 14.4. Clause 14.6 provides for certain savings; clause 14.8 makes an obvious point in relation to contribution; and clause 14.7 preserves an express contractual remedy as the sole source of relief in the events to which it relates.
+ In my view, when one looks at clause 14 as a whole and in context, one could not say, to adapt the wording of the court in Darlington Futures at , that the parties intended to exclude liability on the part of PowerTel for losses arising from activities outside the scope of performance (or nonperformance or malperformance) of the contract. When one looks at clause .4, it seems to me clearly enough to be aimed at any activity that has the effect of reducing the services that PowerTel was obliged to supply, or reducing the ambit of those services, or depriving Lime of the benefit of those services. I accept that it may be said that a repudiation of the agreements would have the effect of depriving Lime of the benefit of them.
+However, the effect of such a construction is to say that, notwithstanding the very carefully worded contractual scheme that is to be found in the more than pages of the standard terms, the parties nonetheless contemplated that
+PowerTel could, at its option, wrongfully and without any reason whatsoever decide not to provide or perform any further service and escape scot free.
+ To adapt the language of the High Court again, this time in Van Der
+Sterren at 148, the construction for which PowerTel contends (and for which it must contend if it is to gain the benefit of clause 14.4) defeats the main object of the contract. That object is that PowerTel would provide, and Lime would take and pay for, the services. The parties recognised that there might be all sorts of hiccups along the way in the provision of those services. In my view they did not, by clause 14.4, intend to encompass the situation that in fact arose: namely, that PowerTel should decide, wrongfully and without any shred of contractual justification, to abandon altogether its obligations to make those services available.
+ For those reasons I think that the defence based on clause 14.4 fails. It follows that the third question posed for consideration should be answered "no". Although there was no detailed debate on the fourth question, its form dictates that it must be answered "does not arise".
+ In the circumstances, the appropriate course is to record those answers to the questions and to stand the proceedings into the directions list, at a time convenient to the parties, for directions to be given for the further conduct of the proceedings. I will hear the parties as to the precise form of orders and on the question of costs.  
+LAST UPDATED:  April 2008 * * * 

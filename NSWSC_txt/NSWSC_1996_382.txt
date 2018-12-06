@@ -1,0 +1,135 @@
+
+
+Regina versus Ivan Robert Marko Milat No. 70114 of 1994 Dna - Statistical
+Validity of Data Bases [1996] NSWSC 382 (29 August 1996) 
+COURT
+IN THE SUPREME COURT OF NEW SOUTH WALES
+CRIMINAL DIVISION
+DAVID HUNT CJ at CL
+HRNG
+SYDNEY, 30 May and 5 June 1996 #DATE 12:6:1996 #ADD 29:8:1996 
+Counsel for the Crown        M Tedeschi QC with D Howard 
+Solicitor for the Crown       S E
+O'Connor, Solicitor for
+Public Prosecutions 
+Counsel for the Accused       T Martin with P Callaghan 
+Solicitors for the Accused      Boe and Callaghan (Brisbane)
+ORDER
+Orders made
+JUDGE1
+DAVID HUNT CJ at
+CL As but one part of its wholly circumstantial case that the appellant was criminally responsible for the murder of the seven backpackers whose bodies were found in the Belanglo State Forest, the Crown sought to lead evidence of DNA profiling by which it wished to establish that the blood on a piece of cord found in the garage of the premises occupied by the accused at the time when he was arrested is, or is consistent with, the blood of one of the murder victims, Caroline Clarke. ((1) I will not complicate the text of this judgment by reference to the facts peculiar to this case: that there was not available any sample of blood from the deceased, that the comparison was in fact made with the blood of Caroline Clarke's parents, and that the finding made was that the blood on the cord was consistent with the blood of a child of Mr and Mrs Clarke. That is how the issue will have to be presented to the jury.)
+Eight DNA tests at different genetic markers have been performed upon this blood, and each shows that the blood on the cord matches the blood of the deceased. That evidence, of course, establishes only that the blood on the cord could be that of the deceased, in the sense that no test has excluded the blood as having come from the deceased; that evidence does not establish that it is in fact her blood.((2)
+Regina versus Wayne Green (CCA, 26 March 1993, unreported) at 9.) The description originally given to DNA profiling by the media, that it was "genetic fingerprinting", was for this ream a misleading one. Where a number of blood tests- each of them operating independently of the others - have established a match in that sense, the inference is that the greater the number of such matches the less the chances that the blood has come from anyone other than the deceased. ((3) Regina versus Maximo Pantoja (CCA, 6
+February 1996, in the course of being reported) at 11.) Very little more could be gleaned from such matches alone.
+The significance of the number of matches becomes far greater where it is possible to calculate the probability that such a match occurred by chance or coincidence. Databases have been built up by which the probability that the
+DNA of another person within the general population would match the DNA of the deceased at particular genetic markers may be estimated. The greater the number of such matches at different (and independent) markers, the greater the probability that the blood is that of the deceased rather than that of some other person, so that the ultimate probability of the matches having occurred at all such markers by chance or coincidence is calculated by multiplying the probabilities for each match which operates independently of the others.
+The Crown sought to lead evidence of that probability in the present case by reference to three databases which, it was said, establish that the chance here is one in 118,000. Objection has been taken by the accused to the use of these databases and, in accordance with what was recently said by the Court of
+Criminal Appeal in Regina v Maximo Pantoja, ((4) (6 February 1996, in the course of being reported) at 12) evidence was led on the voir dire from Mr
+Robert
+Goetz, a senior forensic biologist and the biologist in charge of the
+Forensic Biology Laboratory at the Division of Analytical Laboratories of the
+Department of Health where the tests were performed. Mr Goetz has undertaken considerable study in forensic statistics and population genetics. He was responsible for manufacturing and producing the databases used by the Forensic
+Biology Laboratory.
+At the conclusion of the voir dire examination, I held that I was satisfied that the sizes and the nature of the databases used in this case are within the generally accepted limits of what is statistically valid, ((5) That is the usual test for the admissibility of scientific evidence: Frye versus United
+States [(1923) 293 Fed 1013] at 939-941; Regina versus Maximo Pantoja (at 6-7)) subject to a proviso which I discuss later in this judgment. These are my reasons for that decision.
+The DNA profiling in the present case was carried out in accordance with two different procedures - one known as Restriction Fragment Length
+Polymorphism (RFLP) and the other as Polymerase Chain Reaction (PCR). Two RFLP tests (at D2S44 and
+D17S79 genetic markers) and six PCR tests (at DQ Alpha and at the Polymarkers - LDLR, GYPA, HBGG, D7S8 and Gc) were performed. A challenge was made to the independence of the results of the RFLP testing at each of those two genetic markers. As I understood the cross-examination of Mr
+Goetz, it was accepted on behalf of the accused that tests had been conducted in the United States to demonstrate that independence, but complaint was made that Mr Goetz had not conducted such tests in the present case. Mr Goetz explained that there was no reason to believe that such tests in the present case would demonstrate anything different to what had been demonstrated in the
+United States. In any event, he pointed out, the fact that biologically they relate to different chromosomes leads to the inference that they are statistically independent of each other. No evidence was led on the voir dire to challenge the evidence of
+Mr Goetz.
+I accepted the evidence of Mr Goetz that the DNA tests at the eight different genetic markers - two RFLP and six
+PCR - were each independent of the others. The Crown is thus entitled to demonstrate what the probability is in the present case that there would have been a match at all eight markers by chance or coincidence, and to do so by reference to the three databases used if each is statistically valid.
+It is accepted that the precision of the figures produced from any data base is dependent upon the size of the sample; the larger the sample, the greater the precision in the figures produced. The database for the RFLP results was compiled from the testing of 500 people who had donated blood at the Red Cross Blood Bank. The samples were selected over a short period in order to avoid the possibility of re-sampling the same person. The database for the PCR results at one marker (DQ Alpha) was compiled from the testing of people who were involved in criminal casework - a category which includes not only convicted criminals but also victims and suspected persons who were not convicted. The database for the Polymarkers (the remaining
+PCR results) was compiled from 402 people: 205 from the Red Cross and 197 involved in criminal casework. For each database where the persons tested were known to be related, only one sample was taken from the family group.
+From inquiries made by Mr Goetz of similar laboratories around Australia and overseas, and from reports of DNA testing in the United States and the
+United Kingdom, it is apparent that the size of these databases which his laboratory uses compares favourably. ((6) The results of the inquiries made by
+Mr Goetz are set out in an Appendix to this judgment. The reports are referred to in the text of the judgment.) The database for the blood protein testing (ABO, PGM, Hp, etc) - compiled from people who have donated blood at the Red
+Cross Blood Bank - exceeds , but Mr Goetz says that that is because blood protein testing has been around a for much longer time than DNA testing. His evidence is that the smaller databases are not any the less statistically valid, a proposition which he sought to establish by a number of comparisons.
+There is not, he said, a lot of difference in the DNA patterns when the larger database is compared with smaller ones compiled from 200 to 300 people.
+The statistical validity of databases compiled from as low as 100 to 150 people is supported by a number of eminent scientists and scientific bodies.
+The specific task some years ago of a committee of the National Research
+Council in the United States was to investigate this issue. That committee - the Committee on DNA Technology in Forensic Science - reported in 1992. It accepted as sufficient a database of 100 randomly taken from each of fifteen to twenty relatively homogenous population groups representing the various racial elements within idle United States. ((7) Report of Committee on DNA
+Technology in Forensic Science, (1992) National Academy Press, Washington DC at 13-14, 82-85. The National Research Council was organized by the National
+Academy of Sciences in 1916 to associate the broad community of science and technology with the Academy's purposes of furthering knowledge and of advising the Federal Government in accordance with a charter granted to it by Congress in 1863.) Its purpose in doing so was then to provide a composite DNA profile frequency which would be independent of any specific racial databases.
+That composite is irrelevant for present purposes. What is relevant is the size of the database from each racial group considered by the Committee at that stage to be sufficient.
+The International Society for Forensic Haemogenetics, a worldwide scientific body, accepted not less than 100 as adequate in 1991 if representative of the relevant local population. ((8) "1991 Report Concerning
+Recommendations of the DNA Commission of the International Society for
+Forensic Haemogenetics Relating to the Use of DNA Polymorphism",
+Editorial , (1992) 52 Forensic Science International 125 at 127.) A paper written by the chief forensic scientist with the Forensic Science Service in the United Kingdom and a statistician employed by that Service in 1991 said that a database of 109 was sufficient, but that the Service itself uses a database of about twice that size. ((9) "A discussion of the robustness of methods for assessing the evidential value of DNA single locus profiles in crime investigations", IW Evert and P Gill, (1991) 12 Electrophoresis at
+As the Appendix to this judgment demonstrates, the database now used by the Forensic Science Service is larger again.)
+A notable American population geneticist (Ranajit Chakraborty) ((10) He is from the Centre for Demographic and Population Genetics,
+University of Texas Graduate School of Biomedical
+Sciences) said in 1992 that a database of 100 to 150 people is adequate but that for RFLP procedures, 300 is a more adequate size. ((11) "Sample Size
+Requirements for Addressing the Population Genetic Issues of
+Forensic Use of
+DNA Typing", R Chakraborty, (1992) 64 Human Biology 141 at 156-157.) The
+Journal of Forensic Sciences, a US publication, referred in 1994 to databases of between 200 and 500 people, although it appears from other sources that some FBI databases are as high as 800, ((12) "The Assessment of Frequency
+Estimates of Hae III-Generated VNTR Profiles in Various Reference Databases",
+B Budowle,
+KL Monson, AM Guisti and BL Brown, (1994) 39 Journal of Forensic
+Sciences 319 at 322. The article tabulates data from many North
+American forensic laboratories) and some other databases as low as 100. ((13) "Analysis of IRA DQ Alpha and Genotype Frequencies in Populations from Florida" CA
+Crouse, WJ Feuer, DC Nippes, C Hutto, KS Barnes, D Coffman, SH Livingstone
+Ginsberg and DE Glidewell, Journal of Forensic Sciences 731 at -737, The article tabulates DQ Alpha results from various laboratories, including the FBI and Florida laboratories.) These databases have been accepted for criminal court purposes, and there appears to have been no challenges to their size since the publication of the National Research
+Council report and the article by Mr Chakraborty in 1992.
+Mr Goetz said that, in his own view, a database of at least 200 is required.((14) This view may need revision following the 1996 report of the National Research Council, the existence of which Mr Goetz discovered only late in his evidence.) The size of the databases used by Mr Goetz in the present case far exceeds that minimum.
+A further report was issued recently by the National Research
+Council.
+((15) "The Evaluation of Forensic DNA Evidence, Committee on DNA Forensic
+Science: An Update". I have only a prepublication copy, and an incomplete one at that, marked "Not for public release before Thursday, May 2, 1996 11 am
+EDT".) The Committee on DNA
+Forensic Science which prepared it ((16) The slight change in the Committee's name is, I believe, immaterial.) recognized the validity of criticisms which had been levelled on practical and statistical grounds against the concept of a composite profile proposed in its previous report, a concept which had never been My brought into existence. It is no longer pursued. The Committee did, however, increase the acceptable minimum number for any specific database from 100 to "several hundred persons", ((17) (at 0-25, 1-5, 1-6)) a term which appears to have been left deliberately undefined but the meaning of which may be illuminated by a statement elsewhere in the report: ((18) (at 0-26)) "The databases should be large enough to have some statistical accuracy (at least a few hundred persons) ... ".
+
+Earlier, the report described databases drawn from samples of "several hundred" people as "moderately sized".
+((19) (at 0-20)) So far as the material supplied to me discloses, the Committee has not given any reason for the increase in the acceptable minimum size of databases. In any event, I was satisfied that the databases in issue in the present case exceeded that new minimum. Mr Goetz spoke to the Chairman of the DNA Committee, Mr James F Crowe (a noted population geneticist), who informed him that databases of 400 to 500 were regarded as adequate.
+The statistical validity of any database also depends upon whether it can be said to be representative of the general population, and the degree by which any database can be said to be so representative depends in turn upon whether the persons tested have been selected at random - whether each person in the population has had an equal chance of being selected. Mr Goetz conceded that the three usual sources of persons whose blood is tested in this State - blood donors, those involved in criminal cases as victims or suspects, and those involved in disputed parentage cases - could not be said to be truly random. But he demonstrated that they may nevertheless fairly be described as representative. Comparisons made between the databases compiled from each of those three sources in New South Wales show that there are no significant differences in DNA patterns between then. The DQ Alpha database (criminal casework) was compared with databases used by other Australian laboratories, and the patterns were found to be extremely similar. Both the DQ Alpha database and the Polymarker database (Red Cross and criminal casework) were compared with databases used by other laboratories overseas, and it was found that there was no significant statistical difference in the DNA patterns produced. If there is a statistical error in the databases used by Mr Goetz's laboratory, it is an error which would have had to have been made also in the databases used by all these other laboratories in Australia and overseas. That is highly unlikely.
+So far as the United States databases were concerned, the comparison was made with those relating to US Caucasians.
+The databases used by Mr Goetz's laboratory mainly include the results of testing Caucasians but also of some
+Aborigines and some
+Asians. It is accepted that there is a variation in DNA patterns between each of those two racial groups and Caucasians. No figures have been made available, but the population of this State is accepted as being predominantly Caucasian. There is no suggestion in this case that the offender or offenders was or were other than Caucasian. ((20) It is the offender's race, not that of the suspect, which dictates the validity of the database: Regina versus Maximo Pantoja (at 14). in any event, it is not suggested that the accused is other then Caucasian.)
+It was for those reasons that I accepted the statistical validity of the databases used in this case. That conclusion must, however, be understood in the context of the next issue to which I now turn. This is the proviso to which
+I referred earlier.
+The evidence of Mr Goetz on the voir dire also dealt with another element of the estimate made of the probability that the DNA of another person within the general population would match the DNA of the deceased at all eight markers in other words, that the match obtained by these tests occurred by chance or coincidence. This is what is described as the "confidence limits" to any such estimate. This was a curiosity which I encountered in the first trial in this State in which DNA evidence was challenged. ((21) Regina versus Lindsay
+Douglas Elliott in April 1990, at Armidale.) Mr Goetz accepted - as does all of the literature - that, unless the whole population were to be tested, no estimate could ever be 100% correct. The confidence limits for any estimate depend upon the size of the database. He stated his belief that 95% confidence limits should be the minimum required. This is also in line with the literature. He said that he had reached those limits in relation to the match obtained at all eight independent genetic markers tested in this case.
+The curiosity arises from the way in which those 95% confidence limits are translated into the estimate made. In the present case, as I have said, the estimate that the probability of the match having occurred by chance or coincidence is one in 118,000. ((22) Care must be taken not to transpose that proposition to one that the blood is 118,000 times more likely to have come from the deceased than from someone else. This transposition has been called the "prosecutor's fallacy", and the distinction is explained in an article, "Avoiding the transposed conditional", by IW Evett, published in (1995)
+Science and
+Justice 127. Its subtlety is such that I could not do it justice by describing it here. The distinction may, however, be demonstrated by adapting one of the examples given (at 130) to read: the chance that a person other than the deceased would leave blood of this type is one in 118,000 (which is correct), and the chance that a person other than the deceased did leave blood of this type is one in 118,000 (which is incorrect).) That is a figure obtained by multiplying the probabilities in relation to each of the eight independent matches obtained. Confidence limits of 95% in relation to that estimate based upon the match at all eight markers produce a range for such a chance from as low as one in 54,000 to as high as one in 220,000. ((23) In his evidence before the jury, Mr Goetz amended the upper limit from 220,000 to 229,000.)
+The figure of 118,000 was said by Mr Goetz to be the "central" point - although mathematically it could not be said to be the mean. ((24) In his evidence before the jury, Mr Goetz described the figure of 118,000 as his "best" estimate, and that he was 95% confident that the "real" result occurred within that range.) .
+The jury in every DNA case should, of course, be directed not to approach the issue of chance upon any strictly mathematical basis.
+((25) In his evidence before the jury, Mr Goetz described the figure of 118,000 as his "best" estimate, and that he was 95% confident that the "real" result occurred within that range.) The margin for error disclosed in this case by the application of confidence limits as high as 95% only underlines that requirement. It was accepted on behalf of the accused that, in addition to giving such a direction, I should point out to the jury that the estimate is based upon a number of assumptions, but that the method of estimation is nevertheless one which is scientifically accepted. 
+APPENDIX 
+SIZE OF DATABASES
+USED ELSEWHERE 
+Australia 
+In Victoria, the current databases for different genetic markers vary in size from 111 to 802 (I disregard some very low figures for the Polymarkers).
+In South Australia, they vary from 427 to 1105. In Western Australia, from 147 to 518.
+In Tasmania, 300. In the ACT, 346. In the Northern Territory, from 144 to 482. All have been accepted in the criminal courts, but it is not known as to whether the statistical validity of any has ever been challenged on the basis of their size. 
+Overseas 
+In the United Kingdom, the database for the PCR system (STR typing) for
+Caucasians used by the English Forensic Science Service is 1400, for Indians and for Blacks approximately the same. For RFLP testing, it is slightly larger than 200. The database for STR typing used by the Scottish Police
+Laboratory is 304. None of these has been challenged on the basis of their size. 
+In Dusseldorf, Germany, the Institute for Blood Grouping has a database of , but it initially started with 500. There has never been a challenge to its size.
+ 
+In the United States, the FBI in Washington DC has databases for RFLP testing of Caucasians at 750 and Blacks at 500; for
+DQ Alpha, Caucasians 298,
+Blacks 338, South Eastern Hispanics 264 and South Western Hispanics 164. For the Polymarkers, the databases are for Caucasians 148, Blacks 145, South
+Eastern Hispanics 94 and South Western Hispanics 96. There has been no challenge to their size since the publication of the National Research Council report and Chakraborty's article in 1992. The New York Police Laboratory uses the FBI databases for RFLP testing; for DQ Alpha, the data bases are
+Caucasians 324, Blacks 99, Japanese 92, Hispanics 169 and
+South Eastern Asians
+There have been no challenges to their size. The Office of the Orange
+County Sheriff in California uses databases of between 200 and 250 for each ethnic group for RFLP; for DQ Alpha it is 200, and for the Polymarkers it is
+An early challenge was made to the size of the databases, but it did not succeed. The Broward Country Crime Laboratory in Florida uses databases for
+RFLP of Caucasian 200, Blacks 107 and Hispanics 106. In the Oregon Police
+Laboratory, the RFLP databases are 250 for each ethnic group. There have been no challenges to their size since the publication of the NRC Report and
+Chakraborty's article in 1992. 
+In Ontario, Canada, the Canadian Laboratory has databases for RFLP for
+Caucasians 450, Blacks 130, East Indian 160 and Oriental 170; for DQ Alpha and
+STR, they are between 120 and 150. There has been no challenge to their size since the NRC Report was published in 1992.
+ * * * 
+AustLII: [Copyright Policy](/austlii/copyright.html) |
+[Disclaimers](/austlii/disclaimers.html) |
+[Privacy Policy](/austlii/privacy.html) |
+[Feedback](/austlii/feedback.html)  
+URL: http://www.austlii.edu.au/au/cases/nsw/NSWSC/1996/382.html  

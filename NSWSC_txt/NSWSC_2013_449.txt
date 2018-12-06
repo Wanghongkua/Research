@@ -1,0 +1,82 @@
+
+
+Kelly versus Australia and New Zealand Banking Group Limited (No 2) [2013]
+NSWSC 449 (16 April 2013) # [![\[AustLII\]](449.1.gif)](http://www.austlii.edu.au/) Supreme Court of New
+South Wales Decisions [[Index](index.html)] [[Search](/cgi-bin/sinoform.pl)] [[Download](449.rtf)] [[Help](/help/cases-help.html)] * * * 
+Kelly versus Australia and New Zealand Banking Group Limited (No 2) [2013] NSWSC (16 April 2013) 
+Last Updated: 2 May 2013 
+Supreme Court 
+New South Wales  
+Case Title: 
+Kelly versus Australia and New Zealand Banking Group Limited (No 2)  
+Medium Neutral Citation: <case>  
+Hearing Date(s): /03/2013  
+Decision Date: April 2013  
+Jurisdiction: 
+Common Law  
+Before: 
+Garling J  
+Decision:
+I order that Mr Ajoy Ghosh be permitted to:  include all references to, and disclose the contents of, files "08/14/12" and "08/20/12" contained in the listing of 24 files attached to the email from
+Ajoy Ghosh to Longmores Associates dated 5 September 2012 and any metadata associated with those files in his reports of 4 September 2012, 7 September and annexures to those reports;  include in Annexure F to his report of 4 September 2012 and Annexure D to his report of 7 September 2012 the following information in relation to the conversion log for file titled "Letter Head 122 Arthur St":  the first column headed "name" and all material listed on the line underneath that heading; and  the date and all words which occur after "...\activePDF\primoPDF..." in the ninth column headed "full path". 
+Costs of this motion to be costs in the cause.  
+Cases Cited: 
+Brimaud versus Honeysett Instant Print Pty Limited [(1988) 217 ALR 44]; 
+Kelly versus Australia and New Zealand Banking Group Limited <case>  
+Category: 
+Procedural and other rulings  
+Parties: 
+David Kelly (P1) 
+Lucrum Consulting Pty Limited (P2) 
+Australia and New Zealand Banking Group Ltd (D)  
+Representation - Counsel: 
+Counsel: 
+Mr Loiterton (P1 & P2) 
+A J McInerney SC (D)  
+Solicitors: 
+Longmores Lawyers & Property Conveyancers (P1 & P2) 
+Gadens Lawyers (D)  - Solicitors: 
+Solicitors: 
+Longmores Lawyers & Property Conveyances (P) 
+Gadens Lawyers (D)  
+File Number(s): /201022  
+JUDGMENT 
+On 5 December 2012 I delivered judgment in respect of a claim for client legal privilege and confidentiality made by Mr Kelly, the plaintiff, with respect to a number of computer files: see Kelly versus Australia and New Zealand Banking Group Limited  <case>
+On 21 December 2012, the ANZ filed a Notice of Motion, which sought by a series of unnecessarily complex orders to have this Court reconsider the claims made by Mr Kelly, essentially by having regard to additional evidence which was not put before the Court when it considered and determined the claims previously. Mr Kelly opposed the granting of relief on this further Notice of Motion. 
+This judgment, which is now one of a number of interlocutory judgments in these proceedings, will not repeat all of the background matters to which those earlier judgments refer. These reasons also assume familiarity with my first judgment of 5 December 2012. 
+Electronic Files in Contest 
+This motion centres upon: two electronic files dated "08/14/12" and "08/20/12" which are contained in the listing of 24 files attached to an e-mail from the computer expert retained by ANZ, Mr Ghosh, to Longmores Lawyers dated 5 September 2012 and the metadata associated with those files. These files can conveniently be referred to as the LNK files; and information in relation to the conversion log file for the electronic file titled "Letter Head 122 Arthur St ANZ" which is one file contained on a seven page spreadsheet annexed to the two reports of Mr Ghosh. This file can conveniently be referred to as the conversion log.
+
+Should Further Argument be Permitted?
+As the orders which were made in the judgment in December 2012 were of an interlocutory kind, they do not create any res judicata or issue estoppel. It cannot be doubted that the Court retains jurisdiction to set aside, vary or discharge such orders up until the final judgment is delivered in the proceedings. In considering an application such as this, the overriding principle "is that the Court should do whatever the interests of justice require in the particular circumstances of the case": see Brimaud versus Honeysett Instant Print Pty Limited [(1988) 217 ALR 44] at [46] per McLelland J. 
+As well, since the power being exercised by the Court arises from the [Civil Procedure Act 2005](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/) ('the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/)') and the [Uniform Civil Procedure Rules 2005](http://www.austlii.edu.au/au/legis/nsw/consolreg/ucpr2005305/), the power must be exercised having regard to the overriding purpose set out in [s 56](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/s56.html) of the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/), namely to facilitate the just, quick and cheap resolution of the real issues in the proceedings. 
+Having regard to the following matters, I have concluded that it is in the interests of justice and appropriate to hear further argument and take further evidence with respect to the claims made about these files. Those matters are, fourfold: 
+First, the importance of the contents of the files, to the understanding, and the determination, of a fundamental issue of fact in the proceedings which issue now appears to be the subject of competing expert reports; 
+Secondly, the contents of the report of Mr Clinton Towers which was not relied upon when the matter was previously considered. Mr Towers is an information technology expert retained by Mr Kelly; 
+Thirdly, the identification, and a comprehensible explanation, of information relating to the LNK files; and 
+Fourthly, that counsel for the plaintiffs did not suggest that either Mr
+Kelly or Lucrum Consulting Pty Limited had acted in any particular way to their detriment in reliance on the contents of the judgment of 5 December
+As well, ANZ advances many other bases for permitting further argument.
+In light of my conclusion, I do not need to deal any further with them.
+
+The LNK Files
+In the first judgment I found that these files were properly the subject of a claim for client legal privilege; see [18] to [19] of the first judgment. ANZ now submits that there are twelve separate and distinct reasons why the claim for client legal privilege cannot be maintained and should be rejected. ANZ submits that each one of these reasons is sufficient to warrant the relief sought in the current Notice of Motion. 
+I will deal initially with the issue relied upon by ANZ as to whether these two files are, or else can be, privileged having regard to the additional evidence now before the Court. 
+Mr. Ghosh, in his recent report of 20 February 2013, explains at paragraphs 78 to 81 and 88 that the LNK files are files, which are created or updated by the Microsoft Windows operating system automatically whenever a user attempts to access a file by the name path on the computer system. Mr Ghosh explains that the contents of an LNK file contain only data about a file which is opened in this way, and which is collected from various other system files in the computer. As he puts it succinctly, and in a readily understandable form of language: "80. In other words a LNK file is a compilation of metadata that is automatically created by a computer".
+He goes on to explain that the data within the LNK file itself is not able to be read by a human being. As this case demonstrates, the directory and file name can be read and understood but not the contents of the LNK file. There is a software application which can be used to read and interpret the LNK data. Mr Ghosh has used that software to read the contents of the LNK file and then to draw certain conclusions about the central issue in the proceedings from that data. Whether those conclusions are right or wrong is a matter in dispute in the proceedings. I express no opinion on that question. 
+However, what is apparent from the additional evidence is that the LNK files cannot and do not reveal any confidential or privileged communication. They reveal data about the use made on a particular computer of a file which itself may or may not contain privileged information. It follows that the data which can be gleaned from the LNK files cannot itself be privileged and the claim for client legal privilege cannot be sustained. 
+I have reached this conclusion for that reason alone, and without the necessity to consider any other reason advanced by ANZ. I express no opinion on them. 
+Conversion Log File
+ANZ submits that Mr Ghosh should be entitled to refer to the information in the "name" column and "full path" column for this file which is contained in the seven page spreadsheet which was attached as annexure F to Mr Ghosh's first report of 4 September 2012 and as annexure D to his second report of 7 September to 2012. It submits that this information ought to be made available for general use in the proceedings. 
+The first judgment found that it was unnecessary to refer to the information in those columns for all of the files in the spreadsheet, for the purpose for which Mr Ghosh was using the information in his reports. As well, the first judgment had regard to the confidentiality of the names of the various clients of Mr Kelly's business which were used in the "name" column and "full path" column of the files in that spreadsheet.
+It is now clear from all of the additional evidence before the Court that the conversion log file is relevant to other issues including the additional bases relied upon by Mr Ghosh for expressing an expert opinion about the creation of the original letter, which is central to the issue between the parties. As well, it is now apparent that the full name and path for this file will not reveal any confidential information about the past or current clients of Mr Kelly's business. 
+It is also clear from the information, described as "digital fingerprint information", that the full name and path of this file has been referred to now on many other occasions throughout all of the expert reports in the proceedings. There is nothing at all confidential about this information. 
+In those circumstances a claim for confidentiality of the material in the "name" column and "full path" column of this conversion log file cannot be sustained. 
+Conclusion
+I conclude because of the additional evidence about these three files, I should find that there is no restriction on them being made available to ANZ, to be used by it for all purposes in these proceedings. 
+I will make the following orders: 
+I order that Mr Ajoy Ghosh be permitted to: include all references to, and disclose the contents of, files "08/14/12" and "08/20/12" contained in the listing of 24 files attached to the email from Ajoy Ghosh to Longmores Associates dated 5 September 2012 and any metadata associated with those files in his reports of 4 September 2012, 7
+September 2012 and annexures to those reports; include in Annexure F to his report of 4 September 2012 and Annexure D to his report of 7 September 2012 the following information in relation to the conversion log for file titled "Letter Head 122 Arthur St": the first column headed "name" and all material listed on the line underneath that heading; and the date and all words which occur after "...\activePDF\primoPDF..." in the ninth column headed "full path".
+
+Costs of this motion to be costs in the cause.
+ * * * 

@@ -1,0 +1,589 @@
+
+
+Ultimo Document Storage versus Liquid Vision [2003] NSWSC 1175 (12 December )
+
+Last Updated: 15 December 2003 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: Ultimo Document Storage versus Liquid Vision <case>  
+CURRENT JURISDICTION: Equity  
+FILE NUMBER(S): 4817/01  
+HEARING DATE{S): 16/09/03, 17/09/03, 18/09/03, 22/09/03  
+JUDGMENT DATE: 12/12/2003  
+PARTIES: 
+Ultimo Document Centre Storage Pty Limited - Plaintiff 
+Liquid Vision New Media Pty Limited - First Defendant 
+Richard Steyn - Second Defendant 
+Peter McNamara - Third Defendant  
+JUDGMENT OF: Barrett J  
+LOWER COURT JURISDICTION: Not Applicable  
+LOWER COURT FILE NUMBER(S): Not Applicable  
+LOWER COURT JUDICIAL OFFICER: Not Applicable  
+COUNSEL: 
+Mr G P F Rundle - Plaintiff 
+Mr M R Pesman - Defendants  
+SOLICITORS: 
+Milne Berry & Berger - Plaintiff 
+Allens Arthur Robinson - Defendants  
+CATCHWORDS: 
+CONTRACTS - general contractual principles - whether particular terms included in contract - no question of principle - TRADE AND COMMERCE - statutes relating to misleading or deceptive conduct in trade - whether representations made - whether relied upon - no question of principle  
+ACTS CITED:  [Fair Trading Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/fta1987117/)  [Trade Practices Act ](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) (Cth)  
+DECISION: 
+Plaintiff's claims dismissed. First defendant entitled to judgment on cross- claim.  
+JUDGMENT:  
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION  
+BARRETT J  
+FRIDAY, 12 DECEMBER 2003  /01 - ULTIMO DOCUMENT STORAGE CENTRE PTY LIMITED versus LIQUID VISION NEW MEDIA PTY LIMITED & 2 ORS  
+JUDGMENT   The plaintiff operates a document storage business. Commercial and other organisations maintaining large quantities of paper records not immediately required in their operations may arrange for those records to be stored at the plaintiff's warehouses. An essential feature of the plaintiff's business is the ability to track down particular documents of a particular customer in a short time as and when customers wish to retrieve documents.
+Generally speaking, if a customer request is received by 10am, the plaintiff will make the requested documents available on the same day.  The plaintiff's ability to provide this prompt service depends on the maintenance of an efficient database in which document boxes are identified and tracked by a system of barcodes. Before the events central to these proceedings, the plaintiff used a computer operating system known as Paradox.
+By 1996, the Paradox operating system was seen to be in need of replacement.
+Mr Zimmer, the principal of the plaintiff, had been in contact with the second defendant, Mr Steyn, then an employee of another company, about the plaintiff's need to make improvements to the plaintiff's computer operating system. In August 1999, Mr Steyn left the service of that other company and became a shareholder and director of the first defendant, Liquid Vision New
+Media Pty Limited. It is common ground that, in or about November 1999, the first defendant, through Mr Steyn, agreed to undertake certain work on the plaintiff's computer system. There were, in essence, three components: first, maintenance of the Paradox operating system in a form suitable for the plaintiff's needs pending completion of the third component about to be mentioned; second, improvement of the system by which transmission of customers' retrieval requests and other communications was effected via the
+Internet; and, third, replacement of the Paradox operating system by Microsoft
+SQL.  It is not disputed that a contract came into existence between the plaintiff and the first defendant under which the latter agreed to perform work in relation to the former's computer systems. The plaintiff alleges breach of that contract by the first defendant and sues for damages accordingly. The plaintiff also sues the second and third defendants (officers of the first defendant) on the footing that representations made by them to the plaintiff amounted to conduct proscribed by ss.51A and [52](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/s52.html) of the [Trade Practices
+Act](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) 1974 (Cth) or [ss.41](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/s41.html) and [42](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/s42.html) of the [Fair Trading
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/fta1987117/) 1987.  By its amended statement of claim filed on 25 September 2002, the plaintiff pleads, so far as its contract claim against the first defendant is concerned, among other things:  an agreement between the plaintiff and the first defendant for valuable consideration in or about October and November 1999 that  the first defendant would provide the necessary goods and services to convert the plaintiff's database system from Paradox based to SQL based ("the SQL conversion");  that it was a term of the agreement that the first defendant would carry out the SQL conversion "by about mid-March 2000, or alternatively by a date before mid-March 2000;  further and in the alternative, that the plaintiff and the first defendant agreed on 17 April 2000 that the SQL conversion would be carried out within a period of not more than eight weeks thereafter, that is, not later than 12
+June 2000;  that it was an implied term of both agreements that the first defendant would exercise due care and skill in the provision of the services it had contracted to supply to the plaintiff.  
+The contractual promises of the first defendant as to the timing of the completion of the SQL conversion are said by the plaintiff to come from one or more of four sources: a conversation between Mr Zimmer and Mr Steyn in late
+October 1999, a letter of 2 November 1999 from Mr Steyn to Mr Zimmer, a proposal document submitted by Mr Steyn in February 2000 and oral statements made at a meeting held on 17 April 2000.  The first defendant, by its defence, admits that in or about November 1999 it entered into an agreement with the plaintiff and says that the agreement contains the following relevant terms:  "(a) the defendant was to provide the goods and services necessary to convert the database of the plaintiff (which operated upon the Paradox system) to the
+SQL system (the Project);  the fee to be paid to the defendant for the supply of the goods and services was $30,000;  the fee was to be paid by the plaintiff to the defendant in four instalments of $7,500 upon the happening of the following events:  conversion/migration of data from Paradox to SQL;  upon the defendant confirming to the plaintiff that the new SQL system was ready to operate;  upon the generation of monthly invoices from the SQL database;  days after the completion of any necessary debugging."  The first defendant denies the terms as to timing pleaded by the plaintiff and says, in the alternative, that the plaintiff has waived its right to insist on the performance of any such terms. The first defendant has also filed a cross-claim by which it says that events occurred entitling the first defendant to certain payments under the contract and that, in breach of the implied term not to take steps hindering or preventing the first defendant in providing goods and services pursuant to the contract, the plaintiff excluded the first defendant from access to the plaintiff's premises and thereby deprived the first defendant of the opportunity to earn the agreed fees. There is accordingly a claim for damages.  To complete this outline of the proceedings, I should refer further to the plaintiff's claims against the first defendant based on ss.51A and [52](http://www.austlii.edu.au/au/legis/nsw/consolact/fta1987117/s52.html) of the [Trade Practices
+Act](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) and [ss.41](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/s41.html) and [42](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/s42.html) of the [Fair Trading
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/fta1987117/). These are based on alleged representations pleaded in the following terms:  "Further and in the alternative, the first defendant made representations to the plaintiff concerning the time by which the SQL conversion would be completed, namely:  a) In or about late October 1999 the first defendant represented to the plaintiff that the SQL conversion would be complete by mid-March 2000.  
+Particulars 
+The representation was made by the second defendant to MZ in a conversation in or about late October 1999.  b) On 2 November 1999 the first defendant represented to the plaintiff that the SQL conversion would be complete within 10 weeks from start to finish and that work on the conversion would start in the second half of 1999.  
+Particulars 
+The representation is contained in a letter from the second defendant to MZ dated 2 November 1999.  c) On or about 6 February 2000 the first defendant represented to the plaintiff that the SQL conversion would be complete by 30 March 2000.  
+Particulars 
+The representation is contained in a document prepared by the second defendant dated 6 February 2000 and sent to MZ on or shortly after that day.  d) On or about 17 April 2000 the first defendant represented to the plaintiff that the SQL conversion would be complete within eight weeks thereafter, that is by mid-June 2000  
+Particulars 
+The representation was made by the second and third defendants to MZ at a meeting on 17 April 2000.  e) In the week commencing 27 November 2000, the first defendant represented to the plaintiff that the SQL conversion would take place on or about 2 December 
+Particulars 
+The representation was made by the second defendant to MZ in a conversation in the week commencing 27 November 2000.  f) On 29 November 2000 the first defendant represented to the plaintiff that the SQL conversion would take place on or about 6 December 2000.  
+Particulars 
+The representation is contained in an email from the second defendant to MZ on November 2000.  g) On 10 January 2001 the first defendant represented to the plaintiff that the SQL conversion would commence in the following week.  
+Particulars 
+The representation is contained in an e-mail from the second defendant to MZ on 10 January 2001.  h) On 9 April 2001 the first defendant represented to the plaintiff that the
+SQL conversion would be complete in the very near future, being once the quarterlies were finished and the monthlies were compared.  
+Particulars 
+The representation is contained in an e-mail from the second defendant to MZ on 9 April 2001.  i) On 20 April 2001 the first defendant represented to the plaintiff that the
+SQL conversion would probably be complete by about 30 April 2000.  
+Particulars 
+The representation is contained in an e-mail from the second defendant to MZ on 20 April 2001.  j) On 28 May 2001 the first defendant represented to the plaintiff that the
+SQL conversion would take place at the end of that week.  
+Particulars 
+The representation is contained in an e-mail from the second defendant to MZ on 28 May 2001.  k) On 24 July 2001 the first defendant represented to the plaintiff that the first defendant was ready to transfer across to the SQL system.  
+Particulars 
+The representation is contained in an e-mail from the second defendant to MZ on 24 July 2001.  l) On 17 August 2001 the first defendant represented to the plaintiff that the
+SQL conversion would take place in the near future.  
+Particulars 
+The representation is contained in an e-mail from the second defendant to MZ on 17 August 2001."  As I have said, it is not disputed that some contract came into existence between the plaintiff and the first defendant. The search for its terms should begin with an examination of the relevant written material.  The earliest document of relevance to this matter is a letter from Mr Steyn to Mr Zimmer dated 22 April 1999. It is a letter on the letterhead of Mr
+Steyn's then employer and, to that extent, can have no direct bearing on the contractual arrangements between the present parties. However, it does outline certain specifications of the Internet capability to be added to the plaintiff's business for the purpose of efficient interface with customers.
+There is a small section referring to SQL conversion as a possibility, complete with the comment:  "The conversion of all UDS [ie Ultimo Document Storage] data across to SQL
+Server should not occur until after the Internet project has been completed."  A letter sent by Mr Steyn (by then with the first defendant) to Mr Zimmer on 2 November 1999 referred to certain matters concerning the web site (Internet project) and went on to deal with "Database redevelopment". I set that section out in full:  "Database Redevelopment  
+Issues to resolve before we can start  i. The role of records management in the new system.  ii. The architecture of the new system and future direction.  iii. Server upgrade?  iv. Design and look-and-feel of the intranet.  
+Timing and Payment  
+As we discussed the cost of the project could be anywhere between $20k and $30k. This will include the SQL software itself, but will not include any extra hardware or software that may be needed as we finish the analysis. The project is going to be staged with this first phase including all major functionality but not all reports. Exactly which functionality and reports are to be included will be decided by Liquid Vision and UDSC as we work through the analysis phase.  
+The list of phases 
+Analysis - 1 week 
+Database Design - 1 week 
+Environment Setup - 3 days 
+Development Work - 3-4 weeks 
+Integration and Testing - 1 week 
+Data Conversion and Testing - 1 week 
+Live  
+We worked out an arrangement of $500 per day per person, with a minimum of two days per week until the project is completed. We will bill weekly and expect payment within 14 days. We can progress the project more quickly if and when you'd like t change the number of days worked per week."  On several occasions in November 1999, there was email correspondence between Mr Steyn and Mr Zimmer about problems with the Internet access system for customers. There was obvious and mounting frustration on Mr Zimmer's part that problems had not been fixed.  On 12 December 1999, Mr Steyn said in an email to Mr Zimmer (who was then away) about Internet issues:  "I will give you an [sic] timetable on the database conversion on Tuesday morning our time."  
+This was a response to an emailed request made by Mr Zimmer on 10 December
+Problems with the Internet continued into January 2000 and obviously absorbed Mr Steyn's time and attention.  In early February 2000, Mr Steyn produced a formal and detailed proposal document relating to the SQL conversion. It ran to 23 pages and was, in effect, a full and considered version of the outline proposal in the 2
+November 1999 letter. The proposal included a "Project Plan" in the form of a
+Gantt chart showing tasks or phases and their interrelated timings for a period 7 February 2000 to 20 March 2000. Under the heading "Costs" it was noted that time required was estimated at 244 hours and that, at an hourly rate of $110, the cost would be $27,000. Also noted under this heading was the need for the plaintiff to upgrade server hardware at an estimated cost of $1,000 to $6,000 and to purchase Microsoft SQL licences at an estimated cost of $2,000 to $3,000. The time estimate of 244 hours obviously assumed work by one person. On the basis of a 35 hour working week, the estimate was thus a total of seven weeks full time work for one person. This period is roughly consistent with that covered by the Gantt chart and shows that that projected time table was based on an assumption that one person would work full time on the project (or that several persons would together make up the equivalent of one person'[s ](http://www.austlii.edu.au/au/legis/nsw/consolact/fta1987117/s35.html) hour working week).  Email correspondence on 11 February 2000 concentrated on various Internet problems. There was also a request by Mr Zimmer:  "Re SQL - please give me work start date!"  
+Mr Steyn's reply was:  "Preparation work on SQL has started. Full time work starts next week unless
+Dom advises otherwise."  For the remainder of February there is a volume of email correspondence devoted to Internet problems and clearly mounting frustration on both sides.
+An email from Mr Steyn to Mr Zimmer on 27 February 2000 mentions SQL conversion:  "SQL update. We have developed the screens for the system. I will review these with the programmer tomorrow and then organise a day later this week with you so that you can give feed back on these screens. As we discussed before, we do not want to get involved in a 'redesign' of screens, especially for those screens which are to be used by UDSC state internally only (ie the screens which are not internet screens)."  An email from Mr Zimmer to Mr Steyn dated 3 April 2000 refers to problems with end of month reports which, at that time, were being produced by the
+Paradox system, plus Internet problems. The email concludes:  "Let's just rehash where we should be  a) Updating is now automatic  b) The programm has been rewritten in SQL (we have not even discussed the proposal!)  c) Internet order facility for all clients 
+Where are we? When will we be where we should be? When will I see it?  
+We obviously need to talk and liquidvision needs to have a focus on completion!"  On 17 April 2000, a meeting took place at the first defendant's office. I merely mention it at this stage in order to position it within the description of the written (including email) correspondence. Events related to the meeting will be examined in detail later.  I quote in full an email of 9 May 2000 from Mr Zimmer to Mr Steyn. I do so for two reasons: first, to demonstrate the extreme frustration Mr Zimmer was experiencing; but second, to show that the apparent cause was delay in completion of the website (or Internet) work:  "Richard, As you know I am not easily upset, but think your are taking me there quickly. The website was supposed to be finished last Monday. Now there are still a few items that need to be fixed and it is not happening.  
+It is not happening because PV has other more important work to do. To be second or for that matter 10th inline is something I have learned to cope with with you. Howe ever Rome is burning and if so it now is not a good time to put me on hold and screw up my customers.  
+There is another element that is puzzling me. I have always pictured you as subscribing to the concept of ethics. How can you make a commitment to have everything finished a week ago, but then not focus on delivery. Does business corrupt ethics???"  There are in evidence several handwritten "non-conformance reports" bearing dates in late June and early August 2000. These are addressed to Mr Zimmer, apparently by members of his staff. They refer to inability to access information. In the body of two of the reports there is specific reference to
+Paradox, viz, "Entered Paradox View Requests" and "When trying to enter into
+Paradox main menu". In another four, a space for "description" refers to "Paradox problems". It is thus clear that these related to difficulties with the pre-existing Paradox system.  From early August 2000, the regular "non-conformance reports" prepared by the plaintiff's staff begin to refer, in the "description" section, to "SQL
+Program" and "SQL System". There are also, however, continuing references to
+Paradox under "description".  A reference to SQL appears in an email of 5 July 2000 from Mr Zimmer to Mr
+Steyn:  "Richard the Friday time for SQL Demo is not good since Daniella is not here and she is the main player."  An email from Mr Zimmer to Mr Steyn dated 15 July 2000 reads:  "Richard as discussed please add to SQL version a function that allows to input contract starting dates and calculates after 3 years and each year there after individual negotiated storage range increases or default increase."  An email to Mr Steyn from one of his colleagues (Sanjay Raizada) dated 8
+August 2000 makes it clear that there had, by then, been substantial consultation with the plaintiff's personnel (including Daniella, or "Daniel") about features of the "new system". There are references to similarities and differences between the "new system" and Paradox. It is thus clear that the consultation related to the SQL system and steps that were being taken to design and implement an SQL system to replace the Paradox system.  Mr Steyn referred to the SQL conversion in an email to Mr Zimmer dated 29
+November 2000:  "Daksha has almost finished the conversion of the main items from Delphi to
+MS-SQL. The key issue is now invoicing. You are due to run monthly invoices either this Friday or on Monday.  
+I think that if all the updates that need to be done for the monthly invoices get done on the Old Paradox system and that if we prepare all the MSSQL this week end, we can do one or two days worth of testing on Monday-Tuesday next week and then do a full conversion on say Wednesday night after all invoicing has been done. To squeeze all your invoicing into Friday, or to risk invoices using the new MSSQL system is not realistic.  
+Your views?"  On 4 December 2000, Mr Steyn said in an email to Mr Zimmer:  "Daksha finished the Delphi to SQL conversion for the web-site update cycle.
+We now need to finish some testing of the automation used for this cycle and then we can convert across.  
+I'm in Melbourne today and will have Daksha start her testing and the monthly
+SQL conversion."  In an email of 10 January 2001 to Mr Steyn, Mr Zimmer expressed extreme frustration. His message reads in part:  "After one year of operating the website I do not have a client I could use as a reference.  
+SQL is even now, one year after the agreed installation date, not installed.  
+Website features (email verification/pick up or delivery orders) are working one week but not another."  
+The email concludes:  "Richard, in all sincerity I am at the end of my tether. One year after having a meeting in your office with all people concerned and agreeing on a completion date within 2 month of that meeting things seem to be worse instead of better.  
+Somebody has to take responsibility. Since Peter gets a copy of this e-mail I expect Peter to comment on the situation and how it will be fixed."  
+Mr Steyn's reply was:  "Manfred, most of what you've asked about above are not 1 year old. UDSC has a constantly evolving web-site and some of the above have been caused by this. I agree that QA has not been good for some of these changes in the past and that is why we are setting up a enhancement request process and a client sign off.
+I also agree that QA has not been good on the original site, but as with all software development these bugs can only be addressed as we go unless there is new full testing process. As part of the MSSQL change over we will test as much of the site as possible again. Dakhsa is back tomorrow and we will start the planning of the MSSQ1 switch over. Dakhsa and myself will have full focus on getting this done during the two weeks from next Monday."  On 23 January 2001, Mr Zimmer sent to both Mr Steyn and Mr McNamara an email headed "your immediate response is required". It read in part:  "The situation is such that it requires your full involvement now. We seem to be rebuilding the tables almost daily.  
+Partial (only) data transmission means that we now enter most data manually.  
+Staff is not able to cope with the additional work load.  
+But most of all the systems stability appears to deteriorate rapidly. It needs to be fixed now. Is the SQL installation happening this weekend? If you or liquidvision is not capable of looking after us now, then we need to get together in order to work out an alternative strategy before the situation is totally out of hand. Please reply to me today via e-mail.  This email elicited one from Mr McNamara, beginning "Hi Richard" and thus phrased as if for Mr Steyn's consumption only, but in fact transmitted to both
+Mr Steyn and Mr Zimmer:  "Now that were back from the Melb office, let's review this account.  
+Has all time spent on this matter been charged for? I'm reluctant to commit further LV resources otherwise.  
+When you joined LV and when you brought this account across with you, was it so open-ended? Is it similar to the mistake I made with Challenger where I promised a fixed price, but I did not know just how involved building the
+Lifetime models was going to be. Nevertheless, I explained this to the client and they then tripled the budget.  
+In fact you helped me out when I did the same thing again with EPSON."  Also on 24 January 2001, Mr Steyn replied to Mr Zimmer saying in part:  "Daksha will recommence onsite testing from tomorrow and we will be seeing the process through from then to completion with it being the major focus for me.
+I have one other commitment that falls due next week which I have to manage at the same time."  Mr Zimmer emailed Mr Steyn as follows on 26 February 2001:  "... as you know the 28th was my absolute deadline. Since this is midweek it might not be a sensible date, but coming weekend is a definite must. I trust this is not a problem!"  Mr Steyn's reply was:  "Dakhsa and I continue to work on it and it will be installed once I've checked all code and tested it again. I'm committed to moving through it as fas as I can - end-of-month is not an ideal time because of the invoicing. I will not allow it to go live until it has passed parallel invoice tests (I was going to do it on last months invoices and this may still be the case)."  On 18 February 2001, Mr Zimmer sent a message which, among other things, asked:  "Are we finally converting this weekend?"  and concluding:  "Please let me know the plan for this weekend and if the conversion is not happening this weekend, then why not?"  On 1 March 2001, Mr Steyn sent an email to Mr Zimmer saying that he needed to "check the send and receive code before it can run live".  On 6 March 2001, a message from Mr Zimmer to Mr Steyn said:  "You did say this morning that you would be back later. Since you however did not I now wonder if you are on track for this weekend, or if it will be put off again. Please reply."  Mr Steyn's reply of 8 March 2001 was:  "Daksha has not finished the flow chart for the send and received and so I cannot finalise that. I'm in all day tomorrow. I cannot emphasise enough how important it is for me and LV to finalise your work and that if I'm distracted with other LV work it is now considered counterproductive to be so distracted and we are minimising the distractions so I can finalise."  Mr Zimmer's email of 15 March 2001 to Mr Steyn was as follows:  "We have not seen much of your or Dakscha this week, even though you have committed for this week to convert. Is it finally happening this weekend? If not why not? Next week is definitely the last week for the conversion, so if again it does not happen this weekend then give me specific details for the installation next week. But nothing vague please!"  Mr Zimmer's email of 17 March 2001 read:  "Good morning Richard, 
+As discussed last week this coming weekend is definitely the last date for the conversion to SQL. 
+Please e-mail me the required steps (as requested on Friday) and the schedule for this week in order to accomplish the conversion on the weekend or before, as well as your involvement on Monday (26.03.01) for staff training."  On 20 March 2001, Mr Zimmer complained by email of having had no reply. Mr
+Steyn sent an email on 4 March 2001 referring to matters that were being finished, concluding:  "We cannot go live unless it will be smooth - only your web clients have had problems and we do not want others suffering any problems because of a change over."  An email from Mr Zimmer to Mr Steyn dated 8 April 2001 read in part as follows:  "The long weekend is coming up and I truly hope that we convert to SQL either before, or on the weekend. I need to hear from you about this either with a firm commitment or another (but firm) date. I am planning my vacation, but will not be able to go unless SQL is running."  Mr Steyn's reply of 9 April 2001 was:  "Once the quarterlies are finished we can compare the monthlies produced by the new system to those produced by the old system. Then we can go live. All other testing seems fine now - Ill do one last step through though over the next few days before we go live."  Mr Zimmer's email to Mr Steyn dated 12 April 2001 read:  "You have not answered my question 'will we convert this weekend?' Obviously not, since I have not heard from you. This can not go on endlessly. Give me a date. Not like the previous 100 times, but this time the date when you will actually do it. If not then give me the source code and I will find someone else to finish it."  Mr Steyn's reply of 18 April 2001 was:  "I'm back on deck after the easter break. I will be in your office today early afternoon to continue with data checking. A final run through Daksha's code is necessary after the changes she has made. I will be working in your offices tomorrow and Friday."  Mr Zimmer emailed on 19 April 2001:  "Well we did not see you yesterday. Is today and tomorrow still on the agenda.
+By the way you are not giving me a finishing date even though I have asked for one in almost every email. 
+I start vacation (2.5 month) in 5 weeks. Please reply with a date!!!"  On 20 April 2001, Mr Steyn reported by email that the Paradox data had been converted across to the MS-SQL system and described checking and further steps necessary, some of which was to be done "Thur/Fri". He concluded:  "The chances that it will be ready the Monday after that are high."  On 27 April 2001, Mr Steyn reported successful running of verification checks after transfer of data across to MS-SQL and referred to a need to "double check again".  On 7 May 2001, Mr Steyn reported completion of further checking and said:  "Assuming there is no drama all data will be converted before the weekend with
+SQL running beginning of next week and we use SQL version by the end of next week."  An email from Mr Zimmer of 10 May 2001 read in part:  "The question is the same as always ... are we converting this weekend?"  Mr Steyn replied on the same day:  "We have been working on your project with significant resources going through an excruciatingly detail quality check. Dakhsa has been handling this extremely well. Today we had confirmation from the warehouse summary report that the data version is correct. We also had confirmation today that the parallel invoicing is correct. Daksha handled this and previous activity being instructed by me by phone without problems. 
+We still have some final data checks to do especially another send and receive test. 
+Without these tests we will not implement. If these tests take longer because
+Daksha is not me then I apologise but cannot personally do everything on your system. 
+I now need to review with Daksha and sit down onsite with her to do so. As you know nothing will please me more than to finish this work for you so please be assured I'm not dawdling. 
+The reason why the warehouse summary report has so many boxes without a location is because this report has not been updated since warehouse 4 was opened."  The response from Mr Zimmer, also on the same day, was:  "Your last e-mail needs a reply to the expressed sentiment. You write 'we have been working on your project with significant resources'. 
+To my knowledge only Dakscha is working on our program, with you overseeing it when ever you find time. Please correct me if I am wrong. 
+The program is still the same as it was 12 month ago. The amount of work to be done has not increased. Assuming that I am correct on both points then the expression 'significant resources' seems misplaced. You are also writing that you are not dawdling. My understanding is that other commitments don't allow you to supply the input the situation requires from you. 
+We are experiencing significant daily work disruption since the program forces us to shut down (I assume that this is caused by Dakschas work) requiring a reboot, or we must free the computer for Dakscha. 
+In my last e-mail I again was very specific in asking for a 'change over' date, but you did not reply. That said, I again ask for a date. How can I possibly plan anything under the circumstances."  On 25 May 2001, Mr Zimmer sent an email stating that he would be "leaving next week on vacation" and asking "(at least approx) when we will be running on SQL". Mr Steyn's reply of 28 May read in part:  "Until I've finishing checking the receive I cannot commit to a date, except to say once the receive is finished there is nothing crucial left. (I still expect some minor bus on some of the screens but nothing on the significant areas of functionality.) So I'd expect to convert at the end of this week and to work in parallel for a couple of days (with Paradox doing all the sending and receiving) until after cleanup and printing of the monthlies using the
+Paradox system."  
+Mr Steyn's email concluded:  "An area that needs to be clarified as I finish my receive checking is the payment schedule. I'd like to propose that we receive half of the agreement amount as the system goes live with the balance paid in 3 fortnightly payments after that. Your thoughts?"  Mr Zimmer sent an email on 28 May 2001 saying that he was leaving on vacation the next day and that John (Mr Bates) was generally aware of all issues concerned:. Mr Zimmer also said:  "In regards to your payment I can understand you wanting to get paid for your work. We are now 12 months past the completion date agreed on during the meeting with Peter McNamara and liquidvision staff, at your office. Back in
+February you swore blind that you would have the conversion to SQL completed by the end of that month. It is now the end of May and the conversion is still not complete. You have revised the conversion date many times in the past few months and each time you have not held true to your word.  
+Your track record has shown that if you won't complete the work when there is a payment/workschedule (which liquidvision failed to comply with) in place what chance would I have of getting the job completed and any potential bugs that require rectification once you have been paid.  
+I would suggest as a sign of good faith you complete the conversion to SQL and rectify any errors ASAP and then talk about the terms of payment."  In the following weeks, there were emails from Mr Bates to Mr Steyn about problems at an operational level with the computer system. On 16 July 2001, Mr
+Bates asked when Mr Steyn would be coming in "to take us through the conversion" and "when we can expect to convert".  On 24 July 2001, Mr Steyn emailed to Mr Zimmer:  "We're ready to do the transfer across to the SQL system."  
+He then outlined a proposed timetable for implementation over one week and, after some pleasantries, said:  "Could I now ask, though, that we now receive payment of 50% of the $30k agreed fee (ie payment of $15k) before the migration starts. After installation we will spend two weeks monitoring the system and addressing any issues relating to the installed system that arise. We will then ask for payment of 25% of the agree fee (ie payment of $15k).  
+Finally, after satisfactory finalisation of some outstanding SQL functionality (note none of this will affect daily operations or UDSC monthly or quarterly billing) we will ask for payment of the final 25%. Unfortunately so much time has passed since we originally agreed on what is included in the $30k that I would like to be sure that we discuss and deliver on an agreed list before requiring payment. I trust that our goodwill on this point is understood and that you understand that this is not opening an avenue for preventing work that should be completed from being completed - you know my ethics on points like this Manfred."  Mr Zimmer's reply of 26 July 2001 was:  "I am not sure if I should be astonished, bewildered or alienated. The way I interpret your e-mail is that you say pay me $15 000 now or I will not transfer to SQL. Considering that you, Peter and a number of your staff agreed to have it completed a year ago I find that rather strong. Your latest commitment was to have it finished prior to my leaving for vacation. Over time we have also made various agreements and these schedules became invalid not because of me, but because you did not complete the stages as agreed. As it stands I have no idea how far you have progressed and if SQL will be in a working mode any time soon.  
+As you know SQL is imperative for UDSC and that I need to resolve the issue.  
+I have discussed this with John and we will make a payment of $7500 on the day you convert. (If necessary we will give you a cheque today and pre-date it to the date you will convert on, with the clear understanding that you will not present it till that date).  
+Once you give me the go ahead to use SQL instead of Paradox we will pay another $7500 followed by another $7500 after the monthlies have been run on
+SQL and the rest 30 days thereafter providing that any debugging issues have been resolved.  
+I really believe that this is more than you can ask under the circumstances.  
+Please discuss these or any other details with John as will not be available for the next weeks."  Mr Steyn emailed Mr Zimmer on 27 July 2001 as follows:  "Let me indicate why this has been necessary. We agreed on a payment schedule at the beginning of the project. Timing problems meant that we did not deliver on the first milestone and so you did not make the first payment. This was understood and accepted. Timing problems since have meant that whilst we have progressed and tested the coding we have not received any payment for any of the work done to date. Now that we are in a position to deliver we wanted to be clear on how payment would progress given our previously mutually acceptable payment plan."  On 17 August 2001, Mr Zimmer sent to Mr Steyn by email a relatively long letter reviewing the position that had been reached, expressing strong dissatisfaction and frustration and foreshadowing legal proceedings as "an action of last resort". He also invited Mr Steyn to agree to a meeting the next Tuesday if he thought that a more sensible solution might be found. Mr
+Steyn replied by email on the same day. I quote the reply in full:  "Manfred,  
+I believe a meeting in your offices is appropriate. We are committed to converting your system and that is why we continue to work on and support your systems.  
+To address a couple of points in your note ahead of our meeting: 
+We have finished the development and are planning the SQL conversion. We have Daksha and Kevin working on this now. Your acceptance of payment terms was welcomed and we will start activity which correlates to the first payment late next week. I cannot guarantee dates as ensuring that your business critical systems are in place is more important than converting for the sake of making a date. 
+The MS-SQL system is totally separate to the internet system and always has been. 
+Security issues on the internet are totally separate to backup issues at
+UDSC. 
+Backup issues are totally separate to disaster recovery issues. 
+As was discovered during the recent review of MSDA's data with John, user error has contributed significantly to MSDA's problems. Where there is a bug we have always tried to address the problem as quickly as possible. 
+The Paradox system continues to operate and there is enough evidence to show that the problem lies with timing problems on the network which subsequently causes tables to crashes."  Further correspondence followed, replaced eventually by solicitors' letters. The first defendant never completed the SQL conversion. The plaintiff never made any payment to the first defendant.  I mentioned, in the course of describing the correspondence, a meeting that took place on Monday 17 April 2000. It is a meeting of significance. It took place at the first defendant's premises following a request made by Mr Zimmer to Mr McNamara the preceding Friday, 13 April 2000 (Mr Steyn was at that time overseas). Present were Mr Zimmer and, from the first defendant, Mr Steyn, Mc
+McNamara and others. Mr Zimmer's account of the meeting, as given in his affidavit, is as follows:  "On 17 April 2000 I went to the offices of the Defendant and met Peter
+McNamara for the first time. Present were Richard Steyn and several others. We exchanged formalities and I gave a copy of my agenda to every one present.
+Subsequently a conversation to the following effect took place:  
+I: 'How will the completion of SQL be fast tracked?'  
+Richard: 'Kevin (an employee of the Defendant) will be in charge of the project and will be responsible to coordinate it all. Any enquiries should be directed to Kevin and he will see that he will get the answers for you.'  
+I raised certain requirements for specific functions and said words to the effect:  
+I: 'According to the original schedule the project was to take 8 weeks. You have done some work already. Can I be guaranteed that it will be completed in weeks.'  
+Richard: 'Yes.'  
+There was a general nodding of heads indicating 'Yes'.  
+I: 'I would like a commitment that the conversion will be completed by mid
+June. Do you all agree that it can be done and that you will complete it by then.'  
+There was a general verbal 'yes' and a nodding of heads indicating 'Yes'.  
+I: 'Can I rely on that?'  
+Again there was a general nodding of heads indicating 'Yes'. I then left the
+Defendant's premises and as I was departing I said to Peter McNamara words to the effect:  
+I: 'Everything looks to be on track now. I am glad we had the meeting.'  
+He: 'Yes, but don't cry wolf too often.' "  There is in evidence the agenda, or series of points to be covered, prepared by Mr Zimmer in advance for his own use at the meeting and referred to in his affidavit. It is typewritten and carries in handwriting notations made by Mr Zimmer at the meeting. The typewritten material contains a column headed "Discussion points". In this column appear "Internet error elimination", "Fast tracking", "Maintaining existing program", "Updating existing program in SQL format" and "SQL Conversion". Against each appears a list of items or questions - clearly enough, what Mr Zimmer wished to achieve or clarify in relation to each matter. Against "SQL Conversion" there appears:  "What does SQL conversion mean? 
+Are the requirements documented? 
+Are the people involved, aware of requirements and completion dates 
+Does this work have priority or is it fill in? 
+SQL was to be completed mid February with problem solving period to March 30
+Delivering (guaranteed workable model by March 30 2000) 
+Where are? 
+What needs to be done to complete? 
+When will it be completed? 
+What are the agreed steps of progress? 
+What are the dates for the completion of these segments? 
+Who will be working on what? With whom? 
+Who takes responsibility for the time table? 
+Does management guarantee that time table? 
+If not, why not? 
+What do we need to agree on, that Management guarantees these dates?"  Mr Zimmer said in his affidavit that one of the reasons he wanted to have the meeting was to discuss "how do we fast track?" This was the subject of the following cross-examination:  "Q. I suggest to you that by use of the words 'how do we fast track' in that paragraph you are seeking to create an entirely false impression. You tried to create the impression that what you wanted fast tracked was the SQL project when what you wanted fast tracked was the Internet project? 
+A. The Internet project at the time was considered complete and it also was paid for at that time. What had to be done was debugging so it couldn't have been the main topic of the fast tracking.  
+Q. Let's return to page 188. There is a sub-heading Discussion Point, Internet
+Error Elimination, and there is a further subheading at B, and again you use the words "fast tracked" in relation to the Internet project? 
+A. Where is that, please?  
+Q. Looking at the April 17 --.  
+HIS HONOUR: Q. Page 188 of the bundle. It's at your left hand? 
+A. The agenda.  
+PESMAN: Q. You will see A --? 
+A. Yes.  
+Q. And benefit? 
+A. Yes.  
+Q. 'The finished entry how can it be fast tracked'? 
+A. That's correct.  
+Q. There can be no doubt at all that use of the words "fast tracked" relates only to the Internet? 
+A. That's correct.  
+Q. I suggest when you used the words "how do we fast track" in paragraph 36 of your affidavit you are trying to create a false impression that what you wanted fast tracked was SQL when what you wanted fast tracked was the Internet project? 
+A. I couldn't have. I did not want to create the wrong impression because the
+Internet project, the SQL project was the be and all, the main topic of that meeting. That is why the meeting was called; that is what it was for. The
+Internet issues were a side show.  
+Q. I --? 
+A. Because the Internet programme was more or less finished, was finished other than debugging issues. The SQL programme was not completed as proposed.
+Paradox was crashing constantly and threatening the business. I asked for a meeting in order to have the issue with SQL resolved because Paradox was nearly life threatening to the company.  
+Q. You continued to use Paradox until some time after September 2001, is that right? 
+A. Yes.  
+Q. So it couldn't have been all that life threatening as at April 17 2000? 
+A. If you don't have an alternative it is. We had to use it. There is no other way round.  
+Q. It didn't die? 
+A. It had problems with the staff, it had its problems with clients, and
+Richard Steyn was during the course of a week a number of times in our office solving problems.  
+Q. The use of the expression 'life threatening' is a piece of hyperbole on your part, isn't it? 
+A. A piece of what?  
+Q. A significant exaggeration? 
+A. It wasn't to me.  
+Q. It is the case, isn't it, that the principal purpose of this meeting was to discuss finalising the Internet problems? 
+A. Yes - the Internet definitely no."  After further cross-examination the following exchange occurred:  "Q. And we have agreed I think that the use of the words 'fast tracked' in the agenda relate to the Internet project. Do you accept that now? 
+A. No, I don't accept it fully."  Mr Zimmer was also cross-examined about what happened at the meeting in relation to the items against the "SQL Conversion" heading:  "Q. If you can look at the heading SQL Conversion about halfway down page 189? 
+A. Yes.  
+Q. You will see the first question is 'what does SQL conversion mean'? 
+A. Yes.  
+Q. What did you intend to convey by that? 
+A. I wanted to establish, I wanted to have a clear-cut answer when walking out of that main meeting, where we were, when we would finish, and I wanted to know, not that I have thought SQL conversion meant, but what in actual fact they meant just to set the record straight just in case their meaning did not correspond with my meaning.  
+Q. As at 17 April 2000 it still wasn't established what the final form of the conversion would be? 
+A. Incorrect.  
+Q. You will see in your agenda there is no reference to any further completion date, is that right? 
+A. (No answer).  
+Q. I am grateful to my friend. As at the time you prepared this agenda there was not in your mind any specific completion date, is that right? 
+A. I don't know what I thought on that particular day but I would assume that
+I was working on the proposition that the original promise eight weeks would apply here once I sort out where we are.  
+Q. Go to paragraph 39 of your affidavit, please? 
+A. Yes.  
+Q. You say, I take it, that that accurately records your recollection of the conversation at the meeting? 
+A. Yes.  
+Q. You will see the first thing you say you said was 'how could completion of
+SQL be fast tracked'. I suggest to you you have reconstructed your memory from that agenda. That is not clear. I suggest you have used the words in paragraph because those words appear in the agenda? 
+A. It is possible.  
+Q. Well, did you have regard to the agenda perhaps in paragraph 39 of your affidavit? 
+A. Pardon?  
+Q. Well, when you were preparing paragraph 39 did you look at the agenda? 
+A. I would have."  And subsequently:  "Q. I suggest to you that you are in error in the first question in paragraph because any fast tracking was in relation to the Internet only? 
+A. I disagree.  
+Q. You go on to say: 'I raised certain requirements for specific functioning'.
+I take it by that you mean you were giving directions as to what you want in the SQL conversion? 
+A. Sorry, where?  
+Q. 'I raised certain requirements for specific functioning and said words to the effect'? 
+A. Yes.  
+Q. I can take it from that you were giving directions to Liquid Vision about what you wanted in the SQL conversion? 
+A. No, that's the, that was long before I established --.  
+Q. What specific functioning did you raise? 
+A. It might have involved anything, it may have been the conversion of data or what basically was required.  
+Q. So I can take it you cannot remember everything that was said at this meeting? 
+A. The meeting was of utmost importance to me. The meeting to me had to establish --.  
+PESMAN: I have been allowing narrative answers that have been given.  
+HIS HONOUR: That doesn't answer the question.  
+PESMAN: Q. I take it you don't have recollection of everything that was said at the meeting? 
+A. That's correct.  
+Q. And if you can look at page 189 again. You said a moment ago this meeting was a matter of, I think you used the words 'utmost importance'? 
+A. I said that.  
+Q. The bottom of page 189, you didn't take notes of anything agreed at the meeting? 
+A. That's correct.  
+Q. And you have not made any note of Mr McNamara or Mr Steyn guaranteeing anything? 
+A. I have not made any note of that.  
+Q. Even though this was a matter of considerable importance to you? 
+A. Yes.  
+Q. I suggest Mr McNamara gave no guarantee at that meeting? 
+A. When asked directly about the completion and if it will be done in eight weeks.  
+Q. So the extent of the guarantee he gave you was that he nodded? 
+A. Yes.  
+Q. I suggest to you that Mr Steyn gave you no guarantees at that meeting? 
+A. He specifically said 'yes'.  
+Q. And that was not more than enough for you to record in the sense of what was agreed on? 
+A. No. May I elaborate?  
+Q. Certainly. 
+A. When I came to the meeting I was very impressed with the purpose it seemed to have because there was Mr McNamara, Mr Steyn, three possibly, I'm not sure, four staff members, and we went to the meeting room. So the fact that everybody who seemed to be concerned with the project was there greatly impressed me. I therefore took what was the nod as a 'yes' on face value.  
+Q. Stop me if I am wrong, but the position is you cannot remember precisely what happened in the meeting. Yes or no? 
+A. No.  
+Q. You cannot remember everything that was said in the meeting. Yes or no? 
+A. No.  
+Q. You cannot remember now what was in your mind when you were writing some of the matters in the agenda? 
+A. That's correct.  
+Q. Do you still say to the Court you are confident the conversation recorded in paragraph 39 occurred? 
+A. Yes."  Mr Steyn's account of the meeting of 17 April 2000 appears in paragraphs 61 to 63 of his affidavit of 10 December 2002 as follows:  "61. The meeting started at 8.30am, Monday 17 April 2000 in Liquid Vision's office at Willoughby. I had returned from the United States on the weekend.
+The meeting was attended by Mr Zimmer, me, the third defendant, Mr Peter
+McNamara and the programmers involved in the Internet project. The great majority of the time spent in the meeting concerned the Internet Project and the status of the extra functionality referred to above. The agenda prepared by Mr Zimmer for the meeting is Exhibit MZ-O to his affidavit. The first page and part of the second page of this document refers to issues in relation to the Internet Project. Part of the second page relates to Paradox work that Mr
+Zimmer had scheduled for immediate attention. Only the last two sections on page two, with the heading 'Up dating existing program in SQL format' and 'SQL
+Conversion' relate to the MS-SQL Project. The first of these two sections involved a review of the functionality proposed in the MS-SQL Project. Mr
+Zimmer took the opportunity to clarify his understanding of the existing scope of the MS-SQL project and indicate that there were extra items he would like to add to the project. Given the email I received on 3 April 2000 ('RS-1')
+I was happy to be help clarify the scope of the system for Mr Zimmer. 
+In paragraph 39 of his affidavit, Mr Zimmer describes a conversation regarding the MS-SQL Project which he alleges occurred in the meeting of 17
+April 2000. I deny that a conversation occurred in those terms. In particular
+I deny that 30 March 2000 was discussed as a fixed and agreed deadline. At this point in time, the MS-SQL Project was still progressing with the resources and priorities that we had agreed previously. This fact is referred to in Mr Zimmer's agenda where it states in relation to the MS-SQL Project: 'Does this work have priority or is it fill in?'. Further, neither myself nor
+Mr McNamara promised any specific deadline for the completion of the MS-SQL
+Project. In fact, we could not have done so on 17 April 2000, as I had just come back from the United States. In addition, as the agenda provided by Mr
+Zimmer at the meeting states, we were scheduled to undertake important Paradox work, which was needed to allow UDSC's invoicing system to comply with the introduction of GST in July 2000. This work would have taken and, in fact did necessarily take resources away from the MS-SQL Project. 
+When the meeting had turned to discuss the MS-SQL Project, I recall a conversation to the following effect:  
+Mr Zimmer said:  'We initially outlined the possible completion date of 30 March. I understand that it has not happened due to other priorities. But as we've just agreed the internet project is going to be wrapped up soon. How will we progress the SQL project from there?'  
+I said:  'Manfred, we cannot guarantee an end date. It is progressing well. By the end of April we will have demonstrated increased functionality.'  
+He said:  'I understand. But I want to get the SQL project going now. Give it whatever priority you can once the internet project is finished.'  
+I said:  'By the end of June 2000 we will have completed a review of screens in SQL and we will put to conduct initial parallel testing of invoices in SQL and
+Paradox.'  
+He said:  'I am happy with that.'"  Cross-examination of Mr Steyn dealt with this meeting at several points. Mr
+Steyn confirmed that he did not take any notes, that he received Mr Zimmer's agenda at the meeting and that he read it. He confirmed having seen the statement that "SQL was to be completed by mid February with problem solving period to March 30 2000" and "Delivering (guaranteed workable model by March 2000)". The cross-examination proceeded:  "RUNDLE: Q. Did you make any strong objection or any objection at all as to the correctness of that statement with Mr Zimmer? 
+A. We discussed that the SQL project whilst it was, what we were aiming for was March/April, that it had not been possible for a variety of reasons, amongst them the ones that we had discussed before.  
+Q. You assert in your paragraph 63 of your affidavit of 10 December that
+Manfred, you say, you said:  'Manfred, we can not guarantee an end date. It is progressing well. By the end of April we will have demonstrated increased functionality'. 
+A. Yes.  
+Q. You then say, omitting what Mr Zimmer is alleged to have said:  'By the end of June 2000 we will have completed a review of screens in SQL and we push to conduct initial parallel testing in SQL and Paradox.' 
+A. Yes.  
+Q. Where do you say that would be in relation to your time line at page 69?
+What process have you got to by that point of time? 
+A. The project plan was made at a level which indicated the modules and activity and functionality that needed to be required, that was required to be done. Updates so Mr Zimmer could, were not always able to be slated home to particular point on that project time line but nonetheless they were part of the detail of implementing a variety of those things.  
+Q. So, in answer to my question, where does the initial parallel testing of invoice and SQL and Paradox fit in that time line? 
+A. I can't point to a specific point.  
+Q. Are you saying as at 17 April 2000 that the project was nearly completed, half completed, not started, or what? 
+A. It was completed. Its hard to give a percentage figure to exactly where it is completed, but at what stage it is at, but by this stage I imagine it is somewhere round about a quarter to a third.  
+Q. Quarter to a third? 
+A. Of all functionality that needed to be done, yes.  
+Q. In relation to a project that you agreed, that you had an agreement with Mr
+Zimmer that would be finished by April? 
+A. We had, as I have explained, we have had Internet work that was required to be done and we have had Paradox work required to be done and we had an agreement on the amount of time that was to be spent on the project, so.  
+Q. You also told his Honour that you said that Mr Zimmer had said it was to have second priority to the web site? 
+A. Yes.  
+Q. But now you are saying that he said, well, I want the project finished, I want to give it whatever priority you can, once the Internet is finished, it is finished? 
+A. He wants to - the meeting of 17 was called because of - sorry, start again.
+The meeting of the 17th had to address a number of points. Amongst those was the Internet project and Paradox. We had been doing extra Internet work in the weeks preceding this particular meeting and that work needed to be completed and wrapped up.  
+In the context of that Internet work being required to be completed and wrapped up we were then also asked how we could progress the SQL project, what stages we could look to and we gave Mr Zimmer an indication of the type of functionality that can be delivered for the SQL project and rough time frames on the basis that the Internet project, when the Internet Pty Ltd [scil project] would be finished. So, give it whatever priority you can once the
+Internet project is finished."  The cross-examination also included the following:  "Q. I suggest to you that in the course of the meeting of 17 April 2000 Mr
+Zimmer said to you words to the effect 'according to the original schedule the project was to take eight weeks'? 
+A. He may have said that but the, the effect of all of our conversations in
+January, February and March were such that Mr Zimmer knew that given our understanding of the November 1999 letter that was an eight weeks full-time.  
+Q. I don't want to go back over it but is it really your evidence that what you say is your understanding of 2 November 1999 prevailed at all times in your mind up until 17 April 2000? 
+A. Yes, it did.  
+Q. And am I doing you a disservice by suggesting to you that that belief has clouded your ability to give evidence today as to what took place at the meeting on 17 April 2000? 
+A. No.  
+Q. You will agree with me that in the schedule that you put to your proposal, sorry, the schedule you put in the rough notes of 2 November 1999, allowed for nine to ten weeks for the conversion, is that correct? 
+A. Yes.  
+Q. That the proposal that you have put forward on 6 February 2000 provided for eight weeks? 
+A. Yes.  
+Q. So that the only real issue is whether or not that was qualified by saying full-time or part-time, is that correct? 
+A. Yes. Aside from prioritising the Internet and Paradox, yes.  
+Q. You can not point to any communication, written or e-mail communication that you had with Mr Zimmer where you asserted that the eight weeks or the ten weeks was only on a, could only be regarded on a full-time basis? 
+A. I can't point to any particular.  
+Q. In the conversations you had with Mr Zimmer, Mr Zimmer was wanting to get the project completed, was he not, the conversion completed? 
+A. In which conversations?  
+Q. The conversations he had with you prior to 17 April 2000? 
+A. He understood that the, he wanted to get the --  
+Q. Could you answer my question? 
+A. Sorry, yes.  
+Q. He said to you prior to 17 April 2000 he wanted the project completed? 
+A. Yes.  
+Q. Going back to the meeting on 17 April, I suggest to you that after saying that, recording the fact that the original schedule, the project was to take eight weeks he went on to say:  'You have done some work already, can I be guaranteed that it will be completed in eight weeks?'  
+A. Sorry, where are you?  
+Q. This is the meeting on 17 April 2000, I am suggesting to you that those words were uttered by Mr Zimmer to you and to Mr McNamara at that meeting? 
+A. Can you say those words again?  
+Q. Yes:  'According to the original schedule the project was to take eight weeks. You have done some work already. Can I be guaranteed that it will be completed in eight weeks.' 
+A. Did he say those words?  
+Q. Yes? 
+A. He may have. We made no guarantee.  
+Q. Did ask you for a guarantee? 
+A. He may have, I --  
+Q. When you say 'he may have', what do you want his Honour to infer from that answer? 
+A. It was clear in the meeting that the --  
+Q. What I am suggesting to you is what do you want his Honour to infer from that, he may have asked for a guarantee that it be completed in eight weeks? 
+A. I have no recollection of whether or not he did or did not. So he may have, it is possible.  
+RUNDLE: Q. I suggest to you that when you were confronted with that question by Mr Zimmer, namely,  'According to the original schedule the project work was to take eight weeks.
+You have done some already. Can I be guaranteed that it will be completed in eight weeks?' 
+You responded, yes? 
+A. No. I said no."  Evidence was also given about the 17 April 2000 meeting by Mr McNamara who was present. The account in his affidavit is as follows:  "6. I refer to paragraph 39 of Mr Zimmer's affidavit sworn 6 August 2002, in which he describes a meeting he attended at Liquid Vision's premises on 17
+April 2000 with Mr Steyn, and myself, plus two other employees from the Liquid
+Vision, who were working on UDSC's projects. During this meeting, I made notes in my daybook. Attached and marked 'PM-1' is a copy of the two pages from my day book which contain all the entries I made on 17 April 2000. 
+The meeting was mainly taken up with reviewing the status of the Internet
+Project. Mr Zimmer was critical of the progress of the project. He said words to the effect:  'Richard, the job has been underestimated by you.' 
+Mr Zimmer then went on to discuss his clients' data and said words to the effect of:  'What about my clients' data, has it been lost?' 
+Mr Steyn replied by stating:  'No it hasn't.' 
+After the main issues had been discussed, Mr Zimmer raised the MS-SQL
+Project and said words to the effect:  'The SQL conversion was originally to be completed 3 months ago. When is it ready?' 
+Mr Steyn said words to the effect:  'All databases and screens have been designed. The functionality is to be tested before any implementation, programming or conversion to SQL.' 
+I deny that, at this meeting, either Mr Steyn or myself guaranteed or promised any completion date for the MS-SQL Project. 
+Completion periods and hoped for completion dates were considered at the meeting. However, apart from me having a clearer idea on the priority of the various projects, no completion period was agreed for the MS-SQL Project in the meeting. This was in keeping with my understanding before the meeting, that Mr Steyn had the discretion as to when the work for the MS-SQL Project was to be scheduled, bearing in mind the other work to be completed by Liquid
+Vision for UDSC."  The annexure consisting of Mr McNamara's handwritten notes includes references to SQL conversion at the end. There are two references:  "SQL conversion was to be completed 3 mths ago - when is it ready"  and:  'All databases and screens have been designed - functionality is to be tested.
+Implement/integrate with Delphi programming converted to SQL."  Cross-examination of Mr McNamara about the meeting was as follows:  "Q. Now, I suggest to you that, in the course of the conversation, Mr Zimmer said words to the effect, 'How will the completion of SQL be fast-tracked'? 
+A. I can't remember the exact words or expressions like 'fast-tracked'. SQL came up very late in the meeting. My recollection is that it certainly didn't have the importance of the previous items but, I'm sorry, I can't remember 'fast-tracked'.  
+Q. Well, it was important enough to be raised at the meeting though? 
+A. I can't answer how Manfred felt. It was important, yes. It was raised at the meeting.  
+Q. I suggest to you that a person called Kevin was nominated as being the person who would be in charge of the project? 
+A. Yes, that sounds consistent.  
+Q. And Mr Zimmer then went on and said words to the effect, 'According to the original schedule the project was to take eight weeks. You have done some work already. Can I be guaranteed that it will be completed in eight weeks'; do you remember words to that effect being spoken? 
+A. I'm sorry, I can't remember the word 'guarantee'. I can't remember a similar emphasis.  
+Q. Well, I'll break it down Was there anything mentioned about the original schedule? 
+A. There may have been. Sorry, I can't remember.  
+Q. Well, when you look at your notes, obviously if you look at page 1 of your notes? 
+A. Yes.  
+Q. It would suggest at about halfway through the meeting the subject of SQL was discussed? 
+A. No, that is incorrect.  
+Q. Well -- 
+A. Towards the end of the meeting.  
+Q. You have two pages of document and I apologise if I am jumping too quickly but, as I understood, these were tendered on the basis these were the notes taken at the meeting? 
+A. Not too quickly, just the wrong conclusion. The second page, reference to a meeting later that day with BMC, Bettina Murray, a potential client.  
+HIS HONOUR: Q. That is a different meeting, the second page? 
+A. That's correct, your Honour.  
+RUNDLE: I'm sorry, I didn't hear that.  
+HIS HONOUR: The second page is a different meeting.  
+RUNDLE: Q. Are you suggesting it has anything to do with this case? 
+A. Absolutely not. I just wanted to be thorough and copy both sides of the sheet of people [scil. paper] from my day book to indicate where the notes for the meeting started and finished.  
+Q. Well, putting that aside, obviously, at some stage, I take it it was the end of the meeting, that words were uttered that the SQL conversion was behind schedule, or had not been completed? 
+A. Yes, words to that effect, which I have noted here, yes.  
+Q. And that some work had already been undertaken? 
+A. Correct.  
+Q. And I suggest to you that the next step was, 'Well, when can it be completed', in other words, to be completed in eight weeks? 
+A. That is where, I'm afraid, my memory and my notes are blank.  
+Q. I take it that Richard Steyn agreed with the proposition that it could be completed within eight weeks? 
+A. I don't remember that. If you are suggesting that a firm date was agreed, I am sure I would have recorded that in notes.  
+Q. Well, did you hear words being uttered by Mr Zimmer to the effect that he would like a commitment that the conversion will be completed by mid-June? 
+A. I'm sorry, I can't remember 'mid-June', but it is certainly fair to say that the tone of those words are consistent with my recollection, yes.  
+Q. And he further went on, 'Do you all agree that it can be done and that you will complete it by then'? 
+A. No, I don't - I don't think it was as succinct as that.  
+Q. Well, you agree with the first part, but not the second part? 
+A. Sorry, do you mind repeating what you were saying?  
+Q. 'I would like a commitment that the conversion will be completed by mid-
+June?' 
+A. No, I expressly said I don't remember the phrase 'mid-June'. The tone is consistent with what I remember Manfred's manner to be at the meeting so, looking --  
+HIS HONOUR: Q. Looking for some commitment? 
+A. Looking for some commitment, yes.  
+RUNDLE: Q. Do you have any recollection of some commitment being given? 
+A. Yes, a commitment to try, a commitment to garner resources, a sincere sense of, yes, 'Look, Richard is back from overseas. We can now move ahead', but this was more the earlier part of the meeting, the internet projects. The projects that we discussed in the in the early part were the ones that were causing him a concern."  After August 1999, the first defendant was engaged in three related tasks for the plaintiff. The first was the ongoing maintenance of the existing
+Paradox system. That was a task of continuing attention to problems as they developed. The second was the development and refinement of the system allowing customers to communicate with the plaintiff via the Internet to lodge requests for access to certain documents and otherwise to manage their relationships with the plaintiff. The third was the conversion of the Paradox system to the SQL system. Priorities among these tasks were the subject of evidence and submissions. The defendants put store by Mr Steyn's letter to Mr
+Zimmer dated 22 April 1999 in which Mr Steyn said that the SQL conversion "should not occur until after the Internet project had been completed". When taken to this in the witness box, Mr Zimmer pointed to the word "should" and distinguished it from "must". He also said that he did not understand there to be a need to complete the Internet project first. It was Mr Steyn's position that the priority referred to in the 22 April 1999 letter prevailed at all times and that his continuing dealings with Mr Zimmer were always on that basis.  In order to make good its claims that the first defendant committed contractually to one of several alternative completion dates for the SQL conversion, the plaintiff points, in succession, to a conversation between Mr
+Zimmer and Mr Steyn in late October 1999, Mr Steyn's letter of 2 November 1999 to Mr Zimmer, the 23 page proposal document of February 2000 and the conversation at the meeting on 17 April 2000. It is necessary to look at these in turn.  The plaintiff says that a contractual commitment to a completion date for the SQL conversion was first accepted in the late October 1999 conversation between Mr Zimmer and Mr Steyn. Mr Zimmer's version of the conversation as related in his affidavit is as follows:  "In late October 1999 in the Plaintiff's offices, Richard Steyn and I had a conversation to the following effect:  
+I: 'I agree to what you have outlined. Important however is that you, or to be more specific Liquid Vision will complete as per your time table. My business is suffering and I need to see an end to all the problems we are experiencing now. It is causing stress to everyone involved.'  
+He: 'I understand and that is why I gave you a list of phases.'  
+I: 'That list says 10 weeks from start to completion. Is that a she'll be right list, or some thing I can rely on? What I am asking you is, will that be a definite time table?'  
+He: 'Definite'.  
+I: 'And you won't let me down!'  
+He: No and I started to dome preliminary work already. Basically we can start full time on 17 November 1999.'  
+I: 'That means we will be running on SQL end of February first week March.'  
+He: 'Yes, but you will have to add two weeks for fixing bugs you might find.
+That's normal and wont stop you running on SQL.'  
+I: 'In other words come hail or rain we are running on SQL mid March?'  
+He: 'Yes'."  Mr Steyn denies that the conversation was in these terms. His affidavit relates a conversation to the following effect:  "I said:  'I estimate that the MS-SQL project will take about 10 weeks of fulltime involvement.'  
+He said:  'While the paradox table problems are annoying, it is not threatening to my business. As long as you are progressing the MS-SQL Project and keeping me updated I will be satisfied.'  
+I said:  'Resources could be used on the basis of approximately two full time days per week - meaning that the project could take around 6 months to complete. Rather than having a formal timetable, work would be done when it could be and not according to dates for specified milestones. Liquid Vision would invoice you on a weekly basis.'  
+He said:  'I am happy with that.' "  Mr Steyn further says that he sent Mr Zimmer a letter outlining this general approach. This is the letter of 2 November 1999 the material part of which has already been set out (paragraph 9 above). I pass to the content of that letter, since I consider it relevant to the claim based on the conversation of late October 1999.  It is immediately clear, in my judgment, that the letter of 2 November 1999 was not the source of any contractual promise as to the time of completion of any part of the work. There was reference to items to be resolved "before we can start", thus indicating that a start date was uncertain. It was later said that the content of stages would be "decided by Liquid Vision and UDSC as we work through the analysis phase" - in other words, the scope of works was not settled and was to be the subject of further discussion and decision by the parties. There was then a list of phases with a time for each indicated but, with start time and exact work content uncertain, there is no basis on which the time periods against the several phases (an aggregate of about nine weeks) can be said to lead to any conclusion as to the deadline for completion of the work. The final paragraph spoke of payment at the rate of $500 per day per person with a minimum of two days per week - in all, $1,000 per week, assuming that one person was to work on the project. At that rate, the cost of $20,000 to $30,000 would have indicated a possible duration of 20 to 30 weeks. In summary, the letter provides no basis for a finding that the first defendant promised to complete, as pleaded, "by about mid-March 2000, or alternatively by a date before mid-March 2000".  This assessment of the letter of 2 November 1999 is sufficient to justify a conclusion that, on the balance of probabilities, the conversation of late
+October 1999 was as Mr Steyn related it rather than as Mr Zimmer related it.
+The letter of 2 November 1999 simply would not have been written by someone who had said, as alleged by Mr Zimmer, "Come hail or rain we are running on
+SQL mid March". The letter's reference immediately to "Issues to resolve before we can start" is entirely at odds with any such certainty. Someone who had given a firm contractual commitment to a finish date would not have written a letter as inconclusive and qualified as that of 2 November 1999.  The next source of contractual promise as to completion date asserted by the plaintiff is the formal and detailed proposal document of February 2000. I have already referred to the nature and content of that document, including the outline of tasks or phases and their interrelated timings for a period 7
+February 2000 to 20 March 2000. It was Mr Steyn's evidence, and I accept, that the time line in the 6 February 2000 document was a more detailed version of the time scale outlined in the 2 November 1999 letter. As I have already noted (at paragraph 13 of these reasons), the indicated timing reflected in the 6
+February 2000 document was on the apparent basis of full time work by one person over seven weeks, with the dates 7 February 2000 to 20 March 2000 appended. This entailed roughly the same overall quantity of work as would have been done by one person working two days a week for 20 weeks, being the pattern apparently envisaged by the 2 November 1999 letter. Again, however, there was no contractual promise as to timing by the first defendant any more than there was, on the plaintiff's part, any contractual commitment to take and pay for services at the rate involved in full time work by one person.  The fourth possibility to be examined is that the first defendant made, through its officers, a contractual promise as to completion date of the SQL conversion at the meeting of 17 April 2000. I have already referred to Mr
+Zimmer's "agenda" document prepared in advance of that meeting and to the items in it. There can be no doubt, in my view, that the whole of the first page - encompassing the headings "Internet error elimination" and "Fast tracking" are about the Internet project. I do not accept Mr Zimmer's evidence that "Fast tracking" referred to the SQL conversion. This is because there appears in the agenda document, after "Fast tracking", an item labelled "Suggestion for item (b)" which obviously relates back to one of the points to (e) concerning "Internet error elimination" since there is no other "(b)". The reference back to "item (b)" after "Fast tracking" can only mean that the subject with which "Fast tracking" was concerned was the subject that included "item (b)", that is, "Internet error elimination". I accept Mr
+Steyn's evidence that, as regards the content of the "Agenda" document, only the part on the second page specifically marked "SQL Conversion" was concerned with the SQL conversion work. I consider that Mr Zimmer's evidence was distorted by an incorrect recollection or reconstruction as to the meaning and significance of the "Fast tracking" reference.  This factor of unreliability carries over, in my view, into the remainder of Mr Zimmer's evidence of what happened at the meeting. His affidavit said that he asked (referring to the SQL conversion), "Can I be guaranteed that it will be finished in 8 weeks", that Mr Steyn said, "Yes", and that there was "a general nodding of heads" indicating "Yes". Mr Steyn denies that he gave any such agreement, saying that he could not have done so as he had just come back from the United States (the meeting was on a Monday - he had returned at the weekend), from which I infer that he had not fully caught up with the state of things, by discussion with colleagues, in a way that would have enabled him to give a commitment. Added to this is the nature of some of the items against the "SQL Conversion" in Mr Zimmer's agenda. These indicate that it was not clear in Mr Zimmer's mind, before the meeting, what SQL conversion actually entailed and whether the work had priority or was "fill in". Such a state of mind would have been inconsistent with a belief that a contractually binding completion date was in place before the meeting. The long series of questions in the agenda showed a desire for understanding on Mr Zimmer's part. Indeed,
+Mr Steyn's affidavit says that Mr Zimmer took the opportunity to clarify his understanding of the existing scope of the MS-SQL project "and to indicate that there were extra items that he would like to add to the project" - something that did not surprise Mr Steyn in the light of Mr Zimmer's email of April 2000, being the email in which, referring to rewriting in SQL, Mr
+Zimmer said, "we have not even discussed the proposal!"; and concluded, "We obviously need to talk". Not unnaturally, it seems to me, Mr Steyn viewed the April 2000 meeting as such a "talk". I accept Mr Steyn's evidence that, so far as timings for SQL conversion were concerned, there was no more than an indication of "time frames" within the context of other priorities. Mr Steyn accepted that Mr Zimmer may have asked for a guarantee as to time but that he gave none. I consider that answer to be consistent with the uncertainties that surrounded the SQL project at that time.  Mr McNamara's evidence about the 17 April 2000 meeting was generally consistent with Mr Steyn's but with the added feature of certainty that Mr
+Zimmer did ask when the SQL conversion would be "ready" which I accept means, in the context, completed. This was reflected in Mr McNamara's notes taken at the time. Significantly, Mr McNamara's following note refers to design of certain components having been completed and certain plans for testing and other matters but says nothing about a date or period. If a completion date had been promised, it would have been logical for Mr McNamara's note against the question of when the SQL conversion would be "ready" to have referred to what was said by way of promise. This, coupled with Mr McNamara's evidence that no commitment was given as to timing, bears out Mr Steyn's version of relevant events rather than Mr Zimmer's.  My finding is that the first defendant did not, by words spoken by its officers or agents at the meeting of 17 April 2000, make a contractual promise as to the time by which the SQL conversion would be completed.  Returning to the aspects of the statement of claim alleging contractual promises as to completion of the SQL conversion and having regard to my findings regarding the conversation in late October 1999, the 2 November 1999 letter, the 6 February 2000 proposal document and the 17 April 2000 meeting, I conclude that the plaintiff has failed to discharge its onus of showing that the contract between the plaintiff and the first defendant for the performance of services included either of the terms pleaded as to the time for completion of those services, being the terms referred to in sub-paragraphs (b) and (c) of paragraph 4 of these reasons.  I turn next to the plaintiff's case against the first defendant based on the [Trade Practices
+Act](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) and the [Fair Trading
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/fta1987117/). The substance of that case centres mainly upon the alleged representations of the first defendant already noticed, being those in the conversation of late
+October 1999, the letter of 2 November 1999, the proposal document of 6
+February 2000 and the meeting of 17 April 2000. There is also reliance upon a number of subsequent alleged representations consisting of requests by Mr
+Zimmer for indications as to when the SQL conversion would be completed and replies by Mr Steyn.  As to certain components, the findings already made dispose of the [Trade
+Practices Act](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) and [Fair Trading
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/fta1987117/) claims, both against the first defendant directly and by way of accessorial responsibility on the part of the individual defendants. According to those findings, the representations referred to in paragraphs 11(a) to 11(d) of the statement of claim were not made as alleged. I proceed therefore to consider the other alleged representations, being those in paragraphs 11(e) to 11(l).  Paragraph 11(e) of the statement of claim pleads a representation in the week commencing 27 November 2000 that the SQL conversion would take place on or about 2 December 2000. The representation is said to have been made by Mr
+Steyn in a conversation with Mr Zimmer. According to Mr Zimmer's affidavit, he:  "... had a conversation with Richard Steyn to the following effect:  
+He: 'We will be doing the conversion this Saturday.'"  Mr Steyn denies having had this conversation with Mr Zimmer. He said in his affidavit that, at the time in question, he had recently become aware that the plaintiff had leased a new warehouse, as a result of which it had become necessary to undertake a "complicated process" of changing the Paradox system to include the new premises. He also deposed to having told Mr Zimmer in
+November 2000 that this would place restrictions on his ability to spend time on the SQL conversion, added to which it would be inappropriate to effect the conversion while the move to the new warehouse was occurring. Furthermore, the email of 29 November 2000 quoted at paragraph 24 above, sent by Mr Steyn only two days after the conversation related by Mr Zimmer as having been the source of the representation said to have been made by Mr Steyn on 27 November 2001, is inconsistent with any such representation having been made. These factors, coupled with my earlier observations as to why the evidence of Mr Steyn is to be preferred in relation to other matters where there is a conflict between Mr
+Zimmer's account and Mr Steyn's, cause me to prefer Mr Steyn's evidence here also, with the result that I find that the representation alleged in paragraph (e) of the statement of claim was not made.  Paragraph 11(f) of the statement of claim relies on representations in the email of 29 November 2001 quoted at paragraph 23 above to which reference has just been made. This email conveyed, in my judgment, no more than an expression of hope or aim, without any connotation of firm expectation or assurance - an expression, moreover, that was highly conditional, introduced, as it was, by the words "I think that if ...". It is not of the character sought to be attributed to it by paragraph 11(f) of the statement of claim.  Paragraph 11(g) of the statement of claim alleges a representation by email of 10 January 2001 from Mr Steyn that the SQL conversion would commence the following week. The email is quoted at paragraph 26 above. The words used simply do not support the claim. The references to starting "the planning of the MSSQL switch over" and to "full focus on getting this done during the two weeks from next Monday" do not amount to the representation pleaded.  Paragraph 11(h) pleads a representation that the SQL conversion would be completed in the very near future, once the quarterlies were finished and the monthlies were compared. This is said to have been conveyed by the email of 9
+April 2001 quoted at paragraph 40 above. The representation pleaded does not emerge from that email. In particular, there was nothing suggesting "the very near future".  Paragraph 11(i) pleads a representation that the SQL conversion would probably be completed by about 30 April 2001. This is said to come from the email of 20 April 2001 quoted at paragraph 44 above. Again, the representation pleaded is not conveyed by the email which merely speaks about the "chances that it will be ready" by a particular day "are high".  Paragraph 11(j) pleads a representation that the SQL conversion would take place at the end of the week in which 28 May 2001 occurred. It is said to have been conveyed by an email of that date. The email is quoted at paragraph 50 above. It did not convey the representation pleaded. Mr Steyn referred to an expectation of conversion at the end of the week, having earlier said, "... I cannot commit to a date".  Paragraph 11(k) of the statement of claim pleads a representation on 24
+July 2001 that the first defendant was ready to transfer across to the SQL system. The representation is said to be conveyed by an email of that date, being the email referred to at paragraph 53 above. That email did contain the representation pleaded, the explicit statement being:  "We're ready to do the transfer across to the SQL system."  
+It is clear, however, that Mr Zimmer did not accept or rely upon any assurance conveyed by those words and, in effect, did not believe what Mr Steyn said.
+This is borne out by Mr Zimmer's reply sent two days later (on 26 July 2001 - see paragraph 54 above) where, after referring to the history of discussions and to "schedules [that] became invalid", he said in clear terms:  
+As it stands I have no idea how far you have progressed and if SQL will be in a working mode any time soon."  
+Had Mr Zimmer (and, through him, the plaintiff) placed any reliance at all on the statement of readiness in the email of 24 July 2001, he would not have made this statement. In the absence of reliance, the [Trade Practices
+Act](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) and [Fair
+Trading Act](http://www.austlii.edu.au/au/legis/nsw/consolact/fta1987117/) provisions cannot be the source of liability in damages.  Paragraph 11(l) pleads a representation on 17 August 2001 that the SQL conversion would take place in the near future. It is said to have been conveyed by an email of that date, being the email quoted at paragraph 56 above. The representation pleaded does not emerge from the email which expressly said that a date could not be guaranteed.  In summary, therefore, the plaintiff's case of misleading or deceptive conduct by the first defendant, based on alleged representations pleaded in paragraph 11 of the statement of claim, has not been made out by the plaintiff. This conclusion also disposes of the plaintiff's claims against the second and third defendants (Mr Steyn and Mr McNamara) based on the paragraph representations. There remain, however, some elements of the claim against the third defendant, being those referred to in paragraphs 28(b), 28(c) and (d) of the statement of claim. It is to those that I now turn.  Paragraph 28(b) pleads a representation by Mr McNamara to Mr Zimmer in a telephone conversation on 10 July 2000 that he would fix or resolve the plaintiff's complaint of delay in relation to the SQL conversion. Mr Zimmer said in his affidavit that he telephoned Mr McNamara on or about 10 July 2000 and said:  "I am considering going to Court over the constant delays. I will loose [scil.
+lose] my business, if I have to wait any longer for a functioning program from you",  to which Mr McNamara allegedly replied:  "I will fix it, leave it with me".  Mr McNamara denies in his affidavit that this conversation took place. He says that he was in Sweden at the time and does not remember Mr Zimmer phoning him there; also that he does not recall having any similar conversation with
+Mr Zimmer at any time. Mr Zimmer's evidence in cross-examination about this was as follows:  "Q. Paragraph 47 on page 16, and you confirmed a telephone call you made to
+Peter McNamara. Do you recall what number you rang him on? 
+A. No.  
+Q. Was it likely you called him in the office? 
+A. I don't recall.  
+Q. How do you recall --? 
+A. The only time I ever spoke to Peter McNamara was at the office.  
+Q. You know that Mr McNamara says that on 10 July 2000 he was in Sweden? 
+A. I read it in his affidavit.  
+Q. Assume for the purpose of argument that on that date Mr McNamara was in
+Sweden. This conversation couldn't have happened on that day? 
+A. But that is not what I am saying in my affidavit either.  
+Q. Well, how did you come up with the date 10 July 2000? 
+A. I based that on or about the date the conversation took place.  
+Q. Yes, but how did you come up with the date 10 July 2000? 
+A. I don't know, I can't remember.  
+Q. But you could remember as at 6 August last year? 
+A. What?  
+Q. The date 10 July 2000, thereabouts? 
+A. On or about.  
+Q. What I am asking you is some time around the time you swore this affidavit you must have had it in your mind that conversation happened on about 10 July? 
+A. That's correct.  
+Q. I am asking you how do you know that? 
+A. Because that was my recollection.  
+Q. And you cannot now recall what the basis of that recollection was? 
+A. No.  
+Q. I suggest to you that that conversation did not take place? 
+A. On or about that conversation took place and the reason I remember it is because he said: 'I will fix it, leave it with me', and again I was impressed with the candid attitude it conveyed.  
+Q. Again you were threatening Liquid Vision with Court proceedings? 
+A. When did I do that?  
+Q. 'I am now considering going to Court over the constant delays.' Do you say that is not a threat of litigation? 
+A. If that is construed as a threat then yes, it was.  
+Q. Again that would have been a matter of some importance to you? 
+A. What would be of great importance to me?  
+Q. The fact you were considering going to Court? 
+A. What paragraph are you referring to here?  
+Q. I am referring to paragraph 47? 
+A. It was a matter of great importance to me, yes.  
+Q. It is the case, isn't it, that this conversation is referred to in no document anywhere? 
+A. I don't know.  
+Q. Certainly you never referred to it in any document, did you? 
+A. Not as far as I can remember.  
+Q. Why not? 
+A. I saw no reason to document it.  
+Q. Do you say that your affidavit contains all the conversations you had with
+Mr Steyn and Mr McNamara relevant to these proceedings? 
+A. No.  
+Q. So you have left out of your affidavit conversations that you consider are relevant? 
+A. I might have left out conversations that might be relevant, I can't remember.  
+Q. If I could put it another way, does this evidence contain your recollection of the conversations you had with Mr McNamara and Mr Steyn in relation to the
+SQL conversion? 
+A. This affidavit covers the main points of my recollection relevant to SQL.  
+Q. When you say 'main points' does that mean you have made a decision not to include such conversations? 
+A. No, but there might be conversations which I might not recollect.  
+Q. Up to this point in your affidavit, which gets us through to July of 2000, you have recorded numerous conversations between yourself, Mr Steyn and yourself and Mr McNamara in relation to the subject matter of these proceedings. From July 2000 to October 2001 you only refer to these further conversations. Do you say that those are the only conversations relevant to these proceedings.  
+HIS HONOUR: In the later period.  
+PESMAN: Q. After July 2000? 
+A. Conversations not recorded here are most probably repeat of those other conversations.  
+Q. In effect other than what is said in 49 about a number of conversations, the next conversation you refer to is on 24 January 2001. I will ask you to make that assumption if you could for the time being. Do you say there was no relevant conversation between June 2000 and January 2001? 
+A. There would have been relevant conversations with the same content.  
+Q. But you now cannot specifically recall those conversations? 
+A. No, because I would have repeated various other conversations, so there is no mark which allows me to remember them specifically.  
+Q. Is it fair to say the position is you have specific memory of what was said in the period November 1999 to July 2000 but no specific memory of what was said after that? 
+A. I have specific memory up till July 2000 for specific events. The time you mention there is no specific marker in terms of a deadline in March or a deadline in June. It is a constant 'when would you be finishing'.  
+Q. So you say there was no specific deadline in the period from July 2000 to
+January 2001? 
+A. No, I am not saying that."  When Mr McNamara gave oral evidence, he had his passport with him. It was accepted by the plaintiff that the passport showed that Mr McNamara entered
+Sweden on 4 July 2000. He gave evidence that he remained there for about four weeks. Mr McNamara also gave evidence in cross-examination that, apart from the conversation on 13 April 2000 in which Mr Zimmer requested the meeting that took place on 17 April 2000, he only ever had telephone conversations with Mr Zimmer when Mr Zimmer phoned the first defendant's office and Mr
+McNamara happened to answer, there being no receptionist or telephonist; and that on those occasions conversations were brief and a preliminary to his putting Mr Zimmer through to Mr Steyn or taking a message for Mr Steyn. He confirmed in cross-examination having no recollection of the conversation said to have occurred on or about 10 July 2000.  With the evidence in this state, I am not satisfied that the conversation deposed to by Mr Zimmer as having occurred on or about 10 July 2000 took place. It is not disputed that Mr McNamara arrived in Sweden six days before that date and remained there for about four weeks. Mr Zimmer remained firm in cross-examination that the conversation occurred on or about 10 July 2000 (which I take to include perhaps two or three days either side) and said that he had a specific memory for specific events up to July 2000. He also said in cross-examination that he only ever spoke to Mr McNamara in the office. He would, in my view, have remembered had it been necessary for him to discover
+Mr McNamara's contact number in Sweden and to make a call to that country, as it would have been wholly outside the routine of communication. Failure to remember such an unusual aspect is not consistent with the claim to have specific memory of events until July 2000. I therefore prefer Mr McNamara's evidence to Mr Zimmer's on this aspect.  Paragraph 28(c) of the statement of claim is based on silence of Mr
+McNamara in that on or about 6 September 2000 he failed to advise the plaintiff of a realistic timetable within which the SQL conversion would be completed. The basis for this claim was not elucidated in the pleading or in submissions. It can only relate to a matter mentioned at paragraph 64 of Mr
+Zimmer's affidavit, that being the only thing placed at the time relevant to the claim as pleaded. Paragraph 64 says that Mr McNamara sent an email to Mr
+Steyn on 5 September 2000 to which Mr Steyn sent a reply on 6 September 2000, both being exhibited to the affidavit.  Mr McNamara's email to Mr Steyn forwarded an email he had received from "Martin" (someone connected with the plaintiff) on 5 September 2000 saying that Mr McNamara had had two phone calls, one of them from Mr Zimmer. When forwarding this to Mr Steyn Mr McNamara added:  "I have to ring Manfred. What do I say? Are we charging enough for him to be so demanding?"  
+Mr Steyn replied to Mr McNamara on 6 September 2000:  "I've talked to Manfred and will give you an update in the office today."  While there may still be some room for development of the principles as to the circumstances in which silence may constitute conduct proscribed by the [Trade Practices
+Act](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) and the [Fair Trading
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/fta1987117/), those principles are settled to the extent of requiring the existence of some overall context giving rise to a cogently based expectation that the person concerned should speak rather than allow the other party to continue under some impression the holding of which is known to the person concerned. The matter is referred to in the recent decision of the Court of Appeal in
+Metalcorp Recyclers Pty Ltd versus Metal Manufactures Ltd <case>
+Here, all that happened was that Mr Zimmer spoke to "Martin" apparently asking that Mr McNamara be given a message to phone him; that Mr McNamara, on receiving the message, communicated with Mr Steyn; that Mr Steyn - who, after all, was the person with the client relationship who was working on the particular assignment - later told Mr McNamara that he had spoken to Mr Zimmer (implying thereby that there was then no need for Mr McNamara to do so) and that Mr McNamara apparently did not return Mr Zimmer's call.  By no stretch of the imagination can any actuating expectation of the kind to which I have referred be eked out of these facts. There is no suggestion that Mr Zimmer tried again to speak to Mr McNamara saying, in effect, "I tried to call you earlier but had a call back from Richard when it was really you I wanted to speak with". The sequence of events was entirely unexceptionable and cannot possibly be seen as entailing anything within the statutory proscriptions.  A claim corresponding with that in paragraph 28(c) of the statement of claim is made in paragraph 28(d) but by reference to the date 24 January 2001 rather than 6 September 2000. Again, neither the pleadings nor the submissions elucidate the basis for the claim but, given that the only event referred to in Mr Zimmer's affidavit as having involved Mr McNamara on the date in question is the copying to Mr Zimmer of an email sent by Mr McNamara to Mr
+Steyn, it must be assumed that paragraph 28(d) intends to raise some failure of Mr McNamara to say something to Mr Zimmer relevant to the subject matter of that email when a cogent expectation that Mr McNamara should say something had arisen.  The email from Mr McNamara to Mr Steyn upon which the plaintiff's claim of actionable silence against Mr McNamara is apparently based read as follows:  "Now that we are back from Melb office, lets review this account. Has all time spent on this matter being charged for? I am reluctant to commit further LV resources otherwise".  "When you joined LV and when you brought this account with you, was it so open? Is it similar to the mistake I made with Challenger where I promised a fixed price, but I did not know just how involved building the Life time models was going to be. Nevertheless I explained this to the client and the then tripled the budget. 
+In fact you helped me out when I did the same thing again with Epson documents."  After receiving this, Mr Zimmer spoke to Mr Steyn, saying that he found "incredible" Mr McNamara's question to Mr Steyn whether the plaintiff was paying enough. According to Mr Zimmer, the conversation continued:  "He: 'Peter just wanted to tell me not to spend to much time on it. I apologise for this remark.'  
+I: 'What do you mean, spending too much time on it?'  
+He: 'Peter doesn't really know the situation and thinks I should delegate more.'  
+I: 'I am very annoyed. Should I speak to him about it?'  
+He: 'No.' "  The most one can glean from this part of the statement of claim is an allegation that Mr McNamara, being of the frame of mind appearing in his email to Mr Steyn, should have said something to Mr Zimmer or the plaintiff and that for him to have failed to do so was conduct that was misleading or deceptive.
+In the absence of any explanation of such a basis of claim, I simply say that
+I do not see how the circumstances as a whole would be said to have been productive of any expectation that Mr McNamara personally should say anything.
+As in the previous case, the matter raised was covered as between the plaintiff and the first defendant through discussion between Mr Zimmer and Mr
+Steyn.  The plaintiff has not discharged its onus of proof in relation to the claims of statutory contravention by Mr McNamara advanced in paragraphs 28(b), (c) and 28(d) of the statement of claim.  I turn finally to the first defendant's cross-claim against the plaintiff.
+The cross-claim is advanced primarily on the basis that, by 19 September 2001, the first defendant had confirmed to the plaintiff that the new SQL system was ready to operate and that the plaintiff was therefore obliged to pay the first defendant $7,500. The obligation is said to come out of the emails of 24, 26 and 27 July 2001 that have been quoted. Assuming that a contractual provision derived from those emails was in place, it was a provision requiring payment of $7,500 "on the day you convert". That day, of course, never arrived. The contractual provision therefore does not found the claim pleaded in the cross- claim.  The second basis on which the cross-claim is advanced is that there was an implied term of the parties' contract that the plaintiff would not take any steps having the effect of hindering or preventing the first defendant in providing the goods and services the subject of the contract and that the plaintiff has since 24 September 2001 prevented the first defendant from doing so and thereby breached the implied term.  I am satisfied that there should be regarded as implied into the contract by law the provision pleaded: see Shepherd versus Felt & Textile of Australia
+Ltd <case>; [(1931) 45 CLR 359]; Peters
+Ltd versus Petersville Ltd <case>; [(2001) 205 CLR 126.] I am also satisfied that the plaintiff brought about the exclusion of the first defendant by demanding, through a letter from Mr Zimmer dated 24 September 2001, return of the keys to the premises, a request with which the first defendant complied on 25 September 2001. I am further satisfied that in so excluding the first defendant, the plaintiff was in breach of the implied term to which I have referred and thereby deprived the first defendant of the opportunity to earn remuneration by performing the work that would have been performed had the exclusion not occurred. The first defendant is entitled to damages for breach of contract, being the value of that lost opportunity.  Now that this point has been reached, it will be appropriate for the parties to file written submissions as to the assessment and quantum of damages, having regard to the evidence already adduced. I shall set a timetable for the filing of such submissions.  The overall outcome in these proceedings is that the claims in the amended statement of claim are dismissed and that judgment will be entered for the first defendant against the plaintiff upon the cross-claim in an amount to be determined by me after the filing of the further submissions.  The plaintiff will pay the defendants' costs of the proceedings.  
+LAST UPDATED: 15/12/2003 * * * 

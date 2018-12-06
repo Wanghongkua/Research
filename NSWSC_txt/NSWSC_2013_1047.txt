@@ -1,0 +1,580 @@
+
+
+Wentworth Shire Council versus Bemax Resources Limited and Ors [2013] NSWSC (2 August 2013) 
+Last Updated: 6 August 2013 
+Supreme Court 
+New South Wales  
+Case Title: 
+Wentworth Shire Council versus Bemax Resources Limited and Ors  
+Medium Neutral Citation: <case>  
+Hearing Date(s): - 10 July 2013  
+Decision Date: August 2013  
+Jurisdiction: 
+Equity Division  
+Before: 
+Rein J  
+Decision: 
+Wentworth Shire Council versus Bemax Resources - proceedings 2011/259950: 
+Judgment for the Plaintiff in the amount of $495,550.36 inclusive of interest up to and including 2 August 2013. 
+Cross Claim dismissed. 
+Costs reserved.  
+Peregrine Mineral Sands Pty Ltd & Ors versus Wentworth Shire Council - proceedings 2012/299456: 
+Statement of Claim dismissed. 
+Judgment for the Cross Claimant against the Cross Defendants in the amount of $1,916,005.75 inclusive of interest up to and including 2 August 2013. 
+Costs reserved.  
+Peregrine Mineral Sands Pty Ltd versus Wentworth Shire Council - proceedings /349485 (Class 3 proceedings): 
+Application dismissed. 
+Costs Reserved.  
+Catchwords: 
+CONTRACTS - construction of the contract - whether a clause limited council rates to $100K (plus "pegged" increases) for twenty years - issue of material to which the Court can have regard in the case of ambiguity and the relevance of the outcome of a particular construction (illegality or void contract) - alternative claims in estoppel and rectification raised but not determined.  
+ADMINISTRATIVE LAW - whether the council's agreement to fix rates for twenty years in the manner contained in clause 3.1 of the contract was beyond power and or a fetter on its power and hence ultra vires.  
+MISLEADING AND DECEPTIVE CONDUCT - whether a local council is acting "in trade or commerce" pursuant to [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/fta1987117/s42.html) of the [Fair Trading Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/fta1987117/) and <case> of the Trade Practices Act by entering into a contract relating to the creation of a road and whether the local council is a trading corporation pursuant to <case> of the Trade Practices Act - findings also made on the question of whether the impugned conduct caused loss and whether there was evidence that the council did not have a reasonable ground for making the representation.  
+JUDGMENT
+REIN J: These proceedings concern rate notices issued by the Wentworth Shire Council ("the Council") to the holders of the two mining leases located within Wentworth Shire. The first mining lease known as the Gingko mine is held by three joint venturers - Peregrine Mineral Sands Pty Ltd, Imperial Mining (Australia) Pty Ltd and Probo Mining Pty Ltd ("the joint venturers") - and the second lease known as the Snapper mine is held by Bemax Resources Limited ("Bemax"). Peregrine, Probo and Imperial are all wholly owned subsidiaries of Bemax. Pooncarie Operations Pty Ltd ("Pooncarie") is another wholly owned subsidiary of Bemax and it acted as agent for the joint venturers in relation to the Gingko mine. Mr D. Robertson SC appears with Ms Blackadder for the Council. Mr A. Galasso SC appears with Mr Carruthers for the Bemax parties and the joint venturers.
+It is agreed that the joint venturers are the owners of the Gingko mine and that Bemax is the owner of the Snapper mine for the purposes of the [Local Government Act 1993](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/) ("the LGA"). Bemax and the joint venturers accept that they have not paid in full all of the rate notices issued by the Council. The joint venturers and Bemax claim that the Council was not entitled to issue the rate notices in the amounts issued over a number of years because of an agreement entered into between Pooncarie on behalf of the joint venturers and the Council in 2005. That agreement, contained in a document entitled Road Acquisition and Construction Agreement ("the Road Agreement"), and dated 28 April 2005. Of particular relevance is clause 3.1 which is in the following terms: .1 In addition to the Company's Undertakings, the Company will: 
+Pay to Council in respect to the Gingko Mine, land rates of $100, 000.00 per annum commencing 1st January, 2006 and adjusted annually in accordance with the [Local Government
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/).
+The joint venturers maintain that, by clause 3.1, the Council agreed to levy rates of $100K per annum with the right to increase the rate by the amount specified by the Minister for Local Government each year - an increase of the order of 2% to 3.5%. There is evidence, to which I shall return, that these increases are referred to as "pegged increases", and the process referred to as "rate pegging".
+The notice issued by the Council in April 2006 (which describes itself as an invoice for "an ex gratia rate charge") was for $100K (see Exhibit A2, p 645) but in September 2006 the Council issued what it described as a "Supplemental Rate Notice" for $360, 190.00 (see Exhibit A2, p 647). Since that date Council has issued a number of rate notices for amounts in the order of $360K rather than for $100K adjusted by rate pegging. 
+The joint venturers contend: 
+That on its true construction the Road Agreement limited rates to $100K plus the pegged increases having regard to: 
+The wording of clause 3.1, 
+The conservation between Mr Boyd, General Manager of the Council and Mr
+Finnis, who was at the time the Project Administration Manager for Bemax, on March 2005 (see Mr Finnis' affidavit, [22]-[24]), 
+Various correspondence between the Council and its solicitors on the one hand and Bemax and its solicitors on the other.
+
+Alternatively that, by virtue of its conduct, the Council is estopped by its conduct from contending otherwise.
+
+Alternatively that the agreement should be rectified.
+
+Alternatively that the Council has engaged in misleading and deceptive conduct in breach of [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s42.html) of the Fair Trading Act 1987 ("FTA") and <case> of the [Trade
+Practices Act ](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) (Cth) ("TPA"). Both of these Acts have been replaced subsequently by the
+Competition and Consumer Act 2010 (Cth) but the TPA and the FTA were both in effect in 2005 and the joint venturers and Bemax seek relief under those earlier Acts: see Trade Practices Amendment (Australian Consumer
+Law) Act (No. 2) 2010 (Cth), clause 6 of schedule 7 dealing with transition provision. The relief sought is that the Council be required to make good the representation that rates would be kept at $100K adjusted only by pegged increases, or to pay damages equivalent to the excess of rates levied to what had been promised.
+Bemax relies on the material relevant to the joint venturers claims and makes its own separate claims based on <case> of the FTA and <case> of the TPA, to resist any obligation on it to pay rates levied by the Council in respect of the Snapper mine.
+The Council: 
+Disputes that the Road Agreement should be construed in the manner for which the joint venturers contend.
+
+Denies that there is any basis for estoppel.
+
+Denies that there was a common intention to support the claim for rectification.
+
+Asserts that Mr Boyd informed Mr Shirfan of Bemax that the rates would be varied once the Valuer-General's valuation had been received by the
+Council.
+
+Denies that it has engaged in misleading and deceptive conduct.
+
+Disputes that the TPA applies to councils, and disputes that the TPA and
+FTA apply to the discussions leading to the Road Agreement.
+
+Disputes that any reliance or loss has been established by the joint venturers and Bemax on the alleged misleading and deceptive conduct.
+
+The Background to the Dispute
+The Gingko mine is one from which mineral sands are extracted. The area was once an inland sea and is one in which sands containing titanium oxide, rutile, zircon and other valuable concentrates are found beneath water. Some of the ore bodies mined are magnetic and some not. It was envisaged that separation would occur at the mine site and the more valuable non-magnetic mineral concentrates would be shipped to a processing plant either at Mildura or Broken Hill. Broken Hill was eventually chosen and a plant established there. The concentrates had to be transported from the mine to Broken Hill firstly by road from the mine site to the Silver City Highway and from there to Broken Hill. Once processed, the final forms of the products were destined for export. Although there were two council roads in the area (Roo Roo Road and Nob Road) neither were of sufficient size or quality to carry the burden of very large haulage trucks and it was contemplated that a new road would be created using rural land owned privately and acquired for the purpose, and utilising part of Roo Roo Road with an upgrade to be effected to it as well. The magnetic and less valuable material was also to be transported by road but to Western Australia for processing there: T105.5.
+The Snapper mine is located close to the Gingko mine. It is also a mineral sands mine. It was Bemax's intention to establish that mine at a later time and to use the road haulage route established for the Gingko mine so that materials extracted from the Snapper mine could be transported to the Broken Hill plant and to Western Australia. The Road Agreement contains a definition of the Snapper mine and refers to it in clause 2.1 but Bemax itself is not a party to the Road Agreement.
+The Gingko mining lease was granted to the joint venturers in early 2002. A development consent was granted by the Minister for Planning in early 2002. The development consent imposed, inter alia, a requirement that a haulage road for heavy vehicles be constructed in accordance with specified requirements and included an obligation to "enter into an appropriate agreement with Council regarding the construction and maintenance of the road": see p 360 and pp 332-366 of Exhibit A1 and particularly clauses 7.1, 7.2, 7.3 and 7.4, 11.1(a).
+In early 2002 Mr Finnis, who was at the time the Project Administration Manager for Bemax, sought an indication from Mr Peter Turner, a Council officer, as to what Council rates would be for the Gingko mine. Mr Turner, after seeking instructions from the Council, subsequently informed Mr Finnis that the rates would be $100K. That figure was as discussed by the Council and is recorded in its minutes of 20 February 2002. After noting that Bemax had sought an indication of the rate that the Council would charge for the Gingko mine the minutes continued: 
+Other Councils apparently work backwards. They figure how much they want from mining companies and the set rate to being in that amount. Some Councils obtain capital contributions as well.
+
+A suggested process is:- 
+Establish the amount of money to be paid by Bemax 
+Apply desired rate 
+In 2002 change Council's Management Plan to reflect the mining rate.
+
+Our largest ratepayers are the wine companies at $45,000, pastoralists up to $10,000 and Bob Faulkhead who pays a total of $32,000 on his various properties.
+
+There are two ways we can go:-
+To rate low at first to encourage the Company, and to build up the rate over the life of the mine, or
+Charge a rate which will remain the same over the life of the mine.
+
+In both cases the Council's mining rate will vary from year to year.
+
+As suggestion we could start at a rate of $40-$50,000 p.a.
+
+Moved Crs. Thomson and Wilkinson that the Council advise Bemax that it would provide a rate for the Gingko mine at an indicative amount of $100,000 per annum.
+ (see Exhibit A1, p 114)
+In late 2004 and early 2005, at a time when works had commenced at the Gingko mine (buildings, plant and accommodation for workers) and work commenced on the Broken Hill processing plant, Bemax was endeavouring to progress the road construction program. It had contracted with a road construction company which had commenced work on areas that it was free to work upon and the joint venturers sought to have the Council progress the road acquisition scheme so that the roads would be completed and capable of use by trucks once the mine was ready to produce. Agreements on the amounts to be paid to landholders had apparently been determined and agreed in 2003.
+On the 15 December 2004, the Council at a meeting received a report from the General Manager (then Mr Boyd) that to proceed with compulsory acquisition of land for the purposes of the Bemax road (the haulage road) and to enter into Road Agreement it was required to pass resolutions. The resolution relating to the Road Agreement noted that in consideration for the Council acquiring land and paying the land acquisition value to the various landholders Bemax would: 
+Pay the land acquisition values.
+
+Construct the road to the requisite standard (including a bridge).
+
+Lodge bank guarantees.
+
+Construct a second lane on the bridge by 30 June 2009 or on the opening of the Snapper Mine.
+
+Pay land rates in respect of the Gingko Mine of $100K per annum commencing 1 January 2006 and adjusted annually in accordance with the LGA.
+The resolutions passed had been prepared or vetted by the Council's solicitors. On 23 March 2005 Mr Peter Turner who was at the time the Director of Infrastructure and Assets (see p 175 of Exhibit A1, the affidavit of Mr Finnis dated 20 November 2012), sent to the Council's solicitor, Ms Keady of Buckworth Keady Lawyers (who were entrusted with the task of drafting the Road Agreement), with a copy to Mr Boyd the general manager, an email in which he stated: on other matters.
+ rates.
+ council has a motion dated 20/2/2012 that the rate be $10000.00 p.a. but no starting date. agreed that Bemax start to pay rates as from 1/1/2006, which is about the time they will start mining. The amount of rates is expected to remain about the same plus increase due to rate pegging etc.
+ simon claims that a deal was done with david that the rates included an amount to offset local road maintenance due to mine activities.
+ ????????????? (Exhibit A2, p 493)
+A copy of that email was also sent to Bemax's solicitors and on 6 April 2005 Mr Will Dwyer, a solicitor at Deacons, wrote in an email (see p 496, Exhibit A2) responding to a letter from Ms Keady of 31 March 2005 (which letter is not in evidence) noting that Bemax had agreed, inter alia, to "pay the yearly rates of $100K".
+On 20 April 2005, the directors of the Council passed a resolution that the Council enter into the Road Agreement (see p 498, Exhibit A2) and on 28 April 2005 it did so. The term that became clause 3.1 was included in the Council resolution of 20 April 2005.
+Mr Boyd (and I infer other Council officers) understood that the joint venturers, Pooncarie and Bemax were all related companies: see Mr Boyd's evidence T152.22-34.
+The Snapper mine was developed in accordance with Bemax's plan and commenced production in 2009.
+By March 2005, the Broken Hill processing plant was in the course of construction and the road contractor was ready to commence work on the new road leading to the Gingko mine. Bemax was concerned about the Council's delay in acquisition and it encouraged the Council to proceed to finalise the Road Agreement. The Road Agreement was executed on 28 April 2005, the private land required for the haulage road was acquired and the haulage road was constructed. Production at the Gingko mine commenced in 2006. 
+In evidence is a Bemax budget for 2005 onwards for the Gingko mine which shows an anticipated revenue commencing in May 2006 of $4M per month increasing thereafter to $10M a month with a total revenue anticipated for the Gingko mine for 2006 of $80M and a net income after tax of $21M (see SF 11 now Exhibit G). The Gingko mine, it was anticipated, would have operating costs of $2.7M per month of which some substantial costs were fixed: T126-127. The expected turnover and profit was even greater for 2007 i.e. $35M profit: see T222.47, Exhibits Q and R. In 2005 Bemax personnel were optimistic that the project would be very lucrative (see T224.44-225.8, Exhibit S)
+On 20 September 2006 a report from a Ms Terri Maguire, the Council's Director of Corporate Services, was received at a Council meeting: p 1553 Exhibit A4. It was in the following terms: 
+DIRECTOR CORPORATE SERVICES - REPORT 
+Purpose: 
+To seek Council approval to vary the Ad Valorum [sic] Rate for Bemax
+Resources Pty Ltd due to the significant difference in the provisional valuation provided to Council and the actual valuation received from the
+Valuer-General's Department based on the mineral content of the land.
+
+Discussion: 
+Council received a provisional valuation of the land operating as a Mineral
+Sands Mine (Rate Assessment 2324.3) prior to the Management Plan 2006 adoption with an approximate value of $338,000.
+
+Efforts were made to ascertain the actual value of this land for approximately six months prior to the adoption of the Management Plan 2006.
+
+We have recently received a Supplementary Valuation List that values this property as $6,000,000. The explanation from the Valuer-General's Department for the huge variance was that the original estimate was based on the Land
+Value only and had not taken into account the Mineral Content of the Land. As a result the valuation was considerably higher than originally assessed.
+
+The Department of Local Government has been contacted regarding the significant increase in the land value that would also impact on the rates charged to Bemax Resources Pty ltd. The current advertised rate would result in $6,000,000 rates per annum. A reduction in the Ad Valorum [sic] rate will not require the change to be re-advertised.
+
+In determining the rate, several other Councils were contacted regarding the rate charged to Mining within their Council areas. The rate in dollar varied considerably, with Western Australian Councils charging between $0.06 per $1.00 to $00.12632 cents per dollar.
+
+Broken Hill has a current valuation for Mines of $15,700,000 generating Rate
+Revenue of $3,380,053.
+
+Parkes valuation is currently $11,500,000 with Rates Revenue of totalling $542,972.50.
+
+Based on the Rates Revenue of other mines in New South Wales, a reasonable ad valorum [sic] rate for Wentworth Shire Council would be $0.06 cents per $1.00.
+
+This will result in Rate Revenue of $360,000 per annum.
+According to the report therefore the Council had received in 2005 or 2006 a preliminary valuation assessing the land value of the Gingko mine at $338K and later in 2006 received a valuation assessing the mine at $6M and had in September 2006 resolved to levy rates of $360K on the Gingko mine. Following the Council resolution the "Supplemental Rate Notice" was issued to the joint venturers, in the amount of $360, 190 (the additional $190 being the Council's base rate).
+So far as categorisation of the Gingko mine is concerned it was initially treated as in the mining category and a subcategory "Mining - Mineral sands" was created. Later the mine was recategorised as "Business - Pooncarie". 
+The Snapper mine was, once it commenced, treated as in the same category as the Gingko mine. The Snapper mine was also valued at $6M by the NSW Valuer-General.
+
+The Credibility of Witnesses
+The Council called Mr Rule and Mr Boyd. The Bemax parties called Mr Finnis and Mr Shirfan.
+Mr Rule is the Finance Manager and his credit was not impugned. His evidence largely relates to the calculation of the rates due on the Council's case. The figure due and payable has now been agreed for the Gingko mine at $1, 759, 490.98 plus $142, 197.83 for interest to 30 June 2013. For the Snapper mine the amount is $345, 898.40 plus $146, 837.39 interest until 30 June 2013 (see T360.14 - 361.8). The amount for Gingko and Snapper takes into account the amounts actually paid by the joint venturers and Bemax and also involves a pro rata adjustment of the rates in the first rate notice to account for the overlap between the first rate notice and the Supplemental Rate Notice.
+One matter on which Mr Rule was cross examined was how the Council went about determining rates and his understanding of the concept of "rate pegging" which he agreed was "the percentage amount that is advised to the Council by the Minister for Local Government each year as to the percentage that the Council can increase its general revenue for rates" of the order of 2.5% to 3.5% (see T85.40-T86.45). The legislative provision for that is <case> of the LGA.
+Mr Rule was also cross examined at T86.50-T89.50 about how the amount of rates was determined for later years. He was not involved in the determination of rates in earlier years. 
+Mr Finnis was the first witness called for the Bemax parties and was, I thought, entirely frank and honest. He agreed that he could not remember much detail and that he had reconstructed events utilising his notes made at the time. He made a number of concessions and I found him to be a very credible witness.
+Mr Boyd who, until 2006, was the general manager of the Council and who then ceased working for the Council said that none of his notes of the meetings had been found by the Council. He agreed that his recollection on one topic was not assisted by the fact that it occurred 8 years ago and he had no notes of any kind to refresh his memory. It is not surprising that the details of what was said were hard to recall given the passage of time. Mr Boyd claimed that his understanding was that the rates of $100K were agreed only for the period until the Council received the Valuer-General's valuation. He said that he was aware of the phrase "rate pegging" and knew what it meant but never used it. Nevertheless, on receiving an email from Mr Turner (Mr Boyd's subordinate) to the Bemax parties in which Mr Turner states what terms had been agreed, Mr Boyd did not draw attention to his own claimed understanding that the terms, as stated in the email, were erroneous nor did he refer to the anticipated effect of a valuation yet to be received, which tells, in my view, rather heavily against the accuracy of his recollection. Additionally, Mr Boyd said that he did not recall speaking to the mayor about the rates proposed even though he would normally be the person to obtain the views of the mayor on such matters: see T153.16-T154.24.
+Mr Shirfan was described by Mr Carruthers, who made submissions in Mr Galasso's absence, as a "voluble" and at times "amusing" witness: see T370. Mr Shirfan was combative and frequently failed to answer questions asked of him. He was, as Mr Robertson pointed out, flippant in a number of answers (see T198.13, T201.29, T201.45, T217.27, T218.46, T235.24-29). He did however make a number of concessions against the interest of the Bemax parties. Mr Galasso, in cross examination of Mr Boyd, put to him that Mr Shirfan was a "colourful character", a description with which Mr Boyd agreed. 
+Mr Robertson, in detailed written submissions on Mr Shirfan's credibility received after the hearing in accordance with a timetable fixed on the last day of the hearing contended that Mr Shirfan was not a reliable witness. Mr Robertson pointed out there was in addition to his flippant responses, an inconsistency and unreliability in Mr Shirfan's answers about what he would have done - which included his claim that he would have gone to "the Minister, the Prime Minister, the United Nations maybe" or have himself elected as mayor (see T198.17). Mr Robertson drew attention to the fact that Mr Shirfan first denied that he had discussed rates with Mr Boyd at his meeting on 29 March 2005 and then later agreed that he had said that the $100K for rates was "a bit steep". Mr Robertson also drew attention to the fact that Mr Shirfan had written to the Bemax chairman telling him that the Council had agreed to a one lane bridge when, on his evidence, he had not persuaded the Council to accept a one lane bridge, and contended that Mr Shirfan had lied to the board about this and that this impugned his credibility. 
+Mr Carruthers provided a detailed response to Mr Robertson's submissions. In my reasons published yesterday I indicated that I had not received submissions in reply for the Bemax parties but in fact they had been delivered to my chambers electronically but not brought to my attention. My attention having now been drawn to the existence of the submissions and having had the opportunity of considering them these reasons take them into account, and will stand in place of those delivered yesterday as the reasons for the conclusions of which the parties were yesterday advised and upon which the orders to be made today are based.
+In relation to Mr Shirfan's denial of the discussions about rates the discussion that was held was very limited and Mr Shirfan explained that he said what he did to prepare the ground for future negotiations with the Council about the Snapper mine. I do not regard this matter as impugning Mr Shirfan's credibility.
+In relation to what Mr Robertson described as a lie to the Board, when it is appreciated that Mr Shirfan did persuade Mr Boyd and the Council to accept a one lane bridge until the Snapper Mine was completed, I think the effect of the misstatement is much reduced. I do not regard the misstatement as a lie and I do not think Mr Shirfan's credibility was thereby impugned.
+Mr Robertson contended that Mr Shirfan's claim that the Council rates were included in the budget was shown to be false. It is true that the figure for rates does not appear to be included in Exhibit S but Mr Shirfan was not the author of that document and Mr Finnis had said in an email to Mr Shirfan that "[a]nnual rates will be 4100K rate pegged... captured in budget" (Exhibit A1, p 391). I accept that Mr Shirfan believed that the rates were incorporated in the joint venturers' budget.
+Mr Carruthers contended that the time frame for considering what the Bemax parties could have done commenced, not on or around 28 April 2005 but rather on 22 March 2005 when the representation that Council would charge rate of $100K per annum pegged was made. I accept that contention.
+Mr Carruthers contended that the cross examination of Mr Shirfan was predicated on a misconception that the Bemax parties were claiming that they would not have proceeded with the mining project whereas their case was really that they lost the opportunity to negotiate other terms to compensate for the loss of certainty of rates. Accepting that the Bemax parties were not contending that had they known the truth about the rates they would have abandoned the project, Mr Shirfan, at least, appeared to raise as a potential outcome the prospect that Bemax could have obtained the land directly from owners and not utilised the Road Agreement (see for example T211.26-45) and this was a matter which had to be pursued by Mr Robertson.
+There was a degree of bravado and false confidence about Mr Shirfan's perception of his ability to change matters: see T198.17, T198.21, T201.27, T201.45, T203.32-33 and I set out below at [106] two short portions of the cross examination which I think are typical of the exchanges. Mr Shirfan was, I accept, prone to exaggeration and I approach his evidence about what he would have done with a substantial degree of caution. I also found his assertion that he does not read "even one percent of anything that's given to [him]" difficult to accept, and his claim not to have read the note (see Exhibit M) which according to Exhibit N he had discussed with Mr Schache: see T212-213).
+
+Findings on Two Factual Matters in Dispute
+Mr Boyd says that in response to Mr Shirfan's comment that $100K rates was "a bit steep" he said: 
+I was led to believe that was the agreed amount. The rates will be reviewed once the valuation is received from the Valuer-General's office.
+ (see Exhibit A1, p 68, affidavit of Mr Boyd dated 14 February 2013)
+I have no difficulty accepting that Mr Boyd said what is contained in the first sentence (there was no dispute that he had) but I have considerable difficulty accepting that words to the effect of what is contained in the second sentence were said. There are a number of reasons why I do not think it is likely that Mr Boyd did make such a comment quite apart from Mr Shirfan's refusal to agree that Mr Boyd had made such a statement to him: 
+The acceptance that Council rates were agreed at $100K does not sit comfortably with the assertion that a valuation yet to be received would change the rates.
+
+Neither in the Council minutes of February 2002, December 2004 or April is the subject of valuation mentioned. Mr Boyd was present at the meetings in December 2004 and April 2005.
+
+Valuation is not mentioned in the email of Mr Turner which was copied to
+Mr Boyd. Mr Boyd was copied with that email and there is no evidence that he made any remarks to Mr Turner about the statement either in writing or orally.
+
+Valuation is not mentioned in the Road Agreement.
+
+If the Council intended that the rate would be altered once the valuation was received it is extraordinary that no mention of that fact was made by Mr Turner in his email or by Mr Boyd at either of the Council meetings.
+
+Mr Shirfan wrote to Mr Boyd after their meeting of 25 March by letter of March 2005 and ended the letter with: 
+I trust this letter reflects our discussions and look forward to a long and mutually beneficial relationship with WSC...
+ (see Exhibit A1, pp 159-160) 
+Mr Boyd did not respond to this by reiterating what he says he said to Mr
+Shirfan about valuation. If Mr Boyd had made such a statement it would have been an obvious time to record what he had said orally.
+
+For Mr Boyd to have said anything about the rates being adjusted by valuation to Mr Shirfan would very likely have led to vigorous discussions. Mr
+Boyd says that Mr Shirfan made no comment in response to what he says he said about valuation (see T170.50) and I find that highly unlikely.
+Whilst I have reservations about some important aspects of Mr Shirfan's evidence, I do not think his credibility was impugned to such an extent that I cannot accept his version of events on this topic, particularly when the objective evidence supports it. I think that the extensive passage of time throws doubt on the reliability of Mr Boyd's recollection for which no contemporaneous document can be produced in support.
+I am not persuaded that Mr Boyd did say anything to Mr Shirfan to the effect that the rate would be reviewed once the valuation was received from the Valuer-General.
+Another factual issue which emerged was whether Mr Boyd had said to Mr Finnis on 22 March 2005 that the Council's proposed rates were "$100,000 per annum rate pegged starting from 1 January 2006" (see Exhibit A1, p 175, affidavit of Mr Finnis dated 20 November 2012). Mr Finnis, in his affidavit, said that Mr Boyd had said it. Mr Boyd denied having said that and said that he never used the phrase "rate pegged". Mr Finnis in cross examination agreed that he could not recall if it was Mr Boyd or Mr Turner but he was clear that it was either Mr Boyd or Mr Turner. The point is of little significance because Mr Turner sent the email with precisely those words on 23 March 2005 and that email was copied to Mr Boyd.
+There was a related question of whether Mr Boyd had spoken to the mayor and obtained his approval to the $100K "rate pegged". Mr Boyd agreed that normally he would be the person obtaining instructions from the mayor but he said he could not recall having done so. Again, this is a matter of little significance because Mr Turner's email in the first paragraph makes it clear that the mayor's instructions were sought and obtained on the arrangements for the 20 year life of the haul road as set out in the email: see Exhibit A2, p 493.
+
+Construction Issue
+The words, whose meaning are the subject of dispute, are "adjusted annually in accordance with the [Local Government Act](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/)" and they do not specify a particular section of the LGA dealing with adjustment. The competing versions of what those words means are: 
+The adjustments arising out of the percentage rate published in the NSW
+Gazette pursuant to [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s506.html) of the LGA.
+
+The amount determined as rates by the Council from time to time (or perhaps annually) based upon the valuations received by the Council.
+The issue of construction gave rise to a number of subsidiary disputes between the parties, namely: 
+Whether or not in construing the Road Agreement, the Court should adopt the approach to construction of commercial contracts outlined in cases such as
+Pacific Carrier Ltd versus BNP Paribas <case>,
+Codelfa Constructions Pty Ltd versus State Rail Authority of NSW <case>; <case> per Allsop P (as his Honour was then) [19] - [23], with Giles JA at [63] agreeing, and Campbell JA at [361] - [362] with Giles JA at [42] - [43] agreeing. The Council maintained that the Road Agreement is not a commercial contract and the joint venturers maintain that it is. The point has relevance not only to the construction issue but also the question of whether [s 42](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s42.html) of the FTA or [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s52.html) of the TPA are available to the joint venturers and Bemax.
+
+A second issue relates to the question of the nature of the material to which regard can be paid in construing the Road Agreement. The Council maintains that some of the material relied upon does not take the question of construction any further and that the email of 23 March 2005 from Mr Turner (see [14] above) on which the joint venturers place considerable weight is material to which regard cannot be had. Regard can be had to surrounding circumstances and the object of the transaction only where the clause in question is ambiguous or susceptible of more than one meaning: see Western
+Export Services Inc versus Jireh International Pty Ltd <case>; [(2011) 282 ALR 604] in which the High Court reminded trial judges and appellate courts that what was said by Mason J (as his Honour then was) with whose judgment Stephen and Wilson JJ agreed, in Codelfa Constructions Pty Ltd v
+State Railways Authority  <case>; [(1982) 149 CLR 337], 352 is binding on them until Codelfa is reviewed: see also Royal Botanic Gardens and Domain Trust versus South Sydney City
+Council <case>; [(2002) 240 CLR 45], [9]-[10], [39] to which attention was drawn in Jireh.
+
+The Council's contention that clause 3.1 was beyond the power of the
+Council to grant and hence, as a matter of construction, the clause should be construed in the manner for which the Council contend i.e. requiring adjustment in accordance with valuations received each year, since the parties should not be taken to have agreed something which was not permitted by the
+Act.
+Mr Galasso drew attention to what was said by Gleeson CJ in International Air Transport Association versus Ansett Australia Holdings Ltd <case>; <case>: 
+In giving a commercial contract a businesslike interpretation, it is necessary to consider the language used by the parties, the circumstances addressed by the contract, and the objects which it is intended to secure. An appreciation of the commercial purpose of a contract calls for an understanding of the genesis of the transaction, the background, and the market. This is a case in which the Court's general understanding of background and purpose is supplemented by specific information as to the genesis of the transaction. The
+Agreement has a history; and that history is part of the context in which the contract takes its meaning. Before considering that history, it is necessary to explain, by reference to the text, how the issue of construction arises.
+
+And to the fact that this approach was applied by Macfarlan JA in Marinchek v Cabport Pty Ltd  <case>, with whom Handley AJA and Harison J agreed.
+In relation to the issue of whether or not the contract is a commercial contract, Mr Robertson contended that the difference in approach of the parties was that, on the Council's approach, commercial purpose or commercial realty would not be considered. He submitted that clause 3.1 had utility in fixing rates for the first year until the valuation was received. For reasons, which I provide later, I am of the view that the Road Agreement was not a contract entered into "in trade or commerce" and I shall therefore consider the construction issue without recourse to the principle of commerciality that might otherwise attach.
+In relation to the question of whether the fact that one possible interpretation of the contract would render the contract (or the clause) void should be taken into account was not a topic on which authorities were cited by Counsel but it was considered in Metropolitan Electric Supply Co Ltd versus Ginder [[1901] 2 Ch 799] by Buckley J who said: ...my first duty is to construe the contract, and that, for the purpose of arriving at the true construction of the contract, I must disregard what would be the legal consequences of my construing it in the one way or the other way.
+ and see Mills versus Dunham [[1891] 1 Ch 576] per Lindley
+LJ where his Honour said in a case concerned with a restraint of trade clause "[y]ou are to construe the contract, and then see whether it is legal". On the other hand, Sir Kim Lewison in The Interpretation of Contracts, 5th ed, , Sweet & Maxwell at [7.11] thought that Lindley LJ's approach (and inferentially Buckley J's approach) may be an oversimplification and reference was made to Lancashire County Council versus Municipal Mutual Insurance Ltd <case> at <case>).
+Whilst I am of the view, for reasons that I will explain, that clause 3.1 was beyond the power of the Council to make I am not persuaded that I should reject the construction advanced by the Bemax parties due to the legal consequences of that interpretation. Even accepting that the fact that one interpretation would render the clause (or contract as a whole) void or ineffective is a relevant consideration, the construction proposed must be capable of being read into the words actually used as the judgment of Simon
+Brown LJ in Lancashire County Council versus Municipal Mutual Insurance Ltd makes clear.
+The interpretation advanced by the Council seems to reject the relevance of the $100K to the "adjustment". What the Council is free to do, it says, is determine a new amount wholly without regard to the rate that is mentioned in the clause. In my view "adjustment" implies that the rate first mentioned is the starting point for variation and I think that, looked at objectively, the meaning of the words advanced by the joint venturers is more realistic. If the parties intended that the rates were provisional until a valuation was received that is of such significance that it is a matter that would be expected to be articulated in the clause itself. Incidentally no section of the Act identified expressly provides for annual adjustments other than <case>. Whilst I agree that the clause is ambiguous, I do no think that the construction contended by the Council is consistent with the words actually used. I therefore conclude, and without reference to extrinsic materials, that by the Road Agreement the Council agreed to levy rates at $100K per annum with adjustments in the nature contemplated in <case> of the Act.
+On the assumption that recourse can be had to extrinsic materials because the words identified are ambiguous, I accept Mr Robinson's contention that the Council minutes do not advance matters. 
+The second element of divergence between Council and the joint venturers is that the Council submits that the Court cannot have regard to the email from Mr Turner in determining what clause 3.1 of the Road Agreement means. Mr Robertson contended that the email in question is not a background fact but rather is simply evidence of the negotiation of the agreement and regard to it is not permissible. He relies on the following passage in Codelfa Constructions versus State Rail Authority <case>; [(1982) 149 CLR 337] at 352: 
+It is here that a difficulty arises with respect to the evidence of prior negotiations. Obviously the prior negotiations will tend to establish objective background facts which were known to both parties and the subject matter of the contract. To the extent to which they have this tendency they are admissible. But in so far as they consist of statements and actions of the parties which are reflective of their actual intentions and expectations they are not receivable. The point is that such statements and actions reveal the terms of the contract which the parties intended or hoped to make. They are superseded by, and merged in, the contract itself. The object of the parol evidence rule is to exclude them, the prior oral agreement of the parties being inadmissible in aid of construction, though admissible in an action for rectification.
+Mr Robertson also relies on the application of Codelfa Constructions versus State Rail Authority in Schwartz versus Hadid  <case>, in which Macfarlan JA, with whom Meagher JA concurred, held that in construing a written agreement regard could not be had to a "proposal" provided by one contracting party to the other (the recipient) in order to support the construction for which the recipient contended. Extrinsic evidence was permissible to identify the properties to which the agreement referred but not to determine whether or not Schwartz had assumed an obligation to purchase.
+Mr Turner's email was sent to Mr Finnis and is, in my view, clearly inconsistent with the notion that the Council would adjust its rates once a valuation was obtained. I think that the email is relevant not because, by its terms and the fact that it was sent to Mr Finnis, it evidences an agreement in itself but because it makes it clear what "adjustments" the parties had in mind - i.e. rate pegging (see also Mr Shirfan's evidence at T190.30-45). Viewed in this way, it is a piece of correspondence between the parties which explains what adjustments were contemplated by the clause in the Road Agreement and hence is material to which regard can be had given the ambiguity of clause 3.1. The email thus confirms the view I hold about the meaning of clause 3.1.
+
+Rectification and Estoppel
+In view of my conclusion in respect of the proper construction of clause 3.1 it is not necessary to consider the claims for rectification or estoppel. In relation to the rectification claim, I will say briefly however that in accordance with the principles set out in Franklins Pty Ltd versus Metcash Trading Ltd I would regard the Turner email as establishing an intention on the Council's part that rates of $100K were to be adjusted in accordance with ministerial determinations in accordance with <case> of the LGA, an intention shared by the joint venturers.
+In relation to the estoppel argument, I would note only that: 
+The considerations relevant to ultra vires/fetter argument discussed below are also relevant to estoppel. As Dr Seddon points out in Government
+Contracts Federal State and Local (5th ed) 2013, The Federation Press, p :
+
+There is generally no difference between the operation of executive necessity and the rule against fettering when contract is argued and where estoppel is argued.
+
+The ambit of estoppel against government is very limited: see Minister for Immigration and Ethnic Affairs versus Kurtovic <case>; <case>; <case>- <case> per
+Pain J.
+
+It is clear from Jacfun Pty Ltd versus Sydney Harbour Foreshore Authority <case> that loss of opportunity to negotiate can be a basis for an award of damages but for reasons which I set out below in answer to the hypothetical question I do not think that any real detriment has been established, whether put as a loss of opportunity to negotiate or otherwise.
+
+Fetter / Ultra Vires
+The Council contends that even if it was, by the Road Agreement on its true construction, agreeing to levy rates of $100K per annum for 20 years, that clause cannot stand because it impermissibly fetters the Council from undertaking its statutory duty of assessing rates each year in accordance with the requirement of the Act.
+The Council draws attention in particular to <case>, 405 (from the LGA as in force prior to 2009), 494, 497, 498, 499, 500, 506, 520, 525, 526, 534, 538, 532, 535, 546, 548, 554, 560, 564 and 574 and potentially 514 and 529 of the LGA. I set out for convenience all of the sections of the LGA of which mention was made in the course of submissions (in force from 2009) other than <case> and <case> as to which see [62] below: Ordinary rates must be made and levied annually 
+A council must make and levy an ordinary rate for each year on all rateable land in its area.
+
+Each category or subcategory of ordinary rate is to apply only to land of the same category or subcategory.
+ What is the structure of a rate? 
+A rate, whether an ordinary rate or a special rate, may, at a council's discretion, consist of: an ad valorem amount (which may, in accordance with section 548, be subject to a minimum amount of the rate), or a base amount to which an ad valorem amount is added.
+ The ad valorem amount 
+The ad valorem amount of a rate is an amount in the dollar determined for a specified year by the council and expressed to apply: in the case of an ordinary rate-to the land value of all rateable land in the council's area within the category or sub-category of the ordinary rate, or in the case of a special rate-to the land value of all rateable land in the council's area or such of that rateable land as is specified by the council in accordance with section 538.
+
+The ad valorem amount of a rate is to be levied on the land value of rateable land, except as provided by this or any other Act.
+
+An ad valorem amount specified for a parcel of land may not differ from an ad valorem amount specified for any other parcel of land within the same category or subcategory unless: the land values of the parcels were last determined by reference to different base dates, and the Minister approves the different ad valorem amounts.
+
+Note. Land value is defined in the Dictionary for this Act. Generally, it is a value determined specially for rating purposes by the Valuer-General under the [Valuation of Land Act 1916](http://www.austlii.edu.au/au/legis/nsw/consolact/vola1916173/). 
+A value other than land value may be used, for example, under [section ](http://www.austlii.edu.au/au/legis/nsw/consolact/ha197786/s127.html) of the [Heritage Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ha197786/).
+ The base amount 
+A council may, in a resolution making a rate, specify a base amount of the rate, or a base amount for a category or sub-category of an ordinary rate.
+
+The base amounts so specified may be the same or different amounts.
+
+The appropriate base amount so specified is to form part of the rate levied on each separate parcel of rateable land subject to the rate.
+
+A base amount specified for a parcel of land may not differ from a base amount specified for any other parcel of land within the same category or subcategory unless: the land values of the parcels were last determined by reference to different base dates, and the Minister approves the different base amounts.
+ Limit on revenue that can be raised from base amount 
+The amount specified as the base amount of a rate (or the base amount of the rate for a category or sub-category of an ordinary rate) must not be such as to produce more than 50 per cent of the total amount payable by the levying of the rate (or of the rate for the category or sub-category concerned) on all rateable land subject to the rate (or the rate for the category or sub- category concerned).
+ Variation of general income 
+The Minister may, by order published in the Gazette specify the percentage by which councils' general income for a specified year may be varied.
+ Categorisation of land for purposes of ordinary rates 
+Before making an ordinary rate, the council must have declared each parcel of rateable land in its area to be within one or other of the following categories: * farmland * residential * mining * business.
+
+Note. Land falls within the "business" category if it cannot be categorised as farmland, residential or mining. The main land uses that will fall within the "business" category are commercial and industrial.
+ Notice of declaration of category 
+A council must give notice to each rateable person of the category declared for each parcel of land for which the person is rateable.
+
+The notice must be in the approved form and must: state that the person has the right to apply to the council for a review of the declaration that the land is within the category stated in the notice, and state that the person has the right to appeal to the Land and Environment
+Court if dissatisfied with the council's review, and refer to sections 525 and 526.
+ Application for change of category 
+A rateable person (or the person's agent) may apply to the council at any time: for a review of a declaration that the person's rateable land is within a particular category for the purposes of section 514, or to have the person's rateable land declared to be within a particular category for the purposes of that section.
+
+An application must be in the approved form, must include a description of the land concerned and must nominate the category the applicant considers the land should be within.
+
+The council must declare the land to be within the category nominated in the application unless it has reasonable grounds for believing that the land is not within that category.
+
+If the council has reasonable grounds for believing that the land is not within the nominated category, it may notify the applicant of any further information it requires in order to be satisfied that the land is within that category. After considering any such information, the council must declare the category for the land.
+
+The council must notify the applicant of its decision. The council must include the reasons for its decision if it declares that the land is not within the category nominated in the application.
+
+If the council has not notified the applicant of its decision within 40 days after the application is made to it, the council is taken, at the end of the 40-day period, to have declared the land to be within its existing category.
+ Appeal against declaration of category 
+A rateable person who is dissatisfied with: the date on which a declaration is specified, under section 521, to take effect, or a declaration of a council under section 525, may appeal to the Land and
+Environment Court.
+
+An appeal must be made within 30 days after the declaration is made.
+
+The Court, on an appeal, may declare the date on which a declaration is to take effect or the category for the land, or both, as the case requires.
+ Rate may be the same or different within a category 
+Before making an ordinary rate, a council may determine a sub-category or sub-categories for one or more categories of rateable land in its area.
+
+A sub-category may be determined: for the category "farmland"-according to the intensity of land use, the irrigability of the land or economic factors affecting the land, or for the category "residential"-according to whether the land is rural residential land or is within a centre of population, or for the category "mining"-according to the kind of mining involved, or for the category "business"-according to a centre of activity.
+
+Note. In relation to the category "business", a centre of activity might comprise a business centre, an industrial estate or some other concentration of like activities.
+
+The ad valorem amount (the amount in the dollar) of the ordinary rate may be the same for all land within a category or it may be different for different sub-categories.
+
+Land may be taken to be irrigable for the purposes of subsection (2) (a) if, and only if, it is the subject of a water right within the meaning of the [Valuation of Land Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/vola1916173/).
+ Publication of draft operational plan 
+A council must not make a rate or charge until it has given public notice (in accordance with section 405) of its draft operational plan for the year for which the rate or charge is to be made and has considered any matters concerning the draft operational plan (in accordance with that section).
+ Rate or charge to be made for a specified year 
+Each rate or charge is to be made for a specified year, being the year in which the rate or charge is made or the next year.
+ Form of resolution for special rate 
+In the resolution that makes a special rate, the council must state whether the special rate is to be levied on all rateable land in the council's area or on only a part of that land.
+
+If the special rate is to be levied on only a part of that land, the council must specify in the resolution the part on which it is to be levied.
+ How is a rate or charge levied? 
+A rate or charge is levied on the land specified in a rates and charges notice by the service of the notice.
+
+The notice may be served at any time after 1 July in the year for which the rate or charge is made or in a subsequent year.
+
+A notice that is required to effect an adjustment of rates or charges may be served in the year for which the rate or charge is made or a subsequent year.
+
+The notice may include more than one rate, more than one charge and more than one parcel of land.
+
+It is not necessary to specify the name of the rateable person or the person liable to pay the charge in the notice if the council does not know the person's name.
+ Minimum amounts 
+A council, in a resolution making a rate consisting of an ad valorem amount: may specify a minimum amount of the rate which must be levied in respect of each separate parcel, or may specify: a minimum amount of the rate which must be levied in respect of each separate parcel, other than a separate parcel consisting of vacant land, and a minimum amount of the rate, being less than the minimum amount of rate specified under subparagraph (i), which must be levied in respect of each separate parcel consisting of vacant land, or may specify: a minimum amount of the rate which must be levied in respect of each separate parcel, other than a separate parcel consisting of vacant land, and a minimum amount of the rate, being less than the minimum amount of the rate specified under subparagraph (i), which must be levied in respect of each separate parcel consisting of vacant land, other than a separate parcel consisting of vacant flood liable land or vacant coastal hazard liable land, and a minimum amount of the rate, being less than the minimum amount of the rate specified under subparagraph (ii), which must be levied in respect of each separate parcel of vacant flood liable land or vacant coastal hazard liable land.
+
+If a council makes an ordinary rate for different categories or sub- categories of land, it may specify a different minimum amount for each category or sub-category of land.
+
+Except as provided by subsection (4), the minimum amount of a rate is to be: in respect of an ordinary rate, such amount as is determined by the council, not exceeding $259 or such greater amount as may be prescribed by the regulations or, in the case of a rate for which a particular council may, under subsection (1) or (2), specify a minimum amount, such greater amount as the Minister may determine by instrument in writing, or in respect of any other rate (not being a water supply special rate or a sewerage special rate), such amount as is determined by the council, not exceeding $2 or such greater amount as the Minister may determine by instrument in writing given to the council.
+
+If the minimum amount of an ordinary rate for the previous year exceeded the amount prescribed or determined in respect of such a rate under subsection (a), the council may determine the minimum amount of the ordinary rate in accordance with subsection (5).
+
+The minimum amount of the ordinary rate must be of such amount as is determined by the council, not exceeding the amount of the minimum ordinary rate for the previous year increased by the percentage (if any) specified in respect of the council under this Act.
+
+A minimum amount of a rate is not invalid because: the minimum amount is levied on the whole or any part of the land subject to the rate, or of the size of the minimum amount.
+
+A council may not specify a minimum amount of a rate consisting of a base amount to which an ad valorem amount is added.
+
+A minimum amount of a rate specified for a parcel of land may not differ from a minimum amount specified for any other parcel of land within the same category or sub-category unless: the land values of the parcels were last determined by reference to different base dates, and the Minister approves the different minimum amounts.
+ What land is rateable? 
+All land in an area is rateable unless it is exempt from rating.
+ Who is liable to pay rates? 
+The owner for the time being of land on which a rate is levied is liable to pay the rate to the council, except as provided by this section.
+
+If land owned by the Crown is leased, the lessee is liable to pay the rate, except as provided by subsection (4).
+
+If there are two or more owners, or two or more lessees from the Crown, of the land, they are jointly and severally liable to pay the rate.
+
+The Crown is liable to pay the rate for land owned by the Crown which is subject to the Housing Act 1912 or the [Aboriginal Housing Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/aha1998185/).
+ Agreement as to periodical payment of rates and charges 
+A council may accept payment of rates and charges due and payable by a person in accordance with an agreement made with the person.
+
+The council may write off or reduce interest accrued on rates or charges if the person complies with the agreement.
+ Appeal on question of whether land is rateable or subject to a charge 
+A person who has an estate in land, or who is the holder of a licence or permit for land under the [Crown Lands Act ](http://www.legislation.nsw.gov.au/xref/inforce/?xref=Type=act%20AND%20Year=1989%20AND%20no=6&nohits=y), in respect of which a rates and charges notice is served may appeal to the
+Land and Environment Court: in the case of a rate-against the levying of the rate on the ground that the land or part of it is not rateable or is not rateable to a particular ordinary rate or a particular special rate, or in the case of a charge-against the levying of the charge on the ground that the land is not subject to any charge (excluding a charge limited under section 503 (2)) or is not subject to the particular charge.
+
+An appeal may not be made under this section on the ground that land has been wrongly categorised under [Part .](http://www.austlii.edu.au/au/legis/nsw/consolact/aha1998185/index.html#p3) 
+An appeal must be made within 30 days after service of the rates and charges notice.
+
+If the Land and Environment Court determines that only a part of land is rateable, it is required to determine the value of that part.
+
+Note. While the grounds of appeal concerning rates are limited to those specified in section 574, opportunity is given at different points in the rate-making process for objections, submissions (including submissions by way of objection) and applications to be made to a council concerning rates. These include: * public notice of the draft operational plan * application for change of category for purposes of ordinary rate * deferral and reduction of rates.
+
+Section 564 of the LGA
+The joint venturers contend that the LGA by <case> specifically authorises the Council to enter into agreements about rates. The Council contends that the section is dealing with agreements between the Council and ratepayers where rates have been levied and the ratepayer seeks time to pay, but is not addressing any species of agreement in respect of what the rates should be. Neither Counsel nor my Associate have been able to locate any cases on the section. In my view the phrases "may accept payment" and "due and payable" are clearly directed to agreements in respect of rates that have been levied and is not authorising a Council to reach agreement in advance as to what the rates should be. The heading "Agreements as to periodical payment rates and charges", which is to be taken to be part of the Act (see <case> of the [Interpretation Act 1987](http://www.austlii.edu.au/au/legis/nsw/consolact/ia1987191/) ) reinforces the view. Therefore, <case> does not assist the joint venturers.
+
+Sections 497, 498 and 534
+Section 534 requires each rate or charge to "be made for a specified year". Council is required by <case> to fix a rate either as an ad valorem amount or a base amount to which an ad valorem amount is added. The ad valorem rate is to be determined for a specified year and is to be levied "on the land value of rateable land, except as provided by this or any other Act": see <case>. By <case> the base amount is to be determined by resolution and must be the same rate for all parcels of land unless the land value of the parcels were last determined by reference to different base dates and the Minister has approved the different base amounts. 
+The Council was required, by <case> (as in force until 2009), to prepare a draft management plan which would inter alia set out the Council's revenue policy for the next year. Section 404 specified the contents of the plan with respect to a Council's revenue policy and <case> required the publication of the plan. Regulation 201 required a council to include, inter alia, a statement as to the ad valorem rate to be charged. In 2009 the legislative changes were made by which inter alia the Management Plan became an Operational Plan (see <case> of the LGA and regulation 201 of the [Local Government (General) Regulations 2005](http://www.austlii.edu.au/au/legis/tas/consolreg/lgr2005346/) ) but it is not necessary to descend into detail about these changes. The only evidence before the Court as to how the $100K was arrived at is found in the Council minutes of 20 February 2002 set out at [11]. 
+The Council resolutions of February 2002, December 2004 and that of April 2005: 
+Do not involve a fixing of rates only for the 2004-2005 year.
+
+Do not specify a base rate.
+
+Do not specify or utilise an ad valorem value and could not do so because no valuation for the Gingko mine had been issued.
+
+It follows, in my view, that the fixing of rate for a 20 year period at $100K per annum was not carried out in accordance with the requirements of the Act and therefore was outside the power of the Council.
+The phrase "fetters the discretion" and ultra vires were both used in the submissions of the Council. A number of cases were cited by the joint venturers and the Council, namely: Ansett Transport Industries (Operations) Pty Ltd versus The Commonwealth <case>; [(1977) 139 CLR 54], 81-86, [56]-[72].
+In Ansett Mason J made a number of important statements about the exercise of statutory duties which I extract as follows: ...[T]he public interest requires that neither the government nor a public authority can by a contract disable itself or its officer from performing a statutory duty or from exercising a discretionary power conferred by or under a statute by binding itself or its officer way in the future. (pp -75).
+
+Where statutory approval for the making of the contract exists and the contract contains an undertaking that the statutory power will be exercised in a particular way, there is no room for the notion that the undertaking is invalid on the ground that it is an anticipatory fetter on the exercise of a statutory discretion. The contract, assuming it to be within constitutional power is valid and the undertaking is free from attack. There is in such a case the initial question: Does the statute which approves the making of the contract expressly or impliedly amend, for the purposes of the contract, the pre-existing law providing for the exercise of the discretion? The statute may impose on the repository of the discretion a duty to exercise it in conformity with the undertaking or it may leave him with a discretion to arrive at some other result. If it be the former, then the contracting party may be able to compel the government and the person in whom the discretion is vested, though it has been relevantly converted into a duty, to comply with the undertaking.
+If it be the latter, then the undertaking if it is enforceable will be enforceable by an action for damages only. (p 77).
+ [T]he doctrine that an agreement of the kind in question may constitute an anticipatory fetter on the exercise of a statutory discretion is closely connected with the question whether the agreement is authorized by statute, or is prohibited by, or incompatible with it. If the agreement is authorized, then it is valid, and any breach of the undertaking it contains will be enforceable by damages but only when the effect of statutory approval is to convert the discretion into a duty will it be enforceable specifically. (p 77)
+The approach of Mason J in Ansett was applied in Camberwell City Council versus Camberwell Shopping Centre Pty Ltd [(1992) 71 LGRA 26], per Marks and Gobbo JJ the Victorian Full Court pointing out that the High Court in Ansett although divided on the question of construction appears to have been unanimous in the view that an agreement authorised by an Act of Parliament "is well capable of fettering a discretion which a statutory authority or the Commonwealth might otherwise lawfully have": see p 41. In City of Subiaco versus Heytesbury Properties Pty Ltd, Ipp J (as his Honour was then) with whom Malcolm CJ and Wallwork J agreed, held that the Subiaco Council was not liable in damages for having enacted the Town Planning Assessment Act by which the tenant of premises leased from the Council was precluded from carrying on a particular business at the premises. This was because, as a matter of construction, the lease was not to be construed as containing an obligation not to introduce the legislation but he also concluded that the term asserted by the tenant would involve "an anticipatory fetter by that person on his future exercise of statutory power ...[and] not one authorised by the relevant legislation"; see also Penola and District Ratepayers and Residents Association Inc versus Wattle Range Council [90]-[93], [100], [105] per White J with whom Nyland and David JJ agreed.
+In NSW Rifle Association Inc versus The Commonwealth, White J provided a detailed summary of the law relating to fetters on statutory powers holding that the Commonwealth was not free to terminate a license of Commonwealth land given to the Association for use as a rifle range because the Commonwealth had decided to hand the land over to the NSW State Government. His Honour rejected the argument that the Commonwealth could not be taken to have fettered itself from consideration of public policy reasons and from terminating the license without cause. His Honour rejected the contention that the case was one involving executive necessity. Although the case contains a helpful analysis of the law, I do not think that any of the observations or conclusions of White J assist the joint venturers here.
+In City of Sydney versus Streetscape Projects (Australia) Pty Ltd , Einstein J rejected the defendant's contention that the contract made by the Council was ultra vires. In the course of so doing his Honour drew attention to <case>, <case> and <case> of the LGA which provided a fulsome basis for the Council to be able to enter into the relevant contract. The Council does not contend that it had no power to enter into the Road Agreement, what it says is that it had no power to agree to clause 3.1 of the Road Agreement. I do not perceive City of Sydney versus Streetscape Projects (Australia) Pty Ltd or Hoxton Park Residents' Action Group Inc versus Liverpool City Council <case> (a decision of mine) as providing any assistance to the joint venturers.
+Mr Galasso submitted that the Council's argument would have wide implications and, in effect, means that a Council could never be contractually bound no matter what it had signed. Whilst the potential absence of power might well induce caution those entering into agreements with Council, I do not think that the conclusion that a Council does not have the power to fix rates leads to the conclusion that Mr Galasso describes.
+A council might well wish to attract a large commercial enterprise to its municipality, something that could be viewed as entirely beneficial to the ratepayers of the municipality, but whilst the council's wish to provide certainty to a prospective commercial resident might be understandable, if the agreement relates to a matter covered by legislation, the agreement must be authorised by, or at least not be inconsistent with, that legislation. The only authority to which the joint venturers point is <case> which I have held deals with a different topic.
+The joint venturers contended that clause 3.1 was a manifestation of the exercise of the Council's discretion. There are discretions which the LGA confers on Councils such as that contained in <case> (structure of rates) or the ability to fix an ad valorem rate for a specified year (s 498), but fixing fees for 20 years and without reference to the base rate or the ad valorem value of property is not one of the discretions bestowed. It is important to note that the only attack on the $360K per annum determined by the Council for rates for each of the Gingko and the Snapper Mines is that Council was bound to apply the $100K rate by virtue of the Road Agreement (or by virtue of estoppel or as a remedy for misleading and deceptive conduct). Even if the process by which the Council arrived at $360K was flawed (and I make no finding that it was) that would not assist the joint venturers because the question is rather whether the rates specified in clause 3.1 were rates arrived at in accordance with the requirements of the LGA, not whether the $360K was arrived at in accordance with the requirements of the Act. I should say however that contrary to the contention of the Bemax parties (supported, it is true, by the evidence of Mr Boyd obtained in cross examination (T166-168)) that the Council determined the amount payable as $360K and then "retrofitted" the ad valorem rate to achieve that figure, I do not think that contention borne out by Ms Maguire's report set out in [21] above. Mr Boyd was not involved in the determination of the $360K. Ms Maguire did not determine $360K and then calculate the ad valorem rate, rather she started with the ad valorem rate of 6 cents in the dollar (she having noted that Western Australian Councils were charging between 6 cents to 12 cents in the dollar, and having referred to the income of "other Councils" including Broken Hill and Parkes from mining companies within their municipalities): see Exhibit A4, p 1553 set out at [21] above.
+As Mason J pointed out in the passage set out at [65](3), the question of fetter is closely connected with the question of whether the agreement is authorised by statute or is prohibited or incompatible with it. 
+The example given by Mason J in Ansett at p 75 appears to me to be pertinent here: 
+To take an example related to this case: the Commonwealth could not, by making a contract with an airline company whereby it promises that the Secretary of the Department of Transport would not for the next 15 years issue to other airline companies import permits for aircraft, fetter the future exercise by the Secretary of the discretion conferred upon him by the Customs (Prohibited
+Imports) Regulations. The Secretary must at all times deal with applications for import permits in accordance with the law; if he considers that, in conformity with Government policy, the public interest calls for the importation of the aircraft, he should grant the application, notwithstanding that the Commonwealth has entered into a contract which provides to the contrary. To hold otherwise would enable the Executive by contract in an anticipatory way to restrict and stultify the ambit of a statutory discretion which is to be exercised at some time in the future in the public interest or for the public good.
+In my view, clause 3.1 is not authorised by the LGA and is incompatible with it. Hence my conclusion that clause 3.1 of the Road Agreement was a provision beyond the power of the Council to make. Because the joint venturers do not seek to set aside the Road Agreement, it is not necessary to consider what impact the invalidity of one of the clauses of an agreement otherwise valid might have.
+
+Claims under the [Fair Trading Act](http://www.austlii.edu.au/au/legis/nsw/consolact/fta1987117/) (FTA) and the [Trade Practices Act](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) (TPA)
+The joint venturers rely on [s 42](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/s42.html) of the FTA which is in the following terms: 
+A person shall not, in trade or commerce, engage in conduct that is misleading or deceptive or is likely to mislead or deceive.
+
+It was agreed that the FTA (and TPA) is the relevant legislation because the events said to give rise to the impugned conduct occurred in 2005. They also rely on [s (1)](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/s41.html) of the FTA which is in the following terms: 
+For the purposes of this Part, where a person makes a representation with respect to any future matter (including the doing of, or the refusing to do, any act) and the person does not have reasonable grounds for making the representation, the representation shall be taken to be misleading.
+Section 51A of the TPA is in similar terms to [s 41](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/s41.html) of the FTA.
+The joint venturers' case had these elements: 
+The Council by its various actions led the joint venturers to believe that the Council would levy rates of $100K per annum subject only to an adjustment for rate pegging.
+
+The representation was one as to a future matter.
+
+The representation was made "in trade or commerce".
+
+The fact (if it be the fact contrary to the joint venturers' case) that clause 3.1 was invalid does not preclude the conduct from being conduct "in trade or commerce".
+
+The joint venturers relied on the representation that Council intended to levy rates in the manner specified in the Agreement.
+
+The joint venturers have suffered loss and the appropriate remedy is "the expectation loss" not the relevance loss.
+
+Alternatively, the joint venturers lost the opportunity to renegotiate the terms of the Road Agreement, and the loss of a chance to negotiate is a compensable loss: Jacfun Pty Ltd versus Sydney Harbour Foreshore Authority  <case> at <case> and there were significant matters that remained to be negotiated in relation to the road.
+A similar case based on [s 52](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/s52.html) of the TPA was put by the joint venturers and Bemax and the issues for that case are similar except for the additional issue of whether the Council is a "trading corporation" as required by [s 4](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/s4.html) of the TPA, and not required for [s 42](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/s42.html) of the FTA,
+A possible inconsistency between the TPA and the LGA was identified and a notification given to the Commonwealth Attorney General and all of the State Attorney Generals to enable any of them to intervene in the proceedings should they so determine. The NSW Attorney General has appeared represented by the NSW Solicitor General Mr M. Sexton SC together with Ms A. Mitchelmore. Mr Sexton made it clear that the only matters on which the NSW Attorney General wishes to be heard is on the question of [s 52](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/s52.html) of TPA and in particular whether a local council is a trading corporation under [s 4(1)](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/s4.html) of TPA which requires that a local corporation must be a "trading or financial corporation" to be caught by the Act, and the question of whether the Road Agreement was an agreement "in trade or commerce" under <case> of the TPA (and <case> of the FTA). [Section 109](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/s109.html) of the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/) is relevant only to the extent that it is said that the TPA and the LGA are in conflict. 
+I have held that the contract on its proper construction required Council to levy only $100K per annum (plus pegged adjustments) but that clause 3.1 of the contract is ultra vires the Council and unenforceable. Mr Galasso indicates that the joint venturers do not seek to set aside the Road Agreement if it is held that clause 3.1 is unenforceable by the joint venturers against the Council. 
+The FTA claim by the joint venturers was put as an alternative to the rectification claim but it was also contended that: 
+The joint venturers were misled as to the rates that would be charged and if Council is in fact entitled to charge rates without regard to the Road
+Agreement then an award of damages should be made in favour of the Bemax companies.
+
+That if the Council has power to levy rates as it wished and the FTA cannot override the LGA then the Bemax parties should succeed on their TPA claim, because being a federal statute it is paramount to the LGA. This issue was considered in Bitannia Pty Ltd versus Parkline Constructions Pty Ltd <case>; <case>, [41], [105]-[125].
+The representation claimed to have been made by the Council to the joint venturers and Bemax is that it would, for 20 years from 2006, charge rates at the rate of $100K (plus pegged increases).
+The representation was said by the joint venturers and Bemax to be a future representation and reliance was placed on Digitech (Australia) Ltd versus Brand  <case>, [93] per Sheller, Ipp and McColl JJA in which it was said that the distinction between a promise as a representation of existing fact and a representation with respect to a future event has been abolished by <case>. The joint venturers submit that this approach must apply also to [s 41](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/s41.html) of the FTA. 
+Mr Robertson draws attention to the fact that <case> of the TPA was neither pleaded nor mentioned until closing submissions and he says that the joint venturers cannot rely on <case> in such circumstances (see for example Aussie Home Security Pty Ltd versus Sales Systems Australia Pty Ltd  <case> per Katz J followed in McClymont versus Critchley  <case> per Biscoe AJ). Mr Carruthers (see T376) accepted that it was necessary to indicate an intention to rely on <case> but claimed that even though the joint venturers were not able to rely on <case> (which he pointed out merely facilitates proof that a representation as to a future matter had no basis) the joint venturers are not precluded from relying on future representations.
+There are a number of obstacles in the joint venturers' path. I shall deal first with the following two threshold issues: 
+For [s ](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/s42.html) of the FTA and [s ](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/s52.html) of the TPA to apply, the representations must be "in trade or commerce" 
+For [s ](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/s52.html) of the TPA to apply, the Council must be a "trading corporation" under [s ](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/s4.html) 
+In Trade or Commerce
+In Concrete Constructions Pty Ltd versus Nelson <case>; [(1990) 169 CLR 594], a decision of Davies J in the Federal Court of Australia, a developer as prospective purchaser was provided with a copy of a certificate issued under <case> of the Environment Planning and Assessment Act 1979 ("EPA") which certificate stated that the Council had not adopted any flood risk mitigation proposal in respect of the land and had no information which would indicate the land was subject to risk of flooding. Fresh certificates to the same effect were issued after Mid Density had entered into a contract to buy the land in question. When development approval was subsequently sought it transpired that Council had, in 1986, received a report which indicated the land could be subject to flooding and the Council resolved to adopt a one in fifty year flood standard for the area. Davies J at 37 dealt with a number of issues but relevantly he held that in issuing a certificate under <case> of the EPA the Council was not an activity "in trade or commerce": 
+Therefore, the mere act of giving a certificate under the EPA is neutral in this respect. It is the character of the act so far as the person doing the act is concerned which is the test. From Rockdale's point of view, it was merely carrying out its functions as a municipal council in the performance of its statutory duty under <case> of the Act. That duty has no element of trade or commerce in it. Rockdale was obliged to give a certificate when application was made to it. The purposes and activities of the applicant for the certificate conferred no character upon the conduct of Rockdale in performing its statutory duty, see Concrete Constructions Pty Ltd v
+Nelson <case>; <case> concerned a similar dispute. Rolfe J found that the Council was not a "trading corporation" nor were its actions in issuing the <case> certificate or other actions or acts done or made in trade or commerce although his Honour found in favour of Jazabas for breach of a duty of care by reason of giving wrong information. The Court of Appeal (see City of Botany Bay Council versus Jazabas Pty Ltd  <case> per Mason P, Beazley and Fitzgerald JJA (in dissent)) reversed the trial judge's decision on the ground that the Council did not breach its duty of care but did not consider the issue of whether the Council was a "trading corporation" or its actions were "in trade or commerce".
+In my view the Road Agreement was entered into by the Council as a means of putting into effect the development consent issued by the Minister and was not an activity of the Council "in trade or commerce" but rather was part of the Council fulfilling its planning and public duties as a statutory corporation. Clause 3.1 dealing with payment of rates was a mechanism, albeit misguided as I have held, by which rates payable by the joint venturers were to be paid. An agreement to pay rates whether view in isolation or as part of a wider arrangement concerned with reimbursement of Council for acquisition of land the construction and upkeep of a public road was not, in my view, an activity "in trade or commerce".
+Mr Carruthers submitted that for the Road Agreement to be "in trade or commerce" it was sufficient for it to be "in trade or commerce" from the joint venturers' point of view. That approach is inconsistent with the approach taken by Davies J in Mid Density Development Pty Ltd versus Rockdale Municipal Council. If the joint venturers' contentions were correct, Mid Density would have had to succeed since it clearly sought the <case> certificate for the purpose of its trading and commercial activities as a developer. Davies J held that it is the character of the act so far as the person doing the act is concerned, an approach with which I agree. 
+In Concrete Constructions the plurality said at 601-602: 
+The general heading "Consumer Protection" at the commencement of Pt V is part of the Act (Acts Interpretation Act 1901 (Cth), s.13). It constitutes part of the context within which the substantive provisions of Pt V must be construed and should be taken into consideration in determining the meaning of those provisions in case of ambiguity. The heading does not, however, control the permissible scope of the substantive provisions of Pt V and cannot properly be used to impose an unnaturally constricted meaning upon the words of those substantive provisions (see Hornsby Building Information Centre Pty. Ltd., at p 225; Parkdale, at p 202). As a matter of language, s.52 prohibits a corporation from engaging in misleading or deceptive conduct "in trade or commerce" regardless of whether the conduct is misleading to, or deceptive of, a person in the capacity of a consumer. In these circumstances, it is not permissible to give to the heading of Pt V the effect of confining the general words of s.52 to cases involving the protection of consumers alone. So to constrict the provisions of s.52 would be to convert a general prohibition of misleading or deceptive conduct by a corporation, be it consumer or supplier, in trade or commerce, into a discriminatory requirement that a corporate supplier of goods or services should observe standards in its dealings with a corporate consumer which the consumer itself was left free to disregard. That being so, the general words of s.52 must be construed as applying even- handedly to corporations involved in a transaction or dealing with one another "in trade or commerce". So to say is not, however, to deny the significance of the heading "Consumer Protection" for the purposes of the present case. In particular, as will appear, that heading is of importance in determining the effect of the words "in trade or commerce" in s.52 (see Hornsby Building
+Information Centre Pty. Ltd., at p 224).
+
+Mr Carruthers contended that the passage which I have set out above supports his contention that for a misrepresentation to be made "in trade or commerce" it is sufficient for the contract to be a commercial contract from the point of view of one of the parties to it. I do not accept Mr Carruthers' submission. The passage from Concrete Constructions at 601-602 on which he relies is not dealing with that topic but rather whether the party to whom the representation is made must be a consumer, it being held by the majority that he or she need not be.
+It follows that, in my view, the Road Agreement and any representations made in it or in connection with it by the Council were not made "in trade or commerce".
+
+Trading Corporation
+Section 4(1) of the TPA defines "trading corporation" as meaning "a trading corporation within the meaning of paragraph 51(xx) of the Commonwealth [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/).
+The test to determine whether a corporation is a trading or financial corporation is laid down in The Queen versus Judges of the Federal Court of Australia: Ex parte WA National Football League <case>; [(1979) 143 CLR 190] In the latter case, the plurality said at pp 304-305: 
+Secondly, the judgments of the majority in Adamson make it clear that, in having regard to the activities of a corporation for the purpose of ascertaining its trading character, the court looks beyond its "predominant and characteristic activity" (cf at 213 per Gibbs J). Barwick CJ (at 208) spoke of making a judgment "after an overview" of all the corporation's current activities, the conclusion being open that it is a trading corporation once it is found that "trading is a substantial and not a merely peripheral activity". Mason J said that it "is very much a question of fact and degree" (at 234), having earlier stated that the expression is essentially: "... a description or label given to a corporation when its trading activities form a sufficiently significant proportion of its overall activities as to merit its description as a trading corporation...
+ (Emphasis added)
+The issue (as Davies J summarised it in Mid Density Development Pty Ltd versus Rockdale Municipal Council) is: [W]hether Rockdale's trading activities or financial activities formed a sufficiently significant proportion of its overall activities as to justify its description as a trading or financial corporation. The adjectives "significant" and "substantial" were considered in the context of characterization in Deputy Commissioner of Taxation (Cth) versus Stewart <case>; [(1984) 154 CLR 385] at 390, 397 and 399-400. The activities must be of a sufficiently significant or substantial scale as to confer the character of "trading" or "financial" upon the corporation. The relationship between the activities relied upon and the overall activities of the corporation, and the extent of those activities in comparison to the extent of the corporation's activities overall are relevant.
+ (emphasis added)
+The view of the majority in R versus Trade Practices Tribunal; Ex parte St George County Council <case>; [(1974) 130 CLR 533], 155 per Mason J. The Solicitor-General noted in his written submissions that the Attorney-General, as a matter of formality, "reserves the right to challenge the principles established in these cases".
+There was agreement that the test applied by Davies J in Mid Density Development Pty Ltd versus Rockdale Municipal Council derived from Mason J's judgment in Adamson's case (set out in [95] above) is the test that I have to apply.
+There are cases in which organisations that might not, from their nature, appear to be trading corporations such as the RSPCA, the Red Cross and the University of Western Australia, have been held to be trading corporations for the purpose of the TPA but they were all held to be such based on the extent of their substantial engagement in profit making activity: Orion Pet Products versus Royal Society for Prevention of Cruelty to Animals (Vic) Inc [(2002) 120 FCR 860]
+Mr Galasso drew my attention to a number of pages of the Council's Annual Report for 2004-2005 (Exhibit A4, pp 1403-1462) and Annual Financial Statements 2004/2005 (Exhibit A4, pp 1463-1544).
+The pages to which he drew attention contain references to water supply (Exhibit A4, p 1411), an aerodrome (Exhibit A4, p 1412) and two medical practices which practices show a significant profit (Exhibit A4, p 1417). These areas of activity seem to me to be connected with the promotion of community needs and not to be of a commercial or trading character. In relation to the water supply, Mr Galasso referred to <case> of the LGA which he submitted makes water supply a business activity. I do not accept that contention. Section 610A only makes the carrying out of a water supply (or sewerage service) a business activity if it is not a service provided on an annual basis for which the Council is authorised or required to make an annual charge under <case>. Section 501 permits the Council to make an annual charge for water and no attempt was made to establish that the water supply with which the annual report is dealing is one for which a charge could not be made under <case>.
+Mr Robertson resisted the contention that the Council was a trading corporation. Mr Sexton contended that there was insufficient evidence to make a finding in relation to the trading activities of the Council (T290.37-44).
+Reference was made by Mr Galasso to the Council's operating surplus of $2.463M (Exhibit A4, p 1419). The fact that Council has an operating surplus does not make the local council a trading corporation any more than a state government surplus (if one could be achieved) makes that state government a trading corporation. Reference is made in the Annual Report to private works and an income of $98, 485 (Exhibit A4, p 1425). This could be relevant, at least if coupled with other more significant amounts, but, with the exception of investment revenue of $215K and an expense of $207K for business undertakings (Exhibit A4, p 1534) which only yielded revenue of $181K, such other amounts have not been identified. With revenue of $11.9M (excluding capital amounts) and expenditure of $11.6M and rates and annual charges of $3.9M and user charges and fees of $3.2M the Council does not appear to be engaged in any significant enterprise for profit and it is not, in my view, a trading corporation. Reference was made in the Annual Report and accounts, to which Mr Galasso drew attention, phrases such as "cash on hand; short term deposit and bills" and the fact that these "describe things ordinarily commensurate with trading corporation" (T284). The use of financial terms in Council accounts which are also utilised in trading corporations do not really provide any assistance to the joint venturers' argument. Use of performance criteria such as "interest rate risk criteria" or "debt service ratio" and the division of the Council into "business units" are all indications that Councils are concerned about ensuring a responsible approach to cost and efficiency as is the Council's decision to adopt the Local Government Code of Accounting Practice and Financial Reporting (Exhibit A4, p 1519) but they do not support the conclusion that the Council is a trading corporation.
+In Mid Density Development Pty Ltd versus Rockdale Municipal Council Davies J said of Rockdale Council that "most of its revenue is derived from rates, garbage levies and the rent from properties which it owns... The carrying out of a function of Government in the interests of the community is not a trading activity" at p 36 (see also Marrickville Metro Shopping Centre Pty Ltd versus Marrickville Council <case>; <case>). I think it would be unusual for any council to have sufficient trading activities for it to be described as a trading corporation given the nature of local Councils and their largely statutorily driven activities but accepting that it is possible, the evidence here falls far short of it.
+
+Further Issues Relating to the Misleading and Deceptive Conduct Claims
+In view of my conclusion on the "in trade or commerce" point and on the "trading corporation" point, it is strictly not necessary to deal further with these claims. Against the possibility that my conclusion on either point is erroneous, I will, however, deal with two important questions of fact relevant to those claims.
+
+The Hypothetical Question
+A question of significance to the TPA and FTA claims is what would the joint venturers have done if Council had said in March 2005, contrary to its previous indications, that it was not able to make any agreement about Council rates at all or beyond the first year.
+Mr Finnis in cross examination said that Bemax (i.e. the joint venturers) would have signed the Road Agreement even without clause 3.1 in it: see T128 and see also T121-T122. Mr Shirfan had different, and at times, contradictory views on that. He said he would have arranged to discuss it with the Mayor, the Minister, the Prime Minister and maybe the United Nations: see T198.11-19. He explained that he was a very resourceful man who had always been able obtain what he wanted (T201.15-202.41) and he said that he would have had himself elected as mayor: see T233.5. He also said that he would have signed the Road Agreement and then made a claim of duress (T231.29-36 and T201.45), and he also said at one point that he would have executed the agreement in order to proceed with the mine but shortly after he sought to resile from that concession: T231.46. At T236.7-40 there was the following exchange between Mr Robertson and Mr Shirfan: 
+Q. What you must concede Mr Shirfan, is you cannot, sitting here today, tell his Honour exactly what you would have done and how it would have been successful, in order to overcome this? 
+A. Not even now. Not even then I wouldn't have been able to tell his Honour, because that case that you are talking about is hypothetical, never came up.
+So I don't even know what to tell his Honour or you. I would not know what to do. But guaranteed, guaranteed - you can take that to the bank - I would have done something and you would have heard about it. But that never presented itself. I was presented with a contract I could sign, with the rate fixed. So the council did not know that. It's their business to know. It is not my business as a businessman to know. Their lawyer didn't know that. They can go and sue their lawyer, or sue somebody. But we were presented - you telling me about this case, never happened.
+
+Q. Mr Shirfan, I suggest to you that you do have a rather exaggerated view of your capacity to accomplish change? 
+A. I been told that before, but I proved them wrong, sir. And I can prove you wrong. Challenge me.
+
+Q. I'm sure you have, sir. Mr Shirfan, the proposition is you believe you can fix anything? 
+A. No, sir. I believe I can fix things that can be fixed.
+
+Q. And if something can't be fixed, you accept that you wouldn't be able to fix it? 
+A. That's where the wisdom comes, the famous philosopher asked for, "Please give me the wisdom to know what I can and cannot do" and that one I would have been able to fix, sir.
+
+Q. And? 
+A. This is why we are in business and to solve problems every day.
+
+Q. Mr Shirfan, I suggest to you that that is just not correct? 
+A. I disagree with you again.
+
+And at T232.39-T233.8: 
+Q. Mr Shirfan, the assumption I'm going to put you now is, as before: you have been told in March the rates would be $100,000; you had also been told that the council would give you no promises about what they would be in the future; you had been told that the council would have a discretion to increase the rates in the following year; and you had been told that the council could do nothing to bind themselves to fix the rates to any figure in the future. I suggest to you, Mr Shirfan, there was so much money at stake, you had proceeded so far down the road in developing this mine that you would have gone ahead, you would have executed the Road Agreement, you would have executed the Land Acquisition Agreement in order to get this project going? 
+A. Sir, maybe you would have. You don't know me. I would not have. Okay? 
+Q. Do you suggest- 
+A. You are assuming that if it was presented to you, you would have, or any reasonable person. I may not be as reasonable as you assume. I would have fought it tooth and nail. And would have gone back and done things, gone to the government, like I said yesterday, gone to high-level authority, elect myself Mayor - Mr McKinnon, don't worry, I'm out of the game. So, basically, I would've done things not to accept that what you are proposing to me. You would have accepted it, good. I would not.
+As at March 2005, any decision not to execute the Road Agreement without clause 3.1 needed to be considered in the light of the following matters: 
+The development consent had been granted with the requirement that the joint venturers enter into an agreement with the Council and that land be acquired by Council from private landholders.
+
+The processing plant in Broken Hill was under construction.
+
+Construction at the Gingko mine had commenced.
+
+A haulage road was a necessary requirement for the financial viability of the mine and that income could not be generated without product being hauled to Broken Hill: see T120 - T122, T215-T216.
+
+The joint venturers at the time owned the Gingko lease (and Bemax the
+Snapper lease).
+
+Income of $80M per year was anticipated for the Gingko mine: see Exhibit
+G and T126-127.
+
+Profit of $21M per year from the Gingko mine was anticipated: see
+Exhibit G and T126-T127.
+
+The road contractor would be entitled to "stand down" costs if the road work could not be commenced on land to be acquired and on roads owned by the
+Council: see T194.11-14.
+
+Bemax agreed to build a two lane bridge (albeit only when Snapper mine came online) at a significant cost to it and even though it did not regard it as necessary: T192.9-17 and see also T112-T113, T123.40, T124.21-3.
+
+Any attempt to buy land from private owners without the Council had no guarantee of success and would require a new development consent, and would take a very long time: T120.45-46.
+
+The profitability of the mine was highly dependent on the international price for the commodities and the exchange rate for the Australian dollar: see
+T228-T229.
+
+Mr Shirfan was determined that production commence and the mine be completed: see T218.1-5.
+
+The road itself cost $5M-$6M and the extra lane over the bridge was a very costly expense to which Bemax was forced to agree.
+
+The bank finance for the completion of the project and additional equity raised was $167M (T189.3), and the bank required many documents including the Road Agreement and land acquisition agreements at that time:
+T210.41-211.14.
+
+The joint venturers were working in a very tight time frame even from
+October 2004: T196.15 and T216.16-37, and see the email from Mr Finnis to Mr
+Ian Schache and other Bemax officers copied to Mr Shirfan inter alia at p , Exhibit A3 and the Worley Parsons letter to Bemax of 22 March 2005 warning of the significance of a delay in commencement of road work: Exhibit
+V.
+There are some further matters which Mr Carruthers submitted should be taken into account in considering what course the joint venturers and Bemax would have taken had they been appraised, as at March 2005, that the Council could not fix the rates: 
+Mr Shirfan's evidence that he would have sought to renegotiate the Road
+Agreement and to do so strenuously: T202.35-41.
+
+Mr Shirfan's evidence that the project was cost critical and money very tight: see T188.39-46.
+
+Mr Shirfan's evidence that he would have obtained approval of the board and sought the agreement of the bank to defer execution of the Road Agreement and negotiate with the Council: see T210-211 and see also T196-198.
+
+Mr Shirfan's evidence that the board would have acted in accordance with his recommendations: T212.1-11.
+In relation to Mr Shirfan's evidence at T202.35-41, this related to Mr Shirfan's idea that he could renegotiate the amount but the problem with that is that it still assumes that rates could be fixed. Mr Carruthers submitted that the Court could infer that Mr Shirfan's comment at T234.10-13 that he would have fought to make $100K happen "through other means" would include a request for an indemnity. Mr Shirfan had already indicated what he meant by "other means" at T233.1-10 and at T232.15-28 and an indemnity was not mentioned or in the class of what he had in mind.
+Accepting that the joint venturers are not contending that they would not have proceeded with the Gingko mine project had the Council made it clear that the rates could not be agreed in the manner of clause 3.1 that concession left only the contention that the joint venturers would not have entered into the Road Agreement as it was or had lost the opportunity to negotiate better terms for the Road Agreement. I have had regard to Mr Finnis' and Mr Shirfan's evidence and I am comfortably persuaded, on the balance of probabilities, that the joint venturers would have proceeded with the Road Agreement even had clause 3.1 been omitted and had they had been made aware that Council could not make any commitment to the future level of rates as Mr Finnis (and at one point Mr Shirfan) conceded. Even allowing for the fact that had the true position in respect of Council's rates being made known on 22 March 2005 and accepting that there was time within which negotiations could be held nothing said by Mr Shirfan as to what he would have done or might have done has been shown to have had any realistic prospect of avoiding the need for the joint venturers to execute the Road Agreement or of obtaining relief from whatever rates the Council was lawfully entitled to charge. From the Bemax parties point of view there was the prospect of a significant financial return and easing of any shortage of cash once the mine commenced production and the prospect of potential costs of delay (both to costs of the road contractor and the delay in commencing the revenue stream) if the Road Agreement was not signed as soon as possible. I am satisfied that the joint venturers and Bemax were keen by March 2005 to avoid any delay in completion and execution of the Road Agreement. I do not accept that Mr Shirfan would have been likely to act unreasonably or irrationally and even if he had, I do not accept that there was any realistic prospect that the Bemax board (or the respective boards of the joint venturers), properly informed, would have changed their course of proceeding with the Road Agreement, even if informed of the absence of rates in March 2005.
+I have referred to the possibility that the joint venturers might have been willing to investigate the purchase of land directly from landholders. Quite apart from the practical difficulties that that would have involved, there is another aspect to it, which is that, even assuming such an alternative approach was feasible, realistic and achievable, the fact that the road was built entirely on private land would not preclude Council from levying rates at precisely the same level that they have sought to levy. Even not signing the Road Agreement and entering into some other arrangement compliant with an amended development consent would not only have caused the joint venturers' to bear considerable cost by virtue of delay but would it not have prevented the Council from levying rates at the appropriate level.
+In so far as it is suggested that the joint venturers had matters to negotiate which, had they known rates could not be fixed, might have reduced the attendant cost, I make these findings: 
+I am not convinced that clause 3.1 was included in the Road Agreement solely for the joint venturers' benefit. The Council minutes of February 2002 suggest that the Council officers thought it was doing rather well for itself and, on a preliminary valuation of $338K which they first received, they were receiving 29.5 cents per dollar of value (compared to 6 cents per dollar that $360K represents on a valuation of $6M), they may have been correct in that view. That view seems to have been held by Mr Finnis as well (see Exhibit A3, p 392) in the comment he made about repairs to other local roads and is not inconsistent with Mr Shirfan's comment to Mr Boyd that he thought the $100K "a bit steep". What follows from this is that I am not persuaded that the absence of clause 3.1 would have placed the joint venturers in a stronger negotiating position with the Council than if it was included.
+
+The matters about which the joint venturers were negotiating, such as the replacement of cash bonds by bank guarantees or the provision of a only one lane over the bridge, were not matters which were linked to rates (see
+T124.40-46). The joint venturers realistically had to agree to what Council, at least reasonably, required: see T112-T113 and T123.35-45, T124.20-30,
+T192.9-17.
+
+No item of cost to the joint venturers under the Road Agreement has been identified as likely to have been reduced by negotiation had the joint venturers known that rates could not be fixed. Neither Mr Shirfan nor Mr
+Finnis pointed to what would have been excised from the Road Agreement or reduced had it been made clear that rates could not be fixed. The need for a bond for the joint venturers' commitments was accepted by Mr Finnis as reasonable (T124.1-46) and I am unable to accept it that there was any real prospect that the Council would not insist on guarantees or a bond.
+
+The prospect that an indemnity in favour of the joint venturers for any increase of rates beyond $100K pegged per annum if sought by the joint venturers would have been accepted by the Council, as Bemax has propounded in written submissions, seems to me to be entirely unrealistic and no evidence was given by Mr Shirfan that that is what he would have sought, and nor was Mr
+Boyd cross examined on the topic. I am not able to infer that a Council (on this scenario) informed that rates cannot, by law, be fixed for 20 years would, or even might, then agree to indemnify the ratepayer if rates had to be increased beyond the expected level once a valuation was received.
+Another difficulty in the Bemax parties' case is that for a representation about a future matter to be misleading or deceptive it is necessary that the corporation (or person) did not have reasonable grounds for making the representation. The wording of <case> itself makes it clear that there remains a distinction between representation of fact and one as to a future event, and I do not understand the Court of Appeal in Digitech to encourage disregard of the requirements of <case> of the TPA. The evidence does not establish that the Council did not believe as at March and April 2005 that it could not reach the agreement contained in clause 3.1 and hence would not be charging the rates specified in the Road Agreement and had no ground to believe it could. The joint venturers claim, even now, that clause 3.1 of the Road Agreement was a valid exercise of Council power and it was not put to Mr Boyd that he did not believe in 2005 that the Council had the power. As Mr Shirfan himself pointed out (see T232.21, T236.16) the Council had the benefit of legal representation in the preparation of the Road Agreement. The Council certainly was alive to the problem by the time of Ms Maguire's letter of 23 May 2007 (see p 676 Exhibit A2) but the question of misrepresentation must be determined as at March and April 2005. 
+The Bemax Case
+There are additional considerations relevant to the Bemax case. Bemax did not enter into any agreement with the Council concerning rates. Its case is based on the fact that Bemax officers acting on behalf of the joint venturers were led by the Council's conduct to understand that the rates payable by the joint venturers for the Gingko mine would be $100K. Hence so the argument runs, Bemax was justified in assuming that the rate would be comparable to the rates of $100K that the joint venturers were to pay under the Road Agreement. 
+Mr Shirfan accepted that the question of what rates Bemax would have to pay was not the subject matter of negotiation and that negotiation was needed, and Mr Finnis did not really turn his mind to it: see T128-T130. In fact there is no evidence of any negotiation taking place and one explanation is that by 2006, well before the Gingko mine was developed, Council issued the Supplementary Rate Notice. By its letter of 23 May 2007 (see Exhibit A2, p 676) the Council had made clear to Bemax that it regarded itself as precluded from entering into an agreement for future rates. Bemax was therefore on notice that it could not rely on what it had assumed and no evidence has been put forward to demonstrate Bemax did or did not do something in reliance on the representations made to itself as well as to the joint venturers.
+Bemax does not contend that it would not have developed the Snapper mine if it had known that an assumption it had made was erroneous. Even assuming in Bemax's favour that the representations made concerning the Gingko mine were implicitly made to it concerning the Snapper mine, and even assuming (contrary to my conclusion) that the representations were made "in trade or commerce" and that the Council was a trading corporation, the misrepresentation has not been shown to have caused any loss to Bemax. The letter of 23 May 2007 made clear the Council's position at that time. Neither Mr Shirfan nor Mr Finnis said what they would have done on behalf of Bemax had they known in March or April 2005 that Council could not enter into clause 3.1 of the Road Agreement.
+
+The Class 3 Proceedings
+One of the proceedings before me has been described as "class 3 proceedings" under <case> of the LGA brought by the joint venturers. These proceedings appear to have been defensive in nature to preclude any reliance by the Council on an argument that the joint venturers (and Bemax) should have launched an appeal under that section. The joint venturers, Bemax and the Council are in agreement that neither Bemax nor the joint venturers are making claims that fall within <case> (see para 103 of Council's Outline of Submissions and para 107 of Bemax's Submissions of 10 July 2013). In the light of that, I do not need to consider this matter further.
+
+Conclusion
+It follows that, in my view, 
+Clause 3.1 of the Road Agreement did not permit the Council to make adjustments to the $100K rate per annum other than adjustments resulting from
+Ministerial direction given to the Council pursuant to <case>, 
+Clause 3.1 of the Road Agreement was invalid because it was beyond the power of Council to make, 
+The joint venturers and Bemax claims against the Council under <case> of the FTA and <case> of the TPA fail, 
+There should be judgment for the Council against the joint venturers for $1, 917, 635.05 and against Bemax for $495, 768.32 - these amounts are based on the amounts referred to in [26] but include interest up until today.
+
+Costs and Orders
+I will hear the parties on costs and as to the form of orders to be made.
+ * * * 

@@ -1,0 +1,625 @@
+
+
+In the matter of HIH Casualty & General Insurance Ltd (in liquidation and subject to schemes of arrangement) [2013] NSWSC 741 (12 June 2013) 
+Last Updated: 13 June 2013 
+Supreme Court 
+New South Wales  
+Case Title: 
+In the matter of HIH Casualty & General Insurance Ltd (in liquidation and subject to schemes of arrangement)  
+Medium Neutral Citation: <case>  
+Hearing Date(s): .05.13, 02.05.13, 09.05.13, 17.05.13, 24.05.13  
+Decision Date: June 2013  
+Before: 
+Nicholas J  
+Decision: 
+Pars 128, 130  
+Catchwords: 
+WINDING UP - insolvency - insurer - contracts of reinsurance - distribution of reinsurance proceeds - insured's application for order under <case> [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) that reinsurance proceeds be applied to specific insurance liabilities and not to insolvent insurer's liabilities as whole - reinsurance proceeds received as balance of account of mutual dealings under [s
+C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s553c.html) - ascertainment of amount received in respect of insolvent insurer's liability under [s
+A(1)(b)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) - whether "just and equitable" that an order be made under [s
+A(4)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html)  
+JUDGMENT
+HIS HONOUR: In these proceedings the plaintiff, Sydney Water Corporation (SWC) seeks orders under [s 562A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) [Corporations Act 2001](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) (the Act) that reinsurance monies received by the first defendants, Messrs A G McGrath and C J Honey (the liquidators), as liquidators of the second defendant, HIH Casualty & General Insurance Ltd (in liquidation and subject to schemes of arrangement) (HIH), be paid to it.
+These proceedings concern the application of proceeds received by HIH from its reinsurers, Syndicate 683 (the Syndicate) and Compagnie International d'Assurances et de Reassurances SA (Compagnie).
+By originating process filed 8 October 2012, SWC seeks orders under [s 562A(4)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) that [s 562A(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) and [s 562A(3)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) do not apply to monies received from those reinsurers in respect of specified claims, and that those monies, after some deductions, be paid by the defendants to SWC. It was foreshadowed that SWC may seek similar relief in respect of recoveries from other reinsurers when the parties are ready to proceed.
+SWC (previously known as Water Board (Sydney)), is a state-owned corporation which supplies drinking water, wastewater services and some stormwater services to Sydney, the Illawarra and the Blue Mountains.
+The liquidators were appointed on 27 August 2001. Their position was similar to that adopted in earlier cases, for example, Amaca Pty Ltd versus McGrath & Ors <case>; [82 ACSR 281] (Amaca No. 1). Although the contest in this case is essentially between SWC and the other insurance creditors of HIH the liquidators, except on particular issues, neither consent to, nor oppose SWC's application. As no other insurance creditor was a party the liquidators adequately identified the arguments against the making of the orders sought. They opposed the application insofar as SWC contended that there should be no application of set offs, and that costs (referred to as external management costs) incurred by the defendants and pre-liquidation payments should not be deducted from amounts otherwise payable to SWC under [s 562A(4)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) of the Act.
+
+Background
+Much of the following history is taken from the statement of agreed facts provided to the court by the parties' representatives and is otherwise supported by the evidence.
+Relevant to these proceedings are three policies of insurance in which SWC was insured by the second defendant then known as CE Heath Casualty & General Insurance Ltd, now HIH: 
+General Liability Insurance Policy No. NZ 21033 for $300 million cover for three years commencing 30 June 1992 (Policy B or the 1992 Policy); 
+General Liability policy No. NZ 21033 for $234 million cover for the policy year commencing 30 April 1997 (Policy A or the 1997 Policy); and 
+Public/Product Liability and Professional Indemnity policy No. NZ 23812 for $25 million cover for the policy year commencing 5 October 1998 (referred to by Mr Honey as Policy C) (or the 1998 Policy). Policy C was issued in respect of an infrastructure project at Rouse Hill.
+SWC paid the following premiums to HIH: 
+In respect of Policy B: $1,700,000 in respect of the year 30 June 1992 - 30 June 1993; $1,530,000 in respect of the year 30 June 1993 - 30 June 1994; and $763,726.02 in respect of the six months 30 June 1994 - 31 December .
+
+In respect of Policy A: $1,946,431.30; and 
+In respect of Policy C: $182,352.94.
+In 1998, Sydney's water supply was contaminated by cryptosporidium and giardia. SWC was the subject of a class action, which resulted in SWC lodging a claim of $14,541,525 under Policy A (the Water Contamination Claim). 
+SWC made one other claim on Policy A (the Wynyard Claim). SWC has also made one claim under Policy B (the Goldlen Claim) and one claim under Policy C (the Rouse Hill Claim).
+Before going into liquidation, HIH made payments of $2,500,054.25 to SWC in respect of the Water Contamination Claim.
+SWC's claims have been acknowledged in the HIH Schemes for a total of $7,577,987.70 as follows: $765,486.89 in respect of the Wynyard Claim (Policy A).
+ $6,618,163.50 in respect of the Water Contamination Claim (Policy A); $18,768.35 in respect of the Goldlen Claim (Policy B); and $175,568.96 in respect of the Rouse Hill Claim (Policy C).
+
+Other relevant entities and people
+Other relevant entities and people include the following: 
+SWC's risk and insurance manager, Bruce Ferguson, was responsible for placement of SWC's insurance programme.
+
+SWC's insurance broker was Martin Colebrook of Heath Fielding
+Ltd.
+
+Seung Ho Bang was an employee in HIH's public liability division and was responsible for the SWC account from 1996 onward.
+
+HIH's London reinsurance broker was Heath International Broking Ltd.
+Brian Palmer acted as HIH's reinsurance broker. Nick Woodham-Jones also worked for Heath International Broking Ltd and on this account.
+
+A number of London reinsurers participated in the reinsurance of insurance policies issued by HIH to SWC, including: 
+Lloyds' of London Michael W Payne Syndicate 386 (the Syndicate) which was the lead reinsurer, that is, they set the terms and conditions of the reinsurance contracts which are followed by other participating reinsurers.
+Over time, this syndicate became known as the R J Wallace Syndicate then the D
+A Constable Syndicate and now QBE Casualty Syndicate 386.
+
+Compagnie International d'Assurances et de Reassurances, S.A .
+
+Eagle Star Reinsurance Company Ltd (Eagle Star).
+
+Lloyd's, London Syndicate 919 (Syndicate 919).
+
+Reliance National Insurance Company (Europe) Limited (Reliance).
+
+Sirius (UK) Insurance Plc (Sirius).
+
+Sphere Drake Insurance Plc (Sphere Drake).
+
+Dai-Tokyo Insurance Co (UK) Ltd (Dai-Tokyo).
+
+Insurance and reinsurance
+Reinsurance is a contract of indemnity and there are two distinct types of reinsurance purchased by insurers: "facultative" reinsurance, which is a contract only covering all or part of a single specific policy of insurance; and "treaty" reinsurance, which covers some portion of a defined class of an insurance company's business.
+Mr Honey deposed that, for the relevant years, the limit of HIH's treaty reinsurance program was set at a level below its potential exposure in respect of the insurance policies issued to SWC. The gross capacity of HIH's treaty reinsurance program was as follows: $20 million in each of the years 1992 to 1994; $30 million in 1995; $100 million in each of the years 1996 and 1997; and $100 million in each of the years 1998 to 2000.
+
+Early insurance arrangements with SWC 
+From at least 1986 SWC was a client of the Syndicate, sometimes insuring with that syndicate directly and sometimes as facultative reinsurer of HIH. Mr Palmer described the open cooperation between SWC and the Syndicate.
+In 1991, Mr Constable began working for the Syndicate and was responsible for insurance matters relating to SWC. Mr Constable deposed to his regular meetings with SWC in London and Australia, sometimes with and sometimes without a representative of HIH being present.
+Mr Bang was employed by HIH from 1995 onwards, and early in 1996, was given the job of fixing the SWC account. Mr Bang explained: "[in] the 1990s, large corporate or government accounts such as Sydney Water
+Corporation were hard to place in the local Australian market, as the market didn't have the capacity to carry such large risks. Such risks were either directly placed in the London insurance market; or placed in Australia and reinsured in London.
+
+Such business was mainly written by Syndicate 683. Where the risk was insured in Australia and reinsured in London, Syndicate 683 was generally the lead underwriter on the reinsurance placement. In reality, Syndicate 683 controlled the placement in the London market. This syndicate was renowned in the
+Australian and London markets for the longevity of their client relationships with, not only reinsureds (local Australian insurers), but also the ultimate insureds." 
+The general liability policy issued by HIH to SWC 
+In 1992, HIH issued General Liability Insurance Policy No. NZ 21033 to SWC for $300 million cover for three years commencing 30 June 1992. The cover under that policy was later reduced, with the agreement of SWC, to $234,125,000 for the period commencing 30 June 1993. Cover was further reduced, with the agreement of SWC, to $219,250,000 (more correctly described as $212,125,000 plus $7,125,000 part of $22,000,000) for the period commencing 30 June 1994. This 12 month renewal period was subsequently amended with the expiry date for the renewal period retracted to 31 December 1994.
+The policy was described as a packaged liability policy, in that the policy contained five sections which provided cover for public and product liability, professional indemnity, employees' legal expenses, directors & officers and corporate reimbursement. Each section had its own limit of cover.
+Reinsurance of the 1992 policy was subject to Notice of Cancellation at Anniversary Date by which the reinsurers could cancel the cover on 30 June in any year during the period 30 June 1993 to 30 June 1995. 
+Clause 6 of Policy B provided for cancellation in the event of a loss of, "a substantial amount of the insurers' capacity or a change in his reinsurances that would affect the insurance covered therein ...".
+Policy B was an extension of an expiring policy, in respect of which no claim is made by SWC.
+The cover under Policy B was renewed in subsequent periods (including, relevantly to these proceedings, the 1997 renewal which is referred to as Policy A). 
+Other than the risks which HIH retained (and which may have been subject to its treaty reinsurance program), HIH reinsured the risk under SWC's policies on a facultative basis. 
+The table below describes the exposure retained by HIH to the risks insured under each year of Policy B (based on the evidence of Michael Page and supported by cover notes and other internal records identified by him). The parties agree that the primary and lower layers of reinsurance (sometimes referred to as the "working layers") not only covered general liability but also professional indemnity and directors and officers insurance.
+ Policy - reinsurance layers 1992/1993 year) 
+Coverage 
+HIH retention 
+HIH retention  ---|---  
+Primary $5m %
+ $1,250,000  
+First excess ($15m in excess of $5m) $15m %
+ $3,750,000  
+Second excess ($30m in excess of $20m) $30m %
+ $7,500,000  
+Third excess ($50m in excess of $50m) $50m %
+ $5,000,000  
+Fourth excess ($100m in excess of $100m) $100m %
+ 
+Fifth excess ($50m in excess of $200m) $50m %
+ 
+Sixth excess ($50m in excess of $250m) $50m %
+ 
+Total coverage $300m .83% $17,500,000  Policy - reinsurance layers 1993/1994 year) 
+Coverage 
+HIH retention 
+HIH retention  ---|---  
+Primary $5m %
+ $1,250,000  
+First excess ($15m in excess of $5m) $15m %
+ $3,750,000  
+Second excess ($30m in excess of $20m) $30m %
+ $7,500,000  
+Third excess ($50m in excess of $50m) $50m %
+ $2,500,000  
+Fourth excess ($100m in excess of $100m) $100m %
+ $5,000,000  
+Fifth excess ($12.125m in excess of $200m) $12,125m %
+ 
+Sixth excess ($22m in excess of $212.125m) $22m %
+ 
+Total coverage $234.125m .54% $20,000,000  Policy - reinsurance layers 1994/1995 year) 
+Coverage 
+HIH retention 
+HIH retention  ---|---  
+Primary $5m %
+ $1,250,000  
+First excess ($15m in excess of $5m) $15m %
+ $3,750,000  
+Second excess ($30m in excess of $20m) $30m %
+ $7,500,000  
+Third excess ($50m in excess of $50m) $50m .5% $2,250,000  
+Fourth excess ($100m in excess of $100m) $100m %
+ $5,000,000  
+Fifth excess ($12.125m in excess of $200m) $12.125m %
+ 
+Sixth excess ($7.125m part of $22m in excess of $212.125m) $7.125m %
+ 
+Total coverage $219,250m .55% $18,750,000  
+Evidence regarding renewal of the general liability policy  June 1993 - first anniversary of Policy B
+Policy B was renewed for the period 30 June 1993 to 30 June 1994 for $234,125,000. The cover was reduced from $300,000,00 in the previous period due to insufficient reinsurance cover being available to HIH. This is evidenced in the correspondence set out below.
+On 30 June 1993, the first anniversary date of Policy B, Malcolm Dodwell of Heath Insurance (HIH's broker) sent a fax to Heath Fielding (SWC's broker) stating: "You must realize that with such a large amount of reinsurance becoming unavailable, particularly in the vulnerable lower layers, I must regard this as a substantial loss of protection and whether or not the amount equates to less than 10%, $20 million approximately is a lot of money in anybody's language.
+
+In my view there would be little difficulty in proving this was a substantial loss of reinsurance within the meaning of the policy wording and I feel sure that Martin [Colebrook] must have realized this when negotiating the deal with
+Rod Waites [of HIH] ...
+
+Please realize that I could not afford CE Heath Casualty & General to be without reinsurance protection and the notice of cancellation which must still stand was an inevitable but necessary step to take. ...
+ ... we are advising London and hopefully they can get the message across to the appropriate markets concerning the amount of premium received etc etc ..."
+Also on 30 June 1993, SWC's broker responded to HIH's broker by facsimile: "I do not agree that 10% represents a significant loss of reinsurance capacity...I must repeat, your layering is your problem. You did it. You must live with it. "
+In September 1993, Bruce Ferguson travelled to London to negotiate with the market including attending meetings with a representative of the R J Wallace Syndicate. 
+On 18 October 1993, Mr Dodwell sent a fax to Mr Colebrook stating: "I confirm our conversation today advising that we have received confirmation of further reinsurance support to the tune of $22 million in the layer $50 million excess of $200 million. With the $12.125 million already placed in this layer, this gives us a ground up reinsuance capacity of $234.125 million.
+
+The premium for this $34.125 million is $55,000 nett to us ...
+
+This is the maximum support we can offer and understand that you are perusing co-insurance direct from your office...
+
+In the meantime I must stress that the cover is for a 12 month period only, that the previous three year agreement is cancelled and can no longer survive ... Having regard to the reinsurance position this was the only alternative available." 
+SWC activities with reinsurers in 1995 and attitudes to its insurance and reinsurance
+In September 1995, Bruce Ferguson travelled to London to negotiate with the market including attending meetings with a representative of the R J Wallace Syndicate. 
+In November 1995, a paper to the SWC executive stated: "The size of SWC's insurance program is such that the majority of the program is increasingly being underwritten and re-insured through the London international insurance market." 
+SWC's purchasing philosophy was said to be based on various criteria including: "SECURITY The Policies must be placed with financially stable insurers who are in turn supported by strong panels of re-insurers." 
+SWC was said to have a strategy "for developing strong working relationships with the leading underwriters and re-insurers" which enabled SWC to achieve cost savings: "The premium for the packaged liability policy has been directly negotiated with the local and London market and 3 year extensions have been achieved at effective 1991/92 rates. Estimated savings $3-4 million.
+ ... active insurance management since 1990 is estimated to have saved the
+Corporation up to $12 million in insurance premium costs as compared to normal market rates. This has involved an active management strategy by the
+Corporations Group Risk Manager in direct collaboration with Heath Fielding , CE Heath Insurance Broking Ltd (London), the local insurance market, and in particular, the London insurance market.
+ ... A recent visit to the international underwriters and reinsurers who support this packaged liability arrangement clearly highlighted that it was the combination of [various factors] together with the Corporation's known stance on supporting longer term relationships in purchasing liability insurance that saw the London market continuing with a product they would otherwise not make available to the general insurance buyer."
+In 1996, Mr Constable of the R J Wallace Syndicate met with SWC in London and later travelled to Australia to meet with SWC.
+ /1997 renewal of the General Liability Policy (Policy A)
+Mr Bang had "identified a number of accounts as having gaps in cover, that is, no back-to-back reinsurance. SWC ... was one such account and had a potential exposure of $234m." Mr Bang focused on "matching the policy wording on the insurance policy with the conditions of the reinsurance cover". His main role in the renewal process was to: match up the terms of the policy of insurance and the reinsurance coverage and thereby ensure back-to-back reinsurance without gaps; maintain the client relationships with SWC and Mr Colebrook; and continue to learn about the scope of activities and risk exposures of
+SWC."
+Mr Bang deposed that "it took two renewals of the policy to eliminate the gaps in cover". 
+During the 1996/97 renewal, Mr Bang became aware that: 
+Mr Colebrook [SWC's broker] and Mr Ferguson [of SWC] travelled every second year to London pre-renewal for about 2 weeks to meet with current and potential reinsurers. Sometimes a representative of CE Heath [HIH] also went on the trip.
+
+Representatives of the R J Wallace / D A Constable Syndicate also made regular trips to Sydney. Mr Bang understood that the syndicates made contact with either or both of SWC and Heath Fielding directly and met them without Mr
+Bang. He didn't have any objection to this direct contact because the decision on the breadth of coverage and overall pricing of reinsurance (which largely determined the original insurance pricing) was made by that syndicate.
+To Mr Bang's observation, policy wording was dictated by the lead reinsurer, the R J Wallace Syndicate because the reinsurers dictated the terms and conditions in the reinsurance placement, and HIH then needed to reflect those same terms and conditions in the insurance policy it issued to SWC in order to ensure there were no gaps between the reinsurance cover and the insurance cover provided to SWC. 
+In February 1997, negotiations were afoot to renew the 1996-97 policy period. On 4 February 1997 Mr Bang corresponded with Mr Colebrook [SWC's broker], stating that: "You will also recall our PI division's insistence that HIH standard PI and
+D&O wordings be used...they believe that coverage provided by HIH standard wordings are very good and are confident of convincing you...
+
+Martin, as you are aware, the reinsurance into London is a packaged one. In other words, Liability and PI are reinsured together. What we do retain to our own account is then reinsured to our PI Division for the PI component. London will not reinsure PI on its own without the corresponding lines on liability.
+My concern is that we, as HIH Liability, retain very little of this account because of the need to reinsure PI and D&O. If this was 'unbundled' we could write the liability portion of $50m into our Treaties and only purchase facultative in excess of that. However, unbundling is obviously not an option for you nor SWC.
+
+If we cannot reach agreement with our PI division and replace them with
+London, this means that HIH Liability will retain even less to our own account than we do at present because London will also demand the corresponding
+Liability line. If this happens, the whole account will not be worth our while to stay on. As it is, when we look at HIH Liability's retention on this account as it stands, it is a borderline case anyhow."
+Mr Bang told Mr Colebrook that HIH would be placing facultative reinsurance for the policy with the likely lead reinsurer being the R J Wallace Syndicate. Mr Colebrook conveyed this information to Mr Ferguson of SWC.
+On 5 February 1997, Mr Bang reported to Mr Colebrook [SWC's broker]: "From our previous discussions in relation to the forthcoming renewal negotiations, you are well aware of the difficulties we are expecting from the reinsurers, both London and local, particularly in the areas of Professional
+Indemnity and Directors & Officers/company Reimbursement. This is a potential problem unless we can plan for contingencies and seek out alternatives before it is too late. I also have a feeling that further difficulties, other than the ones we are already expecting may manifest themselves during this forthcoming renewal.
+
+As you are aware, the lion's share of the reinsurance placement is led by Bob
+Wallace syndicate in London. ... The size of London's involvement in our reinsurance placement is historic, mainly due to the long standing relationship between SWC and London.
+
+Rather than leave things until the last minute, I believe that it will assist all parties, SWC in particular, to prepare a good submission (with respect to
+Professional Indemnity and Directors & Officers/Company Reimbursement) and embark on a 'selling trip' to London to discuss the issues face to face with
+Bob Wallace. ... As you know, it is much more difficult to say no 'face to face' to a major client such as SWC, especially when the client has come ,000 kms to present their case in a well structured manner."
+On 10 February 1997, Mr Bang wrote to Mr Colebrook about "expected problems with reinsurers at renewal". The letter included: "This policy falls due for renewal on ...
+
+To assist us in arriving at renewal terms for the forthcoming period, kindly supply the following information.
+ ...
+
+Upon receipt of your advices, we will provide our renewal terms.
+
+Kindly note, however, if we do not receive the requested information from you prior to the policy's expiry date, in accordance with the [Insurance
+Contracts Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ica1984220/), we hereby provide notice of cancellation to take effect at 4pm on the expiry date shown above.
+
+Martin, 
+If I have missed something which usually forms part of the renewal underwriting information package, please add it to the above list.
+
+Due to the expected problems with reinsurers at renewal, would it be possible to receive the PI and D&O proposal earlier than usual to enable me to commence negotiating with alternative reinsurers as soon as possible? 
+Please keep me informed as to what the renewal sequence will be (eg. do we wait until 'face to face' negotiations with Bob Wallace has been done first or do we gather information and send it to them, etc). I can then fit in to this my negotiations with alternative reinsurers."
+In about April 1997, Mr Bang accompanied Mr Ferguson and Mr Colebrook to London on the selling trip to conduct face to face negotiations with the Syndicate. Mr Ferguson says that he was involved in negotiations and discussions leading to placement of the policy. He attended a meeting in London with Mr Constable of the R J Wallace Syndicate at which a presentation was made about risk.
+On return from London, Mr Woodham-Jones of Heath International Broking Ltd [HIH's broker] reported to Mr Bang on various queries from Mr Constable, which Mr Bang forwarded to Mr Colebrook for instructions. Mr Bang liaised with Mr Colebrook about changes to policy wording as a result of discussions with the Syndicate in London. For example, on 21 April 1997, Mr Bang sent proposed changes to policy wording to Mr Colebrook "subject to London reinsurer's final agreement". Mr Bang deposes that: "I wanted to ensure that whatever conditions the reinsurance placement was subject to were also included in the wording of the policy. I didn't want HIH to be exposed to more than its intended retention, by having resinsurance conditions more restrictive than insurance conditions. Effectively, the reinsurers dictated the breadth of coverage which HIH could give to Sydney
+Water Corporation."
+Whenever Mr Bang communicated with Mr Colebrook or Mr Ferguson about the insurance policy wording, which was regularly during the 1997 renewal, he said "these are the changes to the wording which we need to make to ensure that we [HIH] have back-to-back reinsurance cover".
+On 25 April 1997, Mr Constable of the R J Wallace Syndicate sent extensive policy wording changes to Mr Bang, noting that the expiry wording was "bespoke" and was not a London market form but appeared to be an "original job" of SWC's broker, Heath Fielding. Mr Constable asked, "We will not agree the D&O section on the current basis. As a matter of interest, have you signed off on this form for previous years?"
+Mr Bang says he requested this facsimile from Mr Constable as he thought SWC would be more likely to accept the changes in policy wording if it came from the reinsurer. On 28 April 1997, Mr Bang forwarded these changes to Mr Colebrook, explaining: "Whilst the comments are under the heading ACTEW, I would say that the comments also apply to SWC. He probably has not had time other than to read the ACTEW wording (on the assumption that the two wordings are similar). His comments on the Legal Expenses and D&O wordings would clearly apply to both SWC and ACTEW.
+
+David has stated that the Legal Expenses and D&O sections are "unsatisfactory" in the current form and is suggesting that wholesale changes are required to the wordings to make them acceptable.
+
+He has also asked whether we (HIH) have signed off on this form for previous year? This may create some problems for us in terms of past reinsurance placements which we have to deal with separately to the renewal negotiations ...
+
+From our viewpoint, we had to ensure that our reinsurers were aware of the wording they were following ... to avoid any reinsurance coverage disputes in the future.
+
+It seems clear now that the wordings for ACTEW and SWC had never been seen (let alone agreed) by the London reinsurers and that we may have been running bare on some of the coverage provided by the wordings."
+Mr Bang told Mr Colebrook, "these are the changes to the wording which we need to make to ensure that we have back-to-back reinsurance cover". On 30 April 1997, Mr Bang wrote to Mr Colebrook following a meeting on policy wording, stating: "As for wordings for Employee Legal Expenses/D&O/Corporate Reimbursement sections, I will study the existing wording vs HIH wording to see what the main differences are. We should draft a version then endeavour to get our reinsurers (either London or our PI division, etc) to agree. I will endeavour to draft something which may be acceptable to all parties. We should arrange another time (in the next couple of days) to discuss these wording issues.
+Please ring me when you receive this facsimile to arrange a time."
+Mr Bang deposed that "effectively, the reinsurers dictated the breadth of cover which HIH could give to Sydney Water Corporation". 
+By early May 1997, policy wording had been resolved. 
+On 13 May 1997, Mr Bang wrote to Mr Colebrook confirming that HIH would convert the General Liability policy to a 3 year policy on SWC's undertaking that it would cancel the policy "... if and when our reinsurance is no longer available, with effect from the date of the reinsurance becoming no longer available".
+Mr Bang says without facultative reinsurance there was "no way" that HIH could have offered the policy, and it could only do so for 3 years if SWC undertook to cancel the policy if reinsurance was no longer available. 
+On 13 May 1997, Mr Bang wrote to Mr Colebrook about the premium for the D&O section of the policy (referred to as the "London lines") stating: "Whilst we are prepared to negotiate on the amount, we do not have much room to move as we only receive 5% exchange commission on the London lines which is not much considering the amount of time this account takes to service and the amount of time I have had to spend at each renewal.
+ ...
+
+All of the quotations detailed in this facsimile are valid until 4pm on /5/1997 when the extension expires.
+
+As we need to instruct reinsurers to bind cover no later than tonight our time (to enable confirmation of cover bound before we sign the placing slip, etc on /5), we would appreciate your verbal confirmation of acceptance of the terms or otherwise by end of today, if at all possible.
+
+This renewal exercise has again been a difficult and time consuming one an my thanks to you for your patience and understanding during this difficult time.
+Hopefully, we will not encounter any more difficulties between now and 14/5."
+SWC paid an annual premium of $1,946,431 plus stamp duty for the 1997 policy. Mr Bang did not recall how the premium was calculated, but said SWC did not "pay extra" to have the policy reinsured, and "it was simply the case that unless the contract was reinsured, HIH would not have issued the policy at all".
+On 14 May 1997 cover was bound. Mr Bang said that he would not issue a quotation to SWC until reinsurance was bound.
+On 18 February 1998, the 1997 General Liability policy was issued (also referred to as Policy A). There were four insurance layers in excess of $234 million insured by other insurers.
+After HIH went into liquidation on 27 August 2001, there was correspondence between SWC's London reinsurance broker and the R J Wallace Syndicate regarding SWC's request to deal directly with the reinsurers. On 26 September 2001, SWC's London reinsurance broker wrote to the R J Wallace Syndicate. The letter included: "Now that H.I.H. have been formally placed in liquidation... Clayton Utz have... reasoned that SWC should now be able to deal directly with
+Reinsurers...
+ ...
+
+The loss itself is very well known and was reported extensively by the media and has been monitored by your own representatives in Sydney. In the eyes of
+SWC Reinsurers have taken their premium for many years and they now expect and deserve support. Indeed senior members of your Syndicate stated to members of
+SWC management shortly after the HIH problems emerged that your Syndicate would assist them in all respects.
+ ...
+
+Whist the demise of HIH may create some difficult positions one should in addition to the legal position also consider certain commercial facts. SWC has been a loyal client of your syndicate and the wider London market for more than 15 years with the placement sometimes being done on a direct basis and sometimes as a facultative Reinsurance of HIH. In a co-operation of openness
+SWC have visited London annually and also met London underwriters regularly in
+Australia. This has always been a very transparent arrangement. Immediately upon the demise of HIH, SWC had no hesitation moving their business directly to the London Reinsurers of HIH led by your Syndicate."
+On 12 October 2001, the R J Wallace Syndicate replied: "... that, indeed, this Syndicate and Sydney Water Corporation have an ongoing commercial relationship which is, of course, valuable to the Syndicate and, as you comment, the Syndicate writes your client's business on a direct basis at present. However, the contamination claims to which you refer relates to matters when the structure of your client's progamme was such that their direct relationship was and is, inter alia, with HIH rather than with this
+Syndicate. The provisional liquidation of HIH (and subsequent full liquidation) are events that have, understandably, caused considerable concern both to your client and to this Syndicate. As the liquidators of HIH are well aware, this Syndicate has reserved its rights generally with HIH (including as to the validity of any reinsurance contracts).
+ ...
+
+It is also right that we point out to you that in any event it seems likely that issues of set-off will arise as between this Syndicate and the HIH Group (of which the liquidators are also aware) and the Syndicate's rights are expressly reserved in this regard also ...
+ ... we do indeed value the relationship with Sydney Water Corporation as a direct client but, in relation to the contamination claims, the contractual arrangements are different and this Syndicate's rights have been reserved in relation to, inter alia, the validity of reinsurances of HIH and that position will remain unless and until removed expressly in writing to the Syndicate. In these circumstances, your client will appreciate and no doubt be advised that it would be inappropriate for this Syndicate to deal directly with your client on this matter and, indeed, is simply not in a position to be able to do so."
+On 29 January 2002, SWC's London reinsurance broker sought HIH's consent to provide details of the reinsurance contracts to SWC: "Sydney Water Corp has been a long-standing client of Heath Lambert, Sydney.
+For many years HIH were the direct local insurer for liability coverages with facultative reinsurance arranged in London by Heath, London.
+
+In 1998 claims circumstances arose out of contaminated water. The final claims position did not get settled before H.I.H. entered liquidation. S.W.C. are aware of the facultative reinsurance, as this was a transparent arrangement upon S.W.C. regularly visited London together with representatives from H.I.H.
+to meet and present to the reinsurers. Given the circumstances S.W.C. have obtained advice from Clayton Utz whereby it is reasoned that S.W.C. should have direct access to such reinsurance.
+
+For your information since the demise of H.I.H., S.W.C. remain a client of
+Heath Lambert Australia and are now purchasing cover direct from the London market via ourselves. Clayton Utz have requested our co-operation to assist
+S.W.C. in gaining direct access to the 1998 London reinsurers. Clayton Utz argue that even without co-operation they will gain such access via the legal process.
+
+To avoid unnecessary costs we have been asked to provide information to enable direct access to the reinsurance. Please confirm you are agreeable to us releasing reinsurance details to S.W.C. Obviously the contractual position regarding the 1998 loss is that H.I.H. was the direct insurer and the reinsurance contract was placed on behalf of H.I.H. however if under
+Australian legislation, all facultative recoveries are to be for the benefit of the original assured why not co-operate with S.W.C?"
+On 25 February 2002, HIH replied that: "Unfortunately, we are unable to comply with your request unless such a request is made by way of Subpoena or notice to produce in conjunction with relevant legal proceedings."
+SWC is now insured by the D A Constable syndicate directly.
+
+Reinsurance of Policy A
+The details of Policy A are set out above in par 7(2).
+HIH obtained facultative reinsurance for Policy A and retained an exposure to the risks insured under the policy. The table below describes the exposure retained by HIH to the risks insured by HIH under Policy A (based on the evidence of Michael Page and supported by cover notes and other internal HIH records identified by him).
+There appears, in two instances (as regards the fourth and fifth excess layers), to be an internal inconsistency in the relevant cover notes. The "hereon" clause is the clause that specifies the reinsured percentage. The "conditions" clause of the cover note (which sets out HIH's retention) and the "hereon" clause (which sets out the total portion of the risk reinsured) should add up to 100%, but in these two instances, they do not. Mr Page considers that the correct position can be determined from reviewing the "hereon" clause of the relevant cover notes, as that information is consistent with the information contained in HIH's computer system. In other words, Mr Page is of the view that HIH retained $59,375,200 of the risk of the $234m policy, with that portion being subject to HIH's treaty reinsurance program.
+
+Reinsurance layer 
+Coverage 
+HIH retention (%) 
+HIH retention (%) 
+HIH retention (%) 
+HIH Retention ($) 
+HIH Retention ($)  ---|---  
+Cover note "Conditions" section 
+Cover note: "Hereon" section 
+Cover note: "Conditions" section 
+Cover note: "Hereon" section 
+HIH's computer section  
+Primary $5m %
+ %
+ $1,250,000 $1,250,000 $1,250,000  
+First excess ($15m in excess of $5m) $15m %
+ %
+ $3,750,000 $3,750,000 $3,750,000  
+Second excess ($30m in excess of $20m) $30m %
+ %
+ $7,500,000 $7,500,000 $7,500,000  
+Third excess ($50m in excess of $50m) $50m .5% .5% $1,250,000 $1,250,000 $1,250,000  
+Fourth excess ($100m in excess of $100m) $100m %
+ .5% $5,000,000 $18,500,000 $18,500,000  
+Fifth excess ($34m in excess of $200m) $34m %
+ .78% $0 $17,125,200 $27,125,200  
+Totals $234m .01% .37% $18,750,000 $59,375,200 $59,375.200  
+Reinsurance Policy C
+The details of Policy C are set out above in par 7(3).
+HIH obtained facultative reinsurance for Policy C and retained an exposure to the risks insured under the policy. The table below describes the exposure retained by HIH to the risks insured under Policy C (based on the evidence of Michael Page and supported by cover notes and other internal records of HIH identified by him): 
+Reinsurance layers 
+Coverage 
+HIH retention 
+HIH retention  ---|---  
+Primary $5m %
+ $1,250,000  
+First excess $20m in excess of 5m) $20m %
+ $5,000,000  
+Totals $25m %
+ $6,250,000  
+Reinsurance recoveries by HIH
+The relevant reinsurers can be separated into four groups, as follows: 
+Reinsurers from whom the liquidator has not received any money
+Reinsurers from whom the liquidator has not received any money, include: 
+Eagle Star; 
+Syndicate 919; 
+Reliance; 
+Sirius; 
+Sphere Drake; and 
+Dai-Tokyo.
+
+In respect of Sirius, Sphere Drake and Dai-Tokyo, the liquidator has indicated that he does not expect to receive any reinsurances recoveries in the future.
+In addition, another reinsurer, Independent, is in provisional liquidation.
+
+Reinsurers who paid claims made by HIH on the relevant reinsurance contract, in response to claims made by SWC on the underlying insurance policy. 
+Compagnie is the only reinsurer who falls into this category as it paid the following amounts to HIH (subject to rights of set-off): on 8 March 2007, $27,155.65 in respect of the Wynyard claim; on 29 June 2009, $377,043.50 in respect of the Sydney Water
+Contamination Claim; and on 10 February 2010, $910.46 in respect of the Goldlen claim.
+ being full payment of its share of SWC's claims.
+
+Reinsurers who entered into a commutation with HIH and provided a high level break-down of the components which comprised its commutation offer. 
+In 2008, the liquidators of HIH entered into a commutation agreement with the Syndicate. The commutation agreement and related documents indicate that the net amount paid to HIH under the commutation was $22,391,924. This was arrived at as follows: the reinsurer owed HIH $54,032,750 under various reinsurance contracts (generally arising from HIH's reinsurance claims on contracts of reinsurance entered into with Syndicate 683 whereby Syndicate 683 acted as a reinsurer).
+
+HIH owed the reinsurer $31,640,826 in respect of various contracts (generally arising from Syndicate 683's reinsurance claims on contracts of reinsurance entered into with HIH whereby HIH acted as a reinsurer, and the resolution of legal proceedings brought by HIH against the Syndicate in respect of reinsurance contracts).
+The proposal regarding the commutation with the Syndicate, which is set out in the table below, provided a high level break-down of the components, including: a gross dollar component in respect of the overall gross value that they would remit for the aggregate of "facultative reinsurance" relationships; and a further figure for the overall gross value that they would remit for the aggregate of "treaty reinsurance" relationships.
+
+The parties agree that component labelled "facultative reinsurance" is the component that is relevant to the contracts that are the subject of this application, albeit no specific amount was identified as being referable to the reinsurance recoveries arising from the underlying SWC claims (or any other insureds for that matter).
+
+HIH/Syndicate 386 settlement proposal 
+Treaty 
+QBE 18/9 offer 
+Per liquidator letter 20/9/07 
+QBE 27/9 offer  ---|---  and prior: % of unpaids QBE/100% liquidators ,895,253 ,216,948 ,216,948  % of outstandings QBE/90% liquidators ,039,791 ,447,749 ,447,749  ,935,044 ,664,697 ,664,697  and post: % of paids QBE/80% liquidators ,141,264 ,026,022 ,026,022  % of oustandings/70% liquidators ,820,236 ,148,330 ,148,330  ,961,500 ,174,353 ,174,353  
+Facultative % of paids & outstandings ,550,293 ,550,293 ,550,293  
+IBNR  ,550,293 ,550,293 ,550,293  
+IBNR %/80% of 1997 & prior QBE/as incurreds liq's ,177,162 ,256,246 ,412,582  %/70% of 1998 & post QBE/as incurreds liq's ,307,732 ,962,395 ,230,825  ,484,884 ,218,642 ,643,407  
+Gross debt due to HIH ,931,721 ,607,985 ,032,750  
+Less % of amount due to QBE (30,771,426) (30,085,026) (30,771,426)  
+IBNR discounted by 10% (869,400) (869,400) (869,400)  
+Gross debt due to QBE (31,640,826) (30,954,426) (31,640,826)  
+Proposed settlement - Syndicate 386 pays HIH ,290,896 ,653,559 ,391,924  
+Reinsurers whose reinsurance contracts have been commuted, but the portion of the monies paid under the commutation agreement which is referable to facultative reinsurance entered into with HIH cannot be readily identified 
+There are three reinsurers that fall into this category, being: 
+Royal: from whom $2,475,000 has been received under a 2008 commutation agreement; 
+Chiyoda: from whom $3,400,000 (of which $3,100,000 is referable to reinsurance risks underwritten by Chiyoda) has been received under a 2009 commutation agreement; and 
+Syndicate 919: in respect of the years of account to which the Golden
+Claim and Rouse Hill Claim relate. For those years of account, the liquidator has received $1,217,596 and $395,805 respectively under a 2012 commutation agreement.
+
+Application of <case>
+Section 562A provides: "562A Application of proceeds of contracts of reinsurance 
+This section applies where: a company is insured, under a contract of reinsurance entered into before the relevant date, against liability to pay amounts in respect of a relevant contract of insurance or relevant contracts of insurance; and an amount in respect of that liability has been or is received by the company or the liquidator under the contract of reinsurance.
+
+Subject to subsection (4), if the amount received, after deducting expenses of or incidental to getting in that amount, equals or exceeds the total of all the amounts that are payable by the company under relevant contracts of insurance, the liquidator must, out of the amount received and in priority to all payments in respect of the debts mentioned in section 556, pay the amounts that are so payable under those contracts of insurance.
+
+Subject to subsection (4), if subsection (2) does not apply, the liquidator must, out of the amount received and in priority to all payments in respect of the debts mentioned in section 556, pay to each person to whom an amount is payable by the company under a relevant contract of insurance an amount calculated in accordance with the formula: particular amount owed x reinsurance payment total amount owed where: particular amount owed means the amount payable to the person under the relevant contract of insurance.
+ reinsurance payment means the amount received under the contract of reinsurance, less any expenses of or incidental to getting in that amount.
+ total amount owed means the total of all the amounts payable by the company under relevant contracts of insurance.
+
+The Court may, on application by a person to whom an amount is payable under a relevant contract of insurance, make an order to the effect that subsections (2) and (3) do not apply to the amount received under the contract of reinsurance and that that amount must, instead, be applied by the liquidator in the manner specified in the order, being a manner that the Court considers just and equitable in the circumstances.
+
+The matters that the Court may take into account in considering whether to make an order under subsection (4) include, but are not limited to: whether it is possible to identify particular relevant contracts of insurance as being the contracts in respect of which the contract of reinsurance was entered into; and whether it is possible to identify persons who can be said to have paid extra in order to have particular relevant contracts of insurance protected by reinsurance; and whether particular relevant contracts of insurance include statements to the effect that the contracts are to be protected by reinsurance; and whether a person to whom an amount is payable under a relevant contract of insurance would be severely prejudiced if subsections (2) and (3) applied to the amount received under the contract of reinsurance.
+
+If receipt of a payment under this section only partially discharges a liability of the company to a person, nothing in this section affects the rights of the person in respect of the balance of the liability.
+
+This section has effect despite any agreement to the contrary.
+
+In this section: relevant contract of insurance means a contract of insurance entered into by the company, as insurer, before the relevant date."
+It is common ground that the requirements of <case>(a) are satisfied in this case. HIH was insured under contracts of reinsurance entered into before the commencement of the winding up on 27 August 2001 in respect of its liability to pay amounts in respect of insurance contracts with SWC. 
+It was accepted that the requirements of <case>(b) were satisfied in that the liquidators have received relevant amounts. Although it is accepted that the amounts received under the contracts of reinsurance include amounts paid under commutation agreements, there is an issue as to the quantum of the amounts so received. It is under this issue that the question of the application of set offs arises which, in turn requires consideration of the operation of <case> in the circumstances of this case.
+Section 553C establishes the manner for dealing with mutual credits and set offs where a company is insolvent. Relevantly, <case> provides: "553C Insolvent companies-mutual credit and set off 
+Subject to subsection (2), where there have been mutual credits, mutual debts or other mutual dealings between an insolvent company that is being wound up and a person who wants to have a debt or claim admitted against the company: an account is to be taken of what is due from the one party to the other in respect of those mutual dealings; and the sum due from the one party is to be set off against any sum due from the other party; and only the balance of the account is admissible to proof against the company, or is payable to the company, as the case may be."
+The circumstances in which the operation of <case> and (3) may be varied were explained by Black J in Amaca Pty Ltd versus McGrath & Ors <case>; [92 ACSR 105] (Amaca No. 3) in terms which I gratefully adopt. He said: "9 Where [s
+A(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) applies, the usual position is that a liquidator must distribute reinsurance proceeds among the insured creditors in the manner specified in [s
+A(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html)-(3) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/). [Section
+A(3)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html), which would be applicable in the present circumstances absent an order under [s
+A(4)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html), relevantly provides for the liquidator to provide each insured a proportion of their claim calculated in the manner specified.
+ The Court may make an order providing for a different allocation of reinsurance proceeds under [s
+A(4)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) which relevantly provides that: '(4) The Court may, on application by a person to whom an amount is payable under a relevant contract of insurance, make an order to the effect that subsections (2) and (3) do not apply to the amount received under the contract of reinsurance and that that amount must, instead, be applied by the liquidator in the manner specified in the order, being a manner that the Court considers just and equitable in the circumstances.' 
+A person to whom an amount is payable under a relevant contract of insurance has standing to apply for an order under [s
+A(4).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html)
+The Liquidators submit, and I accept, that the Plaintiffs have standing to make such an application where they have the benefit of a compromise of disputed claims under their contracts of insurance, reflected in the admission of their claims in the schemes of arrangement in respect of HIH C&G in the amount of $20 million.
+ [Subsection
+A(4)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) allows the
+Court to displace whichever of [s
+A(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) or (3) applies in the circumstances and, by its order, substitute a method of application of the amount of reinsurance proceeds which is different from that which would otherwise have applied under the provision which is displaced:
+Amaca 1 at [10]. The "just and equitable" criterion adopted in [s
+A(4)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) requires the court to proceed in a way to which Barrett J referred in Eddy
+Lau Constructions Pty Ltd versus Transdevelopment Enterprise Pty Ltd <case> at <case>- <case> in a passage which his Honour quoted in Amaca 1; his Honour also noted (at [67]) that [s
+A(4)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) confers a discretion that, while wide, must be exercised judicially in the light of the whole of the circumstances surrounding the relevant subject matter.
+ Certain matters which the Court may take into account in considering whether to make such an order are specified, in an inclusive manner, in [s
+A(5)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html), although those matters are not exhaustive: Re HIH Casualty & General
+Insurance Ltd  <case> at <case>.
+ ...
+ The question whether the Plaintiffs would be "severely prejudiced", for the purposes of [s
+A(5)(d)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/), if [s
+A(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html)-(3) applied in this case, raises issues which correspond to those considered by
+Barrett J in Amaca 1. I adopted the same approach in Amaca 2. The prejudice to which [s
+A(5)(d)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) is directed is the prejudice flowing from the operation of [s
+A(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html)-(3), if left unaltered by the Court, rather than any prejudice flowing from the alteration of that section pursuant to [s
+A(4).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html)
+That paragraph therefore directs attention to the prejudice to the person seeking the alteration of the order of distribution under [s
+A(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html)-(3) if that order is declined, rather than the prejudice to other parties if that order is made: Amaca 1 at [73]. The words "severely prejudiced" in [s
+A(5)(d)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) mean that a person will suffer prejudice or disadvantage that is severe, in the sense of harsh or unpleasantly extreme: Amaca 1 at [74]. In my view, the
+Plaintiffs would here be prejudiced if they did not receive the direct benefit of the reinsurance monies for which they had bargained, where they would not have contracted for cover from HIH C&G without that reinsurance. As
+Barrett J noted in Amaca 1, a finding that the Plaintiffs are 'severely prejudiced' is not essential to the exercise of the discretion conferred by [s
+A(4)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) in their favour, and the real and significant prejudice which they would suffer by being deprived of the reinsurance proceeds is a matter which also supports the making of an order under [s
+A(4)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) in their favour."
+It is now well established that the discretion conferred under [s 562A(4)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html), while wide, can only be exercised judicially in light of the whole of the circumstances surrounding the relevant subject matter (e.g. Amaca (No. 1) par 67).
+
+The amount received from the Syndicate
+In 2008, the liquidators of HIH entered into a commutation agreement with the Syndicate. The commutation agreement and related documents indicate that the net amount paid to HIH under the commutation was $22,391,924. 
+Details of the agreed proposal which resulted in the payment of $22,391,924 are set out in the table in par 71 above.
+Further explanation was provided by Mr Honey as follows (aff 24.04.13): "10 It is my understanding that insolvency set-off occurs automatically upon insolvency, when mutual debits, credits and dealings exist. The role of the liquidator is to determine the position as at the date of insolvency. In the context of entering into commutation agreements with its reinsurers, the following debits, credits and dealings are relevant to HIH C&G: balances due from HIH C&G to a reinsurer (generally in respect of obligations owed to a reinsurer under a reinsurance contract); and balances due to HIH C&G from a reinsurer (generally in respect of obligations owed to HIH C&G in respect of business written by HIH C&G as a reinsurer of certain risks).
+ ...
+
+HIH C&G entered into a commutation agreement with the Syndicate dated April 2008 (see CJH-1, Tab 3) (the "Commutation Agreement"). As per Recital
+A of the Commutation Agreement, that agreement dealt with both sums owing to and from HIH C&G to Syndicate 683, which were offset to determine the net amount payable. Upon netting those amounts, it was determined that Syndicate would pay $22,391,924 to HIH C&G (as per clause 2.2 of the Commutation
+Agreement). The relevant inwards and outwards balances are set out below: 
+Outwards Treaty (owed to HIH C&G) 
+Outwards Fac (owed to HIH C&G) 
+Outwards IBNR (owed to HIH C&G) 
+Inwards (set-off) (including IBNR -owed by HIH C&G) 
+Total  ---|---|---|---  
+Agreed balances (after commercial discounts) $42,839,050 $6,550,293 $4,643,407 $54,032,750  
+Set-off applied ($31,640,826) ($31,640,826)  
+Net agreed balance per commutation $22,391,924  ...
+
+The sum received pursuant to the Commutation Agreement in relation to the
+SWC claims (Water Contamination, Wynyard, Goldlen and Rouse Hill) is contained within the "Outwards Fac" agreed valuation of $6,550,293 as shown above. A claim-by-claim breakdown of the "Outwards Fac" figure was not supplied by either Syndicate 683 or QBE, and hence my staff have had to allocate this amount amongst the various relevant claims, based on HIH's records.
+
+HIH's records at the time the commutation agreement was entered into indicated that the total un-discounted incurred facultative balance owed to
+HIH by the Syndicate was $6,857,571. Following commercial negotiations, the parties agreed to commute this balance for $6,550,293, which represents a .48% discount.
+
+The 4.48% commercial discount is applied to the value of each of the SWC claims as contained within HIH's records, as follows: 
+Claim 
+Incurred per HIH"s records .48% commercial discount 
+Allocated gross recovery (after commercial discount but before set-off)  ---|---  
+Water Contamination ,455,047 (110,007) ,345,040  
+Goldlen ,660 ,048  
+Wynyard ,811 (9,132) ,678  
+Rouse Hill ,435 (2,394) ,040  ...
+
+Two further commutation recoveries were received from Syndicate 683 which were unrelated to any SWC Claims ($495,087 in 2008 and $8,500,000 in 2011). In order that all creditors are treated equally, regardless of the timing of the recovery of individual claims from the reinsurer, the inwards balance of $31,640,826 must be pro-rated across these recoveries too.
+ 
+Water contamination 
+Goldlen 
+Wynyard 
+Rouse Hill 
+Total SWC claims  ---|---|---|---  
+Gross recovery before set off of inwards balances ,345,040 ,048 ,676 ,040 ,603,808  
+Set-off applied pro-rata across ALL recoveries (1,177,267) (6,550) (97,733) (25,624) (1,307,174)  
+Net recovery (before claims mgmt costs) ,167,773 ,498 ,945 ,415 ,296,632  table continued: 
+Other 3/4/08 commutation recoveries 
+Total 3/4/08 commutation recoveries 
+Additional commutations with Syndicate 683 
+Total recovery from Syndicate 683  ---|---|---  
+Gross recovery before set off of inwards balances ,427,567 ,031,373 ,995,087 ,026,460  
+Set-off applied pro-rata across ALL recoveries (25,817,898) (27,125,072) ,515,754) (31,540,826)  
+Net recovery (before claims mgmt costs) ,609,669 ,906,301 ,479,333 ,385,634 
+SWC contended that the amount received under the agreement, $22,391,924, was the amount received within the meaning of [s 562A(1)(b)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) and is the amount which should be applied in the manner specified under subs (4).
+Of this amount, it was agreed that the amount of $6,550,293 was received in respect of claims under facultative reinsurance which included SWC's claims for Water Contamination, Wynyard, Goldlen, and Rouse Hill. It was accepted that the component referable to SWC's claims was the amount of $2,603,806. Ultimately, SWC seeks an order under [s 562A(4)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) for payment of this amount.
+Against SWC's claim as to the amount received within [s 562A(1)(b)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) the liquidators contended that the correct amount was the sum of $1,296,632. They submitted that the amount received from the Syndicate in respect of HIH's liability to SWC should be determined by an allocation process which is summarised as follows.
+The amount received under the commutation agreement allowed for the set-off of the amount of $31,640,826 in respect of unrelated claims balances owed by HIH to the Syndicate. The liquidators contended that as none of the commutation amount was specifically allocated to SWC's claims or facultative reinsurance for its policies it was necessary to undertake an allocation process in order to determine the amount received by HIH in respect of its liability to SWC. In the defendants' written submissions (24.04.13) the allocation process was described as follows: "48. A component of the commutation amount of $22,291,924 was referable to all of the facultative reinsurance placed by HIH with Syndicate 683. The amount of this component was $6,550,293 which, in turn, was referable to the various claims made by the Plaintiff, as well as all other claims made by HIH pursuant to its facultative reinsurance with Syndicate 683. Neither QBE nor Syndicate provided a claim-by-claim breakdown of this figure ...
+ In addition to the commutation amounts referred to above, two further commutation recoveries were received by HIH from Syndicate 683 in 2008 and in the amounts of $495,087 and $8,500,000 which were not related to the
+Plaintiff's claims. These amounts were also taken into account in the allocation process.
+ The liquidators (exercising powers as scheme administrators under the HIH
+Scheme): discounted the value of the Plaintiff's claims as recorded in HIH's records ($2,725,953) by 4.48% arriving at a value of $2,603,806. This discount reflected the discount implied by the commutation figure of $6,550,292 as compared with the total value of HIH's facultative claims against Syndicate ($6,857,571); allocated or set off, on a pro rata basis across all of the recoveries from Syndicate 683 the amount of the debt owed by HIH to Syndicate 683 ($31,640,826). This allocation or set off is consistent with the mutuality requirement because the commuted debt owed by HIH was not referable to a specific claim, treaty or reinsurance policy payable by Syndicate 683 to HIH
+C&G. The agreed commutation as between HIH and Syndicate 683 required HIH
+C&G's debt to be set off against the whole of the debt owed by Syndicate to HIH. It is consistent with this set off, and with the equality of treatment of all insurance creditors of HIH entitled to share in the reinsurance recoveries from Syndicate 683, that the debt (or inwards balance) of $31,640,826, be allocated equally amongst all such recoveries; 
+The amount of the allocation or set off applicable to the Plaintiff's claim was $1,307,174. When this amount is deducted from the Plaintiff's claims (as discounted - $2,603,806) the balance is $1,296,632, prior to any deduction for external management costs or pre-liquidation payments. See Ex CJH-1 at 258 and Honey Affidavit at paragraph 29 (Table A) and Second Honey Affidavit at paragraph 19."
+According to Mr Honey (aff 23.04.13 pars 18, 19, 25) the purpose of the allocation process was to achieve a result which was "equitable to all creditors" and to treat all creditors equally. He said (par 21): "The exercise undertaken by my staff, as described above, is solely for the purpose of 'allocating' the amount of $31,640,826 to ensure equality amongst all of the potential relevant claims." Thus the liquidators contended they have undertaken a task of "retrospective calculation" with regard to the principles of set-off required by [s 553C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s553c.html) of the Act. The exercise explained the liquidator's contention that the amount received for the purposes of [s 562A(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) and (4) was $1,296,632.
+
+Determination [Section 562A(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) provides: "562A Application of proceeds of contracts of reinsurance 
+This section applies where: a company is insured, under a contract of reinsurance entered into before the relevant date, against liability to pay amounts in respect of a relevant contract of insurance or relevant contracts of insurance; and an amount in respect of that liability has been or is received by the company or the liquidator under the contract of reinsurance."
+The meaning of subs (1) is to be understood in the context of [s 562A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) as a whole. The section is concerned with the application of proceeds of contracts of reinsurance. Subsections (2), (3), and (4) provide for the manner of application in different circumstances. Their operation depends upon identification of the amount received under the contract of reinsurance, and the ascertainment of the amount thereof which is in respect of the company's liability under a relevant contract of insurance.
+Under [s 562A(1)(b)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html), for the section to apply, it is necessary to ascertain the amount received under the proceeds of reinsurance in respect of the company's liability under a contract of insurance. Thus, in my opinion, having received the proceeds of reinsurance the liquidator must identify or determine the amount payable from those proceeds in respect of the liability of an insured creditor. This is a task which ordinarily the liquidator would be unable to undertake until the whole of the reinsurance proceeds has been received.
+In circumstances where the amount of the reinsurance proceeds received by the company is the balance of an account taken after set-offs in respect of mutual dealings the application of [s 553C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s553c.html) of the Act is attracted. In Newcap Reinsurance Corporation (in liq.) versus Faraday Underwriting Ltd <case>, [(2003) 47 ACSR 306] par 60 Windeyer J said: "[under [s 553C]](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s553c.html) the sum due from one party is to be set-off against any sum due from the other party and the balance, if any, is payable to the insolvent company".
+
+The balance of account under subs (1)(c) is the balance remaining after completion of the set-off process referred to. In cases where payments are made to the company over a period of time, the amount of the balance will not be finalised until the last payment is received.
+Furthermore, the balance payable is to be calculated in accordance with the principles of insolvency law as explained in Stein versus Blake <case>; [[1996] 1 AC 243], par 19. Thus, from the commencement of the winding up the claims of the parties are replaced by the net balance payable (Stein p 255).
+It was in these circumstances that HIH received the sum of $22,391,924 from the Syndicate under the agreement of 3 April 2008. It is from this amount that the liquidators were required to determine the amount which was received in respect of HIH's liability to SWC under [s 562A(1)(b).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) The process adopted by the liquidators is described above. As demonstrated, the calculation involved taking into account the fact that the reinsurance proceeds paid to HIH were the net balance of the account payable to it after allowing for set-offs in accordance with [s 553C(1)(c).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s553c.html) In other words it is from this amount that the amount payable to SWC in respect of the raw value of its claims totalling $2,345,040 was to be calculated. 
+In support of its claim SWC submitted that the amount received under the commutation agreement was "an amount in respect of" HIH's liability to SWC within the meaning of [s 562A(1)(b).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) It was put that, consistent with authority (e.g. Amaca No. 3 par 78) the phrase "in respect of" has a meaning wide enough to include the amount of this payment. It was submitted that the commutation payment was the amount actually received under HIH's contract of reinsurance with the Syndicate and, as it included a component in discharge of the Syndicate's liability to HIH for SWC's claims, it must be treated as an amount received in respect of that liability within the meaning of [s 562A(1)(b)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) and for the purposes of subs (4).
+It was argued that as long as there is some connection or relation between the amount received by the liquidators and SWC's claims under the insurance contract, subs (1)(b) was satisfied and the court had jurisdiction to make an order under subs (4). It was put that under subs (4) the exercise for the court included determining the portion of the amount received which is "in respect of that liability". It was also put that the terms of [s 553C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s553c.html) provided no justification for the apportionment exercise undertaken by the liquidators.
+SWC did not dispute that the process taken by the liquidators to ascertain the amount referable to HIH's liability to it was correct and reasonable.
+In my opinion, SWC's submissions on this issue must be rejected. They fail to recognise that, upon the proper construction of subs (1)(a) and (b), the amount is defined as one which has been or is received by the company under the contract of reinsurance in respect of its liability under a relevant contract of insurance. In my opinion, for the purposes of the operation of [s 562A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) it is necessary to ascertain from the proceeds of reinsurance the amount referable to the liability of the company to a particular insured creditor. As earlier found, this task must be undertaken as a preliminary step before consideration of which of subs (2), (3), or (4) should govern the application of the proceeds of contracts of reinsurance in a particular case. This task was performed by the liquidators as described above. Contrary to SWC's submissions, the apportionment process in this case was properly one for the liquidators, and not for the court under subs (4).
+
+The process by which the liquidators ascertained from the amount received the amount in respect of HIH's liability to SWC was uncontradicted. It supports the finding, which I make, that the amount so received by HIH for the purpose of [s
+A(1)(b)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) was the sum of $1,296,632.
+
+The amount received from Compagnie
+HIH did not enter into a commutation agreement with Compagnie. Payments were made in respect of specific claims. Amounts were received by HIH in respect of SWC's claims as follows: on March 2007 the amount of $27,155.65 for the Wynyard Claim; on 20 June 2009 the amount of $377,043.50 for the Water Contamination
+Claim; and on 10 February 2010 the amount of $910.46 for the Goldlen Claim.
+It is the total of these amounts in the sum of $405,203.62 which SWC claims was the amount received under [s 562A(1)(b).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) Against this claim the liquidators contend that the correct amount was the sum of $396,988.
+On 4 March 2013 HIH received a final payment of $2,418.85, following a set off by Compagnie of the amount of $8,417.06 which related to balances on unrelated claims owed by HIH to Compagnie. With regard to the set off amount of $8,417.06, the liquidators undertook a process of allocation similar to that in respect of the payments received from the Syndicate. The process described by Mr Honey is set out in par 81 above. He said (aff 23.04.13 par 25) "... in order that all creditors are treated equally, regardless of the timing of the recovery of individual claims from the reinsurer, the inwards balance of $8,417.06 must be pro-rated across all of the gross recoveries from Compagnie ...".
+In support of its claim SWC relied on the fact that the payments made by Compagnie to HIH in respect of its claims were made some years prior to the final payment to HIH which was an amount calculated to be payable after the set-off of HIH's debt of $8,417,06. It was submitted that in these circumstances [s 553C](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s553c.html) did not operate with the effect that the amount of this debt should be apportioned against the reinsurance payments earlier received. Similar to the submissions in relation to the proceeds from the Syndicate, it was put that for the purposes of [s 562A(1)(b)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) the amount was the amount actually received, i.e. $405,203.62 and any apportionment exercise was one for the court under subs (4).
+For the same reasons given in respect of the amount received from the Syndicate, I reject SWC's submission on this issue. Upon receiving the final payment from Compagnie, in my opinion, the liquidators were required to engage in a process of retrospective calculation as from the commencement of the winding-up. In my opinion they were justified in their calculations which support the finding, which I make, that the amount received from Compagnie by HIH for the purpose of [s 562A(1)(b)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) was the sum of $396,988.
+
+Application of [s 562A(4)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html)
+SWC seeks an order under [s 562A(4)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) that the reinsurance proceeds received by the liquidators from the Syndicate and Compagnie, subject to a deduction of 2.5 per cent for expenses, be paid direct to SWC rather than distributed amongst all the insured creditors under subs (3). Formally, the liquidators neither consented to, nor opposed, the application. Their submissions were intended to identify matters for consideration against making the order.
+The relevant provisions of the Act are: "562A(4) The Court may, on application by a person to whom an amount is payable under a relevant contract of insurance, make an order to the effect that subsections (2) and (3) do not apply to the amount received under the contract of reinsurance and that that amount must, instead, be applied by the liquidator in the manner specified in the order, being a manner that the Court considers just and equitable in the circumstances.
+
+The matters that the Court may take into account in considering whether to make an order under subsection (4) include, but are not limited to: whether it is possible to identify particular relevant contracts of insurance as being the contracts in respect of which the contract of reinsurance was entered into; and whether it is possible to identify persons who can be said to have paid extra in order to have particular relevant contracts of insurance protected by reinsurance; and whether particular relevant contracts of insurance include statements to the effect that the contracts are to be protected by reinsurance; and whether a person to whom an amount is payable under a relevant contract of insurance would be severely prejudiced if subsections (2) and (3) applied to the amount received under the contract of reinsurance."
+Under [s 562A(4)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) the court is required to make a single order (Amaca No. 1 par 86). Its language indicates a two-stage process.
+The first question arising is whether the court should make an order to the effect that subs (2) and (3) do not apply to the amount received. This, in turn, raises the question of what is required of an applicant to obtain such an order. If an order is to be made, the court is required to specify the manner by which the amount received must be applied by the liquidator, being a manner that the court considers just and equitable in the circumstances. A non-exhaustive list of matters which a court may take into account in the exercise of its discretion is provided by subs (5).
+The language of subs (4) gives no indication of the test for the making of an order. The provision is expressed in general terms, and does not purport to limit the circumstances in which an order may be made. There is no suggestion that "special" or "exceptional" circumstances must be established before the discretion conferred upon the court will be exercised. In my opinion, where an application is made for an order which displaces the operation of subs (2) and (3) it is necessary and sufficient for an applicant to demonstrate on the evidence a reason or an appropriate case to warrant the exercise of discretion in its favour (cf: Alexander versus Cambridge Credit Corporation Ltd (Receivers Appointed) [(1985) 2 NSWLR 685], pp 693, 694) i.e. to justify an order that SWC be treated differently to the other insured creditors or, in ordinary parlance, that it should be lifted out of the ruck. In the end, the court must be satisfied that the circumstances are such as to make it just and equitable that the ordinary course envisaged by subs (2) and (3) be departed from in respect of the manner of application of the amounts received under a contract of reinsurance (Amaca No. 1 par 85), and in this exercise it may take into account the matters included in subs (5). 
+Guidance may be taken from the following passages from Barrett J's judgment in Amaca No.1: "67 [Section
+A(4)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) must therefore be seen as conferring a discretion that, while wide, can only be exercised judicially in the light of the whole of the circumstances surrounding the relevant subject matter. Lord Wilberforce explained this exercise in Ebrahimi versus Westbourne Galleries Ltd [[1973] AC 360] at p.379: 'It [the phrase 'just and equitable'] does, as equity always does, enable the court to subject the exercise of legal rights to equitable considerations; considerations, that is, of a personal character arising between one individual and another, which may make it unjust, or inequitable, to insist on legal rights, or to exercise them in a particular way.' In the present context, the relevant "legal rights" are those arising from [s
+A(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) or [s
+A(3)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) - broadly speaking, first, the rights of all creditors entitled to participate under the winding up in respect of debts arising from insurance contracts written by the company before winding up to participate, to the exclusion of other creditors, in the enjoyment of reinsurance proceeds received by the liquidator (until either 100 cents in the dollar has been paid on those debts or the proceeds have been exhausted) and, second, the right of each such favoured creditor to participate in that way pari passu with each other such favoured creditor. Given the law reform materials to which I have referred (see paragraph [17] and [18] above), it may be inferred that the legislature deliberately rejected any notion of automatic flow-through of reinsurance proceeds to only those creditors with debts arising from the insurances which, as it were, were backed by the particular reinsurance; and that likely difficulties of matching reinsurance contracts held with insurance contracts written played a significant part in the adoption of that course.
+ ...
+ "89 ... The power under [s
+A(4)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) is a power to order that [s
+A(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) and [s
+A(3)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) "do not apply to the amount received under the contract of reinsurance" and to cause the amount to be applied in some other way. Such an order displaces the [s
+A(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) or [s
+A(3)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) requirement as to payments to be made by the liquidator 'out of the amount received' under the reinsurance contract and imposes some other requirement.
+Under [s
+A(4)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) itself, the order can only be made if the court forms an opinion that the alternative manner of application of 'the amount received under the contract of reinsurance' is 'just and equitable in the circumstances'.
+ In deciding whether an order affecting a particular 'amount received under the contract of reinsurance' should be made, the court must thus focus on the amount itself, the circumstances prevailing at the time the court is asked to make the order and what, in those circumstances, is 'just and equitable' with respect to the application or disposition of the amount. The inquiry is, of its nature, directed to an existing and established factual situation involving the 'amount received'. A necessary factor in the decision as to what is just and equitable - and an element of the 'circumstances' to be taken into account - may be, in some cases, the quantum of the amount.
+ ... The purpose of [s
+A(4)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) is to allow departure from the [s
+A(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) or [s
+A(3)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) regime in respect of a particular sum according to circumstances for the time being prevailing ..." 
+Determination
+SWC based its application for an order on the grounds that the proceeds of reinsurance received by the liquidators were the direct product of its long term relationship nurtured and developed with the Wallace Syndicate, and of the significant assistance it provided to HIH in securing the reinsurance, without which SWC would have gone to another Australian insurer or direct to London, which it now does. Thus it was put that it was because of SWC's relationship with the Syndicate that HIH was able to obtain the level of reinsurance cover it required for the amount for which it insured SWC. It was put that there was such a connection between HIH's liability to SWC and the reinsurance contract under which the proceeds were received that, in the circumstances, it was just and equitable for the order to be made.
+In general terms, SWC argued that its relationship with HIH was, in relevant respects, substantially similar to that found to have existed between HIH and the plaintiffs in each of Amaca No. 1, Amaca No. 2, and Amaca No. 3 which justified the making of an order under [s 562A(4)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) in each case. On the other hand, the liquidators argued that the facts in this case were dissimilar, and did not support the order sought. It was accepted that the earlier cases afford helpful, but not determinative guidance, and the question remains whether an order should be made with regard to considerations peculiar to this case.
+It is common ground that the matter in subs (5)(a) is satisfied, the insurance contracts being those between HIH and SWC. It is also common ground that subs (5)(b) and (c) do not apply.
+I turn first to the evidence of the relationship between SWC, HIH, and the Syndicate.
+Mr Ferguson was SWC's group risk manager responsible for placing SWC's insurance programme. He said he was involved in negotiations for the 1997 policies, and was informed that HIH would be arranging for facultative insurance with the Syndicate as the likely reinsurer. He said that in April 1997 he attended a meeting with David Constable of the Syndicate at which a presentation was made about the risk. He also visited London in September 1993 and September 1995 and met representatives of the Syndicate. He also met them during their visits to Australia from time to time. There was no evidence of the content of any discussions.
+Mr Constable was an underwriter of the Syndicate, and responsible for SWC's insurance. On several occasions he met representatives of SWC in London and Sydney to discuss insurance and reinsurance arrangements. Sometimes the cedant insurer, HIH, was not present. He records such meetings took place in 1996, and on 5 March 1998. He met Messrs Ferguson and Colebrook, and Mr Seeto of HIH, in London on 18 March 1998 when SWC's representatives made a presentation prior to the review of its facultative reinsurance to be led by the Syndicate. There was no evidence of the content of any discussions.
+SWC's explanation for its involvement with HIH and reinsurers is found in the paper considered at its executive meeting on 6 November 1995. A purpose of the paper was to assess the need for competitive market bids in the renewal of its public liability and property insurance policies. It included: "... the Brokers for Sydney Water ... have provided a number of important initiatives to ensure that the Corporations' financial exposures to major risks were protected by strongly worded, secure, and cost effective insurance policies ...
+
+The size of the Corporations' insurance program is such that the majority of the program is increasingly being underwritten and re-insured through the
+London international insurance market ...
+
+The Corporation's insurance purchasing philosophy is based on the following criteria: 
+COVER Insurance purchased must be on a broad basis, evidenced by clearly expressed wordings that are designed specifically for the Corporations' needs and offer the maximum available protection.
+
+SECURITY The Policies must be placed with financially stable insurers who are in turn supported by strong panels of re-insurers.
+
+COST Subject to the above criteria being satisfied that the provision of external insurance is at the most competitive terms available.
+ ...
+
+Over the past seven years the Corporation has adopted an aggressive and competitive approach to insurance buying tempered by a strategy for developing strong working relationships with the leading underwriters and re-insurers in each class of business ...
+
+The Corporations' strategies have left it in a much stronger position to cope with the problems associated with a hardening insurance market. Due to the work and effort taken in forging strong direct client/insurer relationships, our insurers have actively supported the Corporation in what has been one of the most traumatic periods the insurance market has faced over the last 30 years.
+ ...
+
+In summary active insurance management since 1990 is estimated to have saved the Corporation up to $12 million in insurance premium costs as compared to normal market rates. This has involved an active management strategy by the
+Corporations Group Risk, Manager in direct collaboration with Health Fielding , CE Heath Insurance Broking Ltd (London), the local insurance market, and in particular, the London insurance market.
+ ...
+
+Public Liability ...
+
+A recent visit to the international underwriters and re-insurers who support this packaged liability arrangement clearly highlighted that it was the combination of the Corporation's good claims record; it's [sic] pro-active approach to risk management and corporate governance; together with the
+Corporation's known stance on supporting longer term relationships in purchasing liability insurance that saw the London market continuing with a product they would otherwise not make available to the general insurance buyer.
+
+Our investigation of the local and international insurance market suggests that the current product enjoyed by Sydney Water is not available through alternative purchasing arrangements ...
+ ... it is recommended that the current buying arrangements for Sydney Water's liability coverage continue unchanged."
+Mr Seung Ho Bang was an employee of HIH and responsible for the SWC account from 1996 onwards. He said there was a good relationship between himself, Mr Ferguson, and Mr Colebrook, SWC's broker. He said that because the Australian market did not have the capacity to carry large accounts such as SWC's such risks were directly placed in the London insurance market, or placed in Australia and reinsured in London. In the latter case, the Syndicate was generally the lead underwriter on the reinsurance placement. He said that it was necessary that the terms of the insurance policy issued to SWC reflected those of HIH's reinsurance so that there were no gaps between the reinsurance cover and the insurance cover provided for SWC. He was aware of regular visits by Mr Ferguson and Mr Colebrook to London every second year, pre-renewal, to meet current and potential reinsurers, and that representatives of the Syndicate regularly had contact with them in Sydney, often in the absence of an HIH representative.
+He and Mr Colebrook corresponded between 4 February 1997 and 15 May 1997 in relation to the renewal of the general liability policy, relevant extracts of which are set out above. It included correspondence on wording issues in response to questions raised with Mr Bang by Mr Constable.
+On 13 May 1997 Mr Bang advised Mr Colebrook of the renewal quotation for a three year period commencing 30 April, 1997, and also of the requirement for SWC's undertaking that it would cancel the policy if and when HIH's reinsurance cover was no longer available. He said that it was HIH's practice for risks such as those placed for SWC not to issue any quotations until reinsurance support had been confirmed.
+On 14 May 1997 Mr Bang advised Mr Colebrook that the insurance cover was bound. The public liability cover was for the amount of $234,000,000 for which the annual premium was $1,750,000. His letter concluded: "This renewal exercise has again been a difficult time consuming one and my thanks for you for the patience and understanding during this difficult time.
+Subsequent renewal should be easier considering the amount of time we put in this year to tidy up many issues."
+The facultative reinsurance, and HIH's retentions, are set out in pars 7, 63, and 64 above. Relevantly, HIH's retention was for 25 per cent of the primary layer of $5,000,000, and of the first excess layer ($15,000,000 in excess of $5,000,000). The court was taken to no evidence of the amount of the reinsurance premium paid by HIH. It was common ground that SWC had paid no extra sum for the reinsurance.
+Relevant also is the correspondence after the winding up between SWC's broker and the Syndicate, extracts of which are set out in pars 57, 58, 59, and 60 above. 
+Assessment
+In my opinion the application under subs (4) requires consideration of the circumstances in which the 1997 policy was issued, and in which HIH obtained facultative reinsurance from the Syndicate. I attach little weight to the prior history of earlier insurance and reinsurance contracts, recognising that it provides an understanding of the development over a number of years of a working commercial relationship involving SWC, HIH, and the Syndicate. 
+As indicated, in the report of 6 November 1995 to its executive committee, SWC was concerned to obtain protection from exposure to major risks by cost effective insurance policies. Its strategy included developing strong working relationships with leading underwriters and reinsurers, and direct collaboration with HIH, and the local and London insurance market. It recommended that its current buying arrangements continue unchanged. It is in this context that the purpose of the visits between the representatives of SWC and the Syndicate may be understood (there being no evidence otherwise) as being primarily for the giving of information relevant to the provision of reinsurance. In my opinion this activity was simply consistent with SWC's philosophy that policies must be placed with financially stable insurers who are, in turn, supported by strong panels of reinsurers. Given the size of SWC's account there can be nothing extraordinary about its interest in knowing that HIH had sufficient cover to meet claims under the insurance policy.
+Analysis of the correspondence between Mr Bang and Mr Colebrook, commencing with Mr Bang's letter of 4 February 1997, indicates that Mr Bang was the person who undertook the negotiations with Mr Constable of the Syndicate which resulted in the Syndicate's agreement to provide the reinsurance. He kept Mr Colebrook informed of progress, of the initial difficulties, and of the underwriting information required to enable determination of HIH's reinsurance. His letter of 10 February 1997 refers to the prospect of negotiating with alternative reinsurers. Mr Bang dealt with the wording issues raised by Mr Constable. That it was necessary that the terms of the renewed insurance contract reflect the terms of HIH's reinsurance was explained in Mr Bang's letter of 28 April 1997 in which he said: "I know that this is not the news you would have liked to hear. From our viewpoint, we had to ensure that our reinsurers were aware of the wording they were following (and this issue may have to be sorted out for the past reinsurance) to avoid any reinsurance coverage disputes in the future.
+
+It seems clear now that the wordings for ACTEW and SWC had never been seen (let alone agreed) by the London reinsurers and that we may have been running bare on some of the coverage provided by the wordings."
+Taken overall, the correspondence discloses no direct participation by SWC with the Syndicate in the negotiations for reinsurance. It provides no support for a suggestion that HIH was merely a front or conduit to facilitate direct negotiations between SWC and the Syndicate similar to the situation as found in the Amaca cases. In my opinion, this parcel of evidence establishes that the relationship between SWC, HIH, and the Syndicate was neither extraordinary nor unusual. It weighs heavily against the making of an order.
+Furthermore, the correspondence between Mr Brian Palmer and Mr Greg Brown between 26 September 2001 and 29 January 2002 is also an adverse factor. In his letter of 26 September 2001, Mr Palmer presses SWC's suit on the basis that for many years it had been a loyal client of the Syndicate and the wider London market, and "... they [sic] now expect and deserve support". In his letter of 12 October 2001, Mr Brown declined to assist. He stated what was clearly the true position as follows: "... the contamination claims to which you refer relates to matters when the structure of your client's programme was such that their direct relationship was and is, inter alia, with HIH rather than with this Syndicate.
+ ... there is no contractual mechanism of which we are aware whereby your client's direct relationship with HIH can be circumvented ...
+ ... we do indeed value the relationship with Sydney Water Corporation as a direct client but, in relation to the contamination claims, the contractual arrangements are different ... it would be inappropriate for this syndicate to deal directly with your client on this matter and, indeed, is simply not in a position to be able to do so." 
+That position seems to have been accepted by Mr Palmer in his letter of 29
+January 2002 in which he requested access for SWC to the facultative reinsurance. He said: "Please confirm you are agreeable to us releasing reinsurance details to SWC.
+Obviously the contractual position regarding the 1998 loss is that HIH was the direct insurer and the reinsurance contract was placed on behalf of HIH ..." 
+The request was refused by Mr Brown on 25 February 2002.
+Further support for the conclusion that the 1997 policy and its reinsurance were the product of an ordinary transaction between insured, insurer, and reinsurer, are the facts that SWC paid a substantial premium to HIH, and HIH's retentions, in commercial terms, were also substantial. There was no indication that the reinsurer, in providing facultative reinsurance, was to be treated in effect as the primary insurer as in the Amaca cases.
+The absence of evidence in support of SWC's case cannot be overlooked. There was no evidence, for example, from SWC staff and/or a representative of the Syndicate, that SWC was directly involved in negotiating and obtaining the relevant facultative reinsurance so as to support a finding that SWC was instrumental in procuring the reinsurance cover which HIH insisted upon. There was no evidence that the Syndicate's willingness to reinsure was attributable to the efforts of SWC, or that there was a direct relationship between them, a situation which was expressly denied by Mr Brown.
+Taking into account the whole of the evidence, I am unpersuaded that SWC has demonstrated that, in the circumstances, it is just and equitable that an order be made under [s 562A(4)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s562a.html) that subs (2) and (3) do not apply to the amounts received under the reinsurance contract. Accordingly, I propose to order that the application be dismissed.
+As no order is to be made under subs (4) as to the manner of application of the amounts received, it is unnecessary to determine the remaining issues relating to external claims management costs, and pre-liquidation payments.
+
+Conclusion
+I direct the parties to bring in short minutes to give effect to these conclusions. If any relevant error in the amounts or calculations is detected, it should be corrected by consent. Unless the question of costs is disposed of by consent the parties should have the opportunity to be heard on the issue. Accordingly, I direct the parties to arrange with my associate by 4pm 17 June 2013 to re-list the proceedings.
+ * * * 

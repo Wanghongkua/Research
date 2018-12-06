@@ -1,0 +1,63 @@
+
+
+Re Perpetual Trustee Company Limited [2010] NSWSC 1403 (24 November 2010) 
+Last Updated: 8 June 2011 
+NEW SOUTH WALES SUPREME COURT 
+CITATION: 
+Re Perpetual Trustee Company Limited <case> 
+JURISDICTION: 
+FILE NUMBER(S):  /392637 
+HEARING DATE(S):  November 2010 
+JUDGMENT DATE:  November 2010 
+PARTIES: 
+Perpetual Trustee Company Limited (Plaintiff) 
+JUDGMENT OF: 
+Ball J 
+LOWER COURT JURISDICTION: 
+Not Applicable 
+LOWER COURT FILE NUMBER(S): 
+Not Applicable 
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable 
+COUNSEL: 
+Mr A Street SC (Plaintiff) 
+SOLICITORS: 
+Henry Davis York (Plaintiff) 
+CATCHWORDS: 
+EQUITY - trusts - application for advice under [s ](http://www.austlii.edu.au/au/legis/nt/consolact/ta122/s63.html) of the [Trustee Act](http://www.austlii.edu.au/au/legis/nt/consolact/ta122/) 
+LEGISLATION CITED:  [Civil Procedure Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/)  [Trustee Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/) 
+CATEGORY: 
+Procedural and other rulings 
+CASES CITED:  ex p Jay; In Re Harrison <case>; [237 CLR 66](/cgi-bin/LawCite?cit=237%20CLR%2066 "View LawCiteRecord" ) 
+Perpetual Trustee Company Limited versus BNY Corporate Trustee Services Limited <case> 
+TEXTS CITED: 
+DECISION: 
+Judicial advice.
+
+JUDGMENT: - 1 - 
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+BALL J November 2010 /392637 RE PERPETUAL TRUSTEE COMPANY LIMITED 
+JUDGMENT
+These proceedings concern an application for judicial advice pursuant to [s 63](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/s63.html) of the [Trustee Act 1925](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/). The advice sought is that it is reasonable for the plaintiff, Perpetual, to be bound by and to perform two proposed settlement agreements described as a Termination and Settlement Deed and a Settlement Payment Deed. Those two agreements together settle a dispute between Perpetual and principally Lehman Brothers Special Financing Inc (LBSF) concerning rights to notes issued by Australia and New Zealand Banking Group Limited (ANZ) and Royal Bank of Scotland plc (RBS). I will refer to the deeds together as the "settlement agreement". 
+On 24 November 2010, I gave the advice sought by the plaintiff. I also made orders pursuant to [s 71](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/s71.html) of the [Civil Procedure Act 2005](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/) that the business of the court in relation to these proceedings be conducted in the absence of the public and all documents filed in the proceedings or produced by the court not be accessed by any person prior to 18 May 2011. This judgment sets out my reasons for making those orders. 
+The plaintiff, Perpetual, is the trustee in respect of two retail limited recourse note issues made by Mahogany Capital Limited (in liq), which is an Australian special purpose vehicle established by Lehman Brothers Australia Limited. The notes are known as "Mahogany Notes Series I" and "Mahogany Notes Series II". The terms on which Perpetual, as trustee for the noteholders, holds the notes issued by Mahogany are set out in a master trust deed dated 18 October 2004 entered into between Mahogany and Perpetual. 
+The proceeds raised from the note issues were used to invest in two separate series of limited recourse notes (Saphir Notes) issued by Saphir Finance Public Company Limited, which is a special purpose vehicle incorporated in Ireland. Those note issues were part of a note issuance program arranged by Lehman Brothers International (Europe) known as the "Dante programme". In all, notes worth in the order of $10 billion were issued under that programme. BNY Corporate Trustee Services Limited (BNY) is the English note trustee of the Saphir Notes. Saphir used the proceeds of the issue of the Saphir Notes to Mahogany to purchase floating rate notes - in the case of the notes referable to the Mahogany Notes Series I, notes issued by ANZ due in December 2011 and, in the case of the notes referable to the Mahogany Notes Series II, notes issued by RBS due in 2011 but extendable to March 2016. At the same time, Saphir entered into two separate credit default swap agreements with Lehman Brothers Special Financing Inc (LBSF). The terms of those swap agreements are not important to this application. What is important is that the notes issued by ANZ and RBS are security for Saphir's obligations under the Saphir Notes and Saphir's obligations under the swap agreements. Under the terms of the security, LBSF obtained priority in respect of that security but that priority is switched to the noteholders on an insolvency event. 
+LBSF filed for chapter 11 protection in the US Bankruptcy Court on 3 October 2008. Following that, Perpetual exercised security granted by Mahogany over the Saphir Notes and took possession of those notes. As holder, Perpetual became entitled to direct BNY to enforce the security over the notes issued by ANZ and RBS. BNY refused to comply with that direction. Consequently, in May 2009, Perpetual commenced proceedings in the High Court of England and Wales against BNY seeking orders requiring it to enforce the security. LBSF made a successful application to be joined as a defendant to those proceedings. At the same time, it commenced proceedings in the United States Bankruptcy Court against BNY for declaratory relief that it had priority in respect of the security. Perpetual made an application to be joined in those proceedings. That application was refused on the basis that BNY could adequately represent the interests of the noteholders. 
+The essential issue in both proceedings was whether the provisions which had the effect of switching priority in favour of the noteholders was unenforceable as contrary to what is known as the anti-deprivation rule. That rule was described by Cotton LJ in ex p Jay; In Re Harrison [(1880) 14 Ch D 19] in these terms: "There cannot be a valid contract that a man's property shall remain his until his bankruptcy, and on the happening of that event shall go over to someone else, and be taken away from his creditors." (at 26) 
+That statement of the rule was cited with approval in Perpetual Trustee
+Company Limited versus BNY Corporate Trustee Services Limited <case> at <case>. A similar rule operates in the United States.
+Perpetual was successful both at first instance and on appeal in England in contending that the anti-deprivation rule did not apply to Perpetual's claim. However, LBSF has sought permission to appeal to the Supreme Court from the decision of the Court of Appeal. Moreover, an opposite conclusion was reached by the United States Bankruptcy Court. An appeal has been lodged in respect of that decision to the United States District Court. The parties have filed briefs in that appeal and a decision is pending and is expected any time before Christmas. In the meantime, there has been direct correspondence between the English and United States courts in relation to the matter. The position taken by the English courts is that they will not do anything to give effect to the judgment in Perpetual's favour, at least until the matter has been determined by the United Kingdom Supreme Court. 
+Against that background, the parties have entered into the settlement agreement. The agreement is subject to a number of conditions precedent, one of which is this court giving the advice sought by Perpetual. 
+Clause 3.4 of the Termination and Settlement Deed provides that the agreement will terminate if the United States District Court issues an opinion on the merits of the appeal prior to settlement.  
+Under the terms of the settlement, holders of Mahogany 1 Notes should expect to receive a return of approximately 86 percent of their principal investment (and 81 percent of the available security) and holders of Mahogany II Notes should expect to receive approximately 71 percent of their principal investment (and 76 percent of the available security). 
+This settlement, not unexpectedly, imposes confidentiality obligations on the parties. Confidentiality is of particular importance to Lehman Brothers to give it an opportunity to settle other claims in respect of the Dante programme before knowledge of the settlement with Perpetual becomes public. However, under clause 7.1(j) of the Settlement Payment Deed, Perpetual is permitted to disclose the financial terms of the settlement after 16 May 2011. 
+Perpetual has obtained advice from Sidley Austin. That advice concludes that "on balance ... it would be a reasonable decision for Perpetual to agree to the Proposed Settlement" and the advice goes on to recommend the settlement. In giving that advice, Sidley Austin point out the uncertainty associated with the appeal to the United Kingdom Supreme Court, the uncertainty of the outcome in the United States proceedings and the uncertainty of the position if conflicting decisions ultimately exist in the two jurisdictions. They also point out that Perpetual will incur substantial additional legal costs if the matter is not settled and final resolution of the dispute could take several years. Finally, the advice points to the narrow window of opportunity available for a settlement given that the Federal Court in the United States could hand down its decision at any time. 
+Mr Street SC, who appeared for Perpetual on the application before me, has given Perpetual advice to similar effect as the advice given by Sidley Austin. 
+There is nothing surprising in the advice that Perpetual has received. There is obviously a significant risk that Perpetual could fail before the United Kingdom Supreme Court as well as a significant risk of inconsistent judgments which itself would create a degree of uncertainty concerning the amount the noteholders will ultimately recover and the timing of that recovery. On its face, the proposed settlement appears to be reasonable against that background. 
+Perpetual is given power under cl 15.2(a) of the master trust deed to obtain and to rely on legal advice provided that it acts in good faith and with all due care in selecting its advisors. There is nothing to suggest that it has not satisfied that condition in this case. Perpetual is also given power under cl 15.2(e) to compromise or settle any claim.  
+A number of noteholders have sought information concerning the litigation and, on occasions, Perpetual has distributed circulars to noteholders providing information in relation to the litigation. However, under cl 15.3 of the master trust deed, Perpetual may exercise or omit to exercise any power given to it notwithstanding that it may not have consulted the noteholders. 
+In my opinion, it is appropriate to give the advice sought by Perpetual. 
+There can be no question that this is an appropriate case for the court to give advice under [s 63](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/s63.html) of the [Trustee Act](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/). [Section 63](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/s63.html) confers a broad power. The only jurisdictional bar to its exercise is that the applicant for advice "must point to the existence of a question respecting the management of administration of the trust property or a question respecting the interpretation of the trust instrument": Macedonian Orthodox Community Church St Petka Inc versus His Eminence Petar the Diocesan Bishop of Macedonian Orthodox Diocese of Australia and New Zealand  <case>; <case>. Secondly, and more importantly, I accept that, unless the orders are made, there is a real risk that the settlement will not proceed. The effect, then, would be to defeat the purpose of the application for advice and to prejudice the bondholders by depriving them of the benefits of the settlement. That would defeat the interests of justice. Third, the orders under [s 71](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/s71.html) will not be in place for an indefinite period of time. On their face, they expire on 18 May 2011. Consequently, the processes of the court will be available to public scrutiny albeit not immediately.  
+LAST UPDATED:  May 2011 * * * 

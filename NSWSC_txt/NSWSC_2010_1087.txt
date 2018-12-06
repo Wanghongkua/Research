@@ -1,0 +1,708 @@
+
+
+ASIC versus Great Northern Developments Pty Ltd [2010] NSWSC 1087 (23 September )
+
+Last Updated: 27 September 2010 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+ASIC versus Great Northern Developments Pty Ltd <case>  
+JURISDICTION: 
+Equity  
+FILE NUMBER(S):  /290078  
+HEARING DATE(S):  , 21, 22 and 23 April 2010  
+JUDGMENT DATE:  September 2010  
+PARTIES: 
+Plaintiff: Australian Securities and Investments Commission 
+Defendant: Great Northern Developments Pty Ltd  
+JUDGMENT OF: 
+White J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+Plaintiff: Ms K Dawson 
+Defendant: J C Kelly SC with R M Jefferis  
+SOLICITORS: 
+Plaintiff: Conrad Gray Solicitors 
+Defendant: Church & Grace  
+CATCHWORDS: 
+CORPORATIONS - application for winding up of scheme and company and declarations of contraventions of [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) - where defendant carried on property development business and borrowed on secured and unsecured basis - where defendant issued debentures and promissory notes to raise unsecured finance 
+CORPORATIONS - whether defendant contravened [s (1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s727.html) by issuing "securities" without lodging disclosure document - whether debentures and promissory notes constituted "securities" - whether defendant could rely on small-scale offering exception in [s (1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) because of exception in [s (14)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) for issue of debentures to existing debenture holders - whether "personal offers" made - onus on defendant to establish entitlement to rely on exceptions to disclosure - whether defendant was "disclosing entity" even though had not complied with [s
+AA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283aa.html) - purposive construction of legislation required defendant to comply with [s
+AA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283aa.html) to be entitled to rely on exception in [s (14)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) - contravention of [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s727.html) established - appropriateness of declaratory relief where defendant offered undertaking to comply with [s
+AA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283aa.html) 
+CORPORATIONS - whether defendant operated unregistered "managed investment scheme" in contravention of [s
+ED](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ed.html) by issuing promissory notes - whether lenders made contributions as consideration for acquisition of "rights to benefits produced by the scheme" - where lenders only had right to repayment of principal and interest - where notes did not contain term and no representation that lenders had right to acquire benefits produced by defendant's business of raising of money and property development - where no evidence that noteholders intended pooling or use of funds in common enterprise - where not possible to register the scheme without transforming it if found that defendant operated "managed investment scheme" - whether alleged "managed investment scheme" was required to be registered - whether product disclosure statement required for issues of interests - whether alleged "managed investment scheme" should be wound up for contraventions of Act - if scheme were a managed investment scheme, not appropriate to wind it up in circumstances 
+CORPORATIONS - whether defendant carried on "financial services business" in contravention of [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s911a.html) of [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) 
+CORPORATIONS - whether defendant should be wound up on just and equitable ground - contraventions do not warrant winding up order in circumstances  
+LEGISLATION CITED:  [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth)  [Corporations Legislation Amendment (Financial Services Modernisation) Act ](http://www.austlii.edu.au/au/legis/cth/numact/clasma2009659/) (Cth)  [Australian Securities and Investments Commission Act ](http://www.austlii.edu.au/au/legis/cth/consolact/asaica2001529/) (Cth)  [Acts Interpretation Act ](http://www.austlii.edu.au/au/legis/cth/consolact/aia1901230/) (Cth)  [Companies Act ](http://www.austlii.edu.au/au/legis/vic/histact/ca1961107/)  
+CATEGORY: 
+Principal judgment  
+CASES CITED: 
+Australian Securities & Investments Commission versus Australian Investment
+Forum Pty Ltd (No 2) <case>; [(2005) 53 ACSR 305] 
+Australian Securities & Investments Commission versus Karl Suleman Enterprises
+Pty Ltd (In Liq) <case> 
+Kingston versus Keprose Pty Ltd <case>; [(1990) 170 CLR 249] 
+Australian Securities & Investments Commission versus Cyclone Magnetic Engines
+Inc <case>; [(2009) 71 ACSR 1] 
+Australian Softwood Forests Pty Ltd versus Attorney-General ; Ex rel Corporate
+Affairs Commission <case>; <case>; ACSR 387; <case>; <case>; <case>; <case>; [(2004) 52 ACSR 168]; (2004) FLR 220 
+Australian Securities and Investments Commission versus Karl Suleman Enterprises
+Pty Ltd (in liq) <case>; <case>; <case>; <case>; [(2001) 36 ACSR 778]; <case>; <case>; [(2006) 60 ACSR 447] 
+Re Dalkeith Investments Pty Ltd [(1984) 9 ACLR 247] at 252;
+Short versus Crawley (No 30) <case>  
+TEXTS CITED: 
+CCH, Australian Corporations & Securities Law Reporter 
+J Jones, "The defendant breached the law: Declarations of contravention and
+Commonwealth regulators" [(2010) 84 Australian Law Journal 396]  
+DECISION: 
+Order that the claims for relief in paragraphs 1, 2, 3, 4, 5 and 8 of the originating process be dismissed. 
+Declare that the defendant has contravened [s s283AA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283aa.html) of the [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) by not entering into a trust deed that complies with [s
+AB](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283ab.html) and appointing a trustee in compliance with [s
+AC](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283ac.html) before making offers of debentures that needed disclosure under Chapter 6D. 
+Declare that between 14 June 2007 and 8 October 2008 the defendant contravened [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s727.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) by making offers of securities that needed disclosure to investors under [Part
+D.2](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p6d.2) without having lodged with the plaintiff a disclosure document for the offers. 
+Order that the claims for relief in paragraphs 6 and 7 of the originating process be otherwise dismissed. 
+Note the undertaking of the defendant by its counsel to the court that within a reasonable time it will enter into a trust deed that complies with [s
+AB](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283ab.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) and appoint a trustee in compliance with [s
+AC](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283ac.html) of that Act. 
+Order that the application for the relief in paragraphs 9 and 10 of the originating process be stood over to a date to be fixed. 
+Order that within 7 days prior to the date to be fixed in accordance with order 6 the defendant file and serve on the plaintiff an affidavit or affidavits as to its compliance with the undertaking noted above. 
+The exhibits may be returned after 28 days.  
+JUDGMENT:  
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION  
+WHITE J  
+Thursday, 23 September 2010  /290078 Australian Securities and Investments Commission versus Great
+Northern Developments Pty Ltd 
+JUDGMENT 
+Nature of Proceedings HIS HONOUR: The defendant ("GND") is a property developer carrying on business in Queensland. GND has raised finance for its business by borrowing money, partly on a secured basis from a lender called Investec, and partly on an unsecured basis from numerous individual lenders. Up to 8 October 2008 GND entered into loan agreements with such lenders which were "debentures" within the meaning of the [Corporations Act 2001](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth). ASIC alleges that GND contravened [s 727](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s727.html) of the [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) by making offers of securities (being debentures) without a disclosure document required by [Part 6D.2](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p6d.2) of the Act. In its defence GND pleaded that disclosure documents were not required, relying on [s 708(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html), (8), (12) and (14).  ASIC also alleges that GND was required by [s
+AA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283aa.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) to enter into a trust deed that complied with [s
+AB](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283ab.html) and to appoint a trustee in accordance with [s
+AC](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283ac.html) because it made offers of debentures that needed disclosure to investors under
+Chapter 6D. GND did not enter into such a trust deed, nor did it appoint such a trustee. GND denied that it made an offer of debentures. In final submissions GND accepted that if it were found that it had made an offer of debentures, then it was required to appoint a trustee and enter into a trust deed as required by Chapter 2L of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/).
+ ASIC also alleges that between 20 August 2008 and 13 July 2009 the defendant issued promissory notes, each which had a face value of more than $50,000, to lenders. Until 6 November 2009 (when amendments were made to the definition of "debenture" in [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s9.html) the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) by the [Corporations Legislation Amendment (Financial Services Modernisation) Act ](http://www.austlii.edu.au/au/legis/cth/numact/clasma2009659/) (Cth)) the issue of a promissory note with a face value of at least $50,000 was excluded from the definition of "debenture". ASIC does not contend that by issuing the promissory notes GND contravened [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s727.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) by offering securities without disclosure documents required by [Part
+D.2](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p6d.2) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/). Instead,
+ASIC alleges that from 20 August 2008 GND operated a "managed investment scheme" within the meaning of [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s9.html) of the
+Act that was required to be, but was not, registered in contravention of [s
+ED](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ed.html) of the Act. It alleges that by issuing the promissory notes GND issued interests in the scheme.
+ Paragraph (j) of the definition of "managed investment scheme" in [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s9.html) excepts the issue of debentures by a body corporate. Because the promissory notes were excepted from the definition of "debenture" GND cannot rely upon the exception in para (j) of the definition of "managed investment scheme" of the issue of debentures in defence of ASIC's allegations of GND's contravention of [s
+ED.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ed.html) GND denies that it operated a managed investment scheme. It denies that the "scheme" alleged by ASIC had the features required by para (a) of the definition of "managed investment scheme". It also says that even if the requirements of para (a) of the definition of "managed investment scheme" were established, the scheme did not require registration under [s
+ED](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ed.html) of the Act. It denies that the alleged scheme has more than 20 members [(s
+ED(1)(a)).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ed.html)
+It also says that the scheme would not need to be registered by reason of [s
+ED(2).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ed.html) ASIC seeks an order that the managed investment scheme be wound up.
+ ASIC contends that because GND operated a managed investment scheme it was required to hold an Australian financial services licence in order to carry on a "financial services business" (within the meaning of [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s761a.html) and Chapter 7, Division 4 of the Act) by issuing interests in the scheme. It alleges that GND breached [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s911a.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) by carrying on a "financial services business" without such a licence.
+ ASIC seeks an order that GND be wound up on the "just and equitable ground" pursuant to [s (1)(k)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s461.html) of the Act. ASIC does not allege that GND is insolvent. It contends that the alleged breaches of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) are so serious that the defendant should be wound up on that ground.
+ 
+GND's business GND was incorporated on 18 October 2000. Its directors are Mr Christopher
+Edwards, Mr Lawrence Robson and Mr Christopher Hawkins. Mr Edwards is a solicitor and accountant based in Windsor in New South Wales. GND is in the business of acquiring properties in Queensland upon which it constructs apartments for sale. It appears from GND's financial statements that as at 30
+June 2008 and 30 June 2009 it held land for resale at Bundaberg, Gladstone,
+Cairns and Gympie, and a property called "Degon Property". As at both dates it had an interest in a joint venture at Discovery Beach. Its financial statements for the year ended 30 June 2009 stated that it had total assets of $36,107,218 and total liabilities of $34,888,734. The most significant assets were described as "Inventories" being land held for resale of $22,487,165.
+This was reported to have been measured at the lower of cost and net realisable value. GND's liabilities included non-current loans totalling $34,876,162. Some of these loans were described as being made in relation to particular projects. The bulk of the loans totalling $24,166,970 were described as loans from "investors".
+ 
+Production of documents pursuant to notices In response to notices issued by ASIC pursuant to [s ](http://www.austlii.edu.au/au/legis/cth/consolact/asaica2001529/s33.html) of the [Australian Securities and Investments Commission Act ](http://www.austlii.edu.au/au/legis/cth/consolact/asaica2001529/) , GND produced 99 loan agreements entered into between 2002 and 2008. It also produced 27 promissory notes issued between 20 August 2008 and 13 July which each had a face value in excess of $50,000 and a promissory note issued on or about 13 February 2009 with a face value of $26,000.
+ It is common ground that each of the loan agreements and the promissory note for $26,000 is a "debenture" within the meaning of [s ](http://www.austlii.edu.au/au/legis/cth/consolact/asaica2001529/s9.html) of the Act. A "debenture" is defined as follows: "debenture of a body means a chose in action that includes an undertaking by the body to repay as a debt money deposited with or lent to the body. The chose in action may (but need not) include a charge over property of the body to secure repayment of the money." Certain undertakings are excluded from the definition. As noted above until November 2009 an undertaking to pay money under a promissory note with a face value of at least $50,000 was excluded from the definition of "debenture". It is common ground that the other 27 promissory notes are not debentures.
+ 
+Issue of securities without a disclosure document Section 727(1) provides: "727 Offering securities without a current disclosure document 
+Offer of securities needs lodged disclosure document 
+A person must not make an offer of securities, or distribute an application form for an offer of securities, that needs disclosure to investors under [Part
+D.2](http://www.austlii.edu.au/au/legis/cth/consolact/asaica2001529/index.html#p6d.2) unless a disclosure document for the offer has been lodged with ASIC." GND admits that it did not at any time lodge with ASIC a prospectus, profile statement or offer information statement (each a "disclosure document" as defined in [s ).](http://www.austlii.edu.au/au/legis/cth/consolact/asaica2001529/s9.html)
+The issue is whether GND made offers of securities that needed disclosure to investors under [Pt
+D.2.](http://www.austlii.edu.au/au/legis/cth/consolact/asaica2001529/index.html#p6d.2) ASIC pleaded that between 7 August 2002 and 8 October 2008 GND entered into loan agreements as well as issuing the promissory note on 13 February 2009 in the sum of $26,000. In fact GND entered into many more loan agreements.
+ASIC's pleading is based on documents produced by GND pursuant to notices issued by ASIC under [Part ](http://www.austlii.edu.au/au/legis/cth/consolact/asaica2001529/index.html#p3) of the [Australian Securities and Investments Commission
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/asaica2001529/). Many of the loan agreements produced referred to earlier loan agreements, but ASIC did not plead a case based on those.
+ The loan agreements and promissory note of 13 February 2009 are all "debentures" and hence "securities" for the purposes of [Pt
+D.2](http://www.austlii.edu.au/au/legis/cth/consolact/asaica2001529/index.html#p6d.2) (ss [700](http://www.austlii.edu.au/au/legis/cth/consolact/asaica2001529/index.html#p700) and [761A](http://www.austlii.edu.au/au/legis/cth/consolact/asaica2001529/index.html#p761a)).
+GND did not dispute that it "issued" those securities.
+ Section 706, which is in [Pt
+D.2](http://www.austlii.edu.au/au/legis/cth/consolact/asaica2001529/index.html#p6d.2), provides: "706 Issue offers that need disclosure 
+An offer of securities for issue needs disclosure to investors under this Part unless section 708 or 708AA says otherwise." GND contends that it was not required to lodge a disclosure document because, first, there was no "offer" in the relevant sense required by <case> and secondly, if there were an "offer", the offer did not require disclosure by reason of <case>, (8), (12) or (14). Section 708 relevantly provides: "708 Offers that do not need disclosure 
+Small scale offerings (20 issues or sales in 12 months) 
+Personal offers of a body's securities by a person do not need disclosure to investors under this Part if: none of the offers results in a breach of the 20 investors ceiling (see subsections (3) and (4)); and none of the offers results in a breach of the $2 million ceiling (see subsections (3) and (4)).
+
+This subsection does not apply to an offer for sale to which subsection 707(3) (sale amounting to indirect issue) or (5) (sale amounting to indirect sale by controller) applies.
+
+Note 1: Subsection 727(4) makes it an offence to issue or transfer securities without disclosure to investors once 20 issues or transfers have occurred or $2 million has been raised.
+
+Note 2: Under section 740 ASIC may make a determination aggregating the transactions of bodies that ASIC considers to be closely related.
+
+For the purposes of subsection (1), a personal offer is one that: may only be accepted by the person to whom it is made; and is made to a person who is likely to be interested in the offer, having regard to: previous contact between the person making the offer and that person; or some professional or other connection between the person making the offer and that person; or statements or actions by that person that indicate that they are interested in offers of that kind.
+
+An offer by a body to issue securities: results in a breach of the 20 investors ceiling if it results in the number of people to whom securities of the body have been issued exceeding 20 in any 12 month period; and results in a breach of the $2 million ceiling if it results in the amount raised by the body by issuing securities exceeding $2 million in any 12 month period.
+
+An offer by a person to transfer a body's securities: results in a breach of the 20 investors ceiling if it results in the number of people to whom the person sells securities of the body exceeding 20 in any 12 month period; and results in a breach of the $2 million ceiling if it results in the amount raised by the person from selling the body's securities exceeding $2 million in any 12 month period.
+
+In counting issues and sales of the body's securities, and the amount raised from issues and sales, for the purposes of subsection (1), disregard issues and sales that result from offers that: do not need a disclosure document because of any other subsection of this section; or are not received in Australia; or are made under a disclosure document.
+
+Note: Also see provisions on restrictions on advertising (section 734) and securities hawking provisions (Part 6D.3).
+ (Repealed) 
+In working out the amount of money raised by the body by issuing securities, include the following: the amount payable for the securities at the time when they are issued; if the securities are shares issued partly paid--any amount payable at a future time if a call is made; if the security is an option--any amount payable on the exercise of the option; if the securities carry a right to convert the securities into other securities--any amount payable on the exercise of that right.
+
+Sophisticated investors 
+An offer of a body's securities does not need disclosure to investors under this Part if: the minimum amount payable for the securities on acceptance of the offer by the person to whom the offer is made is at least $500,000; or the amount payable for the securities on acceptance by the person to whom the offer is made and the amounts previously paid by the person for the body's securities of the same class that are held by the person add up to at least $500,000; or it appears from a certificate given by a qualified accountant no more than 6 months before the offer is made that the person to whom the offer is made: has net assets of at least the amount specified in regulations made for the purposes of this subparagraph; or has a gross income for each of the last 2 financial years of at least the amount specified in regulations made for the purposes of this subparagraph a year; or the offer is made to a company or trust controlled by a person who meets the requirements of subparagraph (c)(i) or (ii).
+
+Note 1: [Section ](http://www.austlii.edu.au/au/legis/cth/consolact/asaica2001529/s9.html) defines qualified accountant.
+
+Note 2: A financial services licensee has obligations under 
+Division 3 of [Part .7](http://www.austlii.edu.au/au/legis/cth/consolact/asaica2001529/index.html#p7.7) when providing financial advice. ASIC has a power under section 915C to suspend or cancel a licensee's licence.
+
+In calculating the amount payable, or paid, for securities for the purposes of paragraph (8)(a) or (b), disregard any amount payable, or paid, to the extent to which it is to be paid, or was paid, out of money lent by the person offering the securities or an associate.
+
+In addition to specifying amounts for the purposes of subparagraphs (8)(c)(i) and (ii), the regulations may do either or both of the following: deal with how net assets referred to in subparagraph (8)(c)(i) are to be determined and valued, either generally or in specified circumstances; deal with how gross income referred to in subparagraph (8)(c)(ii) is to be calculated, either generally or in specified circumstances.
+
+In determining the net assets of a person under subparagraph (c)(i), the net assets of a company or trust controlled by the person may be included.
+
+Note: Control is defined in section 50AA.
+
+In determining the gross income of a person under subparagraph (c)(ii), the gross income of a company or trust controlled by the person may be included.
+
+Note: Control is defined in section 50AA.
+ ...
+
+Offers of securities to people associated with the body 
+An offer of a body's securities does not need disclosure to investors under this Part if it is made to: a senior manager of the body or a related body or their spouse, parent, child, brother or sister; or a body corporate controlled by a person referred to in paragraph (a).
+ ...
+
+An offer of a disclosing entity's debentures for issue does not need disclosure to investors under this Part if the offer is made to 1 or more existing debenture holders.
+ ..." If either the 20 investors ceiling or the $2 million ceiling was exceeded in any 12-month period, GND was required to lodge a disclosure document with
+ASIC before offering to issue debentures.
+ 
+Were there offers? The first question is whether ASIC has established that GND made offers of securities within the meaning of <case>. Section 700(2) and (3) provides: "700 Coverage of the fundraising rules ...
+
+Offers and invitations both covered 
+For the purposes of this Chapter: offering securities for issue includes inviting applications for the issue of the securities; and offering securities for sale includes inviting offers to purchase the securities.
+
+Person offering securities 
+For the purposes of this Chapter, the person who offers securities is the person who has the capacity, or who agrees, to issue or transfer the securities if the offer is accepted." In Australian Securities & Investments Commission versus Australian
+Investment Forum Pty Ltd (No 2) <case>; [(2005) 53 ACSR 305], Palmer J said (at [97]): "[97] Section 700(2) makes it clear that the distinction between 'offer' and 'invitation to treat' which is drawn in the classical theory of contract formation is not to be slavishly applied in determining whether an offer requiring disclosure under Ch 6D has been made. Not every casual or imprecise intimation that securities may be acquired would constitute an offer within the disclosure provisions and yet it could not be the case that the disclosure provisions are not attracted until the moment when the potential investor is confronted with an application form or with some other document containing all of the terms of a contract, so that mere assent is capable of bringing a binding contract into existence. Many investors would have made up their minds about whether to take up securities well before they are confronted either with the application form or with some document containing all of the terms of a contract." Mr Kelly SC who appeared with Mr Jefferis for GND submitted that GND did not make a relevant "offer" of securities for the purposes of <case>. He submitted that for there to be an "offer" for the purpose of <case>, the funds must be solicited. He referred to Australian Securities & Investments
+Commission versus Karl Suleman Enterprises Pty Ltd (In Liq) <case> at <case> where Barrett J said: "[5] It seems to me that the immediate subject matter (or intended subject matter) of each investment or proposed investment must be regarded as a 'debenture' as defined by [s9](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s9.html) of the [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) so that the aspect of the activities of the first defendant that involved solicitation of the investment may, by operation of para (j) of the definition of 'managed investment scheme' in [s9](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s9.html), lie outside that defined concept. The solicitation of investment in debentures (being 'securities' as defined, for relevant purposes by [s92(3))](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s92.html) was, at the relevant time, regulated by Chapter 6D which, by [s706](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s706.html), required that a document making disclosure in accordance with [Pt
+D.2](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p6d.2) be in place in connection with any offer or invitation relating to debentures (unless an exception in [s708](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) applied) and, by [s727](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s727.html), made it an offence to make such an offer or invitation unless such a disclosure document had been lodged with ASIC (the maximum penalty provided by [s1311](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1311.html) and Schedule 3 being 200 penalty units or imprisonment for five years or both)." That passage does not support the submission that an "offer" for the purpose of [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s727.html) requires solicitation. Barrett J was merely conveying that solicitation of an investment would be sufficient to attract the regulation of offers of securities. That is clear from [s (2)(a).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s700.html)
+His Honour did not suggest that solicitation was a necessary element of the concept of an offer in [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s706.html) and [s .](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s727.html) Further, contrary to the submission for GND, there is nothing in the definition of "personal offers" in [s (2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) or in any other part of Chapter 6D to suggest that a personal offer, or an offer, is only made if the offeror solicits the investment. To the contrary, [s 736](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s736.html) prohibits the offering of securities for issue in the course of or because of an unsolicited meeting or an unsolicited telephone call except in the case of the exemptions provided for in [s (2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s736.html), which exemptions do not include small scale offerings under [s (1).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) Each loan agreement recites that "The Borrower has applied to the Lender for a loan of an amount of the Principal Sum specified in Item 4 of the
+Schedule". GND is the borrower. The recitals are inconsistent with the submission that there was no solicitation of funds. Be that as it may, the recitals plainly show that GND offered to borrow the amounts the subject of each loan agreement or invited applications for the issue of debentures.
+ [Subsection 708(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) - small scale offerings: personal offers The issue is therefore whether the issue of debentures did not need disclosure by virtue of [s (1).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html)
+The offers in question were "personal offers" within the meaning of [s (2).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html)
+The evidence tendered by ASIC included parts of the transcript of the examination of Mr Edwards. His evidence to ASIC was to the effect that investors approached GND for possible investment opportunities and he was not aware of GND approaching potential investors. He said that investors either knew him as he had been an accountant, or they knew another representative of
+GND, a Mr Christopher Hawkins, who was in the mortgage brokering business, or they were aware of others who had done deals with GND, or were family members or employees. There is no contrary evidence. That evidence satisfies [s (2).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) 
+Calculation of 20 investors ceiling and $2 million ceiling: can GND rely on [s 708(14)?](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) In calculating the number of people to whom securities were issued in accordance with [s (1)(a)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) and (3)(a), and in calculating the amount raised by the issue of securities in accordance with [s (1)(b)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) and (3)(b), GND relied on both subs (8) and subs (14) to exclude from consideration particular offers.
+ There is no dispute that some offers were made to sophisticated investors because the loan agreements were for loans of at least $500,000 each. Eleven loan agreements were in this category.
+ GND submitted that it was also entitled to rely upon [s (14)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) and on that basis the 20 investors ceiling and the $2 million ceiling were not breached. GND conceded that if it could not rely upon [s (14)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html), it had contravened [s .](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s727.html) [Subsection (14)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) applies only to an offer of a "disclosing entity's" debentures for issue to existing debenture holders. It is only if the "body" is a "disclosing entity" that [s (14)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) can apply.
+ [Section ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s9.html) provides that "disclosing entity" has the meaning given by [s
+AC.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s111ac.html) [Section
+AC](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s111ac.html) provides that: "If any securities of a body (except interests in a managed investment scheme) are ED securities, the body is a disclosing entity for the purposes of this Act." [Section
+AD(1)(a)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s111ad.html) provides that: "(1) Securities of a body are ED securities (short for 'enhanced disclosure securities') for the purposes of this Act if, and only if: they are ED securities under [section
+AE](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s111ae.html), [111AF](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s111af.html), [111AFA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s111afa.html), [111AG](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s111ag.html) or [111AI](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s111ai.html); ..." 
+The relevant section is [s
+AI.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s111ai.html)
+It relevantly provides that: "Debentures of a borrower are ED securities if: [section
+AA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283aa.html) requires the borrower to appoint a trustee.
+ ..." 
+A "borrower" in relation to a debenture means "the body that is or will be liable to repay money under the debenture" [(s ).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s9.html) The requirement on a borrower to appoint a trustee is found in [s
+AA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283aa.html) contained in Chapter 2L. It relevantly provides: "283AA Requirement for trust deed and trustee 
+Before a body: makes an offer of debentures in this jurisdiction that needs disclosure to investors under Chapter 6D, or does not need disclosure to investors under
+Chapter 6D because of [subsection (14)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) (disclosure document exclusion for debenture roll overs) or [section
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708a.html) (sale offers that do not need disclosure); or makes an offer of debentures in this jurisdiction or elsewhere as consideration for the acquisition of securities under an off market takeover bid; or issues debentures in this jurisdiction or elsewhere under a compromise or arrangement under [Part .1](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p5.1) approved at a meeting held as a result of an order under [subsection (1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s411.html) or (1A); regardless of where any resulting issue, sale or transfer occurs, the body must enter into a trust deed that complies with [section
+AB](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283ab.html) and appoint a trustee that complies with [section
+AC.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283ac.html) 
+Note: For rules about when an offer of debentures will need disclosure to investors under Chapter 6D, see [sections ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s706.html), [707](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s707.html), [708](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html), [708AA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708aa.html) and [708A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708a.html).
+ ...
+
+The body must comply with this Chapter.
+
+Note: [Sections ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s168.html) and [601CZB](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601czb.html) require a register of debenture holders to be set up and kept." [Section
+AB](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283ab.html) sets out the requirements of the trust deed. The right to enforce the borrower's duty to repay the moneys borrowed is to be held by the trustee on trust for debenture holders, and a charge or security must be given for repayment. [Section
+AC](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283ac.html) prescribes who can be appointed as trustee.
+ GND has neither entered into a trust deed nor appointed a trustee. It does not dispute that if it made an offer of debentures (as I have found it did), it was in breach of [s
+AA.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283aa.html) [Section
+AI](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s111ai.html) defines debentures of a borrower as "ED securities" if [s
+AA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283aa.html) requires the borrower to appoint a trustee. The definition does not require the trustee to have been appointed before debentures are ED securities. Hence
+Mr Kelly SC submitted that GND is a disclosing entity if it were required to appoint a trustee even if it had not done so. Ms Dawson, who appeared for
+ASIC, submitted that a body was only entitled to the benefit of [s (14)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) if it had complied with its obligation under [s
+AA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283aa.html) to enter into a trust deed that complies with [s
+AB](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283ab.html) and had appointed a trustee in compliance with [s
+AC.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283ac.html)
+She submitted that GND's reliance on the second limb of [s
+AA(1)(a)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283aa.html) was circular. It could not be said that disclosure to investors was not required by [s (14)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) unless it were first determined that the body issuing the securities was a disclosing entity. That in turn depended upon whether it was required to enter into a trust deed and appoint a trustee, which brought the matter to a full circle.
+ In my view, the construction advanced for GND is not circular and satisfies a literal construction of the legislation. I agree with the submission of Mr
+Kelly SC that GND is a disclosing entity because it was required to appoint a trustee, even though it had not done so. The reason for that conclusion is that it must necessarily be the case that one or other of the limbs of [s
+AA(1)(a)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283aa.html) is satisfied. If the offer of debentures did not need disclosure because of [s (14)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html), then the second limb was satisfied. If [s (14)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) could not be relied on, then the offer of debentures needed disclosure under [s .](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s727.html) (Paragraphs [283AA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283aa.html)(1)(b) and (c) are not relevant to the present question.) However the matter is looked at, GND was required to appoint a trustee. It follows that GND was a disclosing entity even though it had not complied with the obligations of a disclosing entity.
+ However, a literal construction of [s (14)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) that allowed the subsection to be used to avoid the need to lodge a disclosure document, even though the offeror had not complied with the obligation of a disclosing entity to appoint a trustee, conflicts with the purpose of the legislation. Laws are expected to be obeyed. As a disclosing entity GND is required to keep financial records in accordance with Chapter 2M and would be required to provide the annual financial report, the director's report and the auditor's report to the trustee for debenture holders in accordance with [s (1).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s318.html)
+Pursuant to [s (2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s318.html) a debenture holder would be entitled free of charge to the report to the members required to be given under [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s314.html) and the full financial report, the director's report and the auditor's report for the last financial year. A trustee qualified to accept appointment under [s
+AC](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283ac.html) could be expected to ensure that the reporting obligations under Chapter 2M were complied with. The exception from the disclosure requirements in [s (14)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) is explicable on the basis of the reporting obligations of the disclosing entity (CCH, Australian Corporations & Securities Law Reporter at [200-320]). There would be no rational basis for excluding from the calculations of the 20 investors ceiling and the $2 million ceiling for the small scale offering exception in [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) offers made by a disclosing entity to existing debenture holders if the disclosing entity had not complied with its obligation under [s
+AA.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283aa.html) It is not surprising that this apparent anomaly should have escaped attention. The legislation is labyrinthine. But the court's duty where there is a real doubt as to whether a literal construction accords with Parliament's intention is to prefer a construction of the Act that promotes the purpose or object underlying the relevant provisions (Kingston versus Keprose Pty Ltd [(1987) 11 NSWLR 404] at 421, 423; [Acts Interpretation Act ](http://www.austlii.edu.au/au/legis/cth/consolact/aia1901230/) (Cth), [s
+AA).](http://www.austlii.edu.au/au/legis/cth/consolact/aia1901230/s15aa.html)
+In Kingston versus Keprose Pty Ltd, McHugh JA (as his Honour then was) said at , 423 and 424: "Where the text of the legislative provision which embodies the proposition is grammatically capable of only one meaning and neither the context, the purpose of the provision nor the general purpose of the Act throws any real doubt on that meaning, the grammatical meaning must be taken as representing Parliament's intention as to the meaning of the law. A court cannot depart from the grammatical meaning of a provision because that meaning produces anomalies or injustices where no real doubt as to the intention of
+Parliament arises: Cooper Brookes (Wollongong) Pty Ltd versus Federal Commissioner of Taxation <case>; [(1981) 147 CLR 297] at 305, 320 and Stock versus Frank Jones (Tipton) Ltd [[1978] 1
+WLR 231](/cgi-bin/LawCite?cit=%5b1978%5d%201%20WLR%20231 "View LawCiteRecord" ) at 234-235, 237, 238; [[1978] 1 All ER 948] at 951, , 955. If the grammatical meaning does give rise to an injustice or anomaly, however, a real doubt will usually arise as to whether Parliament intended the grammatical meaning to prevail: cf Cooper Brookes (at 320). As
+Cardozo J said in Re Rouss [116 NE 782] at 785 (1917): 'Consequences cannot alter statutes, but may help to fix their meaning.' A resulting anomaly or injustice is not itself, however, a ground for departing from the grammatical meaning. Equally the natural and ordinary grammatical meaning of the provision is not decisive.
+The courts no longer follow statements to the effect of that of Higgins J in
+Amalgamated Society of Engineers versus Adelaide Steamship Co Ltd <case>; [(1920) 28 CLR 129] at 162, that 'when we find what the language means, in its ordinary and natural sense, it is our duty to obey that meaning, even if we think the result to be inconvenient or impolitic or improbable': see Cooper
+Brookes (at 319-320).
+
+Ascertaining the ordinary grammatical meaning of a legislative provision is only the first step in the process of statutory construction. If the consequences of the literal or grammatical construction raise a real doubt as to Parliament's intent, the court is justified in refusing to give the words their literal or grammatical construction." (Citation of authorities omitted.) ...
+
+The purposive approach: 
+A purposive and not a literal approach is the method of statutory construction which now prevails: cf Fothergill versus Monarch Airlines Ltd <case>; [[1981] AC 251] at 272-273, 275, 280, 291. In most cases the grammatical meaning of a provision will give effect to the purpose of the legislation. A search for the grammatical meaning still constitutes the starting point. But if the grammatical meaning of a provision does not give effect to the purpose of the legislation, the grammatical meaning cannot prevail. It must give way to the construction which will promote the purpose or object of the Act. ...
+ ...
+
+Once the object or purpose of the legislation is delineated, the duty of the Court is to give effect to it in so far as, by addition or omission or clarification, the relevant provision is capable of achieving that purpose or object. Where the court can see the purpose of a provision from an examination of its terms, little difficulty should be met in giving effect to that purpose. The days are gone when judges, having identified the purpose of a particular statutory provision, can legitimately say, as Lord Macmillan said in Inland Revenue Commissioners versus Ayrshire Employers Mutual Insurance
+Association Ltd [[1946] 1 All ER 637] at 641, of the means used to achieve the purpose: 'The legislature has plainly missed fire'. Lord Diplock, in an extra judicial comment on that decision has said, that 'if ... the Courts can identify the target of Parliamentary legislation their proper function is to see that it is hit: not merely to record that it has been missed': 'The Courts As Legislators', The Lawyer and Justice (Sweet & Maxwell) (1978) at 274." Applying a purposive construction, a body making an offer of securities is only entitled to the benefit of <case>(14) in calculating the ceilings of a small scale offering if it has complied with its obligations as a disclosing entity under <case>. To avoid the anomaly that would otherwise arise and to give effect to the purpose of the legislation <case>(14) should be read as if the words "and the disclosing entity has complied with <case>" were added at the end of the subsection. As GND has not complied with <case>, it cannot rely on <case>(14).
+ 
+Periods of contravention of <case>: the pleaded case ASIC submitted multiple tables in which it contended that there was a breach of <case> on the basis that GND was not entitled to the benefit of s (14). Numerous loan agreements produced by GND included references in their recitals to earlier loan agreements said to have been replaced by the agreements produced. ASIC submitted that the references to earlier loan agreements in the recitals to the loan agreements produced by GND showed GND had contravened <case> by borrowing from more than 20 investors or borrowing amounts above the $2 million ceiling in multiple periods commencing from the months starting 1 April 2005. However, this was not the case pleaded.
+ ASIC is entitled to rely on two loan agreements dated 10 January 2007 and March 2007 admitted by GND in final submissions and evidenced by MYOB journal entries tendered by GND, although those loan agreements were not pleaded. It appears that ASIC did not have evidence of those agreements until
+GND tendered the MYOB records and provided its submissions. ASIC could not have pleaded those matters. However, the position is different in the case of earlier loan agreements referred to in the recitals to the loan agreements on which ASIC based its case. The alternative claim advanced in final submissions could have been pleaded. Had it been pleaded GND might have adduced evidence to rebut the claim.
+ On the basis of the claim as pleaded ASIC contends that <case> was not satisfied and therefore <case> was breached for multiple and overlapping -month periods commencing on 27 October 2006, 6 November 2006, 21 December , 1 January 2007, 5 March 2007, 12 June 2007, 14 June 2007, 30 June 2007, July 2007, 3 August 2007, 3 September 2007, 30 September 2007, and 10
+October 2007.
+ 
+Calculation of $2 million ceiling Given GND's concession that if it is not entitled to rely on <case>(14) it contravened <case>, it is unnecessary to examine the detail of all these transactions. I consider transactions commencing in the first of such periods in a table appended to these reasons and marked "A". As there appears, had I accepted the submission of Mr Kelly SC that GND was entitled to rely on s (14), it would not follow that GND made out its entitlement to rely on s (1). GND has the onus of establishing the matters in <case> and the other subsections of 708 relevant to <case> (Chugg versus Pacific Dunlop Ltd <case>; [(1990) 170 CLR 249] at 257-259; Australian Securities & Investments
+Commission versus Cyclone Magnetic Engines Inc <case>; <case>, [39]-[40]). GND called no evidence as to the circumstances of the individual investors. It tendered bank statements and MYOB journal entries showing deposits to its bank account to support its contention that persons with whom
+GND entered into loan agreements were existing debenture holders because they had made previous loans to the company.
+ The question under <case>(14) is not whether the offer of debentures is made to a person who has previously made a loan to the company, but whether the offer is made to an existing debenture holder. For GND to prove that the offerees were existing debenture holders, it would have to demonstrate that at the time the offers of debentures were made those persons were entitled to the benefit of an existing chose in action against GND for repayment of money deposited with or lent to GND or payment of interest. It would not be enough merely to adduce evidence that that person had paid moneys to the company at some time in the past.
+ In calculating the $2 million ceiling, particularly where GND cannot rely on the "existing debenture holder" exception in <case>(14), there is an issue as to whether an amount is raised by the issue of debentures where the debenture replaces an existing obligation to repay a loan. In a number of cases no advance was physically paid to GND's account. In such cases, where the issue of the debenture satisfies the borrower's obligation to repay an existing loan, the amounts of the principal of the loan recorded in the debentures are amounts raised by the issue of the debentures. It makes no difference that there is not a physical repayment and a fresh advance. Where a loan is repayable, the borrower "raises an amount" by entering into a new loan agreement to extend the term of the loan just as much as if it repaid the existing loan and drew down a new loan with the same or different lender.
+ Likewise, there was an amount raised by the issue of the debenture where the lender was obliged to advance funds, even though GND's bank statement did not record the receipt. Money is raised by a borrower by the lender's agreeing to make the advance. Obtaining a loan facility is "raising" money. Under s (7) there is included in the calculation of the amount raised by the body by the issue of securities the amount payable for the securities, not the amount paid. The amount payable for GND's promise to pay principal and interest was the amount agreed to be lent.
+ As appears in Appendix A, the $2 million ceiling was breached by the issue of the loan agreement of 14 June 2007 with the Lack Superannuation Fund. If
+GND were entitled to rely on <case>(14), the $2 million ceiling was breached by the entry into a loan agreement with the Marcia Manning Superannuation Fund on September 2007.
+ As I have found that GND was not entitled to rely on <case>(14), I conclude that it also breached the 20 investors ceiling on entering into a loan agreement with a Mr B Bennett on 16 October 2007 (see Appendix A). It is unnecessary to pursue these matters in detail further. GND remained in breach of <case> up to its offering the last debenture entered into on 8 October 2008.
+ 
+Declaratory relief is appropriate GND submitted that no declarations of contravention should be made because no other substantive relief is sought in respect of the contraventions, apart from the winding-up of GND. However, there is a real controversy as to whether
+GND breached the Act in these respects. The declarations are not without utility. GND has offered an undertaking to enter into a trust deed that complies with <case> and appoint a trustee in compliance with <case> if it be found that it contravened <case>. I will accept that undertaking. For reasons below, I take it into account in deciding that I should not make an order for the winding-up of GND. The declarations are the underpinning of the need for the undertaking. I do not consider it appropriate to refuse to make a declaration because of the possibility of a criminal prosecution against GND.
+That possibility was not adverted to in argument. Moreover given that any criminal prosecution would be conducted according to a different standard of proof and probably on different facts, and as the declarations would create no res judicata precluding GND from defending a charge, I do not see that hypothetical possibility as a sufficient reason not to make declarations. In my view there is a public interest in the present controversies being formally resolved by the making of declarations (see generally J Jones, "The defendant breached the law: Declarations of contravention and Commonwealth regulators" [(2010) 84 Australian Law Journal 396).] ASIC is entitled to a declaration that GND contravened [s
+AA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283aa.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) by not entering into a trust deed that complied with [s
+AB](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283ab.html) and appointing a trustee in compliance with [s
+AC](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283ac.html) before making offers of debentures that needed disclosure under Chapter 6D.
+ ASIC is also entitled to a declaration that between 14 June 2007 and 8
+October 2008 GND contravened [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s727.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) by making offers of securities that needed disclosure to investors under [Pt
+D.2](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p6d.2) without having lodged with ASIC a disclosure document for the offers.
+ 
+Managed Investment Scheme A "managed investment scheme" is relevantly defined as follows: "managed investment scheme means: a scheme that has the following features: people contribute money or money's worth as consideration to acquire rights (interests) to benefits produced by the scheme (whether the rights are actual, prospective or contingent and whether they are enforceable or not); any of the contributions are to be pooled, or used in a common enterprise, to produce financial benefits, or benefits consisting of rights or interests in property, for the people (the members) who hold interests in the scheme (whether as contributors to the scheme or as people who have acquired interests from holders); the members do not have day to day control over the operation of the scheme (whether or not they have the right to be consulted or to give directions); or ...
+ ...
+ but does not include the following: ...
+ a scheme operated by an Australian ADI in the ordinary course of its banking business; 
+Note: This paragraph has an extended meaning in relation to Chapter 8 (see [subsection
+A(3)).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1200a.html) the issue of debentures ... by a body corporate; ..." The promissory notes were in a similar form. An example is as follows: "Promissory Note 
+Expiry Date: 24 months from the Issue Date 
+Issue Date: 2nd August 2008
+Great Northern Developments Pty Ltd (GND) promises to pay [xxx] the sum of $532,000.00 (the principle [sic] sum); and interest in accordance with the terms set out below.
+ ...
+
+Payable at: 
+Great Northern Developments Pty Ltd 
+Suite 9, 209-211 Windsor Street, 
+Richmond NSW 2753" ASIC contends that GND conducts a scheme. The scheme is its business of raising moneys from secured and unsecured lenders and developing and selling properties. ASIC contends that GND's issue of promissory notes was an issue of interests in a managed investment scheme. ASIC accepts that the raising of funds from Investec on mortgage and the raising of funds from unsecured lenders pursuant to the earlier loan agreements was not part of a managed investment scheme, because the definition of a managed investment scheme excludes the issue of debentures by a body corporate. But the issue of promissory notes with a face value over $50,000 was not excluded. ASIC contends that the scheme was the programme or plan of the defendant to undertake projects to develop properties to generate income from which lenders were to be paid interest and from which principal was to be repaid.
+ ASIC submitted that lending transactions with fixed returns can fall within the definition of "managed investment scheme" and the payment of interest and repayment of principal can be benefits "produced by the scheme". ASIC submitted that the promissory notes provided investors with "rights to benefits produced by the scheme".
+ GND had a single bank account into which moneys borrowed were paid and from which moneys were drawn to meet its expenses. ASIC contended that the contributions of investors were pooled to produce financial benefits for the people who hold interests in the scheme. GND did not dispute that investors did not have day-to-day control over the operation of the scheme. Hence, ASIC submitted that each element of the definition of "managed investment scheme" in [s 9](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s9.html) was satisfied.
+ To establish that GND operates a managed investment scheme, ASIC must establish that: there is a scheme; lenders (described in the evidence as "investors") contribute money or money's worth on the taking of promissory notes; the contributions of money or money's worth were consideration for the acquisition of rights to benefits produced by the scheme; the contributions were to be pooled or used in a common enterprise to produce financial benefits for investors; and investors do not have day-to-day control over the operation of the scheme.
+ Elements (a), (b) and (e) are satisfied. Elements (c) and (d) are not.
+ I accept that the business carried on by the defendant is a "scheme" within the definition, being some programme or plan of action. To be a scheme it is not necessary that all persons who participate in the scheme participate in every part of it (Australian Softwood Forests Pty Ltd versus Attorney-General ; Ex rel Corporate Affairs Commission <case>; [(1981) 148 CLR 121] at 129).
+ 
+Sub-paragraph (a)(i) of definition of managed investment scheme I also accept that the persons to whom the promissory notes were issued contributed "money or money's worth". Except in a handful of cases, there was no evidence that the persons to whom promissory notes were issued advanced loans to GND at the time of the issue of the notes. In some cases it appeared from handwriting on the notes themselves that the promissory note replaced a loan agreement which the lender had previously entered into with GND which had been renewed. In other cases this is a matter of inference from the fact that there is no record of a deposit to GND's bank account of the principal sum the subject of the promissory note. But whether the consideration for the issue of a promissory note was the making of a loan, or whether it was the investor's forbearing to demand repayment of an existing loan, the holder of the note made a contribution in money or money's worth.
+ Were such contributions consideration for the acquisition of rights to benefits produced by the scheme? The lending of money or forbearing to require repayment of a loan was consideration for GND's promise to repay principal and pay interest. The noteholder was entitled to payment of principal and interest irrespective of the success of the defendant's business, and irrespective of how the contributions of other holders of promissory notes were applied. The noteholders' return did not fluctuate according to the fortunes of the business. The noteholders had no right to require income from the properties or proceeds of sale from the properties to be applied in payment of principal or interest. Income from the renting or sale of such properties was a potential source for repayment of principal and payment of interest on the promissory notes. But it was only one potential source. Other potential sources included GND's existing cash reserves, moneys to be received on repayment of debts owed to GND, and refinancing. Holders of promissory notes had no right (whether enforceable or not) to have any particular source of funds applied towards payment of interest or repayment of principal.
+ In the course of her thorough and helpful submissions, Ms Dawson referred to a number of authorities that support the proposition that loans with fixed interest returns can fall within the definition of "managed investment scheme" and that the right to interest and repayment of principal can be a right to "benefits produced by the scheme". The question was considered by
+Windeyer J in Australian Securities and Investments Commission versus Hutchings <case>; (2001) 38 ACSR 387; [19 ACLC 1454.] There, money was raised by unsecured loans on the promise of extraordinarily high rates of interest by two individuals. The exclusion of the issue of debentures from the definition of "managed investment scheme" did not apply because the debentures were not issued by a body corporate. His Honour found (at [13]): "[13] ... The investors were told that their contributions were to be pooled and used in a common purpose, which would provide financial benefits for them not otherwise available. It is clear that they thought that these benefits would be available through the ability of the borrowers to use the pooled funds to obtain high returns. It is clear that the lenders had no control whatsoever over the operation of the scheme. All they had was the right to receive the interest and the principal. None of them suggested otherwise, except that some were told that in some way the capital was insured, which it was not. The question then is whether the "lenders" contributed money as consideration to acquire rights to benefits produced by the scheme. It seems to me that this is determined by the decisions in
+Waldron versus Auer <case>; [[1977] VR 236]; <case>; [(2000) 35 ACSR 620.] In the latter case it was held that the term 'interest' included 'a right to have a scheme operate in accordance with the agreements they have made and to be paid moneys due'. In the former case it was held that borrowing of money at interest and lending out that money at a higher rate of interest and using those interest payments to pay interest to borrowers amounted to a scheme. So far as the lenders were concerned the feature of the scheme was that they would receive rights to interest produced by the scheme of pooled borrowings, which borrowings were able to be invested so as to produce remarkable returns owing to the skill of Hutchings." 
+The key finding was that the lenders were to receive "rights" to interest produced by the scheme of pooled borrowings. Under para (a)(i) of the definition a person may contribute money to acquire a "right" to benefits produced by the scheme even though the right is not enforceable. The "rights" may have arisen from representations made by the promoters to the lenders.
+ In Waldron versus Auer <case>; [[1977] VR 236] the respondent carried on business as a financier. He borrowed money from members of the public and advertised that the moneys raised would be pooled and that the pooled investments would be secured. The
+Commissioner of Corporate Affairs successfully sought an order restraining the respondent from dealing in "securities". "Securities" was defined to include an "interest" as defined in <case> of the [Companies Act ](http://www.austlii.edu.au/au/legis/vic/histact/ca1961107/) (Vic). Such an "interest" included: "Any right to participate or interest whether enforceable or not and whether actual prospective or contingent - a) in any profits, assets or realisation of any financial or business undertaking or scheme ..." The lenders did not in fact have security for their loans. Rather, the moneys raised by the respondent by unsecured borrowings were used by him to make loans at higher rates of interest often, although not uniformly, on security. Anderson J held that what was offered to prospective lenders was a right to participate in, or an interest in, any profits, assets or realisation of a financial or business undertaking or scheme. His Honour said (at 241): "The respondent's activities which are under consideration constitute a financial or business undertaking or scheme--that of borrowing money at interest and lending out that money at higher rates of interest, and in that business or undertaking he receives funds by way of interest payments from the borrowers, out of which he pays the interest he has contracted to pay. The investors who lend money to him have a right to interest at the rate contracted for, such interest payments coming from the profits of the respondent's business, "profits" bearing the meaning attributed to it by Pape,
+J., in Waldron versus MG Securities A/asia Ltd. <case>; , [[1975] VR 508], at pp. 529-30, namely, a gain, benefit or advantage occurring from the management, use or sale of property or from the conduct of business." In Australian Securities and Investments Commission versus Enterprise Solutions Pty Ltd <case>; [[2003] 1 Qd R 135], moneys were collected from the public and used to bet on horse races. To the extent that bets were successful, the profits were distributed to the contributors. With respect, the case is of little assistance in determining whether the making of unsecured loans at a fixed rate of interest independent of the success of the borrower's business, that is, where the borrower is obliged to pay interest and repay the loan irrespective of the success of his business, is for a consideration to acquire benefits produced by the scheme.
+ In Australian Securities and Investments Commission versus Pegasus Leveraged
+Options Group Pty Ltd <case>; [(2002) 41 ACSR 561], Davies AJ followed Australian Securities and Investments
+Commission versus Hutchings. The defendant was found to have operated a managed investment scheme. Through its director it borrowed moneys in lump sums from at least 89 people. The loan agreements were not promissory notes and the amounts borrowed were typically less than $50,000. Davies AJ said (at [27] and [28]): "[27] In the present case, the investors invested in a scheme. They did not merely make individual loans to Pegasus at interest. In each case, the investors understood that the moneys would be used with other moneys in some money-making programme or plan of action. Of course, they were duped into so believing. But that fact does not destroy the finding that, in each case, the investment was an investment in a scheme.
+ [28] The definition of 'managed investment scheme' requires the scheme to have the three characteristics which are specified in s9. In the present case those characteristics existed. First, the moneys invested were paid as consideration for rights to benefits produced by the scheme. Those rights were 'interests' as defined in s9. In each case, the investor was informed and understood that the ability of Pegasus to pay the specified rate of interest would result from a dealing with the moneys in the manner which was represented to the investor. It was obvious to each investor that the rate of interest offered was not a normal rate of interest. That rate of interest was understood to be achievable only by the carrying out by Pegasus of its represented programme or plan of action." In that case the defendant was not represented. No consideration was given to whether the loans were debentures and thereby excluded from the definition of a managed investment scheme. Apparently the question was not raised. Ms
+Dawson correctly submitted that that does not detract from the reasoning relevant to the present case. Importantly, in that case representations were made to "investors" that they would receive a high rate of return by Pegasus carrying out its money-making scheme.
+ In each of these cases some representation was made to investors that by lending money to the promoter of the scheme the investor would derive a return, sometimes a very high return, out of the anticipated successful operation of the scheme. The scheme was to be operated using the vaunted skills of the promoter. Similarly, in Australian Securities and Investments
+Commission versus Emu Brewery Mezzanine Ltd <case>; [(2004) 52 ACSR 168]; (2004) 187 FLR 220, investors lent money by way of promissory notes to companies which acted as mezzanine financiers to related companies that carried on property developments. The notes provided a fixed return. The issue of the notes was pursuant to a scheme whose represented features included that on-lending through a special purpose corporate vehicle that would lend funds for a particular property development project, would provide investors with a return and security not otherwise available to individual investments of the size sought. Simmons J observed that a "right" to benefits produced by the scheme need not be a legally enforceable right and that representations in the marketing material conveyed a linkage between the risk of and returns on the notes and the mezzanine financing structure for a particular project that would produce returns secured to the special purpose corporate vehicle by which the notes were issued (at [94], [96] and [99]). His
+Honour held that this distinguished the case from a case of a simple issue of promissory notes by a corporation with particular creditworthy characteristics (at [96]), and showed that investors contributed their money to acquire rights to benefits produced by the scheme. His Honour appears to have proceeded on the basis that this element of the definition would not have been satisfied if the note issuer merely issued the notes to investors for the purpose of its business which it held out as having certain creditworthy characteristics.
+ In the present case there is no evidence that representations were made to any of the persons to whom promissory notes were issued that the payment of principal or interest due under the notes would be derived from any particular source. Because the business of GND is that of a property developer, the holders of promissory notes may well have assumed that interest and principal would be paid from sales of, or income derived from, property developments.
+But that does not mean that a holder of a promissory note has a right, even an unenforceable right, to have any particular assets deployed in order for GND to meet its obligations under the note.
+ In some cases the earlier loan agreements tendered by ASIC provided that the investor would receive a 30 per cent return on principal on completion of a particular aged care project. From this it could be inferred that the lender was to be paid from the proceeds of completion of that particular project.
+There was no evidence that there was any such holding out to persons to whom promissory notes were issued. Mr Edwards was examined by officers of ASIC on 9
+December 2008 pursuant to [s ](http://www.austlii.edu.au/au/legis/cth/consolact/asaica2001529/s19.html) of the [Australian Securities and Investments Commission
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/asaica2001529/). In the course of that examination he was asked questions and gave answers as follows: "Q. And in - in terms of approaching your clients, for want of a better word - - 
+MR JEFFERIS: I think you'd be better off calling them investors - - 
+MR BORCHOK: Yeah, actually I will - I will - - 
+MR JEFFERIS: - - because there's a distinction.
+
+MR BORCHOK: I'll withdraw that.
+
+MR JEFFERIS: Yeah.
+
+MR BORCHOK: Q. How is it that you would usually commence a possible investment opportunity with someone? 
+A. They usually approach us, Adrian, because I've been an accountant, you know, I've been a - since '83, as I said, and - and also Chris is, you know, in the mortgage brokering. Yeah, so they normally approach us. And also they're aware of other people that have been in the deals, and, as you can see, quite a few are family members and employees.
+ ...
+
+Q. So describe in your own words what the scenario would be with them approaching you? 
+A. I - well, fortunately most people understand that interests are returned. So it's usually you just talk about the interest return and then they - you talk about the developments.
+
+Q. Can you tell us what proportion of the projects are funded by, say, retail investors as against wholesale investors? 
+A. I'm not sure. You mean 'retail' are you talking about Mums and Dads? 
+Q. Mums and Dads.
+
+A. And wholesale is Investec? 
+Q. As a more institutional investor? 
+A. Look, I really haven't looked at that ratio, but I'd say the - the
+Mums and Dads would be maybe 15 per cent.
+
+Q. And in terms of the - the retail investors, did they ever specify to you what the - you know, why they were seeking to invest in this particular development or opportunity? (The examinee and Mr Jefferis confer) 
+THE EXAMINEE: Yeah. Basically that - yeah, that basically each - each - each person has a different - different way they approach it.
+
+MR BORCHOK: Q. What's the process for allocating funds to projects? 
+A. Well, largely, we look at the cash flows, Adrian. So, you know, we want to ensure that our people are paid back. So obviously you - you've got that weighting scenario. You're familiar with the 30 per cent return. We've got about a 12-month period to offer them a development and - and we don't usually offer them the - the - the - the - return - the 30 per cent return until we know it's ready to go. And from our experience, at that point, it's about 12 months between whoa to go, and the period is for 18 months and there's also a six-month lag time so - that that gives us a very much a comfortable zone just in case the worst happens, things don't finish on time, sales aren't as quick as they should be.
+
+Q. And do you specify what the investment will be used for? 
+A. No - oh, well, largely we - we - we will say that'll be a - you know, we'll describe the particular project, but they get the return regardless, Adrian. So it's - it's more a time thing once we - once we take their money, 18 months later, they get their return." GND did not dispute that these statements were admissible against it. This is not evidence that any representation was made to any holder of a promissory note. The questions were entirely general and related both to lenders under loan agreements which are debentures and to holders of promissory notes. The reference to investors who were offered a 30 per cent return in respect of a particular development did not identify the investors in question.
+ All but three of the promissory notes provided for payment of interest of .2 per cent per annum or less. Two promissory notes provided for a flat return of 35.1 per cent interest over two years. One provided for interest of .1 per cent from the date of the note to 20 November 2010. No date was shown on that note, but ASIC alleges that the note was issued on 24 November 2008.
+ASIC tendered loan agreements which included the following term, or a term not materially different: "3. RETURN ON INVESTMENTS 
+The Borrower will repay the principal sum together with ten point two per cent per annum (10.2%p.a.). Interest is to be paid every three months. Within twelve months the borrower will offer the lender an opportunity to invest the principal sum under the following conditions:- ) [GND] agrees to pay the Investors 30% return on the principle [sic] sum. Note, the 10.2%p.a interest ceases when the project is offered to the lender.
+ ) It is expected that [GND] will repay the principal sum ($178,000) together with the 30% return by 18 months from the date of this Agreement.
+ ) If this does not occur, the following applies;- 
+I. GND will pay 10.2%p.a return from 18 months to 24 months.
+
+II. At 24 months from the date of the 10.2%p.a ceasing, [GND] will pay the lender, the principle [sic] together with the 30% per clause 2. and 10.2% return detailed in clause 3.1.
+
+If the borrower does not offer the lender an investment opportunity within 12 months from the date of this agreement the principal sum together with any outstanding interest is to be refunded to the lender." There are many ambiguities in the clause, but they are not of present relevance. What is relevant is that no similar term was included in a promissory note. Nor is there any evidence that any representation was made to the holder of a promissory note that the return would be provided from any particular project.
+ The question in the examination of Mr Edwards "And in terms of the - the retail investors - did they ever specify to you ... why they were seeking to invest in this particular development or opportunity" was not justified by any previous answer of Mr Edwards. He made no admission that any investor sought to invest in a particular development. No admission was obtained from this question.
+ In my view, it is a mistake to conflate an expectation that a return will be generated from a scheme with a right to receive a benefit from the scheme which is consideration for the member's contribution. The question is what was the consideration for the contribution of money or money's worth? Unless the consideration was the right (even if unenforceable) to acquire benefits produced by the scheme, then para (a)(i) of the definition of "managed investment scheme" is not satisfied. (Prima facie it is not easy to see how an unenforceable right to acquire benefits produced by a scheme could be consideration for the contribution, but contracts that are unenforceable for want of writing could provide examples.) In summary, it was neither a term of a promissory note, nor was there any evidence of a representation being made to a holder of a promissory note, that the holder had a right, even an unenforceable right, to acquire benefits produced by GND's business of raising money from lenders and developing and selling properties. The holders have the right to interest and repayment of principal. No doubt all parties expect these payments to be made from the revenue of the business. But the holders have no right to obtain payment from that source.
+ I do not consider that the exception in para (i) to the definition of "managed investment scheme" for authorised deposit-taking institutions affects this construction. The exception may well be included for abundant caution, or because such institutions might borrow on terms that payments of interest and repayments be made from revenue generated from the taking of deposits.
+ Moreover, the alleged managed investment scheme is not the entirety of
+GND's business. That business was established using funds raised by the issue of debentures. ASIC accepts that GND did not conduct a managed investment scheme prior to 20 August 2008. As Barrett J said in Australian Securities and Investments Commission versus Karl Suleman Enterprises Pty Ltd (in liq) <case>; [(2003) 45 ACSR 401] (at [11]): "... a particular 'scheme' is a 'managed investment scheme' if it has certain features described in para(a)(i), para(a)(ii) and para(a)(iii) of the definition. Those features are defined in a way that might comprehend the borrowing of money at interest and the pooling of that money to generate financial returns permitting the principal and interest to be paid in due course. It is no doubt for that reason that para(j) excludes from the definition of 'managed investment scheme' the issue of debentures by a body corporate. I take this exclusion to mean that the issue of debentures by a body corporate cannot, of itself, be a 'managed investment scheme', even though debentures might be issued in a way that, because of associated or surrounding activities, forms part of the operation a 'managed investment scheme'. But the inability of the issue of debentures as such to be a 'managed investment scheme' seems to lead inevitably to the conclusion that the rights of repayment of principal and payment of interest inherent in the debenture cannot be an 'interest' in any surrounding managed investment scheme since those rights, although rights to 'benefits' (in the form of principal and interest), cannot be said to be rights to 'benefits produced by the scheme', since the debentures which are the source of the right (or in which it is embodied) are, by definition, not part of the scheme." Even if it were the case that holders of promissory notes had rights to benefits produced from GND's business of borrowing money and developing and selling properties, there is no evidence that they contributed money or money's worth to acquire the right to benefits produced by the contributions made by the other holders of promissory notes. There is no evidence that such benefits could be separately identified. Nor were such benefits the consideration for the loans made or forbearance shown by the holders of the promissory notes. Even on ASIC's case, the holders of promissory notes contributed money or money's worth to acquire a return from the defendant's business as a whole. But whilst the whole business could be considered a scheme, it was not a managed investment scheme.
+ For these reasons para (a)(i) of the definition of "managed investment scheme" is not satisfied Nor is para (a)(ii) of the definition satisfied. In National Australia
+Bank Ltd versus Norman  <case>; [(2009) 180 FCR 243] Gilmour J, with whom Spender J agreed, said (at [148], [150]): "[148] In my opinion, the words 'contributions are to be pooled' in para (a)(ii) require an intention, objectively discerned, forming part of the 'scheme' and formed prior to the making of contributions, that the contributions are to be pooled. That intention may be discerned objectively and variously from documents, discussions or conduct. The subjective evidence of members as to what, and by what means, they understood was the scheme prior to making their contributions would be relevant but not necessarily determinative of this question.
+ ...
+ [150] Furthermore what is required is an intention objectively discerned that contributions are to be pooled, relevantly, '... to produce financial benefits ... for the people (the members) who hold interests in the scheme ...'. Accordingly, contributions are not merely to be pooled. Rather they are to be pooled for a purpose, namely, the production of financial benefits for the members as a whole proportional to the interest they acquired by making contributions. The primary judge in this case at [13] acknowledged this when he said: 
+The scheme must therefore contemplate the generation of benefits under a common enterprise ... from the funds contributed." It is not necessary to consider whether for para (a)(ii) to be satisfied the purpose of the members pooling their contributions must be to obtain financial benefits proportional to the interest acquired from the contributions. There is no such express requirement. But it is essential that there be an intention, objectively ascertained, that the members' contributions are to be pooled, or used in a common enterprise, to produce financial benefits or rights or interests in property for the members.
+ In the present case all funds received by GND from any source were paid into a single bank account. In this sense any moneys received either pursuant to the loan agreements, which were debentures, or pursuant to the issue of promissory notes, or from any other source, were pooled. But there is no evidence that any one holder of a promissory note intended that his or her or its contribution in money or money's worth should be pooled with a contribution of any other holder of a promissory note, as distinct from being applied by the company. In many cases it does not appear that any money was received from a holder of a promissory note at the time of its issue. In most cases it appears that the money's worth provided for the issue of the note was the forbearance from calling up a debt arising from an earlier loan agreement.
+It is not possible to say that the money's worth constituted by such forbearance was capable of being pooled with the forbearance of any other noteholder, or with moneys paid by any other noteholder.
+ Nor is there evidence that holders of promissory notes had a purpose that their contributions (whether contributions made through payment of money or forbearance from calling up an existing debt) were to be pooled or used in a common enterprise with the contributions of other noteholders, to produce financial benefits for noteholders. There is no evidence that any one noteholder knew that GND issued promissory notes to others. The evidence does not go further than establishing that each holder of a promissory note had the purpose of being paid in accordance with the terms of the note. There is evidence that some unidentified lenders knew that other persons lent money to
+GND. There is no evidence whether such persons included holders of promissory notes. That is, there is no evidence that any individual holder of a promissory note knew that GND was issuing other promissory notes, and no evidence that promissory noteholders intended their contributions be pooled, or used in a common enterprise, assuming that that was possible. ASIC called no evidence from any holder of a promissory note.
+ It is unnecessary to explore the further complications that the pooling of the contributions in moneys paid was a pooling not only of contributions from other promissory noteholders who paid money as consideration for the issue of the notes, but also the pooling of money received from all other sources, including from the issue of debentures which are excluded from the definition of a management investment scheme.
+ For these reasons I do not consider that GND operated a managed investment scheme. This is not surprising. The conclusion is consistent with other provisions of the Act. If contrary to my view, GND did operate a managed investment scheme through the issue of promissory notes and if, as ASIC contends, the scheme was required to be registered pursuant to <case>, it would not have been possible to register the scheme without transforming it.
+The responsible entity of a registered managed investment scheme holds scheme property on trust for the scheme members (s 601FC(2)). "Scheme property" of a registered scheme is defined as follows [(s ):](http://www.austlii.edu.au/au/legis/cth/consolact/asaica2001529/s9.html) "scheme property of a registered scheme means: contributions of money or money's worth to the scheme; and money that forms part of the scheme property under provisions of this Act or the ASIC Act; and money borrowed or raised by the responsible entity for the purposes of the scheme; and property acquired, directly or indirectly, with, or with the proceeds of, contributions or money referred to in paragraph (a), (b) or (c); and income and property derived, directly or indirectly, from contributions, money or property referred to in paragraph (a), (b), (c) or (d).
+
+Note 1: Paragraph (a)--if what a member contributes to a scheme is rights over property, the rights in the property that the member retains do not form part of the scheme property.
+
+Note 2: For provisions that are relevant to paragraph (b), see subsections 177(4), 1317HA(1A), 1317HB(3) and 1317HD(3) of this Act and subsection 93A(5) of the ASIC Act." Thus if the scheme were required to be registered and was registered, the result would be that promissory noteholders whose only contractual rights were to receive payment in accordance with the terms of the note would become beneficial owners of all of the money raised by GND from promissory noteholders, of all money borrowed or raised by GND for the purposes of the scheme, and of property acquired with such moneys and income and property derived from them. It is incongruous that a scheme should need to be registered when it does not have the features that would pertain to the scheme once it was registered.
+ It is true that in Brookfield Multiplex Ltd versus International Litigation
+Funding Partners Pte Ltd <case>; [(2009) 180 FCR 11], Sundberg and Dowsett JJ said (at [56]): "[56] The scheme of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) is to define the term 'managed investment scheme' in [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s9.html) and to regulate some of those schemes pursuant to Ch 5C. Many of the regulatory provisions will affect the constitution and conduct of any scheme which must be registered. In other words, if a scheme falls within the [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s9.html) definition, and if it is required to be registered, then it must be constituted and conducted so as to comply with Ch 5C. It follows that one cannot hold that a particular scheme is not within the [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s9.html) definition simply because its structure does not comply with the requirements of Ch 5C. If the scheme must be registered then it must be constituted and conducted so as to permit registration." In my respectful view, that observation does not give full weight to the fact that not only does [s
+ED(5)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ed.html) provide that a person must not operate a managed investment scheme that is required to be registered unless the scheme is so registered, but [s
+ED(1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ed.html) requires the managed investment scheme to be registered if other provisions of that section are satisfied. I prefer the later observations of Gilmour J (with whom Spender J agreed) in National Australia Bank Ltd versus Norman at [183]. His
+Honour said: "As I have already explained, [s
+EE](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ee.html) allows managed investment schemes to be wound up where a person operates a scheme in contravention of [s
+ED(5).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ed.html) [Section
+ED(5)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ed.html) prohibits a person from operating a managed investment scheme that is required to be registered, unless the scheme is so registered. [Section
+ED(5)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ed.html), accordingly, envisages that the unregistered managed investment scheme is of a kind which ought to have been, and could in fact have been, registered." 
+If the scheme were a managed investment scheme it was required to be registered As I do not consider that GND operated a managed investment scheme, it is unnecessary to decide whether the scheme would have required registration under [s
+ED.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ed.html)
+However, in case I am wrong in my conclusion I will deal with the arguments raised under that section. [Section
+ED](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ed.html) relevantly provides: "601ED When a managed investment scheme must be registered 
+Subject to subsection (2), a managed investment scheme must be registered under [section
+EB](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601eb.html) if: it has more than 20 members; or it was promoted by a person, or an associate of a person, who was, when the scheme was promoted, in the business of promoting managed investment schemes; or a determination under subsection (3) is in force in relation to the scheme and the total number of members of all of the schemes to which the determination relates exceeds 20.
+
+A managed investment scheme does not have to be registered if all the issues of interests in the scheme that have been made would not have required the giving of a Product Disclosure Statement under Division 2 of [Part .9](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p7.9) if the scheme had been registered when the issues were made.
+ ...
+
+For the purpose of this section, when working out how many members a scheme has: joint holders of an interest in the scheme count as a single member; and an interest in the scheme held on trust for a beneficiary is taken to be held by the beneficiary (rather than the trustee) if: the beneficiary is presently entitled to a share of the trust estate or of the income of the trust estate; or the beneficiary is, individually or together with other beneficiaries, in a position to control the trustee." Regulation 5C.11.05A provides: "5C.11.05A Schemes not required to be registered (Act <case>) 
+Subsection 601ED (2) of the Act has effect as if the words 'and Division 2 of
+Part 7.9 applied to the interests at that time' were inserted after the words 'when the issues were made'." GND contended that if the issue of promissory notes gave rise to a managed investment scheme, the scheme did not have 20 members and therefore did not have to be registered (s 601ED(1)). GND also contended that the scheme did not have to be registered by reason of <case>.
+ Twenty-eight promissory notes were issued between 20 August 2008 and 13
+July 2009. The 20th note was one issued on 5 February 2009 to a Ms Ilona
+Fleishhacker for $150,000. Prima facie, if there were a managed investment scheme, it had at least 20 members by 5 February 2009. ASIC contended that in fact it had more than 20 members, because in some cases an interest in the scheme was held on trust for beneficiaries and each beneficiary was to be treated as a separate member pursuant to <case>.
+ GND submitted that a member of a managed investment scheme is someone to whom an interest has been issued. GND submitted that an interest in a managed investment scheme should be taken to have been issued only in the circumstances provided for in <case>. That section defines the circumstances in which a financial product is issued to a person. An interest in a registered managed investment scheme is a financial product, as is an interest in an unregistered managed investments scheme other than a scheme in relation to which none of paragraphs (a), (b) or (c) of <case> is satisfied (s
+A(1)(b) and (ba)). Section 761E (2) provides that subject to that section, "a financial product is issued to a person when it is first issued, granted or otherwise made available to a person." GND contended that only five of the promissory notes were issued in this sense. The others were issued to persons who had lent money to GND on earlier occasions under a loan agreement.
+ Paragraphs (a)(i) to (a)(iii) of the definition of "managed investment scheme" do not use the word "issue". Nor does <case>, which prescribes the circumstances in which a managed investment scheme must be registered. The fact that <case> sets out the circumstance in which a managed investment scheme does not have to be registered and that subsection incorporates the concept of "issue" in Chapter 7 does not mean that <case> is relevant to determining whether <case>(a) is satisfied. In my view, it is not.
+ In any event, the promissory notes, if issued as interests in a managed investment scheme, were a different financial product from the debentures (which were securities) issued previously. The promissory notes were issued to each investor on or about the date each bore. That is so even to the extent that the investors to whom the notes were issued had made earlier loans under loan agreements.
+ For these reasons I accept that <case>(a) was satisfied if there were a managed investment scheme.
+ GND did not plead reliance on <case>. Nonetheless, in submissions it relied on [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1012e.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) and contended that if it did operate a managed investment scheme, the scheme did not have to be registered because none of the issues of interest in the scheme would have required the giving of a product disclosure statement under
+Division 2 of [Part .9](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p7.9) if the scheme had been registered when the issues were made.
+ Relevantly, [s
+B(3)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1012b.html) in Division 2 of [Part .9](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p7.9) provides: "1012B Obligation to give Product Disclosure Statement situations related to issue of financial products ...
+
+A regulated person must give a person a Product Disclosure Statement for a financial product if: the regulated person: offers to issue the financial product to the person; or offers to arrange for the issue of the financial product to the person; or issues the financial product to the person in circumstances in which there are reasonable grounds to believe that the person has not been given a
+Product Disclosure Statement for the product; and the financial product is, or is to be, issued to the person as a retail client.
+
+The Product Disclosure Statement must be given at or before the time when the regulated person makes the offer, or issues the financial product, to the person and must be given in accordance with this Division.
+
+Note: If a Product Disclosure Statement is given when the offer is made, it will not need to be given again when the product is issued to the person (see [subsection
+D(1))](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1012d.html) unless the Product Disclosure Statement that was given is no longer up to date." A product disclosure statement would not have been needed in respect of the issue of a promissory note with a face value of $500,000 or more because the person to whom such a note was issued would not have been a "retail client" within the meaning of [s
+G(7)(a)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s761g.html) (reg 7.1.24(2)).
+ [Section
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1012e.html) provides: "1012E Small scale offerings of managed investment and other prescribed financial products (20 issues or sales in 12 months) 
+This section applies only to financial products that are: managed investment products; or financial products of a kind prescribed by regulations made for the purposes of this paragraph.
+
+Personal offers of financial products do not need a Product
+Disclosure Statement under this Part if: all of the financial products are issued by the same person (the issuer); and none of the offers results in a breach of the 20 purchasers ceiling (see subsections (6) and (7)); and none of the offers results in a breach of the $2 million ceiling (see subsections (6) and (7)).
+
+Subsection (2) does not apply to an offer to which [subsection
+C(6)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1012c.html) (sale amounting to indirect issue) or (8) (sale amounting to indirect sale by controller) applies.
+
+Note: Under [section
+K](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1012k.html),
+ASIC may make a determination aggregating the transactions of bodies that ASIC considers to be closely related.
+
+If subsection (2) applies to an offer of a financial product, a recommendation to a person to acquire a financial product in response to a personal offer of that kind does not need a Product Disclosure Statement under this Part.
+
+For the purposes of subsections (2) and (4), a personal offer is one that: may only be accepted by the person to whom it is made; and is made to a person who is likely to be interested in the offer, having regard to: previous contact between the person making the offer and that person; or some professional or other connection between the person making the offer and that person; or statements or actions by that person that indicate that they are interested in offers of that kind.
+
+An offer to issue, or arrange for the issue of, a financial product: results in a breach of the 20 purchasers ceiling if it results in the number of people to whom the issuer has issued financial products exceeding 20 in any 12 month period; and results in a breach of the $2 million ceiling if it results in the amount raised by the issuer from issuing financial products exceeding $2 million in any 12 month period.
+
+An offer by a person to sell a financial product: results in a breach of the 20 purchasers ceiling if it results in the number of people to whom the person sells financial products issued by the issuer of that financial product exceeding 20 in any 12 month period; and results in a breach of the $2 million ceiling if it results in the amount raised by the person from selling financial products issued by the issuer of that financial product exceeding $2 million in any 12 month period.
+
+In counting issues and sales of the financial products issued by the issuer, and the amount raised from issues and sales, for the purposes of subsection (2), disregard issues and sales that result from offers that: do not need a Product Disclosure Statement (otherwise than because of this section); or are made under a Product Disclosure Statement.
+
+Note: Also see provisions on restrictions on advertising [(section
+A)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1018a.html) and the anti hawking provisions in [section
+A.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s992a.html) 
+In counting issues and sales of the financial products issued by the issuer, and the amount raised from issues and sales, for the purposes of subsection (2), disregard any issues and sales made by a body if: the body was a managed investment scheme (but not a registered scheme) at the time that the offer of interests in the scheme that resulted in the issues or sales was made; and the body became a registered scheme within 12 months after that offer was made; and the offer would not have required a Product Disclosure Statement (otherwise than because of this section) if the managed investment scheme had been a registered scheme at the time that the offer was made.
+
+In working out the amount of money raised by the issuer from issuing financial products, include the following: the amount payable for the financial products at the time when they are issued; if the financial product is an option--any amount payable on the exercise of the option; if the financial products carry a right to convert the financial product into other financial products--any amount payable on the exercise of that right.
+
+If a person relies on subsection (2) to make offers of financial products without a Product Disclosure Statement under this Part, the person must not issue, arrange for the issue of, or transfer, financial products without a Product Disclosure Statement under this Part if the issue or transfer would result in a breach of the 20 purchasers ceiling or the $2 million ceiling (see subsections (6), (7), (8), (9) and (10)).
+
+For the purposes of this section, an offer of a financial product is an offer to: issue the financial product; or arrange for the issue of the financial product; or sell the financial product." [Section
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1012e.html) has obvious similarities to [s (1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) to (7) which applies to the issue of "securities" as defined for the purposes of Chapter 6D. It does not include a provision comparable to [s (14)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) because interests in registered managed investment schemes are not debentures which could require disclosure under Chapter 6D.
+ Pursuant to [s
+E(8)(a)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1012e.html) the issue of any promissory note with a face value of more than $500,000 is to be disregarded in determining whether the financial products were issued to more than 20 people in any 12-month period, and in determining whether the amount raised by the issuer from the issuing of financial products exceeded $2 million in any 12-month period. It follows that the first, fifth and fourteenth promissory notes issued on 20 August 2008, 27 October 2008 and 26
+November 2008 are excluded when considering whether [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1012e.html) is satisfied.
+ GND contended that two further promissory notes should be excluded from consideration because they were issued to "sophisticated" persons, which was a shorthand for contending that a product disclosure statement would not have been required in respect of those notes because they were not issued to a "retail client". No reliance was or could have been placed on [s
+GA.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s761ga.html)
+I take it that GND relied on [s
+G(7)(c).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s761g.html) That section provides: "761G Meaning of retail client and wholesale client 
+Other kinds of financial product 
+For the purposes of this Chapter, if a financial product is not, or a financial service (other than a traditional trustee company service) provided to a person does not relate to, a general insurance product, a superannuation product or an RSA product, the product or service is provided to the person as a retail client unless one or more of the following paragraphs apply: ...
+ the financial product, or the financial service, is not provided for use in connection with a business, and the person who acquires the product or service gives the provider of the product or service, before the provision of the product or service, a copy of a certificate given within the preceding 6 months by a qualified accountant (as defined in [section )](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s9.html) that states that the person: has net assets of at least the amount specified in regulations made for the purposes of this subparagraph; or has a gross income for each of the last 2 financial years of at least the amount specified in regulations made for the purposes of this subparagraph a year ..." The two promissory notes in question were issued on 1 October 2008 to the
+Casucelli Superannuation Fund and on 23 April 2009 to the A & G Dickie
+Superannuation Fund. GND tendered a document addressed to "Great Northern
+Developments - Richmond Corporation" expressed to be from "Chris Edwards" and signed by Mr Edwards. The document relating to the Casucelli Superannuation
+Fund was dated 11 May 2006. The document relating to A & G Dickie was dated 16 April 2009. Both documents contained statements as to the income and net assets of the persons concerned. The figures provided were at least the amounts specified in the regulations for the purposes of [s
+G(7)(c)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s761g.html) (reg 7.1.28).
+ Mr Edwards did not give evidence.
+ I will assume, without deciding, that the documents were a certificate.
+However, there is no evidence that "the person who acquires the product", that is, the holder of the notes, gave GND a copy of a certificate within the meaning of [s
+G(7)(c).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s761g.html)
+To the contrary, I would conclude from the form of the document and from the fact that Mr Edwards, as well as being an accountant and solicitor, is a director of GND, that he prepared the document for GND. There is no evidence that he was acting as agent of the investor to provide the document on the investor's behalf to GND. It is relevant that each loan agreement provided that Mr Edwards was not acting as solicitor or accountant for the lender.
+There is no evidence that he acted as solicitor or accountant for those lenders to whom promissory notes were issued.
+ The first certificate relied upon was not given within six months preceding the acquisition of the financial product by the Casucelli
+Superannuation Fund.
+ Nor was there any evidence that the financial products were not provided for use in connection with a business.
+ For these reasons the promissory notes issued to the Casucelli
+Superannuation Fund and to the A & G Dickie Superannuation Fund are not to be excluded for the purpose of [s
+E.](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1012e.html) It follows that the first of the interests in what was alleged to be the managed investment scheme to be considered in the context of [s
+E](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1012e.html) was issued to the Casucelli Superannuation Fund on 1 October 2008. The 21st promissory note for a face value of less than $500,000 was issued on 25 March to the Gail Felice Superannuation Fund. It follows that the 20 investors ceiling was exceeded.
+ I also consider that the "amount raised" by GND from issuing the promissory notes exceeded $2 million in a 12-month period. It can be concluded from a review of the bank statements that less than $2 million in total was paid to the credit of GND's bank account as a result of the issue of promissory notes. Although there was no express evidence about it, I would infer that in at least the majority of cases the promissory note was issued as a "rollover" of a previous loan. Although the cash received by GND was less than $2 million in a 12-month period, the total face value of the promissory notes in question is $5,371,839.41, which substantially exceeded the $2 million ceiling. The issue of the promissory notes involves the raising of money, even though moneys do not physically change hands, just as much as if the loan were repaid and re-drawn [(s
+E(10)(a)).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s1012e.html)
+For the same reasons given in respect of [s (1)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) in paras [46]-[47] of these reasons, I conclude that the "amount raised" by
+GND from issuing the promissory notes exceeded the $2 million ceiling.
+ For these reasons, had the issue of promissory notes been made pursuant to a managed investment scheme, the scheme would have required registration.
+ 
+If the scheme were a managed investment scheme it should not be wound up It is strictly unnecessary to decide whether it would have been appropriate to make an order for the winding-up of the scheme had I concluded that GND was operating a managed investment scheme that required registration.
+But in case I am wrong in concluding that GND did not operate a managed investment scheme I will deal with that question. Prima facie an unregistered managed investment scheme that is required to be registered should be wound up (Australian Securities and Investments Commission versus Chase
+Capital Management Pty Ltd <case>; [(2001) 36 ACSR 778]; <case>).
+However there are conceptual difficulties in winding up such a scheme in the present case because of the difficulties of identifying any scheme property.
+In Mier versus FN Management Pty Ltd <case>; [[2006] 1 Qd R 339] Keane JA (as his Honour then was), with whom McMurdo P and
+Douglas J agreed, observed (at [26], [28] and [30]) that: "[26] Because the definition of 'scheme property' applies only to a registered scheme, it does not apply of its own force in relation to an unregistered scheme, but there can be no doubt that the scheme property of an unregistered scheme is to be identified by reference to the terms of the scheme in relation to the contribution of assets to the enterprise involved in the scheme. I say that there can be no doubt in this regard for three reasons.
+ ...
+ [28] Secondly, this notion that the property of a scheme consists only of the contributions of money or money's worth that are made to the scheme or benefits derived from the use of the property contributed to the scheme is explicitly picked up in the definition of the property of a registered scheme contained in the Act. Apart from registration itself, there is little to differentiate between registered and unregistered managed investment schemes. Whereas a company only comes into existence upon registration, a managed investment scheme can exist independently of registration, with registration only being necessary if the scheme meets certain other criteria. Registration is therefore only an incident, rather than the necessary source, of the existence of a scheme. Unlike a company, a scheme does not cease to exist if it is deregistered. The result is that a scheme remains a scheme whether or not it is registered so long as it meets the definition of 'managed investment scheme' contained in [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s9.html) of the
+Act. This suggests that the definition of 'scheme property' for a registered scheme must serve as a guide to what should be considered to be the property of an unregistered scheme.
+ [30] Of necessity then, one must look to the terms of an unregistered scheme to ascertain the property interests which have been contributed, or which are otherwise subject, to the scheme. ..." The assumption in this reasoning is that the terms of the unregistered scheme (which may be express or implied) will make provision for the contribution of money or money's worth to a scheme, such that the moneys raised and the property acquired through the use of such moneys are to be held for scheme members.
+ If the terms upon which loans are raised make no such provision, and no representation to that effect is held out to the members, it is hard to see how a definition of "scheme property" applicable only to a registered scheme can be used to create interests in property for the benefit of members which do not otherwise exist.
+ [Section
+EE(2)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s601ee.html), which provides for the winding-up of unregistered managed schemes, simply authorises the court to make any orders it considers appropriate for the winding-up of a scheme. As was decided in Mier versus FN Management Pty Ltd, that power does not authorise the appointment of receivers to property which is not property of a scheme. In Australian Securities and Investments Commission v
+GDK Financial Solutions Pty Ltd <case>; [(2006) 60 ACSR 447], Finkelstein J said that that provision did not permit the court to impose new duties or obligations on any person or to alter substantive rights (at 40], [43], [49]). To treat moneys raised by GND by way of unsecured loan and the property acquired through the use of such moneys as property held on trust for all such lenders, and hence scheme property available to be collected by a receiver, is to fashion new interests in property. If such steps could be taken, they would operate to the disadvantage of other creditors of the operator of the scheme.
+ There would be no purpose in appointing a receiver to collect the individual debts owed to each lender, as the lenders will be well able to do that for themselves without the added cost which the appointment of a receiver would entail. In the present case there is evidence that none of the investors would welcome such a course.
+ If, contrary to my view, moneys received from holders of promissory notes, and property acquired from the use of such moneys, could be regarded as scheme property to be held for the benefit of scheme members, there would be the added complication in the present case that extraordinary difficulties could be expected in identifying such property, given that the moneys would have been used in the course of the entirety of GND's business of which the alleged managed investment scheme would form only a small part.
+ The fact that there would be no property held by GND which was scheme property to which a receiver could be appointed if an order were made for the winding-up of the alleged managed investment scheme supports my conclusion that the scheme in question is not a managed investment scheme. But if that conclusion be wrong, for the reasons I have given, it would not be appropriate to make an order for the winding-up of the scheme.
+ The question would then arise whether GND itself should be wound up on the just and equitable ground. I deal with that question below in the context of the breaches ASIC has established of [s
+AA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283aa.html) and [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s727.html) of the Act.
+ 
+Conduct of a financial services business without an Australian financial services licence ASIC alleged that GND contravened [s
+A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s911a.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) by carrying on a financial services business without an Australian financial services licence. It alleged that GND was in the business of providing "financial services". It alleged that GND did so by dealing in a "financial product" [(s
+A(1)(b)).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s766a.html)
+It alleged that GND dealt in a financial product by issuing interests in a managed investment scheme. It relied upon [s
+A(1)(ba).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s764a.html) As I have concluded that GND did not operate a managed investment scheme,
+ASIC has not made out the basis upon which it alleged that GND carried on a financial services business.
+ 
+Winding up GND on the just and equitable ground The contraventions of [ss
+AA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283aa.html) and [727](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s727.html) of the Act are serious. Mr Kelly submitted that they arose because of a failure to appreciate that GND was not entitled to the benefit of the existing debenture holder exception in [s (14)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) because the subsection applies only to disclosing entities and not to all bodies to which the other provisions [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) apply. He submitted that that failure was understandable given the complexity of the legislation. I may have had sympathy for this submission had someone from GND given evidence about it. But no-one did.
+ Nonetheless, whilst the contraventions are serious, they do not warrant an order for the winding-up of GND. ASIC does not allege that GND is insolvent.
+An order to wind up a solvent company is a remedy of last resort (Re Dalkeith
+Investments Pty Ltd [(1984) 9 ACLR 247] at 252;
+Short versus Crawley (No 30) <case> at <case>- <case>).
+A winding-up order has the potential to damage the interests of the investors which it is the purpose of the legislation to protect. It needs no evidence to know that the liquidation of a company such as GND would come at considerable expense and would jeopardise its prospect of obtaining full value for its developments.
+ ASIC has not alleged that any investor was misled or that any promises to investors have not been honoured. The fact that some investors are clients of
+Mr Edwards' practice as a solicitor or accountant is a cause for potential concern. But it is no part of ASIC's case that he, or any other director of
+GND, has breached his fiduciary duty to his clients.
+ As noted earlier in these reasons, after the question of the limited scope of [s (14)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) was raised in submissions, GND through its counsel offered an undertaking to the court to remedy the breach of [s
+AA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283aa.html) if it were found that it had made offers of debentures. That undertaking should be accepted. If it is honoured, there is no reason to think that GND will commit further breaches of [s .](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s727.html)
+ASIC has not sought an injunction.
+ The investors oppose a winding-up order. I am satisfied that a winding-up would not be in their interests. The public interest in ensuring compliance with the Act will be met by making the declarations of contravention of [ss
+AA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283aa.html) and [727](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s727.html) and accepting GND's undertaking. Rather than dismiss the winding-up application, at this stage I propose to stand it over to a date to be fixed.
+If GND then establishes that it has honoured its undertaking to remedy the breach of [s
+AA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283aa.html), the application for a winding-up order will then be dismissed.
+ 
+Declaration and Orders For these reasons I make the following declarations and orders: . Order that the claims for relief in paragraphs 1, 2, 3, 4, 5 and 8 of the originating process be dismissed.
+ . Declare that the defendant has contravened [s s283AA](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283aa.html) of the [Corporations Act ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth) by not entering into a trust deed that complies with [s
+AB](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283ab.html) and appointing a trustee in compliance with [s
+AC](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283ac.html) before making offers of debentures that needed disclosure under Chapter 6D.
+ . Declare that between 14 June 2007 and 8 October 2008 the defendant contravened [s ](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s727.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) by making offers of securities that needed disclosure to investors under [Part
+D.2](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/index.html#p6d.2) without having lodged with the plaintiff a disclosure document for the offers.
+ . Order that the claims for relief in paragraphs 6 and 7 of the originating process be otherwise dismissed.
+ . Note the undertaking of the defendant by its counsel to the court that within a reasonable time it will enter into a trust deed that complies with [s
+AB](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283ab.html) of the [Corporations
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) and appoint a trustee in compliance with [s
+AC](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s283ac.html) of that Act.
+ . Order that the application for the relief in paragraphs 9 and 10 of the originating process be stood over to a date to be fixed.
+ . Order that within 7 days prior to the date to be fixed in accordance with order 6 the defendant file and serve on the plaintiff an affidavit or affidavits as to its compliance with the undertaking noted above.
+ . The exhibits may be returned after 28 days.
+ I will hear the parties on costs on the adjourned date. If the parties do not agree on the appropriate costs orders, short written submissions on costs and any affidavit to be relied upon on the question of costs should be exchanged and provided to my associate not later than 24 hours before the adjourned date.
+
+Appendix A 
+Name 
+Date of Loan Agreement 
+Amount (and Running Total) 
+Contemporaneous Deposit to GND Account? 
+Evidence of Existing Loan  ---|---|---|---  
+R & S Boyes /10/06 
+SJM-1, p 101 No reference to prior loan agreement) $350,000  ($350,000) 
+Yes (Ex. 2, p 312) 
+No (Tab <case>; [4 Ex. 1] rejected.) Not evidence of loan in any event. Property purchase  
+Tapara Family Trust /11/06 
+SJM-1, p 106, No reference to prior loan agreement $350,000  ($700,000) 
+Yes, (on 19/11/09, Ex. 2, p 308) 
+No. Defence admits this sum borrowed on 6/11/06  
+R & J Carroll /12/06 
+SJM-1, p 111, No reference to prior loan agreement $150,000  ($850,000) 
+Yes (22/12/09, Ex. 2, p 295) 
+No. Defendant refers to SJM-1, tab 27, p 4 and Ex 3, p 4. Shows a deposit to
+GND account of $100,000 by Bob Carroll at 15% interest on 1/5/2000. Not evidence that loan was outstanding at 21/12/06.  
+Motley D /1/07 
+SJM-1, p 116. No reference to prior loan agreement.
+ $100,000  ($950,000) 
+No 
+No. Ex. 3, p. 86 is a copy of a journal entry. Date is illegible. Records debit of $141,180.70 for "Investor - Wynne G & V" and credit $41,180.70 "Investor - Wynne Vanessa" and $100,000 "Investor - Motley Denise". Possibly (depending on date) the discharge of a debt owed to G & V Wynne by borrowing from V Wynne and D Motley. This is speculative. GND did not include
+D Motley as an existing lender in its submission. If there were a prior loan,
+GND does not discharge onus of proving it was still outstanding when loan agreement was entered into. Although advance was not physically paid to GND's account, $100,000 was 0"money raised" as lender agreed to make that advance.  
+Leyshon D & C /1/07. 
+No loan agreement produced.
+ $200,000  ($1,150,000) 
+Yes. (Ex. 2, p 288) 
+ASIC only alleged the issue of debentures in respect of the loans agreement produced to it by GND pursuant to notices given under ASIC's statutory powers.
+No loan agreement was produced for this investor. But in its schedule of final submissions GND admitted the loan. It was evidenced by the MYOB journals (Ex , p 87). Those journals had not previously been produced to ASIC. In submissions GND included the loan in its calculation of the 20 investors ceiling.  
+Galea F /3/07. 
+SJM-1, p 126. No reference to prior loan agreement.
+ $50,000  ($1,200,000) 
+Yes. (Ex 2, p 274) 
+No. GND submitted Mr Galea was an existing lender. It relied on a MYOB journal entry dated 3/4/01 (Ex. 3, p 8) said to show a deposit on that date of $100,000 by Vanessa Wynne and Frank Galea. The entry shows a deposit of that amount by G & V Wynne, not F Galea. No evidence loan was outstanding as at /3/07.  
+Reid E /3/07. 
+No loan agreement produced.
+ $200,000  ($1,400,000) 
+Yes. (Ex. 2, p 268) 
+The same comments apply as apply to investor 5, D & C Leyshon (Ex. 3, p ).  
+Monaghan Superfund /6/07 
+SJM-1, p 131. No prior loan agreement referred to.
+ $150,000  ($1,550,000) 
+Yes. (Ex 2, p 240) 
+No. In submissions GND admits that although loan agreement is expressed to be for the principal sum of $100,000, the amount lent was $150,000. This is confirmed by the MYOB journal entry which also records the same interest rate (9.2%) as shown on the loan agreement.  
+James A R /6/07 
+SJM-1, p 141. Recital C (see comments) $399,403.28  ($1,949,403) 
+No 
+Yes. Recital C states "This agreement replaces the agreements dated the 6th
+April 2006 and the 1st January 2007". Those agreements were not produced to
+ASIC. I infer from the recital and the absence of a deposit that Ms James was an existing lender.  
+Lack Superannuation Fund /6/07 
+SJM-1, p 147. No reference to prior loan agreements.
+ $200,000  ($2,149,403) 
+Yes. (Ex 2, p [241; Ex 3], p 90.) 
+No. GND did not submit that the Lack Superannuation Fund was an existing lender.  
+Given my conclusion that GND is not entitled to rely on [s (14)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) the $2 million ceiling was breached by this loan.  
+Donvito Family Trust /6/07. 
+SJM-1, p 158. Recital A (see comments) $171,936.99  ($2,321,340) 
+No 
+Yes. Recital A states "This Loan Agreement replaces the Loan Agreements dated nd April 2005, 18th October 2006, 18th December 2006, 22nd December 2006 and th March 2008. The same comment applies as applies to investor 9, A R James.
+GND also submitted that the lender was a sophisticated lender [(s (8))](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) and an associated party [(s (12))](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html), but there was no evidence for that submission.  
+Aisbett V /7/07 
+SJM-1, p 168. No reference to prior loan agreement.
+ $106,000  ($2,427,340) 
+No (unless part of a deposit of $110,064.51 on 2/7/07; Ex 2, p 236) 
+No. GND submitted that Ms Aisbett was an existing lender. The only evidence relied on was a MYOB journal entry said to be dated 1/10/02 (although the date is illegible on the copy tendered) showing a deposit of $50,000 as an investment on that date. The bank statement (Ex 2, p 666) also records the deposit of 1/10/02. There is no evidence the loan was still outstanding as at July 2007.  
+Felice FR /7/07 
+SJM-1, p 173 
+Recital A $140,437.80  ($2,567,778) 
+No 
+Yes. Recital A provides that the Loan Agreement replaced a loan agreement dated 30/4/05. The same comment applies as applies to investor 9.  
+Todd G & McKeown M /7/07 
+SJM-1, p 178. No reference to earlier loan agreement.
+ $134,500  ($2,702,278) 
+No 
+No. GND submitted that Mr Todd and Ms McKeown were an existing lender and a property purchaser. The latter would be irrelevant. The existing loan was said to have been made on 21/5/01. The evidence of that loan was a MYOB journal entry confirming a loan of $100,000 at 8%. GND's bank statement (Ex 2, p 686), records a deposit of that amount on that day. There is no evidence that the loan was outstanding at 1/7/07.  
+Worthington J /8/07 
+SJM-1, p 183 
+Recital A $251,600  ($2,953,878) 
+No 
+Yes. Recital A states that an agreement of 13/12/05 was honoured, that interest was paid and $251,600 was rolled over to satisfy the terms of the agreement.  
+Marcia Manning Super Fund /9/07 
+SJM-1, p 194 $100,000  ($3,053,878) 
+Yes. (Ex 2, pp 215 & 218) 
+No. A recital that the agreement replaced an earlier loan agreement was struck out. Five deposits totalling $100,000 were deposited to GND's account. GND submitted that the investor was an existing lender, having made a loan on /9/05. The evidence of the loan was a MYOB journal entry (Ex 3, p 62) showing a deposit of $20,000 by Marcia Manning as an investment. There is evidence that she is the trustee of the superannuation fund. But there is no evidence the loan was outstanding as at 3/9/07.  
+If GND were entitled to rely on [s (14)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) the $2 million ceiling would be breached on the entry into this loan agreement because the evidence does not establish that the persons identified by it as previous lenders were existing lenders.  
+Gail Felice Superannuation Fund /9/07 
+SJM-1, p 200 
+Recital A $210,737.54  ($3,264,616) 
+No 
+No. GND submitted the trustees of the fund were an existing lender [(s (14)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) and a sophisticated investor [(s (8)).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html)
+The trustees were Mr and Mrs Felice. GND submitted Mr and Mrs Felice were existing lenders having made a loan of $450,000 on 18 June 2004. The only evidence of such a "loan" was GND's bank statement (Ex 2, p 553) showing a credit of $450,000 and the notation "Felice transfer". No loan agreement was produced, and no MYOB journal entry was referred to. If the transfer were by way of loan, the lender was not identified. There was no evidence that this was an existing loan as at 30/9/07. Nor was there evidence to satisfy [s (8).](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html)
+Recital A stated that the loan agreement replaced loan agreements of 31 May and 30 November 2006. Those agreements were not produced. It does not appear whether those loans were made by the trustees of the superannuation fund. GND did not discharge its onus of satisfying [s (8)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) or [s (14)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) (if [s (14)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html) were applicable).  
+C & A O'Neil /10/07 
+SJM-1, p 205 
+Recital C $200,000  (3,464,616) 
+No 
+Yes. Recital C states that the loan agreement replaced a loan agreement dated /5/04. That agreement was not tendered. The evidence of such a loan, apart from Recital C, was GND's bank statement showing a deposit of $200,000 on /5/04 (Ex 2, p 559). I infer from the recital and the absence of a deposit to GND's account 1/10/07 that C & A O'Neil were existing lenders.  -
+
+M & C Hamza /10/07 
+SJM-1, p 211 
+Unsigned. 
+No reference to prior loan agreement.
+ $100,000  ($3,564,616) 
+No 
+Does not arise. Agreement unsigned. No deposit to GND account. Note signed by
+Edwards states "This client has been advised of the agreement but has not been able to come in ... Will see at tax time." GND submitted client was an existing lender having entered into a loan agreement on 30/1/04. No evidence any such earlier loan agreement was still on foot. But no evidence any loan agreement entered into with Hamza on 10/10/07.  
+D & G Krech /10/07 
+SJM-1, p 217 
+Recital A $450,486.68  ($3,915,103) 
+No 
+Yes. Recital A states the agreement replaces all previous agreements dated /9/01, 27/6/03 and 6/9/04. I infer that these were existing lenders.  
+Medhurst Superannuation Fund /10/07 
+SJM-1, p 222 $100,000  ($4,015,103) 
+Yes (Ex 2, p 203) 
+This loan is admitted.  
+Bennett B /10/07 
+SJM-1, p 227 
+Recital C $130,983.01  ($4,146,086) 
+No 
+Recital C stated the agreement replaced an agreement dated 7/3/06. I infer from this recital and the absence of a deposit that this was an existing lender.  
+As GND is not entitled to rely on [s (14)](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s708.html), by offering this debenture GND also breached the 20 investors ceiling.  
+LAST UPDATED:  September 2010 * * * 

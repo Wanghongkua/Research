@@ -1,0 +1,490 @@
+
+
+EXCLUSIVE IMPORTS PTY LIMITED versus ROADS & TRAFFIC AUTHORITY OF NSW [2009] NSWSC 603 (23 July 2009) 
+Last Updated: 24 July 2009 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+EXCLUSIVE IMPORTS PTY LIMITED versus ROADS & TRAFFIC AUTHORITY OF NSW <case>  
+JURISDICTION: 
+Administrative Law  
+FILE NUMBER(S):  of 2008  
+HEARING DATE(S): 
+Monday 23 March 2009  
+JUDGMENT DATE:  July 2009  
+PARTIES: 
+EXCLUSIVE IMPORTS PTY LIMITED versus 
+ROADS & TRAFFIC AUTHORITY OF NSW  
+JUDGMENT OF: 
+Hall J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+P: J Griffith 
+D: T Lynch  
+SOLICITORS: 
+P: David Pain & co 
+D: Hunt & Hunt  
+CATCHWORDS: 
+ADMINISTRATIVE LAW - imported vehicles (caravans) with gas installations that complied with the relevant European standard "approved" under the Motor
+Vehicle Standards Act (Cth) by Administrator on behalf of Federal Minister - whether vehicles met criteria for registration under State law - whether specific provisions of the Dangerous Goods (Gas Installation) Regulation made under the Gas Supply Act applied to the vehicles by virtue of clause 21(a) in
+Schedule 2 of the Road Transport (Vehicle Registration) Regulation which refers to "...any other Act or law..." -STATUTORY CONSTRUCTION - interaction of Federal legislation (the Motor Vehicle Standards Act (Cth)), Australian
+Design Rules to which that Act refers and State law including the Road
+Transport (General) Act and the Road Transport (Vehicle [Registration)
+Act](http://www.austlii.edu.au/au/legis/nt/consolact/ra164/) - clause 21(a) of Schedule 2 did not apply - the Dangerous Goods (Gas Installation)
+Regulation therefore did not operate to impose requirements for registration on the imported vehicles in question - even if the provisions of that
+Regulation could apply by virtue of clause 21(a), they could not operate extraterritorially with respect to vehicles manufactured overseas or in relation to which the installation of gas fitting was undertaken in Europe - the gas installation complied with the relevant European standard and with the relevant requirements in Schedule 2 of the Road Transport (Vehicle [Registration) Act](http://www.austlii.edu.au/au/legis/nt/consolact/ra164/)  
+LEGISLATION CITED:  [Acts Interpretation Act ](http://www.austlii.edu.au/au/legis/cth/consolact/aia1901230/)  [Dangerous Goods Act ](http://www.austlii.edu.au/au/legis/nsw/repealedact/dga1975171/) 
+Dangerous Goods (Gas Installation) Regulation 1998  [Gas Supply Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/gsa1996148/)  [Interpretation Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ia1987191/)  [Legislative Instruments Act ](http://www.austlii.edu.au/au/legis/cth/consolact/lia2003292/)  [Motor Vehicle Standards Act ](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/) (Cth) 
+Motor Vehicles Standards Regulations 1989 (Cth)  [Road Transport (General) Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/)  [Road Transport (Vehicle Registration) Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/rtra1997387/)  [Road Transport (Vehicle Registration) Regulation ](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/)  
+CASES CITED: 
+Castle Constructions Pty Limited versus North Sydney Council [(2007) 155 LGRA ] 
+Coffs Harbour Environment Centre Inc versus Minister for Planning [(1994) 84 LGRA ] 
+Jumbunna Coal Mine NL versus Victorian Coal Miners' Association [(1908) 6 CLR ] 
+Kumagai Gumi Co Limited versus FCT [(1999) 9 FCR 274] 
+Tobacco Leaf Marketing Board versus Corte [[1983] 3 NSWLR 10] 
+Wanganui-Rangitikei Electric Power Board versus Australian Mutual Providence
+Society <case>; [(1934) 50 CLR 581]  
+TEXTS CITED:  
+DECISION: 
+The plaintiff is entitled to the relief as sought.  
+JUDGMENT:  
+THE SUPREME COURT 
+OF NEW SOUTH WALES 
+COMMON LAW DIVISION 
+ADMINISTRATIVE LAW LIST 
+HALL J 
+THURSDAY 23 JULY 2009 
+No 30075 of 2008 
+EXCLUSIVE EUROPEAN IMPORTS PTY LIMITED versus ROADS AND TRAFFIC AUTHORITY OF NEW SOUTH WALES 
+JUDGMENT 
+HIS HONOUR: 
+INTRODUCTION These proceedings were commenced by Summons filed on behalf of the plaintiff on 13 June 2008. They arise out of the defendant's decision to cancel the registration of a Burstner caravan imported by the plaintiff from Germany.  The fundamental issue in the proceedings is whether the [Dangerous Goods (Gas Installations) Regulation ](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) applied to the registration requirements in respect of Burstner caravans imported by the plaintiff. The caravans were completely manufactured and assembled outside of Australia. If the Regulation did apply, then the caravan in question did not comply with certain of its provisions.
+ Mr J Griffiths SC appeared on behalf of the plaintiff. Mr T Lynch of counsel appeared on behalf of the defendant.
+ In the Further Amended Summons filed 23 March 2009, the plaintiff seeks the following declaratory relief:- a declaration that the Dangerous Goods (Gas Installation) Regulation does not apply to specified Burstner caravans; or alternatively, a declaration that Regulation 11 of the Dangerous Goods (Gas
+Installation) Regulation does not apply to all Burstner caravans; a declaration that clause 14(2) of Schedule 2 of the [Road Transport (Vehicle Registration) Regulation ](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/) applies to the Burstner caravans; or alternatively, a declaration that as at 10 June 2008, the Burstner caravans complied with paragraph 44.8.2 of the Australian Design Rules 44/02 third edition "Specific Purpose vehicle requirements".
+ On 10 June 2008, two Burstner caravans were inspected by Dr Green who was engaged for the proceedings by the plaintiff. He found them to be compliant with the relevant European standard.
+ The plaintiff claims in the alternative an order that the defendant register the specified Burstner caravans upon meeting valid requirements for registration.
+ The plaintiff views these proceedings as a test case for all Burstner caravans that are imported into New South Wales and that are sought to be registered in the State.
+
+FACTUAL MATTERS The plaintiff company, Exclusive European Imports Pty Limited ("EEI"), is the exclusive importer of Burstner caravans in Australia. The caravans are manufactured in Germany and are all imported as a completed product to
+Australia. To be towed on Australian roads, the caravans have to be registered. Registration is a requirement under State law. The vehicles in question are required to comply with both Federal motor vehicle standards and registration requirements prescribed by State law.
+ On 27 October 2003, approval was granted by the Administrator of Vehicle
+Standards for the European Standard designated DIN EN 1949 (2002) to be applied as an approved standard for the purposes of the Australian Design
+Rules. Both the approval and the above standard are discussed below.
+ On 26 April 2006, a WorkCover NSW inspector, Mr David Chamings, attended the Caravan and Camping Super Show at Rosehill Racecourse. There he observed a
+Burstner caravan which was being exhibited. It is Mr Chamings' evidence that the caravan had no compliance plate affixed for LP Gas Installation (affidavit of David Chamings sworn 15 October 2008 at paragraph 4).
+ Mr Chamings told Mr Maranik, a director of EEI, that the caravan was not compliant with the Dangerous Goods (Gas Installation) Regulation and that a complaint had been received from the Queensland Chief Gas Inspector regarding the gas installations in the caravans.
+ On 1 December 2006, Mr Chamings, Mr Harry Vertsonis of the Road Traffic
+Authority and Mr Don Allen inspected a Burstner caravan at the EEI premises.
+ Two RTA inspectors performed a further inspection of a Burstner caravan belonging to Ms Dorothy Maranik on 16 January 2008. A defect notice was issued on that date and the Roads and Traffic Authority cancelled its registration for "safety issues", namely, non-compliance with the requirements of the
+Dangerous Goods (Gas Installation) Regulation. Under the section entitled "Defect Report," the following fault was specified as having been found: "gas installers plate not fitted".
+
+EVIDENCE  The parties provided a "Statement of Agreed Facts" dated 23 March 2009.
+The statement became Exhibit A in the proceedings. Paragraphs 1 to 4 of the
+Statement is in the following terms:- "1. The letter dated 27 October 2003 from Mr Peter Robertson (Administrator of Vehicle Standards) to Mr Erik Maranik is an "Approval" for the purposes of clause 44.8.2 of the ADR 44/02 in respect of the Burstner caravans the subject of these Proceedings ("the Approval"), with the effect that DIN EN 1949 (2002) ("the European Standard") is an approved standard in relation to the gas installation and gas appliances in those
+Burstner caravans. . The gas installation and gas appliances in the Burstner caravans the subject of these Proceedings complied with the European
+Standard at the date of their importation and also complied with the
+European Standard as at 10 June 2008. . To the extent that the Burstner caravans the subject of these proceedings comply with the requirements of the European Standard rather than the Dangerous Goods (Gas Installation) Regulations , there is no general safety risk presented by the gas installation and gas appliances in them.
+ . The Burstner caravans the subject of these proceedings were manufactured entirely in Germany and no work or activities concerning the installation of gas installations or gas appliances on them was carried out on either of them in New South Wales." (emphasis added) Paragraphs 1 to 5, 9, 10, 12, 13, 15, 16 and 18 (with annexures referred to in those paragraphs) of the affidavit of Erik George Maranik sworn 4 July 2008 were read on behalf of the plaintiff. The affidavits of Dr A R Green sworn 15
+August 2008 and 11 March 2009 annexing expert reports were also relied upon in support of the plaintiff's case.
+ The affidavit of David Vern Chamings sworn 15 October 2008 was read on behalf of the defendant, as was the affidavit of Ron Ward sworn 20 October (annexing an expert report).
+ The relevant gas installations comprise the pipe work and four permanently connected gas appliances in the Burstner caravans, being a refrigerator, a water heater, a gas stove and a room heater. The expert evidence in this case is not in dispute as evidenced by the Statement of Agreed Facts that establishes that the gas installations in Burstner caravans are compliant with the approved European standard. Despite the basis upon which the registration of the abovementioned caravan was cancelled, the defendant accepts that there is no gas safety issue: paragraph 3 of the Statement of Agreed Facts.
+
+ISSUES The defendant, the Roads and Traffic Authority of New South Wales, contended that the Burstner caravans, the subject of the present proceedings, are not eligible for registration as they do not meet all applicable requirements for registration.
+ The principal matter relied upon to support that contention relies upon a premise that has two limbs to it. First, that clause 21(a) in Schedule 2 of the [Road Transport (Vehicle Registration)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/) applies to the Burstner caravans. Second, that, by reason of that provision, the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) applies to them and the caravans do not meet the requirements of certain provisions of the latter Regulation.
+ The primary issue for determination, accordingly, is the first limb for, if on their proper construction, the relevant provisions of clause 21(a) of
+Schedule 2 do not apply as the defendant contends, then the provisions of the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) have no application in the eligibility for registration criteria referred to in [Regulation ](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/s51.html) of the [Road Transport (Vehicle Registration)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/).
+ If, however, clause 21(a) of Schedule 2 did apply, then it would become necessary to examine the provisions of the [Dangerous Goods (Gas
+Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) in order to establish whether that Regulation has any operation or application in relation to registration eligibility in the circumstances of the present case. That, in turn, would raise the following issues:- 
+Whether the terms of any provisions of the Regulation relied upon by the defendant applied to the Burstner caravans so far as registration criteria are concerned having regard to the fact that the vehicles were fully manufactured and equipped in Europe and imported into Australia.
+
+If the answer to that question was in the affirmative, whether the suggested operation of the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) would necessarily involve giving extraterritorial effect to its provisions.
+
+On the assumption that the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) applied to the Burstner caravans, whether there would be inconsistency between the relevant provisions of that Regulation and the [Road Transport (Vehicle
+Registration)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/).
+
+If such inconsistency exists, whether [s.14(2)](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/s14.html) of the [Road Transport (General) Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/) applied so that the provisions of Schedule 2 (as part of "road transport legislation") prevails over the provisions of the [Dangerous Goods (Gas
+Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/).
+ Apart from the core question as to whether the last-mentioned Regulation applies to the registration of the Burstner caravans, the defendant Authority raised no other issue in opposition to the grant of relief sought in the
+Further Amended Summons.
+
+PLAINTIFF'S SUBMISSIONS The plaintiff relied upon the following matters:- First, as the relevant European standard was approved by the Administrator of Vehicle Standards for Burstner caravans, the gas installations fitted to them necessarily comply with the requirements of clause 12(1) of Schedule 2 to the [Road Transport (Vehicle Registration)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/).
+ Second, on its proper construction, clause 17 of Schedule 2 to the [Road
+Transport (Vehicle Registration)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/) allows for compliance with the Australian Design Rules (ADRs) as an alternative to any requirement otherwise arising under Parts 2 to 12 of
+Schedule 2 (of which clause 21(a) is part). The relevant approved standard for the Burstner caravans under clause 44.8.2 of ADR 44/02 and clause 12 of
+Schedule 2 of the [Road Transport (Vehicle Registration) Regulation ](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/) is
+European Standard EN 1949. On that basis, clause 21(a) of Schedule 2 (a provision in [Part )](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/index.html#p2), relied upon by the defendant, has no operation.
+ Third, on the assumption that the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) imposes requirements which are inconsistent with those in the European
+Standard, the question of inconsistency and the operation of [s.14(2)](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/s14.html) of the [Road Transport (General)
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/) would then arise.
+ Fourth, that the Burstner caravans comply with the relevant "road transport legislation" and, therefore, are eligible for registration. The [Gas Supply Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/gsa1996148/), and the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) made under it, do not operate to specify requirements for registration. On that basis, no issue of inconsistency arises for determination in terms of [s.14(2)](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/s14.html) of the [Road Transport (General)
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/).  Fifth, that, in any event, the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) cannot and does not apply extraterritorially and does not operate in this case in circumstances in which the manufacture of the caravans and their gas installations have all occurred overseas.
+ Sixth, that as the gas installations in the subject Burstner caravans comply with both relevant Federal legislation and State regulatory requirements, the Burstner caravans are registrable in New South Wales and are able to maintain registration without modification or further certification or approval.
+
+DEFENDANT'S SUBMISSIONS The defendant's primary submission was that the [Dangerous Goods (Gas
+Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) applies by way of clause 21 of Schedule 2 to the [Road Transport (Vehicle
+Registration)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/).
+ On that basis, non-compliance with the [Dangerous Goods (Gas
+Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) is demonstrated by the absence of a compliance plate. Mr Lynch was asked, in the course of submissions, to identify the specific provisions of the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) he maintained applied and determined the claimed failure by the Burstner caravans to comply with the requirements for registration. In response, he identified the following: clause 7 (gas fitting work by qualified persons), clause 11 (compliance plates), clause 13 (no sale of gas installation unless compliance plate attached), clause 15 (no use of installation without compliance plate) and clause 16 (no supply of gas installation without compliance plate attached).
+ The oral submissions for the defendant addressed a number of matters in the following order:- 
+The issue of extraterritorial operation It was contended that no issue of extraterritoriality arose in respect of the claimed application of the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/).
+The nexus with New South Wales was said to be "the presence of equipment in
+New South Wales in respect of which an application for registration in New
+South Wales is made" (t.24). The issue, it was asserted was whether the state of the equipment in New South Wales, at that time, was compliant with "the rules for registration in New South Wales".
+
+Legislative intention as to compliance It was "the manifest intention of the legislature of New South Wales that caravans seeking registration in this State should comply with the requirements of the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) in their entirety ..." (t.25).
+
+Inconsistency issue concerning road transport legislation and the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) When [s.14(1)](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/s14.html) of the [Road Transport (General)
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/) and [s.21(1)(a)](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/s21.html) of Schedule 2 to the [Road Transport (Vehicle Registration)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/) are read together it is manifest that there is nothing in the latter that is inconsistent with the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) (t.25). There is no inconsistency.
+
+The provisions of clause 12 of Schedule 2 to the [Road Transport (Vehicle Registration)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/) It is not possible to distinguish between clause 21(a) of Schedule 2 (which was said to incorporate the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/)) and clause 12 which incorporates Australian Design Rules (t.26).
+
+Scope of operation of [s.14](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/s14.html) of the [Road Transport (General)
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/) [Section ](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/s14.html) of the [Road Transport (General)
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/) is not available to resolve any asserted conflict or inconsistency between "road transport legislation" (as defined) and the [Dangerous Goods (Gas
+Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) (t.26).
+
+The operation of clause 21(a) Clause 21(a) in Schedule 2 in respect of legislation to which it applies, adopts or incorporates that legislation for the purposes of the vehicle registration system (t.26) and cannot be relied upon as evidencing a legislative intention that the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) is to be seen as conflicting or giving "rise to inconsistency for the purposes of road transport legislation" (t.26).
+
+Clause 15 of the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) Clause 15 of the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) applied. The use of a registered caravan without a gas compliance plate being fitted constituted non-compliance with the requirements for registration by operation of clause 52 of the [Road Transport (Vehicle Registration)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/) (t.32).
+
+The federal "approval" - relevance to eligibility criteria The operation of the federal approval "was exhausted prior to the application for registration. The federal approval has no effect in its own terms on the criteria for registration ..." (t.32). The Court was not concerned with "the workings of the Australian Design Rules, Third Edition ..." (t.32). The first sale to the market does not comprehend any step in registration (t.33). The supply to the market will often take place before registration. The fact of registration therefore is not a step in "first supply" (t.33).
+
+The "Commonwealth approval" has no "operative impact" The fact that the New South Wales legislature made compliance with the
+ADR's a criterion for registration does not mean that the federal "approval" has any "operative impact at all" (t.41). It was further contended:- "... the reach of the MVSA (Cth) is exhausted upon the first 'supply to market' of an imported vehicle, and ... 'supply to market' does not comprehend the fresh registration of the vehicle under state law": (RTA written submission, paragraph 1) 
+Resolution of any legislative inconsistency If clause 17 of Schedule 2 can be said to be "an inconsistency resolution device", then there is no occasion to consider or apply [s.14(2)(b)](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/s14.html) of the [Road Transport (General)
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/) (t.44).
+
+The "role" of clause 17 of Schedule 2 Clause 17 of Schedule 2 has no role to play in this case (in the way the plaintiff contended) as it is not a provision that has the effect of resolving inconsistency (t.46). In particular, it does not resolve the claimed inconsistency between clause 12 [(Part ](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/s1.html) of
+Schedule 2) and clause 21 [(Part ](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/s2.html) of
+Schedule 2). By its terms, clause 17 does not resolve any alleged conflict "because by its terms clause 21 is expressed to apply to the requirement of the third edition ADRs to the extent that they are made a criterion for registration" (t.46).  
+LEGISLATIVE FRAMEWORK AND STANDARDS 
+National motor vehicle standards - the [Motor Vehicle Standards
+Act 1989](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/) The objects of the [Motor Vehicle Standards Act ](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/) (Cth) ("MVSA"), are stated in [s.3](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/s3.html) of the Act to be:- "(a) to achieve uniform vehicle standards to apply to new vehicles when they begin to be used in transport in Australia.
+ to regulate the first supply to the market of used imported vehicles." [Part ](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/index.html#p2) of the Act is entitled "National Standards". The Minister may determine national vehicle standards for road vehicles or vehicle components: [s.7.](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/s7.html)
+The Minister is the Federal Minister for Transport and Regional Services.
+[Section ](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/s5.html) of the Act provides that "national standard" means "a vehicle standard determined under [s.7](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/s7.html)".
+The Federal Minister determines national standards in the form of ADRs. These are discussed below.
+
+Australian Design Rules (ADRs) and exceptions to the general requirement of compliance  The Third Edition Australian Design Rules (ADRs) are national standards for vehicle safety. They apply to vehicles that are newly manufactured in
+Australia or imported as new or second hand vehicles, and supplied to the
+Australian market. All caravans manufactured in Australia or imported into
+Australia are required to comply with the Australian Design Rules, currently, the Third Edition of the ADRs.
+ The general requirement under the [Motor Vehicle Standards
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/) for compliance with ADRs is made subject to an exception concerned with "non- standard vehicles" whereby such vehicles may be supplied to the market as specified in [s.14A](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/s14a.html) of the [Motor Vehicle Standards
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/) which provides:- "14A Supply of non-standard vehicles 
+A person may supply to the market a vehicle to which [s.14](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/s14.html) applies:- in prescribed circumstances; or with the written approval of the Minister. 
+An approval given under subsection (1) may be subject to written conditions determined by the Minister." It was contended for EEI that both limbs to the exception in [s.14A(1)(a)](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/s14a.html) and (b), so far as the Burstner caravans in question are concerned, were met.
+These are examined below.
+ "Prescribed circumstances" Regulation 21 of the Motor Vehicles Standards Regulations 1989 (Cth) contains a description of one of the "prescribed circumstances" which is in the following terms:- "21. Road trailers not exceeding 4.5 tonnes - prescribed circumstance 
+Where:- a road trailer has a gross vehicle mass within the meaning of the
+Interstate Road Transport Regulations that does not exceed 4.5 tonnes; and the trailer complies with the relevant national standard; and if the Minister has approved an identification plate in a form and containing such information as the Minister determines in respect of the trailer, or in respect of trailers of that type - such an identification plate is placed on the trailer; that is a prescribed circumstance for the purposes of paragraphs
+A(3)(a), 14A(1)(a), 15(2)(a) and 20(1)(b) of the Act." Administrative Circular 0-2-7 (a copy of which is Annexure D to the affidavit of Mr Maranik sworn on 4 July 2008), the Administrator of Vehicle
+Standards made the following determination:- "Trailers of an aggregate trailer mass (ATM) of less than 4.5 tonnes are not subject to certification. In effect, this means that manufacturers of these trailers will not be required to make an application to the
+Administrator for approval to affix an identification plate to a particular model of trailer." The Burstner caravans imported into Australia by the plaintiff have an aggregate trailer mass of less than 4.5 tonnes.
+ Accordingly, as they are trailers less than 4.5 tonnes aggregate trailer mass, they are within the "prescribed circumstance" as defined by Regulation of the Motor Vehicle Standards Regulations and [s.14A](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/s14a.html) of the [Motor Vehicle Standards
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/).
+Accordingly, they are able to be supplied to the market without an identification plate. [Section ](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/s5.html) of the [Motor Vehicle Standards
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/) defines "supply to the market", in relation to a road vehicle, means "deliver the vehicle to a person for use in transport in Australia".
+ "Written approval of the Minister" The Agreed Statement of Facts establish that on 27 October 2003, the
+Administrator of Vehicle Standards accepted the use of the European Standard (DIN EN 1949 (2002)) for the gas installation in Burstner caravans as an "Approved" standard for the purposes of ADR 44/02, clause 44.8.2, on 27
+October 2003.
+ Where an approval is given under [s.14A](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/s14a.html) to a "road trailer" (which by [s.5](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/s5.html) includes a caravan), the approval is one given for a practical purpose, namely, for it to be supplied to the market in Australia as defined by [s.5.](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/s5.html)
+The exception to compliance with ADRs as stated in clause 14 of Schedule 2 of the [Road Transport (Vehicle Registration)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/) by reason of the existence in a particular case of an approval under [s.14A](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/s14a.html) of the [Motor Vehicle Standards
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/) is to be understood as available under clause 14 of Schedule 2 for the above practical purpose, namely, entry into the market.
+ The exception established by clause 14 of Schedule 2 is a conditional exception in that a vehicle the subject of an approval must also be one that "... complies with the approved conditions". In these proceedings, Exhibit A establishes that the Burstner caravans do comply with "the approval conditions", in that they comply with DIN EN 1949 (2002). Compliance with such conditions is clearly directed to maintaining safe operations.
+
+Third Edition ADRs The Third Edition ADRs in general and ADR 44/02 in particular, are standards made under [s.7](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/s7.html) of the [Motor Vehicle Standards
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/). The
+Third Edition became effective on 1 July 1988 and became national standards for the purposes of the [Motor Vehicle Standards
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/) on 2
+August 1989. The current version of Vehicle Standard (Australian Design Rule /02 - Specific Purpose Vehicle Requirements) 2006 took effect on the date after it was registered, namely, on 6 October 2006,been having registered on 5
+October 2006.
+ As the explanatory statement (MFI 1) states, the Third Edition ADRs were remade as national vehicle standards in September 2006 to comply with the requirements of the [Legislative Instruments Act ](http://www.austlii.edu.au/au/legis/cth/consolact/lia2003292/) and registered on the Federal Register of Legislative Instruments.
+ [Section (1)](http://www.austlii.edu.au/au/legis/cth/consolact/lia2003292/s5.html) of the [Legislative Instruments
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/lia2003292/) states that, subject to [ss.6](http://www.austlii.edu.au/au/legis/cth/consolact/lia2003292/s6.html), [7](http://www.austlii.edu.au/au/legis/cth/consolact/lia2003292/s7.html) and [9](http://www.austlii.edu.au/au/legis/cth/consolact/lia2003292/s9.html), a "legislative instrument" is an instrument in writing:- 
+That is of a legislative character.
+
+That is or was made in the exercise of a power delegated by the
+Parliament.
+ [Section (1)](http://www.austlii.edu.au/au/legis/cth/consolact/lia2003292/s13.html) of the [Legislative Instruments
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/lia2003292/) provides, inter alia, that if enabling legislation confers on a rule maker the power to make a legislative instrument (as s.7 of the Motor Vehicles Standards Act does) then, unless the contrary intention appears, the [Acts Interpretation
+Act 1901](http://www.austlii.edu.au/au/legis/cth/consolact/aia1901230/) applies to any such instrument as if it were an Act and as if each provision of the legislative instrument were a section of an Act.
+
+ADR 44/02 - Specific purpose vehicle requirements - "approved" standards The relevant ADR for the purpose of the present proceedings is Vehicle
+Standard (Australian Design Rule 44/02 - Specific Purpose Vehicle
+Requirements) 2006, a copy of which is behind Tab 3 of the folder of documents in evidence in the plaintiff's case entitled "Third Edition of the
+Australian Design Rules".
+ Paragraph 44.2 of ADR 44/02 states that the rule covers additional design and construction requirements for vehicles as specific purpose vehicles.
+Caravans fall within the category in the "Applicability Table" of the Rule (p.4) that refers to trailers. Paragraph 44.8.1 makes it clear that "trailer" includes "caravan".
+ Paragraph 44.8.2 in ADR 44/02 is a pivotal provision in the present case.
+It is in the following terms:- "Liquefied Petroleum Gas Equipment 
+Unless otherwise 'approved', liquefied petroleum gas installations in motor homes and 'caravans' shall comply with the requirements of "Code
+Governing the Installation in Caravans of Liquefied Petroleum Gas Equipment and Appliances' issued by the Australian Liquefied Petroleum Gas
+Association." ADR 44/02 specifies its "scope" as follows:- "The function of this Australian Design Rule is to specify requirements for the following vehicles: ..." There is then set out specific vehicles including "caravans".
+ The term "approved" in paragraph 44.8.2, as discussed below, is a reference to an approved standard. In the Vehicle Standard (Australian Design
+Rule - Definitions and Vehicle Categories) 2005, Compilation 5 (a copy of which is behind Tab 1 in the plaintiff's folder of Third Edition ADRs), the term "approved" is defined as "approved by the Administrator". The
+Minister may, by [s.23](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/s23.html) of the [Motor Vehicle Standards
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/), delegate his/her powers under [s.14A](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/s14a.html) to the Administrator of Vehicle Standards.
+ In relation to the operation of ADR 44/02 and the "approval" by the
+Administrator, the following propositions are noted:- 
+The function of ADR 44/02 "is to specify requirements for the construction of ... Motorhomes/Caravans ..." (p.3 A "Scope") and "The requirements of ADR 44 are related to specific requirements of the particular vehicles".
+
+The Rule specifies "design and construction requirements" for vehicles as specific purpose vehicles.
+
+Paragraph 44.8 of the Rule is entitled "Motorhomes and Caravans".
+
+The specific subject of Paragraph 44.8.2 is "liquefied petroleum gas installations in motorhomes and 'caravans'".
+
+The provisions of paragraph 44.8.2 are expressed in terms that require all such vehicles to comply with the requirements of the designated code.
+
+However, the expression "unless otherwise approved" in that paragraph, taken in context, and having regard to the scope and purpose of ADR /02, is clearly intended to specify, as an alternative standard, an "approved" standard which is the subject of an "approval" under [s.14A](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/s14a.html), the terms of which are set out in paragraph [47], being one of the provisions in [Part ](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/index.html#p4) - Supply and importation of vehicles - Division 1 - Supply of new vehicles etc of the [Motor Vehicle Standards Act ](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/).
+
+It is clear that "written conditions determined by the Minister" as specified in [s.14A(2)](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/s14a.html) pertain to a particular approval by imposing a requirement (in the case of an imported vehicle to which [s.14](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/s14.html) of that Act applies) that the vehicle comply with a standard, other than a "local standard".
+
+The Administrator of Vehicle Standards did that in this case by accepting DIN EN 1949 (2002) "Specification for the Installation of LPG System for Habitation Purposes in Leisure Accommodation Vehicles and other Road
+Vehicles".
+ Accordingly, under ADR 44/02, it is not essential that the Burstner caravans comply with the Code Governing the Installation in Caravans of
+Liquid Petroleum Gas Equipment and Appliances, being the Code referred to in clause 44.8 of ADR 44/02 due to the fact that "approval" was given for the
+European standard to apply to gas installations in Burstner caravans. As noted earlier, it was accepted that in these proceedings the gas installations do, in fact, comply with "approved" standard DIN EN 1949 (2002). (See paragraph of Exhibit A, the Statement of Agreed Facts).
+ On that basis, the gas installations in the Burstner caravans comply with the [Motor Vehicle Standards
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/) and the
+ADRs, the subject caravans being identified as:- 
+Burstner Ventana S 500TS, VIN/Chassis No WBU 5025TS 52206723.
+
+Burstner Ventana 530TL, VIN/Chassis No WBU 5325TL 32197072.
+ The plaintiff's contention in these proceedings was that all Burstner caravans imported by the plaintiff have been fitted with gas installations that comply with the [Motor Vehicle Standards
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/) and ADRs (Plaintiff's written submissions, paragraph 23).
+ The evidence (the affidavit of Mr Maranik sworn 4 July 2008, paragraph (k)) establishes that the gas installation, including appliances and pipe work, in Burstner caravans are imported into Australia by EEI are all fitted in Europe by the manufacturer Burstner GMbH and that no gas fitting work is undertaken on the Burstner caravans in New South Wales or in Australia.
+
+Federal-State provisions: the Australian Design Rules as applied by the Road Transport (Vehicle Registration) Regulation 
+The role of federal standards in the New South Wales registration process It is clear from the matters discussed above that the issues in the present proceedings require consideration of: the federal legislative provisions on national standards, the provisions of ADR 44/02 and the relevant State provisions. The State provisions include requirements specified in Schedule 2 of the [Road Transport (Vehicle Registration)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/).
+The discussion that follows concentrates upon its provisions. As noted earlier, the defendant contends, the requirements and restrictions in the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) form part of the registration criteria by virtue of clause 21(a) of Schedule .
+ The relevant provisions in Schedule 2, Vehicle Standards, to the [Road
+Transport (Vehicle Registration)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/) are examined below. It is here necessary only to refer to some matters that concern the role or place Schedule 2 has in the context of State legislation.
+ [Part ](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/index.html#p5) of the [Road Transport (Vehicle Registration)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/) is entitled "Vehicle Standards". Clause 51 of the Regulation states that the "applicable vehicle standards" for a registrable vehicle are "... the requirements specified in Schedule 2 that apply to the vehicle".
+ Schedule 2 is divided into a number of parts. EEI's submissions rely upon a number of provisions in [Part ](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/index.html#p1) of Schedule 2 (in particular, clauses 11, 12, 14 and 17). Importantly, clause makes reference to national standards being a third edition ADR and to compliance "... with any relevant requirement of a provision of a third edition ADR as an alternative ...". In this way, the operation of ADR's, being instruments under the [Legislative Instruments
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/lia2003292/), are incorporated by reference into the State statutory process for the registration of vehicles. Accordingly, standards set by ADRs, potentially have a role in the matter of eligibility criteria for the registration of vehicles under the State legislation (in particular, under [Part
+I](http://www.austlii.edu.au/au/legis/cth/consolact/lia2003292/index.html#p1) of Schedule 2).
+ The defendant, in supporting its position, on the other hand, relies upon provisions in [Part ](http://www.austlii.edu.au/au/legis/cth/consolact/lia2003292/index.html#p2),
+General Safety Requirements in Schedule 2, namely, the provisions of clause (a).
+
+The provisions of clause 21(a) The defendant's primary contention was that the [Dangerous Goods (Gas
+Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) falls within the underlined words in the expression "any provision of any Act or other law" in clause 21(a) of Schedule 2 of the [Road Transport (Vehicle Registration)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/) and that the Burstner caravans are such that they contravene the provisions of the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) identified in paragraph [31] above. On that basis, it is maintained that they do not meet the criteria that determine eligibility for registration. The specific matters relied upon to support that proposition are considered below.
+ EEI, on the other hand, contends that the provisions of the [Dangerous
+Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) cannot and do not have any application in this case as clause 21(a) of
+Schedule 2 (which is foundational to the defendant's case) does not apply to the Burstner caravans. Accordingly, the plaintiff submits that there is no basis at all for the operation of the Dangerous Goods (Gas Installation)
+Regulation in this case.
+ The plaintiff's submission was that the terms of the Regulation cannot and do no apply to the vehicles in question. Even if that were not so, as the gas installations in the Burstner caravans were fully manufactured in Europe, the latter Regulation cannot and does not have extraterritorial operation.
+
+Eligibility for registration under the [Road Transport (Vehicle
+Registration) Regulation ](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/)  The [Road Transport (Vehicle Registration)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/) is made under the [Road Transport (Vehicle Registration) Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/rtra1997387/).
+ Before examining the particular clauses of Schedule 2 to the [Road
+Transport (Vehicle Registration)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/) to which reference has been made above, it is necessary to refer to certain other provisions of the Regulation.
+ [Part ](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/index.html#p29) of the [Road Transport (Vehicle Registration)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/) is concerned with the "registration process". Division 1 of that Part prescribes conditions concerned with "Eligibility for registration". The concept of "eligible vehicles" under the Regulation is tied to "applicable vehicle standards". Clause 6 provides, in part:- "6(1) A registrable vehicle is eligible to be registered without conditions if:- the vehicle complies with the applicable vehicle standards for the vehicle.
+ ..." [Part ](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/index.html#p5) of the [Road Transport (Vehicle Registration)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/) is entitled "Vehicle Standards". As earlier noted, clause 51 provides that "applicable vehicle standards" for a registrable vehicle are the requirements specified in Schedule 2 that apply to the vehicle.
+ Clause 52, Registrable vehicles to comply with vehicle standards specified in Schedule 2, provides:- "51(1) A person must not use a registrable vehicle on a road or road related area unless:- the vehicle complies with the applicable vehicle standards for the vehicle, and the vehicle and its parts and equipment are suitable for safe use and are in a thoroughly serviceable condition." Clause 2 of [Part ](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/index.html#p1),
+Division 1 of Schedule 2 provides:- "2. Application of Standards 
+Subject to this clause and except where the context of this Schedule otherwise indicates or requires, every registrable vehicle that is, or is to be, driven on a road or road related area:- must be provided with items of equipment appropriate for the vehicle set out in, and conforming with the provisions of, this Schedule, and must be so constructed and equipped that it will comply with all other provisions appropriate to the vehicle that are specified in this Schedule.
+ ..." To be registered in New South Wales, a Burstner caravan must, accordingly, comply with "the applicable vehicle standards" being the standards set out in Schedule 2 of the Regulation. The purpose of vehicle standards is "... to set standards about the construction and performance of motor vehicles, trailers ... that are uniform throughout Australia": [Part ](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/index.html#p1),
+Division 1 of Schedule 2 - clause 1, Objects of vehicle standards.
+ Clause 6(1)(a) of the Regulation provides that "a registrable vehicle is eligible to be registered without conditions if the vehicle complies with the applicable vehicle standards for the vehicle". This provision, accordingly, sets the requirements to be satisfied in order for a vehicle to be eligible for registration.  
+Relevant provisions of Schedule 2 [Part ](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/index.html#p1) of Schedule 2 contains a number of provisions which pertain to standards for the construction and performance of motor vehicles, trailers and other vehicles.
+ Division 3 of [Part ](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/index.html#p1) of Schedule 2 is entitled "Australian Design Rules and other standards". As discussed above, particular provisions of Division 3 incorporate by reference, inter alia, third edition ADRs. Particular attention has been given to the following provisions in Division 3:- "Compliance with third party ADRs
+If a third edition ADR applies to the design and construction of a vehicle, the vehicle must comply with the ADR.
+ ...
+ ...
+ ...
+ ...
+ . Exception to compliance with ADRs - [Motor Vehicle Standards
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/) ...
+
+A vehicle need not comply with an ADR applied by clause ... 12(1) if:- the vehicle may be supplied to the marked under [s.14A(1)](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/s14a.html) of the [Motor Vehicle Standards Act ](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/) of the
+Commonwealth, and for a vehicle for which an approval has been given under that subsection - the vehicle complies with the approval conditions (if any) ...
+ ...
+ . Compliance with third edition ADR as alternative to compliance with Schedule 
+Nothing in [Parts ](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/index.html#p2) to [12](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/index.html#p12) prevents a registrable vehicle from being constructed and equipped so as to comply with any relevant requirement of a provision of a third edition ADR as an alternative to being constructed and equipped to comply with any relevant requirements of a corresponding provision of [Part ](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/index.html#p2) to [12](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/index.html#p12)." The terms of the relevant ADR, ADR 44/02, are reproduced in paragraph [62].
+They are further discussed below.
+ [Part ](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/index.html#p2) of Schedule 2 is entitled "General Safety Requirements". In Division 1 of [Part ](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/index.html#p2), entitled "All vehicles" is the following clause:- "21. General requirement to keep vehicles in good order 
+In addition to complying with the requirements of the Schedule, the weight of any registrable vehicle and everything in its construction, form, equipment, working and general condition must be such that:- it will not contravene any provision of any Act or other law, and it will not cause danger or unreasonable annoyance to any person." The submissions on behalf of the plaintiff and the defendant in relation to the above provisions have been summarised above.
+
+Consideration The central issue in the proceedings is whether the subject Burstner caravans meet the requirements under State law that determine eligibility for registration. Eligibility is determined according to whether the caravans meet or comply with the criteria or requirements prescribed by the [Road Transport (Vehicle Registration)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/), including, in particular, Schedule 2 to that Regulation.
+ As noted above, a registrable vehicle is eligible to be registered without conditions under that Regulation if it complies with the applicable vehicle standards for the vehicle(s), namely, the requirements specified in
+Schedule 2 that apply to the vehicle: clauses 6 and 51 of the Regulation.
+ Accordingly, eligibility for registration depends, firstly, upon identifying, in terms of clause 51 of the Regulation, the requirements specified in Schedule 2 "that apply to the vehicle", and, secondly, by determining whether, in a particular case, a vehicle complies with those requirements.
+ Eligibility for registration, accordingly, is linked to specified "standards" and the fact of compliance with the standards that apply to the vehicle.
+ Schedule 2, in particular, clause 12(1) of that Schedule, incorporates by reference, Federal third edition ADRs. In that way, third edition ADRs are operative for the purpose of State regulatory requirements for registration in the sense that, in respect of matters of design and construction of a vehicle, compliance with a third edition ADR is essential: see clause 12(1) of Schedule .
+ The European Standard (EN 1949) is the relevant "approved" standard for
+Burstner caravans under clause 44.8.2 of ADR 44/02 and clause 2 of Schedule 2.
+The caravans comply with clause 44.8.2 because they comply with the European standard. Compliance with that standard meets the requirements of that provision.
+ The obligation to comply with a third edition ADR as required by clause (1), however, is subject to the exception stated in clause 14(2) of Schedule
+Clause 14(2) refers to a vehicle that may be supplied to the market under [s.14A](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/s14a.html) of the [Motor Vehicle Standards
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/) and for which an "approval" has been given under that sub-section and the vehicle complies with approval conditions (if any). Accordingly, by the terms of clause 14(2), such an "approval" has an operative effect in determining eligibility for registration of a vehicle under the Regulation.
+ In summary, clauses 12 and 14, respectively deal with third edition ADR compliance obligations and with the specified exception to such obligations.
+ Clause 17 of Schedule 2 does not impose an obligation to comply with a standard. However, it does provide, inter alia, that nothing in [Part ](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/index.html#p2) (which includes clause 21(a) relied upon by the defendant):- "... prevents a registrable vehicle from being constructed and equipped so as to comply with any relevant requirement of a provision of a third party
+ADR as an alternative to being constructed and equipped to comply with any relevant requirements of a corresponding provision of [Parts ](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/index.html#p2) to [12](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/index.html#p12)." (emphasis added) Accordingly, clause 21 subtitled "General requirement to keep vehicles in good order", does not operate to prevent a registrable vehicle from being constructed/equipped in a way that satisfies or complies with a third edition
+ADR. Moreover, if the vehicle is so constructed and equipped, then that is expressly provided to be an alternative to compliance with any relevant requirements of clause 21(a) (or any other provisions of [Parts ](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/index.html#p2) to [12](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/index.html#p12)).
+ Mr Griffiths on behalf of the plaintiff stated (at t.14), and it was not disputed, that it was agreed that the effect of the "approval" referred to in paragraph 1 of the Statement of Agreed Facts was to enable the caravan to meet the requirements of the third edition ADRs, in particular, to meet the requirements of 44.8.2 by the application of the European Standard to the
+Burstner caravans.
+ The proceedings have been conducted by the parties on that basis.
+Accordingly, the effect of the "approval" was to permit or to enable
+Burstner caravans to comply with the ADRs (in particular, to meet the requirement of paragraph 44.8.2 of ADR 44/02), by application of the European
+Standard and compliance with that standard (compliance being established by the Statement of Agreed Facts).
+ The terms of paragraph 44.8.2 of ADR 44/02 provide for compliance is required with the requirements of the Code Governing the Installation in
+Caravans of Liquefied Petroleum Gas Equipment and Appliances "unless otherwise approved". In other words (and the contrary has not been argued), where there is a standard that has been approved, compliance with that approved standard will be compliance for the purposes of paragraph 44.8.2. ADR /02 therefore imposes a requirement for compliance with either the specified
+Code or an "approved" standard. That is of significance when considering the application and requirements of Schedule 2 to the [Road Transport (Vehicle
+Registration)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/) which is expressly cross-referenced to ADRs (in Division 3 of [Part ](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/index.html#p1) of that Regulation). These are considered below.
+ Mr Griffiths contended that as the provisions of clause 17 applied in this case, there was and could be no basis for the claimed operation of clause 21.
+ The interpretation of Schedule 2 of the [Road Transport (Vehicle
+Registration)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/) contended for on behalf of EEI is, in my opinion, plainly the correct interpretation. The analysis of the relevant provisions to which reference has been made above supports that interpretation. The provisions of clause 17 of
+Schedule 2, as I have stated, apply. Those in clause 21(a) of Schedule 2 do not apply. Accordingly, there is no basis for the contention that the provisions of the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) apply to the Burstner caravans by operation of clause 21(a).
+ That conclusion renders it unnecessary to deal with the further issues raised by the defendant. These include whether the terms of the [Dangerous
+Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) could prescribe matters that have any relevant relationship to eligibility of the Burstner caravans for registration, the question of extraterritoriality of the Regulation and the further issue as to whether, if the Regulation does apply, there is an inconsistency with the terms of clause 14 of Schedule 2.
+ However, as these matters were the subject of detailed submissions and, notwithstanding the conclusion I have earlier expressed on the primary question of construction, I will deal with each in turn.
+ [Dangerous Goods (Gas Installations) Regulation 1998](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) 
+The scope and application of the Regulation  The Regulation was originally made under the [Dangerous Goods Act ](http://www.austlii.edu.au/au/legis/nsw/repealedact/dga1975171/) but as of 1 September 2005, is taken to be made under the [Gas Supply
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/gsa1996148/).
+ The objects of the [Gas Supply
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/gsa1996148/) as stated in [s.3](http://www.austlii.edu.au/au/legis/nsw/consolact/gsa1996148/s3.html) relevantly include the promotion of the safe use of gas.
+ "Gas appliance" is defined in the Dictionary to mean:- "Any gas burning or gas using appliance that is manufactured, adapted or designed for connection to a gas installation, whether by means of a gas outlet socket or otherwise, and includes any liquefied petroleum gas dispenser, catalytic burner or vaporiser, but does not include an internal combustion engine that is installed in, or forms part of, a vehicle, vessel or machine." "Gas installation" is defined in the Dictionary in the following terms:- "Means a system of pipes and associated fittings that is designed to convey gas from the control valve or other connection point of a gas container to the control valve or other connection point of a gas appliance or of another gas container, and includes any flue associated with the installation, but does not include a gas container." "Gasfitting work" is defined in the Dictionary to mean any work involved in:- "(a) the installation, alteration, extension or repair of a gas installation, or the installation, alteration, extension, removal or repair of any flue associated with a gas installation, or the connection of a gas container, gas regulator or gas appliance to, or the disconnection of a gas container, gas regulator or gas appliance from, a gas installation (otherwise than where it is designed to be readily detachable from the installation)." The [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) applies to gas fitting work and other activities associated with the installation and connection of gas fittings carried out in New South Wales. It has no application to work or activities of that nature performed outside New
+South Wales and, in particular does not apply to work carried out in Germany where the Burstner caravans are manufactured.
+ In light of submissions made for the defendant to the effect that the
+Regulation applies to the caravans in question, not at the time the gas installations were installed but at a later point in time, namely, at the time registration was sought, it is necessary to examine the nature and scope of the matters that the clauses of the Regulation are directed to.
+ The provisions of [Part ](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/index.html#p2)
+Division 1 of the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) contains a number of provisions concerning or related to "gas fitting work".
+The Regulation, by its terms, is directed to the carrying out of work, namely, gas fitting work and the imposition of restrictions or limitations on the performance of such work. Similarly, in the case of work comprising the installation of a new gas installation, Regulations 9, 10 and 11 are concerned with work involving inspections, testing and the obligation of the person responsible for carrying out the gas fitting work to attach a compliance plate under Regulation 11.
+ Part 2 Division 2 of the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) is, however, not directed to activities such as installation, alterations, extensions, testing or inspections. Clauses 13 and 14 impose restrictions on later activities involving gas installations. These include prohibitions on sale in the circumstances specified, whilst clause 15 is concerned with usage of gas installations and imposes a restriction on such use unless a compliance plate is attached. Clause 16 is concerned with "supply" of gas and a prohibition on such supply where there is no compliance plate attached to the installation. Finally, clause 17 imposes a restriction on the connection of a gas container to a gas installation unless a compliance plate is attached to the installation.
+ The proposition that the above clauses of the Regulation operate to create an offence or offences in respect of gas fitting work carried out on a caravan in Europe and imported into Australia (and subsequently "approved" by the relevant Commonwealth authority) is an unsupportable one.
+ By reason of the incorporation by reference of Australian Design Rules, in particular ADR 44/02, by relevant State law (the provisions of Schedule 2 of the Road Vehicles (Registration) Regulation discussed above), there is a requirement for the Burstner caravans to comply on an ongoing basis with "the approval conditions" (if any): see clause 12(2)(b) of Schedule 2. The issue of ongoing compliance with any such "approval" conditions is thereby ensured.
+ Whilst it was contended on behalf of the defendant that the [Dangerous
+Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) applies "... to a vehicle sought to be registered in New South Wales ..." (t.7), the contention failed to identify a basis upon which it could be said that that the particular provisions of the Regulation as a matter of law, apply to vehicles such as the Burstner caravans at the point in time when registration is sought. How the presence of the Burstner caravans at that time itself attracts the provisions of the Regulation was not explained. None of the particular provisions relied upon by the defendant by their terms support such a contention which, in my opinion, is not a valid one.
+ As discussed above, clauses 13, 15, 16 and 17 of the Regulation are tied to the absence of a compliance plate and prohibit specified activities on that basis. They, in turn, raise and depend on the application of clause 11 which imposes the responsibility for attaching a compliance plate on the installation following completion by "the person responsible for the carrying out of gas fitting work on a gas installation ...". However, clause 11 is not engaged in this case as no gas fitting work on the subject Burstner caravans was carried out by any person in New South Wales. Similarly, clauses 13, 15 and 17 are dependent on clause 11 and are not engaged.
+ Clause 14, which was also relied upon by the defendant, contains a prohibition on the sale of gas appliances in the circumstances specified.
+However, as the Burstner caravans comply with the requirements of ADR 44/02, they comply with an approved standard. The federal approval is not as Mr Lynch contended "exhausted on the first supply" of the caravans to market. The
+State registration system, in particular, the [Road Transport (Vehicle
+Registration)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/), expressly picks up and applies the national standards recognised by the [Motor Vehicle Standards
+Act](http://www.austlii.edu.au/au/legis/cth/consolact/mvsa1989245/). The [Road Transport (Vehicle Registration)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/), in particular, expressly adopts third edition ADRS as an appropriate and sufficient standard in determining eligibility for registration under the
+State registration scheme: see clauses 11, 12, 13, 14 and 17 of Schedule 2 of that Regulation. Far from being "exhausted", an "approval" has ongoing significance to the issue of compliance under State law as the terms of clause (2) plainly indicate.
+ Even if contrary to the above conclusions on the application of the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/), its provisions were capable of application, the question of extraterritorial application of the regulation in relation to a caravan wholly manufactured outside New South Wales, in this case, Germany would arise.
+
+Extraterritoriality [Section ](http://www.austlii.edu.au/au/legis/nsw/consolact/ia1987191/s12.html) of the [Interpretation Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ia1987191/) provides, inter alia:- "12(1) In any Act or instrument:- ...
+ a reference to a locality, jurisdiction or other matter or thing is a reference to such a locality, jurisdiction or other matter or thing in and of
+New South Wales.
+ ..." The ordinary rules of interpretation at common law, in the absence of any countervailing consideration, deny an interpretation of general words in a statute which permits them to refer to matters which are governed by foreign law: Wanganui-Rangitikei Electric Power Board versus Australian Mutual Providence
+Society <case>; [(1934) 50 CLR 581] at 600, 601 and Tobacco Leaf Marketing Board versus Corte [[1983] 3 NSWLR 10] at 13 per Hunt J.
+ The purpose of a provision such as [s.12](http://www.austlii.edu.au/au/legis/nsw/consolact/ia1987191/s12.html) of the [Interpretation
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/ia1987191/), unless the contrary intention appears, is to require the words of a statute to be read as if the words "in and of New South Wales" were incorporated within that statute. The words of the statute, which such words incorporate, may then be interpreted according to their ordinary meaning: Tobacco Leaf (supra) at 13.
+ Legislation is presumed to not have extraterritorial effect: Jumbunna
+Coal Mine NL versus Victorian Coal Miners' Association [(1908) 6 CLR 309.] If the application of the presumption would render the legislation ineffective, it may be assumed that the intention was to override the presumption: Kumagai
+Gumi Co Limited versus FCT [(1999) 9 FCR 274.] The purpose of the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/), to promote the safe use of gas and to regulate gas supply, is not defeated if the Regulation does not apply extraterritorially. The statutory scheme under which an "approval" may be given by the Minister, or his or her delegate, is clearly legislation designed to protect and advance the public interest.
+ No gasfitting work has been performed in New South Wales so as to attract the operation of the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/).
+Accordingly, the provisions of the Regulation concerned with gasfitting work cannot have been contravened in relation to the imported Burstner caravans wholly manufactured in Europe, either at the point in time at which registration was sought or at all.
+ Mr Lynch referred to the requirement that gasfitting work must be carried out by qualified persons as stipulated in [Regulation .](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/s7.html)
+He also relied upon [Regulation (1)](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/s8.html), which provides that a person must not carry out "gasfitting work" on a gas installation otherwise than in accordance with the relevant standards or codes specified in subsection (2). For a Mobile (LP Gas) installation installed in a vehicle, the specified standard is AS1596 (standard for storage and handling of LP Gas) and the specified Code is Installation Code AG 601, also known as
+AS5601.
+ It is common ground between the parties that the gas installation in the
+Burstner caravans did not comply with the two Standards as at 10 June 2008. A letter from the RTA to Ms Maranik dated 19 February 2008 is relied upon in this regard. The letter outlines the instances of non-compliance with AS5061 as stated to be required by the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) (Annexure N to the affidavit of Erik Maranik sworn 4 July 2008).
+ However, the fact that gasfitting work in question has not been performed on the Burstner caravans in New South Wales means that [Regulations ](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/s7.html) and [8](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/s8.html), and the relevant standards, do not apply to this case.
+ Similarly, with the operation of [Regulation .](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/s11.html)
+The person responsible for the carrying out of "gasfitting work" on a gas installation must attach a compliance plate to the installation after the work is carried out: [Regulation (1)(b).](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/s11.html) [Regulation ](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/s11.html) cannot, of course, apply where no gasfitting work has actually been performed in New South Wales.
+ The failure to attach a compliance plate was the subject of a defect notice issued by the RTA on 16 January 2008 (Annexure E to the Affidavit of
+Erik Maranik sworn 13 June 2008). However, again, as no gasfitting work was carried out in New South Wales, there is no provision of the Regulation giving rise to a requirement for the affixing of a compliance plate to which the
+Regulation refers.
+ The defendant submitted that the offences created by the provisions of the
+Regulation relied upon by the defendant give rise to an inference that the
+Dangerous Goods (Gas Installation) Regulation operates as a condition of registration. This is premised on the fact that gas installations must be compliant with the provisions of the Regulation when the activities described in the Regulation take place. Accordingly, the absence of a compliance plate, even where such gas fitting activities have not yet occurred, demonstrates, it was argued, future non-compliance.
+ The provisions relied upon by the defendant are not relevant to the registration of vehicles which is the subject of these proceedings. The provisions are predicated on the doing of an act as described in relation to installation, connection and other installation work performed in New South
+Wales. There is, of course, no contravention of the penalty provisions relied upon where the act or acts giving rise to the alleged contravention(s) has/have not occurred in New South Wales.
+ The defendant was concerned that if the [Dangerous Goods (Gas
+Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) is found not to apply and the Burstner caravans are registered, then the New
+South Wales compliance regime will have no application by way of regulating gasfitting work (or other specified activities) to be carried out on the particular model of caravans in the future. The European Standard, it was submitted, does not impose conditions for demonstrating continuing compliance.
+However, as to the issue of future or ongoing compliance with applicable standards, I have referred in paragraph [119] to the requirement for on-going compliance with any conditions of an "approval".
+ [Road Transport (General) Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/) - the inconsistency argument In the event that both the [Road Transport (Vehicle Registration)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/) and the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) apply, the plaintiff relied upon [s.14](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/s14.html) of the [Road Transport (General) Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/) to resolve any inconsistency.
+ [Section ](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/s14.html) forms part of [Part .1](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/index.html#p2.1) of Chapter 2, Scope of the Act. That part is entitled "Inter-relationship between road transport legislation and other law". [Section (1)](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/s5.html) defines Road transport legislation as meaning, inter alia, the [Road
+Transport (General)
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/) itself and the [Road Transport (Vehicle Registration)
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/rtra1997387/) and "any other Act or Regulation ... prescribed by the Regulations".
+ [Section ](http://www.austlii.edu.au/au/legis/nsw/consolact/rtra1997387/s14.html), so far as is relevant, provides:- "14(1) ...
+
+This Act generally prevails over other legislation in cases of inconsistency 
+However, subject to subsection (3):- 
+An Act that forms part of the road transport legislation prevails over any other Act or statutory rule to the extent of any inconsistency ..." EEI relied upon the provisions of s.14 and, in that respect, case law principles enunciated in Coffs Harbour Environment Centre Inc versus Minister for
+Planning [(1994) 84 LGRA 324] at 330 to per Kirby P and Castle Constructions Pty Limited versus North Sydney
+Council [(2007) 155 LGRA 52] at 69 per
+Tobias JA (with whom Bell J agreed at [143]).
+ It was submitted for the plaintiff that the term "inconsistency" in s.14 is to be construed having regard to the ordinary meaning of the word, not by reference to the law governing the operation of [s.109](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/s109.html) of the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/).
+In that respect, reliance was placed upon the proposition:- "... There will be an inconsistency if, in the provisions of one [instrument], there is 'want of consistency or congruity'; 'lack of accordance or harmony' or 'incompatibility, contrariety, or opposition' with another [instrument]": Coffs Harbour (supra) at 331 I have earlier referred to the relevant provisions of Schedule 2 of the [Road Transport (Vehicle Registration)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/consolreg/rtrr2007478/) and the basis upon which its provisions operate in respect of ADR 44/02 and the ways by which there has been compliance with the relevant provision to which the "approval" relates. Even if, contrary to the conclusion I have earlier expressed, the [Dangerous Goods (Gas Installations)
+Regulation](http://www.austlii.edu.au/au/legis/nsw/repealedreg/dgir1998438/) could have any application, its provisions would, in my opinion, be inconsistent with the provisions of Schedule 2 earlier discussed, in which event, the provisions of [s.14(2)](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/s14.html) of the [Road Transport (General)
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/rta2005242/) would operate as road transport legislation that prevails over the provisions of the
+Regulation relied upon by the defendant.
+
+Orders On the findings and conclusions set out above, the plaintiff is entitled to relief.
+ The parties should agree on short minutes of orders to give effect to this judgment. Leave is granted to either party to apply to have the matter re- listed on short notice.
+ In relation to any application for costs, in the event the parties are unable to agree on the appropriate costs order, leave is also granted to have the proceedings re-listed on short notice by arrangement with my Associate.  
+LAST UPDATED:  July 2009 * * * 

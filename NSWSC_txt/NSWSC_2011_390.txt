@@ -1,0 +1,65 @@
+
+
+Emirates Park Pty Ltd versus Rejesh Chimanlal Upadhyaya& anor [2011] NSWSC (23 March 2011) 
+Last Updated: 26 May 2011 
+Supreme Court 
+New South Wales  
+Case Title: 
+Emirates Park Pty Ltd versus Rejesh Chimanlal Upadhyaya & anor  
+Medium Neutral Citation: <case>  
+Hearing Date(s): March 2011  
+Decision Date: March 2011  
+Jurisdiction: 
+Equity Division  
+Before: 
+Brereton J  
+Decision: 
+Application for leave to be heard on notice to other parties to the proceedings  
+Catchwords: 
+PRACTICE AND PROCEDURE - independent experts - experts under search order gave undertaking to Court not to disclose information found that may be used in any other criminal or civil proceeding - material discovered potentially disclosing commission of offence by third party - whether leave should be granted to disclose material to relevant authorities - application for leave to be heard on notice to the parties  
+Legislation Cited: [Crimes Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ca190082/), 91H, [S91HA](http://www.austlii.edu.au/au/legis/nsw/consolact/ca190082/s91ha.html)  
+Cases Cited: 
+Bailey versus Australian Broadcasting Corporation [1994] 1 Qd R 476 
+Customs and Excise Commissioners versus A E Hamlin & Co (a firm) [[1983] 3 All
+ER 654] 
+EMI Records Limited versus Spillane and others [[1986] 2 All ER 1016]  
+Texts Cited: 
+Category: 
+Procedural and other rulings  
+Parties: 
+Emirates Park Pty Ltd (plaintiff) 
+Rejesh Chimanlal Upadhyaya (first defendant) 
+Yashraj Pty Ltd: (second defendant) 
+Klein & Co Computer Forensics Pty Ltd (applicant)  
+Representation  - Counsel: 
+Counsel: 
+Applicant: Mr M Johnston  - Solicitors: 
+Solicitors: 
+Applicant: Hillman Laxon Tobias Lawyers  
+File number(s): /24051  
+Publication Restriction: 
+Judgment ( ex tempore ) 
+HIS HONOUR: The applicants are the independent computer experts appointed under a search order made by White J on 9 March 2011. In connection with that order, the applicants gave an undertaking to the Court in the following terms:  
+The independent computer expert will not, without leave of the Court or as otherwise required by law, use any information, document or thing obtained as a result of the execution of this order for the purpose of any civil or criminal proceeding, either within or outside Australia, other than this proceeding.
+On 16 March 2011, directions were made in connection with documents seized on 11 March 2011 under the search order, including the following:  
+Independent computer expert to be given leave: to uplift the forensic computer images lodged with the Court by the independent solicitor on 16 March 2011; to facilitate access and review of content of those images by the solicitor for the defendants, including by providing copies in paper or electronic form as convenient and viable; to print or make electronic copies of material over which any claim of privilege is made by the defendant; to provide to the solicitors for the plaintiff copies of the material over which no claim of privilege is made, including recoverable deleted material in paper or electronic form as convenient and viable.
+The search order provided for a search of computer equipment by paragraph 20. Paragraph 21 then provided that if the defendant wished to object to complying with paragraph 20 on the grounds that some or all of the information required to be disclosed may tend to prove that it had committed an offence against or arising under an Australian law, it must disclose so much of the information required to be disclosed to which no objection is taken, and prepare an affidavit containing so much of the information required to be disclosed to which objection is taken and deliver it to the Court in a sealed envelope and file and serve on each other party a separate affidavit setting out the basis of the objection. It does not appear that any such objection has been taken, at least to this point, in connection with material the subject of computer search.  
+In the course of the performance of their duties, the independent computer experts have discovered material which may well disclose the commission by someone - not necessarily the defendant - of a criminal offence quite unrelated to the matters in issue between the parties in the proceedings. The independent computer experts have considered themselves obliged to disclose that material to the appropriate authorities. They have informed the defendant's solicitors of the nature of the relevant material and particulars of the computer, the computer account and the timeframe in which it was downloaded. They have informed the plaintiff's solicitors only that there is a problem or obstacle, as they perceive it, to their compliance with direction 6 of 16 March 2011.  
+The supposed difficulty arises from [Crimes Act 1900](http://www.austlii.edu.au/au/legis/nsw/consolact/ca190082/), [s 91H](http://www.austlii.edu.au/au/legis/nsw/consolact/ca190082/s91h.html), which provides that a person who produces, disseminates or possesses child abuse material is guilty of an offence, punishable by a maximum penalty of imprisonment for ten years. The material discovered by the independent computer experts, they think, is child abuse material. However, [s 91HA](http://www.austlii.edu.au/au/legis/nsw/consolact/ca190082/s91ha.html) provides defences to that offence, including:  
+Public benefit.
+
+It is a defence in proceedings for an offence against [s
+H](http://www.austlii.edu.au/au/legis/nsw/consolact/ca190082/s91h.html) that the conduct engaged in by the defendant: was of public benefit, and did not extend beyond what was of public benefit.
+
+Conduct is of public benefit if, and only if, the conduct is necessary for or of assistance in: enforcing or administering a law of the State, or of another State, a
+Territory or the Commonwealth, or monitoring compliance with, or investigating a contravention of, a law of the State, or of another State, a Territory or the Commonwealth, or the administration of justice.
+It seems to me that as, in performing their obligations under direction 6, the independent computer expert would be acting pursuant to an order of this Court in aid of the investigation and prosecution of a civil cause of action in this Court, their conduct would plainly be of assistance in the administration of justice, and therefore I do not think that they need be troubled about exposure to liability under [Crimes Act](http://www.austlii.edu.au/au/legis/nsw/consolact/ca190082/) [s 91H.](http://www.austlii.edu.au/au/legis/nsw/consolact/ca190082/s91h.html)  
+Of greater concern is the circumstance that the undertaking to which I have referred precludes the independent computer experts from, without the leave of the Court or as otherwise required by law, using any information obtained as a result of execution of the order for the purpose of any proceeding other than the instant proceeding. It seems to me that it would be at the least imprudent, if not contemptuous, to disclose any information derived as a result of the execution of the order to the police, without the leave of the Court.  
+There is some conflict in the authorities as to whether such leave should be given where the effect would be to authorise the use of information in criminal proceedings having no connection with the original cause of action in the primary proceedings.  
+In EMI Records Limited versus Spillane [[1986] 2 All ER 1016] In this country, in Bailey versus Australian Broadcasting Corporation [1994] 1 Qd R 476, Lee J in turn disagreed with the narrow view taken in EMI versus Spillane , although his Honour did not reach a concluded view on the question. If the matter proceeds further, it will be necessary for the issues raised in those judgments in that respect to be addressed.  
+It seems to me, at this stage, that the appropriate course is for the application for leave to be heard on notice to the parties. At this stage, while the defendants whose documents and information it is are and should be apprised of the precise nature of the material in dispute, I am inclined to the view that it is inappropriate for the plaintiffs to be apprised of that content, at least for the present.  
+Upon the undertaking of Matthew Johnston, barrister, to pay the appropriate filing fee, I grant leave to Klein & Co Computer Forensics Pty Ltd to file a notice of motion claiming an order in the following terms:  "An order that for the purposes of the undertaking given to the Court by the independent computer expert on 9 March 2011, the independent computer expert have leave to disclose to the New South Wales Police certain information obtained as a result of the execution of the search order."
+I direct that the motion be returnable before me as duty judge on Tuesday, 29 March 2011, at 10am. I direct that such motion be filed and served on the solicitors for the plaintiff and the solicitors for the defendants by close of business 24 March 2011 and abridge time for service of the motion accordingly.  
+I order that until further order, notwithstanding order 6(d) made on 16 March 2011, the independent computer experts not provide to the solicitors for the plaintiff copies of the material the subject of the motion.  
+I direct that, together with the motion, the independent computer experts serve on the solicitors for the defendants, but not on the solicitors for the plaintiff, a copy of the affidavit of Nicholas Elliott Klein sworn 23 March 2011.  
+I direct that these orders be entered forthwith.  * * * 

@@ -1,0 +1,230 @@
+
+
+Telecom Vanuatu Ltd versus Optus Networks Pty Ltd (No. 3) [2009] NSWSC 401 (18
+May 2009) 
+Last Updated: 19 May 2009 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Telecom Vanuatu Ltd versus Optus Networks Pty Ltd (No. 3) <case>  
+JURISDICTION: 
+Equity - Commercial List  
+FILE NUMBER(S):  of 2005  
+HEARING DATE(S):  April 2009 - Written Submissions  
+JUDGMENT DATE:  May 2009  
+PARTIES: 
+Telecom Vanuatu Ltd (Plaintiff) 
+Optus Networks Pty Ltd (Defendant)  
+JUDGMENT OF: 
+Bergin CJ in Eq  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+F Kunc SC/C N Bova (Plaintiff) 
+I M Jackman SC/J A C Potts (Defendant)  
+SOLICITORS: 
+Marque Lawyers (Plaintiff) 
+Clayton Utz (Defendant)  
+CATCHWORDS:  [CONTRACT] - Whether plaintiff suing for debt or damages - whether plaintiff has proved defendant still indebted to it - appropriate quantum  [INTEREST] - Whether interest should be awarded  
+LEGISLATION CITED:  [Civil Procedure Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/)  
+CASES CITED: 
+BP Refinery (Westernport) Pty Ltd versus Shire of Hastings (1977) 180 CLR 266 
+Codelfa Construction Pty Ltd versus State Rail Authority of New South Wales <case>; <case> 
+Maschinenfabrik Augsburg-Nurenburg AG versus Altikar Pty Ltd <case> 
+Telecom Vanuatu Ltd versus Optus Networks Pty Ltd (No. 2) <case> 
+Zaccardi versus Caunt <case>  
+TEXTS CITED:  
+DECISION: 
+Plaintiff entitled to entry of judgment in the sum of US$108,861.50  
+JUDGMENT:  - 1 - 
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+COMMERCIAL LIST  
+BERGIN CJ in EQ  MAY 2009  OF 2005 TELECOM VANUATU LTD versus OPTUS NETWORKS PTY LTD (NO. 3) 
+JUDGMENT This is an application consequent upon the previous judgments in this matter: Telecom Vanuatu Ltd versus Optus Networks Pty Ltd  <case> (the first judgment); and Telecom Vanuatu Ltd versus Optus Networks Pty Ltd (No.
+)  <case> (the second judgment). This application relates to the finding in the first judgment that the plaintiff and the defendant agreed to the figure of $US0.10 per minutes in respect of all rogue traffic (the 10 cents agreement): [175].
+In the second judgment I granted leave to the plaintiff to re-open its case and to rely on submissions in respect of its claim for payment of any additional minutes: [51].
+ Although the orders made required a regime for submissions that concluded on March 2009, the parties consensually extended that regime so that it did not conclude until 1 April 2009. The written submissions on this application are the plaintiff's submissions of 27 February 2009; the defendant's submissions of 13 March 2009; the plaintiff's submissions in reply of 26 March ; and the defendant's further submissions of 31 March 2009, filed 1 April
+The application has been dealt with on written submissions as filed.  
+Plaintiff's claim  The plaintiff claims that the document entitled "TVL Damages Schedule" (the
+Schedule) is a summary of figures derived from the defendant's measured switch reports, known as "aggregated usage reports", which are part of Exhibit B in the proceedings. The plaintiff submitted that Exhibit B was provided to the defendant at the hearing and there has been no suggestion that the summary in the Schedule is incorrect. The Schedule includes the following: 
+TVL Damages Schedules 
+Using the GIB - AT&T traffic table at pages 3-4 below as an example,
+TVL submits that the following should be applied in relation to the calculation of unpaid minutes for telecommunications traffic upon which the damages calculation will ultimately be based.
+ 
+The evidence shows that the amounts measured by Optus and/or AT&T (where available) on their switches were ultimately paid by AT&T to Optus (note column B is always in excess of columns C & D).
+ 
+If that proposition is not accepted by the Court, TVL submits that (as is evidenced in column E) and using GIB as an example, GIB received payment from
+Optus on 3,988,851 minutes and not the lesser amount propounded by Optus (see column G).
+ 
+Optus submits that the amounts in column G should be adopted by the Court.
+ 
+Ms Howe gives evidence that she has undertaken a calculation that compares the total amount declared by Optus to all service providers to create a percentage proportion of traffic for each service provider. Using GIB's percentage proportion she has deducted clawbacks from the amounts Optus declared to GIB.
+ 
+There is no evidence before the Court (either Mr Matsudaira, Mr Luciano or
+Ms Howe) that any deduction of clawback amounts can be made in that way as between carriers. Although TVL and AT&T signed an Uncollectibles
+Agreement, no method for determining the amount of uncollectibles attributed to GIB has been proffered by Optus in its evidence.
+ 
+Indeed, the Uncollectables Agreement is between AT&T and TVL and can therefore have no application to the present case.
+ 
+The effect of accepting Ms. Howe's figures is that TVL would have to refund monies to Optus.
+ 
+Optus had a claim for clawbacks in relation to the GIB and MDC traffic in its cross-claim which has been settled. The effect of this settlement is that
+Optus is estopped from relying on clawbacks now.
+ 
+The same submission can be put in relation to GIB traffic originating with
+Sprint and Hellenic and MDC traffic as set out below.
+ 
+GIB and MDC - minutes (all originations) 
+Note that TVL was paid by Optus at 10c on 3,958,190 (sic) minutes.
+ ---|---|---|---|---  
+Traffic Month 
+Declared by AT&T, Sprint and Hellenic in their traffic declarations for all traffic 
+Measured by Optus on its switch for GIB and MDC traffic 
+Declared and paid to GIB and MDC by Optus 
+Optus measured minutes as set out on 20 November 2000 email 
+Ms Howe's minutes (Exhibit 1)  (Exhibit B) (Exhibit B - see AUR) (Exhibit B - See GIB declarations from Optus) 
+And  *
+ *Optus' declared minutes as set out on 20 November 2000 email (Exhibit A 10-276-279)  *
+ ,374,965 ,046,775 ,730,736 ,330,150 ,943,932  *3,531,245 The plaintiff submitted that the amount of damages payable by the defendant should be assessed by reference to the defendant's measured minutes in column , pursuant to the agreement as found between Messrs Hall and Bragg. The ,046,775 minutes in the Schedule extracted above are minutes actually recorded by the defendant on its switch as transiting to the rogue numbers for the relevant period, March 1999 to November 2000.
+ The plaintiff claims it has been paid relevantly US$395,816 by the defendant made up of two payments, US$81,997 and US$313,819. The plaintiff claimed that pursuant to the 10 cents agreement, it was appropriate to divide the paid amount, US$395,816, by US$0.10 to reach the total of 3,958,160 minutes. The plaintiff claims an entitlement to payment for 1,088,615 minutes reached by subtracting the alleged paid minutes, 3,958,160, from the measured minutes, ,046,775 in column (C) of the Schedule. The difference between minutes measured by the defendant and minutes claimed or declared by GIB and MDC during the relevant period results in the figure of 772,576 minutes, reached by subtracting 3,958,160 from the figure in column (E), 4,730,736.
+ The plaintiff's original claims were for damages of US$108,861.50 plus interest at court rates if the assessment is based on measured minutes; alternatively damages of US$77,257.60, plus interest at court rates, if the assessment is made on declared minutes. In its submissions in reply on this application the plaintiff accepted that if judgment is to be entered in US dollars, and interest is to be awarded, the US interest rates contained in Mr
+Collins' affidavit of 7 August 2008 should apply.  
+Damages or debt  The defendant submitted that the plaintiff's claim is plainly for an unpaid debt, money due and owing pursuant to the 10 cents agreement and submitted that there was never a claim for damages for breach of contract. In respect of the distinction between a claim for damages and a claim for a debt, the defendant relied upon the following passage of Barrett J's judgment in
+Castlepines (IBM) versus Residential Housing Corporation  <case> at <case>: 
+The distinction between damages and debt is, of course, fundamental. As is pointed out by Professors Carter and Harland (in JW Carter and DJ Harland, "Contract Law in Australia", 4th edition, 2002, at page 875), the action to recover a debt due for payment has a longer history than the action to recover damages for breach of contract and, despite the concurrent administration of law and equity, it remains the case that an action to recover a contract debt due is not a claim for breach of contract. A person who points to a contract as the source of an unsatisfied right to be paid asserts a claim different in nature from that of a person who, relying upon a breach of contract, seeks compensatory relief in the form of monetary damages.
+ The defendant submitted that the distinction is important in the present case for two reasons. First, the elements of each cause of action are different and second, the entitlement to interest may be affected by whether one sues to recover a sum payable under a contract, for a debt, or for damages for breach of contract, where the breach is the non-payment of money due under that contract. It was submitted that the claim made by the plaintiff in its
+Amended Reply is a claim for a debt arising under the 10 cents agreement for unpaid traffic.
+ The defendant submitted that there is no claim for damages for breach of any obligation under the 10 cents agreement, nor is there any pleading that there was a breach of that agreement or that any loss was suffered as a result of a breach of contract. Accordingly, the defendant submitted that when the plaintiff asserted in its submissions that "damages" should be awarded to it for underpayment under the 10 cents agreement, what it is really propounding is a claim which was never made in the proceedings. The defendant emphasised that the only claim that has been made and the only claim that the plaintiff is entitled to pursue is one to recover a debt owed by the defendant for non- payment of US$0.10 per minute pursuant to the terms of the 10 cents agreement.
+ I agree with the defendant's submission that what the plaintiff is seeking is the payment of a debt.  
+Implied term  It was the defendant that propounded an agreement at 10 cents per minute which it particularised, in part, as follows (par 15(p) of relevant Commercial
+List Response): 
+Email dated 27 November 2000 from Richard Hall to Samantha Bicknell and John Bragg.
+
+The agreement was partly express and oral, and partly to be implied. Insofar as it was oral, it was constituted by a telephone conversation between John Bragg and Richard Hall on or about 29 November 2000, the substance of which was to the effect alleged [that the plaintiff would receive a rate of US0.10 per minute of international audiotext traffic generated by Interwest and MDC to the Vanuatu Number Ranges]. Insofar as it was to be implied, it was to be implied by the course of dealing between the parties.
+ The defendant submitted that when Mr Hall and Mr Bragg reached the 10 cents agreement, as outlined in the first judgment (par [127] - [175]), it was based on industry practice and that the rate should be calculated on the minutes declared by the originating carrier. It claimed that this was an implied term of the 10 cents agreement. In this regard the defendant relied on the finding in the first judgment that pursuant to the usual practice in the industry, governed by the International Telecommunications Regulations (ITR), "Settlements are generally made on the declaration by the originating carrier of minutes sent, rather than measurement by a transit or terminating carrier of minutes received" [19]. The defendant pointed to the plaintiff's concession that the defendant did not pay GIB or MDC on the basis of measured minutes and submitted that the reason for that is plain in that the normal industry practice dictated that everyone in the industry operated using declared minutes as the usual measure, that is declared by the originating carrier.
+ The defendant also relied on Ms Howe's evidence in relation to a document prepared by the defendant entitled "Basis of Preparation of Defendant's
+Summary of Declared Minutes" (Ex 1). That evidence was as follows (tr -168): 
+Q. Can you explain to her Honour the difference between AT&T's measured minutes and AT&T's declared minutes? 
+A. Measured minutes are minutes which are generated directly from
+AT&T's international switch, like telecommunications switch. It talks, it basically looks at the things like where a call has come from, where it is going to, whether it was completed, and it looks, it is just raw data which comes into the switch and has gone out of the switch.
+
+Declared minutes is what AT&T has, is actually prepared to pay the next person along the chain, whether transit carrier or terminating carrier. And basically in the context of audio text it was industry practice that people were going to question the validity of the calls and say that they hadn't made these calls, they hadn't made these calls to those type of services. So, in general AT&T would only pay for calls which they had actually been able to recoup from the caller. So, in the case of bad debt they would minus the bad debt off their declaration. So, the difference between the measured minutes and the declared minutes was bad debt.
+
+Q. And declared were always lower than measured? 
+A. Yes, declared were always lowered (sic) than measured.
+ The defendant submitted that Ms Howe was never challenged on this aspect of her evidence and it should be accepted. The defendant also relied on the 20
+November 2000 email Ms Howe sent to Mr Hall prior to the 10 cents agreement.
+That email was in the following terms: 
+Please find enclosed details of Traffic and Declared Minutes from the period December 99 to October 00. Please note that discrepancies between
+Declared Minutes and Switch Minutes are based on the Bad Debt claw-backs & claw-forwards by the Origin Carriers. Payable minutes are based on Minutes
+Declared by the Origin not on Switched minutes.
+ It was submitted that Mr Hall never raised any issue with that explanation, and it should be inferred that Mr Hall and Mr Bragg were negotiating in the context of and in relation to declared minutes.
+ The claim made by the plaintiff for payment for rogue traffic at 10 cents per minute was made in paragraph 14 of its Amended Commercial List Reply in the following terms: 
+If (which is denied) TVL agreed with Optus that TVL would receive a rate of US$0.10 per minute of international audiotext traffic generated by
+Interwest and MDC to the Vanuatu Number Ranges, TVL has not been paid at that rate for all international audiotext traffic generated by Interwest and MDC to the Vanuatu Number Ranges, in that it has not been paid in accordance with: the minutes of traffic as measured by Optus; or in the alternative, the minutes of traffic as declared by the originating carriers to Optus; or further in the alternative, the minutes of traffic as declared by Optus to Interwest and MDC.
+ The agreed question for determination was in the following terms: 
+If the answer to the preceding question [ie was there a 10 cent agreement] is yes, has Optus paid all monies owing to TVL under the agreement referred to in the preceding paragraph.
+ The plaintiff's main claim was for payment of the minutes measured by the defendant. Mr Hall's email of 27 November 2000 referred to reverting to a default position if agreement could not be reached at the level that he was then claiming, US$0.20. It is true that in a conversation on 20 November 2000
+Mr Bragg said that Mr Hall's offer did not reflect "industry practice": [128].
+However, the e-mail of 27 November 2000 makes the point that the traffic was run without the plaintiff's knowledge, and was not declared. The fact that there is mention of traffic that had not been declared does not in my view mean that there should be an implication that the parties intended that the minutes should be measured on the declarations made by the originating carrier. Mr Bragg had suggested a "compromise". This was not the usual industry practice of negotiating deals in the environment of the applicable
+ITR. This was a deal struck in relation to unauthorised traffic quite outside the industry practice of agreements for authorised traffic.
+ Mr Bragg clearly placed the circumstances outside the usual industry practice when he emphasised to Mr Hall that his "default position" was "nothing" because the plaintiff never received the traffic: [131]. I am not satisfied that the 10 cents agreement struck between Mr Hall and Mr Bragg has such an implied term. It is certainly not necessary for business efficacy. It is certainly not a matter that goes without saying and it seems to me that this particular agreement was struck in circumstances relating to unauthorised traffic quite outside the usual industry practice: BP Refinery (Westernport)
+Pty Ltd versus Shire of Hastings (1977) 180 CLR 266; Codelfa Construction Pty Ltd v State Rail Authority of New South Wales <case>; [(1982) 149 CLR 337.] I am not satisfied that such a term is to be implied into the 10 cents agreement.  
+Proof that defendant is indebted  The defendant submitted that the plaintiff has not made any serious attempt to prove that the defendant remains indebted to it under the 10 cents agreement. It was also submitted that the plaintiff's case proceeds on inference alone and it has made no attempt to prove by direct evidence that the defendant is indebted to it for any particular sum. In this regard the defendant relied upon the following evidence given by Mr Milard (tr 209): 
+Q. You are aware, aren't you, that Optus did make payments to TVL for the so-called rogue traffic at the rate of 10 cents per minute? 
+A. There has (sic) been payments which have been made to TVL, yes.
+
+Q. And you knew that they were made at the rate of 10 cents per minute? 
+A. To my - to what I remember, we did not receive any details of such payments.
+
+Q. But there had been a payment of some $81,000 in March 2000, hadn't there? 
+A. There have been - yes, in March 2000 before I arrived there has been a payment which we rejected, yes, that's right.
+
+Q. And then you later accepted that when a settlement with Gilsan was imminent, correct? 
+A. After we accepted another payment, this is right.
+
+Q. And then there was another payment of $313,000 made by Optus to TVL, correct? 
+A. That's correct.
+
+Q. And there were some payments made directly by some of the audio text service providers that you regarded as generating rogue traffic? 
+A. Yes.
+
+Q. And you knew, didn't you, that those payments were made at the rate of 10 cents a minute? 
+A. There was no details with that but we suspected that they may have been based on that rate, yes.
+ The written submissions contain a duel between the plaintiff and the defendant with allegations of forensic ineptitude in failing to establish a clear intent of Mr Milard's evidence.
+ The defendant submitted that in this evidence Mr Milard accepted that the plaintiff had received payments directly from audiotext service providers in respect of rogue traffic. It was also submitted that the plaintiff has not sought to prove what those payments were or to demonstrate that they were not in respect of the traffic for which the plaintiff now contends the defendant should pay 10 cents per minute. The defendant submitted that this failure means that the Court cannot be satisfied that the defendant is indebted to the plaintiff.
+ The defendant also emphasised the absence of any re-examination of Mr
+Milard after he gave the evidence that there were some payments made directly by some of the audiotext service providers in relation to rogue traffic. It was submitted that if the plaintiff had wished to clarify, explain or complete
+Mr Milard's evidence on the point so as to make clear that his answer referred to a limited category of minutes, for instance referred to in paragraph 38 of his affidavit, it was necessary for the plaintiff to re-examine him to that effect. Paragraph 38 of Mr Milard's affidavit was in the following terms: . In November 2000 and February and June 2001, Mediatel remitted three small amounts direct to TVL, which TVL retained although they too were not accompanied by backing sheets or CDRs. As TVL had no contractual relationship with Mediatel I assumed that Optus supplied TVL's bank account details to Mediatel.
+ The defendant submitted that Mr Milard's cross-examination should not be read as limited or confined to the content of paragraph 38. In this regard the defendant relied upon the following passage of Campbell JA's judgment in
+Zaccardi versus Caunt  <case> at <case> as follows: 
+In my view this is a situation where the variant of the principle in
+Jones versus Dunkel  <case>; [(1959) 101 CLR 298] that was discussed by Handley JA in Commercial Union
+Assurance Co of Australia Ltd versus Ferrcom Pty Ltd [(1991) 22 NSWLR ]
+at 418-419 is applicable. In accordance with that principle, when a party who called a witness who could have given direct evidence on some particular topic refrains from asking questions that would have elicited evidence on that topic that can in some circumstances be a legitimate reason for not drawing inferences in favour of that party.
+ The defendant submitted that in the present case the plaintiff chose not to re-examine Mr Milard and in those circumstances the Court should not draw the inference contended for by the plaintiff, that the evidence in cross- examination was intended to be limited to the matters raised in paragraph 38 of his affidavit.  The plaintiff submitted that Mr Milard's evidence goes no further than an acceptance that there were some payments made directly by some audiotext providers that he regarded as generating rogue traffic. In other words there were some payments from audiotext providers who Mr Milard considered had generated rogue traffic. The plaintiff placed emphasis on the question after the concession in which Mr Milard said that there were no details in respect of the 10 cents agreement but that "we suspected" that the payments "may have been based on that rate". The plaintiff submitted that this is hardly sufficient to link it to the 10 cents agreement and relied upon the finding in the first judgment that Mr Hall did not advise Mr Milard that he had reached the 10 cents agreement with Mr Bragg: [171]. The plaintiff submitted that the cross-examiner failed to question Mr Milard as to whether the payments he suspected may have been based on the rate of 10 cents per minute were made for the rogue traffic and that by failing to ask this further question the defendant cannot make the submission that Mr Milard accepted that the plaintiff had received payments directly in respect of rogue traffic.
+ The plaintiff does not take issue with the principles to be applied in respect of evidentiary matters and the proof thereof, including the reliance by the defendant on the passage of Campbell JA's judgment in Zaccardi v
+Caunt. The plaintiff submitted that there was no necessity for re-examination having regard to the failure by the cross-examiner to link the concession to the rogue minutes.
+ The plaintiff submitted that it has always been the defendant's case that all payments had been made to the plaintiff and that such claim necessarily involves an assertion that there were 3,958,160 minutes the subject of the 10 cents agreement (reached by dividing US$395,816 by $US0.10). It was further submitted there is no reason in law or logic why, against that background, the plaintiff cannot seek to show that there were additional minutes subject to the agreement. It rejects the criticism made by the defendant that it is seeking to establish its entitlement by inference rather than direct evidence.
+ The pivotal questions and answers in the cross-examination of Mr Milard on which the defendant relies to establish that there were additional payments made to the plaintiff for rogue traffic that have not been brought to account were as follows: 
+Q. And there were some payments made directly by some of the audio text service providers that you regarded as generating rogue traffic? 
+A. Yes.
+
+Q. And you knew, didn't you, that those payments were made at the rate of 10 cents a minute? 
+A. There was no details with that but we suspected that they may have been based on that rate, yes.
+ The affirmative answer to the first question might be understood as a concession that some of the audiotext service providers that paid the plaintiff directly were service providers who were generating rogue traffic, as opposed to a concession that those audiotext service providers were paying the plaintiff directly for rogue traffic. The plaintiff's complaint is that the second question and answer does not remove that ambiguity and it was necessary for the cross-examiner to establish that the rate of 10 cents was applied not merely to the traffic that was paid for directly by the service providers who Mr Milard regarded as generating rogue traffic, but that the rate of 10 cents was paid for rogue traffic.
+ I agree with the plaintiff's submissions. The concession is not clear and in any event all that Mr Milard had were suspicions that some payments, whether or not they were for rogue traffic, may have been based on that rate.
+I am not satisfied that this was a concession that further payments had been received directly for rogue traffic.  
+Reliance on the Schedule  The defendant took issue with the plaintiff's claim that there had been no suggestion at the trial that the summary in the Schedule was incorrect. The
+Schedule was provided to the defendant in Court on the final day of the main hearing, 14 August 2008. The defendant submitted that it does not, and did not, accept the submissions made on page 1 of the Schedule, extracted above, and it submitted that the Schedule was neither accurate nor a complete summary of the evidence. The defendant also submitted that the Schedule is deficient in a number of respects.
+ On the first day of the hearing, 11 February 2008, the plaintiff relied upon a document entitled "Plaintiff's summary of minutes on Rogue Numbers" (the Summary). The defendant submitted that the defendant's measured minutes recorded in the Summary for the months of June, August and September 2000 are different to the figures that are in the Schedule. The Summary relied upon by the plaintiff in its opening was described by Mr Kunc SC as follows (tr 5): 
+What this document does is that as your Honour will appreciate there is a vast quantity of what are essentially accounting records and technical records between the carriers involved that record the actual minutes and where they came from. Those minutes will be the subject of a tender by CD ROM so that in a formal sense the Court will have before it this vast amount of material.
+ 
+What we have done and what I trust if it hasn't already been agreed will be capable of agreement with our friend, is that what this represents is simply a summary of that underlying material because we certainly don't expect this
+Court to perform an accounting exercise if our position is ultimately vindicated.
+ 
+The utility of this small summary is to indicate to your Honour when what we say was rogue traffic ran, for how long and in how many minutes. In particular in relation to the GIB traffic our position will become apparent that it demonstrates in or about March 2000 what we refer to as the first time
+Mr Bragg of Optus was caught doing this sort of business and that traffic stream stopped on AT&T, it continued with Hellenic. Then there was a second catch in October which is in effect the end of the story.
+ 
+In relation to MDC, that was a stream that we say we were completely unaware of until November 2000, hence it doesn't turn on and off when the alleged discovery occurred because we never discovered it we say until
+November 2000.
+ The Summary records the GIB traffic for the months of June, August and
+September 2000 as zero. The Schedule records the number of minutes for June,
+August and September 2000 as 610, 91,024, and 104,422 respectively, totalling ,056 minutes. The defendant's complaint is that whilst the Summary made no claim in respect of those months for rogue traffic measured by the defendant for GIB traffic, the Schedule makes a claim of 196,056 minutes. The defendant complained that the plaintiff had not explained the reason for that difference.
+ In submissions in reply the plaintiff submitted that the figures in the
+Schedule were an accurate reflection of the relevant measured minutes based on the material discovered by the defendant and contained in Exhibit B. The plaintiff pointed out that these figures were identical to those set out in the confidential exhibit to Ms Howe's (formerly Ms Bicknell) affidavit and that any difference between the Schedule and the Summary is irrelevant. The figures identified in the confidential exhibit are not broken down into months and accordingly it is not possible to see that the figures are identical as claimed. There is a difference between the Summary and the Schedule. The explanation for that difference is that the Schedule more accurately reflects the actual evidence in Exhibit B that was relied upon at trial. The defendant has not submitted that the figures are not a reflection of Exhibit B and accordingly the criticism of the Schedule in this regard is of little moment.
+ The next criticism made by the defendant is that the plaintiff was directed to file submissions referring to the evidence on which it relied to make good its claim for 10 cents per minute for the allegedly unpaid minutes. The defendant submitted that the plaintiff's reliance on the Schedule as generically referring to Exhibit B is, as I understand the submission, less than helpful. This criticism is that the CD ROM, Exhibit B, contains 297 individual files, many of which are spreadsheets containing multiple sheets of data. That may be so. The defendant knew that the plaintiff was relying upon the Schedule as a reasonable reflection of the data that was contained in
+Exhibit B. It is true that the plaintiff has not identified the particular aspects of the data in Exhibit B from which it reached the figures that are in the Schedule, however it is apparent that the defendant has not sought particulars of the process nor conferred with the plaintiff in this regard.
+This particular criticism goes nowhere.
+ The next complaint made by the defendant in relation to the Schedule is that column (D) on page 3 incorrectly includes re-file and non-US originated
+GIB traffic originating with and measured by AT&T on its switch. The plaintiff agrees that column (D) on page 3 of the Schedule includes 5,181 minutes, equivalent to $51.81 of the plaintiff's claim out of 3,578,114 minutes. However the plaintiff submitted that its inclusion is not incorrect because those minutes nevertheless ran to rogue numbers via AT&T and the defendant.
+ The next complaint made by the defendant was that on page 9 of the Schedule the plaintiff incorrectly included APT generated traffic for November 1999 to
+March 2000 for re-file and non-US originated traffic generated and measured by
+AT&T on its switch. The plaintiff accepts that the inclusion of 2,308 minutes, equivalent to $23.08 of the plaintiff's claim is in error. However it claims that there are 36,881 minutes of re-file and non-US originated traffic, equivalent to $368.81 of the plaintiff's claim, which it claims are not incorrectly included because they ran to rogue numbers via AT&T and the defendant.
+ The next complaint made by the defendant relates to the second paragraph extracted above and repeated here for convenience.
+
+The evidence shows that the amounts measured by Optus and/or AT&T (where available) on their switches were ultimately paid by AT&T to Optus (note column B is always in excess of columns C & D).
+ The defendant submitted that this is faulty logic because column (B) records declarations made by AT&T for all traffic, both audiotext (authorised and unauthorised) and non-audiotext (voice, re-file etc). Columns and (D) relate to rogue audiotext traffic only. The defendant submits that this is why the column (B) figures are always greater than columns (C) and . The defendant submits that the conclusion contended for by the plaintiff simply does not follow. The plaintiff did not respond to this submission probably because it has force.
+ I do not need to deal with these complaints any further because I have decided that the plaintiff is entitled to recover the amounts as measured by the defendant. The plaintiff and the defendant reached a compromise of their differences about the unauthorised traffic outside the usual industry practice. I agree with the plaintiff's description, that this was a "one-off" agreement. The defendant agreed to pay the plaintiff at 10 cents per minute for "all rogue traffic", meaning all traffic irrespective of whether others were able to recoup payment from their customers. I accept the plaintiff's entitlement to carry out the calculations referred to earlier to reach the conclusion that the defendant has paid the plaintiff for 3,958,160 minutes.
+The plaintiff is entitled to payment for 1,088,615 minutes reached by subtracting the paid minutes, 3,958,160, from the measured minutes, 5,046,775 in column (C) of the Schedule.
+ The plaintiff is entitled to entry of judgment for US$108,861.50.
+
+Interest  The plaintiff submitted that the debt plainly fell due at the time of the cents agreement and that the defendant was obliged to pay the plaintiff for all rogue minutes and failed to do so. Would that it were so simple. The first judgment outlines the complex situation in which these parties negotiated, including the presence of the Gilsan proceedings, and the overlay of the unauthorised arrangements that had been made. The basis upon which Mr Hall agreed to the payment at 10 cents was if the defendant paid for the rogue minutes "quickly": [131].
+ Notwithstanding this reference to payments being made "quickly", there was no complaint or issue raised by Mr Hall or by Mr Milard between December 2000 and August 2002 concerning any outstanding payments for rogue traffic: [169].
+It was on 2 September 2002 that Mr Milard wrote to the defendant requesting "financial compensation": [169]. There was also a Settlement Deed that was prepared for the payment of the outstanding amounts. That appears to have been produced in October 2004 with its earliest version in April 2004: [172].  The defendant submitted that the appropriate interest rate to be applied to the debt is the 6% per annum after the time for payment has fallen due. It has to be remembered that such interest rate was referred to in the first judgment as rarely if ever being applied. The defendant submitted that the existence of that right under the ITR means that pursuant to [s (3)(b)](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/s100.html) of the [Civil Procedure Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/) the
+Court cannot award interest under that section. That section provides that the section does not authorise the giving of interest on a debt in respect of any period for which interest is payable as of right, whether by virtue of an agreement or otherwise.
+ The plaintiff submitted that the Court should not apply the 6% interest rate. It was submitted that such an interest rate was for "normal" settlement arrangements rather than this one off agreement to settle a dispute about unauthorised rogue traffic. I agree with that submission.
+ In the alternative, the defendant submitted that if judgment is given in
+United States dollars then interest on that judgment should run at the rates from time to time prevailing in the United States of America as set out in Mr
+Collins affidavit of 7 August 2008: Maschinenfabrik Augsburg-Nurenburg AG v
+Altikar Pty Ltd [[1984] 3 NSWLR 152]; Swiss
+Bank Corporation versus State of New South Wales [(1993) 33 NSWLR 63.] The plaintiff accepts this contention and seeks interest at the prevailing US rates as set out in Mr Collins' affidavit of 7 August 2008.
+ I am satisfied that the fairest calculation of interest is from 1 October , one month after the request made by Mr Milard on 2 September 2002.  
+Conclusion  The plaintiff is entitled to entry of judgment for US$108,861.50. The plaintiff is also entitled to interest on that amount from 1 October 2002 calculated at the rates set out in Mr Collins' affidavit of 7 August 2008. The parties are to make that calculation and I grant leave to the parties to file
+Short Minutes of Order for the entry of judgment in the Registry. The parties may also include in those Short Minutes an agreed order as to costs. However if the parties wish to argue costs they may file and serve submissions pursuant to an agreed timetable and/or make contact with my Associate to fix a date for oral submissions.  
+LAST UPDATED:  May 2009 * * * 

@@ -1,0 +1,149 @@
+
+
+Application of Solomons & Tayeh [2012] NSWSC 923 (27 July 2012) 
+Last Updated: 28 August 2012 
+This decision has been amended. Please see the end of the decision for a list of the amendments.
+ 
+Supreme Court 
+New South Wales  
+Case Title: 
+Application of Solomons & Tayeh  
+Medium Neutral Citation: <case>  
+Hearing Date(s): July 2012  
+Decision Date: July 2012  
+Jurisdiction: 
+Equity Division  
+Before: 
+White J  
+Decision: 
+Refer to para [34] of judgment.  
+Catchwords: 
+TRUSTS - judicial advice - application for judicial advice pursuant to [Trustee Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/) [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/s63.html) - interpretation of trust deed and administration of trust property - consideration of pooling arrangement contemplated by deed of company arrangement and trust deed - how trustees should deal with multiple proofs of debt submitted by Deputy Commissioner of Taxation - where members of GST
+Group were jointly and severally liable to pay GST that was payable by representative member of group - where representative member and group members are subject of deed of company arrangement and trust deed - question whether trustees would be justified in treating multiple proofs lodged by the ATO as being a single liability admissibility to proof under trust deed - judicial advice given - ATO entitled to lodge multiple proofs for several debts  
+JUDGMENT
+HIS HONOUR: This is an application under [s 63](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/s63.html) of the [Trustee Act 1925](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/). The plaintiffs seek judicial advice respecting the interpretation of a trust deed and the administration of trust property. The plaintiffs are the trustees of a trust known as the Johnson Property Group Creditors Trust. The trust deed was entered into pursuant to deeds of dompany arrangement of 15 companies in that group. The issue concerns how the trustees should deal with multiple proofs of debt submitted by the Deputy Commissioner of Taxation. Thirteen of the companies were members of a GST Group established pursuant to subdivision 48-A of the [A New Tax System (Goods and Services Tax) Act 1999](http://www.austlii.edu.au/au/legis/cth/consolact/antsasta1999402/) (Cth) ("the GST Act"). Each of the members of the GST Group were jointly and severally liable to pay the GST that was payable by the representative member of the group. The representative member is one of the companies the subject of the deed of company arrangement and trust deed, namely, Johnson Property Group Pty Limited. 
+It is common ground that at the time voluntary administrators were appointed, each of those 13 companies was liable for GST in the sum of $2,343,970 plus general interest charges. The trustees seek advice as to whether, having regard to the terms of the trust deed and the deed of company arrangement, the Deputy Commissioner is entitled to have 13 proofs in respect of that debt admitted, or whether the Deputy Commissioner is entitled to prove only once in respect of that liability. 
+The trustees were appointed as voluntary administrators of the relevant companies on 8 April 2011. They convened meetings of creditors of the group companies to which they were appointed as voluntary administrators pursuant to [s 439A](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/s439a.html) of the [Corporations Act 2001](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) (Cth). Concurrent meetings were held on 31 May 2011. On that day, the creditors resolved that each of the relevant companies execute the deeds of company arrangement and the creditors' trust deed. The deed of company arrangement applies to each company as a separate deed and was executed pursuant to <case> of the [Corporations Act](http://www.austlii.edu.au/au/legis/cth/consolact/ca2001172/) on 10 June 2011. The trust deed was executed at the same time. The substance of the arrangement contemplated by the deed of company arrangement and the trust deed was a pooling arrangement. According to the deed of company arrangement, each company the subject of the deed is to be collectively treated as a single entity, the Claims (as defined) of Participating Creditors are to be pooled and treated as if they were claims against the single entity. The directors of the companies were to pay a settlement sum of $10 and an initial payment of $700,000 by 4 July 2011. These sums would form the initial trust fund. Two further payments of $250,000 were to be made. Upon the making of the initial payments the claims of Participating Creditors against the companies would be released. The Trust Deed provided for those claims to be novated and assumed by "the Creditors trust" (sic). Participating Creditors would be entitled to prove their claims to be satisfied out of the trust fund after payment of specified preferred debts including the remuneration and expenses of the deed administrators and trustees. Participating Creditors were to accept their right to prove under the trust deed in full satisfaction of their claims against the companies.
+The Deputy Commissioner of Taxation had approved a GST Group represented by Johnson Property Group Pty Limited effective from the beginning of the tax period commencing 1 January 2010. Section 48-40(1) of the GST Act provides: "48-40 Who is liable for GST 
+GST that is payable on any *taxable supply an entity makes and that is attributable to a tax period during which the entity is a *member of a *GST group: is payable by the *representative member; and is not payable by the entity that made it (unless the entity is the representative member).
+
+Note: However, each member may be jointly and severally liable to pay the GST that is payable by the representative member (see section 444-90 in Schedule 1 to the [Taxation Administration Act ](http://www.austlii.edu.au/au/legis/cth/consolact/taa1953269/))."
+Section 53(1) of the [A New Tax System (Goods and Services Tax Administration) Act 1999](http://www.austlii.edu.au/au/legis/cth/consolact/antsastaa1999554/) (Cth) provides: "53 Liability of members of GST groups 
+The members of a GST group are jointly and severally liable to pay any amount that is payable under the GST law by the representative member of the group."
+Section 444-90(1) of the [Taxation Administration Act 1953](http://www.austlii.edu.au/au/legis/cth/consolact/taa1953269/) is to the same effect. It provides: "444-90 GST groups 
+Joint and several liability 
+The *members of a *GST group are jointly and severally liable to pay any amount (an indirect tax amount) that is payable under an *indirect tax law by the *representative member for the group."
+The GST Act is an indirect tax law within the meaning of section 444-90(1). It is common ground that each of the 13 companies was jointly and severally liable to pay the group GST liability. 
+The question on which the plaintiffs seek advice is as follows: "Whether the plaintiffs would be justified in treating the multiple proofs lodged by the ATO with the plaintiffs for the purposes of a distribution under the Trust Deed for group unpaid goods and services tax as being a single liability of the Trust [sic] and in paying the multiple claims for group unpaid goods and services tax lodged by the ATO as being one debt only payable to the ATO."
+I start with the deed of company arrangement. I am satisfied that regard can be had to the terms of that document. Whether or not the trust deed is ambiguous, the trust deed itself refers to the deed of company arrangement in ways that make it necessary to have regard to that instrument.
+The deed of company arrangement relevantly provides: "Claim means a debt payable by, or a claim against, any of the
+Companies (whether at law or in equity, present or future, certain or contingent, ascertained or sounding only in damages and whether in contract, or in tort or arising pursuant to the provisions of a statute or however arising) being a debt or claim the circumstances giving rise to which occurred on or before the Appointment Date, that would be admissible to proof against any of the Companies in accordance with Division 6 of Part 5.6 of the Act if that Company [had] been wound up, but excluding any North Cooranbong Claims.
+For the avoidance of doubt a Claim shall not include any debt payable by, or a claim against, a Liquidated Company.
+
+Creditor means any person with a Claim.
+
+Participating Creditor means a Creditor not being an Excluded Creditor, a Continuing Employee or a Secured Creditor.
+ .7 Pooling Arrangement and Creditors' Trust 
+This Deed contemplates a pooling arrangement and the entry into the
+Creditors' Trust whereby: each Company executing this Deed will collectively be treated as a single entity; the Claims of Participating Creditors will be pooled and treated as if they were Claims against the single entity; upon establishment of the Creditors' Trust under clause 7.1, all Claims of Participating Creditors will be transferred to the Creditors' Trust and the
+Companies will be released from such Claims; upon establishment of the Creditors' Trust under clause 7.1, the Deed
+Administrators will be entitled to terminate the Deed in accordance with clause 10.1; and the property available to pay the Claims of Participating Creditors will be the Available Property which shall be paid to the Trustees of the
+Creditors' Trust and form part of the Trust Fund from which the Participating
+Creditors will be entitled to receive a rateable distribution in accordance with the Creditors' Trust Deed.
+ ...
+ .1 Creditors' Trust 
+On or before 4 July 2011: the Director and/or the Companies must pay, cause to be paid or procure to be paid to the Deed Administrators the following amounts: the Settlement Sum; and an initial payment of part of the Available Property in the sum of $700,000.00; and the Deed Administrators and the Companies (not being a Company which has by the terms of this Deed become a Liquidated Company) must thereafter enter into the Creditors' Trust Deed.
+ .2 Trust Fund 
+On receipt in full of all monies due under clause 7.1(a), the Deed
+Administrators must transfer the full balance of those funds to the Trustees.
+
+The assets of the Trust Fund shall comprise the Available Property.
+
+The Trustees will hold and administer the Trust Fund constituted in accordance with the terms of the Creditors' Trust Deed.
+
+Subject to the provisions of this Deed the property that is available to pay the Admitted Claims of Participating Creditors are the assets of the Trust
+Fund.
+ .3 Payment of the Balance of Available Property into the Trust Fund 
+The balance of the Available Property shall be paid by the Companies and/or
+Director to the Trustees to form part of the Trust Fund as follows: the amount of $250,000.00 shall be paid to the Trustees on or before 31
+July 2011; and the amount of $250,000.00 shall be paid to the Trustees on or before 31
+August 2011.
+ .4 Claims 
+Immediately upon clause 7.1 being satisfied in full the following events shall occur in the following order: all Claims of Participating Creditors will be novated to and assumed by the Creditors' Trust; [sic] the Companies will be released from all Claims of Participating
+Creditors; all Claims of Participating Creditors against the Companies will be extinguished; the Deed Administrators will be entitled to terminate this Deed in respect to each Company in accordance with clause 10.1; and 
+Participating Creditors must accept their right to prove under the Trust
+Deed in full satisfaction and complete discharge of all Claims which they have or claim to have against the Companies and each of them will, if called upon to do so, execute and deliver to the Companies such forms of release of any such Claim as the Deed Administrators or Trustees may require.
+ ...
+ .1 Termination 
+Subject to clause 3.2 and this clause 10, the Deed Administrators will be entitled to terminate this Deed in relation to the Companies at any time after the provisions of clause 7.1 have been fully complied with."
+The trust deed includes the following provisions: "B. Under the DOCA, the Companies agreed to establish this Trust to deal with the Claims of Participating Creditors in accordance with the terms of this
+Deed and the Participating Creditors have agreed to pursue all of their Claims solely under this Deed.
+
+C. The Settlor wishes to establish this trust to be known as the 'Johnson
+Property Group Creditors' Trust' for the benefit of the Participating
+Creditors, who shall be the beneficiaries of the Trust.
+ ...
+
+Claim means a debt which prior to the operation of the DOCA would have been payable by, or a claim which prior to the operation of the DOCA would have been against, any of the Companies (whether at law or in equity, present or future, certain or contingent, ascertained or sounding only in damages and whether in contract, or in tort or arising pursuant to the provisions of a statute or however arising) being a debt or claim the circumstances giving rise to which occurred on or before the Appointment Date that would have been admissible to proof against any of the Companies in accordance with Division 6 of Part 5.6 of the Act if that Company had been wound up, but excludes any North Cooranbong Claims; ...
+
+Participating Creditors means all Creditors not being an Excluded Creditor, a Continuing Employee or a Secured Creditor; ...
+ .3 Duties of the Trustee 
+The Trustees must: ...
+ fulfil the Trustees' obligations under this Deed and the DOCA; and distribute the proceeds of the Trust Fund in accordance with clause 7 of this Deed.
+ ...
+ . Beneficiaries of the Trust 
+The Trustees shall receive and hold the Trust Fund on behalf of the Trustees, the Participating Creditors in respect of their Claims and in respect of the payments at clause 7.1(c) only, the Liquidated Companies.
+ ...
+ .1 Making Claims 
+Unless expressly stated to the contrary or modified by this Deed,
+Subdivisions A, B, C and E of Division 6 of Part 5.6 of the Act apply to
+Claims made under this Deed as if the references to the liquidator were references to the Trustees.
+ .2 Proof of Claims 
+Unless expressly stated to the contrary or modified by this Deed, Regulations .6.39 to 5.6.72 (inclusive) of the Regulations apply to Claims made under this Deed as if the references to the liquidator were references to the
+Trustees.
+ .3 Determination of Entitlements 
+The Trustees may, in their absolute discretion: admit all or part of any Claim of a Participating Creditor; and pay any Admitted Claim, in accordance with the provisions of this Deed.
+ ...
+ .8 Call for Proofs 
+Subject to clause 6.9, the Trustees shall call for formal proofs of debt or claim and adjudicate and determine Claims for the purposes of distributions to be made under this Deed.
+ ...
+ .1 Distribution of the Trust Fund 
+Subject to clause 7.2, the Trust Fund shall be distributed by the Trustees in accordance with the following order of priorities: ...
+ finally, rateably to Participating Creditors in respect of their Admitted
+Claims.
+ ...
+ .3 Claims of a Class to rank equally 
+The Claims of any class referred to in clause 7.1 will rank equally between themselves, and must be paid in full, unless the Trust Fund is insufficient to meet them, in which case they must be paid proportionately.
+
+Trustee's discretions and powers 
+Except where there is an express contrary provision in this Deed, every discretion given to the Trustee is absolute and uncontrolled and every power given to them is exercisable in their absolute and uncontrolled discretion." "Creditors" is not defined in the Trust Deed. Pursuant to clause 1.1 of the Trust Deed, it has the same meaning as in the Deed of Company Arrangement. 
+The plaintiffs sought advice from senior counsel (not counsel who has appeared for the plaintiffs today). In substance, counsel advised that an available and preferable construction of the trust deed and deed of company arrangement, as to the effect of the pooling arrangements was, that the Australian Taxation Office could only make one claim in respect of the group liability for goods and services tax. Counsel advised: "The pooling means that Claims of the same character are 'pooled' or merged into one liability directed against one debtor. In the context of the Deed this makes sense. The Companies have been released from Claims which would be admissible to prove in a winding up against each of them, they have been merged into a single entity and thus their liabilities have also merged, where possible, into a sole liability. This only has effect on claims such as that of the Commissioner who prior to the execution of the DOCA and the Deed has one joint and several liability enforceable against 13 entities, but now only has liability against one. Thus only one Claim exists and should be admitted.
+Such a Claim satisfies the definition of a Claim under the Deed in that the liability existed and could be admitted to proof against any of the Companies in a winding up. This construction gives clause 2.7(b) work to do, that is, pooling or merging claims which were against more than one company, but were founded in the same liability. The reference to 'prior to the... DOCA' in the definition of Claim in the Deed is a reference to the timing of the existence of the relevant debt or claim, rather than its form. The intent of the parties, that is to admit proofs of liabilities against the Group treated as a whole, is achieved with this construction."
+Counsel advised that such a construction was consistent with the principle of insolvency law against double proofs. He advised that such a construction avoided the use of redundant language. He also advised that: "... the function of the representative entity for GST purposes is to channel the GST credits and debits for the Group into one liability, regardless of which entity actually incurred the debt. If each entity maintained its own debt with the ATO the amount of liability would be apportioned between the companies, but would add up to the total amount of the outstanding liability to the Commissioner. Further, as a result of the DOCA and the Trust Deed, no allocation of the GST debt can be made as between the individual companies and no contribution can be sought by one company from another following the execution of the DOCA and the Trust Deed. It is arguable that one proof of debt is sufficient in that it acts as a joint recovery of the liability from all parties simultaneously."
+The Deputy Commissioner appeared by counsel on this application. Counsel for the plaintiffs properly advanced submissions that would advance the position of other creditors. The effect on other creditors of this issue is as follows: The plaintiffs estimate that if the Deputy Commissioner can prove only once for the relevant amount of goods and services tax the return to creditors under the Trust Deed will be approximately .047 cents in the dollar, whereas if the Deputy Commissioner is entitled to claim for GST in respect of each of the companies then the creditors would receive approximately .014 cents in the dollar. 
+Counsel for the plaintiffs advanced as a submission the substance of the advice to which I have referred. Counsel also placed reliance on clause 2.7(a) of the deed of company arrangement which provides that each company executing the deed is collectively to be treated as a single entity. Counsel submitted that the treatment of the companies as a single entity means that the claims for the same liability against each of them should be regarded as a single claim. There could only be a single claim in respect of the particular liability against a single entity.
+Part of the advice given by senior counsel to the trustees was also based upon the use of the word "pooled" in clause 2.7(b). It had been suggested that that expression would be redundant if each of the claims that were available against the companies prior to the Deed of Company Arrangement retained their separate character. This of course is not the case. Whether the Deputy Commissioner can maintain several claims because there were several claims available against the companies, or whether all but one of those claims has been extinguished, or the claims have merged, there will still be a pooling under the deed of company arrangement and the trust deed. The question is how many claims are pooled. There is a pooling of claims whatever construction is adopted. Thus, claims by creditors against any one company are to be considered along with claims of other creditors against another company, and are to be treated equally, in so far as they are valid, in the distribution of the trust fund.
+Whilst I accept that clause 2.7 of the deed of company arrangement can be used to assist the construction of the trust deed, I do not consider that clause 2.7 has the effect contended for.
+The trust fund is to be held for the Participating Creditors in respect of their "Claims". It is the definition of "Claims" that is critical.
+Claim is defined to mean a debt which, prior to the operation of the deed of company arrangement, would have been payable against any of the companies, and would have been admissible to proof against any of the companies if the company had been wound up.
+Had the companies been wound up, the ATO could have lodged a proof in respect of the same GST liability in the liquidation of all 13 companies. There could be no recovery that exceeded the amount of the liability. But in this case, there is no question of the full amount of the debt being recovered, even through the lodgement of multiple proofs. Because the liability of the companies was several as well as joint, there were several debts payable by each of them to the Commissioner and, hence, several Claims as defined. 
+The strongest argument for treating the ATO as being entitled to prove only once in respect of the liability is that based on clause 2.7(a), that if each company is to be collectively treated as a single entity, there can be only one claim in respect of the liability. However, clause 2.7(a) has to be read with clause 2.7(b), which requires all Claims to be pooled, and then to be treated as if they were claims against a single entity. 
+In the case of claims against 13 companies there are 13 claims to be treated as if they were claims against the notional single entity. 
+This, I think, is also clear from clause 7.4 of the deed of company arrangement. Clause 7.4(a) provides that all claims of Participating Creditors are novated to and assumed by the creditors' trust. Here the draftsman makes the all too common error of treating a trust as if it were a legal entity that could owe a debt. That clause could only mean that the claims of Participating Creditors are novated to and assumed by the trustees of the creditors' trust. What is relevant is that it is all claims that are thus novated by the trustees.
+By paragraph 7.4(b) the companies are released from all such Claims, and by paragraph 7.4(e) Participating Creditors are required to accept in discharge of all of their claims their right to prove under the Trust Deed.
+I agree with the submission of counsel for the Deputy Commissioner that it would be odd as a matter of construction of clause 7.4 if all 13 claims in respect of the group GST liability were released, but the Deputy Commissioner was entitled to prove only in respect of one of them. I do not think there is anything in the trust deed or the deed of company arrangement that warrants a construction that a Claim as defined is extinguished, or somehow merged in another Claim.
+I accept that the creditors' trust deed can be construed having regard to principles concerning double recovery in the administration of insolvent companies. However, the admission of 13 claims in respect of the several liabilities of the 13 companies is consistent with the principles that apply in respect of the admission of proofs in the administration of insolvent companies. There can of course be no recovery in excess of the liability. But if this were an administration of 13 insolvent companies, the Deputy Commissioner would be entitled to prove for the whole of the debt in the liquidation of each company. The construction which I prefer is not an unreasonable construction. It makes commercial sense and reflects the fact that Parliament has created several liabilities for members of GST groups in respect of amounts payable by the representative member of the group. The position in this respect is analogous to a case of a creditor of one of the companies in the group who had taken guarantees from the other companies. There is nothing unreasonable or commercially nonsensical in such several claims being admissible to proof against the trust fund.
+It was submitted that a different construction could be obtained from the report to creditors. I will assume that it is legitimate to have regard to the report to creditors as part of the objective matrix of facts. I think there is sufficient ambiguity in any event to warrant regard being had to the report. 
+The principal consideration from that report is that the plaintiffs' estimate of return to creditors was calculated on the basis of the ATO being entitled to prove against a trust fund in an amount of $4,057,640. This was calculated having regard to proofs of debt that had been lodged on the day of the preparation of the report. However, it could not be suggested that creditors were confined to proving for the proofs of debt that had been lodged up to the time of the creditors meeting. Nor was that suggested. 
+The report to creditors expressly stated that the estimated returns were subject to the adjudication of proofs of debt as well as recoveries. Other parts of the report stated that all unsecured creditors of the Johnson Property Group of DOCA companies would become beneficiaries of the trust and rank equally. The report said that the proposed pooled DOCA would be "only available to the creditors of the DOCA companies on a group basis." That of course says nothing as to the number of claims that could be brought.
+In any event, I do not think that the creditors' report can displace the definition of "Claim" in the trust deed (and the deed of company arrangement) and the definition of "Participating Creditors".
+Counsel for the trustees referred to the discretion that the trustees have in admitting claims, but it is accepted that in exercising their discretion, the trustees must act upon real and genuine consideration in accordance with the purpose for which the power to admit claims was conferred (Re CWK Nominees Pty Limited <case> at <case>). That purpose is to determine for whom the trust fund is held and in what amounts the participating creditors are entitled to the trust fund. Quite properly it was not submitted for the trustees that if upon the proper construction of the trust deed the Deputy Commissioner was entitled to lodge multiple proofs that the trustees could exercise a discretion against the admission of multiple proofs. For these reasons the question asked by the plaintiffs should be answered no.
+The application for judicial advice is properly brought particularly having regard to the advice of senior counsel that the plaintiffs obtained. The plaintiffs are entitled to be indemnified out of the trust fund in respect of their costs of the application. The Deputy Commissioner does not seek an order for costs. 
+Subject to any submissions counsel may have as to the appropriate form of order, the order I propose is as follows:
+Order pursuant to [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/s63.html) of the [Trustee Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ta1925122/) that the following question upon which the plaintiffs seek advice, namely: "Whether the plaintiffs would be justified in treating the multiple proofs lodged by the ATO with the plaintiffs for the purposes of a distribution under
+Trust Deed for group unpaid goods and services tax as being a single liability of the Trust, and in paying the multiple claims for group unpaid goods and services tax lodged by the ATO as being one debt only payable to the ATO" be answered "No".
+Order that the plaintiffs' costs of the proceedings be paid out of the trust estate on the indemnity basis.
+No other order as to costs.
+
+Amendments Aug 2012 "estimate" changed to "estate" 
+Paragraphs: 34(2)  ---  * * * 

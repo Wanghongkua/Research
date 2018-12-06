@@ -1,0 +1,1478 @@
+
+
+Telecom Vanuatu Ltd versus Optus Networks Pty Ltd [2008] NSWSC 1209 (27
+November 2008) 
+Last Updated: 28 November 2008 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Telecom Vanuatu Ltd versus Optus Networks Pty Ltd <case>  
+JURISDICTION: 
+Equity - Commercial List  
+FILE NUMBER(S):  of 2005  
+HEARING DATE(S):  , 12, 13, 14, 18 & 19 February 2008 & 11, 12, 13 & 14 August  
+JUDGMENT DATE:  November 2008  
+PARTIES: 
+Telecom Vanuatu Ltd (Plaintiff) 
+Optus Networks Pty Ltd (Defendant)  
+JUDGMENT OF: 
+Bergin J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+F Kunc SC/C N Bova (Plaintiff) 
+I M Jackman SC/J A C Potts (Defendant)  
+SOLICITORS: 
+Gadens Lawyers (Plaintiff) 
+Clayton Utz (Defendant)  
+CATCHWORDS:  [CONTRACT] - contracts between telecommunications companies for the provision of telecommunications services from certain countries to Vanuatu - whether subject matter of contract extended to telecommunications services in circumstances where the services were not provided from, to, or through
+Vanuatu - whether agreement reached between the parties on the amount to be paid for audiotext traffic - [CONVERSION] - use of telephone numbers without legal authority - whether intangible property can be the subject of a suit in conversion  
+LEGISLATION CITED:  [Telecommunications Act ](http://www.austlii.edu.au/au/legis/cth/numact/ta1989214/) (Vanuatu)  
+CATEGORY: 
+Principal judgment  
+CASES CITED: 
+BP Refinery (Westernport) Pty Ltd versus Shire of Hastings (1977) 180 CLR 266 
+Con-Stan Industries of Australia Pty Ltd versus Norwich Winterthur Insurance
+Ltd <case>; [(1986) 160 CLR 226] 
+Directv Inc versus Ostrowski [334 F.Supp.2d 1058 (N.D.] Ill. 2004) 
+Ferguson versus Eakin (New South Wales Court of Appeal, 27 August 1997, unreported) 
+Gilsan versus Optus <case> 
+Hoath versus Connect Internet Services Pty Ltd <case>; <case>; <case>; <case> 
+Thyroff versus Nationwide Mutual Insurance Company [832 N.Y.S.2d 873] (2007)  
+TEXTS CITED:  
+DECISION: 
+Plaintiff's claims dismissed.  
+JUDGMENT:  - 1 - 
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION 
+COMMERCIAL LIST  
+BERGIN J  NOVEMBER 2008  /05 TELECOM VANUATU LIMITED V OPTUS NETWORKS PTY LIMITED 
+JUDGMENT In proceedings that were litigated in Vanuatu between Optus Networks Pty
+Limited (Optus) and Gilsan (International) Limited (Gilsan) (the Vanuatu proceedings) the plaintiff, Telecom Vanuatu Limited (TVL), became aware of what it claims were unauthorised uses of its telephone number ranges (referred to as "rogue traffic") in respect of which it claims the defendant, Optus, is liable to pay it and has failed to do so. TVL's telephone number ranges were used for the delivery of audiotext traffic of an "adult" nature. Optus accepted that it is liable to pay TVL for the use of its number ranges however it claimed that it has already paid TVL all amounts to which it is entitled.  The matter was heard on 11,12, 13, 14, 18 and 19 February 2008 and 11, 12, and 14 August 2008. Mr F Kunc SC leading Mr CN Bova, of counsel, appeared for TVL and Mr IM Jackman SC leading Mr JAC Potts, of counsel, appeared for
+Optus.  
+Background  There were a number of similar issues dealt with in litigation in this Court in 2004 (Gilsan versus Optus  <case> (the Gilsan proceedings). The following passage from McDougall J's judgment in relation to the international telecommunications industry practice is applicable to the arrangements between the parties to the present proceedings: When an international telephone call is made, a number of telecommunications carriers are involved. The caller makes the call through his or her "local carrier". The call is routed from the local carrier to the switch of an "originating carrier". Where the originating carrier has a direct link to the "terminating carrier" (the carrier in the country of destination), it routes the call direct to the switch of the terminating carrier. Where there is no direct link, the originating carrier routes the call to the switch of a "transit carrier", who has either a direct link to the terminating carrier or a direct link to another transit carrier that in turn has a direct link to the terminating carrier.
+ The caller pays a charge known as the "collection rate" of a specific amount per minute to his or her local carrier. (I think that, in some cases, the local carrier may also be the originating carrier, but if this is so, nothing turns on it.) The local carrier and the originating carrier agree to divide the collection rate between them.
+ The originating carrier and the terminating carrier agree on what is known as an "accounting rate" or "total accounting rate" ("TAR") (which is a notional amount) between them. That, like the collection rate, is a specified amount per minute. Where there is a direct connection between the originating carrier and the terminating carrier, they agree what share each of them will take from the TAR. The originating carrier's share is the "origination charge". The terminating carrier's share is the "termination charge".
+ Where there is no direct connection between the originating and terminating carriers, so that a transit carrier is involved (for present purposes, situations involving more than one transit carrier may be disregarded), the three carriers enter into an agreement ("tripartite agreement") for division of the TAR between them. Under that agreement, the transit carrier's share (known as the "transit charge") is agreed. In principle, the balance remaining of the TAR is divided equally between the originating and terminating carriers. (Origination, transit and termination charges are expressed as rates per minute in the applicable currency) ...
+ It has been common practice for originating and transit carriers to enter into "confidential agreements" in relation to the transit charge.
+Notwithstanding the label, knowledge of the existence and at least the general terms of those agreements appears to be widespread in the industry, although no doubt the precise terms may in fact be confidential. The effect of a confidential agreement is that the originating and transit carriers agree that, in consideration for the originating carrier giving the business to the transit carrier (usually, there is more than one available transit carrier, so the market is competitive), the transit carrier will agree to take, as its transit charge, an amount that is less than the transit charge agreed under the tripartite agreement between the originating, transit and terminating carriers. Of necessity, since the terminating carrier is not a party to the confidential agreement, the monetary amount of its share of the TAR is not affected by the confidential agreement.
+ Accounts between originating, transit and terminating carriers are frequently settled under a system known as "cascade accounting". Under that system, the originating carrier measures the number of minutes that it sends through the transit carrier to the terminating carrier in any given month. It quantifies the value of those minutes using the agreed TAR. It deducts from the amount so quantified the amount of its originating charge and, where a confidential agreement is in place, the amount of difference between the transit charged fixed under the tripartite agreement and the transit charge fixed under the confidential agreement. It pays to the transit carrier an amount equal to the balance thereby calculated of the TAR. That is known as an "outpayment" from the originating carrier and as an "inpayment" to the transit carrier. The transit carrier retains its share of the inpayment to it and pays the balance to the terminating carrier. Again, that payment is known as an "outpayment" or "inpayment", depending upon the perspective from which it is considered.
+ TARs are expressed in US dollars ("USD") where the originating carrier is an American telecommunications carrier and in "Special Drawing
+Rights" ("SDR") where the originating carrier is a European telecommunications carrier. SDRs reflect the value of a basket of five European currencies.
+Usually, where the TAR is expressed in USD, settlement between originating, transit and terminating carriers will be in USD; and likewise, for TARs expressed in SDR, settlement will be in SDR.
+ The TAR is expressed as a rate per minute and divisions of the TAR are likewise a rate per minute. That should be understood in all future references to a TAR or a division of a TAR. Further, as I have said, the TAR is a notional charge. It is notional in the sense that, although it forms the basis of the accounting between originating and terminating (and, where applicable, transit) carriers, it does not reflect a charge actually imposed by and paid to the originating carrier. The originating carrier makes outpayments on the basis of the TAR; but it recoups itself, and takes its profit, from payments made to it on other bases.
+
+Audiotext  The "audiotext" traffic the subject of these proceedings consisted of calls made by consumers to telephone information services, being typically a "live" call centre or recorded voice service. These audiotext services were charged for on a per minute basis and were generated by audiotext service providers, referred to at times in the evidence as "ISPs". There were two groups of such service providers relevant to the present proceedings. The first, associated with Hugh Chambers, was Interwest Communications International Limited , and its associated entities, Global Internet Billing UK (Limited) and Interbill International Limited (Interbill) (collectively the
+Interwest Group). The second, associated with Michael Charlesworth, was MDC
+Limited (MDC), Mediatel Services Pty Limited (Mediatel) and Sound
+Advertising Limited (Sound Advertising) (collectively the MDC Group).  The sub-contractor "clients" of the Interwest Group and the MDC Group generated audiotext services and provided live or recorded services. They advertised telephone numbers on which such services were provided, and the consumer accessed those services by dialling the number provided in the advertisement. The steps by which an audiotext call was delivered were described in affidavit evidence by an expert witness for TVL, William Gray as follows (affd 1 May 2007, par [55]):  
+Audiotext service providers required international numbers in order to route the calls from the originating country to the destination in which the calls terminated in call centres.
+
+This required use of a country's telephone numbers.
+
+The transit carrier routing the calls had to divert the call to the country in which the call centre was located.
+
+Usually the call centre, or physical termination point of the audiotext call, was not in the country whose telephone numbers were being used. This process by which the transit carrier diverted the calls was known as "short-stopping".
+
+For example if a caller in Greece called an advertised audiotext number +64 4 444 4444, which is a New Zealand number, the exchange in Greece or the transit carrier exchange would be programmed to route this particular number range to an Ecuadorian call centre number.
+
+The carrier's switch in Greece or the transit carrier switch would divert the NZ number to an Ecuador number. The Ecuador number would be provided to the Greek carrier or the transit carrier by the audiotext service provider.
+
+The call would be charged to the customer as a call to New Zealand and settled by the Greek carrier with the transit carrier. The transit carrier would then pay the audiotext service provider the terminal share and the audiotext service provider would pay New Zealand a reduced amount as agreed in the audiotext agreement.
+
+Short stopping  The expression "short-stopping" (referred to by Mr Gray in the evidence extracted above) means that a call is terminated before it reaches the network of the country whose number range has been used to make the call. A diversion occurs at the transit carrier's network, where the transit carrier diverts the calls to wherever the audiotext provider has told the carrier to divert the call. It is common ground that all the audiotext traffic in this case was short-stopped. The traffic was diverted to the audiotext provider's equipment located in the Optus Rosebery facility, or in the case of MDC traffic, to an
+MDC facility in Surry Hills.
+ The reason the audiotext was short-stopped was because TVL was concerned about the Vanuatu Government's attitude towards audiotext, and in particular, "adult" audiotext.  
+Longlining  In "longlining", the call may reach the network of the country whose number is being utilised but it is diverted from that network to a destination that may be in another country.  
+Allocation of number ranges  The allocation of Vanuatu number ranges was at the relevant time under TVL's exclusive control. Applications ranged from individuals seeking the allocation of a single number to businesses seeking the allocation of numerous numbers.
+Audiotext providers would approach small island countries for the allocation of numbers because of their high TAR that would give them a higher margin after payment of the various carriers. The audiotext providers' applications would usually be to "lease" the numbers.  
+TVL  TVL was incorporated in the Republic of Vanuatu on 2 November 1992 to undertake the operation of both domestic and international telecommunication services in Vanuatu. On 20 November 1992 TVL was granted a licence to operate a telecommunications system in Vanuatu pursuant to a Franchise Agreement between it and the Government of the Republic of Vanuatu (the Franchise
+Agreement). Prior to that time national telecommunication services in Vanuatu had been provided by National Telecommunications of Vanuatu Limited and international telecommunications services to and from Vanuatu had been provided by a company known as Vanitel. The relevant Minister granted the licence to TVL with the prior approval of the Council of Ministers on the understanding that there would only be one telecommunications system in operation in Vanuatu to provide public national and international telecommunication services: [s ](http://www.austlii.edu.au/au/legis/cth/numact/ta1989214/s16.html) [Telecommunications Act ](http://www.austlii.edu.au/au/legis/cth/numact/ta1989214/) (Vanuatu) (the TAV Act). The TAV Act included the following definitions: "Public International Telecommunication Service" means international telecommunication services, other than a broadcasting service or a broadcasting satellite service for use by the general public and may include telephone, telegrams, telex, data, facsimile and any other telecommunication service established internationally which is available publicly; and also includes dedicated leased point-to-point services provided over the international net work for the exclusive use of lessees; "Public National Telecommunication Service" means national telecommunication services, other than a broadcasting service or a broadcasting satellite service, for use by the general public and may include telephone, telegrams, telex, data facsimile or any other telecommunication service established nationally which is available publicly, and also includes dedicated leased point-to-point services provided over the national network for the exclusive use of lessees but does not include any international telecommunications which are reserved to Vanitel pursuant to the Vanitel
+Franchise.
+ The Franchise Agreement included the following definitions:  "Public Telecommunication Service" means a telecommunication service, whether national or international, which is available to members of the public and by which voice, music, visual images, other sounds, any matters (not otherwise audible or visible) or machine control commands can be sent or received by any member of the public to or from some other person either within Vanuatu or outside Vanuatu ...
+ "Public Telecommunication System" means a Telecommunication System used for the purposes of providing Public Telecommunication Services.
+ Recital E to the Franchise Agreement provided that the Minister "has agreed to grant to the Company [TVL] a licence to operate the Public National
+Telecommunication Services and the Public International Telecommunication
+Services, together with ancillary powers for the period and upon the terms and conditions set out herein". Clause 2.1 of the Franchise Agreement provided: 
+Subject to the terms and conditions of this Licence, the Minister hereby grants to the Company the sole rights for the term specified in Condition 13.3 and 13.4 to provide, operate and develop, and the Company shall provide, operate and develop, the Public Telecommunication System of Vanuatu and further to be the exclusive provider of Public Telecommunication Services in
+Vanuatu or to or through the Republic and further to exclusively provide, operate and develop such additional telecommunication services within the
+Republic which the Company may with the approval of the Authority from time to time consider necessary or desirable or which the Company agrees to provide at the request of the Authority. The Company shall provide the Authorised
+Telecommunication Services with such Telecommunication Apparatus which it shall, in its sole discretion, determine and provide.
+ Clause 3.1 of the Franchise Agreement provided: 
+Pursuant to this Licence and subject to the rights and obligations to the
+Company provided in Condition 2.1, the Company is authorized to: ...
+ enter into agreements with other telecommunication organisations or any other organisations; and undertake all commercial, industrial and financial operations, including the acquisition of property, relating to the activities the subject of this Licence.
+ Clause 4.8 of the Franchise Agreement provided that TVL "shall provide
+Public International Telecommunication Services to a Public Telecommunication
+Service customer to and from destinations which the Company is by international agreement permitted to provide connection". In order to carry and receive international telecommunications traffic, TVL required a country code that international carriers could recognise as indicating that a call was directed to the Republic of Vanuatu and program their switches accordingly.
+
+International Telecommunications Union  The Republic of Vanuatu was allocated the country code (+678) by the
+International Telecommunications Union (ITU), a specialised agency of the
+United Nations dealing with all matters relating to telecommunication and radio-communication. Although the ITU is an intergovernmental organisation with signatories to its [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/) known as "member states", private telecommunications entities can participate in the activities of the ITU as "sector members". Australia and Vanuatu are member states of the ITU. The plaintiff and the defendant are sector members each being a "Recognized Operating Agency". There are three sectors of the
+ITU, one of which is ITU-T (formerly known as CCITT), the sector responsible for telecommunications standardisation.
+ The ITU provides a regulatory framework for the carriage of international telecommunications traffic. There is an hierarchy of instruments governing the
+ITU. At the top is the ITU [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/).
+The second level is the ITU Convention. Both the [Constitution](http://www.austlii.edu.au/au/legis/cth/consolact/coaca430/) and the Convention are treaties which are ratified by member states and are binding on them. Next is the Administrative Regulations one set of which is relevantly the International Telecommunication Regulations (ITR). These regulations also have treaty status and are binding on member states. At the lowest level are the Recommendations developed by the three sectors. Article .6 of the ITR provides: 
+In implementing the principles of these Regulations administrations should comply with, to the greatest extent practicable, the relevant CCITT
+Recommendations, including any Instructions forming part of or derived from these Recommendations.
+ Each sector comprises several Study Groups, set up by the sector's
+Assembly, where experts from member states participate to study, discuss and adopt various Recommendations. Study Group 3 (SG3) of the ITU-T is assigned the task of developing the D-Series Recommendations, covering tariff and accounting principles for international telecommunications services. The ITU-T
+Recommendations provide a default position in the absence of specific agreements.  
+Accounting and remuneration  There are three stages in the process of remuneration between carriers: (1) agreement on the accounting rate and its divisions; (2) the periodic (normally monthly) settlement of traffic volume; and (3) the payment of the balance due, following settlement. Appendix 1 to the ITR, entitled "General Provisions
+Concerning Accounting", includes the following: .1 Unless otherwise agreed, the administrations responsible for collecting the charges shall establish a monthly account showing all the amounts due and send it to the administrations concerned.
+ The originating carrier is required to establish an account showing the amount of traffic it sends to the terminating carrier. These accounts are sent by the originating carrier to the terminating carrier each month and are called "declarations" of traffic sent. Under clause 2.3 of Appendix 1, the originating carrier is to be regarded as bound by traffic declarations it sends to a transit or terminating carrier, subject only to amendments made as a result of objections raised by the transit or terminating carrier.
+Settlements are generally made on the declaration by the originating carrier of minutes sent, rather than measurement by a transit or terminating carrier of minutes received. Clause 2.4 of Appendix 1 gives a carrier a period to question declarations, and reconcile discrepancies, and unless otherwise agreed, this period is two calendar months after receipt of a declaration.
+Once the period for questioning declarations has expired the traffic declaration is regarded as final and binding.  In practice traffic flows in both directions, and each carrier will issue monthly declarations to the other. Under clause 2.5 of the Appendix 1 of the
+ITR, a statement showing the balances of all the monthly accounts is prepared each quarter by the "creditor administration" and sent to the "debtor administration". The net balance is the sum of money due from and payable by the carrier who sent more of the traffic (the debtor administration) to the carrier who sent less of the traffic (the creditor administration). The creditor administration selects the currency of payment. The balance must be paid as promptly as possible, but no later than two months after the dates of the settlement statements. There is an entitlement (rarely if ever exercised) to charge interest at up to 6% per annum after this time.
+ A "switched transit relation" is defined by the ITU in Recommendation D 155 as follows: .3.1 A switched transit relation is a relation between two terminal
+Administrations in which the traffic is routed by switching through one or more international transit exchanges in one or more countries other than the country of origin and the country of destination Such relationships rely upon the division of the TAR between the originating, transit and terminating carriers. The TAR system was based on ITU
+Recommendation D 140 "Accounting Rate Principles for International Telephone
+Services" that the TAR should reflect the costs of operating the network.
+ In the case of a direct transit, remuneration is normally made on a monthly flat-rate basis, without the need to account for the volume of traffic passing through the transit facilities. In the case of a switched transit, the traffic is subject to accounting rate arrangements. The two carriers, A and B, agree on the TAR per minute to be applied between the two countries. Then the division of the TAR is agreed between carriers A, B and C. From around the mid s, competition among the international carriers became stronger and it became common practice for carriers to publicise their switched transit rate per minute, independent of the origins and destinations of traffic, rather than to negotiate a share or division of the accounting rate with the terminal carriers. The three carriers still entered into written agreements to finalise the financial arrangements, including the share per minute of the transit carrier, whether their transit rate was published or not.  Carriers involved in transit arrangements account to each other for the traffic flowing under a transit arrangement either by way of direct accounting or as referred to by McDougall J in the Gilsan proceedings <case> at <case>, cascade accounting. With cascade accounting, A, the originating carrier, issues a single declaration to C, the transit carrier, and then C issues its own traffic declarations to B, the terminating carrier. In direct accounting the originating carrier pays both the transit carrier, C, and the terminating carrier, B, directly. Irrespective of whether traffic is direct or transit, and in the case of transit, irrespective of whether it is cascade accounted or direct accounted, the settlements and payments process is the same as for bilateral traffic.
+ The telecommunications industry created the SDR as a standardised currency.
+Its value is determined by reference to a number of other currencies, thereby decreasing the effect of fluctuations in individual currencies. The TAR on a direct connection between the originating and terminating carriers was normally split 50:50 for settlement purposes. For example if the TAR was $1.00 per minute then the originating carrier and the terminating carrier would each receive $0.50 per minute. The price paid by a subscriber to their telephone service provider was known as the "collection rate" and was set by the carrier providing the service to the customer. The TAR agreed between the originating and terminating countries was normally lower than the collection rate and the margin between the two rates varied from country to country. The "settlement rate" is the amount of the TAR paid to the terminating carrier.
+ When traffic was routed via a transit carrier, the originating carrier and the terminating carrier shared the TAR with the transit carrier. The originating carrier, terminating carrier and transit carrier would ordinarily enter into a tripartite agreement prior to the commencement of the transmission of traffic. For example, for traffic from the United States to
+Vanuatu, in relation to which there is no direct link, the originating carrier (for example AT&T) and the terminating carrier (for example TVL) would enter into an agreement with a transit carrier (for example Telstra or Optus) which set out how the TAR was to be divided. Usually the transit carrier's fee (known as the transit fee) was deducted from the TAR and the remainder was split evenly between the originating carrier and the terminating carrier. For example if the TAR was $1.00 per minute and the transit fee was $0.30 then the difference of $0.70 was split 50:50 and the originating and terminating carrier received a payment rate of $0.35 each.  In cascade accounting, the originating carrier declared and paid the transit carrier the transit fee plus the payment to the terminating carrier.
+The transit carrier then deducted its transit fee and declared and paid the terminating carrier its share of the TAR. For example, if the TAR for traffic between AT&T and Vanuatu, transited by Optus, was $1.00, split $0.35 to
+AT&T, $0.30 to Optus and $0.35 to TVL, AT&T would retain its $0.35 per minute and pay $0.30 + $0.35 per minute to Optus which would retain its $0.30 per minute and pay the remaining $0.35 per minute to TVL.  
+APT and Gilsan Agreements  During the period 1996 to 2000 TVL entered into a number of agreements in relation to audiotext traffic other than those upon which it sues. Optus was also a party to those agreements.
+
+APT/Optus Agreement  On 4 April 1996, Asia Pacific Telecommunications Ltd (APT) and Optus entered the following agreement: 
+WHEREAS 
+APT wishes to offer Audiotext services to their customers and Optus wishes to provide APT with telecommunications services in support of APT business,
+Optus and APT have agreed the following arrangements: . Optus will provide APT with space in the Optus Facilities
+Maintenance Centre (FMC) for APT equipment to process international telephone traffic received by Optus for APT.
+ . International telephone traffic received by Optus for APT will be traffic that Optus has been advised by the destination carriers to route to
+APT. This traffic will be routed to the FMC unless otherwise advised by APT.
+ . In consideration of the traffic received by Optus for APT Optus will receive a transit fee of SDRs 0.175. In recognition of the transit fee
+Optus agrees to pay APT 75% of APT's share of the revenue 30 days after the end of each monthly traffic period based upon Optus traffic measurements with the balance being due 90 days after the end of the traffic month. The destination country will be paid its share within 30 days of settlement by the originating carrier. Any subsequent adjustment due to underpayment, under collection or other withholding by the originating carrier shall be made from payments to APT when details are known. These arrangements shall be valid for one year from commencement of traffic and subject to review within 90 days from the end of the year.
+
+APT/TVL Agreement  On 1 August 1996 APT and TVL entered into an agreement whereby TVL granted
+APT the right to establish audiotext services utilising Vanuatu number ranges in return for an agreed fee. Clause 2.4 of the APT/TVL agreement granted APT "the exclusive rights in termination of audiotext traffic" on Vanuatu number ranges on traffic originating from Italy (at US$0.08 per minute), the
+Philippines (at US$0.15 per minute) and the United States of America (at
+US$0.15 per minute). On 3 October 1996 TVL instructed Mr Bragg, of Optus, to route all traffic on the +6787xxxx number range to the APT switch. On 14 July Mr Woollard of TVL wrote to Ms Papachatgis of Optus, with a copy to APT, as follows: 
+Subject: Disclosure to APT 
+Velvet, 
+Please accept this instruction as TVL's authority to provide Asia Pacific
+Telecommunications Limited with information on the settlement rates (or "Terminal Share" of the TAR) on those routes relevant to the operation of
+APT's audiotext business on TVL's number ranges.
+ 
+We have received APT's assurance that all information on accounting rates will be treated in the strictest confidence.
+ On 20 August 1997 Mr Woollard of TVL wrote to Mr Bragg of Optus as follows: 
+Subject: Asia Pacific Telecommunications 
+John 
+Please pay Asia Pacific Telecommunications ("APT") direct for all traffic on the +678 code on the following number ranges: xxx, 72xxx, 73xxx, 74xxx, 75xxx, 76xxx, 77xxx and 78xxx 
+This does not effect the existing routine of traffic on this range, which you presently pass to TNZ for onpass to Vanuatu, nor does it affect the routing or settlement in respect of any other traffic on the +678 code.
+
+Gilsan/TVL Agreement  On 24 November 1998 TVL entered into a "Memorandum of Understanding" with
+Gilsan that included obligations on TVL to issue number ranges to Gilsan and to grant Gilsan exclusive access to the number ranges under their control for the purpose of offering international internet dialup services for a period of months. On 24 November 1998 Mr Woollard of TVL wrote to Mr Bragg of Optus as follows: 
+Gilsan (International) Limited 
+As of today's date, Telecom Vanuatu Limited ("TVL") have entered into an agreement with Gilsan (International) Limited for them to generate
+International Audiotext and Internet Dialup traffic using Vanuatu number ranges.
+ 
+Please accept this letter as TVL's confirmation that Gilsan (International)
+Limited are authorised to discuss and agree with yourselves the following: . The routing of the traffic to their authorised call centres; . The transit rates, inpayments and distribution of the same; and . Reporting requirements relating to their traffic.
+ 
+The initial number range that has been allocated to Gilsan (International)
+Limited is: (+678) 5xxxx 
+When reporting call statistics to Gilsan (International) Limited, please ensure that a copy is also provided directly to TVL.
+ On 15 December 1998 Mr Woollard wrote again to Mr Bragg in the following terms: 
+Gilsan (International) Limited 
+As an update to the previous fax sent to you on 24 November 1998 (ref# /DGM/1220) concerning an agreement between Telecom Vanuatu Limited ("TVL") and Gilsan (International) Limited for them to generate International
+Audiotext and Internet Dialup traffic using Vanuatu number ranges, please note that the number ranges that have been allocated to Gilsan (International)
+Limited has changed to the following: (+678) 50xxx to (+678) 58999, & (+678) 67xxx 
+Please update your records accordingly.
+ On 17 December 1998 Mr Woollard informed various entities including
+AT&T of the opening of the Vanuatu number ranges allocated to Gilsan.
+
+Gilsan/Optus Agreement   On 3 December 1998 Gilsan and Optus entered into a "Memorandum of
+Understanding" pursuant to which Optus was obliged to route international traffic generated on the number ranges allocated to Gilsan to its nominated call centre in another country. That agreement included the following: 
+Payment Formula 
+OPTUS will pay SP that share of the total accounting rate subject to reductions for OTPUS, origination and transit charges and the PTT share in
+Schedule B above.
+ 
+The commencing OPTUS fee will be SDR0.175 which will be reviewed from time to time, by agreement with both parties, to compensate for lower accounting rates on various originating countries. Where the only point of transit is with OPTUS they will deduct only the OPTUS fee of SDR0.175 deductible for such traffic.
+
+TVL's Claims  TVL relies upon three agreements to claim that Optus is liable to pay it in respect of rogue traffic between the USA and Vanuatu and Greece and Vanuatu.
+The first is the tripartite agreement between AT&T Corporation (AT&T),
+TVL and Optus (the AT&T Agreement) in respect of traffic between the USA and Vanuatu. The second is the tripartite agreement between Sprint Corporation , TVL and Optus (the Sprint Agreement) in respect of traffic between the USA and Vanuatu. The third is the tripartite agreement between Hellenic
+Telecommunications Organisation SA (Hellenic), TVL and Optus (the Hellenic
+Agreement) in respect of traffic between Greece and Vanuatu.  
+The AT&T Agreement  On 6 March 1996 Mr Keith Wilson, of TVL, wrote to Ms Galloway of AT&T as follows: 
+AT&T TRAFFIC TO VANUATU 
+You will be aware that Telecom Vanuatu Ltd (TVL) and Optus Communications are both Associated companies of Cable & Wireless Plc. In late 1995 TVL opened direct high quality digital circuits with Optus which are used for
+Australian terminal and transit traffic.
+
+Your telephone traffic to Vanuatu is currently routed via Telstra, and we would propose AT&T change this routeing so it transits via Optus.
+
+Whilst we are aware of Telstra's high published transit rate, we do not of course know what informal rate they charge you. However I am sure Optus would be prepared to offer you a low transit rate in order that your total outpayment is not increased.
+
+The Optus route is currently open for testing whenever you require, and I look forward to receiving your confirmation of this routing change as soon as possible.
+ On 18 March 1996, Mr Isaacs, of Optus, prepared an internal note for Messrs
+Lawrence and Cooke, of Optus, recording a conversation that he had with Mr
+Wilson of TVL regarding the proposed agreement with AT&T. The note included the following:  
+I have just spoken with Keith Wilson at TVL and ATT have agreed to transit via Optus. ATT will contact TVL later this week with a date for implementation.
+ On 3 April 1996 Mr Cooke of Optus wrote to Ms Galloway of AT&T with a copy to Mr Collins, also of AT&T, in the following terms: 
+We refer to Vanuatu's message of 6 March 1996 proposing that AT&T change the routing for USA traffic to Vanuatu to via Optus.
+
+Optus would be very pleased to carry this traffic to Vanuatu. We understand that the below accounting rates/divisions would apply for this traffic: 
+AT&T 1.485 SDR 
+Optus 0.35 SDR 
+Vanuatu 1.485 SDR 
+TAR 3.32 SDR Cascade accounting requested by 
+Vanuatu 
+In addition Optus' special transit fee rate applies for traffic of 0.10
+SDR - our rate for hard to get to destinations for ATT - total outpayment .585 SDR per minute. Our discounted rate to AT&T remains at 0. 08 SDR for all other streams.
+
+We look forward to your early confirmation.
+ On 20 May 1996 Anita Hui of AT&T wrote to Mr Cooke of Optus and Mr
+Wilson of TVL in the following terms: 
+Subject: Telephone Service U.S. - Vanuatu via Australia (Optus) 
+AT&T would like to utilize Optus's transit facilities for its terminal traffic to Vanuatu. The following rate/divisions of revenue could apply: 
+Rate/Minute U.S. Optus Vanuatu ---------------- ----- -------- ----------- .00 USDLR 1.79 .42 1.79 
+AT&T proposes direct accounting for its outgoing traffic.
+
+We await both administrations earliest comments/agreements.
+ On 21 May 1996 Mr Wilson responded to Ms Hui with a copy to Mr Cooke in the following terms: 
+ACCOUNTING RATE TVL - AT&T 
+I refer to your fax dated 20 May 1996 concerning the accounting rate to be used for telephone traffic between USA and Vanuatu. The accounting rate you quote is incorrect, the rate as per our records and as used by all other US carriers is a TAR of 3.32 SDR.
+
+I also believe Gordon Cooke, Optus International Transit Business Manager has been corresponding with AT&T confirming the TAR for this telephone service is 3.32 SDR.
+
+Could you please review the matter in light of the above and initiate proposal based on the 3.32 SDR rate.
+ On 25 June 1996 Mr Wilson sent the following facsimile to Mr Chin of
+AT&T with a copy to Mr Cooke at Optus: 
+TAR VANUATU / AT&T 
+Further to our recent correspondence and discussions on the above subject,
+TVL agree to use a TAR of US$4.00 for this traffic. The rate divisions for this service would thus be as follows: 
+US$ 
+AT&T 1.79 
+Optus 0.42 
+TVL 1.79 
+Total 4.00 (Cascade accounting) 
+Please confirm by return fax the date AT&T will commence transit via
+Optus. If you need any further information please contact me.
+ On 26 June 1996 Mr Cooke wrote to Mr Chin (AT&T) in the following terms: 
+Subject: TAR AT&T / VANUATU 
+Optus is in agreement with the proposed accounting arrangements between
+AT&T and Vanuatu, namely: 
+US$ 
+AT&T 1.79 
+Optus 0.42 
+TVL 1.79 
+TAR 4.00 per minute (cascade accounting) 
+As testing has been successfully completed between USA and Vanuatu via
+Optus I would greatly appreciate if the work order could be put in place before the commencement of the embargo date of 5 July 1996.
+
+Please contact me if you have any queries.
+ On 28 June 1996 Mr Chin (AT&T) wrote to Mr Wilson (TVL) and Mr Cooke with a copy to Ms Hui, Ms Galloway and Mr Collins (AT&T) in the following terms: 
+Thank you for your faxes in the past few days confirming Total Accounting
+Rate (TAR) of USD 4.00.
+ 
+In regards to switching transit traffic to go via Optus, there are some quality and connectivity issues which require clarification in order to ensure a smooth transition. These are: 
+AT&T performed some transit testing to Vanuatu via Optus and found that the Answer Seizure Ration (ASR) was much lower than via the original transit carrier.
+
+The initial possible reason for this was that Optus has a feature which will prevent double satellite hops, and that if they receive a transit call on satellite, they will not allow the call to continue on satellite. This should generally not be a problem, however if Optus only has satellite capacity into Vanuatu, then it would be preferable that this feature is turned off, so that if transit calls for Vanuatu are received via satellite, Optus will then allow these calls to continue on satellite to Vanuatu.
+
+Gordon, please confirm this will be done, and that satellite incoming calls to you will not be blocked.
+
+From further testing of transit traffic from AT&T to Vanuatu via
+Optus, I have been informed by Mr Ananda Disanayake of Optus, in a fax from him dated June 7, 1996 that he "observed that a high percentage of calls (29.6) have been failed due to digit length being in excess of the maximum number length as advised by Vanuatu Telecom." Mr Disanayake went on to say that he "further understands that six digit numbers are offered via the other carrier as an audio text service whereby arrangement between the parties concerned. These calls are routed to devices in Australia which provide the service." 
+Given the points of Mr Disanayake's fax as outlined above, AT&T is concerned that there is a high percentage of calls that would fail via
+Optus, but which would otherwise complete if sent via the other carrier.
+
+The solution would not be to have Optus allow 6 digit numbers as these may still not complete to the devices in Australia.
+
+Keith/Gordon, please provide your thoughts as to possible solutions to the above identified item.
+ 
+At any rate, given the clarification and resolution of the above 2 items, and successful testing of transit via Optus, we would agree to implement sending our transit traffic first choice via Optus.
+ 
+Keith, please sign your concurrence on the attached Transit Traffic
+Agreement and fax back to myself...
+ The attachment to Mr Chin's letter was as follows:  
+AT&T AND TELECOM VANUATU 
+TRANSIT AGREEMENT 
+For the provisioning of transit traffic between AT&T and Telecom
+Vanuatu via Optus, it is agreed that the following rate/divisions of revenue will apply: 
+RATE/MINUTE U.S. OPTUS VANUATU .00USD 1.79USD 0.42USD 1.79USD Mr Wilson signed the Transit Agreement on behalf of TVL on 28 June 1996 and
+Ms Hui signed it on behalf of AT&T on 1 July 1996.
+ Mr Disanayake's advice of 7 June 1996, referred to in Mr Chin's 28 June letter, was in the following terms: 
+Further to our telephone conversation this afternoon I have done an analysis of the transit traffic received from AT&T to Vanuatu during the period 27.5.96 to 2.6.96.
+
+It appears that all calls have arrived via your cable route, hence failing due to double satellite hop would not have occurred. However I have observed that a high percentage of calls (29.6) have been failed due to digit length being in excess of the maximum number length as advised by Vanuatu Telecom.
+These numbers are not Working numbers in Vanuatu and hence we fail them in our
+ISCs. If these calls are excluded from the calculation the ASR improves to %. I have also observed 77 repeat attempts to four B numbers two of which are fax numbers and two wrong numbers which have been routed to RVAs in
+Vanuatu. If these are also excluded the ASR improves to 57.6%.
+
+The ASR seen by us for Australia originated traffic is around 71%.
+ 
+I further understand that six digit numbers are offered via the other carrier as an Audio Text Service where by arrangement between the parties concerned these calls are routed to devices in Australia which provide the service.
+
+I hope this clarifies the low ASR experienced by you during the test period. I would like to assure you that the performance of traffic via Optus to Vanuatu will meet the Industry standards.
+ On 28 June 1996 Philip Richards, the Managing Director of TVL, wrote to Mr
+Chin (AT&T) in the following terms:  
+TELEPHONE TRAFFIC USA - VANUATU 
+Now that the accounting rate of US$4.00 has been agreed to by Telecom
+Vanuatu Limited would you please arrange for the immediate re-routing of all
+AT & T traffic from USA to Vanuatu via OPTUS (instead of Telstra).
+
+The Sprint Agreement  On 24 February 1997 Alison Rothery of Optus wrote to Emma Dymmock of Global
+One USA (Sprint), copied to Mr Wilson of TVL, in the following terms: 
+SUBJECT: Sprint (USA) - Vanuatu via Optus 
+Optus would appreciate both administrations confirmation to the accounting arrangements as outlined below; 
+SPRINT: 1.79 USD/minute 
+OPTUS 0.42 USD/minute 
+VANUATU 1.79 USD/minute 
+TAR 4.00 USD/minute 
+Cascade accounting to apply to all types of traffic effective 01/11/96.
+ 
+I look forward to your earliest response.
+ On 24 February 1997 Rory Haywen of TVL wrote to Ms Rothery of Optus, copied to Ms Dymmock of Sprint, in the following terms: 
+TELEPHONE SERVICE Sprint (USA) - VANUATU VIA OPTUS 
+Refer to your fax of today 24 February 1997.
+ 
+We confirmed our agreement to the following rate/divisions 
+Sprint (USA) 1.79 
+Optus 0.42 
+Vanuatu 1.79 
+TAR 4.00 USD/min 
+No PCS accounting 
+Cascade accounting to be applied.
+ 
+Effective date: 1st November 1996.
+ On 27 February 1997 Ms Dymmock wrote by email to Ms Rothery (Optus) in the following terms: 
+I have received confirmation from Sprint, accepting the accounting arrangements between Sprint, Optus and Telecom Vanuatu as outlined in your fax of 24th Feb '97.
+ 
+The Hellenic Agreement  On 22 June 1998 Rory Haywen (TVL) wrote to D Strathopoulos of Hellenic and
+Alex Robertson of Optus in the following terms: 
+SUBJECT: Telephone Service Greece - Vanuatu via Optus 
+Refer to your fax of 12 June 1998.
+ 
+We confirmed our agreement to the proposed TAR of 1.80 SDR/min with rate/divisions as follows: 
+Vanuatu 0.725 
+Optus 0.35 
+Greece 0.725 
+TAR 1.80 SDR/min 
+Cascade accounting 
+No accounting for PCS 
+Effective Date: 1 July 1998.
+ On 29 February 2000, Mr Haywen (TVL) received a facsimile from D
+Pavlopoulos (Hellenic) in the following terms: 
+Telephone service Greece-Vanuatu/TAR reduction 
+Audiotext traffic seems to be developing from Greece to Vanuatu, otherwise we cannot explain the sudden increase in our outbound traffic. We recognise its business value but will request to accept a reduction of the TAR to 1,750
+SDR/min, split 50/50 after reduction of transit, effective 1/1/00 on cascade accounting. This will bring our outpayment to more realistic levels for this kind of traffic.
+
+Rate division via Optus as follows: 
+Greece 0,700 
+Optus 0,350 
+Vanuatu 0,700 
+TAR 1,750 SDR/min 
+Your agreement the soonest possible will be appreciated otherwise OTE will be forced to reroute its traffic.
+ TVL and Optus did not agree to this variation, however TVL submitted that this letter is important because Hellenic acknowledges that the Hellenic
+Agreement applies to audiotext traffic and there is no suggestion that short stopped traffic is excluded from this agreement.
+
+Rogue Traffic  On 22 October 1998 John Ridgway, a lawyer with the Vanuatu law firm,
+Ridgway Blake Lawyers, wrote to the then Managing Director of TVL, Daniel
+Fermine, advising that Ridgway Blake had a client who was considering establishing an "enterprise" in Vanuatu which required 100 consecutively numbered telephone numbers. Mr Ridgway advised that the client had requested that, if possible, the numbers be distinctly separate from other Port Vila numbers. On 28 October 1998 Mr Ridgway and Mr Fermine had a telephone conversation in which Mr Ridgway informed Mr Fermine that the purpose of the reservation of the numbers was for "the provision of gambling services". Mr
+Ridgway confirmed this conversation in a letter to Mr Fermine dated 28 October and advised that the client had not made any approaches relating to the licensing or other government requirements that may be necessary before "any such gambling or other services can be provided using the allocated numbers".
+Mr Ridgway also advised that all the client was seeking was the confirmation of the reservation of 100 numbers for a minimum period of 12 months and, because TVL had requested it, the possible renewal of those reservations for a minimum further period of 12 months.
+ On 2 November 1998 Mr Fermine wrote to Mr Ridgway advising that TVL was able to reserve and allocate a range of 100 consecutive numbers at a cost for one year of VATU 45,000 (VAT included). Mr Fermine advised that TVL could not make any promises about the capability of providing any service until TVL was completely informed about the technical issues of the project. On 19 November Mr Ridgway wrote to Mr Fermine requesting that the numbers 678 678000 to 678999 be reserved and enclosed a cheque for VATU 45,000. It is clear that
+Mr Ridgway advised Mr Bragg at Optus that these numbers had been allocated to his client, GIB. However on 26 November 1998 Mr Ridgway wrote to Mr Bragg as follows: 
+We have had some bad news from Telecom Vanuatu - they have discovered some of the numbers we gave you have been allocated elsewhere previously - the numbers DEFINITELY available are 66000 to 66099 - the first year fee has been waived and will be refunded because of this error.
+ 
+Let me know if any real problems arise out of the above.
+ 
+Sorry - but there isn't much I could do about this.
+ On 8 December 1998 Mr Woollard wrote to Mr Ridgway in the following terms: 
+Thank you for your clearance today to go ahead and utilise the number range #678xx previously indicated to you.
+ 
+Your new range for your customer, subject to final technical clearance, will be the range #660xx.
+ 
+I apologise again for the confusion caused by ourselves in this matter, and am very grateful that an amicable resolution was possible.
+ It is apparent that the previous number ranges provided to Mr Ridgway were then allocated to Gilsan. This was the subject of notification to Mr Bragg by
+Mr Woollard in the letter dated 15 December 1998 referred to earlier in this judgment.
+ On 24 December 1998 Mr Woollard wrote to Mr Bragg in the following terms: 
+As has been previously advised to you, Telecom Vanuatu Limited ("TVL") have recently entered in to a new agreement re audiotext traffic with Gilsan
+International Limited, for which purposes they were allocated certain number ranges within the (+678) country code.
+
+An existing audiotext agreement has exclusivity to audiotext traffic from four (4) originations, being USA, Greece, Italy, & Turkey.
+ 
+Therefore, until further notice, TVL requests that you place a block on all calls attempting to be transited through your administration from USA,
+Greece, Italy & Turkey, on the following Vanuatu number ranges, being: (+678) 50000-58999 & (+678) 67xxx 
+Thank you for your anticipated prompt action in this matter.
+ On 7 January 1999 Gavin Whyte of Interbill wrote to Mr Bragg in terms that included the following: 
+I remember you telling me that Vanuatu short stopped in Sydney and could present us with an attractive remuneration rate. Given the volume of business that we are intending to generate with this product, I would like to know if capacity has ever presented itself as a problem to the current Vanuatu players.
+ 
+If capacity is not too much of an issue, then could I ask through your offices to obtain 500 Vanuatu numbers for internet access, to be used by our customers. We are heading far more down the corporate route than the entertainment route and I am delighted to say our European projections look promising for 1999.
+ On the same day Mr Bragg responded to Mr Whyte with a copy to Mr Woollard at TVL in the following terms: 
+Thank you for your message and while we short stop a lot of the Vanuatu traffic some comes through Hong Kong, New Zealand and Telstra depending on country of origin. While this should not present a problem with their cooperation having this in place within a week is pushing your luck somewhat.
+I am copying this message to KM Law (HKT) Peter Watt (TNZ) and Ray Collins so they are aware of what is being proposed.
+ On the same day Mr Collins (Telstra) responded to Mr Bragg advising that if a Vanuatu number range was to be allocated he would appreciate if a 1,000 number range was allocated because it was easier to switch. That email included the following: 
+Presumably Interbill is aware of the need to contract with the country code owner for the provision of the number ranges in addition to contracting with ourselves for switching etc.
+ On 8 January 1999 Mr Woollard responded to Mr Bragg's email in the following terms: 
+As indicated yesterday, TVL has a contract with Warwick re Internet Dial
+Up Audiotext that is a world exclusive for 18 months.
+ 
+I know that Warwick is only interested in certain markets, most especially the USA. He would not release exclusivity on this route whatever was said.
+ 
+However, I have already e-mailed him asking him whether he is willing to state certain markets that he would want exclusivity whilst allowing other originations through that may be of interest to your contacts.
+ 
+Knowing Warwick, it will depend on what kind of previous day he had as to whether he will play ball or not, so I will await his response.
+ The reference to "Warwick" was a reference to Peter Warwick of Gilsan, to whom Mr Woollard had written on 8 January 1999 by email in terms that included the following: 
+Peter, I have to broach a topic that I do not particularly wish to, but upon which I am at present unfairly but nevertheless significantly being held out to dry from internal political forces at too high a level for me to totally ignore! 
+I fully understand that the Memorandum of Understanding between TVL &
+Gilsan gives you exclusive access to number ranges under our control for
+Internet Dial Up for 12 months from commencement of service, after which a volume parameter becomes relevant. I also am very aware that the USA is your primary target for origination.
+ 
+Do you have an anticipated list of prime other originations that you will be aiming at? I assume that there will be many countries where you will have very little intention of using, and some where the prospects are very limited.
+I need to investigate if there are some originations that you might, through nothing than your own goodwill as we haven't got a leg to stand on, allow a different provider to give us a similar service.
+ 
+My problem is that an internal partner of C&W wishes to provide some of this service type, and TVL was mentioned as a possibility. However, they had no idea of the nature of our agreement, and are now looking for a sacrificial lamb to blame for their own ineptitude, which appears to be me! If I can offer them any sort of an olive branch, it may be very useful.
+ 
+Just some thoughts. How about a list of absolute no-go origination that are untouchable, then a second list that you would gain exclusivity on if you provided traffic first, then a list of "don't care" originations? Are you interested in all types of internet dial-up, or only "pink lines"? Are there any categories that you would allow us to deal with? 
+In short, my neck is in a noose, and I legally cannot do anything about it.
+However if there were to be just a few morcels that I could offer to my parent company, I would be most grateful.
+ 
+I will fully understand if you come back with a complete "no" - all I then ask is a very rapid delivery of the goodies to help me out of a very uncomfortable position.
+ Although Mr Bragg was aware of Mr Woollard's position in relation to exclusivity, he entered into an arrangement with GIB described by Mr Chambers as follows: 
+ICI has a contract with Optus to terminate Solomon Islands traffic and
+Vanuatu traffic for audiotext and internet. Some of the rates are amazingly high for Vanuatu and we will be receiving more money than APT/VISL and Peter
+Warwick. Example, we get USD1.40 for USA van traffic. THIS IS A SECRET DEAL
+BETWEEN ICI AND OPTUS. APT/VISL nor PW know about this.
+ On 4 March 1999 TVL received a letter from the Minister of Infrastructures and Public Utilities of Vanuatu in the following terms: 
+The Government of Vanuatu was recently in receipt of information regarding
+Dial-up Internet Access Providers on PSTN and using the international access code 678, apparently in collaboration with TELECOM VANUATU Ltd. Moreover, other information given by the international press make believe some Internet
+Networks could be used for money laundering in the South Pacific and particularly in Vanuatu.
+ 
+All this could have an (sic) very negative impact on the image of the country, mainly on tourism and finance activities which make-up the first wealth of Vanuatu.
+ 
+Consequently, as Minister in charge of Telecommunications, I ask you, on behalf of the Government, to take immediately all the steps in order that
+Telecom Vanuatu Ltd ceases to offer Dial-up Internet Services using the access code 678. All the current contracts must be cancelled without delay. I also ask you to provide me with all information, you may have, regarding the fraudulent use of Internet services.
+ On 5 March 1999 Mr Woollard wrote to Mr Bragg in the following terms: 
+Following notification from the Government of the Republic of Vanuatu per attached copy letter that Telecom Vanuatu Limited ("TVL") must immediately cease offering all Internet services utilising the international code (+678),
+TVL instructs you that the following Vanuatu number ranges previously open to use by Gilsan (International) Limited be immediately blocked for all traffic: (+678) 50000-58999 &
+ (+678) 67xxx 
+Please confirm in writing/e-mail when these numbers have been blocked.
+ 
+Thank you for your immediate action in this matter.
+ After Mr Bragg received Mr Woollard's letter he drafted a letter for Mr
+Warwick to send back to him. He sent that draft to Mr Warwick on 7 March 1999.
+It was in the following terms: 
+John 
+I expect you are in receipt of a message from Telecom Vanuatu asking you to block Gilsan Vanuatu numbers due to concerns expressed by the Government of
+Vanuatu.
+ 
+Let me assure you that none of our companies including Gilsan have ever been involved with money laundering or fraudulent use of Internet services.
+ 
+However to ensure the worries expressed by the Government of Vanuatu are addressed will you please ensure that all Gilsan Vanuatu numbers are short- stopped in Sydney and access to Vanuatu is blocked. The calls should be sent to appropriate Gilsan platforms where we will also ensure none are forwarded to Vanuatu.
+ 
+Will you please let me know of any costs involved in this exercise.
+ 
+Regards 
+PDW Mr Warwick forwarded this email to a consultant and his accountant making the following comment: 
+As you can see Mr Bragg is rather concerned about his revenue streams. So much so that he has even drafted a letter for me to send to him!! Optus blocked the Gilsan number range, the consequence of which was the commencement of the Vanuatu proceedings. On 6 March 1999 Mr Chambers of GIB emailed Mr Bragg in the following terms: 
+I am hearing a very nasty piece of scuttlebutt, can you confirm/deny asap please.
+ 
+Apparently, the Government of Vanuatu has outlawed inbound international internet access to Vanuatu.
+ 
+This has been lobbied for by ViSL (as expected) in a move to cut off Peter
+Warwick and his undesirable customer base.
+ 
+Unfortunately, if true, it would appear to cut us off too wouldn't it? 
+Your views please.
+ On 8 March 1999 Mr Bragg responded to Mr Chambers' email in terms that included the following: 
+Gosh Hugh you should never listen to scuttlebutt but yes in fact what you say is true.
+ 
+Further I believe there is no truth in thinking it will effect (sic) you. A couple of days ago I had a chat with Graham Oldreive who asked where he could get more revenue and I mentioned Interwest and when he asked volumes I told him around 50% of VISL as a guess. He was quite pleased with that and asked if there was any way you could be encouraged to start while the other problems were being sorted out.
+ 
+You will probably shoot me but I mentioned to Graham that after Paul
+Woolard had tried to stop you I understood you had been able to obtain a series of numbers in Vanuatu. He muttered about Telecom Vanuatu not getting any revenue from this arrangement and said he would phone you - obviously he has not got round to it.
+ It is clear that there were problems with "connectivity" and Mr Chambers was trying to have Mr Bragg assist him in moving things along with AT&T to fix those problems. On 26 April 1999 Mr Chambers asked Mr Bragg by email whether he thought there would be any problems if GIB complained about the
+Ridgway 100 numbers to AT&T. On 27 April 1999 Mr Bragg responded: 
+Do NOT complain until we find out what the problem is. I have asked Gavin to prepare a log so we can check where the problem lies. There is no point going off half cocked and complaining then finding out it is a problem with mapping or terminating as it was last time.
+ GIB then decided to set up a server in Optus' Facilities Maintenance Centre so that the calls from Vanuatu could be routed to that server.
+ On 5 November 1999 TVL received a notice to admit facts from Gilsan in the
+Vanuatu proceedings. That notice sought the following admissions from TVL: . That TVL had provided another client with access to the 678 xxx number range.
+ . That such number range was currently in use with the knowledge and approval of TVL.
+ . That, inter alia, numbers 678 66050, 66060, 66061, 66069, 66070, and 66099 were currently in use and used for a service of the type known as internet dialup; and . That TVL had allowed use of the numbers for the purposes of internet dialup.
+ On 17 November 1999 Mr Woollard wrote by email to Mr Bragg as follows: 
+We have been made aware that Vanuatu number range 66xxx is being extensively used for the carrying of audiotext traffic.
+ 
+This number range has never been released by Telecom Vanuatu Limited, and has never been authorised to any international administration as an open range.
+ 
+We understand that the majority of the traffic being generated on this range originates in the USA, though it is also clear that access is available from Italy & Korea. Further, internet web-sites advertising many numbers in this number range have been found within the USA, an AT&T CIC code is being used.
+ 
+As, to TVL's knowledge, all (+678) prefixed calls from AT&T in the USA are routed to C&W Optus, can you please provide answers to the following questions: . To whom is/will be settlement directed in respect of the (+678) xxx range in its entirety?; . How much has been paid to this/these recipients since the first minute of traffic passed on this range?; and . How many minutes have been measured through the C&W Optus switch since the first minute passed on number range (+678) 66xxx? 
+We would appreciate your rapid response to these questions, and would request that you provide any other information that you may have in regards to this rogue number range.
+ 
+Thank you for your assistance in this matter.
+ On 6 December 1999 Mr Bragg and Mr Woollard met in Sydney. On 7 December Mr Bragg emailed Mr Chambers as follows: 
+I had Paul Woolard from Vanuatu in here yesterday complaining that he was receiving nothing from the Vanuatu numbers being reserved by John Ridgway for someone and Optus must be handling the traffic from whoever it was. He was going to complain to John. May I suggest we take a US$0.10 per minute from the
+US traffic to ensure it continues and pay to Telecom Vanuatu? On 8 December 1999 Mr Chambers wrote to Mr Bragg by email in the following terms: 
+I confirm that this is fine and obviously there is an appropriate rate reduction - effective when please? 
+Also, don't seem to have had any money yet on our Van traffic - did you get this sorted out, or were you waiting for the Woollard conversation? On 4 January 2000 Mr Woollard wrote to Mr Bragg and representatives of
+Telstra, Telecom New Zealand and Hong Kong Telecom in the following terms: 
+Telecom Vanuatu Limited ("TVL") would like to ensure that the records held by your respective organisations re open number ranges within the Vanuatu total number range +678 are correct.
+ 
+TVL therefore advises that the following number ranges within the total +678 range are open and authorised for traffic to be carried on them, as follows: x, 10000 - 14999, 22000 - 29999, 36xxx, 38200 - 38399, 38500 - 38699, xx, 50000 - 58999, 60000 - 61999, 67xxx, 686xx, 71000 - 78999, 801xx, xx, 803xx, 83xxx 
+These are the only Vanuatu number ranges upon which you as transit are authorised to carry traffic on. You are prohibited from carrying any calls made on any numbers not included in the above authorised number ranges, and you are requested to programme your equipment accordingly.
+
+TVL require that these restrictions be enforced with immediate effect. If there are any queries on the contents of this fax, or if there appears to be any conflict with previous information received from TVL on open Vanuatu number ranges, please refer these to me at your very soonest.
+ 
+Thank you for your immediate co-operation in this matter.
+ On 5 January 2000 Mr Woollard wrote to Mr Bragg and to Mr Collins of
+Telstra removing number ranges 50000 - 58999 and 67xxx from the authorised number ranges listed in the letter of 4 January 2000.
+ On 10 March 2000 Mr Woollard wrote to a number of transit carriers, including Optus, asking them to ensure that the 66 number range was open at their switches because TVL intended to test its access to those numbers with effect from 20 March 2000. On 16 March 2000 Mr Woollard emailed Ms Howe as follows: 
+We sent a fax to you dated 10 March 2000 concerning the opening of the xxx level within the +678 Vanuatu number range, requesting that this level be ensured to be open at your switch by 20 March 2000.
+ 
+Whilst we have had replies from other transits concerning this request, we have not heard anything from C&W Optus.
+ 
+Could you please confirm that you did receive the original fax, and that you will be able to comply with our time frame.
+ On 24 March 2000 Mr Woollard had a telephone conversation with Mr Bragg. Mr
+Wollard's file note of that conversation is as follows: 
+On Friday 24 March 2000, I received a telephone call from John Bragg,
+C&W Optus.
+ 
+John started the conversation by asking in a pained tone why I was doing what I was in regards to AT&T and the 66xxx rogue numbers. He advised me that he had been requested to prepare a report on my actions for the C&W
+Optus Board of Directors, but that he had not yet prepared such.
+ 
+John continued that he did not understand what the problem was, especially as C&W Optus had settled with TVL the traffic that was on the 66xxx range.
+I asked when it had been paid, and was advised on 15 March. I asked John if he had seen the same money refunded to C&W Optus, as TVL had returned the payment as soon as it had been cleared into the local bank. John replied that "I really hope that you haven't done that", and I had asked him to check with his finance people.
+ 
+John asked again "why are you doing this?", asking particularly why TVL was so much "in Blendells' pocket". I explained that TVL were acting in their own best interests and were not in anyone's pocket, and then further that he was probably more aware of why this was necessary than I was with all his experience in audiotext, and that the implications were very clear, especially given the state of affairs in preparation of the forthcoming court case. John said "If that is your position, you'll just have to accept what comes down the line next".
+ 
+I expressed the hope to John that he was not threatening me, to which he replied that "I am not threatening you, but you'll see". When I asked him what he meant by that, he repeated himself by "Well, you'll see. Take care, Paul" at which point he hung up promptly.
+ On 24 March 2000 Mr Bragg emailed his superior, Mr Petts, suggesting that
+Mr Petts send an email to Mr Woollard in terms that Mr Bragg drafted. On 27
+March 2000 Mr Petts sent an email to Mr Woollard in the following terms: 
+We are deeply concerned that yourself - a C&W plc appointed Manager - would suggest to an international carrier such as AT&T they should not settle payments owed to C&W Optus for traffic to Vanuatu (see attached letter not originally copied to us). To "interfere" in agreed inter-carrier accounting and settlement arrangements between C&W Optus and
+Concert/AT&T in this way is entirely inappropriate. Further, such action increases bad debt risk to us. I would remind you that we settled payments for this traffic with Telecom Vanuatu Limited on the 15th March and you are yet to confirm receiving the payment.
+ 
+We have seen the email dated 26 November 1998 from Ridgway Blake (the end service provider) who were issued with the +678 66xxx number range by Telecom
+Vanuatu Limited. Noting correspondence triggered by your advice to
+Concert/AT&T, including your suggestion of fraudulent activity, we have forwarded a copy of this email to Concert/AT&T group concerned with 'fraud' control. As far as we are concerned the number range was legally issued, contrary to your claim.
+ Mr Woollard responded to Mr Petts' facsimile on 28 March 2000 in terms that included the following: 
+It is crucial in this matter to understand that TVL has at no point in time authorised usage of the 66xxx number range. Your manager, International
+Business Development, Mr John Bragg, has claimed that authorisation has been provided based on a letter he received from a lawyer that he has consistently and frequently refused to provide a copy of to TVL. Mr Bragg has no authority from TVL to open or use this number range prior to 10 March 2000 (see below) as none has ever been given...
+ ...
+ 
+Requests to and discussions with Mr Bragg concerning the blocking of this number range at the CWO transit were not acted upon. Mr Bragg explained that the revenue from these numbers would enable him to meet his Plan revenues, which he would not have been able to do without this range. When Mr Bragg was advised that TVL were receiving no revenue from these lines, he independently negotiated with the providers, whom he would not name, and advised that he would be able to gain a payment for TVL. At no time was TVL allowed to make contact with the providers, nor have any part in any discussions, and there are absolutely no contractual agreements in place between TVL and any of the providers on the 66xxx range, which do exist for all TVL's formal audiotext agreements. Mr Bragg then offered to pay TVL for the traffic, despite TVL's grave concern over the legitimacy of this arrangement, always stating that TVL should at least receive something for the traffic and that this would be a private agreement between TVL & CWO that no other party would need to be aware of.
+ 
+Your fax states that CWO settled traffic on this range on 15 March 2000.
+What is not declared is that, on advice of receipt at the local bank here in
+Vanuatu on 21 March 2000, this payment was immediately returned to CWO dated March 2000, with an explanatory letter being faxed and posted to both Mr
+Bragg and CWO corporate counsel on 24 March 2000 clearly stating that TVL had no right to receive this payment. As back up to this payment, a Finance
+Executive in Mr Bragg's department forwarded to TVL details of the traffic months and providers of the traffic. In this way, for the first time, TVL learnt that the providers were Global Internet Billing (formerly Interwest) and MDC.
+
+The revelation of the Interwest connection recalls a previous incident in
+January 1999 when Mr Bragg acted without authority in the name of TVL in the aim of audiotext traffic. An approach was made by Interwest to CWO to provide certain numbers in the Vanuatu number range for their use for audiotext traffic. Mr Bragg replied to Interwest, without any discussion with TVL, that he was sure that there would be no problems with allocating such numbers, and that he would agree this with TVL. When TVL was eventually informed, problems emerged concerning exclusivities and TVL did not wish to make this agreement.
+A bitter discussion ensued with Mr Bragg advising that it was his job to extend these connections, with TVL reminding him that he had absolutely no authority to make contractual commitments concerning the Vanuatu sovereign number range, or indeed on any other matter on behalf of TVL.
+ ...
+ 
+TVL does not understand on what grounds CWO should question the veracity of an administration which has a franchise agreement with the Government of the
+Republic of Vanuatu concerning the sovereign control of its country's entire numbering plan, and with whom CWO has a longstanding relationship, not least as being part of the Cable & Wireless Group. TVL advised CWO that the xxx number range was being illegally operated, and CWO have placed their own interpretation on this that it is not illegal. TVL believes strongly that it has acted in the best interests of the C&W Group by advising that this number range is not authorised and operating illegally, but that CWO has chosen not to act on such advice from a sovereign administration, and is therefore receiving revenue that it has been advised is fraudulent in nature.
+ 
+Following on, after many attempts to have this number range stopped by CWO through Mr Bragg, it became necessary to act formally in a manner that should not be necessary between group companies. Accordingly, TVL advised CWO (alongwith all other transits) on 10 March 2000 that it wished to test access to the 66xxx number range, and asking that CWO ensure that the number range was open at CWO switches. No number in this number range was actually opened, but anyone calling should have received an engaged tone when the call was directed to Vanuatu. This did not occur, and audiotext numbers were still being accessed on the 66xxx number range after this date.
+ Mr Woollard went on to advise that having regard to the previous refusals to block the numbers, TVL decided to simultaneously approach AT&T to ensure that the TVL required actions were undertaken.
+
+Payment for Rogue Traffic  In 2000 TVL received two payments directly into its bank account from
+Optus, one being for approximately $81,000 and another for approximately $313,000. Optus claims that these payments were made to TVL for the rogue traffic at USD$0.10 per minute pursuant to an agreement reached between Mr
+Bragg of Optus and Mr Hall of TVL. At the time these payments went into TVL's bank account the Gilsan proceedings were extant and TVL did not wish to receive such monies because it was defending a claim made by Gilsan that it had breached its exclusive agreement with Gilsan. Accordingly TVL returned those payments to Optus but later accepted payment from Optus. There is an issue as to whether the parties agreed to USD$0.10 per minute for rogue traffic, with which I will deal later. However Mr Milard was cross-examined as follows in relation to these payments (tr 209-211): 
+Q. You are aware, aren't you, that Optus did make payments to TVL for the so-called rogue traffic at the rate of 10 cents per minute? 
+A. There has been payments which have been made to TVL, yes.
+
+Q. And you knew that they were made at the rate of 10 cents per minute? 
+A. To my - to what I remember, we did not receive any details of such payments.
+
+Q. But there had been a payment of some $81,000 in March 2000, hadn't there? 
+A. There have been - yes, in March 2000 before I arrived there has been a payment which we rejected, yes, that's right.
+
+Q. And then you later accepted that when a settlement with Gilsan was imminent, correct? 
+A. After we accepted another payment, this is right.
+
+Q. And then there was another payment of $313,000 made by Optus to TVL, correct? 
+A. That's correct.
+
+Q. And there were some payments made directly by some of the audio text service providers that you regarded as generating rogue traffic? 
+A. Yes.
+
+Q. And you knew, didn't you, that those payments were made at the rate of 10 cents a minute? 
+A. There was no details with that but we suspected that they may have been based on that rate, yes.
+ 
+Q. Until these proceedings were commenced in 2005 you are not aware of any demand made by TVL for a payment in addition to what had been made in those payments I've just put to you, correct? 
+A. I think there has been many discussions between Richard Hall and John
+Bragg that further payment be made, yes, but I don't know if formal request be made on it.
+
+Q. But you certainly weren't a party yourself to any such discussions which a demand was made for further payment? 
+A. I was aware of that. Richard Hall took the lead on that.
+
+Q. And you were aware of it from what Richard Hall told you about his discussions with Mr Bragg, is that right? 
+A. Yes.
+ ...
+
+Q. But TVL only wanted to be paid once the Gilsan proceedings were out of the way, correct? 
+A. Yes.
+
+Q. And TVL was in fact content to allow audiotext traffic to be generated on its numbers by MDC, GIB and Interwest provided that the payment for that traffic was made after the Gilsan case was settled, correct? 
+A. From memory, the rogue numbers were not authorised. Traffic was issued and payment had to be made.
+
+Q. And TVL was happy to accept payment for that traffic but only after the Gilsan case was settled, correct? 
+A. Yes.
+
+Q. And that was TVL's only objection to that traffic, that it not be paid for until after the Gilsan case was settled, correct? 
+A. Yes.
+ AT&T blocked access to the 66 number range at the end of March 2000.
+However GIB continued to run traffic originating from Greece on the 66 number range until October 2000. However, in early October 2000 Mr Warwick was approached by GIB to sub-allocate some of his numbers. On 6 October 2000 Mr
+Warwick instructed Optus to forward calls on the range +67858xxx to GIB.
+However Mr Petts stepped in and the numbers were "cut off".
+ On 12 October 2000 Mr Bragg received a letter from Robert M Bohn which included the following: 
+I currently live in Port Vila, Vanuatu and my contact details are as provided above. I confirm that I lease line +678 24670 and I have had this number with Telecom Vanuatu for 2 ½ years. I am the bill payer of record although Telecom lists my home as Robert "E" Bohn instead of the correct
+Robert "M" Bohn.
+ 
+I hereby request that Optus call forward all calls +678 24670 to +612 until further notice from me.
+
+Short stop policy  Over the years TVL made it very clear to any party wishing to utilise its number ranges for audiotext traffic that it would not allow audiotext to terminate in Vanuatu. On 23 November 1996, TVL's then Managing Director,
+Philip J Richards, sent a facsimile to John Sullivan of Cable & Wireless
+Pacific in Fiji which included the following: 
+Is the deal with Interwest the same as that for APT? Will the circuits terminate in countries other than Vanuatu? I cannot accept any Audiotext deal where the circuits terminate in Vanuatu and I would like all ads to split the country code (XX 67 87 XXXX).
+ On 3 December 1996, Keith Wilson, TVL's Financial Controller, specifically requested changes to a proposed audiotext agreement with AT&T, to change references from "termination in Vanuatu" to read "to country code +678".  On 18 September 1998, Mr Woollard, of TVL, wrote an email to one of Mr
+Warwick's entities which included the following: 
+Payment rates for our audiotext traffic have a fairly narrow range of US$ .10 to US $0.175 with obviously lower rates for traffic that gets refiled ...
+ ...
+ 
+If any service for termination in Vanuatu has any "risky" element, we cannot contemplate it at all in Vanuatu. It took a real to-do to explain to the local Government what audiotext actually did, and they will not accept any attack on the morals of the country. However, maybe "bouncing" in and then out is a feasibility.
+
+Virtual Blackjack is interesting, as it is not gambling but a skill game, so probably OK. The problem here is whether you would be deemed to be operating a business in Vanuatu by having your equipment here, and that would need to be carefully checked before proceeding. We really need to understand the technical requirements before we can consider if it is allowed here.
+ Mr Woollard wrote an email to "borisp" (who had made an inquiry about audiotext services) on 25 September 1998 in which he said: 
+My Managing Director, Daniel Fermine, passed your fax on to me to give a little more detail as to what we can and cannot do in the field of audiotext.
+ 
+Given local sensitivity and culture here, we cannot terminate any material of a "risky" nature in Vanuatu. This certainly includes the main money earning areas within audiotext. Any attempt to do so would be political suicide for us. International audiotext is tolerated because the number ranges given are not accessible to the local market.
+ 
+We can offer use of certain number ranges to audiotext providers for them to use in whatever manner they deem profitable using the TAR system. This traffic would not transit or terminate in Vanuatu, but would be re-routed to whatever destination you required.
+ 
+We have an existing audiotext agreement that gives that provider exclusivity over certain destinations. This provider provides calls stats to us, and makes payment based on a cost per minute of calls on those lines.
+ 
+Given the above, which obviously limits out options, we are nevertheless interested in the following possibilities, being: . Provision of number ranges to providers for their use on routes that are not covered by our existing exclusivity agreement; . Augmentation of minutes on our existing exclusivity routes via an agreement with our existing providers that would increase all parties revenues by a sharing agreement; and . Any other revenue earning possibilities that you can see may be possible from the above format.
+
+We also have an established Internet gambling business run on a server based in Vanuatu, and any such business opportunities would be welcome. On line credit card clearances are occurring here already.
+ 
+That is our hand, and I hope that you find something of interest to discuss with us.
+ On 27 October 1998, Mr Woollard said to Mr Fullwood (associated with Mr
+Warwick's entities): 
+Terminating audiotext in Vanuatu is not possible in any form, as the risks to the overall franchise are too great, and the local culture not in any way receptive to this idea. Short-stopping audiotext is totally acceptable, and it is here that we should set up an initial agreement. The possibility of routing audiotext calls through Vanuatu which do not terminate, but where are simply transitting [sic] in order to take advantage of arbitrage potential can also be discussed, but will depend crucially on anticipated circuits requirements.
+ On 16 June 1999, Mr Woollard wrote to Mr Michael Charlesworth stating that among the terms which were essential to any final agreement was a term that: 
+Audiotext traffic cannot be terminated in Vanuatu physically, but will have to be 'short-stopped' at a transit point of your arrangement, and directed to your Audiotext termination. TVL's proposed point of transit would be C&W Optus in Australia.
+ Mr Michel Dupuis, the Managing Director of the plaintiff since January , gave the following evidence in cross-examination (tr 68): 
+Q. Mr Dupuis, is it your understanding that in the period from 1996 until 2002 TVL insisted that all audiotext traffic had to be short stopped so as not to actually reach Vanuatu? 
+A. I was not the managing director at that time and I took the file when I arrived, but it is my understanding that the traffic has to be short stopped.
+
+Q. And that TVL insisted that all audiotext traffic be short stopped in that period; correct? 
+A. To the best of my knowledge, yes.
+
+Consideration  By reason of a judgment that was entered on 14 December 2006 in favour of
+TVL and the acceptance by Optus of an offer of compromise, the issues in the
+Cross Claim are concluded. On 17 February 2006 an order was made that the taking of any account of profits to which the plaintiff may be entitled is to be determined separately from and after the determination of all other issues in the proceeding. There were a number of remaining separate issues for determination identified by the parties. However one issue that is determinative of the proceedings is whether the parties reached agreement on a rate per minute for the rogue traffic. A finding in respect of this issue requires analysis of the evidence of Mr Bragg and Mr Hall. TVL accepted that if there is a finding that such an agreement was reached the other issues identified by the parties do not require determination because Optus has paid
+TVL for the rogue traffic at the rate in the alleged agreement. Having regard to my finding in respect of the agreement, it is not necessary to determine the question of exclusivity and the issue of whether the tripartite agreements related to short-stopped traffic, I will deal with those two issues.  
+Exclusivity  There is an issue as to whether TVL had the exclusive right to issue telephone number ranges with the international dialling prefix 678 to third parties irrespective of whether or not the traffic passed to, from or through the Republic of Vanuatu. There is no issue that TVL was the exclusive provider of both national and international telecommunication services in Vanuatu pursuant to the Franchise Agreement. Similarly there is no issue that the ITU acknowledges TVL as the administrator/regulator for telecommunications for the
+Republic of Vanuatu. There is no doubt that TVL had the exclusive right to allocate numbers in the 678 number range allocated to Vanuatu by the ITU. The issue between the parties is whether it was able to issue such numbers for traffic that did not travel to, from or through the Republic of Vanuatu. TVL relied upon clause 3.1(h) of the Franchise Agreement to submit that it was able to issue number ranges for such traffic.
+ Clause 3.1(h) authorised TVL to "undertake, all commercial, industrial and financial operations, including the acquisition of property relating to the activities the subject of" the Licence. It was submitted that the exploitation of the number ranges in circumstances where the calls did not in fact reach the telecommunications network of TVL constituted a "commercial or financial operation relating to the activities" of the Licence. It was submitted that the practical proof of this is that the funds received by TVL in relation to audiotext traffic were used to develop a GSM network for Vanuatu.
+ TVL submitted that if there were to be a division between control over
+Vanuatu number ranges which did or did not result in calls reaching TVL's telecommunications network, the entire system of telephone numbering enshrined in the ITU arrangements would be undermined. Reliance was placed upon a communication between Mr Collins of Telstra and Mr Bragg of Optus on 7 January in which Mr Collins wrote: 
+Presumably Interbill is aware of the need to contract with the country code owner for the provision of the number ranges in addition to contracting with ourselves for switching etc.
+ TVL submitted that if it were otherwise the agreements between TVL and APT and between TVL and Gilsan, would have been unnecessary and Optus could simply have proceeded under its agreement with those two companies without ever needing to include TVL in the arrangements.
+ Optus submitted, and indeed its witnesses Mr Bragg and Ms Howe asserted, that it only required the permission of the TVL subscriber, or a person who had contracted with TVL, in order to run traffic for that subscriber. TVL submitted that by these assertions there was an acknowledgement that Optus required TVL's consent in order to issue numbers and/or open numbers on the
+Vanuatu number ranges at Optus' switch.
+ Optus submitted that because the audiotext traffic was not available to the public in or of Vanuatu, and did not pass to, from or through the Republic of Vanuatu, there was no basis on which TVL could reasonably have thought that it was authorised to enter into contracts concerning such traffic. Optus does not take issue with the fact that the number ranges were under the exclusive control of TVL to issue to parties in respect of the telecommunications service that TVL was licensed to administer. It was submitted however that the utilisation of number ranges for a purpose other than the provision of a telecommunications system was not authorised by the Franchise Agreement.
+ TVL had the sole rights to "provide, operate and develop" the Public
+Telecommunication System of Vanuatu. That included the entitlement to operate both the Public National Telecommunication Services and the Public
+International Telecommunication Services. Those services, as defined in the
+TAV Act, included any "telecommunication service established" internationally and nationally which were "available publicly". Although "public" is not defined in the Franchise Agreement it is clear that the term "public" meant the public of Vanuatu. The telecommunication service - either international or national - had to be: (1) available to members of the public of Vanuatu; and sent or received by any member of the public of Vanuatu to or from some other person either within Vanuatu or outside Vanuatu.
+ Clearly, the short-stopped audiotext traffic was not available to the members of the public of Vanuatu and could not be sent or received by any member of the public of Vanuatu. The telephone numbers issued to Vanuatu by
+ITU and opened by or made available by TVL for audiotext traffic that was short-stopped were not used for the purpose of operating the telecommunication system because they were not used for a telecommunications service available to members of the public of Vanuatu.
+ The plaintiff's reliance on clause 3.1(h) as a basis for authorising the plaintiff to utilise the numbers for audiotext short-stopped traffic is in my view misconceived. The allocation or opening of these numbers was not a commercial operation relating to the activities the subject of the license.
+The commercial operations envisaged under clause 3.1(h) were operations supportive of or ancillary to the operation of the public telecommunication system, either nationally or internationally. It would hardly have been intended by the parties to the Franchise Agreement that the plaintiff could allocate the numbers specifically provided to TVL for the provision of a telecommunications service to the public in a way that excluded the public from having access to such a service. The commercial operations envisaged in clause 3.1(h) were in my view limited to the support of or ancillary to the provision of the telecommunications service to the public. This was not such a service and the provision of the number ranges for a purpose otherwise was not authorised by the Franchise Agreement.
+
+Tripartite Agreements  TVL claimed that the Tripartite Agreements applied to traffic to the
+Vanuatu number ranges which were short stopped by Optus. There is no issue that the audiotext traffic did not arrive at or travel on or through TVL's telecommunications network.
+ TVL submitted that the AT&T Agreement applied to all traffic to
+Vanuatu number ranges regardless of whether a call reached the telecommunications network of TVL. The AT&T Agreement provides for a TAR of USD$4.00 per minute for "transit traffic between AT&T and Telecom
+Vanuatu via Optus". TVL submitted that the words "transit" and "via" do not add anything to the process of construing the contract, because in circumstances where there was no direct link between the USA and Vanuatu, transit carriers were required. It was submitted that if calls are directed to
+Vanuatu number ranges "via Optus" the AT&T Agreement applies to them.
+ There is no doubt that everyone knew that the audiotext traffic was being short stopped. TVL submitted that in those circumstances the contract could not be construed as excluding short stopped traffic. It must be remembered however that it was TVL that approached AT&T on 6 March 1996 to suggest that it change its operations so as to utilise Optus rather than Telstra. That approach referred to AT&T's "telephone traffic". There was no mention of audiotext traffic. Once AT&T agreed to take its business away from Telstra and give it to Optus, the negotiations in relation to the TAR commenced. The first letter from Mr Cooke on 3 April 1996 makes no mention of audiotext. The letter from Ms Hui of 20 May 1996 is clearly a reference to telephone traffic, not audiotext, terminating in Vanuatu. That much is clear from the expression "its terminal traffic to Vanuatu".
+ There is certainly no express provision in the AT&T Agreement that the
+TAR would apply to short stopped traffic. TVL submitted that if Optus had wished to exclude short stopped traffic from the AT&T Agreement it would have been a simple matter of including an express provision that it did not apply to such traffic.
+ Optus submitted that the letter of 28 June 1996 is irrelevant because it makes no reference to short-stopping of calls bound for Vanuatu. TVL submitted that the fact that Optus and AT&T were testing calls on six digit numbers, as referred to in AT&T's letter of 28 June 1996, is enough to confirm that
+AT&T knew that telephone calls from AT&T to Optus on Vanuatu number ranges would be short-stopped by Optus. Optus submitted that the Transit
+Agreement makes it clear that the subject matter of traffic between AT&T and TVL via Optus was traffic actually reaching TVL's network. It also highlighted the fact that the AT&T Agreement did not refer to +678 number ranges. It was submitted that the AT&T Agreement concerns traffic entering
+TVL's communications network rather than traffic that is short-stopped.
+Reliance was placed on Mr Gray's evidence in relation to standard TAR agreements as follows (tr 106): 
+Q. And as a matter of telecommunications industry practice between and 2002, did a standard agreement of this kind involve the use of a number range? 
+A. No. Number ranges certainly did not form part of the agreement. They were entirely separate.
+ Optus submitted that the AT&T Agreement only applied to switched transit traffic that passed to, from, or through the Republic of Vanuatu. It was also submitted (a submission with which I have agreed) that TVL had no authority under the Franchise Agreement to use or commercially exploit the 678 number ranges for telecommunications traffic that did not pass to, from, or through the Republic of Vanuatu and in those circumstances it would be inappropriate to construe the Agreement as applying to telecommunications over which TVL had no authority. Optus submitted that the audiotext traffic was not switched transit traffic because it never reached TVL's network. It was submitted that the TAR is used for switched transit traffic and therefore, since the AT&T Agreement applies the TAR, it only applies to switched transit traffic.
+ Optus also submitted that TVL was not the terminating carrier in respect of the audiotext traffic because the traffic did not actually terminate on its network. In this regard Optus relied upon Mr Gray's evidence in cross- examination as follows (tr 102): 
+Q. You say the Australian carrier is a transit carrier because the call is being diverted to the audiotext service provider's equipment? 
+A. Correct.
+
+Q. I see. So it is in that sense the diversion to the audiotext service provider's equipment that the Australian carrier is a transit carrier? 
+A. That's my contention.
+
+Q. I see. And then the call in this illustration is ultimately received at the audiotext service provider's equipment? 
+A. Correct.
+ 
+Q. And that's where it terminates? 
+A. That's where it terminates, yes.
+
+Q. And in no sense does the call terminate in the Cook Islands; correct? 
+A. No, that's correct.
+ 
+HER HONOUR 
+Q. Just so that I am clear on what you have said in your affidavit and answered there, in that instance then do you refer to the audiotext service provider as the terminating carrier or not? 
+A. In this instance, your Honour, I do because it passes through what I term the transit carriers to the final carrier. Carrier is a terminology. I would not say that it is provided as a recognised operating agency as we understand Telstra, et cetera, but it is still passing through carriers' switches or exchanges to its final destination.
+ TVL made an alternative claim that it was an implied term of the AT&T
+Agreement that Optus was obliged to pay TVL the termination charges for all traffic terminating on the Vanuatu number ranges for which Optus was the transit carrier and where cascading accounting applied. TVL submitted that this term is implied on the basis of custom and usage in the telecommunications industry and also to give business efficacy to the agreement. Optus submitted that Mr Gray's evidence that number ranges did not form part of the standard TAR agreement and were entirely separate militates against any finding that Optus is liable by reason of the existence of custom and usage in the telecommunications industry. It was submitted that any custom of paying terminating charges for calls that utilised the number ranges but did not terminate on TVL's network was directly contradictory to Mr Gray's evidence. It was submitted that TVL has not established such a custom as a question of fact: Con-Stan Industries of Australia Pty Ltd versus Norwich
+Winterthur Insurance (Australia) Ltd <case>; [(1986) 160 CLR 226.] As for giving business efficacy to the AT&T Agreement, Optus submitted that the AT&T Agreement is entirely effective without such an implied term. It was submitted that it is not so obvious as it goes without saying and it is not congruent with the express terms of the contract: BP Refinery
+Pty Ltd versus Shire of Hastings (1977) 180 CLR 266 at 292.
+ TVL claimed in the CLS that it was a term of the AT&T Agreement that unless TVL agreed otherwise, Optus was obliged to carry calls to 678 number ranges. Optus submitted that even if such a term existed, TVL did in fact agree otherwise by its insistence that all audiotext traffic be short-stopped.
+Optus further submitted that: there is nothing in the contractual language to indicate that such a term exists; that such a term would be contrary to ordinary industry usage because the use of number ranges is not treated as part of the TAR Agreement; and that AT&T itself did not evince any intention of the kind alleged in the term and resisted any agreement which included short-stopping.
+ Optus relied upon Mr Gray's evidence in cross-examination as follows (tr -105): 
+Q. And typically the audiotext service provider would require in excess of US$1.50 in order to run its operation; correct? 
+A. It would certainly take the majority of the settlement rate of the TAR.
+
+Q. Because the audiotext service provider in turn had to pay the people who were providing the content for audiotext services; correct? 
+A. Correct.
+
+Q. And obviously they wanted to make a profit out of the activity as well? 
+A. Correct.
+
+Q. It certainly would not have been viable to conduct an audiotext service on the basis that the Pacific island's network operator would receive the bulk of the amount that under the TAR agreement would be specified for the terminating carrier? 
+A. Certainly no agreement would give the terminating island a higher share.
+
+Q. And the business wouldn't have been viable at very much more than about 15 cents a minute being paid to the Pacific Island's network operator; correct? 
+A. Subject to the agreement they gave for the use of the numbers, yes.
+ It was submitted that if the consequence of such an implied term was that
+TVL became entitled to USD$1.79 per minute, then audiotext traffic would not be feasible. Optus submitted that even if the term arose and even assuming it was breached, TVL suffered no damage. Any audiotext call on the 678 number ranges would simply have failed. No billable minutes would ever have accrued because of audiotext traffic on the 678 number ranges and there would have been no revenue collected by AT&T, no transit share paid to Optus and consequently, no terminating share payable to TVL. In those circumstances
+Optus submitted there was no damage for which it was liable to compensate TVL.
+ In TVL's Reply it alleged that the AT&T Agreement applied to all traffic terminating on Vanuatu number ranges, including short-stopped traffic.
+This agreement is alleged to be "inferred from the acts and conduct of
+AT&T, Optus and TVL during the period 1996 to 2003". The particulars provided in respect of this claim include the APT Agreement; the Gilsan
+Agreement; the Memorandum of Understanding between Optus and Gilsan dated 3
+December 1998; the Memorandum of Understanding between Optus and APT dated 4
+April 1996 and the fact that AT&T paid to Optus and/or Optus accepted, retained and/or paid to TVL transit charges and termination charges in relation to traffic which was short-stopped by Optus and/or not delivered by
+Optus to the telecommunications network of TVL, including traffic generated by
+Gilsan and APT.
+ Optus submitted that Mr Gray's evidence establishes that such an arrangement would be unworkable because it would apply the TAR in the AT&T
+Agreement to audiotext, entitling TVL to a terminating share of USD $1.79 per minute. Optus also emphasised that AT&T refused to condone short-stopping and that TVL's licence agreement did not permit it to enter into such an agreement. It is also submitted that the conduct of the parties was to negotiate separately for the use of TVL's numbers at USD $0.10 per minute and that this was contrary to the agreement alleged by TVL. In all the circumstances Optus submitted that no such agreement arose or should be inferred.
+ I am of the view that the AT&T Agreement was an agreement entered into in respect of traffic that actually terminated in Vanuatu. The submission made by Optus in relation to the viability of the arrangements for short-stopped traffic, particularly having regard to the agreements referred to below entered into by TVL in respect of short-stopped traffic for USD$0.10 per minute, provides support for the proposition that a fee of $1.79 per minute was not intended to apply to audiotext traffic. Mr Gray's evidence establishes that the service provider would take the majority of the settlement rate of the TAR. This is totally inconsistent with the submission made by TVL that $1.79 per minute would go to it in respect of the audiotext traffic. I am satisfied that the agreements that were entered into in respect of the transit traffic between AT&T and Telecom Vanuatu via Optus did not include short- stopped audiotext traffic, that did not terminate with TVL.
+
+MDC Traffic Agreement  On 4 June 1999 Mr Charlesworth of MDC wrote to Mr Woollard advising that he was interested in terminating traffic from various countries including USA and Greece. On 16 June 1999 Mr Woollard responded to Mr Charlesworth advising as follows: 
+At present, Telecom Vanuatu Limited's ("TVL") standard contract for
+Audiotext services is being subjected to legal review, and TVL is not in a position to forward a draft of same until such review has been completed in early July 1999. However, TVL highlights the following terms and conditions which are essential to any final agreement: . There needs to be a clear definition clause as to the meaning of
+Audiotext services, as opposed to any other services, for example, Internet
+Dial-Up and services. Please note that the scope of any final agreement will only be for Audiotext services; . Audiotext traffic cannot be terminated in Vanuatu physically, but will have to be "short-stopped" at a transit point of your arrangement, and directed to your Audiotext termination. TVL's preferred point of transit would be C&W Optus in Australia; . The per minute rate applied to calls made to Vanuatu numbers is
+US$0.12 per minute; . Your request for one hundred numbers can be accommodated; . Any agreement will include a "Code of Practice" section; . Of the originations that you mention in your letter, there is currently an exclusivity in existence from origins USA, Greece & Italy, but such exclusivity is being reviewed at this time; . Declaration of minutes must be made within thirty (30) days of the end of the period being reported, which will be verified by the transit administration. Payment of these minutes will be within forty-five (45) days of the end of the period being reported.
+ . Any subsequent claw-back of minutes after the due date of payment will be split 50/50 between Sound Advertising Limited & TVL; . Any agreement will not include an exclusivity clause; and . Sound Advertising Limited will need to obtain foreign investment approval from the Vanuatu Foreign Investment Board.
+
+It is stressed that the above, and all other matters, will need to be mutually agreed prior to any final binding agreement being established.
+ 
+I hope that the above is of interest to you, and I look forward to hearing from you in the near future. If you have any queries on the above, please contact Daniel Fermine Managing Director, as I will now be on leave for the period up until Monday, 5 July 1999.
+ On the same day Mr Woollard wrote to his superior, Mr Fermine, enclosing a copy of his letter to Mr Charlesworth and advising: 
+In that letter I asked them to contact you in my absence if there were any problems. Certainly they will need to obtain the one hundred (100) numbers they need from you. Please also note that I quoted USD$0.12 per minute to see if this was acceptable, but we could revert to USD$0.10 if there was any resistance.
+ 
+This seems to be a low risk possible reasonable return situation that should be pursued.
+ In a further communication from one of Mr Charlesworth's colleagues to Mr Woollard the following was said: 
+We are planning to start immediately generating traffic for TVL Vanuatu.
+In order to do so without losing any time we are planning to terminate the traffic in UK until we have established our facilities in Australia. The long- lining to UK cost a certain transit fee. Based on this implication we believe that we cannot afford to pay a transit fee of US$0.12 to TVL Vanuatu. We would like to ask you to consider if you can reduce that fee so that we can start generating traffic and revenue immediately.
+ 
+When we talked to Optus/John Bragg last month he mentioned that the cost for transit would be SDR0.04 which is around 6 US cents.
+ On 5 July 1999 Mr Woollard responded as follows: 
+As for the rates that you were discussing, I think that there may be a confusion about transit rates and termination rates. John Bragg was talking to you about transit rates for C&W Optus when he was discussing figures with you last month. However, the payment to TVL is a termination rate, which we wish to maintain at US$0.12 as originally indicated.
+ After further correspondence, Mr Charlesworth wrote to Mr Woollard on 13
+July 1999 in the following terms: 
+I confirm that our agreement will be in the name of MDC Europe Ltd and not
+Sound Advertising Ltd.
+ 
+Please also accept that I agree the commercial terms outlined in your letter dated 16th June.
+ On 14 July 1999 Mr Charlesworth wrote to Mr Woollard in the following terms: 
+Further to your recent conversations with my colleague Volker I confirm the following: * I agree to the termination rate of US$0.12 * We will initially commence traffic from India as soon as we receive connectivity of numbers. Contractual agreements can be signed in due course * Please send a message to Ray Collins at Telstra authorising him to open a range of 1000 numbers for you.
+ Subsequently Mr Charlesworth and Mr Woollard met in June 2000 at a cafe in
+Sydney at which they agreed that the rate of USD$0.12 would be reduced to
+USD$0.10 per minute for the audiotext traffic.
+
+Agreement at USD $0.10?  Optus contends that in late November or early December 2000 TVL agreed to accept USD$0.10 per minute for all the rogue traffic generated by the
+Interwest Group and the MDC Group to 678 number ranges. On 20 November 2000 Mr
+Hall, of TVL, wrote to Samantha Bicknell of Optus by email thanking her for the declarations that had been received and stating: 
+There is also 396,928 mins on the GIB numbers between April 99 and
+November 99 not shown.
+ 
+I think rate for the GIB and mediatel numbers that would be acceptable to
+TVL shareholders is US$0.20 per minute.
+ 
+This means a total payable to TVL of US$706,248 for declared traffic Dec 99 to date plus US$79,385 for GIB traffic April 99 - Nov 99 inclusive making a total of US$785,634.
+
+I realise that this may raise a few eyebrows but 20 cents for a termination like Vanuatu still leaves a very healthy margin. In view of the history of these numbers I would suggest early settlement and a re- establishment of our previous excellent relationship.
+ Ms Bicknell showed Mr Bragg this email and he telephoned Mr Hall. Mr Bragg claimed in his affidavit (28/09/07) that the following conversation took place: 
+Bragg: You have proposed a rate of US$0.20 for the GIB and Mediatel traffic. That's totally unreasonable and doesn't reflect industry practice. I think a rate of US$0.05, as initially proposed by Optus, is appropriate given
+TVL didn't actually receive the traffic. However, as a compromise, we are prepared to pay based on a rate of US$0.10. Would that be acceptable? 
+Hall: I will discuss with Thierry Millard, TVL's Financial Controller, and get back to you.
+ On 21 November 2000 Mr Hall wrote to Mr Warwick and others indicating that
+Optus had "put down 5 cents per min as the settlement rate" and that he had "countered with 20 cents per min". He then asked the recipients of the email to waive their override or take a nominal override of 1 or 2 cents. This proposal was objected to and in further correspondence Mr Hall advised: 
+Frankly I think I am unlikely to get 20 cents at the end of the day anyway so we could end up dividing a much smaller amount.
+ On 27 November 2000 Mr Hall wrote to Ms Bicknell and Mr Bragg in the following terms: 
+Further to my telephone conversations with you both I understand that you claim gain by only US$0.18 per minute plus the US$0.05 that you have decided to retain for us.
+ 
+We find that difficult to understand.
+ 
+You have/will receive about US$0.40 transit fee + US$1.80 termination fee to be passed on to us, i.e. about US$2.20 per minute. We understand that you will have paid some of this onto GIB/MDC.
+ 
+Against this back-drop we are not prepared to accept John's verbal offer of
+US$0.10 per minute. Particularly as all the traffic run has not been declared.
+ 
+All this traffic was run without our knowledge or consent - the default position would be to claim US$1.80 per minute under the standard inter admin accounting agreements.
+ 
+I urge you to reconsider your offer and revert as soon as possible so that we can put this behind us.
+ Mr Bragg claimed in his affidavit (paragraph 34) that a few days after this email he telephoned Mr Hall and the following conversation took place: 
+Bragg: Rick, I can't believe your email of 27 November. A rate of US$0.10 is a very good deal for TVL. I don't agree that the default position would be to claim US$1.80. You never even received the traffic and, in my view, the default position is nothing.
+
+Hall: I am concerned that Optus is making a huge profit, up towards
+US$2.20, and we are getting barely anything.
+
+Bragg: That's not right. We keep a transit fee of about US$0.25 and, subject to any amount for TVL, pay the balance to the service provider. Keep in mind that Optus actually carries the traffic and TVL does not. It is entirely appropriate that we get a higher amount than you.
+
+Hall: I thought you were keeping a higher rate than that. On that basis, I am happy to accept US$0.10 per minute, as long as you make payment quickly.
+ Mr Hall responded to that claim in Mr Bragg's affidavit in an affidavit of October 2007 in the following terms: . I refer to paragraph 34 of the Bragg affidavit. I deny having any conversation with Mr Bragg as set out in that paragraph. I never agreed to accept from Optus US$0.10 per minute in full and final payment for the unauthorised audiotext traffic operated by MDC or others, that was terminated on Vanuatu numbers (Rogue Traffic).
+ . I would never have agreed to these amounts constituting full and final payment because the minutes to which any rate could be applied were unclear. I (sic) was my suspicion that Optus was under-declaring its measured minutes on calls to Rogue Numbers. Further, I never considered that the amount of $US0.10 per minute was adequate compensation for what I considered was the unauthorised use of Vanuatu number ranges by Optus.
+ . Given TVL's ongoing problems at that time with settling 'normal voice' traffic with Optus my view was that it was more appropriate for TVL to take receipt of any amounts paid by Optus to TVL in respect of the Rogue
+Traffic and focus on accelerated network enhancement and expansion in Vanuatu, which was made possible and largely funded by the receipts from audiotext traffic.
+ As I have said TVL accepts that if I find that the conversation alleged by
+Mr Bragg occurred its case must fail because Optus has paid it for all Rogue
+Traffic at US$0.10 per minute.
+ TVL made an unrelenting attack on Mr Bragg's credibility in support of the contention that I should reject Mr Bragg's version of this conversation. Mr
+Bragg's affidavit was sworn on 28 September 2007. During 2007 he had been seriously ill and was hospitalised from 13 May 2007 to 17 July 2007 and from 3
+August 2007 to late August 2007 in Royal North Shore Hospital, and from late
+August 2007 to 21 September 2007 at Hirondelle Private Hospital. He gave oral evidence on 18 February 2008 at the retirement village/nursing facility at which he was then resident. At that time he was terminally ill and has since demised.
+ Mr Bragg's affidavit included the following statement: . The events that are the subject of the dispute between TVL and
+Optus predominantly occurred in 1999 and 2000. I find it difficult to recall specific dates, conversations and other details of events that occurred 7 or 8 years ago. In this affidavit I describe relevant matters which I can remember; outside those matters my recollection is generally poor.
+ TVL submitted that Mr Bragg did his best to avoid directly answering the questions asked of him. In support of this submission TVL relied upon a number of questions and answers. The first of which were (tr 328-329): 
+Q. But you were aware, weren't you, in the period 1996 to 2000 that it was TVL's practice to advise Optus directly of which number ranges TVL had authorised to be opened for the purposes of audiotext? 
+A. I guess so, I don't know the details we had with TVL at the time.
+
+Q. You agree with me that doing the best you can sitting there today you knew that TVL's practice was to send you, Optus, notification of which number ranges were opened for audiotext? 
+A. Yes, I have seen correspondence to that effect.
+ I do not regard the answers given by Mr Bragg in this extract from the evidence as an example of Mr Bragg doing his best to avoid directly answering the question. He gave an affirmative answer to Mr Kunc's question when he said "yes". The additional words, "I have seen correspondence to that effect" does not in my view suggest that there was an intention to avoid directly answering the question. It was then submitted that Mr Bragg refused to give definitive answers to simple questions asked of him. The following evidence was relied upon in support of this submission (tr 329-330): 
+Q. You were aware around this time, I would like to suggest to you, that a new TAR agreement was being negotiated between AT&T, Optus and TVL for transiting that traffic? 
+A. Remember transit traffic per se was done by Gordon Cooke. We certainly had an input, but we didn't control it.
+
+Q. No, accepting that Mr Cooke had the primary responsibility for negotiating arrangements in relation to transit, do you agree that if a new transit agreement was being negotiated between AT&T, Optus and TVL you would have been aware of it at the time it was being negotiated? 
+A. Yes, I think so.
+
+Q. And at the same time, I am talking here about March 1996 you were in negotiations with APT to arrange the short-stopping of APT's traffic directed to Vanuatu number ranges, weren't you? 
+A. I expect so.
+ The following evidence was also relied upon by TVL in this regard: (tr 333-334) 
+Q. You were aware at the time, weren't you, that APT were intending to have their traffic terminate on Vanuatu number ranges on numbers originating from AT&T? 
+A. Could be, could be.
+ (tr 361) 
+Q. Those numbers were the Ridgway Blake numbers? 
+A. Could have been but the main thing was to get Graham revenue.
+
+Q. Mr Bragg, you don't seriously suggest that there was any other number range this could be referring to? 
+A. It could be, I don't know.
+
+Q. He, that is Mr Oldrieve, muttered about Telecom Vanuatu not getting any revenue. So Mr Oldrieve understood you were talking about a number range unknown to TVL? 
+A. Could be, not that I remember that, I don't remember.
+ (tr 336) 
+Q. In the absence of a special deal the transiting of traffic from
+AT&T via Optus to Vanuatu number ranges was governed by the transit agreement, wasn't it? 
+A. Theoretically, yes.
+ 
+Q. Why do you qualify that with "theoretically", Mr Bragg? 
+A. Because the transit agreement operated by Gordon was a straight transit agreement. We could sort of modify it if we thought there was a benefit, but after consulting with the necessary people.
+ (tr 342) 
+Q. What you have said in your e-mail that is on the bottom half of the page is that "John R", that means John Ridgway, doesn't it? 
+A. Yes, I guess so.
+
+Q. "Met with Telecom people in Vanuatu yesterday who asked purpose and use, et cetera of lines and John R mentioned gambling." Pausing there, that is because you told Mr Ridgway that if he was asked he should say it is for gambling? 
+A. Probably.
+
+Q. "And was questioned on licence et cetera and all being well should hear from them today with costs and numbers, contract periods for twelve months and thereafter renewal on twelve month basis." That e-mail to Mr
+Chambers you had copied to Mr Ridgway, hadn't you? 
+A. Probably.
+ (tr 360) 
+Q. So that's when he was trying to stop you. You then said that you understood that you had been able to obtain, that you told him rather, that you, being Mr Chambers, had been able to obtain a series of numbers in
+Vanuatu, that is a reference to the Ridgway Blake 66 number range, isn't it? 
+A. Not necessarily.
+ 
+Q. Well, what else could it have been? 
+A. He could have got some lines off somebody else.
+
+Q. Can I suggest that the only lines you knew about GIB having that would not have been known to Mr Woollard was the 66 number range? 
+A. Oh, there are several number chains running, it could have easily have been another one.
+ It is true that Mr Bragg qualified his answers with the words "I think so" or "I expect so" and the like. I did not get the impression that he was intentionally seeking to avoid giving definitive answers during the course of this evidence. Rather I got the impression that rather than deny the propositions that Mr Kunc was putting to him he accommodated them in the way above described. There was then a submission that the following evidence demonstrated that Mr Bragg became defensive and sought to avoid answering the question directly (tr 327-328): 
+Q. Would you agree with me that between 1996 and 2000 the practice was that the terminating carrier had to give their consent to the use of their number ranges whether or not they were short-stopped? 
+A. No.
+ 
+Q. Why do you disagree with that statement? 
+A. I was thinking in case of Nauru where they didn't want to do anything, they would leave it up to us totally to arrange for them.
+
+Q. In that case Nauru knew you were arranging it for them? 
+A. Yes.
+
+Q. In that example Nauru had effectively appointed Optus its agent to make its numbers available for the purpose of audiotext? 
+A. It was never written down that way of course.
+
+Q. I am asking you the effect as you understood it was that you, Optus, had become Nauru's agent for the purposes of making Nauru phone numbers available to service providers? 
+A. Yes, okay.
+
+Q. Setting aside the example of Nauru, would you agree with me that it was the practice between 1996 and 2000 for the terminating carrier to give its consent to the use of its number range for the purposes of audiotext? 
+A. To a particular extent, yes.
+
+Q. You are not suggesting, are you, that it was an approved practice between 1996 and 2000 for a transit carrier like Optus to use a terminating country's number ranges without that terminating country knowing that its number ranges were being used, are you? 
+A. It used to happen, in other words where somebody bought a block of numbers they could allocate them as they wish.
+
+Q. That is not the question I asked you? 
+A. Sorry, what did you ask? 
+Q. You are not suggesting that it was the practice for a transit carrier to make available numbers for the purposes of audiotext that did not have the approval of the terminating carrier? 
+A. It has been done.
+
+Q. The fact that it had been done may be one thing Mr Bragg, what I am suggesting to you is that it was not an approved practice at that time? 
+A. An approved practice? I don't, I don't (sic) said it was approved.
+
+Q. Can I suggest to you that Optus was notified of the terminating carrier's consent either by the terminating carrier or the service provider? 
+A. Yes.
+
+Q. If the service provider was providing Optus of that notification, that is notification of the terminating carrier's consent, Optus required the service provider to proffer some evidence of the terminating carrier's consent, didn't it? 
+A. Normally, unless you knew the companies well.
+
+Q. When you are talking about knowing the companies well, you are talking about a reputable major carrier such as Telstra, aren't you? 
+A. No, I am talking about the service providers.
+
+Q. So, it was your position, was it, that if a service provider who you knew simply came along and told you that they had been given some numbers by, for example Vanuatu, that was enough for you? 
+A. Yes.
+
+Q. Could I suggest to you that that does not accord with what was regarded as acceptable practice from the audio text industry in the second half of the 1990's? 
+A. No, I would say it was accepted practice, even somebody like Telstra would have done it.
+
+Q. Could I suggest what you would have required in the ordinary course was for the service provider to show you, for example, a piece of paper from the terminating carrier saying we have approved your use of this number range? 
+A. Yes, we would like that but, you know, normally it was done over a telephone call.
+
+Q. So, you say you would have liked to have had that but you were happy to proceed just taking the service provider's word for it? 
+A. True.
+ In this extract of the evidence, Mr Bragg sought to suggest that there were instances where terminating countries did not know that their number ranges were being used. It is also true that he did not say that it was an approved practice. His evidence was obviously true because TVL's case is that it did not know that the number ranges were being used and only found out by reason of the circumstances referred to earlier in this judgment in relation to the Vanuatu proceedings. It does not seem to me that this evidence demonstrates Mr Bragg becoming "defensive"; rather it seems to me that Mr
+Bragg was admitting that numbers were used at times without the terminating country's consent.
+ The next attack on Mr Bragg's credibility was in relation to some evidence he gave about his conversations with Mr Ridgway prior to October 1998 in relation to obtaining Vanuatu number ranges. Mr Bragg gave evidence that Mr
+Ridgway had informed him that the reservation of telephone numbers was for a hotel which was being built in Vanuatu. That evidence was as follows (tr 337): 
+Q. But you were aware certainly that you had had discussions with a
+John Ridgway at Ridgway Blake prior to October 1998 in relation to obtaining
+Vanuatu number ranges, hadn't you? 
+A. Yes.
+
+Q. And you see this document refers to a request for reservation of numbers? 
+A. Yes, that was for a hotel which was being built in Vanuatu.
+
+Q. And how do you say that you know that was being built for, how do you say that you know it was in relation to a hotel being built in Vanuatu? 
+A. Because I spoke to John Ridgway.
+ 
+Q. You told Mr Ridgway it was for a hotel? 
+A. No, he told me I think.
+
+Q. And hadn't you asked Mr Ridgway to arrange for the numbers, some
+Vanuatu numbers to be reserved? 
+A. I have asked him to look around, see what was available. But he did all the work over in Vanuatu.
+ In later cross-examination Mr Bragg gave the following evidence (tr -341): 
+Q. Who were these numbers to be used for that you were talking to Mr
+Ridgway? 
+A. I think he just came out, there was in fact Global Internet Billing who wanted it.
+
+Q. You were arranging those numbers for Global Internet Billing? 
+A. I was helping them if they asked, I helped everybody if they asked.
+
+Q. You were helping Global Internet Billing by asking Mr Ridgway to see if he can get numbers from TVL? 
+A. Why not.
+
+Q. When you say "why not" you are agreeing with me, aren't you? 
+A. Yes.
+
+Q. You told Mr Ridgway that he was not to disclose who these numbers were for, didn't you? 
+A. I didn't say anything of the sort.
+
+Q. Can I suggest that you told Mr Ridgway to say that they were going to be used for gambling? 
+A. I might have suggested that, yes.
+
+Q. And that it had nothing, absolutely nothing to do with the hotel? 
+A. In this case I don't think I said that at all, but I put it in.
+
+Q. Can I suggest to you -- 
+A. It did come up in discussion, yes.
+
+Q. Mr Ridgway never said anything to you about it being for a hotel because you were in fact the person who initiated the contact with Mr Ridgway, weren't you? 
+A. Well, I forget how we first started but it was on the phone call. I met him over here in a bar.
+
+Q. But Mr Bragg, I think you have agreed with me that you initiated the contact with Mr Ridgway, didn't you? 
+A. In this instance? 
+Q. Yes? 
+A. Could be, yes.
+
+Q. It was not a case of Mr Ridgway telling you that some numbers were for a hotel because Mr Ridgway had no idea what the numbers were for, did he? 
+A. Correct.
+
+Q. So, what you have said to her Honour about a hotel is simply made up, isn't it? 
+A. Whom? 
+Q. You said to her about Ridgway Blake numbers being for a hotel, that is simply made up, isn't it? 
+A. No.
+
+Q. I suggest that you suggested to Mr Ridgway that he tell TVL that the numbers would be used for gaming purposes? 
+A. That could have been.
+
+Q. And your intention was that TVL would never find out who was actually using the numbers that were being reserved? 
+A. They would have found out in the end any rate.
+
+Q. That doesn't answer my question, Mr Bragg. You're intention in
+November of 1998 was that TVL was not to find out who was using the Vanuatu numbers that Mr Ridgway was obtaining? 
+A. Not initially.
+
+Q. That is to say you didn't want them to find out initially, didn't you? 
+A. Correct.
+
+Q. That is to say that you were aware they might find out at some stage later? 
+A. Oh, almost certainly.
+ 
+Q. You certainly didn't want them to find out, did you? 
+A. Not really.
+ 
+Q. It suited your purposes that they didn't find out, didn't it? 
+A. Correct.
+ Mr Kunc submitted that this evidence was a change of Mr Bragg's story that
+Mr Ridgway advised him that the numbers were for a hotel. It was submitted that this change in position should be viewed adversely to Mr Bragg's credibility. It was suggested that Mr Bragg was "skirting around the issue" but conceded that he was helping GIB obtain telephone numbers from TVL. It did not appear to me that he was "skirting around the issue". Rather it seemed to me that he was very forthright in stating that he would help anyone who asked him to obtain such numbers. This was a commercial goldmine for Optus and the more numbers that were obtained the better the bottom line was for Optus' business. However I agree with the submission that Mr Bragg changed his version of events in relation to the numbers being for a hotel. I will take this into account when assessing whether Mr Bragg and Mr Hall reached agreement on the amount per minute for the rogue traffic.
+ Mr Kunc also took issue with a sentence in the beginning of paragraph 20 of Mr Bragg's affidavit which claimed that he became aware that Interbill had been assigned the +678 660xxx number range for audiotext traffic by reason of his conversation with Mr Bonnano. Mr Bragg was cross-examined about this sentence as follows (tr 368): 
+Q. So, it is quite wrong for you to suggest that you became aware of that number range having been assigned? 
+A. If it was a reduced number range, I probably did become aware of it and if - did they put a time on this message? No.
+
+Q. You knew in January that this number range was being tested by
+GIB, didn't you? 
+A. Yes.
+
+Q. So, will you agree with me that it just couldn't be the case that the first time you became aware of this number range being used for audiotext was as a result of a conversation with Mr Bonnano in late March 1999? 
+A. The writing is bad on that, but.
+ Mr Bragg's answer that the "writing is bad" was a concession that it was not the first time he became aware that the number range was being used for audiotext.
+ The next attack on Mr Bragg's credibility revolved around an email that he wrote to Mr Chambers on 7 December 1999 in the following terms: 
+I had Paul Woolard from Vanuatu in here yesterday complaining he was receiving nothing from the Vanuatu numbers being reserved by John Ridgway for someone and Optus must be handling the traffic for whoever it was. He was going to complain to John. May I suggest we take a US$0.10 per minute from the
+US traffic to ensure it continues and pay to Telecom Vanuatu? In paragraph 25 of his affidavit Mr Bragg gave evidence that he had a meeting with Mr Woollard on 6 December 1999 and that during that meeting the following conversation took place: 
+Woollard: Late last year TVL allocated the 660xx number range to a client of Ridgway Blake. We weren't told who the service provider was, but Optus must be transiting the traffic. TVL has never been paid for traffic on that number range. Can you arrange for payment to occur? If we don't receive payment soon
+I will have to complain to John Ridgway. I am happy for the traffic to continue, as long as TVL gets paid.
+
+Me (Bragg): No problem.
+ TVL submitted that had Mr Woollard advised Mr Bragg that he was happy for the traffic to continue as long as TVL got paid, his email to Mr Chambers would have been worded differently. He was cross-examined to that effect as follows (tr 389-390): 
+Q. You do not say in your e-mail to Mr Chambers written one day after the conversation that Mr Woollard had told you he was happy for the traffic to continue as long as TVL got paid, do you? 
+A. No, why would I? 
+Q. Because it would have been a very important piece of news to convey to Mr Chambers that this traffic would be able to continue provided TVL got paid? 
+A. Which is exactly the way it was.
+
+Q. But you it would have been important, wouldn't it, to have conveyed to Mr Chambers, Mr Woollard's express agreement you say to the traffic being able to continue as long as TVL got paid? 
+A. He insisted that they got paid and to do that of course he was going to free up the traffic.
+
+Q. If he had in fact said that he was happy for the traffic to continue provided he got paid I just suggest one more time that is something that you would have conveyed to Mr Chambers in your e-mail to him because that would have been very important for Mr Chambers to know? 
+A. That might be your understanding but it wasn't the way we worked at the time. I know what you are trying to get at.
+ The email was written eight years before Mr Bragg gave his evidence. Mr
+Bragg accepted that he constructed the conversation in his affidavit by reference to his email. TVL submitted that Mr Bragg's persistence in claiming that Mr Woollard did in fact say he was happy for the traffic to continue, provided TVL was paid, demonstrated his "clear disregard for the truth". I am not satisfied that the conversation he set out in his affidavit is totally inconsistent with his email. Indeed, it would appear that his suggestion in the email to pay TVL to ensure the traffic continued is somewhat consistent with knowledge or belief that if TVL were paid the traffic could continue.
+ TVL placed a great deal of emphasis on Mr Bragg's conduct in utilising Mr
+Ridgway's services to obtain the Vanuatu numbers. It also emphasised Mr
+Bragg's evidence that it suited his purposes for TVL not to find out about those numbers. TVL also emphasised Mr Bragg's evidence that he understood that by utilising Mr Ridgway's services to reserve the numbers, TVL would be left in a position of believing that the numbers had been reserved for gaming or other functions. Emphasis was placed upon the following paragraph of Mr
+Bragg's affidavit: . As a result of the correspondence referred to in paragraphs 16 and 17 above, I understood that TVL had allocated the (+678) 660xx number range to Ridgway Blake and that they could do with these numbers as they pleased, including allocating them to audiotext service providers.
+ The correspondence to which Mr Bragg referred in paragraph 18 included an email from Mr Ridgway of 26 November 1998 to Mr Bragg in the following terms: 
+We have had some bad news from Telecom Vanuatu - they have discovered some of the numbers we gave you have been allocated elsewhere previously - the numbers DEFINITELY available are 66000 to 66099 - the first year fee has been waived and will be refunded because of this error.
+ 
+Let me know if any real problems arise out of the above.
+ 
+Sorry - but there isn't much I could do about this!!! TVL submitted that the evidence in paragraph 18 was an attempt by Mr Bragg to distance himself from his true involvement in utilising Mr Ridgway's services to obtain the Vanuatu numbers. It was submitted that Mr Bragg was "adept at manufacturing, or attempting to manufacture paperwork to clothe his unauthorised activities with spurious legality". This submission relied upon the contents of a letter relevant to the Vanuatu proceedings in which the following appeared: 
+One of the allegations made by GIL against TVL regarding unconscionable behaviour against TVL is that TVL has permitted other ISPs to offer internet dial-up services notwithstanding the action taken against GIL and the government's instruction. Most specifically, it has come to GIL's attention that an ISP is using Vanuatu's number range of 678 66XXX. To the best of TVL's knowledge such calls originate from AT&T in U.S.A. and are routed to
+C&W Optus. TVL has not authorised those numbers for usage by any ISP.
+Those numbers were reserved for a client of a firm of Vanuatu lawyers, Ridgway
+Blake. Any usage by an ISP of those numbers is completed (sic) and unauthorised by TVL.
+ 
+As soon as TVL became aware that those numbers were being utilised for an unauthorised purpose, further enquiries were made by TVL, including, with Mr
+John Bragg, Manager International Business Development, Cable & Wireless
+Optus Limited, North Sydney. Mr Bragg claims that he holds a copy of a lawyer's letter which he alleges permits that lawyer's client to use the numbers. TVL has provided us with copies of all of the correspondence emanating between itself and Ridgway Blake and we have not seen any letter which would substantiate the usage of those numbers, as Mr Bragg has claimed.
+ TVL submitted that the so called "lawyer's letter" was obviously the email from Mr Ridgway dated 26 November 1998, extracted above. It was submitted that this email "says nothing about authorising anyone to use the 66 Number Range".
+It is true that there is no express statement that TVL had authorised Mr
+Ridgway to use the number ranges. However on the assumption that Mr Bragg did claim that he held a copy of a lawyer's letter permitting the lawyer's client to use the numbers as referred to in the extract above, such a claim is quite understandable having regard to the content of Mr Ridgway's email. The emphasis that the numbers were "DEFINITELY available", together with the advice that the first year's fee had been waived and refunded because of the error, would certainly convey to the reasonable reader that the new numbers that had been allocated were able to be used. This is not an example of Mr
+Bragg manufacturing paperwork as claimed in TVL's submissions. Mr Ridgway was not asked to provide Mr Bragg with the email so that he could utilise it in dealing with an enquiry from lawyers during the Vanuatu proceedings. If he had done that, perhaps the submission that he manufactured paperwork might have some foundation. There is no evidence in support of this submission and it is rejected.
+ I do accept that Mr Bragg was adept in utilising business opportunities and loopholes to increase the profits for his employer, wherever it was possible to do so. Indeed his candour about his rather underhand conduct was quite disarming. He gave the following evidence in relation to his continuation of the use of the Vanuatu numbers notwithstanding that TVL had requested Optus to stop audiotext traffic on those numbers (tr 355): 
+Q. You knew by then that Vanuatu had told you they were unable to authorise USA traffic for audiotext? 
+A. That's correct. Which really annoyed me at the time.
+
+Q. And notwithstanding that you were still going ahead with this arrangement with ICC? 
+A. As the way of getting back, I would say.
+ 
+Q. That is a way of getting back at Mr Woollard, was it? 
+A. Probably.
+
+Q. All the more reason to ensure that Mr Woollard never found out? 
+A. Probably. But I am not sure that was the case, totally.
+ On 4 and 5 January 2000 when Mr Woollard wrote to Mr Bragg (extracted earlier in this judgment) revising the "Open Number Ranges" he made it very clear that Optus was "prohibited from carrying any calls made on any numbers not included" in the authorised number ranges referred to in that correspondence. Mr Bragg gave the following evidence in cross-examination (tr -391): 
+Q. You see there is a list of numbers in the middle or two-thirds the way down? 
+A. Yeah.
+
+Q. Which Mr Woollard is advising you are the only number ranges that authorised to be open for traffic? 
+A. Correct.
+
+Q. You agree with me that the 66 number range is not included? 
+A. No, it's not.
+
+Q. And at that time hundreds of thousands of minutes of traffic were flowing to the 66 number range to your knowledge, weren't they? 
+A. Not sure of the number but I wouldn't, over what period, a hundred thousand.
+
+Q. A month, hundreds of thousands of minutes a month were flowing to the 66 number range in around January 2000? 
+A. Yes, that would be a fairly true statement.
+ ...
+
+Q. Well Mr Bragg at least at that point you were being told in no uncertain terms that the 66 number range was not to be open? 
+A. Fine.
+ 
+Q. You did nothing to stop it? 
+A. Definitely not.
+
+Q. And you didn't show this facsimile to anybody within Optus, did you? 
+A. I am not sure, I probably had a good laugh with somebody on it.
+ ...
+
+Q. Mr Bragg ... ten days after you received the fax from Mr Woollard and you are asking Ms Zai to input a whole lot of 66 number ranges into the Optus system for Interwest? 
+A. Yes.
+
+Q. And you were doing so in clear contravention of Mr Woollard's request of 5 January, weren't you? 
+A. Yes.
+
+Q. And you were just not going to stop this traffic because it was too lucrative, isn't that the case? 
+A. That is probably the case, yes.
+ There was a further communication from TVL on 9 October 2000 when Mr Hall wrote by email to Mr Bragg advising him of the "valid number ranges" and requesting him to confirm that no other ranges were in use. After this email
+Mr Bragg did not take any steps to shut the numbers down and did not pass the email from Mr Hall on to anybody within Optus. It was submitted that this evidence demonstrates that Mr Bragg did not keep his colleagues informed of his activities, motives and aims. Mr Bragg gave the following evidence in relation to the number ranges he obtained from Mr Charlesworth via Mr Ridgway (tr 373-374): 
+Q. That was obtained by Mr Ridgway telling TVL that numbers were being reserved for gaming or other function? 
+A. Presumably.
+
+Q. That was all done at the time, the time you knew TVL would not permit audio text from the USA? 
+A. Probably because, you know, it doesn't stand in my mind at all, I believe you.
+
+Q. It doesn't stand in your mind at all Mr Bragg because you didn't care at the time, did you? 
+A. I probably didn't care, no.
+ 
+Q. You just wanted to get audio text business? 
+A. That is what I was paid for.
+
+Q. You were prepared to get it however by using whatever means you could, weren't you? 
+A. I earned a monthly salary.
+
+Q. Mr Bragg, you were prepared to do anything you could to obtain numbers for audiotext traffic whether or not it was approved by Vanuatu? 
+A. Oh, Vanuatu you were talking about, yes, I suppose so.
+ The following further evidence is also indicative of Mr Bragg's approach in this regard (tr 392): 
+Q. Can I suggest that on or about 24 March you had a conversation with Mr Woollard, 2000, where you asked him why he was doing, what he was doing in relation to AT&T and the 66 rogue numbers? 
+A. He asked AT&T to shut us down which was a very unfriendly act.
+
+Q. You weren't happy about it? 
+A. Definitely not happy about it.
+ 
+Q. You told Mr Woollard? 
+A. It took us two days to get the traffic back-up.
+
+Q. You told Mr Woollard that you had been asked to prepare a report on
+Mr Woollard's actions for the C&W Optus board of directors, hadn't you? 
+A. Of course.
+
+Q. You suggested to Mr Woollard that you did not understand what the problem was given that C&W Optus had settled with TVL the traffic on the number range? 
+A. Presumably, yes.
+
+Q. When Mr Woollard told you he sent the money back you said something like "I really hope you haven't done that"? 
+A. Oh, did I? 
+Q. Did you, do you remember? 
+A. Words to that effect seemed to be, I seem to remember something like that, whether there was exact words I am not sure.
+
+Q. When you asked Mr Woollard again why he was doing what he had done and why TVL was so much in Mr Blundell's pocket, do you remember telling
+Mr Woollard that? 
+A. Yes.
+
+Q. He explained to you that TVL were acting in their own best interests and weren't in anyone's pocket, didn't he? 
+A. He did say that but it was not quite that, way as you are probably aware.
+
+Q. And that you were probably, he suggests you were quite aware as to why the return of the money has been necessary given the state of affairs in preparation for the forthcoming court case with Peter Warwick? 
+A. Correct.
+
+Q. Then you said to him if that is your position you will just have to accept what comes down the line next, didn't you? 
+A. Probably.
+
+Q. Mr Woollard asked you whether you were threatening him, didn't he? 
+A. I don't remember that but if he had I would have told him yes.
+ TVL went so far as to suggest that Mr Bragg accepted that he made up a conversation that appeared at paragraph 19 of his affidavit as follows: 
+In early 1999, I had a number of telephone conversations with Mr Jonathan
+Bonnano, the Vice President of the group of companies of which Interwest and
+Interbill Limited ("Interbill") were a part. During one conversation in mid to late March 1999 we said words to the following effect: 
+Mr Bonnano: Interbill has been allocated the 660xx number range in Vanuatu for audiotext traffic. However, we are having connectivity problems for traffic from the USA. Can you investigate why our test calls are failing? 
+Me: No problem. I will ask our switching team to look into it and get back to you.
+ In support of its submission in this regard TVL relied upon the following evidence given by Mr Bragg in cross-examination (tr 366): 
+Q. Mr Bragg, I want to suggest to you that the conversation in paragraph 19 is something that you have just made up? I invite you to read what you said in paragraph 19, the conversation with Mr Bonnano? 
+A. So, what's wrong with that? The submission made in reliance upon this question and answer was that Mr
+Bragg "appeared to accept that he did make up the conversation and that to his mind there was nothing wrong with doing so". It was submitted that after this evidence Mr Bragg sought to avoid directly answering questions in relation to an exchange of emails between Mr Bonnano and Mr Bragg in relation to some number ranges. That cross-examination was as follows (tr 366-367): 
+Q. Mr Bonnano would hardly have to tell you that Interbill has been allocated the 66 number range in Vanuatu for audiotext traffic, would he? 
+A. Maybe, maybe not.
+
+Q. You knew full well, firstly that Interbill was using the 66 number range? 
+A. Correct.
+
+Q. And you knew that because you had given it to them via what Mr
+Ridgeway had done? 
+A. Correct.
+
+Q. So it makes no sense to say, for Mr Bonnano to be commencing a conversation by saying that Interbill has been allocated the number range in
+Vanuatu for audiotext traffic? 
+A. But Jonathan Bonnano was remote from Australia of course, he lived in the United States.
+
+Q. The other thing is that you know full well that Interbill has not been allocated anything, Interbill had, simply some numbers had been reserved as far as TVL was concerned? 
+A. No.
+
+Q. I want to suggest to you that -- 
+A. They had been paid for though.
+
+Q. Is there any particular reason, Mr Bragg when you say at the beginning of your affidavits there are many things you don't remember as to why you would remember this particular conversation with sufficient clarity to set it out in the way that you have? 
+A. Jonathan Bonnano? 
+Q. Yes? 
+A. Because things I am aware of.
+
+Q. Can I suggest that Mr Bonnano would never have actually commenced a conversation with telling you about numbers that had been allocated which you knew full well had already been allocated? 
+A. He would not know allocations sitting in the US, he's got the world at his fingertips.
+
+Q. What you have tried to do here is to work backwards from the series of e-mails that I have shown you to explain, to suggest that Mr Bonnano would be ringing you in a way that asserted that numbers had been allocated by
+Vanuatu? 
+A. Ever use the phone in the middle of night to make sure of things like that? Notwithstanding the unsatisfactory nature of the answer to this last question, the submission made by TVL that Mr Bragg appeared to accept that he did make up the conversation and that to his mind there was nothing wrong with doing so, must be rejected. What Mr Bragg clearly meant when he answered the question "so, what's wrong with that?" was a response that asked the cross- examiner to provide particulars of the basis upon which he was suggesting that he had made that conversation up.
+ It is clear from Mr Bragg's evidence that he took the view that he would obtain audiotext traffic whenever possible because it was so lucrative for
+Optus. It does appear that he was less than candid with his superiors and colleagues about what he was doing. It also appears that he refused to comply with requests made of him by TVL to shut the numbers down on which the rogue traffic was travelling. These are all matters that TVL relies upon to suggest that I would not believe Mr Bragg's evidence that Mr Hall agreed to USD$0.10 cents per minute in respect of all rogue traffic. I will of course take into account all of the matters relied upon by TVL in this regard. However it is necessary to analyse all the relevant evidence in determining whether Mr Hall did agree with Mr Bragg that TVL would accept USD$0.10 per minute in respect of the rogue traffic.
+ Mr Hall's email of 27 November 2000 to Ms Bicknell and Mr Bragg corroborates in part Mr Bragg's evidence that he advised Mr Hall that Optus was prepared to pay USD$0.10 per minute for the rogue traffic. It also corroborates Mr Bragg's evidence that Mr Hall said that he would get back to
+Mr Bragg in respect of that offer. That email suggested that Optus would receive about US$0.40 transit fee plus US$1.80 termination fee. His email urged Mr Bragg to reconsider and to come back to him. Mr Hall was cross- examined about his email of 27 November 2000 to Ms Bicknell and Mr Bragg as follows (tr 257-259): 
+Q. And you later had a conversation with Mr Bragg in which he corrected your figures, is that correct? 
+A. I think he refuted them, I am not sure corrected is the right word.
+
+Q. Well, he tried to show you that you were wrong in suggesting that
+Optus was receiving $2.20 less what it was paying to GIB or MDC, correct? 
+A. Yes. I recall him refuting it, yes.
+ 
+Q. That was done in a telephone conversation, wasn't it? 
+A. Yes.
+ ...
+
+Q. Tell her Honour, if you would please, what Mr Bragg said to you concerning the matter of the $2.20 that you were suggesting Optus received? 
+A. First of all John never revealed how much of the amount that came in was paid out to service providers and I never really had knowledge of how much. My estimate was that about $2.20 came into Optus under the cascade accounting system. John said, "Oh no, no, no, we don't possibly make that, our margins are much smaller. What you are asking for is outrageous".
+
+Q. What else did Mr Bragg say in the conversation in which the $2.20 issue was discussed? 
+A. I don't know, I mean I can't remember the specific conversation, I must admit. I doubt anything else was said very much, but, you know, pertaining to what I was asking for John stated that my estimates of, you know, how much they got were over, you know were inflated.
+
+Q. Do you recall whether Mr Bragg in this conversation reiterated his offer of 10 cents per minute? 
+A. Yes, I think he would have. He said - he would have said something like, you know, "I can only pay you 10 cents per minute", and I would have said, "Look, John, you have been running this as unauthorised traffic. Ten cents is not enough".
+
+Q. When in your answer you say "I would have said" or "He would have said", you are not giving evidence of something you actually remember being said; correct? 
+A. I can't remember the verbatim words that I spoke, no -- 
+Q. And what -- 
+A. -- but I do remember I did not agree to 10 cents a minute.
+
+Q. What you are doing now is trying to reconstruct, from documents that have been shown to you or what I am showing to you, what might have been said in conversations at about this time; correct? 
+A. I remember feeling that I have never agreed to 10 cents a minute. It would be contrary to good sense.
+
+Q. But you can't remember the effect of the words you used in the conversations with Mr Bragg about that matter at about this time; correct? 
+A. I remember the effect of the words that I did not agree to 10 cents a minute, and he felt that I was over-estimating the margin that they had and, therefore, his ability to pay the 20 cents a minute that I was insisting on.
+
+Q. At this time, the question of payment for rogue traffic was a matter that you wanted to put behind you in your relations with Optus; correct? 
+A. That's correct.
+
+Q. You wanted to reach an agreement with the rate and then move on towards good relations in the future; correct? 
+A. That's correct. I wanted them to stop issuing, arbitrarily issuing, numbers, particularly those within the ranges of our customers which are the most damaging ones.
+ This evidence corroborates part of Mr Bragg's evidence in the controversial paragraph 34 of his affidavit. Mr Hall accepted that Mr Bragg refuted his claim that Optus was receiving $2.20 per minute. It corroborates
+Mr Bragg's claim that this conversation took place on the telephone. It also corroborates Mr Bragg's evidence that he advised Mr Hall that Optus did not make the amount that Mr Hall had assumed it did.
+ Mr Hall was then taken to an email that he wrote to Mr Bragg and others on December 2000 on the subject "Number Ranges to APT". That email was in the following terms: 
+Please be kind enough to assign the following Vanuatu number ranges to APT until further notice.
+ xxx xxx 
+These numbers were carrying traffic for MDC (Mike Charlesworth) and were closed on our instruction a while ago. All payments due to TVL prior to this email should be paid directly by Optus. All payments due to TVL subsequent to this email will be paid by APT directly to TVL and therefore you should onpass the usual monies to APT (as per the other APT number ranges).
+ 
+Mike Charlesworth and APT have apparently reached an agreement between themselves such that MDC is paid by APT for the residuals on this number range.
+ Mr Hall was cross-examined about this email as follows (tr 261-264): 
+Q. Now, this reflects the agreement you reached with Mr Charlesworth in Hong Kong to reconnect MDC's number ranges of the 60 and 61 number ranges provided they operated through APT? 
+A. I think it more reflects John Bragg's lobbying that somehow something had to be done for Charlesworth. It seems to me that John Bragg wanted to provide number ranges for Charlesworth. We felt that we did not want to deal with him directly, that we wouldn't be paid for it, and we struck him underneath APT and thought yes that's manageable. We trusted APT declarations.
+
+Q. You, yourself, had made an agreement with Mr Charlesworth in Hong
+Kong about a week before this to reconnect MDC's number ranges, provided MDC provided through APT; correct? 
+A. I suppose - when you say "an agreement", I would have probably floated that as an idea, yes.
+
+Q. Well - 
+A. Because I wouldn't speak for APT and I had to subsequently get an agreement, I presume, from APT.
+
+Q. Well, a few minutes ago you agreed with the -- 
+A. No, I accept what you say that I said that when I was in Hong Kong I agreed with Mr Charlesworth to take the traffic provided he worked under APT.
+ ...
+
+Q. The reference to the "usual moneys" was a reference to 10 cents a minute; correct? 
+A. No, no. I don't know what the "usual moneys" that Optus would pay to
+APT would be. It would be a proportion of what I estimated to be $2.20. So
+Optus would keep their cut and they would pass on a sum of money to APT - it wouldn't have been 10 cents - and then APT would pay us 10 cents.
+
+Q. I take your point. But you expected that as a result of this agreement, APT would be paying you 10 cents per minute for traffic generated by MDC; correct? 
+A. By its service providers, by the sum of the traffic that APT generated, we would be paid under the APT agreement 10 cents per minute, correct, under that code of practice in place.
+
+Q. When you say in that email "all payments due to TVL prior to this email should be paid directly by Optus", you were making a demand for Optus to pay you for MDC's traffic prior to 14 December 2000; correct? 
+A. Correct.
+
+Q. And making a demand of that kind, I suggest to you, made little commercial sense unless you had agreed to the rate per minute for that payment to be made.
+
+A. I suppose so, yes.
+
+Q. ...because, of course, you had agreed by this time with Mr Bragg on the rate per minute to be paid by Optus for what you regarded as rogue traffic which had occurred up to early December 2000; correct? 
+A. For this specific instance of MDC, which I think we said was small beer, we said, "Pay up for what is running, pay it correctly under the contract for APT, and in this specific instance we would be happy to move on".
+
+Q. And the rate you agreed was 10 cents a minute for Optus to pay you for MDC's previous traffic; correct? 
+A. Well, I can't see that it says 10 cents per minute there.
+ 
+Q. What do you say to my proposition, Mr Hall? 
+A. It says that assumes TVL should be paid directly by Optus. Yes, it doesn't seem to mention a rate.
+
+Q. No, but you had agreed with Mr Bragg that the MDC traffic that you regarded as rogue traffic occurring prior to December 2000 would be paid by Optus to TVL at the rate of 10 cents per minute? 
+A. Not necessarily all of it. There was stuff we knew about which we believed was small beer.
+ ...
+
+Q. So that there is no doubt about it, Mr Hall, I'm asking you about what you regarded as rogue traffic generated by MDC before December 2000.
+ 
+A. My recollection is that the very small quantity of traffic was running by MDC through Optus and that was, I think, at the time that this was given to me, the declaration. Later on, large amounts of traffic, rogue traffic and different amounts of rogue traffic, turned up. But to tidy this up, I may have, in this specific instance, agreed to say, "All right, we'll put
+Charlesworth under APT to pay up the small amounts and then we will move on".
+But I did not agree for the larger volumes of traffic to be at 10 cents. In fact I fought that point quite hard.
+
+Q. You were negotiating the agreement that you reached at least concerning what you regarded as a small amount of MDC traffic which was rogue traffic. In your view, the agreement you reached with Mr Bragg shortly before this email was that that traffic would be paid for by Optus at 10 cents a minute; correct? 
+A. Correct.
+ Mr Hall agreed that on 27 December 2000 TVL's account was credited with an amount of $313,815 from Optus. He claimed that he was not certain that the whole of the amount was for "rogue traffic" and thought there could have been traditional traffic intermingled with it (tr 265). He was cross-examined on this topic as follows (tr 266-268): 
+Q. You were certainly aware, weren't you, by the end of 2000 that
+Optus had paid TVL a large amount of money for what TVL was saying was rogue traffic generated to its number ranges? 
+A. Yes.
+
+Q. You were aware that Optus had calculated that payment at the rate of cents a minute? 
+A. That's my recollection, yes.
+
+Q. And you were aware that the payment was larger than anything that you would have expected relating to MDC traffic alone; correct? 
+A. Yes.
+
+Q. And you formed the view when the payment came in from Optus for audiotext traffic that you regarded that as rogue traffic, and you regarded it as calculated at 10 cents a minute. You formed the view that that was a payment by Optus in relation not only to MDC traffic, but also GIB or
+Interwest traffic? 
+A. I would say a partial payment. I always was under the opinion that not all the traffic was declared.
+
+Q. You never raised any concern or issue with Optus as to the payment rate after receiving this amount of $313,815, did you? 
+A. Mr Milard, after this - at some time, traffic started to decline naturally because of the FCC benchmark order and Mr Milard went to Sydney to negotiate the traditional traffic as well because there was a dispute or unsettled amounts on the traditional traffic and it was brought up then as well.
+
+Q. By Mr Milard? 
+A. By Mr Milard.
+ 
+Q. You were not at that meeting were you? 
+A. No, I wasn't, no.
+ ...
+
+Q. You, yourself, never raised any concern or issue with Optus after receiving this payment of $313,000 as to the payment rate, or as to Optus owing you more money than this for what you regarded as rogue traffic; correct? 
+A. Not directly, but through Mr Milard.
+
+Q. And the reason you didn't raise any concern or issue with Optus was that you regarded the matter as settled by agreement with Mr Bragg for 10 cents a minute for all the rogue traffic which you regarded this payment as satisfying; correct? 
+A. No. We received a document - we tried to settle up the outstanding issues with Optus, including the traditional traffic, and we received - instead of an agreement where we could have all agreed on an equitable rate and put the whole thing to bed, it was a document that I was unable to sign because, from my view, it seemed as though Optus was asking TVL for indemnity against an action by American carriers. It was a very strange document and one
+I haven't seen in the normal course of business, and that is where it got left. The whole thing stalled.
+
+Q. Mr Hall, by the end of December 2000, you regarded relations with
+Mr Bragg as being good, didn't you? 
+A. Better.
+ 
+Q. You regarded them as good, didn't you-- 
+A. Yes-- 
+Q. --do you agree? 
+A. --they were up and down, yes.
+
+Q. You regarded the situation between TVL and Optus as stable, didn't you? 
+A. Apart from the issue of the settlement, yes.
+
+Q. Well, even taking into account the issue with the settlement, you regarded the situation between the companies as stable, didn't you? 
+A. Yes, compared with what was there before, yes.
+
+Q. You regarded the relations with Mr Bragg as good and the situation with Optus as stable because Optus, by the end of December 2000, had paid you what you had agreed to accept for the so-called rogue traffic; correct? 
+A. No, they paid it at 10 cents a minute. We didn't agree to 10 cents a minute for the rogue traffic.
+
+Q. At some stage they did pay you for at 10 cents a minute for the rogue traffic; correct? 
+A. They paid us a some of money for, as I said, what I considered to be a part of the rogue traffic, yes, at 10 cents a minute.
+ The reference to the "FCC benchmark" in this evidence was a reference to a benchmark order imposed in the USA providing how much was going to be paid for calls out of the USA, thus reducing the TAR.
+ Optus submitted that Mr Hall's claim that he regarded the $313,000 as "partial payment" should be rejected. It emphasised the fact that Mr Hall never raised any concern or issue with Optus after TVL received this payment.
+Mr Hall claimed he had done so through Mr Milard. However Mr Hall accepted that there was no complaint or issue raised by him or by Mr Milard between
+December 2000 and August 2002 concerning any outstanding payments for so- called rogue traffic (tr 270). On 2 September 2002 Mr Milard wrote to Optus in relation to a meeting between TVL and Optus on 26 August 2002. That email included the following: 
+Audiotext - TVL confirms that we require a statement from OPTUS certifying that
+OPTUS routes or short stops the traffic strictly as instructed by TVL (previous numerous faxes from Richard Hall).
+ - All amounts due to the audiotext service providers must be settled by
+OPTUS, so that TVL can be paid by the audiotext service providers for the use of Vanuatu number ranges.
+
+TVL asks for a financial compensation for the illegal audiotext use of
+Vanuatu numbers arranged by OPTUS in the past without the agreement of TVL.
+Following past emails on the matter, Richard Hall will indicate to OPTUS the amount which is claimed.
+ In cross-examination Mr Hall was referred to this section of the email, in particular to the suggestion that he would indicate to Optus the amount which was claimed. He was cross-examined on this matter as follows (tr 270-271): 
+Q. You never did so, did you? 
+A. It was pre-empted by the arrival of that document which, if you like, stopped all things moving forward.
+
+Q. You never indicated to Optus the amount which was claimed, did you? 
+A. Not that I recall, no.
+
+Q. Because you knew, didn't you, that you had reached an agreement with
+Mr Bragg in late November or early December 2000 that Optus would pay TVL 10¢ a minute for the so-called rogue traffic and you regarded the $313,000 payment as satisfying that agreement; correct? 
+A. Not at all, no.
+
+Q. Why do you say you never indicated to Optus the amount which was claimed? 
+A. Because as a result of this, as I recall, a document was issued by
+Optus which was a sort of settlement deed and that document I felt was outrageous. It was very difficult to move forward on that basis, and after that, you know, I think Thierry [Milard] spoke to them and said look, we can't move forward on the basis of this, this has completely tipped the scales, and after that further discourse wasn't really possible. It became stuck, basically.
+ A peculiar feature of Mr Hall's conduct is that he did not advise Mr
+Milard that he had agreed with Mr Bragg that Optus would pay 10 cents per minute for the MDC rogue traffic, notwithstanding that he accepted in his evidence that he had agreed to 10 cents per minute for the MDC traffic. He was cross-examined about this aspect of his conduct (tr 272): 
+Q. You hadn't told Mr Milard at any time in or after December 2000 that you had agreed with Mr Bragg to accept 10¢ for the MDC rogue traffic, did you? 
+A. I considered - I'm not sure whether I spoke to Thierry about it. I spoke to him about most things. Did I say to him we will just stick - I spoke to him about sticking MDC under APT to tidy it up. I don't think the MDC amounts are material.
+
+Q. You didn't tell Mr Milard that you had reached an agreement with
+Mr Bragg for the payment of 10¢ a minute for all the rogue traffic, whether
+MDC, GIB or Interwest, in December 2000; correct? 
+A. No, I never agreed to the 10¢ a minute for all rogue traffic.
+
+Q. I suggest to you the reason you never indicated after reading this email what amount TVL claimed was that you regarded TVL as having been fully paid in December 2000 by Optus' payment of $313,000? 
+A. Well, actually I handed over the document that Optus had put in front of us to my successor who was Mr Andrew Wigglesworth. I said to Andrew, "My advice is" - and he was acting MD - "do not sign this. We are still in dispute with Optus, I am moving on to a new job, you know, and you will have to deal with it now." So I never agreed to the 10¢ and the reason I didn't sign the proposed document from Optus was that it was outrageous.
+
+Q. So the proposed document from Optus had arrived shortly before you left TVL; is that right? 
+A. Well, you say shortly, but it was there quite a while, yes, a while before I left TVL.
+ In re-examination Mr Hall identified the "outrageous" document that he claimed had stalled the negotiations. That deed is dated October 2004 and it would appear that the earliest version of it was submitted to TVL on 8 April
+Optus submitted that there is no explanation as to why Mr Hall did not provide details of the amounts claimed for the rogue traffic between 2
+September 2002 and April 2004. It submitted that the reason there was no such explanation is because Mr Hall did agree with Mr Bragg in late November or early December 2000 to accept 10 cents per minute for all the so called "rogue traffic".
+ Mr Hall's evidence in his affidavit that he "never agreed" to accept
+US$0.10 per minute for the audiotext traffic operated by MDC was clearly quite wrong. Mr Hall's rather begrudging concession in cross-examination that he agreed with Mr Bragg that Optus would pay TVL at the rate of $0.10 per minute in respect of the MDC traffic was rather devastating for the balance of his evidence. He claimed in cross-examination that this agreement of $0.10 per minute for the MDC traffic was "not necessarily all of it" because the "stuff" as he called it, that TVL knew about was regarded by it as "small beer". This evidence suggested that Mr Hall was willing to concede that he had agreed that
+MDC traffic that he knew about would be paid at $0.10 per minute but that he had not agreed an amount in respect of traffic that he did not know about.
+That is a far cry from his affidavit evidence in which he claimed that he "never considered" that the amount of $0.10 per minute was adequate compensation. I have no doubt that Mr Hall was at the very least mistaken when he claimed in his evidence that he had not agreed with Mr Bragg to accept $0.10 per minute for MDC traffic. The fatal blow to Mr Hall's evidence in relation to the MDC traffic makes his evidence in relation to the other traffic very unreliable.
+ I accept that some of Mr Bragg's conduct seems to have been lacking in commercial morality, however that of itself does not prove that he did not have this conversation, as alleged, with Mr Hall. There was never any communication from Mr Hall or TVL to Mr Bragg or Optus during the period 2000 to 2002 that the agreement in relation to the 10 cents per minute for the MDC traffic was only in relation to the traffic that TVL knew about, and that TVL wished to reserve its position to negotiate for a higher or different rate for other traffic. Nor was there any suggestion that the payment that TVL accepted in December 2000, clearly calculated on the basis of 10 cents per minute, was not to be taken as acceptance of a rate of 10 cents per minute for the rogue traffic.  On balance I am satisfied that the conversation alleged by Mr Bragg with
+Mr Hall did occur and that Mr Hall, on behalf of TVL agreed to the figure of
+US$0.10 per minute in respect of all rogue traffic. As Mr Kunc conceded that finding puts an end to TVL's case and its claims will be dismissed.
+
+Other claims  Although my findings in relation to the agreement reached between Mr Bragg and Mr Hall puts an end to the plaintiff's claims, I should say something about two other aspects of the claims. TVL claims that Optus' actions in opening its international switch to permit entities other than those authorised by TVL to generate the rogue traffic amounted to conversion of the
+Vanuatu number ranges to Optus for Optus' benefit. TVL claims that Optus then received payments from originating carriers in respect of the use of those converted number ranges.
+ Optus made submissions on the assumption that TVL's rights over the +678 number ranges were proprietary, submitting that such rights are at best intangible property over which no claim for conversion lies. In support of this submission Optus relied upon the following passage of Cole JA's judgment (with which Meagher JA agreed) in Ferguson versus Eakin (New South Wales Court of
+Appeal, 27 August 1997, unreported, BC 9703869) at 9: 
+There can be no conversion of a chose in action: the subject matter of an action in conversion must be goods or property capable of possession or being subject to a right to possession.
+ In the same case Powell JA said at 2: 
+The debt which is represented by a credit in a bank account, not being a chattel, but being a chose in action cannot, in law, be the subject of a claim for conversion.
+ Reliance was also placed on the following passage of Dixon J's (as his
+Honour then was) judgment in Penfolds Wines Pty Ltd versus Elliott <case>; [(1946) 74 CLR 204] at 229: 
+The essence of conversion is a dealing with a chattel in a manner repugnant to the immediate right of possession of the person who has the property or special property in the chattel.
+ In Telecom Vanuatu Ltd versus Optus Networks Pty Ltd  <case>,
+White J declined to strike out TVL's claim in conversion. However, his Honour did not deal with the merits of the argument and in any event considered that for a Judge at first instance the matter was settled by binding authority. In
+Hoath versus Connect Internet Services Pty Ltd <case>; [(2006) 229 ALR 566], White J dealt with the issue of conversion of intangible property. In that case the plaintiff alleged that the defendants had committed the tort of conversion by their unauthorised dealings with the domain name "dragon.net.au". White J regarded Ferguson versus Eakin as binding on him and clearly establishing that there could be no claim in conversion or detinue of a chose in action (at 594). His Honour noted that the English Court of Appeal had come to the same conclusion in OBG Ltd versus Allan [2005] 2 All ER 602.
+(Since his Honour delivered his judgment in Hoath the House of Lords dismissed the appeal from the Court of Appeal in OBG: [2007] 4 All ER ). White J held that the plaintiff had to: identify a chattel embodying the intangible rights with which the defendant interfered; establish that it owned or had an immediate right to possess that chattel; and establish that the defendants dealt with the chattel in a manner repugnant to the plaintiff's rights. His Honour said (at 597-598): 
+Mr Hoath's right to use the domain name, the IP addresses and the AS number was recorded in an electronic form on the database of the internet registrar. ... However, Mr Hoath was never the owner nor did he have a right to possession of the chattel or chattels being, I infer, a hard disk, or a server, or some other piece of computer equipment, on which the information as to his right to use the domain name, IP addresses and AS number was stored. In my view, the defendants did not act in a way which was repugnant to any right which Mr Hoath had to the ownership or possession of a chattel. That is to say, although Spin and Com-Cen's interference with the internet registrar's records has deprived Mr Hoath of what I assume is his intangible property, namely the right to use the domain name, the IP addresses and AS number, they have not interfered with his ownership or right to possession of goods.
+Accordingly, the fiction by which a person may recover damages in conversion for the loss of a chose in action where the defendant has wrongly dealt in a chattel which contains, or, possibly, evidences, the chose, is of no avail to him. It would only be if the law of conversion were extended to dealings in intangible property that Mr Hoath could sustain these causes of action.
+ In their dissenting opinions in OBG Lord Nicholls and Baroness Hale expressed the view that there was no logical reason why the law should afford a remedy for misappropriation of tangible property but not intangible property. As Lord Nicholls said (at 602): "This distinction makes no sense. It lacks rhyme or reason".
+ In Thyroff versus Nationwide Mutual Insurance Company [832 N.Y.S.2d ] (2007), the
+New York Court of Appeals said (at 879) that "the tort of conversion must keep pace with the contemporary realities of widespread computer use". In Shmueli v Corcoran Group 9 Misc. 3d 589 (2005) the Supreme Court of New York County observed in dealing with a case of conversion of electronically stored data (at 592): 
+Does the common law tort of conversion become an extinct vestige of the past as to documents maintained on a computer, merely because traditional definition of documents evolve over time to the point wood pulp is no longer the only required medium upon which to record data.
+ In the United States, conversion has been held to be available in respect of an internet domain name (Kremen versus Cohen [337 F.3d 1024] (9th Cir 2003); electronic records stored on a computer (Thyroff); and unauthorised decryption and display of satellite program (Directv Inc versus Ostrowski [334
+F.Supp 2d 1058 (N.D.] Ill. 2004).
+ Under the present law, the tort of conversion is not available in relation to intangible property. However the powerful dissenting opinions of Lord
+Nicholls and Baroness Hale in OBG may one day find favour if the law is to keep pace with the advances in technology in our modern society.  The second matter was TVL's claim that by reason of the use of the Vanuatu number ranges, Optus has been "unjustly enriched at the expense of TVL".
+Unjust enrichment is not an independent cause of action but rather a concept which may explain why the law recognises an obligation to make restitution in a particular context. It is not a vehicle by which idiosyncratic notions of fairness and justice may be applied: Lumbers versus W Cook Builders Pty Ltd (in liq) <case>; [(2008) 232 CLR 635] per
+Gummow, Hayne, Crennan and Kiefel JJ at 665; Roxborough versus Rothmans of Pall
+Mall Australia Ltd [(2001) 208 CLR 516] per Gummow
+J at 543-545. As I have found that agreement was reached on a rate of USD$0.10 per minute for the rogue traffic, it is not necessary to consider this matter further.  
+Conclusion  The plaintiff's claims will be dismissed. The parties are to bring in short minutes of order reflecting this outcome together with an agreed costs order. The matter is listed at 9.15 on 12 December 2008 for that purpose. If the parties are unable to agree on a costs order I will hear argument at that time.  
+LAST UPDATED:  November 2008 * * * 

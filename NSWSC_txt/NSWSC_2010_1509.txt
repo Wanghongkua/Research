@@ -1,0 +1,382 @@
+
+
+Westpac Banking Corporation versus Toksoz & Anor [2010] NSWSC 1509 (23
+December 2010) 
+Last Updated: 10 January 2011 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Westpac Banking Corporation versus Toksoz & Anor <case> 
+This decision has been amended. Please see the end of the judgment for a list of the amendments.  
+JURISDICTION: 
+Equity Division  
+FILE NUMBER(S):  /277888  
+HEARING DATE(S):  to 9 December 2010  
+JUDGMENT DATE:  December 2010  
+PARTIES: 
+Westpac Banking Corporation (Plaintiff) 
+Ersever Toksoz (aka Gino Versace) (First Defendant) 
+Gulay Toksoz (Second Defendant)  
+JUDGMENT OF: 
+Palmer J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+A.G. Bell SC, P. Kulevski (Plaintiff) 
+D.C. Eardley (First Defendant) 
+P. Bolster (Second Defendant)  
+SOLICITORS: 
+Henry Davis York (Plaintiff) 
+Madison Shakespeare (First Defendant) 
+Allied Lawyers (Second Defendant)  
+CATCHWORDS: 
+FRAUD - "IDENTITY THEFT" - Bank defrauded of more than $1.1M via telephone banking and on-line banking - whether First Defendant was the fraudster. 
+TRACING - whether Second Defendant received any proceeds of the frauds with knowledge of the frauds - whether Second Defendant accountable as trustee.  
+LEGISLATION CITED:  [Evidence Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ea199580/) - [s (2)(c)](http://www.austlii.edu.au/au/legis/nsw/consolact/ea199580/s140.html)  [Fair Trading Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/fta1987117/) - [s 42](http://www.austlii.edu.au/au/legis/nsw/consolact/fta1987117/s42.html)  
+CATEGORY: 
+Principal judgment  
+CASES CITED:  - Black versus S. Freedman & Co <case>; [(1910) 12 CLR 105]  - Briginshaw versus Briginshaw <case>; [(1938) 60 CLR 336]  - Evans & Associates versus European Bank Ltd <case>; [(2004) 61 NSWLR 75]  - Foskett versus McKeown <case>; [[2001] 1
+AC 102]  - Hallett's Estate, Re [(1879) 13 Ch D 696]  - Heperu Pty Ltd versus Belle [(2009) 258 ALR 727], <case>  - Maronis Holdings Ltd versus Nippon Credit Australia Ltd <case>; [(2001) 38 ACSR 404]  - Sophie, Re <case>  - United States Surgical Corporation versus Hospital Products International Pty
+Ltd [[1983] 2 NSWLR 157]  
+TEXTS CITED: 
+Fratcher's "Scott on Trusts" (4th Ed) para 521, p 654  
+DECISION: 
+Judgment for Plaintiff against First Defendant for $868,655.33 plus interest; declaration that Second Defendant is liable to account as resulting trustee for assets to value of $742,836, and accrued interest.  
+JUDGMENT:  /277888 Westpac Banking Corporation versus Toksoz & Anor  
+JUDGMENT  December, 2010  
+Introduction  Between February 2005 and October 2007 Westpac Banking Corporation (Westpac) was defrauded of more than $1.1M by what is known as "identity theft". The addresses and telephone numbers of twenty-seven Bank customers were changed to addresses and numbers used by the fraudsters so that debit cards, credit cards and banking details of the customers could be diverted to the fraudsters and used to misappropriate the customers' money.
+ As soon as the frauds were discovered, Westpac reimbursed to its customers the funds taken from their accounts. Some of the misappropriated funds were discovered before they were disbursed to the fraudsters and were recovered by the Bank.
+ In these proceedings, the Bank seeks to recover from the Defendants, Mr
+Ersever Toksoz and Mrs Gulay Toksoz, its loss in respect of the unrecovered funds.
+ Westpac alleges that Mr Toksoz was the chief architect of the frauds, very probably in concert with one or more other people, and that Mrs Toksoz, who was married to Mr Toksoz during the relevant period, received a very considerable portion of the funds which Mr Toksoz had misappropriated. The
+Bank claims $868,655.33, together with interest, from each of Mr and Mrs
+Toksoz.
+
+The causes of action and the defences  Three causes of action are pleaded against Mr Toksoz. The first is the tort of deceit. The Amended Statement of Claim alleges that: "6. During the period February 2005 to October 2007, in order to induce the
+Bank to make available or to give access to monies held to the account of certain customers of the Bank, the first defendant made or caused to be made to the Bank misrepresentations that he was the customer and entitled to the monies (Misrepresentations).
+
+Particulars 
+Schedule A to the Amended Statement of Claim contains particulars of the following matters: customer name; date(s) of the Misrepresentations; date(s) of the transactions resulting from the Misrepresentations; sums advanced based on the Misrepresentations; recoveries made by the Bank; and total loss to the bank as a result of the Misrepresentations.
+The Misrepresentations were made by the following means: orally, or in the alternative partly oral and partly in writing (including electronic communication), by way of: telephone banking; and the provision of false information to Bank staff.
+ in writing (including electronic communication), by way of: internet banking; false credit card applications; and unauthorised transactions.
+
+Particulars 
+Schedule A to the Amended Statement of Claim
+The Misrepresentations were false, in that in each case the first defendant was not the customer whom he was representing himself to be.
+At the time of making each Misrepresentation, the first defendant: knew that the Misrepresentation was false; or alternatively made the Misrepresentation recklessly without caring whether it was true or false.
+ ...
+In reliance upon the Misrepresentations, the Bank advanced the total sum of $1,471,349.73 to the first defendant (Funds)." The second cause of action pleads the same facts in support of a cause of action for misleading and deceptive conduct in breach of [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/fta1987117/s42.html) [Fair Trading Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/fta1987117/) .
+ The third cause of action is a restitutionary claim, namely, for recovery of money paid by the Bank to Mr Toksoz under a mistake, namely, that in each of the relevant transactions Mr Toksoz was the Bank's customer entitled to the funds.
+ The Bank's first cause of action against Mrs Toksoz is founded on the first limb of Barnes versus Addy. The Bank says that Mrs Toksoz received the monies misappropriated from it in circumstances where she had notice of the facts whereby Mr Toksoz was a resulting trustee of the money on behalf of the Bank.
+ In the alternative, the Bank says that the funds misappropriated by Mr
+Toksoz can be traced into Mrs Toksoz's accounts and that, in respect of those funds, Mrs Toksoz was a volunteer. At the time that these proceedings were commenced, Mrs Toksoz was put clearly on notice that she was the recipient of misappropriated monies and has unconscientiously retained those monies for her own benefit. The Bank says that Mrs Toksoz is, therefore, liable to account for those monies to it in accordance with the principles discussed in Black v
+S. Freedman & Co <case>; [(1910) 12 CLR 105], and Heperu Pty Ltd versus Belle <case>; [(2009) 258 ALR 727.] One of the strongest planks in the Bank's case against both Mr and Mrs
+Toksoz is that the sources of large deposits into the accounts of Mr Toksoz,
+Mrs Toksoz and Mr Toksoz's company, G-Star Solutions Pty Ltd, during the relevant period are completely unexplained. Investigations into the financial affairs of Mr and Mrs Toksoz disclose no source of income of sufficient magnitude to explain the deposits. Mr and Mrs Toksoz themselves have proffered no explanation. Indeed, Mr Toksoz has adduced no evidence at all and the only evidence which Mrs Toksoz has adduced is the report of an expert accountant commenting upon a report produced by the Bank's expert. Both Defendants, in their Defences, deny or do not admit the allegations in the Bank's Amended
+Statement of Claim but plead no affirmative case.
+ A major issue in the trial was the identification of the fraudsters from transactions filmed on closed circuit television (CCTV). One of the fraudsters, who appeared in all transactions filmed, was said to be Mr Toksoz.
+On some occasions, the man was seen in the company of a woman, suggested to be
+Mrs Toksoz. Mr and Mrs Toksoz were not present at any time during the trial.
+No explanation for their absence was given. Mr Toksoz was represented by D.
+Eardley of Counsel and Mrs Toksoz was represented by Mr P. Bolster of Counsel.
+
+The issues  The Defendants do not contend that the Bank has not been defrauded by misrepresentations made to it in respect of the relevant transactions on customers' accounts. The Defendants do not dispute that the misrepresentations found causes of action in deceit, under [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/fta1987117/s42.html) [Fair Trading
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/fta1987117/), and for payment under a mistake. The issues in this case are concerned only with the identification of the fraudsters and the tracing of funds.
+ Mr A.G. Bell SC, who appears for Westpac with Mr P. Kulevsky of Counsel, readily concedes that: - apart from a number of instances where Mr Toksoz is said to have been filmed on CCTV actually effecting transactions on fraudulently obtained credit cards, there is no direct evidence that Mr Toksoz was responsible for the frauds but he submits that there is other overwhelming evidence from which that inference can be drawn; - there is no direct evidence that funds withdrawn from the victims' accounts with the Bank came into the accounts of Mr Toksoz, Mrs Toksoz and G-Star, but there is overwhelming evidence from which that inference can be drawn.
+ The issues in the case may therefore be summarised thus: - has the Bank proved that it was Mr Toksoz who was responsible for engineering the frauds; - has the Bank proved that funds derived from the frauds have been deposited into the bank accounts of Mr Toksoz, Mrs Toksoz and G-Star; - if funds derived from the frauds have been deposited in Mrs Toksoz's accounts, has the Bank proved: how much of the fraudulently obtained funds was deposited; that any of the fraudulently obtained funds remain in Mrs Toksoz's accounts and, if so, how much; that Mrs Toksoz was, actually or constructively, on notice of the facts whereby she is accountable as a trustee to the Bank under the first limb of
+Barnes versus Addy.
+
+Mr Bolster does not dispute that it would be unconscionable for Mrs Toksoz to retain the benefit of money in her accounts which are proved to be derived from the frauds committed against the Bank.
+ In determining whether the facts alleged against Mr and Mrs Toksoz are proved I bear in mind that, although the civil standard of proof applies so that I must be satisfied on the balance of probabilities, the gravity of the allegations of fraud against Mr and Mrs Toksoz requires that there be clear and cogent proof: Briginshaw versus Briginshaw <case>; [(1938) 60 CLR 336]; Re Sophie <case>; s 140(2)(c) [Evidence Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ea199580/) .
+
+An overview of the case against Mr Toksoz  Westpac's evidence falls into the following four categories: the three principal affidavits of the Bank's internal investigator, Mr
+Damiano, dated 5 June 2008, 9 March 2010 and 7 May 2010, and the affidavit of March sworn in support of a Mareva order; expert reports of a forensic accountant, Mr Williams; affidavits of the Bank's customers who were victims of the frauds; affidavits verifying business records including telephone records,
+Australia Post records and CCTV footage.
+
+The evidence in categories (c) and (d) is not in dispute.
+ Mr Damiano's evidence contains a detailed analysis of the fraudulent transactions, their links to Mr and Mrs Toksoz and the movement of monies between the accounts. The Bank has prepared twenty-seven detailed chronologies linking the evidence against Mr Toksoz and his involvement in the fraud against each victim.
+ The Bank says that Mr Toksoz's modus operandi was, with some variations, as follows.
+ Customers of the Bank are provided with a customer number, which is unique to each customer. To use telephone banking, customers are also issued with an access code. If a customer rings the Bank and says that he or she has forgotten or does not know his or her customer number or access code, he or she is asked a series of questions, which can be conveniently described and "wallet" and "non-wallet" questions.
+ A "wallet" question is one which is capable of being answered if someone has possession of the customer's wallet, which is likely to contain the full name and date of birth of the customer. "Non-wallet" questions are those which a person is unlikely to be able to answer simply by possessing a customer's wallet.
+ If the Bank is satisfied with the answers to the "wallet" and "non-wallet" questions, it tells the supposed customer his or her customer number and issues them over the phone with a new access code. In this case, in each of the twenty-four frauds involving telephone banking, the fraudster was issued with a new access code.
+ The Bank alleges that Mr Toksoz, or a person acting in concert with him, contacted Westpac, usually by means of telephone banking, and, armed with knowledge of a customer's details including the answers to "non-wallet" questions, applied to have an access code to the telephone banking reissued.
+There is no evidence as to how Mr Toksoz, or the person acting in concert with him, knew the correct answers to the "non-wallet" questions which were asked.
+That remains a matter of speculation. It is highly probable that an employee of the Bank was an accomplice in the frauds and supplied the information.
+ The Bank says that once Mr Toksoz had the customer number and access code for a customer, he was able to find out the balance in that customer's account by telephone banking. He was also able to change the address and telephone number linked to the customer's account to a telephone number and address controlled by him. After the address and telephone number for the account had been changed, Mr Toksoz would report the customer's credit card as lost or stolen and would arrange for a new card to be sent to the new address for the customer, which he had fraudulently changed.
+ When a new card is issued a personal identity number (PIN) is sent by mail to the customer's address. Once Mr Toksoz had a customer's card and the PIN for that card, he was able to use the card to withdraw funds from accounts linked to that card at ATM machines and to purchase goods using electronic funds at point of sale.
+ The Bank says that Mr Toksoz was able to, and did, transfer funds from the accounts of one victim to the accounts of other victims. The funds were then used to make purchases or were transferred to a "warehouse" account or accounts before ultimately being deposited into the accounts of Mr Toksoz,
+G-Star and Mrs Toksoz.
+ There is only one case in which a fraudulent withdrawal is made from a victim's account and deposited directly into Mr Toksoz's account. On 30 May , $9,999 was transferred from an account in the name of victim BH to a credit card account in the name of Gino Versace. "Gino Versace" was a name used by Mr Toksoz, as Mr Eardley concedes.
+ Apart from that transfer directly to him, there are four kinds of evidence that link Mr Toksoz to the frauds.
+ First, the Bank says that Mr Toksoz was filmed on CCTV using fraudulently- obtained customer cards in purchase transactions and withdrawals from ATMs. Mr
+Eardley and Mr Bolster say that I should not be satisfied that the person shown on the CCTV footage is, in fact, Mr Toksoz.
+ Second, addresses of victims were changed to addresses associated with Mr
+Toksoz.
+ Third, phone numbers of victims were changed to phone numbers used by Mr
+Toksoz.
+ Fourth, in two cases, telephone records establish that calls were made to
+Westpac telephone banking from numbers associated with Mr Toksoz at the same time as Westpac records show access codes or other information from customer accounts were being changed.
+
+Identifying victims and their particulars  There are twenty-seven customers of the Bank whose accounts have been defrauded by unauthorised transfers and withdrawals. In order to avoid providing in this judgment details of Bank customers which might permit further identity theft, I will refer to victims of the frauds by their initials, to mobile telephone numbers by "M" and the last three digits, to land-line telephone numbers by "LL" and the last three digits, and to addresses by the street number and suburb.
+
+Victim BH  On 29 May 2005, BH's telephone banking was accessed and the access codes were changed. On 30 May 2005, via telephone banking, BH's address was changed to 14 Westmead. Victims RB and TQ also had their addresses changed to 14
+Westmead. Mr Toksoz notified Westpac in July 2006 that the address for his account was 14 Westmead.
+ On 30 May 2005, BH's mobile number in the Bank's records was changed to
+M346. M346 is registered to Mr Mustafa Toksoz of 2 Pendle Hill. 2 Pendle Hill is an address used by Ersever Toksoz to open a Commonwealth Bank account in
+June 2006. Gulay Toksoz also opened an account with the Commonwealth Bank giving her address as 2 Pendle Hill.
+ On 30 May 2005, $21,499 was fraudulently transferred out of BH's account.
+Of this sum, $9,999 was transferred to a Commonwealth Bank of Australia credit card number in the name of Gino Versace. Gino Versace was at the time a name used by Ersever Toksoz, as evidenced by a formal change of name registered in the Registry of Births Deaths and Marriages.
+
+Victim ME  On 18 May 2007, a person falsely claiming to be ME successfully applied to the Bank for a credit card in the name of ME, giving as the address for the cardholder 100 Greystanes. 100 Greystanes was the address at which the subscriber to M013 was registered. The subscriber to that mobile phone was
+Cansever Toksoz, the sister of Ersever Toksoz. 100 Greystanes was also the address fraudulently given for victim AM. The land-line phone number fraudulently given for the credit card holder ME was LL000, which was also the number fraudulently given for victim MW.
+ On 21 May 2007, a credit card in the name of victim ME was sent to the
+Westpac branch at Auburn for collection. On 2 June 2007, the card was collected from the branch. The person who picked up the card, a man, was filmed on CCTV.
+ Between 2 and 7 June 2007, the card in the name of victim ME was fraudulently used for purchases, using EFTPOS facilities, and also ATMs, in an amount totalling $12,220.69. One of those transactions was a cash withdrawal on 2 June at a NAB ATM in Auburn, effected within five minutes of the collection of the card from the Westpac Auburn branch. The person making that cash withdrawal was filmed on CCTV.
+ Another of the transactions was a purchase totalling $182.57 on 3 June 2007 at Caltex Woolworths, Merrylands. The man making that purchase was filmed on
+CCTV.
+ Another of the transactions was a purchase on 4 June 2007 totalling $46.35 at a chemist's shop. The man making that purchase was filmed on CCTV.
+ As I have said, Ersever Toksoz did not appear in Court during the trial.
+However, there are in evidence clear photographs of him produced on subpoena by the Police and by the Roads and Traffic Authority. The Police photographs include a full length photograph, showing a man of stocky build, somewhat overweight. The photographs include full frontal and profile photographs. The features are distinctive. The hair is thick, dark and slicked down flat to the head.
+ I have studied the CCTV footage of these four transactions closely, as well as the CCTV footage of other transactions to which I will come shortly.
+Although the quality of the picture varies - the picture for some transactions is in colour, in others black and white, in some quite clear, in others grainy and badly lit - I have no doubt whatsoever that the man shown in all of these transactions is Ersever Toksoz.
+ Accordingly, I am satisfied beyond any doubt at all that it was Mr Toksoz who collected ME's credit card from the Auburn branch of Westpac and fraudulently used it to carry out three transactions between 2 and 4 June .
+
+Victim MM  On 20 October 2006, MM's telephone banking was accessed and a new access code issued. By 22 October 2006, with the use of the new access code, an additional postal address was added for MM's account. That address, PO Box 72,
+Granville, was leased to Ersever Toksoz.
+ On 22 October, the credit card of MM was reported lost or stolen and a new credit card was requested to be sent to PO Box 72, Granville. The card was sent on 23 October.
+ Between 30 October and 8 November, forty-four fraudulent transactions were effected on the new credit card, having a total value of $77,609.43. Some were
+EFTPOS transactions, others were cash withdrawals at ATMs.
+ One of these transactions was a purchase of goods on lay-by at Target,
+Blacktown, to the value of $741.37, on 26 October 2006. The goods were collected and paid for on 1 November 2006. The man effecting the lay-by on 26
+October and paying for the goods on 1 November with MM's credit card was filmed on CCTV. It is the same man. I have no doubt that it is Ersever Toksoz.
+ On 7 November 2006, MM's credit card was fraudulently used at David Jones city store to purchase clothes to the value of $1,457.80. The man making the purchase was filmed on CCTV. I have no doubt that it is Ersever Toksoz.
+ On 3 November 2006, telephone banking was used to change MM's mobile number to M355. That number was fraudulently used as a new number for victim IB and victim AF at an address, 37 Newtown, which was also fraudulently used for victim IB. On the same date, MM"s address was changed to 31 Paddington, which was also fraudulently used for victim AF.
+
+Victim IB  On 9 October 2006, via telephone banking, IB's access code was changed and his address was fraudulently changed to PO Box 98, Pendle Hill. That post office box was leased to Cansever Toksoz, who is the sister of Ersever Toksoz, and who gave her address as 2 Pendle Hill. In June 2006, Gulay Toksoz gave her address as 2 Pendle Hill to open a new Commonwealth Bank account. In June , Ersever Toksoz also used the 2 Pendle Hill address to open a
+Commonwealth Bank account. On 27 April 2006, Ersever Toksoz gave 2 Pendle Hill as the address for his account to Westpac.
+ On 9 October 2006, Westpac was notified that IB's wallet was lost or stolen and new credit cards were requested to be sent to PO Box 98, Pendle Hill.
+ Between 11 and 30 October 2006, IB's credit cards were fraudulently used to withdraw cash and purchase goods, to a total value of $65,342.25.
+ On 12 October, IB's telephone number was fraudulently changed by on-line banking to M784. That number was also fraudulently used for victim MM.
+ On 24 and 25 October, IB's bank account received transfers fraudulently effected from the accounts of another victim, MM.
+ On 26 October, IB's newly issued credit card was used at Harvey Norman,
+Auburn, to purchase goods to the value of $9,979. The man making the purchase was filmed on CCTV. I am satisfied that the man was Ersever Toksoz.
+ On 27 October, IB's new credit card was fraudulently used to purchase goods at a chemist's shop, to the value of $326.90. The man making the purchase was filmed on CCTV. I am satisfied that the man was Ersever Toksoz.
+ On 29 October 2006 at 00:44am, IB's new credit card was fraudulently used to withdraw cash from an ATM at Circular Quay. The man effecting the withdrawal was filmed on CCTV. I am satisfied that the man was Ersever Toksoz.
+ Three hours later the same day, IB's other new credit card was used in a fraudulent attempt to withdraw cash from an ATM at Darlinghurst. The man attempting to effect the withdrawal was filmed on CCTV. I am satisfied that the man was Ersever Toksoz.
+
+Victim KW  On 2 April 2007, a replacement credit card was fraudulently procured to be issued in the name of victim KW at an address 16 Elizabeth Bay. That address was also fraudulently used for victim AW.
+ On 25 June 2007, KW's mobile number was fraudulently changed to M892, which was also fraudulently used for victim AW. On the same day, a new credit card on KW's account was sent to 16 Elizabeth Bay.
+ Between 29 June and 9 July 2007, that credit card was fraudulently used to effect purchases and cash withdrawals totalling $24,054.60. One of those transactions was a purchase of goods to the value of $210 at Woolworths,
+Pemulway on 9 July. The man effecting the purchase was filmed on CCTV. I am satisfied that it is Ersever Toksoz.
+
+Victim AR  On 18 September 2006, telephone banking was accessed and AR's access code was re-issued. His address was fraudulently changed to PO Box 98, Pendle Hill.
+As previously noted, the lessee of that post office box was Cansever Toksoz, the sister of Ersever Toksoz. The same post office box was used for victim TL and victim IB. AR's telephone number was fraudulently changed to LL174, the subscriber for which is shown as Mark Preece of 14 Westmead. 14 Westmead was an address notified to Westpac in July 2006 as the address for the accounts of
+Ersever Toksoz.
+ On 18 September 2006, a new credit card was issued in the name of AR and sent to PO Box 98, Pendle Hill. On 21 September 2006, that credit card was fraudulently used in various EFTPOS transactions to the value $6,691.26. In one of those transactions the card was fraudulently used to purchase goods to the value of $93.40 from Caltex Merrylands. The man effecting that purchase was filmed on CCTV. I am satisfied that the man was Ersever Toksoz.
+
+Victim R  On 24 March 2007, R lost his wallet in Oxford Street, Darlinghurst. About four hours later telephone banking was accessed and a new mobile phone number for R was fraudulently inserted, M711. That mobile number was also fraudulently used for victims DM, TL, RB, NA and SC. Later on 24 March, telephone banking was accessed and R's address was fraudulently changed to 2
+Pendle Hill.
+ On 27 September 2006, Ersever Toksoz had notified Westpac that his address was 2 Pendle Hill. On 22 June 2006, Gulay Toksoz had used the address 2 Pendle
+Hill to open a new Commonwealth Bank account in her name.
+ On 24 March 2007, R's credit card was fraudulently used to effect purchases totalling $4,029.20.
+ On the same day two transfers totalling $9,000 were fraudulently made from one account of R to another account of R.
+
+Victim DM  On 18 May 2005, telephone banking was accessed and DM's access code was fraudulently changed.
+ On 19 May 2005, telephone banking was accessed and DM's address was changed to 2 Pendle Hill and the telephone number was changed to LL046. LL046 was also fraudulently used for victims TL, RB and AA. DM's mobile was changed to M711.
+That number was also fraudulently used for victims R, TL, RB, NA and SC.
+ On 19 May 2005, an application for a credit card was made in the name of DM at an address 4 Granville. That was the address at which Ersever Toksoz and
+Gulay Toksoz lived. The property was owned by Gulay Toksoz. DM's land-line was changed to LL702. That number was registered in the name of Gino Versace, the name also used by Ersever Toksoz.
+ On 24 May 2005, telephone banking was accessed and two transfers, each of $9,800, were fraudulently made from one account of DM to another account of
+DM, and thereafter to third party accounts.
+
+Victim TL  On 30 July 2005, LL474, which was registered in the name of Gulay Toksoz, was recorded as making a call to Westpac telephone banking. At the same time records show that telephone banking was accessed and a new banking password was fraudulently issued in the name of TL. On 1 August 2005, TL's mobile number was changed to M711. This mobile number was also fraudulently used for victim DM. Between 1 and 3 August substantial sums were transferred out of
+TL's account via on-line banking.
+ On 15 August 2005, an application for a credit card was fraudulently made in the name of TL in which TL's address is stated as 2 Pendle Hill, which was an address used by both Ersever and Gulay Toksoz, and TL's contact number is stated to be LL046, which was also fraudulently used for victims RB, AA, SC and TV. The subscriber for LL046 was a M. Yildirim whose address was given as Pendle Hill.
+
+Victim RB  On 5 May 2006, telephone banking for RB was accessed and a banking access code was fraudulently procured. Shortly afterwards, RB's address was fraudulently changed to 14 Westmead. On the same day a credit card on the account of RB was sent to 14 Westmead. 14 Westmead was notified to Westpac by
+Ersever Toksoz as the address for his account. That address was also fraudulently used for victims TQ and BH.
+ On 8 May at 17:05 hours a call was made from LL474, registered in the name of Gulay Toksoz, to Westpac telephone banking. At 17:10 hours that day, records show that $9,000 was fraudulently withdrawn from one of RB's accounts by telephone banking, deposited into another of RB's accounts and then transferred to the name of a third party whose address is shown as 2 Pendle
+Hill. That address is used by Ersever Toksoz, Gulay Toksoz, Cansever Toksoz,
+Mustafa Toksoz, M. Yildirim, and was used for victims R, DM, TL, RB and TV.
+
+Victim TV  On 5 June 2006, telephone banking was accessed and changes fraudulently made to the account details of TV. His address was changed to 2 Pendle Hill and his telephone number to LL046, which was also fraudulently used for victims AA, SC and DM.
+ On 6 June 2006, $9,500 was fraudulently transferred via telephone banking from TV's account to another account of TV, which also received a transfer from victim SC. On the same day, via telephone banking, $9,500 was fraudulently transferred to a third party account.
+
+Victim SC  On 17 May 2006, SC's account was fraudulently accessed via telephone banking and his address changed to PO Box 390, Parramatta. That post office box was leased by Cansever Toksoz who gave her address as 2 Pendle Hill. The same PO Box address was fraudulently used for victim RB.
+ On the same day, SC's mobile number was fraudulently changed via telephone banking to M711. That number was also fraudulently used for victims DM, R, TL,
+RB and NA. The land-line number was changed to LL046, which was also fraudulently used for victims DM, TL, RB, AA and TV.
+ On 25 May 2006, SC's account was accessed via telephone banking and the address 4 Granville fraudulently added. 4 Granville was the address notified to Westpac as the address for the Bank account of Gino Versace and Gulay
+Toksoz. The property was owned by Gulay Toksoz. That address was also fraudulently used in relation to victim DM.
+ On 5 and 6 June 2006, transfers were made from the account of SC to third party accounts totalling $32,500.
+
+Victim AT  On 22 October 2006, AT's account was accessed via telephone banking and the address changed to PO Box 72, Granville. That post office box was leased to
+Ersever Toksoz.
+ On 23 October 2006, a new credit card in the name of AT was sent to PO 72,
+Granville. Between 30 October and 8 November 2006, transfers via telephone banking were fraudulently made from the account of AT to the account of victim
+BC, and purchases and cash withdrawals were made using the newly issued credit card sent to PO Box 72, Granville.
+ Some $96,000 was fraudulently withdrawn from AT's account.
+
+Victim TQ  On 25 February 2005, victim TQ's account was accessed via telephone banking and a new access code and password fraudulently procured. On the same day,
+TQ's address was fraudulently changed to 14 Westmead, which was also the address fraudulently used for victim BH and victim RB. The telephone number was fraudulently changed to LL523, which was fraudulently used for victim RB.
+Between 25 February and 3 March, substantial sums were fraudulently withdrawn from TQ's accounts.
+
+Victim LM  On 23 October 2006, LM's account was accessed via telephone banking and her address changed to 36 Newtown. That address was used as the address for the telephone account of victim IB and also for a "Mr Merkan" who was said to be the purchaser of goods from Harvey Norman, Auburn, to the value of $9,979. The purchaser of those goods was filmed on CCTV and is Ersever Toksoz. Further details of that transaction are given under the heading Victim IB. LM's mobile was fraudulently changed to M784, which was also fraudulently used for victim
+IB.
+ Between 24 and 27 October, substantial sums were fraudulently transferred, via telephone banking, from LM's account to victim IB's account, and thereafter to third party accounts.
+
+Victim NA  On 9 August 2005, NA's account was accessed via telephone banking and a new access code reissued. On the same day, NA's address was changed to 17
+Darlinghurst. That address was also fraudulently used for victims BH, WC, JD and SC. NA's mobile telephone number was changed to M711, which was also fraudulently used for victims R, TL, RB, DM and SC.
+ On 10 August 2005, a transfer of $5,000 from the account of NA was fraudulently made via internet on-line banking to a third party account.
+
+Victim WC  On 14 November 2005, the account of WC was accessed via telephone banking and a new access code was issued. WC's address was changed to 17 Darlinghurst, which was the address also fraudulently used in relation to victims NA, BH and
+JD. It will be remembered that it was from the account of victim BH that $9,900 was fraudulently transferred directly into the account of Gino Versace, a name used by Ersever Toksoz.
+ On the same day, a new credit card was issued in the name of WC and sent to Darlinghurst. Between 1 and 6 February, that credit card was fraudulently used to make purchases totalling $25,358.01.
+
+Victim JD  On 5 September 2005, the account of JD was accessed via telephone banking and the access code and internet banking password were changed.
+ On 6 September, telephone banking for JD's account was accessed and the address changed to 17 Darlinghurst. 17 Darlinghurst was the address fraudulently used in relation to victims NA, WC and BH. JD's mobile telephone number was changed to M511, which was the mobile number fraudulently used in relation to victim DM. It will be remembered that the address fraudulently inserted for victim DM was 2 Pendle Hill, an address used by both Ersever
+Toksoz and Gulay Toksoz, and DM's telephone number was changed to LL046, the subscriber for that number giving the address 2 Pendle Hill.
+ On 6 September a new credit card was requested for victim JD, and on 9
+September a new credit card was sent to 17 Darlinghurst.
+ Between 6 and 10 September, very substantial amounts were withdrawn from the account of JD via telephone banking, branch withdrawals, ATM withdrawals and purchases.
+
+Victim LT  On 16 October 2006, telephone banking was accessed and a new access code issued in relation to the account of LT. On the same day, $9,500 was transferred from LT's account to the account of victim IB, and funds from IB's account were then fraudulently used to make purchases.
+ On the same day, telephone banking was accessed and the address of LT was changed to PO Box 98, Pendle Hill, which was the address also used for victims
+AR and IB. PO Box 98, Pendle Hill, was leased by Cansever Toksoz who gave the address 2 Pendle Hill. PO Box 98 was also fraudulently used for victims AR and
+IB.
+
+Victim NN  On 18 October 2007, the account of NN was accessed via telephone banking and the address changed to PO Box 639, Auburn. That post office box was leased to Cansever Yildirim who gave her address as 2 Pendle Hill. Cansever Yildirim is, doubtless, Ersever Toksoz's sister. It will be remembered that Ersever
+Toksoz notified 2 Pendle Hill as his address to Westpac, and that Gulay Toksoz notified that address as her address to Commonwealth Bank when opening a new account.
+ On 18 October a new credit card in the name of NN was sent to PO Box 639,
+Auburn. On 26 October that credit card was used to withdraw $2,000 from an ATM in Liverpool. Further substantial amounts were withdrawn on the same day at
+Westpac Newtown branch, Surry Hills branch, Double Bay branch and Bondi
+Junction branch. The withdrawals were in cash.
+
+Victim AF  On 30 October 2006, AF's account was accessed via telephone banking and the access code changed. At the same time, AF's address was changed to 31
+Paddington. That address was also fraudulently used in relation to the account of victim MM. AF's mobile number was changed to M355 which was also the mobile number fraudulently used for victim MM. It will be recalled that Ersever
+Toksoz was shown on CCTV purchasing clothes at David Jones store on 7 November , fraudulently using the credit card of MM.
+ On 7 November 2006, $9,999 was fraudulently withdrawn from AF's account via telephone banking and credited to the account of victim BC.
+
+Victim AA  On 22 August 2005, AA's account was accessed via telephone banking and the access code changed. The phone number was changed to LL046 which was also the telephone number fraudulently used for victims DM, TL, RB, SC and TV. That number was connected to 2 Pendle Hill. The mobile number for the account of AA was also changed to M881. The subscriber for that telephone number is shown at Pendle Hill.
+ On 22 and 23 August, very substantial sums were fraudulently transferred from the account of AA to third party accounts.
+
+Victim AM  On 5 June 2007, AM's account was accessed via telephone banking and the address changed to 100 Greystanes. That is the address shown for Cansever
+Toksoz and was also fraudulently used for victim ME. It will be recalled that
+Ersever Toksoz was shown on CCTV footage fraudulently using a credit card on
+ME's account.
+ On 5 June 2007 a new credit card on the account of AM was sent to 100
+Greystanes. On 6 June, telephone banking was accessed and two transfers totalling $8,700 were made from the account of victim AM to the account of ME.
+
+Victim BC  On 15 September 2006, a fraudulent application for a credit card was made in the name of victim BC and approved. On 2 November 2006, $2,000 was fraudulently transferred from the account of victim AT to the account of victim BC. It will be recalled that victim AT's address was fraudulently changed to PO Box 72, Granville, which was leased to Ersever Toksoz.
+ On 7 November 2006, $9,999 was fraudulently transferred from the account of victim AF to the account of victim BC via telephone banking.
+ Between 5 October and 8 November 2006 the credit card fraudulently procured in the name of BC was used on sixty occasions to withdraw amounts totalling $39,450.
+
+Victim AW  On 25 June 2007, the account of AW was accessed via telephone banking and a new internet banking password issued. On the same day, AW's phone number was fraudulently changed to M892. That mobile number was also used in relation to victim KW.
+ On 26 June, AW's address was changed via telephone banking to 16 Elizabeth
+Bay. That address was also fraudulently used in relation to victim KW.
+ Between 25 June and 9 July 2007, substantial amounts were withdrawn from the account of AW via internet and telephone banking transfers, some of which was placed in the account of victim KW.
+ It will be remembered that, on 9 July 2006, a credit card fraudulently procured in the name of victim KW was used to make a purchase at Woolworths
+Pemulway and CCTV footage shows that the person effecting the purchase was
+Ersever Toksoz.
+
+Victim MW  On 28 November 2006, an application for a credit card was fraudulently made in the name of MW and the address stated to be 7 Guildford. That address was also fraudulently used for victim DN. A new credit card was sent on the account of MW and between 30 November and 7 December 2006, it was used to conduct purchases and ATM transactions totalling $9,932.81.
+ One of those transactions was the purchase of items totalling $242.22 at
+Woolworths Granville on 2 December 2006. The man making the purchases was shown on CCTV. I am satisfied that the man using the credit card of MW was
+Ersever Toksoz. A second transaction using the same credit card was also effected on 2 December. Again, it was a purchase from Woolworths Granville for an amount of $478.91. The purchaser is shown on CCTV. It was Ersever Toksoz.
+
+Victim DN  On 30 October 2006, the account of DN was accessed via telephone banking and the access code changed. On 8 November 2006, DN's address was fraudulently changed to 7 Guildford, which was also the address fraudulently used for victim MW. Between 9 and 16 November 2006, more than $148,000 was fraudulently transferred from the account of DN.
+
+Findings as to Ersever Toksoz  Mr Eardley submits that, despite the evidence which I have recounted above, the accuracy of which he does not dispute, there is insufficient to support a conclusion that Ersever Toksoz was involved in any of the frauds committed against the twenty-seven Bank customers. I am unable to accept that submission.
+ Having regard to: - the identification of Ersever Toksoz on CCTV as the person making a significant number of withdrawals and purchases on fraudulently procured credit cards; - the transfer out of the account of victim BH into the account of Gino Versace; - the links between Ersever Toksoz and the fraudulently changed addresses and telephone numbers; - the unexplained deposits of large sums of money into the accounts of Mr Toksoz, Mrs Toksoz and G-Star during the period of the frauds, 
+I am satisfied beyond any doubt that Ersever Toksoz was directly and actively involved in each of the frauds on the twenty-seven victims.
+ Doubtless, others were involved in the frauds as well as Mr Toksoz. Even so, the evidence fully supports a finding that Mr Toksoz "made or caused to be made" the Misrepresentations, as alleged in paragraphs 6 and 7, Amended
+Statement of Claim. That phrase does not require a finding that Mr Toksoz himself made a particular Misrepresentation on each and every occasion on which a Misrepresentation was made to the Bank. Nor does it require a finding that Mr Toksoz, being himself in a position to dictate to others, directed someone else to make a particular Misrepresentation on each occasion on which a Misrepresentation was made. "Caused to be made" is a phrase encompassing all of the infinitely various ways in which one can be instrumental in, or can contribute to, bringing about an occurrence. The evidence satisfies me beyond any doubt that Ersever Toksoz was knowingly instrumental in, or contributed to, the making of each Misrepresentation upon which the Bank relied, whereby it suffered loss.
+ It follows that all of the elements of the Bank's causes of action against
+Mr Toksoz in deceit and under [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/ea199580/s42.html) [Fair Trading
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/fta1987117/) have been proved.
+ Mr Eardley does not contest the accuracy of the calculation of the loss suffered by the Bank as a result of the frauds on the twenty-seven victims, after making allowance for such recoveries as the Bank has been able to make.
+ Accordingly, there will be judgment against the First Defendant in an amount of $868,655.33, together with interest at the rates provided in the
+Uniform Civil Procedure Rules calculated from the date of service of the proceedings on the First Defendant.
+
+Whether Mrs Toksoz knowingly received proceeds of the frauds  In the 2005 financial year Ersever Toksoz had a disclosed taxable income of $3,213, and Mrs Toksoz and G-Star (whose sole director was Mr Toksoz) filed no tax returns. In the five months period from February 2005, when the frauds against the Bank began, to June 2005, the total amount deposited into the accounts of Mr and Mrs Toksoz and G-Star was $125,963.31. The source of the money has not been explained.
+ In the 2006 financial year, Mr Toksoz's disclosed income was $4,837. Mrs
+Toksoz and G-Star filed no tax returns. During this financial year, the amount deposited into the accounts of Mr and Mrs Toksoz and G-Star was $231,200.79.
+The source of the money has not been explained.
+ In 2007, Mr Toksoz's disclosed income was $29,937, Mrs Toksoz filed no tax return and G-Star's tax return disclosed income of $2,046. During this financial year the total amount deposited in the accounts of Mr and Mrs Toksoz and G-Star was $639,643.64. The source of the money has not been explained.
+ In summary, during the relevant period from February 2005, when the frauds commenced, and November 2007, when they ceased, Mr and Mrs Toksoz received over $1,100,000 into their bank accounts, over $600,000 of which was received into accounts conducted by Mrs Toksoz alone, the remaining going into their joint accounts or the account of G-Star. During that period, according to tax returns filed, the total cumulative income of Mr Toksoz was under $50,000. Mrs
+Toksoz filed a tax return only for the financial year 2008 in which she declared an income of $2,659. G-Star filed tax returns disclosing an income of $2,046 in 2007 and $113 in 2008.
+ On 25 March 2008, the Court made asset freezing orders against Mr and Mrs
+Toksoz and required them to file affidavits disclosing their assets. Mr
+Toksoz's affidavit, dated 11 April 2008, disclosed assets of $40 in cash and no other asset of any value.
+ Mrs Toksoz's affidavit, dated 10 April 2008, disclosed the property 4
+Granville as owned by her, unencumbered, which she had just sold for $510,000, from which, after deducting sale expenses, she would receive $495,000 on completion of the sale. Mrs Toksoz's proportion of the nett proceeds of sale attributable to unexplained deposits is $179,917.69: see Mr Williams' report 1
+December 2010, Appendix 3. Mrs Toksoz also disclosed: - a deposit of $80,000 paid by her in respect of the purchase of a property at Glenwood; - $45,000 to the credit of an account in her name at Commonwealth Bank; - three accounts at Westpac with credit balances of $90,000, $46,370 and $29,056; - an ANZ bank account with a credit balance of $297,000; - credit card liabilities totalling $64,000.
+ In answers to interrogatories, Mrs Toksoz did not explain the sources of any of the deposits made into her accounts except to say that she made the deposits by transferring funds from other accounts which she did not identify.
+She claimed to have been employed for eight months in 2005 but gave no further information about her income and the nature of her employment. She said that she was employed in 2006 by "Hewitt House", but could not say when she was employed except that "it was for a period of three [sic] commencing in early to mid-2006". The omitted word is probably "months".
+ In her answers to interrogatories, Mrs Toksoz disclosed no other source of income except a single parent benefit from Centrelink of $1,300 per month.
+ During the period from February 2005, when the frauds began, to March , just before the asset freezing order was obtained, there were 114 unexplained deposits into the bank accounts of Mrs Toksoz, totalling $886,268.10, and fourteen unexplained deposits into the joint account of Mr and Mrs Toksoz, totalling $53,574.23. A bank cheque for $18,000 dated 12 April was purchased by Mr Toksoz and made out in favour of Mrs Toksoz, and a bank cheque for $75,000, dated 16 July 2007, was also purchased by Mr Toksoz and made out in favour of Mrs Toksoz.
+ In total, Mrs Toksoz received $1,032,860.33 during the relevant period. Of that amount, the Bank claims that $868,655.33 came from the frauds committed by Mr Toksoz against its twenty-seven customers - the difference between that amount and the total received by Mrs Toksoz, i.e. $164,205, is clearly from sources other than the frauds committed against the Bank's customers but the sources of those funds are not explained.
+ It is clear that, before the frauds against the Bank commenced, there were deposits into the accounts of Mr and Mrs Toksoz which cannot be explained by their disclosed incomes. For example, excluding Centrelink payments, $3,200 was deposited in December 2004 and $6,890 was deposited in January 2005. In
+February 2005, when the frauds commenced, the deposits jumped to $53,316. The total amounts deposited per month thereafter varied considerably - never below $4,000, often above $20,000 and, on three occasions, more than $100,000 and on one occasion - in March 2008 before the asset freezing orders were obtained - more than $150,000. After the asset freezing orders, the monthly deposits fell dramatically: $1,921 in May 2008, $3,358 in June and $3,092 in July.
+ The Bank retained an expert forensic accountant, Mr John Williams, to conduct an analysis of the deposits into the accounts of Mr and Mrs Toksoz and
+G-Star in comparison with the amounts misappropriated from the accounts of the twenty-seven Bank customers. Mr Williams prepared three reports, dated 24
+March, 1 December and 8 December 2010. The reports are meticulous and exhaustive in their detail.
+ Mr Williams proceeded on the basis that it was unlikely that amounts misappropriated from the accounts of the twenty-seven Bank customers would be deposited into the accounts of the fraudsters within a very short space of time, for example, within the same month. Accordingly, he did a cumulative comparison, taking the cumulative value of the misappropriations during the period from February 2005 to November 2007, when the frauds ceased, and comparing it with the cumulative value of unexplained deposits into the accounts of Mr and Mrs Toksoz and G-Star from February 2005 until 25 March , when the asset freezing orders were obtained. In my opinion, that was an entirely appropriate and sensible basis of analysis.
+ Mr Williams found that "there is a high level of correlation between the amounts of the unexplained deposits into the accounts of Mr and Mrs Toksoz and
+G-Star and the amounts from the victims' accounts which received money from the victims' accounts": 24 March 2010 report, para 19. Despite some adjustment to his calculations in his second and third reports, Mr Williams remained of that view.
+ In cross examination, Mr Williams said: "I was asked to examine whether I thought there was a pattern between the withdrawals and the deposits, and my conclusion was that there was because it is an extraordinarily similar pattern over the course of a lengthy period between those unexplained deposits and those withdrawals. ... I certainly didn't assume that it was Westpac money. I cannot definitively say it is
+Westpac money. However, I can say that there is an extraordinary pattern which exists between the deposits and the withdrawals. 
+Q. Is it not the case that, if you were to look at a number of customers of
+Westpac, you may very well see a similar pattern in terms of unexplained deposits to their accounts when you compare it to withdrawals from the victims' accounts? 
+A. My own view is the odds of finding two sets of data, one of withdrawals from ... so, if we take, for example, withdrawals from your accounts and we compare it to deposits in mine, I would be shocked if they even ended up at a similar amount. I am not making any assumption about both of our respective expenditures. All I am saying is that with two completely unrelated sets of data I would not expect the scale of the end result to be similar, let alone the pattern of withdrawals, compared to deposits, to track so closely over a lengthy period of time. I would find it extraordinary. So, while there may be a chance that ... while there may be a very, very small chance that that data would track along a similar line, it would be extraordinarily remote."  Mr Halligan, the accounting expert called on behalf of Mrs Toksoz, had not been asked to conduct a tracing exercise similar to that done by Mr Williams nor had he been asked to check the accuracy of Mr Williams' figures. He had been asked to express an opinion on Mr Williams' methodology and reasoning.
+ Mr Halligan calculated statistical correlation coefficients between withdrawals from victims' accounts in a particular month and deposits into the
+Toksoz accounts in the same or the following month. However, that was not the exercise which Mr Williams did nor was it a sensible exercise to do, bearing in mind that it was not inherently probable that a fraudster would take money out of a victim's account and deposit the sum in another bank account within a very short space of time. I did not find that Mr Halligan's comments as to Mr
+Williams' methodology weakened the conclusions to which Mr Williams had come.
+ In determining whether any of the proceeds of Mr Toksoz's frauds on the
+Bank were received into Mrs Toksoz's accounts I must draw inferences. I have regard to the following facts: - neither Mr Toksoz nor Mrs Toksoz had, at the relevant time, any disclosed sources of income or other assets which could have explained the very large deposits into Mrs Toksoz's accounts; - Mrs Toksoz had been married to Mr Toksoz during part of the relevant period, the marriage being dissolved in early 2007, but there is no evidence as to when, or if, they ceased cohabitation or as to nature of their relationship at all material times; - Mr and Mrs Toksoz had both given their residential address as 4 Granville, which was an address used in a number of the frauds; - substantial sums of money came into Mrs Toksoz's accounts directly from Mr Toksoz and from accounts in the name of Gino Versace; - Mrs Toksoz opened a Commonwealth Bank account giving 2 Pendle Hill as her address - an address used in a number of the frauds on the Bank.
+ - Mr Toksoz's sister, Cansever, also gave 2 Pendle Hill as her address in leasing PO Box 98, Pendle Hill, which was used in a number of the frauds; - LL474, a telephone number registered in the name of Mrs Toksoz, was used to change fraudulently the banking details of victim RB; - Mr Williams found a high correlation between the amounts taken from the victims' accounts and amounts deposited in the accounts of Mr and Mrs Toksoz.
+
+I have no hesitation in drawing the inference that Mrs Toksoz was the recipient of proceeds of Mr Toksoz's frauds on the Bank.
+ In determining whether Mrs Toksoz received proceeds of Mr Toksoz's frauds with knowledge that they were derived from frauds on the Bank, I have regard to the following facts: - very substantial deposits were made during the relevant period into accounts in the name of Mrs Toksoz and she was the sole signatory of those accounts and effected transactions on those accounts; - statements for Mrs Toksoz's bank accounts were sent to the addresses which she nominated to the Banks and there is no evidence that she did not receive those statements; - there is no evidence from Mrs Toksoz that she did not know that substantial deposits were made into her accounts during the relevant period; - there is no evidence from Mrs Toksoz that she did not know that her addresses were used in Mr Toksoz's frauds; - there is no evidence from Mrs Toksoz which could suggest that the receipts by her were derived from sources unconnected to Mr Toksoz's frauds on the Bank's customers; - there is no evidence of any inquiry made by Mrs Toksoz as to the source of the funds deposited into her accounts by Mr Toksoz.
+ In those circumstances, I have no hesitation in drawing the inference that
+Mrs Toksoz had actual knowledge that the funds she received into her accounts were derived from Mr Toksoz's frauds on the Bank. Accordingly, Mrs Toksoz knew the facts constituting the funds which she had received as trust funds in the hands of Mr Toksoz and as trust funds in her own hands when she received them from him: see Evans & Associates versus European Bank Ltd <case>; <case>- <case> and the authorities there cited.
+ In drawing these inferences, I have regard to what was said by the Court of Appeal in United States Surgical Corporation versus Hospital Products
+International Pty Ltd [[1983] 2 NSWLR 157], at 258E: "... the plaintiff seeking to make good an equitable right must, in our opinion, prove that the adversary acquired the property in suit with knowledge of that right. As we have endeavoured to show, this requirement may be satisfied if the evidence establishes facts which, to a reasonable man, would demand inquiry, and the absence of that inquiry. We do not doubt that the plaintiff must prove those facts by leading the necessary evidence; and must, at the end of the day be able to point to the absence of inquiry. But we consider that once the plaintiff has led that evidence, an evidentiary onus falls upon the defendant to prove inquiry if he can; and thus to rebut, by means which lie in his hands rather than the plaintiff's, the inference which the facts, unanswered and unexplained, would readily permit. In the present case HPL made no attempt to discharge that burden. In the absence of evidence from the quarter from which, if available, it should have come, we conclude that HPL made no inquiries, and that this omission was deliberate and prompted by the conviction that inquiries would reveal the truth of what USSC alleged.
+For these reasons, we are of the opinion that HPL acquired the assets it took in the take over with knowledge that rendered it accountable to USSC as a constructive trustee." 
+See also Maronis Holdings Ltd versus Nippon Credit Australia Ltd <case>; [(2001) 38 ACSR 404], at [469]-[472].
+ Accordingly, I hold that Mrs Toksoz is accountable as a trustee to the
+Bank under the first limb of Barnes versus Addy.
+
+For how much is Mrs Toksoz accountable  Mr Williams has identified a total of $1,117,349.99 (before deducting recoveries by the Bank) as having been misappropriated from the twenty-seven victims' accounts: Exhibit P37, para 19. Of that sum, $149,819 is shown as
+EFTPOS transactions. Of those transactions, $24,000 was withdrawn in cash, so that $125,819 of the Bank's funds was expended on goods and services.
+ Mr Bolster says, correctly, that there is no evidence that it was Mrs
+Toksoz who derived the benefit of those goods and services nor is there evidence that the value of those goods and services can be traced into the hands of Mrs Toksoz. He submits that there is no basis upon which Mrs Toksoz can be accountable to the Bank for the value of those goods and services.
+ Mr Bell submits that even if the goods and services acquired from Bank funds were entirely for the benefit of Mr Toksoz, nevertheless Mrs Toksoz is accountable to the Bank for their value because Mr Toksoz, in acquiring the goods and services, did not have to use his own money to do so: he was therefore able to transfer into Mrs Toksoz's accounts more cash than he would have had available if he had not used the Bank's money to acquire the goods and services.
+ Mr Bell has not cited any authority in support of this proposition as an available means of tracing. The difficulties in the concept are discussed in
+Fratcher's "Scott on Trusts" (4th Ed) para 521, p 654, thus: "It can be argued ... that the victim should have priority out of the wrongdoer's estate because but for the wrong the estate would have been diminished. Ordinarily, however, it is impossible to show whether the wrongdoer would have made payments out of his estate if he had not obtained the money from the victim that in fact he used in paying the debt. The courts, therefore, have generally refused to speculate on what the wrongdoer might have done with his own property if he had not committed the wrong." I do not think that the principles of tracing can be called in aid to hold
+Mrs Toksoz accountable for the value of goods and services acquired by Mr
+Toksoz unless it can be shown that she actually received those goods and services or their value. As was said by Lord Millett in Foskett versus McKeown <case>; [[2001] 1 AC 102], at 128: "Tracing is ... neither a claim nor a remedy. It is merely the process by which a claimant demonstrates what has happened to his property, identifies its proceeds and the persons who have handled or received them, and justifies his claim that the proceeds can properly be regarded as representing his property. Tracing is also distinct from claiming. It identifies the traceable proceeds of the claimant's property. It enables the claimant to substitute the traceable proceeds for the original asset as the subject matter of his claim.
+But it does not affect or establish his claim.
+
+That passage was quoted with approval by the Court of Appeal in Evans &
+Associates versus European Bank Ltd (supra).
+ Accordingly, although the whole of the unrecovered proceeds of the frauds, $868,655.33, can be recovered from Mr Toksoz as damages, $125,819 of that sum cannot be traced into the hands of Mrs Toksoz. It follows that only $742,836.33 of the misappropriated unrecovered funds in the form of cash can - possibly - be traced into the hands of Mrs Toksoz through deposits into her bank accounts.
+ It is clear that more than $742,836 has been deposited into Mrs Toksoz's accounts from unexplained sources. The evidence shows that, at least as at 10
+April 2008, Mrs Toksoz had remaining assets to the value of $769,543, comprising cash in her accounts and real estate acquired by use of cash in her accounts from time to time. It may be that some of the cash in Mrs Toksoz's accounts came from sources other than funds misappropriated from the Bank by
+Mr Toksoz. It may be that Mrs Toksoz used her own money, as well as the Bank's money, in making deposits, withdrawals, discharging her home loans and acquiring property. However, what is clear is that $742,836.33 of the deposits in Mrs Toksoz's accounts is unexplained and could have come from the frauds against the Bank's customers. In the absence of explanation otherwise, I infer that money totalling that sum was indeed the proceeds of Mr Toksoz's frauds against the Bank and was therefore held by Mrs Toksoz on a resulting trust for the Bank.
+ Mrs Toksoz has mingled the money held by her on a resulting trust for the
+Bank with other money, possibly her own. Whatever might be the amount which she has dissipated out of the mingled fund over the years, the law holds that what is now untraceable has been expended out of her own money in preference to the money held on trust for the Bank: Re Hallett's Estate [(1879) 13 Ch D .](/cgi-bin/LawCite?cit=%281879%29%2013%20Ch%20D%20696 "View LawCiteRecord" ) It follows that, of her remaining assets, both in cash and in real estate, assets to the value of $742,836, together with accrued interest, are held by
+Mrs Toksoz on trust for the Bank.
+ The Bank therefore succeeds in its Barnes versus Addy claim against Mrs
+Toksoz so that she is liable to account as a trustee for $742,836 together with interest. The trust property comprises her remaining cash (including any interest earned on that money since it came into her accounts) and any interest in real estate acquired by Mrs Toksoz using the cash which was deposited into her accounts during the period from February 2005 to April .
+ There is no evidence that Mrs Toksoz received the proceeds of Mr Toksoz's frauds other than as a volunteer. Accordingly, even if I had held that Mrs
+Toksoz had no notice of the fact that the deposits into her account included the proceeds of Mr Toksoz's frauds against the Bank until she was served with these proceedings, from that date onwards she would have been liable to account to the Bank for $742,836 together with interest in accordance with the principles discussed in Black versus S. Freedman & Co (supra) and Heperu Pty
+Ltd versus Belle (supra).
+
+Orders  I will stand the proceedings over for a short time to enable the Plaintiff to formulate Short Minutes of Order reflecting these reasons for judgment. The
+Court will then hear argument as to costs.
+ - oOo - 
+AMENDMENTS:  /12/2010 - Spelling error in legal representatives: "Kulevsky" amended to "Kulevski" - Paragraph(s) Legal Representatives - Counsel  
+LAST UPDATED:  December 2010 * * * 

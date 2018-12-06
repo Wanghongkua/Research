@@ -1,0 +1,634 @@
+
+
+Ralston versus Bell & Smith trading as Xentex Patch & Grout [2010]
+NSWSC 245 (31 March 2010) 
+Last Updated: 1 April 2010 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+Ralston versus Bell & Smith trading as Xentex Patch & Grout <case>  
+JURISDICTION: 
+Common Law Division  
+FILE NUMBER(S):  /264950  
+HEARING DATE(S):  -30 April, 1 May, 1-3 September 2009, 3 March 2010.  
+JUDGMENT DATE:  March 2010  
+PARTIES: 
+Collin Ross Ralston (Plaintiff) 
+Peter Bell & Warren Smith t/as Xentex Patch & Grout (1st Defendants) 
+Williams River Steel (2nd Defendant) 
+Sue Gai Connell & Mark Connell t/as New Line Patching (3rd Defendants) 
+Ace Hire Australia Pty Limited (t/as Ace Scaffolding Services) (4th Defendant) 
+Workcover Authority NSW - Uninsured Liabilities - Agent for Workcover Scheme (5th Defendant) 
+GIO General Limited (9th Cross Defendant)  
+JUDGMENT OF: 
+Hislop J  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+M. Joseph SC/J. Catsanos (Plaintiff) 
+In person; S.J. Walsh (from 27.4.09) (1st Defendants) 
+P.M. Morris (2nd Defendant) 
+A.D.M. Hewitt SC/S.J. Maybury (3rd Defendant) 
+R.A. Cavanagh (4th Defendant) 
+N.E. Chen (5th Defendant) 
+G.M. Watson SC (9th Cross Defendant)  
+SOLICITORS: 
+White Barnes (Plaintiff) 
+In person (1st Defendants) 
+Moray & Agnew (2nd Defendant) 
+Curwoods Lawyers (3rd Defendants) 
+Boyd House & Partners (4th Defendant) 
+Sparke Helmore Lawyers (5th Defendant) 
+Holman Webb Lawyers (9th Cross Defendant)  
+CATCHWORDS: 
+Common law  personal injury  construction site  liability  damages.  
+LEGISLATION CITED:  [Motor Accidents Compensation Act, ](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/)  [Civil Liability Act, ](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/)  [Workplace Injury Management and Workers Compensation Act, ](http://www.austlii.edu.au/au/legis/nsw/consolact/wimawca1998540/)  [Workers Compensation Act, ](http://www.austlii.edu.au/au/legis/nsw/consolact/wca1987255/)  [Occupational Health and Safety Act, ](http://www.austlii.edu.au/au/legis/nsw/repealedact/ohasa2000273/) 
+Insurance [Contracts
+Act](http://www.austlii.edu.au/au/legis/nt/consolact/ca125/)  [Law Reform (Miscellaneous Provisions) Act, ](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/)  
+CASES CITED: 
+Allianz versus GSF <case>; <case> 
+Rinaldi Patroni Pty Limited versus Precision Mouldings Pty Limited <case>; <case>; <case>; <case> 
+Australian Mutual Provident Society versus Chaplin <case>; <case> 
+Turner versus Stewardson <case>; <case>; <case>; <case> 
+Arthur Robinson versus Carter <case>; <case>; [(1995) 182 CLR 1]  
+TEXTS CITED: 
+Law of Torts, Balkin & Davis, 1996  
+DECISION: 
+Judgment in favour of the plaintiff against the first defendants for $632,357.53. (2) Judgment in favour of the second defendant. (3) Judgment in favour of the third defendants. (4) Judgment in favour of the plaintiff against the fourth defendant for $632,357.53. (5) Judgment in favour of the fifth defendant. (6) First, second, third, fourth, sixth, seventh and eighth cross claims dismissed. (7) In respect of the fifth cross claim, order: (a)
+First cross defendants to the fifth cross claim to indemnify the fifth cross claimant/fourth defendant as to 75% of the verdict against it. (b) Fifth cross claim dismissed as against the second and third cross defendants to fifth cross claim. (8) In respect of the ninth cross claim: declare that the ninth cross defendant, GIO General Limited, is liable to indemnify the first defendants pursuant to the policy of insurance, Policy No. AP7KO00379, in respect of their liability (including the first defendants' costs) in these proceedings. (9) Reserve all questions of costs pending submissions by the parties.  
+JUDGMENT:  
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+COMMON LAW DIVISION 
+HISLOP J 
+Wednesday 31 March 2010 /07 COLLIN ROSS RALSTON versus PETER BELL & WARREN SMITH t/as
+XENTEX PATCH & GROUT 
+JUDGMENT 
+Introduction On 17 March 2004 the plaintiff, then aged 39, sustained personal injury when, whilst he was working on a construction site at Kincumber, New South
+Wales, an unregistered mobile elevated work platform, or boom lift (the vehicle), driven by Russell Wheeler, collided with him.
+ The plaintiff has sought to recover damages for his injuries from the defendants who are respectively: the first defendants - Messrs Peter Bell and Warren Smith trading as
+Xentex Patch & Grout ("Xentex"). They had contracted with the third defendants to carry out patching and grouting work on the site. They had engaged the plaintiff to assist them in that work; the second defendant - Williams River Steel Pty Limited ("WRS"). This company was the principal contractor at the time of injury; the third defendants - Sue Gai Connell and Mark Connell trading as New
+Line Patching ("NLP"). They had contracted with WRS to carry out the patching and grouting work on the site and had subcontracted that work to Xentex; the fourth defendant - Ace Hire Pty Limited ("Ace"). This company was the legal owner of the vehicle; the fifth defendant - Workers Compensation Nominal Insurer ("the nominal insurer"). This defendant was sued as the nominal insurer pursuant to [Pt ](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/index.html#p4)
+Div 6 of the [Workers Compensation
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/wca1987255/), 1987 ("WCA").
+ The defendants have denied liability to the plaintiff and have alleged that the plaintiff's injuries were caused or contributed to by his own negligence.
+ The defendants have cross claimed against each other. Xentex has also cross claimed against the ninth cross defendant, GIO General Limited ("GIO") which they allege insured them against their potential liability to the plaintiff.
+GIO denies liability to indemnify Xentex.
+ There was no agreement as to the damages which the plaintiff would be entitled to recover in the event he established liability.
+ The issues are complicated by the interplay of the provisions of the [Motor
+Accidents Compensation
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/maca1999298/), 1999 , the [Civil Liability
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/cla2002161/), 2002 , the [Workplace Injury Management and Workers Compensation
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/wimawca1998540/), 1998 and WCA, each of which has potential application in this case.
+ The plaintiff received workers' compensation payments from NLP pursuant to [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/wimawca1998540/s20.html)
+WCA in respect of the injury.
+
+Background 
+The site The construction site was owned by Mid Central Pty Limited. It was developing the site as a swimming pool complex. The site was fenced off from the street. Entry to the site was by a padlocked gate in the fence, the keys to which were held by WRS, NLP and a building erector, Mr Price, who had contracted for that work with WRS.
+ At the time of injury the main frame and shell of the building had been erected and the precast panels were in place. There were gaps in the panels where doors and windows were to be constructed. The building was approximately x 18 metres. The interior of the building was empty.
+ The plaintiff first worked on the site on 16 March 2004. Apart from the
+Xentex principals and those engaged by them, the only persons working on the site on that day were Mr Price and his two employees.
+ On 17 March 2004 the only persons on site for Xentex were the plaintiff, Mr
+Wheeler and Mr Henry Waikuri. The only other persons on site were Mr Price and his two employees.
+
+The circumstances of injury The plaintiff in his evidentiary statement (Exhibit A) described the circumstances of the injury as follows: "72. Later I saw Mr Wheeler drive the boom lift over to the western wall of the building and proceed to the corner of the western and southern walls where he raised the arm of the boom and began patching.
+ . At that stage I was patching the floor of the interior of the building. To do this I was kneeling down and using a trowel. I had one knee up to my chest and the other knee on the floor with my leg out behind me.
+ . I was moving along the floor towards the northern wall as I was patching and I had my back to the western wall where Mr Wheeler had been working.
+ . Also in the area at the time were some contractors who were working on the roof and for that purpose were using an extended scissor lift.
+ . The roller door to the building was open and there was some general noise coming in through there.
+ . I'd say that about 1½ hours after I'd commenced patching the floor, I heard a beeping noise from the scissor lift and looked over to the lift where
+I could see it being moved by the roofers. I was able to see that the lift was not coming towards me and so I resumed patching the floor.
+ . Almost immediately after that I felt an enormous weight crashing my leg and hip and turned to see that the boom lift was running over me.
+ . The boom lift repeatedly revved loudly as Mr Wheeler (obviously not realizing it was me) tried to get the boom to drive over me. It seemed as though he reversed and then tried again a couple of times. I was screaming that I was being run over and eventually the boom lift reversed off me.
+ . I did not hear the boom lift coming and didn't realise that it was heading towards me. I had no idea what was about to happen.
+ . There was no exclusion zone or barricades or any other system in place to isolate the boom lift." This, in broad outline, was consistent with a statement signed by the plaintiff and dated 22 March 2004 (Exhibit 2D3), a statement by the plaintiff to an insurer dated 22 June 2004 (Exhibit 4D1) and the plaintiff's evidence in chief. There were, however, some discrepancies in relation to the precise position of the plaintiff and the distance he was from the vehicle, his estimate of that distance ranged from six to eight metres, perhaps a little more, to "around 10 metres at least".
+ Mr Wheeler, though available, did not give evidence. His statement dated 7
+May 2004 (Exhibit V) was admitted, though not against all parties. It was of limited relevance and stated: "Name of injured person: Ralston 
+Who was injured person working for at the time at the accident: Xentex
+Patch and Grout 
+Name of supervisor or other person of authority in charge of the injured person: Warren Smith 
+Where did the accident happen? Kincumber 
+Date of injury: 17/3/04 Time: 11.00 am 
+The date you became aware of the condition: 17/3/04 
+Time 11.00 am 
+How did the injury/condition happen: Colin was run over by boom lift.
+ 
+Describe as far as practicable the injury sustained (eg, laceration, broken leg): At time obvious injury to leg 
+Did you actually see the accident (Y/N): Y 
+How near were you to the injured person (metres/feet): 5-6 metres 
+Are there any other people who witnessed the injury (Y/N): Y 
+If Yes, give contact details: Unsure of names or details" Mr Price gave evidence that he was outside the building when the plaintiff was injured. His men were inside the building using two scissor lifts to assist in insulating the roof. He became aware of the injury when a person came running out yelling "Call 000". Mr Price went inside the building and observed the plaintiff with a crush injury to the leg. He said he had heard nothing of what was occurring inside the structure until he heard a scream at the time of the accident. Prior to then he had only heard the noise of people working.
+ There were no other witness accounts of the circumstances of the injury in evidence.
+ The plaintiff's injuries were consistent with the vehicle colliding with him in the manner alleged. I accept that the plaintiff was injured in that manner.
+
+Liability in relation to the vehicle 
+The vehicle The vehicle was a four wheel drive which had a retractable boom with a bucket at the end of it from which a person or persons could safely work at heights. A photograph of a similar style of vehicle, though not the vehicle involved, was in evidence (Exhibit 2D 1). The height of the boom of the vehicle, ie the working platform height, was 34 feet or "a bit over nine metres". As the height of the boom was less than 11 metres it was unnecessary for the operator to hold a certificate of competency in its operation. The vehicle was fitted with two alarms. One alarm sounded when the boom was being raised, lowered or swivelled, the other when the vehicle was travelling. The latter alarm sounded when drive was engaged.
+
+Owner It was common ground: the vehicle was a motor vehicle as defined in [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/wimawca1998540/s3.html)
+MACA; the vehicle was unregistered; the injury to the plaintiff was caused by a motor accident as defined in [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/wimawca1998540/s3.html)
+MACA; 
+Ace was the owner of the vehicle under the general law; the vehicle was hired by Ace to Mr Price from 5 March 2004 to 15 March and was on site during the whole of that hiring. The hire of the vehicle was then transferred from Mr Price to WRS. The period of hire by WRS was from March 2004 to 27 March 2004 and from 27 March 2004 to 29 March 2004. The transfer was effected without removing the vehicle from the site.
+ There was an issue as to whether Ace was the owner of the vehicle as defined in [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/wimawca1998540/s4.html)
+MACA.
+ MACA [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/wimawca1998540/s4.html) provides, relevantly: "(1) For the purposes of this Act: ...
+ in the case of a motor vehicle that is unregistered, the owner is any person who solely or jointly or in common with any other person is entitled to the immediate possession of the vehicle...
+
+For the purposes of this section, a person is taken not to have ceased to have possession or, as the case may be, not to have acquired possession of a motor vehicle where a change of possession occurs by way of: any hiring (not being a hiring under a hire-purchase agreement) or lending of the vehicle for a period not exceeding 3 months; ..." The plaintiff submitted that [s (1)(b)](http://www.austlii.edu.au/au/legis/nsw/consolact/wimawca1998540/s4.html) must be read with [s (2)](http://www.austlii.edu.au/au/legis/nsw/consolact/wimawca1998540/s4.html); that Ace was the owner of the vehicle and remained so, notwithstanding the hire to WRS which, because the period of hire was less than three months, was taken not to have acquired possession.
+ Ace submitted it was not on site and had no role at the time. It was not entitled to immediate possession of the vehicle, WRS was. As Ace was not entitled to immediate possession it was not the owner of the vehicle under [s (1)(b)](http://www.austlii.edu.au/au/legis/nsw/consolact/wimawca1998540/s4.html) and [s (2)](http://www.austlii.edu.au/au/legis/nsw/consolact/wimawca1998540/s4.html) had no application to it.
+ I do not agree with the submission for Ace. The opening words of sub-s (2) "For the purposes of this section", require that sub-s (2) be read with sub-s (1)(b). Where a hiring is for a period not exceeding three months, the owner of the vehicle under the general law remains the owner for the purposes of [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/wimawca1998540/s4.html)
+MACA and is entitled to immediate possession. The hirer is taken not to have acquired possession of the vehicle and thus has no right to immediate possession. Accordingly, I find that Ace was the owner of the vehicle for the purposes of MACA.
+
+Agent There was an issue as to whether Mr Wheeler was the agent of Ace pursuant to [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/wimawca1998540/s112.html)
+MACA, which provides relevantly: "(1) For the purposes of: any proceedings against the owner of a motor vehicle, whether severally or jointly with the driver of the vehicle, for the recovery of damages for liability in respect of the death of or injury to a person caused by the fault of the driver of the vehicle in the use or operation of the vehicle, and the third-party policy, if the vehicle concerned is an insured motor vehicle, any person (other than the owner) who was, at the time of the occurrence out of which the proceedings arose, the driver of the vehicle (whether with or without the authority of the owner) is taken to be the agent of the owner acting within the scope of the agent's authority in relation to the vehicle." Ace submitted that [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/wimawca1998540/s112.html)
+MACA only operated to deem the driver the agent of the owner where there was a third party policy in existence. As there was no third party policy in existence in the present case, there was no deemed agency.
+ ACE submitted such a construction would be consistent with the scope and objects of the Act. The Act was never intended to create a liability in the owner of a piece of work equipment in respect of an accident happening on a building site, particularly in circumstances where the owner was not even present on the building site and the equipment was being driven by a person with whom the owner had no relationship. Consistently with an interpretation in accordance with the purpose, scope and objects of MACA (being the approach which must be adopted - Allianz versus GSF <case>; <case>), and having regard to the 2006 amending Act which was intended to clarify the pre- amendment scope and object of the Act (Hooker versus Gilling <case> at <case>- <case>), s should be interpreted in such a way that its application was limited to circumstances where the vehicle concerned was an insured motor vehicle.
+ The plaintiff submitted the meaning of the section was clear. Sub-section applied to two distinct situations. It applied for the purposes of: any proceedings against the owner [irrespective of whether the vehicle was insured or not], and for the purposes of the third party policy [if the vehicle concerned was an insured motor vehicle].
+
+The statutory agency is a device to allow parties like the plaintiff to go directly to the owner to make their claim and to identify the owner as the person to whom the claim ought be made.
+ The plaintiff further submitted Ace's construction, contrary to the clear wording of the section, reduced the application of <case> to one, namely proceedings against the owner of an insured motor vehicle. There is no authority supporting such a construction and in the absence of ambiguity no cause to resort to a purposive construction particularly as the section was not amended by the 2006 amendments.
+ As Ace's counsel fairly conceded, the plaintiff's construction appears to have been generally accepted in the past and there are cases through the history of the legislation where parties have accepted that <case> applies to unregistered and uninsured vehicles.
+ In my opinion, there is no ambiguity in <case>. Sub-section (1)(a) applies for the purposes of any proceedings whether the vehicle is insured or not whilst sub-s (1)(b) applies for the purposes of the third party policy, if the vehicle is an insured motor vehicle.
+
+The alarm There were issues as to whether the travel alarm was operative at the time of injury and, if not, whether that was causative of injury.
+ The vehicle was examined after the accident. It was reported that "one of the reversing beeps was not working". This is suggestive that there was more than one reversing beeper (travel alarm) but the case proceeded on the basis there was but one travel alarm.
+ On 18 March 2004 a mechanic attended the site. His invoice (Exhibit L) records that he "replaced faulty travel alarm on site".
+ It was the practice before commencing to operate the vehicle each day to conduct a safety check which included checking that the alarms were operating.
+The result of this check was noted in a log book kept on the vehicle (Exhibit
+C). Ace submitted the obligation to do so existed by virtue of condition 1 of its Conditions of Hire or was implied from the provision of the log book with the vehicle.
+ Mr Price gave evidence he had encountered no problems when using the vehicle during his period of hire. He completed the safety checks each day the vehicle was to be used. He, or his employees, used the vehicle on 4, 5, 8-12 and 15 March 2004. He noted the log book appropriately on each of these days.
+He was on site on 16 March 2004 and saw the vehicle being operated. He had a recollection of hearing the alarm as the vehicle was moving. He also heard an alarm sounding on the vehicle on 17 March 2004 but he was unsure which alarm it was as he did not pay much attention to it.
+ Mr Smith said that on 16 March 2004 he carried out the safety check on the vehicle in the absence of the plaintiff and before commencing to operate the vehicle. He said that the alarms were working. He agreed that he had not completed the log book for that day. He said this was because he did not have a biro or pen with him. He had intended to fill it in at smoko but forgot to do so. He said there was nothing faulty with the machine when he used it on that day. He was cross examined on these matters. However I accept his evidence.
+ Mr Bell also confirmed that he heard the travel alarm working on the vehicle on 16 March 2004. He said the alarms were still working at the end of that day.
+ The plaintiff gave evidence he could not remember whether the alarms were working on 16 March 2004. He agreed it was possible they were. He said that on March 2004 he did not hear the vehicle approaching him. He agreed that when he completed the statement for the investigator in June 2004 (Exhibit 4D 1) he could not recall whether or not the travel alarm was working at the time and suggested he could not hear it because of the beeper of the scissor lift.
+ The plaintiff gave evidence in his evidential statement Exhibit A [65]-[66] that he operated the vehicle on the morning of 17 March 2004. He did not say he carried out any safety check on the vehicle. Although he drove the vehicle, he gave no evidence as to whether the travel alarm was operating or not at that time. He also saw Mr Wheeler drive it. He made no comment as to whether the alarm was working at that time.
+ If the plaintiff knew on 17 March 2004 before the accident that the travel alarm was not working, then it was grossly negligent of him to seat himself on the ground 6, 8 or 10 metres from the vehicle, knowing that the driver's view would be restricted and that he, the plaintiff, would be attending to his work possibly with his back to the vehicle and thus potentially unaware of the approach of the vehicle, the alarm on which was not working.
+ In my opinion, the plaintiff would not have placed himself in that position had he known that the alarm was not working at the time Mr Wheeler drove the vehicle into position to work from it. He would have known if such was the case. Whether the alarm failed between Mr Wheeler reaching his workplace and the accident is a matter of pure conjecture. In my opinion, it has not been established that the travel alarm failed prior to the injury to the plaintiff.
+
+Was Mr Wheeler negligent? There was an issue as to whether Mr Wheeler was negligent.
+ Mr Bell gave evidence: that when the operator was sitting in the bucket with the boom down and moving the vehicle he could not see in front of the vehicle; if the operator moved the vehicle with the boom in the air he could see right around the vehicle; he did not know if the vehicle could be driven from a position other than in the bucket; in the operator's course which he had done, he was instructed that if the operator was going to move forward and could not see, good practice was to use a spotter.
+ The plaintiff submitted Mr Wheeler drove the vehicle in circumstances where he could not see the plaintiff or, alternatively, did not take sufficient care to observe the plaintiff. He may have driven in an area he was not meant to drive. He drove the vehicle at a speed which was inappropriate and in circumstances where he should have been aware of the plaintiff's presence. All of the evidence confirms that the vehicle, with the boom down, had a blind spot, making it inappropriate to drive without somebody assisting. The Court should infer the travel alarm was not working yet Mr Wheeler drove the vehicle.
+ Ace submitted Mr Wheeler was not negligent as he was unable to see the ground directly in front of the vehicle as the vehicle moved forward, there was no evidence that he knew or should have known of the presence of the plaintiff, he had received no training or instruction and may have been unfamiliar with the use of the vehicle.
+ In my opinion, Mr Wheeler owed a duty of care to check that no-one was in the path of the vehicle before he moved off. The blind spot may have affected the view which Mr Wheeler had of the area which he proposed to traverse and in particular his view of the plaintiff. If Mr Wheeler's view was obstructed, he should have moved to a position where he could check that no-one was in his proposed path before moving off and, if necessary, he should have asked one of the other persons working for Xentex to act as spotter until he had moved the vehicle to his next place of work. It is apparent from the photograph of a similar vehicle (Exhibit 2D 1) that no difficulty would have been involved in stepping from the bucket to the ground to check the way was clear or to arrange a spotter. If the view was not obstructed then his failure to observe the plaintiff in his path was evidence of failure to keep a proper lookout and negligence. I do not consider there was evidence to establish Mr Wheeler was driving at an inappropriate speed or driving in an area where he knew he was not meant to drive.
+ In my opinion, had Mr Wheeler taken reasonable precautions he would have observed the plaintiff and would have either warned him to move out of the projected path of the vehicle or taken an alternative route which would have avoided the risk of injury to the plaintiff. Either way, injury to the plaintiff would have been avoided.
+ Accordingly, in my opinion, the plaintiff was injured as a result of the negligence of Mr Wheeler in driving the vehicle. Ace is vicariously liable for that negligence pursuant to <case> of MACA.
+
+Was Ace otherwise liable? It was further submitted that Ace was negligent in supplying a vehicle on March 2004 that was not fit for its purpose by reason that the travel alarm was non-operative. In my opinion, the probabilities are that the alarm was operating when the contract of hire between WRS and Ace commenced and that it was at some later time, not clearly defined in the evidence, that the alarm ceased to be operative. There was no evidence that Ace had been notified of a defective alarm prior to the plaintiff's injury.
+ Accordingly, whilst there will be a verdict and judgment for the plaintiff against Ace, that verdict and judgment is the result solely of the vicarious liability of Ace for the actions of Mr Wheeler.
+
+Contract indemnity WRS had hired equipment from Ace over many years though less so in the years immediately before the accident.
+ When WRS took over the hire of the vehicle from Mr Price, the transaction was arranged for WRS by its purchasing officer at the request of WRS's project coordinator and a purchase order was forwarded by WRS to Ace (Exhibit L).
+ Subsequently tax invoices dated 26 March 2004 and 31 March 2004 were received by WRS from Ace (Exhibit 4D3). The invoices were paid by WRS.
+ On the reverse side of the invoices, under a heading "Hiring Agreement", were a series of paragraphs containing various terms and conditions. There was evidence, which I accept, that the same terms and conditions had been sent out by Ace on the reverse side of its invoices since at least 1998. There was no reference to the terms and conditions on the front of the invoice which stated "This is a payment claim under the [Building and Construction Industry
+Security of Payment Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/)." Paragraphs 1 and 5 of the terms and conditions were relied upon by Ace.
+They stated: "USE OF EQUIPMENT . The hirer shall at all times use the equipment in a skilful and proper manner and shall at his own expense service, clean and maintain the equipment in good and substantial repair and condition, reasonable wear and tear excepted.
+
+DAMAGE TO PROPERTY OR PERSON . The hirer shall be responsible for any loss or damage to property or person caused by the equipment for any reason whatsoever during the period of hire and the hirer shall indemnify the owner in respect of all claims, damages and expenses in relation hereto." Ace submitted that the paragraphs on the reverse side of the invoice, by reason of the course of dealings between the parties over many years, constituted terms and conditions of the contract for the hire of the vehicle by WRS between 16 March 2004 and 27 March 2004. It submitted that WRS was in breach of para 1 of the terms and conditions by reason of the failure of WRS, as hirer of the vehicle to ensure the daily safety checks were undertaken and the log book completed. Alternatively it was in breach of an implied term to that effect. Accordingly, WRS was liable in damages for any loss suffered by
+Ace due to the injury to the plaintiff. Ace relied upon para 5 as entitling it to a full indemnity.
+ WRS disputed Ace's claims. It submitted: that Ace had not established the terms on the reverse side of the invoice formed part of the contract of hire between Ace and WRS. The tax invoice was not a contractual document. It would not matter how many times it was sent in the past, because it was not a contractual document and in each case emerged after the contract. It was not part of the contract. The WRS purchase order contained all necessary information and was accepted by delivery of the equipment for hire, the tax invoice from Ace went to the accounts section of WRS. Neither the purchasing officer nor the project coordinator saw it. There was no evidence that this was not the practice adopted at all times. Ace had failed to establish that the terms were in the contemplation of the parties when the hiring was made; properly construed condition 1 did not, in its terms, require WRS to ensure that various safety checks were undertaken and the log book completed, nor was such a term to be implied for reasons of business efficacy; on its proper construction, para 5 did not provide an indemnity for the negligent driving of the vehicle. The obligation to indemnify under cl 5 did not arise where the liability arose out of the negligent driving of the vehicle but only where the liability arose from a feature of or a defect in the vehicle.
+ The contract between WRS and Ace was constituted by the delivery of the vehicle in response to the WRS purchase order. The tax invoices were forwarded later, after the contract was made and after the injury to the plaintiff was sustained. The invoices were in the nature of accounting documents and went directly to the accounts section of WRS for payment. The invoices contained no reference on their face to the terms and conditions on the reverse side.
+Neither the purchasing officer nor the project coordinator had ever seen them.
+There was "no evidence of any course of prior dealing in which the parties mutually regarded the terms and conditions endorsed on the back of form as part of the contract between them" - Rinaldi Patroni Pty Limited versus Precision
+Mouldings Pty Limited [[1986] WAR 131] at 138. I accept the submission of WRS that the tax invoices were not contractual documents and that the terms and conditions on the reverse side thereof did not form part of the contract for the hire of the vehicle by WRS.
+ I also accept the submission of WRS that condition 1 did not, in its terms, require WRS to ensure that various safety checks were undertaken and the log book completed, nor was such a term to be implied for reasons of business efficacy. In any event, in the absence of a finding that the alarm was defective at the time the safety check would have been made on 17 March 2004, any such breach would have no causative effect.
+ A guarantee falls to be construed strictly; it is be read contra proferentem; and, in case of ambiguity, it is to be construed in favour of the surety. Those principles are relevant not only to guarantees but also to the construction of indemnity clauses - Andar Transport Pty Limited versus Brambles
+Limited <case>; <case>, [22], [23], [17]. In the circumstances of this case the construction advanced by WRS in respect of cl 5 is to be preferred to that put forward by Ace.
+ In my opinion, Ace cannot rely upon conditions 1 and 5 of its tax invoice as against WRS.
+
+Other liability 
+The relationship of the plaintiff to Xentex Xentex commenced business in or about December 2003. It operated from Mr
+Bell's home. Its business was the patching and grouting of precast panels. Its principals were Messrs Bell and Smith. The physical work was done by the principals and by "workers" engaged on an "as needs basis". The plaintiff was engaged on this basis. The business ceased trading in June 2004.
+ There was an issue as to whether the relationship of the plaintiff to
+Xentex was that of employer/employee, principal/independent contractor or deemed worker pursuant to cl 2 of Sch 1 of WIM, the High Court having observed in Leighton Contractors Pty Limited versus Fox <case>; <case> that the distinction between employees and independent contractors, though the subject of criticism, was too well established to be changed.
+ The nature of the relationship, whether employer/employee or principal/independent contractor, is to be determined by having regard to the totality of the relationship and by reference to the indicia of that relationship: Stevens versus Brodribb Sawmilling Co Pty Limited <case>; [(1986) 160 CLR 16] particularly at [24] per Mason J and at [36] per Wilson and
+Dawson JJ.
+ The High Court in Leighton Contractors Pty Limited versus Fox at [21] stated: "It is common in the construction industry for the principal contractor to arrange for the works to be carried out by subcontractors rather than by employing its own labour force. Among the advantages that accrue to the principal contractor in adopting this model for its undertaking is that it does not incur the obligations that the law imposes on employers." In Pacific Steel Constructions Pty Limited versus Barahona <case> the Court of Appeal, after referring to Fox at [21], said that there were legal and practical advantages to principals in so arranging for construction activities to be carried out and that there were both advantages and disadvantages to subcontractors.
+ Clearly it is legitimate for a principal, for economic or other reasons, to engage a person to perform work for it on a construction site as a subcontractor even though the work might as readily be done by an employee (Fox at [62]). It is legitimate for a principal to structure its business so as to be free of obligations such as leave, holiday pay and the like and this is a recognised rationale for the use of independent contractors.
+ In Stevens the High Court examined the indicia relative to the determination of the relationship of employment. In the course of so doing they observed that the actual terms and terminology of the contract will always be of considerable importance.
+ The Privy Council in Australian Mutual Provident Society versus Chaplin <case>; [(1978) 18 ALR 385] (at 409) said of a clause in an agreement which described the relationship between the parties as "that of principal and agent and not that of master and servant"; "where there is no reason to think that the clause is a sham, or that it is not a genuine statement of the parties' intentions, it must be given its proper weight in relation to other clauses in the agreement." The contract between Xentex and the plaintiff was not in writing. However the principals of Xentex gave evidence that the agreement was for the plaintiff's engagement as an independent contractor, this having been discussed by the principals of Xentex with the plaintiff, who agreed to be engaged on the basis offered. Notwithstanding the cross examination of Messrs
+Smith and Bell, I accept their evidence in this regard. There is no reason to believe the agreement was a sham. That the intention of the parties was that the relationship should be that of principal/independent contractor was supported by contemporary documents, namely a medical certificate dated 17
+March 2004 (Exhibit 5D 1) obtained by the plaintiff and describing him as a subcontractor, the letter from Xentex to the plaintiff dated 21 April 2004 (Exhibit 1D 3) asserting the plaintiff was a subcontractor and the letter dated 17 March 2004 (Exhibit W).
+ Other indicia of a relationship of principal/independent contractor were: the plaintiff worked only 16 or 17 days between 31 January 2004 and 17
+March 2004. He was not paid for the days he did not work. He was able to refuse to work as he saw fit, particularly if he chose to undertake the feral animal management work. There was thus an absence of mutuality to provide work and to work for a particular period. This was strongly indicative that the plaintiff was not an employee - Boylan Nominees Pty Limited versus Sweeney  <case> at <case>; the plaintiff gave no evidence that there was any discussion about superannuation, holiday pay, sick leave etc. The evidence for Xentex was that the plaintiff was told he would have to have his own superannuation. This was indicative of a principal/independent contractor relationship; the plaintiff's remuneration was paid to him without deduction for income tax. The plaintiff acknowledged that the payment of taxation was his responsibility. He was expected to provide invoices to Xentex as were in fact supplied by others similarly engaged. In his evidentiary statement, the plaintiff said he was told by Xentex that he had to provide his own ABN or they could not keep him on. The plaintiff's evidence was conflicting. The plaintiff said at one stage he had an ABN which he had previously obtained and elsewhere he said that he did not have an ABN at the time and that was the reason why he had not supplied invoices. The requirement for an ABN was indicative of a principal/independent contractor relationship.
+
+No statutory workers' compensation insurance was obtained by Xentex.
+However there was a group income protection policy which had been taken out by
+Xentex and to which the plaintiff was asked to contribute. The plaintiff had signed an application for sickness and accident insurance. The form was dated March 2003 ([sic] (2004)). The plaintiff successfully claimed under that policy. I accept the evidence on behalf of Xentex that the plaintiff was informed that they did not hold workers' compensation insurance and that the plaintiff should take out sickness and accident insurance.
+
+The plaintiff was making himself available in the local community to perform patch and grout work.
+ There were a number of indicia which may indicate a relationship of employer/employee though on analysis most of these are equivocal. They are as follows: the degree of control which the principal exercises or has the right to exercise over the person engaged is a significant indicator of employment though the approach of the High Court has been to regard it merely as one of a number of indicia to be considered in determining the question. In this case the work was simple and uncomplicated. The degree of control exercised by
+Xentex was merely to make sure it was to the required standard. This was identical to the control which the principal would exercise if the work was being done by an independent contractor. No control was exercised by Xentex over the work being performed by the plaintiff and the other two men on the day of injury. Xentex considered this was not needed. This evidence was not inconsistent with the relationship being that of principal/independent contractor; the plaintiff was paid a daily rate based on the number of hours worked. This was indicative of the relationship of employer/employee; the provision of equipment may be an indicator of an employer/employee relationship. In this case the plaintiff was provided with tools by Xentex.
+There was unchallenged evidence that the tools were provided to him because he was short of money and could not afford to buy his own. He was to reimburse
+Xentex for them. The plaintiff undertook some training which was paid for by
+Xentex. The plaintiff's evidence was that he was to repay the cost of that training to Xentex. These are indicative of a relationship of principal/independent contractor. However, Xentex provided the materials to be used and the hours of work were fixed by Xentex; the right to have a particular person perform the work without a right to delegate that work to another and the right to the exclusive services of the person engaged is an indicator of an employer/employee relationship. In this case if the plaintiff chose not to work on a particular day, another person would be engaged. The plaintiff was free to engage in his feral animal management work. This situation is more indicative of a relationship of principal/independent contractor than employer/employee; the right to suspend or dismiss the person engaged is often an indicator of a relationship of employer/employee. However, in the circumstances of this case such a right was no different from the right which would exist if the plaintiff was an independent contractor. Accordingly, this indicia is equivocal; matters such as that the work involved a profession or trade, there was provision by the independent contractor of his own place of work, the creation of good will or saleable assets and the payment of significant proportion of the business expenses, which are sometimes of significance, have limited relevance here. It may be said as to these matters that the plaintiff was not exercising a profession or trade, the place of work was that of a third party not that of either the plaintiff or Xentex, and the plaintiff was seeking to create good will with Xentex and NLP leading to them sending further work his way.
+ In my opinion, having regard to the totality of the relationship and the various indicia, the relationship between the plaintiff and Xentex was that of principal and independent contractor not that of employer/employee.
+
+Deemed worker Clause 2 of Sch 1 of WIM provides: "(1) Where a contract: to perform any work exceeding $10 in value (not being work incidental to a trade or business regularly carried on by the contractor in the contractor's own name, or under a business or firm name), or (Repealed) is made with the contractor, who neither sublets the contract nor employs any worker, the contractor is, for the purposes of this Act, taken to be a worker employed by the person who made the contract with the contractor." It was common ground cl 2 had application in this case unless the words of exclusion contained in the brackets were enlivened.
+ In Turner versus Stewardson [[1962] NSWR 136] the court was concerned with the construction of [s (3A)](http://www.austlii.edu.au/au/legis/nsw/consolact/wca1987255/s6.html) of the [Workers Compensation
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/wca1987255/) which was, in all relevant respects, in the same terms as cl 2. The court followed
+Dixon J in Humberstone versus Northern Timber Mills <case>; [(1949) 79 CLR 389] at 402. In that case his Honour had identified two classes, namely the first class being those who were within the terms of the section and those who were in the second class. The Full Court said: "In the second class, his Honour places a contractor who conducts as a matter of course, a definite trade or business which he carries on systematically or a contractor who holds himself out as ready to do so. This class comes within the exclusion and is, therefore, outside the protection of the Act." Senior counsel for the GIO submitted I was not bound by that decision and should not follow it. However, the court in Stewardson prefaced its consideration of Humberstone with the words "The answer to the first question asked depends on the true construction of the words of exclusion contained in the brackets and their application to the facts of the case. The proper construction of this sub-section and of the words of exclusion is well settled." 
+The decision in Stewardson has not been overruled. In my opinion, I should follow that decision.
+ It was submitted for the nominal insurer that the plaintiff carried on the trade or business of patching and grouting 16 or 17 times during 2004. He also undertook work for Mr Connell prior to this time. Accordingly, it was clear that the plaintiff was carrying on a trade or business and that such trade or business was carried on "regularly" by him.
+ The nominal insurer further submitted that the second way that the exception to the clause was engaged - such that the plaintiff was not a deemed worker - was because the plaintiff was an independent contractor who, even if not conducting a trade or business with regularity, held "himself out as ready to do so".
+ The plaintiff initially gave evidence: "Q. In that grouting work, did you - during times when you were not working for the Xentex company, did you offer yourself for similar work to anybody else? 
+A. No." However, the plaintiff, in later cross examination, gave the following evidence: "Q. You understood, did you not, that Mr Connell operated a business called Newline Patch? 
+A. Yes.
+ 
+Q. And you knew that, did you not, prior to 2004? 
+A. Yes.
+ 
+Q. You understood that the work that he did was similar to the work that you were performing at this site in Kincumber? 
+A. Yes.
+ 
+Q. You had spoken to Mr Connell prior to 2004 about work, had you not? 
+A. I did ring him, yes.
+ 
+Q. And you knew at that stage when you called him that he was operating a business known as Newline Patch? 
+A. Yes.
+ 
+Q. And you knew at that stage when you rang him he was doing the sort of work that you performed at Kincumber? 
+A. I did, yes.
+ 
+Q. He offered you some work, did he not? 
+A. Yes. At the start he said he would be able to try to get me some work to get started, yes.
+ 
+Q. That's commonly the way that you managed to secure work over time prior to 2004, isn't that right? 
+A. Yes.
+ 
+Q. That is to say, you made yourself available to do work such as the patching and the grouting work for people such as Mr Connell if he asked? 
+A. Yes.
+ 
+Q. And for people such as Mr Bell and Mr Smith if they asked? 
+A. Yes.
+ 
+Q. But usually the way in which it occurred was that you, if you saw any of these gentlemen in a social context, would ask them for opportunities to work; isn't that right? 
+A. That is correct.
+ 
+Q. In speaking to Mr Bell or Mr Smith or Mr Connell, you understood that the sort of work that would be available would be the patching and grouting work? 
+A. Correct.
+ 
+Q. It's correct to say, is it not, that you held yourself out as being ready, willing and able to perform patching and grouting work in 2003 and ?
+ 
+A. Yes.
+ ...
+
+Q. So the work that you were marketing yourself or making yourself available for in the local community was this patch and grout type work; is that so? 
+A. Yes, that's so." He also said, in the statement to the insurer (Exhibit 4D 1) that he had done some work directly for Mr Connell in the past and that he was trying to get work from him.
+ The plaintiff in his evidentiary statement (Exhibit A [34]) said that it was his intention to work long term in patching and grouting and to avail himself of any opportunity to perform feral animal control. The plaintiff was not cross examined further about this issue.
+ In my opinion, the plaintiff was working as an independent contractor for
+Xentex performing patching and grouting work and was ready, willing and able to perform patching and grouting work for others on the same basis and held himself out as being prepared to do so. Accordingly, in my opinion, the plaintiff was not a deemed worker within the meaning of cl 2 Sch 1 of WIM.
+
+The relationship of Mr Wheeler to Xentex The circumstances of the engagement of Mr Wheeler by Xentex do not appear to materially differ from those relating to the plaintiff's engagement. Mr
+Bell gave evidence that Mr Wheeler and the plaintiff "were engaged by Xentex on exactly the same basis". Accordingly I conclude Mr Wheeler was engaged to work on the site by Xentex as an independent contractor.
+
+The nature and extent of the duty of care owed by a principal to an independent contractor The duty of care owed by a principal to an independent contractor was reviewed by the High Court in Fox. There the High Court held (at [48]) that the relationship between principal and independent contractor was not one which, of itself, gave rise to a common law duty of care much less to the special duties resting on an employer to ensure that care was taken. However, in some circumstances a duty will be owed by the principal to use reasonable care to ensure that a system of work for one or more independent contractors is safe (Fox [20]).
+ The High Court in Fox at [20] (see also [62]) affirmed that the circumstances in which such a duty was owed were those explained by Brennan J in Stevens versus Brodribb Sawmilling Co Pty Limited at 47-48, namely: "An entrepreneur who organises an activity involving a risk of injury to those engaged in it is under a duty to use reasonable care in organising the activity to avoid or minimise that risk, and that duty is imposed whether or not the entrepreneur is under a further duty of care to servants employed by him to carry out that activity. The entrepreneur's duty arises simply because he is creating the risk and his duty is more limited than the duty owed by an employer to an employee. The duty to use reasonable care in organising an activity does not import a duty to avoid any risk of injury; it imports a duty to use reasonable care to avoid unnecessary risks of injury and to minimise other risks of injury. It does not import a duty to retain control of working systems if it is reasonable to engage the services of independent contractors who are competent themselves to control their system of work without supervision by the entrepreneur. The circumstances may make it necessary for the entrepreneur to retain and exercise a supervisory power or to prescribe the respective areas of responsibility of independent contractors if confusion about those areas involves a risk of injury. But once the activity has been organised and its operation is in the hands of independent contractors, liability for negligence by them within the area of their responsibility is not borne vicariously by the entrepreneur. If there is no failure to take reasonable care in the employment of independent contractors competent to control their own systems of work, or in not retaining a supervisory power or in leaving undefined the contractors' respective areas of responsibility, the entrepreneur is not liable for damage caused merely by a negligent failure of an independent contractor to adopt or follow a safe system of work either within his area of responsibility or in an area of shared responsibility." In determining Fox, the High Court said (at [59]): "Had [the principal] failed to engage a competent contractor, it may not have avoided liability for the negligent failure of the contractor to take reasonable care to adopt a safe system of work. However, provided that the contractor was competent, and provided that the activity of concrete pumping was placed in the contractor's hands, [the principal] was not subject to an ongoing general law obligation with respect to the safety of the work methods employed by the contractor or those with whom the contractor subcontracted." In addition to the duty owed as principal to an independent contractor, the principal, if the occupier of the construction site, also owes a duty, as occupier, to persons coming on to the site to use reasonable care to avoid physical injury to them (Fox at [48]).
+ A principal may also, under the general law, be vicariously liable to an independent contractor for injury negligently inflicted by the principal's employees or for the tortious acts of independent contractors who the principal has directly authorised.
+ In Fox at [42] the High Court observed the terms of the [Occupational
+Health and Safety
+Act](http://www.austlii.edu.au/au/legis/nsw/repealedact/ohasa2000273/), 2000 prevented duties imposed by it on employers and others giving rise to correlative private rights ([Occupational Health and Safety
+Act](http://www.austlii.edu.au/au/legis/nsw/repealedact/ohasa2000273/), , [s (1)).](http://www.austlii.edu.au/au/legis/nsw/repealedact/ohasa2000273/s32.html)
+The court observed [49]: "While it is true that obligations under statutory or other enactments have relevance to determining the existence and scope of a duty, it is necessary to exercise caution in translating the obligations imposed on employers, principal contractors and others under the OHS Act and the
+Regulation into a duty of care at common law. This is because, as Gummow J explained in Roads and Traffic Authority versus Dederer [(2007) 234 CLR ]
+at 335 [43]; [[2007] HCA 42] 'whatever their scope, all duties of care are to be discharged by the exercise of reasonable care. They do not impose a more stringent or onerous burden'".
+
+Liability of Xentex The plaintiff submitted that, inter alia, Xentex was negligent in that no warning was provided to the plaintiff in relation to dangers presented by moving plant and equipment; no barricades were erected; there was no-one on site to provide supervision, instruction or to oversee the work being undertaken by the plaintiff or Mr Wheeler.
+ In my opinion, Xentex was responsible for organising the activity of patching and grouting on the construction site on 16 and 17 March 2004. That activity involved a risk of injury. Xentex was accordingly subject to a duty to use reasonable care to avoid unnecessary risk of injury and to minimise other risks of injury. This imported a duty to retain control of the working system unless it was reasonable to engage the services of independent contractors who were themselves competent to control their system of work without supervision by the principal.
+ On 17 March 2004 the plaintiff, Mr Wheeler and Mr Waikuri were engaged to control their systems of work without supervision. Neither the plaintiff nor
+Mr Wheeler nor Mr Waikuri were themselves competent to adopt or control a safe system of work. Xentex knew, or ought to have known, that this was the case.
+The plaintiff was known to be inexperienced on building sites and had demonstrated on the previous day that he had a lack of ability to safely operate the vehicle. There was no evidence which established the other men were competent to control their system of work. Xentex accordingly remained subject to the duty of care it owed to them.
+ Xentex took no steps to fulfil that duty. Neither principal attended the site that day. They provided no adequate warnings or instruction to the men.
+They gave evidence that no-one was to be in charge of the men on 17 March 2004 and that they should work out among themselves who was to do what. The principals gave evidence they told the plaintiff and Mr Wheeler not to use the vehicle. I do not accept that evidence. It was denied by the plaintiff. Had such a conversation occurred, it would have been expected to have been at the forefront of the statements as to the circumstances of the accident and in the cross examination of the plaintiff. It was not. There was work to be done which could best be done from the bucket of the vehicle. The key was in the ignition and use of the vehicle was totally foreseeable in the circumstances.
+ Mr Smith said that if the vehicle was being used, a safe system would require that a person working on the ground in the general vicinity should leave that area unless he had to be there, in which event an exclusion zone with witches hats or the like should have been set up around the vehicle.
+ In my opinion, Xentex, in breach of its duty of care, failed to provide a safe system of work for the plaintiff. That failure caused, or materially contributed to, the plaintiff's injury.
+ Accordingly, there will be a verdict and judgment for the plaintiff against
+Xentex.
+ Mr Wheeler was an independent contractor. His use of the vehicle was not known to Xentex. No vicarious liability attaches to Xentex for Mr Wheeler's casual act of negligence in colliding with the plaintiff - Sweeney versus Boylan
+Nominees <case>; [(2006) 226 CLR 161.] There was an issue as to whether the damages awarded against Xentex should be classified as damages under MACA or damages under CLA. It is unnecessary to determine this question as I would assess the non economic loss damages under
+CLA at around 34 percent of a most extreme case, and there would be no difference in the sum of damages awarded under either statute.
+
+The liability of WRS The plaintiff submitted WRS was negligent primarily in that it was the hirer of the vehicle and the principal contractor. It took no precautions to ensure the operation of the three machines on site on the day did not interfere with the safety of persons on site, it did not separate pedestrians from vehicles and it did not coordinate contractors.
+ WRS was the principal contractor. It appointed a site supervisor who attended the site about once per week. In addition he would attend the site if problems arose and was contactable by phone if necessary. It must be borne in mind the site was small and the cost of the job presumably not great. The site superintendent discussed the work with Mr Connell and Mr Price, resulting in the vehicle being hired to minimise the risk of injury from working at heights.
+ The services of Mr Connell and Mr Price were engaged by the site supervisor. Each was known by WRS to be experienced and competent in their work. Each had worked for WRS on many occasions over the years, often on the same projects. Mr Connell was known by WRS to always work alone. There had never been a problem in Mr Connell and Mr Price working together without supervision.
+ It was reasonable for WRS to engage the services of NLP and Mr Price. WRS was unaware that the patching and grouting work had been subcontracted by NLP to Xentex. In these circumstances there was no duty on WRS to retain control of working systems and it was not liable for the negligent failure of the independent contractor to adopt or follow a safe system of work.
+ WRS's site supervisor was not on the site on 16 or 17 March 2004. This was not unreasonable having regard to the nature and size of the job.
+ Some reliance was placed upon the [Occupational Health and Safety
+Act](http://www.austlii.edu.au/au/legis/nsw/repealedact/ohasa2000273/) and regulations and in particular upon safe work method statements and the like.
+In my opinion, this material does not create any additional legal duties or obligations upon WRS (see Fox at [42] and [49]). Nor does the fact that WRS hired the vehicle as it hired it for the use of Mr Connell who was competent and qualified in respect of the operation of boom lifts.
+ In my opinion, liability on the part of WRS has not been established.
+There will be a verdict and judgment for WRS against the plaintiff.
+
+The liability of NLP The plaintiff submitted NLP was negligent essentially in that it did not check who would be using the vehicle and in what circumstances, and did not instruct Xentex that where multiple machines were being used on site an area of not less than 10 metres radius outside where machines will be operating is to be flagged off, and contractors are to be instructed not to be sitting or lying on the job site when performing work around machinery.
+ NLP subcontracted the patching and grouting work to Xentex. The principals of Xentex had been trained by Mr Connell and were known by him to be competent to organise and carry out the patching and grouting work contracted to Xentex.
+ NLP was not aware that the work had been subcontracted to the plaintiff and others. In my opinion, it was reasonable for NLP to engage the services of
+Xentex, the principals of which were competent to control their system of work without supervision from the principal.
+ In my opinion, liability on the part of NLP has not been established.
+There will be a verdict and judgment for NLP against the plaintiff.
+
+The liability of the nominal insurer The nominal insurer's liability is dependent upon a finding that the plaintiff was an employee of Xentex or a deemed worker of Xentex pursuant to cl 2 of Sch 1 of WIM.
+ As I have held that the plaintiff was neither an employee or deemed employee of Xentex the claim against the nominal insurer must fail.
+Accordingly, there will be a verdict and judgment for the nominal insurer.
+
+The liability of GIO The GIO conceded that it had issued a policy of insurance in favour of
+Xentex for the period.
+ The insuring provision of the section of the policy which dealt with public and products liability was in the following terms: "We will insure you...for any amount you become legally liable to pay as compensation for personal injury...caused by an occurrence connected with your business or your product." The policy contained exclusion clauses in the following terms: "This policy section does not insure liability arising directly or indirectly out of or caused by, through, or in connection with, or for: ...
+ . Employer's liability personal injury to any of your employees arising out of or in the course of their employment in your business; personal injury to any person who is pursuant to any statute relating to workers compensation deemed to be an employee of yours..." The GIO declined liability in reliance upon the above exclusion clauses.
+ As I have concluded the plaintiff was an independent contractor of Xentex and neither an employee nor deemed employee, the above exclusion clauses of the policy have no application and Xentex is entitled to indemnity under the policy. There will be a verdict and judgment for Xentex against the GIO in respect of Xentex's liability.
+ The policy also contained an additional benefits clause which provided: "Legal costs 
+In addition to the limit of liability, we will pay all charges, expenses and legal costs incurred by us and/or by you with our written consent in the settlement or defence of any claim for compensation and in respect of which claim you are or, if you were legally liable, would be entitled to indemnity under this policy section." In the light of my determination that the plaintiff was an independent contractor and that the exclusion clauses for the policy have no application,
+I assume that the GIO will pay Xentex's legal costs pursuant to the additional benefits clause. If this remains in issue, then I decide that issue in favour of Xentex if necessary relying upon the provisions of <case> of the Insurance [Contracts Act](http://www.austlii.edu.au/au/legis/nt/consolact/ca125/).
+
+Contributory negligence It was submitted for the defendants that there should be found to be contributory negligence on the part of the plaintiff for a not insignificant proportion because: he was a party to the use of the vehicle by Mr Wheeler contrary to instructions; he placed himself in a position of danger; he failed to heed the approach of the vehicle; he failed to inform Mr Wheeler of his presence.
+ The plaintiff denies contributory negligence.
+ I am not satisfied the plaintiff was told by Xentex that the vehicle was not to be used on 17 March 2004. He denied such a conversation. Had such a conversation occurred, it would have been expected to have been at the forefront of the statements as to the circumstances of the accident and in the cross examination of the plaintiff. It was not.
+ The plaintiff was in a position which proved to be one of danger though at the time he did not anticipate that the vehicle would take the course which it did in moving from one work area to another.
+ The plaintiff gave evidence that he had seen Mr Wheeler and vice versa as
+Mr Wheeler was travelling to the point where he was to work.
+ There were a number of matters which should have drawn the plaintiff's attention to the vehicle, namely the boom was lowered before moving off. This would have caused an alarm to sound, the vehicle commenced to move which caused another alarm to sound, the noise of the engine was much louder when moving, and the work site was not noisy. However, it would seem the plaintiff was oblivious to these matters as he did not adjust his position. He has suggested he was distracted by the near simultaneous movement of the scissor lift, and was then concentrating on resuming his work. This may have been so.
+ The plaintiff was inexperienced on building sites. No proper system of work was provided. The onus to establish contributory negligence is on the defendant. In my opinion that onus has not been discharged. I make no finding of contributory negligence.
+
+Apportionment [Section (2)](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/s5.html) of the [Law Reform (Miscellaneous Provisions)
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/), 1946 provides: "(2) In any proceedings for contribution under this section the amount of the contribution recoverable from any person shall be such as may be found by the court to be just and equitable having regard to the extent of that person's responsibility for the damage; and the court shall have power to exempt any person from liability to make contribution, or to direct that the contribution to be recovered from any person shall amount to a complete indemnity." Ace submitted that it had no personal responsibility for the injury to the plaintiff, its liability stemming solely from the negligence of its statutory agent. As Ace was itself lacking in culpability in respect of injury to the plaintiff, the whole of its liability should be passed to the other liable party whose breach of duty caused the plaintiff's injuries and who should indemnify Ace.
+ Ace relied upon, what it submitted, was the well established principle referred to in Balkin & Davis "Law of Torts" 1996 at 848 where the authors stated: "In those circumstances where D1 is a joint tortfeasor solely by reason of being vicariously liable for the acts of D2, it appears that, in the absence of countervailing legislative provision, D1 is entitled to a complete indemnity..." I accept the application of the principle where the vicarious liability is entirely the result of the negligence of the other defendant. In those circumstances, it appears just and equitable to apportion culpability entirely to the other defendant. That is, however, not the present case as Mr Wheeler is not a defendant. The principal authorities relied upon by Ace do not support the wider proposition advanced by it: see Voli versus Inglewood SC <case>; [(1963) 110 CLR 74] at 100.7; Thompson versus Henderson [(1990) 58 SASR ]
+at 562.5. In my opinion, it is necessary to determine apportionment having regard to the question of justice and equity in circumstances where Ace's liability arises from the culpable actions of its statutory agent.
+ Xentex contends that the principal cause of injury was the driving of the vehicle by Mr Wheeler for which Ace is statutorily liable.
+ In my opinion Ace is liable for the culpability of Mr Wheeler. However, the culpability of Xentex is the greater. I apportion liability between Xentex and Ace at 75 percent to Xentex and 25 percent to Ace.
+
+Damages - general The plaintiff is a single man, born in 1965. He has never married and has no children. He was living with a girlfriend at the time of injury in premises rented in her name.
+ The plaintiff enjoyed outdoor activities including fishing, abseiling, bushwalking, motorbikes, motor cross, horse riding and camping.
+ He, together with two others, owned acreage near Goulburn. He had owned it for 15 years and used to go there regularly.
+ The plaintiff left school in 1980 during year 10. He did not obtain his school certificate. He described himself as an average scholar. He said that after leaving school he did some labouring and painting work but agreed he did not have a steady job between leaving school and commencing with Australia
+Post in February 1990. He worked for Australia Post as a postman until mid when he resigned, he said, after an altercation in respect of a letter.
+During this period he fractured his left tibia which healed and which, he said, caused no residual problems. He was otherwise fit and well at all times preceding the subject injury.
+ He said he had carried on business as a labourer under the business name "No More Gaps" for about a year or two, filling in gaps around door frames and edges inside houses for painters. He had an ABN for this work which he obtained by word of mouth. He agreed that he did not have a steady job after leaving Australia Post until he worked for Xentex. He commenced with Xentex on January 2004 and worked a total of 17 days with Xentex between that date and 17 March 2004.
+ The plaintiff gave evidence that about a year before the subject injury he obtained a qualification as a feral animal management controller. There was no formal course for such qualification which the plaintiff said he had obtained by hands-on training with a Rural Lands Protection person over a period of two months. However, he did not obtain employment in this role.
+ The plaintiff agreed he was on unemployment benefits from 14 March 2001 until early 2004, and that he had done no paid work during that period though he did the (unpaid) feral animal training. He said in his evidential statement (Exhibit A) at [34] that it was his intention to work long term in patching and grouting. He also said (at [10]): "At that time [when he began working for Xentex] I had been looking for work and was keen to earn a regular income and start saving some money. I was nearly 40 and was looking to get some security for my future." The plaintiff was transported by ambulance from the construction site to
+Gosford Hospital. Examination at the hospital revealed the following injuries: a compound fracture of the shaft of the left femur; a fracture of the left medial femoral condyle, involving the knee joint; a fracture of the right superior and inferior pubic ramus of the pelvis extending into the acetabulum; fracture of the transverse process of the fifth lumbar vertebra; fracture involving the right sacroiliac joint; undisplaced fracture of the left distal fibula.
+ The fracture of the left femur was pinned and screws were inserted into the left knee. On 30 March 2004 further fixation of the left knee was performed.
+ The plaintiff developed a staphylococcal infection and a blood clot in the left leg whilst in hospital. He was discharged from hospital in a wheelchair.
+He was in the wheelchair for about six weeks and then on crutches for about eight weeks. He underwent about six months of rehabilitation treatment at
+Royal Ryde Centre.
+ There was a failure of the femur to satisfactorily unite and on 28 July exchange femoral rodding and excision of a bursa over the left knee were performed. Another nail and screw fixation was inserted.
+ The medical evidence adduced for the plaintiff generally accepted that the plaintiff's left leg was 1-1.5 cm longer than his right leg and that there was -1.5 cms of left quadriceps wasting. There was some doubt as to the cause of the leg length difference but the quadriceps wasting was consistent with the injury the subject of the proceedings and also consistent with a limp and some disability. It was recognised that arthritis may develop due to the injuries to the left leg and hip. The doctors accepted the plaintiff's capacity for weight bearing, heavy lifting, climbing ladders and the like had been compromised and he was fit for sedentary and semi-sedentary work only.
+ The most recent reports tendered on behalf of the plaintiff were those of
+Dr Bentivoglio and Dr Zicat. Dr Bentivoglio was qualified on behalf of the plaintiff whilst Dr Zicat was a treating doctor.
+ Dr Bentivoglio in his report dated 26 February 2009 stated: "Right [sic Left] Femur 
+For some reason (and I am unsure as to why) this gentleman had 2cm leg length inequality present in his lower limbs, with his left lower limb being longer than his right.
+
+He had multiple well healed scars present at his lower limbs. He had a full range of movement present at his left hip, with some degree of discomfort present at extremes of movement present at his hip.
+
+There was no obvious deformity present at his left lower limb.
+
+Back 
+There was no paravertebral muscle spasm present. He demonstrated at least half normal range of movement present in his lumbar spine region. There were no localising motor sensory or reflex abnormalities that I could detect in his lower limbs.
+
+He had straight leg raising to at least 60°.
+
+Pelvis 
+There was no pain on compression of his pelvis in either an AP or lateral direction. He was tender over the trochanteric bursa region of his left hip.
+
+Left Knee 
+He had 1.5cm muscle wasting present in his left thigh. He had evidence of some degree of mediolateral laxity present at his left knee, but a surprisingly good range of movement present at his left knee.
+
+There was no evidence of any cruciate ligament disruption present at his left knee.
+
+Left Ankle 
+He had a full range of movement present at his ankle. There was no evidence of any ligamentous disruption present at his ankle region.
+
+RADIOLOGICAL INVESTIGATIONS 
+I viewed plain x-rays taken of Mr Ralston's femur. It shows that he had a comminuted fracture of the mid shaft of his femur, with an intramedullary nail.
+
+Plain x-rays taken of his pelvis showed that he had at least a fracture dislocation of his sacrum, with fractures involving both pubic rami on the right side, and at least one pubic ramus on the left side.
+
+Plain x-rays taken of his lumbar spine showed quite gross degenerative osteoarthrosis involved the L5/S1 level of his lumbar spine region.
+
+X-rays taken of his knee showed he had an undisplaced medial femoral condylar fracture, requiring open reduction and internal fixation.
+
+There was no obvious fracture in the region of his ankle (except for the previous injury he had from a motor vehicle accident in the past).
+
+New plain x-rays taken of this gentleman's pelvis, left knee and left femur in February 2009 indicate that all his fractures have united. Currently there are no signs of degenerative osteoarthrosis involving his hip or knee.
+
+DIAGNOSIS AND OPINION 
+Mr Ralston sustained horrendous injuries to his person in the incident that he described at work in March 2004.
+
+He has been left with significant ongoing disability as a result of this.
+
+He is at significant risk of developing degenerative osteoarthrosis, particularly in the knee region, at a later stage as a result of this injury, and will have ongoing symptoms present at his back, hip, knee and ankle regions, secondary to his injuries.
+
+No further treatment is required for him at this stage, as it will not improve his symptoms.
+
+This gentleman will have a great deal of difficulty in returning to any form of employment as a result of his injuries...
+
+Prognosis 
+Back 
+Guarded, as he will continue to experience some degree of symptoms about his back region, with some peripheral radiation.
+
+Pelvis 
+Reasonable. He does not have significant problems with his pelvis at this stage.
+
+Left Hip 
+Although the fracture has united, he will continue to experience some degree of symptoms present as a result of his trochanteric bursitis. He is not particularly at risk of developing degenerative osteoarthrosis, present in his hip region at a later stage.
+
+Left Knee 
+Remains guarded. He does stand a significant chance of developing degenerative osteoarthrosis present at his knee at a later stage.
+
+Left Ankle 
+Reasonable.
+
+Present condition of plaintiff 
+This gentleman continues to experience significant symptoms present at his back region, left hip and thigh, as well as his left knee.
+
+Any symptoms he has at this stage will remain with him indefinitely." In a supplementary report dated 26 February 2009 the doctor reported: "The only treatment this gentleman is going to require in the future is likely to be a total knee joint replacement.
+
+He does stand a significant chance of developing degenerative osteoarthrosis present at his left knee at a later stage, as a result of his medial femoral condylar fracture, as well as the fact that he does have some degree of ligament instability present at his left knee.
+
+The cost of this in today's terms is in the order of $25,000.
+
+The total knee joint replacement however has a component that does show wear characteristics. It only has a life expectancy of about ten to 12 years.
+
+Depending on when this gentleman requires a total knee joint replacement, if he lives a normal life expectancy, he may require at least one, if not two revision procedures.
+
+The cost of each revision procedure is in the order of $15,000.
+
+This gentleman would require removal of his internal fixation devices (his tibial nail as well as his femoral nail) prior to these surgical procedures.
+
+The cost of these is approximately $6,000 for removal of each internal fixation device.
+
+I am doubtful that it will be necessary for him to require a total hip joint replacement." Dr Zicat, in his report dated 11 November 2008, stated: "His examination today demonstrates his wounds to be clean and dry. He has localised tenderness over the greater trochanter at the left hip, as well as over the medial aspect of his left knee. Range of motion of his hip is mildly restricted to rotation and flexion. He has full extension at the left knee, but flexion is restricted compared to the right hand side. He has no evidence of neurological or vascular dysfunction. His gait is antalgic on the left. He has quadriceps wasting on the left side compared to the right.
+
+Investigations 
+I reviewed repeat radiographs of his femur that were performed on 18
+November 2008, that demonstrated that his previous non-union of femoral fracture head completely healed, and was remodelling...
+
+Prognosis ...At the present time, his pain and dysfunction and weakness are sufficient to recommend that he avoid any work of a heavy physical nature, that involves prolonged periods of standing, walking, any heavy lifting or heavy physical work. He would need to have a workplace assessment done to assess his ability to work in a more sedentary occupation over a long period of time, that may involve some degree of work hardening.
+
+There is always the possibility that infection may recur, and that he may require treatment for this in the future, or that the fracture of his femoral condyle may result in the development of arthrosis long term. The risk of that happening is reasonably high, in the present of an intraarticular fracture, probably more than 50%. If that does happen, he may eventually require a knee arthroplasty, at a cost of approximately $25,000.00." There was evidence from the psychiatrist, Dr Westmore, that the plaintiff suffered from an adjustment disorder with a depressed mood. Dr Westmore concluded that the plaintiff was an independent self reliant man whose personality attributes had assisted him considerably to date in his recovery.
+He considered the plaintiff would benefit from some counselling but did not need to see a psychiatrist. The doctor's diagnosis was based predominantly upon his history. A defendants' report by a psychiatrist, Dr Maguire, dated 28
+August 2007 was in evidence. Dr Maguire accepted the diagnosis of adjustment disorder with a depressed mood was appropriate but considered it would not interfere with the plaintiff's ability to work or to lead a normal life. He supported the recommendation for treatment by Dr Westmore and suggested that about 50 percent of the need for counselling related to personal rather than accident related issues.
+ Mr McMaster, a boarder at the plaintiff's home, gave some evidence that he observed the plaintiff limping and that he encountered difficulty with stairs and the heavier work around the house.
+ The plaintiff gave evidence his condition had been stable for the last three to four years. He said in his evidentiary statement and in his oral evidence, that the report of the occupational therapist, Ms Grinter, of 9
+March 2007 accurately recorded his ongoing problems. Ms Grinter's report, which followed an interview of the plaintiff on 9 March 2007, recorded he suffered constant low back pain aggravated by activity, posture and cold. He rated the back pain as 4-9 in a range of 0-10 where 10 was the worst pain. He complained he suffered constant left hip and leg pain aggravated by activity, posture and cold. His left hip was sensitive to touch and he cried if he knocked it. He suffered left knee pain and his left ankle felt numb and his left foot was cold. He rated the left leg pain at 5-10. He suffered flashbacks of his accident weekly. He took 12-14 Panadeine Forte a week for pain. He walks with a limp. He requires a walking stick if walking up or down a hill.
+He can walk for 15 minutes and then needs to sit down and rest. He can stand for up to 15 minutes before needing to support himself, eg by a rail, he puts most of his weight through his right leg. He avoids stairs if possible. He uses a rail and leads with his right foot one step at a time if he needs to climb stairs. He is unable to kneel on his left knee, squatting is painful and he is unstable, he is unable to bend forward and touch the floor. He is able to carry approximately 7-8 kilograms. He is unable to vacuum, clean the bathroom or toilet or kitchen, change the bed linen, carry out the washing and put it on the line or do heavy washing. He is unable to spring clean, clean the windows or clean the gutters. He said he loved to mow his lawn and whippersnip the edges and now he is unable to due to his disabilities.
+ However in cross examination the plaintiff conceded he could walk up stairs without a handrail, that he did not walk with a limp all the time, that he could execute a full squat, that he could kneel on his left knee, that he did not have difficulty kneeling all the time, that he can bend, that he could walk for two or three hours with medication, otherwise half an hour to an hour, that he had some ability to run, that is to jog but not sprint, he could vacuum, he could walk up 45 stairs without a handrail, he could jump off a step if need be. The cross examination commenced after the cross examiner had informed the Court, in the plaintiff's presence, that there may be some evidence to show on the following day.
+ The defendant tendered reports of Professor Jones, a rehabilitation expert dated 17 August 2007, Dr Cummine, an orthopaedic specialist, dated 30 October and 16 February 2009 and Dr Dalton dated 19 July 2007. I confirm that these reports and the reports of Ms Leaver are not excluded by any estoppel and are admitted into evidence without any qualification. These reports did not differ greatly from the medical evidence adduced by the plaintiff, though
+Prof Jones considered that the plaintiff's work capacity might be reduced to hours per week by age 55 and he may be required by the sequelae of his injury to retire between the age of 50 and 65. He considered it was possible the left hip would require replacement and there was a lesser possibility that the left knee would require replacement.
+ In his report, Dr Dalton noted that the plaintiff displayed considerable pain behaviours but concluded that he was not fit to resume labouring work and he had limited tolerance for various physical activities. He felt the plaintiff's capacity to climb ladders and perform household maintenance was likely to be limited. He contemplated the potential for degenerative change in the future.
+ Dr Cummine considered the plaintiff was fit for sedentary duties. He considered he was fit to return to sedentary work nine months after the operation in July 2005. He would allow him domestic care for nine months from
+July 2005 but then considered he was capable of his daily domestic matters.
+ The defendants sought to challenge the plaintiff's case by reference to
+DVD evidence of the plaintiff's activities. The evidence consisted primarily of surveillance of the plaintiff on three days. It may be described shortly as follows: (Exhibit 3D 1) - On 10 March 2007 the plaintiff was depicted walking, bending and moving freely on land. He was then depicted on a small power boat used for fishing tours. The boat was initially tied to a wharf in a bay. The water was calm. The plaintiff was observed preparing fishing gear and bait. He moved freely about the boat, stepping indiscriminately off either foot, bending and squatting freely. The boat moved from the wharf and the plaintiff remained on it. If the plaintiff displayed a limp as he claimed, it was at the most intermittent and minor; (Exhibit 3D 2) - On 22 March 2007 the plaintiff was fishing with a rod from the bank of a river. He stood and walked on rocks and sand. He appeared to do so freely and to bend and squat. There were 45 steps from the headland to the riverbank from which he was fishing. The steps were of rough stone, there was no handrail. The plaintiff conceded he had walked up and down the steps. He was seen to commence to climb the steps. The plaintiff was under observation for about three hours on this occasion though the DVD did not record for the whole of that time; (Exhibit 3D 3) - On 20 April 2007 the plaintiff was removing items from a four wheel drive vehicle. On one occasion he entered the vehicle by climbing through the rear window and then exited by jumping from the rear window to the ground, landing easily. He exhibited considerable flexibility and agility in doing this and showed no signs of pain or a limp after it. He had given the following evidence in cross examination: "Q. It is possible for you to jump? Can you jump? 
+A. Yes. If I had to save my life, I would jump.
+
+Q. Only if you were in a desperate situation would you jump, is that what you say? 
+A. If the consequences needed it, or whatever, yes.
+
+Q. Only if it was desperate? 
+A. To that extent, yes.
+
+Q. Then you would make sure to land on your good leg? 
+A. Well, I favour my right side, yes.
+
+Q. Not on both legs. Just your good leg, is that right? 
+A. That's right. Catch my weight on my right leg." In my opinion, the significance of the DVD evidence lay not only in the comparison of his activities with his history to doctors and his evidence but particularly in the free and unguarded manner in which he performed the activities observed.
+ A physiotherapist, Ms Leaver, had provided a report for the defendant prior to seeing the DVD. She was asked subsequently to view the DVD and report further. Her subsequent report did not significantly vary the opinion previously given. She stated: "A surveillance of 22nd March 2007. Comparison was made between Mr
+Ralston's fishing activities on the surveillance and his performance at the functional assessment at this centre four months later in July.
+
+In the functional report, it was concluded that there may have been a level of exaggeration or anxious behaviours but which essentially did not interfere with the testing process or overall conclusions. It was also felt that there was inconsistency between his displayed abilities at the assessment and his perception that he 'cannot do much at home'.
+
+The surveillance provides confirmation of inconsistencies on a number of points... However, despite this improved functional level, the remainder of my report is unchanged. Mr Ralston is still considered unable to return to his pre-injury occupation as a grouter as it involves repetitive and constant periods of working on the ground, far in excess of that observed in one hour of fishing. As well, the surveillance did not provide any evidence of increased handling ability... It is still considered that he is not capable of being on his feet all day." The defendants, or at least some of them, had ample time to obtain a medical report or reports reassessing the plaintiff in the light of the DVD material. However, none of the defendants placed in evidence any medical report commenting on the effect of the DVD on the earlier assessments of the plaintiff's alleged disabilities. The earlier evidence of the doctors qualified by the defendants thus remained unaltered. There was evidence the defendant had sought a further report from Dr Dalton as to the effect of the
+DVD material on his assessment and such a report had been received in 2007. A copy of the report was not served upon the plaintiff as required by the rules and it was only at the hearing that a copy of the report was given to the plaintiff and the third defendant sought to tender it in evidence. The plaintiff objected to the tender of the report and the tender was withdrawn. I do not draw any inference as to the content of Dr Dalton's further report. I leave out of account a comment made by senior counsel for the plaintiff in relation to the report as it was not evidence of the doctor's opinion.
+ My conclusion is that the plaintiff in 2007 had the capacity shown in the
+DVD and he could do the things he conceded in cross examination. He exaggerated his problems in his evidence in chief and to the doctors who had examined him previously. He qualified his evidence in cross examination when the prospect of objective evidence became apparent. His condition has not deteriorated since.
+ Nevertheless, the fact remains the plaintiff sustained severe orthopaedic injuries, he has residual objective signs of injury and it is likely he will suffer degenerative changes in the left knee and possibly the hip in the future due to the injury. He has a limitation on his capacity for full time heavy work and that incapacity will increase with the passage of time and development of arthritic changes.
+
+Statutory restrictions It was put by senior counsel for NLP to the plaintiff when cross examining on the DVD that there was "nothing wrong with your legs and back".
+ Senior counsel for the plaintiff, whilst accepting that the DVD was admissible, as it was relevant to the plaintiff's credit, submitted that the defendants were estopped from putting that there was essentially nothing wrong with the plaintiff.
+ Senior counsel relied in particular on the following: admissions by NLP resulting from its payment of workers' compensation, including lump sum compensation assessed by an AMS pursuant to WIM; an estoppel created by a certificate issued on an application by the plaintiff against Xentex for the purposes of ss 313 and 314 WIM and <case>
+WCA. The certificate assessed the plaintiff's permanent impairment at a figure greater than 15 percent. A certificate or the agreement of the other side that there was a permanent impairment of at least 15 percent was a precondition to a claim for work injury damages; an estoppel created by a certificate issued on an application by the plaintiff against Ace pursuant to <case> MACA. A certificate assessing the plaintiff's permanent impairment at greater than 10 percent is a precondition to a claim under MACA for damages for non economic loss; the service by the defendants of medical reports asserting there was something wrong with the plaintiff and the failure to serve any medical report of the doctor who had reviewed the DVD.
+ The payment of compensation may, in some situations, constitute an admission but it is not conclusive. It is not necessary to pursue this question as I have found NLP and the Nominal Insurer are not liable.
+ Senior counsel for the GIO made submissions primarily in relation to the work injury damages certificate on behalf of all defendants. He submitted there was no merit in the plaintiff's submissions and that the plaintiff should not be permitted to file a reply raising these issues as he sought to do. Senior counsel established by reference primarily to correspondence that the plaintiff's legal representatives at all previous times had represented to
+Xentex that the certificate sought against it would be used only for its statutory purpose. Accordingly, he submitted, the certificate was binding on
+Xentex in respect of establishing the threshold required to commence proceedings and no more. The other defendants were not parties to that application or otherwise bound by it.
+ However, it is not necessary to pursue this question to finality as the liability which I have attributed to Xentex was not for work injury damages and the WIM certificate is relevant only to liability for such damages.
+Additionally, I have not accepted the defendants' submission that essentially there was nothing wrong with the plaintiff.
+ Ace did not challenge the MACA certificate. It accepted what was said in the Court of Appeal in Pham versus Shui [[2006] NSWCA :](http://www.austlii.edu.au/au/cases/nsw/NSWCA/2006/373.html "View Case" ) "The Review Certificate (and the earlier certificate to the extent they remained relevant at all) insofar as certifying to the matters stated in s (2) is conclusive, but only for the purposes of non economic loss. It is not conclusive for the purposes of economic loss. The reasons which are incorporated into the certificate as to the matters certified, but extreme caution is required in admitting such evidence in relation to damages for economic loss governed by [Pt .2...](http://www.austlii.edu.au/au/legis/nsw/consolact/lrpa1946404/index.html#p5.2)" 
+It is unnecessary to further consider the question of estoppel in relation to the MACA certificate.
+ I do not agree that the service of a medical report is an admission of its contents by the party serving it. It is merely an item of evidence to be considered by the court. Where a party does not call a witness it might have been expected to call, the principle in Jones versus Dunkel applies.
+
+Quantum - MACA assessment The plaintiff's claim is set out in detail in his written submissions. The principal submissions for the defendants on damages were made by senior counsel for NLP and were generally adopted by the other defendants. The plaintiff's statistical life expectancy is approximately a further 40 years on the "orthodox" principle put forward by the plaintiff. The five percent multiplier for 40 years is 917.5. The plaintiff is presently approximately 45½ years of age. I have taken a five percent multiplier to age 65 of 656.
+
+Non economic loss Section 134 of MACA provides a maximum ceiling for damages for non economic loss but does not require that the assessment be proportionate to a most extreme case. The plaintiff submitted that the appropriate assessment of non economic loss under MACA was $325,000.
+ Ace submitted the appropriate assessment under MACA was $80,000-100,000.
+ In my opinion, the appropriate assessment under MACA is $160,000.
+ That assessment is based on a consideration of all of the evidence, the salient features of which are that the plaintiff is in middle age, the orthopaedic injuries were severe, he has made a good recovery and is quite mobile. It is likely he, in time, will suffer the onset of degenerative changes in the knee and possibly in the hip and further degeneration of the lower back. This will be painful and will further limit his capacity to engage in various activities. There is a likelihood of future surgery for joint replacement and removal of hardware. The plaintiff will however remain mobile (save for periods of surgery and convalescence). He has some psychological reaction to his injuries and some restriction on his capacity to engage in duties of a heavier type. He has some limitations on his enjoyment of activities he had previously engaged in particularly at his country property.
+
+Past out of pocket expenses I will allow past out of pocket expenses at the agreed figure of $41,968.93.
+
+Future out of pocket expenses The plaintiff claimed the sum of $135,125 for the following future out of pocket expenses: 
+Knee replacement surgery $39,200 
+Revision of knee replacement 7,215 
+Hip replacement surgery 8,624 
+Removal of fixation devices 9,408 
+GP review 6,880 
+Specialist review 6,402 
+Physiotherapy 35,569 
+Occupational therapy 1,080 
+Gym 16,727 
+Future investigations 800 
+Counselling 1920 
+Remedial equipment 1300 $135,125 NLP submitted future out of pocket expenses should not be awarded as the evidence on which such an award would need to be founded is unreliable.
+ As the High Court observed in Arthur Robinson versus Carter <case>; [(1968) 122 CLR 649] at 661.9, a plaintiff is entitled to recover reasonable future out of pocket expenses. The question is not what are the ideal requirements but what are the reasonable requirements of the plaintiff. The sum to be awarded in compensation is not calculable by any mathematical process. At best it is a matter of judgment.
+ I make the following comments on the plaintiff's assessment: -(d) The medical evidence establishes that as a result of the accident it is probable that at some time in the future the plaintiff will require knee replacement surgery with removal of fixation devices and about 10 or 12 years later a revision of the knee replacement. The plaintiff's calculation for the costs of the knee surgery and removal of fixation devices allows a deferment of five years and makes no allowance for the possibility that such surgery may not be required. The plaintiff also claims for a 50 percent chance that a total hip replacement will be required and allows a deferment of five years.
+There was evidence such an operation may be required though the latest medical opinion (Dr Bentivoglio) is that it is doubtful that it will be. Dr
+Bentivoglio had the benefit of the latest x-rays which show no signs of degenerative osteoarthrosis involving the knee or the hip. In my opinion, the plaintiff's calculations make insufficient allowance for deferment or for the possibility the operations will not be required. I would reduce items (a)-(d) by 20 percent overall and allow these items at a total of $51,558.
+
+The plaintiff claims six GP consultations per year for 21 years and 10 consultations per annum for the following 20 years. This item appears somewhat excessive. In my opinion it should be reduced to $5000.
+
+Dr Barold assessed the need for physiotherapy at 15 sessions per annum at $65 per session, ie $975 per annum. The plaintiff does not appear to have a present need for physiotherapy of that order though physiotherapy intervention will increase if his condition deteriorates. The plaintiff claims $2000 per annum for physiotherapy for the balance of his life. I would reduce the claim to $1000 per annum and allow it at $17,785.
+
+In my opinion the provision of a gym programme goes beyond what is reasonably required. Furthermore, in my opinion the plaintiff is unlikely to avail himself of such a programme. I do not allow this item.
+
+I do not accept the plaintiff is likely to acquire remedial equipment but I allow this item at $500 against the possibility.
+ , (h), (j), (k) - No change 
+Total allowance for future out of pocket expenses - $85,045.
+
+Past economic loss At the time of injury (17 March 2004) the plaintiff was being paid $200 gross per day by Xentex. That equated to $757 net per week for a five day week or $788 per week given subsequent changes to the taxation regime. Mr Smith, who is now working as an employed patcher and grouter, currently earns $800-1000 net per week. The plaintiff worked only 17 days for Xentex between January 2004 and 17 March 2004.
+ The only paid employment, post injury, engaged in by the plaintiff was light process work with XLNT which involved four hours per week at $20 per hour. The plaintiff worked from 29 August 2008 to 14 November 2008 in that job. He was undoubtedly capable of that work.
+ The plaintiff submitted that he should be awarded an average of $800 net per week from 17 March 2004 to date less earnings with XLNT of $2000.
+ NLP submitted it would be sufficient to allow the plaintiff between three to six months loss of income at $1000 gross per week, $750 net per week, ie $9750 - $19,500.
+ I accept the plaintiff was unfit for work from the date of injury (17
+March 2004) until 28 April 2006, being nine months after the last operation on his knee, a total of 110 weeks. I accept that the plaintiff was fit for sedentary and semi-sedentary work from 28 April 2006 to date, a total of 199 weeks. This accords with the opinion of Dr Cummine and appears to me to be a fair assessment of the situation.
+ I assess the plaintiff's past economic loss at $86,125, comprising $750 net per week from 17 March 2004 to 17 June 2004 (being the period prior to Xentex ceasing to trade) - $9750; $375 net per week from 17 June 2004 to 28 April 2006 (for the balance of the period of unfitness for work) - $36,375; $200 net per week from 29 April 2006 to date - $40,000.
+
+The basis for these calculations is considered under the heading "Future economic loss".
+
+Future economic loss The relevant legal principles are clear. In order to recover damages for loss of earning capacity the plaintiff must establish that his earning capacity has in fact been diminished by reason of the negligence caused injury and the diminution of earning capacity is or may be productive of financial loss - Medlin versus SGIC <case>; [(1995) 182 CLR 1.] The plaintiff submitted that in similar employment he currently would be earning $800-1000 per week. This is what Mr Smith is now earning as a full time employed patcher and grouter. The plaintiff has lost at least 75 percent of his working capacity. Taking $900 net per week as his earnings but for injury, a 75 percent loss of work capacity would leave an ongoing loss of $675 net per week. Dr Jones suggested the plaintiff's injuries would cause him to retire early. Accordingly, the plaintiff's claim is $675 per week for 11 years (to age 55) and thereafter $900 net per week to age 65.
+ The plaintiff also claims superannuation on the assumption the plaintiff would become an employee at some time.
+ NLP submitted that nothing should be allowed for future economic loss, that the plaintiff is fully fit and is unlikely to have worked anyway.
+ I am unable to accept the submission that the plaintiff is fully fit. In my opinion, he is fit for sedentary and semi-sedentary work but not for heavy work. It is likely his condition will slowly deteriorate with time though I do not accept Dr Jones' opinion that he will be forced to retire early.
+ Accordingly, I conclude the plaintiff's earning capacity has in fact been diminished by reason of negligence-caused injury. If the plaintiff was uninjured and would have continued in full time employment in patching and grouting earning $900 net per week, I would have assessed his impairment of earning capacity at $400 net per week.
+ However, there is substance in the defendant's submission that the plaintiff "is unlikely to have worked anyway" and this will require a discounting of the award for past and future economic loss.
+ The assessment of the appropriate discounting factor is a matter of difficulty and necessarily one of impression. Relevant considerations are, on the one hand: the plaintiff's work history - see paras [138]-[141] hereof; 
+Xentex ceased to trade in June 2004; he had received no offer to do patching and grouting work for anyone other than Xentex; he had received no offer of work as a feral animal management controller and there was no independent evidence of the availability of such work or the likely income therefrom.
+
+On the other hand: the plaintiff was in employment at the time of injury; the plaintiff had, on one occasion, engaged in full time work for a substantial period with Australia Post, although this was some years ago; the plaintiff had before 2004 engaged in intermittent employment, including running his own business; the plaintiff gave evidence that, in effect, it was time for him to seek some financial security.
+ In my opinion, the appropriate discounting factor is 50 percent. I make no other allowance for vicissitudes or for loss of superannuation.
+ I therefore calculate the plaintiff's loss of future earning capacity at percent of $400, ie $200 net per week from 28 February 2010 to age 65, ie $131,200.
+
+Attendant care services Section 128 of MACA states, inter alia, in respect of the award of compensation for gratuitous attendant care services: "(2) No compensation is to be awarded if the services would have been provided to the person even if the person had not been injured by the motor accident.
+
+Further, no compensation is to be awarded unless the services are provided (or to be provided): for at least 6 hours per week, and for a period of at least 6 consecutive months." The plaintiff claims ten hours per week for gratuitous assistance from 17
+March 2004 to 17 September 2005 (78 weeks) at $20 per hour together with six hours gratuitous assistance per week from 17 September 2005 to date at $20 per hour.
+ The defendants submitted the claim for care should not be allowed as there was no satisfactory evidence it was provided post accident and the DVD shows it has not been needed for some time.
+ The plaintiff, in my opinion, would have needed significant assistance for a period of six months following his discharge from hospital. He gave evidence that considerable assistance was afforded to him during this period by his girlfriend until they broke up, probably two to three months after his discharge, and thereafter from his mother and various friends. I accept that the plaintiff's mother was able to afford some assistance to the plaintiff notwithstanding that she had an Alzheimer's type condition and the plaintiff was receiving a carer's pension in respect of her from 27 January 2005 until she was placed in a nursing home. He would also have required additional assistance following the operation in July 2005. I accept that the threshold in <case> was met. The plaintiff's average cost for gratuitous assistance at $20 per week appears reasonable. I allow the assistance claim at 10 hours per week from 1 April 2004 until 1 January 2005 and for four weeks in July 2005.
+Otherwise, I allow the claim for assistance to 28 April 2006 at six hours per week. Thereafter the plaintiff, in my opinion, has had very little need of assistance.
+ Since the break up with his girlfriend the plaintiff has been living in his mother's home. He has taken in boarders. The current boarder (since
+September 2007) is Mr McMaster. Apparently the arrangement between them is that they share the domestic duties though Mr McMaster takes on the heavier duties. Mr McMaster gave the following evidence: "Q. So, whether Mr Ralston was a man with a bad back or not, he would probably be doing much the same sharing, is that right? 
+A. Probably, yeah." 
+It would appear the same hours of domestic duties would have been provided by
+Mr McMaster even if the plaintiff had not been injured. Accordingly, any assistance provided by Mr McMaster is not recoverable by reason of <case>. I allow the plaintiff one hour of assistance from 28 April 2006 to date.
+ I assess the plaintiff's entitlement to past care services at $22,180 comprising: April 2004 - 1 January 2005 - 39 weeks @ $200/week $7,800 January 2005 - 27 July 2005 - 29 weeks @ $120/week $3,480 July 2005 - 27 August 2005 - 5 weeks @ $200/week $1,000 August 2005 - 24 August 2006 - 52 weeks @ $120/week $6,240 August 2006 - 28 February 2010 - 183 weeks @ $20/week $3,660 
+Future attendant care services The plaintiff seeks future attendant care services calculated as follows: 
+Domestic assistance: hours per week at $30.20/hour $4712 per annum 
+Shopping delivery $1040 per annum 
+Ironing: hour per week at $30.20/week $1570 per annum 
+Spring cleaning: hours twice per year $484 per annum 
+Window cleaning $300 per annum 
+Gutters cleared $300 per annum 
+Lawns mowed $720 per annum 
+Gardening hours per month $1090 per annum 
+Housepainting $2200 per annum 
+Handyman hours twice per year $800 per annum $13,216 per annum ($254 per week) NLP submits the plaintiff is not entitled to damages under this head.
+ A plaintiff is entitled to damages on the basis that the services will be provided on a commercial basis provided there is a reasonable need for such assistance as a result of the injuries and that they will be provided and paid for.  In my opinion, there is likely to be deterioration in the plaintiff's condition in the future which may cause a need for additional assistance.
+However, that will not arise for some time and the claim accordingly should be the subject of deferral. The plaintiff may require assistance with mowing, some gardening and handyman tasks. In my opinion it is unlikely the plaintiff will incur expenditure for shopping delivery, ironing, spring cleaning, window cleaning, gutters cleared as these are matters either within his capacity or matters which he will not have done. There is no satisfactory evidence that uninjured the plaintiff would have painted his house from time to time. In my opinion, the plaintiff is entitled to recover damages under this head.
+However, the amount recoverable involves allowance for possibilities and deferment of expenses. Doing the best I can on the evidence, I would allow the plaintiff $90,000 under this head.
+
+Fox versus Wood The plaintiff makes a claim pursuant to the principles in Fox versus Wood.
+The amount is agreed at $15,838.60.
+ The plaintiff's damages are assessed at $632,357.53, comprising: 
+Non economic loss $160,000.00 
+Past out of pocket expenses $41,968.93 
+Future out of pocket expenses $85,045.00 
+Past economic loss $86,125.00 
+Future economic loss $131,200.00 
+Past assistance $22,180.00 
+Future assistance $90,000.00 
+Fox versus Wood $15,838.60 
+Orders The orders of the Court are: . Judgment in favour of the plaintiff against the first defendants for $632,357.53.
+Judgment in favour of the second defendant.
+Judgment in favour of the third defendants.
+ . Judgment in favour of the plaintiff against the fourth defendant for $632,357.53.
+Judgment in favour of the fifth defendant.
+ . First, second, third, fourth, sixth, seventh and eighth cross claims dismissed.
+In respect of the fifth cross claim, order: 
+First cross defendants to the fifth cross claim to indemnify the fifth cross claimant/fourth defendant as to 75% of the verdict against it.
+
+Fifth cross claim dismissed as against the second and third cross defendants to fifth cross claim.
+In respect of the ninth cross claim: 
+Declare that the ninth cross defendant, GIO General Limited, is liable to indemnify the first defendants pursuant to the policy of insurance, policy no.
+AP7KO00379, in respect of their liability (including the first defendants' costs) in these proceedings.
+Reserve all questions of costs pending submissions by the parties.
+ 
+LAST UPDATED:  April 2010 * * * 

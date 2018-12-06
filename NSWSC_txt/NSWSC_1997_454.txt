@@ -1,0 +1,187 @@
+
+
+Urica Library Systems Bv versus Sanderson Computers Pty Ltd Matter No Ca /96 [1997] NSWSC 454 (2 October 1997) 
+Urica Library Systems BV versus Sanderson Computers Pty Limited 
+CA 40390/96 CommD 50180/95 October 1997 
+Mason P, Meagher JA, Sheller JA 
+The Supreme Court of New South Wales Court of Appeal 
+NATURE OF JURISDICTION: Commercial Division - Rolfe J 
+FILE NO/S: CA 40390/96; CommD 50180/95 
+DELIVERED: 2 October 1997 
+HEARING DATE: 22 August 1997 
+PARTIES: URICA LIBRARY SYSTEMS BV versus SANDERSONCOMPUTERS 
+PTY LIMITED 
+JUDGMENT OF: MASON P, MEAGHER, SHELLER JJA 
+COUNSEL: 
+Appellant: JC Kelly SC 
+Respondent: TJ Handcock 
+SOLICITORS: 
+Appellant: Freehill Hollingdale & Page 
+Respondent: Victor Bizannes 
+CATCHWORDS: Contracts - construction and interpretation - computer software - distribution agreement - royalty and commission calculations 
+EX TEMPORE/RESERVED: Reserved 
+ALLOWED/DISMISSED: Allowed 
+NO OF PAGES: 18 
+URICA LIBRARY SYSTEMS BV versus SANDERSON COMPUTERS PTY LIMITED 
+This appeal concerns the construction of a Software Distribution Agreement made between the appellant and the respondent. The dispute arose out of the language of the clause dealing with the calculation of royalties and commission.
+
+The trial Judge, in response to a summons begun by the appellant in the
+Commercial Division, made declarations as to the proper construction of the clause. The appeal is from this decision.
+
+Held: 
+This is a case where two constructions are open but the appellant's is the one which avoids consequences which appear to be capricious, unreasonable, inconvenient or unjust, even though the construction may not be the most obvious.
+
+Words and phrases "include" 
+Dilworth versus Commissioner of Stamps [[1899] AC 99] at 105-6 per Lord
+Watson; 
+Lillyman versus Pinkerton (No 2) <case>; [(1982) 71 FLR 135] at 138; per Gummow J in 
+Hepples versus Federal Commissioner of Taxation [(1990) 94 ALR 81] at 101 applied.
+
+ORDERS 
+Appeal allowed;
+Set aside the declarations made on 28 June 1996 by Rolfe J;
+In lieu thereof, declare: .1 That on a proper construction of the provisions of the Software
+Distribution Agreement dated 5 October 1993, the respondent is liable to pay to the appellant, pursuant to cl 4.1 (a) (2), a royalty of fifteen percent where the respondent has supplied to any End User or any other third party
+Licensed Software together only with operating system software and/or relational database management system software.
+ .2 That on a proper construction of the Software Distribution Agreement, a royalty of five percent is payable, pursuant to cl 4.1 (a) (1), only where the supply of the Equipment is a supply of such Equipment together with Licensed
+Software which is integrated with or necessary for the operation of the
+Licensed Software so supplied.
+Remit the matter to Rolfe J to make such further orders sought in the summons filed on 19 September 1995 as may be appropriate;
+The respondent to pay the appellant's costs of the appeal but to have a certificate under the [Suitors Fund Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/sfa1951176/) if so qualified.
+
+URICA LIBRARY SYSTEMS BV versus SANDERSON COMPUTERS PTY LIMITED 
+JUDGMENT 
+MASON P: I agree with Sheller JA. 
+URICA LIBRARY SYSTEMS BV versus SANDERSON COMPUTERS PTY LIMITED 
+MEAGHER JA: I agree with Sheller JA. 
+URICA LIBRARY SYSTEMS BV versus SANDERSON COMPUTERS PTY LIMITED 
+JUDGMENT 
+SHELLER JA: 
+INTRODUCTION 
+This appeal concerns the construction of a Software Distribution Agreement (the Agreement) made between the appellant, Urica Library Systems BV, and the respondent, Sanderson Computers Pty Limited, then known as General Automation
+Pty Limited, on 5 October 1993. By the Agreement the respondent was appointed as the appellant's Licensee in Territory, referred to in the Agreement as "the
+Total Territory", in respect of "the Licensed Software" which was defined relevantly to mean the URICA Software Product. There are two types of software, operations software and applications software. Operations software is the set of instructions, which provides the common facilities to assist the computer in functioning without tailoring the computer to achieve any particular function. Applications software contains the instructions necessary to achieve a particular function or produce a required output. The Licensed
+Software was applications software. It was designed for use in a "Computerised
+Library System".
+
+THE DISPUTE 
+The present dispute between the parties arose out of the language of cl 4.1 of the Agreement which dealt with royalty and commission calculations, in particular, the meaning of para (a) of cl 4.1. Clause 4.1 was in the following terms: .1 Royalty and Commission Calculations 
+The Licensee agrees, in consideration of the rights granted to it, to pay royalties and commissions to the Licensor calculated (and confirmed by reports furnished by the Licensee to the Licensor in terms of this agreement) as follows: 
+Where the Licensee or a Distributor supplies any Licensed Software to any
+End User or any other third party then the Licensee must pay a royalty to the
+Licensor in respect of that supply, calculated as follows: 
+Where the supply is of Equipment and Licensed Software, five percent (5%) of the Net Invoice Price of the Licensee or of the Distributor; or 
+Where the supply consists of Licensed Software only, fifteen percent (15%) of the Net Invoice Price of the Licensee or of the Distributor.
+
+Where the Licensee or a Distributor supplies to any End User or any other third party in any Territory any Computer Program other than the Licensed
+Software for use in a Computerised Library System in accordance with clause .4 (b), the Licensee must (notwithstanding that the Licensor does not hold any intellectual property rights in that software) pay a commission to the
+Licensor in respect of that supply calculated as follows: 
+Where the supply is of Equipment and software, five percent (5%) of the
+Net Invoice Price of the Licensee or of the Distributor; or 
+Where the supply consists of software only, fifteen percent (15%) of the
+Net Invoice Price of the Licensee or of the Distributor.
+
+Where the Licensee supplies Licensed Software under clause 2.3 (b), the royalty or commission payable to the Licensor must be the greater of: five percent (5%) of the Net Invoice Price payable by the End User under the sub-license agreement with the systems integrator or prime contractor; and five percent (5%) of the Net Invoice Price payable by the systems integrator or prime contractor to the Licensee.
+
+Where the Licensee supplies Licensed Software under clause 2.3 (c), the royalty or commission payable to the Licensor must be calculated as if the term Net Invoice Price referred to the aggregate of all fees and other remuneration paid by all of the Libraries subscribing to the bureau.
+
+Where the Licensed Software is supplied or used by an End User in conjunction with other non-related software on the same Equipment, then the
+Net Invoice Price for the supply of the Equipment portion of the System must be calculated, by the Licensee, as that portion of the Equipment price which is pro rata to the number of concurrent users of the Licensed Software on the
+System.
+
+Where a System is supplied in any way otherwise than by supply in a bona fide arm's length transaction, that System will be deemed to have been supplied at that Net Invoice Price which would have been obtained if the supply had been a bona fide arm's length transaction." "Equipment" and "Net Invoice Price" were defined in cl 1.1 which was introduced by the words, "In this agreement, unless the context otherwise requires:". The definitions, so far as material, were as follows: " `Equipment' means hardware, and includes: central processing units, memory devices, disk drives, tape drives, console monitors and any other computer data and code storage devices, ports, concentrators, controllers and the like; and all components of such hardware including operating system software and relational database management systems software, but excludes peripheral devices such as terminals, monitors, video terminals, printers and other devices remotely and loosely attached to the computer system." " `Net Invoice Price' means: 
+The net amount invoiced by the Licensee or a Distributor to an End User for the supply of a System after the deduction of: any sales tax or equivalent or other tax imposed on the Licensee or
+Distributor in any Territory; and any finance charges payable by such End User to the Licensee or
+Distributor;" "System" was defined as follows: " `System' means, where relevant, the combination of the Licensed
+Software and the Equipment on which the Licensed Software may be used, in accordance with the terms of any End User Agreement;" "Operating system software" in the definition of "Equipment" must mean operations software compatible with equipment on which the Licensed Software may be used.
+
+The point of contention between the parties may be summarised. The appellant said that, on the proper construction of cl 4.1 (a), the respondent must pay to the appellant a royalty of fifteen percent of the Net Invoice Price on any
+Licensed Software supplied to any End User unless the supply was not only of
+Licensed Software but also of all that machinery typically contained in the hardware which comprised a computer system; that is to say, the processor, the monitor, the keyboard, a printer, together with all their components, including the operating system software, and the cables which linked all of those parts together to enable it to function as a computer. In effect, the appellant said that if the respondent supplied a computer system with that hardware when it also supplied the appellant's applications software, the multiplier used to calculate the royalty dropped from fifteen to five percent.
+
+The respondent claimed the fifteen percent royalty was payable only if the respondent supplied the Licensed Software alone. If at the same time it supplied an item of hardware, for a computer using the Licensed Software, or operating system software, the royalty payable was, not fifteen percent on the
+Licensed Software, but five percent on the Net Invoice Price of all the goods supplied. On either view, it was not necessary to take account of goods the respondent supplied for computers not using the Licensed Software.
+
+PROCEEDINGS AT FIRST INSTANCE 
+The proceedings, which the appellant began by summons in the Commercial
+Division for, inter alia, declarations as to the proper construction of cl 4.1 of the Agreement, were heard by Rolfe J. His Honour decided: "........ that upon a proper interpretation of Equipment it means the hardware referred to in sub-clauses (a) and (b) of the definition of Equipment in which, of course, I include the operations software, so that if any such hardware is supplied with Licensed Software for the purpose of enabling the
+Licensed Software to be used, there is a supply of Equipment and Licensed
+Software such that the royalty is five per cent. If Equipment were supplied either for some ulterior purpose, in circumstances where it was neither needed nor wanted by the user, or if it were supplied to the user for use on another computer system, which had nothing at all to do with the use of the Licensed
+Software, there would not be a supply of Equipment and Licensed Software, either as a matter of construction, or because in aid of such construction there would not be a Net Invoice Price capable of being applied to Clause 4.1 (1). The same reasoning applies to the construction of Clause 4.2 (b) (1), save to the extent that this is not the supply of a System." 
+His Honour declared that on the true construction of the Agreement: "(a) operating system software and relational database management system software are `Equipment' within the meaning of clause 1.1 of the Software
+Agreement.
+ the supply by the defendant to any End User or any other third party of
+Licensed Software and/or operating system software and relational database management system software if supplied together for the purpose of the person supplied being able to use the Licensed Software attracts a royalty of 5% pursuant to clause 4.1 (a) (1) of the Software Agreement.
+ the supply by the defendant to any End User or other third party of
+Licensed Software and any item falling within the ordinary meaning of the word `hardware' (including those items referred to in sub-paragraph (a) of the definition of Equipment in clause 1.1 of the Software Agreement but excluding those items expressly excluded in that definition) if supplied together for the purpose of the person supplied being able to use the Licensed Software attracts a royalty of 5% pursuant to clause 4.1 (a) (1) of the Software
+Agreement." 
+This appeal is from that decision.
+
+CAPRICIOUS RESULT 
+Before embarking upon the task of determining the meaning of the language the parties used, I should refer to an argument the appellant relied upon to suggest that the respondent's contention and his Honour's conclusion do not make commercial sense. The effect of the respondent's contention was that if it supplied the Licensed Software alone, the Agreement required it to pay fifteen percent of the Net Invoice Price. If it supplied one small item of equipment of small value, such as a "port", which is a socket by which other equipment can be attached to the computer system, the Agreement required it to pay a royalty of only five percent on the Net Invoice Price of that item and the Licensed Software. No commercial justification could be seen for this result. The appellant relied upon a passage from the judgment of Gibbs J, as he then was, in Australian Broadcasting Commission versus Australasian Performing
+Right Association Limited <case>; [(1973) 129 CLR 99] at 109: "If the words used are unambiguous the court must give effect to them, notwithstanding that the result may appear capricious or unreasonable, and notwithstanding that it may be guessed or suspected that the parties intended something different. ........ On the other hand, if the language is open to two constructions, that will be preferred which will avoid consequences which appear to be capricious, unreasonable, inconvenient or unjust, `even though the construction adopted is not the most obvious, or the most grammatically accurate', to use the words from earlier authority cited in Locke versus Dunlop [(1888) 39 ChD 387] at 393....." 
+Rolfe J said that this submission had some attraction. However, his Honour recorded five reasons which, in his opinion, justified the approach which led to the conclusion for which the respondent contended: "Firstly, the plaintiff is desirous of its Licensed Software being supplied.
+.............. it would seem commercially sensible that the defendant should supply to the user the hardware, however major or minor it may be or seem to be, necessary to enable the user to utilise the Licensed Software.
+
+Secondly, the hardware may be major and therefore, I assume, more expensive, or minor. None-the-less it is of critical importance to the user. In the general flow of business it is not unreasonable to take the view that whatever the user requires to enable the Licensed Software to function should be provided. At the end of the day some users will be supplied with expensive hardware and some with inexpensive hardware. But even sub-clause (a) does not draw a distinction between the former and the latter, probably because it was recognized that there would, in all probability, be a financial evening up of the position in the general flow of business. ............ the royalty is established by adding back the value of the hardware.
+
+Thirdly, the interpretation gives some meaning to the basis on which the `Net
+Income Price' is determined. It is related to the supply of a `System', which is the combination of the Licensed Software and the Equipment on which it may be used. The approach is to ensure that the user has the hardware and the operations software to allow the application software to be used, for without such a facility the Licensed Software would be of no use. Therefore, however minor may be the Equipment it still has the element of essentiality to the user.
+
+Fourthly, the Software Agreement provides a standard method of accounting, viz if Equipment is supplied one basis of payment is prescribed, if Licensed
+Software is supplied only another basis is stated. ..........
+
+Fifthly, Mr Kelly's submissions that the supply of a very minor part may be used as an excuse for paying the lesser commission have to be considered in the context of the obligation of the defendant to act bona fide under the
+Agreement. If a very minor part were supplied simply to obtain a benefit on the royalty payable and not because the user required it, it would be difficult to say that the Net Invoice Price had been reached in a proper way, in that there was not the supply of a System. Further the defendant is obliged to act bona fide under the Agreement. In my view it would not be doing so if it supplied hardware, which was either unnecessary or unwanted to bring about a situation where the Licensed Software may be used, but merely to reduce the royalty." 
+His Honour said that the appellant's submission "that there must be supplied operational hardware, ie a complete package of hardware, which is capable of operating, rather than the specific types of hardware referred to in sub- clause (a) and, in my opinion, sub-clause (b), would require one to emasculate the words in a way for which I can see no justification." 
+MEANING OF CLAUSE 4.1 (a) 
+The royalty payable was to be calculated by applying a percentage, either five or fifteen, to "the Net Invoice Price of the Licensee". "Net Invoice Price" was defined to mean the net amount invoiced by the Licensee to an End User for the supply of a "System" after certain deductions. "System" was defined to mean, "where relevant", the combination of the Licensed Software and the
+Equipment on which the Licensed Software might be used, in accordance with the terms of any End User Agreement. Net Invoice Price cannot have the defined meaning in cl 4.1 (a) (2). If the supply consisted of "Licensed Software only", the Net Invoice Price would not be for the supply of a System that is the combination of the Licensed Software and the Equipment on which the
+Licensed Software might be used. The net amount invoiced would necessarily be for the supply of Licensed Software only.
+
+Nor does the definition sit comfortably with cl 4.1 (b), which dealt with the royalty payable on the supply, pursuant to cl 2.4 (b), of software "other than the Licensed Software" for use in a Computerised Library System. To apply to cl 4.1. (b) (1), Net Invoice Price must be read as the invoice for the supply of a system being the combination of "software" and Equipment on which the
+Licensed Software may be used.
+
+On the other hand, the defined meaning of Net Invoice Price can apply in cl .1 (a) (1) if the word "Equipment" in that paragraph is treated as meaning "the Equipment on which the Licensed Software may be used, in accordance with the terms of any End User agreement". If "Equipment and Licensed Software" are not so read in cl 4.1 (a) (1) and in the manner I have suggested in cl 4.1 (b) , it is hard to see what purpose the definition serves.
+
+Clause 4.1 (c) dealt with the royalties and commissions calculation where the respondent supplied Licensed Software under cl 2.3 (b) to a third party which was a systems integrator or a prime contractor, and cl 4.1 (d) where the
+Licensee supplied Licensed Software under c. 2.3 (c) to a bureau supplying services referable to the Licensed Software to Libraries. In the case of para , the royalty or commission payable is the greater of five percent of the
+Net Invoice Price payable by the End User under the sub-license agreement with the systems integrator or prime contractor and of the Net Invoice Price payable by the systems integrator or prime contractor to the Licensee. In either case, the price appears to relate to a System. In the case of para (d),
+Net Invoice Price was to be read in a special way.
+
+Both cl 4.1 (e), which provided that where the Licensed Software was supplied or used by an End User in conjunction with "other non-related software on the same Equipment", the "Net Invoice Price" for the supply of "the Equipment portion of the System" was to be calculated in a particular way, and cl 4.1 which provided that: "Where a System is supplied in any way otherwise than by supply in a bona fide arm's length transaction, that System will be deemed to have been supplied at that Net Invoice Price which would have been obtained if the supply had been a bona fide arm's length transaction.", emphasise the connection between the "Net Invoice Price", in its defined sense, and a "System", and support the conclusion that the word "Equipment", when used in cl 4.1 (a) (1) meant Equipment on which the Licensed Software might be used, that is to say, part of the combination of Licensed Software and such Equipment which was called a "System".
+
+Some attention was directed to the use of the words "includes" and "including" in the definition of "Equipment". It is well recognised that in legal documents "include" may be used to extend the meaning of the word defined beyond its ordinary meaning. Alternatively, "include" may be used not merely to add to the natural significance of the word defined, but to afford an exhaustive explanation of the meaning to be attached to that word in the particular document; see generally Dilworth versus Commissioner of Stamps [[1899]
+AC 99] at -6 per Lord Watson. Again, in a given context, "the draftsman may have used `include' not so much to extend the ordinary meaning of the defined term as to specify as falling within the definition that which might otherwise have been in doubt: Lillyman versus Pinkerton (No 2) <case>; [(1982) 71 FLR 135] at 138"; per Gummow J in Hepples versus Federal Commissioner of
+Taxation [(1990) 94 ALR 81] at 101.
+
+The evidence was that the items specifically referred to in para (a) of the definition of "Equipment" would ordinarily be regarded as "hardware". On the other hand, the excluded "peripheral" devices which were "remotely and loosely attached to the computer system" were items which would allow users, in addition to the operator of the main computer, to obtain access to the computer facilities, and did not relate to the essential functioning of the computer itself. The appellant submitted that items were set out after the word "includes" to indicate that they were parts of a whole. The intention was to indicate what parts were included in that whole as distinct from peripheral devices which were excluded. Paragraph (b) of the definition lent force to this approach. The whole contained not only items themselves hardware, but also all components of such hardware including particular software, namely operating system software and relational database management systems software.
+
+The alternative argument, which was central to the respondent's submissions, was that "Equipment" was defined to mean hardware including, in case there was any doubt about the matter, the individual items of hardware set out in para of the definition and extending to individual components of such hardware, and two individual items of software found in para (b) of the definition.
+
+Looked at alone, the language of the definition of "Equipment" does not point unerringly in favour of the appellant's or the respondent's preferred construction. However, in my opinion, the definition of "System" and the inclusion of that word in the definition of "Net Invoice Price", an expression the meaning of which is necessary to work out the royalty payable pursuant to cl 4.1 (a) (1), strongly suggest that the appellant's construction is the correct one. "System" was defined to be the combination of the Licensed
+Software and the Equipment on which the Licensed Software might be used. A combination of the Licensed Software and individual items of hardware such as ports or single components of hardware or operating system software is not a
+System. What was referred to was a whole piece of Equipment, made up of various parts and components and operations software, on which the Licensed
+Software might be used.
+
+The appellant's construction did not strike me, on first impression, as correct. The respondent rightly emphasised that cl 4.1 (a) (2) spoke of "Licensed Software only", which suggested that the fifteen percent royalty was payable only in the case where no more was supplied than Licensed Software.
+But cl 4.1 (a) (1) was not appropriate for the calculation of the royalty where Licensed Software and one of the items, described in the definition of "Equipment", was supplied, because the Net Invoice Price would not be the net amount invoiced for the supply of a System, that is to say, Licensed Software and the Equipment on which the Licensed Software may be used. If a combination of Licensed Software and a single item of hardware, as defined, did not come within cl 4.1 (a) (1), consistent with the respondent's argument, no royalty was payable on the net invoice amount since cl 4.1 (a) (2) did not apply. "Net
+Invoice Price" as defined had no application.
+
+Commonsense suggests that when para (2) spoke of the supply "of Licensed
+Software only", it spoke of Licensed Software supplied without the Equipment on which it might be used in accordance with the terms of any End User agreement. This conclusion flows from the need to give the definition of "Net
+Invoice Price" some work to do, and the need to avoid any hiatus in terms of the royalty to be paid on Licensed Software if supplied with an item of the sort mentioned in the definition of "Equipment", not itself Equipment on which the Licensed Software might be used. Bearing in mind the appellant's argument as to the consequences of construing the clause as the respondent submitted, I think one can fairly say that this is a case where two constructions are open but the appellant's is the one which avoids consequences which appear to be capricious, unreasonable, inconvenient or unjust, even though the construction may not be the most obvious.
+
+CONCLUSION 
+For these reasons, in my opinion, the following orders should be made:
+Appeal allowed;
+Set aside the declarations made on 28 June 1996 by Rolfe J;
+In lieu thereof, declare: .1 That on a proper construction of the provisions of the Software
+Distribution Agreement dated 5 October 1993, the respondent is liable to pay to the appellant, pursuant to cl 4.1 (a) (2), a royalty of fifteen percent where the respondent has supplied to any End User or any other third party
+Licensed Software together only with operating system software and/or relational database management system software.
+ .2 That on a proper construction of the Software Distribution Agreement, a royalty of five percent is payable, pursuant to cl 4.1 (a) (1), only where the supply of the Equipment is a supply of such Equipment together with Licensed
+Software which is integrated with or necessary for the operation of the
+Licensed Software so supplied.
+Remit the matter to Rolfe J to make such further orders sought in the summons filed on 19 September 1995 as may be appropriate;
+The respondent to pay the appellant's costs of the appeal but to have a certificate under the [Suitors Fund Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/sfa1951176/) if so qualified.
+ * * * 

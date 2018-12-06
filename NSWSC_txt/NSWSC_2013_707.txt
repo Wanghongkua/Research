@@ -1,0 +1,113 @@
+
+
+Ampcontrol SWG Pty Limited -v- Gujarat NRE Wonga Pty Limited (formerly
+Gujarat NRE FCGL Pty Limited) [2013] NSWSC 707 (3 June 2013) 
+Last Updated: 5 June 2013 
+Supreme Court 
+New South Wales  
+Case Title: 
+Ampcontrol SWG Pty Limited -v- Gujarat NRE Wonga Pty Limited (formerly Gujarat
+NRE FCGL Pty Limited)  
+Medium Neutral Citation: <case>  
+Hearing Date(s): May 2013  
+Decision Date: June 2013  
+Jurisdiction: 
+Equity Division - Technology and Construction List  
+Before: 
+Hammerschlag J  
+Decision: 
+Judgment for the plaintiff  
+Catchwords: 
+Building and Construction Industry - Building and Construction Industry
+Security of Payment Act - Where claimant serves a payment claim for a progress payment which does not disclose the precise contractual provisions relied.
+Where defendant fails to serve a payment schedule and then opposes judgment being entered on the basis that the terms of the contract do not entitle the plaintiff to the progress payment claimed - sufficient for the plaintiff to make a claim - defendant could raise the contractual issue in a payment schedule or adjudication response but is not entitled to do so now  
+JUDGMENT 
+INTRODUCTION 
+HIS HONOUR: On 30 June 2011 the plaintiff as Contractor and the defendant as Principal entered into a written construction contract ("the contract") under which the plaintiff agreed to design, supply and commission certain High Voltage Infrastructure at the defendant's mine site at Wongawilli, New South Wales.
+The plaintiff agreed to supply equipment described in a schedule to the contract, identified as Schedule 2. Clause 5.3 of the contract provides that "[t]he price of the Equipment will be the price specified in Schedule 2 and will be payable by the Principal in accordance with clauses 26 and 27."
+Schedule 2 is in the following form: 
+SCHEDULE 2 
+Pricing and Payment Schedule 
+ITEM 
+DESCRIPTION 
+COST  ---  
+Manufacture, supply and installation of Ampcontrol Supplied Equipment as per
+Schedule 2: Scope of Work of this contract. The major component break-up as follows: a
+ kV 25MVA Isolation Substation (1 off) $1,698,129  b
+ /6.6kV 10MVA transportable substation (1 off) MCSet 6.6kV Switchgear (Note that this unit incorporates two (2) separate skid sections) $1,749,390  c
+ /11kV 15MVA transportable substation (1 off) MCSet 11kV Switchgear $1,583,182  d
+ .6kV 3500KVar 3 Step Power Factor Correction Units (1 off). Note that site assembly by others will be required.
+ $254,902  e
+ kV 3500kVar 3 Step Power Factor Correction Units (1 off). Note that site assembly by others will be required.
+ $254,902  f
+
+Transport to site and Unloading of Substation (item 1a) $28,604  g
+
+Transport to site and Unloading of Substation (item 1b) $28,604  h
+
+Transport to site and Unloading of Substation (item 1c) $28,604  i
+
+NER's and Monitors for Auxiliary Transformers (3 sets) $18,000  j
+
+Network Switch and Fibre Termination Panel (item 1a) $8,325  k
+
+Network Switch and Fibre Termination Panel (item 1b) $8,325  l
+
+Network Switch and Fibre Termination Panel (item 1c) $8,325  
+TOTAL: $5,669,292.00  
+Note: The above pricing and payment schedule are GST exclusive.
+
+Milestone based progress claims for Ampcontrol equipment ($5,669,292.00) only: 
+Concept Design Package 10% 
+Submission of Detailed Design (Sufficient for Fabrication to Commence) 10% 
+Major Fabrication Complete (Switch room structure and Transformers) (Prorata) %
+
+Factory acceptance testing (Prorata) 20% 
+Delivery to site (Prorata) 20% 
+Mechanical Practical Completion 5% 
+Electrical Practical Completion including final documentation 5%
+Clause 27 of the contract is entitled Invoices. It contains provisions to the effect that the Contractor must deliver invoices to the Principal's representative calculated in accordance with the contract, that invoices must not be issued for supply of the Equipment until it has been delivered, that not more than one invoice is to be issued in any calendar month, that invoices must have supporting documents and that the Principal must refuse or approve an invoice within 14 days. 
+On 20 December 2012 the plaintiff rendered an invoice to the defendant for $1,437,445.82 ("the payment claim"). The body of the invoice appears as a schedule to these reasons.
+It is common cause that the defendant failed to provide a payment schedule within the time allowed by [s 14(4)(b)](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s14.html) of the [Building and Construction Industry Security of Payment Act 1999](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/) ("the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/)").
+It is also common cause that the defendant subsequently made payments and that the unpaid portion of the plaintiff's claim is $562,390.91 although there is no evidence as to how these payments were appropriated to the payment claim. 
+By motion filed on 3 May 2013 the plaintiff seeks under [s 15(2)(a)](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s15.html) of the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/) to recover the unpaid portion of the claim as a debt due to it and moves for judgment against the defendant accordingly. 
+THE RELEVANT SECTIONS OF THE [ACT](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/) [Section 4](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s4.html) provides that: progress payment means a payment to which a person is entitled under [section 8](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s8.html), and includes (without affecting any such entitlement): the final payment for construction work carried out (or for related goods and services supplied) under a construction contract, or a single or one-off payment for carrying out construction work (or for supplying related goods and services) under a construction contract, or a payment that is based on an event or date (known in the building and construction industry as a "milestone payment").
+[Section 8](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s8.html) provides: 
+On and from each reference date under a construction contract, a person: who has undertaken to carry out construction work under the contract, or who has undertaken to supply related goods and services under the contract, is entitled to a progress payment.
+
+In this section, reference date, in relation to a construction contract, means: a date determined by or in accordance with the terms of the contract as the date on which a claim for a progress payment may be made in relation to work carried out or undertaken to be carried out (or related goods and services supplied or undertaken to be supplied) under the contract, or if the contract makes no express provision with respect to the matter-the last day of the named month in which the construction work was first carried out (or the related goods and services were first supplied) under the contract and the last day of each subsequent named month.
+[Sections 13(1)](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s13.html) and (2) provide: 
+A person referred to in [section ](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s8.html) who is or who claims to be entitled to a progress payment (the claimant) may serve a payment claim on the person who, under the construction contract concerned, is or may be liable to make the payment.
+
+A payment claim: must identify the construction work (or related goods and services) to which the progress payment relates, and must indicate the amount of the progress payment that the claimant claims to be due (the claimed amount), and must state that it is made under this [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/).
+[Section 14(1)](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s14.html) provides: 
+A person on whom a payment claim is served (the respondent) may reply to the claim by providing a payment schedule to the claimant.
+[Section 14(4)(b)](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s14.html) provides: 
+If: the respondent does not provide a payment schedule to the claimant: within the time required by the relevant construction contract, or within 10 business days after the payment claim is served, whichever time expires earlier, the respondent becomes liable to pay the claimed amount to the claimant on the due date for the progress payment to which the payment claim relates.
+[Section 15](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s15.html) provides: 
+This section applies if the respondent: becomes liable to pay the claimed amount to the claimant under [section ](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s14.html) as a consequence of having failed to provide a payment schedule to the claimant within the time allowed by that section, and fails to pay the whole or any part of the claimed amount on or before the due date for the progress payment to which the payment claim relates.
+
+In those circumstances, the claimant: may: recover the unpaid portion of the claimed amount from the respondent, as a debt due to the claimant, in any court of competent jurisdiction, or make an adjudication application under [section ](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s17.html) (b) in relation to the payment claim, and may serve notice on the respondent of the claimant's intention to suspend carrying out construction work (or to suspend supplying related goods and services) under the construction contract.
+
+A notice referred to in subsection (2) (b) must state that it is made under this [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/).
+
+If the claimant commences proceedings under subsection (2) (a) (i) to recover the unpaid portion of the claimed amount from the respondent as a debt: judgment in favour of the claimant is not to be given unless the court is satisfied of the existence of the circumstances referred to in subsection (1), and the respondent is not, in those proceedings, entitled: to bring any cross-claim against the claimant, or to raise any defence in relation to matters arising under the construction contract.
+
+THE PARTIES' CONTENTIONS
+Mr Weinberger of counsel appeared for the plaintiff. He submitted that: the plaintiff (the claimant referred to in the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/)) had served a payment claim for a progress payment as contemplated by [s (1)](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s13.html); the defendant (the respondent referred to in the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/)) failed to provide a payment schedule; under [s (4)(b)](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s14.html) the defendant became liable to pay the claimed amount on the due date for the progress payment for which the payment claim relates; [section ](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s15.html) applies, entitling the plaintiff to recover the unpaid portion of the amount from the defendant as a debt due; these are proceedings under [s (2)(a)(i)](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s15.html) to recover the unpaid portion of the claimed amount; the circumstances referred to in [s (1)](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s15.html) exist, that is the defendant had failed to provide a payment schedule within the time allowed by [s (4)](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s14.html); and the plaintiff is entitled to judgment for the unpaid portion of the claimed amount.
+Mr Gillard, solicitor, appeared for the defendant. During submissions he refined the position taken by the defendant. He submitted that: under [s (4)(a)](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s15.html), judgment in favour of the plaintiff is not to be given unless the Court is satisfied of the existence of the circumstances referred to [s (1)](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s15.html); those circumstances included the serving by the plaintiff of a payment claim as contemplated by [s (1)](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s13.html) and the failure of the defendant to provide a payment schedule; the contract in this case, by way of Schedule 2, specifies events upon which entitlement to payment is based; by dint of [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s13.html), read with the definition of progress payment in [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s4.html) and with [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s8.html), the payment claim had to be for a progress payment, the entitlement to which arose only, on and from one of those contractually specified events; on its face, the payment claim here does not disclose any relationship between the payment sought and any event or date (milestone) described in
+Schedule 2 of the contract; and thus the Court could and should not be satisfied that the plaintiff had made a payment claim under the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/) (to which the defendant had failed to respond).
+Mr Gillard also put that if the Court could not be satisfied of the existence of the circumstance referred to in [s 15(1)](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s15.html), it followed that the option of recovery under [s 15(2)(a)(i)](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s15.html) was not available to the plaintiff. 
+CONSIDERATION 
+The defendant's submissions cannot be accepted. [Section 13](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s13.html) applies when a person who claims to be entitled to a progress payment serves a payment claim. Correspondingly he may serve on the person who is or may be liable to make the payment. The express words of the section make it clear that the assertion of entitlement is sufficient to enliven the operation of the [Act](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/). 
+The plaintiff - whether rightly or wrongly from a contractual point of view - claims such an entitlement. Whilst the payment claim does not reveal the relationship between the amount claimed and any particular provision of the contract, it describes the two components of the claim as Progressive Billing and identifies as the event giving rise to the payment obligation, provision of items of Equipment described in Schedule 2 of the contract. 
+Having regard to the defendant's failure to respond, the Court is able to be, and is, satisfied that the circumstances described in [s 15(1)](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s15.html) have arisen. 
+One of the principal underlying philosophies of the statutory scheme is to provide a swift remedy to a claimant who invokes it. 
+The defendant had the option of serving a payment schedule, and if ultimately appropriate, an adjudication response raising the contractual issue which it now seeks to raise. But it did not do so. [Section 15(4)(b)(ii)](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s15.html) now precludes it from doing so. The statutory scheme does not permit the respondent to refrain, upon some contractual basis, from providing a payment schedule, but to retain the right in subsequent proceedings to rely upon whatever the contractual issue was: see Isis Projects versus Clarence Street <case> at <case>.
+It would be inimical to this philosophy and out of step with the express wording of [s 13](http://www.austlii.edu.au/au/legis/nsw/consolact/bacisopa1999606/s13.html) for the Court to be required at this stage to become enmeshed in a determination of the contractual efficacy of the plaintiff's claim (or the defendant's response to it): see Consolidated Constructions versus Ettamogah Pub <case> at <case> and following.
+
+CONCLUSION
+The plaintiff is entitled to, and there will be, judgment in its favour for $562,390.91.
+The defendant is to pay the plaintiff's costs of the proceedings.
+The exhibits are to be returned.
+ ![201370700.png](707.1.png) * * * 

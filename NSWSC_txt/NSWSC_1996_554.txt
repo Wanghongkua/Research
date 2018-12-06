@@ -1,0 +1,910 @@
+
+
+C Bourne versus A Murphy [1996] NSWSC 554 (21 November 1996) 
+CHRISTINE BOURNE versus ALICE MURPHY & ORS /96; ALD30079/95 
+Monday, 4 November 1996 
+THE SUPREME COURT OF NEW SOUTH WALES COURT OF APPEAL 
+PRIESTLEY, COLE & BEAZLEY JJA 
+CATCHWORDS: LOCAL GOVERNMENT - Election of councillors - irregularity in manner in which person elected or appointed to civic office - classification of ballot papers as formal or informal by returning officer - whether subject to judicial review - whether relief under <case> [Local Government Act 1993](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/) discretionary 
+EX TEMPORE/RESERVED: RESERVED 
+ALLOWED/DISMISSED: ALLOWED [Local Government Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/) [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s329.html) 
+Local Government (Elections) Regulations 1993, regs 73(1); 73(4) 
+Appeal from McInerney J 
+The first respondent, an unsuccessful candidate in the local government elections for Leichhardt Council in September 1995, challenged the appellant's election under s329(1) [Local Government
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/). The election was conducted on the basis of the proportional representation system of counting.
+
+The appellant was the fourth, and final councillor to be elected to the
+Glebe/Annandale Ward, with a margin of 17 votes over the first respondent. The first respondent sought, and obtained a recount of the votes, but the appellant remained ahead of the first respondent, albeit by a much reduced margin of 3 votes. The first respondent then commenced proceedings under [s329(1)](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s329.html) on the basis that certain ballot papers were wrongly ruled as informal by the fourth respondent, the returning officer, and that this constituted an irregularity in the manner in which a person has been elected or appointed to civic office.
+
+The trial judge found, on the basis of the erroneous classification of certain contested ballot papers, that the appellant had not been duly elected to the office of councillor. This constituted an irregularity within the meaning of [s329(1)(a).](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s329.html)
+However, on the basis that relief under [s329](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s329.html) was discretionary, his Honour declined to order that the appellant be dismissed from office, or to declare the election void. Instead, the trial judge ordered a recount of the votes pursuant to [s65](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s65.html) [Supreme Court Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/).
+
+The appellant appealed against the judgment of McInerney J on three main grounds. First, that the finding that the appellant was not duly elected was insupportable as a matter of fact and law. Secondly, that as the trial judge determined not to order the dismissal of the appellant from office under s329(1), his Honour should thereby have dismissed the application. Thirdly, that his Honour erred in substituting his own opinion for that of the returning officer's in respect of the formality or informality of certain contested votes, and that in doing so, his Honour made critical errors.
+
+HELD: 
+Appeal allowed 
+A determination of whether a ballot paper is informal within reg 73(1)
+Local Government (Elections) Regulations 1993 is a question of fact and the court is entitled to determine that matter for itself.
+
+Regulation 73(4) requires the returning officer to form an opinion as to whether the elector's intention is clearly indicated on a ballot paper. A decision made under reg 73(4) is judicially reviewable. 
+The wrong classification of 13 (per Beazley JA) or 11 (per Cole JA) contested votes as informal by the returning officer constituted an "irregularity" within the meaning of s329(1) LGA: per Beazley and Cole JJA. Priestley JA held that the conclusions reached by the returning officer, in cases where his opinion as to the figures on a ballot paper was within the bounds of reasonableness, could not be regarded as irregularities within the meaning of <case>(a) nor that, taken all together, they could be aggregated into an error of law. Priestley JA was of the opinion that the returning officer did not act otherwise than in accordance with reg 73.
+
+Observations on whether relief under <case>(a) is discretionary: Beazley JA of opinion that it is not discretionary, Cole JA of opinion that it is discretionary.
+
+Observations on meaning of "irregularity" within the meaning of <case>(a).
+
+ORDERS . The appeal be upheld
+The declaration made by McInerney J be set aside
+Order that the appellant be dismissed from the office of councillor on the
+Leichhardt Municipal Council.
+Each party to be at liberty to put in written submissions in respect of costs.
+
+JUDGMENT 
+PRIESTLEY JA: Background to the appeal.
+
+Local Government elections were held in New South Wales on 9 September 1995.
+In the Annandale/Glebe Ward of Leichhardt Council there were eighteen candidates for the election of four Councillors. Miss Bourne was the first of the four Liberal candidates listed under the heading Group A on the ballot- paper. She was declared elected for the fourth position, after a recount, by a majority of three votes over the next closest candidate, Miss Murphy, the second of the four Labor candidates listed under the heading Group C. Miss
+Bourne's majority over Miss Murphy on the first count had been seventeen.
+ [Section (1)](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s329.html) of the [Local Government Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/) (the Act) provides, in part: "(1) The Supreme Court ... may, on the application of any person, order the dismissal of a person from civic office: a) if there has been any irregularity in the manner in which the person has been elected or appointed to that office ..." 
+Pursuant to this provision Miss Murphy applied by summons to the Supreme
+Court for an order dismissing Miss Bourne from office.
+
+In Miss Murphy's summons the first defendant was the General Manager of the
+Leichhardt Council, the second defendant the Council, the third defendant Miss
+Bourne, the fourth defendant the returning officer and the fifth defendant the
+Electoral Commission.
+
+As well as seeking an order under [s (1)(a)](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s329.html),
+Miss Murphy sought orders in the nature of certiorari and mandamus quashing the returning officer's declaration that Miss Bourne was elected a Councillor and compelling the returning officer to fulfil his duty by declaring Miss
+Murphy elected and, in the alternative to such orders, an order that the
+Electoral Commissioner conduct a new election for a Councillor for the
+Annandale/Glebe Ward.
+
+The case was heard by McInerney J. A principal matter contested before him was whether or not a number of votes declared by the returning officer to be informal, and hence excluded from the count, were formal. The original ballot- papers in question were in evidence before his Honour and have been available to this court also for inspection in the decision of the case. In my view it is impossible to decide the case without an actual inspection of the ballot- papers in question.
+
+The way in which the elections were to be conducted was prescribed in detail by the Local Government (Elections) Regulation 1993, as amended (the
+Regulation). Important in resolving the formality issues in the case is an understanding of the duties and function of the returning officer. He is the official who conducts elections in a Council's area, on behalf of and under the direction of the Electoral Commissioner (s 296(2)). The returning officer appoints electoral officials including presiding officers who are the electoral officers in charge of polling places (s 296(3); Clause 4(1) of the
+Regulation).
+
+Clause 76(1) of the Regulation requires that the presiding officer at a polling place must on the close of the poll open the ballot box and supervise the scrutiny of the ballot-papers from it and must reject informal ones. The presiding officer sets aside and does not open envelopes containing postal and tendered votes (cl 76(2)). He then, inter alia, sends the ballot-papers classed as formal and those classed as informal in one parcel to the returning officer (sub-cll 77(1) and (2)). Subclauses 77(3) and (4) then provide for the returning officer to open the parcel, scrutinise the ballot-papers, "reject any ballot-paper classed as formal by the presiding officer, if, in the returning officer's opinion it is informal" and "accept any ballot-paper classed as informal by the presiding officer if in the returning officer's opinion it is formal". By cl 78, in the case of ballot-papers in envelopes not opened by the presiding officer, the returning officer is to open the envelopes, scrutinise the ballot-papers "and reject the informal ones".
+
+The returning officer is thus the person required by the Act and Regulation to form the opinions necessary to decide whether ballot-papers are formal or informal.
+
+Of the ballot-papers in the vote-counting for the Annandale/Glebe Ward which were rejected by the returning officer as informal, sixteen were declared, after inspection by McInerney J, to be formal. Of these, fourteen had been submitted by Miss Murphy to be formal and two by Miss Bourne.
+
+McInerney J came to his conclusion in the case on the basis that the returning officer had incorrectly applied cl 73 of the Regulation (set out on p 5 following); that as a result formal ballot-papers had been excluded from the count; and that this constituted an irregularity under <case>(a).
+
+Having formed this opinion McInerney J said: "I am not prepared to declare this election absolutely void nor to declare the election of any individual candidate void upon the basis of the irregularity in this case. The failure of the returning officer to correctly apply Regulation 73 and thus to have improperly excluded formal ballot papers is not of sufficient a nature to avoid the election, even though it may have produced a different result." 
+He then said that although he might have the power to set aside the declaration of Miss Bourne as elected to office, he did not think it appropriate in the circumstances to exercise his discretion to do so and expressed the opinion that it would be possible to give effect to the true intention of the voters without a new election. He concluded that he had power to order the State Electoral Commissioner to carry out a recount to determine whether Miss Bourne or Miss Murphy was entitled to be elected as a Councillor.
+To effect this result he made a declaration that Miss Bourne was not duly elected and ordered the Electoral Commissioner to undertake a full recount, including those ballot-papers he (McInerney J) had declared formal.
+ 
+The appeal.
+
+Miss Bourne appealed from the decision of McInerney J to this court. His orders were stayed pending the determination of the appeal. In the meantime she has been exercising office as a Councillor.
+
+The appeal turns on the question whether there was relevant "irregularity", within its meaning in <case>(a), in the election of Miss Bourne. It seems to me that before coming to this question it is necessary first to consider the various holdings by McInerney J that ballot-papers considered informal by the returning officer were formal. All such holdings were contested in the argument in this court. The ballot papers were before McInerney J and he considered their formality or otherwise as if he were the returning officer. I will treat them in the same way, and comment on them in a way enabling me subsequently to consider the legal effect of my views.
+
+A returning officer must consider whether a ballot-paper is informal in light of cl 73 of the Regulation which is as follows: "73(1) A ballot-paper of an elector at an election is informal if: the elector has failed to record a vote on it in the manner directed on it; or it has not been initialled on the back by the returning officer or an electoral official; or it contains a mark or writing which, in the returning officer's opinion, would enable the elector to be identified.
+ 
+Despite subclause (1), a ballot-paper of an elector at an election in which only one candidate is to be elected from 2 candidates is not informal merely because a tick or a cross has been placed in one square and the other square has been left blank. In such a case the tick or the cross is to be treated as a first preference.
+ 
+Despite subclause (1), a ballot-paper of an elector at an election is not informal merely because a preference (other than a first preference) has been repeated or omitted so long as the ballot-paper shows the minimum number of preferences required by the direction.
+ 
+Despite subclause (1), a ballot-paper is not informal by virtue of the existence of an unnecessary mark on the ballot-paper if, in the opinion of the returning officer, the elector's intention is clearly indicated on the ballot- paper." "The manner" of recording "a vote on" the ballot-paper "directed on it" (to use the terms of cl 73(1)(a)) was "ONLY USE NUMBERS do not tick or cross [also shown in symbols] ..........................
+
+YOU MUST NUMBER AT LEAST 4 SQUARES 
+Directions for Voting . In marking your vote on ballot paper, you must vote for at least FOUR candidates by placing the numbers 1, 2, 3, 4 in the squares opposite the names of the candidates in the order of your preferences for them and may, if you wish, vote for additional candidates by placing consecutive numbers beginning with the number 5 in the squares opposite the names of those additional candidates in the order of your preferences for them." 
+No submission was put to the court that the directions were in any way beyond power. I approach the formality questions therefore by reading cl 73 together with the directions. As already indicated, at this stage I will do so on the same footing as a returning officer, in regard to each contested ballot-paper.
+
+The way in which I think the returning officer in the present case had to read cl 73 together with the directions on the ballot-paper was as follows. Clause (1)(a) and the directions, taken together, had the effect that a ballot- paper was informal, subject to sub-cll (2), (3), and (4), if the numbers 1, 2, and 4 did not appear in the squares opposite the names of four candidates.
+That meant, in the circumstances of the present case, that cl 73 and the directions, read together, made it essential, for a ballot-paper to avoid informality, and notwithstanding the provisions of sub-cll (2), (3) and (4), that the elector who marked his or her vote on it placed at least the numbers , 2, 3 and 4 in separate squares opposite the names of candidates. This is because if all four numbers did not appear on a ballot-paper, sub-cll (2), (3) and (4) could have no application to it. Sub-clause (2) had no application in this particular election because there were more than two candidates. Sub- clause (3) could not apply; it was only capable of application where the ballot-paper showed the four preferences required by the direction. Sub-clause could not apply. The first thing required by this sub-clause was that the elector's intention be clearly indicated on the ballot-paper. If any one of the numbers 1, 2, 3 and 4 were not placed on the ballot-paper then it was impossible for the elector's intention as to the four candidates for which the elector was required to vote to have been clearly indicated on the ballot- paper.
+
+In cases where the numbers 1, 2, 3 and 4 were all placed in squares opposite the names of candidates and there were other marks on the ballot-paper, then so long as the mark would not enable the elector to be identified (par (c) of sub-cl (1)) then, in some but not all cases, the ballot-paper would not be informal by virtue of the existence of that mark. Cases in which the ballot- paper would remain informal because of cl 73(1)(a) would be cases of the kind of which the following ballot-paper would be an example: one on which an elector had placed in the squares opposite the names of five candidates two s, a 2, a 3 and a 4. In a case where it was open to the returning officer to decide that both the apparent 1s were 1s, I do not think it would have been open to that returning officer to form the opinion that one of the 1s was an unnecessary mark.
+
+Twenty-eight of the ballot-papers rejected by the returning officer as informal were considered by McInerney J, sixteen in Exhibit E, seven in
+Exhibit 3 and twelve in Exhibit 4. Miss Murphy claimed all those in Exhibit E were formal (McInerney J agreed as to 14) and Miss Bourne claimed all those in
+Exhibit 3 were formal (McInerney J agreed as to 2). McInerney J agreed with the returning officer that all ballot-papers in Exhibit 4 were informal. That was common ground in this court. I therefore only need to deal with those in
+Exhibits E and 3.
+
+Ballot-papers in Exhibit E.
+
+Ballot-paper (a). The elector placed numbers 1 7 and 9 to 18 in seventeen squares. In the remaining square the elector placed a mark which at first glance looks very like a 1. Those asserting the informality of this ballot- paper do so because of this mark. On close inspection I deduce it was written as the number 8 although a very skinny one. The possible ground of informality was that in cl 73(1)(a). On the footing the mark in question is an 8, the elector did not in my opinion fail to record a vote on the ballot-paper in the manner directed, and, as returning officer, I would see no ground of informality. McInerney J, Cole JA and Beazley JA are all of this opinion.
+
+However, it seems to me to have been reasonably open to the returning officer to read the mark as a 1 and thus class the ballot-paper informal. The explicit formation of opinion required by sub-cl 73(4) was not required at the stage when the returning officer treated what I would have thought was a skinny 8 as a 1, but nonetheless he inescapably had to form an opinion on the question whether it was an 8 or a 1. Looked at entirely on its own, it could only be called a 1. It is a single upright line. By looking at the 18 in the last square under Group A where the 8 is very similar, but very slightly more obviously an 8, and seeing the numbering in all the squares, it is deducible that the elector intended the disputed number to be an 8. But, does that mean the returning officer in deciding (forming the opinion) that a single vertical mark which looked like a 1 should be treated as a 1 was creating an "irregularity" within the meaning of <case>(a)? I find it hard to think so. The elector intending to place the number 8 in a square opposite the name of the elector's candidate of eighth preference could have fulfilled that intention simply. If the elector by mischance made a mark which the electoral officer whose duty it was to decide what numbers had been placed in squares reasonably considered was a different mark, then the elector's intention, not the returning officer's judgment, miscarried.
+
+Ballot-paper (b). The elector filled in four squares. My inspection of the ballot paper leads me to think the numbers from 1 to 4 were first written in the squares and a tick then superimposed on each number. The ticks over 2, 3 and 4 went a long way to obliterating them. If I am right in this, the elector failed to record his or her vote on the ballot-paper in the manner directed.
+The manner directed was to place numbers in squares and not to use ticks.
+Clause 73(1)(a) thus made the ballot-paper informal unless saved by one of sub-cll (2), (3) or (4).
+
+Sub-cll (2) and (3) cannot apply.
+
+The only basis on which the returning officer could have accepted the ballot- paper as formal was if, in reliance on sub-cl (4), he formed the opinion the elector's intention was clearly indicated and he then treated the ticks as unnecessary marks. In the position of the returning officer I would not form that opinion, because I think the ticks were meant to obliterate the numbers.
+This not only means the elector failed to record a vote in the manner directed, but also that the elector intended to treat equally each of the candidates in whose squares marks were made equally, not to show any preference between them, thus making it impossible to identify any intention as to the elector's first preference, which cl 73, together with the directions, made essential in the Annandale/Glebe Ward election.
+
+McInerney J was of opinion the ticks were made first in the squares and the numbers written over them. He then said the only conclusion to be drawn was that the elector intended to vote as indicated by the numbered squares, and that the ballot paper was formal. Cole JA and Beazley JA separately arrive at the same result. They both think the elector's intention was clearly indicated on the ballot-paper. This seems to me to be a debatable matter of opinion.
+
+If I thought the ticks were made first then I would draw the same conclusion as McInerney J about the elector's intention. Nevertheless, even if I came to that conclusion I think the position would remain that it would have to be acknowledged that the returning officer could reasonably have formed an opinion the other way, and not, therefore, in my opinion creating an irregularity within <case>(a).
+
+Ballot-paper (c). The elector placed the numbers 1 to 6 in six squares and in four other squares placed the number 1. The directions for voting required an elector wishing to vote for more than four candidates to place consecutive numbers beginning with the number 5 in the squares opposite the names of those additional candidates in the order of the elector's preference. The elector did this with the numbers 5 and 6. The elector did not do it in regard to at least four of the five 1s entered in squares opposite the names of candidates.
+Also, the elector did not comply with the direction to place the numbers 1, 2, , 4 in the squares opposite the names of the candidates in the order of the elector's preferences for them. There are five 1s on the ballot-paper. The elector has not shown a first preference. Clause 73(3) shows that a ballot- paper must show the minimum number of preferences required by the directions.
+That means, in regard to the presently relevant ballot-paper, at least the numbers 1, 2, 3, 4 must be placed in squares on the ballot-paper and further that only one 1 be placed because as every consideration shows, reinforced by the reference to "a first preference" in cl 73(3), only one square may have placed in it the number 1.
+
+Clause 73(4) cannot prevent the informality of the ballot-paper, because, inter alia, there is no way of telling which of five candidates the elector intended to be the elector's first preference.
+
+Cole JA, Beazley JA and I all reach the same conclusion on this ballot-paper.
+
+Ballot-paper (d). In this ballot-paper the numbers 2, 3, 5, 6, and 7 were placed in the squares opposite the names of five candidates. In a sixth square there is what could be a 1, with the greater part of the square covered with pencil shading which looks like a possible attempt by the elector to cover over the mark that could be a 1. The other marked square contains part of a pencil figure, the whole of which, on a generous interpretation, could be a 4, about half of which is outside the square. As a returning officer I would be inclined to think that the sixth square referred to contains a 1 with some pencil shadings and that the other marked square contains, in substance, a 4.
+I would have to form an opinion whether the elector's intention was clearly indicated, and if I did think that the elector's intention was clearly indicated (as I would) decide whether I would treat the pencil shading as an unnecessary mark (as I would), and that the ballot-paper was thus valid. Cole
+JA and Beazley JA reach this conclusion.
+
+The conclusion does however seem to me to be reached on a moderately liberal basis and it seems to me that a reasonable person taking a somewhat stricter approach could conclude that there was no proper 1 or no proper 4, or neither, on the ballot-paper, any of which opinions would require that the ballot-paper be classed as informal.
+
+Ballot-paper (e). There are two features of this ballot-paper which could base arguments supporting its being classed as informal. In the square opposite the top named candidate in Group C there are two pencil down strokes.
+Looked at in isolation, the pencil marks could be read as 11 just as readily as 1. In the squares opposite the names of the other three candidates in
+Group C the numbers 2, 3 and 4 have been placed, in that descending order.
+However, none of the three numbers is entirely within the square. As returning officer I would think the right way to treat the numbers 2, 3 and 4 would be as substantially within the squares. Then looking at the four marked squares I would think the marks in the top square could reasonably be treated as a badly formed 1, the elector having made a second mark in emphasising the first one, and not having accurately superimposed it. Thus, as returning officer I would treat the ballot-paper as formal.
+
+Cole JA and Beazley JA reach the same conclusion. Quite clearly such a result is reached after forming opinions about the interpretation of the marks on the ballot-paper.
+
+In my opinion a reasonable but stricter interpreter could treat the square with the two upright pencil marks in it as containing an 11, and/or about one third of the 2 and about one half of the 3 as outside their squares, and the ballot-paper as informal.
+
+Ballot-paper (f). Only the numbers 1, 2, 3 and 4 appear on this ballot- paper. None is inside a square. Clause 73(1)(a) makes it informal unless sub- cl 4 saves it; but the sub-clause only applies if the ballot-paper would otherwise be informal by virtue of the existence of an unnecessary mark. That is not the case here. This ballot-paper is one where no returning officer could reasonably think the ballot-paper was other than informal. That view was taken by the returning officer, McInerney J, Cole JA and Beazley JA.
+
+Ballot-paper (g). This ballot-paper is in a position similar to ballot-paper . What McInerney J, Cole JA and Beazley JA are prepared to treat as a 1 (as
+I would do as a returning officer) was treated as 11 by the returning officer.
+Although this was a strict approach, I think it was within the bounds of reasonableness.
+
+Ballot-paper (h). The only ground of informality was that there was no square containing a number 4. However, the squares opposite the names of the four candidates listed under Group C contain, reading from the top, the numbers 1, 2, 3 and some pencil marks. The pencil marks in the lowest square looked at by themselves would not represent the number 4. If the four squares are looked at in sequence from the top however, my opinion is that the fourth square contains a badly formed number 4. As returning officer I would say the vote was formal, without the need to form any opinion under sub-cl 4.
+
+Cole JA and Beazley JA think the ballot-paper is formal.
+
+However, it would be reasonable to read the badly formed 4 as no 4 at all. If so, sub-cll (3) and (4) would not be available to save the ballot-paper. It would be informal because it did not have a 4, did not show the minimum number of preferences required by the directions and its informality was not due to the existence of an unnecessary mark.
+
+Ballot-paper (i). The position in regard to this ballot-paper is the same as for ballot-paper (g) for broadly the same reasons. (What with reasonable liberality could be read as a 1 could with equally reasonable strictness be read as a tick.) 
+Cole JA and Beazley JA both think this ballot-paper formal.
+
+Ballot-paper (j). In this ballot-paper there are pencil marks in five squares. Three squares contain the numbers 2, 3 and 4. One square contains a badly formed 1. The last square contains a mark clearly intended to strike out an almost illegible entry beneath it which appears to have been a 1. This square was the top square in the four appearing against the names of the Group
+C candidates. It seems quite clear that the elector first filled in the four squares against the names of the Group C candidates and then decided to give first preference to a candidate not in Group C, struck out what had been in the square opposite the top Group C name and gave second, third and fourth preferences to the remaining three candidates in Group C. As returning officer
+I would say the vote was formal, without the need to form any opinion under sub-cl (4).
+
+Cole JA and Beazley JA think the ballot-paper formal.
+
+However it would be reasonable to read the ballot-paper as containing two 1s and thus informal.
+
+Ballot-paper (k). This ballot-paper had one feature similar to ballot-paper . The number 2 was placed in squares opposite the names of two candidates.
+Clause 73(3) requires that the ballot-paper show the minimum number of preferences required by the directions. That means in my opinion that only one second preference can appear on the ballot-paper. The ballot-paper was informal by reason of sub-par (a) of cl 73(1) unless saved by one of the sub- clauses. Sub-cl (3) could not save it, because it makes clear that a second preference must be shown. The two 2s make it impossible for anyone to say what was the elector's intention as to a second preference. Similarly, sub-cl (4) cannot save it, because the presence of the two 2s makes it impossible to form an opinion of the elector's intention.
+
+Cole JA thinks this vote informal, Beazley JA also.
+
+Ballot-paper (l). On this ballot-paper numbers have been placed in the squares opposite the names of all eighteen candidates. The ground of informality is that there are two 7s and no 9. It seems probable that of the two numbers said to be 7s, one was intended to be a 9 and was badly written.
+However, it looks much more like a 7 than a 9 and I am not prepared to say that it is a 9. However, cl 73(3) says a ballot-paper is not informal merely because a preference is repeated or omitted (so long as it is not a first preference) and so long as the minimum number of preferences (here four) is shown. This is the present situation, so that the ballot-paper is not informal.
+
+Cole JA and Beazley JA think this ballot-paper is formal.
+
+In regard to this ballot-paper it does not seem to be reasonably open for it to be classed as informal.
+
+Ballot-paper (m). This ballot-paper had the squares opposite the names of four candidates filled in. In three of the squares the numbers 2, 3 and 4 plainly appear. In the remaining square it seems to me that the number 1 has been superimposed over an earlier pencil mark, and as returning officer I would treat it as such and say the ballot-paper was formal, without the need to form any opinion under sub-cl (4).
+
+Cole JA and Beazley JA think the ballot-paper formal.
+
+Again, however, it seems to me it could be reasonable for a returning officer to read the marks that I have called a superimposed 1 as a 3, in which case the vote would be informal 
+Ballot-paper (n). The squares opposite the names of five candidates have been filled in. In two squares there appears the number 1. The other three contain the numbers 2, 3 and 4. One of the number 1s is not quite so plainly the number 1 as the other. It is nevertheless sufficiently plain for me to think that as returning officer I could not treat it in any other way. For reasons explained in regard to ballot-paper (c) this would make the ballot- paper informal.
+
+Cole JA and Beazley JA think it is informal.
+
+Ballot-paper (o). The only marks on this ballot-paper are the figures 1, 2, and 7. They appear to the right of the names of candidates in Group C and to the left of the squares against the names of the candidates in Group D. The elector failed to record a vote on the ballot-paper in the manner directed and nothing in sub-cll (3) or (4) of cl 73 could save it.
+
+McInerney J, Cole JA and Beazley JA all think this ballot-paper is informal.
+
+Ballot-paper (p). The squares opposite the names of nine candidates are filled in. The numbers 2 to 9 appear in eight of the squares. The other square contains a mark looking more like a Z with the transverse stroke going slightly above the upper horizontal stroke, than anything else. As returning officer I would doubt whether it could be taken, even contextually, as a 1.
+However, I would also be of the opinion that the elector's intention was clearly indicated on the ballot-paper, that it would be informal only because the two horizontal strokes could be taken as unnecessary marks, leaving the transverse stroke to be taken as a 1. I would thus treat the ballot-paper as formal.
+
+Cole JA treats this ballot-paper as informal, Beazley JA as formal.
+
+I would think a reasonable returning officer could have formed either opinion.
+
+Exhibit 3 
+Ballot-paper 1. This ballot-paper is formal unless the mark in the square opposite the name of one candidate is not a 1. When the numbers 2, 3 and 4 in the squares opposite the names of the candidates immediately beneath the name of the candidate in the square opposite whose name the disputed mark appears are looked at, in conjunction with the disputed mark, a reasonable fact finder should in my opinion recognise that the disputed mark is a badly formed 1. As returning officer I would say the ballot-paper was formal, without the need to form any opinion under sub-cl (4).
+
+However, a returning officer could reasonably form the view that what I would treat as a 1 was not a 1 at all, in which case the ballot-paper would be informal.
+
+Ballot-paper 2. The squares opposite the names of five candidates have had numbers placed in them. Three of the numbers are 2, 3 and 4. The other two numbers are both 1. For reasons already explained this means the ballot-paper must be informal.
+
+McInerney J, Cole JA and Beazley JA all think this ballot-paper informal.
+
+Ballot-paper 3. There is no number 1 in any square on this ballot-paper so that it is informal pursuant to cl 73(1)(a) unless saved by sub-cl (3) or (4).
+I do not see that either sub-regulation can possibly save it.
+
+McInerney J, Cole JA and Beazley JA all think this ballot-paper informal.
+
+Ballot-paper 4. The elector placed the numbers 2, 3 and 4 in the squares opposite the names of the second, third and fourth candidates in Group A. The elector also made marks in the square opposite the name of the first candidate in Group A (Miss Bourne). There are no other marks on the ballot-paper.
+
+The ballot-paper can only be formal if it is right to say that the marks in the square opposite the name of Miss Bourne make a 1. Although it may well be that the marks were intended by the elector to be a 1, I do not think it can be said that the elector succeeded in that intention if such was the intention. An elector intending to place the number 1 in a square opposite the name of the elector's candidate of first preference can fulfil that intention by making a simple mark. If the elector through some mischance makes a mark different from the intended mark then the elector's intention miscarries and there is nothing in cl 73 to save it. In this instance I do not think it right to regard the disputed mark as the number 1. In my opinion the vote is informal.
+
+McInerney J thought it formal, as does Beazley JA. Cole JA thinks it informal.
+
+It seems to me to be a ballot-paper on which reasonable minds could reasonably differ.
+
+Ballot-paper 5. The elector did not record a vote in the manner directed and nothing in cl 73 saves it from informality.
+
+Ballot-paper 6. As in 5. Informal.
+
+Ballot-paper 7. The numbers in the squares opposite the names of the candidates include two 1s and have no 2. Informal.
+
+Result of consideration of Exhibits E and 3.
+
+Thus, of the ballot-papers classed as informal by the returning officer inspected by McInerney J and this court, McInerney J thought sixteen were formal, Cole JA thinks eleven are formal, Beazley JA thinks thirteen are formal, and, if I were the returning officer, I would think nine are formal.
+
+In regard to eight out of the nine that I would, if a returning officer, think formal, it is my view that a reasonable returning officer, taking a stricter view of the ballot-paper rules than I have taken, but one within the limits of reasonableness, could have properly treated them as informal. As I indicated when dealing with ballot-paper (a), I do not think the conclusions reached by the returning officer in cases where his opinion as to the figures on a ballot-paper was within the bounds of reasonableness could be regarded as irregularities for <case>(a) purposes, or that, taken all together, they could be aggregated into an error of law.
+
+The ninth ballot-paper, (l) in Exhibit E, which I think could only properly be classed as formal showed the number 12 in the square opposite Miss Murphy's name and the number 15 in the square opposite Miss Bourne's. This ballot-paper contained, in my opinion, two 7s and no 9.
+
+I referred earlier to the opinion of McInerney J that the returning officer had misunderstood the proper application of cl 73 and that this error made his decision reviewable. Earlier also I set out my own view about the way in which cl 73 should be applied, by reference to the facts of this case. I have seen nothing in the materials before this court leading me to think that the returning officer acted otherwise than in accordance with what I think is a proper understanding of cl 73. Nor do I think, on the assumption that the answers to interrogatories were admissible, that there is anything in them supporting any different view.
+
+Thus I do not think it can be said that any error of law on the part of the returning officer was demonstrated by Miss Murphy in her application under s (1). This is so at least in regard to the eight of the nine ballot-papers which, in my opinion in the role of returning officer, and differently to the opinion of the actual returning officer, were formal. In regard to the eight that I have identified the fact that my opinion differs from that of the returning officer seems to be of no consequence, so long as it was reasonably open to him to form the opinion that he did. Such an opinion is a lawful one.
+It follows, that whatever the precise content of "irregularity" may be in s (1), no claim of such "irregularity" can be based on those eight ballot- papers.
+
+This leaves the situation as one where Miss Murphy's claimed irregularity, on my approach to this case, rests upon the returning officer having made what seems to me to have been an undoubted mistake in regard to one ballot-paper only. That ballot-paper is ballot-paper (l) discussed at p 16 above. The facts concerning it additional to those already set out are that the number 12 was placed in the square opposite Miss Murphy's name and 15 in that opposite Miss
+Bourne's. As earlier indicated, it is my view that the better reading of this ballot-paper is that the elector placed the numbers 1 to 6 in six squares, two s in two squares, the number 8 in another square and the numbers 10 to 18 in nine squares. This means that the elector did not make clear what his or her seventh preference was and showed no ninth preference. This must limit the extent of the effectiveness of the ballot-paper as a formal one. I do not see how the counting of this ballot-paper, to the extent of its validity could of itself help Miss Murphy in overcoming her three vote deficit.
+
+It would further seem to me to follow that in these circumstances, although it may be right to categorise the mistaken classification of this one ballot- paper as an "irregularity", it is not an "irregularity in the manner in which" Miss Bourne was elected. The ballot-paper in question played no part either in Miss Bourne's being elected or, to put it another way, in Miss
+Murphy's not being elected, and, had it played a part, would have made no difference to the result.
+
+Conclusion.
+
+In the result, my opinion is that Miss Murphy's application under <case> should have been dismissed.
+
+For substantially the same reasons she was not in my opinion entitled to orders in the nature of certiorari and mandamus.
+
+In my opinion, the appeal should be upheld, the orders made by McInerney J set aside, instead it should be ordered that Miss Murphy's summons should be dismissed, the parties should be given seven days to file written submissions about costs and after that time the court should pronounce appropriate costs orders.
+ 
+McI  
+C 
+B 
+P  ---|---|---|---|---|---|---|---|---  (As returning officer)  
+EXHIBIT E:  a.  
+F 
+F 
+F 
+F  b. 
+F 
+F 
+F 
+I  c. 
+F 
+I 
+I 
+I  d. 
+F 
+F 
+F 
+F  e. 
+F 
+F 
+F 
+F  f. 
+I 
+I 
+I 
+I  g. 
+F 
+F 
+F 
+I  h. 
+F 
+F 
+F 
+F  i. 
+F 
+F 
+F 
+I  j. 
+F 
+F 
+F 
+F  k. 
+F 
+I 
+I 
+I  l. 
+F 
+F 
+F 
+F  m. 
+F 
+F 
+F 
+F  n. 
+F 
+I 
+I 
+I  o. 
+I 
+I 
+I 
+I  p. 
+F 
+I 
+F 
+F  
+EXHIBIT 3:    
+F 
+F 
+F 
+F  ---|---|---|---|---|---|---|---   
+I 
+I 
+I 
+I   
+I 
+I 
+I 
+I   
+F 
+I 
+F 
+I   
+I 
+I 
+I 
+I   
+I 
+I 
+I 
+I   
+I 
+I 
+I 
+I  
+COLE JA: The appellant, Christine Bourne, was declared elected as a councillor in the Glebe/Annandale Ward of the Leichhardt Municipal Council after the Local Government elections held on 9 September 1995. On the first count of votes for that Ward she was the fourth and final councillor who would have been elected with a majority of seventeen votes over her rival for the fourth position, Alice Murphy. A recount was sought by Miss Murphy. After that recount Miss Bourne had a majority reduced to three votes. The returning officer, after notice to the candidates as required by the Local Government (Elections) Regulations 1995, declared Miss Bourne elected to the office of councillor. 
+Miss Murphy commenced proceedings in the Supreme Court seeking: "An order pursuant to [s.329](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s329.html) of the [Local Government Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/) for the dismissal of a person from civic office, being the third defendant, Christine
+Bourne, on the ground that there has been an irregularity in the manner in which the Third defendant has been elected or appointed to the Office of
+Councillor." 
+In addition an order was sought in the nature of certiorari quashing the returning officer's declaration that Miss Bourne was elected councillor, an order in the nature of mandamus or pursuant to [s.65](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s65.html) [Supreme Court
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/) compelling the returning officer to fulfil his duty by declaring Miss Murphy elected to the position of councillor and: "In the alternative to the immediately preceding paragraph an Order that the fifth defendant (the Electoral Commissioner) conduct a new election for a councillor for the Annandale/Glebe Ward of the Leichhardt Council." 
+McInerney J in a judgment dated 17 April 1996 did not make any of the orders sought in the summons. His Honour declared that Christine Bourne "was not duly elected to the office of councillor" and ordered the Electoral Commissioner to "undertake a full recount, including those ballot papers I have declared formal". Although those orders were not sought in the summons, it is clear that the question of whether orders to that effect should be made was a matter which was debated by the parties before his Honour.
+
+McInerney J found that fourteen votes held informal by the returning officer which Miss Murphy claimed were formal, and two votes found informal by the returning officer and contested by Miss Bourne, were in fact formal votes. The additional sixteen votes, the ballot papers for which were identified and the preferences shown thereon thus known, were then taken into account by the trial judge in addition to the formal votes, and preferences attaching thereto previously identified by the returning officer and tallied on the record of voting Exhibit D. As the number of councillors to be elected in the elections was three or more, s.285(b) [Local Government Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/) required that the voting system to be used was proportional representation. His Honour applied that system in a notional recount having regard to the additional sixteen votes and came to the conclusion that on such a recount Miss Murphy would have received one more vote than Miss Bourne. Accordingly he made the orders that he did.
+
+On the appeal Miss Bourne has raised a number of contentions. First, McInerney
+J declined to order the dismissal from office of Miss Bourne. It seems his
+Honour thought that as he was of the view that Miss Bourne was declared elected after exclusion of sixteen formal votes she had not been duly or validly elected. His Honour seemed to doubt whether in those circumstances he could declare her election to the position of councillor void. His Honour was troubled by the circumstance that if he was to dismiss Miss Bourne from office a question would arise whether there was a casual vacancy. If there was, or if the vacancy was to be treated as a casual vacancy, [s.318](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s318.html) may "compel a by-election". His Honour said: "I am not prepared to declare this election absolutely void nor to declare the election of an individual candidate void upon the basis of the irregularity in this case. The failure of the returning officer to correctly apply [regulation ](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s73.html) and thus to have improperly excluded formal ballot papers is not of a sufficient nature to avoid the election, even though it may have produced a different result." 
+On appeal, Miss Bourne argued that as his Honour had declined to order her dismissal from office, the prior declaration of her election to that office stood, there was thus no vacant office to be filled and in those circumstances the trial judge had no discretion but to dismiss the suit. Second, it was argued that his Honour's finding that Miss Bourne was not duly elected was wrong in fact and insupportable as a matter of law. Third, it was argued that his Honour was not entitled to substitute his opinion regarding the validity of the sixteen ballot papers held formal, and others held informal, for that of the returning officer. If the trial judge was entitled to consider the ballot papers for himself, it was said his findings were wrong.
+
+In addition it was contended that even accepting that sixteen additional formal votes should have been considered, in doing the mathematics of a notional recount having regard to those votes, and the required system of proportional representation, his Honour erred in relation to two votes on the thirteenth count. Had his Honour not erred in relation to those two votes it is said the result would have been that Miss Bourne would have received in all probability one vote more than Miss Murphy. It was contended that, as Miss
+Bourne was declared elected, her challenger could only succeed in displacing her if she could prove to the Court that the found errors in relation to the informal votes resulted in the challenger obtaining a majority of votes: it was not sufficient for her to show that she might have received a majority of votes, or an equality of votes. The onus was on the challenger to show she would have won, not that the result of the election may have been different to that declared. Having failed to discharge that onus it was contended that
+McInerney J should have dismissed the summons.
+
+My views on these various issues will become apparent in these reasons.
+
+IRREGULARITY [Section ](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s329.html) [Local Government Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/) provides: "(i) the Supreme Court ... may, on the application of any person, order the dismissal of a person from civic office: if there has been any irregularity in the manner in which the person has been elected or appointed to that office; or ..." 
+The first question which arises is thus whether failure to treat as formal votes which are formal is an "irregularity in the manner in which the person has been elected or appointed to that office", assuming the judge's findings of error stand.
+
+In my opinion it is such an irregularity not to count formal votes. That follows as a matter of common sense. An election is only "regularly" conducted if all formal votes are counted. McInerney J correctly so held.[1] `"Irregularity" is not defined in the [Local Government
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/). In The
+Queen versus Gray; ex parte Marsh[2] Gibbs CJ addressing the undefined meaning of "irregularity" said: "According to the Oxford English Dictionary "irregularity", in its relevant sense, means "want of conformity to rule; deviation from or violation of a rule, law or principle ... deviation from what is usual or normal". The notion of an irregularity, in relation to an election, involves the idea of some departure from some rule, established practice or generally accepted principle governing the conduct of the election."[3] 
+That decision was applied by the High Court in Re Collins & Ors; ex parte
+Hockings[4]. Here the expression to be construed is "irregularity in the manner in which the person has been elected or appointed to that office". That is a different expression to "irregularity in or in connection with an election", which was considered in Collins. Nonetheless if a person is appointed to office in consequence of the manner in which an election has been conducted, relevantly by omitting to count valid ballots, that seems to me to be an irregularity. The irregularity flows from not counting valid votes. The question whether a vote is formal or informal is a different issue and does not turn upon any question of "regularity" or "irregularity". To determine what votes are formal one looks to the regulations and to the question whether the decision of the returning officer, including the exercise of by him of a conferred discretion, is final or whether it is able to be reviewed by the court. However, once a vote is determined as a matter of law to be a formal vote, then it must be counted for there to be an election or appointment to office in a regular manner. If a formal vote is not counted there is thus an irregularity.
+
+IS A JUDGE PERMITTED TO REVIEW A RETURNING OFFICER'S DECISION ON THE FORMALITY OF VOTES? 
+In my opinion a judge of the Supreme Court or District Court, or a magistrate in the Local Court may review the decision of a returning officer concerning the formality of votes where that judicial officer is dealing with an application pursuant to [s.329](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s329.html) to dismiss a person from civic office based upon an irregularity in the manner in which that person was elected or appointed to that office. If a judicial officer were not permitted to conduct that review the power conferred by [s.329(1)(a)](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s329.html) would in many instances be rendered nugatory. If it be correct that it is an irregularity within [s.329(1)(a)](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s329.html) to count votes in an election which are not formal votes or to omit to count formal votes, then the power to determine whether the returning officer's decision that votes were formal votes or informal votes must exist.
+
+Such a power does not diminish, restrict, or override any statutory discretion conferred upon a returning officer to determine the formality of votes. If a statute or regulation requires in a mandatory sense that voting be effected in a specific way, it will be a question of fact whether a particular vote complies with that obligatory provision. If it does, and the statute or regulation then provides that a ballot so complying is valid, the court is in an equally sound position as the returning officer to determine whether the ballot complies with the statute or regulation and is valid. If, however, invalidity flowing from absence of compliance with a mandatory requirement, is, by statute or regulation, avoided provided in the opinion of the returning officer the ballot has certain characteristics, the courts must respect the exercise of the discretionary judgement of the returning officer. It will only be if it can be established that in exercising his discretion the returning officer acted with absence of good faith, or arbitrarily or capriciously, or misdirected himself in law, or failed to consider relevant matters, or took into account irrelevant matters, or reached a decision which although none of the foregoing can be shown is so unreasonable that no reasonable authority could properly have arrived at it, that the Court will disturb the discretionary determination of the returning officer.[5] 
+It is thus important to consider the regulatory provisions under which the votes in question were cast.
+
+LOCAL GOVERNMENT (ELECTIONS) REGULATIONS 1995 
+These regulations, published in the Government Gazette No.88 21 July 1995 provided by regulation 73 as follows: "73(1) A ballot-paper of an elector at an election is informal if: the elector has failed to record a vote on it in the manner directed on it; or it has not been initialled on the back by the returning officer or an electoral official; or it contains a mark or writing which, in the returning officer's opinion, would enable the elector to be identified.
+
+Despite subclause (1), a ballot-paper of an elector at an election in which only one candidate is to be elected from 2 candidates is not informal merely because a tick or a cross has been placed in one square and the other square has been left blank. In such a case the tick or the cross is to be treated as a first preference.
+
+Despite subclause (1), a ballot-paper of an elector at an election is not informal merely because a preference (other than a first preference) has been repeated or omitted so long as the ballot-paper shows the minimum number of preferences required by the directions.
+
+Despite subclause (1), a ballot-paper is not informal by virtue of the existence of an unnecessary mark on the ballot-paper if, in the opinion of the returning officer, the elector's intention is clearly indicated on the ballot- paper." 
+It is to be observed that regulation 73 proceeds upon a presumption that a ballot-paper is formal unless it be informal in consequence of regulation (1). Even if it thus becomes informal, that informality may be removed if the provisions of any of subregulations (2), (3) or (4) apply. Those subregulations apply only to ballot-papers initially struck down as informal because of regulation 73(1). This follows from the use of the words "despite subclause (1)" in introducing the three subclauses, coupled with the words "is not informal merely because" or "is not informal by virtue of". Subregulations , (3) and (4) never arise for consideration if a ballot-paper remains formal after having passed through the provisions of regulation 73(1), and not having been in consequence rendered informal. Thus the first question is whether the challenged ballot-papers are informal because of the provisions, relevantly, of regulation 73(1)(a). If any of them are, it is then necessary to determine whether they are saved from informality by the provisions of regulation 73(4). As four candidates were required to be elected in this election, regulation 73(2) has no application and, in fact, regulation 73(3) does not apply to any of the challenged ballot-papers.
+
+Before passing to consider the challenged ballot-papers some further regulations should be noted. Regulation 76(1) requires that the presiding officer at a polling booth "must reject the informal ballot-papers". The presiding officer is required to parcel up separately those ballot-papers classed as formal from those classed as informal[6]. On receiving the papers so parcelled the returning officer is to open them, and have them scrutinised and counted. During that scrutiny the returning officer must reject any ballot-paper which the presiding officer has classed as formal which in the returning officer's opinion is informal, and vice versa.[7]. The count must then be finalised under the appropriate counting system and the Electoral
+Commissioner notified of the result.[8] The candidates are to be notified of the result, and a candidate may require a recount upon certain terms.[9] After the recount the returning officer must notify the Electoral Commissioner of the result of the recount and the Electoral Commissioner is to approve the returning officer's declaration of the election.[10] 
+Regulation 73(1)(a) provides that a ballot-paper is informal if the elector has failed to record a vote on it in the manner directed on it. The voting paper contained the following statements: "YOU MUST NUMBER AT LEAST FOUR SQUARES 
+DIRECTIONS FOR VOTING 
+In marking your vote on ballot-paper, you must vote for at least four candidates by placing the numbers 1,2,3,4 in the squares opposite the names of the candidates in the order of your preference for them and may, if you wish, vote for additional candidates by placing consecutive numbers beginning with the number 5 in the squares opposite the names of those additionally candidates in the order of your preference for them." 
+This direction complied with form 4A to the [Local Government Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/) regulations published 21 July 1995.
+
+Accordingly, if an elector did not put the numbers 1,2,3 and 4 in the squares opposite the names of the candidates the ballot-paper was informal. If the elector did so place such numbers it remained formal.
+
+The ballot-paper also contained, above the list of candidates and distinct from the segment headed "Directions for Voting" the words "only use numbers" and "do not tick or cross", reinforced by symbols of a tick and cross in a circle with a line through them. Ticks or crosses, or other marks, might be regarded by the returning officer as "an unnecessary mark" within [regulation (4).](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s73.html)
+However in my opinion, one comes to the issue of negating informality under [regulation (4)](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s73.html) only if the ballot-paper is rendered informal by [regulation (1)(a).](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s73.html) 
+McInerney J, so it seems to me, approached the question of formality or informality by considering in many instances whether [regulation (4)](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s73.html) rendered the ballot-paper "not informal", without first considering whether it was rendered "informal" as a consequence of [regulation (1)(a).](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s73.html) 
+Approaching the matter in the manner which in my opinion is correct, namely, is the ballot-paper rendered informal as failing to record a vote in the manner directed on the ballot-paper and only thereafter considering [regulation (4)](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s73.html), in my opinion the following results are arrived at.
+ (Exhibit E) 
+Ballot-Paper Letter  
+McInerney J's Finding  [Regulation (1)(a)](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s73.html)
+Consequence 
+Comment  ---|---  
+Formal 
+Formal 
+Four boxes are numbered 1 to 4 inclusive.  
+Formal 
+Formal 
+Reg.73(4) would, in any event render this vote formal on any reasonable view.  
+Formal 
+Informal 
+Although the ballot-papers contains the numbers 1 to 4 within squares, and although I would have determined that the four marks under group B were unnecessary dashes, they returning officer could reasonably form the view that they were figure 1 thus rendering the ballot-paper informal.  
+Formal 
+Formal 
+Considering the ballot-paper as a whole I do not think it could reasonably be said that the number opposite Wright was otherwise than a 1.  
+Formal 
+Formal 
+Read as a whole the number in the box beside Macindoe could not reasonably have been read otherwise than as a 1.  
+Informal 
+Informal 
+There are no numbers in the squares  
+Formal 
+Formal 
+When the ballot-paper is considered as a whole the number beside Tzannes could not be reasonably be read other than as a 1.  
+Formal 
+Formal 
+Reading the ballot-paper as a whole the markings in the square beside
+Tzannes could only reasonably be read as a 4.  
+Formal 
+Formal 
+The mark beside Macindoe is a 1 over a tick. Thus the ballot-paper is not informal as breaching Reg. 73(1)(a). Even if it were so, it is saved from informality by Reg.73(4) because the returning officer could not reasonably hold the view that the tick was otherwise than an unnecessary mark and the elector's intention is clearly indicated on the ballot-paper.  
+Formal 
+Formal 
+The ballot-paper clearly contains in squares the numbers 1 2, 3 and 4.
+Having regard to the 1 against the square Wright it could not reasonably be held that the marking in the square adjacent to Macindoe was a 1. The ballot- paper is thus not rendered informal by Reg.73(1)(a).  
+Formal 
+Informal 
+Whilst the ballot-paper contains in squares the numbers 1,2, 3 and 4, apart from satisfying Reg.73(1)(a) the directions for voting were not complied with in that there was clearly a second 2 beside Wright and possibly a second 1 beside Bombaci. The returning officer could reasonably hold the view that the number beside Bombaci was 1 in which event the voting directions are not complied with and Reg.73(3) does not apply.  
+Formal 
+Formal 
+The number beside Wright is 9.  
+Formal 
+Formal 
+The number beside Farrawell is a 3 overscored with a 1. The vote thus filled in four boxes number 1,2,3 and 4.  
+Formal 
+Informal 
+It cannot be said there is only one figure 1 in the paper. Two figures 1's render the ballot informal.  
+Informal 
+Informal 
+There are no numbers in the squares.  
+Formal 
+Informal 
+Whilst there is strong contextual support for reading the symbol in the box beside Wright as a 1, it is not a 1. The ballot is thus informal under
+Reg.73(1). It is not saved by Reg.73(4) because, even if the symbol or part of it be regarded as an unnecessary mark, the ballot paper remains without a 1.  
+BALLOT-PAPERS TENDERED BY BOURNE (Exhibit 3) 
+Ballot-Paper Letter  
+McInerney J's Finding  [Regulation (1)(a)](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s73.html)
+Consequence 
+Comment  ---|---   
+Formal 
+Formal 
+The figure in the box beside Bourne is a 1.   
+Formal 
+Informal 
+The ballot-paper contains two numbers 1.   
+Informal 
+Informal 
+There is no number 1 in a square   
+Formal 
+Informal 
+The box beside Bourne contains two distinct figures which may be a 1 and an unnecessary mark, 11 or 17. It cannot be said that the square has been numbered 1.   
+Informal 
+Informal 
+There is no numbering 1 to 4 inclusive.   
+Informal 
+Informal 
+There is no numbering 1 to 4 inclusive in squares.   
+Informal 
+Informal 
+The ballot-paper contains two numbers.  
+Those in Exhibit 4 are informal.
+
+DISCRETION 
+In the result, Miss Bourne was declared elected with a majority of three votes. That result was reached by excluding from counting 11 formal votes which should have been counted. Those votes are identified and their preferences are known. Nonetheless the impact of the exclusion of those formal votes from counting cannot be known with certainty. That is because of at least three factors. First, had those votes been counted the ratio applicable under the transfer formula for excess votes after a necessary quota changes.
+Second, whilst the effect of that change in transfer formula can be calculated, the random discretionary selection of votes in consequence at the first and second count stage is unknown. Third, the consequence of any alteration in the number of distributed votes at the thirteenth and fourteenth count, and thereafter, is uncertain. The consequence is that Miss Bourne is unable to show that the favourable result to her of the election was unaffected. As the outcome of the election on any recalculated basis is at best uncertain the principles enunciated in 1875 in Woodward versus Sarsons[11] apply. Lord Colleridge there said[12]: "And we think the same result should follow, if, by reason of any such or similar mishaps, the tribunal, without being able to say that a majority had been prevented, should be satisfied that there was reasonable ground to believe that a majority of the votes may have been prevented from electing the candidate they preferred." 
+Whilst there speaking of a gross disturbance to the conduct of an election, the same principles applied in relation to lesser and more individual departures from the prescribed method of election. At 745 Lord Colleridge said: "If the rule be as thus stated, then the next question is, whether we can say, upon the facts disclosed in the present case, that a majority of the electors have been, or that there is reasonable ground to believe that a majority may have been, by misconduct or error of the presiding officers, prevented from recording their votes with effect." 
+That principle accords with the paragraph numbered 4 in the judgment of Isaacs
+J in Bridge versus Bowen[13] where his Honour said: "If there has been any official irregularity in the conduct of the election, where the law requires absolute and strict adherence or where the irregularity is so great as to depart substantially from a directory enactment, his selection so called is void unless he can show the result could not have been affected by it." 
+Miss Murphy argued this was such official irregularity. The contrary contention was that in paragraph 4 Isaacs J was addressing official irregularity striking at the entirety of the election. In paragraph 5 where his Honour said : "Where the defect complained of does not strike at the election as an entirety, but is confined to some breach of law in individual circumstances, then he is not necessarily affected, and is not affected at all unless he or his majority is shown to be connected with the defect." it was said the onus was different, it being on the challenger to show the majority was extinguished and that had not been shown.[14] [Section ](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s329.html) confers a judicial discretion. In my opinion, where it has been shown that, as against a majority of three, 11 formal votes have not been counted, a significant or substantial irregularity has been shown sufficient to require the Court to exercise the discretion there conferred. Where there is a complicated system of preferential voting involving, as here, some sixteen sequential counts which involve random selection of votes at least two stages, and prediction of the consequence of allocation of votes on at least two others, the Court cannot be satisfied that the poll as declared truly represents the view of the voters. It seems to me that once that position is reached the court should exercise its discretion to order the dismissal of a person from civic office and allow the Act, which contemplates in those circumstances a new election in consequence of [s.318](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s318.html), to operate.
+
+In my opinion the appeal should be upheld, the orders of McInerney J set aside and in lieu thereof an order be made pursuant to [s.329](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s329.html) [Local Government
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/) for the dismissal of the third defendant Christine Bourne from the civic office of
+Councillor of the Leichhardt Municipal Council.
+
+Whilst technically Miss Bourne has succeeded in disturbing the orders of the trial judge, in substance she has failed. Accordingly Miss Bourne should pay the costs of all of the other parties to the appeal.
+ 
+BEAZLEY JA: On 9 September 1995, the local government elections for Leichhardt Council were held as required by [s 287](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s287.html) of the [Local Government Act 1993](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/) (the LGA). Twelve councillors were to be elected in 3 wards. The appellant, a Liberal party candidate, was the last councillor declared to be elected in the Glebe/Annandale Ward. The first respondent, a Labor party candidate and the last candidate to be eliminated, challenged the appellant's election under [s 329(1)](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s329.html) of the LGA in proceedings brought in the Administrative Law Division of this Court. The basis of the challenge was that certain ballot papers were wrongly ruled as informal by the fourth respondent, the returning officer appointed under [s 296(2).](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s296.html) 
+On 17 April 1996, the trial judge declared that the appellant was not duly elected to the office of councillor and ordered the fifth respondent, the
+State Electoral Commissioner, to undertake a full recount, including of the disputed ballot papers which his Honour declared to be formal.
+
+Background facts 
+This was the first election held under the 1993 LGA and was conducted on the basis of the proportional representation system of counting. I will return to the details of this system later in these reasons. Eighteen candidates stood for election for 4 positions in the Annandale/Glebe Ward. Candidates were listed in four groupings on the ballot paper: Group A (Liberal); Group B (No
+Aircraft Noise); Group C (Labour) and Group D (Leichhardt Council Community
+Independents). Two independent candidates were listed in a separate column.
+
+A small square box appeared beside each candidate's name. The ballot paper indicated that the election was for four councillors in the Annandale/Glebe
+Ward. Above the lists of candidates was the following notification: "ONLY USE NUMBERS do not tick or cross" 
+Below the list of candidates was a further notation: "YOU MUST NUMBER AT LEAST 4 SQUARES" 
+This was followed by the statement: "Directions for Voting
+In marking your vote on ballot paper, you must vote for at least FOUR candidates by placing the numbers 1, 2, 3, 4 in the squares opposite the names of the candidates in the order of your preferences for them and may, if you wish, vote for additional candidates by placing consecutive numbers beginning with the number 5 in the squares opposite the names of those additional candidates in the order of your preferences for them." 
+On the first count and before distribution of preferences, Messrs Macindoe and Hand (Community Independent) were elected. After distribution of preferences Mr Sheehan (No Aircraft Noise) was next elected. The appellant was the fourth candidate elected, with a margin of 17 votes over the first respondent.
+
+The first respondent sought a recount which was conducted on 15 September
+On the recount, the appellant gained 1582 votes and the first respondent, 1579. After the recount, the fourth respondent advised the appellant in writing that she had a right to a recount prior to the declaration of the poll. His Honour inferred that the first respondent received a similar advice. This inference was not disputed on the appeal.
+There is a question whether a second recount is permitted under the LGA.
+However, that matter is not in issue as the first respondent did not seek a recount and the poll was declared in favour of the appellant. Subsequently, the first respondent brought proceedings under [s (1)](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s329.html) of the Act.
+
+The LGA 
+Conduct of Local Government Elections 
+The LGA contains detailed provisions for the calling and conduct of local government elections, the manner of election and the modes of challenge to elections. I have referred already to [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s287.html) which required that the election be held on the second Saturday in September
+Other relevant provisions are as follows. Local government elections are to be conducted by the Electoral Commissioner: [s (1).](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s296.html)
+The Electoral Commissioner is to appoint a returning officer, who is to conduct the election on behalf of and under the direction of the Electoral
+Commissioner: [s (2).](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s296.html)
+The returning officer in turn is to appoint one or more electoral officials: [s (3).](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s296.html)
+If the number of candidates nominated for election as councillors for a ward is greater than the number required to be elected for that ward, the election is to be a contested election: [s (1).](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s309.html)
+A contested election for a civic office is to be conducted as prescribed by the regulations: [s .](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s310.html) "Civic office" is defined in the dictionary to the LGA to mean "the office of councillor. . .".
+ 
+The Proportional Representation System of Counting 
+If the number of councillors to be elected is 3 or more, the voting system in a contested election is to be proportional: [s (b).](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s285.html)
+Schedule 2 to the Local Government (Elections) Regulations 1993 specifies the method of counting under the proportional system of voting. As a first step, the ballot papers are divided into parcels according to the names of the candidates for whom the first preferences on the ballot papers are recorded: clause 3. In order for a candidate to be elected, the candidate must receive as a minimum number of votes, the quota for election as a councillor in the relevant ward or area. "Quota" is defined in clause 2 to mean "the number of votes sufficient to elect a candidate". The quota is determined by dividing the aggregate number of first preferences by one more than the number of candidates to be elected and then increasing the quota (disregarding any remainder), by 1: clause 4. A candidate is elected on first preferences if that candidate receives a number of first preference votes equal to or greater than the quota: clause 5(1). If a candidate elected on first preferences has surplus first preference votes, that is, first preference votes in a number greater than the quota, the surplus is transferred to the continuing candidates in the order of electors' preferences in accordance with the directions specified in clause 6. That clause provides: 
+If the number of first preferences obtained by any candidate exceeds the quota, the surplus is transferred to the continuing candidates next in the order of electors' preferences, in accordance with the following directions: 
+The ballot-papers on which first preferences are recorded for the elected candidate are re-examined, and the number of second preferences, or (in accordance with clause 12 of this Schedule) third or next consecutive preferences, recorded on them for each continuing candidate and the number of exhausted ballot-papers is counted.
+ 
+The surplus is divided by the total number of first preferences recorded for such elected candidate (excluding any exhausted ballot-papers). The transfer value is equal to the resulting fraction or the first 4 digits of the resulting decimal fraction or (if the fraction exceeds 1) to 1.
+ 
+The number of second or other preferences, ascertained in paragraph (a) as being recorded for each continuing candidate, is multiplied by the transfer value.
+ 
+The resulting number of each continuing candidate is added to the number of votes obtained by the candidate on the counting of first preferences.
+ 
+However, if as a result of the multiplication referred to in paragraph , any fraction results, so many of those fractions (taken in the order off their magnitude and beginning with the largest) as are necessary to ensure that the number of votes transferred equals the number of the elected candidate's surplus votes are treated as equal to 1, and the remaining fractions are ignored.
+ 
+If, as a result of the multiplication referred to in paragraph (c), 2 or more fractions are equal and one of them is to be treated as equal to 1, the fraction arising from the largest number of second or other preferences referred to in paragraph (a) is treated as the largest, and if the numbers of those preferences are equal, the fraction credited to the candidate with the highest number of votes at the last count or transfer at which the candidates with the equal number of preferences had an unequal number of votes is treated as the largest, and if those candidates have had an equal number of votes at all preceding counts and transfers, the returning officer decides by lot which fraction is taken to be the largest.
+ 
+From the ballot-papers on which a second or other preference is recorded for any continuing candidate, a number of ballot-papers equal to the number of votes directed by paragraph (d) to be credited to the candidate are selected at random, and these are to be placed in a separate parcel and transferred to the candidate.
+ 
+All ballot-papers of the elected candidate not transferred under paragraph (g) (including any exhausted ballot-papers) are set aside as finally dealt with, being the ballot-papers by which the candidate is elected.
+ 
+A transfer of votes under this clause is not made unless the surplus of the elected candidate, together with any other surpluses not transferred, exceeds the difference in numbers between the votes of the 2 continuing candidates lowest on the poll.
+ 
+This clause takes effect subject to clause 11 of this Schedule, and if at any time there is one remaining vacancy which can be filled under that clause no further transfer under this clause can be made." 
+A consequence of the random selection of ballot papers referred to in subclause (g) is that a different result might be obtained on a recount, notwithstanding that all ballot papers are treated on the same basis, that is, either as formal or informal, as on the original count.
+
+Subsequent candidates are elected once a candidate obtains votes equal to or exceeding the quota upon transfer of a surplus on the count of first preferences: clause 7. The surplus votes of that candidate are then transferred to remaining candidates: clause 8. If, after the first preferences have been counted and the transfers of surpluses made, fewer than the number of candidates required to be elected have obtained the quota, the candidate lowest on the poll is excluded: clause 9(1). The unexhausted votes of that candidate are transferred in one transfer to the continuing candidates who, on the ballot papers on which such votes have been recorded, are next in the order of the electors' respective preferences: clause 9(2). Exhausted ballot papers are set aside as finally dealt with: clause 9(3). The same process of exclusion and transfer is repeated until all the candidates, except the number required to be elected, have been excluded. At that point, the continuing candidates who have not already been elected, are elected: clause 9(4).
+
+If, by a transfer under clause 9, the number of votes obtained by a candidate equals or exceeds the quota, that candidate is elected: clause 10(1). In that case, despite the fact that the candidate has reached quota, the transfer is to be completed and all votes to which the candidate is entitled from the transfer are to be transferred to the candidate: clause 10(2). When the number of continuing candidates is reduced to the number of vacancies remaining unfilled, the continuing candidates are elected, even if they have not reached quota: clause 11. An elector's order of preference is determined by excluding from the stated order of preference any candidates who have been declared elected or who have been otherwise excluded and proceeding as if the names of those candidates had not been on the ballot paper: clause 12.
+
+Regulation 73 Local Government (Elections) Regulations 1993 
+Regulation 73, which is central to the determination of the appeal, specifies when a ballot paper is informal. It provides: "(1) A ballot-paper of an elector at an election is informal if: the elector has failed to record a vote on it in the manner directed on it; or it has not been initialled on the back by the returning office or an electoral official; or it contains a mark or writing which, in the returning officer's opinion, would enable the elector to be identified.
+ 
+Despite subclause (1), a ballot-paper of an elector at an election in which only one candidate is to be elected from 2 candidates is not informal merely because a tick or a cross has been placed in one square and the other square has been left blank. In such a case the tick or the cross is to be treated as a first preference.
+ 
+Despite subclause (1), a ballot-paper of an elector at an election is not informal merely because a preference (other than a first preference) has been repeated or omitted so long as the ballot-paper shows the minimum number of preferences required by the directions.
+ 
+Despite subclause (1), a ballot-paper is not informal by virtue of the existence of an unnecessary mark on the ballot-paper if, in the opinion of the returning officer, the elector's intention is clearly indicated on the ballot- paper." 
+Counting and declaration of poll 
+The persons entitled to be present during the counting, recounting of ballot papers and the declaration of the election include the Electoral Commissioner, the returning officer, electoral officials and scrutineers. At the close of the poll, the presiding officer must, in the presence of the electoral officials and scrutineers, amongst others, open the ballot box and have the ballot papers scrutinised in the presiding officer's presence or under his or her supervision and must reject the informal ballot papers: reg 76(1). The presiding officer must then, in the presence of such witnesses who were present at the initial scrutiny and count, make up, in one parcel, the ballot papers which have been classed as formal and informal: reg 77(1)(a). The parcel of ballot papers must then be delivered to the returning officer: reg (2), who must have the parcel opened and the ballot papers scrutinised and counted in the presence of, amongst other persons, the electoral officials and scrutineers: reg 77(3). During this process, the returning officer must "reject any ballot paper classed as formal by the presiding officer if, in the returning officer's opinion, it is informal"; and "accept any ballot paper classed as informal by the presiding officer if, in the returning officer's opinion, it is formal": reg 77(4)(a) and (b). The returning officer must also follow the procedure specified in reg 78(3) in respect of pre-poll votes. This procedure includes taking the ballot papers out of their envelopes, scrutinising them and rejecting the informal ones: reg 78(3)(d). The returning officer must then complete the count by including postal and other votes: reg (a). At any time before the declaration of the poll, a candidate may request a recount and the Electoral Commissioner may direct the returning officer to recount any ballot papers used in the election: reg 81.
+
+Order for dismissal from office: <case> 
+A person may apply, inter alia, to the Supreme Court of New South Wales for an order for the dismissal of a person from civic office "[i]f there has been any irregularity in the manner in which the person has been elected": s (1)(a). Such proceedings must be commenced no later than three months after the date of the person's election: <case>. An order for dismissal of a person from civic office made by the Supreme Court of New South Wales takes effect when the order is made: <case>. Upon dismissal, the position of the dismissed councillor becomes vacant: <case>(g). If a casual vacancy occurs in a civic office, the office is to be filled by a by-election.
+
+Void election 
+If an election for a civic office is declared void, the candidate purporting to have been elected at the void election holds office as if duly elected until an election is held in accordance with section 318(1)(b). Under that paragraph, the returning officer is to hold another election as if a casual vacancy had occurred in the civic office: <case>.
+
+Issues raised on the appeal 
+The appellant based her appeal on three grounds. It was contended first, that his Honour's finding that the appellant was not duly elected was insupportable as a matter of fact and law; secondly, that as the first respondent's claim was brought under <case>, his Honour, having determined not to dismiss the appellant under that section, should thereby have dismissed the application; thirdly, that his Honour was not entitled to substitute his opinion as to whether a vote was formal or informal for that of the returning officer's and that, in any event, in doing so, his Honour had made a number of critical errors.
+
+These grounds raised the following specific issues, some of which overlap: first, the proper construction of reg 73 and in particular, whether it confers upon the fourth respondent a discretion in relation to the classification of a ballot paper as formal or informal; secondly, whether the directions on the ballot paper were mandatory or directory and if mandatory, whether they called for strict compliance; thirdly, whether the court is entitled to consider for itself the question whether a ballot paper was formal or informal; fourthly, whether the contested ballot papers were properly classified by the returning officer as informal; fifthly, if the ballot papers, or some of them, were incorrectly classified, whether that thereby constituted an irregularity within <case> of the LGA; sixthly, if there was an irregularity, whether relief under <case> is discretionary, and if discretionary, was his Honour in error in refusing relief under that section; seventhly, if his Honour was not in error in refusing relief under <case>, whether the application ought to have been dismissed or whether his Honour was entitled to grant the relief he did under [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/s65.html) of the [Supreme Court Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/).
+
+Proper construction of reg 73: Mandatory/directory requirements 
+Counsel for the appellant submitted that the Directions for Voting on the ballot paper were mandatory, requiring strict compliance. He further submitted that, although reg 73 does not deal with formal votes as such, the returning officer has a discretion whether to treat a vote as formal or informal if the
+Directions for Voting were not complied with. Counsel for the first respondent submitted that the directions did not call for strict compliance. He relied, in part, upon the fact that the directions were contained on a prescribed form, and were not prescribed directly by the regulations.
+
+The determination of whether a statutory provision is mandatory or directory depends upon the scope and subject of the statute: see Tasker & Ors v
+Fullwood & Ors [[1978] 1 NSWLR 20] and the cases cited therein. As the Court stated in Tasker at 23: "The task of construction is to determine whether the legislature intended that a failure to comply with the stipulated requirement would invalidate the act done, or whether the validity of the act would be preserved notwithstanding non-compliance: Attorney-General ex rel. Franklins
+Stores Pty. Limited v. Lizelle Pty. Limited [[1977] 2 NSWLR 955], at pp.963 et seq." 
+See also Victoria versus The Commonwealth <case>; [(1975) 134 CLR 81], at pp 179, 180; Attorney-General , Ex Rel Franklin's
+Stores Pty Ltd versus Lizelle Pty Ltd [[1977] 2 NSWLR 955] at 963-4;
+Formosa & Anor versus Secretary, Department of Social Security <case>; [(1988) 81 ALR 687] per Davies and Gummow JJ at 692.
+
+It is thus necessary to turn to the express terms of reg 73. The relevant provisions for the purpose of this case are subregs (1)(a) and (4).
+
+Under reg 73(1)(a), a ballot paper is informal if the elector has failed to record a vote on it in the manner directed. [Regulation (4)](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/s73.html) is more problematic. It specifies circumstances in which a ballot paper will not be informal. It is introduced by the words "Despite subclause 1" and then specifies that a "ballot paper will not be informal by virtue of the existence of an unnecessary mark" (emphasis added) provided that the returning officer forms the opinion that the elector's intention is clearly indicated on the ballot paper. [Regulation (4)](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/s73.html) operates, therefore, in respect of a ballot paper which complies with the voting directions in the sense that an elector has appropriately numbered squares on the ballot paper but has added unnecessary marks on it. The phrase "unnecessary mark" in reg 73(4) is not defined, presumably because its meaning is self evident. If the meaning of either word requires exposition, the Macquarie Dictionary defines "unnecessary" to mean: "not necessary, superfluous, needless", and "mark" to mean "visible trace or impression".
+The Oxford Dictionary meanings are to the same effect. In the sense in which the phrase is used in reg 73(4) it means a mark which is not necessary to comply with the voting directions on the ballot paper.
+ [Regulation ](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/s73.html), therefore, deals with the consequence of an elector having failed to comply with the voting directions on the ballot paper. It follows from the structure of reg 73 that the voting directions on the ballot paper are mandatory. If they are not followed, the ballot paper will be informal. However, it is not particularly useful in the present case to categorise the voting directions as calling for strict compliance or, alternatively as directions in respect of which substantial compliance is sufficient. Rather, it is preferable to approach the classification of the ballot paper in accordance with the proper construction of the regulation. The regulation, on its express terms, provides for the limited circumstances in which a ballot paper which complies with the voting directions, in the sense that the squares are appropriately numbered, but which also bears unnecessary marks, is saved from informality.
+
+Is the Court entitled to review ballot papers 
+The next question is whether the Court is entitled to determine for itself whether the disputed ballot papers were correctly classified by the returning officer. This question depends upon the proper construction of reg 73. The nature of the challenge to the election is also relevant.
+ [Regulation (1)(a)](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/s73.html) is cast in active form: "A ballot paper . . is informal if: (a) the elector has failed to record a vote on it in the manner directed on it." This is neither the language of discretion nor opinion, nor could it be, if I am correct in my view that the directions on the ballot paper are mandatory which, if not followed, will result in the ballot paper being informal under reg 73(1)(a), except in the limited circumstances specified by reg 73(4). This view is reinforced by the terms of reg 76 which require the presiding officer to "reject informal ballot papers". It could be argued that reg 77(4) points to the opposite conclusion. It refers to the returning officer's duty to reject any ballot paper classed as formal by the presiding officer "if in the returning officer's opinion, it is informal" and to "accept any ballot paper classed as informal by the presiding officer if, in the returning officer's opinion, it is formal" (emphasis added). However, the regulations have to be read as a whole.
+[Regulation ](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/s77.html), read in context, requires the presiding officer to determine whether a ballot paper is formal or informal. In undertaking that task, the presiding officer must proceed in accordance with reg 73. If the presiding officer has wrongly classified a ballot paper as formal or informal, the returning officer must either accept it, if formal, or reject it, if informal. To do that, the returning officer must also follow the prescription for informality in reg 73.
+If the ballot paper falls within reg 73(1), the returning officer must reject it. If it falls within reg 73(4), the returning officer must form an opinion as to whether the elector's intention has been clearly indicated. It follows that the determination of whether a ballot paper is informal within reg (1)(a) is a question of fact. It is only in the case of a ballot paper falling within reg 73(4) that any question of opinion arises.
+
+Before determining what the Court's role is in relation to the challenged ballot papers, it is necessary to turn to the form of relief sought. In her summons, the first respondent sought an order under <case> of the LGA. Relief under that section is the primary remedy which she continues to pursue. The trial judge, however, refused relief under <case> and made an order under [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/s65.html) of the [Supreme Court
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/), 1970.
+The first respondent did not seek to dissuade the trial judge from that course and indeed, when it appeared to be "on offer", made submissions as to the appropriate orders which the trial judge should make under that section. It is thus necessary to consider both forms of relief. I will deal with <case> first, it being the primary basis of the first respondent's claim. Before doing so, it should be noted that <case> provides a statutory entitlement to bring an application in the circumstances specified in the section. The section prescribes the sole form of relief available if the statutory conditions are established. Whether relief under the section is discretionary is a separate question to which I shall turn shortly.
+
+Section 329 
+It is useful, at this point, to refer to the provision of <case> in full: "329 (1) The Supreme Court, the District Court or a Local Court may, on the application of any person, order the dismissal of a person from civic office: if there has been any irregularity in the manner in which the person has been elected or appointed to that office; or if the person is disqualified from holding civic office.
+ 
+Proceedings based on the ground that there has been an irregularity in the manner in which a person has been elected or appointed to civic office may not be commenced more than 3 months after the date of the person's election or appointment to that office.
+ 
+A court before which proceedings are taken on the ground that a person is disqualified from holding civic office may refuse to order the dismissal of the person from that office if it is satisfied: that the facts and circumstances giving rise to the disqualification are of a trivial character; and that the acts which gave rise to that disqualification were done in good faith and without knowledge that the person would incur disqualification by doing those acts.
+ 
+Subsection (3) does not apply to a person who is disqualified from holding civic office by a decision of the Pecuniary Interest Tribunal under section 482." 
+Relevantly for the purposes of this case, the concept of "irregularity in the manner in which a person has been elected" is the core consideration under s
+Once the meaning of that phrase is understood, the Court's role, if any, in relation to the classification of the ballot papers can be ascertained.
+
+Meaning of "irregularity" 
+The Macquarie Dictionary defines "irregular" to mean "not conforming to rule, or accepted principle, method, course, etc." "Irregularity" has a corresponding meaning. The Oxford English Dictionary defines "irregularity" to mean "want of conformity to rules, deviation from or violation of a rule, law or principle". The meaning of the word "irregularity" was considered by the High Court in R versus Gray; ex parte
+Marsh <case>; [(1985) 157 CLR 351.] Gibbs CJ stated at 368: "The notion of an irregularity in relation to an election, involves the idea of some departure from some rule, established practice or generally accepted principle governing the conduct of the election." 
+It is also clear from R versus Gray that an irregularity includes matters which affect the declaration of the poll. See also Re Collins; ex parte Hockings [(1989) 87 ALR 656] at 657, 658 and 659. The construction of the word "irregularity" in R versus Gray was in the context of the phrase "in or in connection with an election". The phrase here is "any irregularity in the manner in which the person has been elected". "Manner" is defined in the
+Macquarie Dictionary to mean "way of doing, being done, or happening; mode of action". The Oxford Dictionary definition is the "way a thing is done". In my opinion, subject to one further consideration, the difference in wording between <case> and that under consideration in R versus Gray makes no difference to the meaning of the word "irregularity" in <case>.
+
+However, I am of the opinion that it is not any irregularity which suffices for the purpose of <case>. Rather, it must be an irregularity such that the result of the election is thereby uncertain: see Bridge versus Bowen <case>; [(1916) 21 CLR 582.] That case involved the election result for the Denison Ward in the 1915 City of Sydney Council elections. Thirteen persons had impersonated enrolled electors, 12 of whom did not vote. It was not possible to determine the candidates for whom the impersonators had voted. Section 56 of the Sydney Corporation Act 1902 provided: "(1) If it appears upon affidavit that any person declared to be elected...an alderman has been unduly elected...the Supreme Court, or any Judge thereof, may grant a rule or order calling upon such person to show cause to the Court why he should not be ousted of the said office.
+ 
+Upon the return of such rule or order, if it appears to the Court that such person so elected...was unduly elected...the Court may make such rule or order absolute &c." 
+Isaacs J, having reviewed the decided cases on the point, stated at 623-4: "I condense the result [of the authorities] into the following relevant propositions:- 
+The election of an officer - in other words, his selection by the constituency - may be attacked only for a defect which affects him.
+ 
+If the defect strikes at the entire election, either because there was no real election at all or because some official irregularity has occurred, he is affected because his title is claimed through it, and he must meet the defect if he can.
+ 
+If there has been no real election, his selection so-called is necessarily void.
+ 
+If there has been any official irregularity in the conduct of the election, where the law requires absolute and strict adherence or where the irregularity is so great as to depart substantially from a directory enactment, his selection so-called is void unless he can show the result could not have been affected by it.
+ 
+Where the defect complained of does not strike at the election as an entirety, but is confined to some breach of law in individual instances, then he is not necessarily affected, and is not affected at all unless he or his majority is shown to be connected with the defect.
+ 
+If the law does not provide any means of so affecting him he is not affected, and, as his selection cannot be regarded as unduly made, it must rest where it is." 
+The fourth of these propositions derives from the rule stated in Woodward v
+Sarsons [(1875) LR 10 CP 733] by
+Brett J at 744 and 755 as follows: "And we think the same result should follow, if, by reason of any such or similar mishaps, the tribunal, without being able to say that a majority had been prevented, should be satisfied that there was reasonable ground to believe that a majority of the votes may have been prevented from electing the candidate they preferred.
+ ...the next question is whether we can say, upon the facts stated in the present case, that a majority of the electors have been, or that there is, reasonable ground to believe that a majority have been, by misconduct or error of the presiding officer, prevented from recording their votes with effect." 
+Counsel for the appellant submitted that the defect in this case, that is, the wrong treatment of ballot papers as informal "did not strike at the election as an entirety", it struck at the election of one candidate only. It did, however, involve a breach of the law, that is a wrong classification of the ballot papers under reg 73. The fifth proposition in Isaacs J's summary therefore applied and the onus was on the first respondent, who was contesting the result of the election to show by positive proof that the result could not have been affected by the wrong classification. Counsel for the first respondent submitted, however, that this case was one of official irregularity within the fourth proposition. There was no breach of the law. Rather, the returning officer had irregularly classified certain ballot papers. He submitted that the breach of law referred to in the fifth proposition in
+Bridge versus Bowen involved some specific breach of law such as the impersonation of electors by 13 persons in that case.
+
+It could be argued first, that as reg 73 proceeds upon a presumption that ballot papers which comply with the Directions for Voting are formal and that secondly, as reg 73(1) does not involve the exercise of a discretion, if the returning officer wrongly classified ballot papers under that provision, he breached the law. However, I do not think that is the sense in which Isaacs J used the expression "breach of law" in the fifth proposition. Having regard to the facts with which his Honour was dealing, his Honour was clearly referring to a breach of a law which carried with it penal or quasi-penal consequences. However, an "official irregularity" occurring within the four corners of a statutory regime governing an election, where the statute provides its own method of challenge in respect of such irregularity, as does the LGA, does not fall within the meaning of "breach of law" in the sense used by Isaacs J. Accordingly, the relevant test to be applied in this case is that contained in his Honour's fourth proposition.
+
+Counsel for all parties approached the question of whether the 4th or 5th of
+Isaac J's propositions applies, as involving a question of onus. I do not consider that is the correct approach. Rather, the application of the relevant propositions forms part of the determination of whether there has been an irregularity. However, for the court to be satisfied that the result of the election was uncertain because of the irregularities which have been identified, evidentiary onuses will need to be discharged.
+
+As I have already said, the classification of a ballot paper under reg (1)(a) is a question of fact. Being a question of fact, it may be determined by the Court. If, as a matter of fact, a returning officer wrongly classifies a ballot paper to which reg 73(1)(a) applies, there has been a "violation of a rule, law or principle" and therefore an "irregularity" within the meaning of <case> provided that the further test for irregularity is satisfied.
+
+The question whether any ballot paper which falls for classification under reg (4) can ever amount to an irregularity within <case> is more difficult, for the singular reason that the application of the sub-regulation involves the formation of an opinion. If it was a matter of judicial review of the returning officer's decision, the matter would be determined upon the application of the relevant principles of judicial review, including mistake of law, failure to address the question formulated by the relevant statutory provision, the taking into account of extraneous considerations and
+Wednesbury unreasonableness: see Avon Downs Pty Ltd versus Federal Commissioner of Taxation  <case>; [(1949) 78 CLR 353]; Buck versus Bavone <case>; [(1976) 135 CLR 110], at 118-119; Minister for Immigration and Ethnic Affairs v
+Wu Shan Liang and Ors (High Court unreported 17 May 1996); Associated
+Provincial Picture Houses Ltd versus Wednesbury Corporation <case>; [[1948] KB 223](/cgi-bin/LawCite?cit=%5b1948%5d%201%20KB%20223 "View LawCiteRecord" ) at 228; Minister for Aboriginal Affairs versus Peko-Wallsend Ltd <case>; [(1986) 162 CLR 24] per Mason J at 41-42.
+
+The fact that a decision made under regulation 73(4) may be judicially reviewed for error does not necessarily mean there has been an "irregularity" for the purposes of <case>. However, it seems to me that if a ballot paper is classified upon a wrong construction of the relevant statutory provision, there must be an irregularity within the meaning of <case>, in the sense that there has been a "deviation from or violation of a rule, law or principle". I am of the opinion that the same principle operates in the case of Wednesbury unreasonableness. An officer, who acts unreasonably in the
+Wednesbury sense, fails to act in accordance with an established rule, law or principle.
+
+It follows that, in the case of a ballot paper which falls to be classified under reg 73(4), the Court's role is confined to determining whether, in forming her or his opinion, the returning officer has made a mistake of law, or has failed to address the relevant question raised by the statutory formula, or has formed an opinion which is manifestly unreasonable in the
+Wednesbury sense.
+
+It is now necessary, in accordance with the principles to which I have referred, to consider whether the returning officers classification of the challenged ballot papers can stand. In considering this question, it is necessary to look at a further matter.
+
+Rejection of interrogatories 
+Counsel for the appellant submitted that the trial judge had erred by failing to admit into evidence answers to interrogatories, which had been administered by the appellant to the fourth respondent by leave of another judge of the court. The following interrogatories, relevant to the issues on the appeal, were asked, and answered, as follows: 
+A. During the course of the: . . .
+ second count; of the ballot papers in the election the subject of the proceedings did the
+Fourth Defendant communicate with the Office of the Fifth Defendant regarding the proper approach to be taken by the Returning Officer with respect to the counting of: . . .
+ informal votes? certain contested votes identified by scrutineers for the Plaintiff and scrutineers for the Third Defendant? . .
+
+B. (b) (ii) Yes 
+Yes 
+A. If the answer to any part of interrogatory 1 is in the affirmative: 
+When, by whom and to whom was each matter raised? 
+What was said by the Fourth [Respondent] to the Fifth [Respondent] (whether by himself or by any servant or agent) or if in writing produce a copy of same at our cost with your answer? 
+What was said by the Fifth [Respondent] to the Fourth [Respondent]? 
+B. (a) Each of the matters was raised on the morning of 15 September 1995 by the Fourth [Respondent] with John Wasson, Chief Administrative Officer, the
+State Electoral Office.
+ 
+The Fourth [Respondent] asked Mr Wasson how he should treat ballot papers which: . . .
+ contained an unnecessary mark; . .
+
+Mr Wasson gave the Fourth [Respondent] the following advice: . . .
+
+A ballot paper containing an unnecessary mark was not informal if, in the opinion of the Fourth [Respondent], the elector's intention was clearly indicated on the ballot-paper; . .
+ 
+A. In the course of the elections were any and if so what rulings in relation to the counting of ballot papers given by the Fifth Defendant? 
+B. The Fifth Defendant gave advice to the effect set out in 2B above.
+. ." 
+These answers to interrogatories ought to have been admitted. They related directly to the construction of reg 73(4) which was applied by the fourth respondent in determining whether a ballot paper was formal or informal. If the fourth respondent applied a wrong construction of the regulation, his decision was judicially reviewable: see Avon Downs.
+
+In my opinion, answers 2B(b)(ii) and (c)(ii) and 3B reveal that the fourth respondent did not "address himself to the question which the [regulation] formulates": Avon Downs per Dixon J. As I have said, reg 73(4) is directed to ballot papers which, save for the unnecessary marks, comply with the
+Directions for Voting on the ballot paper. The answers to 2B(b)(ii) and (ii) indicate that the fifth respondent, in his ruling, and the fourth respondent, in the application of that ruling, did not recognise that reg (4) was directed to formal ballot papers and not to informal ballot papers.
+As will appear, a consideration of the ballot papers which the fourth respondent treated as informal supports the conclusion that reg 73(4) was wrongly construed.
+
+Classification of ballot papers 
+In all, 35 ballot papers were in evidence, 16 in Exhibit E, 7 in Exhibit 3 and 12 in Exhibit 4. All had been classified as informal by the fourth respondent. The first respondent contended that the ballot papers in Exhibit E should have been classified as formal. The appellant contended likewise in respect of those in Exhibit 3. There is now no dispute in respect of those in
+Exhibit 4, which are clearly informal. It is necessary therefore to consider whether each of the ballot papers in Exhibits E and 3 is formal or informal in accordance with the proper construction of reg 73 and the ballot papers in
+Exhibit E were marked in the proceedings with the letters (a) to (p). Ballot papers (a), (d), (e), (g), (h), (l), (m) and (p) are formal. Each comply with the Directions for Voting on the ballot paper and do not bear any unnecessary marks. Ballot papers (f), (k), (n) and (o) are informal as they do not comply with the Directions for Voting.
+
+Ballot papers (b), (c), (i), and (j) complied with the Directions for Voting but also bore unnecessary marks. They thus fell to be considered under reg (4). The answers to interrogatories reveal that the returning office construed reg 73(4) differently to the construction I have given it. That in itself may be sufficient for the purposes of <case>. A consideration of the individual ballot papers reveals, in any event, that the returning officer's classification in respect of 3 of these ballot papers was manifestly unreasonable.
+
+On ballot paper (b), the elector numbered the boxes "1" to "4" for candidates in Group D The elector also ticked the squares for the same candidates. The ticks were unnecessary marks. Accordingly, the ballot paper should have been considered under reg 73(4). As the elector's voting intention was clear, the ballot paper should have been treated as formal and the returning officer's decision in classifying it was manifestly unreasonable in the Wednesbury sense.
+
+On ballot paper (c), the elector had specified preferences "1" to "4" for candidates in Group C. However, the elector had also placed dashes in the squares opposite the candidates in Group B. It was reasonably open for the returning officer to be uncertain as to the elector's intention. Accordingly this ballot paper cannot be challenged for Wednesbury unreasonableness.
+
+On ballot paper (i), the elector numbered the squares next to the candidates in Group C "1" to "4" but also appears to have placed a tick against the first candidate in Group C, Macindoe, against whom the elector placed the number "1". The ballot paper was formal save for the tick. Indeed, the tick seems to have been converted to a "1". The tick was an unnecessary mark but the voting intention was clear. It was manifestly unreasonable to have treated it as informal.
+
+Ballot paper (j) has numbered squares "1" to "4", the figure against Wright clearly being the figure "1". There is a mark in the square beside Macindoe's name. It may be a number crossed out. However, it is not necessary to speculate as to the mark. The ballot paper contains the numbers "1" to 4" in squares opposite the names of four candidates. It was therefore, manifestly unreasonable to treat the ballot paper as informal as the elector's intention was clear, and it should have been classified as formal.
+
+The consequence is that 11 of the 16 ballot papers in Exhibit E should have been classified as formal, and one, although not unreasonably classified as informal, was classified in accordance with a wrong test.
+ 
+The ballot papers in Exhibit 3 were not marked in any alphabetical or numerical sequence. I shall deal with them in the order in which they appear in the exhibit.
+
+The first ballot paper is formal. The numbers "1" to "4" are placed in squares besides the names of candidates. The second, third, fifth, sixth and seventh ballot papers are informal. They do not comply with the voting directions. On the second ballot paper, 2 squares were numbered "1"; on the third, there was no "1" within any square; on the fifth, the only numbers which appeared were "4", "7", "11" and "12"; on the sixth, although the number "1" appeared in a square, the numbers "2", "3" and "4" appeared outside the squares; and on the seventh, the number "1" appeared twice.
+
+The fourth ballot paper is more difficult to interpret. The numbers "2", "3" and "4" appear in the squares next to the second, third and fourth listed candidates, respectively, in Group A. However, the figure next to the first listed candidate in Group A (the appellant) is more difficult to interpret.
+There is a small downward stroke next to the margin. There is then another figure, which could arguably be a "7". However, the better view is that it is a "1". I consider that this ballot paper falls to be considered under reg (4) as it complies with the Directions for Voting, but bears an unnecessary mark, the small stroke near the margin. As the elector's intention is clear, it was manifestly unreasonable to treat the ballot paper as informal. It should have been treated as formal.
+ 
+The result is that of the 23 votes in issue, 8 ballot papers in Exhibit E and 1 in Exhibit 3 were wrongly classified by the returning officer. Five were affected by an error of construction of reg 73(4). Of those, the classification of 4 was manifestly unreasonable in the Wednesbury sense. The consequence is that had these votes been correctly classified, not been affected by error or not been unreasonably classified, the outcome of the election would be uncertain, including for the three factors referred to by
+Cole JA at 13, whose draft reasons I have had the opportunity of reading. For the appellant to successfully establish otherwise, she had to demonstrate that the result could not have been affected by the wrong classification or erroneous treatment of these ballot papers. This she has not done and cannot do for a number of reasons, the most obvious of which is because of the random selection of ballot papers prescribed by clause 6(g) of Schedule 2.
+
+Whether Relief Under s329 is Discretionary 
+It follows that there was an irregularity within the meaning of <case>. The question arises, therefore, whether the first respondent was entitled as of right to the relief specified in the section. Counsel for the appellant submitted that the section conferred a discretion on the court to make an order and that the trial judge had appropriately exercised his discretion in refusing relief under the section. Counsel for the first respondent submitted, however, that <case> does not confer a discretion.
+
+It is useful, for the purposes of considering this argument to set out the section in full.
+ "329 (1) The Supreme Court, the District Court or a Local Court may, on the application of any person, order the dismissal of a person from civic office: if there has been any irregularity in the manner in which the person has been elected or appointed to that office; or if the person is disqualified from holding civic office.
+ 
+Proceedings based on the ground that there has been an irregularity in the manner in which a person has been elected or appointed to civic office may not be commenced more than 3 months after the date of the person's election or appointment to that office.
+ 
+A court before which proceedings are taken on the ground that a person is disqualified form holding civic office may refuse to order the dismissal of the person from that office if it is satisfied: that the facts and circumstances giving rise to the disqualification are of a trivial character; and that the acts which gave rise to that disqualification were done in good faith and without knowledge that the person would incur disqualification by doing those acts.
+ 
+Subsection (3) does not apply to a person who is disqualified from holding civic office by a decision of the Pecuniary Interest Tribunal under section 482." 
+The initial difficulty with determining whether <case> permits of the exercise of a discretion flows from the use of the word "may" in subs (3).
+[Section (1)](http://www.austlii.edu.au/au/legis/nsw/consolact/ia1987191/s9.html) of the [Interpretation Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ia1987191/) provides: "In any Act or instrument, the word "may", if used to confer a power, indicates that the power may be exercised or not, at discretion." 
+However, the sense in which the word is used depends upon its context. In
+Finance Facilities Pty Ltd versus Federal Commissioner of Taxation <case>; [(1971) 127 CLR 106] Windeyer J stated at 134 -135: "This does not depend on the abstract meaning of the word "may" but on whether the particular context of words and circumstance make it not only an empowering word but indicate circumstances in which the power is to be exercised - so that in those events the "may" becomes a "must". Illustrative cases go back to 1663: R versus Barlow <case>;
+Carth, 293 [[90 E.R. 773]]; 2 Salk. 609 [[91 E.R. 516].] Today it is enough to cite Julius versus Bishop of Oxford [(1880) 5 App. Cas. 214]; and add in this Court Ward versus Williams <case>; [(1955) 92 CLR 496], at pp 505-506. But I select one other reference out of a multitude: Macdougall versus Paterson <case>; [(1851) 11 CB 755] [[138 E.R. 672].] There Jervis C.J. said in the course of the argument ((1851) C.B., at p 766 [138 E.R. at p 677]) "The word `may' is merely used to confer the authority: and the authority must be exercised, if the circumstances are such as to call for its exercise". And, giving judgment, he said ((1851) 11 C.B., at p 733 [138 E.R. at p 679]): "We are of opinion that the word `may' is not used to give a discretion, but to confer a power upon the court and judges; and that the exercise of such power depends, not upon the discretion of the court or judge, but upon the proof of the particular case out of which such power arises."" 
+See also Gibbs J at 123-5 (at first instance); Owen J at 136. See also Re
+Coldham ex part Brideson <case>; [(1989) 166 CLR 338] at 347; PSA versus FCU <case>; [(1991) 173 CLR 132] at 136; 157-8.
+
+Three matters are to be noted about <case>. First, if the court is satisfied that either par (a) or (b) of subs (1) is satisfied, only one remedy is provided - namely, dismissal from office. Thus, the consequences of granting a remedy under the section are serious. This consideration may be an indication that the granting of relief under the section is discretionary. However, the holding of a civic office is an important and serious matter. Relevantly, a person may only hold the civic office of councillor if qualified under the terms of the LGA to do so and if duly elected by electors entitled to vote in the election at which the councillor was elected. It follows that a councillor not satisfying those preconditions is not entitled not hold the office under the Act. Secondly, if an irregularity under the section was constituted by a wrong classification of, for example, a single ballot paper, it would be extraordinary if relief thereby had to be granted under the section. However, as I have already stated, before there can be an irregularity under the section, it must appear that the result would have been uncertain. Therefore, this consideration is at least neutral in determining whether relief under the section is discretionary. The final matter to note about the section is that subs (3) confers a limited discretion on the court not to dismiss from office.
+That discretion is limited to a case under subs (1)(b), that is, where a person is disqualified from holding public office. Section 275 specifies the circumstances in which a person is disqualified from holding public office.
+They include whilst a person is disqualified from being an elector, whilst a judge or whilst serving a sentence for a felony, except a sentence imposed for a failure to pay a fine. The matters relevant to the exercise of the discretion are also specified in the subsection. The matter must be trifling and good faith and lack of knowledge must be established. In my opinion, those matters indicate that, upon its proper construction, subs (1)(a) does not confer a discretion on the court to make an order. If an irregularity within the section is established, the court must order the dismissal of the person from the office. As I have found an irregularity has been established, an order dismissing the appellant from public office must be made.
+
+Assuming, however, that I am wrong in this conclusion, it is appropriate to consider whether such an order ought to be made. Counsel for the appellant submitted that there were a number of factors present in this case which would compel the Court not to exercise its discretion under <case>, the cost of holding a by-election being a major, if not the major factor, in this regard.
+Indeed, his Honour considered this to be a consequence "to be avoided at all costs". There were two other significant factors relevant to the Court's discretion. First, as the contest would only be for the one position, it is probable, indeed certain, that the first respondent would be elected as the
+Annandale/Glebe Ward is a Labor Party ward. Secondly, the method of election would be optional preferential and not proportional, as there would only be 1 candidate to be elected: <case>(a). Notwithstanding that these matters are of great weight, they are not sufficient to override the fundamental right of candidates to be elected in accordance with the wishes of the electorate. The court cannot be satisfied that this occurred here. In my opinion, the trial judge should have made an order under <case>.
+
+Having regard to my conclusion, it is not necessary to determine whether his
+Honour was entitled to grant relief under [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/s65.html) of the [Supreme Court
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/). However,
+I should make a few short comments.
+
+Relief under [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/s65.html) of the [Supreme Court
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/) 
+The trial judge, having found that <case> was discretionary and deciding to refuse relief under the section, then decided that an order could be made under [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/s65.html) of the [Supreme Court
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/). That section provides: "(1) The Court may order any person to fulfil any duty in the fulfilment of which the person seeking the order is personally interested.
+ 
+The Court may, on terms, make an interlocutory order under subsection (1) in any case where it appears to the Court just or convenient so to do.
+ the powers of the Court under this section are in addition to any other powers of the Court." 
+It has been held that the section enables the court to issue orders akin to mandamus without being impeded by the technicalities of the prerogative writ:
+Dickinson versus Perrignon [[1973] 1 NSWLR 72]; McBeatty v Gorman [[1976] 2 NSWLR 560.] 
+Counsel for the appellant submitted that [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/s65.html) was not an available remedy, as there was no subsisting duty for the fourth and fifth respondents to perform, and therefore no jurisdictional basis for the making of an order. In one sense, this submission is correct. A recount could not have been ordered unless the original declaration of the poll was quashed, presumably by the issue of a writ of certiorari. See Craig versus South Australia <case>; [(1995) 69 ALJR 873.] However, no consideration was given to this by the trial judge, nor was the availability of certiorari argued on the appeal. It is not appropriate therefore to consider the matter further, other than to comment that this difficulty indicates a further reason why the trial judge erred and to further indicate that I do not consider that the terms of [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/s65.html) enabled the trial judge to fashion such remedy as he saw fit.
+
+Conclusion 
+It follows that the appeal should be upheld, but for reasons different from those advanced by the appellant and with a markedly different result from that sought by the appellant in the Notice of Appeal. The consequence of my judgment is that the first respondent has been successful in the <case> application brought by her in this Court. For that reason, and as the first respondent did not seek to uphold the orders of the trial judge, she should have her costs of the appeal. As the fourth and fifth respondents largely supported the case of the appellant on the appeal, the Court should hear argument as to how the costs of the first respondent should be borne and also whether the fourth and fifth respondent are entitled to any costs on the appeal.
+
+I propose therefore that, subject only to the question of costs being determined, the following orders be made on the appeal: 
+The appeal be upheld.
+
+The declaration made by McInerney J be set aside.
+
+Order that the appellant be dismissed from the office of councillor on the
+Leichhardt Municipal Council.
+
+Each party to be at liberty to put in written submissions in respect of costs.
+
+Christine BOURNE versus Alice MURPHY & ORS /96;ALD30079/95 November 1996 
+THE SUPREME COURT OF NEW SOUTH WALES COURT OF APPEAL 
+PRIESTLEY JA;COLE JA;BEAZLEY JA 
+CATCHWORDS:COSTS jurisdiction in electoral challenge pursuant to s.329 [Local Government Act 1993](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/) - different provisions applicable where court not sitting as Court of Disputed Returns - rejection of claim for costs against electoral officers.
+
+EX TEMPORE/RESERVED:Reserved 
+ALLOWED/DISMISSED:Orders made 
+JUDGMENT 
+PRIESTLEY JA: Having had the benefit of reading in draft Cole JA's proposed costs orders and his reasons for them, I need say no more than that I agree with them.
+
+COLE JA: By majority this Court has upheld an appeal by Miss Bourne from the decision of McInerney J declaring that she was not duly elected to the office of Councillor of the Leichhardt Municipal Council, and ordering the Electoral Commissioner, Mr Dickson, to undertake a full recount. In lieu the Court by majority ordered that the appellant be dismissed from the office of Councillor of the Leichhardt Municipal Council. In my reasons for judgment I wrote: "Whilst technically Miss Bourne has succeeded in disturbing the orders of the trial judge, in substance she has failed. Accordingly Miss Bourne should pay the costs of all of the other parties to the appeal." 
+That proposal did not receive the concurrence of Priestley and Beazley JJA who permitted the parties subsequently to file written submissions regarding costs. The proposal I advanced was without the advantage of detailed submissions regarding costs. The parties have asked that I reconsider the orders I proposed. I have considered the matter afresh having regard to the written submissions filed, and in light of those submissions propose varied costs orders.
+
+Apart from the two competing candidates for election, Miss Bourne and Miss
+Murphy, there were four other parties to the litigation. The first defendant,
+Mr Edwards, is the general manager of the Leichhardt Municipal Council, and the second defendant was the Council itself. Before McInerney J they filed submitting appearances and took no active part in the proceedings. A similar position was adopted on appeal. In truth they had no interest in the proceedings. They have submitted that this Court should order that their costs before McInerney J and on appeal should be paid by the unsuccessful party to the proceedings.
+
+The remaining two parties were Mr Bounader, the fourth defendant, he being the returning officer appointed by the fifth defendant, Mr Dickson, the Electoral
+Commissioner. They appeared both before McInerney J and on appeal and advanced submissions to those courts. Pursuant to [s.296](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s296.html) [Local Government Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/), council elections are required to be conduced by the Electoral Commissioner who is required to appoint a returning officer. [Section (7)](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s296.html) provides: "Expenses incurred by the Electoral Commissioner, returning officer, substitute returning officer and electoral officials in connection with an election are to be met by the council for which it is conducted and are recoverable from the council as a debt owed to the Electoral Commissioner as the holder of that office." 
+Neither the Electoral Commissioner nor the returning officer put submissions to the Court that, in light of [s.296(7)](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s296.html), this Court should order that any costs which they might be ordered to pay should be paid by the Council. Accordingly I express no view regarding any such entitlement.
+
+JURISDICTION AS TO COSTS 
+The [Local Government
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/) makes no provision regarding the costs of challenges to the validity of council elections. However it does provide in [s.329](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s329.html) for challenges to an order that a person has been validly appointed to civic office by permitting proceedings in the Supreme Court , District Court or
+Local Court seeking an order for dismissal from that office upon the basis of any irregularity in the manner in which the person has been elected or appointed to that office, or upon the basis of disqualification from holding office. Absent special legislative provisions regarding costs of those proceedings, the usual provisions regarding costs applicable in the courts referred to applies. McInerney J sat to hear the proceedings seeking an order of dismissal pursuant to [s.329](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s329.html); he did not sit as a court of disputed returns under [Part ](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/index.html#p6), [Parliamentary Electorates and Elections Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/peaea1912382/).
+Accordingly, the proceedings are proceedings contemplated by statute to be brought in the Supreme Court and are subject to the usual Supreme Court costs provisions. On appeal this Court has a power pursuant to s.75A(10) [Supreme
+Court Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/) to make any order for costs which ought to have been made in the court below. As
+McInerney J did not make any order for costs of the proceedings before him it is appropriate that this Court do so. Further, this Court has a general judicial discretion as to costs conferred inherently and by s.76 [Supreme
+Court Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/sca1970183/).
+
+APPLICATION OF DISCRETION 
+Miss Bourne was declared elected by the returning officer. That was challenged by Miss Murphy. As McInerney J declared that Miss Bourne was not duly elected to the office of Councillor, and ordered the Electoral Commissioner to conduct a full recount, before McInerney J Miss Murphy in substance succeeded in disturbing the returning officer's declaration of poll. Ordinary principles would suggest that as between Miss Bourne and Miss Murphy, Miss Bourne should pay Miss Murphy's costs of those proceedings. On appeal Miss Bourne was also in substance unsuccessful. Although she succeeded in having McInerney J's declarations set aside, this Court has ordered that she be dismissed from office. Accordingly, as between Miss Bourne and Miss Murphy, in accordance with usual principles Miss Bourne should pay Miss Murphy's costs of the appeal. I reject Miss Bourne's submission[15] that she was successful in the appeal. Miss Murphy has succeeded in obtaining through the litigation dismissal of Miss Bourne from office which was the first order sought in her amended summons.
+
+However, Mr King for Miss Bourne has argued that "contemporary Australian authorities indicate that the court has a power to, and usually does, order costs against a returning officer or Electoral Commissioner or the State which employs them where the error of the returning officer or the Electoral
+Commissioner or the State brought about the failure of the election", and in an appropriate case, on an indemnity basis. Reliance was placed upon Nile v
+Wood[16], Hudson versus Lee (No.2)[17] and Free versus Kelly[18].
+
+I do not think those authorities establish such a wide proposition. Each of
+Nile versus Wood and Hudson versus Lee (No.2) were concerned with the interpretation of s.360(4) [Commonwealth Electoral Act ](http://www.austlii.edu.au/au/legis/cth/consolact/cea1918233/) which confers upon the Court when sitting as the Court of Disputed Returns in a challenge to a Commonwealth election, power to award costs. In particular, subsection (4) confers a power in that court so sitting to award costs of parties to the challenge against the Commonwealth where the court considers it appropriate to do so, notwithstanding that the Commonwealth is not a party to the litigation. This is a special legislative provision not reflected in any similar provision in the [Local Government
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/) regarding a summons for an order for dismissal from civic office pursuant to [s.329.](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s329.html)
+Free versus Kelly may justify an order for costs in Miss Murphy's favour against the returning officer and the Electoral Commissioner in circumstances where they unsuccessfully seek to uphold an election result, but I see no basis in it for any wider proposition that it also justified an order that they pay the costs of another unsuccessful party who advances similar unsuccessful contentions.
+
+The Supreme Court may, pursuant to its general judicial discretion conferred by [s.76](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s76.html), have regard to "what is fair and just", but that consideration relates to what is fair and just between the parties to the litigation, not fairness and justness as between the parties to the litigation and the Commonwealth or
+State as the employer of the Electoral Commissioner and the returning officer, and being the body requiring the holding of the challenged election. Here all parties involved in the conduct of the election, or the challenge to it, are parties to the litigation. No endeavour was made by Miss Bourne to seek an order against the State of New South Wales, and there is no extraordinary statutory basis for such an order as there is under the [Commonwealth
+Electoral Act ](http://www.austlii.edu.au/au/legis/cth/consolact/cea1918233/). The
+Parliamentary Electorates and Elections Act 1912, by s.161(I)(ix) confers a power to award costs but does not contain any provision for an order for costs against the State. Further, as I have said, McInerney J was not sitting as the Court of Disputed Returns.
+
+It was further submitted by Mr King that each of Miss Bourne and Miss Murphy were innocent of involvement in the aspects of irregularity found by the
+Court. The irregularity flowed from error or inadequacy in the performance of the functions of the returning officer appointed by the Electoral
+Commissioner. Thus they should bear the costs of each of Miss Bourne and Miss
+Murphy. It was reasonable, at least as between Miss Bourne and the returning officer and the Electoral Commissioner, for her to seek to support his analysis of votes and declaration of poll. Further, if Miss Murphy be the substantially successful party, she has succeeded because of errors by the returning officer for which the Electoral Commissioner is responsible and she should have her costs against those parties.
+
+I am not persuaded that those submissions, in whole, should be accepted.
+
+As between Miss Bourne and the returning officer and the Electoral
+Commissioner, each was a defendant in the proceedings before McInerney J commenced by Miss Murphy. Miss Bourne did not join either the Electoral
+Commissioner or the returning officer and I see no basis upon which she should be ordered to pay their costs of those proceedings. On appeal by her, however, she did join them as respondents to the appeal. However on the appeal, in substance the fourth and fifth respondents supported the appellant Miss Bourne and were thus unsuccessful.
+
+That being so in my view there should be no order for costs as between Miss
+Bourne on the one hand and the Electoral Commissioner and the returning officer on the other in respect of the appeal.
+
+In the proceedings before McInerney J, Miss Murphy, as plaintiff, succeeded against Miss Bourne and the Electoral Commissioner and returning officer.
+Accordingly those three parties should pay her costs of those proceedings. On appeal, as Miss Bourne was the only appellant and failed, she should pay the costs of Miss Murphy of the appeal.
+
+I see no basis upon which Mr Edwards and the Leichhardt Municipal Council were necessary parties to an action by Miss Murphy seeking the dismissal of Miss
+Bourne pursuant to s.329. They were joined by Miss Murphy and she should pay their costs.
+
+In my opinion the circumstance that the irregularities found by the Court were acts of officials in the process of an aspect of public administration is not a sufficient basis for awarding costs against them in favour of Miss Bourne.
+Miss Murphy recovers costs against them because they were unsuccessful defendants in proceedings brought by her in accordance with usual principles.
+In truth the interest of Miss Bourne and the Electoral Commissioner and returning officer were the same: each wished to uphold the validity of the election and declaration of poll. Had she not joined them as respondents to the appeal, although they supported her submissions, no question of costs as between her and those officials would have arisen. To my mind there is a very real question whether the Electoral Commissioner and returning officer were necessary parties to proceedings brought pursuant to s.329 [Local Government
+Act 1993](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/), or on appeal from those proceedings, but this matter was not argued and no step was taken by the returning officer or electoral commissioner to be removed from the initial proceedings or the appeal.
+
+I respectfully agree with Foster J that the mere fact that an act by a public official in an aspect of administration is called in question is not of itself sufficient to justify and order for costs against that official[19], and that is so even if the act of the official is found to be in some respects wanting or defective.
+
+A final argument addressed by Mr King was that this case involved for the first time questions of the validity of elections and the conduct of returning officers under the [Local Government Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/), and as such involved questions affecting the public interest; it should be regarded as a test case. I understood this to be a basis for a contention that the returning officer and Electoral Commissioner, whose performance of function had been found to be defective, should accordingly pay the costs of Miss
+Bourne. I reject that submission on a number of bases. First, the parties in question were on the same side of the record in the initial proceedings.
+Second, Miss Bourne elected to join the public officials as respondents to the appeal. Third, in fact Miss Bourne and the public officials adopted a similar position on appeal. And finally, and perhaps most importantly, for the reasons which I advanced in Richmond River Council versus Oshlack[20] I do not think that merely because litigation between citizens, or citizens and the State involves matters of public interest it should attract any special costs provisions. I adhere to the view which I there expressed: "Once it is appreciated that the award of costs to a successful defendant is "compensatory in the sense that they are awarded to indemnify the successful party against the expense to which he or she has been put by reason of the legal proceedings"[21], the circumstance that the unsuccessful claimant may have been motivated not by personal interest, gain or affectation, but by the public interest, becomes an irrelevant factor." 
+For the reasons which I have given, I would propose the following orders: 
+ORDERS 
+PROCEEDINGS BEFORE MCINERNEY J
+Miss Murphy should pay the costs of Mr Edwards and the Leichhardt
+Municipal Council.
+Miss Bourne, the returning officer Mr Bounader, and the Electoral
+Commissioner Mr Dickson should pay the costs of Miss Murphy not including costs ordered to be paid by her to Mr Edwards and Leichhardt Municipal
+Council.
+
+COSTS OF APPEAL
+Miss Bourne should pay the costs of Mr Edwards and the Leichhardt
+Municipal Council.
+Miss Bourne should pay the costs of Miss Murphy.
+No order as to costs as between Miss Bourne on the one hand and Mr
+Bounader and Mr Dickson.
+
+I see no basis upon which the orders should be otherwise than on a party and party basis.
+ 
+Beazley JA: I agree with Cole JA's judgment as to costs.
+ [1] Judgment, p.23.
+ <case>; <case>; [(1985) 157 CLR 351] at -368.
+ [4] [(1989) 87 ALR 656.] [5] See in another context Minister for Immigration & Ethnic Affairs versus Wu
+Shan Liang & Ors (Unreported) High Court of Australia, 7 May 1996, per
+Brennan CJ, Toohey, McHugh and Gummow JJ at p.18.
+ [6] [Regulation (1)(a).](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s77.html) [7] [Regulation (4).](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s77.html) [8] [Regulation .](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s79.html) [9] [Regulation .](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s81.html) [10] [Regulations ](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s83.html) to [84](http://www.austlii.edu.au/au/legis/nsw/consolact/lga1993182/s84.html).
+ <case>; [(1916) 21 CLR 582] at 623.
+ [14] See also Re: Forest [(1993) 1 QDR 478] at 489;
+Scarcella versus Morgan <case>; [(1962) VR 199] at 202-203.
+ [15] Paragraph 3, submissions 7 November 1996.
+ <case>; <case>; [(1993) 177 CLR 627] at 623 per
+Gaudron J;regarding indemnity costs see Australian Electoral Commissioner v
+Towney <case>; <case>; <case>; [(1994) 54 FCR 383] at 389.
+ [20] Unreported, Court of Appeal, 3 July 1996.
+ <case>; [(1990) 170 CLR 534] at 543 per Mason CJ at 568 per McHugh J.
+ * * * 

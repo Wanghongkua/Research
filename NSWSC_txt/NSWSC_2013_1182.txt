@@ -1,0 +1,398 @@
+
+
+Burabs Holdings Pty Ltd versus Alexander Dennis (Australia) Pty Ltd [2013]
+NSWSC 1182 (30 August 2013) 
+Last Updated: 9 September 2013 
+Supreme Court 
+New South Wales  
+Case Title: 
+Burabs Holdings Pty Ltd versus Alexander Dennis (Australia) Pty Ltd  
+Medium Neutral Citation: <case>  
+Hearing Date(s): to 30 April 2013; 1, 2 and 3 May 2013  
+Decision Date: August 2013  
+Jurisdiction: 
+Civil  
+Before: 
+Young AJ  
+Decision: 
+Accounts to be settled by expert in accordance with Deed  
+Catchwords: 
+EQUITY - construction of Deed - shares in company and adjustments - bus manufacturer - misleading representations - dispute resolution - expert determination  
+Cases Cited: 
+Alliance Petroleum Australia NL versus Australian Gas Light Company [(1985) 39 SASR ] 
+Downer Engineering Power Pty Ltd versus P & H Minepro Australasia Pty Ltd <case> 
+Galambos & Son Pty Ltd versus McIntyre [(1974) 5 ACTR 10] 
+Gollin & Co Ltd versus Karenlee Nominees Pty Ltd <case>; <case>; [[2013] 2
+All ER 103]; [[2013] 1 WLR 366] 
+United Scientific Holdings Ltd versus Burnley Borough Council [[1978] AC 904] 
+Rawson versus Samuel [(1841) Cr & Ph 161] 
+Wentworth Shire Council versus Bemax Resources Limited and Ors <case>  
+Texts Cited: 
+Derham on the Law of Set-off (4th ed, 2010) Oxford University Press at [4.22]  
+Category: 
+Principal judgment  
+Parties: 
+Burabs Holdings Pty Ltd (Plaintiff) 
+Alexander Dennis (Australia) Pty Ltd (Defendant)  
+Representation - Counsel: 
+Counsel: 
+N Cotman SC and J Knackstredt (Plaintiff) 
+LV Gyles SC and SA Lawrence (Defendant)  - Solicitors: 
+Solicitors: 
+M&K Lawyers (Plaintiff) 
+Clayton Utz (Defendant)  
+File Number(s): /383066  
+Publication Restriction: 
+None  
+JUDGMENT
+This is a dispute between the seller and the buyer of a large business manufacturing bus bodies.
+The parties entered into a deed bearing date 6 June 2012. The document was called "Share Sale and Purchase Deed" ("the Deed"). Basically, the Deed provided that the plaintiff was to sell the shares in the company that owned the business of Custom Coaches to the first defendant for $26.5M plus or minus adjustments. This litigation concerns those adjustments, which, on the first defendant's case, are so substantial that (if the first defendant is correct) the plaintiff will need to repay some of the consideration it has already received for the transaction.
+As the second defendant, the Australian International Disputes Centre Ltd submitted - it only became involved to assist in a valuation exercise and took no part in the hearing - for ease of reference I will simply refer to the first defendant as the defendant.
+I have received vast quantities of documentation into evidence. I will endeavour to simplify the documentation as much as I can, but it is necessary to set out the critical provisions in detail.
+The Deed defined the term "Initial Purchase Price" as $26.5M subject to some immaterial adjustments. It defined FY 12 as 1 July 2011 to 30 June 2012 and EBITDA as Earnings before Interest, Income Tax, Depreciation and Amortisation of Sales for the relevant financial year.
+Clause 3.2 and 3.3 are as follows: .2 The Initial Purchase Price will be subject to the following adjustments: the Initial Purchase Price will be increased by the Deferred Consideration (if any) calculated in accordance with clause 3.3; and once the Completion Accounts has been determined in accordance with clauses 9.2 to 9.7: if the Net Working Capital Amount is $8,428,730, the Initial Purchase
+Price will not be adjusted; if the Net working Capital Amount is less than $8,428,730, the Initial
+Purchase price will be decreased by the amount by which the Net Working
+Capital Amount is less than that amount (the "Net Working Capital Reduction
+Amount"); and if the Net Working Capital Amount is greater than $8,428,730, the
+Initial Purchase Price will be increased by the amount by which the net
+Working Capital Amount is greater than that amount (the "Net Working Capital
+Increase Amount").
+ .3 If the FY12 EBITDA: is less than $4,500,000, the Deferred Consideration will equal zero; is equal to or greater than $4,500,000 but less than $4,600,000, the
+Deferred Consideration will be $500,000; is equal to or greater than $4,600,000 but less than $4,700,000, the
+Deferred Consideration will be $1,000,000; is equal to or greater than $4,700,000 but less than $4,800,000, the
+Deferred Consideration will be $1,500,000; is equal to or greater than $4,800,000, the Deferred Consideration will be $2,00,000.
+Clause 3.6 deals with the payment of the purchase price. Essentially, on completion (6 June 2012) the defendant was to pay the target company's debt to the National Australia Bank of $18,482,617.66, to place $400,000 into an Escrow Fund and to pay the balance of the $26.5M to the plaintiff. The Deferred Consideration was to be paid or refunded five business days after the FY12 Income Statement was finally determined.
+Clause 5.1 provided that, no later than 2 months after the end of the financial year, the defendant would prepare and deliver to the plaintiff a draft income statement prepared in accordance with the Accounting Policies adopted by the Custom Coaches Group for the three years prior to completion. There were then laid down procedures for dealing with disputes over these accounts. I will return to these dispute resolution provisions.
+Clause 9 deals with the Completion Accounts. The key sub clause is 9.2, which I will set out in full. The balance deals mainly with dispute resolution, a matter to which I will return.
+Clause 9.2 states: .2 As soon as possible after 30 June 2012, but in any event not later than 31
+August 2012, the Buyer will prepare and deliver to the Seller the draft statement of financial position of Sales (the "Draft Completion
+Accounts"): in the form and including the items specified in part B of Schedule 8; and prepared in accordance with the specific principles and policies set out in part A of Schedule 8, together with copies of such background documents and working papers as would be required by a reasonable person to be able to ascertain whether or not they agree with the Draft Completion Accounts.
+I will deal with the provisions of Schedule 8 as I consider the submissions of the parties.
+The plaintiff says that although the defendant did furnish some accounts and documents on 31 August 2012, those did not constitute Draft Completion Accounts as contemplated by clause 9.2, and nor did the defendant provide the necessary background documents. The plaintiff submitted that it was now too late to remedy this so that the dispute resolution mechanism could never take effect.
+The plaintiff commenced these proceedings on 10 December 2012. It did so because in November 2012, the defendant had sought to nominate an expert to carry out the dispute resolution procedures. The plaintiff sought to restrain the second defendant from nominating an expert.
+The amended Statement of Claim of 1 March 2013 seeks a series of declarations, plus an injunction, specific performance of the deed and some damages.
+I should note here that in addition to the Deed, there were ancillary documents, including Consultancy Deeds of 6 June 2012 under which three executives of the plaintiff were to provide consultancy services to the defendant. The plaintiff says that $204,600 is due to it under these Consultancy Deeds.
+Paragraph 11 of the Amended Statement of Claim claims false and misleading conduct. It reads as follows: In or about the week commencing 21 May 2012, Alexander Dennis represented that: 
+In return for Burabs accepting a reduction in the agreed Initial Purchase
+Price of $1 million, Alexander Dennis would compensate Burabs by increasing the "Deferred Consideration" payable under the proposed Agreement; 
+Alexander Dennis would do everything in its power to operate the business of the Group Companies in a manner that would ensure that Burabs received
+Deferred Consideration under the Agreement; and 
+Burabs could be confident that Alexander Dennis would take the steps represented as alleged in paragraph 11(b) above , as it needed the Group
+Companies to achieve as high an EDITDA in the 2012 financial year as possible (together the Misleading Representations).
+The defence was principally a series of denials. The $204,600 was admitted, but it was said that the amount was less than what was due to the defendant under the Deed. Misleading representations were also alleged against the plaintiff.
+In answer to paragraph 11, the defendant pleaded: in or about the week commencing 21 May 2012, Colin Robertson (on behalf of
+Alexander Dennis Limited, a company incorporated in the United Kingdom ) represented to Mark Burgess (on behalf of the plaintiff) in substance: that one of the shareholders in Alexander Dennis Limited required the initial purchase price to be reduced by $1 million; that Alexander Dennis Limited was prepared to increase the Deferred
+Consideration (and alter other terms of the proposed agreement); that it was in the interests of both Alexander Dennis Limited and the plaintiff to maximise Custom Coaches Pty Ltd's EBITDA for FY 12; that Alexander Dennis Limited intended to conduct the business of Custom
+Coaches Pty Ltd with a view to maximising the EBITDA for FY 12; says that the representations pleaded in (a) were true; does not admit that the First defendant had been incorporated at the time the representations were made; otherwise denies the paragraph.
+The defendant has filed a cross-summons seeking declarations that the finalisation of this dispute should be done by the dispute resolution procedures set out in the Deed.
+The case was heard by me from 29 April to 3 May 2013. Mr N Cotman SC and Mr JP Knackstredt of counsel appeared for the plaintiff and Mr LV Gyles SC and Mr SA Lawrence of counsel appeared for the defendant.
+Despite the assistance given to me by counsel, I have found it difficult to formulate the precise matters which I have to decide in order to bring finality to this dispute.
+Mr Cotman's approach to the case as indicated in his written submissions filed prior to the hearing focussed on the alleged inability of the defendant to rely on its Draft Completion Accounts, or to rely on its adjustments therein or to refer any dispute over such matters to expert determination.
+Mr Gyles in his corresponding document says that the issues fall into three groups: first, there are accounting issues; secondly, there is the plaintiff's claim for damages for alleged false and misleading conduct; and, thirdly, there is the question of set-off.
+Mr Gyles fleshed out the first issue by putting that it also is in three parts, viz: (a) the proper construction of the key clauses of the Deed; (b) whether the accounts were prepared in accordance with Schedule 8 of the deed; and (c) whether the background documents and working papers supplied by the defendant were sufficient, and the consequences in the event of deficiency.
+Apart from declarations, the plaintiff sought an injunction to prevent the defendant pursuing the expert determination process, plus an award of money.
+The defendant pointed out that, if its accounts stood, because the FY12 EBITDA was $3,279,800 (and thus under $4.5M), no Deferred Consideration would be payable. Further, on the Capital Account, $5,828,362 would be repayable from the plaintiff to the defendant.
+The difficulty in clearly formulating the issues for decision in this case derives from the fact that, while the ultimate questions can be stated, the answer to a number of them depend on the analysis of expert evidence backed by proof of the facts on which the experts relied on complex accounting issues. When I state the issues as I see them a little later in these reasons, I will do so by stating the ultimate issue and then the sub-issues which need to be considered before answering the ultimate issue.
+Mr Gyles says that indeed I do not need to finalise the dispute, the calculations can be left to the experts in accordance with the provisions of the Deed.
+I must remark that I do not consider that I will be able to make a series of declarations as sought by both sides. Declarations are ordinarily only made as final orders to resolve litigation and not as steps along the way. It may be that if the calculations have to go to experts, it would be appropriate to make declarations, but not if the proper relief is an award of a money sum or executive equity orders by way of injunction or specific performance.
+It is clear that the basic purpose of the transaction was for an Australian subsidiary of Alexander Dennis Ltd, a major builder of buses in the United Kingdom to purchase the businesses of Custom Coaches, a major Australian bus builder.
+It is clear also that the defendant or its parent conducted due diligence before the agreement was signed. The initial purchase price was at first determined to be $27.5M, but, subsequently, this was reduced to $26.5 million via adjustments to the Deferred Consideration. That much is clear.
+The present position is that, on and after 31 August 2012, the defendant has required adjustments which, if appropriate, would reduce the purchase price by about 22 per cent.
+Doing the best I can, it seems to me that I need to determine a series of ultimate issues in order to get to some finality in this matter. I will list them and then seek to solve them seriatim, discussing and evaluating the factual material under each head. 
+These reasons will thus be structured as follows:
+Basic facts and consideration of matters of credit;
+Analysis of the expert evidence;
+First Ultimate Issue: were the documents accompanying the Draft Completion
+Accounts sufficient to comply with the Deed? This question requires consideration of the true construction of the Deed, especially cl 3, 5 and 9.
+I will need to consider in particular the meaning of "reasonable person" in the phrase "would be required by a reasonable person" in cl 9.2.
+Second Ultimate Issue: were the Draft Completion Accounts themselves in accordance with cl 9.2 and Sch 8 of the Deed? This issue raises sub-issues, viz: 
+What were the principles and policies under which the accounts were to be prepared and were they followed? 
+What questions of fact need to be decided before considering the accounting issues? The only matter in this area is whether the plaintiff's assertion that the defendant deliberately slowed production in June has validity.
+
+What accounting issues arise? This question requires consideration of the following accounting matters, viz: 
+Raw materials inventory adjustment - obsolete stock; 
+Work in progress revenue recognition; 
+Warranty provision increase; 
+Trade and other receivables; 
+Trade and other payables; and 
+Prepaid income.
+Third Ultimate Issue: should the disputes be dealt with under the dispute resolution procedures in the Deed?
+Fourth Ultimate Issue: were there misleading or deceptive representations or conduct by the defendant?
+Fifth Ultimate Issue: the Consultancy Deeds and questions of set-off;
+Minor Issues: 
+Was there a faulty stocktake? 
+What corporate knowledge can be imputed from the knowledge of one officer? 
+Reasons for rejecting part of the affidavit of Mr MG Stewart; and
+The result of the case 
+Basic facts and considerations of credit
+I will set out the background facts about which there is no dispute.
+The plaintiff was formerly known as Custom Coaches Holdings Pty Ltd and is a closely held family company.
+Prior to the transactions the subject of this litigation, the plaintiff held all the shares in Custom Coaches Pty Ltd which in turn held (and indeed still holds) all the shares in Custom Coaches (Sales) Pty Ltd. Together these companies are referred to as "the Custom Coaches Group".
+In late 2011, the plaintiff was approached by the defendant's parent company as to the possibility of a sale of the plaintiff's businesses. Thereafter, discussions took place largely between Mr Mark Burgess, the CEO and major shareholder of Burabs and Mr Colin Robertson of Alexander Dennis Ltd of Scotland.
+In February 2012 the defendant or its parent performed a due diligence enquiry with respect to the Custom Coaches Group. Mr Robertson said that PricewaterhouseCoopers were retained to perform this exercise (p164).
+In around the week of 14 May 2012, the prime negotiators had arrived at an initial purchase price for the acquisition of $27.5M.
+However, in the next week, Mr Robertson sought to reduce that figure to $26.5M. This was agreed to though the plaintiff says that this was only done because of representations made by Mr Robertson, which were not fulfilled. These are considered in Section F below.
+The Deed and the Consultancy Deeds were signed, sealed and delivered on 6 June 2012, and completion took place immediately.
+I had virtually no problems with the credit of witnesses. The decision making in this case was largely a matter of construction and applying the evidence to the contract as construed.
+However, the general flavour that came through from the evidence was that the Custom Coaches business (immediately before the Deed) was a significant one in the industry, but was suffering from lack of liquidity. Further, the controllers did make costing adjustments which tended to give the appearance that the business was in better shape than it actually was. I could not find on the evidence that this was deliberately intended to mislead a purchaser.
+Thus, while it would be simple to seek to solve this dispute by saying "the buyer had due diligence and there was no active misrepresentation, and it is unfair for it now to get out of paying the full price by rewriting the figures in the accounting revisions etc that were made and other circumstances on the shop floor which might not have been apparent, make this an unsafe path to tread. 
+Before going into the expert evidence, I should briefly refer to Schedule 8 of the Deed, which governs the preparation of the Completion Accounts. 
+Part A of the Schedule deals with principles of preparation relating to the Net Working Capital Amount, and Part B sets out a pro forma Completion Statement limiting what may be included in that amount.
+Part A provides that:
+Subject to paragraph 2, the Completion Accounts must be prepared using the accounting principles and policies applied in the preparation of the Statutory
+Financial Statements of Sales and in accordance with the Accounting Standards and Accounting Policies.
+The Completion Accounts should be prepared taking into account the following: 
+The Completion Accounts shall include only the line items set out in the pro forma Completion Accounts in Part B.
+
+If at the date of preparation of the Completion Accounts there are known bad debts then a specific bad debt provision should be included to reflect the expected non collection amount.
+
+The Completion Accounts shall include a provision for inventory based on a stocktake at Custom Coaches production facilities undertaken at the Completion
+Date, undertaken in a manner consistent with Sales current processes with inventory value determined based on standard cost provided these standard costs are representative of actual cost. The provision should include a provision for obsolescence, consistent with those accounting policies, principles, and practices described in paragraph 1.
+
+The Completion Accounts shall not reflect any: prepayment; amount receivable; any provision; or amount payable, in relation to adviser fees relating to the transaction.
+ ...
+
+The Completion Accounts shall exclude any deferred tax and liability amounts.
+
+The Completion Accounts shall exclude cash, including any cash on deposit.
+ ...
+
+Custom Coaches debt and indebtedness, including the Hire Purchase
+Agreement Liabilities and any accrued interest, pursuant to the NAB Facility
+Agreement will be excluded from the Completion Statement and will be disregarded in calculating the Net Working Capital Amount and will be treated as a debt like item.
+The pro forma Completion Statement in Part B sets out the headings as to what should be included in the accounts. These include: * Trade and other receivables (A); * Prepayments (B); * Inventory (excluding capitalised development costs) (C); * Trade and Other Payables (D); * Prepaid Income (E); * Provisions (F); * Net Working Capital Amount WC (being the sum of the first three amounts less the sum of the last three amounts, or [A + B + C] - [D \+ E + F]) (G); * Net Working Capital as per Custom Coaches (Sales) Pty Ltd Amount (H); and * Net Working Capital Adjustment amount (being the Net Working Capital as per Custom Coaches (Sales) Pty Ltd Amount less the Net Working Capital Amount WC, or H - G) 
+Analysis of the expert evidence
+The plaintiff's expert was Mr Terence Michael Potter, a chartered accountant who is a principal of Axiom Forensics. He gave a report of 6 February 2013 ("the Potter Report"), and later participated with the defendant's expert in a joint report of 22 April 2013 ("the Joint Report"). 
+The defendant's expert was Mr Antony Bryn Samuel who also is a chartered accountant and the managing director of the Sapere Research Group. His report is of 4 April 2013 ("the Samuel Report") and he also participated in the Joint Report.
+Both experts participated in the concurrent expert evidence session in court on 2 May 2013.
+The expert evidence could be classified into three sections, dealing with: (a) what the contract should be interpreted to mean; (b) what follows from that view; and (c) the six major areas of dispute between the parties to which I have already referred.
+Mr Potter's basic opinion was that he would require a significant amount of additional information before reaching a concluded view on what I have called the First Ultimate Issue. However, he opined that there was "some likelihood the Draft Completion Accounts have not been prepared in accordance" with the principles and policies set out in Part A of Schedule 8 of the Deed (at p 5 of the Potter Report). His preliminary opinion was that the Draft Completion Accounts were unlikely to have been prepared in accordance with the relevant principles and policies in respect of four matters (corresponding to issues (4)(c)(i), (ii), (iii) and (v) in my outline above), viz:
+The raw materials inventory adjustment;
+The Work in Progress Revenue recognition adjustment;
+The warranty provision increase; and
+Trade and other payables.
+On the other hand, Mr Samuels' view was that the Draft Completion Accounts were properly prepared.
+Mr Cotman SC says that if I accept Mr Potter's evidence then the defendant has not conformed to the Deed which obliges it to provide materials and work papers or the like which would allow a reasonable person to assess the figures. The time for providing that material has now passed and the defendant cannot now remedy any deficiency.
+The defendant says that there is nothing in this point. It says that it has produced figures which show that moneys are due to it rather than to the plaintiff.
+It further points to the fact that the plaintiff in fact served a notice disputing every one of the disputed facts, so that the circumstances are ripe for an expert to deal with the dispute as the parties contemplated in their Deed.
+
+First Ultimate Issue: what is the true construction of the Deed, particularly clauses 3, 5 & 9?
+Although both experts interpreted the Deed, it is clear that the matter of the proper meaning of the Deed is a matter for the Court and not for the experts. It is thus necessary for me now to consider the interpretation of the Deed where it is relevant and where the experts disagree. I have already set out in my outline the key points, and I will now deal with each in turn.
+Regarding cl 9.2, who is a reasonable person and what information would a reasonable person expect to possess? In their joint report, the experts said: 
+The experts agree that a reasonable person would have a degree of accounting competence and some knowledge of accounting practices and policies historically applied by Sales. The experts agree that the meaning of reasonable person does not envisage detailed knowledge of journal in the inventory general ledger account.
+I would accept that opinion. However, the experts differ on the question as to whether the hypothetical reasonable person would or would not have a detailed knowledge of Burabs' accounting policies and records up to 6 June 2012.
+Mr Potter says that he and Mr Samuel disagree on three key points. First, the matter I have identified in the previous paragraph, secondly as to what the reasonable person would be doing with the Draft Completion Accounts and accompanying documents. Mr Potter suggests that he or she would be trying to assess their accuracy and in particular the accuracy of the adjustments made. Mr Samuel says that the reasonable person would merely be seeking to agree or disagree with the accounts in essence and that does not require every account to be determined accurately.
+The third difference concerns the correct accounting approach to stock obsolescence and the warranty provision. I will deal with this third matter under heading (4), sub-headings (c)(i) and (iii).
+As to the first matter, when looking at the concept of a reasonable person under the general law, one usually does not look for a person with the detailed knowledge of the scenario that would be held by a party. In the instant case, the focus is on the seller. However, the Deed does not say that the documents supplied shall be what the seller might reasonably require. Rather, it puts the matter in an objective way: what "a reasonable person would require". It seems to me with this wording that one does not impute to this reasonable person, any knowledge of specific details possessed by the seller.
+As to the second matter, it seems to me that the clue must be found in cl 9 itself. Clause 9.3 provides that the plaintiff has 20 business days after it receives all the documents and working papers in accordance with cl 9.2 to give to the defendant a very precise notice dealing with what items are disputed, the grounds on which each is disputed, and also what adjustment it proposes.
+In my view, the purpose in cl 9.3 can only be fulfilled if the plaintiff is given fully detailed material. This view is reinforced by the reference to working papers that need to be supplied. The fact that the plaintiff needed to be able to specify the grounds of dispute and attempt to set out its own proposed adjustment implies that it must be in a position to test the accuracy of the accounts. 
+Mr Potter says that Mr Emanouel, an accountant in the defendant's camp, in fact prepared a detailed list of allegedly obsolete stock after the 2012 stocktake. Indeed he did: see p 2079 and following in Volume 9 of the Court Book. Unfortunately, the list is not dated. However, and despite the comment I made at the time (see T 284), it, or a draft of it, must have been in existence before the Draft Completion Accounts were served on 31 August 2012. It was not delivered to the plaintiff with the Draft Completion Accounts.
+In my view, it is not possible for a reasonable person to come to a view as to whether or not it is proper to write down stock for obsolescence without a detailed list of the stock involved. 
+Mr Potter, on p 11 of the Potter Report (p 197 of the Court Book), sets out a table of the disputed six adjustments and others. In summary, as I understand it, what he is saying is:
+With respect to alleged obsolete stock, the trial balance as at 6 June adjusted puts the stock figure at $10,397,143 after taking account of period end adjustments ($22, 257).
+There is a write-off of slow moving stock reducing the figure by $1,556,777. However, there is a positive adjustment to WIP (being an offset to
+WIP reduction for cost) of $1,115,264, so that one reduces the Net Working
+Capital Amount by about $ 440,000 if the adjustment is properly made.
+There is a WIP revenue reduction of $2,930,445, reducing the Net Working
+Capital by that amount.
+Provision for warranty is increased by $487,075, reducing the Net Working
+Capital by that amount.
+[Obsolete stock] is included in (2).
+Trade and other payables is reduced by $523,360, and the Net Working
+Capital is reduced by the same amount.
+Prepaid income is reduced by $184,747 and working capital is reduced by the same amount.
+Net Working Capital is thus reduced from $7,488,680 in the 6 June trial balance to $2,600,368.
+Mr Potter says in paragraph 3.9 of his report, "The above summary shows that almost all categories of working capital have been adjusted by both period end adjustments and further adjustments. The majority of the adjustments are for significant amounts such as the Adjusted Net Working Capital is only 34 per cent of the unadjusted net working capital as being recorded in the 6 June trial balance. The adjustments made are pervasive and in such circumstances I would expect a large volume of information necessary to assess their accuracy." I agree with this comment.
+It thus seems to me that these matters alone show that the defendant did not comply with cl 9.2.
+However, does this mean, as Mr Cotman puts it, that as time is of the essence, and as there has been a breach by the defendant of 9.2, it is now too late to remedy the position and the dispute resolution procedures have fallen away because they depend on a proper compliance with cl 9.2?
+One could read cl 9.3 as meaning that, although the Draft Completion Accounts had to be supplied by 31 August, the time in cl 9.3 only runs from the time that the last of the supporting documents is received by the plaintiff which may be after that date.
+I considered and rejected that view because cl 9.2 is adamant about the deadline of 31 August and it was essential to the Seller that it receive its full price for the sale as soon as possible.
+However, that conclusion does not deal with the whole question as to whether time is of the essence.
+The rule in mercantile or commercial contracts generally is that time is of the essence, see eg Lindsay versus Mahoney (1979) 1 BPR 9584 9587-8 per Rath J where the cases are discussed (appeals dismissed [(1980) 55 ALJR 118]
+However the circumstances of the instant case themselves provide a strong argument as to why time is not of the essence. If the seller is prejudiced by any breach of cl 9.2 (other than a fundamental breach) it can, as the plaintiff did in the present case, object to every line of the draft accounts and let the expert determine the matter as set out in the Deed. There does not seem to be any inhibition on the expert calling for any further documentation he or she needs to carry out the task committed to the expert.
+The aim of interpretation of the contract is to ascertain the intention of the parties, though that search is limited by the words the parties have employed in their documents. I agree with Mr Gyles that it seems almost incredible that the parties agreed on a relatively complex arrangement for dealing with disputes about the completion accounts if that could all be displaced if the documents supplied with the accounts were not completely adequate.
+Indeed there is considerable substance in the submission of Mr Gyles that, if the requirement of cl 9.2 was that the Draft Completion Accounts only qualified to be considered such if they perfectly carried out the principles and policies of Schedule 8 there would hardly be any need for expert determination.
+In Downer Engineering Power Pty Ltd versus P & H Minepro Australasia Pty Ltd <case> [75], Hoeben J with whom Giles and Basten JJA agreed, said of a similar agreement to buy a business that when a document which purports to be a completion statement is served either the other party accepts it or disputes it and puts into play the dispute resolution mechanism. His Honour rejected a submission similar to the one made by the plaintiff in the instant case that the completion statement was disqualified from being called such if it contained major errors.
+Mr Cotman SC says that the person conducting the expert determination is bound by the documents that were delivered by 31 August. Mr Gyles puts that he or she may call for whatever documentation they consider necessary to carry out their task.
+I would agree with Mr Gyles' position. Clause 9.6(f) of the Deed requires each party to provide the expert with any information and assistance that he or she reasonably requires.
+Thus, my view is that whilst the plaintiff has established a breach by the defendant of cl 9.2, it does not affect the dispute resolution provisions of clause 9 of the deed.
+
+Second Ultimate Issue: Were the accounts delivered on 31 August Draft Completion Accounts as required by clause 9.2 and Schedule 8 of the Deed?
+I have already set out the basic points made by the experts on the accounting issues. I will now deal with the basic accounting issue and then more specifically with the six accounting issues in dispute. However, before doing so, it is necessary to consider some non-accounting evidence. I will use the distinguishing notation referred to in the outline of the scheme of the judgment.
+
+What were the principles and policies under which the accounts were to be prepared and were they followed and were they delivered accompanied by the required documents?
+The key question is: were the accounts prepared in accordance with Schedule 8 to the Deed?
+This question can only be answered after detailed consideration of the six accounting items in dispute as well as the matters considered above.
+As will appear from the following discussion, the answer to the question must be "no". That is on the basis that the presence of at least two major errors disqualifies the whole account.
+However, as was discussed during submissions, the great size of the "adjustments" itself points to the probability that what was happening was not the mere making of adjustments, but rather a rewriting of the value of the business being purchased.
+The word "adjustment" must be given semantic significance. As Rein J said in Wentworth Shire Council versus Bemax Resources Limited and Ors  <case> at <case>: 
+Adjustment' implies that the rate first mentioned is the starting point for variation.
+The following analysis shows that the treatment of so-called obsolete stock and Work in Progress was clearly not in accordance with the principles and policies of Schedule 8. With some other categories, there was not enough material to say whether they were properly treated or not. 
+Overall, were the Draft Completion Accounts made up on the basis of the principles and policies in Schedule 8? The answer to this is to be found after considering the accounting issues, but some general comments can be made.
+As will be seen, one issue is that the method of viewing Work in Progress ("WIP") changed materially between June 2011 and May 2012.
+When adjustments are contemplated to accounts, one normally would expect to be dealing on a "comparing apples with apples" basis. 
+A similar question was recently considered by the English Supreme Court in Lloyds TSB Foundation for Scotland versus Lloyds Banking Group plc  <case>; [[2013] 2 All ER 103] In that case, a charitable foundation was entitled, pursuant to a covenant made in 1986 and amended in 1997, to a fixed percentage of a bank's pre-tax profits. There was a change in accounting standards between 1997 and 2009. The basal question for the court was whether the calculation was to be made on the old or current method of determining pre-tax profits. 
+The Court ruled that the parties, when making the original covenant, could not have had in contemplation the change in accounting procedures which would alter the way in which pre-tax profits were to be calculated. Thus the old method continued to apply.
+When I read this case in the ordinary course of reading law reports when they issue, I asked my Associate to inform both parties that I thought the case may be significant and asked for submissions on it if the parties wished to make them. Both sets of counsel made further submissions.
+The submissions were predictable. The plaintiff put that the decision favoured its submissions, as the defendant in the instant case was seeking to gain a windfall as a result of changed accounting procedures. The defendant put that the case is distinguishable.
+In my view, it reinforces my view that, when adjustments are to be made to accounts, then, at least in the absence of special factors, one does not take into account change of accounting procedures where it is unlikely that such changes were in the parties' contemplation when they entered into their deed or contract.
+
+What questions of fact need to be decided before considering the accounting issues? 
+The plaintiff's theory is that the defendant deliberately slowed down production in June 2012. The defendant says that actually more buses were finished than anticipated, but it admits that the normal flow of work was slowed down because of the lack of the supply of the appropriate parts to complete the manufacture of the bus bodies.
+In paragraph 17 of the Defence, the defendant pleads that the plaintiff represented in an information memorandum dated December 2011 that: it was budgeting for the production of 295 buses in FY 12, 340 in FY 13 and 390 in FY 14; that Custom Coaches' forecast EBITDA for FY 12 was $5,290,530; and that there were no problems with receiving supply of parts.
+The pleading continued with modifications of those predictions in March and April 2012. The purpose of this pleading appears to be to put the alleged misrepresentations by the defendant in context. Because I have dealt with that issue favourably to the defendant under heading (6) below, it is unnecessary to consider this part of the pleadings further, but I thought it needed to be stated for other parts of the case.
+I should first note what the company was doing in and about its bus body building.
+The chassis would be manufactured by Volvo or Scania, etc. and delivered to the company's premises. The company then had to erect a body complete with seats and lighting and often air conditioning as well. The method of production was to create "slots" on its production line. With the company working at full capacity, each slot on the line would be filled. In less busy times, most or some of the slots would be filled.
+A bus chassis entered the line in its slot and progressed from stage to stage until it finally emerged as a completed bus, which could be driven away by its owner.
+However, as sometimes occurred, a bus would be taken off line and put on the side whilst it waited for some essential component. 
+Mr McAdam, who is a senior officer of the defendant's parent, and who was in NSW in June/July 2012 overseeing the local operations, opined that the production schedules for completion of buses compiled by the previous management and provided to PricewaterhouseCoopers in April 2012 were impossible to meet. 
+It was put to Mr McAdam during the hearing that the defendant had inserted five blank slots in the NSW production line and that this had delayed production.
+Mr McAdam would not accept that the defendant's actions or inaction was the cause of the vacated slots or delays in the planned delivery process. For one thing, the average time for completion of a bus according to the old regime's activities was 15 weeks, yet the production schedule set a much shorter time.
+Furthermore, there is clear evidence that the business was at the time experiencing severe shortages of components. Mr Bale, who had been working in the business since 1999 and who gave evidence for the defendant, deposed to there being insufficient modesty frames, insufficient material to install onboard computers, shortages of steel frame component parts, and shortages of seats. 
+Other evidence suggests that the reason for at least some of these problems was the slow payment of suppliers by the plaintiff.
+Mr Bale says that these shortages slowed the pulse rate of the production line. "Pulse rate" refers to the rate at which vehicles move along the production line. He says that the pulse rate slowed from a 3-day pulse producing 3.33 vehicles per week to a 3.5-day pulse producing 2.85 vehicles per week. However, this only refers to the panel stages of the production line. The pulse rate throughout the paint shop and finishing stages remained constant.
+Mr Bale further says that the slowing down of the pulse rate in the panel stages allowed labour to be reallocated, and this, together with increased overtime, meant that 30 buses were shipped out in June, which was higher than any other month in FY 12. Other witnesses say 34 or 27 buses were delivered in June, but the general point remains valid.
+It would seem that part of the work done was to attend to some of the buses that had been taken out of the production line because of a special problem.
+I accept Mr Bale's evidence. I thus do not accept that there was a slow down in production in June 2012.
+
+What accounting issues arise?
+I now pass to the accounting issues. Mr Potter says that there is not enough information to assess whether or not some of the adjustments made are properly made. On the other hand, Mr Gyles submits that the onus of showing error is on the plaintiff.
+I do not need to rule on the question of onus. In the event, the plaintiff has given notice of dispute and the expert to be appointed under cl 9 will need to determine the dispute.
+I will now consider the six accounting issues at the heart of the proceedings. To recap, the trial balance of Net Working Capital as of 6 June 2012 was recorded as $7,488,680. A series of relatively insignificant period end adjustments were made so as to reduce this figure to $7,167,508 for FY 12. The defendants then made a series of other adjustments, which had the effect of reducing the Net Working Capital recorded in the Draft Completion Accounts by $ 4,567,140. These included: 
+A reduction in WIP revenue, decreasing the amount of trade and other receivables by $ 2, 930, 445; 
+Related to the above, an offset to WIP reduction for cost, increasing the inventory amount by $ 1, 115, 264; 
+A write-down of slow moving stock, decreasing the inventory amount by $ 1, , 777; 
+An increase to trade and other payables of $ 523, 360; 
+An increase to prepaid income of $ 184, 747; and 
+An increase in warranty provision of $ 487, 075.
+
+Raw materials inventory adjustment - obsolete stock
+A very significant adjustment was made in respect of alleged obsolete stock.
+Mr Newman Emanouel is a certified practising accountant and was employed by Custom Coaches (Sales) Pty Ltd in the role of Finance Director from 7 June 2012 to 31 October 2012. He notes in his affidavit of 8 April 2013 (paragraph 27) that the stock obsolescence policy applied by Custom Coaches in the 2009, 2010 and 2011 financial years included a standard provision of $200,000 for obsolete stock. At paragraph 28, he says that: [F]ollowing the 2012 stocktake it became apparent that this policy was not an accurate reflection of the actual amount of obsolete stock at each of Custom
+Coaches premises. It did not segment stock to a level where it could be identified and valued according to the uses which could be made of it.
+Accordingly, it failed to account for damaged and slow moving stock that had little or no realisable value.
+Similarly, Mr Stewart made the following comments in response to cross-examination by Mr Cotman [D2:163, 43-48]: 
+Q. And then you sought to determine whether or not you would classify it as obsolete stock, is that the idea? 
+A. We came up with a number of classifications to try and better categorise and analyse that stock, so we could make sense, because it was a huge list of stock. So we were trying to categorise it into broad categories that we could effectively work with.
+Accordingly, after the June stocktake, Mr Emanouel and Mr Michael Farrell, employed by Custom Coaches as warehouse managers since 1998, determined that there was $2,204,213 worth of stock that was either damaged or slow moving (see the affidavit of Mr Emanouel at paragraphs 30 and 31). They reclassified this stock into six categories:
+Weathered - being items that had been exposed to the elements for a period of time;
+Scrap - items with no residual value;
+Salvage - items which could be recycled and/or sold as scrap;
+Spare parts - old model stock greater than 5 years but with no movement for 18 months;
+Production parts - stock which could be used in the production process; and
+Return - stock which it might have been possible to return to the supplier.
+Slow moving stock had not been classified in this fashion under the policies as applied by Custom Coaches in the financial years prior to 2012. However, Mr Farrell asserts (in his affidavit of 8 April 2013 at paragraphs 18 and 19) that two of the categories had appeared in previous stocktake reports albeit under a different name: "weathered" stock was previously recorded to as "backyard" stock and "return" stock was previously recorded as "supplier by value" stock. 
+After reclassifying the slow moving stock, Mr Emanouel and Mr Farrell then determined that the stock should be written down. A percentage of retained value was determined in advance in relation to each category of stock, and applied in a blanket fashion to all the stock in that category. Each category was written down as follows:
+Weathered - written down by 90%
+Scrap - written down by 100%;
+Salvage - written down by 75%;
+Spare parts - written down by 50%;
+Production parts - not written down; and
+Return - written down by 50%.
+In all, of the $2.2M worth of slow-moving stock, only $647,437 of retained value was recorded. A provision of $1,556,776 was raised against the remainder, and deducted from the inventory component of the Net Working Capital Amount.
+It seems relatively clear that the way stock was viewed by those assessing it in July 2012 was different from the way it had historically been dealt with under the old Custom Coaches regime. This is so as there is no other way that such a large mark down can be explained.
+Under Part A of Schedule 8, the exercise was to be conducted in accordance with the practice and policies of the company as existing at the date of the Deed. 
+The circumstances which pertained in this company meant that stock had to be kept to meet warranty claims on older buses. The experience of administering a business with these sort of possible historic claims may well dictate a different method of dealing with old stock than that prevailing in other industries.
+The evidence of Mr Emanouel and Mr Farrell shows that there was a complete review and reclassification of stock with the result of a very significant write down. This is not within the principles and policies referred to in Schedule 8.
+
+Work in progress revenue recognition 
+The defendant accounted for WIP revenue in a manner that reduced the Net Work Capital Amount by approximately $3M, which was partially offset by $1,115,264 attributable to an offset to WIP reduction for cost. The evidence of Mr Emanouel, Mr Stewart and Mr Stuart Rae, the defendant's Head of Finance at Falkirk, shows how this reduction came about.
+Mr Emanouel gave evidence that WIP referred to the value of work on buses on the production line. In order to value the work, an average percentage was allocated to each stage of the production line that recognised the sales value of each bus on the production line (the "WIP revenue percentage") and the corresponding value of the materials used at each of these stages ("the WIP materials percentage"), as a proportion of the total value of the contract for a completed bus.
+The defendant says that the method of accounting for WIP changed materially between June 2011 and May 2012. This would appear to be the case.
+Mr Rae in his affidavit of 8 April 2013, at paragraphs 19 to 25, says that he reviewed these WIP accounting percentages in July 2012. He discovered that the WIP revenue percentage and the WIP materials percentage had been increased in August 2011, November 2011 and again in February 2012. The changes were such that, whereas on 30 June 2011 24.1 per cent of WIP revenue was recognised at the initial stage of production, by February 2012 this had increased to 49.7 per cent of WIP revenue. Similarly, the recognition of WIP materials at the initial stage of production had increased from 29.9 per cent to 49.7 per cent over the same period. 
+Mr Rae compared the material that had been received or issued for jobs on the production line week-by-week between 30 June 2011 and 2 May 2011. He did not discover "any material change in the values or the timing of the process that would justify the changes to the WIP Profit recognition" outlined above (at paragraph 26). 
+Mr Emanouel, Mr Rae and Mr Stewart all say they asked Mr Paul Burgess about these matters. The only explanation received was that the production process had been changed during the year so that the air conditioning unit went into the body at an earlier stage, thus requiring its value and its cost to be recognised earlier. Mr Daniel Bale, the operations manager of Custom Coaches, confirms that this change to the process of production took place (see his affidavit of 8 April 2013, paragraphs 11 to 18). As Mr Emanouel says in his affidavit, this would account for a single change to the percentages, but not several. Mr Bale's evidence was that there were no material changes to the production line between June 2011 and May 2012 that explained the multiple changes made to the WIP accounting percentages.
+Mr Rae says at paragraph 31 of his affidavit: 
+I did not receive what I considered to be an adequate explanation from Paul
+Burgess or any other representative from Burabs to justify the various changes to the WIP Profit Recognition referred to above.
+Mr Stewart was of the opinion that the changes had the effect of "accelerat[ing] the earnings" associated with WIP by close to $ 1.5M (see his affidavit of 8 April 2013 at paragraph 33). In cross-examination, he appeared to suggest that the adjustment to WIP revenue recognition in the Completion Accounts made in order to correct this acceleration. He said (at [D2:136, 28-41]): 
+Q. So the one and a half million relates to that amount of profit recognition occurring in the 2012 financial year, is that right, in relation to the buses in the course of construction as of the cut-off date? 
+A. The one and a half million relates to our assessment of the impact of accelerating the percentage completions. That was the impact of that.
+
+Q. Yes, but in relation to buses which were part complete as at the accounting date? 
+A. That was based on taking a standard vehicle, applying the percentages under
+Mr Burgess's [sic] calculation compared to the ones that were in the FY11 statutory accounts, to compare the two of them and see the impact of changing those percentages, which we believed at this point had no substance to it, had the impact of accelerating earnings and improving the earnings by one and a half million in the year.
+Not satisfied that there was any legitimate explanation for the changes to the WIP accounting percentages between 30 June 2011 and February 2012, the defendant reverted to the percentages as applied on 30 June 2011 in preparing the Draft Completion Accounts (see paragraph 26 of Mr Emanouel's affidavit). The net effect of the adjustments relating to WIP on the Net Working Capital Amount was a decrease of $ 1,815,181.
+In my view, the defendant had had due diligence performed by a leading form of chartered accountants. There is nothing to suggest that those accountants did not do their job in a competent manner. One would have thought that changes in the way key items were costed would have been a matter of major concern, yet it would appear that the present so-called key matter was not raised. 
+It seems to me that for most purposes this matter is only of marginal significance. When a bus is completed within the same financial year as its body is commenced, how its value is assessed whilst it is being constructed appears to me to be of no moment.
+I must say that the accountants' approach for valuing WIP seems at odds with the way in which a court would approach the matter. If I have a bus that has completed 5 stages of a 24-stage process, I would have thought that one first asks whether it is marketable as an unfinished product, and, if so, how much would an arm's length purchaser pay for it. Alternatively, one would take the contract price for completion of the whole bus, ask how much would it cost to complete the construction of the bus, and deduct that sum from the contract price. However, all the accountants decried both methods and opined that accounting standards meant that one used a formula depending on the stage the bus had reached on the production line.
+It is alleged that the plaintiff made misleading statements as to WIP. The answer to this question is "no". However, there is no doubt that during FY 12, there was an alteration in the way WIP was taken into account. This change had the effect that more value was attributed to the bus shell at an early stage of the production than had formerly been the case. 
+The books were open to the due diligence inspectors showing this change. It is understandable that the defendant was unhappy about it and did not appreciate that it had occurred until after completion. It is also hard to see how the air-conditioning being brought forward in the process could account for the adjustment. However, there was no actual representation.
+In the light of other findings, I think I should leave the discussion at this point for the expert valuers to make the assessment as to the proper adjustment.
+However, as Mr Cotman points out, the critical issue is whether the Draft Completion Accounts were prepared under the principles and policies of Schedule 8. That requires the standard under which they were prepared to be the standard applied in the statutory accounts of Custom Coaches Sales, presumably those accounts as at April-June 2012.
+Whether the defendant appreciated the way those accounts were kept and whether or not it agreed with the way they were kept, the standard was laid down and entrenched in Schedule 8. In adopting a different approach to work in progress the Draft Completion Accounts did not comply with Schedule 8.
+
+Warranty provision increase
+As indicated above, Custom Coaches issued warranties over buses that were manufactured many years ago. Those warranties require the retention of spare parts.
+In the Draft Completion Accounts, there was an increase in the warranty provision that resulted in a decrease in the Net Working Capital Amount of $ 487, 075. Mr Rae gave evidence as to how that adjustment came about, in his affidavit at paragraphs 39 to 44.
+In August 2012, Mr Rae directed a Richard Jackson (ADL General Manager UK & European Parts Sales) to compare the warranty provisions and actual warranty expenditures for Custom Coaches in the financial years from 2007 to 2011 inclusive. The review indicated the following values for those years:
+Mr Rae says in his affidavit: 
+From these figures I concluded that while the reduction in the actual warranty expenditure in FY2008 may have justified a reduction in the warranty provision for that financial year, in the subsequent financial years warranty expenditure increased to levels similar to FY 2007, that is above $1, 000, .
+As a result, the defendant increased the warranty provision to $717,075. The $487,075 decrease to the Net Working Capital Amount represents the difference between Custom Coaches' original warranty provision ($230,000), and the provision calculated by the defendant. 
+Trade and other receivables
+There does not appear to be any problem here other than the valuation of WIP, which I have considered above.
+
+Trade and other payables 
+The initial trial balance for trade and other payables was $ 11, 480, 600. This sum was increased by $ 805, 403 for period end adjustments, which are detailed in the affidavit of Mr Emanouel at p 121 of the Court Book. Mr Cotman says that it is difficult to see how at least some of the adjustments could be made. Some appear to be merely the opinion of different accountants as to whether an item should be classed as capital or income, and perhaps there has been some double counting. The defendant then made a further adjustment of $ 523, 360, comprised of two payments that were recorded as: 
+Payment made on behalf of CCH $ 220,000 
+Audit adjustment 09/10 GST Management Fees $ 303, 360
+The reason for this adjustment is somewhat unclear. It appears from the letter of 31 August (at p 1266 of the Court Book) that the defendant could not determine the subject matter to which these payments related and concluded that they were not related to working capital. Accordingly, it was taken off the Net Working Capital. 
+Prepaid income
+The only adjustment here appears to be in respect of a deposit by Transfield on two buses which had since been delivered and fully paid.
+No final conclusion on the accounting issues can be reached on the materials in evidence. However, what has been said above will doubtless be of guidance to those who have to evaluate the accounts.
+
+Third Ultimate Issue: should the disputes be dealt with under the dispute resolution procedures in the Deed?
+The Third Ultimate Issue has really been resolved by what I have said with respect to the First and Second Ultimate Issues. Despite the breach of clause 9.2, there is no reason why the expert determination of the accounting issues should not proceed.
+
+Fourth Ultimate Issue: were there false or misleading conduct or representations by the defendant? 
+I now pass to the Fourth Ultimate Issue, being the respective allegations that the other party was involved in misleading or deceptive conduct and the making of false and misleading representations.
+Dealing first with the plaintiff's case, I have set out the allegations and defence in paragraph 11 of the Amended Statement of Claim.
+Mark Burgess in his affidavit of 20 February 2013 sets out his version of the relevant conversation with Colin Robertson: [6] In the week commencing 21 May 2012, I had a telephone conversation with
+Colin Robertson, which included words to the following effect: 
+Robertson: Mark, one of our shareholders, Angus Grosshart, wants an extra one million dollars taken out of the initial consideration and put into the earn out. As you know, we are welded at the hip with you in terms of your earn out and our earnings. We will go hell for leather to get you that number and we want to get you that number, as we need it as well.
+
+Burgess: Colin, that is pretty disappointing, because we had a done deal last week at $ 27, 500, 000.
+
+Robertson: Look, I am embarrassed and a bit humiliated, but that is what I've been asked to do.
+
+Burgess: Ok, I will go and have a talk to the other guys and get back to you with our position.
+ [7] Either later that day or the following day, I had a further telephone conversation with Colin Robertson, in words to the following effect: 
+Burgess: Ok Colin, we are not happy about it but we are prepared to agree to a reduction in the initial purchase price on the basis of an increase in the earn out and on the basis that you go for it.
+
+Robertson: Ok. Thanks. We need to hit the EBIT number in the plan and we want to pay you the earn out. We need to achieve an EBIT multiple of not more than six to keep Brian Souter happy. He only buys on a maximum multiple of six. We can also do some fine tuning in other areas, like some additional payments by consulting agreements and I will absorb another $200,000 in the redundancy arrangements.
+Mr Burgess says that, had it not been for that statement, he would not have proceeded with the deal.
+Mr Robertson's affidavit says that he does not take issue with the substance of what Mr Burgess says in paragraph 6. However, he doubts (at paragraph 29) that he (Robertson) would have used the expression "welded at the hip with you in terms of your earn out" or "we will go hell for leather to get you that number".
+I must confess that I find it difficult to find, from the conversation deposed to by Mr Burgess, and taking into account the surrounding circumstances, the representation detailed in paragraph 11 of the Statement of Claim. Whilst there was the general flavour that Mr Robertson was in favour of paying the plaintiff more, he was bound by his Board. Although one might infer that he would co-operate to ensure that the defendant performed efficiently, I found it difficult to see how it could be said that he represented that the Custom Coaches Group would be put in a position where it would achieve as high an EBITDA as possible.
+However, the defendant's submissions not only accept that this is a fair assessment of the conversation, but that that indeed was what the defendant intended. Moreover, it says that it actually did maximise the EBITDA by completing more buses in June 2012 than reasonably expected. Thus the representation was true. Furthermore, it says that there was no evidence of reliance on the representation. 
+These submissions should be accepted. It is relatively clear that Alexander Dennis Group was in the position where it could dictate terms. It was a far bigger concern than the plaintiff and was directed by experienced business people. On the other hand, the Custom Coaches Group appears to be debt ridden and it had difficulty paying its suppliers on time. I find it difficult to accept that it would have walked away from this deal if no representation had been made. 
+Indeed, other sweeteners were added to make the deal even with the reduced initial price still an attractive one. 
+In any event, I agree with the submissions of Mr Gyles SC that, even if I had found the defendant liable on the representation, the consequence would not be to compensate the plaintiff by one million dollars.
+
+Fifth Ultimate Issue: the consultancy deeds and questions of set-off
+The issue with the Consultancy Agreements can be quickly dealt with. There is no question that $204,600 claimed is due subject to the question of set-off which I will now consider.
+The defendant says that there is a close connection between the Deed and the Consultancy Agreements and it is entitled to much more than $204,600 under the Deed and that the plaintiff's breaches of the Deed which is preventing it from obtaining what was due to it impeach the plaintiff's title to the $204,600.
+We are here dealing with equitable set-off. It is insufficient to gain equitable set-off that there are cross demands; what needs to be established is that some good equitable ground operates to impeach the opponent's title to assert its cross-demand, Rawson versus Samuel [(1841) Cr & Ph 161] strongly suggests that equitable set-off ordinarily will lie where the respective demands arise out of the same set of contracts and are closely related to each other: see Derham on the Law of Set-off (4th ed, 2010) Oxford University Press at [4.22] and following. 
+In my view, even without adjudicating on the matter of the plaintiff's alleged breaches, the case is one where there should be equitable set-off. The outstanding question is whether the defendant has shown a liability to it exceeding $204,600.
+
+Minor issues 
+Was there a faulty stocktake?
+The plaintiff claims a breach of cl 9.1 of the Deed, which provided for a stocktake to take place immediately after 30 June 2012 at which it was entitled to have two representatives present. The stocktake was held, but the plaintiff did not have representatives present, nor were representatives of the auditors present.
+The defendant seeks to excuse this by saying that, from what it was told, the auditors passed up the opportunity to be present. I do not consider the excuses are sufficient. This would appear to be a breach of the deed which may have led to other problems occurring, but it does not affect the result of this case. 
+What corporate knowledge can be imputed from the knowledge of one officer?
+As to corporate knowledge, some time was spent in submissions as to what knowledge should be imputed to the defendant. However, in the end result, this is not a matter that needs determination.
+
+Reasons for rejecting part of the affidavit of Mr M G Stewart
+Mr Stewart is the Group Finance Director of the defendant's parent company in Scotland. In paragraph 14 he sought to give evidence of a conversation between himself, Mr Robertson and three major shareholders in which the reduction in price of $1M was discussed. I rejected the material as an internal conversation in the defendant's camp which was unlikely to have any bearing on the alleged misrepresentation. A fortiori was this so when the representation was not only admitted but said to be true.
+Mr Gyles courteously but strenuously complained about this ruling and insisted on reasons, which I said I would give in my final judgment. 
+I basically said at the time (see T 20) that the matter was irrelevant. Mr Gyles said, "There is a counter factual case which my learned friend's misleading and deceptive conduct case proceeds on the basis that he says" that the transaction would not have gone ahead but for the representation. I still cannot see how the internal conversation touches on that issue. In any event, as things have turned out, the non-admission of the evidence had no bearing whatsoever on the outcome of the case.
+
+The result of the case
+What then, is the result?
+From what I have said, the plaintiff's case fails insofar as it seeks to restrain the defendant from proceeding with the re-examination of its Draft Completion Accounts under the process for an expert decision under the Deed.
+As mentioned earlier, I cannot see any point in making any declarations. The parties have these reasons, which should be sufficient guidance to the experts.
+As to costs, the plaintiff has failed in the result, and I think it would be hard for it to resist some order for costs. However, at present, I have in mind that the plaintiff has had fair success in some vital matters such as the matter that the Draft Completion Accounts did not comply with Schedule 8 of the Deed. In light of the significant issues on which the defendant has failed, the costs should be greatly discounted.
+Probably the proceedings should be dismissed. There may be some value in keeping them on foot to deal with any further problems that arise from the expert determination. The problem with doing this, however, is that there would not be a final determination permitting an appeal as of right. 
+Having delivered these reasons, I will merely stand the matter over to a date convenient to the parties to consider the formal short minutes, which the defendant should bring in.
+I should add that my current schedule has me sitting mostly in Equity until 30 August 2013 and then again from 28 October 2013 to the end of term.
+ * * * 

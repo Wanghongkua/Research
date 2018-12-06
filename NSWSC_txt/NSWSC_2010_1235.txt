@@ -1,0 +1,1104 @@
+
+
+RIL Aviation HL 7740 and HL 7741 Pty Ltd versus Alliance & Leicester plc & Ors [2010] NSWSC 1235 (29 October 2010) 
+Last Updated: 1 November 2010 
+NEW SOUTH WALES SUPREME COURT  
+CITATION: 
+RIL Aviation HL 7740 and HL 7741 Pty Ltd versus Alliance & Leicester plc &
+Ors <case>  
+JURISDICTION: 
+Equity Division  
+FILE NUMBER(S):  /143563  
+HEARING DATE(S):  , 23, 26 and 27 July 2010; written submissions 3 August 2010  
+JUDGMENT DATE:  October 2010  
+PARTIES: 
+RIL Aviation HL 7740 and HL 7741 Pty Limited (Plaintiff) 
+Alliance & Leicester plc (First Defendant) 
+Allco JS Pty Limited (Second Defendant) 
+Ladbroke Management Pty Limited (Third Defendant)  
+JUDGMENT OF: 
+Bergin CJ in Eq  
+LOWER COURT JURISDICTION: 
+Not Applicable  
+LOWER COURT FILE NUMBER(S): 
+Not Applicable  
+LOWER COURT JUDICIAL OFFICER: 
+Not Applicable  
+COUNSEL: 
+DR Pritchard SC / AP Coleman SC (Plaintiff) 
+AJ Bannon SC / RM Foreman (Defendants)  
+SOLICITORS: 
+DibbsBarker (Plaintiff) 
+Watson Mangioni Lawyers Pty Ltd (Defendants)  
+CATCHWORDS: 
+COMMERCIAL CONTRACTS - complex suite of agreements in relation to financing of commercial aircraft - construction of clause for payment of manager - whether replacement manager is a "substitute" - whether events of default have occurred - whether plaintiff has attempted to deal with Secured Property  
+LEGISLATION CITED:  
+CASES CITED: 
+Agnew versus Commissioner of Inland Revenue <case>; <case>; <case>; <case>; <case>; <case>; <case>; [(2008) 250 ALR 24] 
+Toll (FGCT) Pty Limited versus Alphapharm Pty Ltd (2004) 219 CLR 165  
+TEXTS CITED:  
+DECISION: 
+The plaintiff is obliged to pay the third defendant the Monthly Management Fee in the Schedule in the Management Agreement headed "Management Fee Letter".
+The defendants are not entitled to rely on the Notice of Default.  
+JUDGMENT:  - 1 - 
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+EQUITY DIVISION  
+BERGIN CJ in Eq  OCTOBER 2010  /143563 RIL AVIATION HL 7740 AND HL 7741 PTY LTD versus ALLIANCE &
+LEICESTER PLC & ORS 
+JUDGMENT  
+INTRODUCTION These proceedings relate to disputes arising out of the financing and leasing arrangements in respect of the purchase of two Airbus 330-300 commercial passenger aircraft, referred to in the proceedings as aircraft 7740 and aircraft 7741. These arrangements were structured and organised by Allco
+Finance Group Ltd (Allco) or subsidiaries and businesses owned and controlled by Allco that were placed into receivership in 2008 and restructured and/or sold in 2009/2010.
+ The plaintiff, RIL Aviation HL 7740 and HL 7741 Pty Ltd (RILA), is a special purpose company established on 23 June 2005 to facilitate the financing and leasing arrangements of the aircraft. The first defendant, Alliance &
+Leicester plc (A&L), and the second defendant, Allco JS Pty Limited (Allco
+JS) provided secured loans to RILA in connection with the financing and leasing arrangements. The third defendant, Ladbroke Management Pty Limited , was appointed as RILA's Manager in the financing and leasing arrangements after the original Manager's appointment was terminated.
+ The main issue between the parties is whether RILA is obliged to pay
+Ladbroke the monthly fee that was payable to the previous Manager. This issue is to be determined by construing the rather complex suite of commercial agreements and deeds between the parties (and others). The need to determine the other issues between the parties referred to later in this judgement depends upon the outcome of the determination of this central issue.  
+THE SUITE OF AGREEMENTS Although there are separate documents for each aircraft, they each contain substantially the same terms and the parties have agreed that the controversy between them can be resolved by reference to documentation in relation to aircraft 7740 (the Aircraft). Although the financing and leasing arrangements in respect of the Aircraft are complex the parties have distilled the effect of the deeds and agreements, describing the basic structure and the funding arrangements in short narrative form so that it will only be necessary to refer to the detail of the provisions of the deeds and agreements that affect the controversy between the parties.  
+Basic Structure On 27 August 1996 Asiana Airlines Inc (Asiana), an airline operator in South
+Korea, entered into an Aircraft Purchase Agreement with Airbus SA (Airbus) for the purchase of the Aircraft. The Aircraft Purchase Agreement obliged Airbus to manufacture and deliver the Aircraft to Asiana. On 13 July 2005 Asiana assigned the Aircraft Purchase Agreement to MARS ECA Finance Limited (ECA).
+ECA purchased the Aircraft from Airbus for $100,654,715 in accordance with the
+Purchase Agreement Assignment. ECA leased the Aircraft to Allco Aviation A330 Limited (Allco Aviation) in accordance with the Master Head Lease and the
+Head Lease Schedule. Under the Head Lease Schedule Allco Aviation pays rent of $908,670 each month to ECA.
+ Allco Aviation has in turn sub-leased the Aircraft to Asiana in accordance with the Master Operating Lease and the Master Operating Lease Schedule. Under the Master Operating Lease Schedule, Asiana pays rent of $908,870 each month to Allco Aviation. The flow of payments in relation to the monthly rents are therefore the payment of $908,870 by Asiana to Allco Aviation and the payment of $908,670 by Allco Aviation to ECA.
+ 
+Funding of Purchase ECA funded the purchase of the Aircraft as to $88,179,183.81($88 million), from various lenders pursuant to the terms of an Export Credit Loan Agreement and as to $15,644,699.10 ($15 million), from RILA pursuant to the terms of the
+Instalment Sale Deed. ECA is obliged to make monthly repayments in respect of those two loans: (1) $789,892.31 per month in relation to the Export Credit
+Loan Agreement; and (2) $118,777.69 per month in relation to the RILA
+Instalment Sale Deed.  
+Funding of RILA Instalment Sale Deed RILA funded the $15 million under the RILA Instalment Sale Deed by the LC
+Loan Agreement (A&L is the LC Lender) and the Asset Loan Agreement (Allco
+JS is the Asset Financier). Under the LC Loan Agreement RILA is obliged to make monthly repayments in accordance with clause 3.8 and Schedule 5 which for the month of April 2010, was an amount of $25,203.32. RILA is obliged to make monthly repayments under the Asset Loan Agreement in accordance with clause .1, 3.2 and Schedule 3 which for the month of April 2010 was an amount of $14,529.36. RILA is also obliged to make a payment to the Manager pursuant to clause 8.10 of the RILA Financing Deed and the Schedule of the Management Fee
+Letter which for the month of April 2010 was $79,045.
+ RILA was therefore obliged to pay for the month of April 2010: $25,203.32 (under the LC Loan Agreement); $14,529.36 (under the Asset Loan Agreement); and $79,045 (Manager's fee); totalling $118,777.69. The following flow chart depicts the arrangements:  [&lt;img src="/scjudgments/2010nswsc.nsf/files/2010NSWSC1235.jpg/$file/2010NSWSC1235.jpg" alt="Example of financial flows"&gt;]  The transactions and Transaction Documents on the left hand side of the chart in respect of the flow of the $118,777.69 amount relate to RILA's funding and loan arrangements in respect of the $15 million. The transactions and the Transaction Documents referred to on the right hand side of the chart in respect of the flow of the $789,892.31 amount relate to ECA's Export Credit
+Loan Agreement and arrangements in respect of the $88 million. I will refer to them as the RILA transaction and ECA transaction respectively.
+ 
+RILA Financing Deed The RILA Financing Deed is dated 12 July 2005. The parties to it are RILA,
+A&L as the Security Trustee, the LC Facility Agent and the LC Lender;
+Allco Managed Investments Limited as Trustee of the Aircraft Holdings Trust (and Allco JS by substitution on 28 July 2007) as Asset Facility Agent; each person defined as an Asset Financer; and AML, as the Manager. "Asset
+Financier" is defined as each person named as such in the Asset Loan
+Agreement, and any person who becomes a financier under that agreement by way of assignment and substitution: cl 26.1. The Asset Financier named in the
+Asset Loan Agreement is AMIL as trustee of the Aircraft Holdings Trust.  The provisions relevant to the change in the Facility Agents and the
+Security Trustee include the following: . Change of Facility Agents or Security Trustee .1 Retirement 
+A Facility Agent may retire by giving RILA and each Relevant Financier at least 30 days' notice of its intention to do so. The Security Trustee may retire by giving each Facility Agent and RILA at last 30 days' notice of its intention to do so and specifying the date it proposes the retirement to take effect.
+ .2 Removal 
+If a Facility Agent or the Security Trustee breaches any material obligation under a Transaction Document and does not correct the breach within a reasonable time, the majority Financiers may: end the appointment of the Facility Agent as agent of the Relevant
+Financier under this deed; or direct a Facility Agent to remove the Security Trustee as trustee under this deed, by giving the Facility Agent at least 30 days' notice (such notice to be copied to the Security Trustee).
+ .3 Permitted successors 
+The successor Facility Agent or Security Trustee may be: a Financier nominated by the Majority Financiers; or in the absence of such a nomination, a reputable and experienced bank or financial institution nominated (in the case of retirement) by the retiring
+Facility Agent or Security Trustee or (in the case of removal) by the Majority
+Financiers.
+
+In addition, the successor Facility Agent must be approved by RILA (which approval may not be delayed or withheld unreasonably).
+ .4 When retirement or removal takes effect 
+The retirement or removal of a Facility Agent or the Security Trustee (as the case may be) takes effect: in each case, when a successor has been appointed; and in the case of the Security Trustee, only when the successor Security
+Trustee has obtained title to, or obtained the benefit of, the Security in its capacity as security trustee; and in each case, when the successor Facility Agent or Security Trustee and each other party to the Transaction Documents have the same rights and obligations among themselves as they would have had if the successor Facility
+Agent or Security Trustee had been party to the Transaction Documents at the dates of those documents. The retiring or removed Facility Agent or Security
+Trustee agrees to sign documents (including a retirement and appointment document) and do anything else necessary or appropriate to give effect to this.
+
+If a successor Security Trustee is not appointed within 30 days after notice of retirement or removal is given, the retiring Security Trustee may appoint a successor.
+
+Everything the retiring Facility Agent or Security Trustee is required to do under this clause is at RILA's expense except that if the
+Facility Agent or the Security Trustee has been removed under clause 6.2 ("Removal"), it is at their own expense.
+ .5 Discharge of further obligations 
+When a successor Facility Agent or Security Trustee is appointed, the retiring Facility Agent or Security Trustee is discharged from any further obligation under the Transaction Documents. This discharge does not prejudice any accrued right or obligation.
+ The Deed records AML as the "Manager" and the provisions relevant to the appointment and removal of the Manager include the following: Manager .1 Appointment 
+RILA: appoints the Manager (which accepts its appointment) as its sole and exclusive manager during the term of this deed in connection with the
+Transaction Documents; authorises the Manager to take the action on its behalf and to exercise the rights, powers and remedies and perform the obligations which are specifically delegated to or conferred on the Manager (whether for itself or for the benefit of a party to this deed) by this deed.
+
+The Manager agrees to exercise the rights, powers, remedies and discretions and perform the obligations which are specifically delegated to or conferred on it in accordance with this deed. The Manager has no obligations except those expressly set out in this deed.
+ .2 Powers and duties of Manager 
+RILA authorises and requires the Manager to: make or cause to be made all calculations and determinations as and when required under the Transaction Documents and to provide to each of the other parties to the Transaction Documents details of any revised, amended or recalculated schedules, figures, sums, amounts or dates; undertake any other administrative or management tasks on behalf of
+RILA or the Lessor as the Manager may agree with those entities; prepare and keep or cause to be prepared and kept all accounting records of RILA; and do all acts and things that are reasonably incidental to the acts set out in this clause 8.2, and to sign or execute all such documents and instruments in connection with those duties as may from time to time be required under the Transaction Documents.
+
+Save that the Manager has no authority to negotiate and conclude any contracts on behalf of RILA without the express consent of the board as described in clause 8.4 ("Make recommendations").
+ .3 Ultimate authority of board 
+The Manager acknowledges that its obligations under this deed are at all times subject to the ultimate power of the board of RILA from time to time to make policy decisions and give directions. The Manager also acknowledges that it has no right to make or participate in the making of policy decisions on behalf of RILA.
+ .4 Make recommendations 
+Without limiting the provisions of this deed, the Manager must make recommendations for approval by the board of RILA in relation to any contract that the Manager considers it ought to conclude on behalf of RILA in the performance of its duties under this deed.
+
+The Manager recognises that the board of RILA has the absolute discretion to refuse to adopt any recommendation made by the Manager pursuant to this clause.
+ .5 Manager's other business 
+The Manager is entitled at all times without any liability to account to
+RILA, to engage in any kind of financial or other business with the Owner, the
+Lessor, RILA, any Financier or any other person, as if it were not the
+Manager.
+ .6 Termination of Manager 
+The Manager may, with the prior written consent of all of the parties to this deed, terminate its appointment.
+ .7 Removal of Manager 
+RILA may remove the Manager from office immediately by notice in writing on the occurrence of any of the following events: the Manager is Insolvent; the Manager breaches its obligations under this deed; or the expiration of 3 months after RILA gives notice to the Manager that it requires the Manager to cease acting as manager under this deed.
+
+The Security Trustee (acting on instructions of the Financiers) may also remove the Manager from office if any of the events in sub paragraphs (i) or (a)(ii) of this clause occur.
+ .8 Liability ceases 
+Following removal of the Manager or termination of the Manager's appointment, but without prejudice to the liability of the Manager for any antecedent breach of its obligations under this deed, the Manager ceases to be a party to this deed and incurs no further liability pursuant to this deed, but will be obliged to deliver to the replacement manager all documents held by the Manager in connection with the Transaction Documents.
+ .9 Replacement Manager 
+Neither the termination of the Manager under clause 8.6 ("Termination of
+Manager") nor the removal of the Manager under clause 8.7 ("Removal of
+Manager") is effective unless and until a replacement Manager has been identified and approved by the Security Trustee and each Facility Agent (acting on the instructions of the Relevant Financiers), and that replacement
+Manager has executed documents reasonably satisfactory to the Security Trustee to become the replacement Manager for the purposes of the Transaction
+Documents.
+ .10 Management Fee 
+In consideration of the Manager entering into this deed RILA agrees to pay the Manager a management fee according to the terms of the Management Fee
+Letter.
+ The "Transaction Documents" in connection with which the Manager is appointed in clause 8.1(a) of the Deed are defined in clause 26.1 as: (a) the
+Financing Documents; and (b) any instrument connected with the Financing
+Documents and which is agreed by the parties to it to be a Transaction
+Document. The "Financing Documents" are defined in clause 26.1: (a) the Loan
+Agreements; (b) the Security; (c) the RILA Financing Deed: (d) the RILA
+Intercreditor Deed; (e) any Collateral Security; and (f) the Establishment Fee letter.
+ The "Management Fee Letter" referred to in clause 8.10 is defined in clause .1 as "the fee letter dated on or about the date of this deed between RILA and the Manager".
+ The Deed also provides: .1 Representations and warranties 
+The representations and warranties made by RILA for the benefit of each
+Finance Party are that: ...
+ (power) it has power to enter into the Transaction Documents to which it is a party and comply with its obligations under them; and ...
+ (Event of Default) no Event of Default or Potential Event of Default continues unremedied; and ...
+ (single business) it has not engaged in, and will not carry on any business (or other activities whether or nature) other than as contemplated in the Transaction Documents and does not and will not have any employees; and (prior liabilities) it has not entered into, and will not enter into, any agreements other than the Transaction Documents to which it is a party.
+ ...
+ .1 General undertakings 
+RILA undertakes: ...
+ (single purpose and liabilities) not to: engage in any business or other activity (whether of a commercial nature or otherwise) other than as contemplated in the Transaction Documents; have any liabilities other than those under the Transaction
+Documents, liability to its shareholders in accordance with its constitution and other liabilities required to maintain its existence or comply with any law relating to companies generally; have any assets other than those under or derived from the
+Transaction Documents and its share capital; have any employees; and enter into any agreements other than: the Transaction Documents or any other transaction or action necessary to fulfil any of the obligations provided for in the Transaction Documents or done in fulfilment of such an obligation; and in connection with any issue of ordinary or preference shares and agreements with those shareholders; ...
+ .2 Compliance with documents 
+RILA must at all times fully comply with, observe and perform all its obligations under the Transaction Documents to which it is a party.
+ ...
+ .8 Further Assurance 
+RILA shall execute and deliver from time to time upon the written request of the Security Trustee, at its own expense, such further instruments and documents and perform such other acts or things as the Security Trustee shall reasonably request to effectuate the purpose of this deed or the
+Security or the transactions hereby or thereby contemplated or to protect the rights of the Finance Parties.
+ Default 
+The Events of Default under the Financing Documents are: (non-payment - Financing Document) RILA does not pay any amount payable by it under any Financing Document (other than for any amount payable under clause 12.3 ("Notice requiring Prepayment") in the manner required under it within 5 Business Days after the relevant Finance Party has notified RILA that the amount has not been paid); (Insolvency) RILA becomes Insolvent; (incorrect representation or warranty) a representation or warranty made by or for RILA in connection with a Transaction Document is found to be incorrect or misleading when made or taken to be made and if capable of remedy, the circumstances giving rise to the representation or warranty being incorrect are not remedied to the satisfaction of the Security Trustee (acting on the instructions of the Financiers) within 14 days of notice by the
+Security Trustee to RILA; ...
+ (special purpose covenants) RILA breaches clause 14.1 (i) ("single purpose and liabilities") of this deed; (negative pledge) RILA breaches clause 4 ("Dealings - such as selling or mortgaging") of the RILA Security Deed, or clause 3 ("Dealings - such as selling or mortgaging") of the Aircraft Mortgage; ...
+ Costs and indemnities .1 What RILA agrees to pay 
+RILA agree to pay or reimburse: the Finance Parties' reasonable Costs in connection with: the negotiation, preparation, execution and registration of, and payment of Taxes on, the Transaction Documents; and being satisfied that conditions to drawdown have been met; and the general on-going administration of the Security (including giving and considering consents, waivers, variations, discharges and releases and producing title documents); and the Finance Parties' and any Receiver's Costs in otherwise acting in connection with the Transaction Documents such as enforcing or preserving rights (or considering doing so), or doing anything in connection with any enquiry by an authority involving RILA or in connection with any consent or approval given under any Transaction Document not requested by a Finance
+Party; and 
+Taxes and fees (including registration fees) and fines and penalties in respect of any fees paid, or that a Finance Party reasonably believes are payable, in connection with the Transaction Documents or a payment or receipt or any other transaction contemplated by the Transaction Documents. However,
+RILA need not pay a fine or penalty in connection with Taxes or fees incurred by a Finance Party to the extent that it has placed that Finance Party, as the case may be, in sufficient cleared funds for the Finance Party to be able to pay the Taxes or fees by the due date.
+
+The Costs include but are not limited to, any administration costs of the Finance Parties or any Receiver in connection with the matters referred to in paragraph (b) above and any legal costs and expenses and any professional consultant's fees in respect of any of the above on a full indemnity basis.
+
+RILA agrees to pay amounts due under this clause on demand from the
+Finance Party concerned.
+ ...
+ Assignment and substitution .1 Assignment by RILA 
+RILA may not assign or otherwise deal with their rights under this deed or a Transaction Document without the consent of each Facility Agent.
+ .2 Assignment by Financiers 
+Each Financier may assign or otherwise deal with its rights under this deed or any Transaction Document without the consent of RILA. The assignee of a Financier must agree with the other Financiers and the Security
+Trustee to be bound by this deed and the RILA Intercreditor Deed.
+ .3 Substitution 
+Without limiting clause 24.2 ("Assignment by Financiers"), if a Financier wants to effect a novation of some or all of its obligations or an assignment of some or all of its rights under the Transaction Documents (including some or all of its rights under any Facility), then that Financier ("Retiring
+Financier") and the other person who proposes to assume the obligations ("Substitute Financier") must enter into a Substitution Agreement. Five counterparts of the Substitution Agreement must be signed by the Retiring
+Financier and the Substitute Financier and given to the Security Trustee on or before the sixth (6th) Business Day before the substitution is to take effect (or such shorter period as agreed by the Security Trustee).
+
+The Security Trustee is irrevocably authorised by all parties to this deed other than the Retiring Financier to: execute the Substitution Agreement on their behalf; and do anything else the Security Trustee considers appropriate to effect the substitution.
+ .4 Role of Security Trustee 
+When the Security Trustee receives a Substitution Agreement under clause .3 ("Substitution"), it agrees to: sign all the counterparts on behalf of all the parties to this deed other than the Retiring Financier; and retain one counterpart and deliver the other counterparts to RILA, the
+Retiring Financier and the Substitute Financier; and notify the other Financiers of the substitution.
+ ...
+ .7 Further steps 
+At the request of the Financiers and at the Financiers' cost, RILA must execute any documents or any Transaction Documents to effect any transfer, assignment or substitution under this clause.
+ ...
+ .2 References to certain general terms 
+Unless the contrary intention appears, a reference in a Transaction
+Document to: ...
+ a particular person includes a reference to a person's executors, administrators, successors, substitutes (including persons taking by novation) and assigns; 
+Proceeds and Intercreditor Agreement The Proceeds and Intercreditor Agreement dated 12 July 2005 refers to the "RILA debt" as the amounts set out in the schedule to that Agreement together with all other amounts due and owing to RILA under the Transaction Documents.
+The figure in the schedule to this Agreement is the amount of $118,777.69. The
+Security Trustee is obliged to pay this amount to RILA: clause 5.1(c).
+ The Lessor, Allco Aviation, appointed AML as the Manager under this
+Agreement, the provisions of which include the following:  Manager .1 Appointment 
+The Lessor has: appointed the Manager to be its sole and exclusive manager in connection with the Transaction Documents to take action on its behalf and to exercise the rights, powers and remedies and perform the obligations which are specifically delegated to or conferred on the Manager under the Management
+Agreement.
+ the Lessor shall not be relieved of any obligation or liability under the Transaction Document by reason of any action taken by the Manager on its behalf and shall remain responsible for procuring observance of and compliance with all its obligations under the Transaction Documents; and the Manager agrees not to exercise any rights, powers, remedies and discretions nor perform any obligations which are specifically delegated to or conferred on it in accordance with the Management Agreement which are or may be inconsistent with or in breach of any obligations of the Lessor under the
+Transaction Documents.
+ .2 Removal of Manager 
+The Manager shall cease to act as manager immediately by notice in writing from the Security Trustee following the occurrence of any of the following events: an Event of Default referred to in Clauses 18.5 (Insolvency), 18.6 (Insolvency proceedings), 18.7 (Creditor's process) and 18.8 (Cessation of
+Business) of the ECA Loan Agreement occurs in relation to the Manager or if references in those clauses to "Borrower" were to the Manager; or the Manager breaches its obligations under this Deed.  The expression "Management Agreement" in clause 15.1(a) is not defined. The "Transaction Documents" are defined in clause 1.1 as the Instalment Sale Deed; the Finance Documents; the Operative Documents; and "any instrument connected with" those documents and deed and which is agreed by the parties to be a
+Transaction Document.  
+Management Agreement - 13 July 2005 A letter headed "Asiana A330-300 Management Letter" dated 13 July 2005 from
+RILA to AML includes the following: 
+Acquisition and leasing arrangements for Airbus 330-300 aircraft MSN HL and HL 7741 ("the Aircraft"): Management Agreement 
+RIL Aviation HL 7740 and HL 7741 Pty Limited ("RILA") and Allco
+Aviation A330 2005 Ltd ("Lessor") (together, the "Companies" and each a "Company") have requested Allco Management Limited ("Manager") to provide management services in connection with the proposed acquisition and lease arrangements involving the Aircraft.
+ 
+The Lessor enters into this agreement as lessor of the Aircraft and RILA enters into this agreement as future purchaser of the Aircraft.
+ 
+This agreement sets out the terms of the appointment of the Manager.
+ Appointment 
+Each Company: appoints the Manager (which accepts its appointment) as its sole and exclusive manager during the term of this agreement in connection with the
+Transaction Documents; authorises the Manager to take the action on its behalf and to exercise the rights, powers and remedies and perform the obligations which are specifically delegated to or conferred on the Manager (whether for itself or for the Company's benefit) by this agreement.
+
+The Manager agrees to exercise the rights, powers, remedies and discretions and perform the obligations which are specifically delegated to or conferred on it in accordance with this agreement. The Manager has no obligations except those expressly set out in this agreement.
+ Consideration 
+The Manager acknowledges that it has received good consideration from the Companies in return for the Manager accepting its appointment, and performing its obligations, under this agreement.
+
+In addition RILA agrees to: pay the Manager on each date shown in Column 1 of the attached Schedule, the corresponding amount shown in Column 2 of the attached Schedule; and in the event of the payment of a Casualty Value, pay the Manager the amount set out in Column 3 of the attached Schedule for the date on which the
+Casualty Value is due (or if a lesser amount is actually received by RILA in respect of that Casualty Value, that lesser amount).
+
+The Manager agrees to pay all of the establishment fees incurred by
+RILA in relation to the Transaction Documents or Operative Documents.
+ Companies' Directions 
+Subject to the provisions of this agreement, the Manager agrees to act in accordance with the relevant Company's directions in exercising its rights, powers and discretions under this agreement.
+ ...
+ RILA - Powers and duties of Manager 
+RILA authorises and requires the Manager (at the Manager's cost) during the term of its appointment to: ...
+ prepare and serve notices, demands or other documents under the
+Transaction Documents on RILA's behalf in the time and in the manner required by the Transaction Documents; collect, hold, co-ordinate, supervise, apply and disburse on behalf of
+RILA all receipts and payments to or by RILA under the Transaction Documents; perform all RILA's other obligations under the Transaction Documents; and do all acts and things that are reasonably incidental to the acts set out in this paragraph 5, and to sign or execute all such documents and instruments in connection with those duties as may from time to time be required under the Transaction Documents.
+ Companies - Powers and duties of Manager 
+Each Company authorises and require the Manager (at the Manager's cost) during the term of its appointment to: ...
+ provide to the Security Trustee promptly from time to time such information, documents, records, reports or other information relating to the
+Operating Lease in the possession of the Manager, as requested by the Security
+Trustee; ...
+ undertake any management or administrative tasks on behalf of a Company or undertake any other action or service as agreed with relevant Company or
+Companies from time to time.
+ Manager's other business 
+The Manager is entitled at all times without any liability to account to the Companies, to engage in any kind of financial or other business with the
+Lessee or any other person, as if it were not the Manager Termination of Manager 
+The Manager may, with the prior written consent of all of the Companies, terminate its appointment.
+ Removal of Manager 
+The Companies may remove the Manager on the occurrence of any of the following events: ...
+ the Manager breaches its obligations under this agreement; ...
+
+The Companies may also, in their absolute discretion, remove the Manager at any time by providing written notice to the Manager, signed by each
+Company.
+ Liability ceases 
+Following removal of the Manager or termination of the Manager's appointment, but without prejudice to: the liability of the Manager for any antecedent breach of its obligations under this agreement; and the provisions of paragraph 12, the Manager ceases to be a party to this agreement and incurs no further liability pursuant to this agreement, but will be obliged to deliver to the relevant Company all documents held by the Manager in connection with the Transaction Documents.
+ Manager to execute documents, re-assign consideration 
+The Manager at its own cost agrees to execute such documents and instruments as may be reasonably required by a Company to transfer any rights or benefits held by it or permit its obligations to be assumed by any substitute manager.
+ ...
+ No Assignment or Security 
+The rights of the Companies under this agreement may not be assigned, transferred, mortgage (sic), charged, or made the subject of security in any way without the prior written consent of the Manager. Any dealing with those rights in contravention of this clause is invalid against the Manager and the
+Manager has no obligations in relation to the purported assignee, transferee or security holder. The Manager has no obligations to any party to the
+Proceeds and Intercreditor Deed except as expressly set out in that deed.
+ . Transaction Documents 
+Terms not defined in this agreement have the meaning given to them in the documents entitled ECA Loan Agreement, Proceeds and Intercreditor
+Agreement, and Master Operating Lease entered into by the Companies in connection with the Aircraft.
+ The Schedule to the Letter is headed "Management Fee Letter Allco fees schedule". The three columns are headed respectively: "Payment Date"; "Allco
+Share of Intercreditor Deed - RILA/Allco - Schedule 1 Column 3 (USD)"; and "Allco Share of Intercreditor Deed - RILA/Allco - Schedule [2 or 4] Column [8] ".  Although there is controversy about the import of the terms of this letter
+I intend, for convenience, to refer to the letter as the "Management
+Agreement".  
+Security Deed The RILA Security Deed is dated 12 July 2005 the parties to which are RILA, as Chargor, and A&L, as Chargee. The Security Deed provides relevantly: .1 Charge 
+The Chargor charges the Secured Property to the Chargee, for the purpose of securing to the Chargee the due and punctual payment of the Secured Money.
+The Chargor does this as beneficial owner.
+ ...
+ Nature of charge of Secured Property - fixed/floating .1 Fixed 
+In respect of the Secured Property, this deed is fixed over all present and future: ...
+ book and other debts, the proceeds of those debts; and ...
+ .2 Floating 
+This deed is floating over all the Secured Property other than that listed in clause 3.1 ("Fixed").
+ .3 Conversion from floating to fixed 
+Where this deed is floating (whether under the terms of this deed or at law), it immediately and automatically becomes fixed: over any Secured Property the Chargee notifies the Chargor is to be subject to a fixed charge; and over any Secured Property affected if: the Chargor breaches an obligation under clause 4 ("Dealings - such as selling or mortgaging") or distress is levied or a judgment, order or Security Interest is enforced, becomes enforceable, or would become enforceable by the giving of notice or following lapse of time or fulfilment of a condition; or any person takes any step, or attempts or agrees to do any thing, which may result in Taxes, or an amount owing to an authority, ranking ahead of the floating charge (including issuing a notice or direction that has the effect of giving an autority, a preference, priority or advantage over creditors), in respect of that Secured Property; and ...
+ .4 Conversion from fixed to floating 
+If any Secured Property becomes subject to a fixed charge under clause .3 ("Conversion from floating to fixed"), the Chargee may give the Chargor a notice stating that, from a date specified in the notice, the Secured Property specified in the notice is released from a fixed charge and is then again subject to a floating charge. Secured Property can become subject to a floating or a fixed charge under this clause 3.4 and clause 3.3 ("Conversion from floating to fixed") any number of times.
+ Dealings - such as selling or mortgaging .1 Restricted dealings with any of the Secured Property 
+Without the consent of the Chargee and subject of clause 4.2 ("Restricted dealings with Secured Property over which charge is fixed") and .3 ("Restricted dealings with Secured Property over which charge is floating"), the Chargor may not, and may not agree, attempt or take any step to, do any of the following: sell or dispose of the Secured Property (except that the Chargor may in the ordinary course of the Chargor's business sell or dispose of Secured
+Property over which the Charge is floating); create or allow to exist another Security Interest in connection with the Secured Property except for Permitted Security Interests; or deal in any way with this deed or any interest in it, or allow any interest in it to arise or be varied.
+ .2 Restricted dealings with Secured Property over which charge is fixed 
+Without the consent of the Chargee, the Chargor may not, and may not agree, attempt or take any step to, do any of the following in respect of
+Secured Property over which this deed is fixed: allow a set-off or combination of accounts; ...
+ deal in any other way with the Secured Property or any interest in it, or allow any interest in it to arise or be varied.
+ .3 Restricted dealings with Secured Property over which charge is floating 
+Without the consent of the Chargee, the Chargor may not and may not agree, attempt or take any step to, do any thing in clause 4.2 ("Restricted dealings with Secured Property over which charge is fixed") in respect of Secured
+Property over which this deed is floating except where the thing done is done in the ordinary course of the Chargor's business.
+
+RILA Intercreditor Deed The RILA Intercreditor Deed dated 12 July 2005 between A&L as Security
+Trustee, LC Facility Agent and LC Lender, AMIL as Trustee, Asset Facility
+Agent and Asset Financier, and AML as Manager provides relevantly: .1 Distribution on each Payment Date 
+Subject to clause 2.4 ("Notification from Manager") ... on each Payment
+Date the Security Trustee will apply payments made under the Instalment Sale
+Deed and received by the Security Trustee, in accordance with Schedule 1 ("Allocation on Payment Date") by paying, in the following order of priority: to itself on account of any Security Trustee Costs notified to the Manager; to the LC Facility Agent on account of the LC Lender: the amount set out in column 2 of Schedule 1 for that Payment Date; any other amount then due to the Security Deposit Financier under the
+Security Deposit Facility; to RILA: the amount set out in column 3 of Schedule 1 for that Payment Date; and any remainder.
+ ...
+ .4 Notification from Manager 
+The Manager must provide written notice to the Security Trustee of all amounts payable by the Security Trustee under this clause 2 (other than those amounts specified in a schedule to this deed): for amounts payable under clause 2.1 ("Distribution on each Payment
+Date"), prior to 10 am on each relevant Payment Date; or for other amounts, promptly upon receiving a request by the Security
+Trustee for such information.
+
+The Security Trustee may rely on any such notice as conclusive evidence of its contents and the respective amounts set out in it on the date of that notice.
+
+BACKGROUND 
+AML terminated RILA and Allco Aviation wrote to AML on 17 November 2009 in the following terms: 
+Asiana A330-300 Management Letter 
+We refer to the letter entitled "Asiana A330-300 Management Letter" to
+Allco Management Ltd (AML) from RIL Aviation HL 7740 and HL 7741 Pty Limited and Allco Aviation A330-300 2005 Ltd (the Companies) dated 13 July 2005 (Fee Letter).
+ 
+The Companies hereby give AML notice that, pursuant to clause 9 of the Fee
+Letter, AML is removed as Manager on and from the date of this letter for the purposes of the Fee Letter.
+ 
+Terms defined in the Fee Letter have the same meaning when used in this letter.
+ On 20 November 2009 RILA and Allco wrote to AML in the following terms: 
+Asiana A330-300 Management Letter 
+We refer to the letter entitled "Asiana A330-300 Management Letter" to
+Allco Management Ltd (AML) from RIL Aviation HL 7740 and HL 7741 Pty Limited and Allco Aviation A330-300 2005 Ltd (the Companies) dated on or about 7
+December 2005 (Fee Letter).
+ 
+The Companies hereby give AML notice that, pursuant to clause 9 of the Fee
+Letter, AML is removed as Manager on and from the date of this letter for the purposes of the Fee Letter.
+ 
+Terms defined in the Fee Letter have the same meaning when used in this letter.
+
+RILA seeks payment  On 17 November 2009 RILA wrote to A&L in the following terms: 
+Payments to RIL Aviation HL 7740 and HL 7741 Pty Limited (RILA) 
+We refer to the RILA Intercreditor Deed between Alliance & Leicester
+Commercial Bank plc as "Security Trustee (Security Trustee), "LC Facility
+Agent" and "LC Lender", Allco Managed Investments Limited as trustee of the
+Aircraft Holdings Trust as "Asset Facility Agent" and "Asset Financier" and
+Allco Management Ltd (AML) Manager dated 12 July 2005 (Intercreditor
+Deed).
+ 
+In accordance with the Intercreditor Deed you are required to make certain payments to RILA (the Relevant Payments). You have to date been directed on a monthly basis by AML to pay a portion of the Relevant Payments to AML.
+ 
+We hereby withdraw any current AML directions and advise that RILA has from today withdrawn any and all authority that AML had or has to issue such payment directions.
+ 
+You are advised that on and from the date of this letter, RILA will be issuing to you, prior to the 13th of each month, an instruction to pay the
+Relevant Payments. This instruction will [be] in a form that will ensure that the required loan repayment amounts are paid direct to the relevant lenders and the balance of moneys are paid direct to the account of RILA.
+ On 20 November 2009 RILA wrote to A&L in a letter headed "Payment
+Instruction" in terms that included the following: 
+In accordance with the Intercreditor Deed you are required to make certain payments to RILA.
+ 
+On and from the date of this letter, all amounts required to be paid by the
+Security Trustee to RILA under the Intercreditor Deed (including without limitation under clause 2 of the Intercreditor Deed) shall be paid into the
+RILA account. We will advise you of RILA's account details next week.
+ On 24 November 2009 A&L wrote to RILA in the following terms: . We acknowledge receipt of your letter dated 20 November 2009 in relation to the RILA ICD.
+ . We note the contents of your letter and your statement that you have rescinded any of the Manager's directions and authority to issue payment directions.
+ . We have requested further legal advise (sic) on the issues at hand and shall revert to you shortly on the outcome.
+ On 25 November 2009 KV Management Pty Limited submitted a proposal to SIF
+Limited (a company that it is not in issue may be equated to Allco JS as the
+Asset Financier) for approval for KV Management Pty Limited to be appointed to manage the Aircraft pursuant to the Financing Deed. The proposal included the statement that KV Management is the manager of a company AAHL Pty Limited of which David Veal and Geoff Kinghorn are the owners and controllers. That application was not accepted (tr 50).
+
+Fixed Charge On 30 November 2009 A&L wrote to RILA, with a copy to AML, referring to the RILA Financing Deed and in terms that included the following:  
+Pursuant to clause 3.3(a) of the RILA Security Deed, we hereby notify you that: all Secured Property which has, prior to the date hereof been subject to a floating charge pursuant to the RILA Security Deed shall immediately and without further action be subject to a fixed charge; and all Secured Property shall forthwith be dealt with in accordance with inter alia, clause 4.2 of the RILA Security Deed.
+
+RILA presses further for payment On 1 December 2009 RILA wrote again to A&L in a letter headed "Payment
+Instructions" in terms that included the following:  . As I noted in our letters dated 20 November 2009: in accordance with the Intercreditor Deeds, the Security Trustee is required to make certain payments to RILA; and on and from 20 November 2009 all amounts required to be paid by the
+Security Trustee to RILA under the Intercreditor Deeds (including without limitation under clause 2 of the Intercreditor Deeds) shall be paid into the
+RILA account identified at 6 below.
+ . The RILA account referred to above is as follows: 
+Bank: Australia and New Zealand Banking Group Limited 
+Swift Code: [Provided] 
+Account name: RIL Aviation HL 7740 and HL 7741 Pty Limited 
+Account no: [Provided] . You will appreciate that your obligations under the Intercreditor
+Deeds are clear. Should you fail to make payments to RILA as required by the
+Intercreditor Deed or accept any directions by any person to pay such amounts to a person other than RILA we will consider this to be improper and reserve our rights to take action against you.
+ On 7 December 2009 A&L wrote to RILA and AML referring to the notice of fixed charge, the notice given by RILA in relation to the purported withdrawal of AML's authority to issue payment directions and the notice of purported removal of AML as Manager. A&L advised that it was of the view that the
+Manager had not been removed as Manager for the purposes of the RILA Financing
+Deed and that the Manager continued to be obliged to provide the relevant written notices. A&L emphasised that the amounts payable to RILA under the
+RILA Intercreditor Deed were subject to a fixed charge and RILA was not able to deal with such amounts without the consent of A&L. It also advised that it would continue to pay amounts due on each Payment Date in accordance with the relevant provisions of the RILA Intercreditor Deed and that the disputed amount would be deposited into a suspense account pending resolution of the issue as to whom that amount should be paid.  On 7 December 2009 RILA wrote to A&L in terms that included the following: . As noted previously your obligations under the Increditor Deeds are clear. Any payment to someone other than RILA, whether to an escrow account or otherwise, will not be acceptable to RILA. As advised previously should you fail to make payments to RILA as required by the Increditor Deed or accept any directions by any person to pay such amounts to a person other than RILA we will consider this to be improper and reserve our rights to take action against you.
+ On 3 February 2010 RILA wrote once again to A&L in terms that included the following: 
+In accordance with the Intercreditor Deed you are required to make certain payments to RILA (the Relevant Payments).
+ 
+You have previously been directed to pay a portion of the relevant payments to Allco Management Ltd ... This direction is now withdrawn.
+ 
+On and from the date of this letter, all amounts required to be paid by the
+Security Trustee to RILA under the Intercreditor Deed (including without limitation under clause 2 of the Intercreditor Deed) shall be paid into the following account: 
+Account number: [Provided] (a different number to that provided in the letter of 1 December 2009) 
+Swift: [Provided] (same as in letter of 1 December 2009) 
+Institution: Australia and New Zealand Banking Group Limited Melbourne On 12 April 2010 A&L and Ladbroke entered into a Deed of Accession pursuant to which Ladbroke, as Replacement Manager, covenanted as follows: . Ladbroke assumes the obligations towards each of the other parties to the Transaction Documents which are identical in character to the obligations which the Manager had in respect of the Transaction Documents; . Ladbroke is taken to be a party to the Transaction Documents and to observe, perform and be bound by their terms; . Any reference in the Transaction Documents to "Manager" includes a reference to Ladbroke; and . Ladbroke will act as Manager under and in accordance with the terms of the Financing Deed and other Transaction Documents.
+ On 12 April 2010 A&L wrote to AML referring to notice given to AML on 8
+June 2009 that it was "Insolvent" for the purposes of the relevant Transaction
+Documents and to the notice given to AML on 16 June 2009 that its appointment as Manager was terminated on the grounds that it was insolvent. That letter also included the following: 
+To the extent that AML has not been removed from office as Manager, the
+Security Trustee (acting on the instructions of the Financiers) hereby removes
+AML from office as Manager pursuant to clause 8.7(b) of the Financing Deed.
+ On 13 April 2010 A&L wrote to AML in terms that included the following:  . AML has been removed from office as Manager pursuant to clauses .7(a) and 8.7(b) of the Financing Deed, including by way of notice to AML dated 12 April 2010 from the Security Trustee.
+ . Pursuant to clause 8.9 of the Financing Deed, on 12 April 2010,
+Ladbroke Management Pty Limited has been identified and approved by the
+Security Trustee and each Facility Agent (acting on the instructions of the
+Relevant Financiers) as the replacement Manager, and has executed documents satisfactory to the Security Trustee to become the replacement Manager for the purposes of the Transaction Documents.
+ . The removal of AML and the appointment of Ladbroke as replacement manager took effect on 12 April 2010.
+ . Pursuant to clause 8.8 of the Financing Deed, AML must deliver to Ladbroke all documents held by AML in connection with the Transaction
+Documents ...
+ On 15 April 2010 A&L (Aviation Finance, Santander Corporate Banking) wrote by email to RILA (Mr Veal) "enclosing letters and documentation in relation to the effective termination of the AML management agreements". This email included notification of the appointment of Ladbroke as replacement
+Manager.
+ On 15 April 2010 RILA wrote to A&L in terms that included the following: 
+Given the Removal Letter, AML has now been removed for the purposes of the
+Financing Deed.
+ 
+To this end, we hereby direct you to comply with our letter to you entitled "Payment Instruction" ... dated 20 November 2009 and to pay RILA all amounts from the date of this letter to which RILA is entitled under the Intercreditor
+Deed into the following account: 
+Bank: Australia and New Zealand Banking Group Limited 
+Swift Code: [Provided] 
+Account No: [Provided] (same account number as in letter of 3 February 2010) 
+We note that the date of the Removal Letter is 12 April 2010. We hereby direct that the payment due to RILA on or around 13 April 2010 pursuant to the
+Intercreditor Deed be paid into the account detailed above.
+ 
+RILA reserves its rights in relation to all other amounts retained by you in the "suspense account" referred to in the Escrow Letter.
+ On 20 April 2010 Dibbs Barker on behalf of the directors of RILA wrote to
+A&L advising that RILA had complied and would continue to comply with its obligations under the Transaction Documents and was not in default of any provision, including any payment default. That letter also advised that the directors would be "most concerned" should A&L fail to comply with the
+Transaction Documents by "for example improperly declaring that an event of default has occurred". That letter included the following: 
+The RILA directors believe your payment obligations under the
+Intercreditor Deeds are clear. You are required to effect payment to RILA "of the amounts set out in column 3 of Schedule 1 for that Payment Date" (see clause 2.1(c) of the RILA Intercreditor Deed).
+ 
+You have stated in your letters of 7 December 2009 that: "(a) the Manager continues to be obliged, pursuant to clause 2.4 of the RILA
+Intercreditor Deed to provide written notice to the Security Trustee of the amounts payable by the Security Trustee under clause 2 of the RILA
+Intercreditor Deed; the Borrower is not entitled to provide notices to the Security
+Trustee of the type contemplated by clause 2.4 of the RILA Increditor Deed." 
+However, you have ignored the clear language in clause 2.4 to the effect that the Manager need not provide notice of amounts payable with respect to "those amounts specified in a schedule to" the deed which amounts clearly include the amounts payable to RILA set out in column 3 of Schedule 1.
+ 
+The RILA directors acknowledge and accept that the RILA's interest in these funds are subject to the RILA Security Deeds. However, your failure to effect payment to RILA of these amounts is a breach to your payment obligations under the RILA Intercreditor Deed. The RILA directors reserve their rights to take action by reason of this breach.
+ On 5 May 2010 A&L wrote to RILA and the directors of RILA in terms that included the following: . On each Payment Deed that occurred between 30 November 2009 and 13
+March 2010, the Security Trustee set aside amounts which otherwise would have continued to have been paid directly to the Manager ("Disputed Amount") in accordance with previous practice, into a suspense account (Suspense
+Account) pending resolution of the dispute between RILA and the Manager regarding the proper party to whom the Disputed Amount should be paid.
+ . The Security Trustee has since received conflicting payment directions from RILA (by the April letter) and the Manager (by letter dated 20
+April 2010) in respect of the Disputed Amount.
+ ...
+ . Pursuant to clause 14.1(d) (information) of the Financing Deed and clause 7.5 (supply of information) of the RILA Security Deed, the
+Security Trustee requires that RILA provide it with the following information, in writing, by no later than 5:00pm, Sydney time on 7th May 2010: the basis on which RILA asserts that it is entitled to give directions to the Security Trustee regarding the destination of payments to be made under the terms of the Intercreditor Deed; details of all bank accounts (if any) held in the name of RILA or confirm that RILA does not have any bank accounts as at the date of this letter; satisfactory evidence that the bank account specified in the April
+Letter is an account held in the name of RILA; an acknowledgment that all monies deposited into any bank account of RILA are and will remain Secured Property subject to the Fixed Charge; and if the bank account specified in the April Letter is not held in the name of RILA, the reasons why RILA, by instructing the Security Trustee to pay "the payment due to RILA on or around 13 April 2010" into that account, is not acting in breach of clause 4.1 and 4.2 of the RILA Security Deed, which breach would constitute an Event of Default under clause 15(f) of the Financing Deed.
+
+If the Security Trustee does not receive the confirmation requested in paragraph (c) above, or an acceptable explanation pursuant to paragraph (e) above, then it will without further notice notify the Facility Agents accordingly.
+ ...
+ 
+DIRECTION TO PAY MANAGEMENT FEES TO THE REPLACEMENT MANAGER . The Security Trustee proposes to continue to hold the Disputed
+Amount in the Suspense Account pending resolution of the party to whom the
+Disputed Amount should be paid. The Security Trustee is open to considering any other appropriate arrangement in relation to the Disputed Amount which
+RILA and the Manager may be able to agree on pending resolution of the dispute eg payment of the Disputed Amount into Court.
+ . On receipt of responses to questions set out in paragraph 0 above that are satisfactory to the Security Trustee (at the sole discretion of the Security Trustee), the Security Trustee proposes to make payment of US$78,258.16 (being the amount received by the Security Trustee in respect of the 13 April 2010 Payment Date) to RILA.
+ . Pursuant to clauses 14.8 (Further Assurance) and 16 (Manner of Payment) of the Financing Deed, the Security Trustee directs RILA to pay
+US$78,258.16 to the Replacement Manager by making payment into the following account immediately upon receipt of the payment described in paragraph 17 above: 
+Bank: Westpac Banking Corporation 
+BSB: [Provided] 
+Account No: [Provided] 
+Account Name: Ladbroke Management Pty Limited . The Security Trustee requires that RILA perform such acts and do such things as are necessary for the Security Trustee to effect the payment referred to in paragraph 17 above by no later than 5:00pm, Sydney time on th May 2010, which may include: providing the Security Trustee with details of a bank account held in its name so that the Security Trustee may transfer amounts from the Suspense
+Account to that bank account to enable RILA to make the payments to the
+Replacement Manager; or giving the Security Trustee a direction to pay the amounts directly to the Replacement Manager.
+ . The Financiers have instructed the Security Trustee that if
+RILA does not pay (or give the Security Trustee directions to pay) the
+Replacement Manager the manager's fees in accordance with the direction of the
+Security Trustee as set out in this letter, then the Financiers will direct the Security Trustee to: notify RILA that an Event of Default has occurred under clauses 15(a) (non-payment - Financing Document) and/or 15(e) (special purpose covenants) of the Financing Deed; and exercise those rights and powers under the RILA Security Deed and
+Financing Deeds which are available by reason of those Events of Default having occurred.
+ . Pursuant to clause 14.8 (Further Assurance) of the Financing
+Deed, the Security Trustee requires an undertaking in writing by 7 May 2010 that RILA will pay the management fee prescribed in the schedule to the
+Management Fee Letter to the Replacement Manager on each Payment Date occurring after the date of this letter, to such extent that the Security trustee or RILA receives funds enabling the relevant party to do so or enabling the relevant party to do so in part.
+ On 6 May 2010 RILA wrote to A&L indicating the following: . With respect to paragraph 13 of [the] letter we reply to as follows: ... RILA is entitled to be paid these amounts and as such is entitled to direct those funds to be paid in the manner it directs.
+
+RILA does not have any bank accounts.
+
+The bank account identified in the April Letter (as defined in your letter) was to be a special purpose custodian account of KV Management Pty Ltd which if the funds had been deposited as requested would have been held by KVM as a custodian for RILA. Given that no funds have been received no such custodian arrangement has in fact been entered into. However, we note that RILA is permitted to enter into Transaction Documents (as defined).
+ On 6 May 2010 A&L extended the time for RILA to comply with its request for information to 5.00pm, Sydney time on 11 May 2010.
+ On 12 May 2010 RILA wrote again to A&L in terms that included the following: . For the reasons noted above RILA does not believe it is in the interests of any party that an event of default be called. Consequently RILA, in accordance with paragraphs 5(a)(ii) of your letter dated 6 May 2010 hereby directs the Security Trustee to pay the fee specified in the Management Fee
+Letter for May 2010 to Ladbroke Management Pty Limited (LVM).
+ . If A&L pays any funds to LVM we will hold A&L to account for these funds, as we do not believe that LVM is properly entitled to these funds. In addition to the position set out in point 4 above, RILA: does not believe that LVM has the competency to provide the totality of management services required by RILA; and notes that the fees A&L is requiring RILA to pay to LVM are in excess of what would be payable in accordance with a competitive tendering process to ascertain an appropriate market level for such fees.
+ . We note that KV Aviation Holdings Pty Limited (KVAH) is prepared to, and propose that KVAH provide management services to RILA at no cost pending resolution of the matter at hand. As you are aware, KVAH is uniquely well qualified to provide these services, given that: 
+KVAH personnel have managed these transactions for nearly all of the term of the transaction; 
+KVAH personnel have deep experience in the remarketing of aircrafts; and 
+KVAH is the ordinary shareholder of RILA and via its economic interest (which, in contrast to your statements to the contrary, it views as having substantial value) is economically motivated to maximise value for RILA.  On 14 May 2010 A&L responded to RILA's proposal in its letter of 12 May in the following manner: . The Security Trustee (acting on the instructions of the Financiers) advises that it does not accept the proposal suggested by RILA in paragraph 8 of the Second RILA Letter. Ladbroke Management Pty Limited (LPM) has been identified and approved by the Financiers to provide the management services and has been properly appointed under the Financing Deeds. Consequently, LPM is entitled pursuant to clause 8.10 of the Financing Deeds to receive all of the management fees set out in the Schedules to the Management Fee Letters.
+ ...
+ . RILA confirmed in the First RILA Letter that it does not have a bank account.
+ . Pursuant to clauses 14.8 (Further Assurance) and 16 (Manner of Payment) of the Financing Deeds, the Security Trustee requires that RILA give the Security Trustee an unconditional and irrevocable direction to pay
+US$ out of the Suspense Account into the following account of the Replacement
+Manager: ...
+ . The Security Trustee requires that RILA give it the payment direction referred to in paragraph 13 (sic) above by no later than 5:00pm,
+Sydney time on 18 May 2010.
+ There were two relevant errors in this letter. The first was the failure to specify any amount in paragraph 11. The second was a reference in paragraph 12 to paragraph 13 instead of paragraph 11. By letter dated 18 May 2010 A&L corrected those errors and advised that the figure that should have been in paragraph 11 was $325,762.66 and that the reference in paragraph 12 to paragraph 13 should have been to paragraph 11.  On 18 May 2010 RILA wrote to A&L giving the payment direction as requested. On 19 May 2010 RILA wrote to A&L reconfirming the payment direction in light of the corrected letter.
+
+Notice of Default On 28 May 2010 A&L served a Notice of Events of Default (Notice of
+Default) on RILA which, omitting formal parts, footnotes and other matters not pivotal to the determination of this matter, included the following: 
+Event of Default: Negative pledge . On 30 November 2009 the Security Trustee notified RILA that all
+Secured Property that had previously been subject to a floating charge pursuant to the RILA Security Deeds was thereafter subject to a fixed charge and to the operation of clause 4.2 of the RILA Security Deeds.
+ . Pursuant to clause 15(f) of the Financing Deeds, an Event of
+Default under the Financing Documents occurs where RILA breaches clause 4 ("Dealings - such as selling or mortgaging") of the RILA Security Deeds.
+ . Pursuant to clauses 4.1(a), 4.2(a) and 4.2(d) of the RILA
+Security Deeds, without the consent of the Security Trustee, RILA may not, and may not agree, attempt or take any step to: deal with or dispose of the Secured Property; or allow a combination of accounts.
+ . Secured Property means all RILA's rights, property and undertaking of whatever kind and wherever situated (including in respect of the Relevant
+Agreements, which includes the Instalment Sale Deeds) acquired after the execution of the RILA Security Deeds. All of the Secured Property is subject to the fixed charge. For avoidance of doubt, this includes the amounts held in the Suspense Account and any future amount which RILA may be entitled to be paid pursuant to clause 2.1(c) of the RILA Intercreditor Deeds.
+ . RILA has attempted or taken steps to deal with or dispose of
+Secured Property: 
+RILA has demanded that the Security Trustee pay to RILA "the amounts set out in column 3 of Schedule 1 of the RILA Intercreditor Deeds (Column 3
+Amount). The Column 3 Amount comprises the amounts payable for each Payment
+Date to the: 
+Asset Financier pursuant to the Asset Loan Agreements (Asset
+Financier Amount); and 
+Manager pursuant to clause 8.10 of the Financing Deeds (Manager
+Amount); on 17 November 2009, RILA stated that the monies must be paid "direct to the account of RILA"; on 15 April 2010, RILA directed the Security Trustee to pay the Column Amount in respect of the Payment Date on 13 April 2010 (April Payment Date) into a specified bank account (Bank Account) (April Direction); on 16 April 2010, the Security Trustee requested information relating to the Bank Account. No response was received from RILA; on 20 April 2010, Dibbs Barker (on behalf of the directors of RILA) demanded that the Security Trustee "effect payment to RILA" of the Column 3
+Amount and acknowledged that RILA's interests in those funds are subject to the RILA Security Deeds; on 5 May 2010, the Security Trustee requested information relating to the Bank Account; on 6 May 2010, RILA stated that: it does not have any bank accounts; the Bank Account was held in the name of KV Management Pty Limited (KV
+Management) and was to be a "special purpose custodian account"; if the Security Trustee had transferred the Column 3 Amount to RILA, those funds would have been held by KV Management as custodian for RILA; and no custodian arrangement has been entered into between RILA and KV
+Management.
+ . In giving the April Direction, RILA: failed to disclose that the Bank Account was not an account of RILA, in circumstances where RILA had previously represented to the Security Trustee that payments were required to be made "direct to the account of RILA"; directed the Security Trustee to pay monies which it acknowledged to be Secured Property into a bank account that was not RILA's bank account; and represented to the Security Trustee that the Bank Account was an account of RILA (account representation).
+ . The account representation continued and was repeated by reason of the Dibbs Barker Letter which stated that "your failure to effect payment to RILA of these amounts is a breach of your payment obligations under the
+RILA Intercreditor Deeds" (emphasis added).
+ . RILA did not seek the consent of the Security Trustee before it attempted, or took steps, to deal with or dispose of Secured Property, including in respect of making the demand, giving the payment direction on 15
+April 2010 and/or the entry into any custodian arrangement with KV Management.
+ . RILA has breached clauses 4.1 and 4.2 of the RILA Security
+Deeds, which is an Event of Default pursuant to clause 15(f) of the Financing
+Deeds.
+
+RILA has stated that it has not breached the RILA Security Deeds as it has "simply asked to be paid the funds to which it is entitled." Even if
+RILA was entitled to be paid the Manager Amount (which is denied), RILA was not entitled to place the Asset Financier Amount into an account held in the name of KV Management without the consent of the Security Trustee.
+ . Furthermore, entry into a custodian agreement is not necessary for RILA to fulfil any of its obligations provided for in the Transaction
+Documents. Entry into a custodian agreement would be a breach of RILA's undertakings at clause 14.1(i)(v)(A) of the Financing Deeds, which is an Event of Default pursuant to clause 15(e) of the Financing Deeds.
+
+Event of Default: Non-payment . Pursuant to clause 8.10 of the Financing Deeds, in consideration of the Manager entering into the Financing Deeds, RILA agreed to pay the Manager a management fee according to the terms of the Management Fee Letters.
+ . Failure to pay the management fee payable under clause 8.10 of the Financing Deeds is an Event of Default pursuant to clause 15(a) of the
+Financing Deeds.
+ . RILA does not have any bank accounts. RILA had no ability to pay management fees directly to Ladbroke. RILA can only satisfy its payment obligations under the Transaction Documents by giving (or authorising for the
+Manager to give) the necessary payment directions to the Security Trustee to make payments directly.
+ . AML was removed as Manager pursuant to clause 8.7 of the
+Financing Deeds on 12 April 2010. Ladbroke was appointed as replacement manager pursuant to clause 8.9 of the Financing Deeds on 12 April 2010. On or around 12 April 2010, the Security Trustee gave notice to RILA that AML had been removed as Manager pursuant to clause 8.7 of the Financing Deeds and that
+Ladbroke had been appointed as replacement manager.
+
+April Payment Date Default . Management fees were due and payable to Ladbroke on the April
+Payment Date pursuant to clause 8.10 of the Financing Deeds.
+ . RILA failed to pay, or give the required direction to the
+Security Trustee to pay, the management fee payable to Ladbroke on the April
+Payment Date with the effect that: 
+Ladbroke was not paid any management fee on the April Payment Date; and 
+RILA committed an Event of Default pursuant to clause 15(a) of the
+Financing Deeds (April Payment Date Default).
+
+May Payment Date Default . Management fees were due and payable to Ladbroke on 13 May 2010 (May Payment Date) pursuant to clause 8.10 of the Financing Deeds.
+ . RILA failed to pay, or give the required direction to the
+Security Trustee to pay, the management fee payable to Ladbroke on the May
+Payment Date with the effect that: 
+Ladbroke was not paid any management fee on the May Payment Date; and 
+RILA committed an Event of Default pursuant to clause 15(a) of the
+Financing Deeds (May Payment Date Default).
+
+Proceedings commenced RILA commenced these proceedings by Summons filed on 8 June 2010. The proceedings were heard on 22, 23, 26 and 27 July 2010 when Mr DR Pritchard SC, leading Mr AP Coleman, then of counsel, appeared for RILA and Mr AJ Bannon SC, leading Mr RM Foreman, of counsel, appeared for the defendants. Final written submissions were filed on 3 August 2010.  
+Issues for determination There are competing claims for declarations in the Summons and the Cross
+Summons, however, as I indicated earlier, the parties agree that the central issue for determination is whether RILA is obliged to pay, or give a direction to pay, a monthly Management Fee to Ladbroke pursuant to clause 8.10 of the
+RILA Financing Deed.
+ If RILA is not so obliged there is no issue that the declarations sought in the Summons in relation to the Notice of Default should be made.  If RILA is so obliged then it will be necessary to consider whether RILA has committed the Payment Events of Default set out in the Notice of Default.
+ 
+Principles of Construction As I said earlier, the parties accept that the determination of the central issue of RILA's liability to pay Ladbroke the Monthly Management Fee pursuant to clause 8.10 of the RILA Financing Deed depends upon the construction of the suite of commercial contracts.  A commercial contract, or as in this case a suite of commercial contracts, should be interpreted having regard to what a reasonable person would have understood the language used by the parties to mean: Pacific Carriers Ltd v
+BNP Paribas <case>; <case>; Toll
+Pty Limited versus Alphapharm Pty Ltd (2004) 219 CLR 165 at [40];
+International Air Transport Association versus Ansett Australia Holdings Limited <case>; <case>. It will be necessary to give a business like interpretation to the contracts with attention being given to the language used by the parties, the commercial circumstances which the documents address and the objects intended to be secured: McCann versus Switzerland Insurance Australia Limited <case>; [(2000) 203 CLR 579.] 
+OBLIGATION TO PAY MANAGEMENT FEE The defendants claim that RILA is obliged to pay the monthly Management Fee to Ladbroke in accordance with clause 8.10 which is repeated here for convenience:  .10 Management Fee 
+In consideration of the Manager entering into this deed RILA agrees to pay the Manager a management fee according to the terms of the Management Fee
+Letter.
+ RILA submitted that it is clear from the terms of clause 8.10 that the payments were intended only for the "then manager" who entered into the
+Financing Deed, being AML, and not the replacement Manager.
+ Under the RILA Financing Deed it is RILA alone who appoints the Manager, whereas under the Management Agreement it is RILA and Allco Aviation who each appoint the Manager (cl 8.1 Financing Deed; cl 1 Management Agreement). The
+RILA Financing Deed relates to the financing of the $15 million that RILA provided to ECA to fund the purchase of the Aircraft. The Export Credit Loan
+Agreement relates to the funding of $88 million for ECA to purchase the
+Aircraft. The Export Credit Loan Agreement defines the Management Agreement as "the management agreement dated on or about the date of this Agreement between the Manager, the Lessor and RILA". There are no provisions in the Export
+Credit Loan Agreement for the appointment of a Manager similar to those found in clause 8 of the RILA Financing Deed.
+ The Management Agreement defined in the Export Credit Loan Agreement is clearly the Management Fee Letter dated 13 July 2005 to which I have referred as the Management Agreement. This was the Agreement that provided RILA and
+Allco Aviation the regime for the appointment of AML as Manager for the purposes of the Transaction Documents referred to in paragraph 14 of that
+Agreement. Those are the Transaction Documents in respect of the $88 million
+ECA transaction depicted on the right hand side of the chart in paragraph [9] above.  AML held two appointments relevant to the present dispute: (1) as the
+Manager under the Management Agreement in respect of the $88 million ECA transaction; and (2) as the Manager under the RILA Financing Deed in respect of the $15 million RILA transaction.
+ Accordingly there were two separate relevant appointments and two separate ways of terminating or removing the Manager from those appointments. Under the
+Financing Deed RILA and A&L are able to remove the Manager for, inter alia, breaches of the Manager's obligations under the Financing Deed. Both
+RILA and Allco Aviation were able to remove the Manager for breaches of the
+Management Agreement. A&L was not able to remove the Manager in respect of the ECA transaction as it was not a party to the Management Agreement and had no rights in respect of the appointment of the Manager under that Agreement.
+ Although there are separate proceedings in relation to AML's removal I am going to assume that AML was removed from its appointment as Manager under the
+Management Agreement by the letters to it from RILA and Allco Aviation on 17 and 20 November 2009. It is not clear, at least on the documentary material in this case, on what particular basis RILA and Allco Aviation removed AML as
+Manager. Clause 9 of the Management Agreement includes a number of events that trigger RILA's/Allco Aviation's entitlement to remove AML including breaches of obligations under the Management Agreement. However the letter of 17
+November 2009 simply referred to clause 9 and did not identify the particular event that was relied upon to terminate AML's appointment as Manager.  Clause 8.9 of the RILA Financing Deed refers to a "replacement Manager", an expression that is not defined in the Deed. The removal of a Manager under clause 8.7 of the Deed is not effective unless and until the replacement
+Manager has been identified and approved by A&L and each Facility Agent and the replacement Manager has executed documents to become the replacement
+Manager for the purposes of the Transaction Documents that are "reasonably satisfactory" to A&L. All of the steps necessary to give effect to the removal of AML and the appointment of Ladbroke occurred by 12 April 2010. On April 2010 A&L wrote to AML confirming AML's removal and Ladbroke's appointment as replacement Manager on 12 April 2010.
+ RILA contends that the expression "Manager" in clause 8.10 does not include a "replacement Manager" and therefore RILA is not obliged to pay Ladbroke a
+Management Fee pursuant to that clause. However RILA accepts that it is obliged to pay Ladbroke a "reasonable" fee for its services as Manager.  
+Ladbroke's status Clause 26.2(k) of the RILA Financing Deed provides that a particular person, in this case the Manager, AML, includes a reference to the Manager's "executors, administrators, successors, substitutes (including persons taking by novation) and assigns". The only descriptions relevant to the determination of this issue are "successors" and "substitutes (including persons taking by novation)".  
+Is Ladbroke a substitute? The expression "replacement Manager" is not defined in the RILA Financing
+Deed. However "Substitute Financier" is defined as a person defined as such in a "Substitution Agreement" which in turn is defined as an "agreement substantially in the form of Schedule 3 ("Form of Substitution Agreement (clause 24)"), completed as stated in that schedule and executed by each person expressed to be a party to it, or another document approved by the
+Security Trustee for the purpose of clause 24 ("Assignment and substitution")".
+ Clause 24 of the RILA Financing Deed, extracted earlier in this judgment, deals with assignments by RILA and the Financiers and substitution of a new financier in circumstances where a present financier "wants to effect a novation of some or all of its obligations or an assignment of some or all of its rights under the Transaction Documents". Clause 24.3 of the RILA Financing
+Deed specifically refers to the "Substitute Financier" and the "Substitute
+Agreement". The Substitute Agreement is to effect the retirement of the
+Financier and appointment of the Substitute Financier as a party to the Loan
+Agreement and the other Transaction Documents.
+ The expression "substitutes" in clause 26.2(k) is not defined in the RILA
+Financing Deed. The question is whether that expression is limited to the "Substitute Financier" or whether it contemplates a wider variety of persons, in particular, a "replacement Manager". In circumstances where the flow of funds is pivotal to these commercial arrangements it is understandable that the parties defined the expression "Substitute Financier" and included a draft form of "Substitution Agreement" in the Deed. Clause 2.1 of the draft
+Agreement is headed "Novation" and provides for the retirement of the
+Financier and the assumption of obligations by the Substitute Financier. It specifically provides that a reference in the Transaction Documents to "Financier" includes a reference to the "Substitute Financier": cl 2.1(f).
+ RILA submitted that had the parties intended that the term "Manager" was to be understood to include a reference to "replacement Manager" they would have included such a provision. The expression "substitutes" in clause 26.2(k) includes the words "(including persons taking by novation)". Far from limiting the expression "substitutes" to the "Substitute Financier", who takes by novation under the Substitution Agreement, it expressly includes them by these words in parentheses. If the expression is limited to a Substitute Financier taking by novation then there would have been no need for the words in parentheses. The words in parentheses make it clear that it is intended that the expression "substitutes" includes a larger category of persons than merely the Substitute Financier.
+ The expression "substitutes", as the plural of "substitute", has a number of ordinary meanings including "replace (someone or something) with another":
+The New Oxford Dictionary of English; and "to put (one person or thing) in the place of another; to take the place of; replace": The Macquarie
+Dictionary Federation Edition. Clearly the parties to the RILA Financing Deed contemplated that the Manager would have a substitute or a replacement having regard to the regime set out in clause 8 of the Deed and, in particular, the use of the expression "replacement Manager". I see no material difference between the expression "replacement Manager" and "substitute" Manager in the context of the RILA Financing Deed as a whole. I am satisfied that a replacement Manager is a substitute. It follows that the expression "Manager" in clause 8.10 refers to Ladbroke from 12 April 2010 onwards. Even if that were wrong, I am satisfied that Ladbroke can reasonably be described as a "successor" to AML having regard to the ordinary meaning given to that expression: "one who or that which succeeds or follows; one who succeeds another in an office, position, or the like": The Macquarie Dictionary
+Federation Edition.
+ As I understand RILA's submissions it is also contended that because RILA and Allco Aviation terminated AML's appointment under the Management Agreement by letter dated 17 November 2009, that Agreement is at an end and therefore it is not possible for RILA to pay "the fee according to the terms of the
+Management Fee Letter" referred to in clause 8.10 of the RILA Financing Deed.
+The "Management Fee Letter" is defined in the RILA Financing Deed as "the fee letter dated on or about the date of this Deed between RILA and the Manager".
+There were competing submissions as to whether that expression means only the
+Schedule to the Management Agreement which is headed "Management Fee Letter
+Allco fees schedule " or whether it refers to the whole of the letter. The first page of the letter is headed "Management Letter". As can be seen from the extract earlier in this judgment, the body of the letter is headed "Management Agreement". If the whole of the letter, including the Schedule, is the "Management Fee Letter", the regime for payment of the Manager is found in clause 2 of the body of the letter which refers to the amount in Column 2 of the Schedule.
+ I do not agree with RILA's submission that it is not possible for RILA to pay the Management Fee stipulated in the Management Agreement because the
+Manager under the Management Agreement has been terminated. The parties intended that the Management Agreement would continue to operate after the termination of the Manager and the appointment of a "substitute Manager". This is clear from the provisions of clause 11 of the Management Agreement which impose the obligation on the Manager to execute such documents and instruments to transfer any rights or benefits and permit its obligations to be assumed by a substitute manager. In any event, the source of RILA's obligation to pay the
+Management Fee to the Manager is clause 8.10 of the RILA Financing Deed, not the Management Agreement. The Management Agreement provides the mechanism, the date and the amount, for the payments RILA is obliged to make pursuant to clause 8.10 of the RILA Financing Deed. That obligation persists notwithstanding the termination of the Manager's appointment under the
+Management Agreement. RILA is still obliged to pay the amounts in the Schedule headed "Management Fee Letter".
+ RILA is obliged to pay Ladbroke the management fee in accordance with clause 8.10 of the RILA Financing Deed.
+ In the circumstances of my findings it is only necessary to make declaration (3) in the Cross Summons, subject to any further submissions of the parties.  
+EVENTS OF DEFAULT It is now necessary to deal with the competing claims in respect of the
+Notice of Default. RILA seeks a declaration that the Notice of Default is of no force or effect and that, as at 28 May 2010, no Events of Default as claimed in the Notice of Default have occurred. The defendants seek declarations that such Events have occurred. There was a further claim in the
+Notice of Default in respect of an argument raised by RILA (referred to as the "Payment Default Defence"). It is unnecessary to deal with this matter having regard to my conclusions below.
+
+Negative Pledge The first Event of Default upon which the defendants rely in the Notice of
+Default relates to alleged breaches of clause 4.1 and clause 4.2 of the RILA
+Security Deeds that, if proved, amount to an Event of Default pursuant to clause 15(f) of the RILA Financing Deed. The conduct relied upon is that outlined in paragraphs 4 to 11 of the Notice of Default. Put shortly it is
+RILA's conduct in requesting and pressing for payment of amounts otherwise due to AML into a bank account, ultimately identified as the bank account in the name of KV Management Pty Ltd (KVM). There is no issue that the amount in respect of which RILA was seeking payment was "Secured Property" within the meaning of that expression in clause 4 of the Security Deed. However there is an issue as to whether there was a fixed or floating charge over that Secured
+Property.
+ If the charge is fixed, clause 4.2 of the Security Deed applies to RILA's conduct. If the charge is floating, clause 4.3 of the Security Deed applies to
+RILA's conduct. Clause 4.2 prohibits RILA from attempting to take or taking any step to allow a set-off or a combination of accounts or deal in any other way with the Secured Property or any interest in it, or allow any interest in it to arise or be varied. If the charge is floating then clause 4.3 allows
+RILA to attempt or to take any step to do the things prohibited by clause 4.2 where "the thing done" is done in the ordinary course of RILA's business.
+Although the defendants contend that RILA's conduct amounted to attempting to deal with the Secured Property and/or attempting to allow an interest to arise in respect of the Secured Property, I intend to determine the matter by reference only to the attempt to deal with the Secured Property.
+ RILA submitted that the Notice dated 30 November 2009 in relation to the fixed charge (Fixed Charge Notice) did not cause the floating charge to be fixed at law. In support of this submission Mr Pritchard relied upon the following passage of the Chapter on Charges by JH Farrah and LGS Trotman in
+LexisNexis Australian Corporation Law Principles & Practice: 
+The expression "fixed charge" is not defined in the Corporations Act.
+Under case law, the charge will be a fixed charge if the assets charged as security "are permanently appropriated to the payment of the sum charged, in such a way as to give the chargee a proprietary interest in the assets", and so assets can be released from the charge only with the active agreement of the chargee: Re Spectrum Plus Ltd (in liq) [[2005] 2 AC 680]; [[2005] 4
+All ER 209]; <case>. This involves the consideration of the intentions of the parties from the language used in the charge and the legal characterisation dictated by the rights and obligations established by the charge, and whether this leaves the chargor free to withdraw the charged assets from the security by dealing with them in the ordinary course of business. A charge that fails to constitute a fixed charge over an asset may be found to operate as a floating charge over that asset.
+ ...
+ 
+Particular consideration as to when a charge will be fixed or floating over a particular asset has arisen in the context of charges over book debts and the proceeds of book debts. For some companies, book debts can comprise a large part of their assets, with the collected debts comprising the necessary cash flow to fund its continued existence. Whether book debts are the subject of a fixed charge or a floating charge will affect the management of the company's book debts and may affect a lender's recovery against assets secured by the charge.
+ 
+A tension arises when seeking to create a fixed charge over book debts between the necessity of giving a chargee sufficient control over them while also allowing a company to meet the cash flow needs of its business. The main techniques to achieve legal control over book debts under a fixed charge are: . to legally assign the book debts to the chargee by giving notice to the debtor who owes the book debt (see, for example, [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/ca1919141/s12.html) of the [Conveyancing Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/ca1919141/) ); . to require the chargor to pay the proceeds of book debts to the chargee in reduction of the chargor's debt; and . to require the chargor to pay the proceeds of book debts into a blocked account held with the chargee or into a separate bank account (eg with a third party bank) over which the chargee has a fixed charge.
+ ...
+ 
+To establish a fixed charge over book debts, therefore, requires that the chargee have real and practical control over collections, with uncollected debts and their proceeds quarantined from the chargor's ordinary business activities via practical intervention from the chargee.
+ Reliance was also placed on the following summary in the same Chapter of the requirements identified by the Privy Council in Agnew versus Commissioner of
+Inland Revenue <case>; [[2001] 2
+AC 710] to establish a fixed charge over book debts: the chargor must not be able to realise the book debts (whether by collection or disposal) in its own capacity, but that the chargor should instead be appointed as the chargee's agent; the chargor must be required to pay the proceeds of book debts to a specific bank account, rather than merely having an option to do so; the proceeds may only be withdrawn from the account with the chargee's consent; there must be no agreement separate to the charge circumventing the provisions in the fixed charge; and all of the above steps must be followed in practice, rather than simply being an option or be set out but not followed in the charge.
+ In National Westminster Bank plc versus Spectrum Plus Ltd <case>; [[2005] 2
+AC 680] the lender's charge provided for a fixed charge over book debts and required that all the book debts be paid into a particular overdraft account with the lender. However the borrower company remained free to draw on the overdraft account generally and thus the proceeds of the book debts were not kept separate and controlled for the benefit of the lender's security. The House of
+Lords held that the lender had a floating and not a fixed charge over the book debts because the borrower could use those proceeds by drawing them out of the overdraft account.
+ Mr Pritchard submitted that none of the steps identified in Agnew are present in respect of the charge purported to be fixed over RILA's assets, including the book debts and therefore the charge is a floating charge.
+However it is not necessary to decide this issue having regard to the conclusions I have reached below.  RILA claims that it was entitled to receive the money and to pay it out pursuant to its obligations under the Transaction Documents. There is no issue that RILA was so entitled. However the defendants contend that RILA's conduct was directly related to the Fixed Charge Notice and that RILA intended to have the Secured Property paid to KVM. The defendants contended that RILA was motivated by the Fixed Charge Notice to move this part of its assets out of the reach of the Fixed Charge.
+ RILA claims that it was concerned that if it operated a bank account in its own name it may have been in breach of clause 14.1 of the RILA Financing Deed.
+It contends that the KVM account was established to ensure that RILA was not so in breach and that the KVM account was intended to be a nominee account and
+KVM was to hold the Secured Property on trust for RILA. It is necessary to determine RILA's "real intention" in respect of the nature of the account.
+That real intention is to be determined by consideration of all the relevant surrounding circumstances: Commissioner of Stamp Duties (Queensland) v
+Jolliffe <case>; [(1920) 28 CLR 178], per Knox CJ and Gavan Duffy J at 181.  In Pascoe versus Boensch and Anor <case>; [(2008) 250 ALR 24] the Full Court of the Federal Court (Finn, Dowsett and
+Edmonds JJ) said:  [21] (ii) Though there is no required formula to be used to create a trust: Richards versus Delbridge [(1874) LR 18 Eq 11] at 14; the declarant must manifest an intention presently to create a relationship in respect to property which the law characterises as a trust: Re Armstrong <case>; [[1960] VR 202.] The intention must be one actually had: Commissioner of
+Stamp Duties (Q) versus Jolliffe  <case>; [(1920) 28 CLR 178]; and it must be to create an immediately operative trust:
+Harpur versus Levy  <case>; <case>- [63]. An intention that the trust be constituted at a later date will be ineffective to create a trust either at the time of the declaration or at that later date. The ultimate onus of proving the intention to create a trust rests on the parties seeking to propound it: Hyhonie Holdings Pty Ltd versus Leroy  <case> at <case>.
+ I should say something about the way in which the trial proceeded. RILA initially relied upon two affidavits of David Lloyd Veal sworn on 8 June 2010 and 9 July 2010. Mr Veal was not a director of RILA until April 2010. However
+I am satisfied that from time to time between November 2009 and April 2010 he was acting as agent for the director of RILA, Geoffrey Andrew Kinghorn. As a result of some evidentiary rulings, RILA decided there was a "gap" in its evidence and sought leave to call Mr Kinghorn who at that stage was overseas.
+On the second day of the trial Mr Bannon called for the "legal advice" referred to in correspondence between RILA and the ANZ Bank (the Bank), referred to below. Mr Pritchard then decided that it was important to call the lawyer, Mr Lennox, to give evidence. Accordingly RILA relied upon the evidence of Mr Veal, Mr Kinghorn and Mr Lennox. It will be necessary to analyse the communications surrounding the setting up of the RILA account, the KVM account and the evidence of the three witnesses.  
+The Accounts On 23 November 2009 Glenn Husking on behalf of KV Aviation Pty Limited, wrote to the Bank under a heading that included "New Bank accounts: RIL
+Aviation HL 7740 and HL 7741 Pty Limited" in terms that included the following: 
+As discussed briefly with Jason when we last spoke we would like to arrange for the opening of two further Bank accounts with ANZ.
+ 
+The first is a Bank account for a company named RIL Aviation HL 7740 and HL Pty Limited (ACN 114 906 535). Geoff Kinghorn is the sole Director of this company. The signatories should be Geoff, David Veal, Chris Waring and myself. Again this account will predominately be a working account with moneys coming in being disbursed relatively quickly. Volume of transactions will not be high say 5-10 a month.
+ ...
+ 
+I was hoping that you could advise account number details today so that the account could be inserted in a document. Obviously the accounts would not be active until the signed account opening documents are returned to you.
+ On the same day the Bank advised Mr Husking that it would deal with the request straight away and advise the account numbers shortly. Later that day
+Mr Husking advised the Bank that the account was to be in "US dollars". The
+Bank then requested information from Mr Husking including whether the funds for the account were going to stay in US dollars at all times or be converted after receipt and before sending. There does not appear to be any response to that question in the evidence. On 26 November 2009 the Bank notified RILA of the details of its "AUD account".  On 3 December 2009 Mr Husking wrote to the Bank in terms that included the following: 
+As discussed following legal advice we would like to close the USD account recently opened for RIL Aviation HL 7740 and HL 7741 Pty Limited and replace it with a new Bank account for KV Management Pty Limited details of which are in the attached forms.
+ The forms attached to that email were signed by Mr Kinghorn as the sole director of RILA instructing the Bank to close the RILA account.  On 7 December 2009 the Bank opened the KVM account entitled "KV Management
+Pty Ltd - RIL Aviation HL 7740 and HL 7741". KVM was described as the "holder of the account" with the same signatories as had been advised for the RILA account that was closed on 3 December 2009.
+
+Mr Veal David Lloyd Veal who was the CEO of KV Aviation Holdings Pty Ltd at the time of these transactions with the Bank gave evidence that he instructed Mr
+Husking to open the RILA account because there was an expectation that funds would be received from the Security Trustee (A&L) that had previously been payable to AML under the Management Fee Letter. Mr Veal said that the Manager had been terminated and "so the moneys needed to be paid somewhere" (tr 22).
+In evidence-in-chief Mr Veal said that the reason he gave a direction for the moneys to be paid into the KVM account and not an account of RILA was because
+RILA did not have a bank account at the time and (tr 23): 
+Secondly, the directors of RILA, the director of RILA at the time was also a director of KV Management. KV, RILA is owned by a company called KV Aviation
+Holdings. KV Aviation Holdings operates a business that has some 167 subsidiaries involved in transactions similar to the transaction that we are talking about here. As a practical matter for directors of RILA to perform their duties it is convenient to have one company, being a nominee company, to operate the accounts on behalf of the directors and on behalf of those companies.
+ Mr Veal accepted in cross-examination that the letter dated 15 April 2010 directing A&L to comply with the previous letter entitled "Payment
+Instruction" dated 20 November 2009 was a direction in respect of the amounts payable to the Asset Financier and to the Manager (tr 31). Mr Veal accepted that the corporate entity or legal entity which created the KVM account was
+KVM (tr 32). He gave the following evidence in cross-examination (tr 32): 
+Q. And that was a deliberate decision on your part, wasn't it, that the name of the account holder not be identified? 
+A. I take issue with the words "deliberate decision", it is not necessary for SWIFT transfers, in fact there is no facility in a SWIFT transfer for an account name. The SWIFT transfer system operates on a set of numbers, there is no reference to account names anywhere in that system.
+
+Q. I put it to you again, you took a deliberate decision not to identify the account name, didn't you? 
+A. I put it to you again I have issue with the word "deliberate", it isn't necessary to name the account.
+ Mr Veal was then invited to look at the letter of 1 December 2009 from RILA to A&L in which the account name had been identified notwithstanding it was a SWIFT code transaction. Mr Veal was cross-examined further (tr 32-33): 
+Q. And yet if I could take you back to tab 68 and the reference at 1172 [in the letter of 15 April 2010] where in this instance, notwithstanding there has been a change of the account, I put it to you again you took a deliberate decision not to tell Alliance by reference to this letter that KV Management was the account holder, didn't you? 
+A. I take objection to the use of the word "deliberate". It is not necessary to specify an account name. The fact that an account name is specified or not specified there is a large gap. I was advised that it was not necessary and it isn't part of the SWIFT system to use account name.
+
+Q. You say you got advice that it wasn't necessary, this was advice received shortly before this letter was sent on 15 April, is that right? 
+A. It was part of a process of making electronic transfers during the course of December through April, I did ask the question on a number of occasions the account names are not necessary.
+
+Q. Why did you seek advice as to whether the account name was necessary or not? 
+A. I didn't seek specific advice, I asked one of my employees what they do with SWIFT transfers.
+
+Q. Is this advice you had at the time you signed or approved in the way we have described the letter of 1 December 2009 where the account name was included for a SWIFT transfer, did you have that advice before then? 
+A. I don't know, I may have.
+
+Q. What I want to suggest to you is you recognised that in identifying the fact that the account holder was KV Management Pty Ltd that would alert
+Alliance to the fact that these moneys would not be being held by RILA, that's right isn't it? 
+A. Firstly, the account name that would have been used if an account name was included in that letter would be the name KV Management Pty Ltd - RILA -1. That is a very common name if you, when there are nominee arrangements, it is typical that the nominee company is the first name used and the beneficial owner of the account is the second name used. There is -- 
+Q. That's your explanation for not referring to the account name, is it? 
+A. I wasn't explaining why I didn't refer to the account name. Sorry, could you repeat the question? 
+Q. I put it to you the reason you didn't refer to the account name is because it would alert Alliance to the fact that the money was not going to
+RILA and is your explanation to say if I had put the account name in, what, that it wouldn't have alerted them to that, is that your explanation? 
+A. It would have alerted them to the fact that there was the fact that it was a nominee arrangement in place in connection with RILA's funds. I don't think too much turns on that.
+
+Q. Your suggestion is that you could have put the account name in and it would have told them clearly, is that right, there was some sort of nominee account but you took a decision not to do it? 
+A. Correct 
+Q. And the reason again for that decision? 
+A. Once again I don't think it was a deliberate decision.
+ Mr Veal was cross-examined further in relation to the wording of the letter of 15 April 2010 which directed A&L to pay in accordance with the letter dated 20 November 2009. Mr Veal accepted that the letter of 20 November 2009 contained a reference to a RILA account, the number of which was provided to
+A&L. That of course was the account that was closed in early December
+Mr Veal was cross-examined further as follows (tr 34-35): 
+Q. So, the instruction on 20 November was to pay into a RILA account, you advised RILA's account details and then you refer to that letter 15 April and say in effect here's the account, that's right, isn't it? 
+A. Yes 
+Q. You saw no difficulty in failing to mention the fact that it wasn't
+RILA's account at all? 
+A. I believe it is RILA's account, it is a beneficially held account, it is RILA's property.
+
+Q. That would be the beneficially held account of which no custodian agreement has ever been signed, correct? 
+A. It is unusual in these circumstances, or in these businesses to have formal custodian agreements signed. There is a process where these accounts, the moneys are held on trust.
+
+Q. So there was never any intention to sign a custodial agreement? 
+A. I think we would have signed a custodial agreement in these circumstances with these transactions simply because of the, what I would describe as the legal heat surrounding the transaction.
+
+Q. That is as high as you can put it, you think you would have, is that right? 
+A. I'm certain we would have.
+ Mr Veal agreed that no draft custodian agreement was ever prepared and no instruction was ever given to a lawyer to prepare one nor was any step taken to cause a draft to be prepared (tr 35). He accepted that in the correspondence with A&L there was no reference to the fact that RILA opened an account in its own name with the Bank in November 2009 and subsequently closed it (tr 39). Mr Veal was cross-examined further as follows (tr 42-43): 
+Q. So just to make it absolutely clear, there was no custodian arrangement at the time when the direction was given, correct, that is the 15
+April direction was given? 
+A. At the point the 15 April direction is given, KV Management is the nominee for, nominee account holder for RILA. That is reflected in the business practice. It is reflected in the name. It's identified by the directors and identifiable by the directors as being the subject of potentially secured property or subject to the relevant transaction documents of the company.
+
+Q. So I will put this to you again. At the time the direction was given on 15 April, there was in fact no custodian arrangement in existence, was there? 
+A. There was no custodian agreement in existence, written agreement.
+
+Q. Sir, I'm just using the words that you used in your letter of , "custodian arrangement". Do you see that? 
+A. The words are probably poorly expressed, I think it should say "Agreement".
+
+Q. I suggest to you they were carefully considered by you in the circumstances where you realised that there was a dispute brewing between the parties, or in existence, they were carefully chosen words, weren't they? 
+A. The words "arrangement" as opposed to "agreement" was not carefully - in fact I think it's just wrong.
+
+Q. And what you do say in that letter is it was not ever going to be any arrangement, unless and until the point in time which was after the funds were actually in the account; isn't that what that is saying at the end of ?
+ 
+A. It reflects the intention that if, as was clear - sorry, I will rephrase that. It reflects the intention that whilst it became clear, and was clear by then that no monies were going to be paid into the account, we were more than happy to have an agreement, a formal agreement in connection with the custodian arrangement, to reflect the custodian arrangements, were that required 
+Q. See, what I want to suggest to you is that what you were intending to indicate was that only if monies were actually received into this account, would a step be taken to enter into a custodian arrangement, do you agree that's what you intended to convey? 
+A. No. What is intended to convey is the monies are secured property, the monies that go into the account are the secured property, they are held as nominee for, by KV Management as nominee for RILA.
+ Mr Veal was reminded of the chronology of the events of the opening of the
+RILA account in late November 2009, the Fixed Charge Notice of 30 November , the closure of the RILA account three days later and the opening of the
+KVM account four days later. He accepted that the RILA account was opened in anticipation that if the payment instruction was followed RILA would have a bank account that received intercreditor proceeds (tr 45). He accepted that the notification to the Bank relating to the closure of the account "following legal advice" made no reference to the matters he identified in his evidence relating to "convenience" (tr 47). He agreed that the legal advice referred to in the instruction to the Bank on 3 December 2009 was advice with which he was familiar (tr 47). He also accepted that in the "Account Authority" signed at the time of setting up the KVM account, the Bank requested the customer to indicate "if the foreign currency account is held in trust" and that no such indication was given. It is clear however that the account name was given as "KV Management Pty Limited - RIL Aviation HL 7740 and HL 7741 a/c".
+ After the conclusion of Mr Veal's cross-examination, leave was granted to ask further questions in chief which included the following (tr 53): 
+Q. [why] Was the RILA account closed? 
+A. A variety of reasons. The first one was that we made a decision in the company to move to having nominee accounts given, particularly given the difficulty of opening the account. Secondly, there were some concerns about having an account in the name or owned by RILA at that time and there was at least a potential argument that there may have been a breach of the documents.
+Thirdly-- 
+Q. So I understand it, what was the concern you had about it being a breach of the documents in that respect? 
+A. Its directors doing things. I can't remember the precise clause in the financing deed but directors, I'd have to refer to the financing deed, if I may.
+
+HER HONOUR 
+Q. Whilst that is being obtained you can finish telling me of the third concern. The third matter was? 
+A. The third matter was we were given instructions about the fact that we could create a nominee or custodian account and the processes or how to do that and so we did it.
+ ...
+
+Q. It was something to do with the directors' conduct, was it? 
+A. Your Honour, I think it will relate to clause 14.
+
+Q. I see? 
+A. And single purpose and liabilities and I don't recall, I'm sorry but I don't recall the precise detail of the concern. It wasn't, it wasn't a pointed concern, it was just a general concern.
+
+Q. What, to shut the account down because of clause 14? 
+A. There was a concern that the opening of the account might have somehow been a breach of directors' duties, so we just fixed it.
+ In further cross-examination Mr Veal said that it was not formal legal advice but a conversation he had with Mr Lennox, a solicitor, a couple of days prior to closing the account (tr 54). In further cross-examination Mr Veal gave the following evidence (tr 80-81): 
+Q. The closure of the account opened in the name of RILA in November and the opening of an account in the name of KV Management was prompted wholly and solely by the notification of the fixed charge, wasn't it? 
+A. I think that's fair, yes.
+
+Q. And to the extent you sought to, you gave evidence yesterday to suggest it was prompted by issues relating to convenience and no customer requirements, that evidence did not bear a connection with the truth, did it? 
+A. It bares a connection with the truth, there are a number of reasons why the account was closed and a new account was opened, it was certainly, the timing was prompted by the fixed charge -- 
+Q. I put it to you again the only reason the account was closed and a new one opened are related to the notification of the fixed charge, wasn't it? 
+A. The timing was prompted by the notification of fixed charge, it heightened our sensitivity in connection with the opening of a bank account in the name of RILA.
+
+Q. What I want to suggest to you to the extent you sought to convey the impression there were reasons for the closure and the opening of this account related to matters of convenience that was a lot of nonsense? 
+A. This was, my recollection as it was yesterday was that was the primary issue. The correspondence that I have, now familiar with it makes it clear that there was, that issue was, the heightened sensitivity warranted the fixed charge.
+
+Q. The other reasons were a lot of nonsense, weren't they? 
+A. They weren't a lot of nonsense, they were affecting going to take action but certainly the heightened sensitivity was the overriding factor, yes.
+
+Q. You were endeavouring to convey the impression to the Court there were reasons of practicality which were significant reasons related to the closure of and the opening of the KV Management? 
+A. That is exactly what I am seeking to do.
+
+Q. That is what you were tempting (sic) to do wasn't it, yesterday? 
+A. My recollection, my recollection yesterday prior to seeing the correspondence was that the issues were, there were some concerns, I think I indicated yesterday, I was aware there were some concerns around the opening of the bank account in the name of RILA and it was closed reflecting those concerns. I did not recall the precise reason for those concerns being generated at that time.
+ Mr Veal was then taken back to his evidence of the previous day and the various reasons he had given in relation to the closure of the RILA account and gave the following evidence (tr 85): 
+Q. So again would you agree no reference at any part of that page to the reason being related to receipt of the fixed charge notice, do you accept that? 
+A. Well, once again I say that the - I accept that it was prompted, the timing was prompted by the heightened legal sensitivity around that fixed charge notice. That's clear now. It certainly wasn't clear to me yesterday.
+ Mr Veal was recalled to give evidence of a conversation with Mr Kinghorn that legal advice had been received that there may be a "low risk, small risk" that someone could argue that the opening of the RILA account was a breach of the Transaction Documents and also the "special purpose covenant". Mr Veal advised Mr Kinghorn that "therefore" the RILA account should be closed and a new nominee account owned by KVM, as nominee for RILA, should be opened (tr ).
+
+Mr Kinghorn Geoffrey Andrew Kinghorn, a director of RILA at the time of these transactions, gave evidence that the funds in the Bank were always going to be held on behalf of RILA. He claimed that was always the intent but accepted that the Bank account opening form did not include such an indication (tr ). Mr Kinghorn said he understood the concept of a trust and was cross- examined as follows (tr 148): 
+Q. And what are the features of a bare trust which you understood at the time you signed this document? 
+A. I - that the money was going to be held on trust for RILA, that the money was held on trust for RILA.
+
+Q. Well, was there going to be some sort of agreement? 
+A. I'm not quite sure.
+
+Q. So, as far as you were concerned, there was no intention to have some custodial agreement, is that right? 
+A. I'm not aware of any being.
+ Mr Kinghorn accepted that the topic of opening a new account came up very shortly after the receipt of the Fixed Charge Notice. Mr Kinghorn said that he had received advice that there was a "small risk" of a default in respect of the RILA account. The advice was that the RILA account should be closed and another should be opened in KVM's name. Mr Kinghorn received that advice from
+Mr Veal who advised him that he had spoken to Mr Lennox. The advice was that it was "prudent" not to take the risk (tr 153). Mr Kinghorn's further cross- examination in respect of the issue of whether RILA attempted to deal with the
+Secured Property is referred to later.
+ 
+Mr Lennox Mr Lennox, a solicitor with the firm DibbsBarker, was instructed to act for the director of RILA, Mr Kinghorn (and Mr Veal after he became a director in April 2010), but he did not act for RILA (tr 181; 205). Mr Lennox drafted a letter to A&L and on 3 December 2009 he asked RILA whether it was "possible for KV to open the bank account (ie sign the account opening forms) and for the account to be styled 'RIL Aviation HL 7740 and HL 7741?'." Mr
+Lennox also gave advice that the new account should be opened with the primary account owner being KV Aviation Pty Limited or KVM with the account name being "RIL Aviation HL 7740 and HL 7741". That advice included: 
+This should be sent to ANZ and as such the legal owner of the bank account will be KV. KV will however hold this as a custodian or nominee for RILA.
+ Mr Lennox was not aware that the RILA account had been opened until 1
+December 2009. He recollected advising Mr Veal that there would be issues in relation to some of the provisions of the RILA Financing Deed. He also gave advice about other issues associated with the Fixed Charge Notice and whether there was a blocked account or a locked box type procedure in the documents.
+Mr Lennox was asked in cross-examination to explain his use of the expression "locked box" and said (tr 171): 
+Post Spectrum, House of Lords decision which cast particular focus on the way in which you can take charges over book debts, there certainly has been a focus on the precise mechanics necessary to constitute a fixed charge, that is, provisions which say the chargor can only open an account in a particular way, can only put funds into a particular account, he cannot withdraw from the account unless there are authorities from the chargee. That is what I will call a locked box type procedure which there are no such covenants in this security deed or the financing deed. This is very relevant because, in order to avoid any breach, if there were such provisions, clearly that would be a different kettle of fish.
+ Mr Lennox advised Mr Veal that there were risks of a breach of the RILA
+Financing Deed associated with having a RILA bank account and suggested an alternative, which involved the creation of a custodian arrangement (tr 162).
+He also provided advice as to how it would be possible to structure a custodian arrangement and suggested consideration be given to entering into a custodian arrangement because the opening up of a bank account by a custodian was not an act of RILA and could therefore not be in breach of any covenant in the charge or the RILA Financing Deed. He gave advice that it had to be a custodian arrangement whereby the entire beneficial ownership resided with
+RILA so as to continue to comply with the charge requirements which restricted dealing with the Secured Property and disposing of the Secured Property. Mr
+Lennox gave the following evidence-in-chief (tr 163): 
+I said, the way to deal with that was to have a custodian arrangement which would operate by way of deed poll from the custodian in favour of RILA by designing the custodian arrangement that way, again no agreement having been entered into by RILA, but RILA would have complete beneficial ownership.
+The fees that would normally be incurred by that custodian then entering into a bank account, it being the account holder vis-a-vis the bank and the exposure to bank fees that would result and exposure to a possible argument that was a disposal of property by the chargor could be met by the bank fees being accounted for by either the ordinary shareholding of RILA or some other party.
+ 
+So, in that way to navigate through what was (sic) significant restrictions but not restrictions of a type that there weren't some elements that RILA could conduct and the custodian arrangement was advised that I felt could navigate through those restrictions yet continue to comply with the charge which was probably a concluding aspect in the negative in the sense that the custodian arrangement was not one which bumped up against any covenants restrictions in the charge, there were no provisions in the charge for (sic) the financing deed which said words to the effect you can only open up accounts on those terms with the permission of Alliance & Leicester, there weren't, as I say, these locked box type procedures.
+ Mr Veal informed Mr Lennox that he would consider his advice and get back to him (tr 163). Mr Lennox said that Mr Veal asked him how serious the issue about RILA having a bank account was and how strong Mr Lennox was on the proposition that the custodian arrangement would remove any difficulties. Mr
+Lennox advised Mr Veal that while there were arguments both ways they were in the territory of a "fixing notice" having been given and a termination notice having been given to the Manager. He suggested to Mr Veal that it would be prudent to remove any possibility of breach by not allowing a RILA account to remain open. He also advised that the custodian account issue had possible problems but that he felt he could design the arrangements in a way which did not breach the charge or the RILA Financing Deed. He said he confirmed his earlier advice but that his judgment was there were "issues both ways". Mr
+Veal once again said he would consider the position (tr 168).
+ Mr Lennox spoke to Mr Veal on 3 December 2009 when he said he was "just wanting to confirm that you are proceeding with the custodian arrangement" and
+Mr Veal responded "yes" (tr 170).
+ Mr Lennox advised Mr Veal that it was important to understand the precise terms of the custodian arrangement. He did not draft such a document although he had "proformas" in his office. He gave the following evidence in cross- examination (tr 172-173): 
+Q. You were never asked to draft a custodial arrangement for the purposes of this transaction, correct? 
+A. That's correct.
+ 
+Q. Did you offer to? 
+A. Yes.
+ 
+Q. But they didn't take you up on the offer? 
+A. That's correct.
+
+Q. But you made it clear that the proposed terms of the custodial arrangement would be important in determining whether or not this account opening was a measure which could properly be taken? 
+A. Yes.
+ ...
+
+Q. And that step, drafting an agreement as you say, never took place? 
+A. That's correct.
+ 
+Q. And no consideration was ever given to it? 
+A. No, that's not correct.
+ 
+Q. None by you? 
+A. No, there was consideration. I canvassed this with Mr Veal as to how it would be designed, as I said in my earlier comments. It is true it didn't manifest itself in a written document, but certainly I canvassed a structure with the elements I have spoken of previously.
+
+Q. You made it clear to him that if this arrangement was going to pass muster, this custodial account, it would be essential to draft an agreement and cover the matters which you have referred to? 
+A. Yes.
+ Mr Lennox gave evidence that when Mr Veal contacted him on 2 December 2009 to check again with him the advice he had given about the issue of breach by having a RILA account he asked Mr Veal whether notice had been sent with RILA account details and "what had actually happened". It was at this time that he then began to identify "the issue" (tr 184). On 1 December 2009 he had no knowledge of an existing RILA bank account. He was anticipating that one would be opened in the name of RILA on that day but he had not focussed on the potential breach issue at that time (tr 187-188). Once he became "live to the issue" on 2 December 2009 it prompted him, on the morning of 3 December 2009, to enquire about the status of the account so he could understand where things were in terms of opening the account. Prior to that it was not a legal issue but became such an issue on 3 December 2009 (tr 189). He gave the following further evidence in cross-examination (tr 193-194): 
+Q. Can you think of any reason why it is you would not advise your client that A&L should be told about the fact that the account was to be in the name of a company other than RILA? 
+A. There was no - having reviewed the charge and the financing deed, there were no covenants in that document requiring RILA to hold accounts just in its name. There was no obligation on the chargor to provide information to
+Alliance & Leicester. Yes, it is true the secured property extended to all assets. Provided there was no disposition of property, there was no breach of the charge. So RILA was free to, subject to those SPV provisions being satisfied, it was free to acquire property as it wished. There were no, as I say, locked box restrictions and on the point that you are currently addressing, there was no covenant requiring information to be given to the bank prior to the opening of any account, or entering into any custodian agreement. When asked - and this was an issue that I focused on, on the 2nd - when asked by the chargee as to details concerning the secured property, yes
+RILA had an obligation to provide information at that point, but prior to that time, RILA was free to conduct its business as any other company could, subject to those SPV provisions.
+ The reference to "SPV provisions" in this part of Mr Lennox's evidence was to the special purpose provisions of the RILA Financing Deed. Mr Lennox also gave the following further evidence in cross-examination (tr 194): 
+Q. But didn't you think A&L might form the impression, on receiving just that information, that the account which was referred to was an account opened in the name of RILA? 
+A. A&L had no concern. They had an all assets charge. Any property of
+RILA would be subject to the charge. So whoever (sic) account name it was, provided RILA did not breach the charge, which was about disposing of property, A&L had no cause for concern. And if they had cause for concern, they would have had in their charge - again a material point, locked box procedure.
+ Mr Lennox was asked how he could advise his client in his email of 3
+December 2009 without sorting out the terms of the custodial arrangement and gave the following evidence in cross-examination (tr 196-200): 
+Q. The terms of the custodial arrangement and being satisfied that your client wouldn't be in breach of the transaction documents? 
+A. I gave advice that I believed you could put in place a custodian agreement which, on the one hand did not breach the charge because it didn't cause any disposition of property and/or the other hand, did not cause RILA to breach the SPV provisions.
+
+Q. Can I suggest this course of events, Mr Lennox, ... firstly, that, in the course of your careful consideration in relation to the issue of the new payment instruction post termination of AML, you gave careful consideration to the transaction documents and the concern you've referred to about a potential breach was raised before 1 December, even though you don't recall it? 
+A. Not on this issue of opening the account, no.
+
+Q. And secondly, can I suggest to you that that issue of the change of account came up after receipt of the fixed charge notice in the context of a fixed charge notice? 
+A. In the context of the fixed charge notice? 
+Q. Yes, prompted by the fixed charge notice? 
+A. Yes, I accept that.
+ ...
+
+Q. Can I understand this: Was it your idea to take out the account name? 
+A. Yes.
+ 
+Q. Or was it Mr Veal's idea? 
+A. It was - I gave advice that it was not necessary to include that detail.
+
+Q. Why did you take it out? 
+A. I gave advice it was not necessary.
+ 
+Q. But you included the account name in 3 December? 
+A. Yes.
+
+Q. What had changed between 3 December and now, 15 April, to make you come to the positive view you should actually take out a piece of information, what had changed? 
+A. I had reviewed the covenants. I gave advice to the chargor as to their undertakings that they had given which are very precise, as we know. There was no requirement to disclose details of their private banking arrangements and they had no obligation to do so.
+
+Q. And weren't you motivated by a concern that if Alliance became aware of this, that they would regard it as a matter warranting deep suspicion? 
+A. No.
+ 
+Q. What was the problem in telling them? 
+A. None.
+ ...
+
+Q. I want to suggest to you, didn't you appreciate on 15 April that by specifically referring to that 20 November letter, you were conveying the impression, or the company would be conveying the impression by this 15 April letter, that the account the details of which were set out in the second page, was an account in the name of the company RILA? 
+A. I just don't think it talks anything about RILA. It simply says, as anyone entitled to receive funds is entitled to, they are entitled to direct funds into an account. It doesn't have to be their account. It can be the account of a third party and you look around for any covenants in the charge of (sic) the financing deed restricting that behaviour. That will then speak to the question. In this case, there were none. So the chargor was entitled to direct the funds into that account. This question as to tying it back to the original description, I concede that yes, that that could be interpreted as a
+RILA bank account. But RILA was in its rights, was the advice I gave, that they could direct payment into an account. There was no covenant restriction to the contrary.
+ ...
+
+Q. I suggest to you, he [Mr Veal] made it clear to you he did not want
+KV Management to be referred to as the holder of that account in that letter, didn't he? 
+A. He asked me the question, "Do I need to include the person who had contracted with ANZ Bank to open that account in that account description?"
+And I said, "No, there was no covenant requirement for you to do so".
+ The defendants contend that by failing to disclose that the bank account was not an account of RILA, in circumstances where RILA had previously represented to the RILA Security Trustee, A&L, that payments were required to be made "direct to the account of RILA"; and/or by directing A&L to pay moneys which RILA acknowledged was Secured Property into a bank account that was not RILA's bank account; and/or representing to A&L that the bank account was an account of RILA; RILA attempted, or took steps, to deal with or dispose of Secured Property. RILA did not seek A&L's consent before doing so and therefore breached clauses 4.1 and 4.2 of the Security Deed, which is an Event of Default pursuant to clause 15(f) of the RILA Financing Deed.  The defendants submitted that contrary to the account in his affidavit, Mr
+Kinghorn did not have any actual recollection of being told about a custodian account and he had no intention of entering into any custodial account and no one ever raised that subject with him. There is no doubt that the only solution proposed by Mr Lennox to avoid any risk, of whatever proportion, was to enter into a custodian agreement. The defendants submitted that because
+RILA never pursued the establishment or execution of a custodian document it did not seek to implement the solution proposed by Mr Lennox. It was submitted that the opening of the KVM account could not be understood to be related to the avoidance of breaking the special purpose provisions for the simple reason that the essential element of that avoidance, namely a custodian agreement, was eschewed by Mr Veal. The defendants emphasised that not only did RILA fail to take Mr Lennox' advice to set up a custodian arrangement or agreement, but the Bank form in which the customer was requested to indicate whether the funds were in trust was also silent on that topic. The defendants also emphasised the fact that KVM was not a special purpose company but was actively involved in business on its own account and its ultimate shareholder was, and is, a corporation which, as trustee of a trust, had a receiver appointed to one of its assets.
+ The defendants also relied on the fact that Mr Veal signed the letter of 3
+February 2010 and the Account Authority which made no mention that the funds in the account were to be held on trust for RILA. The defendants contend that the direction in the letter of 15 April 2010 is a direction by RILA that the
+Asset Financier amount and the Management Fee were to be paid into an account "not owned by RILA". It was submitted that the failure to advise or indicate to A&L the identity of the true owner of the account was misleading especially when the 15 April 2010 letter referred back to the 20 November 2009 letter which had referred to RILA's account. Notwithstanding that Mr Lennox had informed Mr Veal in December 2009 that a deed poll was required to bring about the custodian arrangement, no deed poll was entered into between RILA and KVM. In those circumstances the defendants contend that the 15 April 2010 direction was a deceptive request that money be transferred to the account of a third party.
+ The defendants also submitted that the request made of RILA on 16 April to provide the details of the name of the Bank account, the account branch, the signatory names and contact addresses and the date of the opening of account was a reasonable request. However RILA did not answer that request.
+Instead Mr Veal caused solicitors to write to A&L with threats to commence litigation unless there was a payment in accordance with the direction.
+ On 5 May 2010 A&L again requested the information about the Bank account referred to in the 15 April 2010 letter and pointed out that RILA was contractually required to provide that information. It was only on 6 May 2010 that RILA advised that it did not have any bank accounts and conceded that no custodian agreement had "in fact" been entered into at that stage.
+ The defendants submitted that Mr Veal's evidence that one of the reasons why the RILA account was closed was a decision to establish nominee accounts, particularly given the difficulty of opening the account, was misleading and unsatisfactory. When Mr Veal was asked about that evidence he gave the following answer (tr 134-135): 
+Q That was a misleading impression you endeavoured to give to the Court in giving that answer, wasn't it? 
+A. It was not a misleading impression. The difficulty with having these accounts owned in this fashion is a practical difficulty.
+ Mr Veal gave evidence that the reason for closing the RILA account and opening the KVM account was because "opening bank accounts in company names is quite an effort". The defendants submitted that RILA did not tender any document which suggests, let alone establishes, there was any difficulty in opening an account in RILA's name. Indeed the evidence establishes that the process of opening the RILA account was a simple one. The defendants also submitted that RILA did not tender any documents to establish the decision to move to nominee accounts as asserted by Mr Veal. It was submitted that the documents tendered by RILA in relation to five of the accounts (Ex E) do not establish the practice alleged. The documents in Exhibit E are entitled "Company/Formal Trust Account Authority". There is no reference in any of those documents to the account being held as "nominee" or "trustee" or "custodian". Each account refers to the holder "as Manager" of particular joint ventures.
+ The defendants also submitted that the email to the Bank dated 3 December referring to the "legal advice" as the reason for the closure of the RILA account does not refer to any decision to move to nominee accounts nor to any difficulties in opening accounts. It was submitted that Mr Veal's evidence in relation to a decision to move nominee accounts and the difficulties of opening accounts should be rejected.
+ The defendants also submitted that the suite of agreements in relation to these transactions was drawn up on the basis that RILA would receive payments and submitted there is nothing in the agreements that could possibly lead to a breach arising from RILA owning a bank account. By way of example the defendants pointed to clause 14.1(i)(i) of the RILA Financing Deed in which
+RILA undertook not to "engage in any business or other activity (whether of a commercial nature or otherwise) other than as contemplated in the Transaction
+Documents". It was submitted that this provision clearly contemplates RILA opening, owning and operating a bank account. It was also submitted that by clause 14.1(i)(iii) of the RILA Financing Deed, RILA undertook not to "have any assets other than those under or derived from the Transaction Documents and its share capital". It was submitted that RILA opening, owning and operating a bank account could not possibly have contravened this undertaking.
+ The defendants submitted that Mr Veal sought to qualify his answers in relation to the timing of the Fixed Charge Notice and the opening of the KVM account. It was submitted that the evidence of Mr Veal, Mr Lennox and Mr
+Kinghorn establishes that after receiving the Fixed Charge Notice RILA engaged in a deliberate course of conduct to hide the fact that KVM owned the account the subject of the payment direction in the letter of 15 April 2010. It was submitted that to the extent that it may be relevant, RILA's conduct was not in the ordinary course of RILA's business; it did not have any custodian arrangements with KVM and it attempted to put money into an account owned by
+KVM so that if a receiver was appointed KVM and RILA could argue that KVM owned the funds.  
+Was there an attempt to deal with Secured Property? For the purposes of the determination of this aspect of the matter I intend to assume that there is a fixed charge over RILA's assets. The question is whether RILA's conduct amounts to an attempt to deal with the Secured
+Property or an attempt to allow any interest in it to arise in breach of clause 4.2 of the Security Deed. The main matter for decision is whether I accept RILA's claims that it was always intended to have KVM hold the Secured
+Property on trust for RILA in the KVM account which was intended to be a nominee account, with KVM as RILA's nominee.
+ One of the problems in relation to the communications between RILA's director, Mr Kinghorn, and his lawyer Mr Lennox, was that Mr Veal was the person providing instructions to Mr Lennox and receiving advice from Mr
+Lennox. It was Mr Veal who then transmitted the advice to Mr Kinghorn. This was not an ideal situation and it is not surprising that there were some inconsistencies between what Mr Kinghorn understood the advice to be and the advice given by Mr Lennox. The defendants seized on these inconsistencies to submit that the evidence of Mr Veal and Mr Kinghorn in so far as they claim that the Secured Property was to be held by KVM on trust for RILA should be rejected.
+ The defendants relied upon the inconsistency between the evidence of Mr
+Veal and Mr Kinghorn on the one hand and the evidence of Mr Lennnox on the other as to the advice about the nature of the "risk" of RILA being in breach of the RILA Financing Deed by having the RILA bank account. There was also reliance upon some internal inconsistencies in Mr Kinghorn's evidence in this regard. Mr Veal's evidence was that Mr Lennox had given advice that there was a "small risk" of RILA being in breach of the RILA Financing Deed by having the RILA bank account (tr 54). He gave evidence that he informed Mr Kinghorn that Mr Lennox had given advice that there was a "low risk, small risk" of someone arguing that there was such a breach (tr 131). Mr Kinghorn's evidence in his affidavit was that Mr Veal had informed him that Mr Lennox had advised that there was a "very small risk" of such a breach (par 11). In cross- examination Mr Kinghorn said that the advice received was that there was a "small risk" of such a breach (tr 150). When Mr Kinghorn was reminded of his affidavit evidence he gave the following evidence (tr 155-156): 
+Q. Do you remember in your affidavit you talk about very small risk? 
+A. Risk, small risk is a small risk.
+
+Q. In your affidavit you said very small risk? 
+A. A very small risk, yes.
+
+Q. Do you have a recollection of what was actually said about the risk? 
+A. It was a small risk, yes.
+
+Q. Was it, do you recall now whether very small or is that something you are not sure about now? 
+A. I can't recall it was a very small risk.
+
+Q. Could have been very small? 
+A. Very small.
+
+Q. Could have been small? 
+A. Small.
+
+Q. It might not have even been the word small used at all? 
+A. No, I think it was used.
+ Mr Lennox gave evidence that he did not use the expression "small risk" and he did not believe that the expressions "small risk" or "very small risk" fairly characterised his advice (tr 197-198). However Mr Lennox gave evidence that he did advise Mr Veal that there were "risks" that RILA would be in breach of the RILA Financing Deed by having the RILA account (tr 162; 169).  It appears that Mr Lennox' view was that the risk was somewhat greater than small or very small. Assuming that Mr Kinghorn's affidavit evidence contains the more accurate reflection of his understanding at the time, that is, that Mr Lennox had advised that there was a "very small risk" of such a breach, the following evidence needs to be considered in assessing his evidence generally (tr 153-155): 
+Q. What did you understand was the problem in RILA having its own bank account? 
+A. I didn't really get to the detail.
+
+Q. Did it strike you as a bit odd that RILA could [not] have its own bank account? 
+A. It did, yes actually.
+ 
+Q. It struck you as odd when you were told that? 
+A. It did seem it, yes.
+
+Q. Do we understand you said nothing about it, notwithstanding you thought it was odd? 
+A. Correct 
+Q. You said nothing about it? 
+A. We had advice there was a small risk, it was prudent not to take the risk.
+
+Q. Did you ask what the risk was? 
+A. I didn't really get into it, no.
+ 
+Q. You are a director of RILA? 
+A. Correct.
+ 
+Q. You are the only director of RILA at this point in time? 
+A. Yes.
+
+Q. Say you have to make a decision as to whether or not this decision, this step is taken? 
+A. Yes.
+ 
+Q. You don't see the advice? 
+A. No 
+Q. You don't speak to Mr Lennox? 
+A. No.
+ 
+Q. You don't understand the advice? 
+A. No.
+ 
+Q. You don't ask questions about the advice? 
+A. Correct.
+ 
+Q. That is not your true evidence, is it? 
+A. Yes it is.
+
+Q. You didn't understand the basis, you couldn't comprehend how it could be a breach of an agreement, did you? 
+A. I thought, well, I have a high-level understanding of the documents,
+Tom would have a much more greater detail, if Tom says that it is a small risk there, there is a small risk.
+
+Q. You couldn't comprehend how there could be a risk in the agreement in RILA having its own bank account? 
+A. I couldn't understand it, no.
+ 
+Q. And didn't understand it then? 
+A. No.
+ 
+Q. You didn't believe that was a risk, did you? 
+A. I wasn't sure.
+
+Q. It was really Mr Veal suggesting that the account should be opened that caused you to agree with him? 
+A. A conversation with Mr Veal, yes.
+
+Q. If Mr Veal hadn't suggested that an account should be opened you wouldn't have done anything, correct? 
+A. Correct 
+Q. You didn't get into the issue with Mr Veal as to whether or not there was a risk in RILA having its own bank account because you are happy to rely on Mr Veal's judgment as to what should or should not be done, correct? 
+A. And Tom's conversation.
+ 
+Q. You didn't understand what Tom was saying to you? 
+A. No.
+
+Q. You could hardly rely on what Tom was saying if you had not spoken to him and didn't understand what he was saying, correct? 
+A. No, I have dealt with Tom for a while now, if he says there was a small risk than I am happy to take his advice.
+
+Q. He didn't give advice that KV Management should open an account, did he? 
+A. No, he said that there was a risk that the account that we had opened could be a small risk if the account we had opened was, there might be a breach of the SPV provisions.
+
+Q. He didn't give advice that KV Management should open an account, did he? 
+A. I haven't seen the advice.
+
+Q. You weren't told by Mr Veal that he gave advice that KV should open an account? 
+A. No.
+
+Q. In fact you don't recall what was said by Mr Veal as to what Mr
+Lennox had said, do you? 
+A. No, I do remember him saying that Tom had said there was a risk that we were in breach of the SPV provisions and again I have to go back but I, and
+David recommended there was a way to fix it and we took that action.
+
+Q. Your best recollection was Mr Veal coming up with the recommendation of a way forward? 
+A. Correct.
+ 
+Q. Not Mr Lennox? 
+A. David got advice from Tom, yes.
+
+Q. But your recollection now is that, is it not, it was Mr Veal's suggestion that the account should be opened? 
+A. I had that conversation with Mr Veal, yes.
+ The defendants contend that RILA was not concerned about a breach of the
+RILA Financing Deed. It was submitted that Mr Kinghorn's evidence in this regard should be rejected because it is "bizarre" to suggest, as Mr Kinghorn did in his evidence, that he would act on advice that he did not understand, about which he asked no questions and which he thought was "odd" (tr 220). It was submitted that the fact that RILA closed its account at the time that it did was not mere coincidence but was directly related to the receipt of the
+Fixed Charge Notice with the intention to move the Secured Property out of the reach of the fixed charge into KVM's hands.
+ The closure of the RILA account occurred almost immediately after the receipt of the Fixed Charge Notice. However by the time that Mr Veal had concluded his initial cross-examination and before leave was granted to ask further questions in chief, he had given various reasons for the closure of the RILA account but no suggestion was made that the timing of the closure was related to the receipt of the Fixed Charge Notice. After leave was granted to ask further questions in chief, Mr Veal was asked why the RILA account was closed in early December 2009 (tr 53-54). In answering this question Mr Veal made no mention of the receipt of the Fixed Charge Notice (tr 53). In further cross-examination as set out earlier (par 98) Mr Veal agreed that it was "fair" to suggest that the closure of the RILA account and the opening of the
+KVM account was "prompted wholly and solely by the notification of the fixed charge" (tr 80-81). Mr Veal described the position differently when he was recalled later in the trial. On this occasion he said that the receipt of the
+Fixed Charge Notice was a "contributing factor" to the decision to close the
+RILA account (tr 132). I should say that this part of Mr Veal's evidence was given after further documents had been produced from the solicitor's file in which Mr Lennox gave advice about the closure of the RILA account and the opening of the KVM account.
+ The lack of mention in Mr Veal's original evidence of the receipt of the
+Fixed Charge Notice and the later adjustment of his evidence that the closure of the RILA account was prompted "wholly and solely" by its receipt to it being only a "contributing factor" provided a further basis for the submission that Mr Veal's evidence in relation to the nature of the KVM account should be rejected. It seems to me that it is not possible to assess this evidence without once again commenting on the manner in which the evidence developed in this trial. The matter was brought on fairly promptly and issues became clearer after the production of Mr Lennox' e-mails and there was further time for the consideration of the chronology of relevant events. Notwithstanding these matters it is necessary to be conscious of these different positions when considering whether I should accept the accuracy of Mr Veal's evidence.  I am of the view that Mr Lennox' evidence is of great importance in assessing whether the defendants are correct in their contention that RILA attempted to deal with the Secured Property in breach of clause 4.2 of the
+RILA Security Deed. It has to be remembered that RILA was in a litigious mode with AML in relation to its termination and Mr Lennox was very conscious of not only that fact but also of what he described as the "fixing notice". I have no doubt that he was concerned that RILA may be exposed to allegations of breach of the Financing Deed because it had opened the RILA bank account. On reflection Mr Lennox might feel that such a concern may have been unwarranted but there is no doubt in my mind that he was motivated to protect RILA from such an allegation. I am also satisfied that Mr Lennox' communications with Mr
+Veal were intended to convey to Mr Veal, and to Mr Kinghorn, the importance of the KVM account being either a nominee account or a custodian account.
+ Mr Lennox' unchallenged evidence was that on 3 December 2009 he confirmed with Mr Veal that RILA was "proceeding with the custodian arrangement" and Mr
+Veal responded "yes" (tr 170). When I say that this evidence was unchallenged
+I mean that it was not suggested to Mr Lennox that this conversation did not occur. There were certainly challenges as to whether such a custodian arrangement was ever entered into by RILA. There is no issue that there is no written custodian agreement in place. However it is necessary to decide whether that absence proves that RILA intended to deal with the Secured
+Property.
+ To establish a breach of clause 4.2 of the Security Deed it is necessary to show that RILA's intention was to deal with the Secured Property in the manner alleged, that is, to move it into KVM's account without any beneficial ownership remaining with RILA.
+ Mr Lennox was giving advice in early December 2009 as to how RILA should conduct itself to avoid allegations of breach of the RILA Financing Deed. He advised that it was important to open the KVM account in a particular style and manner in what he described as a "custodian arrangement" so that RILA maintained beneficial ownership and did not dispose of the Secured Property.
+His clear advice was to style the account as "RIL Aviation HL 7740 and HL ". That was done. Mr Lennox then advised as referred to earlier (par 103): 
+This should be sent to ANZ and as such the legal owner of the bank account will be KV. KV will however hold this as a custodian or nominee for RILA.
+ That advice conveys that once the account was so styled KVM would hold the account as "custodian or nominee for RILA". When this advice is combined with the conversation Mr Lennox had with Mr Veal on 3 December 2009 the probability is that RILA's intention was not to part with beneficial ownership of the
+Secured Property. This is irrespective of whether Mr Lennox' advice in relation to the risk of breach was accurate. It is clear that Mr Kinghorn accepted Mr Lennox advice. I do not regard Mr Kinghorn's acceptance of the advice in the circumstances outlined above as "bizarre". Rather I am satisfied that he trusted Mr Lennox to have a more detailed knowledge of the workings of this complex suite of agreements in the light of the litigation or proposed litigation with AML and the receipt of the Fixed Charge Notice. This was a volatile situation and I have no doubt that it was left to Mr Lennox to guide
+RILA's conduct at this time.  It is not unreasonable for the defendants to have relied upon RILA's conduct in failing to disclose the name of the account and writing a letter that on any reasonable view would suggest that it was the RILA account into which the money was to be paid, to suggest that RILA intended to deal with the
+Secured Property. It seems to me that RILA's conduct in this regard was most unsatisfactory. Unfortunately Mr Lennox gave advice that RILA did not have to disclose the name of the account to A&L. It seems to me that RILA depended upon its solicitor to ensure that the process by which it sought direction for payment was consistent with its obligations. There is no doubt that RILA was entitled to receive the Secured Property and that it had obligations in respect of that Secured Property. I am satisfied that had Mr Lennox advised
+RILA to inform A&L that the account that was referred to in the letter of November 2009 had been closed and the new account, a nominee or custodian account, in the name of KVM styled "KV Management Pty Ltd: RIL Aviation HL and HL 7741", was that into which it sought payment of the Secured
+Property, the suspicions reasonably raised in A&L's mind would have been avoided. I am not satisfied that the failure to make the appropriate disclosure to avoid misleading A&L is a matter that establishes either alone or together with RILA's other conduct that it intended to deal with the
+Secured Property.
+ Mr Lennox gave evidence that he gave advice to Mr Veal about the specific structure that could be put in place to establish a custodian arrangement. His evidence was that it would operate by way of "deed poll" (tr 163). He also gave evidence that he was not asked to prepare a custodian agreement. The letter from RILA to A&L dated 6 May 2010 advised that the KVM account was to be a special purpose custodian account and that the funds, that is the
+Secured Property, if deposited "would have been held by KVM as a custodian of
+RILA". That letter also included the statement that, "Given that no funds have been received no such custodian arrangement has been entered into".
+ I do not regard these statements as evidence of an intention to create a trust at a later date as referred to in Pascoe versus Boensch at [21]. The intention to create the trust was formed when Mr Lennox gave his advice in
+December 2009 and Mr Veal agreed on 3 December 2009 that RILA had decided to proceed with the custodian arrangement. The subject matter of the trust was the Secured Property and clearly the objects of the trust were to hold the money for RILA to enable RILA to comply with its obligations under the
+Transaction Documents. The fact that there was a dispute over whether Ladbroke was entitled to the Management fee that had previously been paid to AML does not change these conclusions.
+ I am not satisfied that the absence of any written custodian agreement in the circumstances that I have described establishes that Mr Kinghorn decided not to take Mr Lennox advice so that the Secured Property could pass to KVM. I have no doubt that Mr Kinghorn intended to follow Mr Lennox' advice. I also have no doubt that it was Mr Kinghorn's intention that KVM hold the Secured
+Property on trust for RILA when A&L paid money into the KVM account. I am not satisfied that RILA intended to deal with the Secured Property as alleged.
+ I am satisfied that RILA has not breached the negative pledge and this
+Event of Default in the Notice of Default is not made out.  
+Non-Payment The defendants claim that Management fees were due and payable to Ladbroke on the April Payment Date, 13 April 2010, and on the May Payment Date, 13 May , pursuant to clause 8.10 of the Financing Deeds and the Management Fee
+Letter and that RILA failed to make those payments or give a direction for payment.
+ There is a fairly simple answer to the first claim. RILA was not notified formally until 5 May 2010, after the April Payment Date, of Ladbroke's appointment. Even the informal notification by email on 15 April 2010 was after the April Payment Date. It is also apparent that the amount was held in an escrow account. Accordingly I am satisfied that there is no Event of
+Default in relation to the non-payment of the April payment.
+ As to the alleged Event of Default in respect of the non-payment or direction for payment in relation to the May Payment, A&L extended the date for the direction to pay to 18 May 2010 and RILA complied by giving such direction to pay into the KVM account. I am satisfied that there is no Event of Default in respect of the May Payment Date.  
+CONCLUSION RILA is obliged to pay Ladbroke the Monthly Management Fee in the Schedule in the Management Agreement headed "Management Fee Letter". The defendants are not entitled to rely on the Notice of Default.
+ The parties are to bring in Short Minutes of Order together with an agreed costs order. If the parties are unable to agree on a costs order I will hear argument when the matter is listed on 5 November 2010 at 10am (or such other suitable date to be arranged with my Associate) for the filing of the Short
+Minutes of Order.
+ 
+LAST UPDATED:  October 2010 * * * 

@@ -1,0 +1,768 @@
+
+
+Bannister & Hunter versus Transition Resort Holdings (No.3) [2013] NSWSC (20 December 2013) 
+Last Updated: 4 August 2014 
+Supreme Court 
+New South Wales  
+Case Title: 
+Bannister & Hunter versus Transition Resort Holdings (No.3)  
+Medium Neutral Citation: <case>  
+Hearing Date(s): /11/2013, 05/11/2013, 06/11/2013, 7/11/2013, 08/11/2013 and 12/11/2013  
+Decision Date: December 2013  
+Jurisdiction: 
+Equity Division - Technology and Construction List  
+Before: 
+McDougall J  
+Decision: 
+Plaintiff's claim for fees made out subject to defence of set-off. Defendant's cross-claim for damages succeeds in part. Claims to be set off. Parties to bring in orders.  
+Catchwords: 
+CONTRACTS - building contracts - where contractor retained to provide design and construction management services - whether contractor charged for design work performed by another contractor - no question of principle  
+CONTRACTS - building contracts - where contractor retained to provide design and construction management services - where design defective - no question of principle  
+CONTRACTS - building contracts - where contract required contractor to call for tenders for certain works - whether requirement met - falls for decision on particular facts  
+BUILDING & CONSTRUCTION - progress claims - whether contractor used an inappropriate conversion rate to convert cubic metres to tonnes - whether contractor certified for a greater volume of fill than was delivered - whether the plaintiff was charged for fill that was offered free of charge and not delivered  
+CONTRACTS - building contracts - where contractor was required to manage and supervise other contractor's works - whether steps taken to supervise works appropriate in the circumstances  
+DAMAGES - rectification - costs of rectification - insufficient evidence to determine the extent and cost of rectification - whether those questions should be referred out  
+DAMAGES - building contracts - defective works - damages not limited to diminution of value in property - damages ordinarily calculated as a cost of making work conform to specifications - limitation that remedial work must be necessary to produce conformity with the specifications and reasonable in the circumstances  
+Cases Cited: 
+Bellgrove versus Eldridge <case>; <case> 
+British Westinghouse Electric and Manufacturing Co Ltd versus Underground Electric
+Railways Co of London Ltd [[1912] AC 673] 
+Central Coast Leagues Club versus Gosford City Council (9 June 1998, unreported) 
+Cordon Investments Pty Ltd versus Lesdor Pty Ltd <case> 
+De Cesare versus Deluxe Motors Pty Ltd <case> 
+Radford versus De Froberville <case> 
+Tabcorp Holdings Ltd versus Bowen Investments Pty Ltd <case>; <case> 
+Westpoint Management Ltd versus Chocolate Factory Apartments Ltd <case>  
+Category: 
+Principal judgment  
+Parties: 
+Bannister & Hunter Pty Ltd (Plaintiff/First Cross-Defendant) 
+Transition Resort Holdings Pty Ltd (Defendant/Cross-Claimant) 
+Peter William Barclay (Second Cross-Defendant)  
+Representation - Counsel: 
+Counsel: 
+M Windsor SC / G Gemmell (Plaintiff/First Cross-Defendant) 
+DS Weinberger (Defendant/Cross-Claimant)  - Solicitors: 
+Solicitors: 
+Indemnity Legal Pty Ltd (Plaintiff) 
+Gadens Lawyers (Defendant/Cross-Claimant)  
+File Number(s): /41432  
+JUDGMENT
+HIS HONOUR: The plaintiff (BH) agreed with the defendant (Transition) to provide design and project management services for a proposed residential subdivision to be undertaken by Transition at Fern Bay, north of Newcastle. Each party makes a claim against the other. BH's claim is for unpaid fees. Transition (in addition to disputing that all the fees claimed are payable) claims damage that it says it suffered because BH provided its services negligently, and in breach of contract. 
+The real issues in dispute 
+The parties furnished competing (although not conflicting) statements of the real issues in dispute. I take from those statements, and from the conduct of the case, the following real issues: is BH entitled to the fees that it claims? Specifically, and as Transition alleges, does the claim include a claim for fees of about $27,800.00 for work actually undertaken by another consultant, Patterson Britton, for which work
+Patterson Britton has invoiced Transition direct and Transition has paid? 
+Should BH have provided in its design for grades of less than 1%, so as to minimise the importation of fill? 
+Should BH have incorporated into its design a pavement box out for the roads, again so as to minimise the importation of fill? 
+Should BH have called tenders for the supply and delivery of fill, so as to seek to obtain a better price than that which was accepted? 
+Did BH fail properly to assess progress claims made by the bulk earthworks contractor, Robson Civil Engineering (Robson), by: adopting an inappropriate conversion rate to convert from one unit of measurement, cubic metres, to another, tonnes (the contract to supply was in tonnes, and Robson was entitled to be paid for tonnes supplied and delivered, but the assessment of the quantity of fill was undertaken by survey, computing the number of cubic metres delivered)? 
+Otherwise over-certifying for fill actually delivered to the site? 
+Certifying that Robson was entitled to be paid for the supply of approximately 7,000 tonnes of "free issue" fill received from a site known as "Lee Wharf"? 
+Did BH's obligations of project management and contract supervision require it to ensure that the geotechnical consultant retained by Transition, a company known as Coffey Geotechnics (I will refer to this company and its related entities simply as "Coffey", without further differentiation) carried out properly and effectively its obligation to supervise and test the importation, spreading and compaction of fill? 
+Was the fill of the required standard? 
+If not the required standard, how should the deficiencies be rectified, and what is the cost of rectification? 
+Is Transition entitled to the cost of rectification (should it be found to be necessary) in circumstances where it has sold the land and has no interest in the land or in any ongoing development of it?
+In relation to the various allegations of breach raised by issues 2 to 7, there are questions as to whether in fact Transition has suffered (or has proved that it has suffered) loss, and as to the quantification of any loss. 
+Transition framed its cross-claim in both contract and tort. Mr Weinberger of Counsel, who appeared for Transition, accepted that if his client did not succeed in contract, it could not succeed in tort. 
+Transition had also cross-claimed against Mr Peter Barclay, a principal of BH. Mr Barclay is a registered surveyor. He negotiated the contract that was made between BH and Transition. He appears to have had principal responsibility for the performance of BH's obligations of project management and supervision. Another principal of BH, Mr Chris Slater (who is an engineer), had responsibility for design matters. Mr Slater may also have had some involvement in project management and supervision. 
+The cross-claim against Mr Barclay asserted both negligence and misleading or deceptive conduct on his part. That cross-claim was dropped, belatedly and only in the course of final submissions, when Mr Windsor of Senior Counsel, who appeared with Mr Gemmell of Counsel for BH and Mr Barclay, was advancing his submissions in defence of the cross-claim. 
+A claim for misleading or deceptive conduct was also advanced against BH. I do not know if it was explicitly dropped when the cross-claim against Mr Barclay was dropped. However, there were no separate submissions addressed to this asserted head of liability. Accordingly, I have excluded any reference to misleading or deceptive conduct from the statement of the real issues in dispute, and I do not propose to consider that aspect of the "pleaded" case. 
+The witnesses 
+BH called Mr Barclay. Transition called its sole director and guiding mind, Mr Bernard McCool. Each party called expert witnesses. 
+I do not think that either Mr Barclay or Mr McCool sought consciously to mislead the court. However, I think, the evidence of each has been affected, although I accept subconsciously and unintentionally, by perceptions of self-interest. There were aspects of the evidence of each that were of some concern. 
+Mr Barclay's affidavit evidence was given at a level of considerable generality. For example, his answers to various conversations asserted by Mr McCool to have taken place were often no more than denials. Nonetheless, and somewhat surprisingly, Mr McCool was cross-examined on the detail of those conversations, with the obvious aim of challenging his account. 
+There was a pattern in Mr Barclay's cross-examination, of denial followed (after being shown a contemporaneous document) by acceptance of the proposition originally denied. That has given me some cause to consider the accuracy of his recall of the relevant events. 
+Mr McCool appeared to have a good recall of the relevant events. His evidence was not substantially shaken in cross-examination. However, Mr McCool had a strong tendency (exhibited throughout the whole of his lengthy cross-examination) to foist answers on cross-examining counsel, by repeating, whether it was relevant and responsive or not, the mantra of reliance on BH. 
+Nonetheless, despite the unfavourable impression created by his manner of giving evidence, much of Mr McCool's evidence was corroborated. Often, that corroboration came from contemporaneous documents. On more than one occasion, and somewhat surprisingly perhaps, it came from Mr Barclay. 
+To my mind, the safest guide to the truth is to be found in the contemporaneous documents, and in the probabilities, viewed objectively and in the context of what was happening at the relevant time. That having been said, in general, and to the extent that it matters, where there is a conflict between the evidence of Mr Barclay and that of Mr McCool, I prefer the evidence of Mr McCool. 
+BH called a geotechnical engineer, Mr Garry Mostyn, as an expert witness. Transition called another geotechnical engineer, Mr Andrew Shirley, and a civil engineer, Mr Robert Staniland, as expert witnesses. To my mind, although each of those gentlemen was forthright in supporting the opinions that he had expressed, none of them did so in a way that could be regarded as advocating the interests of the party by whom he was called. On the contrary, I formed the view that each of them was conscious of his duty to the court, and sought to perform it. 
+It should be noted that, through the process of conclave and joint report, the issues between the experts were narrowed. Their evidence was taken in concurrent session, and that proved to be a most valuable way of understanding the real remaining issues between them, and the reasons why (to the extent they did) they disagreed. 
+The development at Fern Bay
+The development site lies between Nelson Bay Road and the Hunter River (or, more accurately, a reserve which in turn abuts the Hunter River). It comprises about 18 hectares in total. Transition wished to develop it into a large number of lots on which would be erected or installed "manufactured homes". The development was referred to from time to time as a "manufactured home estate", or MHE. As I understand it, a manufactured home estate is a residential subdivision on which relocatable dwellings are placed. Mr McCool intended the development to provide low cost independent living facilities for older members of the community. In this particular case, he intended that the residential lots would be leased rather than sold. 
+The site required a deal of work to make it suitable for Transition's purposes. It was subject to inundation from the Hunter River. In addition, as a result of previous uses, it contained small quantities of asbestos in a few discrete locations. It contained also gypsum and building rubble. It was necessary that the site be trimmed, that a "capping layer" of relatively impervious material (such as clay) be placed and compacted, and that a further layer of fill be placed over the capping layer, and itself compacted. 
+Some of the fill required could be obtained by trimming higher parts of the site (a process known as "cut to fill"). However, most of the fill would have to be imported. Material known as "Virgin Excavated Natural Material" (referred to in the course of this case, and in these reasons, as "VENM") was to be used at least for the upper layer of fill. 
+Originally, it was proposed that the capping layer be 500mm thick and that the VENM, or upper, layer be 1500mm thick. However, by some undisclosed means, the design was changed, and the thickness of the VENM, or upper, layer was reduced to 1000mm. That change appears from drawings produced by BH in August 2007 and January 2008. The change was not explained. Mr Slater, who had responsibility for the design of the earthworks, did not give evidence. 
+Transition intended to carry out the development of the Fern Bay site by stages. The first stage, stage 1, comprised what was essentially the southern portion of the site. It included the areas where the development's community facilities would be constructed. 
+The retainer of BH
+At about the time Transition was contemplating development of the Fern Bay site, it was engaged (or about to become engaged) in the development of another MHE at Leppington. It engaged a surveyor, Mr Brent Annis-Brown, as project manager for this development. Mr Annis-Brown was unable, as well, to manage the proposed development at Fern Bay. He suggested that Mr McCool consider engaging BH. 
+On 19 September 2006, BH submitted a fee proposal. The covering letter, which was dated 14 September 2006, referred to issues that required attention, and to the retainer of other consultants: 
+From our involvement to date, we are aware of the following issues requiring immediate attention:
+Renegotiation of the Development Consent to provide for a layout that will accommodate modern manufactured dwellings more efficiently (as prepared by yourself).
+The determination of the final contamination strategy, i.e. can capping of the whole site be accommodated with sufficient cover to provide for services, footings for dwellings and roadworks.
+We understand that the importation of bulk fill material is proposed to raise the levels through the property. This will benefit the drainage system for the site, and increase the vertical separation from the contaminates.
+As a result of that strategy, a review of the Flood Evacuation Plan and
+Soil and Water Management Strategy may prove necessary.
+We further understand that the terms of Council's consent require commencement of the deferred consent in the immediate future. We are in a position to provide immediate surveys, engineering design and planning services as required to meet that deadline.
+
+You will appreciate that it is difficult to cost out a "pioneering" project such as this, given the bureaucratic framework of planning in this State.
+Despite that, we have enclosed our Schedule of Fees (and accepted a level of uncertainty) as we are committed to making this new approach to affordable housing work.
+
+In addition to our briefs, we note that the following Consultants will need to be briefed by us on the client's behalf. They are:
+Consultant for water reticulation
+Consultant for sewer pump station
+Consultant for internal sewer
+Consultant for telephone
+Consultant for electricity
+Consultant for wetlands
+Consultant for geotechnical (pavements and density testing)
+Landscape Architect (in consultation with Tony Tribe) 
+Please note that some of these briefs may be undertaken by Bannister &
+Hunter if sufficient resources are available.
+The fee proposal sent with the letter quoted fees for the following services: 
+Section 96 (Including bulk Earthworks) 
+Peter Barclay with assistance from Chris Slater and Planner as required
+Intersection 
+Project Management: Peter Barclay - Liaise with Design Consultant/RTA/Client - Geotechnical for pavement widening/entry/exit - Call tenders/assess/report 
+Contract Supervision: Chris Slater 
+Work as Executed: Peter Barclay (Contractor to survey subgrade pavement layers etc)
+Bulk Earthworks (Including contamination treatment based on capping only required) 
+Project Management: Peter Barclay - Liaise with Client, Geotechnical Engineer, Council or Certifier call tenders, report to client 
+Engineering Design: Chris Slater - Regrade existing surface details - Fill Detail - Soil and Water Management Plan 
+Contract Supervision: Chris Slater/Peter Barclay 
+Survey: Peter Barclay 
+Set out SEPP 14 boundary 
+Monitor levels/Work as Executed
+Mr McCool responded by email to Mr Barclay the same day. The email said, relevantly: 
+Firstly, your Fee proposal has been prepared on a task/lot basis. I am happy with the amount of fees for each task but I am not agreeing to a lump sum basis. I retain the right to terminate the Agreement/Commission in the event of non-performance. In such event we shall pay for only those tasks that have been competently completed.
+
+Secondly, I am not happy with any attempt to limit liability. I expect you to discharge your duties diligently. Liability should be left to the Court system.
+
+Thirdly, I expect that one your fees have been paid copyright in all documents, drawings, works, etc. shall vest with us and remain with us thereafter.
+
+Finally, the billing address for Transition is 135 Monaco Street, Broadbeach
+Waters, QLD. 4218.
+
+Unless you have any major problems with the above changes then I shall have my solicitors redraft the Agreement to reflect same. Please advise.
+Mr Barclay replied later that same day. He said, in answer to Mr McCool's points: 
+Our intention was to agree on the cost of the various tasks/lot, and the totals were included for the sake of completeness. Please note that the fees for items 1 to 3 are for the whole site. We are happy to proceed on this basis, and are not seeking a lump sum contract.
+We accept your comments re liability.
+Copyright for our documents etc will vest in your company, other than documents held in the public domain. The latter could include plans of survey.
+The billing address is noted.
+
+We trust that the above advices are acceptable, and we look forward to working with you.
+Mr McCool did not ask his solicitors to redraft the agreement. 
+It was common ground that the contract between the parties was made on the basis of BH's letter and fee proposal of 19 September 2006, amended by the specific matters raised by Mr McCool in his email of 19 September 2006 and accepted by Mr Barclay in his email of the same date. 
+The retainer of Coffey
+Coffey was retained to provide a number of geotechnical and environmental services. Specifically, it is common ground between the parties that Coffey was retained to provide what was referred to as "level 1 supervision" of the earthworks: that is to say, of the importation, spreading and compaction of fill. Appendix B to Australian Standard 3798-1996 (AS3798) specified that, for a geotechnical testing authority (which Coffey was), level 1 services were as follows: 
+The Geotechnical testing authority provides a full-time inspection and testing service on all earthworks (including stripping, proof rolling and associated operations), on the project and decides the locations and timing of sampling and testing operations.
+
+On completion of the earthworks, the geotechnical testing authority may be required to provide a report setting out the inspections, sampling and testing it has carried out and the locations and results thereof. Unless very unusual conditions apply, the authority may also be required to express an opinion that the works, so far as it has been able to determine, comply with the requirements of the specification and drawings.
+In addition, Coffey performed a number of other services. It assessed the site for contamination. It advised that, once trimmed, the site should be capped with a 500mm layer of clay together with an upper layer "of at least 1000mm" (see an email from Mr Annis-Brown to Mr McCool of 31 May 2006), or "about 1.5 metres of fill" (another email from Mr Annis-Brown to Mr McCool, of 6 June 2006). It provided a "preliminary construction advice" of 3 May 2007, which set out the "earthworks methodology" to be adopted. That document specified, among other things, a capping layer of 500mm depth and an overlying VENM layer of 1500mm depth (in each case, said to be minimum levels). 
+Coffey's involvement went further still. It produced a draft and then final filling control plan and quality system (FCPQS). The name of the FCPQS sufficiently indicates its function. 
+At the conclusion of the stage 1 earthworks, Coffey produced a "site regrading report" and a "validation report". By then, Mr McCool had become dissatisfied with Coffey's performance of its obligations. He had made his dissatisfaction known to Coffey, in what appears to be his customarily forthright way. For those and other reasons, the regrading report and the validation report were not admitted to prove that the stage 1 earthworks had been carried out to the required standard. They were however admitted to prove the various matters of fact (including test results) stated in or annexed to them. 
+First issue: BH's claim for fees
+It was common ground that BH had undertaken the obligation of designing the roadworks, although, equally, it was common ground that BH could, if it chose, subcontract that design work out to a suitably qualified engineer. Finally, it was common ground that, if BH did subcontract out its own design responsibility, it was required to absorb the cost out of the fees otherwise payable to it by Transition. 
+The essential issue is whether the work undertaken by Patterson Britton was design work which BH should have performed, or for which it should have paid Patterson Britton itself; or whether it was work outside the scope of BH's design obligations. 
+Patterson Britton submitted a fee proposal dated 25 September 2006. That proposal covered four elements: intersection design, traffic management plan / road safety audit and liaison with RTA and Council to gain the relevant authority approval to allow construction; revision / development of the existing stormwater management plan for the site, taking into account current best practice water sensitive methods such as bio-retention swales / basins, allowing the realisation of a lower level of fill imported to the site; 
+Preparation of detailed design plans for stormwater treatment measures, including bio-retention swales and wetponds, as defined by the approved stormwater management plan;
+Those elements were elaborated in the proposal, and fees were quoted for the various services comprised in each element. 
+Ultimately, Mr McCool, on behalf of Transition, accepted the fee proposal, and thus a contract for the provision of those services was made between Patterson Britton and Transition. 
+Each of the fee invoices submitted by Patterson Britton referred to services provided in accordance with the fee proposal, although some of those fee invoices indicate that there was a "request for additional fees dated 26 March 2006 [sic; presumably 2007]". I do not think that this latter document is in evidence. 
+Mr Weinberger's submissions on this issue did not grapple in any way that I could understand with the essential question: how, and to what extent, does the work performed by Patterson Britton (in accordance with its fee proposal) overlap with work that BH undertook to perform pursuant to its fee proposal? 
+In broad outline, the design responsibilities of BH were the engineering design of the bulk earthworks, of drainage (road and stormwater), and the preparation of an erosion and sediment plan (excluding wetlands). 
+There may be some overlap between the two proposals, because the Patterson Britton proposal did include reference to a stormwater management plan and treatment measures. 
+The narrative of work done in Patterson Britton's fee invoices is cursory. Between the nature of the narration and the absence of the supplementary agreement (as I infer was made), it is very difficult to work out what was the work done that was the subject of the invoices in question. What is clear is that those invoices do not account for the whole of the fees proposed by Patterson Britton, and, on the face of the invoices, apparently charged and paid. 
+It is Transition that raises, by way of defence to BH's claim for unpaid fees, the issue with which I am dealing. Transition has failed to provide any analysis of the defence, or to show why or how the fees paid to Patterson Britton are for work that overlapped with work that BH offered to undertook and for which BH has in fact charged a fee. 
+I am not satisfied that Transition has made good, on the balance of probabilities, either of those matters. 
+Mr McCool raised other issues in his affidavit, in answer to the claim for unpaid fees. Those other issues received no attention whatsoever in the course of submissions. I propose to treat them in the same way that Mr Weinberger did. 
+In the result, I conclude that BH has made good its claim to fees, together with interest, but subject to the defence of set-off. 
+Second issue: grades
+There are two components of the claim to which this issue relates. One (the roads grading question) relates to the grading of the east-west road works. Transition says that a lesser grade could have been chosen, which would have minimised the amount of fill. 
+In addition, Transition says that a redesign which lowered the grade slightly more overall would have achieved a more balanced cut to fill operation, which in turn would also have reduced the amount of fill required to be imported (the cut to fill question). 
+The roads grading question 
+It was proposed that the roads on the site would assist in draining surface water, and that they would do so from east to west. It was therefore necessary that there be some overall slope from east to west. The design prepared by BH provided for a 1% slope, or grade. 
+Transition contends that a lower grade could and should have been chosen. Specifically, it says, BH should have investigated the possibility of using lower grades. Had BH done so, Transition says, significant savings could have been effected. 
+The experts dealt with this question in their reports and in their joint report. Their views are sufficiently summarised in answer to question 3.2.2 (paras 45 to 50 of the joint report):  We agree that BH should have considered a grade of less than 1%.
+ We agree that in answering this question we take the term a "grade" to be the longitudinal gradient (or slope) of the critical roads which form the overland drainage paths.
+ BS and AS agree that a competent designer would have suggested a grade of less than 1%.
+ BS has suggested a grade as low as 0.5% and has assessed a grade of 0.9% for the reasons set out in Section 5.2 of his 2012 Report.
+ AS suggests a grade as low as 0.7% would be preferable for the reasons set out in section 7.2.5, Paragraphs 58 to 64, of his 2013 Report.
+ GM says that the grade may have been set by the road works or may have been set on another basis. In view of this, he cannot provide an answer to what minimum grade would have been obtained by a competent designer. He considers that a suggested grade of 1% may be appropriate for the reasons set out in
+Section 5.1 of his Report.
+It is probably obvious, but "BS" refers to Mr Staniland; "AS" to Mr Shirley; and "GM" to Mr Mostyn. 
+Mr Shirley and Mr Staniland advanced different reasons for suggesting that a lower grade should have been adopted. Mr Shirley thought that it was important to reduce as much as possible the amount of fill to be placed on site, so as to reduce the likelihood of subsidence. Mr Staniland gave consideration to what would be the efficient design, in terms of minimising the amount of fill required to be imported to the site. Those different bases reflect their differing professional specialities. 
+Mr Staniland went so far as to undertake a computer-modelled redesign of the bulk earthworks. He based this on natural site levels and other data obtained from the records of BH. The modelling demonstrated, in his view, that dropping the grade from 1% to 0.9% would reduce the volume of imported fill by about 25,000.00 m³.
+There was a suggestion that reducing the grade of the roads might have an impact on the diameter of the subsurface stormwater drainage pipes. That was not really explored, and there is no evidentiary basis to conclude that there might have been any appreciable (let alone significant) offsetting increase in costs as a result of reducing the grade. 
+The evidence does not permit a conclusion that the cost of installation of any of the subterranean services would be increased by any appreciable amount, which should be brought to account as an offset. 
+It was suggested, also, that reducing the grade might have made it more likely that surface penetrations would go right through the overlying VENM layer and into the capping layer. This was something perceived by Coffey to be undesirable (and understandably so, given the presence of contaminants at some areas in the site). However, again, that question was not pursued. I do not find that lowering the grade would have been, for this reason, undesirable. 
+BH raised two substantial arguments in answer to this aspect of the design claim. The first was that, as the evidence was said to reveal, there was a range of reasonable views as to what the grade of the roads should be. If followed, Mr Windsor submitted, that BH could not be criticised because, in the exercise of a professional judgment, it selected the grade that it did, even if it were to be accepted that a grade of 1% was towards the top of the range of what might be thought to be appropriate. 
+Secondly, Mr Windsor submitted, Mr Staniland's modelling was irrelevant. That is because his model assumed a capping layer 500mm thick, and an overlying VENM layer 1 metre thick. However, Mr Windsor submitted, the bulk earthworks drawings showed, and Coffey had said, that the VENM layer should be 1.5m thick (at a minimum). 
+I start with the second point. It is correct to say that Mr Staniland's modelling assumed a capping layer of 500mm and an overlying VENM of 1 metre. As I have noted at [20] above, those are the dimensions given in a drawing prepared by BH in January 2008. 
+The bulk earthworks drawings that were tendered, prepared in August 2007, did show that the overlying VENM should be 1.5m thick. It was not proved by any evidence to which the court was taken that those were the "for construction" drawings. Nor was it proved that they represented the "as constructed" state of the site after stage 1 bulk earthworks were completed. In those circumstances, and in the absence of any evidence, from Mr Slater or otherwise, as to the preparation of the bulk earthworks design, the obvious inference is that the later (January 2008) drawing represents what was proposed to be constructed. 
+It is correct to say that Coffey advised that the VENM layer should have a minimum thickness of 1.5 metres, although from time to time, as noted at [30] above, it suggested other thicknesses. 
+Mr Windsor relied on two particular documents. The first was Coffey's "preliminary construction advice" dated 3 May 2007. That document specified that: 
+The VENM is to have a minimum total thickness of 1.5m, to accommodate the burial of all services on site without the need to penetrate the Clay
+Capping...
+Coffey repeated that view in another "preliminary instruction advice" given a few days later, on 8 May 2007. It said: 
+The VENM is to generally have a minimum total thickness of 1.5m, to accommodate the burial of all services on site without the need to penetrate the Clay Capping layer...
+The FCPQS also provided some instruction as to the capping layer and VENM layer, but did not specify a minimum thickness for the latter. 
+Each of those documents predates the August 2007 bulk earthworks drawings. It is open to infer that the bulk earthworks drawings took into account those advices. However, as I have said, it appears that there was a change in the design, and that in (or by) January 2008, the thickness of the capping layer was reduced. 
+It might be thought that if the designer of the bulk earthworks proposed to reduce the thickness of the VENM layer below the minimum specified by Coffey, it would seek and follow advice from Coffey as to that course. After all, the first iteration of the design appears to have been prepared shortly after, and to have followed, Coffey's advices given in May 2007. 
+There is however some evidence to suggest that the reduction in the thickness of the VENM layer, from 1.5 metres to 1 metre, was done by BH without the advice of Coffey. In a letter of 3 June 2008, Coffey reported to Transition that, among other things: 
+Coffey specification was for a 0.5m low permeability cap which was to cover the inert waste material over the site. The additional 1.0m of cover was not specified by Coffey, and we understand this was specified by Civil Designers to accommodate services, drainage, ETC?
+In Coffey's validation report dated 10 September 2008, there is an annexed drawing, apparently prepared by Coffey, which indicates by purple shading an: 
+AREA TO BE CAPPED WITH 500mm APPROVED MATERIAL AND 1M VENM MATERIAL.
+That document, described as a "proposed capping area and sample location plan", was prepared by Coffey for Robson. 
+What appears to be a similar document is annexed to the site regrading report of 19 June 2008, given by Coffey to Transition. The drawing, with the same indication by shading, is dated 18 June 2008. The client is said to be Transition. 
+Whether the proper view is that BH decided, without reference to Coffey, to reduce the minimum thickness of the VENM layer from 1.5 metres to 1 metre, or whether Coffey was consulted, the conclusion seems to be clear. The design level was indeed reduced. Were it necessary to do so, I would conclude that (as Coffey said) this was done by BH. But the point is not "who did it?". It is whether Mr Staniland was correct to assume, for the purposes of his modelling, a VENM layer having a minimum thickness of 1 metre. The material to which I have referred shows that he was.
+Thus, I conclude, Mr Windsor's attack on Mr Staniland's modelling fails. 
+I return to the first point: the existence of a range of views, and the selection of a view apparently within the range. 
+To my mind, that approach does not entirely engage with the way that Transition put this aspect of this case. The experts agree that BH should have considered a design grade of less of 1%. To some extent, that agreement may be seen as trespassing beyond their areas of expertise and into the functions of the court. But, as I understand it, they were intending to indicate that, in their professional experience, a competent designer of bulk earthworks would have undertaken that exercise. The reason why that is so is obvious. A reduction in the grade would (as the facts demonstrate) reduce the amount of fill required to be imported. Hence, there would be a reduction in cost. And, as Mr Shirley said, it would reduce the likelihood for settlement and consequent problems. 
+Had BH undertaken the process of consideration that the experts recommended, and concluded that a grade of 1% was appropriate after balancing all the relevant factors (including any relevant offsetting cost increases) that would be one thing. But there is no evidence that any other grade was considered. Not only is there a complete lack of testamentary evidence from Mr Slater or anyone else involved in the design process, there is also a complete lack of any documentary evidence of their design calculations.
+I accept that a number of factors would have required consideration, in addition to the likely costs savings. 
+One was whether there would have been offsetting cost increases. Another was whether, with a grade of less than 1%, the stormwater drainage system would function efficiently; in particular, whether it would be capable of "self-cleansing" in heavy rain. The evidence of Mr Shirley and, in particular, Mr Staniland does not suggest that there were any design imperatives that would have counted against the adoption of a lesser grade. Mr Mostyn does not suggest that a lesser grade was impossible to achieve. Nor does Mr Mostyn suggest that a lesser grade could not have worked. 
+Further, Mr Staniland has had relevant practical experience on this very point. He was responsible for the earthworks design of a large subdivision of land, to the north of the Fern Bay site, possessing essentially similar characteristics (save, perhaps, as to the extent and nature of sub-surface contamination). That site too needed longitudinal drainage. Mr Staniland, after carrying out design modelling, concluded that a grade of 0.5% would work satisfactorily. 
+Mr Mostyn referred to the nature of the Fern Bay site and noted the potential for settlement and heave. That could cause local high and low areas, which in turn could lead to ponding of surface water. No doubt, as Mr Mostyn said, that would require consideration. There is no evidence that it was (or was not) considered. Mr Mostyn did not however suggest that, for this reason a grade less than 1% could not be adopted. The most he said was that, in a site of this nature, "[t]he flatter the grade the more likely you are to lose it" (T226.44-.45). 
+Mr Windsor submitted that Mr Staniland had accepted that a grade of 1% was desirable "for self-cleansing". That takes the evidence out of context. Mr Staniland said (T226.17-.25): 
+The minimum grade that can be adopted is .5 per cent. I used that grade on the development to the north of this one. That is approved by council. That is in my report. The minimum grade allowable in stormwater pipes is .5 per cent.
+Desirable is one per cent. That is for self cleansing.
+
+The minimum allowable grade in the code is .5 per cent. That is the council standard. Virtually every council is the same. In flat areas we get down to .5 per cent, the same level at self cleansing. On this job we did not get so low.
+The sand balanced the earthworks.
+First, the particular words on which Mr Windsor placed emphasis were taken out of context even in the relevant passage of transcript. Secondly, they cannot be considered in the abstract, divorced from the wider context of Mr Staniland's report. And thirdly, they cannot be divorced from the context of the design that Mr Staniland prepared, for relevantly similar land, to the north of the subject site. 
+Mr Windsor relied on an email that Mr Annis-Brown sent to Mr McCool on 6 June 2007. That email dealt with "Coffey's verbal advice that the waste material may be capped with about 1.5 metres of fill". Mr Annis-Brown said that he had "had a look at alternative filling works". He set out his "initial thoughts". 
+It is apparent that Mr Annis-Brown was discussing the Coffey advice to which he referred. It is not apparent that he was considering the proposal for a 1% grade. On the contrary, he was considering alternative ways in which the bulk earthworks could be designed so as to reduce both their visual impact and their cost. I do not think that anything is to be gained from the email. 
+Mr Windsor relied also on the fact that a "peer reviewer", Mr David Mepstead, had not expressed any concern at the 1% grade. The background to that is as follows. 
+When BH and Transition fell into dispute, with Transition making complaints as to BH's performance of its contractual obligations, they agreed to retain Mr Mepstead (a surveyor) to undertake a peer review of the work done by BH. This he did. 
+Mr Mepstead prepared a letter dated 19 April 2011. The primary focus of his investigation appears to have been calculation (or validation) of the amount of fill delivered to the site. He concluded, in substance, that although the volume of fill BH calculated by survey was substantially accurate, the conversion (from cubic metres to tonnes) was inaccurate, because of the choice of what Mr Mepstead regarded as inappropriate conversion factors.
+However, Mr Mepstead also looked at some design issues. His preliminary conclusion on design was: 
+The design of road and drainage works appears to have been adequately completed based on the parameters set at the beginning of that process. The parameters included minimum 1% grades, fully piped drainage systems, water quality basins set at levels above the one in 100 year flood levels. It may be possible to lower these critical storm levels without impacting upon the integrity of the system.
+I do not read that as an acceptance of suitability of the 1% design grade adopted by BH. On the contrary, as I read what Mr Mepstead wrote, he was saying that once the "parameters", including the grade, were set, the design based on those parameters was appropriate. 
+I do not regard Mr Mepstead's peer review as offering any support for this aspect of Mr Windsor's submissions. 
+The starting point must be that the responsibility to design bulk earthworks required the designer to consider, among other things, the way in which those earthworks could be executed so as to provide the result that Transition wanted at the least cost. Given the nature of the site, an obvious cost was that of importing fill: because the availability of material on site, from areas of cut, was insufficient to supply all the fill required. 
+It is obvious that the amount of fill required would increase as the longitudinal, or east - west, slope of the site increased (that is to say, as the levels were built up progressively from west to east). Thus, consistent with all other relevant considerations, a design that minimised the slope, and thus importation of fill, should have been preferred. 
+In the absence of any evidence to the contrary (and bearing in mind the unexplained failure of BH to call anyone who was involved in the design process), there is no basis for finding that BH did undertake any, let alone any appropriate, review of design levels. In particular, there is no basis for finding that BH did what the experts unanimously agreed it should have done: consider adopting a design grade of less than 1%. 
+Further, I am satisfied on the basis of the evidence of Mr Shirley and, in particular, Mr Staniland, that the works could have been designed with a grade of less than 1% without threatening their integrity, fitness for purpose or functionality. Based on the results of Mr Staniland's 3D modelling, I find that an appropriately skilled and competent designer, using available design techniques, would have concluded that a design grade of less than 1% should be adopted. I do not regard Mr Mostyn's notes of caution as requiring any different view; at most, they indicate matters that the designer should take into account. 
+If the design grade were reduced to 0.9% then, on Mr Staniland's evidence, there would have been a saving of some 15,000m³ of imported fill for the whole site. Mr Staniland calculated that of this total, some 7,000 cubic metres would be referable to the stage 1 works. His calculations were not challenged. 
+Using what in my view is an appropriate conversion factor of 1.95 (that is to say, a density assumption of 1.95 tonnes per cubic metre of excavated VENM - see at [195], [196] below - 7,000m³ equates to 13,650 tonnes.
+The contract rate for supply, spread and compact was $8.70 per tonne. The saving that could have been effected by reduction in the grade to at least 0.9% is therefore $118,755.00. Transition is entitled to recover that amount, together with interest, from BH. 
+The cut to fill question 
+I turn to the question of whether the cut to fill operations could have been better balanced, by adopting a grade slightly lower than 0.9%, so as to achieve a further saving in the cost of imported fill. 
+This question emerged only late in the hearing. I say this, not because I think there was anything underhand or deceptive in the way that Transition or its legal advisers advanced the issue (there was not), but because it had not been flagged in the statement of issues, and had not been the subject of consideration by the experts in conclave or in their joint report. 
+Nonetheless, there was evidence on the point. Mr Staniland said that the bulk earthworks design could have been optimised by increasing the amount of cut by approximately 10,000m³ about 19,500 tonnes), which could have been used as fill where needed. Cut to fill attracted a rate of $3.50 per cubic metre. The rate charged by Robsons for supply and delivery of imported fill was $7.20 per m³.
+Mr Mostyn did not comment on this aspect of Mr Staniland's evidence. 
+Mr Barclay said, in his affidavit, that on the basis of Coffey's investigations, much of the site material was "not suitable for a balanced cut and fill before capping" so that "[t]he suggested savings are elusive". Mr Barclay was not challenged on this aspect of his evidence.
+Mr Staniland dealt with this question in the concurrent evidence session. He said (T226.11-.15:) .... If I could start this job from the start I would locate the contamination which was not contaminated [sic] and it had formed [sic] on site to go into the fill, I believe this could have been flattened more, more material taken out and paid for at a cut to fill rate which is less than imported and imported into the top one metre.
+There seem to have been at least two reasons why the experts did not discuss the topic in their conclave. The first that there was no "issue" between them, in the sense that Mr Mostyn (who is a geotechnical engineer and not, like Mr Staniland, a civil engineer) had not responded to this aspect of Mr Staniland's report. The second is that the experts dealt with questions put to them by the lawyers for each party, and neither party raised this as a question for consideration. 
+Mr Staniland was cross-examined, generally, on the question of fill (see T31.34-233.44), but he was not challenged on this opinion expressed in his report. That is to say, the cross-examination did not challenge his opinion that the cut to fill operations could have been better balanced, so as to minimise to some extent the importation of fill. 
+The way in which this issue has been approached makes it difficult to resolve. In the ordinary way, one would expect that Mr Barclay would have been challenged on his answer to this aspect of Mr Staniland's evidence. However, given that the answer relied in effect on the geotechnical observations recorded and tests made by Coffey, one would have expected Mr Mostyn to respond, if he thought that, for geotechnical reasons, Mr Staniland's view was untenable. Finally, one would expect Mr Staniland to have been challenged on this aspect of his evidence, either to support the answer proposed by Mr Barclay or otherwise. 
+I do not regard Mr Barclay's opinion as carrying persuasive weight. He is a surveyor, although with extensive experience in project management. I accept that his experience has extended to sub-divisions, and that it is likely that some at least of those would have required extensive cut to fill operations. As a result, Mr Barclay may be thought to have a reasonable working knowledge of the suitability of material to be utilised as fill. 
+Nonetheless, the reason advanced by Mr Barclay is a geotechnical one. Mr Barclay is not qualified to comment on geotechnical issues. The expert witness called for BH who was qualified to comment on geotechnical issues, Mr Mostyn, did not offer any opinion in support of Mr Barclay, or in opposition to this aspect of Mr Staniland's evidence. 
+It might be thought that the way in which Mr Staniland expressed his views in the concurrent evidence session was somewhat speculative. It was certainly imprecise. However, when one reads that in conjunction with Mr Staniland's report, it appears that suggested saving, of 10,000m³ of imported fill, was derived by reference to his 3D model to which I have referred already, and based on reducing the minimum grade slightly below the 0.9% that has been the subject of consideration already. The relevant paragraph is 5.2.5: 
+It would be possible to adopt a slightly lower minimum grade to achieve an excess of non-contaminated natural soils which would be stockpiled and reused as VENM fill over capping. A volume of 10,000m³ would be achievable over a shallow depth of say 0.5m and an area of 20,000m². This would represent a saving of imported fill volume.
+A number of points follow from this. The first is that Mr Staniland assumed that the material in question was VENM and suitable for use as fill. That is a geotechnical issue, to which one would have expected Mr Mostyn to reply if he thought it appropriate to do so. I note that Mr Staniland had considered, and as an engineer was undoubtedly able to understand, Coffey's various reports. 
+The second point is that the suggestion of "a slightly lower minimum grade" is not quantified. Nonetheless, Mr Staniland suggested that a grade as low as 0.5% would have worked, and Mr Shirley suggested that a grade as low as 0.7% would have worked. Mr Mostyn expressed no view as to what was the minimum grade that could have been obtained, but "considers that a suggested grade of 1% may be appropriate...". 
+It follows, adopting Mr Shirley's position (which was not controverted by Mr Mostyn), that the assumption of "a slightly lower minimum grade" is not ruled out by the expert evidence. 
+The third point is that, in his report, Mr Staniland did not express his opinion in a speculative way. He said that "[i]t would be possible" and that a saving of imported fill "would be achievable". 
+I took Mr Staniland's evidence in the concurrent evidence session to be restating, in more summary form, the relevant opinions expressed by him in his report (to the extent that they had not been qualified in the joint report), not as detracting from those opinions. 
+Accordingly, the evidence being where it is, I conclude that this further saving would have been possible. 
+Transition claims what it says is the difference between the contractual rate for "cut to fill" and the contractual rate for supply. However, the rate for cut to fill was quoted in cubic metres ($3.50 per m³). At the conversion ratio of 2:1, that is equivalent to $7.00 per tonne. The contractual rate for supply was $7.20 per tonne. The difference is $0.20 per tonne. For the 10,000m³ (or 19,500 tonnes) estimated by Mr Staniland, the foregone saving is $3,900.00. That is the amount that should be allowed. 
+Third issue: pavement box out 
+The design of the bulk earthworks included areas where roads (or "pavements") would be laid. The experts agreed that it was appropriate, in designing the bulk earthworks, to allow a "box out" in those areas. By that, as I understand it, the experts meant that the surface levels of the bulk earthworks, in the areas where the roads were to be laid, should be lower than the finished surrounding levels, so that the finished levels of the pavements would correspond to the surrounding levels. 
+The earthworks were not constructed with any boxing out of the areas where roads to be laid. Mr Staniland's evidence, which again as to calculation was unchallenged, was to the effect that, if this had been done for the entire site, there would have been a saving of some 7,000m³ of fill. 
+The experts agreed that the drawings did not show any pavement box out. Mr Windsor submitted that they were wrong. He referred to the August 2007 version of those drawings. So far as I can see, there was no road section which showed a box out, whether at 300mm or any other depth. There was however a note on one of the drawings. It read: 
+Fill for bulk earthworks shall be placed to achieve finished surface levels in all areas of the site other than proposed internal road corridors which shall be left 300m [sic] lower to allow for future pavement construction and servicing.
+Clearly enough, the reference to "300m" should have read "300mm". 
+The difficulty is that, as I have said already, there were later versions of this drawing produced. The January 2008 bulk earthworks drawings did not include any equivalent note. Nor did they include any section showing an equivalent detail. 
+For the reasons that I have given, I do not think that the August 2007 drawings should be regarded as the "for construction" version. It may be that the January 2008 drawings are also not "for construction". But there has not been proved any other (later than January 2008) bulk earthworks design which shows, either by note or by detail, that road locations are to be boxed out. Nor have there been proved any "as constructed" drawings. 
+Thus, I conclude that, on the available evidence, the experts were correct to agree that the bulk earthworks drawings did not show "pavement box out of the fill". 
+I add that although Mr Windsor based his submission on the August 2007 drawings, he did not put to any of the experts that their conclusion, on what could be seen on those drawings, was incorrect. When the concurrent evidence was taken, Mr Windsor maintained an objection to the section of the joint report that dealt with the pavement box out issue (as he had objected to all other evidence on that topic). To accommodate that objection, without undue inconvenience to the experts, I permitted cross-examination to proceed, but to be taken, for the time being, on the voir dire. There was thus an opportunity for this aspect of BH's case to be put to the experts if Mr Windsor desired. 
+Mr Staniland said, in answer to a question from Mr Weinberger, that approximately half the total road area was located on stage 1 (that is to say, on the stage where the earthworks had been completed). Although that evidence was less than precise (see T293.39-294.14), it was given without objection, and provides a sufficient basis to estimate the value of the saving attributable to stage 1. 
+Taking the overall saving calculated by Mr Staniland (7000 m³, or 13,650 tonnes, at $8.70 per tonne), and dividing by 2, the cost of the excess fill that need not have been imported had allowance been made for boxing out the pavements on stage 1, is $59,377.50. 
+Transition is entitled to recover that amount, with interest, from BH. 
+Fourth issue: tendering the bulk earthworks 
+As I have noted, the contract between BH and Transition provided, among other things, that BH was required to "call tenders, report to client" in connection with the "bulk earthworks". Mr Barclay agreed that he proposed this in the fee agreement because he thought at the time it was a good idea to go to tender (T151.6-.8). He agreed, further, that as a general rule, the purpose of going to tender is to stimulate competitive pricing (T152.6-.8). 
+The experts agreed (joint report, para 36): ... that the appropriate method for selecting a contractor on a project such as the Fern Bay project would be to make inquiries and/or solicit Tenders and/or quotations from a number of appropriate civil earthworks contractors.
+Messrs Shirley and Staniland thought that a tender, in the sense of written communications between BH and contractors, should have been conducted. Mr Mostyn thought "that depending on the circumstances inquiries may have been sufficient". 
+The parties' submissions 
+The parties addressed these issues in some detail in their written and oral submissions. I summarise their respective positions. 
+Mr Weinberger submitted that: the terms of the contract between Transition and BH required BH to call tenders for the earthworks; 
+Mr Barclay accepted that from time to time Mr McCool had instructed him that BH was to put the earthworks out to tender, and suggested that quotations be obtained from other contractors (including entities known as BMD, Neumann and Daracon); again as Mr Barclay accepted, the decision made by BH not to go to tender, but to recommend Robson, deprived Transition of the opportunity to obtain the bulk earthwork services at a lower price than that tendered by Robson, and indeed that there was a reasonable possibility that a lower price might have been obtained.
+In those circumstances, Mr Weinberger submitted, the course taken by BH, both in breach of its contract with Transition and in defiance of express instructions given by Transition, deprived Transition of the commercial opportunity to get a better price than that offered by Robson.
+Mr Windsor submitted that BH had acted reasonably in all the circumstances. Indeed, he went further, and submitted that there had been "a selective tender". That was so, he submitted, because BH had contacted not only Robson but another contractor known as Bolte. 
+Mr Barclay's evidence was that when he contacted Bolte, he was told that it was not available to do the work. 
+Mr Windsor's submissions did not really grapple with the key points: namely, that the contract obliged BH to put the earthworks to tender, and that Transition had instructed it to do so on more than one occasion. However, Mr Windsor submitted, this was in effect a "seller's market", and in all the circumstances it was reasonable for BH to act as it did. 
+Mr Windsor relied also on the opinion of Mr Mostyn, that it was not unusual for a developer to negotiate with a preferred contractor, and not to call public tenders for matters such as bulk earthworks. 
+In any event, Mr Windsor submitted, Transition had not established that it had suffered any loss. 
+Decision 
+The starting point is to be found in the contract made between Transition and BH. The fee proposal provided that, as part of BH's project management services, Mr Barclay would "Liaise with Client, Geotechnical Engineer, Council or Certifier call tenders, report to client". Nothing in Mr McCool's response bore on or qualified this aspect of the offer. 
+The subsequent correspondence (the exchange of emails between Mr McCool and Mr Barclay on 19 September 2006), which is accepted to be part of the documentation of the contract, made it plain that the parties were agreeing on the tasks to be performed by BH and, on the assumption that performance was completed for the whole development, the amount it was entitled to be paid. Mr McCool noted that "your Fee Proposal" has been prepared on a task/lot basis. I am happy with the amount of fees for each task...". Mr Barclay replied, stating that his "intention was to agree on the cost of the various tasks/lot...". 
+Thus, there was included, among the tasks to be performed by BH, the process of calling tenders for earthworks. 
+Considered in the abstract, the process of calling tenders might be thought to require the issue, either at large or to selected contractors, of a description of the works sufficient to enable them to be priced, coupled with an indication of the terms of contract and an invitation to submit a price. In some cases, that is done with scrupulous (indeed painstaking) particularity: the works described in minute detail, supplemented by volumes of drawings, specifications; and by an elaborate draft contract. But in other cases, it seems to me, the process may be less formal. 
+Nonetheless, regardless of the detail given to prospective tenderers, the essence of the tender process is the solicitation of competitive prices. Whether the process be formal or informal, the notion of calling tenders requires that prices be solicited from more than one potential supplier. The reason for that is, as Mr Barclay agreed, that it would stimulate competitive pricing (T152.6-8). That did not happen in this case. 
+The history of the letting of the bulk earthworks contract is a little confused. Mr Barclay said that when BH first approached Robson, Robson "provided a quotation or preliminary quotation in the range of $5 to $6 per m³... for the placement of fill" (T153.14-.21). That preliminary quotation was based on the prospect that Robson would obtain the earthworks contract for a large redevelopment in the Newcastle region referred to, variously, as "Belmont", "Belmont Bowling Club" or "Belmont Plaza". That contract was expected to require the excavation of large quantities of material which would be suitable for use as fill on other sites. 
+Ultimately, Robson did not obtain that contract. A competitor, known as Woodbury, did. Once that happened, Robson apparently negotiated with Woodbury to take some of the fill from the Belmont site, and to use it at the Fern Bay site. The price quoted by Robson was in effect the price quoted to it by Woodbury ($5.50 per m³) together with a margin, leading to the total of $7.20 per m³ for supply. 
+Mr Barclay said that the market for bulk fill was a seller's market at the relevant time. There were major subdivisions or similar projects in train, including Transition's project at Fern Bay and the project designed and managed by Mr Staniland at the site to the north of Fern Bay. (I note however that Mr Staniland did not think that the market for bulk fill was a seller's market.) Thus, putting the bulk earthworks out to tender may not have resulted in significant savings. But the failure to do so in my view did result, as Mr Weinberger submitted, in the loss of the opportunity to achieve savings. 
+I have no doubt that, regardless of the terms of the contract, it would have been open to BH and Transition to agree that the bulk earthworks contract should not be put out to tender, but that it should be negotiated directly with Robson as, in effect, a preferred supplier. Had BH and Transition so agreed, then it would not be open to Transition later to complain at the failure to tender the earthworks. But this did not happen. On the contrary, as Mr Barclay accepted, Mr McCool insisted more than once that the earthworks should be put out to tender. 
+In this context, one of the curiosities of the case is that Mr McCool's evidence as to those instructions was vigorously challenged in cross-examination. However, when Mr Barclay was called and the relevant conversations were put to him, he either accepted that they had taken place more or less as Mr McCool stated, or would not disagree with Mr McCool's accounts of them. And as I have noted already, even where Mr Barclay denied in his affidavit that conversations had taken place as suggested by Mr McCool, he did not offer any alternative version. 
+Returning to the theme: I could accept that an informal tender process might have sufficed. For example, had Mr Barclay made telephone contact with several earthworks contractors and asked them to submit indicative pricing for the Fern Bay contract, that might have been sufficient. It is unnecessary to express a concluded view on this point, because the most that can be said for Mr Barclay's efforts is that he approached one contractor who was not interested - Bolte - and then dealt with the other, whom he appears to have preferred anyway - Robson. 
+On no view of the facts was the contract put to the market. On no view of the facts were competitive prices obtained. On no view of the facts was there a tender process, formal or informal. And on no view of the facts did Transition excuse or absolve BH from performing its obligation to put the earthworks contract out to tender. 
+Thus, in my view, the case of breach is made out. I accept, as Mr Weinberger submitted and Mr Windsor appeared to agree, that the resultant claim for damages is properly to be characterised as damages for loss of opportunity. 
+There were apparently some 50,000m³ of fill available from the Belmont site. Of that fill, some 35,000m³ were in fact supplied, through Robson, to the Fern Bay site and spread and compacted there. The remainder of the fill required was drawn from other sources. 
+Mr Weinberger submitted that, had the project been put out to tender in the first place, there was a real possibility that the whole of the 50,000m³ from Belmont could have been obtained direct from Woodbury at a rate of $5.50 per tonne for supply (that is to say, exclusive of the additional cost for spread and compact for which Robson quoted $1.50 per tonne). 
+To my mind, this is a valid analysis. Robson had hoped to be awarded the Belmont contract. In the expectation of receiving that contract, it approached BH (Mr Barclay), and offered to supply at $5.00 to $6.00 per tonne. In the absence of any evidence to the contrary, the proper inference is that, had Robson been awarded the Belmont contract, this is what would have happened. 
+Mr Barclay knew that the Belmont project itself had been put out to tender. Thus, he must have foreseen that Robson might not be the successful tenderer. It seems to me that if BH had put the Fern Bay contract out to tender, there was a real likelihood that the other contractors who had tendered for the Belmont project would have responded. That would give them the prospect of an immediate matching of excavation and supply, from Belmont to Fern Bay, for the 50,000m³ of fill that the Belmont site was expected to yield. 
+In this case, given that Woodbury did in fact supply (through Robson) some 35,000m³ of fill from the Belmont site for the Fern Bay site, it could have offered to supply the entire fruits of the Belmont excavation to Transition at the supply rate that in fact it quoted to Robson for some 35,000m³ of those fruits. That rate lies squarely in the middle of the quotation, or preliminary quotation, of $5.00 to $6.00 per tonne given by Robson to Mr Barclay at a time when Robson hoped to be awarded the Belmont contract. 
+There are two components to the loss demonstrated on those figures. I approach their quantification on the basis that to award such damages, in addition to those assessed in respect of the 2nd and 3rd issues, will not involve double compensation. Mr Windsor did not submit that Transition could have one or the other, but not both. Nor did he submit that to award both would involve double-dipping. 
+First, as to the 35,000m³ (or 70,000 tonnes) actually supplied, there is the loss of the opportunity to obtain it at the Woodbury rate of $5.50 per tonne rather than the Robson rate of $7.20 per tonne. That amounts to $119,000.00. I should indicate that in this case, because it is not clear whether the Belmont material was used for the capping layer or the VENM layer or both, I use Mr Weinberger's suggested conversion factor of 2 in my assessment of damage for all aspects of this breach. I note that Mr Windsor did not contest that conversion factor. 
+Secondly, there is the loss of the opportunity to have obtained the remaining 15,000m³ (or 30,000 tonnes) direct from Woodbury, at $5.50 per tonne, rather than from Robson at $7.20 per tonne. That amounts to a potential loss of $51,000.00. I return to this at [167] below. 
+There is a third and more general claim for loss: namely, loss of the opportunity to obtain a lower price on the other fill (that is to say, in excess of 50,000m³) supplied by Robson for the Fern Bay site. The only evidence of prices is that which I have summarised already. There is no evidence that any other (reputable and competent) contractor was prepared to supply fill in excess of 50,000m³ at a price less than $7.20 per tonne at the relevant time. 
+Thus, whilst the loss of that opportunity may be recognised, there is no evidence to quantify the value of the opportunity lost. 
+Finally, in this context, Transition complained also at what it called the failure of BH to negotiate with Robson to lower its price for supply. Mr Barclay acknowledged that he had not done so, but said that it was not his practice to do so. 
+The consensus among the experts was that the way to get competitive prices was to seek competitive tenders, not to haggle with a single supplier. In essence, they agreed, a supplier would price a job according to what it thought was its ability to deliver the result at what it perceived to be a reasonable profit margin. They viewed the process of negotiation suggested by Transition as being one intended, in substance if not in purpose, to reduce or remove the profit margin. They said that this might not be conducive to the achievement of a good outcome for the project. 
+To my mind, there is sound common sense in that approach. Further, in this area, I accept Mr Barclay's view that if there were to be price negotiations, that was a matter to be conducted by Mr McCool on behalf of Transition, as the intended principal. 
+In the result, I do not think there is any breach of duty flowing from the failure to negotiate with Robson. The breach of duty lies in the antecedent step of failing to call competitive tenders (or to undertake a process that would have the same effect). 
+Returning to the quantification of damage: in my view, the amount to be allowed, before interest, should comprise, first, $119,000.00, being in effect the Robson margin on the 35,000m³ that were sourced from the Belmont site. In my view, the fact that Woodbury was willing and able to supply this to Robson at that price indicates that, had Woodbury been asked to tender, it would have offered to supply at least that much direct. 
+Secondly, in my view, some amount should be allowed for the loss of the opportunity to obtain the remaining 15,000m³. The evidence is silent as to whether Woodbury had earmarked this for another project, or as to whether someone else "got in first". Doing the best I can (and acknowledging that what I am about to say is not capable of any sustained rational analysis), I think that the value of the lost opportunity should be assessed at one-half of the potential loss, or $25,500.00. To some extent, that assessment relates both the paucity of the evidence and the unsatisfactory state in which such evidence as there is of market conditions at the time (see at [146] above) was left. 
+There is no basis for concluding that any amount should be awarded in respect of the loss of opportunity over and above the 50,000m³ in respect of which, for the reasons I have given, the total of $144,500.00 (before interest) should be awarded. 
+I conclude that damages for breach of the obligation to call tenders should be assessed accordingly. 
+Fifth issue: failure to assess progress claims
+There are three separate elements to this issue. 
+First, Transition said, BH used an inappropriate conversion rate to convert the unit of measurement that it used (cubic metres) to the unit of measurement by which Robson charged (tonnes). 
+Secondly, Transition said, BH certified for a greater volume of fill than was actually delivered, and although there was a reconciliation and allowance of credit, nonetheless it had been entitled to more credit than was given. 
+Thirdly, Transition said, Robson charged it for the supply of some 11,000 tonnes of "free issue" fill (that is to say, fill offered free of charge) from the Lee Wharf site, and BH did not pick this up. 
+Conversion rate 
+BH used a uniform conversion rate (in effect, an assumed density) of 2.2 tonnes per cubic metre. The volume measurement refers to excavated fill, not to fill in situ. 
+Mr Barclay accepted, properly, that BH's obligations of contract supervision required it, among other things, to certify the accuracy of Robson's progress claims (T121.1-.14; 124.10-.11): 
+Q. And the role you assumed in relation to the fill which was brought onto the site, amongst others, was to certify progress claims which were issued by
+Robsons from time to time? 
+A. Yes.
+
+Q. And to check that the progress claims issued by Robsons was fair and appropriate? 
+A. Yes.
+
+Q. To ensure that Transition did not overpay Robsons? 
+A. Yes.
+
+Q. And effectively or to look after Transition's interests? 
+A. Yes.
+ ...
+
+Q. And your role was to verify the accuracy of every progress claim, wasn't it? 
+A. Yes.
+Messrs Shirley and Staniland agreed that, as a matter of practicality, it was appropriate to certify progress claims by weight, based on weighbridge records and using (reasonable) assumed conversion and compaction ratios, provided that check surveys were carried out from time to time to establish the actual quantity of fill delivered and, thus, to cross-check the accuracy of the progress claims to the date of the survey. 
+In this case, although BH did undertake check surveys at various points, it did not do so at any point in time that coincided with the end of a period to which a progress claim related. Thus, no check survey undertaken by BH in the course of Robson's performance of the bulk earthworks contract enabled BH to make any assessment of the accuracy of progress claims (and certifications) up to that date. It is self-evident that a survey undertaken after the date of a progress claim would include not only all material supplied up to the date covered by that progress claim but, also, material supplied thereafter. 
+In the ordinary way, the experts suggested, it was common for bulk earthworks contracts to include a retention substantially higher than the 5% that is often found in building and engineering contracts: up to 15%. They said, and I agree, that if this were done, then there would be in effect a reserve from which the principal could seek to claw back any demonstrated overpayments. But in this case, there was no provision for any retention in the contract between Transition and Robson. The evidence does not indicate who was responsible for the drafting of that contract. 
+The experts agreed that Coffey's site regrading report, dated 19 June 2008, showed a range of densities between 1.95 and 2.05 tonnes per cubic metre. Mr Barclay acknowledged that he had had the benefit of advice to that effect during the course of the project, but that he continued to apply 2.2 as the conversion rate, both for the capping layer and the VENM layer (T139.44-140.8). 
+Mr Shirley and Mr Staniland said that the conversion rate used by BH was not a reasonable rate. Mr Shirley said in his report that the appropriate rate was somewhere between 1.9 and 2.1 tonnes per cubic metre. In cross-examination, however, he said (at T245.23) that the range was 1.95 to 2.05.
+Mr Mostyn said that the rate of 2.2 tonnes per cubic metre "is at the upper end of values for VENM". Thus, he said, "[w]hether this was reasonable or not would depend on the context in which it was used". 
+Mr Mepstead's peer review is relevant to this issue also. Mr Mepstead (who had had the benefit of reviewing, among other things, the analyses undertaken by Coffey) concluded that the likely density range for the capping material would be from 2.05 to 2.29 tonnes per cubic metre, and that "2.07 would be more applicable". 
+Mr Mepstead referred also to a Coffey report that showed a range for "overburden imported for general filling purposes" (i.e., VENM) of 1.91 to 2.15 tonnes per cubic metre. He concluded "that 1.94 tonnes per cubic metre is a reasonable figure to use" for the VENM layer. 
+Woodbury provided a quotation dated 1 August 2007, for the supply, placing and compacting "of clay material from Belmont". The offer was to supply "up to 35,000m³ or 73,500 tonne [sic]... at a rate of $5.5/tonne...". 
+The implied conversion rate is 2 (tonnes per cubic metre). 
+The offer was directed to Mr Barclay. He agreed that, "as at August 2007", it constituted "some evidence... that an appropriate conversion rate in respect of clay capping was 2:1" (T166.4-.6). However, he did not agree "that an appropriate conversion rate to adopt in respect of VENM was less than 2:1" (T166.8-.10). 
+Mr Weinberger submitted that it was unreasonable: for BH to use the same conversion rate for both the capping layer and the
+VENM layer; and in any event, to use a conversion rate of 2.2.
+Mr Windsor relied on the fact that the evidence, including in particular the expert evidence, showed what he called "idiosyncratic conversion rates" adopted by each expert. He submitted that there was no one correct number, and thus that it was not unreasonable for Mr Barclay to choose 2.2, as a number not outside the range. 
+In his written submissions, Mr Windsor contested the proposition that the rate for the VENM layer should be lower than the rate for the capping layer, on the basis that "this does not appear to be borne out by Coffey's certificates". 
+However, he withdrew this submission (see T340.35-37). He did so because (as is clear from T253, where Mr Windsor put questions on conversion rates to Mr Staniland), Mr Windsor had suggested, and Mr Staniland had agreed, "that you would expect a range for capping, you would expect a range for VENM fill at a site such as the Fern Bay, or material brought to the Fern Bay site" (T253.39-.43). 
+I accept that the selection of an appropriate conversion rate does involve the exercise of professional judgment. However, that judgment has to be exercised bearing in mind that it is part of the performance by BH of its acknowledged obligation to certify the accuracy of Robson's progress claims (see at [175] above). Thus, the conversion rate or rates chosen should reflect, as accurately as possible, the nature of the materials imported to the site. 
+The first proposition made good by the evidence is that it was not appropriate to use one uniform conversion rate for both the clay capping layer and the VENM fill layer. I am satisfied that a project manager in the position of BH should have expected material for the former to be denser than material for the latter. It would follow, in the ordinary way at least, that an appropriate conversion rate for the VENM layer should be less than the conversion rate for the clay capping layer. 
+In my view, it was not appropriate for BH to use one conversion rate for all fill, particularly where, on the evidence, that rate was above the highest density figure for any of the imported fill, as appearing from the material available to BH. 
+Thus, in my view, BH should have assessed the volume of VENM imported to the site by reference to a conversion rate appropriate to VENM. Again in the ordinary course of things, that would be a conversion rate falling within the range of densities appearing from material available to BH at the time. It follows that BH's failure to select and use an appropriate conversion rate specific to VENM was a breach of its contractual and common law duties owed to Transition. 
+Quantifying the consequences of that breach is not entirely straightforward. The experts gave evidence of a range of densities. The various reports prepared by Coffey likewise show a range of densities. Mr Mepstead acknowledged that there was a range of densities. For reasons that are not explained in his peer review, he chose a density, or conversion rate, of 1.94 for the VENM layer. 
+That rate is towards the bottom of the ranges appearing elsewhere in the evidence. However, taken in conjunction with the other evidence that I have summarised, it provides some guide. Doing the best I can on the limited material available, I think that an appropriate conversion rate for the VENM layer is 1.95 (tonnes per cubic metre). 
+BH certified that some 171,992 tonnes of VENM had been supplied. Working backwards using its conversion rate of 2.2, that implies some 78,178m³. At what I think is the proper rate to use for the purposes of assessing damages, the correct figure should be 152,447 tonnes. 
+That is a difference of 19,545 tonnes. At the contractual rate for supply, spread and compact of $8.70 per tonne, the amount overpaid is $170,041.50. 
+I note that at one stage Mr Windsor submitted that if damages were to be allowed at all, they should not include the figure of $1.50 for spreading and compacting. However, I think, this submission was not pressed; and if it were pressed, it is plainly wrong. 
+BH certified that Robson was entitled to be paid at the rate of $8.70 per tonne for supplying, spreading and compacting the tonnage of 171,992 tonnes that it certified. If the tonnage figure is less, the damages are the full $8.70 per tonne for each tonne that in fact was not supplied, spread and compacted. 
+I turn to the conversion rate for the clay capping layer. There is no evidentiary justification for the rate of 2.2 used by BH. Nor did Mr Barclay explain why, having been told by Woodbury (by inference, from its offer to supply) that an appropriate conversion rate for clay capping material was 2, nonetheless he used 2.2. 
+Mr Mepstead advocated a rate of 2.07. Again, there is no reasoning to support that rate. 
+In my view, the rate implied from the Woodbury quotation is the appropriate rate to use. That was a rate brought to Mr Barclay's attention, and acknowledged by him to provide some evidence of an appropriate conversion rate for the clay capping layer. It is within the range of values suggested by the evidence overall. And it seems to have been (on Woodbury's view) the appropriate rate for the 35,000m³ that was supplied. 
+In my view, the unexplained and, on the material, unjustified decision to use a higher conversion rate for the clay capping layer was a breach of BH's duties to Transition.
+BH certified that some 37,790 tonnes of capping layer material had been supplied to the Fern Bay site. Using a conversion rate of 2.2, that equates to 17,177m³. At what I think is the appropriate conversion rate of 2, the correct tonnage is 34,354 tonnes. The difference, 3436 tonnes, at $8.70 per tonne for supply, spread and compact is $29,893.00. That amount should be allowed as damages in respect of this breach. 
+The total damages in relation to this sub-issue are $199,934.50.50. Again that assessment makes no allowance for any possible overlap with damages assessed in respect of issues 2,3 and 4. Again, I take that approach because Mr Windsor did not submit that any allowance of damages as claimed for these issues would or might involve double-dipping. 
+Over-certification
+On 10 June 2008, BH wrote to Transition confirming the results of "a volume survey", the obvious purpose of which was to check whether the amount claimed by and paid to Robson was correct. BH concluded among other things that "a gross error has occurred in the calculation of imported fill". On certain assumptions, it stated that Robson had "overclaimed 37,529 tonne [sic] of material @ $8.70 = $326,424.00". 
+Mr Barclay accepted that the import or result of what was stated in this letter was that BH had over-certified to the extent shown, $326,424.00 (T136.26-.29, .49-.50). 
+He agreed that, thereafter, Robson allowed, after negotiations, a credit of (in round figures) $287,000.00 (T136.35-.38, 137.1-.8). 
+Mr Barclay denied, however, that, as a result of those matters, Transition was out of pocket by $39,054.00, being the difference between the amount over-certified and the precise amount of credit granted: some $287,369.70. He said that "the contractor had done other works and waived any claim on those works to the equivalent of that amount of money" (T137.15-.16). 
+There was no independent or documentary evidence that any such further credit had been allowed. 
+Mr Weinberger submitted that Transition was entitled to damages representing the difference between the value of the over-certification and the value of the credit. 
+Mr Windsor did not deal directly with this claim in his written submissions, nor did his oral submissions address it in any detail. 
+The furthest that Mr Windsor's submissions went, relevant to this claim, was to suggest that it was reasonable for BH to certify progress claims on the basis of weight, determined by documents that fell short of weighbridge records, because a check survey would be undertaken to ascertain the correct figure. The submission does not deal with the consequences of that check survey.
+Assuming, for the moment, that it was appropriate to assess progress claims in the way that BH did, because the position would be adjusted on a final survey, the result must be that the adjustment should take place. On such evidence as there is, the adjustment was insufficient, to the disadvantage of Transition, by some $39,054.00. 
+I accept that, if other credits had been allowed, then they should be brought to account. But I do not accept Mr Barclay's evidence, given only in cross-examination and at a level of absolute generality, unsupported by any documents, to this effect. 
+It follows that in my view BH is liable for damages for over-certification, to the extent of $39,054.00 before interest.
+
+The "free issue" material 
+Mr Barclay agreed that "in the order of 5000[m³]" of "free issue" material had been supplied from the Lee Wharf site and delivered to the Fern Bay site (T171.22-.24). He agreed, further, that the amount supplied "was approximately in terms of tonnes 11,000" (T205.25-.26). 
+The expression "free issue" denotes fill that is delivered on site at no cost. However, if it is spread and compacted, the usual rate for that activity would be charged. 
+It appears to be common ground, and in any event is logical, that if the total quantity of fill supplied to site and spread and compacted included 11,000 tonnes (using, for this purpose, BH's conversation rate; but the principle is the same regardless of the arithmetic) of free issue, then the total quantity for which a charge for supply was made should be 11,000 tonnes less than the quantities for which a charge for spreading and compacting was made. 
+Robson's invoices did not show any difference between the total tonnage for which a charge for supply was made and the total tonnage for which a charge for spread and compact was made. Mr Barclay appeared to agree that this was so (T204.24-205.9). 
+Mr Barclay was then asked whether it appeared that Robson had charged for the supply of the free issue material. He disagreed, and said that he could explain why (T205.28-206.14): 
+Q. And what has occurred is that Robsons has charged for the supply of 11,000 tonnes of free issue material, correct? 
+A. Charged for the supply? 
+Q. Yes.
+
+A. No.
+
+Q. From looking at progress claim 8 that's what would appear, correct? 
+A. Yes.
+
+HIS HONOUR 
+Q. If the supply quantity and the spread and compact quantity in each case are cumulative to the date of the claim are the same, would it not follow that one of two things has happened: one, the free issue material has been charged under supplied; or, two, it has not been charged under spread and compact? 
+A. That's correct.
+
+WEINBERGER 
+Q. So the position is this: that either Robsons charged for fill which it ought not to have charged or it omitted to charge for spread and fill which it ought to have charged? 
+A. Yes.
+
+Q. I want to suggest to you that the likelihood is the former; would you agree? 
+A. No, I don't agree.
+
+Q. You're not in a position to disagree, are you? 
+A. I can explain where it went, but I would disagree.
+
+HIS HONOUR 
+Q. Does that mean you think you are in a position to disagree? 
+A. Yes.
+Mr Weinberger did not take up the explanation, or the prospect of justification for Mr Barclay's disagreement. 
+On 20 September 2007, Mr McCool sent an email to Mr Barclay asking Mr Barclay "to accurately identify areas where [Lee Wharf] material has been placed and/or stockpiled". Mr McCool's concern had been aroused because of the potential for contamination, not because of the charging issue, but nothing turns on this. 
+Mr Barclay said that he produced a document which showed accurately where the Lee Wharf material had been placed or stockpiled (T195.28-.36). That document was called for. It was not produced, although there was ample time for production to occur if the document existed. 
+Mr Barclay was re-examined on the topic. There are two aspects of the re-examination. One dealt with the explanation which, he had said, he could give. Mr Barclay said (T207.29-.39): 
+Q. What explanation can you give his Honour in relation to that, Mr Barclay? 
+A. Towards the end of the projects stage 2 was re-profiled and the asbestos management plan was implemented. During that time the material which had been stockpiled to fill in the southern open drain was moved up there and spread around and then the local material placed on top of it.
+
+HIS HONOUR 
+Q. Do you mean the free issue material was not in fact used in stage 1 but as part of stage 2? 
+A. Yes.
+Next, Mr Barclay was taken to Coffey's validation report. He said that the "proposed capping area and sample location plan" attached to it (the document to which I refer at [69], [70] above) was "one of the documents to which he were [sic] referring" (T208.49-209.1). Mr Barclay identified this document as showing "the stockpile of Lee Wharf material", by reference to a hatched area at the south eastern corner of the site (T209.15-.22). 
+Mr Weinberger attacked this aspect of Mr Barclay's evidence in submissions. He said, among other things, that "Mr Barclay, for the first time in re-examination said [the Lee Wharf material] was used for stage 2". That submission is incorrect. The same had been said in BH's letter of 10 June 2008 to Transition, which is the letter reporting on what I have concluded was the over-certification of fill. Among other things, that letter, having reported on the results of the volume survey for stage 1, stated: 
+Some additional capping material and material from Lee Wharf has been placed within Stage 2.
+The evidence is in an incomplete and unsatisfactory state. It is clear that the "free issue" material was delivered to site. But I accept that it had been stockpiled, and thereafter moved to stage 2. There is no evidence that it was spread and compacted. If it were not, then the absence of any discrepancy between the tonnages said to have been supplied and the tonnages said to have been spread and compacted would have no significance. 
+I am not satisfied that Transition has made good its complaint in respect of the free issue material. 
+Sixth issue: supervision of Coffey 
+For convenience, I set out once more the services that BH offered to provide in respect of bulk earthworks: 
+Bulk Earthworks (Including contamination treatment based on capping only required) 
+Project Management: Peter Barclay - Liaise with Client, Geotechnical Engineer, Council or Certifier call tenders, report to client 
+Engineering Design: Chris Slater - Regrade existing surface details - Fill Detail - Soil and Water Management Plan 
+Contract Supervision: Chris Slater/Peter Barclay 
+Survey: Peter Barclay 
+Set out SEPP 14 boundary 
+Monitor levels/Work as Executed
+I deal first with Mr Weinberger's submission that the fee agreement called for supervision of, among other things, "work as executed". I do not accept that submission. "Contract Supervision" is a separate item, for which a separate fee was quoted. The reference to "Work as Executed" appears in relation to the separate item "Survey". It is apparent that whatever was comprised in respect of "Survey" was additional to, or separate from, whatever was required in respect of the previous topics covered by the fee proposal, which included "Project Management" and "Engineering Design" as well as contract supervision. 
+As I read the proposal, the services that BH offered to provide, in respect of survey, were those that followed this subheading. That is to say, BH offered: to set out the SEPP 14 Boundary; to monitor the levels of the bulk earthworks during the performance of the contract; and to survey the works as executed.
+Mr Weinberger relied also on what the experts had agreed. I set out paras 60 and 61 of the joint report:  AS and BS agree that BH agreed to supervise the earthworks contractor in accordance with its letter dated 14 September 2006 and subsequent email chain on 19 September 2006, and our reading of other documents.
+ GM considers that this is a matter of fact and does not consider he has sufficient facts to provide an opinion.
+I do not regard the opinion expressed by Messrs Shirley and Staniland as carrying any persuasive weight. The obligations that BH undertook are to be found in the contract that it made. What that contract requires is a matter of construction. That is a question for the court. 
+I accept that if the contract, on its proper construction, provided that BH was to supervise (among other things) Coffey's performance of its obligations as geotechnical consultant, then the views of the experts as to what a reasonable project manager, in the position of BH, should have done to satisfy that obligation might have some probative value. But that is not the topic the subject of the opinion expressed by Messrs Shirley and Staniland at para 60 of the joint report. 
+Notwithstanding what I have just said, Mr Barclay accepted that BH was required to supervise the work as executed (T194.4-.6): 
+Q. It was your express role under the retainer agreement to supervise the work as executed, correct? 
+A. Yes.
+I take this concession to mean that Mr Barclay accepted that BH, as part of its project management and contract supervision roles, was to supervise the various contractors, including Robson as bulk earthworks contractor and Coffey as contractor to provide geotechnical services. If that is the proper understanding of this concession, then it does seem to me to reflect the proper construction of the relevant requirements of the contract between Transition and BH. 
+Transition engaged Coffey to provide, among other things, level 1 supervision (strictly speaking, "services") in respect of the earthworks. I have set out at [29] above the content of that obligation, as it appears from the relevant Australian Standard. 
+Mr Barclay gave evidence as to his understanding of Coffey's obligations in respect of level 1 services (T176.46-177.17): 
+Q. It was at least by this point in time, that is 7 March 2007, that Mr McCool had instructed you to arrange for Coffeys to provide level 1 - 
+A. Yes.
+
+Q. - supervision? 
+A. Yes.
+
+Q. At that time did you know what level 1 supervision entailed? 
+A. Yes.
+
+Q. What was your understanding as of 7 March 2007 was level 1 supervision entailed? 
+A. It entailed an officer from or an employee from Coffeys being on site for the receipt of any material for the site and for the spread and compaction of all material over the site.
+
+Q. Without interruption, that is 9 to 5 or 10 to 7, whatever the case may be, full time on site? 
+A. Yes.
+
+Q. Whilst material was being delivered to the site? 
+A. Yes.
+Mr Barclay then gave evidence as to what he understood his obligations to be, in respect of ensuring that Coffey would provide level 1 services (T178.4-.49): 
+Q. Did you ever suggest to Coffey in May 2007 that it provide something less than level 1 supervision? 
+A. No.
+
+Q. Can I ask you to turn please to tab 17 of BM-1. Do you see that? 
+A. 17, yes.
+
+Q. I direct your attention to the third paragraph commencing "secondly"? 
+A. Yes.
+
+Q. You instructed Coffeys to drop in on the site twice a day rather than provide level 1 supervision at least at that point in time, correct? 
+A. I'd have to look at my advice that this was responding to.
+
+Q. You didn't respond to this email, did you? 
+A. That is the April response to me. I relied on Coffey's - 
+Q. I understand you are eager to say that, but what I am suggesting to you is that at least in May 2007 you instructed Coffeys to drop in on the site twice daily. Do you agree with that or do you disagree? 
+A. I didn't instruct that, no.
+
+Q. To the extent that Coffeys were retained to provide reports and services in connection with this project you or your firm were the interface or go-between between Transition and Coffey, correct? 
+A. Between Transition - yes.
+
+Q. So, if Coffeys were instructed to provide level 1 supervision, that instruction would have come from you? 
+A. Yes - no, actually. It came from Mr McCool.
+
+Q. Notwithstanding that, Mr McCool instructed you on numerous occasions to arrange for level 1 supervision? 
+A. Yes.
+
+Q. That was at least your role to ensure level 1 supervision was being carried out? 
+A. It was my role to make arrangements to ensure that happened.
+
+Q. Once the arrangements were made to ensure that it was being carried out - 
+A. Not if you are suggesting I needed to be on site full time, that is not the case.
+
+Q. To do what was reasonably necessary to ensure that level 1 supervision was being carried out in a competent manner? 
+A. Yes.
+Mr Barclay said that, on days when material was not being delivered to site, and when no regrading works were being carried out, he thought it was in order for Coffey to "[drop] in on the site twice a day" (T179.23-.41). However, when fill was being delivered and spread and compacted, he agreed that Coffey was required to be on site for the whole of that process (T179.38-.46). 
+Mr Barclay was asked to identify, by reference to his diaries, days when he went to the Fern Bay site. His response (having had some opportunity to undertake this task, over the short adjournment) was less than satisfactory: he identified pages where the site had been referred to, none of which recorded any observations made on a site inspection. 
+I took the view that Mr Barclay should not be required to use adjournments for the purpose of satisfying Mr Weinberger's hunger for information. The diaries were available to Mr Weinberger. It was open to him to tender them, and make such point as he wished (either in cross-examination or in submissions, or in both) by reason of what was or was not shown in them. He did not do so. 
+Section 6.9 of the FCPQS provided for the "Design Consultant" to undertake a process of audit and review: .9 Auditing and Review by the Design Consultant 
+The purpose of the auditing and review process is to give an independent appraisal of the performance of the backfilling operation and therefore the attainment of suitably reinstated land. The auditing process incorporates all activities associated with solicitation, inspection and material acceptance, as well as contaminated material management and employee training.
+At an earlier point in the FCPQS, BH was identified as the "Design Consultant". 
+Mr Barclay was cross-examined about para 6.9. At first, he appeared to suggest that it did not apply - or apply "completely" - to BH. However, when his attention was drawn to the definition of "Design Consultant", he accepted that it did. 
+Mr Barclay maintained that BH did perform its obligations under para 6.9. I set out the whole of this passage of his evidence (T192.1-194.2): 
+Q. All right. Can I ask you please to turn to page 397-- 
+A. (Witness complied.) 
+Q. --and draw your attention to paragraph 6.9. Can you read that to yourself please? 
+A. (Witness complied.) 
+Q. Don't worry about the next page. That identifies - paragraph 6.9 identifies your role in relation to the fill, does it not? 
+A. I can't see this saying in it that I am the auditor-- 
+Q. "Auditing and review by a design consultant", is that not Bannister &
+Hunter? 
+A. Not completely, no.
+
+Q. Can you turn to page 386 please. You will see that Bannister & Hunter are clearly identified in the second bullet point as the design consultant. Do you see that? 
+A. Yes.
+
+Q. Did you read this document at or about the time you received it? 
+A. Yes.
+
+Q. Do you now accept that paragraph 6.9 is referable to Bannister &
+Hunter? 
+A. Yes.
+
+Q. And Bannister & Hunter were required to conduct an auditing and review process, do you agree? 
+A. Yes.
+
+Q. To provide an independent appraisal of the performance of the back filling operation? 
+A. I can't accept responsibility for-- 
+Q. I didn't ask you about responsibility, I said to give an independent appraisal of the performance of the back filling operation? 
+A. A general overview, yes.
+
+Q. And, therefore, the attainment of suitably reinstated land, correct? 
+A. Yes.
+
+Q. And the auditing process incorporated all activities associated with solicitation, inspection and material acceptance. Do you see that? 
+A. I am sorry, I am not sure where you are - yes.
+
+Q. Now, insofar as solicitation is concerned, that meant working out where the fill came from, correct? 
+A. Correct.
+
+Q. Quotes for the placement of the fill, correct? 
+A. Quotes for the placement of the fill - I don't see that in here.
+
+Q. And it involved assessing whether the fill that was introduced to the site was appropriate or not, agree? 
+A. Assessing the reports provided by the geotechnical.
+
+Q. And assessing what you observed on site? 
+A. Yes.
+
+Q. Because you did not need to attend the site weekly to read reports which
+Coffeys may have provided you with. Correct? 
+A. Correct.
+
+Q. And insofar as inspection and material acceptance is concerned, that involved undertaking inspections of the site during the course of fill delivery? 
+A. Yes.
+
+Q. And the placement of the fill at the site? 
+A. Yes.
+
+Q. And would you accept that you did not conduct this project consistently with paragraph 6.9? 
+A. We carried out those roles.
+
+Q. Well, a few moments ago I think your position was that 6.9 did not apply to you. Do you recall saying that? 
+A. Yes.
+
+Q. And then I took you to the definition of design 
+WINDSOR: I object to that question, your Honour. That is not quite the answer that my learned friend got in response to the question. I don't say anything more. I don't ask the witness to leave.
+
+WEINBERGER: I will withdraw the question.
+
+Q. Did you give evidence to the effect, about five minutes ago, that 6.9 did not apply to Bannister & Hunter? 
+A. I 
+Q. "Yes" or "no"? 
+A. I can't I can't tell you the answer to that, sorry. I recall saying I did not think we were the auditors.
+
+Q. Thank you. What I want to suggest to you just one more time is that
+Bannister & Hunter did not discharge its obligations consistently with 6.9 of the FCPQS. I am not suggesting there was any conspiracy or that it was deliberate. I am suggesting to you that for whatever reason Bannister &
+Hunter did not discharge its obligations in 6.9 in a competent manner on this job? 
+A. Well, I don't accept that with the exception of employee training.
+Mr Barclay was not re-examined on this topic: specifically, on the rather Delphic exception in his last answer. 
+Mr Windsor submitted, and I accept, that Coffey bore the responsibility for ensuring that the specifications for the supply and compaction of fill were complied with. It appears to be common ground that those specifications emerge from a number of places, including AS3798 and the FCPQS, and perhaps other documents prepared by Coffey. 
+Mr Windsor submitted, further, that whatever might be the obligations BH had undertaken in respect of project management and contract supervision, they could not extend to being on site all day every day to ensure that Coffey was doing what it had contracted to do. BH was not to be the guarantor of Coffey's performance of its obligations. 
+Further, Mr Windsor laid stress on the FCPQS, which required Coffey, among other things: 
+To monitor processes affecting the quality of the compacted fill and test and verify conformance with specified requirements.
+In conclusion, Mr Windsor submitted: 
+In all the circumstances it could not be said that BH had a contractual responsibility to [Transition], to undertake work which was to be performed by
+Coffey's and/or bulk earthworks contractors.
+The last submission misses the point. However, the previous submissions that I have recorded are correct, so far as they go. 
+The last submission misses the point, because it is not Transition's case that BH was required to do the work that Coffey, or for that matter Robson, was contractually obliged to do. Transition's case, on this aspect of the claim, is that BH was required to supervise Coffey's performance of its obligations: to take reasonable steps to ensure that Coffey did what it had contracted to do, and provided the services that it had contracted to provide. 
+It may be accepted that BH's obligations of project management and contract supervision did not require it to procure a geotechnical consultant to check what Coffey had supposedly tested and validated. Nor did it require BH itself (assuming it had the ability to do so) to undertake such tests. But in my view, it did require that someone from BH should go to the Fern Bay site regularly, and not infrequently, to observe for himself or herself what was being done. 
+Accepting, as the evidence suggests, that the deliveries of fill were intermittent (because of supply problems), nonetheless BH should have made site visits regularly, and again not infrequently, when fill was being delivered, spread and compacted. Among other things, BH would ascertain thereby that a Coffey representative was on the site, and was supervising the importation, spreading and compaction of fill. 
+Mr Windsor submitted that BH understood (correctly) that Coffey was required to supply reports at the conclusion of the earthworks, including the validation report and the regrading report. However, those reports, of necessity, would deal with the situation at the conclusion of the works. They would (purport to) show that the works had (or had not) been carried out in accordance with the specifications. The preparation of them would assume that Coffey had been on site, and performed such tests, as might be necessary to justify the conclusions expressed. 
+I do not think that the obligation of project management and contract supervision, in respect of services to be provided on a daily basis by a consultant, is satisfied simply by receiving a report from the consultant, at the end of the works, stating what had been done. If that were correct, the consultant would become in effect the project manager and supervisor of its own obligations. 
+The view that I have just expressed is supported by the agreement of the experts, as to how the obligation of project management and contract supervision might be performed, in respect of the importation and placement of fill. Their agreement relates not to the content of the duty but to how a reasonable project manager, in the position of BH, might perform it. Thus, I do not consider my reliance on what the experts say as inconsistent with what I have said at [236] above. 
+At paras 74 and 75 of the joint report, the experts state:
+We agree that a reasonably competent person in the position of BH would have inspected the importation of fill to the Fern Bay site.
+We agree that the inspection interval should have been approximately weekly while fill was being imported or placed.
+To my mind, the most compelling evidence as to the adequacy of such supervision as BH performed comes from observations made by Mr Shirley as to the presence of oversized rocks on the site. 
+The FCPQS specified that the capping layer should not contain "particles" larger than 100mm in size. An attempt was made in the course of Mr Barclay's cross-examination to suggest that this applied to the VENM layer also. That is not the proper construction of the FCPQS. 
+However, it appeared to be common ground that the maximum particle size in the VENM layer (which should have been placed and compacted in layers) was two-thirds of the thickness of the layer before compaction. 
+It was assumed that the VENM would be placed in layers 300mm thick and compacted (the FCPQS suggests 250mm, but nothing turns on this). On that basis, the maximum particle size would be 200mm. 
+Mr Shirley's evidence, which is based on observations that he made on a site visit and is confirmed by photographs, is that the fill did not comply with either the Coffey specification or AS3798 (para 58 of his first report). He gave a number of reasons. One was that "[t]here were many large rocks and boulders within the fill material". He said that their size was such that the layers would have to have been about 1.3 metres thick for the particles to comply with the "2/3" requirement. He noted that a layer thickness of that size would not comply with Coffey's specification for placement in 300mm layers. 
+Further, when test pits were dug at Mr Shirley's direction, there was in his view no evidence that the fill had in fact been placed in layers. If this were so, it points to another breach of the specification (including the relevant requirements of AS3798). 
+Mr Shirley's summary of results obtained from test pits included the observation that "[t]he fill materials are also a heterogeneous mix of clayey sands, sandy clays, silty clays, cobbles, and boulders/large rocks up to 900mm in size". He commented in particular on the presence of "appreciable boulders" in what was in effect the VENM layer. 
+Mr Shirley addressed this topic in his oral evidence. He said, of present relevance (T271.32-272.15): 
+When I undertook investigations at the site the first thing I did, of course, was to walk over the site. There's an awful lot of boulders you can see all over the surface.
+
+HIS HONOUR: What do you mean by "boulders" in this context? 
+WITNESS SHIRLEY: Things up to 900 millimetres in dimension. That would be the maximum dimension. They may only be 5 to 600 millimetres thick. But an awful lot of big boulders. A lot of - a preponderance probably at 600 millimetre dimension. They are over the surface of the fill, you can clearly see, and
+I've presented those photographs in my report. And along the western boundary some of the boulders are very much larger than that. They're well over a metre, metre and a half. I presume that they were, as it were, raked out during the course of the fill placement.
+
+So we then excavated a number of test pits during the course of our inspections. During the excavation of these test pits we found a number of these large boulders. In terms of percentage terms, I have a difficulty in assessing the percentage of the total quantity in respect of the amount. It might be 20 per cent of the fill was this, it might be 15 per cent, but I didn't do an accurate figure. All I saw was an awful lot of them in a lot of the test pits. There were more in some places than in others. So in some places there appeared to be a lot of them; in other places it didn't appear as many. I think it is important that whilst there's a lot of big boulders, there was a large preponderance of boulders around the 4 to 600 millimetre dimension.
+
+The other thing is when I excavated these test pits there was no evidence of any layering in the fill. When the fill has been placed and compacted one of the things that you really notice is it seems this sort of - you can see the layers where they have rolled and compacted the surface. You could expect in a fill like this the fill to be placed in layers, I don't know, 3 to 400 millimetres thick, maximum 500. Three to 400 with large equipment. And you would see layers of where those layers were because they would be tested by the individual consultants.
+I should note that Mr Shirley had an additional criticism of the VENM layer: namely that, to be fit for Transition's intended use, the maximum particle size should be no greater than 100mm. To the extent that this is a problem, it does not appear to be one for which BH has any responsibility. Coffey prepared the specifications for the fill. If those specifications were inadequate, that is a matter between Transition and Coffey. 
+To the extent that Mr Shirley's observations of large (or "appreciable") boulders were based on observations made in his test pits, it could not be suggested that BH was required to dig and inspect test pits. Nonetheless, I think, if BH had undertaken regular site visits and inspections while the earthworks were being imported, placed and compacted, it would have detected the presence of oversized material. Mr Shirley's evidence of the extent of oversized material throughout the VENM layer renders that conclusion irresistible. 
+Further, to the extent that Mr Shirley refers to oversized material on or visible on the surface of the site, that again is something that would have been detected by regular inspection. 
+Indeed, Mr Barclay agreed that when he did go to site, he did observe large rocks spread over the site. That was from as early as September 2007 through to the end of BH's retainer (T199.26-200.1): 
+Q. I want to suggest to you that there are a number of large rocks and boulders on site? 
+A. Yes.
+
+Q. And that you have observed other material which does not comply with the specifications? 
+A. That is not the case.
+
+Q. You have seen photographs contained in the exhibit to Mr McCool's affidavit and annexed to Mr Shirley's report which suggests that, correct? 
+A. I have seen the photos.
+
+Q. When you went to site during these various site visits you observed a number of large rocks spread over the site, didn't you? 
+A. Yes.
+
+Q. And you observed that from as early as about September 2007, didn't you? 
+A. 2007, yes, that would be I think right.
+
+Q. And notwithstanding the fact that you observed rocks, or when I say "rocks"
+I mean boulders, do you accept that? 
+A. Yes.
+
+Q. From as early as September 2007 they remained on site at the time your retainer came to an end, didn't they? 
+A. Yes.
+Mr Barclay said, further, that all the boulders were on the surface of the site - at most, "buried at surface level so they can be just pulled out" (T200.16-.21). 
+Mr Barclay seemed not to accept that there were boulders below the surface. But it appeared that he had no personal knowledge, and was relying on Coffey's validation report (T200.23-.34).
+Somewhat surprisingly, in view of his concessions as to the presence of boulders on site throughout (in effect) the performance of the stage 1 works, Mr Barclay would not accept that the logical inference that he had failed to take adequate steps to ensure that rocks and boulders were removed (T200.3-.7). 
+I find that position difficult to understand. Mr Barclay understood that particle sizes should not exceed 200mm. He agreed that, over virtually the whole of the stage 1 works, he had seen "large rocks" or "boulders". That must have suggested to him that Robson was importing and placing fill that was noncompliant because it included oversized particles. If the particles were observed on the surface, all over the site, it could not be safe to assume that similar particles were not buried and compacted in the VENM layer. More importantly, however, the continued presence of such particles on site does suggest a failure of supervision on the part of BH.
+As I have indicated, Mr Shirley's evidence confirms that oversized particles were contained within the compacted VENM layer. 
+Perhaps not surprisingly, the experts agreed that competent inspection should have indicated the presence of oversized particles, and thus that the fill did not comply (in this respect at least) with the specification. There was some disagreement as to the size of particles that should have been observed, but nothing turns on this. 
+The evidence of the experts - in particular, the evidence of Mr Shirley, including his photographs - leads inevitably to the conclusion that the fill did not comply with the specification because of the extent of oversized particles (more accurately, large rocks or boulders) within it. 
+Mr Barclay accepted a number of relevant propositions: if there were oversized material onsite, within the VENM layer, it would create difficulty with the installation of services if not removed or broken down (T188.8-.22); level 1 supervision (I interpolate, properly performed) would detect and require the removal of oversized particles that had not been broken down in the compaction process (T189.7-.10); 
+Mr McCool was "anxious" to ensure that Coffey would provide level 1 services, and that Mr Barclay would ensure that Coffey did so (T188.24-.38); by attending the site, Mr Barclay could ascertain if Coffey were undertaking level 1 inspection (T188.43-.45): he was required, in the course of his site inspections, to look for oversized particles (T189.14-.16); and if, on inspection, he observed oversized material (or non-complying material) he would at the least draw it to Coffey's attention, seek an explanation and instruct that non-compliant material should not be taken onto the site (T189.23-.49). I set out this last passage: 
+Q. I am sorry, it was a lengthy question. Assuming you observed boulders or material which did not comply with the specifications in terms of particle size, it was your role to liaise with Robsons and Coffeys in relation to that.
+Do you agree with that proposition? 
+A. No.
+
+Q. So is it your position that you were entitled to observe boulders and other non-complying material and just do nothing about it? 
+A. No.
+
+Q. Do you accept that a reasonable project manager in your position would have contacted Coffeys and at the very least drawn it to Coffey's attention and required an explanation? 
+A. Yes.
+
+Q. And likewise would have drawn to Robson's attention and taken steps to ensure that further non-complying material was not brought onto the site? 
+A. I was relying on Coffeys.
+
+Q. You might have been but it was your role in those circumstances to contact
+Robsons who are issuing progress claims for hundreds of thousands of dollars to make sure that they cease bringing onto the site non-complying material. Do you agree? 
+A. Yes.
+
+Q. And those are steps which you should have taken, correct? 
+A. Yes.
+Mr Barclay did say that he took steps of the kind just referred to (T190.1-.5). If he did, those steps were, on the evidence that Mr Shirley gives and his photographs confirm, singularly unsuccessful. 
+In my view, BH failed to perform in any satisfactory or reasonable way its obligation to supervise the bulk earthworks, including in this both the performance by Robson of its contract with Transition and the performance by Coffey of its contract with Transition. If BH had attended site at least weekly, during the importation, spreading and compaction of fill (as the experts suggested, and I conclude, was reasonable), it must have observed that oversized particles were being imported and compacted into the fill. The prevalence of oversized particles, both within and on top of the fill (as Mr Shirley reports and as his photograph show) leaves no other conclusion open. 
+If BH had attended, and had observed, oversized particles then, as Mr Barclay accepted, it should have contacted Coffey, sought an explanation, and directed that non-compliant fill not be brought to the site. There is no evidence of BH's taking any of those steps. 
+There seem to me to be two possible (and possibly cumulative) explanations of the situation that emerged, and of the extent of non-compliance reported by Mr Shirley. 
+The first is that BH did not inspect with anything like the regularity required to ensure that the contracts that it was being paid to supervise were in fact being performed, so far as routine inspection could detect, properly. 
+The second is that, to the extent that there were inspections, they were performed with insufficient care, and thus ineffective to detect the non-compliance that appears to permeate this aspect of the works. 
+I find that the proper performance of regular (weekly or otherwise) and careful inspections would have detected the presence of fill that was non-compliant because it was oversized. On Mr Shirely's estimate, some 15% to 20% of fill that was non-compliant. It should be noted that Mr Shirley's observations and estimate apply only to oversized particles that had not themselves been broken down in the process of compaction. No doubt, some were, so that the percentage of non-compliance observable before compaction is likely to have been higher. 
+I add that even if Mr Shirley's percentage figures overstate the extent of the problem, the whole of the evidence (including the photographs) makes it clear that the site was riddled with obviously oversized particles (or rocks, or boulders). 
+I accept, as Mr Windsor submitted, that BH was not required to do the job that Coffey was retained to do and paid to do. But BH was required to take reasonable steps to satisfy itself that Coffey was indeed doing the job that it had been retained to do and paid to do. If BH took any steps - and I am not prepared to find that it did - they must have been utterly inadequate. There is no other available explanation for the extent of non-compliance apparent on the evidence as a whole. 
+Thus, I conclude, BH did breach its contractual obligation of contract supervision, in respect of the bulk earthworks. 
+Seventh issue: standard of the fill 
+For the reasons that I have given, it is plain that the fill was not of the required standard, if only because of the prevalence of oversized particles in and on it.
+
+Eighth issue: rectification 
+The evidence is lamentably imprecise on this point. The basic method of rectification would appear to require that the VENM layer be ripped up, crushed and relaid. 
+Mr Mostyn suggested that it might be possible to put up with the deficiencies in the fill, and to measure damages by the incremental cost of utilising heavier earthmoving equipment for the installation of services. 
+As an alternative, Mr Mostyn suggested that if the fill did require ripping up and crushing, it should be screened so that only oversized material was re-crushed. As he pointed out, if the oversized material comprised 15% of the whole (and he did not accept that the photographs showed this), then 85% of the fill need not be crushed. Mr Shirley appeared to accept that it would only be the oversized material that should be crushed. 
+Mr Shirley gave evidence, although extremely imprecise, as to cost. His view (that the cost of ripping up, crushing and relaying would be about $28.00 per tonne) was based apparently on inquiries made of contractors, supplemented by reference to standard construction costs guide. Without being disrespectful to Mr Shirley, I do not have any confidence in his estimate based on those (principally) unspecified and untested sources. Nor does that evidence deal with the matter referred to in the previous paragraph, or its cost consequences. 
+When I deal with the next and last issue, I conclude that Transition is entitled to recover the reasonable costs of rectification notwithstanding that it has sold the site and appears to have no ongoing interest in its development. That means that it will be necessary for the cost of rectification to be ascertained in some way. 
+Towards the end of submissions, I proposed to Counsel that if matters got this far, I would be inclined (if the parties could not agree on a figure for the cost of rectification) to refer out the questions of how the defects should be rectified and what would be the cost. I said that if I did take this course, it would be necessary to consider the question of the costs of the reference, given that all issues (including all issues of damages) had set down for hearing in court. 
+Mr Weinberger accepted the proposition that there should be a reference out in the circumstances that have arisen. Mr Windsor did not appear to oppose this course. 
+Accordingly, the course that I shall take in respect of the costs of rectification is to stand the matter over so that the parties can attempt to agree on a figure, and to refer the relevant questions out if they cannot. 
+Ninth issue: relevance of sale of the land 
+The general rule, in relation to a contract for the performance of building work (and in my view, the same general rule applies to a contract for the performance of engineering work), is that where the builder departs substantially from the specifications, the proprietor's damages are not limited to any diminution in value of the building but, rather, are the cost of making the work conform to the specifications (and any consequential losses). That principle is established by the decision of the High Court of Australia in Bellgrove versus Eldridge <case>; [(1954) 90 CLR 613] at, in particular, 617. 
+There is a qualification to the rule: namely, that the work undertaken must be necessary to produce conformity, and that this must be a reasonable course to adopt (Bellgrove at 618). 
+The decision of the House of Lords in Ruxley Electronics and Construction Ltd versus Forsyth [1996] AC 344 provides an example of application of the qualification of "reasonableness". A swimming pool was to have a maximum depth of 7 feet 6 inches. After the work was completed, the maximum depth was found to be 6 feet 9 inches. There was no adverse effect on the safety, utility, or aesthetic quality of the pool, or otherwise on the proprietor's property. 
+The House of Lords concluded that the expense of reinstatement, to achieve the specified depth, would be out of all proportion to the benefit to be obtained. Thus, their Lordships said, the plaintiff was entitled to recover only any diminution in value of the property. On the facts of that case, the proprietor recovered in effect nominal damages. 
+In the present case, the real question is as to the significance of the fact that Transition has sold the land and appears to have no further interest in it or in its redevelopment. 
+There is no evidence that the sale price of the land was affected (adversely or otherwise) by the extent to which the VENM layer did not comply with the specification. Nor did Transition put its case on the basis that there was evidence from which it could be inferred "that the defective works would have had a depreciating affect upon the value of the [land] and that a purchaser of the [land] would have found it necessary to carry out certain remedial work at least" (see Doyle CJ in De Cesare versus Deluxe Motors Pty Ltd [(1996) 67 SASR 28] In that case, the proprietor for whom the building works were carried out sold the houses without discovering the defects. The purchasers discovered them and complained. The vendor, although under no legal obligation to do so, repaired the defects. 
+Gibbs J, speaking for the Full Court of the Supreme Court of Queensland, said at 278 that subsequent sale would not affect an accrued right to recover damages according to the Bellgrove measure. His Honour continued: ...The fact that the building had been sold might be one of the circumstances that would have to be considered in relation to the question whether it would be reasonable to effect remedial work, but assuming that it would be reasonable to do the work the owner would still be entitled to recover as damages the cost of remedying the defects or deviations from the contract... .
+In De Cesare, Doyle CJ referred to this passage at 35. After suggesting that "what is said there may be expressed in terms that are too absolute", Doyle CJ said: ... it is my opinion that his Honour... is correct in saying that in principle the relevance of the sale of the building is limited to its relevance to the question of whether it would be reasonable to effect the remedial work. In the present case... it is my opinion that the fact of sale does not suggest in any way that a claim for the cost of the necessary remedial work is unreasonable.
+As I understand it, Doyle CJ thought that the fact of sale did not suggest unreasonableness because there was an available inference that the sale price had been depreciated by the purchaser's awareness of the defects and of the necessity for repair. 
+Scott Carver Pty Ltd versus SAS Trustee Corporation  <case> is another case that considers the relevance of sale to the Bellgrove measure of damages. 
+Hodgson JA dealt with the relevance of sale at [38] to [48] of his reasons. At [47], his Honour referred to the fact that the sale price (although not in a sale at arm's length) was reduced by an amount exceeding the cost of rectification, because of the defects. In those circumstances, his Honour concluded, the fact of sale did not displace the Bellgrove measure. 
+Ipp JA said at [120] that the "reasonableness" qualification to the Bellgrove measure "is aimed at determining whether the cost of remedying the defect is out of proportion to the achievement of the contractual objective". His Honour relied on what Lord Jauncey of Tullichettle had said in Ruxley at 358: [I]n taking reasonableness into account in determining the extent of the loss, it is reasonableness in relation to the particular contract and not at large.
+Thus, as Ipp J said at [121], "the details of any contract that the proprietor may make for the sale of the building defectively constructed is collateral to the issue of the proprietor's loss". 
+In Brewarrina Shire Council versus Beckhaus Civil Pty Ltd  <case>, Tobias JA (with whom Giles and McColl JJA agreed), after reviewing the authorities, drew from them (at [89]) the following conclusion): [89] In summary, the authorities to which I have referred stand for the proposition that whether the rectification work is a reasonable course to adopt is dependant upon a finding of fact that the proposed work was reasonable in order to achieve the contractual objective. The rectification work would be unreasonable if it was out of all proportion to the achievement of that objective or to the benefit to be obtained therefrom.
+There are cases where it is suggested that, if rectification work will never be carried out, then the Bellgrove measure might be displaced. Giles CJ Comm D said as much in Central Coast Leagues Club versus Gosford City Council (9 June 1998, unreported). In that case, rectification work would not be carried out because other, more extensive work, had to be carried out in any event for reasons totally unrelated to the builder's failure to perform its contract. 
+Mr Windsor referred to Hyder Consulting (Australia) Pty Ltd versus Wilh Wilhelmsen Agency Pty Ltd <case> In that case, the defective works included a pavement. At trial, the primary judge assessed damages at the estimated cost of rectification. However, reconstruction was not carried out in accordance with the estimate. The owner redeveloped the premises. As part of that work, the defective pavement was demolished and replaced, at a cost substantially less than the estimated cost. The Court of Appeal held that the owner was entitled only to the actual cost incurred and not to the estimated cost. 
+Each member of the court (Meagher, Sheller and Giles JJA) gave reasons, concurring in the outcome. Giles JA said at [96] that none of the cases on the topic "supported damages based on the theoretical cost of reconstruction of the pavement when the actual cost of reconstruction of the pavement was known, and the actual cost was powerful evidence of an alternative method of calculating rectification costs". 
+At [99], Giles JA mentioned, in effect by way of aside, the situation where it is found that rectification work will never be carried out. He said: 
+I have held that, if it is found that the rectification work will never be carried out, no damages should be awarded: see Central Coast Leagues Club
+Limited versus Gosford City Council 9 June 1998, unreported.
+It could be taken from what Giles JA said that he remained of the view expressed in Central Coast Leagues Club. However, since Hyder was not a case where it was, or could be, "found that the rectification work will never be carried out", his Honour's observations were not material to the decision to which he came. 
+Giles JA returned to this topic in Westpoint Management Ltd versus Chocolate Factory Apartments Ltd  <case> He said (in reasons with which McColl and Campbell JJA agreed) at [62] that his observations in the earlier cases might be "apt to mislead". 
+His Honour put the matter thus: 
+It is necessary to ask why the rectification work would never be carried out.
+In these cases the rectification work could not be carried out because of supervening events, and established that the plaintiff had not been deprived of the benefit of performance of the contract and thus had not suffered a compensable loss. In other cases, depending on their facts, where the rectification work would be carried out could come under consideration, but not because an intention not to carry out the rectification work itself precluded the award of damages.
+What Giles JA said in Westpoint was endorsed by the Court of Appeal of the Supreme Court of Queensland in UI International Pty Ltd versus Interworks Architects Pty Ltd [[2007] QCA 402:](http://www.austlii.edu.au/au/cases/qld/QCA/2007/402.html "View Case" ) see Keane JA at [108]. 
+Finally, for present purposes, the Court of Appeal in this State returned to the Bellgrove issue in Cordon Investments Pty Ltd versus Lesdor Pty Ltd  <case> Bathurst CJ (with whom Macfarlan and Meagher JJA agreed) drew from the reasons of Giles JA in Westpoint the following conclusions (at [230]): [230] The combination of the lack of intention to carry out the rectification work, the transfer of the property from Lesdor to the owners corporation and the absence of any evidence that the defects were affecting the use and occupation of the building or the common property leads, in my opinion, to the conclusion that it would be unreasonable to carry out the work and that damages for the cost of rectification should therefore not be awarded.
+Mr Weinberger did not refer in detail to the cases, although he emphasised that the test of reasonableness was one to be answered by reference to the contract, not at large; and that the question of sale was relevant only to reasonableness. 
+Mr Windsor submitted that, on the facts of this case, to award Transition damages calculated as the cost of rectification would be to give it "an uncovenanted profit". The quotation comes from the judgment of Oliver J in Radford versus De Froberville [[1977] 1 WLR 1262] at 1270. Mr Windsor submitted that this was a further qualification to the proposition that, before damages calculated by reference to the cost of rectification could be awarded, the rectification works must be both necessary and reasonable. 
+There are a number of things to say about that submission. 
+The first point is that the concept of necessity focuses on the relationship between the defects or omissions in the work, and what is proposed by way of rectification. That is to say, the rectification must be necessary, in the sense that it is the work needed to bring the building (or other works) into conformity with the contract. 
+The second point is that, as the cases to which I have referred already make clear, the concept of "reasonableness" is assessed by reference to the particular contract and not at large. The cost of rectification will be unreasonable only if it is wholly disproportionate to achievement of the contractual objective. 
+The third point is that I do not read what Oliver J said in Radford as seeking to lay down any qualification of or limit on the Bellgrove measure of damages. 
+The facts of Radford were somewhat unusual. The plaintiff obtained planning permission to build a house on a plot of land that formed part of a larger overall parcel of land that he owned. He sold the plot to the defendant, on conditions including that she would build the proposed house, and would erect a wall on the plot so as to divide that plot from the remainder of the plaintiff's land. The defendant did neither of those things. Instead, she sold the plot to a third party, who covenanted to build the house and erect the wall that the defendant had promised the plaintiff she would build. The third party did not build the house or the wall. The question arose as to what was the correct measure of damages. 
+Against that background, Oliver J concluded that the measure of the loss suffered by the plaintiff was the cost of erecting the wall to the contract specification (although on his own land, not on the plot which by now was out of his ownership). Damages were not to be measured merely by reference to the diminution in value of the plaintiff's land flowing from the absence of the wall. 
+Oliver J took as his starting point the proposition that the plaintiff was entitled to compensation for pecuniary loss naturally flowing from the breach. At that point, his Lordship turned his attention to the question of what might broadly be called "reasonableness" (although his Lordship did not put it that way). The full paragraph from which Mr Windsor took the last few words reads as follows: 
+Now, it may be that, viewed objectively, it is not to the plaintiff's financial advantage to be supplied with the article or service which he has stipulated. It may be that another person might say that what the plaintiff has stipulated for will not serve his commercial interests so well as some other scheme or course of action. And that may be quite right. But that, surely, must be for the plaintiff to judge. Pacta sunt servanda. If he contracts for the supply of that which he thinks serves his interests - be they commercial, aesthetic or merely eccentric - then if that which is contracted for is not supplied by the other contracting party I do not see why, in principle, he should not be compensated by being provided with the cost of supplying it through someone else or in a different way, subject to the proviso, of course, that he is seeking compensation for a genuine loss and not merely using a technical breach to secure an uncovenanted profit.
+When the reference to "uncovenanted profit" is put in context, the fourth point that I wish to make about this submission becomes clear. There will be limiting cases where a plaintiff should not recover the cost of rectification for a breach that is purely technical, and of itself does not sound in substantial damage. Ruxley was such a case. The latter half of the paragraph that I have set out in full was quoted with approval by Lord Jauncey in Ruxley at 358, and referred to with approval (although not set out) by Lord Mustill in the same case at 344. It may be noted that Lord Keith of Kinkel and Lord Bridge of Harwich agreed with both their Lordships in that case. 
+Again, the passage from Radford that I have set out was quoted with approval by the High Court in Tabcorp Holdings Ltd versus Bowen Investments Pty Ltd <case>; <case>. In passing, I note that in the following paragraph, [17], the Court referred to the qualifications of necessity and reasonableness (by reference to what had been said in Bellgrove at 618) and said: ...That tends to indicate that the test of "unreasonableness" is only to be satisfied by fairly exceptional circumstances. The example given by the court [in Bellgrove] aligns closely with what Oliver J said in [Radford], that is, that the diminution in value measure of damages will only apply where the innocent party is "merely using a technical breach" to secure an uncovenanted profit". ...
+It cannot be suggested that, in this case, the breach is merely technical. The specifications for the VENM layer required, relevantly, that it comprise material having a particle size no greater than 200mm. On the evidence of Mr Shirley, which I accept, there are far larger rocks, or boulders, throughout (within and on top of) substantially the whole of the VENM layer. Mr Shirley estimated that oversized particles could comprise up to 15 or 20% of the VENM layer. But even if they comprise no more than 10%, the non-conformity is anything but merely technical. 
+In the present context, the breach of contract on the part of BH, in failing to inspect regularly, or sufficiently frequently, or to use appropriate diligence and care in supervising the work of Coffey, and indeed the work of Robson, meant that the presence of oversized fill was not detected, and that deliveries and compaction were not halted until the problem was investigated and rectified. Again, that is not merely a technical breach. 
+To my mind, there can be no question but that rectification work is necessary to produce compliance with the contract. Although the full extent (and cost) of that rectification work remains to be determined, it may involve ripping up the VENM layer, screening it, and crushing material found to be oversized. Rectification work is necessary, in the relevant sense, to bring the VENM layer into conformity with the specification. 
+The experts did canvas whether, as an alternative, it would be possible to use heavier equipment to carry out trenching works and the like, and whether the cost of doing so might be an alternative way of assessing damages. That approach does not involve rectification of the defects. It involves accepting them, and in effect working around them, or with them, at a higher cost. It is not relevant to the question of "necessity". Although it may bear on the question of "reasonableness", I do not think that it is reasonable for a principal in the position of Transition to be required to accept, in lieu of compliance with the contract, the risk of extra costs and inconvenience that are presently unassessable. 
+The principal argument put in support of the proposition that it was not reasonable for the work to be done was however that Transition would not in fact do the work, because it had sold the land and there was no evidence that it had undertaken any obligation to rectify the defects in the VENM layer. But, as the cases make clear, the test of reasonableness is to be assessed by reference to the contract in respect of which damages for breach are sought. And in this context, as Doyle CJ said in De Cesare at 35, "the fact of sale does not suggest in any way that a claim for the cost of the necessary remedial work is unreasonable". 
+As I have noted, Mr Windsor relied on what Bathurst CJ had said in Cordon at [230]. The point of his Honour's analysis, as I understand it, was that it was the combination of the factors summarised in that paragraph which led to the conclusion that it would be unreasonable to carry out the work. Presumably, embodied in that conclusion was recognition of the proposition that the question of reasonableness is to be measured by reference to the contract, in respect of which damages for breach are sought. Whilst acknowledging the reasoning (and the fact that I had reached the same conclusion in that case at first instance), the question is entirely fact-based. A decision on one set of facts may not necessarily be of assistance in resolving the question of reasonableness arising on quite different facts. 
+In this context, the further observations of Oliver J in Radford at 1270 are apposite: 
+Broadly similar facts, no doubt, inevitably get broadly similar treatment, but a reference to the authorities shows that the court seeks, in each case, to apply realistically the general principle to the actual case before it. Thus, for instance, in assessing damages for physical injury to land or buildings, no doubt a useful prima facie measure of the plaintiff's loss will be the amount by which the injury has diminished the value of the land as a commodity. But that is by no means universal and the question of the appropriate measure cannot be divorced from the plaintiff's personal position and obligations, both legal and moral, or from what the plaintiff ought reasonably to do by way of mitigation.
+At 1271, Oliver J (paraphrasing what Viscount Haldane LC had said in British Westinghouse Electric and Manufacturing Co Ltd versus Underground Electric Railways Co of London Ltd [[1912] AC 673] at 688) said: ... the quantum of damage is a question of fact and the general principle merely a guide to the approach to each particular case. In applying that principle, the court does not disregard the hopes and aspirations or the individual predilections of the particular plaintiff.
+ [Decided] cases are, therefore, at best useful as analogies...
+I conclude that the fact of sale does not preclude Transition from receiving damages based on the cost of rectification of the defects in the VENM layer. 
+Summary of conclusions 
+I set out the conclusions that I have reached on the claim and the cross-claim. In relation to the latter, I invite the parties to put submissions as to whether, in light of the primary conclusions that I have reached, there are errors in my computation of damages. 
+The task of computation has not been easy, principally because Mr Weinberger's submissions on this point did not appear to have been undertaken with his usual care. For example, there are two relevant units of measurement: tonnes and cubic metres. There were occasions when Mr Weinberger's calculations appeared to use a rate relevant to one measure, and apply it to a claim expressed in the other. Again, there are instances where the calculation appears to be wrong, or insufficiently reasoned. Thus, as I have said, the parties are to have the opportunity of submitting that my calculations should be reviewed. 
+On BH's claim to fees, I conclude that, subject only to the defence by way of set-off, that claim has been made good in full. However, regardless of whatever errors there may be in my computation of Transition's claim to damages, the claimed set-off is sufficient to obliterate the amount of fees that were due but were unpaid. 
+On the grade issues, Transition has made good its claim to damages. For the road grading question, I have quantified damages at $118,755.00 (this figure, and all other figures, are exclusive of interest). For the cut to fill question, I have quantified damages at $3,900.00.
+On the pavement box out issue, I have quantified damages at $59,377.50. 
+On the question of tendering out the earthworks, I have quantified damages as follows: for the 35,000m³ of fill that could have been obtained direct from
+Woodbury, at $119,000.00; and for loss of the opportunity to obtain a further 15,000m³ of fill direct from Woodbury, at $25,500.00.
+For the failure to assess progress claims, I have quantified damages at: $170,041.50.00 for the incorrect conversion rate used for VENM; $29,893.00 for the incorrect conversion rate used for the capping layer; and $39,054.00 for over-certification of the total amount of material delivered by Robson to the Fern Bay site.
+The claim in respect of the free issue material has not been made out. 
+In principle Transition has made good its claim for damages for failure to project manage and supervise the performance by Coffey of its obligations to provide level 1 services in respect of the importation, spreading and compacting of fill (and the same might be said of Robson's obligations in respect of the quality of fill). However, I am not satisfied as to the evidence, either as to the proper nature and extent of rectification or as to the reasonable cost thereof. Thus, as I have said, this matter should be referred out (with a reservation as to the costs of the reference) unless the parties can agree on the amount to be allowed. 
+Subject to the correction of any errors in my quantifications of damage, the result is that BH's claim must be dismissed, and that Transition's claim succeeds. 
+The appropriate way to deal with this matter is to give the parties an opportunity to reflect on these reasons, and to stand the matter over for directions at some convenient time in the new term. If the parties can agree on the orders to be made to give effect to these reasons, I will make them. If, however, the parties cannot agree (including not only as to the quantification of damages and as to the mechanism for dealing with rectification and the cost thereof, but also as to costs), I will fix the matter for further hearing before me at a mutually convenient date. 
+Orders 
+I direct the parties and their legal advisers to confer in good faith with a view to agreeing on the orders that should be made to give effect to these reasons. 
+I stand the matter over to 6 February 2014 at 9:30am before me either for the making of orders (if there is substantial agreement) or for directions. * * * 

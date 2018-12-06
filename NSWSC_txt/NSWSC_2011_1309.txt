@@ -1,0 +1,138 @@
+
+
+Westpac Banking Corporation versus Gilio [2011] NSWSC 1309 (4 November 2011) 
+Last Updated: 1 December 2011 
+Supreme Court 
+New South Wales  
+Case Title: 
+Westpac Banking Corporation versus Gilio  
+Medium Neutral Citation: <case>  
+Hearing Date(s): October 2011  
+Decision Date: November 2011  
+Jurisdiction: 
+Before: 
+Rothman J  
+Decision:
+The application to strike out paragraphs 31 and 32 in the first, second, fourth, fifth and sixth defendants' defence to the amended statement of claim filed on 5 August 2011 is refused; 
+The application to strike out paragraph 33 in the third defendant's defence to the amended statement of claim filed on 29 July 2011 is refused; 
+The application for summary judgment against the first, second, third, fourth, fifth and sixth defendants for the amounts owed in respect of the second and third banker's undertaking is refused; 
+Motion dismissed; 
+Costs of the motion will be the defendant's costs in the cause.  
+Catchwords: 
+PROCEDURE - civil - documents or pleadings - strike out; application to - an application to strike out parts of defences to a statement of claim and a consequential order for summary judgment - application refused.  
+JUDGMENT 
+By amended motion, filed 9 September 2011, the plaintiff, Westpac Banking Corporation (hereinafter "Westpac") seeks orders striking out certain paragraphs of the defences to the amended statement of claim and a consequential order for summary judgment. The defences filed by the defendants are in slightly different form, but the principle underlying the application for strike out is the same and the terms of the defence, relevant to this application (albeit in differently numbered paragraphs), are identical. 
+Westpac relies upon Uniform Civil Procedure [Rule 14.28](http://www.austlii.edu.au/au/legis/nsw/consolreg/ucpr2005305/s14.28.html) and submits that the relevant paragraphs disclose no reasonable defence and should be struck out. Once struck out, Westpac submits that no reasonable defence is pleaded, entitling it to summary or default judgment: see [Uniform Civil Procedure Rules 2005](http://www.austlii.edu.au/au/legis/nsw/consolreg/ucpr2005305/) ('UCPR'), [Part 16.](http://www.austlii.edu.au/au/legis/nsw/consolreg/ucpr2005305/index.html#p16) 
+Substantive proceedings and relationship between parties 
+Westpac sues on a guarantee given by the defendant in relation to loans to one or more corporations to which the defendants are related. The loan was a business loan to Stateland Developments Pty Ltd (hereinafter, "Stateland"). 
+By way of background, Westpac lent monies to Stateland on or about 5 May 2006. The loan was to assist with the refinance and development of property near Hoxton Park, in the west of Sydney. 
+Without detailing all the events and circumstances, it is sufficient, for present purposes, to remark that Stateland defaulted on the loan. The loan was secured against certain property. The security consisted of registered mortgages. On or shortly after default by Stateland, Westpac demanded payment by the defendants under the guarantee. 
+Each of the guarantees is in similar terms and incorporates documents entitled "Memorandum of Common Provisions" (hereinafter "Common Provisions"). There are no relevant differences between the terms of the guarantee as between each of the defendants and Westpac. 
+Taking the guarantee in relation to the first defendant as an example (see exhibit A page 126), the first defendant guarantees Westpac in respect of money now or in the future owed by Stateland in relation to: "all liabilities and obligations of the Customer [Stateland]... now or in the future under or in respect of ...
+
+Business Finance Agreement dated 5 May 2006 or any other arrangement or obligation you agree is covered by this Guarantee..."
+The Guarantee incorporates the Common Provisions (exhibit A page 136 and following). The Common Provisions are purportedly in "plain English" and include definitions of a "Document" which includes a guarantee or indemnity, a definition of "Customer", "Guaranteed money", "Guaranteed Obligation", "Lender" and "Lender arrangement". By clause B1 of the Common Provisions, the guarantor promises: "...to pay the following amounts to the Lender.
+ ...
+ if you give or have given a Guarantee or money which the Customer owes to the
+Lender for any reason, under or in relation to the Guaranteed Obligations."
+Clause B5 the Common Provisions provide: "Except where a Lender Arrangement says otherwise, all amounts are payable on demand or when the Lender debits your account for them."
+By clause B6, the Common Provisions provide that the guarantor: "must pay them [the amount payable] in cleared funds and without any deduction except as set out in B3 "Tax" above."
+The Common Provisions set out, as would be expected, a definition of default event (See clause D2). By clause D3, the Common Provisions provide: "At any time after a Default Event which has not been waived (whether or not it is continuing) the Lender can do any one or more of the following to the extent permitted by law.
+
+Require you to pay to the Lender all principal or other amounts which you promise to pay under Part B ("Your Payment Obligations" above)." 
+Most importantly, the Common Provisions has a clause relating to set off. It is clause D5 and it is in the following terms: "If any one or more of you have any money in any account with the Lender or are owed money by the Lender, the Lender can use it to pay amounts payable or secured under a Documents, but need not do so. If the Lender does this, the balance of your account will reduce by the amount used for this purpose.
+
+To the maximum extent allowed by law you give up any right to set off any amounts the Lender owes you ( for example credit balances in your accounts or any deposit subject to a Deposit Security ) against amounts you owe under the
+Lender Arrangements.
+
+You will pay money you are required to pay under this document without deducting amounts you claim are owed to you by the Lender or any person..."
+It is also necessary to repeat extracts from the following clauses: "E1. GUARANTEE 
+You guarantee to the Lender that the Customer will, on time: 
+Pay to the Lender all the Guaranteed Money; and 
+Perform the Guaranteed Obligations 
+E2. PAY ON DEMAND 
+If the Customer does not pay an amount of the Guaranteed Money when it is due, the Lender may demand that you pay that amount. You must then immediately pay that amount to the Lender. The Lender can make any number of demands and demand can be made: 
+For all or part of the Guaranteed Money; and 
+Even if the Lender does not take action to recover the Guaranteed Money from anyone.
+
+This is an independent obligation.
+
+E3. EXTENT OF THE GUARANTEE 
+The Guarantee is a guarantee for the full amount of the Guaranteed Money and the Guaranteed Obligations.
+ ...
+
+E8. NATURE OF LIABILITY 
+Your liability under the guarantee is unconditional and a primary obligation.
+It is not affected by anything which otherwise might release you from all or part of your obligations, including if: 
+The Lender does not or is slow to exercise any of its security or rights against anyone; 
+The Lender makes any arrangement, transaction or compromise with anyone, including one which varies, takes away or limits its security or rights, or its freedom to exercise them; ...
+
+E10. INVALIDITY 
+If at any time for any reason ( for example, lack of capacity or authority,
+Administration, release, illegality or inadequate or improper execution or stamping ): 
+The Lender has no legal right to recover an amount of the Guaranteed Money from the Customer or to enforce the Guaranteed Obligations; 
+The Customer is not bound by obligations (or what would have been obligations) that otherwise would gave been Guaranteed Obligations; or 
+The Customer does not owe an amount which would otherwise have been included in the Guaranteed Money, the amount will be taken to be part of the Guaranteed Money. You will pay it to the Lender whenever the Lender demands. ...
+
+This applies even if the Lender knew or should have known of the problem. It applies even if, because of the problem, the Customer could never have been required to pay the Lender the amount and was never subject to the obligation.
+ ...
+
+E11. SECURITY 
+Any other Security for all or part of the Guaranteed Money or Guaranteed
+Obligations is independent of the Guarantee. The Guarantee is independent of it.
+
+Nothing affecting any Security will affect the Guarantor's liability under the
+Guarantee. The Lender can enforce the Guarantee and any Security in any order it wishes. It can choose not to enforce any Security at all.
+
+Until the Guaranteed Money is paid in full, you can not claim the benefit of, and have no right to, the Security."
+The paragraphs of the defences to the amended statement of claim which, by motion, Westpac seek to strike out, rely on the statements of cross-claim which have been filed and claim an equitable set off to the guarantee amounts otherwise demanded by Westpac. 
+The cross-claim relies on a breach of the duty by Westpac of the obligation of good faith owed to Stateland in preventing a sale of certain of the properties secured for the purpose of the loan. Further, the cross claim alleges unconscionable conduct by Westpac and breach of the Australian Securities and Investments Act 2001 (Cth) (hereinafter, the " ASIC Act" ) and the [Trade Practices Act 1974](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) (Cth) in relation to the conduct of Westpac in preventing the sales by Stateland. 
+Further, Westpac went into possession of the properties, whereafter, the mortgagee in possession (or its agent) received offers to purchase, which offers where refused by Westpac, as the mortgagee in possession. The defendants allege that the refusal of those subsequent sales was a breach of the duty of Westpac as mortgagee and unconscionable. Moreover, the defendants allege that the business finance agreement provides for interest at default rates which, given the conditions on their payment, are unconscionable under the general law and under the provisions of the ASIC Act and the [Trade Practices Act](http://www.austlii.edu.au/au/legis/cth/numact/tpa1974149/) . Further, it is alleged that the default interest rates are a penalty and void according to law. 
+The contract of guarantee and equitable set off 
+The fundamental premise from which one approaches the issues in this case must be the right of parties in a democracy, such as Australia, to decide for themselves whether or not to contract and to decide the terms on which they will bind themselves: Biotechnology Australia Pty Ltd versus Pace [(1988) 15 NSWLR 130] at 133. The High Court of Australia has confirmed this approach and the underlying policy reasons behind it. It said: " [33] The respondents, each having executed a loan agreement, each is bound by it. Having executed the document, and not having been induced to do so by fraud, mistake, or misrepresentation, the respondents cannot now be heard to say that they are not bound by the agreement recorded in it. The parol evidence rule, the limited operation of the defence of non est factum and the development of the equitable remedy of rectification, all proceed from the premise that a party executing a written agreement is bound by it. Yet fundamental to the respondents' case that the operative agreements between the parties were wholly oral, and reached earlier than the execution of the written agreements, was the proposition that the written agreements subsequently executed not only may be ignored, they must be. That is not so. Having executed the agreement, each respondent is bound by it unless able to rely on a defence of non est factum, or able to have it rectified. The respondents attempted neither.
+ [34] There are reasons why the law adopts this position. First, it accords with the "general test of objectivity [that] is of pervasive influence in the law of contract". The legal rights and obligations of the parties turn upon what their words and conduct would be reasonably understood to convey, not upon actual beliefs or intentions.
+ [35] Secondly, in the nature of things, oral agreements will sometimes be disputable. Resolving such disputation is commonly difficult, time-consuming, expensive and problematic. Where parties enter into a written agreement, the
+Court will generally hold them to the obligations which they have assumed by that agreement. At least, it will do so unless relief is afforded by the operation of statute or some other legal or equitable principle applicable to the case. Different questions may arise where the execution of the written agreement is contested; but that is not the case here. In a time of growing international trade with parties in legal systems having the same or even stronger deference to the obligations of written agreements (and frequently communicating in different languages and from the standpoint of different cultures) this is not a time to ignore the rules of the common law upholding obligations undertaken in written agreements. It is a time to maintain those rules. They are not unbending. They allow for exceptions. But the exceptions must be proved according to established categories. The obligations of written agreements between parties cannot simply be ignored or brushed aside." ( Equuscorp Pty Ltd versus Glengallan Investments Pty Ltd (2004) 218 CLR 472 ; [(2004) 211 ALR 101]; [(2004) 79 ALJR 206] ; [(2004) ATR 556] ; <case> at <case> to [35]; references omitted)
+Notwithstanding the freedom of parties to contract and to contract on terms on which they agree, the law imposes obligations on which parties may rely in answer to a claim for damages. Thus, where a defendant is able successfully to rely on a countervailing claim against a plaintiff, that countervailing claim to the extent that it absolves him of the whole or part of the debt, may be successfully pleaded to negate or ameliorate the debt owing; Meagher, Gummow and Lehane, Equity Doctrines and Remedies , 3 rd edition (1992) at 3701. 
+Secondly, an equitable set off is different from a cross claim in that it may be used defensively as well as offensively: Stooke versus Taylor [(1880) 5 QBD 569] at 575. 
+Thirdly, the only requirement for an equitable set off is that the claim impeaches the title of the plaintiff. 
+Essentially, equitable set off arises in circumstances where it would be unconscionable for a party to rely on the law to obtain damages, for which there is, in whole or in part, an answer arising from the same or different circumstances. The current practice arises from the historical position that, previously, equity would restrain common law actions for monies owing unless the plaintiff at common law set off amounts owing from other sources to the defendant: see AWA Ltd versus Exicom Australia Pty Ltd [(1990) 19 NSWLR 705] per Rolfe J. 
+Given the foregoing principles, it may be impossible for a party to contract out of equitable set off. If it were possible to stay the enforcement of the contract pending the determination of a related ameliorating counter-claim then a contractual term excluding set off would be inoperative. 
+Nevertheless, it is possible, by express words in a contract, for the contract to provide for payment of amounts that, bearing in mind rights to counter-claims, may not be owing in full and to delay the ascertainment of the rights of the other contracting party to the amounts in the counter-claims: see Batiste versus Lenin  <case> at <case> per Bryson J; Bank of Western Australia versus Hodgkinson  <case> at <case> and the cases cited therein, per Einstein J; GE Capital Australia versus Davis  <case> at <case>, [56], [73], [83], [85] and [92] to [99] per Bryson J. 
+All of the foregoing principles (and judgments) were concerned with final judgments of the court. The only judgment to which the Court, as presently constituted, has been referred, that deals with the issue on an interlocutory basis is St George Bank Ltd versus Archer Philip Field  <case>, per McDougall J. In the St George Bank case , supra, McDougall J struck out the Commercial List response and directed summary judgment for the Bank. In doing so he said: " [14] A consideration of this issue requires some reference to the terms of the deed of loan and guarantee. It is expressed to be an unconditional and irrevocable guarantee, payable on demand (cl 2.1). The guarantor must not delay payment for any reason (again, cl 2.1). Payment is required to be made in full (cl 3.1). The inference available from those provisions is made explicit by cl 3.2 which reads as follows: .2 Payment without deduction or set-off 
+Guaranteed Money must be paid in full without any deduction. The Guarantor waives all rights of set-off, combination or counterclaim in relation to payment of Guaranteed Money.
+ [15] Clause 5.2.1 is also relevant. It makes it plain that the guarantor's liabilities and the rights of St George are not affected by a number of matters, including the granting of time, laches, acts omissions or mistakes, and anything else which might at law or in equity have the effect of breaching or discharging the guarantor's liability.
+ [16] Further, there is a certification clause: cl 9.4. That is in the usual form, making a written statement conclusive evidence, except in the case of manifest error, of the amounts stated in it. Such a statement is in evidence.
+It certifies the liability of Mr Field to St George as at the date it was signed. There is no doubt that it was signed by someone authorised to do so under cl 9.2.
+ [17] Against that background, it is therefore necessary to consider the issues that might be raised. I have set them out above. A number of those issues refer to conduct of St George, by its servants and agents, which has the effect of discharging the guarantee, or of relieving Mr Field of liability under it, or of making it unjust for St George to seek to enforce the guarantee. On the face of things, they are all rights that Mr Field has bargained away by the clauses of the guarantee to which I have referred. It is clear that the courts will give effect to such a bargain: see Mason CJ in The
+Commonwealth of Australia versus Verwayen (1990) 170 CLR 394 at 407. In the particular context of a guarantee, see the decision of Brennan J in
+Buckeridge versus Mercantile Credits Ltd <case>; [(1981) 147 CLR 654] at 675. To the extent that Mr Field wishes to raise those issues, they are issues that are foreclosed by the terms to which I have referred.
+ [18] There is an important distinction to be drawn between a defence that impeaches the guarantee itself, and a defence that impeaches the exercise of rights under the guarantee. Clauses of the kind to which I have referred may not prevent a defence being raised to liability under a guarantee where it is said (for example) that the taking of the guarantee was itself affected by some vitiating circumstance. But no such issue is raised in this case. There is no challenge to the validity of the guarantee. The allegations that I have summarised seek to attack the exercise of rights under it. In my view that is the kind of exercise prohibited by the terms of the guarantee which terms, as
+I have said, are to be enforced according to their wording."
+However, in the St George Bank Case , supra, there was no cross-claim and the issue before the Court was whether an equitable set off could be raised given the terms of the guarantee. 
+The present proceedings are slightly different from all of the foregoing. First, like the proceedings before McDougall J, what is sought is an interlocutory order striking out the relevant paragraphs of the defence and issuing summary or default judgment as a consequence. Yet unlike the St George Bank Case , there is a cross-claim that Westpac does not seek to strike out and which must ultimately come before the Court and be determined, raising the same issue. 
+As a consequence, the Court is not determining finally the issues between the parties as to their relative indebtedness, it is being asked to give force to Westpac's pre-emptive strike which may well have the effect of precluding the defendants from pursuing what might otherwise be just grounds in their cross-claim. The amounts involved are not insignificant. 
+Moreover, there are other amounts owing, it is claimed, to Westpac and which Westpac would continue to claim under the amended statement of claim. The effect of this pre-emptive strike is to strike out only part of the defence and only obtain summary judgment in relation to one aspect of the monies Westpac claim are owed to it. 
+Further, in essence, whatever be the contractual situation, Westpac seek to deny to the defendants the ability to diminish or extinguish the claims under the guarantee on the basis of statutory remedies in circumstances where to do so would not finally determine the issues between the parties or hasten the final resolution of those issues. 
+Consideration 
+Westpac claims it is owed over sixteen million dollars. It lent that amount to Stateland in order to facilitate a commercial development of property. The defendants guaranteed that loan. While all litigation should be concluded as expeditiously as possible, the need for expedition is particularly important in the resolution of commercial disputes. 
+The [Civil Procedure Act 2005](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/) requires the Court to facilitate the just, quick and cheap resolution of the real issues between the parties. Those real issues are the issues defined by the pleadings. 
+The terms of the guarantee to which the parties have agreed, at least on a preliminary view, require the guarantee to be paid in any case of default without set off. Westpac are entitled to their money. At the same time, in essence, the defendants argued that it would be unconscionable for Westpac to obtain the full amount of its money in circumstances where the debt that is guaranteed is not truly owed and or there is a significant breach of statutory duty and trust alleged against the bank in relation to the properties and their sale. 
+Ordinarily, set off is a substantive defence to a claim for damages in contract and even where a common law set off is inapplicable (for example, where the rules relating to abatement do not apply) equitable set off is a full answer: see Lord versus Direct Acceptance Corporation Ltd (Receiver and Manager Appointed) (in liquidation) [(1993) 32 NSWLR 362] at 481; but as seen before each may be excluded by the terms of the contract. 
+The requirement, particularly in commercial disputes, to expedite their final resolution must be understood in that context. The Court must ask itself the question; in what way does the exercise of the discretion to strike out facilitate the just, quick and cheap resolution of the real issues in dispute? It certainly would facilitate the resolution of one issue, but it may prevent and it will prolong, the resolution of any other issue in the proceedings. 
+Moreover, it is difficult to see how the resolution of part of the dispute in a manner that precludes all of the issues between the parties being determined at the same time facilitates justice in any broader concept. 
+The power to strike out pleadings on the basis that they disclose no reasonable cause of action, and to strike out part of a pleading on the same basis, is exercised only in circumstances where the absence of a cause of action is plain and obvious: General Steel Industries Inc versus Commissioner for Railways  <case>; [1964 112 CLR 125] at 91, said: "I agree with Latham CJ in the same case when he said that the defendant should be saved from the vexation of the continuance of useless and futile proceedings, in my opinion great care must be exercised to ensure that under the guise of achieving expeditious finality the plaintiff is not improperly deprived of his opportunity for the trial of his case by the proper tribunal.
+On the other hand, I do not think that the exercise of the jurisdiction should be reserved for those cases where argument is unnecessary to evoke the futility of the plaintiff's claim. Argument perhaps even of an extensive kind, may be necessary to demonstrate that the case of the plaintiff is so clearly untenable that it cannot possibly succeed." ( General Steel Industries , supra, per Barwick CJ at 130)
+The same principle applies to the striking out of a defence as a preliminary step to achieving summary or default judgment. Ultimately, embarking upon an exercise such as determining arguable questions of law, that may themselves give rise to appeals, in circumstances where it will achieve only part of the resolution of the claims must be dealt with bearing in mind the overriding purposes of the [Civil Procedure Act](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/) , to which reference has been made. 
+If the application by Westpac is successful, each of the defendants will suffer judgment for something in excess of $410,000 each. As a consequence, some $2.4 million dollars of a total debt well in excess of $16 million dollars will have been the subject of judgment. The proceedings themselves will continue both for the purpose of determining the statement of claim and for the purpose of determining any cross-claims. 
+Further, the effect of awarding damages of over $410,000 on some of the defendants, may, on the material before the Court, preclude the defendants from pursuing their claim. In the circumstances, it seems to me that determining the preliminary question of law and striking out those parts of the defences to the amended statement of claim will neither avoid the need for a subsequent trial, nor, it seems, substantially reduce the scope of any subsequent trial. As a consequence, determining the rather difficult issues associated with this strike out motion does not facilitate the cheap, quick and just resolution of the issues between the parties. Indeed, it may prevent the resolution of some of the issues. 
+In those circumstances, the Court is not satisfied that it serves the overriding purpose of the [Civil Procedure Act](http://www.austlii.edu.au/au/legis/nsw/consolact/cpa2005167/) nor the interests of justice and expedition, for the Court to strike out those paragraphs of the various defendants' defences to the amended statement of claim. 
+The Court makes the following orders: 
+The application to strike out paragraphs 31 and 32 in the first, second, fourth, fifth and sixth defendants' defence to the amended statement of claim filed on 5 August 2011 is refused;
+The application to strike out paragraph 33 in the third defendant's defence to the amended statement of claim filed on 29 July 2011 is refused;
+The application for summary judgment against the first, second, third, fourth, fifth and sixth defendants for the amounts owed in respect of the second and third banker's undertaking is refused;
+Motion dismissed;
+Costs of the motion will be the defendant's costs in the cause.
+
+Amendments Nov 2011 'Westpac Banking Corporations' is written instead of 'Westpac
+Banking Corporation' Paragraphs: Heading * * * 

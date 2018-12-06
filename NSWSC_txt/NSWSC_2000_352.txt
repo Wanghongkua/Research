@@ -1,0 +1,176 @@
+
+
+Denman Co-op Bowling Club versus Carling [2000] NSWSC 352 (3 May 2000) 
+Last Updated: 16 October 2000 
+NEW SOUTH WALES SUPREME COURT 
+CITATION: Denman Co-op Bowling Club versus Carling <case> 
+CURRENT JURISDICTION: Common Law 
+FILE NUMBER(S): 12564/98 
+HEARING DATE{S): 16 March 2000 
+JUDGMENT DATE: 03/05/2000 
+PARTIES: 
+Denman Co-operative Bowling Club Limited (Appellant) 
+Michael John Carling (Respondent) 
+JUDGMENT OF: Studdert J 
+LOWER COURT JURISDICTION: Local Court 
+LOWER COURT FILE NUMBER(S): 237/95 
+LOWER COURT JUDICIAL OFFICER: Mr R.G.A. Blisset 
+COUNSEL: 
+R. Alkadamani (Appellant) 
+I.C. Duane (Respondent) 
+SOLICITORS: 
+Bryan Kain (Appellant) 
+Curtis & Delaney (Respondent) 
+CATCHWORDS: 
+Appeal by stated case what constitutes "malfunction" whether question of fact or law 
+Illegality burden of proof 
+Registered Clubs Act, ss 77, 77B, 78 and 82 
+ACTS CITED: [Justices Act](http://www.austlii.edu.au/au/legis/nt/consolact/ja119/) 
+Registered Clubs Act 
+Supreme Court Rules 
+Gaming and [Betting
+Act](http://www.austlii.edu.au/au/legis/nt/consolact/ba91/) 
+DECISION: 
+See paras 48 and 49 
+JUDGMENT: 
+IN THE SUPREME COURT 
+OF NEW SOUTH WALES 
+COMMON LAW DIVISION 
+STUDDERT J 
+Wednesday 3 May 2000 /98 DENMAN CO-OPERATIVE BOWLING CLUB LIMITED versus MICHAEL JOHN CARLING 
+JUDGMENT HIS HONOUR: This is an appeal by way of stated case from a decision of a magistrate in the Local Court at Muswellbrook, and it concerns the operation of a poker machine at the club conducted by the appellant, Denman Co-operative
+Bowling Club Limited. The respondent, Michael John Carling, played a particular poker machine at the club and did so with much success. In consequence he claimed $22,900 as winnings but the appellant resisted the claim and litigation followed. The appellant also pursued a cross claim for $3293 seeking to recover that amount from the respondent as monies paid under mistake. The respondent succeeded in the Local Court and hence the present appeal.
+ The magistrate who determined the matter subsequently retired and the case has been stated by another magistrate pursuant to <case> of the [Justices
+Act](http://www.austlii.edu.au/au/legis/nt/consolact/ja119/) and, indeed, the case first stated has been amended by consent.
+ The facts as found by the magistrate are set out in para 2 of the amended stated case and they are as follows: "(a) The plaintiff was accepted as a temporary member of the defendant, a registered club within the meaning of the [Registered Clubs Act ](http://www.austlii.edu.au/au/legis/nsw/consolact/rca1976173/), on 14 and 15 June 1995.
+
+On those occasions, the plaintiff proceeded to gamble on the defendant's poker machines.
+
+The plaintiff received some of his winnings, but did not receive winnings totalling $22,900.00.
+
+The machine played by the plaintiff contained a type 3 `double up' feature. The type 3 double up feature contained a number of different multipliers which are available to the player from x2 to x6, the higher the multiplier, the lower the probability of obtaining it. The player would choose the appropriate option by pressing the relevant button. The machines on which a type 3 game would be loaded have only one row of buttons across the player's area, as well as two buttons on the left.
+
+The software which was installed in the machine in question was written by the witness Bradley. The software was called `Have-a-Heart', and registered by the Liquor Administration Board under that name. The software for the `Have-a-Heart' game, however, was only designed to have five lines of code for multipliers, providing a multiplication capability of six, and no more. It was not intended to have a multiplication capability of more than six. The result of this was that when either of the two additional multiplier buttons on the machine were pressed by the player, the machine sought out the next two lines of code in the software, but those lines had nothing to do with multipliers.
+They were unrelated lines of code. When the seventh button was pressed, it read the unrelated line of code and gave a probability of one in two of winning the wager, instead of a probability corresponding to the seventh button. In relation to the claimed sum of $22,900.00, this sum was allegedly substantially won by the operation of the seventh button as described in this sub-paragraph.
+
+The result of the machine functioning in this way was that the chances of winning four consecutive `double-ups' using the seventh button, which should have been one chance in 8,192, was significantly reduced. When the sixth button was pressed, the probability of winning was near zero. Apart from the sixth and seventh buttons, the machine functioned normally.
+
+The line buttons 1-5 operated in a predictable fashion, in accordance with the third configuration of software. Buttons 6 and 7 operated in a predictable fashion. Button 6 gives the player no chance of winning and button , the win seven fold at odds of 1 chance in 2. This was contrary to the terms of the authorisation of the machine by the Liquor Administration Board. At the relevant times when the winnings were achieved by the plaintiff, the defendant was unaware that the operation of the seven button provided a one in two chance of returning in this manner, and did not intend that the operation of the seven button should bring about this result." The grounds of the decision of the magistrate are expressed in the following form in para 3 of the stated case: "(a) It was common ground between the parties that there was either an express or implied term of the contract between the plaintiff and the defendant in the terms set out in paragraph 6(c) of the defence. Paragraph (c) of the defence initially read: `(c) It was an implied term of the agreement between the parties that the defendant should be under no liability to pay any purported win resulting from the operation of the machine when such purported win was the result of a malfunction in the operation of the wager selected by the plaintiff.' 
+During submissions, that paragraph was amended by consent so as to read: ` ...when such purported win was the result of a malfunction or an unintended operation of the wager selected by the cross defendant.' 
+The defendant submitted that the plaintiff's winnings were the result of a malfunction of the machine, as that term should be understood in the agreement between the parties. Mr Blisset held that the factual circumstances as earlier outlined were not a `malfunction' within the meaning of the agreement between the parties.
+
+Mr Blisset also took a view that there had been no elaboration on the amendment to paragraph 6(c) of the defence, and that he was not required to direct his mind to this ground.
+
+Mr Blisset also held that the operation of Sections 77, 77B, 78 and 82 did not render it unlawful for the defendant to pay the claim of the plaintiff." (The reference to statutory provisions in (d) above is to provisions of the [Registered Clubs
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/rca1976173/), 1976.) Not all the grounds of error for which the appellant contended when the amended stated case was settled were pursued on this appeal, but I shall deal with the various grounds that were pursued in the sequence in which they appear in para 4 of the amended stated case.
+
+Ground (a): That the magistrate was in error in holding that the word `malfunction', as it appears in the implied term pleaded in paragraph 6(c) of the defence, does not connote an unintended mechanical technical operation of the machine and/or software, as he held at page 8 of his Reasons.
+
+Ground (b): That the magistrate was in error in holding that the factual circumstances of the operation of the machine, as found by him, did not amount to a `malfunction' within the meaning of the term pleaded in paragraph 6(c) of the defence.
+ It is convenient to deal with these grounds together. The magistrate determined that there was no malfunction of the machine. Did this involve error of law? It is to be observed that the earlier of these grounds refers to the reasons for judgment of the magistrate and counsel invited me to consider those reasons, relying on [Part ](http://www.austlii.edu.au/au/legis/nsw/consolact/rca1976173/index.html#p32) r 5 of the Rules of Court. What the magistrate said at pp 7-8 of his reasons is as follows: "The defendant pleads `The operation of the controls on the machine which purported to offer the chance of increasing the winnings by six times or by seven times did not reduce the chance of increasing the player's winnings to one in six or one in seven, but brought about a random but increased chance of increasing the player's winnings by those multiples.' This is not my understanding of the evidence that has evolved by the defendant's expert witness, Kenneth Arthur Bradley. Whilst the opportunity of winning may not have been reduced proportionately on the pressing of button 7, it did not bring about a random increased chance of increasing the winnings. The winning [sic] were increased seven fold subject to a mathematically predictable odd of one chance in two. As to the utilisation of the six times button, the player simply lost his wager. This is summarised during the course of the address by the defendant's counsel, Mr Blackburn (page 140).
+
+The defence submit at page 143 that, `Malfunction encompasses an unintended mechanical technical operation of a machine and software.' This submission would be more cogent if such unintended mechanical technical operation was occurring unpredictably. On my understanding of the evidence, the line buttons -5 operated in a predictable fashion, in accordance with the third configuration of software. Buttons 6 and 7 operation [sic] in a predictable fashion. Button 6 gives the player no chance of winning and button seven, the win [eight] fold at odds of one chance in two. I hold that such a factual circumstances [sic] is not a malfunction in the circumstances of the agree [sic] that existed between the plaintiff and the defendant." The distinction between error of fact and error of law is not always easy to draw but it is, I consider, well settled that the ordinary meaning of a word is a question of fact: see Life Insurance Company of Australia Limited v
+Phillips <case>; [(1925) 36 CLR 60] per Starke J at 78; Australian Gas Light Company versus The
+Valuer General (1940) 40 SR 126 and in particular the judgment of Jordan CJ at 137; Collector of Customs versus Pozzolanic (1993) 43 FCR 280 at 287; and
+Collector of Customs versus Agfa-Gevaert Limited <case>; [(1996) 186 CLR 389] at 394.
+ It seems to me that in determining that the machine did not malfunction the magistrate was making a finding of fact. What constitutes a malfunction is a factual question and whether a particular set of facts falls within the description of a malfunction is also a question of fact: see Australian Gas
+Light Company versus Valuer General (supra) at 137 and Sharp Corporation of
+Australia Pty Limited versus Collector of Customs [(1995) 59 FLR 6] and in particular the judgment of Hill J at 15-16.
+ It may be that others considering the evidence before the magistrate would have come to a different conclusion from that which the magistrate reached, but no appeal lies by way of stated case from a finding of fact.
+ Whether there is any evidence to support a finding of fact is a question of law: see McPhee versus S. Bennett Limited [(1932) 52 WN 8] at 9; Mersey
+Docks and Harbour Board versus West Derby Assessment Committee [(1932) 1 KB ] and
+Azzopardi versus Tasman UEB Industries Limited [(1985) 4 NSWLR 139] at 155.
+However once there is evidence, a finding that is against the weight of the evidence is not an error of law. Azzopardi involved an appeal from a decision of the Workers' Compensation Commission and no appeal was available from the Workers' Compensation Commission for error of fact. The situation was in this sense analogous to this appeal by way of stated case. In the course of his judgment in Azzopardi, with which judgment Samuels JA agreed, Glass JA said (at 155-156): "To say of a finding that it is perverse, that it is contrary to the overwhelming weight of the evidence, that it is against the evidence and the weight of the evidence, that it ignores the probative force of the evidence which is all one way or that no reasonable person could have made it, is to say the same thing in different ways. Upon proof that the finding of a jury is vitiated in this way, it will be set aside because it is wrong in fact. Since the Act does not allow this Court to correct errors of fact, any argument that the finding of a Workers' Compensation Commission judge is vitiated in the same way discloses no error of law and will not constitute a valid ground of appeal. It is also pointless to submit that the reasoning by which the court arrived at a finding of fact was demonstrably unsound as this would not amount to an error of law: R versus District Court of the Metropolitan District Holden at
+Sydney; Ex parte White <case>; [(1966) 116 CLR 644] at 654." It does not seem to me that it could be said in the present case that there was no evidence to support the relevant finding of the magistrate and these first grounds of appeal must fail.
+
+Ground (c): That the magistrate was in error in holding that the factual circumstances of the operation of the machine, as found by him, did not amount to `an unintended operation of the wager selected by the plaintiff' within the meaning of the term pleaded in paragraph 6(c) of the defence.
+ Mr Duane, who appeared for the respondent on this appeal, submitted that, contrary to para 3(a) of the stated case, it was not common ground that there was an implied term of the contract such as was there stated. This submission was maintained notwithstanding the filing of the amended stated case on 30
+August 1999. I have been troubled by that submission having regard to the form of the amended stated case. However, support of the "common ground" described in para 3 is not to be seen in the judgment to which ground (e), to which I shall shortly refer, invites attention and which judgment I have, in any event, been invited to consider. What the magistrate said in point at p 7 was: "At the close of evidence, it was submitted on behalf of the defendant that in electing to play the poker machine a contract arose between the plaintiff and the defendant. This does not appear to be disputed. It also seems undisputed that it was either an express or implied term, (I am of the view express, but it matters not) that in the event of a malfunction of the machine, then the defendant is under no obligation to pay any winnings registered on the machine as a result of such malfunction. Obviously much hinges on the factual finding as to whether a malfunction occurred." Mr Duane submitted that consideration of the pleadings and of the transcript of the proceedings before the magistrate made it clear that there was no common ground such as was stated in para 3(a) of the stated case.
+However those documents are not before this Court.
+ Ultimately though, I have decided that whether para 3(a) of the stated case is a correct expression of the position on the hearing in the Local Court or not does not determine the outcome of this appeal. Mr Duane submitted that the magistrate was entitled to treat the factual matrix relating to the word "malfunction" as being determinative of ground (c). This is because he was entitled to regard the words "or an unintended operation" as equating with "in other words, when the machine was not working as it should." I accept this submission. Whilst it is difficult to know precisely how the matter was conducted in the court below, support for Mr Duane's submission is to be found in what the magistrate said in the passage first cited from pp 7-8 of his judgment (para 7 above). There the magistrate specifically adverted, it would seem, to a submission made by the defendant that "malfunction encompasses an intended mechanical technical operation of a machine and software".
+ In any event, in seeking to determine whether the machine was operating in the manner intended involved the determination of a question of fact, and again I consider that it was open to the magistrate to find that the machine was operating in the manner intended. It may be that the machine did not employ the software as the designer of such intended that it be used but the magistrate was entitled to consider how the machine was made, as opposed to how the software designer may have intended that the software would be used.
+It was relevant for the magistrate to consider that the machine functioned in a predictable way. In my opinion, the finding under challenge was a finding of fact that cannot be disturbed and therefore ground (c) has not been established.
+
+Ground (d): That the magistrate was in error in apparently failing to consider the amended ground of defence pleaded in paragraph 6(c) of the defence, namely, `or an unintended operation of the wager selected by the plaintiff', or alternatively, he was in error in equating the meaning of those words with the meaning of `malfunction', and so failed to consider the amendment.
+
+Ground (e): That the magistrate erred (at page 8 of his Reasons) in not directing his mind to the amended ground of defence pleaded in Section 6(c) of the defence on the basis that this aspect of the defence was not elaborated on. The appellant contends that it was dealt with at some length in addresses.
+ These grounds overlap the one with the other, and both overlap with ground already considered.
+ For the reasons stated when addressing ground (c), I am not persuaded that the magistrate failed to consider the expanded form of para 6(c) of the defence. Rather, he seems to have considered the unintended operation as encompassed in the concept of malfunction and this he was apparently invited by the appellant to do. Once again, I refer here to what the magistrate recorded concerning the defence submission (see again para 7 where this is set out). In my opinion, neither ground (d) nor ground (e) has been established.
+ Before considering the grounds based upon the provisions of the [Registered Clubs
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/rca1976173/), it is convenient to record that the appellant did not pursue grounds (h), (i) or .
+
+Ground (f): That the magistrate erred in holding that the payment of these winnings would involve no breach of Section 82 of the [Registered Clubs Act 1976](http://www.austlii.edu.au/au/legis/nsw/consolact/rca1976173/).
+
+Ground (g) That the magistrate erred in holding that the operation of Sections 77, 77B, 78 and 82 of the [Registered Clubs Act 1976](http://www.austlii.edu.au/au/legis/nsw/consolact/rca1976173/) did not render it unlawful for the defendant to pay the plaintiff's claim.
+ It is convenient to deal with these two grounds together.
+ The statutory provisions identified in the expression of these grounds are to be found in [Part ](http://www.austlii.edu.au/au/legis/nsw/consolact/rca1976173/index.html#p10) of the [Registered Clubs
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/rca1976173/), 1976.
+The scheme of [Part ](http://www.austlii.edu.au/au/legis/nsw/consolact/rca1976173/index.html#p10) is to provide for control by the Liquor Administration Board of such poker machines as may be kept and operated on premises of a registered club.
+ Section 77 makes it lawful for a registered club to "keep and operate" an "authorised" poker machine on its premises and to pay prizes won in the operation of such a machine.
+ To ascertain what is an "authorised" poker machine takes one to a consideration of the following sections in [Part .](http://www.austlii.edu.au/au/legis/nsw/consolact/rca1976173/index.html#p10) Section 77A provides for the making of an application to the Board for a declaration that a machine is an "approved" poker machine and the Board may declare it to be such following due investigation (s 77B).
+ Section 77C provides for procedural requirements to be followed before the
+Board either refuses an application for a declaration of a machine as an approved one or revokes an existing declaration. It is unnecessary to refer to this provision in any detail for present purposes.
+ Section 78 makes it an offence for a club to keep a poker machine if it is not an authorised poker machine, or to keep an authorised poker machine without complying with conditions imposed by the Board in relation to the keeping of it. An authorised poker machine is defined by [s ](http://www.austlii.edu.au/au/legis/nsw/consolact/rca1976173/s4.html) as being a poker machine authorised under <case>.
+ Section 79 provides for the manner of making an application to the Board for authority to acquire and keep or to dispose of an approved poker machine.
+It is <case> which makes provision for the Board to authorise a registered club to acquire and keep or dispose of an "approved" poker machine. An "approved" poker machine is one declared to be such under <case> (see para 25 above).
+ It is in the setting of the above provisions that <case> is to be found: "(1) A registered club is guilty of an offence if a poker machine available for use on the club premises fails to function in the manner in which it was designed and programmed to function.
+
+Maximum penalty: 100 penalty units.
+
+It is a defence to a prosecution for an offence under subsection (1) if it is proved: that the operation of the poker machine was for testing or maintenance purposes, or that the secretary or other person for the time being in charge of the club: had taken all reasonable precautions to ensure that the poker machine was functioning properly, and at the time of the alleged offence did not know, and could not reasonably be expected to have known, that the poker machine was not functioning properly." It was submitted that although conditional approval had been granted by the
+Board to the keeping and operation of the machine in question, the machine in the manner of payment on the operation of button 7 was not paying in accordance with the terms of the conditional approval granted by the Board under [Part .](http://www.austlii.edu.au/au/legis/nsw/consolact/rca1976173/index.html#p10)
+Hence, it was submitted, that the appellant in operating this machine was offending against ss 78 and 82 of the [Registered Clubs
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/rca1976173/).
+ Reference has been made in the written submissions to certain of the evidence given in this case before the magistrate but the transcript of evidence forms no part of the stated case. The letter of approval dealing inter alia with the "Have-a-Heart" machine the object of this appeal, informed the recipient of the grant of conditional approval. So far as is relevant this letter, which was an exhibit before the magistrate, reads: "The following poker machines have received conditional approval for the NSW jurisdiction: ........
+
+HAVE A HEART: rev H7, video, tokenised, multiplier/multiliner 
+Spec.no. (new): 21-55360 
+Spec. no. (rebuild) 21-55361 
+Max Bet: 35 credits 
+Credit value: 5c, 10c, 20c 
+Games EPROMS: Variations CHECKSUM 
+V99 9.37% 51AD39DA 14.53% 01249CB9 11.86% BBFB2FBA 5.39% ICDOOFC5 
+Please note that this approval is conditional on the following: - The machines will be fully evaluated at the earliest opportunity and at your company's expense and you are required to submit all materials needed to perform the evaluation and pay the fee due on completion.
+ - In the event that the evaluation leads to changes to, or modification of, any part of the machines, whether hardware or software, your company will retrofit any machines already installed at no cost to any other party.
+ - If ALL of the material needed to carry out a full evaluation has not been supplied by you within two months from our request for that material, this approval will be revoked automatically and all machines already installed in the field will need to be replaced.
+ - If a retrofit of machines already installed in the field is required, this approval will be revoked automatically if, in the opinion of the Board, that retrofit has not been FULLY AND ACCEPTABLY carried out by the date specified at the time the requirement to retrofit is communicated to you.
+
+Conditional evaluation charge: $1,495 
+Please pay within 30 days and identify your remittance by reference to the subject and date of this letter." Without some explanation of the content, it is not clear that for the machine to react as it apparently did to the use of button 7 was contrary to the terms of the authorisation, although in the amended stated case this is expressed as a fact found: see para 2(g).
+ Assuming that the machine functioned in a manner contrary to the terms of the authorisation, it does not follow that there was a breach of <case>.
+ It is well settled that there is a presumption against illegality: see
+Chitty on Contracts (27th ed) at 16-173; Hire Purchase Furnishing Company v
+Richens [(1888) 20 QBD 387]; Macleod versus Carter <case>; [(1938) VLR 344] and Burns versus Joseph [(1969) QSR 130.] A party which alleges the illegality of a contract bears the burden of proving this fact. In the words of Bowen LJ in Hire Purchase Furnishing Company versus Richens at 389: "There is a broad principle that where a defendant is attempting to set aside a transaction for illegality, and the facts connected with it are equally consistent with the transaction being legal or illegal, it lies on the defendant to prove the illegality. The law presumes against illegality. The principle is...that no person shall in the absence of criminative proof be supposed to have committed any violation of the criminal law, whether malum in se or malum prohibitum, and that this presumption holds in all civil and other proceedings for whatever purpose originated, and whether the guilt of the party comes in question directly or co-laterally..." The magistrate made no finding that the secretary of the appellant had failed to take the precautions contemplated by <case>(b)(i), nor did he make any finding adverse to the secretary as to his knowledge, for the purposes of s 82(2)(b)(ii). The amended stated case does express a finding attributed to the magistrate, although I have seen no reference to this in his reasons for judgment, that the appellant "was unaware that the operation of the seven button provided a one in two chance" of paying as it did (see para 2(g) of the stated case).
+ I am not satisfied on such findings as were made by the magistrate that any offence under <case> was proved and it follows from this that ground (f) has not been established. The earlier offence provided for in [Part ](http://www.austlii.edu.au/au/legis/nsw/consolact/rca1976173/index.html#p10) upon which the appellant's submissions focus is <case>. The section is in these terms: "A registered club shall not: keep a poker machine that is not an authorised poker machine, keep an authorised poker machine without complying with any conditions imposed by the Board in relation to the keeping of the machine; acquire a poker machine without the authority of the Board or without complying with any conditions imposed by the Board in relation to the acquisition of the poker machine, or dispose of a poker machine without the authority of the Board or without complying with any conditions imposed by the Board in relation to the disposal of the poker machine." It is to observed that <case> is concerned with the functioning of the machine when available for use. Section 78 on the other hand is concerned with the keeping, acquisition and disposal of unauthorised machines or machines which do not comply with conditions imposed by the Board. The transactions between the appellant and the respondent involved the functioning of the machine when available for use, and thus invited particular attention to <case>.
+If there was no breach of <case> established, making it unlawful under that section to pay the respondent's claim, in my opinion <case> did not render it unlawful for the appellant to pay the respondent's claim.
+ In any event it does not seem to have been determined as a matter of fact that this machine was not "an authorised poker machine" for the purposes of s 78. Exhibit 7 does establish that conditional approval was granted in relation to this machine and the magistrate has made no finding that the Board had acted to revoke any existing declaration under <case>(c).
+ The illegality of the agreement pursuant to which the respondent played this poker machine was a matter that had to be proved by the appellant. What was proved about the machine was that there was a conditional approval granted concerning it. What was not proved was any breach of either <case> or <case>.
+ In my opinion neither ground (f) nor ground (g) has been established.
+ Mr Alkadamani of counsel in the course of his very thorough and thoughtful submissions invited this Court to uphold the defence of illegality on the basis that the operation of the machine involved an offence under <case> of the
+Gaming and [Betting
+Act](http://www.austlii.edu.au/au/legis/nt/consolact/ba91/) 1912. Section
+A(1) makes it an offence for a person who has the possession, control or management of an amusement device to pay any money in relation to another person's use or operation of such device or to offer to pay any money for such use. It is not an offence under <case> however for a person to lawfully use or lawfully operate "a poker machine within the meaning of the [Registered Clubs
+Act 1976](http://www.austlii.edu.au/au/legis/nsw/consolact/rca1976173/)": see <case>(b)(i). It was submitted that <case>(b)(i) was not enlivened because this poker machine was not being used or operated lawfully.
+ Mr Alkadamani submitted that it was proper for this Court to uphold the appeal because of the provisions of <case> of the Gaming and [Betting
+Act](http://www.austlii.edu.au/au/legis/nt/consolact/ba91/) notwithstanding the fact that a defence relying upon that provision had not been pleaded in the Local Court and no argument was addressed to the magistrate on the point.
+Mr Alkadamani relied upon the decision of Yeldham J in Galletta versus Walter [(1977) 1 NSWLR 1] where his Honour, in dealing with a stated case under [s ](http://www.austlii.edu.au/au/legis/nt/consolact/ba91/s101.html) in its previous form, determined that this court had power to permit an applicant for a stated case at any time to argue grounds not taken in the original application before the magistrate. [Section ](http://www.austlii.edu.au/au/legis/nt/consolact/ba91/s101.html) has been amended since the decision in Galletta but for present purposes the amendments to [s ](http://www.austlii.edu.au/au/legis/nt/consolact/ba91/s101.html), effective from 1 March 1999, have no application.
+ In Galletta Yeldham J said that the court's power to allow a ground to be argued which was not argued below "would normally be sparingly exercised".
+With that observation I respectfully agree.
+ Mr Alkadamani submitted that the factual issues that arise in considering the effect of <case> of the Gaming and [Betting
+Act](http://www.austlii.edu.au/au/legis/nt/consolact/ba91/) are factual issues that did arise on the grounds argued before the magistrate. He submitted that there is no new or different factual inquiry from that which related to the provisions of [Part ](http://www.austlii.edu.au/au/legis/nt/consolact/ba91/index.html#p10) of the [Registered Clubs
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/rca1976173/). Mr
+Duane, however, submitted to the contrary. He submitted that had the appellant pleaded reliance in the Local Court upon <case>, it would have been relevant for the respondent to have elicited further evidence about the conditional approval referred to in the letter exhibited from the Liquor Administration
+Board. He submitted that further evidence could have been obtained as to what were the requirements, if any, imposed by the Board as to maximum percentage pay outs on the machine and whether the Board in controlling the pay outs was concerned only to control the upper limit of profit to the club from the use of the machine. Furthermore, it would have been relevant to address the yield on other combinations of the machine in determining whether there was ultimately any departure from the terms of the conditional approval.
+ It seems to me that there is some merit in Mr Duane's submission although I would have thought that it would have been factually relevant to address those same considerations when addressing the provisions of [Part ](http://www.austlii.edu.au/au/legis/nsw/consolact/rca1976173/index.html#p10) of the [Registered Clubs
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/rca1976173/). The shortcomings of the evidence concerning the interpretation and significance of the letter of conditional approval are shortcomings to which I referred earlier when looking at the requirements of [Part .](http://www.austlii.edu.au/au/legis/nsw/consolact/rca1976173/index.html#p10)
+Once again, the appellant would carry the onus of proving the commission of an offence under <case> of the Gaming and [Betting
+Act](http://www.austlii.edu.au/au/legis/nt/consolact/ba91/) and this it could not do without first proving the unlawful use or the unlawful operation of a poker machine within the meaning of the [Registered Clubs
+Act](http://www.austlii.edu.au/au/legis/nsw/consolact/rca1976173/).
+ The magistrate made no finding that there was an unlawful use or an unlawful operation of a poker machine within the meaning of the [Registered
+Clubs Act](http://www.austlii.edu.au/au/legis/nsw/consolact/rca1976173/) and I am not persuaded, for reasons earlier stated, that he was in error in failing to make such a finding.
+ It follows that the facts as found in the court below do not compel a finding of an offence under <case>. However, because the point was not taken below and because of the unsatisfactory nature of the evidence concerning the definition of the conditions of approval of Exhibit 7, I do not consider that the appellant ought be allowed to rely upon <case> of the Gaming and [Betting
+Act](http://www.austlii.edu.au/au/legis/nt/consolact/ba91/) to support an additional discrete ground of appeal.
+ For the various reasons I have expressed, I conclude that the question posed in the stated case should be answered in the negative.
+ I order the appellant to pay the respondent's costs of the proceedings in this Court.
+ 
+LAST UPDATED: 03/05/2000 * * * 
