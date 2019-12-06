@@ -7,8 +7,8 @@
 There are 3 training data sets, and the differences are data size and content. “**NSWSC_txt**” and “**simple**” are law cases, while “**dataset**” is some articles of different topics, such as “environment” and “tech”. The smallest one is called “**dataset**”, and then is “**simple**”, and the largest one is called “**NSWSC_txt**”. The “dataset” only requires several minutes of training time, but “**NSWSC_txt**” requires several hours of training time. Once trained, the program would run very fast. The way to change dataset is located in “setting.py” file. Just change the global “database” variable to any of those 3.
 
 ## Search Method
-The search method is to use “python3.6” to call “search.py” file with 2 arguments. The first one is the search query and the second one is the max number if file required. For example: 
-![Search Example](./search pattern.jpg)
+The search method is to use “python3.6” to call “search.py” file with 2 arguments. The first one is the search query and the second one is the max number if file required. For example:  
+![Search Example](https://github.com/Wanghongkua/Research/blob/master/search%20pattern.jpg)  
 This would search “food poisoning from KFC” in all files and the number of file returned would be 20.
 
 ## Result Format
