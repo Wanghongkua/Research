@@ -8,7 +8,7 @@ There are 3 training data sets, and the differences are data size and content. �
 
 ## Search Method
 The search method is to use “python3.6” to call “search.py” file with 2 arguments. The first one is the search query and the second one is the max number if file required. For example:  
-![Search Example](https://github.com/Wanghongkua/Research/blob/master/search%20pattern.jpg)  
+![Search Example](https://github.com/Wanghongkua/Research/blob/master/source/search%20pattern.jpg)  
 This would search “food poisoning from KFC” in all files and the number of file returned would be 20.
 
 ## Result Format
@@ -17,10 +17,15 @@ The result is simply the file name and similarity to the search query. The more 
 ## Result Presentation
 There are 4 examples in my PPT.
 
-For the first one, I just copied and pasted an entire large paragraph of a file, so it should list only that file.
+For the first one, I just copied and pasted an entire large paragraph of a file, so it should list only that file.  
+![Query 1](https://github.com/Wanghongkua/Research/blob/master/source/query1.png)  
 
-The second one is a small part of a file.
+The second one is a small part of a file.  
+![Query 2](https://github.com/Wanghongkua/Research/blob/master/source/query2.png)
 
 The third one is the most interesting one. The search query is “food poisoning from KFC”, but the 4th result showing does not contain the word food. It does have chicken in the file. In this case it shows that the program can perform concept search.
+![Query 3](https://github.com/Wanghongkua/Research/blob/master/source/query3.png)
+![Query 3 illustration](https://github.com/Wanghongkua/Research/blob/master/source/query3%20illustration.png)
 
 The forth one is similar to the third one.
+![Query 4](https://github.com/Wanghongkua/Research/blob/master/source/query4.png)
